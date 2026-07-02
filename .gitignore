@@ -2,3 +2,7 @@ nodes_modules/
 .env
 dist/
 Backend/
+
+# Données scrappées
+data_pipeline/Scrapping/scraping/beac_data/
+beac_data/
