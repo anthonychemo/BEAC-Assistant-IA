@@ -21,22 +21,33 @@ Tu reponds aux questions des utilisateurs en te basant sur les informations extr
 - Longueur : concise
 """
 
+META_RESPONSE = """Je suis BEAC Assistant, un assistant specialise sur les donnees officielles de la Banque des Etats de l'Afrique Centrale (BEAC).
+
+Je peux vous renseigner sur :
+- Les statistiques economiques et monetaires (taux directeur, masse monetaire, reserves, inflation) par pays de la zone CEMAC
+- Les publications et decisions de politique monetaire de la BEAC
+- Les donnees par pays (Cameroun, Congo, Gabon, Tchad, Centrafrique, Guinee Equatoriale) et par annee
+- Des questions generales sur le fonctionnement et les missions de la BEAC
+
+Posez-moi une question precise (ex : "Quel est le taux d'inflation au Cameroun en 2024 ?") ou plus large (ex : "Parle-moi de la politique monetaire de la BEAC")."""
+
 RAG_PROMPT = """Contexte documentaire :
 {context}
 
 Question : {question}
 
 Consignes :
-- Reponds UNIQUEMENT a partir du contexte ci-dessus.
+- Reponds a partir du contexte ci-dessus.
 - Si le contexte mentionne directement la reponse, donne-la clairement.
 - Si le contexte contient des informations partielles ou indirectes liees a la question, utilise-les.
+- Organise ta reponse par theme si pertinent (contexte, chiffres cles, evolution).
+- Si le contexte contient des chiffres pertinents, indique-les avec leur unite et periode.
 - Si le contexte ne contient aucune information pertinente, dis : "Je ne dispose pas d'informations suffisantes pour repondre a cette question."
 - Ne fais pas d'introduction, ne reformule pas la question.
 - Ne liste pas les sources dans ta reponse.
 
 Reponse :"""
 
-# Prompt pour la generation de requete SQL sur la table `statistics`
 SQL_SYSTEM_PROMPT = (
     "Tu es un assistant qui traduit une question en UNE requete SQL PostgreSQL valide. "
     "Tu n'expliques rien, tu retournes UNIQUEMENT la requete SQL."
@@ -45,10 +56,10 @@ SQL_SYSTEM_PROMPT = (
 SQL_SCHEMA_DESCRIPTION = """Table disponible :
 statistics(
     id BIGINT,
-    indicator TEXT,      -- libelle de l'indicateur (ex: 'Masse monetaire M2')
-    country TEXT,         -- pays CEMAC: Cameroun, Congo, Gabon, Tchad, Centrafrique, Guinee Equatoriale
-    period TEXT,          -- periode brute (ex: '2023', 'janv-2023', 'T1 2023')
-    year INTEGER,         -- annee extraite
+    indicator TEXT,
+    country TEXT,
+    period TEXT,
+    year INTEGER,
     value DOUBLE PRECISION,
     unit TEXT,
     source_sheet TEXT
@@ -67,7 +78,7 @@ Question : {question}
 Requete SQL :"""
 
 
-def build_rag_prompt(question: str, context: str) -> str:
+def build_rag_prompt(question: str, context: str, exploratory: bool = False) -> str:
     return RAG_PROMPT.format(context=context, question=question)
 
 

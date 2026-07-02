@@ -7,6 +7,20 @@ from typing import Any
 
 from unidecode import unidecode
 
+_BEAC_BASE_URL = "https://www.beac.int"
+
+# Mapping des catégories locales vers les sections du site beac.int
+# À adapter selon votre arborescence réelle de beac_data/
+_CATEGORY_URL_MAP: dict[str, str] = {
+    "Publications": "/publications",
+    "Politique_monetaire": "/politique-monetaire",
+    "Statistiques": "/statistiques",
+    "Recrutement": "/recrutement",
+    "Gouvernance": "/gouvernance",
+    "Textes_reglementaires": "/textes-reglementaires",
+    # Ajouter toutes les catégories de votre arborescence
+}
+
 # Pays de la zone CEMAC + variantes
 _COUNTRY_PATTERNS: dict[str, list[str]] = {
     "Cameroun": ["cameroun", "cameroon"],
@@ -68,3 +82,12 @@ def extract_metadata_from_path(file_path: Path, raw_root: Path) -> dict[str, Any
         "year": year,
         "relative_path": str(rel).replace("\\", "/"),
     }
+
+def build_source_url(category: str | None, filename: str) -> str | None:
+    """Construit l'URL beac.int la plus probable pour un document."""
+    if not category:
+        return _BEAC_BASE_URL
+    section = _CATEGORY_URL_MAP.get(category)
+    if not section:
+        return _BEAC_BASE_URL
+    return f"{_BEAC_BASE_URL}{section}/"

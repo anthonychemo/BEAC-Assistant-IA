@@ -13,6 +13,7 @@ class SourceItem(BaseModel):
     category: str | None = None
     year: int | None = None
     score: float | None = None
+    source_url: str | None = None 
     image_paths: list[str] | None = None
 
 

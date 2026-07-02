@@ -148,6 +148,12 @@ def get_documents(
     return {"total": total, "documents": result}
 
 
+@app.post("/cache/clear")
+def clear_cache():
+    get_cache().invalidate()
+    return {"status": "cache vidé"}
+
+
 @app.get("/health", response_model=HealthResponse)
 def health() -> HealthResponse:
     with session_scope() as session:

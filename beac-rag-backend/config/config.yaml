@@ -30,17 +30,11 @@ vector_store:
   hnsw_ef_construction: 64
   distance: "cosine"
 
-# ---- Retrieval ----
-# top_k reduit 8->5 : moins de chunks = embedding query + reranking plus rapide
 retrieval:
   top_k: 7
   sql_max_rows: 20
   min_similarity: 0.35
 
-# ---- LLM ----
-# num_ctx 4096->2048 : divise la RAM utilisee et accelere de ~30%
-# max_tokens 1024->512 : reponses plus courtes, 2x plus rapides
-# num_thread 8 : utilise tous les coeurs logiques disponibles
 llm:
   provider: "ollama"
   model: "llama3.1:8b-instruct-q4_K_M"
