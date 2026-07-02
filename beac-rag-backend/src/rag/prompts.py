@@ -20,18 +20,37 @@ Tu réponds aux questions des utilisateurs en te basant UNIQUEMENT sur les infor
 - Longueur : concise — évite le remplissage inutile
 """
 
+
+
+META_RESPONSE = """Je suis BEAC Assistant, un assistant spécialisé sur les données officielles de la Banque des États de l'Afrique Centrale (BEAC).
+
+Je peux vous renseigner sur :
+- Les statistiques économiques et monétaires (taux directeur, masse monétaire, réserves, inflation) par pays de la zone CEMAC
+- Les publications et décisions de politique monétaire de la BEAC
+- Les données par pays (Cameroun, Congo, Gabon, Tchad, Centrafrique, Guinée Équatoriale) et par année
+- Des questions générales sur le fonctionnement et les missions de la BEAC
+
+Posez-moi une question précise (ex : "Quel est le taux d'inflation au Cameroun en 2024 ?") ou plus large (ex : "Parle-moi de la politique monétaire de la BEAC")."""
+
+
+
+
+
 RAG_PROMPT = """Contexte documentaire :
 {context}
 
 Question : {question}
 
 Consignes :
-- Réponds UNIQUEMENT à partir du contexte ci-dessus.
-- Commence par la réponse directe et concise à la question.
+- Fais une synthèse structurée à partir des informations disponibles dans le contexte.
+- Organise ta réponse par thème ou par aspect si pertinent (ex: contexte, chiffres clés, évolution).
+- Reste fidèle au contexte fourni, sans extrapoler au-delà.
 - Si le contexte contient des chiffres pertinents, indique-les avec leur unité et période.
 - Si tu ne trouves pas la réponse dans le contexte, dis exactement : "Je ne dispose pas d'informations suffisantes pour répondre à cette question."
 - Ne fais pas d'introduction, ne reformule pas la question, n'ajoute pas d'informations absentes du contexte.
-- Enfin, liste les sources utilisées (documents et années) et ajoute le lien officiel : https://www.beac.int
+# - Enfin, liste les sources utilisées (documents et années) et ajoute le lien officiel : https://www.beac.int
+- Liste les sources en fin de réponse avec leur lien URL exact tel qu'indiqué dans le contexte.
+
 
 Réponse :"""
 
@@ -66,9 +85,9 @@ Question : {question}
 Requete SQL :"""
 
 
-def build_rag_prompt(question: str, context: str) -> str:
+def build_rag_prompt(question: str, context: str, exploratory: bool = False) -> str:
+    # Pour l'instant, utilise le même template pour exploratory et standard
     return RAG_PROMPT.format(context=context, question=question)
-
 
 def build_sql_prompt(question: str, max_rows: int) -> str:
     schema = SQL_SCHEMA_DESCRIPTION.format(max_rows=max_rows)

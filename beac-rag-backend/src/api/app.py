@@ -32,13 +32,6 @@ from src.utils.logger import logger
 from src.rag.cache import get_cache
 
 
-
-
-@app.post("/cache/clear")
-def clear_cache():
-    get_cache().invalidate()
-    return {"status": "cache vidé"}
-
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     # Prechauffe le LLM au demarrage de l'API (latence reduite en demo)
@@ -66,6 +59,12 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+@app.post("/cache/clear")
+def clear_cache():
+    get_cache().invalidate()
+    return {"status": "cache vidé"}
 
 
 @app.get("/health", response_model=HealthResponse)

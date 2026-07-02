@@ -55,7 +55,7 @@ def _df_to_markdown(df: pd.DataFrame, sheet_name: str, max_rows: int = 40) -> st
     truncated = clean.head(max_rows)
     lines = [f"### Feuille : {sheet_name}"]
     for _, row in truncated.iterrows():
-        cells = [str(c) for c in row.tolist() if pd.notna(c)]
+        cells = [str(c).replace("\x00", " ").replace("\x07", " ") for c in row.tolist() if pd.notna(c)]
         if cells:
             lines.append(" | ".join(cells))
     if len(clean) > max_rows:

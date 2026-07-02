@@ -17,6 +17,9 @@ from pathlib import Path
 
 import fitz  # PyMuPDF
 import pytesseract
+
+# Désactive les logs MuPDF pour éviter l'affichage des erreurs de PDF corrompus
+fitz.TOOLS.mupdf_warnings(False)
 from pdf2image import convert_from_path, pdfinfo_from_path
 from PIL import Image
 
@@ -64,7 +67,10 @@ def _extract_native(path: Path) -> tuple[str, int]:
         with fitz.open(path) as doc:
             page_count = doc.page_count
             for page in doc:
-                texts.append(page.get_text("text"))
+                text = page.get_text("text")
+                # Nettoyage des caracteres de controle invalides pour PostgreSQL
+                text = text.replace("\x00", " ").replace("\x07", " ")
+                texts.append(text)
         return "\n".join(texts).strip(), page_count
     except Exception as exc:
         logger.error(f"PDF corrompu ou illisible ({path.name}): {exc}")
@@ -91,7 +97,10 @@ def _ocr_single_page(args: tuple[str, int, str, int, str]) -> str:
     texts: list[str] = []
     for image in images:
         try:
-            texts.append(pytesseract.image_to_string(image, lang=ocr_langs))
+            text = pytesseract.image_to_string(image, lang=ocr_langs)
+            # Nettoyage des caracteres de controle invalides pour PostgreSQL
+            text = text.replace("\x00", " ").replace("\x07", " ")
+            texts.append(text)
         except Exception:
             pass
         finally:

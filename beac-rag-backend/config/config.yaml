@@ -46,7 +46,7 @@ vector_store:
 retrieval:
   top_k: 8              # chunks vectoriels retournes
   sql_max_rows: 50       # lignes max d'une requete SQL stats
-  min_similarity: 0.35    # seuil de pertinence
+  min_similarity: 0.45    # seuil de pertinence
 
 # ---- LLM ----
 llm:

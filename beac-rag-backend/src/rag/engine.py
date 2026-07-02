@@ -11,6 +11,9 @@ from src.rag.retriever import ContextItem, format_context, retrieve_context
 from src.rag.sql_generator import format_sql_context, run_statistics_query
 from src.utils.logger import logger
 from src.rag.cache import get_cache
+from src.rag.prompts import META_RESPONSE
+
+
 
 @dataclass
 class RAGResponse:
@@ -21,30 +24,51 @@ class RAGResponse:
     context_used: str = ""
 
 
-def _build_context(question: str) -> tuple[str, list[ContextItem], str | None, str]:
-    """Construit le contexte selon le type de question. Retourne
-    (contexte_texte, items_vectoriels, sql_execute, query_type)."""
+def answer_question(question: str) -> RAGResponse:
     routed = classify_query(question)
-    logger.info(f"Question routee : {routed.query_type} | filtres={routed.filters}")
+
+    if routed.query_type == QueryType.META:
+        return RAGResponse(
+            answer=META_RESPONSE,
+            query_type=QueryType.META.value,
+            sources=[],
+            sql=None,
+            context_used="",
+        )
+    context, vector_items, sql_used, qtype = _build_context(question)
+    prompt = build_rag_prompt(question, context, exploratory=routed.exploratory)
+    answer = get_llm().generate(prompt, system=SYSTEM_PROMPT)
+    sources = _sources_from_items(vector_items)
+    return RAGResponse(
+        answer=answer,
+        query_type=qtype,
+        sources=sources,
+        sql=sql_used,
+        context_used=context,
+    )
+
+
+def _build_context(question: str) -> tuple[str, list[ContextItem], str | None, str]:
+    routed = classify_query(question)
+    logger.info(f"Question routée : {routed.query_type} | exploratoire={routed.exploratory} | filtres={routed.filters}")
 
     context_parts: list[str] = []
     vector_items: list[ContextItem] = []
     sql_used: str | None = None
 
-    # Partie SQL (donnees chiffrees)
     if routed.query_type in (QueryType.SQL, QueryType.HYBRID):
         sql_result = run_statistics_query(question)
         sql_used = sql_result.sql
         context_parts.append(format_sql_context(sql_result))
 
-    # Partie vectorielle (texte narratif)
     if routed.query_type in (QueryType.VECTOR, QueryType.HYBRID):
-        vector_items = retrieve_context(question, filters=routed.filters)
+        # Plus de contexte pour les questions larges
+        top_k = 12 if routed.exploratory else None
+        vector_items = retrieve_context(question, top_k=top_k, filters=routed.filters)
         context_parts.append(format_context(vector_items))
 
     context = "\n\n".join(p for p in context_parts if p)
     return context, vector_items, sql_used, routed.query_type.value
-
 
 def _sources_from_items(items: list[ContextItem]) -> list[dict]:
     seen = set()

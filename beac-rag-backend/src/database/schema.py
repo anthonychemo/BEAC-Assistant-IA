@@ -55,6 +55,8 @@ class Document(Base):
     doc_metadata: Mapped[dict | None] = mapped_column(JSONB, nullable=True)
     created_at: Mapped[datetime] = mapped_column(DateTime, server_default=func.now())
 
+    source_url: Mapped[str | None] = mapped_column(Text, nullable=True)
+
     chunks: Mapped[list["Chunk"]] = relationship(
         back_populates="document", cascade="all, delete-orphan"
     )

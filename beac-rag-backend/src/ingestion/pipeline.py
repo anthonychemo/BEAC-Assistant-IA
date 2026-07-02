@@ -80,6 +80,7 @@ def _create_document(session, file_path: Path, meta: dict, file_type: str,
         page_count=page_count,
         char_count=char_count,
         doc_metadata=meta,
+        source_url=build_source_url(meta.get("category"), file_path.name),
     )
     session.add(doc)
     session.flush()  # pour obtenir doc.id
