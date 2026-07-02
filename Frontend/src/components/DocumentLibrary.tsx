@@ -1,7 +1,9 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import { Document, DocumentType } from "../types";
-import { Search, SearchCode, Eye, FileText, Upload, Sparkles, Filter, Database, CheckSquare, Square, Trash } from "lucide-react";
+import { Search, SearchCode, Eye, FileText, Upload, Sparkles, Filter, Database, CheckSquare, Square, ChevronLeft, ChevronRight as ChevronRightIcon, Loader2 } from "lucide-react";
 import { motion } from "motion/react";
+
+const PAGE_SIZE = 50;
 
 interface DocumentLibraryProps {
   documents: Document[];
@@ -12,7 +14,6 @@ interface DocumentLibraryProps {
 }
 
 export default function DocumentLibrary({
-  documents,
   onUploadDocument,
   onAskDocInChat,
   preSelectedType,
@@ -24,20 +25,68 @@ export default function DocumentLibrary({
   const [isDragging, setIsDragging] = useState(false);
   const [uploadStatus, setUploadStatus] = useState<string>("");
 
+  // Pagination & data
+  const [documents, setDocuments] = useState<Document[]>([]);
+  const [total, setTotal] = useState(0);
+  const [page, setPage] = useState(0);
+  const [loading, setLoading] = useState(false);
+
+  const fetchDocuments = useCallback(async (p: number, type: string, sections: string[], q: string) => {
+    setLoading(true);
+    const params = new URLSearchParams({
+      limit: String(PAGE_SIZE),
+      offset: String(p * PAGE_SIZE),
+    });
+    if (q) params.set("search", q);
+    if (type !== "Tous") params.set("doc_type", type);
+    try {
+      const res = await fetch(`/api/documents?${params}`);
+      if (!res.ok) return;
+      const data = await res.json();
+      setDocuments(data.documents ?? []);
+      setTotal(data.total ?? 0);
+    } catch {
+      // backend indisponible
+    } finally {
+      setLoading(false);
+    }
+  }, []);
+
+  // Charger quand les filtres ou la page changent
+  useEffect(() => {
+    fetchDocuments(page, selectedType, selectedSections, search);
+  }, [page, selectedType, selectedSections, fetchDocuments]);
+
+  // Recherche avec debounce
+  useEffect(() => {
+    const t = setTimeout(() => {
+      setPage(0);
+      fetchDocuments(0, selectedType, selectedSections, search);
+    }, 400);
+    return () => clearTimeout(t);
+  }, [search]);
+
   useEffect(() => {
     if (preSelectedType) {
       setSelectedType(preSelectedType);
-      // reset so we don't sticky-lock it forever
+      setPage(0);
       setPreSelectedType(null);
     }
   }, [preSelectedType, setPreSelectedType]);
 
+  const totalPages = Math.ceil(total / PAGE_SIZE);
+
   const toggleSection = (section: string) => {
-    if (selectedSections.includes(section)) {
-      setSelectedSections(selectedSections.filter((s) => s !== section));
-    } else {
-      setSelectedSections([...selectedSections, section]);
-    }
+    const next = selectedSections.includes(section)
+      ? selectedSections.filter((s) => s !== section)
+      : [...selectedSections, section];
+    setSelectedSections(next);
+    setPage(0);
+  };
+
+  const handleTypeChange = (type: string) => {
+    setSelectedType(type);
+    setPage(0);
   };
 
   const handleDragOver = (e: React.DragEvent) => {
@@ -87,19 +136,7 @@ export default function DocumentLibrary({
     }
   };
 
-  // Filter logic
-  const filteredDocs = documents.filter((doc) => {
-    const matchesSearch = doc.title.toLowerCase().includes(search.toLowerCase()) || 
-                          doc.description.toLowerCase().includes(search.toLowerCase());
-    
-    const matchesType = selectedType === "Tous" || doc.type === selectedType;
-
-    const matchesSection = selectedSections.length === 0 || selectedSections.includes(doc.section);
-
-    return matchesSearch && matchesType && matchesSection;
-  });
-
-  const docTypes: ("Tous" | DocumentType)[] = ["Tous", "Rapports", "Bulletins", "Working Papers", "Communiqués", "Réglementation"];
+  const docTypes: ("Tous" | DocumentType)[] = ["Tous", "Rapports", "Bulletins", "Working Papers", "Communiques", "Reglementation"];
   const docSections = ["Politique Monétaire", "Stabilité Financière", "Études Statistiques"];
 
   return (
@@ -141,7 +178,7 @@ export default function DocumentLibrary({
                 {docTypes.map((type) => (
                   <button
                     key={type}
-                    onClick={() => setSelectedType(type)}
+                    onClick={() => handleTypeChange(type)}
                     className={`text-xs font-semibold px-4 py-2 rounded-full transition-all cursor-pointer ${
                       selectedType === type
                         ? "bg-[#0D2D5E] text-white"
@@ -157,14 +194,18 @@ export default function DocumentLibrary({
             {/* Document Count Header */}
             <div className="flex justify-between items-center px-1">
               <span className="text-xs font-bold text-black/60 font-mono">
-                {filteredDocs.length} DOCUMENT(S) TROUVÉ(S)
+                {loading ? "Chargement..." : `${total} DOCUMENT(S) — PAGE ${page + 1}/${totalPages || 1}`}
               </span>
             </div>
 
             {/* Document List */}
-            {filteredDocs.length > 0 ? (
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                {filteredDocs.map((doc) => (
+            {loading ? (
+              <div className="flex items-center justify-center py-24">
+                <Loader2 className="w-8 h-8 animate-spin text-[#C8971A]" />
+              </div>
+            ) : documents.length > 0 ? (
+              <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
+                {documents.map((doc) => (
                   <div
                     key={doc.id}
                     className="bg-white p-6 border border-[#c4c6d0]/40 rounded-xl hover:border-[#C8971A] transition-all duration-200 shadow-sm flex flex-col justify-between"
@@ -230,6 +271,29 @@ export default function DocumentLibrary({
                 <p className="text-xs text-gray-500 max-w-sm mx-auto">
                   Essayez d'ajuster vos critères de tri, de modifier le texte recherché ou d'ajouter une nouvelle directive monétaire.
                 </p>
+              </div>
+            )}
+
+            {/* Pagination */}
+            {!loading && totalPages > 1 && (
+              <div className="flex items-center justify-center gap-3 pt-2">
+                <button
+                  onClick={() => setPage((p) => Math.max(0, p - 1))}
+                  disabled={page === 0}
+                  className="p-2 rounded-lg border border-gray-200 hover:border-[#C8971A] disabled:opacity-30 disabled:cursor-not-allowed transition-all cursor-pointer"
+                >
+                  <ChevronLeft className="w-4 h-4 text-[#0D2D5E]" />
+                </button>
+                <span className="text-xs font-bold text-[#0D2D5E] font-mono">
+                  {page + 1} / {totalPages}
+                </span>
+                <button
+                  onClick={() => setPage((p) => Math.min(totalPages - 1, p + 1))}
+                  disabled={page >= totalPages - 1}
+                  className="p-2 rounded-lg border border-gray-200 hover:border-[#C8971A] disabled:opacity-30 disabled:cursor-not-allowed transition-all cursor-pointer"
+                >
+                  <ChevronRightIcon className="w-4 h-4 text-[#0D2D5E]" />
+                </button>
               </div>
             )}
           </div>

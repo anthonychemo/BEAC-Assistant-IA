@@ -1,0 +1,459 @@
+Source PDF : Règlement_COBAC_R-2008_01_portant_obligation_d'élaboration_par_les_établissements_de_crédi_9a3ad446.pdf
+Chemin original : scraping\beac_data\Supervision bancaire\Reglements De Cobac\Règlement_COBAC_R-2008_01_portant_obligation_d'élaboration_par_les_établissements_de_crédi_9a3ad446.pdf
+Date extraction : 15/06/2026 19:54:29
+======================================================================
+
+--- Page 1 ---
+REGLEMENT COBAC R-2008/01 PORTANT OBLIGATION
+D’ELABORATION PAR LES ETABLISSEMENTS DE CREDIT
+D’UN PLAN DE CONTINUITE DE LEURS ACTIVITES
+______________________________________
+La Commission Bancaire de l’Afrique Centrale réunie le 29 septembre 2008 à Yaoundé ;
+Vu le Traité instituant la Communauté Economique et Monétaire de l’Afrique Centrale
+(CEMAC) et son Additif relatif au système institutionnel et juridique de la Communauté ;
+Vu la Convention régissant l’Union Monétaire de l’Afrique Centrale (UMAC) ;
+Vu la Convention du 16 octobre 1990 portant création de la Commission Bancaire de l’Afrique
+Centrale (COBAC) ;
+Vu la Convention du 17 janvier 1992 portant Harmonisation de la Réglementation Bancaire dans
+les Etats de l’Afrique Centrale ;
+Vu le Règlement COBAC R-2001/07 relatif au contrôle interne dans les établissements de crédit,
+notamment en son article 41 ;
+Soulignant le rôle central de l'intermédiation financière dans la promotion de l'activité
+économique et la croissance ;
+Reconnaissant que les établissements de crédit sont exposés aux perturbations opérationnelles
+majeures susceptibles d’affecter leurs infrastructures physiques et/ou leurs ressources humaines ;
+Notant que les événements susceptibles d’influencer l’accomplissement normal des activités des
+établissements de crédit peuvent être d’origine naturelle ou humaine ;
+Observant qu’au regard de la dépendance des systèmes financiers à l’égard de l'automatisation et
+des composants de l'infrastructure physique qui soutiennent l’automatisation, une défaillance
+opérationnelle d’un établissement de crédit peut causer des difficultés au système bancaire dans
+son ensemble ;
+Considérant notamment que les ruptures des processus de compensation et de règlement peuvent
+avoir des conséquences fâcheuses et importantes pour le système financier et empêcher des
+acteurs significatifs du marché d'achever des transactions et de satisfaire à leurs obligations ;
+Convaincue que des interruptions répétées ou prolongées sur l’exploitation d'un système bancaire
+altèrent la confiance et pourraient aboutir à un retrait de capitaux de ce système par des
+utilisateurs nationaux ou internationaux ;
+Admettant pourtant que les efforts entrepris par la Commission Bancaire pour restaurer les
+équilibres fondamentaux des établissements de crédit ébranlés par les crises bancaires méritent
+d’être soutenus pour entretenir la confiance retrouvée auprès du public ;
+Affirmant qu’une supervision bancaire efficace permet au système bancaire de continuer à
+garantir à la clientèle un minimum de services bancaires ;
+
+--- Page 2 ---
+Relevant que les normes internationales engagent les autorités de contrôle et de supervision à
+impulser un mouvement général vers la mise en place par leurs assujettis d’un plan de continuité
+d’activité ;
+Considérant qu’à cet effet, le Forum Conjoint du Comité de Bâle pour la Supervision Bancaire a
+publié en août 2006 des Principes Directeurs en matière de continuité d’activité ;
+Soulignant qu’en raison de l’imprécision, voire de l’inadéquation des mécanismes actuels au
+regard de l’impératif de mise en place d’un plan de continuité, il est primordial, eu égard aux
+possibilités de survenance de phénomènes caractéristiques de perturbation opérationnelle
+majeure, d’élaborer un texte obligeant les établissements de crédit à mettre en place un plan de
+continuité de leurs activités et couvrant tous les aspects de la gestion ;
+Convenant qu’un texte adopté par l’organe de supervision bancaire devrait lui permettre, d’une
+part, de déterminer un niveau approprié de résilience systémique et, d’autre part, de s’assurer que
+des opérations précises peuvent être poursuivies ou récupérées par les établissements de crédit
+dans un laps de temps raisonnable en cas de perturbation produite sur les opérations normales ou
+sur les infrastructures physiques ;
+ADOPTE LE REGLEMENT DONT LA TENEUR SUIT :
+Titre I- Principes directeurs en matière de continuité d’activité
+Chapitre I- Définitions
+Article 1- Au sens du présent Règlement, les expressions suivantes s'entendent ainsi qu'il est
+précisé ci-après :
+1. Acteurs critiques : acteurs exécutant des opérations critiques ou fournissant des services
+critiques ;
+2. Analyse d’impact sur l’activité : processus qui consiste à évaluer et à mesurer
+quantitativement et qualitativement l'impact sur l’activité ou les pertes dans les processus
+métiers en cas de perturbation, afin d’identifier les priorités dans la reprise des activités ;
+3. Continuité d’activité : état d’activité où les opérations ne sont pas interrompues ;
+4. Délai de reprise : durée cible nécessaire à la reprise d’une opération professionnelle
+spécifique après un désastre ou une interruption ;
+5. Gestion de la continuité d’activité : approche globale comprenant des politiques, des
+standards et des procédures pour s’assurer que des opérations spécifiées peuvent être
+maintenues ou reprises dans un délai raisonnable en cas de perturbation ;
+6. Infrastructure physique : actifs, équipements et services fournis par des entités autres que
+les établissements de crédit et dont dépendent largement les activités quotidiennes des
+agents économiques ;
+2
+
+--- Page 3 ---
+7. Niveau de reprise : niveau de service cible, relatif à une opération professionnelle
+spécifique, qui sera fourni après un désastre ou une interruption ;
+8. Objectif de reprise : objectif prédéterminé de reprise des opérations professionnelles
+spécifiques et des systèmes de support des opérations à un niveau de service fixé dans une
+durée définie de reprise après un désastre ou une interruption ;
+9. Opération ou service critique : activité, fonction, processus ou service, dont l’absence ou
+l’arrêt aurait des conséquences substantielles pour la continuité des opérations d’un
+établissement de crédit ou du système financier considéré dans son ensemble ;
+10. Perturbation opérationnelle majeure : perturbation à fort potentiel d'impact sur les
+opérations normales d’un établissement de crédit ou du système financier affectant les
+infrastructures physiques ou les personnes dans une large zone géographique ou des
+communautés économiquement intégrées ;
+11. Plan de continuité d’activité : plan d’action écrit et détaillé, décrivant les procédures et les
+systèmes nécessaires pour poursuivre ou rétablir les opérations d’une organisation en cas
+de désastre ou de interruption ;
+12. Protocole de communication : procédures de communication établies et approuvées à
+l'avance par deux ou plusieurs parties internes ou externes à un établissement de crédit.
+Ces procédures précisent les moyens de transmission, d’écriture et de lecture des données,
+ainsi que le type d’informations partagées entre ces différentes parties et la manière de les
+traiter selon leur caractère public ou non public ;
+13. Reprise : rétablissement des conditions d’activités spécifiques après une perturbation, à un
+niveau suffisant pour satisfaire les obligations professionnelles essentielles ;
+14. Résilience : capacité d'un établissement de crédit ou d’un système financier à absorber
+l'impact d'une perturbation opérationnelle majeure et à continuer ou à maintenir en
+fonction les opérations ou les services critiques ;
+15. Risque opérationnel : risque de pertes résultant de l’inadéquation ou de la défaillance des
+processus internes, des personnes et des systèmes, ou d'événements externes ;
+16. Site alternatif : espace de travail et équipements technologiques tenus prêts en
+permanence pour une utilisation en cas d’événement nécessitant la mise en œuvre du plan
+de continuité d'activité d'un établissement de crédit lorsque le site primaire devient
+inopérable.
+Chapitre II- Objet et champ d’application
+Article 2- Le présent Règlement définit les principes généraux devant guider l’élaboration,
+par les établissements de crédit, d’un plan de continuité de leurs activités en cas de perturbation
+opérationnelle majeure.
+Article 3- Les dispositions du présent Règlement sont applicables aux établissements
+assujettis opérant, sous quelque forme que ce soit, dans l’un des territoires des Etats de la
+CEMAC et soumis au contrôle de la COBAC.
+3
+
+--- Page 4 ---
+Chapitre III- Responsabilités des organes sociaux des établissements de crédit
+Article 4- Les établissements de crédit doivent mettre en place des politiques et des
+procédures prenant en compte les aspects techniques et humains de la gestion de la continuité
+d’activité qui fait partie intégrante de la gestion des risques.
+Article 5- Les organes délibérant et exécutif sont collectivement responsables de la définition
+d’approches efficaces et complètes de la gestion de la continuité d’activité.
+Ils ont la responsabilité de gérer efficacement, même en cas d’externalisation, la continuité
+d’activité et de développer et approuver la politique appropriée pour renforcer la résilience et la
+continuité en cas de perturbations opérationnelles majeures.
+Article 6- Les établissements de crédit doivent mettre en place une organisation permettant
+d’informer les organes délibérant et exécutif sur la mise en œuvre de la gestion de la continuité
+d’activité, les incidents constatés, le résultat des tests, et les plans d’action pour renforcer la
+résilience de l’institution et sa capacité à reprendre les activités spécifiques.
+Article 7- La manière dont est organisée la gestion de la continuité de l’activité doit être
+régulièrement examinée de manière indépendante par le contrôle interne ou l’audit externe et
+l’organe délibérant doit être informé au moins une fois par an, de l’appréciation portée sur
+l’efficacité des dispositifs en place.
+Chapitre IV- Politique de gestion de la continuité d’activité
+Article 8- Tout établissement de crédit doit mettre en oeuvre des approches appropriées pour
+une gestion adéquate de la continuité d’activité.
+La politique de gestion de la continuité d’activité comprend des analyses d’impact, une stratégie
+de reprise de l’activité et des plans de continuité d’activité.
+Article 9- Les analyses d’impact sur les activités doivent identifier les activités et services
+essentiels, les principales situations de dépendance par rapport à des sources internes et externes à
+l’établissement de crédit ainsi que les niveaux de résilience appropriés. Elles doivent permettre
+d’évaluer les risques et conséquences de différents scénarios de désastre ou de perturbation
+opérationnelle majeure sur les activités de l’établissement de crédit et sa réputation.
+Article 10- La stratégie de reprise doit définir, sur la base des analyses d’impact, des objectifs
+de reprise et les priorités, ainsi que le niveau de service minimum fourni par l’établissement de
+crédit en cas de désastre ou de perturbation opérationnelle majeure ainsi que le cadre dans lequel
+il rétablira les conditions normales d’activité.
+Article 11- Le plan de continuité doit fournir dans le détail les indications formalisées et
+documentées sur la manière de mettre en œuvre la stratégie de reprise, en établissant les rôles et
+en définissant les responsabilités dans la gestion des désastres et perturbations opérationnelles et
+en fournissant des indications précises sur les plans de succession, de substitution ou délégations
+de pouvoirs dans le cas où le désastre ou la perturbation aurait créé une distorsion dans la chaîne
+de commandement. Le plan de continuité de l’activité doit préciser le périmètre des activités
+couvertes, les activités traitées en priorité en cas de perturbation opérationnelle majeure, les
+4
+
+--- Page 5 ---
+risques résiduels non couverts, les délais de mise en oeuvre de ce plan, la formalisation des
+procédures, ainsi que la description synthétique du ou des sites alternatifs.
+Article 12- La gestion de la continuité d'activité d'un établissement de crédit doit être adaptée
+à son profil de risque et prendre en compte sa taille, l'ampleur et la portée de ses opérations ainsi
+que le risque qu’il fait courir au fonctionnement continu du système bancaire et à la sécurité des
+déposants.
+La politique de gestion de la continuité d’activité doit considérer les nouveaux risques liés aux
+évolutions socio-économiques, sur les plans national et international et couvrir les exigences
+inhérentes aux activités externalisées.
+Article 13- Les politiques, les standards et les processus de la gestion de continuité d’activité
+doivent être pris en compte et mis en oeuvre dans le programme complet de gestion du risque et
+de réalisation des opérations critiques de l’établissement de crédit.
+Chapitre V- Gestion du risque de perturbation opérationnelle majeure
+Article 14- Les établissements de crédit doivent intégrer le risque d'une perturbation
+opérationnelle majeure dans leurs approches de gestion de la continuité d’activité.
+Article 15- Les approches de la gestion de la continuité d’activité élaborées par les
+établissements de crédit doivent comporter les modes de réponse à une perturbation
+opérationnelle majeure pouvant affecter leurs opérations.
+Article 16- L’anticipation des mesures appropriées pour se remettre d'une perturbation
+opérationnelle majeure doit être basée sur les caractéristiques propres et sur le profil de risque de
+l’établissement de crédit.
+Chapitre VI- Elaboration d’objectifs de reprise
+Article 17- Les objectifs de reprise doivent servir de points de référence pour l’évaluation de
+l'efficacité de la gestion de la continuité d’activité et permettre d’atteindre un niveau cohérent de
+résilience.
+Article 18- Les organes délibérant et exécutif ont la responsabilité d’établir des objectifs de
+reprise proportionnés au risque que l’établissement de crédit concerné représente pour le
+fonctionnement du système financier dans son ensemble ainsi que pour la sécurité des déposants.
+Article 19- Les objectifs de reprise doivent comporter la poursuite de la fourniture des
+services critiques et, le cas échéant en fonction de la situation spécifique de l’établissement de
+crédit, répondre à des exigences supérieures à celles des autres participants du système bancaire.
+Chapitre VII- Elaboration des protocoles de communication interne et externe
+Article 20- Les établissements de crédit doivent inclure dans leur plan de continuité d’activité
+les protocoles et procédures de communication d’urgence en leur sein et à l’égard de toutes les
+parties prenantes, y compris internationales, en cas de perturbation opérationnelle majeure.
+5
+
+--- Page 6 ---
+Chapitre VIII- Conduite des tests d’évaluation de la gestion de la continuité d’activité
+Article 21- Tout établissement de crédit doit procéder selon une périodicité appropriée aux
+risques et conséquences des différents scénarios de perturbation opérationnelle majeure, à une
+évaluation de son dispositif de gestion de continuité d’activité au regard de sa capacité à
+supporter des perturbations opérationnelles majeures, en s’assurant notamment que :
+- le site alternatif se trouve dans une région distincte de l’emplacement primaire et ne dispose
+pas des mêmes composants au niveau de l’infrastructure physique ;
+- le site alternatif dispose de données actualisées suffisantes, d’un équipement au point et des
+systèmes nécessaires pour récupérer et entretenir les opérations et services critiques pendant
+un laps de temps suffisant ;
+- le plan de continuité d’activité définit les moyens de transport et les modalités de
+remplacement du personnel suffisant en termes d’effectif et d'expertise pour reprendre les
+opérations et services critiques compatibles avec les objectifs de reprise.
+Article 22- Chaque établissement de crédit qui présente un risque pour le système bancaire
+doit conduire de manière indépendante des gestionnaires opérationnels, des tests de ses sites
+alternatifs et participer à des tests au niveau du système bancaire pour évaluer le niveau de
+résilience à travers ce système et la compatibilité des stratégies de reprise des autres
+établissements de crédit.
+Article 23- La portée et la fréquence des tests doivent être déterminées en fonction du
+caractère critique des applications et des fonctions pour l’établissement de crédit, ainsi qu’au
+regard de la place de cet établissement dans le système bancaire et financier et en fonction des
+changements significatifs survenus dans l'environnement national, régional et international.
+Article 24- Les constats significatifs découlant des tests périodiques des plans de continuité
+d’activité doivent être soumis aux organes délibérant et exécutif dans un délai raisonnable afin
+que des mesures correctrices nécessaires soient apportées et le dispositif de gestion de la
+continuité d’activité mis à jour.
+Titre II- Phases méthodologiques d’un management de la continuité d’activité
+Chapitre IX- Caractéristiques du dispositif de continuité d’activité
+Article 25- Les établissements de crédit disposent d’un plan de continuité d’activité
+documenté, homogène et éprouvé. A cet effet, ils s’assurent de la cohérence et de l’efficacité des
+plans de continuité d’activité dans le cadre d’un plan global qui intègre les objectifs définis par
+l’organe exécutif et, le cas échéant, par l’organe délibérant.
+Article 26- L’organisation et la disponibilité des ressources humaines, immobilières,
+techniques et financières des établissements de crédit font l’objet d’une appréciation régulière au
+regard des risques liés à la continuité de l’activité.
+Article 27- Les mesures adoptées par les établissements de crédit dans le cadre de la gestion
+de continuité de l’activité figurent dans les rapports de contrôle interne, conformément aux
+dispositions de l’article 47 du Règlement 2001/07 relatif au contrôle interne des établissements de
+crédit.
+6
+
+--- Page 7 ---
+Article 28- La Commission Bancaire s’assure de la conformité des plans de continuité
+d’activité avec les dispositions du présent Règlement.
+Article 29- Les établissements de crédit définissent un cadre unifié pour la planification de la
+continuité d’activité qui vise à assurer la cohérence globale du dispositif et son caractère
+opérationnel.
+Article 30- Les établissements de crédit mettent en œuvre un processus de management de la
+continuité d’activité fondé notamment sur :
+- l’analyse des risques et des vulnérabilités ;
+- la classification des activités critiques et la définition des besoins fonctionnels ;
+- la prise en compte des enjeux en matière de sécurité et des impacts des sinistres potentiels sur
+l’activité de l’établissement de crédit et le secteur financier ;
+- la définition d’une stratégie de continuité d’activité cohérente avec les objectifs ;
+- le transfert éventuel de certains risques sur les polices d’assurance appropriées ;
+- la mise à jour, la maintenance, le test et l’évaluation des dispositifs prévus ;
+- la définition des responsabilités et des procédures en cas d’urgence ;
+- la mise en place des procédures dégradées prenant en compte les impératifs réglementaires ;
+- la sensibilisation du personnel ;
+- le bilan d’impact sur l’activité.
+Article 31- Les établissements de crédit procèdent à la nomination d’un Responsable de plan
+de continuité d’activité et en informent la Commission Bancaire.
+Article 32-Le Responsable de plan de continuité d’activité est chargé de l’administration du plan
+en régime établi, de la participation à la gestion de la crise, de la tenue à jour, du contrôle et de la
+mise en œuvre des actions correctives associées ainsi que de la réalisation des campagnes de
+formation et de test du plan.
+Article 33- L’organe exécutif doit impulser, promouvoir, rendre visible et contrôler le
+management de la continuité d’activité.
+Chapitre X- Méthodologie de management de la continuité d’activité
+Section I- Connaissance de l’activité
+Article 34- En vue de définir et de mettre en place un plan de mesures visant à prévenir ou à
+minimiser les sinistres majeurs et réduire ainsi l’étendue des risques résiduels à couvrir dans le
+plan de continuité d’activité, les établissements de crédit identifient leurs pôles de fragilités au
+travers d’audits et inspections.
+Article 35- Les établissements de crédit définissent la cartographie et les scénarios de sinistres
+devant être pris en compte dans leur plan de continuité d’activité. A cet effet, ils doivent :
+- identifier les activités essentielles de l’établissement de crédit pour sa survie ou le bon
+fonctionnement du système financier ;
+- identifier les menaces qui pèsent sur ces activités et qui pourraient en causer la discontinuité;
+- évaluer pour chaque risque la probabilité d’occurrence et l’impact potentiel (échelle
+d’évaluation des sinistres, grille d’évaluation des impacts des sinistres, typologie des risques
+et sinistres) ;
+7
+
+--- Page 8 ---
+- définir la stratégie de gestion des risques pour chaque risque caractérisé ;
+- définir les hypothèses d’élaboration de leur plan de continuité d’activité en prenant en compte
+l’ampleur des scénarios de sinistres.
+La cartographie des sinistres doit être régulièrement mise à jour et notamment à l’occasion de
+chaque changement important survenant dans la vie de l’établissement.
+Article 36 Les établissements de crédit déterminent l’impact des sinistres potentiels sur leurs
+activités et sur le fonctionnement du système bancaire et précisent une stratégie de continuité
+d’activité qui prenne en compte les enjeux définis.
+Le bilan d’impact sur l’activité est établi sur la base de :
+- l’identification et la classification des activités et fonctions critiques ainsi que des risques qui
+pèsent sur chaque activité ou fonction critique ;
+- la validation des objectifs de reprise ou de continuité pour chaque activité ou fonction
+critique ;
+- la détermination des processus et des ressources clés liées aux activités et fonctions critiques
+afin de déduire les modes dégradés de fonctionnement ;
+- l’identification des points de défaillance uniques et des dépendances internes et externes ;
+- l’évaluation des impacts d’interruption de l’activité.
+Article 37- L’analyse des risques sur les activités et les ressources est orientée par le bilan
+d’impact sur l’activité et permet de définir les plans de réduction des risques pour les processus,
+activités et ressources identifiées comme critiques.
+L’analyse des risques est mise à jour à chaque changement important de l’organisation de
+l’établissement, notamment dans la création de nouveaux sites ou implantations et lors de la
+modification de l’infrastructure existante.
+Section II- Orientation de la stratégie de continuité de l’activité
+Article 38- Les établissements de crédit définissent les méthodes et moyens qui leur
+permettent de continuer leur activité en cas de sinistre majeur.
+Article 39- Un dispositif efficace de continuité d’activité repose sur les éléments suivants :
+- une organisation de gestion de crise avec un Responsable du plan de continuité d’activité ;
+- un système documentaire détaillé, testé, largement diffusé au sein de l’établissement de crédit
+et régulièrement mis à jour ;
+- une stratégie de sauvegarde établie en fonctions des résultats des analyses d’impact sur
+l’activité de l’établissement de crédit et le fonctionnement du système financier, et
+périodiquement testée. L’organisation de la sauvegarde repose notamment sur la création d’un
+site alternatif distant et se trouvant dans un environnement technique distinct de
+l’environnement initial ;
+- une gestion rationalisée des ressources humaines ;
+- une solution technique de secours testée et couvrant les besoins de continuité.
+Article 40- Le choix de la stratégie de continuité est la résultante de l’analyse comparative des
+scénarios possibles de gestion de la continuité d’activité. Ces scénarios doivent être alignés sur la
+stratégie de l’établissement prenant en compte ses missions, ses objectifs, les évolutions
+8
+
+--- Page 9 ---
+attendues, ses relations d’affaires, le niveau de ses risques et ses axes de développement
+privilégiés, ainsi que sa place dans le système financier et son impact sur son bon
+fonctionnement.
+Article 41- Les besoins de l’établissement inscrits dans un cahier des charges fonctionnel et
+technique permettent de définir la ou les solutions techniques de secours.
+Section III- Mise en place du plan de secours informatique
+Article 42- Les établissements de crédit définissent l’organisation et le mode de réaction aptes
+à assurer le caractère opérationnel de la solution technique de secours en cas d’activation du plan
+de continuité d’activité.
+Ils définissent notamment les rôles, les responsabilités et les autorités en charge de la mise en
+place du plan de secours informatique et déterminent les solutions de substitution ou de
+remplacement du personnel avec une définition et une planification de leurs tâches.
+Article 43- Un test des solutions techniques et du plan de secours informatique est effectué
+pour permettre leur validation d’un point de vue technique et organisationnel et, ainsi, vérifier
+leur aptitude à répondre aux besoins définis et apprécier les délais de reprise.
+A défaut de validation de la solution technique, toutes les informations possibles doivent être
+recueillies afin de mettre en œuvre les mesures correctives qui permettront de rendre
+opérationnelle cette solution de secours.
+Article 44- Le périmètre, l’étendue, les objectifs et les conditions de réalisation du test doivent
+être préalablement définis. Les principales conclusions du test doivent être communiquées aux
+parties intéressées et les actions correctives issues des constats mises en œuvre.
+Section IV- Développement du plan de continuité d’opérations
+Article 45- Les établissements de crédit définissent l’organisation apte à gérer la crise, depuis
+son occurrence jusqu’à sa résorption et au retour à la normale. A cet effet, une cellule de crise
+composée des décideurs ainsi que des équipes d’intervention définies par thème et chargées des
+opérations de gestion de crise sont mises en place.
+Article 46- Le développement du plan de continuité d’opérations définit les stratégies de
+gestion des ressources humaines, de la sécurité des personnes et des biens ainsi que celle des
+prestations externalisées.
+Article 47- Les établissements de crédit mettent en place une stratégie de communication de
+crise disponible et opérationnelle.
+Article 48- Les établissements de crédit définissent les modalités de détection et d’évaluation
+rapide de la crise, d’alerte des acteurs concernés et d’activation éventuelle du plan de continuité
+d’activité.
+Ils déterminent les tâches et leur enchaînement logique, depuis l’occurrence d’un sinistre jusqu’à
+la décision de déclencher ou non le plan de continuité d’activité.
+9
+
+--- Page 10 ---
+Ils définissent le mode de remontée d’alerte, les acteurs du processus d’analyse et de décision,
+leurs rôles et leurs responsabilités, les critères d’évaluation des sinistres, les étapes, les
+responsabilités et autorités du processus de décision d’activation du plan de continuité d’activité,
+les modes de communication et d’interaction avec les services publics de crise, les actions de
+communication interne et externe au voisinage immédiat de la crise, établir.
+Ils valident et communiquent le schéma de déclenchement du plan de continuité d’activité.
+Article 49- Pour une gestion efficace de la crise, les établissements de crédit anticipent les
+modes de réaction aux sinistres et précisent les critères et responsabilités pour assurer le retour à
+la normale dans les meilleures conditions. A cet effet, ils procèdent à la :
+- définition des tâches génériques de gestion de crise à effectuer ;
+- répartition des tâches sur les acteurs de l’organisation de crise ;
+- définition des critères, conditions et responsabilités pour assurer le retour à la normale ;
+- rédaction et validation des manuels et procédures de gestion de crise.
+Article 50- Les établissements de crédit rédigent et valident les procédures fonctionnelles
+dégradées pour tous les processus critiques identifiés lors des analyses d’impact sur les activités
+et fonctions critiques.
+Article 51- Les établissements de crédit mettent en œuvre la stratégie locale et/ou globale de
+continuité d’activité pour les processus critiques.
+Article 52- Les établissements de crédit tiennent à jour les résultats des analyses d’impact sur
+les activités et fonctions crituques, la liste des contacts utiles, les coordonnées de toutes les
+parties prenantes, l’inventaire des ressources critiques, les informations sur les sauvegardes de
+données, les références des procédures opérationnelles pertinentes, la matrice d’évaluation des
+dégâts et des impacts, les premières consignes de sécurités et procédures d’urgence, les fiches
+signalétiques des sites concernés par le plan de continuité d’activité.
+Section V- Maintien en conditions opérationnelles
+Article 53- Les établissements de crédit assurent la conduite du changement, le déploiement
+du plan de continuité d’activité et son maintien en conditions opérationnelles.
+Article 54- Le transfert et l’appropriation d’informations, de connaissances et de compétences
+en lien avec le management de la continuité d’activité s’opèrent grâce aux actions de
+sensibilisation, de formation et de communication.
+Article 55- Pour concevoir le programme et les supports et vecteurs de sensibilisation, de
+formation et de communication, les établissements de crédit définissent :
+- le périmètre, les objectifs et les enjeux, ;
+- les moyens nécessaires à la réalisation des objectifs fixés ;
+- les cibles et les modalités du programme, notamment la fréquence, les supports, les formats et
+la durée.
+Ils conçoivent et mettent en œuvre un plan de communication interne et externe.
+Article 56- Les établissements de crédit s’assurent que leur plan de continuité d’activité reste
+opérationnel malgré les évolutions internes et, dans une moindre mesure, l’évolution de leur
+10
+
+--- Page 11 ---
+environnement. Dans cette optique, ils définissent les conditions et réalisent les opérations de
+mise à jour et de maintien en condition opérationnelle.
+Article 57- Pour déceler les incohérences et insuffisances du dispositif, compléter, améliorer
+et affiner les procédures en vigueur, les établissements de crédit s’assurent que les acteurs de la
+continuité d’activité sont formés, familiarisés avec leurs rôles et responsabilités dans le plan de
+continuité des opérations et capables de le mettre en œuvre rapidement et efficacement.
+Article 58- Les établissements de crédit définissent la stratégie de test du plan de continuité
+d’activité en tenant compte de son périmètre, de ses acteurs, de sa nature et son ordonnancement,
+de ses divers scénarios et hypothèses.
+Les résultats des tests sont analysés et des actions de correction et d’amélioration proposées et
+mises en œuvre.
+Article 59- Les établissements de crédit valident les pratiques de management de la continuité
+activité conformes aux exigences définies et aux besoins exprimés. Ils identifient les écarts avec
+les référentiels en vigueur, proposent des améliorations du management de la continuité d’activité
+et élaborent un programme annuel d’audit du plan de continuité d’activité.
+Section VI- Pilotage du management de la continuité d’activité
+Article 60- Les établissements de crédit mettent en œuvre une démarche efficace de gestion du
+projet de plan de continuité d’activité pour qu’il atteigne ses objectifs.
+Article 61- Les établissements de crédit définissent, mettent en œuvre et suivent la politique
+de management de la continuité d’activité.
+Article 62- L’attribution de la responsabilité globale sur le management de la continuité
+d’activité à un dirigeant de l’établissement garantit l’efficacité de son pilotage.
+Article 63- Le Responsable chargé du pilotage du management de la continuité d’activité
+définit la stratégie de déploiement des mesures inscrites dans ce cadre, prend en compte les
+résultats de test et de contrôle du plan de continuité d’activité, veille à ce que la stratégie précisée
+s’accorde avec les évolutions stratégiques et les objectifs de l’entreprise, s’assure de la
+conformité des pratiques aux exigences réglementaires, décide de la stratégie de communication
+interne et externe de la démarche, assure le reporting pour le déroulement du management de la
+continuité d’activité.
+Titre III- Dispositions finales
+Article 64- Les modalités d’application de certaines dispositions du présent Règlement seront,
+en tant que de besoin, précisées par Instructions du Président de la COBAC.
+Article 65- Le présent Règlement qui entre en vigueur à compter de son adoption, sera notifié
+par le Secrétaire Général de la Commission Bancaire aux Ministres en charge de la Monnaie et
+du crédit et à l’ensemble des établissements de crédit sis dans les Etats de l’Afrique Centrale ainsi
+qu’aux Associations Professionnelles constituées entre ces établissements.
+11
+
+--- Page 12 ---
+Article 66- Le Secrétaire Général de la Commission Bancaire est chargé de l’exécution du
+présent du Règlement.
+Ainsi fait et décidé à Yaoundé le 29 septembre 2008, étant présents :
+M. Philibert ANDZEMBE, Président ; Madame Agnès MANDENG ; MM. Herminio Edu
+ABESO NCARA, Louis ALEKA-RYBERT, AZIZ MAHAMAT SALEH, Maurice BLADE,
+Bruno CABRILLAC, Jean-Paul CAILLOT, ELUNG Paul CHE, Richard LAKOE, Jean-Baptiste
+NGOLO ALLINI, Isidore ONDOKI, membres.
+Pour la Commission Bancaire,
+Le Président,
+Philibert ANDZEMBE
+12

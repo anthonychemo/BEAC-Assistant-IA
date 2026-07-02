@@ -1,0 +1,73 @@
+Source PDF : Tableau_des_opérations_financières_de_l'Etat_Guinée_Equatoriale_a5265a07.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques Economiques\Tableau_des_opérations_financières_de_l'Etat_Guinée_Equatoriale_a5265a07.pdf
+Date extraction : 15/06/2026 20:36:18
+======================================================================
+
+--- Page 1 ---
+GUINEE EQUATORIALE: Tableau des opérations financières de l'Etat.
+(En milliards de FCFA)
+2002 2003 2004 2005 2006 2007 2008
+Estim. Estim. Prév.
+Recettes totales 414,5 472,3 773,5 1410,2 2103,7 2308,6 3324,5
+Recettes pétrolières 362,5 410,8 700,3 1307,5 1962,7 2097,3 3162,5
+Recettes non pétrolières 52,0 61,5 73,2 102,6 141,0 211,3 162,0
+Recettes fiscales 39,3 45,4 56,5 58,9 79,9 77,5 102,9
+Recettes non fiscales 12,7 16,0 16,7 43,7 61,1 133,7 59,2
+dont : Droits de pêche ... ... ... ... ... ... ...
+Ajustement ... ... ... ... ... ... ...
+Dépenses totales 227,2 257,5 486,9 615,5 957,5 1236,5 1349,6
+Dépenses courantes 100,6 87,8 123,8 169,5 197,6 217,7 219,2
+Salaires et traitements 26,0 27,5 30,9 36,6 40,6 52,5 58,4
+Biens et services (y/c extra-budgétaires) 50,9 37,5 50,5 82,0 87,5 85,4 94,1
+Intérêts 3,9 2,7 4,4 7,8 4,4 3,9 0,2
+Dette extérieure 2,6 2,3 3,5 7,1 3,4 3,7 0,0
+Dette intérieure 1,4 0,4 0,9 0,7 1,0 0,2 0,2
+dont: BEAC, opérations traditionnelles ... ... 0,4 ... ... ... ...
+BEAC, consolidations refinancement 0,1 0,1 0,0 0,0 0,0 0,0 0,0
+Autres 1,3 0,4 0,5 0,7 1,0 0,2 0,2
+Transferts et subventions 19,8 20,1 38,0 43,0 65,1 75,9 66,5
+Solde primaire courant (hors intérêts s/dette) 317,8 387,2 654,1 1248,6 1910,5 2094,8 3105,5
+Solde primaire (hors intérêts et invs/fin. externe) 191,2 217,7 291,9 804,0 1151,5 1076,0 1975,1
+Solde budgétaire de base (hors invests/fin. externe) 187,2 215,0 287,4 796,2 1147,2 1072,1 1974,9
+Coût total liquidation bancaire (principal) ... ... ... ... ... ... ...
+Dépenses en capital 126,6 169,7 363,0 446,0 759,8 1018,8 1130,4
+Investissements publics (financement interne) 126,6 169,5 362,3 444,6 758,9 1018,8 1130,4
+Prêts nets et souscriptions … … … … … … …
+Investissements publics (financement extérieur) 0,0 0,2 0,8 1,4 0,9 0,0 0,0
+Solde global (base engagements, hors dons) 187,2 214,7 286,7 794,7 1146,3 1072,1 1974,9
+Solde global (base eng. hors dons/hors consolidation BEAC) 187,2 214,7 286,7 794,7 1146,3 1072,1 1974,9
+Solde global (base engagements, dons compris) 187,2 214,7 286,7 794,7 1146,3 1072,1 1974,9
+Solde global (base eng. hors invest. fin/ ress. extérieures) 187,2 215,0 287,4 796,2 1147,2 1072,1 1974,9
+Variations des arriérés (baisse -) -1,7 -44,8 -13,5 -54,3 0,0 0,0 0,0
+Intérieurs (principal et intérêts) -2,1 -1,0 -1,4 -9,4 0,0 0,0 0,0
+Extérieurs (principal et intérêts) 0,4 -43,7 -12,1 -44,9 0,0 0,0 0,0
+Solde global (base trésorerie) 185,5 170,0 273,1 740,5 1146,3 1072,1 1974,9
+Financement total -185,5 -170,0 -273,1 -740,5 -1146,3 -1072,1 -1974,9
+Extérieur -5,2 36,6 -5,6 16,4 -10,4 -9,6 -18,0
+Dons (y compris stabex) 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Dons courants (y compris stabex) 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Dons projets ... ... ... ... ... ... ...
+Tirages 0,0 0,2 0,8 1,4 0,9 0,0 0,0
+Prêts-trésorerie et prêts programme ... ... ... ... ... ... ...
+Prêts-projets ... 0,2 0,8 1,4 0,9 0,0 0,0
+Amortissements dette ext. (principal) -5,2 -4,3 -6,4 -13,9 -11,4 -9,6 -18,0
+Allègement de la dette extérieure 0,0 40,6 0,0 28,9 0,0 0,0 0,0
+Annulation de la dette 0,0 0,0 0,0 22,2 0,0 0,0 0,0
+Réechelonnement obtenu 0,0 40,6 0,0 6,7 0,0 0,0 0,0
+Avances sur recettes pétrolières … … … … … … …
+Amortissement des avances sur recettes pétrolières … … … … … … …
+Intérieur -180,3 -206,6 -267,5 -756,8 -1135,8 -1062,5 -1956,8
+Système bancaire -16,9 18,4 -293,1 -676,4 -283,6 -177,7 -1029,2
+BEAC, opérations traditionnelles 1,2 3,3 -287,7 -596,5 -315,7 -158,0 -1031,9
+BEAC, consolidation refinancement -0,5 -0,5 -0,5 -0,5 -0,3 0,0 0,0
+FMI (net) -0,9 -0,6 -0,1 0,0 0,0 0,0 0,0
+Fonds de Réserve -0,4 -0,7 -3,2 -6,3 -5,4 -6,2 -6,8
+Banques commerciales -16,3 16,9 -1,5 -73,0 37,8 -13,5 9,5
+Non bancaire -163,4 -225,0 25,6 -80,5 -852,2 -884,8 -927,6
+Gap résiduel 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+dont: Appuis extérieurs supplémentaires … … … … … … …
+Tirages probables sur le FMI … … … … … … …
+Allégements de dette éventuels … … … … … … …
+mesures additionnelles de recouvrement … … … … … … …
+Autres financements à rechercher 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Sources: Administrations financières centrafricaines, FMI et BEAC

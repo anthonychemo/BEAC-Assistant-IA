@@ -1,0 +1,1017 @@
+Source PDF : BEAC_Working_Paper_N°04_16_Une_fonction_de_réaction_pour_la_Banque_des_Etats_de_l'Afrique__bff447bf.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°04_16_Une_fonction_de_réaction_pour_la_Banque_des_Etats_de_l'Afrique__bff447bf.pdf
+Date extraction : 15/06/2026 21:27:35
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 04/16 -
+Une fonction de réaction pour la Banque des Etats de l’Afrique
+Centrale dans un contexte de dominance budgétaire
+BIKAI J. Landry MBOHOU M. Moustapha
+Docteur en sciences économiques Economiste
+Et
+Direction de la Recherche Direction du Crédit, des Marchés de
+bikai@beac.int Capitaux et du Contrôle Bancaire
+mbohou@beac.int
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE
+travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+DIRECTION DE LA RECHERCHE
+
+--- Page 2 ---
+Une fonction de réaction pour la Banque des Etats de l’Afrique
+Centrale dans un contexte de dominance budgétaire
+BIKAI J. Landry∗ et MBOHOU MAMA Moustapha†
+Novembre 2016
+Résumé
+L’objectif de cette étude est d’estimer la fonction de réaction de la BEAC et évaluer dans quelle mesure la politique
+monétaire de cette Institution est influencée par l’évolution de la situation financière des Etats membres de la CEMAC.
+LesestimationssurdonnéestrimestriellesdesrèglesdetypeMc Callum pourlabasemonétaireetdetypeTaylor pourle
+tauxdirecteurdanslespaysdelaCEMACsurlapériodeallantde1996Q1à2013Q4,ontpermisdereleverquatrerésultats
+majeurs. Le premier résultat indique que la Banque centrale est sensible à l’évolution de la conjoncture dans la CEMAC
+lorsqu’elle manipule sa base monétaire. Autrement dit, en cas de surchauffe économique, elle contracte la base monétaire
+etlarelâchepoursoutenirl’activitédanslesphasesderalentissement.Ledeuxièmerésultatindiquequeletauxdirecteur
+de la BEAC ne réagit pas à l’écart de production ni à l’écart d’inflation, ceci en raison notamment de la faiblesse des
+mécanismes de transmission et de l’inopérabilité du canal du taux d’intérêt. Le troisième résultat majeur indique que la
+BEACprocèdeàunlissagedetauxtrèsimportantetlecoefficientyassociéestdel’ordrede0,98traduisantlesincertitudes
+surleseffetsdesonaction.Quantauquatrièmerésultat,ilindiquequelaconduitedelapolitiquemonétaireestinfluencée
+parlasituationfinancièredesEtatsvalidantainsil’hypothèsededominancebudgétairedanslasous-région.Noustrouvons
+cependantqueladominancebudgétaireestplusprononcéeencequiconcernelapolitiquedegestiondelabasemonétaire
+parrapportàlastratégiedefixationdutauxdirecteur.
+Classification JEL :E43,E52,E58
+Mots clés :Politiquemonétaire,stabilitédesprix,banquecentrale.
+Abstract
+The aim of this study is to estimate the reaction function of the BEAC and to assess the extent to which the monetary
+policy is influenced by the evolution of the financial situation of the States members of the CEMAC. We estimated two
+reactionfunctionsoftheCentralBankaccordingtoitstwomainmonetarypolicyinstruments:themonetarybaseandthe
+policyrate,bytakingintoaccountthepotentialroleoffiscaldominance.EstimatesofquarterlydataforMc Callum rule
+for the monetary base and Taylor rule for the key interest rate in the CEMAC countries, over the period 1996 to 2013,
+revealedfourmajorresults.Firstly,wefindthatintheeventofeconomicoverheating,BEACcontractsthemonetarybase
+and releases it to support activity in the slowdown phases, revealing the sensitivity of the Central Bank to the evolution
+of the economic situation in the CEMAC when manipulating its monetary base. Secondly, the BEAC policy rate does
+not respond to the output gap or the inflation, due in part to the weakness of the transmission mechanisms and the
+inoperabilityoftheinterestratechannel.Thirdly,ourresultsindicatethatBEACcarriesoutaveryhighratesmoothing
+andtheassociatedcoefficientisoftheorderof0.98,reflectingtheuncertaintiesontheeffectsofitsaction.Asforthefourth
+result,heindicatesthattheconductofmonetarypolicyisinfluencedbythefinancialsituationoftheStatesthusvalidating
+thehypothesisoffiscaldominance.Wefind,however,thatfiscaldominanceismorepronouncedinthepolicyofmanaging
+themonetarybasethaninthepolicyratesettingstrategy.
+JEL Code :E43,E52,E58
+Keys words :Monetarypolicy,pricestability,centralbank.
+∗
+DirectiondelaRecherchedelaBEAC,bikai@beac.int.
+†
+DirectionduCrédit,desMarchésdeCapitauxetduContrôleBancaire,mbohou@beac.int.LesauteursremercientlescadresdelaBEAC
+ainsiquelesparticipantsauColloqueGDRI-2016.Leséventuelleserreursouomissionsdecedocumentdemeurentduseulfaitdeceux-ci.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non-technique 3
+Introduction 5
+1 Les éclairages de la littérature économique sur les règles actives de
+politique monétaire des banques centrales 7
+1.1 Règles basées sur le contrôle des agrégats monétaires : les règles de type McCallum 7
+1.2 Règles de fixation des taux d’intérêt : les règles de type Taylor . . . . . . . . 9
+1.3 Priseencomptedeladominancefiscaledansl’orientationdelapolitiquemonétaire 12
+2 Estimation d’une fonction de réaction de la BEAC 13
+2.1 Approche Méthodologique . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+2.2 Données et variables de l’étude . . . . . . . . . . . . . . . . . . . . . . . . . 16
+2.3 Méthodes d’estimation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+3 Résultats d’une fonction de réaction de la politique monétaire de la
+BEAC 17
+Conclusion 22
+Références bibliographiques 24
+Annexes 28
+2
+
+--- Page 4 ---
+Résumé non-technique
+La présente étude s’intéresse à la réaction de la Banque Centrale vis-à-vis de ses prin-
+cipaux objectifs (écart d’inflation et soutien à l’activité) et vis-à-vis de la situation fi-
+nancière des Etats de la Communauté Economique et Monétaire de l’Afrique Centrale
+(CEMAC). La fonction de réaction de la BEAC est appréhendée dans cette étude à tra-
+vers les deux principaux instruments à la disposition de la BEAC : la base monétaire
+et le taux d’intérêt. Cette étude vise à rendre compte du comportement de la BEAC
+en matière de conduite de la politique monétaire. Pour ce faire, deux types de règles de
+politique monétaire sont estimés : une règle pour évaluer le comportement de fixation
+de la base monétaire, et une règle permettant d’évaluer le comportement de fixation du
+taux directeur. Toutefois, dans les deux formes de règles, nous prenons en compte le rôle
+potentiel de la dominance budgétaire en introduisant dans chacune des règles, la Position
+Nette du Gouvernement (PNG) qui représente la différence entre les engagements et les
+avoirs de l’Etat.
+Les estimations sur données trimestrielles des règles de type Mc Callum pour la base
+monétaire et de type Taylor pour le taux directeur dans les pays de la CEMAC sur la
+période allant de 1996Q1 à 2013Q4, ont permis de relever quatre résultats majeurs :
+i) Le premier résultat indique que la Banque centrale est sensible à l’évolution de la
+conjoncture dans la CEMAC lorsqu’elle manipule sa base monétaire. Autrement dit, en
+cas de surchauffe économique, elle contracte la base monétaire et la relâche pour soutenir
+l’activité dans les phases de ralentissement.
+ii) LedeuxièmerésultatindiquequeletauxdirecteurdelaBEACneréagitpasàl’écartde
+productionniàl’écartd’inflation,cecienraisonnotammentdelafaiblessedesmécanismes
+de transmission et de l’inopérabilité du canal du taux d’intérêt;
+iii) Le troisième résultat majeur indique que la BEAC procède à un lissage de taux très
+important et le coefficient y associé est de l’ordre de 0,98 traduisant les incertitudes sur
+les effets de son action.
+iv) Quant au quatrième résultat, il indique que la conduite de la politique monétaire est
+influencée par la situation financière des Etats, validant ainsi l’hypothèse de dominance
+budgétaire dans la sous-région. La dominance budgétaire est cependant plus prononcée
+en ce qui concerne la politique de gestion de la base monétaire par rapport à la stratégie
+de fixation du taux directeur.
+3
+
+--- Page 5 ---
+En guise de recommandations, la faible sensibilité du taux directeur de la BEAC aux
+écarts d’inflation et de production, relevée par cette étude, appelle à prendre des mesures
+idoines pour rendre opérant les mécanismes de transmission de la politique monétaire
+car les actions sur les taux directeurs n’ont quasiment pas d’influence significative sur
+l’activité et les prix. A cet effet, il est recommandé d’accélérer l’aboutissement des actions
+engagées dans le cadre de la réforme en cours de la politique monétaire, notamment en
+faveur du développement et de l’approfondissement du système financier de la Zone. La
+miseenplaced’unmarchédestitresdecréancesnégociablesetdeceluidelapension-livrée
+devraient grandement contribuer à l’élargissement de la gamme d’instruments financiers
+échangeables sur le marché bancaire et à la dynamisation du compartiment interbancaire
+du marché monétaire de la CEMAC. Par ailleurs, la sensibilité de la BEAC à la situation
+financièredesEtatssoulignelanécessitéderenforcerlecadredecoordinationdepolitiques
+monétaires et budgétaires, afin de limiter les effets pervers d’une dominance budgétaire
+dans la sous-région et renforcer ainsi l’indépendance de la Banque Centrale.
+4
+
+--- Page 6 ---
+Introduction
+La prise en compte des anticipations des agents économiques et des asymétries d’informa-
+tions dans l’évaluation de l’efficacité des décisions de politique économique est à l’origine
+de l’adoption des règles. En effet, le débat économique autour des règles de politique éco-
+nomique remonte à Kydland et Prescott (1977) dans leur article séminal intitulé : " rules
+rather than discretion ", où ils montrent la primauté des règles de politique économique
+sur les politiques discrétionnaires. Selon ces auteurs, les stratégies des décideurs basées
+sur des règles accroissent leurs crédibilités et sont plus optimales que celles qui reposent
+sur la discrétion.
+Ces développements théoriques ont considérablement influencé les mutations profondes
+constatées dans la conduite de la politique monétaire à partir des années 90, aussi bien
+dans les pays développés que dans les pays en développement, à travers notamment
+l’érection de la stabilité des prix comme objectif principal de politique monétaire. En
+effet, la priorité accordée à la stabilité des prix au niveau des banques centrales découle
+du consensus théorique autour du rôle déterminant de la crédibilité d’une banque cen-
+trale dans l’efficacité de ses décisions de politique monétaire. Loin d’être un acquis, cette
+crédibilité est elle-même conditionnée par la transparence et l’adoption de règles dans la
+conduite de la politique monétaire (Barro et Gordon, 1983).
+La littérature distingue globalement deux catégories de règles de politique monétaire :
+(i) les règles "passives", c’est-à-dire indépendantes de l’état de l’économie, à l’instar de
+la règle k% de Friedman selon laquelle la banque centrale devrait viser un taux de crois-
+sance constant de la masse monétaire et, (ii) les "actives" qui prévoient que l’orientation
+de la politique monétaire puisse être modifiée en fonction des événements qui affectent
+l’économie (Drumetz et Verdelhan, 1997).
+En dépit de leur simplicité opérationnelle, les règles "passives" ont été progressivement
+abandonnées par les banques centrales, notamment en raison des possibilités limitées de
+gestion active de la politique monétaire. A cet effet, nous nous intéresserons essentiel-
+lement aux règles actives, qui se déclinent principalement en règles de modification des
+agrégats monétaires et en règles de fixation des taux d’intérêt.
+Les règles actives de modification des agrégats monétaires, initialement théorisées par Mc
+Callum (1988), mettent l’accent sur la cohérence entre l’évolution de la masse monétaire,
+la stabilité des prix et la croissance du PIB nominal à moyen terme de l’économie. La
+plupart des banques centrales qui les ont adoptés ont poursuivi concomitamment une
+stratégie de contrôle des agrégats monétaires, s’appuyant principalement sur la stabilité
+du lien entre la masse monétaire et l’inflation ainsi que de la demande de monnaie. Tou-
+5
+
+--- Page 7 ---
+tefois, l’effritement du lien entre masse monétaire et inflation lié à l’instabilité croissante
+de la demande de monnaie, en raison du développement et de l’approfondissement du
+secteur financier, a justifié l’abandon progressif du contrôle des agrégats monétaires au
+profit du pilotage des taux d’intérêt au début des années 90.
+S’agissant de la fixation du taux d’intérêt, Taylor (1993, 1999) est le premier auteur à
+proposer une règle descriptive de la politique de taux de la Réserve Fédérale Americaine
+(Fed). La règle qui porte son nom constitue une référence tant normative qu’explicative
+de la politique monétaire de la Fed (Bricongne et Fournier, 2008). En effet, selon Orpha-
+nides (2007), la règle de Taylor est une règle simple de politique monétaire qui prescrit
+comment une banque centrale devrait ajuster ses instruments de taux d’intérêt de façon
+systématique en réponse aux évolutions de l’inflation et de l’activité économique. De-
+puis lors, de nombreux travaux ont contribué à améliorer la spécification de cette règle,
+en y incluant de nombreuses autres variables macroéconomiques suivies par les banques
+centrales dans le cadre de l’élaboration et de la mise en œuvre de leur politique monétaire.
+Les réformes monétaires engagées dans l’Union Monétaire de l’Afrique Centrale (UMAC)
+au milieu des années 90 ont abouti à l’inscription de la stabilité monétaire comme objectif
+primordial pour la BEAC. Cet objectif revêt deux dimensions : interne, liée à la stabilité
+des prix à travers une faible progression de l’inflation et, externe, liée à un taux de couver-
+ture extérieur de la monnaie suffisant, dont le seuil minimal est fixé à 20%. Néanmoins,
+conformément à l’article premier de ses statuts, sans préjudice de l’objectif de stabilité
+monétaire, la BEAC apporte son soutien aux politiques économiques élaborées dans la
+sous-région. Par ailleurs, la configuration actuelle de l’UMAC donne la possibilité à la
+banque centrale d’apporter un soutien direct et encadré aux Etats, ce qui peut justifier la
+sensibilité de la BEAC à la situation budgétaires des Etats et compromettre par la même
+occasion l’atteinte des objectifs fixés.
+Pour atteindre ces objectifs la BEAC s’appuie sur un ensemble d’instruments indirects
+s’articulantautourdedeuxprincipauxpiliers:lapolitiquederefinancementsurlemarché
+monétaire à travers une manipulation de la base monétaire (l’action sur les quantités à
+travers la programmation monétaire) et la fixation de son taux directeur (action par
+les taux). En effet, dans le cadre de l’exercice de programmation monétaire, la BEAC
+détermine un niveau de référence concernant la croissance de la masse monétaire et in
+finedelabasemonétaire,compatibleaveclastabilitémonétaireàmoyenterme.S’agissant
+de sa politique des taux, la BEAC dispose d’un taux d’escompte, le taux d’intérêt des
+appels d’offre (TIAO), qui est son principal taux directeur.
+Après plus de deux décennies d’actions, il conviendrait d’apprécier ce qu’il en a été effecti-
+vement. La banque centrale tient-elle véritablement compte de l’activité et des prix dans
+la manipulation de ses instruments ou est-elle plus influencée par la situation financière
+6
+
+--- Page 8 ---
+des Etats?
+CetteétudeviseàrendrecompteducomportementdelaBEACenmatièredeconduitede
+la politique monétaire. Eu égard à la stratégie à " deux piliers " poursuivie par la BEAC,
+traduite notamment par des actions sur les quantités (matérialisées ici par la règle de
+type Mc Callum) et les taux (matérialisée dans l’étude par la règle de type Taylor).
+Cette étude présente un double intérêt pour la conduite de la politique monétaire de
+la BEAC. Elle vise à identifier le comportement de la Banque Centrale vis-à-vis de ses
+principaux objectifs et de sa sensibilité à la situation financière des Etats, mais elle
+permet aussi, en comparant les deux types de règles utilisées (Mc Callum et Taylor),
+de sélectionner la règle qui décrit mieux le comportement de la Banque Centrale. En
+outre, en caractérisant l’élément systématique du comportement de la Banque Centrale,
+et en retenant la règle qui colle le mieux aux réalités des économies de la CEMAC, cette
+étude offre un important input à la construction de modèles de simulations des effets des
+politiques économiques de type DSGE1 pour la BEAC, qui sont en cours de construction
+dans le cadre de la réforme de la politique monétaire.
+La suite du papier s’articule autour de trois sections. La première expose une revue de la
+littérature économique relative aux règles actives de politique monétaire avec un accent
+sur la dominance fiscale. La seconde aborde les aspects méthodologiques de l’estimation
+d’une fonction de réaction de la BEAC. La troisième s’intéresse à l’analyse des résultats
+et aux recommandations qui en découlent.
+1
+Les éclairages de la littérature économique sur les règles actives de poli-
+tique monétaire des banques centrales
+1.1 Règles basées sur le contrôle des agrégats monétaires : les règles de type
+McCallum
+L’une des plus célèbres règles de politique monétaire basée sur le contrôle des agrégats
+monétaires est incontestablement celle développée en 1988 par Bennett McCallum. Dé-
+crite simplement, cette règle stipule un taux de croissance de la base monétaire ancré sur
+la croissance de la production réelle avec des ajustements pour tenir compte des change-
+ments de vélocité de la monnaie et des déviations de la dépense nominale par rapport à
+une cible préalablement établie (Racette et al., 1992).
+En effet, McCallum assoit son argumentation sur deux principaux consensus relevés dans
+la littérature : la supériorité des politiques basées sur des règles par rapport à des actions
+1. La construction de modèles structurels pour la BEAC permettant l’évaluation des effets de la
+politique monétaire peut donc s’inspirer de ces travaux.
+7
+
+--- Page 9 ---
+discrétionnaires, établie par les travaux de Kydland et Prescott (1977), et l’indépendance
+des mouvements de long terme des variables réelles par rapport au taux de croissance
+moyen des variables nominales. Ce dernier point associé à l’absence de modèle macroé-
+conomique dominant qui explique l’évolution à court-terme des grands agrégats et plus
+particulièrementladivisiondelaproductionnominaleencomposantesréelleetmonétaire,
+l’ont incité à choisir le revenu nominal comme objectif des autorités monétaires.
+SelonMcCallum(1988),labasemonétairedirectementcontrôléeparlesbanquescentrales
+est plus appropriée pour contrôler les évolutions de l’activité et des prix. De manière
+concrète, la règle de McCallum implique que la banque centrale agit sur le taux de
+croissance de la base monétaire de manière à ce que le PIB nominal croisse régulièrement
+à un taux non inflationniste correspondant au taux de croissance réel à long terme. Il est
+donc question pour la banque centrale de moduler la politique monétaire en fonction de
+l’écart entre le PIB potentiel (y¯) et le PIB effectif (y ), soit :
+t
+∆bm = ∆y¯−∆v +ϕ(∆y¯−∆y ) (1)
+t t t
+Dans cette équation, Deltabm représente le taux de croissance de l’instrument de poli-
+t
+tique monétaire qui est ici la base monétaire; ∆y¯ est la cible du taux de croissance du
+PIB nominal; ∆v est la vitesse de circulation moyenne de la monnaie définie comme le
+t
+rapport entre le PIB nominal et la monnaie de base; et (∆y¯−∆y ) est l’écart de crois-
+t
+sance, matérialisant ainsi la fonction de réaction de la banque centrale. Le paramètre ϕ
+(ϕ > 0)représente donc le facteur de réaction de la banque centrale à l’écart de crois-
+sance. Dans cette expression, une valeur faible de ϕ implique une faible réaction de la
+banque centrale à l’écart du PIB, une valeur élevée indiquant exactement l’inverse, avec
+des risques d’instabilité dynamique. Mc Callum (1988) a supposé que valeur de ϕ peut
+être fixée à 0,5.
+Le contrôle des agrégats monétaires a en effet été adopté à partir des années 70 par
+plusieurs pays dont la Suisse et l’Allemagne qui ont été promus meilleurs élèves de l’école
+monétariste pour leur maîtrise de l’inflation. D’autres pays ont utilisé cette stratégie à
+l’instar des Etats-Unis (sous l’ère de Paul Volker2), du Canada, du Royaume-Uni ou du
+Japon.
+A la suite de Mc Callum, plusieurs études ont évalué empiriquement les performances
+d’unetellerèglepourlespaysdéveloppés(Hall1990;JuddetMontley1991,1993;Dueker
+1993; Todd 1994; Stark et Croushore 1996; Razzak 2003) ou émergents (Liu et Zhang
+2007; Kong 2008).
+Dans les années 80, la libéralisation financière et le développement financier ont entrainé
+2. Il fut le Directeur de la Réserve Fédérale des Etats-Unis de 1979 à 1987.
+8
+
+--- Page 10 ---
+une modification considérable de la vitesse de circulation de la monnaie dans certains
+pays et ont rendu les politiques monétaires basées sur le contrôle des agrégats monétaires,
+insuffisantes pour assurer la stabilité des prix. En effet, le développement financier et la
+mise en place des instruments financiers sophistiqués se substituant à la monnaie, ont
+remis en cause la capacité des banques centrales à pouvoir contrôler l’offre de monnaie et
+induit une instabilité de la demande de monnaie.
+Ces mutations ont amené de nombreuses banques centrales au début des années 90 à pri-
+vilégier davantage des instruments indirects de politique monétaire, basés sur le pilotage
+du taux d’intérêt. Ce changement de cap dans la conduite de la politique monétaire a
+également coïncidé avec l’évolution de l’objectif assigné aux banques centrales, à savoir
+la stabilité des prix, avec l’adoption, par bon nombre d’entre elles, des cibles d’inflation
+et/ou de la stratégie de ciblage d’inflation.
+1.2 Règles de fixation des taux d’intérêt : les règles de type Taylor
+La plupart des banques centrales utilisent la règle de Taylor soit pour construire des mo-
+dèles plus élaborés (les DSGE), soit alors comme un indicateur dans la conduite optimale
+de la politique monétaire. Toutefois, au-delà des interprétations souvent assignées à la
+règle de Taylor, il convient de souligner que plusieurs formulations ont été proposées au
+sujet de cette règle. En effet, sa formulation initiale remonte à Taylor (1993) pour le cas
+américain et avait la forme suivante :
+r = p+0,5y +0,5(p−2)+2 (2)
+Où r est le taux d’intérêt directeur de la banque centrale (ou taux des fonds fédéraux),
+p est le taux d’inflation au cours des quatre derniers trimestres, y représente l’écart de
+production3. Enfin p−2 représente l’écart entre l’inflation observée et la cible d’inflation
+de la Banque Centrale qui est ici de 2%. Ainsi, selon Taylor, le taux d’intérêt de court
+terme de la banque centrale doit augmenter quand l’inflation anticipée dépasse la cible
+d’inflation de la banque centrale ou quand le PIB effectif est supérieur à sa tendance de
+long terme (PIB potentiel). Et lorsque l’inflation est égale à la cible de 2%, et que le PIB
+atteint sa valeur tendancielle, le taux d’intérêt réel (r−p) sera de 2%.
+Cette règle donne donc des indications sur le poids que la banque centrale accorde à
+la stabilité des prix et à celle de l’activité, dans l’orientation de sa politique monétaire.
+Taylor (1993) choisit 0,5 comme poids pour les deux objectifs en ce qui concerne le cas
+américain, mais reconnait néanmoins que ce poids peut changer d’un pays à un autre.
+3. C’est une mesure du degré de surchauffe de l’économie et s’obtient en faisant la différence entre le
+PIB réel et le PIB potentiel rapporté au PIB potentiel.
+9
+
+--- Page 11 ---
+Ainsi, en comparant les taux d’intérêt issus de cette règle aux taux observés, l’on peut
+juger de l’adéquation de la politique monétaire aux variables économiques fondamentales.
+Et Taylor a montré que cette règle reproduit bien l’évolution du taux d’intérêt des Etats-
+Unis sur la période 1987-1992. Cependant, telle que formulée initialement, la règle de
+Taylor est généralement sujette à plusieurs critiques.
+Tout d’abord en ce qui concerne ses variables, l’incertitude liée à leur construction peut
+aboutir à des résultats divergents. En effet, concernant le taux d’intérêt réel par exemple,
+Taylor le fixe à 2%, valeur qui représente également le taux de croissance tendanciel de
+l’économie américaine sur la période étudiée. Ce choix, sous tendu par la neutralité4 de la
+politique monétaire vis-à-vis de l’activité à long terme, n’est cependant pas partagé par
+tous les auteurs. En effet, Sachs (1996), Drumetz et Verdelhan (1997) retiennent un taux
+de 3,5%, tandis que Smets (1998) et Kozicki (1999) ont considéré un taux d’intérêt réel
+qui est égal à la moyenne de l’écart entre le taux d’intérêt nominal et le taux d’inflation
+durant la période étudiée. Verdelhan (1998) a par la suite préconisé la possibilité de fixer
+la cible d’inflation à priori et puis de déduire le taux d’intérêt réel. Le calcul de l’écart de
+production quant à lui dépend de la méthode de détermination du PIB potentiel et du
+choix du paramètre de lissage des données.
+Outre les limites liées à la détermination des variables, la spécification initiale de la règle
+de Taylor est critiquée en raison du fait qu’elle suppose que l’orientation de politique
+monétaire de la banque centrale est principalement déterminée à partir des informations
+de la période courante, minorant ainsi la capacité des banques centrales à pouvoir utiliser
+toute les informations disponibles tant en ce qui concerne le passé que les évènements à
+venir.
+La prise en compte de ces dernières limites a permis l’introduction des variables retardées
+et/ou anticipées dans la règle de Taylor initiale. Sachs (1996) a par exemple introduit les
+anticipations d’inflation au lieu de l’inflation courante et abouti à une formulation plus
+générale :
+r = r +p +αy +β(p−p ) (3)
+r a cible
+Dans cette spécification le taux d’inflation anticipé (p ) est parfois approximé par l’infla-
+a
+tion de la période antérieure; r est par contre le taux d’intérêt réel neutre qui permet
+r
+l’équilibre de long terme et par référence à la théorie néoclassique, on considère souvent
+que ce taux neutre est égal à la croissance potentielle de l’économie; α et β sont des
+paramètres positifs qui mesurent respectivement le poids que la banque centrale accorde
+4. Eneffet,àlongterme,lacibled’inflationestatteinteetl’outputgapestnul,alorsletauxd’intérêt
+nominal est tel que le taux d’intérêt réel est égal au taux réel neutre, i.e. à la croissance potentielle,
+traduisant la neutralité du taux d’intérêt à long terme sur l’activité économique
+10
+
+--- Page 12 ---
+à la stabilisation de l’activité et des prix.
+Cependant l’introduction des variables anticipées expose la règle de Taylor à une limite
+supplémentaire liée au fait que sa détermination nécessite des informations parfois non
+disponibles (Mc Callum, 1993). La prise en compte des anticipations adaptatives puis
+rationnelles a ainsi conduit à deux autres spécifications de la règle de Taylor : une spécifi-
+cation donnant lieu aux comportements " backward-looking " (équation 4), et une autre
+donnant lieu aux comportements " foward-looking " (équation 5).
+r = r +p +αy +β(p −p )+ε (4)
+t r t t−1 t−1 cible t
+r = r +p +αE (y |ω )+βE ([p −p ]|ω )+ε (5)
+t r t t t+i t t t+i cible t t
+Danslarelation(5),E (.|ω )désignel’espéranceconditionnelleàl’informationquedispose
+t t
+la banque centrale à l’instant t, c’est-à-dire au moment où elle prend sa décision, tandis
+que ω matérialise l’ensemble de ces informations et i est l’horizon d’anticipation.
+t
+Par la suite, plusieurs travaux se sont intéressés aux effets de lissage du taux d’intérêt en
+se basant sur le fait que la règle de Taylor telle que définie, ne permet pas de capter la
+tendance de la banque centrale à lisser les variations du taux d’intérêt pour éviter leur
+volatilité. En effet, en cas d’incertitudes des effets du pilotage du taux d’intérêt sur la
+dynamique économique, les banques centrales ont tendance à lisser les modifications de
+leur taux directeur (Sack, 2000). Aussi, l’hypothèse de lissage des taux directeurs par
+les banques centrales est un reflet d’une adaptation de leur fonction de réaction aux
+contraintes de fonctionnement de l’économie pour tenir compte des comportements des
+agents et surtout du mode de formation de leurs anticipations. Enfin, le lissage du taux
+d’intérêt se justifie par le fait que la banque centrale veut éviter une instabilité des taux et
+préserver sa crédibilité auprès des agents économiques. De ce fait, lisser les fluctuations de
+taux représente une sorte de réponse à l’incertitude relative à toute décision de politique
+monétaire.
+Ainsi, parmi les auteurs qui ont proposé un lissage du taux d’intérêt, on peut citer Ru-
+debusch (1995), Sack (1998), Clarida et Gertler (1996), Orphanides (1997), Verdelhan
+(1998), Clarida, Gali, et Gertler (2000). La spécification de la règle de Taylor intégrant
+l’hypothèse de lissage du taux d’intérêt directeur se présente généralement comme suit :
+r = (1−ρ)r∗ +ρr +ε (6)
+t t t−1 t
+Où r∗ représente l’une des règles spécifiée précédemment (3) ou (4) de sorte qu’on ait :
+t
+r = (1−ρ)[r +p +αy +β(p −p )]+ρr +ε (7)
+t r t t−1 t−1 cible t−1 t
+11
+
+--- Page 13 ---
+ou
+r = (1−ρ)[r +p +αE (y |ω )+βE ([p −p ]|ω )]+ρr +ε (8)
+t r t t t+i t t t+i cible t t−1 t
+Dans ces spécifications, ρ représente le paramètre de lissage du taux d’intérêt et sa valeur
+est comprise entre 0 et 1. Clarida, Gali, et Gertler (2000) ont estimé la valeur de ρ à 0,8
+pour le cas des Etats Unis.
+Ilconvienttoutefoisdereleverqu’auregarddelalargegammed’indicateursetdevariables
+auxquelslesbanquescentralesontrégulièrementrecourspourlaconduitedeleurpolitique
+monétaire, de nombreux travaux ont tenté d’introduire des variables supplémentaires à
+la règle de Taylor, notamment : le taux de change, le taux d’intérêt retardé, la masse
+monétaire, les cours des matières premières, etc. En ce qui concerne la Zone franc, Tenou
+(2002) a estimé la fonction de réaction de la Banque Centrale des Etats de l’Afrique
+de l’Ouest (BCEAO) en ajoutant comme variable supplémentaire le différentiel de taux
+d’intérêt entre la zone et la France qui est le principal pays partenaire de cette zone.
+Toutefois, plusieurs auteurs se sont davantage penchés sur l’ajout du taux de change
+dans la règle de Taylor à l’instar de Ball (1999), Svensson (2000), Taylor (2001). Et la
+spécification généralement retenue (où e représente le taux de change à la période t) est
+t
+la suivante :
+r = (1−ρ)[r +p +αE (y |ω )+βE ([p −p ]|ω )+ϕ∆e ]+ρr +ε (9)
+t r t t t+i t t t+i cible t t t−1 t
+1.3 Prise en compte de la dominance fiscale dans l’orientation de la politique
+monétaire
+A la faveur des travaux sur la théorie budgétaire du niveau général des prix, les déve-
+loppements récents de la littérature sur les règles ont conduit à la prise en compte des
+implications de la dominance fiscale sur la conduite de la politique monétaire par les
+banques centrales. La théorie budgétaire du niveau des prix va à l’encontre de la thèse
+monétaristeselonlaquellel’inflationesttoujoursetpartoutunphénomènemonétaire(do-
+mination monétaire) et fait valoir que la hausse des déficits budgétaires incontrôlés peut
+accélérer l’inflation dans un contexte d’indépendance limitée de la banque centrale. Ainsi,
+une forte inflation induite par une politique budgétaire expansionniste peut entraver la
+conduite de la politique monétaire.
+La dominance fiscale se réfère à des contextes où les orientations de la politique monétaire
+sont fortement dictées par celles de la politique budgétaire (Cochrane, 2001, Bergin 2000;
+Benhabib, et al 2001; Woodford, 2001, Afonso, 2002; Zoli, 2005). En d’autres termes, la
+banquecentralefixeetmodifiesesinstrumentsenfonctiondesenjeuxliésàlagestiondela
+dette publique, soit par soucis de coordination avec la politique budgétaire dans le cadre
+12
+
+--- Page 14 ---
+d’un polixy mix, soit simplement en raison des pressions que les autorités budgétaires
+exercent sur elle directement. La dominance budgétaire suppose que la banque centrale
+ait également un objectif de maintien de la solvabilité budgétaire du pays. Ceci implique
+que, dans certaines situations de crise où la solvabilité budgétaire intertemporelle n’est
+plus assurée, la banque centrale la rétablisse en accroissant l’offre de monnaie ou en
+réduisant ses taux directeurs.
+Empiriquement,ladominancebudgétairepeutêtreappréhendéeenintégrantunevariable
+budgétaire dans la fonction de réaction de la banque centrale, notamment l’écart des
+dépenses publiques par rapport à leur valeur cible (Kumhof et al., 2007) ou encore le
+déficit primaire (Ekpo et al., 2015) :
+r = (1−ρ)[r +p +αE (y |ω )+βE ([p −p ]|ω )+ϕ∆e ]+ρr +θ(g −g∗)+ε (10)
+t r t t t+i t t t+i cible t t t−1 t t
+ou
+r = (1−ρ)[r +p +αE (y |ω )+βE ([p −p ]|ω )+ϕ∆e ]+ρr +θPB +ε (11)
+t r t t t+i t t t+i cible t t t−1 t−1 t
+2
+Estimation d’une fonction de réaction de la BEAC
+2.1 Approche Méthodologique
+Comme évoqué supra, la stratégie de politique monétaire actuellement poursuivie par
+la BEAC s’articule autour de " deux piliers ", avec des actions visant le contrôle des
+agrégats de monnaie, notamment à travers la programmation monétaire, et des actions
+visant l’orientation des taux d’intérêt sur le marché monétaire à travers la fixation de son
+principal taux directeur (le taux d’intérêt des appels d’offre - TIAO).
+Pour tenir compte de cette spécificité relevée dans la conduite de la politique monétaire
+de l’Institut d’Emission, nous retiendrons les deux catégories de règle (Mc Callum et
+Taylor) pour la spécification de la fonction de réaction de la BEAC. Pour la formulation
+de la règle de type Taylor pour la BEAC, nous allons, à l’instar de Tenou (2010) pour le
+cas de la BCEAO, et en s’appuyant sur les travaux de Sachs (1996), Orphanides (1997),
+Kozicki (1999) et Clarida, Gali et Gertler (2000), adopter une spécification " forward
+looking rule ". Les valeurs des variables anticipées (inflation et production) sont décrites
+par des mécanismes d’ajustement partiel de leurs niveaux actuels à la cible. En ce qui
+concerne la règle de type Mc Callum, nous retiendrons la formulation de Racette et al.
+(1992).
+Pour chacune de ces règles, la principale innovation apportée aux formulations théoriques
+de base est l’introduction de nouvelles variables pour tenir compte des spécificités du
+13
+
+--- Page 15 ---
+cadre et du contexte de mise en œuvre de la politique monétaire de la BEAC. En effet,
+la position extérieure nette des Gouvernements (PNG) vis-à-vis du système financier
+a été introduite afin d’évaluer l’hypothèse de dominance fiscale dans les orientations
+de politique monétaire de la BEAC. Le choix de la PNG pour prendre en compte la
+dominance fiscale, au lieu du déficit primaire (Ekpo et al., 2015) ou l’écart des dépenses
+publiques par rapport à leur cible (Kumhof et al., 2007), tels que généralement observé
+dans la littérature, est simplement justifié par l’indisponibilité de ces variables à une
+fréquence trimestrielle dans la Zone.
+La règle de McCallum à estimer pour la BEAC se présente donc comme suit :
+∆BM = ∂(y −y∗)−µ∆v +τ(PNG −PNG∗)+θ(AEN −AEN∗)+δ(π −π∗)+ε (12)
+t t t t t t t
+Avec :
+∆BM : variation de la base monétaire en pourcentage;
+t
+y − y∗ est l’output gap ou l’écart entre la de production et non niveau potentiel en
+t
+pourcentage;
+∆v : variation de la vitesse de circulation de la monnaie;
+t
+PNG : position nette des Gouvernements vis-à-vis de l’ensemble du secteur financier;
+t
+PNG −PNG∗ : écart de la PNG par rapport à son niveau cible en pourcentage;
+t
+AEN : avoirs extérieurs nets;
+t
+AEN −AEN∗ : écart des AEN par rapport à son niveau cible en pourcentage;
+t
+π −π∗ est l’écart d’inflation par rapport à sa valeur cible;
+t
+∂ , µ, τ, θ et δ : paramètres à estimer.
+Pour la règle de taux d’intérêt, nous estimerons une règle de Taylor " augmentée "
+intégrant en outre les avoirs extérieurs nets (AEN), pour tenir compte de la nature du
+régime de change fixe en vigueur dans la CEMAC. En effet, en change fixe, la banque
+centrale devrait se préoccuper, en plus des variables internes (production et inflation),
+d’une variable en rapport avec le taux de couverture de l’émission monétaire, notamment
+les avoirs extérieurs, qui, d’ailleurs, pourraient apparaître dans la pratique comme un
+objectifàpartentière.Eneffet,lagarantied’uneparitéfixeexigedesautoritésmonétaires
+une attention toute particulière aux variables de l’équilibre extérieure (Ertugrul et al.,
+14
+
+--- Page 16 ---
+2005). Ainsi, pour la règle de Taylor, le modèle s’écrit alors :
+r = (1−ρ)[r +E (p |ω )+α[E (y |ω )−y∗]+βE [(p |ω )−p∗]+ϕ[E (V |ω )−V∗]]+ρr +ε
+t r t t+i t t t+i t t t+i t t t+i t t−1 t
+(13)
+E : opérateur d’espérance mathématique;
+r : taux d’intérêt directeur de la BEAC : TIAO;
+t
+r : taux d’intérêt réel d’équilibre;
+r
+p : taux d’inflation;
+t
+E (y |ω )−y∗ :outputgapouécartentrelaproductionanticipéeetsonniveaupotentiel;
+t t+i t
+(p |ω )−p∗ : écart entre le taux d’inflation anticipé et le taux d’inflation cible;
+t+i t
+ρ : paramètre de lissage à estimer. Sa valeur est située entre 0 et 1;
+ω : ensemble d’informations disponibles à l’instant t;
+t
+α, β et ϕ les paramètres à estimer;
+V : ensemble des variables prises en compte dans la conduite de la politique monétaire
+t
+de la BEAC. Elles comprennent les avoirs extérieurs nets (AEN ) et la position nette des
+t
+Gouvernements vis-à-vis de l’ensemble du secteur financier (PNG ).
+t
+En faisant l’hypothèse d’un ajustement partiel des variables anticipées, suivant l’équation
+ci-après :
+E (X |ω ) = γ E (X |ω )+(1−γ )X∗, où γ est un paramètre situé entre 0 et 1
+t t+i t X t t+i−1 t X X
+mesurant la crédibilité de la cible, la fonction de réaction de type Taylor se présente alors
+comme suit :
+r = ρr +(1−ρ)[r +γ p +(1−γ )p∗+βγ (p −p∗)+αγ (y −y∗)+ϕγ (V −V∗)]+ε (14)
+t t−1 r p t p p t y t V t t
+En réarrangeant l’équation (15), on obtient le modèle final de la fonction de réaction à
+estimer :
+r = ρr +(1−ρ)(r +p∗)+∂(p −p∗)+φ(y −y∗)+ϑ(V −V∗)+ε (15)
+t t−1 r t t t t
+Avec ∂ = βγ (1−ρ), φ = αγ (1−ρ) et ϑ = ϕγ (1−ρ).
+p y V
+15
+
+--- Page 17 ---
+2.2 Données et variables de l’étude
+Les estimations des fonctions de réaction de la politique monétaire de la BEAC ont été
+faites sur la période 1996-2013 à partir des séries trimestrielles de données suivantes,
+disponibles à la BEAC : i) le TIAO de la BEAC, son principal taux directeur; ii) la
+position nette des Gouvernements vis-à-vis du système financier de la CEMAC; iii) le
+tauxd’inflationtrimestrielenglissementannueldelaCEMAC,calculéàpartirdesindices
+des prix à la consommation des ménages, iv) le PIB de la CEMAC, trimestrialisé par la
+méthode de Goldstein et Khan (1976), v) l’output gap dans la CEMAC, calculé à l’aide
+du filtre de Hodrick Prescott avec un paramètre λ = 1600, vi) les avoirs extérieurs nets à
+une fréquence trimestrielle, vii) la base monétaire trimestrielle dans la CEMAC et viii)
+la vitesse de circulation de la monnaie à une fréquence trimestrielle.
+2.3 Méthodes d’estimation
+La spécification de la règle de Mc Callum ne pose pas vraiment de problème d’estimation,
+par rapport à celle de la règle de Taylor, dont l’estimation nécessite des méthodes plus
+adaptées pour contrôler le biais d’endogénéité lié à l’existence de la variable endogène
+retardée parmi les variables explicatives et à l’inobservabilité des variables anticipées.
+Trois méthodologies d’estimation sont généralement mobilisées à cet effet : la méthode
+des moments généralisés (GMM), celle des variables instrumentales et l’approche de coin-
+tégration de Johansen (1991).
+Le développement de la méthode des GMM a été par l’intérêt croissant durant le début
+des années 80 pour les modèles d’anticipations rationnelles. En effet, le problème d’endo-
+généité observé provient parfois du fait que les auteurs ne pouvant disposer de l’inflation
+anticipée, l’estime généralement en fonction de l’output GAP (Svenson, 1997) :
+p = p +τGAP (16)
+t+1/t t t
+Ainsi, l’inflation anticipée obtenue devient endogène et la méthode d’estimation la plus
+appropriée devient alors celle des moments généralisés. Cette méthode permet, entre
+autres, de contrôler l’endogénéité potentielle de toutes les variables explicatives.
+Néanmoins,d’autresauteursutilisentlaméthodedesvariablesinstrumentales,etprennent
+comme instruments l’output GAP, les retards d’inflation, et le taux d’intérêt (Mayes,
+2000).
+S’agissant de l’approche de cointégration de Johansen (1991), outre le contrôle du biais
+d’endogéneité de certaines variables, elle permet d’estimer une relation robuste en pré-
+16
+
+--- Page 18 ---
+sence de variables non stationnaires. Cette dernière méthode est privilégiée pour l’esti-
+mation de la fonction de réaction de type Taylor pour la BEAC.
+3
+Résultats d’une fonction de réaction de la politique monétaire de la
+BEAC
+Les équations (12) et (15) sont estimées sur trois périodes : la période globale de l’étude
+(1996Q -2013Q4) et deux sous-périodes (1996Q-2005Q3 et 2005Q3-2013Q4). La subdi-
+vision de la période d’estimation en deux sous-périodes est dictée par le changement de
+régime observé dans l’évolution de la PNG dans la CEMAC.
+Graphique 1 – Evolution de la PNG dans la CEMAC
+Source:AuteursàpartirdesdonnéesdelaBEACetdesadministrationsnationales.
+En effet, la PNG étant la différence entre les engagements et les avoirs de l’Etat, le
+boom pétrolier enregistré au début des années 2000 dû à la bonne tenue des cours du
+pétrole, s’est traduit par l’accroissement des revenus (PNG négative) de la plupart des
+pays membres de la CEMAC du fait de l’afflux d’importantes recettes pétrolières. Dans
+ce contexte, les excédents de revenus dégagés par les Etats se sont traduits par une
+amélioration de leur position nette vis-à-vis du secteur financier. Les résultats de nos
+estimations sont consignés dans les tableaux 1 et 2 ci-dessous.
+Pour la règle de type Mc Callum, les résultats obtenus indiquent globalement que les
+ajustementsdelabasemonétaireparlaBanqueCentraleontétéprincipalementinfluencés
+par l’écart d’inflation, la conjoncture économique traduite par l’écart de production et
+enfin la situation financière des Etats, à travers les fluctuations des PNG autour de leur
+tendance de long terme. Le signe négatif associé à l’écart de production traduit le fait
+17
+
+--- Page 19 ---
+qu’en cas de surchauffe économique, la BEAC contracte la base monétaire et la relâche
+pour soutenir l’activité dans les phases de croissance insuffisante. De même, dans le
+cadre de la régulation de la liquidité bancaire, l’accélération de l’inflation a, en moyenne,
+conduit la Banque Centrale à limiter la croissance de l’offre de monnaie centrale adressée
+aux établissements de crédit. Bien que d’une ampleur relativement réduite, l’influence de
+la situation financière des Etats sur les ajustements de la base monétaire opérés par la
+BEAC semble significative sur l’ensemble de la période d’étude. Le signe positif associé
+aux fluctuations de la PNG autour de sa tendance de long terme corrobore l’hypothèse
+de dominance budgétaire. Les dégradations des situations financières nettes des Etats
+vis-à-vis du système financier ont donc, en moyenne, été associées à un accroissement de
+l’offre de monnaie centrale à l’économie, notamment à travers des avances directes de la
+Banque Centrale aux Trésors nationaux.
+Les résultats obtenus mettent également en exergue un changement structurel dans le
+comportement de la Banque Centrale suivant l’évolution de la situation financière des
+Etats. En effet, sur la période avant le boom pétrolier (1996Q1-2005Q3) on observe une
+sensibilité plus élevé de la base monétaire à la situation financière des Etats5, par rapport
+àlapériode2005Q3-2013Q4(0,13068 > 0,00159).Autrementdit,lorsdespériodesfastes,
+les orientations de la base monétaire adoptées par la Banque centrale sont moins sensibles
+à l’évolution de la situation budgétaire globale des Etats dans la sous-région. Par contre,
+dans un contexte de conjoncture budgétaire moins favorable, l’Institut d’Emission s’est
+montrée plus sensible à la situation budgétaire globale des Etats de l’Union. Un test de
+Chow réalisé sur le paramètre associé à la variable (PNG −PNG∗) permet de conclure
+t
+à un changement structurel de la valeur de ce paramètre entre le 2eme et le 3eme trimestre
+2005, période marquant le début du retournement de la situation financière nette des
+Etats vis-à-vis du secteur financier (Cf. tableau 1 en annexe).
+Nous observons aussi que l’augmentation de la base monétaire se traduit par une baisse
+significative de la vitesse de circulation de la monnaie, traduisant ainsi un développement
+financier progressif, matérialisé notamment par l’utilisation de plus en plus croissante de
+la monétique.
+5. Matérialisé ici par l’écart de la PNG par rapport à sa tendance.
+18
+
+--- Page 20 ---
+Tableau 1 – Résultats des estimations d’une règle de McCallum pour la BEAC
+Echantillon global Avant le boom pétrolier Après le boom pétrolier
+Variables 1996Q1-2013Q4 1996Q1-2005Q3 2005Q3-2013Q4
+v −0,85729∗∗∗ −0,92200∗∗∗ −0,796354∗∗∗
+t
+(-5,905505) (-5,357095) (-3,828447)
+p −p∗ −0,48965∗∗∗ −0,52064∗∗∗ −0,78614∗
+t
+(-3,312281) (-3,799254) (-1,761093)
+y −y∗ −0,138839∗ −0,166144∗ -0,274881
+t
+(-1,705641) (-1,938926) (-0,488064)
+PNG −PNG∗ 0,00247∗ 0,13068∗ 0,00159∗∗
+t
+(1,825579) (1,838911) (2,293354)
+AEN −AEN∗ 0,01709 0,02188 0,38257
+t
+(1,415072) (1,610979) (1.505815)
+Observations 71 68 68
+R−squared 0,40 0,66 0,019
+Les statistiques de Student sont entre parenthèse. ∗∗∗p<0,01, ∗∗p<0,05, ∗p<0,1
+Source:Estimationdesauteurs.
+S’agissant de la règle de Taylor, les coefficients associés à l’inflation et à l’activité ne
+sont pas significatifs, en dépit de la conformité de leur signe aux attentes de la théorie,
+traduisant ainsi une faible sensibilité du taux directeur de la Banque centrale à ces va-
+riables. Ce résultat est cohérent avec les études antérieures, notamment celle de Bikai et
+Kenkouo (2015), qui ont montré la faiblesse et l’inefficacité du canal du taux d’intérêt
+dans la CEMAC.
+En revanche, le coefficient du taux d’intérêt directeur retardé ressort à 0,98, reflétant
+ainsi un comportement de lissage des taux par la BEAC dans la fixation de son principal
+taux directeur. Ce coefficient est sensiblement proche de celui obtenu par Tenou (2013)
+sur des données trimestrielles de la BCEAO, soit 0,9. L’effet de lissage du taux d’intérêt
+très élevé s’expliquerait par l’existence des incertitudes sur les effets du pilotage du taux
+d’intérêt directeur de la Banque centrale sur l’activité économique et l’inflation dans la
+CEMAC.Eneffet,enprésenced’incertitudessurlescanauxdetransmissiondelapolitique
+monétaire, les modifications élevées et rapides du taux directeur peuvent entrainer des
+effets incontrôlables et non anticipés sur la sphère réelle. Dans un tel contexte, il apparait
+utile pour les Banques centrales d’adopter un comportement optimal consistant à limiter
+l’amplitude de variation de leur taux directeur (Clarida et al., 2000).
+Par ailleurs, suivant les estimations sur l’échantillon global, le coefficient négatif et si-
+gnificatif associé à l’évolution de la PNG, semble indiquer que la Banque centrale est
+également sensible à l’évolution de la situation des finances publiques dans la fixation de
+son taux directeur. L’hypothèse de dominance fiscale observée dans le cas de l’ajustement
+delabasemonétairesembleégalementêtrevalablepourlafixationdutauxdirecteurdela
+19
+
+--- Page 21 ---
+BanqueCentrale.LasensibilitédutauxdirecteurauxévolutionsdelaPNGestcependant
+plus accentuée pendant les périodes de conjoncture budgétaire défavorable. En effet, les
+estimations obtenues sur la sous-période avant le boom pétrolier donnent un coefficient
+associé à la PNG significatif et s’établissant presqu’au niveau du double de celui obtenu
+sur l’échantillon global (0,000155 < 0,000277). L’hypothèse de changement structurel
+du paramètre associé aux fluctuations de la PNG entre le 2eme et le 3eme trimestre 2005
+est également corroborer par un test de Chow, dont les résultats sont consignés dans le
+tableau 2 en annexe.
+Toutefois, le degré de dominance fiscal semble limité lorsqu’on considère la manipulation
+des taux d’intérêt, par rapport à la fixation de la base monétaire (0,000155 < 0,130791).
+Cela peut être lié à la variable retenue pour capter l’influence de la politique budgétaire
+des Etats sur l’orientation de la politique monétaire de la BEAC. En effet, à travers les
+avances directes de la Banque centrale aux Trésors nationaux, la PNG ouvre un canal
+direct via lequel la dynamique des politiques budgétaires des Etats affecte l’orientation
+de la politique monétaire de la BEAC.
+En outre, les résultats des estimations sur les deux sous-périodes avant et après le boom
+pétroliermettentenreliefuneréactionplussystématiquedel’Institutd’Emissionàl’infla-
+tion et aux avoirs extérieurs nets. Toutefois, la sensibilité du taux directeur de la Banque
+centrale à l’écart d’inflation ressort plus élevée sur la période de boom pétrolier. Cela
+souligne la tendance pour la Banque centrale à tenir davantage compte des risques d’ac-
+célération de l’inflation dans la fixation de son taux directeur au cours de cette période.
+Par contre, le taux directeur de l’Institut d’Emission semble moins sensible à l’évolution
+des avoirs extérieurs nets lors des périodes fastes. Ce résultat intuitif s’explique par le fait
+que l’expansion significative des avoirs extérieurs nets enregistrée au cours de la période
+contribue à desserrer la contrainte de l’équilibre extérieur, offrant ainsi plus de marge de
+manœuvre à la politique monétaire de la Banque centrale pour poursuivre les objectifs
+internes de stabilité des prix et de soutien à la croissance économique.
+20
+
+--- Page 22 ---
+Tableau 2 – Résultats des estimations d’une règle de Taylor augmentée pour la BEAC
+Variable dépendante :TIAO =r
+t
+Echantillon global Avant le boom pétrolier Après le boom pétrolier
+Variables 1996Q1-2013Q4 1996Q1-2005Q3 2005Q3-2013Q4
+r 0,982688∗∗∗ 0,980009∗∗ 0,96022∗∗∗
+t−1
+(12,04650) (2,333785) (3,413989)
+r +p∗ 0,015643∗∗ 0,306923∗∗∗ 0,120597∗
+r
+(2,606538) (3,933795) (2,046938)
+p −p∗ 0,001174 0,016668∗ 0,036929∗
+t
+(0,127992) (1,760534) (1,860276)
+y −y∗ 0,005228 0,004793 0,037260
+t
+(1,189621) (1,476093) (1,403129)
+PNG −PNG∗ −0,000155∗∗∗ −0,000277∗∗∗ -0,004834
+t
+(-2,271801) (-2,784397) (-1,236738)
+AEN −AEN∗ 2,87E−05 −0,001249∗∗∗ 0,023603∗
+t
+(0,054747) (-2,893446) (1,774821)
+Observations 68 35 34
+R−squared 0,98 0,96 0,95
+Les statistiques de Student sont entre parenthèse. ∗∗∗p<0,01, ∗∗p<0,05, ∗p<0,1
+Source:Estimationdesauteurs.
+Le graphique 2 ci-dessous présente sur un même plan, les taux simulés à partir de la règle
+de Taylor estimée et les taux effectivement fixés par la BEAC. Il ressort globalement que,
+la politique monétaire de la BEAC est bien représentée par la règle de politique monétaire
+estimée.
+Graphique 2 –
+EvolutionscomparéesduTIAOetdestauxdirecteurcalculéssurlabasedelaRègledeTaylor
+Source:AuteursàpartirdesestimationsdelarègledeTaylor"augmentée".
+21
+
+--- Page 23 ---
+Conclusion
+Il était question dans cet article d’examiner le comportement de la banque centrale et
+l’influence de la situation financière des Etats sur ce dernier. Pour cela, nous avons estimé
+une fonction de réaction de la BEAC suivant deux principaux instruments le taux direc-
+teur et la base monétaire, tout en prenant en compte le rôle potentiel de la dominance
+fiscale sur la période allant de 1996Q1 à 2013Q4 :.
+Les estimations de deux types de règles, ont permis de dégager un certain nombre de ré-
+sultats.Premièrement,laBanquecentraleestsensibleàl’évolutiondelaconjoncturedans
+la CEMAC à travers sa politique de manipulation de la base monétaire. Autrement dit,
+en cas de surchauffe économique, elle limite l’accroissement de l’offre de monnaie centrale
+et la relâche pour soutenir l’activité dans les phases de croissance faible. Deuxièmement,
+l’estimation de la règle de Taylor augmentée sur toute la période d’analyse montre que le
+taux directeur de la BEAC ne réagit pas à l’écart de production et à l’inflation, ceci en
+raison notamment de la faiblesse des mécanismes de transmission et de l’inopérabilité du
+canal du taux. L’incertitude des effets du taux se confirment à travers un effet de lissage
+de taux très important de l’ordre de 0,98. Troisièmement, pour les deux types d’instru-
+ments utilisés par la BEAC, les résultats obtenus soulignent une relative influence de la
+situation financière des Etats sur les impulsions de politique monétaire opérées par la
+banque centrale, corroborant ainsi l’hypothèse de dominance budgétaire dans la politique
+monétaire menée dans la sous-région. Nous trouvons cependant que la dominance bud-
+gétaire est plus prononcée en ce qui concerne la politique de gestion de la base monétaire
+par rapport à la stratégie de fixation du taux directeur. De même, pour chaque type
+d’instrument, l’influence de la situation financière des Etats sur la politique monétaire
+ressort plus accentuée sur la période avant le boom pétrolier.
+Ces résultats donnent lieu à des recommandations de politique économique en rapport
+avec, d’une part, les implications de la dominance budgétaire dans la conduite de la
+politique monétaire, et d’autre part, avec l’inopérabilité du canal du taux d’intérêt ma-
+térialisée par la faible sensibilité du taux directeur à l’écart d’inflation et à l’écart de
+production.
+Sur la dominance budgétaire, en mettant en exergue les biais que peuvent introduire
+la prise en compte de la situation financière des Etats dans la conduite de la politique
+monétaire de la BEAC, une telle étude souligne la nécessité de renforcer le cadre de co-
+ordination de politiques monétaires et budgétaires, afin de limiter les effets pervers d’une
+dominance budgétaire dans la sous-région et renforcer ainsi l’indépendance de la Banque
+Centrale. Plus spécifiquement, la suppression des avances directes de la Banque Centrale
+22
+
+--- Page 24 ---
+aux Trésors publics nationaux permettrait de limiter considérablement l’influence de la
+situation financière des Etats sur la stratégie d’ajustement de la base monétaire de la
+Banque Centrale. Il conviendrait à cet effet, de faire aboutir le processus de suppression
+des avances directes de la Banque Centrale aux Trésors publics nationaux dans la CE-
+MAC, suspendu en 2014 suite aux effets du double choc pétrolier et sécuritaire qui ont
+affecté les économies de la sous-région. Dans le même ordre d’idée, la facturation des
+avances directes, actuellement adossée au Taux d’intérêt des appels d’offre, devrait être
+déconnectée du taux directeur de la BEAC.
+La faible sensibilité du taux directeur de la BEAC aux écarts d’inflation et de production,
+relevée par cette étude, appelle à prendre des mesures idoines pour rendre opérant les
+mécanismes de transmission de la politique monétaire car les actions sur les taux direc-
+teurs n’ont quasiment pas d’influence significatif sur l’activité et les prix. A cet effet, il est
+recommandé d’accélérer l’aboutissement des actions engagées dans le cadre de la réforme
+en cours de la politique monétaire, notamment en faveur du développement et de l’appro-
+fondissement du système financier de la Zone. La mise en place d’un marché des titres de
+créances négociables et de celui de la pension-livrée devraient grandement contribuer à
+l’élargissement de la gamme d’instruments financiers échangeables sur le marché bancaire
+et à la dynamisation du compartiment interbancaire du marché monétaire de la CEMAC.
+Enfin,enproposantdesspécificationsdesrèglesdepolitiquemonétaireprenantencompte
+le contexte actuel de la BEAC, les résultats d’une telle étude représentent un input
+nécessaire dans la conception des modèles d’équilibre général dédiés aux simulations de
+politiques économiques.
+23
+
+--- Page 25 ---
+Références
+[1] Afonso A. (2001) : "Non-Keynesian Effects of Fiscal Policy in the EU-15," Wor-
+king Papers Department of Economics 2001/07, ISEG - School of Economics and
+Management, Department of Economics, University of Lisbon.
+[2] Ball, L. (1997) : " Efficient Rule for Monetary Policy ", Discussion paper G97/3,
+Reserve Bank of New Zealand, Wellington, New Zealand.
+[3] Ball, L. (1999) : " Policy Rules for Open Economies ", in John B. Taylor (ed.)
+Monetary PolicyRules, University of Chicago Press, 1999.
+[4] Ball, L. (2000) : " Policy rules and externals shocks ", working paper, Central bank
+of Chile. WP/2000/82, October.
+[5] Barro R.J. et Gordon D.B. (1983) : " Rule, discretion and reputation in a model
+of monetary policy ", Journal of Monetary Economics, 12, 101-121.
+[6] Benhabib J., Schmitt-Grohe S. et Uribe M (2001) : "The Perils of Taylor
+Rules.", J. Econ. Theory 96 (January/February 2001) : 40-69. (b).
+[7] Bricongne J-C. et Fournier J-M (2008) : "Comment anticiper tes décisions de
+la BCE et de la F ED? ", Notes de l’INSEE, Décembre 2008.
+[8] Bergin (2000) : "Fiscal solvency and price level determination in a monetary union",
+Journal of Monetary Economics, 2000, vol. 45, issue 1, pages 37-53.
+[9] Clark Todd E. 1994 : "Nominal GDP Targeting Rules : Can They Stabilize the
+Economy?" Economic Review, Federal Reserve Bank of Kansas City, Quarter 3.
+[10] Clarida R. et Gali M. (1996) : "How the Bundesbank Conducts Monetary Po-
+licy", NBER Working Papers 5581, National Bureau of Economic Research.
+[11] Clarida, R., Gali, J. et Gertler, M. (1999) : " Monetary Policy Rules in
+Practice : Some International Evidence ", European Economic Review, 42 (6), 1033-
+1067.
+[12] Clarida, R., J. Gali et M. Gertler (1999) : " The Science of Monetary Po-
+licy : A New Keynesian Perspective", Journal of Economic Literature, vol. XXXVII,
+December, pp. 1661-1707.
+[13] Clarida, R., J. Gali et M. Gertler(2001):"OptimalMonetaryPolicyinOpen
+Versus Closed Economies : An Integrated Approach" American Economic Review
+Papers and Proceedings 91, 248-252.
+[14] Clarida, R., J. Gali et M. Gertler (2002) : " The Science of Monetary Policy :
+A New Keynesian Perspective ", Journal of Economic Literature 37 : 1661-1707.
+[15] Clarida, R., Gali, J. et Gertler, M. (2003) : " A Simple Model for Interna-
+tional Monetary Policy Analysis ", Journal of Monetary Economics 49, pp 879-904.
+24
+
+--- Page 26 ---
+[16] Cochrane J. (2001) : "Long-term Debt and Optimal Policy in the Fiscal Theory
+of the Price Level", Econométrica, Econometric Society, vol. 69(1), pages 69-116,
+January.
+[17] Duker Michael J. (1993) : "Can Nominal GDP Targeting Rules Stabilize the
+Economy?" Fed Reserve Bank of St. Louis Review, May. P15-29.
+[18] Drumetz, F. et Verdelhan A. (1997) : " Règle de Taylor : Présentation, Appli-
+cations et Limites ", Bulletin de la Banque de France, Banque de France, No 45.
+[19] Ekpo A., Asiama J., et Ahorton C. (2015) : "Fiscal dominance and central
+bank independence", Presented during the 2015 AACB Symposium of Governors.
+[20] Hall Thomas E. (1990) : "McCallum’s Base Growth Rule : Results for the United
+States, West Germany, Japan and Canada", Weltwirtschaftliches Archiv, Vol. 126, p
+630-642.
+[21] Judd, John P. et Brian Motley(1991):"NominalFeedbackRulesforMonetary
+Policy", Economic Review, Federal Reserve Bank of San Francisco, summer, No. 3.
+[22] Judd, John P. et Brian Motley (1993) : "Using a Nominal GDP Rule to
+Guide Discretionary Monetary Policy", Economic Review, Federal Reserve Bank of
+San Francisco, Number 3, p 3-11.
+[23] Kamgna S., Nguenang C., Talabong H. et Ould I. (2009) : " Fonction de
+réaction de la banque centrale et crédibilité de la politique monétaire :cas de la BEAC
+", MPRA papers n˚16557.
+[24] Kong Danfeng (2008) : "Monetary Policy Rule for China : 1994-2006.", East Asia
+Economic Research Working Paper, No. 14, University of Queensland.
+[25] Kozicki, S.(1999):"HowUsefulAreTaylorRulesforMonetaryPolicy",Economic
+Review, Federal Reserve Bank of Kansas City, second quarter.
+[26] Kumhof M., Nunes R., et Yakadina I. (2007) : "Simple Monetary Rules Under
+Fiscal Dominance", IMF Working paper, WP/07/271, December 2007.
+[27] Kydland F. et E. C. Prescott (1977) : " Rules Rather than Discretion : The
+Inconsistency of Optimal Plans ", Journal of Political Economy 85, 473-492.
+[28] Levin A., Wieland V. et Williams J. (2003) : " The performance of forecast-
+based monetary policy rules under model uncertainty ", American Economic Review,
+Vol. 93 N˚3, June, pp. 622-45.
+[29] Liu Li-gang et Zhang Wenlang (2007) : "A New Keynesian Model for Analy-
+zing Monetary Policy in Mainland China", Hong Kong Monetary Authority Working
+Paper, 18/2007.
+[30] Mésonnier J-S. et Renne J-P. (2004) : " Règle de taylor et politique monétaire
+dans la zone Euro ", Banque de France, Notes d’étude et de recherches, 117.
+25
+
+--- Page 27 ---
+[31] Mc Callum, B. T. (1987) : " The Case for Rules in the Conduct of Monetary
+policy : A Concrete Example", Economic Review, September/October.
+[32] Mc Callum, B.T.(1993):"DiscretionVersusPolicyRuleinPractice:TwoCritical
+Points A Comment ", Carnegie-Rochester Conference Series on Public Policy, 39,
+December, 215-220.
+[33] Okot N. (2008) : " Can a rule based monetary policy work in a small liberalised
+economy? The case of Uganda ", Bank of Uganda Working Paper, BOUWP 10/08.
+[34] Orphanides, A. (1997) : " Monetary Policy Rule Based on Real Time Data ",
+Board of Governors of the Federal Reserve System, December.
+[35] Penot A. et Pollin J.P. (2003) : " Heterogeneity of transmission mechanisms
+and monetary rules in EMU ", mimeo, Laboratoire d’Economie d’Orléans.
+[36] Pollin J.P. (2005) : " Théorie de la politique monétaire : Esquisses d’une refonda-
+tion ", Revue Economique, 56 (3), 507-539.
+[37] Razzak W. A. 2003 : "Is The Taylor Rule Really Different From The McCallum
+Rule?" Contemporary Economic Policy, Vol. 21, No. 4, p 445-457.
+[38] Sachs J. D. (1996) : " The International Economic Analyst ", vol. 11, Issue 6, June.
+[39] Sack B. et Wieland V. (2000) : " Interest rate smoothing and optimal monetary
+policy : a review of recent empirical evidence ", Journal of Economics and Business,
+Vol. 52 (1), pp. 205-28.
+[40] Sargent, T. J. et N. Wallace (1975) : " Rational Expectations, in the Optimal
+Monetary Instrument, and the Optimal Money Supply Rule ", Journal of Political
+Economy, 83.
+[41] Smeets, F. (1998) : " Output Gap Uncertainty : Does It Matter For the Taylor
+Rule ", BIS Working Paper, NO/ 60-Novembre 1998.
+[42] Stark Tom et Dean Croushore (1996) : "Evaluating McCallum’s Rule When
+Monetary Policy Matters", Federal Reserve Bank of Philadelphia working paper, No.
+96-3.
+[43] Svensson L. (1995) : " Optimal inflation targets "conservative" central banks, and
+linear inflation contracts ", NBER Working Paper 5251, sept., pp. 1-40.
+[44] Svensson L. (1997) : " Inflation Forecast Targeting : Implementing and Monitoring
+Inflation Targets ", European Economic Review, (41) pp.1111-1146.
+[45] Svensson L. (2000) : " Open-Economy Inflation Targeting ", Journal of Interna-
+tional Economics, February, 655-79.
+[46] Taylor, J.(1993a):"MacroeconomicpolicyinWorldeconomy:Fromeconometric
+design to practical operation ", New York : W.W. Norton.
+26
+
+--- Page 28 ---
+[47] Taylor, J. (1993b) : " Discretion versus Policy Rules in Practice ", Carnegie-
+Rochester Conference Series on Public Policy, 39, 195-214.
+[48] Taylor, J.(1999):"AHistoricalAnalysisofMonetaryPolicyRules",InMonetary
+Policy Rules. Ed. John Taylor, Chicago, University of Chicago Press.
+[49] Taylor, J. (2000) : " Alternative Views of the monetary Transmission Mechanism :
+WhatdifferenceDotheyMakeforMonetaryPolicy",The Oxford Review of Economic
+Policy, revised and shortened version of an earlier paper entitled, "The Monetary
+Transmission Mechanism and the Evaluation of Monetary Policy Rules ", presented
+by the Central bank of Chile in September, 20-21, 1999.
+[50] Taylor, J. (2001) : " The Role of the Exchange Rate in Monetary-Policy Rules ",
+American Economic Review, May. pp 263-67.
+[51] Tenou Kossi (2002) : " La règle de Taylor : un exemple de règle de politique
+monétaire appliquée à la BCEAO ", Notes d’Information et Statistiques, BCEAO, No
+523.
+[52] Tenou Kossi (2013) : " Estimation d’une fonction de réaction pour la Banque
+Centrale des Etats de l’Afrique de l’Ouest ", Banque des Etats de l’Afrique de l’Ouest-
+BCEAO, Mars 2013.
+[53] Woodford M. (2001) :"Fiscal requirements for price stability", NBER Working
+Paper, N˚8072, January 2001.
+[54] Wyplosz, C.(2002):"FiscalPolicy:InstitutionsversusRules",CEPR Discussion
+Paper No. 3238.
+[55] Zoli E.(2005):"HowdoesFiscalPolicyAffectMonetaryPolicyinEmergingMarket
+Countries?", BIS Working Paper No. 174, April 2005.
+27
+
+--- Page 29 ---
+Annexes
+Annexe 1 :
+Résultats du test de Chow sur la rupture structurelle du coefficient de la PNG dans la
+règle de Mc Callum pour la BEAC
+Annexe 2 :
+2. Résultats du test de Chow sur la rupture structurelle du coefficient de la PNG dans
+la règle de Taylor pour la BEAC
+28

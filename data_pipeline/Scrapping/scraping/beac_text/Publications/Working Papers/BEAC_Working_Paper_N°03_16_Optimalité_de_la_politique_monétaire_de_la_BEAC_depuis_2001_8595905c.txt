@@ -1,0 +1,1235 @@
+Source PDF : BEAC_Working_Paper_N°03_16_Optimalité_de_la_politique_monétaire_de_la_BEAC_depuis_2001_8595905c.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°03_16_Optimalité_de_la_politique_monétaire_de_la_BEAC_depuis_2001_8595905c.pdf
+Date extraction : 15/06/2026 21:27:44
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 03/16 -
+Optimalité de la politique monétaire de la BEAC depuis 2001
+KEU NGNE K. Léo Spencer M O U NKALA E. Ulrich M U K A M M. Arielle
+Statisticien - Economiste Economiste - Statisticien Statisticien - Economiste
+Direction de la Recherche Direction de la Recherche M I N E P A T - C a meroun
+keungne@beac.int mounkala@beac.int mukamarielle@yahoo.fr
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE
+travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+DIRECTION DE LA RECHERCHE
+
+--- Page 2 ---
+Optimalité de la politique monétaire de la BEAC depuis 2001
+Leo Spencer KEUNGNE KOUOTANG (cid:91) Evrard Ulrich H. MOUNKALA †
+Arielle MUKAM MAOUMBE ‡
+Août 2016
+Résumé
+Dans ce papier, nous dérivons une règle optimale de politique monétaire pour la BEAC. Celle-ci est
+obtenue en minimisant une fonction de perte hypothétique de la Banque Centrale en fonction de ses
+préférences,souscontrainteducadremacroéconomiquedécritparuneversionréaménagéedumodèlenéo-
+keynésienpourunepetiteéconomieouverte,avecfixitéetarrimagedutauxdechangenominal.Différentes
+trajectoires optimales théoriques du taux directeur sont alors simulées, suivant diverses pondérations de
+cette fonction de perte, sur la période 2001 :q1-2014 :q4. En rapprochant chacune d’elles avec la série du
+TIAO observée sur ladite période, il apparaît ex post que la BEAC aurait mené une politique monétaire
+optimale dans la CEMAC si elle avait clairement pour préférences égalitaires, la stabilité des prix, la
+stabilisation de l’output et un attachement exclusif au lissage des taux d’intérêt./-
+Mots clés : analyse contrefactuelle, fonction de perte, règle optimale, stabilité monétaire, fonction de
+réaction monétaire.
+Classification JEL : C61, E52.
+Abstract
+Inthispaper,wederiveanoptimalmonetarypolicyrulefortheBEAC.Thisruleisobtainedbyminimizing
+ahypotheticalmonetaryauthority’slossfunctionbasedonhispreferences,subjecttothemacroeconomic
+framework described by a slightly modified New Keynesian model for a small open economy with fixity
+andpeggednominalexchangerate.Fromvariousweightsofthislossfunction,differenttheoreticaloptimal
+trajectories of the policy rate are then simulated over the period 2001 :q1-2014 :q4. Comparison between
+each trajectory with the observed TIAO time series over this period reveals ex post that BEAC have
+conducted an optimal monetary policy, if it preferences were clearly and equally expressed in favour of
+price stability, output stabilizing and full interest rate smoothing./-
+Key words : counterfactual analysis, loss function, optimal rule, monetary stability, monetary reaction
+function.
+JEL codes : C61, E52.
+Lesopinionsetavisexprimésdanscepapier,quisontdelaseuleresponsabilitédesauteurs,nesauraientaucunementengagerlaBanque
+desEtatsdel’AfriqueCentrale.
+(cid:91) † Direction de la Recherche- BEAC ‡ MINEPAT - Cameroun
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non-technique 3
+Introduction 5
+1 Quelle règle de politique monétaire? Une brève revue de la littérature 9
+2 Cadre théorique de dérivation de la règle optimale de politique monétaire pour la
+BEAC 12
+2.1 Hypothèses sur le cadre macroéconomique . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+2.2 Comportement théorique de la banque centrale . . . . . . . . . . . . . . . . . . . . . . . . 14
+2.3 Dérivation de la règle optimale de politique monétaire . . . . . . . . . . . . . . . . . . . . 16
+3 Détermination empirique de règle(s) optimale(s) pour la BEAC 16
+3.1 Les données utilisées . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+3.2 Détermination des paramètres de la règle monétaire optimale . . . . . . . . . . . . . . . . 17
+3.2.1 Calibrage des paramètres structurels du modèle . . . . . . . . . . . . . . . . . . . . 17
+3.2.2 Approche d’évaluation numérique des paramètres optimaux de la règle . . . . . . . 18
+4 Résultats et adéquation à l’optimalité de la politique monétaire de la BEAC depuis
+2001 18
+Conclusion 23
+Références 25
+Annexes 28
+2
+
+--- Page 4 ---
+Résumé non-technique
+Alors que d’après ses Statuts, l’objectif final de la politique monétaire de la BEAC est la stabilité
+monétaire, celle-ci consiste en un objectif interne de stabilité des prix à moyen terme, et un objectif
+extérieurdecouverturesuffisantedesengagementsextérieursdelaBanqueCentraleparsesdisponibilités
+à vue. De façon quantifiée, au plan interne, le taux d’inflation à moyen terme de la CEMAC ne doit pas
+dépasser3%,etauplanexterne,letauxdecouvertureextérieuredelamonnaiedoitêtred’aumoins20%
+à chaque instant. Les Statuts de la BEAC précisent aussi que sans préjudice de cet objectif, la Banque
+Centrale apporte son soutien aux politiques économiques élaborées dans ses Etats membres.
+Danslesdébatssurl’autonomiedelapolitiquemonétairedelaBEAC,plusieurséconomistessoutiennent
+que celle-ci ne peut pas mener une quelconque politique monétaire autonome. Il convient cependant de
+relever pour clore ce débat, une fois pour toutes au regard du Triangle des incompatibilités de Mundell,
+que dans le contexte de la CEMAC, en régime de change fixe avec arrimage rigide à l’euro et mobilité
+imparfaitedescapitaux,dufaitdel’applicationd’uneréglementationdechangeassezcoercitive,laBEAC
+dispose d’une marge de manœuvre certaine pour mener une politique monétaire relativement autonome.
+La seule contrainte qui s’impose à elle d’après le rapport Padoa-Schioppa (1987), c’est que son taux
+directeur ne doit pas durablement s’éloigner de celui de sa Zone d’ancrage.
+En partant de cette réalité, la BEAC a choisi depuis 1990 d’utiliser le taux d’intérêt des appels d’offres
+(TIAO) comme son principal instrument de politique monétaire pour atteindre son objectif final de
+stabilité monétaire. Si diverses évaluations empiriques sembleraient appuyer l’inefficacité du canal du
+taux d’intérêt dans la transmission des impulsions monétaires à l’activité et aux prix, le travail de
+Mounkala (2013) sur l’estimation d’une fonction de demande de monnaie dans la CEMAC a délivré
+la conclusion de l’existence d’une demande de monnaie de type keynésienne à court terme, et de type
+monétariste à long terme. Ce résultat fournit un argument empirique à la possibilité pour la BEAC
+d’influencer la courbe LM par ses actions sur le TIAO, et par conséquent à agir sur l’activité et les prix
+dans la Sous-région.
+Forts de ces enseignements d’une part, et au regard des performances économiques enregistrées par
+la CEMAC depuis lors d’autre part, nous nous sommes proposés d’évaluer ex post l’optimalité de la
+politique monétaire de la BEAC, de sorte à obtenir une indication empirique sur sa contribution à ces
+performances. Pour ce faire, sur toile de fond de la Nouvelle Synthèse, nous avons construit un modèle
+néokeynésien canonique pour une petite économie ouverte avec ancrage nominal fixe pour décrire le
+cadre macroéconomique de la CEMAC. Par la suite, en référence aux objectifs interne et externe de la
+politique monétaire de la BEAC, nous avons spécifié une fonction de perte pour décrire les préférences
+des autorités monétaires. L’optimisation de cette fonction sous contrainte du cadre macroéconomique
+nous a permis de dériver une règle optimale de politique monétaire de type Taylor augmentée pour la
+fixation du TIAO par la BEAC.
+3
+
+--- Page 5 ---
+Sur cette base alors, en considérant différentes configurations des pondérations des préférences des auto-
+ritésmonétairesdansleurfonctiondeperte,entre(i)lastabilitédesprix,(ii)lastabilisationdel’activité,
+(iii)lacontrainteextérieured’arrimageàl’euro,et(iv)lelissagedestauxd’intérêt,nousavonssimuléles
+trajectoires optimales théoriques correspondantes, sur la période mars 2001 - décembre 2014. Le rappro-
+chement de chaque trajectoire optimale avec la chronique observée du TIAO sur cette période a fourni
+une très bonne adéquation dans le seul cas où les autorités de la BEAC auraient eu pour préférences
+égalitaires les objectifs (i), (ii) et (iv) exclusivement.
+Cedernierrésultatnousaconduitàlaconclusionquel’hypothèsedel’optimalitédelapolitiquemonétaire
+de la BEAC dans sa Zone d’émission sur la période mars 2001 - décembre 2014 ne peut pas être rejetée,
+si l’on retient que les autorités monétaires accordaient les mêmes poids à leurs préférences de stabilité
+desprix,destabilisationdel’activitéetdelissagedestauxd’intérêt.Lesobservationsfaitess’agissantdu
+tauxdecouvertureextérieuredelamonnaieaucoursdelapériodesous-revueindiqueraienteffectivement
+que la contrainte de l’arrimage du F CFA à l’euro n’a jamais été mis en péril, car le taux de couverture
+extérieure de la monnaie est resté largement au-dessus de 20%. Par conséquent, il est légitime que les
+autorités monétaires, de par leur comportement effectif, ne s’en soient pas autrement préoccupés dans
+leurs choix.
+A partir de l’année 2015 et à présent en 2016 cependant, l’optimalité supposée des choix hypothétiques
+des autorités monétaires ne saurait être maintenue, dans la mesure où la situation économique de la
+Sous-région s’est fortement modifiée. En cause, la chute brutale depuis 2012 des cours du pétrole et des
+prix des matières premières exportées par les pays de la CEMAC, qui s’est traduite par une diminution
+forte des recettes des Etats membres de la CEMAC, un creusement de leurs déficits publics dont la
+monétisationparlaBanqueCentraleaengendréunedégradationrapidedutauxdecouvertureextérieure
+de la monnaie, à telle enseigne que les préférences des autorités monétaires devront nécessairement être
+modifiées eu égard à la contrainte extérieure. A cette fin, le cadre analytique proposé dans ce papier
+devraitpermettreàcesautoritésdedéterminerlanouvelletrajectoireoptimaleduTIAOunefoisqu’elles
+auraient explicité et arrêté leurs nouvelles préférences entre les différents objectifs internes et externes
+de politique monétaire.
+Enfin,etc’estl’autreintérêtdecetravail,ledispositifd’aideàladécisionproposédanscepapierfournirait
+àlaBanqueCentrale,l’«équationmanquante»ducadreanalytiquedesapolitiquemonétaire,auxcôtés
+de l’exercice de Programmation Monétaire, qui détermine déjà les prévisions des taux de croissance et
+d’inflation de la CEMAC, lesquels interviennent dans le calcul du niveau projeté du TIAO, une fois
+relevée le niveau prévisionnel du taux directeur de la Zone euro./-
+4
+
+--- Page 6 ---
+Introduction
+Au début des années 1990, afin d’assainir le système bancaire de l’Union Monétaire d’Afrique
+Centrale qui était fortement sinistré, d’une part, mais aussi pour moderniser et inscrire dans
+l’ère du temps les cadres stratégique et opérationnel de sa politique monétaire, d’autre part, la
+BEACavaitengagéuneréformeayantaboutinotammentàl’abandondesinstrumentsdirectsde
+politique monétaire au profit des instruments indirects. C’est ainsi que le taux d’accroissement
+de la masse monétaire a été remplacé par le taux d’intérêt des appels d’offres (TIAO), comme
+principal instrument de politique monétaire vers la réalisation de son objectif final de stabilité
+monétaire. Et ses statuts précisent aussi que “sans préjudice de cet objectif, la BEAC apporte
+son soutien aux politiques économiques élaborées dans ses Etats membres”.
+Concrètement, la stabilité monétaire se décline en deux volets interne et externe. S’agissant du
+volet interne, elle consiste en un objectif final de stabilité des prix, avec un taux d’inflation à
+moyen terme n’excédant pas 3% en moyenne annuelle. En ce qui concerne le volet externe, la
+stabilitémonétaireconsistepourlaBanqueCentraleàassureràchaquefoisuntauxdecouverture
+extérieure de la monnaie d’au moins 20%. Il convient de relever que si pour l’objectif interne,
+l’instrument retenu par la BEAC est explicitement le TIAO, celui pour l’objectif externe n’est
+pas clairement identifié, ce qui violerait le principe de Tinbergen selon lequel il faut autant
+d’instruments qu’il y a d’objectifs finals. Pour la BEAC, nous faisons l’hypothèse qu’il existerait
+tout au moins une relation fonctionnelle1 entre le taux de couverture extérieure de la monnaie
+et le TIAO, de sorte qu’à l’objectif final de stabilité monétaire correspondrait le TIAO comme
+seul instrument.
+1. A première vue, il peut sembler en effet infondé de lier le TIAO au taux de couverture extérieure de la
+monnaie, car ce dernier dépend fondamentalement de la volonté des Etats (qui en ont pourtant l’obligation)
+de rapatrier leurs avoirs extérieurs dans le Compte d’opérations de la BEAC ouvert dans les livres du Trésor
+français. Il faut cependant noter que par construction, le taux de couverture extérieure de la monnaie est le
+ratiodesdisponibilitésextérieuressurlesengagementsàvuedelaBanqueCentrale.Et,d’aprèsl’équilibredela
+balancedespaiementsenchangefixeexpriméentermesréels,onalaformeimplicitesuivante(Voir par exemple
+Hairault, 2000, chap.4 pour davantage de détails) :
+(cid:18)
+P∗
+(cid:19) (cid:18) ∆ea(cid:19)
+∆R
+BC X−e Z +K i−i∗− =
+P e P
+avec(BC)lesoldedelabalancecommerciale,X lesexportations,Z lesimportations,eletauxdechangenominal
+cotéàl’incertain,P etP∗leniveaugénéraldesprixdomestiqueetétrangerrespectivement,K lesoldeducompte
+de capital et d’opérations financières en fonction de la règle de parité de taux d’intérêt non couverte (PTINC),
+i et i∗ sont les taux d’intérêt domestique et étrangers respectivement, ∆R la variation des réserves de change.
+A partir de cette relation fonctionnelle, il peut être dérivé, après quelques manipulations algébriques, une forme
+fonctionnelle implicite entre le taux de couverture extérieure de la monnaie et le différentiel des taux d’intérêt
+domestiqueetétranger,detellesortequelarelationthéoriqueentrecesdeuxvariablesestimplicitementétablie.
+Compte tenu de l’implication forte de cette relation pour la définition de la politique monétaire de la BEAC,
+une étude empirique dédiée devrait être menée prochainement pour évaluer la sensibilité du taux de couverture
+extérieure de la monnaie au TIAO.
+5
+
+--- Page 7 ---
+La double déclinaison de l’objectif final de la politique monétaire de la BEAC trouve sa justifi-
+cation dans le contexte de la CEMAC qui est celui d’une petite économie ouverte, en régime de
+change fixe avec arrimage du F CFA à l’euro, et une mobilité imparfaite des capitaux induite
+notamment par l’application d’une réglementation de change assez stricte. De ce fait, au regard
+du Triangle des incompatibilités de Mundell dans ce contexte, il existerait une certaine marge de
+manœuvre pour la BEAC de mener une politique monétaire “relativement” autonome. En effet,
+cette marge se heurte à une contrainte, plutôt à moyen terme, ainsi que le soulignait le Groupe
+Padoa-Schioppa (1987) selon lequel, en régime de change fixe avec mobilité des capitaux, le taux
+d’intérêt d’une petite économie ouverte ne doit pas durablement s’éloigner de celui de sa zone
+d’ancrage. C’est ainsi que de façon pragmatique, sans toutefois déroger à ce principe depuis au
+moins l’an 2000, la BEAC a toujours tenu compte de l’évolution du taux directeur de la BCE
+pour fixer le niveau du TIAO.
+Le pragmatisme de la BEAC a été davantage perçu au cours des cinq dernières années pendant
+lesquelles, à l’instar des autres banques centrales des pays industrialisés, la BCE a abaissé son
+taux directeur proche de zéro pour sortir des méfaits de la crise financière de 2008, puis de la
+crise économique de 2009. Ainsi, sans verser dans un mimétisme aigu, la BEAC a appliqué une
+politique monétaire assez prudente, en maintenant un différentiel d’intérêt d’au moins 2% avec
+la BCE depuis 2012, après s’être rassurée de la résilience des économies de sa Zone d’Emission
+aux effets directs de ces deux crises.
+Sur les 20 dernières années, la Sous-région a enregistré de bonnes performances macroécono-
+miques. Le taux d’inflation en moyenne annuelle est ressorti autour de 2.5% en moyenne (en-
+dessous de la norme de stabilité des prix de 3%); le taux de couverture extérieure de la monnaie
+s’est en moyenne situé autour de 82.2% (largement au-dessus du seuil minimum de 20%), avec
+un pic enregistré à 102.9% en 2009; et le taux de croissance annuelle moyen du PIB réel s’est
+établi à 4.5%.
+Il convient néanmoins de relever que mettre ces performances au seul crédit de la politique
+monétaire de la BEAC édulcorerait quelque peu la réalité, dans la mesure où les pays de la
+CEMAC, qui sont exportateurs nets de pétrole dans leur majorité2, ont fortement bénéficié de
+la conjugaison de l’envolée du cours du pétrole et des cours des matières premières exportées
+avec l’augmentation sensible des volumes de brut produits annuellement, et de la réduction
+significative des dettes bilatérales et multilatérales pour trois d’entre eux3.
+2. ExceptionfaitedelaRépubliqueCentrafricainequiestleseulpaysimportateurnetdeproduitspétroliers.
+3. LeCameroun,autitredel’initiatived’annulationdeladettemultilatérale(IADM)etl’initiativeenfaveur
+des pays pauvres très endettés (IPPTE); le Congo et le Tchad, au titre de l’initiative PPTE.
+6
+
+--- Page 8 ---
+Cela va sans dire à la lecture de ces dernières évolutions que l’environnement de la CEMAC
+a connu plusieurs chocs de nature à y avoir affecté le bien-être des agents économiques. Aussi,
+du point de vue de la politique monétaire “discrétionnaire” menée par la BEAC, cette situation
+soulève le problème de son optimalité, eu égard aux préférences de l’autorité monétaire. Si celle-
+ci est optimale, alors la Banque Centrale aura contribué à ces performances économiques par
+rapport à ses missions statutaires.
+Sur le caractère plutôt discrétionnaire de la politique monétaire, l’on sait depuis Kydland &
+Prescott (1977) que “même s’il existe un accord entre les décideurs sur un objectif social, et que
+ceux-ci connaissent les délais et l’ampleur des effets de leurs actions, la politique discrétionnaire,
+disant, la sélection de la meilleure décision, étant donnée la situation courante et une bonne éva-
+luation de celle de fin de période, ne résulte pas en un objectif social maximisé.... Au contraire,
+en se fondant plutôt sur des règles de politique, la performance économique peut être améliorée.”
+Sur cette dernière précision, Barro & Gordon (1983) ont démontré que pour être efficace, la
+politique monétaire doit être crédible4, et qu’une politique fondée sur des règles de conduite est
+plus crédible qu’une politique discrétionnaire. Landais (2008) conclut pour sa part que le long
+débat à propos du choix entre “règle et discrétion” dans la conduite de la politique monétaire a
+débouché, vers le début des années 1980, sur un avantage très marqué en faveur de l’adoption
+de règles. De ce fait, il n’est guère surprenant que beaucoup de banques centrales aient depuis
+lors procédé à leur estimation et leur prise en compte dans le processus de mise en œuvre de
+leur politique monétaire respective.
+Nonobstant la supériorité de la règle sur la discrétion en matière de conduite de politique écono-
+mique, Kydland & Prescott (1977) avaient néanmoins démontré que l’implémentation des règles
+dans le temps est sujette à un inconvénient majeur, l’incohérence temporelle. En matière de
+politique monétaire, celle-ci décrit une situation dans laquelle les préférences du décideur chan-
+geant au cours du temps, la règle peut rapidement devenir inadaptée à la politique appropriée
+à mener à une certaine date. Il est dès lors recommandé de réexaminer fréquemment cette règle
+en fonction de l’évolution des préférences du décideur.
+Dans le cas de la BEAC, l’objectif de ce papier est de dériver une telle règle, de façon à mener
+une évaluation quantitative ex post de l’optimalité de sa politique monétaire sur la période 2001-
+2014, étant données les préférences de la Banque Centrale pour la réalisation de ses objectifs
+interne et externe. Pour ce faire, et en accord avec la proposition de Fève & al. (2008) selon
+4. Loisel (2006) définit la crédibilité de la politique monétaire comme le degré de confiance des agents privés
+dansladéterminationetlacapacitédelabanquecentraleàsuivrelapolitiquemonétaireetatteindrelesobjectifs
+qu’elle a annoncés.
+7
+
+--- Page 9 ---
+lesquels, un modèle DSGE (dynamic stochastic general equilibrium model) avec une politique
+monétaire qui maximise le bien-être social et qui intègre suffisamment de rigidités nominales
+et réelles constitue un outil sérieux d’évaluation de ladite optimalité, nous menons une analyse
+contrefactuelle de cette politique monétaire.
+L’analyse contrefactuelle consiste dans le cas présent à dériver une règle optimale de politique
+monétaire de la BEAC sur la période sous revue à partir de la minimisation d’une fonction de
+perte représentant les préférences de l’autorité monétaire, sous contrainte du cadre macroécono-
+miquedécritparunmodèleDSGEdeformeréduite.Lerapprochementdelarèglesimuléed’avec
+la série observée du TIAO permettra ainsi d’évaluer l’adéquation entre les deux séries. Lorsque,
+ex post, cette dernière serait avérée, la politique monétaire menée par la BEAC de 2001 à 2014
+pourrait alors être jugée optimale. En d’autres termes, par politique monétaire optimale ex post
+pourlaBEAC,ilfaudraentendrelasituationdanslaquelle,étantdonnéeslespréférencesdel’au-
+torité monétaire, la trajectoire observée du TIAO au cours de la période d’analyse est “identique
+au sens statistique” à la trajectoire simulée fournie par la règle optimale correspondante.
+Cette quête est justifiée dans le contexte de la BEAC pour diverses raisons. Au plan théorique
+d’abord, Fève & al. (2008) notent fort à propos la pertinence de cette évaluation aussi bien du
+pointdevuedesbanquescentralesquedupointdevueacadémique. Auniveaupratiqueensuite,
+la dégradation continue des finances publiques des Etats membres de la CEMAC, induite par
+la chute brutale et persistante des cours du pétrole et des autres matières premières depuis
+2014, a entraîné un recours accru aux financements monétaires desdits déficits. Cette situation
+est exacerbée par la faible capacité de ces Etats à lever durablement des fonds sur les marchés
+de capitaux internationaux, compte tenu de leurs contraintes d’endettement extérieur. De ce
+fait, malgré les dispositions statutaires qui encadrent et limitent le financement monétaire des
+déficits, les pressions sur la BEAC se feront plus insistantes, et il ne serait pas surprenant de
+voir cette dernière y accéder in fine, ainsi que le relèvent Sargent & Wallace (1981), en parlant
+de la “poule mouillée”, pour qualifier le comportement de la banque centrale, qui finira toujours
+par céder.
+Dans une démarche prospective enfin, à l’instar des autres banques centrales, la règle optimale
+de politique monétaire qui sera dérivée, bien que ne liant pas les mains des décideurs du Comité
+de Politique Monétaire de la BEAC, pourrait néanmoins leur servir d’outil d’aide à la décision.
+Ainsi, de façon pragmatique, l’autorité monétaire pourra quantifier la portée de ses actions dans
+différents scénarii selon qu’elle dévierait à la baisse ou à la hausse de la trajectoire optimale
+projetée de son TIAO. Dans cette dernière configuration, cet outil viendrait combler le vide
+8
+
+--- Page 10 ---
+constitué par l’absence d’une démarche empirique pour fixer la valeur du TIAO, en rapport
+avec l’objectif final de stabilité monétaire; la BEAC ayant adopté, en 2015, le pilotage du taux
+interbancaire moyen pondéré autour de son taux directeur.
+Lasuitedecepapierseprésentecommesuit.Lapremièresection,consacréeàunerevuesuccincte
+delalittérature,apporteunélémentderéponseàlaquestionquesoulèvenaturellementl’objectif
+de ce papier. La deuxième section pose le cadre théorique à partir duquel est dérivée la règle
+optimaledepolitiquemonétairedelaBEAC,enfonctiondespréférencesthéoriquesdel’autorité
+monétaire. La troisième section s’attelle à la détermination des paramètres de la règle optimale
+sur la base des données de la CEMAC, en considérant différents scénarii sur les préférences du
+CPMquantàsesobjectifsàmoyenterme.Laquatrièmesectioncomparelesrésultatsempiriques
+obtenus au TIAO observé sur la période d’analyse et se prononce sur l’optimalité ex post ou non
+de la politique monétaire menée par la BEAC entre 2001 et 2014. Enfin, la dernière section
+conclut cette étude.
+1 Quelle règle de politique monétaire? Une brève revue de la
+littérature
+Dans la littérature économique, le choix d’une règle de politique monétaire soulève deux pro-
+blèmesmajeurs.Lepremierconcernel’identificationdel’instrumentdepolitiquemonétairepour
+lequel la règle est nécessaire à l’atteinte de l’objectif final. Et depuis la contribution de Taylor
+(1993), le deuxième problème majeur tient à la spécification de la règle optimale correspondante
+eu égard à l’environnement économique.
+S’agissant du premier problème relevé supra, il faut noter que l’assignation de la stabilité des
+prix comme objectif final de politique monétaire s’est largement répandue dans la plupart des
+banques centrales. Sénégas (2002) apporte une justification à cette orientation en précisant que,
+“sauf à considérer des mésalignements durables du taux de change, la composante monétaire des
+politiques économiques devrait se charger du maintien de la stabilité des prix à moyen terme
+et de la réponse à apporter aux chocs communs (symétriques), tandis que la gestion des fluc-
+tuations de la demande globale reviendrait plutôt à la politique budgétaire (ainsi que celle des
+chocsidiosyncrasiquesetasymétriques).” AsasuiteLandais(2008)soulignequeplusieursétudes
+aussibienthéoriquesqu’empiriquesontprouvéquelapolitiquemonétaireaégalementunimpact
+sur l’activité réelle à court terme. Par conséquent, elle se doit aussi d’apporter sa contribution
+à la stabilisation de l’activité lorsque les anticipations des agents deviennent exagérément op-
+timistes/pessimistes ou en présence de chocs. Il en conclut que, sous réserve de respecter les
+9
+
+--- Page 11 ---
+préférences et intérêts des acteurs économiques, la banque centrale doit conduire son action en
+partant d’un double objectif de stabilité des prix et de stabilisation de l’activité réelle5.
+En ce qui concerne le deuxième problème, la double préoccupation de stabilité des prix et de
+stabilisation de l’activité par la politique monétaire a conféré un intérêt indéniable à la règle
+de Taylor (1993)6. Se fondant sur le calcul d’un taux d’intérêt de court terme compatible avec
+l’objectif d’inflation de la banque centrale et l’évolution de l’écart de la production à son niveau
+potentiel (encore appelé output gap), la règle de Taylor a pour ambition de proposer une ligne
+de conduite qui s’imposerait aux autorités monétaires (Drumetz & Verdelhan, 1997). C’est le
+Principe de Taylor ainsi que le décrit Pollin (2004).
+Une nuance mérite néanmoins d’être apportée ici, en accord avec Taylor lui-même. En exami-
+nant en effet la manière dont cette règle pouvait être incorporée en pratique dans le processus
+de décision de politique monétaire, il concluait que cela ne pouvait se faire que de façon très
+“pragmatique”. Ainsi, sans être optimale, la règle de Taylor a inspiré beaucoup de travaux sur
+la détermination de fonctions de réaction optimales des banques centrales, en passant par Ball
+(1997), Le Bihan & Sahuc (2001), Sibi (2002), Woodford (2003), Friedman & Woodford (2010)
+et Alichi & al. (2015), pour ne citer que ceux-là.
+Pour Ball (1997) en effet, seule une étude approfondie de la formation de l’écart de production
+et de l’inflation, dans le cadre de l’estimation d’un modèle théorique, permet de trancher sur
+l’optimalité de la règle de politique monétaire. A ce propos, Sibi (2002) renchérit qu’à l’aide
+d’un modèle théorique et d’un processus d’optimisation sous contrainte, il est possible de déter-
+miner de façon endogène les pondérations optimales respectives des arguments de la fonction de
+réaction de la banque centrale. Il faut noter que cette idée était déjà présente chez Kydland &
+Prescott (1977). Ces derniers avaient justement souligné l’importance de la théorie du contrôle
+optimal comme un outil puissant pour l’analyse des systèmes dynamiques. Woodford (2003) a
+effectivement reconnu la pertinence de cet outil dans le choix d’une trajectoire optimale du taux
+d’intérêt, pour enrichir le processus de décision de politique monétaire.
+Dansladirectiondelathéorieducontrôleoptimal,Friedman&Woodford(2010)relèventquela
+minimisationdelafonctiondeperteglobaledel’autoritémonétaireconduitàladérivationd’une
+règle optimale de politique monétaire. Dans sa contribution individuelle, la même année, Wood-
+ford (2010) remarque que : “une politique peut être dite robustement optimale si elle garantit
+5. C’est ce que précisent d’ailleurs les statuts de la BEAC, article 1er, alinéas 1 et 2.
+(cf. http://www.droit-afrique.com/upload/doc/cemac/BEAC-Statuts-2007.pdf)
+6. Unaperçusynoptiquedelavastelittératuresurlestravauxéconométriquesayantévaluélesrèglesdetaux
+d’intérêtcommeinstrumentdepolitiquemonétaireadosséeàunerèglepeutêtretrouvédansTaylor(1999,tab.1,
+p.30).
+10
+
+--- Page 12 ---
+une valeur aussi élevée que possible de la fonction objectif du décideur, sous quelques croyances
+subjectives compatibles avec un critère d’entropie relative”. Alichi & al. (2015) précisent que ce
+critère d’entropie relative ou fonction de perte doit nécessairement refléter les préférences des
+décideurs de politique monétaire pour que la règle qui en résulte soit utilisée comme fonction
+de réaction. Pour eux, comme pour Sibi (2002) d’ailleurs, dans la mesure où l’approche par la
+fonction de perte pondère explicitement les préférences à court terme sur un arbitrage inflation
+vs output, elle permet de générer des scenarii alternatifs qui retracent les différences dans les
+préférencesentrelesmembresd’uncomitédepolitiquemonétaire.Detelsscenariilesaideraientà
+sélectionner leur trajectoire préférée du taux d’intérêt à partir d’une large gamme d’alternatives
+cohérentes avec leurs objectifs de moyen et long terme.
+Siàlalecturedecesdéveloppementsdelalittératureilnefaitaucundoutesurlecadrethéorique
+de dérivation de la règle optimale de politique monétaire, le contexte réel doit nécessairement
+être pris en compte. Dans la réalité en effet, la politique monétaire est conduite dans environne-
+ment empreint d’une grande incertitude, avec par exemple des fluctuations des cours du pétrole,
+des ruptures structurelles dans les comportements macroéconomiques, des chocs et autres phé-
+nomènes pas toujours prévisibles.... En conséquence, remarquent Le Bihan & Sahuc (2001), la
+règle de politique monétaire optimale doit obligatoirement satisfaire deux principes cardinaux :
+- le principe de l’équivalent-certain de Theil (1958) : la règle doit être insensible à toute
+incertitude sur la mesure des variables entrant dans sa construction;
+- le principe de conservatisme de Brainard (1967) : en présence d’incertitude sur les méca-
+nismes de transmission, l’utilisation de la règle optimale requiert davantage de prudence
+pour la conduite de la politique monétaire, qu’en environnement certain.
+Toutes les exigences précédentes prises en ligne de compte, la littérature sur l’évaluation des
+règlesoptimalesdepolitiquemonétaireautiliséplusieurstypesdemodèlesdifférents.Aunombre
+de ceux-ci il peut être cité des modèles en économie fermée; des modèles sur petites économies
+ouvertes et desmodèlesmulti-pays (estimés ou calibrés,avec ou sans anticipations rationnelles);
+des modèles d’optimisation à agents représentatifs; et de gros modèles économétriques avec
+anticipations rationnelles (Taylor, 1999).
+Danslapanopliedemodèlesrencontrésdanscettelittérature,Loisel(2006)indiquequelemodèle
+Néo-keynésien,dontl’usages’estlargementrépanducesdernièresannéesaussibiendanslemilieu
+universitaire qu’au sein des banques centrales, apparaît comme un cadre théorique privilégié
+pour l’étude de la crédibilité de la politique monétaire. Celui-ci, note t-il, prend explicitement en
+compte les anticipations des agents privés tout en préservant une grande simplicité. Abondant
+11
+
+--- Page 13 ---
+dans le même sens, et en accord avec sa proposition d’optimalité robuste reprise ci-dessus,
+Woodford (2010) illustre effectivement la possibilité d’analyser une politique dans le cadre d’un
+modèle Néo-keynésien log-linéaire d’arbitrage entre inflation et stabilisation de l’output.
+Ainsi, à l’instar des versions de Clarida & al. (1999), Woodford (2003b) et Woodford (2010), la
+version canonique du modèle Néo-keynésien utilisé pour dériver une règle optimale de politique
+monétaire se compose : (i) d’une courbe IS intertemporelle représentant le comportement de
+consommation des ménages; (ii) d’une courbe de Phillips néo-keynésienne exprimant l’offre
+agrégée;et(iii)unecourbereprésentativedel’équilibreextérieurouducomportementmonétaire
+des agents économiques pour boucler la demande globale avec la courbe IS. Ce modèle est alors
+utilisé comme espace de contraintes sur lequel est minimisée une fonction de perte exprimant les
+préférences des décideurs de politique monétaire entre les objectifs de stabilité des prix et/ou de
+stabilisation de l’activité réelle, mais aussi de maintien de la fixité du change.
+En définitive, la règle optimale de politique monétaire de la BEAC sera dérivée comme le critère
+permettant la minimisation d’une fonction de perte de la Banque Centrale, sous contrainte du
+cadre macroéconomique représenté par une version canonique en économie ouverte du modèle
+Néo-keynésien.Aumieuxdenotreconnaissance,iln’existepasencoreunetelleétudeconcernant
+l’évaluation ex post de l’optimalité de la politique monétaire de la BEAC.
+2 Cadre théorique de dérivation de la règle optimale de politique
+monétaire pour la BEAC
+Cette section présente dans un premier temps le cadre macroéconomique théorique postulé pour
+décrire l’économie de la CEMAC, avant d’aborder dans un deuxième temps la caractérisation
+du comportement de la Banque Centrale. La dernière sous-section présente la dérivation de la
+règle optimale de politique monétaire proprement dite, en fonction des préférences de l’autorité
+monétaire.
+2.1 Hypothèses sur le cadre macroéconomique
+Parmi les économistes, s’il est largement admis de baser l’analyse quantitative de la politique
+économique sur des modèles structurels validés, il est tout aussi reconnu l’importance de l’endo-
+généisationdesanticipationsdanscesmodèles,desorteàapprécierlamanièredontellesseraient
+modifiées en considérant des politiques alternatives (Woodford, 2009). Partant des principes de
+12
+
+--- Page 14 ---
+l’équivalent-certain de Theil et de conservatisme de Brainard, d’une part, et comme annoncé
+dans la section précédente, d’autre part, le cadre théorique retenu dans ce papier pour sous-
+tendre l’analyse de l’optimalité ex post de la politique monétaire de la BEAC est le modèle
+Néo-keynésien canonique pour une petite économie ouverte.
+Al’imagedelaversiondecemodèlefournieparBalldansTaylor(1993,p.128),unespécification
+candidate, qui comprend deux grands blocs, à savoir l’économie domestique (la CEMAC) et
+l’économie étrangère, en l’occurrence la Zone Euro, se présente comme suit :
+— Économie domestique
+y = δ y +(1−δ) E (y )−σ[r −E (π )]+ω y∗ +εy (1)
+t t−1 t t+1 t t t+1 t−1 t
+π = α π +(1−α) E (π )+κ y +κ π∗ +επ (2)
+t t−1 t t+1 1 t 2 t−1 t
+r = γ r +(1−γ )[r∗+γ (π −π¯)+γ y ]+εr (3)
+t 3 t−1 3 t 1 t 2 t t
+où, à la période trimestrielle t, y désigne l’output gap; π et π∗ sont les taux de croissance
+t t t
+trimestrielle annualisés du niveau général des prix dans l’économie domestique et dans la Zone
+Euro respectivement; r et r∗ sont les taux d’intérêt nominaux de la BEAC et la BCE respec-
+t t
+tivement; E (·) est l’opérateur d’espérance mathématique conditionnellement à l’information
+t
+disponible à la date t; εy, επ et εr sont des processus markoviens non nécessairement corrélés,
+t t t
+décrivant respectivement les chocs domestiques de demande, d’offre et de politique monétaire.
+Enfin, δ, σ, ω, α, κ , κ , γ , γ et γ sont les paramètres structurels positifs du modèle.
+1 2 1 2 3
+L’équation (1) est une courbe IS intertemporelle, qui fait dépendre l’output gap de ses valeurs
+retardée (+) et anticipée (+) d’une période respectivement; du taux d’intérêt réel ex ante (−);
+de la conjoncture antérieure de la Zone Euro (+/−) et d’un choc de demande.
+L’équation (2) est une courbe de Phillips néo-keynésienne (NKPC) dans la lignée de Galì &
+Gertler (1999). Les changements du taux d’inflation y dépendent de l’output gap (+), de ses
+valeursanticipée(+)etretardée(+)d’unepérioderespectivement;ainsiquedutauxd’inflation
+importée de l’économie étrangère (+) et d’un choc d’offre.
+L’équation (3) est une fonction de réaction de la banque centrale, à partir de laquelle elle fixe le
+niveau de son taux directeur, en tenant compte des objectifs interne et externe de sa politique
+monétaire, tout en veillant notamment à ne pas surprendre les agents économiques.
+13
+
+--- Page 15 ---
+— Économie étrangère
+Afin de ne pas abonder inutilement dans la complexité de la dérivation d’un modèle macroé-
+conomique pour la Zone Euro, nous retenons, à l’instar de Lajmi & El-Khadhraoui (2013),
+dans le modèle de projection global (GPM) pour la prévision à moyen terme de la Tunisie, une
+modélisation simplifiée de l’économie extérieure, telle que :
+y∗ = ψ y∗ +ψ y∗ +ξy (4)
+t 1 t−1 2 t−2 t
+π∗ = φ π∗ +(1−φ ) π¯∗+φ y∗ +ξπ (5)
+t 1 t−1 1 2 t−1 t
+r∗ = η r∗ +(1−η) r¯∗+ξr (6)
+t t−1 t
+Comme pour l’économie domestique, les chocs extérieurs ξy, ξπ et ξr sont supposés décrits par
+t t t
+des processus markoviens deux à deuxindépendants.π¯∗ etr¯∗ désignent respectivement lanorme
+de stabilité des prix dans la Zone Euro (2%) et la valeur moyenne du taux d’intérêt de la BCE
+surlapérioded’étude.Leséquations(4)−(6)représententdesprocessusautorégressifsdécrivant
+respectivementlesdynamiques,pourlaZoneEuro,del’outputgap(y∗),dutauxd’inflation(π∗)
+et du taux d’intérêt de la BCE (r∗).
+2.2 Comportement théorique de la banque centrale
+La description des préférences du banquier central quant à son attachement à ses objectifs est
+fréquemment fournie par une fonction de perte. Or le choix de cette dernière demeure un en-
+jeu crucial pour l’évaluation quantitative de l’optimalité de ses actions. Dans la littérature, il
+en existe de plusieurs formes, dont bon nombre dérivent de la classe générale des fonctions de
+l’espace Lp (fonctions d’utilité de type CES, Cobb-Douglas, logarithmique, CARA, CRRA...),
+mais aussi polynomiales. La plus répandue reste toutefois la fonction de perte linéaire quadra-
+tique.Eneffet,Benigno&Woodford(2012)démontrentquelaspécificationlinéairequadratique
+supposée dans Woodford (2010) peut être une bonne approximation locale des problèmes d’opti-
+misation dynamique de politique avec engagement, dans un modèle Néo-keynésien incluant des
+anticipations rationnelles.
+Parmi les fonctions de perte quadratique de la banque centrale donc, Avouyi-Dovi & Sahuc
+(2007) relèvent que deux cas peuvent être distingués dans leur spécification. D’un côté, il y a
+la spécification endogène, dans laquelle les pondérations des écarts des variables économiques
+à leurs valeurs visées dépendent des paramètres structurels du modèle. Et, de l’autre côté, la
+spécification "ad hoc", où ces pondérations sont plutôt choisies de façon discrétionnaire. Pour
+14
+
+--- Page 16 ---
+Avouyi-Dovi & Sahuc, si effectivement le choix du type de spécification de la fonction de perte
+n’est pas neutre en termes d’impact sur le bien-être, le cas endogène l’emporterait sur le cas
+ad hoc, car la politique monétaire est menée en environnement incertain. Fève & al. (2008)
+soulignent également les limites de la spécification ad hoc basée sur des formes sémi-réduites des
+modèles dans la lignée de Favero & Rovelli (2003) et Dennis (2006), entre autres.
+Il convient de souligner que la démonstration de Benigno & Woodford (2012), dans le cadre
+du modèle Néo-keynésien avec anticipations rationnelles, corrige ces limites pour au moins deux
+raisons.D’unepart,l’incertitudecaractéristiquedel’environnementdelapolitiquemonétaireest
+explicitementpriseencomptedanslemodèle.D’autrepart,l’approximationlinéairequadratique
+dérive d’une fonction d’utilité sociale des agents économiques dans les modèles microfondés avec
+anticipations rationnelles sous-jacents. Enfin, dans la mesure où au stade actuel, les faits stylisés
+sur les économies de la CEMAC très peu vérifiés empiriquement peuvent rendre difficile voire
+hasardeuse la spécification endogène de la fonction de perte, nous privilégions une spécification
+ad hoc. Dès lors, et au regard des missions de la BEAC statutaires, de stabilité des prix, de
+couverture suffisante de la monnaie et de stabilisation de l’output, nous postulons la fonction de
+perte suivante :
+1 (cid:104) (cid:105)
+L = (π −π¯)2+λ y2+λ (r −r )2+(1−λ )(r −r∗)2 (7)
+2 t 1 t 2 t t−1 2 t t
+où π¯ désigne la norme de stabilité des prix telle qu’édictée dans le cadre de la Surveillance
+multilatérale;λ ≥ 0désignelepoidsaccordéparl’autoritémonétaireàl’objectifdestabilisation
+1
+de l’activité réelle comparativement à celui de stabilité des prix; et λ ≥ 0, représente le poids
+2
+accordé à la nécessité de lissage du taux d’intérêt, de façon complémentaire à la contrainte
+d’arrimage à la devise européenne à moyen terme.
+Outre les objectifs de stabilité des prix, de stabilisation de l’output et d’arrimage de la monnaie
+domestique à l’euro, la fonction de perte intègre aussi des préférences en termes de lissage des
+taux d’intérêt. Ce choix tient compte de la remarque d’Amato & Laubach (2003) qui soulignent
+la nécessité d’ajouter ce lissage, sinon des contraintes sur le comportement du taux d’intérêt
+nominal, sans quoi il serait très volatil.
+En définitive, tel qu’exposé, le cadre macroéconomique indique que la Banque Centrale suivra
+une politique monétaire optimale si elle choisit son taux d’intérêt directeur de façon à minimiser
+sa fonction de perte (7), sous contrainte des dynamiques des économies domestique et étrangère
+décrites respectivement par les équations (1)−(2) et (4)−(6).
+15
+
+--- Page 17 ---
+2.3 Dérivation de la règle optimale de politique monétaire
+Étant donnée la forme quadratique de la fonction de perte de la banque centrale et la spécifi-
+cation linéaire des contraintes, la résolution de son programme d’optimisation dynamique, sous
+les contraintes (1), (2) et (4)−(6), par la méthode du Lagrangien permet, après quelques mani-
+pulations algébriques, de trouver les valeurs optimales des paramètres γˆ, γˆ et γˆ, pour obtenir
+1 2 3
+une règle optimale de la banque centrale de la forme suivante :
+r = γˆ r +(1−γˆ)[r∗+γˆ (π −π¯)+γˆ y ] (8)
+t 3 t−1 3 t 1 t 2 t
+Telle qu’écrite dans (8), la règle optimale de politique monétaire indique que la banque centrale
+doitfairevariersontauxdirecteurenfonctiondesévolutionsappréciéesparelle,(i)del’écartde
+l’inflation à sa valeur maximale à moyen terme, (ii) de l’output gap, et (iii) du taux d’intérêt de
+la BCE. La présence du taux d’intérêt retardé dans cette fonction de réaction rend donc compte
+de la préoccupation de lisser temporellement le taux directeur. Il y a également lieu de noter que
+même si l’équation (8) ne fait pas apparaître explicitement les éléments prospectifs et ceux liés
+à l’incertitude inhérente aux chocs, aux données et aux mesures tels que le soulignent Cateau &
+Murchison (2010), cette fonction de réaction en tient bien compte. Ses paramètres dépendent en
+effet des éléments et facteurs du modèle structurel. Elle s’affranchit de ce fait de la critique de
+Côté & al. (2002) selon laquelle la plupart des études sur les règles de politique monétaire font
+fi de l’incertitude qui entoure les chocs que subit l’économie.
+En dernier lieu, étant données les préférences des membres de son comité de politique monétaire
+en matière de stabilisation des prix et de l’activité réelle, mais aussi de préservation de son
+équilibre extérieur dans le contexte de son ancrage nominal, sans bien entendu surprendre les
+agentséconomiquespardestauxd’intérêtfortementerratiques,leproblèmededéterminationde
+la fonction de réaction optimale de la banque centrale revient à rechercher les valeurs optimales
+des paramètres dans la relation (8).
+3 Détermination empirique de règle(s) optimale(s) pour la BEAC
+3.1 Les données utilisées
+Aux fins de détermination des trajectoires de la règle optimale pour la BEAC, une fois données
+lespréférencesdesautoritésdepolitiquemonétaire,lessériesutilisées,observéesàunefréquence
+trimestrielle sur la période 2001 :Q1-2014 :Q4, sont : (1) le PIB réel de la CEMAC, qui a été tri-
+16
+
+--- Page 18 ---
+mestrialiséàl’aidedelatechniquedeChow&Lin(1971);(2) lestauxd’inflationtrimestrielleen
+glissementannueldelaCEMACetdelaFrance,calculésàpartirdesindicesdesprixàlaconsom-
+mation des ménages de chacune de ces zones, qui sont disponibles respectivement à la BEAC et
+surwebstat7 (ICP.M.FR.N.00000.0.4.NR);(3) le TIAOde laBEAC;(4) le taux principal
+de refinancement sur opérations à taux fixés durant le dernier mois du trimestre sous revue dans
+laZoneEuro,etdisponiblesurlesitedelaBCE(FM.B.U2.EUR.4F.KR.MRR_FR.LEV);
+(5) l’output gap de la CEMAC, calculé à l’aide du filtre de Hodrick-Prescott sur les données
+trimestrialisées de son PIB réel; et (6) l’output gap de la Zone Euro, qui a également été estimé
+à partir du filtre HP appliqué à la série du PIB réel de cette zone, lui-même calculé à partir du
+PIB courant - optique revenu8 déflaté par l’indice 2010 du PIB - optique dépense9.
+3.2 Détermination des paramètres de la règle monétaire optimale
+3.2.1 Calibrage des paramètres structurels du modèle
+L’identification de certains paramètres du modèle étant difficile à opérer à partir des données
+disponibles, notamment dans le cas de l’économie de la Zone Euro, ceux-ci ont été calibrés
+comme l’ont fait Lajmi & El-Khadhraoui (2013) dans l’estimation du GPM de la Tunisie. Pour
+les autres paramètres décrivant la situation de long terme, leurs valeurs ont été fixées à leur
+moyenne sur la période d’observation. Les normes de stabilité des prix dans la CEMAC et dans
+laZoneEuroontétéprisestellesquedéfiniesparlaBEACetlaBCErespectivement.Letableau
+1 présente les valeurs correspondantes des paramètres10.
+7. http://webstat.banque-france.fr.
+8. La série correspondante, ”B1_GI : Produit intérieur brut-optique revenu” a été extraite le 03 mai
+2016 à 09 :12 UTC (GMT) de la base OECD.Stat, sous la rubrique ”Comptes Nationaux Trimestriels PIB”,
+souslamesure”CQRSA : Monnaie nationale, prix courants, niveaux trimestriels,CVS”,surlapériode
+T1-2000 à T4-2014.
+9. Ils’agitdelasérie”B1_GE : Produit intérieur brut-optique des dépenses, Indice 2010”,extraite
+le 03 mai 2016 à 09 :21 UTC (GMT) de la base OECD.Stat, sous la rubrique ”Comptes Nationaux Trimestriels
+PIB”, sous la mesure ”DOBSA : Déflateur, année de référence OCDE, CVS”, sur la période T1-2000 à
+T4-2014.
+10. La description de tous les paramètres et tous les chocs du modèle représenté par les équations (1)−(6)
+ainsi que celle des paramètres de la fonction de perte théorique de l’autorité monétaire (7) est fournie dans la
+table3àl’annexeA.1.Pourlecalculdel’outputgapdelaZoneEuro,lasérieutilisée(tellequ’indiquéesupra)a
+été modélisée suivant un processus ARMA(p,q), dont l’estimation a permis l’obtention des valeurs calibrées de
+ψ et ψ telles que consignées dans la table 1.
+1 2
+17
+
+--- Page 19 ---
+Table 1 – Valeurs des paramètres calibrés du modèle structurel
+Paramètre Interprétation Valeur
+π¯ Taux d’inflation à moyen terme de la CEMAC 0.030
+π¯∗ Taux d’inflation à moyen terme de la zone euro 0.020
+r¯∗ Taux d’intérêt réel à long terme de la BCE 0.005
+ψ Coefficient du retard d’ordre 1 de l’output gap de la zone euro 0.080
+1
+ψ Coefficient du retard d’ordre 2 de l’output gap de la zone euro -0.250
+2
+φ Degré de persistance de l’inflation dans la zone euro 0.500
+1
+η Degré de persistance intrinsèque du taux d’intérêt de la BCE 0.850
+3.2.2 Approche d’évaluation numérique des paramètres optimaux de la règle
+L’évaluation numérique des paramètres optimaux est faite en combinant la technique de cali-
+brage du modèle retenu précédemment et l’utilisation de la fonction “osr” (optimal simple rule)
+sous Dynare. Le programme d’optimisation dynamique sous contraintes linéaires à anticipations
+rationnelles, tel que l’exécuterait l’autorité monétaire dans la CEMAC, résolu numériquement
+sous Matlab11, fournit les valeurs optimales recherchées dans la règle (8).
+Plus explicitement, pour chaque couple de valeurs des paramètres (λ , λ ) des préférences de la
+1 2
+Banque Centrale, la trajectoire optimale du TIAO est reconstituée sur la base de l’équation (8),
+à partir (i) des valeurs optimales calculées de γˆ , γˆ et γˆ ; (ii) de la valeur du TIAO au premier
+1 2 3
+trimestre2001;et(iii)desobservationsdesvariablesπ ,y ,r∗,surlapériode2001:Q1-2014:Q4.
+t t t
+4 Résultats et adéquation à l’optimalité de la politique monétaire
+de la BEAC depuis 2001
+Les résultats d’estimation des valeurs des paramètres de la règle optimale de politique moné-
+taire pour la BEAC sont synthétisés dans la table 2, en fonction des préférences de l’autorité
+monétaire. L’analyse contrefactuelle depuis 2001 consiste alors à rapprocher les différentes tra-
+jectoires optimales simulées de la série réellement observée du TIAO sur la période d’intérêt. Vu
+la qualité des résultats obtenus, une évaluation graphique suffit. Ceux-ci ne nécessitent pas en
+effet le recours à des tests non paramétriques d’adéquation de distributions, comme illustré sur
+la figure 1.
+11. Lecodecorrespondantestreprisàl’annexeA.2pourdespondérationsdonnéesdespréférencesdel’autorité
+monétaire.
+18
+
+--- Page 20 ---
+Table 2 – Valeurs des paramètres optimaux estimés en fonction des préférences théoriques des
+autorités monétaires de la CEMAC
+Préférences théoriques des autorités monétaires γˆ γˆ γˆ
+1 2 3
+λ =0.25 75.3053 19.3931 0.9962
+2
+λ =0.50 85.7176 19.8420 0.9959
+λ =0.25 2
+1
+λ =0.75 75.8201 15.8344 0.9939
+2
+λ =1.00 70.2659 13.8588 0.9911
+2
+λ =0.25 73.2338 19.4599 0.9959
+2
+λ =0.50 89.1363 21.4703 0.9958
+λ =0.50 2
+1
+λ =0.75 75.6320 16.6651 0.9937
+2
+λ =1.00 61.9638 12.9855 0.9897
+2
+λ =0.25 81.7698 22.2847 0.9962
+2
+λ =0.50 70.7211 17.5567 0.9945
+λ =0.75 2
+1
+λ =0.75 75.3567 17.3286 0.9935
+2
+λ =1.00 65.0171 14.3979 0.9899
+2
+λ =0.25 71.7691 19.8931 0.9954
+2
+λ =0.50 90.5593 23.1486 0.9956
+λ =1.00 2
+1
+λ =0.75 91.0519 21.7667 0.9944
+2
+λ =1.00 63.6137 14.7583 0.9894
+2
+Cas polaires
+λ =0.00 73.5047 22.3695 0.9963
+λ =1.00 2
+1
+λ =1.00 63.6137 14.7583 0.9994
+2
+λ =0.00 81.9345 22.4574 0.9973
+λ =0.00 2
+1
+λ =1.00 88.6487 16.1668 0.9931
+2
+Source:nosestimationssurmatlabmisesenforme.
+Alalecturedesrésultatsdanslatable2,ilapparaîtquequellesquesoientlespréférencesdel’au-
+torité monétaire entre ses objectifs de stabilité des prix, de stabilisation de l’output, d’arrimage
+du F CFA à l’euro et de lissage des taux d’intérêt, la règle optimale obtenue accorde une impor-
+tance très marquée au lissage du taux d’intérêt. En effet, le coefficient optimal correspondant
+(γˆ ) est de l’ordre de 0.99 au moins. Cette valeur aurait porté à envisager que le TIAO optimal
+3
+de la CEMAC serait en fait un processus de marche aléatoire, si les éléments stochastiques du
+modèle Néo-keynésien utilisé pour la dérivation de sa trajectoire théorique n’étaient pas inclus
+dans les paramètres structurels de la règle optimale.
+La figure 1 représente conjointement la trajectoire optimale reconstituée du TIAO et celle réelle-
+ment observée sur la période 2001 :Q1-2014 :Q4, pour chaque couple (λ , λ ) de préférences de
+1 2
+l’autorité monétaire de la CEMAC. Ces préférences ont été simulées par balayage de l’intervalle
+[0; 1], avec un pas de 0.25, pour les pondérations λ et λ respectivement. Il ressort de l’examen
+1 2
+de cette figure que l’adéquation entre les séries simulée et observée est incontestable pour les
+pondérations λ = 1 et λ = 1. D’après la spécification de la fonction de perte, ces dernières
+1 2
+valeurs de pondération correspondent à des préférences égalitaires de l’autorité monétaire pour
+lastabilisationdel’outputetlelissagedestauxd’intérêt,enplusdel’objectifinternedestabilité
+19
+
+--- Page 21 ---
+des prix. Dès lors, il peut être noté ex post que si telles étaient les préférences réelles de l’autorité
+de politique monétaire de la BEAC entre 2001 et 2014, alors la Banque Centrale aurait mené
+une politique monétaire optimale, dans la mesure où le taux directeur correspondant sur cette
+période aurait minimisé sa fonction de perte.
+Figure 1 – TIAO optimal théorique (bleu) et TIAO observé (rouge) sur la période 2001 :1-
+2014 :4 en fonction des préférences supposées des autorités monétaires
+Source:nostravaux.
+20
+
+--- Page 22 ---
+En confrontant ce résultat à la réalité économique sur la période d’observation, cette conclusion
+serait vraisemblable eu égard aux faits, avec d’abord, la non prise en compte de l’exigence
+de l’arrimage du F CFA à l’Euro dans les préférences de l’autorité monétaire (1 − λ = 0).
+2
+Si la disposition statutaire relative à cette contrainte exige un taux de couverture extérieure
+d’au moins 20%, les observations12 faites entre 2001 et 2014 montrent que celui-ci n’a pas
+véritablement été mis en péril. Sur cette période en effet, le taux de couverture extérieure de
+la monnaie s’est en moyenne situé autour de 89%, avec un plus-bas à 65%, enregistré en 2003,
+contre un plus-haut à 102.9%, en 2009.
+Ensuite, le contexte économique de la CEMAC a été très favorable, avec en moyenne un taux
+de croissance réelle de 4.6% et un taux moyen d’inflation sous-régionale de 3%, en moyenne
+annuelle. L’envolée puis le raffermissement du cours du pétrole brut entre 2001 et 2014 ont
+fortement contribué à cette évolution, qui a entraîné l’augmentation des recettes publiques des
+Etats exportateurs nets13 de brut dans la Zone; et partant, la consolidation des disponibilités
+extérieures de la Banque Centrale. Pour rappel, en 2001, le cours du brent était à USD 24.44
+le baril14, en moyenne annuelle, avant d’atteindre un premier pic à USD 96.99 le baril en 2008,
+puis un plus-haut historique à USD 111.66 le baril, en moyenne annuelle, en 2012, d’où il est
+revenu, ressortant à USD 99.02 le baril en 2014, puis USD 52.35 le baril en 2015, et enfin, USD
+36.70 au cours des quatre premiers mois de 2016. Face à l’afflux des recettes budgétaires, et afin
+de contenir les pressions inflationnistes inhérentes à l’accroissement des dépenses courantes et
+d’investissement publics des gouvernements dans ses Etats membres, engagés dans des grands
+travaux d’infrastructures, la BEAC a aussi œuvré à la stérilisation d’une part importante de ces
+recettes budgétaires à travers notamment une gestion incitative des dépôts publics et des fonds
+pour les générations futures, dans ses livres.
+Avec la chute brutale du cours du baril de pétrole amorcée depuis 2012, qui a induit le taris-
+sement progressif de leurs recettes d’exportations, les pays de la CEMAC, qui pratiquent des
+politiques budgétaires non contracycliques, ont enregistré et continuent d’enregistrer un creuse-
+mentsensibledeleursdéficitspublics,couplésàdesdéficitschroniquesdeleurscomptescourants
+respectifs. Confrontés de plus à des contraintes fortes d’endettement extérieur sur les marchés
+internationaux, certains d’entre eux ont accru les pressions sur la Banque Centrale depuis 2015
+pourobtenird’elledesfinancementsmonétairesdeleursdéficitsbudgétaires.Si,enaccordantces
+12. Source : Fichier de Programmation Monétaire de la BEAC.
+13. Il s’agit des cinq pays suivants par ordre alphabétique : Cameroun, Congo, Gabon, Guinée Équatoriale et
+Tchad.
+14. Source : http://www.developpement-durable.gouv.fr/historique-du-cours-du-brent.date.htm,
+consultée le 08 juin 2016 à 13 :53. Pour les données historiques, elles ont été téléchargées à partir du lien
+http://www.developpement-durable.gouv.fr/IMG/dgec_cours_moyen_du_brent_date_en_dollar_baril.pdf.
+21
+
+--- Page 23 ---
+financementsexceptionnelsdansleslimitesréglementaires,voireau-delàaprèsquelquesréaména-
+gementsdesdispositionsstatutairesenlamatière,auchapitredesmesures non conventionnelles,
+la Banque Centrale a fait preuve d’une certaine magnanimité, pour donner aux Etats bénéfi-
+ciaires le temps d’ajuster structurellement leur politique budgétaire. Il n’en demeure pas moins
+que cette décision de la BEAC pourrait être interprétée comme une disposition nouvelle de sa
+part à modifier ses préférences au besoin, pour le compte de ses Etats membres. Cependant,
+en dépit de la mise en œuvre pragmatique de ces “mesures non conventionnelles” de politique
+monétaire pour atténuer le contrecoup de la chute des revenus des Etats, ceux-ci n’ont pas pour
+autant réduit le rythme de leurs dépenses extérieures. Cette évolution a résulté en une baisse
+accélérée du taux de couverture extérieure de la monnaie, qui est revenu de 90% au 31 décembre
+2014, à 71% douze mois plus tard, pour se situer autour de 66% en juillet 2016.
+Cette chute accélérée du taux de couverture extérieure de la monnaie ne peut pas laisser insen-
+sible la Banque Centrale qui révisera nécessairement les pondérations de ses différents objectifs
+dans sa fonction de perte, surtout celui relatif à la contrainte externe. Ainsi, l’objectif de satis-
+faction de la contrainte d’arrimage du F CFA à l’Euro ne saurait être continuellement ignoré
+si les risques de dégradation du niveau de ce taux de couverture s’accentuaient davantage. De
+ce fait, et au delà de l’optimalité ex post de la politique monétaire de la BEAC depuis 2001
+jusqu’en 2014, telle qu’évaluée dans ce papier, l’autre intérêt de ce travail serait l’insertion du
+cadreproposéiciaudispositifdedéterminationduniveauoptimalprévisionneldutauxdirecteur
+de la Banque Centrale, en fonction des préférences révisées de l’autorité monétaire.
+La trajectoire optimale du TIAO, dérivée de notre cadre analytique, une fois prises en compte
+les choix de l’autorité monétaire et les prévisions à court terme des agrégats macroéconomiques
+de la CEMAC (taux d’inflation et de croissance) et du taux directeur de la BCE, aiderait à
+plusieurs titres. Sans être coercitive, la règle optimale pourrait par exemple constituer l’équation
+manquante, tant recherchée, du cadre analytique et prévisionnel de la politique monétaire de la
+BEAC. Elle servirait alors d’outil complémentaire pour la fixation pragmatique du niveau du
+TIAO lors des Comités de Politique Monétaire. A propos du renforcement du cadre analytique
+de la politique monétaire de la BEAC, il y a lieu de rappeler qu’actuellement, les objectifs de
+refinancement sont arrêtés en fonction de l’accroissement prévisionnel des agrégats de monnaie
+et de crédit, indépendamment du TIAO. Pourtant Mounkala (2013) a mis en exergue l’existence
+d’une fonction de demande d’encaisses réelles de type keynésien à court terme dans la CEMAC,
+dans laquelle, suite à un accroissement de 1% du TIAO, les agents économiques réduisent leur
+demande d’encaisses réelles de 24 points de base, en termes cumulés sur deux périodes. Par
+conséquent,àtraverslesmodificationsdesontauxdirecteur,laBEACpeutinfluencerl’équilibre
+22
+
+--- Page 24 ---
+monétaire (courbe LM), et partant, la demande globale (le revenu réel et le niveau général des
+prix) à court terme. Ce résultat nuancerait les arguments sur l’inopérabilité du canal du taux
+d’intérêt dans la CEMAC. Dès lors, le dispositif analytique de la politique monétaire de la
+BEAC pourrait être enrichi avec le TIAO comme instrument effectivement, et l’accroissement
+prévisionnel des agrégats de monnaie et de crédit, donc les objectifs de refinancement, comme
+objectif intermédiaire, vers l’objectif ultime de stabilité des prix.
+Ainsi amendé, ce cadre analytique pourrait aussi servir à la conduite des exercices de prévision
+et de simulation des effets de différents chocs domestiques et/ou étrangers (il s’agit uniquement
+de la Zone Euro) sur l’économie de la CEMAC. A titre illustratif, nous avons dérivé les fonctions
+impulsions-réponses des agrégats économiques de la CEMAC (inflation, croissance et TIAO)
+suite à des chocs domestiques et étrangers d’offre, de demande et de politique monétaire. Les
+profilsderéactionprésentésàl’annexeA.4indiquent,avecle“bonsigne” attendu,l’amplitudeet
+ledélaid’impactcumulédeceseffetsàcourtetàlongtermes.L’apportdecetyped’informations
+est indéniable pour l’autorité de politique monétaire.
+Conclusion
+L’objectif de ce papier était de mener une analyse contrefactuelle de l’optimalité de la politique
+monétaire menée par la BEAC depuis le premier trimestre 2001 jusqu’au quatrième trimestre
+2014. Pour ce faire, il a d’abord été décrit le contexte de la CEMAC en tant que petite économie
+ouverte avec fixité du change via un arrimage rigide à l’euro et une mobilité imparfaite des
+capitaux.Surlabasedelalittératureetdanslesoucid’unaffranchissementdeslimitesreconnues
+aux approches contrefactuelle et ad hoc pour l’analyse des politiques économiques, nous avons
+retenu une version réaménagée du modèle Néo-keynésien en économie ouverte avec prise en
+compte des anticipations rationnelles et des rigidités nominales et réelles, dans la description
+de l’économie de la CEMAC. Les choix de l’autorité de politique monétaire entre ses objectifs
+interne, de stabilité des prix, et externe, de couverture extérieure suffisante de la monnaie,
+couplés à la nécessaire stabilisation de l’output et à l’exigence de lissage des taux d’intérêt
+ont été modélisés à travers une fonction de perte, en accord avec Woodford (2010). Ainsi, le
+programme de l’autorité monétaire a consisté à déterminer le taux d’intérêt qui minimise cette
+fonction de perte, sous contrainte du cadre macroéconomique décrit par le modèle néo-keynésien
+retenu.
+23
+
+--- Page 25 ---
+Pour chaque couple de pondérations décrivant les préférences de l’autorité monétaire dans sa
+fonctiondeperte,larègleoptimaledepolitiquemonétaireaétédérivéepuissimulée,enbalayant
+la plage de valeurs entre 0 et 1 avec un pas de 0.25, sur la période 2001 :Q1-2014 :Q4, à l’aide
+de routines Dynare, Matlab et R. A cette fin, il a été utilisé les paramètres calibrés du modèle
+théorique, les séries observées des taux directeur de la BCE et d’inflation de la CEMAC, de
+l’output gap de la CEMAC et du niveau du TIAO au premier trimestre 2001. Les différentes
+trajectoires simulées ont été confrontées graphiquement à la trajectoire observée du TIAO sur
+la période d’analyse. De la confrontation entre l’optimal et l’observé, il est ressorti que la po-
+litique monétaire menée par la BEAC de 2001 à 2014 serait vraisemblablement optimale si les
+préférences de l’autorité monétaire, clairement identifiées et exprimées, portaient exclusivement
+et de façon égalitaire sur les seuls objectifs de stabilité des prix, de stabilisation de l’output et
+de lissage des taux d’intérêt; sans nullement tenir compte de l’exigence extérieure de couverture
+suffisante de la monnaie.
+Si, étant donnée la situation économique de la période 2001-2014, l’autorité monétaire pourrait
+hypothétiquement être créditée de l’optimalité empirique de ses choix historiques supposés, avec
+l’évolution de la situation économique au cours des deux dernières années, elle sera nécessaire-
+mentpousséeàrévisersespréférencesdemanièreàconduireunepolitiquemonétaireconséquente
+face aux nouveaux défis que celle-ci lui impose, dans les limites de ses dispositions statutaires.
+Ces défis ont entre autres pour noms, (i) la persistance des cours des matières premières et du
+pétrole à des niveaux très bas et son corollaire de tarissement des recettes d’exportations des
+Etats membres de la BEAC; (ii) le creusement des déficits budgétaires et courants des Etats de
+la CEMAC, conjugué à l’insuffisance de l’épargne intérieure et l’étroitesse des possibilités pour
+eux de contracter de nouvelles dettes extérieures, d’où l’accentuation des pressions sur la BEAC
+pour couvrir ces déficits par une création monétaire accrue. De plus, ces Etats membres étant
+majoritairementdesimportateursnetsdebiensetservices,etayantunebaseproductivetrèsfai-
+blementsinonpeudiversifiée,lesinjectionsdeliquiditéparlaBanqueCentralecontinuerontàse
+traduire, sauf ajustement structurel, par un accroissement des importations, et par conséquent,
+une réduction incidente des réserves de change pour la BEAC, et a fortiori, une diminution du
+taux de couverture extérieure de la monnaie dans la Communauté.
+Pour finir, bien qu’avec le cadre analytique proposé dans ce papier, l’autorité monétaire de la
+BEAC serait mieux outillée dans son processus de prise de décision en matière de politique
+monétaire, il convient néanmoins de souligner que des améliorations peuvent y être apportées.
+Commevoiesderecherchesfuturesdansladéterminationdelapolitiquemonétaireoptimaledela
+BEACdanslecontexteactuel,ilpourraitparexempleêtreenvisagéd’aborderlaCEMACcomme
+24
+
+--- Page 26 ---
+unezonemonétairehétérogènedupointdevuedespolitiquesbudgétairesnationalesdifférenciées
+entre ses Etats membres. De plus, avec désormais les préoccupations de stabilité financière
+comme nouvel objectif interpellant la BEAC, les choix de l’autorité monétaire pourraient aussi
+être étendus à l’objectif de stabilité financière, et le cadre analytique revu en conséquence pour
+intégrer cette donne dans le choix et la détermination de(s) instruments de politique monétaire
+et/ou de stabilité financière et leurs trajectoire(s)./-
+Références
+[1] Alichi, A., K. Clinton, C. Freedman, O. Kamenik, M. Juillard, D. Laxton, J. Turunen, & H. Wang
+(2015). Avoiding dark corners : A robust monetary policy framework for the united states. IMF
+WP/15/134.
+[2]Amato,J.D.&T.Laubach(2003). Rule-of-thumbbehaviorandmonetarypolicy. EuropeanEconomic
+Review 47(5), October, 791–831.
+[3]Avouyi-Dovi,S.&J.-G.Sahuc(2007).Comportementdubanquiercentralenenvironnementincertain.
+Document de recherche EPEE 07-05, Université d’Evry–Val d’Essone.
+[4] Ball, L. (1997). Efficient rules for monetary policy. NBER Working Paper n° 5952, March.
+[5] Barro, R. & D. B. Gordon (1983). Rules, discretion and reputation in a model of monetary policy.
+Journal of Monetary Economics (12).
+[6] Benigno, P. & M. Woodford (2012). Linear-quadratic approximation of optimal policy problems.
+Journal of Economic Theory 147(1), 1–42.
+[7] Le Bihan, H. & J.-G. Sahuc (2001). Règles de politique monétaire en présence d’incertitude : une
+synthèse. Document de recherche 01-08, EPEE, Université d’Evry.
+[8] Brainard, W. (1967). Uncertainty and the effectiveness of policy. American Economic Review 57,
+411–425.
+[9] Cateau, G. & S. Murchison (2010). L’efficacité des règles de politique monétaire en présence d’incer-
+titude. Revue de la Banque du Canada, 27–40, Printemps.
+[10] Chow, G. C. & A.-L. Lin (1971). Best linear unbiased interpolation, distribution, and extrapolation
+of time series by related series. The Review of Economics and Statistics 53(4), November, 372–375.
+[11] Clarida, R., J. Galì, & M. Gertler (1999). The science of monetary policy : A new keynesian
+perspective. Journal of Economic Literature (37), 1661–1707.
+25
+
+--- Page 27 ---
+[12] Côté, D., J.-P. Lam, Y. Liu, & P. St-Amant (2002). Le rôle des règles simples dans la conduite de
+la politique monétaire au canada. Revue de la Banque du Canada, Eté 2002, 31–40.
+[13] Dennis, R. (2006). The policy preferences of the us federal reserve. Journal of Applied Econome-
+trics 21(55-57).
+[14] Drumetz, F. & A. Verdelhan (1997). Règle de taylor : présentation, application, limites. Bulletin de
+la Banque de France (45).
+[15] Favero, C. & R. Rovelli (2003). Macroeconomic stability and the preferences of the fed. a formal
+analysis. Journal of Money, Credit and Banking 35(545-556).
+[16] Friedman, B. M. & M. Woodford (2010). Handbook of Monetary Economics (1st ed.), Volume 3B.
+Elsevier, North-Holland.
+[17] Fève, P., J. Matheron, & J.-G. Sahuc (2008). Chocs d’offre et optimalité de la politique monétaire
+dans la zone euro. Revue économique 59(3), 527–536.
+[18] Galì, J. & M. Gertler (1999). Inflation dynamics : A structural econometric analysis. Journal of
+Monetary Economics 55, July, 1345–1370.
+[19] Hairault, J.-O. (2000). Analyse macroéconomique (La Découverte & Syros ed.). Tome 1, Ouvrage
+collectif, sous la direction de J.-O. Hairault, Repères.
+[20]Kydland,F.E.&E.C.Prescott(1977). Rulesratherthandiscretion:Theinconsistencyofoptimal
+plans. The Journal of Political Economy 85(3), 473–492.
+[21]Lajmi,M.&S.El-Khadhraoui(2013). Modèledeprévisionàmoyentermepourlatunisie. Document
+de travail, Direction de la Stratégie de Politique Monétaire, Banque Centrale de Tunisie.
+[22] Landais, B. (2008). Leçons de politique monétaire (1ère édition, préface de Christian de Boissieu
+ed.). De Boeck, Ouvertures Economiques.
+[23]Loisel,O.(2006,mai). Lacrédibilitédelapolitiquemonétairedansuneperspectivenéo-keynésienne.
+Bulletin de la Banque de France (149).
+[24]Mounkala,E.U.H.(2013). Estimationd’unefonctiondedemandedemonnaiedanslacemac. BEAC
+Working Paper N°01-15, Banque des Etats de l’Afrique Centrale.
+[25] Padoa-Schioppa, T. (1987). Completing the Euro : A Roadmap Towards Fiscal Union in Europe.
+Notre Europe.
+[26]Pollin,J.-P.(2004). Théoriedelapolitiquemonétaire:Esquissesd’une refondation. In 53è Congrès
+de l’Association Française de Science Economique - AFSE, pp. 16 et 17 septembre.
+[27] Sargent, T. J. & N. Wallace (1981). Some unpleasant monetarist arithmetic. Federal Reserve of
+Minneapolis Quarterly Review 5(3), Fall, 1–18.
+26
+
+--- Page 28 ---
+[28] Sibi, F. (2002). Politique monétaire optimale dans la zone euro : arbitrage inflation-production-
+lissagedestauxd’intérêt. ATERUniversitéParisIIetTEAM-UniversitéParisIPanthéonSorbonne
+& CNRS.
+[29] Sénégas, M.-A. (2002). La politique monétaire face à l’incertitude : un survol méthodologique des
+contributions relatives à la zone euro. Revue d’économie financière (65).
+[30] Taylor, J. B. (1993). Discretion versus Policy Rules in Practice. Number 39. Carnegie-Rochester
+Conference Series on Public Policy.
+[31]Taylor,J.B.(1999). Therobustnessandefficiencyofmonetarypolicyrulesasguidelinesforinterest
+rate setting by the european central bank. Stanford University. Revised, February.
+[32] Theil, H. (1958). Economic Forecasts and Policy. North-Holland Amsterdam.
+[33]Woodford,M.(2003). Optimalinterest-ratesmoothing. ReviewofEconomicStudies 70(4),861–886.
+[34]Woodford,M.(2003b). Interest and Prices : Foundations of a Theory of Monetary Policy. Princeton
+University Press.
+[35] Woodford, M. (2009). Convergence in macroeconomics : Elements of the new synthesis. In Conver-
+gence in Macroeconomics? at the annual meeting of the American Economics Association, New Or-
+leans, January 4, 2008.
+[36]Woodford,M.(2010). Robustlyoptimalmonetarypolicywithnear-rationalexpectations. American
+Economic Review 100, 274–303.
+27
+
+--- Page 29 ---
+Annexes
+A.1. Descriptions des paramètres et des chocs structurels du modèle théorique
+Table 3 – Descrition des paramètres et des chocs
+Paramètre Equation : interprétation de l’effet
+δ Output gap : output gap CEMAC retardé
+σ Output gap : taux d’intérêt réel ex ante
+ω Output gap : output gap retardé de la ZE
+α Inflation : inflation CEMAC retardée
+κ Inflation : output gap contemporain ZE
+1
+κ Inflation : inflation retardée de la ZE
+2
+γ Taux d’intérêt nominal : taux directeur retardé de la BEAC
+3
+γ Taux d’intérêt nominal : output gap contemporain de la CEMAC
+2
+γ Taux d’intérêt nominal : écart du taux d’inflation CEMAC à la norme CEMAC
+1
+ψ Output gap ZE : output gap retardé d’une période dans la ZE
+1
+ψ Output gap ZE : output gap retardé de deux périodes dans la ZE
+2
+φ Inflation ZE : persistance intrinsèque du taux d’inflation dans la ZE
+1
+φ Inflation ZE : output gap retardé d’une période dans la ZE
+2
+η Taux directeur BCE : persistance intrinsèque du taux directeur de la BCE
+λ Fonction de perte BEAC : importance relative pour la stabilisation de l’activité
+1
+λ Fonction de perte BEAC : importance relative pour le lissage du taux directeur
+1
+εy Chocs de demande dans la CEMAC (e_y)
+επ Chocs d’offre dans la CEMAC (e_pie)
+εr Chocs de demande dans la CEMAC
+ξy Chocs de demande dans la ZE (u_y)
+ξπ Chocs de d’offre dans la ZE (u_pi)
+ξr Chocs sur le taux directeur de la BCE (u_i)
+()˙ NotationsretenuesdanslecodeDynare.
+28
+
+--- Page 30 ---
+A.2. Code dynare utilisé pour la résolution du programme d’optimisation
+var y pie r dr y_star pi_star rr r_star;
+varexo e_y e_pie u_y u_pi u_i;
+parameters delta $\delta$
+sigma $\sigma$ alpha $\alpha$ kappa1 $\kappa_1$ kappa2 $\kappa_2$
+gamma1 $\gamma_1$ gamma2 $\gamma_2$ gamma3 $\gamma_3$ lambda1 $\lambda_1$
+lambda2 $\lambda_2$ pi_bar $\bar{\pi}$ omega $\omega$ psi1 $\psi_1$
+psi2 $\psi_2$ pi_star_bar $\bar{\pi}^*$ r_star_bar $\bar{r}^*$
+phi1 $\varphi_1$ phi2 $\varphi_2$ eta $\eta$;
+delta = 0.44;
+kappa1 = 0.18;
+kappa2 = 0.3;
+alpha = 0.48;
+sigma = -0.06;
+omega = 0.02;
+psi1 = 0.08;
+psi2 = -0.25;
+pi_star_bar = 0.02;
+phi1 = 0.5;
+phi2 = 0.15;
+pi_bar = 0.03;
+r_star_bar = 0.005;
+eta = 0.85;
+model(linear);
+y = delta*y(-1)+(1-delta)*y(+1)+sigma*(r-pie(+1))+omega*y_star(-1)+e_y;
+pie = alpha*pie(-1)+(1-alpha)*pie(+1)+kappa1*y+kappa2*pi_star(-1)+e_pie;
+dr = r-r(-1);
+r = gamma3*r(-1)+(1-gamma3)*(r_star+gamma1*(pie-pi_bar)+gamma2*y);
+y_star = psi1*y_star(-1)+psi2*y_star(-2)+u_y;
+pi_star = phi1*pi_star(-1)+(1-phi1)*pi_star_bar+phi2*y_star(-1)+u_pi;
+rr = r-r_star;
+r_star = eta*r_star(-1)+(1-eta)*r_star_bar+u_i;
+end;
+shocks;
+var e_y;
+29
+
+--- Page 31 ---
+stderr 0.63;
+var e_pie;
+stderr 0.4;
+var u_y;
+stderr 0.5;
+var u_pi;
+stderr 0.7;
+var u_i;
+stderr 0.6;
+end;
+write_latex_dynamic_model;
+lambda1 = 1.00;
+lambda2 = 1.00;
+optim_weights;
+pie 1;
+y lambda1;
+dr lambda2;
+rr (1-lambda2);
+end;
+gamma1 = 1.1;
+gamma2 = 0.1;
+gamma3 = 0.8;
+osr_params gamma1 gamma2 gamma3;
+osr;
+stoch_simul(periods=200,irf=20)y pie r;
+//save data_Juillard y pie r y_star pi_star r_star;
+NB : Pour retrouver les valeurs optimales des paramètres de la règle en fonction des préférences de
+l’autorité monétaire, les valeurs correspondantes de λ et λ doivent être modifiées dans le code ci-
+1 2
+dessus.
+30
+
+--- Page 32 ---
+A.3. Code R pour le calcul des règles optimales suivant les préférences des utilisateurs
+et la représentation graphique des résultats obtenus
+setwd("indiquer ici son répertoire de travail")
+getwd()
+data=read.table("base.txt",header=T,dec=",",sep="",na.strings ="NA")
+attach(data)
+data1=read.table("base_simul.txt",header=T,dec=",",sep="",na.strings ="NA")
+attach(data1)
+data1=as.matrix(data1)
+## Régle : r=gamma_3*i(-1)+(1-gamma_3)*(i_star+gamma_1*(pi-pi_bar)+gamma_2*outgap)
+## Inflation cible à la BEAC
+pi_bar=3
+## Génération des séries temporelles
+int=ts(i,start=c(2001,1),freq=4)
+istar=ts(istar,start=c(2001,1),freq=4)
+outgap=ts(y_gap,start=c(2001,1),freq=4)
+inf=ts(pi,start=c(2001,1),freq=4)
+lagi=window(lag(int,k=-1),start=c(2001,2),end=c(2014,4))
+istar=window(istar,start=c(2001,2))
+inf=window(inf,start=c(2001,2))-pi_bar
+outgap=window(outgap,start=c(2001,2))
+noms=colnames(data1)
+nom=c(noms,seq(from=2001.25,to=2014.75,by=0.25))
+n=length(lamda1)
+result=c()
+for (i in 1:n){
+u=as.numeric(data1[i,])
+result=rbind(result, c(u,as.numeric(u[5])*lagi+(1-u[5])*(istar+u[3]*inf+u[4]*outgap)))
+}
+colnames(result)=nom
+31
+
+--- Page 33 ---
+result=rbind(result,c(rep(0,5),window(int,start=c(2001,2))))
+write.table(result,file="result.txt")
+par(mfrow=c(5,4))
+for (n in 1:20){
+u=rbind(result[ n,6:60],result[21,6:60])
+u=t(u)
+colnames(u)=c("TIAO-Optimal","TIAO")
+plot.ts(u,plot.type="single",ylab="",col=c(1,2),
+main=paste("lambda1=",round(result[n,1])," lambda2=",round(result[n,2])))
+}
+32
+
+--- Page 34 ---
+A.4. Fonctions impulsions-réponses simulées sur un horizon prévisionnel de 20 tri-
+mestres à partir du modèle théorique proposé pour l’économie de la CEMAC
+Figure 2 – Réponses impulsionnelles de l’économie de la CEMAC à un choc e_y
+Figure 3 – Réponses impulsionnelles de l’économie de la CEMAC à un choc e_pie
+Figure 4 – Réponses impulsionnelles de l’économie de la CEMAC à un choc u_y
+33
+
+--- Page 35 ---
+Figure 5 – Réponses impulsionnelles de l’économie de la CEMAC à un choc u_pi
+Figure 6 – Réponses impulsionnelles de l’économie de la CEMAC à un choc u_i
+34
+
+--- Page 36 ---
+A.5. Base de données utilisée
+Periode istar pistar i y_gap pi
+2001Q1 4,25 1,5 7,3 0,053220253 5,607380818
+2001Q2 4,25 2,2 7,3 0,081954962 5,906617045
+2001Q3 4,25 1,6 7 0,094323168 5,063475094
+2001Q4 4,25 1,5 7 0,078619258 4,35302386
+2002Q1 4,25 2,2 6,5 0,054991605 3,26423831
+2002Q2 4,25 1,4 6,35 0,030378918 2,565372272
+2002Q3 4,25 1,8 6,35 0,012159434 3,29024938
+2002Q4 4,25 2,2 6,35 0,004088568 4,02078398
+2003Q1 4,25 2,5 6,3 0,00164363 1,921455795
+2003Q2 4,25 2 6,3 -0,005494828 1,248416872
+2003Q3 4,25 2,2 6,3 -0,009086464 -0,281043941
+2003Q4 4,25 2,4 6 -0,004740334 -1,049711455
+2004Q1 4,25 1,9 5,75 0,009267069 -1,238816407
+2004Q2 4,25 2,7 5,75 0,020849683 -1,164061854
+2004Q3 4,25 2,2 5,75 0,027105619 0,417738144
+2004Q4 4,25 2,2 5,5 0,028543436 1,302200274
+2005Q1 4,25 2,1 5,25 0,01225126 3,964394619
+2005Q2 4,25 1,8 5,25 0,00946537 3,833160734
+2005Q3 4,25 2,3 5,25 0,002557655 3,85995689
+2005Q4 4,25 1,8 5,25 -0,005483734 3,087225933
+2006Q1 4,25 1,7 5,25 -0,027797854 4,582048187
+2006Q2 4,25 2,2 5,25 -0,029503919 6,715628422
+2006Q3 4,25 1,5 5,25 -0,018398061 5,581537991
+2006Q4 4,25 1,7 5,25 -0,020908347 3,193950415
+2007Q1 4,25 1,2 5,25 -0,005736597 0,598388559
+2007Q2 4,25 1,3 5,25 -0,004811933 -1,428259509
+2007Q3 4,25 1,6 5,25 -0,00529827 -1,245492837
+2007Q4 4,25 2,8 5,25 0,021918236 2,755450015
+2008Q1 4,25 3,5 5,25 -0,030273605 4,513419425
+2008Q2 4,25 4 5,25 -0,025975149 6,119307196
+2008Q3 4,25 3,4 5,5 0,023778177 7,210377677
+2008Q4 2,5 1,2 5,5 0,03817191 7,055981642
+2009Q1 1,5 0,4 4,75 -0,000916436 6,369369422
+2009Q2 1 -0,6 4,5 -0,008454238 4,582235929
+2009Q3 1 -0,4 4,25 -0,031024702 3,095454249
+2009Q4 1 1 4,25 -0,014021156 1,28614443
+2010Q1 1 1,7 4,25 -0,004722263 0,149300892
+2010Q2 1 1,7 4,25 0,008487373 0,389650382
+2010Q3 1 1,8 4 -0,01606617 1,832391766
+2010Q4 1 2 4 -0,00900794 1,986241077
+2011Q1 1 2,2 4 -0,026398842 1,766395362
+2011Q2 1,25 2,3 4 0,01575603 2,569377513
+2011Q3 1,5 2,4 4 -0,008112382 2,109452736
+2011Q4 1 2,7 4 0,000847508 4,049929765
+2012Q1 1 2,6 4 0,01767587 4,277850969
+2012Q2 1 2,3 4 0,006386605 3,455037542
+2012Q3 0,75 2,2 4 0,026256898 4,177943339
+2012Q4 0,75 1,5 4 0,012669305 3,060814066
+2013Q1 0,75 1,1 4 -0,012874121 2,291880594
+2013Q2 0,5 1 4 0,003359207 1,56124452
+2013Q3 0,5 1 3,5 -0,019823307 1,496834511
+2013Q4 0,25 0,8 3,25 0,015027412 2,006674212
+2014Q1 0,25 0,8 3,25 0,017210851 2,795619872
+2014Q2 0,15 0,6 3,25 0,016309138 3,421113694
+2014Q3 0,05 0,4 2,95 0,007015059 3,076955848
+2014Q4 0,05 0,1 2,95 -0,011792046 3,223046854
+35

@@ -1,0 +1,66 @@
+Source PDF : Courbe_des_rendements_des_titres_publics_camerounais_-_février_2019_af1f7437.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbe_des_rendements_des_titres_publics_camerounais_-_février_2019_af1f7437.pdf
+Date extraction : 15/06/2026 20:25:17
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS
+Courbe de rendements des titres publics camerounais
+DE L’AFRIQUE CENTRALE
+févr.-19
+7,00
+6,00 5,59 5,70 5,79 5,85 5,90
+5,44
+5,20
+5,04
+4,82
+5,00
+% 4,12
+n 4,00 3,56
+e
+s t n 3,00 2,65 2,88
+e 2,40
+m
+e
+d 2,00
+n
+e
+R
+1,00
+0,00
+3 mois 6 mois 1 an 1,5 ans 2 ans 3 ans 3,5A 4 ans 5 ans 6 ans 7 ans 8 ans 9 ans 10 ans
+Maturités
+
+--- Page 2 ---
+Rendements par maturite (en %) des titres d'Etat camerounais
+3mois 2,65
+6mois 2,40
+1an 2,88
+1,5ans 3,56
+2ans 4,12
+3ans 4,82
+3,5A 5,04
+4ans 5,20
+5ans 5,44
+6ans 5,59
+7ans 5,70
+8ans 5,79
+9ans 5,85
+10ans 5,90
+Rendements par maturite (en %) des titres d'Etat gabonais
+~ ~
+3mois 2,84
+6mois 4,74
+1an 7,14
+1,5ans 8,36
+2ans 8,92
+3ans 9,13
+3,5A 9,04
+4ans 8,91
+5ans 8,63
+6ans 8,38
+7ans 8,18
+8ans 8,02
+9ans 7,89
+10ans 7,79
+Source: BEAC

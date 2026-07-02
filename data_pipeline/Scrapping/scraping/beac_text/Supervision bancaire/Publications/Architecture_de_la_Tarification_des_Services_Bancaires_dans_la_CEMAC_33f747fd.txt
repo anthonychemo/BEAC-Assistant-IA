@@ -1,0 +1,3298 @@
+Source PDF : Architecture_de_la_Tarification_des_Services_Bancaires_dans_la_CEMAC_33f747fd.pdf
+Chemin original : scraping\beac_data\Supervision bancaire\Publications\Architecture_de_la_Tarification_des_Services_Bancaires_dans_la_CEMAC_33f747fd.pdf
+Date extraction : 15/06/2026 20:08:39
+======================================================================
+
+--- Page 1 ---
+COMMISSION BANCAIRE
+DE L’AFRIQUE CENTRALE
+ARCHITECTURE DE LA TARIFICATION
+DES SERVICES BANCAIRES DANS LA
+C E MAC
+Secrétariat Général
+Avril 2010
+
+--- Page 2 ---
+INTRODUCTION
+La communication financière améliore la discipline de marché, laquelle
+contribue à la sécurité et à la solidité de l’environnement bancaire et donc à la
+stabilité du système bancaire. Le pilier III de Bâle II (discipline de marché) impose
+aux banques une exigence de communication afin de permettre aux différentes
+parties concernées de prendre des décisions avisées en connaissance de cause.
+Fort de cela et en vertu des missions qui lui ont été confiées à travers les
+Conventions portant Création d’une Commission Bancaire en Afrique Centrale et
+portant Harmonisation de la Réglementation Bancaire en Afrique Centrale, le
+Secrétariat Général de la Commission Bancaire a entrepris de mener, chaque année,
+une enquête sur la tarification des principaux services bancaires appliquée par les
+établissements de crédit de la Communauté Economique et Monétaire de l’Afrique
+Centrale (CEMAC).
+Cette enquête vise à s’assurer du respect, par les banques, des normes fixées
+par la réglementation en la matière. De ce fait, une attention particulière est
+accordée à la tarification des différents crédits octroyés (crédits par caisse et crédits
+par signature), au respect des limites imposées par la réglementation de change ainsi
+qu’au respect de l’affichage intégral des conditions de banque.
+Au courant de l’année 2008, la Banque des Etats de l’Afrique Centrale
+(BEAC) a procédé à la suppression du Taux Débiteur Maximum (TDM) et a
+recommandé aux banques de supprimer les frais de tenue de compte sur les comptes
+chèques des particuliers. La première mesure qui a permis de libéraliser la politique
+des taux dans la CEMAC n’a pas été suivie de mesures d’accompagnement visant
+notamment à protéger les consommateurs les plus vulnérables. Ainsi, une réflexion
+impulsée par le Comité de Politique Monétaire (CPM) est actuellement en cours
+dans les différents pays de la CEMAC. Elle devrait permettre d’adopter une
+approche communautaire pour la détermination du Taux Effectif Global (TEG) des
+différents crédits consentis à la clientèle. Au final, un taux d’usure pourrait être
+calculé périodiquement dans chaque pays par les différentes autorités monétaires sur
+la base des historiques des TEG préalablement déterminés.
+L’évaluation de la tarification des crédits faite dans ce rapport s’appuiera donc
+sur les travaux en cours. Le TEG des différents crédits sera déterminé selon la
+formule :
+où : i : TEG ; k : numéro d’ordre du déblocage ; m : numéro d’ordre du dernier
+déblocage ; d : montant du déblocage numéro k ; t : intervalle de temps entre le
+k k
+premier déblocage et le déblocage numéro k ; p : le numéro d’ordre d’une échéance
+de remboursement ; n : le numéro d’ordre de la dernière échéance ; r : le montant
+p
+de l’échéance numéro p et t : l’intervalle de temps entre le premier déblocage et
+p
+l’échéance numéro p.
+Il ressort de cette formule que le TEG est le taux qui égalise la valeur
+actualisée des remboursements à la valeur actualisée des déblocages à la date de
+mise en place. Les remboursements incluent tous les frais et commissions prélevés à
+2
+
+--- Page 3 ---
+la mise en place. Dans les éléments de coûts, nous avons intégré le paiement des
+intérêts, le paiement des frais de dossier et les commissions prélevées. Les frais
+d’assurance n’ont pas été intégrés dans les calculs.1 Le TEG moyen ainsi obtenu par
+banque et pour chaque type de crédit ou de catégorie de bénéficiaires est une
+moyenne pondérée par le volume total des crédits octroyés sur la période.
+Quarante trois (43) banques en activité dans la CEMAC ont fourni, grâce à
+des requêtes informatiques bien définies et qui leur avaient préalablement été
+adressées, l’ensemble des lignes de crédits mises en place du 1er janvier 2009 au
+20 avril 2010, complétées par des informations quantitatives et qualitatives. A ce
+titre, il convient de signaler que l’approche adoptée se différencie de celle pratiquée
+les années antérieures. Auparavant, le taux effectif était simplement obtenu en
+additionnant le taux nominal à celui des frais et commissions sur un échantillon
+représentatif de nouveaux crédits distribués par l’établissement.
+Pour cette enquête, si les données retenues sont celles relatives à la période du
+1er janvier 2009 au 20 avril 2010, une répartition des crédits aussi bien selon la
+durée à courir (long terme, moyen terme et court terme) que par catégorie de
+bénéficiaires (grandes entreprises, PME et particuliers) a été faite afin d’avoir une
+décomposition du TEG moyen par banque. Le TEG moyen ainsi obtenu par banque
+et pour chaque type de crédit ou de catégorie de bénéficiaires serait alors une
+moyenne pondérée par l’encours total des crédits octroyés sur la période.
+La réglementation des changes impose aux banques une commission de
+transfert maximale de 0,25% pour les transferts effectués dans la CEMAC et
+0,50 % pour les opérations hors de la CEMAC. De plus, elle fixe des limites pour
+les commissions à percevoir dans le cadre des opérations de change manuel. En
+effet, les établissements de crédit ne peuvent percevoir au titre de ces opérations une
+commission excédant 4 % pour les billets de la Zone Franc et 10% pour les autres
+devises.
+Une vérification de l’effectivité de l’affichage des conditions de banque ainsi
+que de la tarification appliquée sur d’autres services proposés a également été
+réalisée.
+Enfin, la marge d’intermédiation par banque a été calculée en faisant la
+différence entre le TEG moyen de la banque et son coût moyen des ressources. Le
+coût moyen des ressources est obtenu en sommant le coût des ressources de la
+clientèle et des correspondants.
+Le document qui suit donne donc un aperçu global et par pays, des
+conclusions de l’enquête sur la tarification des services bancaires dans la
+CEMAC.
+1 La gestion des frais d’assurance est complexe. Certains banques offrent des crédits sans souscription
+d’assurance (UBC par exemple) ; d’autres laissent au client le choix de souscrire une assurance chez un courtier
+ou assureur de son choix, mais n’intègrent pas ces données dans leur système d’information. Ne disposant pas
+de cette information dans toutes les banques, nous avons choisi d’évaluer les taux sur la base des éléments
+communs de coûts.
+3
+
+--- Page 4 ---
+I - CEMAC
+Le TEG moyen de l’ensemble des crédits amortissables octroyés par les
+banques de la CEMAC du 1er janvier 2009 au 20 avril 2010 est ressorti à 10,48%
+hors taxes et hors assurance. De manière générale, le Congo et le Gabon présentent
+les taux moyens de crédit les plus bas. Les TEG moyens de ces places ressortent
+respectivement à 9,38% et 9,7 %. En revanche, la Guinée Equatoriale et le Tchad
+ont les TEG moyens les plus élevés, respectivement à 12,15% et 12,70%.
+Taux effectif Global
+14,00%
+12,00%
+10,00%
+8,00%
+6,00%
+4,00%
+2,00%
+0,00%
+Cameroun Centrafrique Congo Gabon Guinée Tchad
+Equatoriale
+Cette tendance moyenne masque des disparités selon la nature des
+bénéficiaires et selon le terme comme l’attestent les tableaux ci-après. Il apparaît
+ainsi que dans la sous-région, les grandes entreprises bénéficient en moyenne d’un
+taux d’intérêt de 8,74%, les Petites et Moyennes Entreprises de 11,55% et les
+particuliers de 15,69%.
+Total crédits
+Taux Grandes Entreprises PME Particuliers amortissables
+Cameroun 7,31% 12,36% 14,91% 10,38%
+Centrafrique 9,21% 13,56% 19,20% 11,37%
+Congo 7,45% 9,69% 13,70% 9,38%
+Gabon 7,94% 10,15% 18,06% 9,79%
+Guinée Equatoriale 11,62% 14,13% 14,20% 12,15%
+Tchad 11,85% 12,19% 16,03% 12,72%
+CEMAC 8,74% 11,55% 15,69% 10,48%
+4
+
+--- Page 5 ---
+Taux effectif global
+18,00%
+16,00%
+14,00%
+12,00%
+10,00%
+8,00%
+6,00%
+4,00%
+2,00%
+0,00%
+Grandes Entreprises PME Particuliers
+Selon le terme, bien que l’écart ne soit pas significatif dans la zone, il ressort
+que le coût du crédit à long terme est plus élevé que celui des crédits à court et
+moyen terme qui sont sensiblement facturés au même tarif par les banques.
+Total crédits
+Taux Court terme Moyen terme Long terme amortissables
+10,78% 9,49% 10,38%
+Cameroun
+12,85% 9,97% 11,37%
+Centrafrique
+9,48% 9,33% 9,81% 9,38%
+Congo
+7,64% 11,73% 8,12% 9,79%
+Gabon
+12,01% 12,34% 15,00% 12,15%
+Guinée Equatoriale
+11,97% 12,06% 14,49% 12,72%
+Tchad
+9,68% 10,46% 9,34% 10,48%
+CEMAC
+Le Gabon et le Cameroun se distinguent comme étant les pays où
+l’intermédiation bancaire est la plus poussée, avec respectivement 34,5% et 30% des
+crédits amortissables octroyés sur cette période. Les banques de la RCA n’ont
+octroyé que 4,2% de l’ensemble des crédits.
+Il ressort une forte concentration, en matière de distribution de crédits, sur les
+différentes places. En effet, la valeur de l’indice de Herfindahl-Hirschmann sur les
+crédits octroyés est supérieure au seuil de 0,18 qui traduit la forte concentration.
+Ainsi par exemple au Gabon, 74,5 % des crédits ont été octroyés par BGFIBANK.
+Au Cameroun, BICEC et AFRILAND ont accordé respectivement 30,53% et
+24,96% des crédits. En Guinée Equatoriale, CCEIBANK G.E concentre 76% des
+crédits octroyés. Au Congo et en RCA, La Congolaise de Banque (LCB) et Ecobank
+RCA dominent les marchés avec respectivement 41% et 73% des crédits octroyés
+sur la période. Enfin au Tchad, ECOBANK et SGT ont accordé respectivement
+34,23% et 27,24% des crédits.
+5
+
+--- Page 6 ---
+Volume de prêts mis en Indice de Herfindahl-
+Pays place % Hirschmann
+Cameroun 455 714 846 720 30,0 0,197
+Centrafrique 63 376 694 284 4,2 0,570
+Congo 144 557 602 149 9,5 0,253
+Gabon 523 869 911 810 34,5 0,570
+Guinée Equatoriale 197 421 647 213 13,0 0,611
+Tchad 135 266 050 034 8,9 0,235
+CEMAC 1 520 206 752 210 100,0 0,404
+Distribution des crédits par pays Indice de Herfindahl Hirshman
+0,700
+Tchad 0,600
+9%
+Gunée Equatoriale Cameroun 0,500
+13% 30%
+0,400
+0,300
+Centrafrique
+4% 0,200
+Gabon Congo 0,100
+34% 10%
+0,000
+Cameroun Centrafrique Congo Gabon Gunée Tchad
+Equatoriale
+Même si la réglementation des changes est globalement respectée par toutes
+les banques, les montants forfaitaires prélevés sur les transactions de faibles
+montants constituent, bien que parfois justifiés, une entrave à sa totale application.
+L’affichage des conditions de banque est effectif dans toutes les banques sauf
+à la Banque Congolaise de l’Habitat (BCH) et à la Banque Agricole et Commerciale
+du Tchad. Toutefois, pour certains établissements de crédit, elles ne sont pas mises à
+jour et les conditions appliquées effectivement ne sont pas toujours celles affichées.
+A l’exception de la Banque Agricole et Commerciale au Tchad (BAC), de la
+BSIC-RCA et de la Banque Congolaise de l’Habitat, la décision de supprimer les
+frais de tenue de compte a été globalement respectée. Cependant, les banques ont
+inventé sous diverses dénominations de nouveaux frais fixes qui pèsent sur le coût
+du service bancaire.
+Concernant enfin la marge d’intermédiation, les banques de la Guinée
+Equatoriale dégagent la marge la plus élevée à 11,66%, en raison notamment du
+faible coût de la collecte des ressources qui s’établit à 0,49% et d’un TEG moyen
+élevé, tandis que la marge la moins importante est constatée au Gabon (7,8%) où le
+TEG moyen est l’un des plus bas de la CEMAC.
+6
+
+--- Page 7 ---
+II- CAMEROUN
+II.1 Taux effectifs des crédits
+Le système bancaire camerounais compte douze (12) banques en activité.
+L’installation de nouvelles banques ces dernières années a eu pour conséquence
+d’accroître le niveau de concurrence sur le marché et une baisse des taux d’intérêt
+comparativement aux années antérieures.
+Le TEG moyen des crédits amortissables octroyés sur la période est de
+10,38%. Ce taux moyen masque d’importantes disparités selon les différentes
+contreparties bénéficiaires des crédits comme l’indique le tableau ci-après :
+Montants total des crédits octroyés du 1er
+janvier 2009 au 20 avril 2010 (En CFA) % TEG moyen
+Grandes entreprises 236 126 161 622 51,8 7,31%
+PME 114 016 277 479 25,0 12,36%
+Particuliers 105 572 407 619 23,2 14,91%
+Taux Moyen 455 714 846 720 100,0 10,38%
+répartition des crédits par catégorie de bénéficiaires
+23%
+Grandes entreprises
+PME
+52%
+Particuliers
+25%
+TEG moyen
+14,91%
+16,00%
+14,00% 12,36%
+12,00%
+10,00%
+7,31%
+8,00% TEG moyen
+6,00%
+4,00%
+2,00%
+0,00%
+Grandes entreprises PME Particuliers
+La répartition des crédits par catégorie de bénéficiaires permet de constater,
+une fois de plus, que la majorité des crédits ont été octroyés aux grandes entreprises
+7
+
+--- Page 8 ---
+et à des conditions assez favorables. En effet, 52% des concours octroyés sur la
+période ont été orientés vers la clientèle des grandes entreprises et au TEG moyen de
+7,31%.
+Compte tenu de l’étroitesse du marché des grandes entreprises, certains
+établissements de crédit se concentrent sur le marché des PME. Toutefois, en raison
+de l’asymétrie d’information, les établissements de crédit exigent une prime de
+risque plus forte, et le taux moyen du crédit, pour cette catégorie de clients, est de
+12,36%.
+Le TEG moyen des crédits aux particuliers est ressorti à 14,91%. En général, ces
+derniers bénéficient souvent de crédit à la consommation à court terme. De plus, en
+raison de l’absence de garanties, certains établissements de crédit ont pris l’option de
+prélever, sur le montant du crédit octroyé aux particuliers, un forfait de 5% destiné
+à alimenter un fonds de garantie. En cas de remboursement intégral du crédit, cette
+somme est reversée en totalité au client.
+Selon le terme, aucune banque n’a octroyé de crédits à long terme. D’après
+les banques, cette situation s’explique par la difficulté à trouver des clients ayant des
+profils de risque modéré sur le long terme. Même pour les prêts immobiliers où le
+bien immeuble est censé garantir le prêt, la réalisation des hypothèques est difficile à
+cause des contestations nombreuses et multiples des titres fonciers et parfois des
+lenteurs sur le plan judiciaire.
+Les crédits à court terme (CCT) représentent 53 % des crédits octroyés contre 47 %
+pour les crédits à moyen terme (CMT). Les taux appliqués sur ces différents types
+de concours sont assez proches, 9,49% pour les CMT et 10,78% pour les CCT.
+Montant total des crédits octroyés (En FCFA) % TEG moyen
+CLT - - -
+CMT 239 550 966 383 52,6 9,49%
+CCT 216 225 290 337 47,4 10,78%
+Taux moyen 455 776 256 720 100,0 10,38%
+Montant total des crédits octroyés
+0%
+47%
+CLT
+CMT
+CCT
+53%
+8
+
+--- Page 9 ---
+TEG Moyen
+12%
+10,78%
+9,49%
+10%
+8%
+6% TEG Moyen
+4%
+2%
+0%
+0%
+CLT CMT CCT
+Sur la période, BICEC et Afriland sont les banques qui ont octroyé le plus de
+crédits alors que CITIBANK et NFC sont celles qui en ont accordé le moins.
+Cependant, CITIBANK et STANDARD CHARTERED BANK n’ont octroyé que
+des crédits à moyen terme. Leurs TEG moyens sont de 6,75% et 8,08%
+respectivement.
+S’agissant des autres établissements, les TEG moyens sur les crédits à moyen
+terme varient de 8,90% (BICEC) à 14,0% (UBC).
+Ceux appliqués sur les crédits à court terme se situent entre 6,12% (UBA) et
+19,24% (Crédit Agricole). Les taux élevés relevés au niveau de certains
+établissements sur les crédits à court terme résultent en général des frais annexes
+(frais de dossier en général) qui sont appliqués sur les crédits de faibles montants
+octroyés aux agents de l’Etat (crédits rentrée scolaire, etc.). Ces frais qui sont
+souvent fixes contribuent à renchérir le coût du crédit. De plus, le taux nominal
+proposé à ces particuliers est souvent de 15%.
+En revanche, pour les banques orientées vers le marché des entreprises
+(PME et Grandes entreprises), les conditions particulièrement avantageuses qui leur
+sont proposées contribuent fortement à faire baisser leurs TEG moyens.
+Taux effectif global moyen hors taxes par banque
+TEG moyen (en %) BICEC STANDARD ECOBANK SGBC UBC CREDIT
+CHARTERED AGRICOLE
+CLT - - - - - -
+CMT 8,90 8,08 10,01 9,48 14,0 10,14
+CCT 8,88 - 13,56 6,44 17,63 19,24
+Découvert 12,3 9,73 11,05 9,88 17,78
+Escompte 10,06 - 10,02 12,32 -
+Spot 6 6,6 7 5,32 - 6,7
+9
+
+--- Page 10 ---
+Taux effectif global moyen hors taxes par banque
+TEG moyen (en %) AFRILAND NFC UBA CITIBANK BANQUE CBC
+ATLANTIQUE
+CLT - - - - - -
+CMT 9,22 12,20 11,23 6,75 12,70 9,78
+CCT 12,84 11,05 6,12 - 7,32 9,81
+Découvert 12,5 13,1 15,8 7,70 12,15 12,5
+Escompte 10,06 - 15,75 5,38 - 11
+Spot 7,6 - 6,15 7 - 8
+Le taux moyen des engagements par signature varie de 4,24% (UBC Plc) à
+0,41% (CITIBANK).
+En % BICEC STANDARD ECOBANK SGBC UBC SCB CA
+Cautions et avals 1,48 1,75 1,82 0,97 4,24 2,07
+AFRILAND NFC CBC CITIBANK UBA BANQUE
+En %
+ATLANTIQUE
+Cautions et avals 2 1,2 1,2 0,41 1,2 2,10
+II.2 Réglementation des changes
+La réglementation des changes, en matière de transferts, est respectée par
+toutes les banques. Toutefois, certains établissements de crédit prélèvent des
+montants minimums au titre de la commission de transfert sur les opérations de
+faibles montants. Ces montants varient d’un établissement à un autre.
+Par ailleurs, les frais complémentaires greffés sur les opérations de transferts
+varient en nombre et en montant.
+La commission de change sur les opérations de change manuel la plus élevée
+au Cameroun est de 5%. En général, ce taux est appliqué aux particuliers non-
+clients de l’établissement de crédit. Les bureaux de change bénéficient des
+conditions assez favorables pour l’achat des devises. Les opérations sur billets sont
+de loin plus importantes comparées aux chèques de voyage.
+Commissions de transferts
+BICEC STANDARD SCB CA
+Transferts Zone BEAC 0,5 % 0,25 % 0,1 %
+min 6 500 FCFA min 1 000 FCFA min 1 000 FCFA
+Transferts Hors Zone 0,5 % 0,5 % 0,5 %
+min 6 500 FCFA min 1000 FCFA min 2 000 FCFA
+10
+
+--- Page 11 ---
+ECOBANK UBC Afriland
+Transferts Zone BEAC 0,25 % - 0,25 %
+min 5 000 FCFA min 5 000 FCFA
+Transferts Hors Zone 0,5 % 0,5 % 0,5 %
+min 5 000 FCFA min 5 000 FCFA min 5 000 FCFA
+NFC Bank CBC UBA
+Transferts Zone BEAC - 0,1 % intra groupe
+0,- 2 % autres banques
+Transferts Hors Zone 0,5 % 0,5 % 0,5 %
+CITIBANK SGBC BANQUE ATLANTIQUE
+Transferts Zone EAC 0,25 % 0,25 % 0,25 %
+Transferts Hors Zone 0,5 % 0,5 % 0,5 %
+II.3. Frais de tenue de compte
+Toutes les banques se conforment à la décision de l’autorité monétaire de
+supprimer les frais de tenue de compte chez les particuliers.
+II.4 – Coût des ressources et marge bancaire
+Le coût moyen des ressources, au Cameroun, est de 1,5%. Le coût le plus
+bas est de 0,47% et le plus élevé est de 3,58 %. La marge d’intermédiation
+moyenne quant à elle, est ressortie à 8,88%.
+Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 10,38
+Coût moyen des ressources 1,5
+Marge d’intermédiation bancaire moyenne hors taxes 8,88
+11
+
+--- Page 12 ---
+III- RCA
+III.1. Taux effectifs des crédits
+Le système bancaire centrafricain compte quatre (4) banques en activité. Le
+TEG moyen des crédits amortissables en Centrafrique s’élève à 11,37%.
+Ce taux dissimule d’importantes disparités selon la nature des contreparties.
+De manière générale, le taux effectif global moyen sur les crédits aux particuliers
+est assez élevé en raison de nombreux concours de faibles montants, notamment les
+prêts scolaires, consentis à la clientèle de particuliers exerçant dans la fonction
+publique.
+A ce titre, il convient de signaler qu’au cours de l’année 2009, l’Etat
+Centrafricain a décidé de bancariser l’ensemble des agents relevant de sa tutelle. Ce
+faisant, l’encours des crédits aux particuliers a progressé. Cependant, comme pour
+l’ensemble des prêts aux particuliers, ces crédits sont accordés à un taux nominal
+modal de 15%. Augmenté des frais de dossiers, commissions et assurance qui
+représentent parfois plus de 10% du capital emprunté, le taux effectif global des
+concours accordés aux particuliers atteint souvent des niveaux excessivement élevés
+et, est en moyenne égal à 19,20%. Il ressort à un niveau particulièrement élevé à la
+BSIC Centrafrique où il s’établit à 28,06% alors qu’il est à 15,47% à la CBCA
+Montant total des crédits octroyés (En FCFA) % TEG moyen
+Grandes entreprises 42 780 850 761 67,1 9,21%
+PME 12 186 648 779 19,1 13,56%
+Particuliers 8 761 194 744 13,7 19,20%
+Taux moyen 63 728 694 284 100,0 11,37%
+Répartition des crédits par type de bénéficiaires
+14%
+19% Grandes entreprises
+PME
+Particuliers
+67%
+12
+
+--- Page 13 ---
+TEG moyen par catégorie de bénéficiaires
+25,00%
+19,20%
+20,00%
+15,00% 13,56%
+TEG moyen par catégorie de
+9,21% bénéficiaires
+10,00%
+5,00%
+0,00%
+Grandes PME Particuliers
+entreprises
+Le TEG moyen des crédits amortissables en Centrafrique s’élève à 11,37%.
+Le marché du crédit est largement dominé par Ecobank Centrafrique qui dispose de
+73% de part de marché, suivi d’assez loin de CBCA (16%) et de BPMC (10%).
+BSIC Centrafrique qui a démarré ses activités en 2009 occupe le dernier rang avec à
+peine 1% de crédits distribués de toute la place centrafricaine.
+Cependant, on observe une nette différenciation dans la structure du TEG
+selon la nature des contreparties. Le TEG est de 9,21% pour les grandes entreprises,
+13,56% pour les PME et 19,20% pour les particuliers.
+Concernant les concours accordés aux grandes entreprises, les taux pratiqués
+par CBCA sont les plus favorables de la place (7,72%), tandis que ceux appliqués
+par BPMC (9,53%) et Ecobank Centrafrique (9,55%) sont presque identiques. En
+raison de son arrivée récente sur le marché, la clientèle des grandes entreprises est
+moins étoffée à la BSIC Centrafrique.
+En ce qui concerne l’horizon des crédits, la part des crédits à court terme est
+identique à celle des crédits à moyen terme. Cependant, les crédits à moyen terme
+s’orientent massivement vers les petites et moyennes entreprises. Quant aux crédits à
+long terme, ils sont quasiment inexistants à l’exception de ceux consentis au
+personnel des banques.
+Montant total des crédits octroyés (En FCFA) % TEG moyen
+CLT - - -
+CMT 32 187 094 007 50,5 9,97%
+CCT 31 541 600 277 49,5 12,85%
+Total 63 728 694 284 100,0 11,37%
+13
+
+--- Page 14 ---
+Répartition des crédits par terme
+0,00%
+49,49% CLT
+CMT
+50,51% CCT
+TEG moyen
+0,14 12,85%
+0,12
+9,97%
+0,1
+0,08
+TEG moyen
+0,06
+0,04
+0,02
+0
+CLT CMT CCT
+Le taux effectif global moyen des crédits à court terme s’établit à 11,20% en
+raison du poids prépondérant des engagements à l’égard des grandes entreprises.
+BSIC Centrafrique se distingue aussi à ce niveau par un TEG particulièrement élevé
+à 30,57% alors qu’il est de 8,83% à la CBCA.
+Taux effectif global moyen hors taxes par banque
+En % BPMC BSIC CBCA ECOBANK
+CLT - - - -
+15,83 10,13
+CMT 9,87 9,86
+CCT 14,84 30,57 8,83 13,44
+Découvert - - - -
+Escompte - - - -
+Les engagements par signature ne sont pas significatifs. A BSIC Centrafrique,
+seul établissement où les données ont été recueillies, le TEG moyen des cautions et
+avals s’établit à 2,62%
+14
+
+--- Page 15 ---
+III.2. Réglementation des changes
+En fixant un minimum sur les transferts de faibles montants, les banques de la
+RCA ne se conforment pas globalement au respect des commissions de transferts
+même si les taux fixés ne dépassent pas les prescriptions réglementaires.
+De nombreux frais sont également prélevés à l’occasion des opérations de
+transferts. Ils comprennent généralement : les frais de dossier, les frais Swift et les
+frais réclamés par la banque correspondante. A cela s’ajoute une taxe de 0,25%
+appliquée uniquement par deux banques : Ecobank Centrafrique et BSIC
+Centrafrique.
+Commissions de transferts
+BPMC BSIC-RCA CBCA ECOBANK-
+RCA
+Transferts 0,20 % 0,20 % 0,25 % 0,20 %
+Zone BEAC min 2 313 min 10 000 Min. 10 000 Min. 4 000
+FCFA FCFA FCFA FCFA
+Transferts 0,50% 0,25 % 0,5 % 0,50 %
+Hors Zone min 2 313 Min 10 000 Min. 10 000 Min. 4 000
+FCFA FCFA FCFA FCFA
+III.3. Frais de tenue de compte
+La plupart des banques se conforment à la recommandation de l’autorité de
+supervision en matière de suppression des frais de tenue de compte chez les
+particuliers. Cependant, il apparaît que la BSIC RCA prélève mensuellement et
+systématiquement des frais fixes auprès de toute la clientèle de particuliers
+dénommés « frais informatiques ». Cette pratique s’apparente clairement au
+prélèvement des frais de tenue de compte pourtant prohibé.
+Du reste, les banques de la place ont diversement répondu à la mesure visant
+la suppression des frais de tenue de compte en diversifiant l’offre des services
+bancaires : sms et internet banking (Ecobank RCA) ou en augmentant l’offre de
+crédit (BPMC).
+III.4. Coût des ressources et marge bancaire
+Le coût moyen des ressources en Centrafrique s’établit à 2,23%. C’est le plus
+élevé de la zone. Toutefois, il permet aux banques de dégager une marge
+d’intermédiation de 9,14%.
+Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 11,37
+Coût moyen des ressources 2,23
+Marge d’intermédiation bancaire moyenne hors taxes 9,14
+15
+
+--- Page 16 ---
+IV. CONGO
+IV.1. Taux effectifs des crédits
+Le système bancaire congolais est composé de six (06) banques en activité.
+Comme pour les autres places de la sous région, les taux nominaux sur les crédits
+sont en baisse en raison de la concurrence imposée notamment par les derniers
+arrivants que sont Ecobank Congo et BCH, lesquelles aux côtés de BGFIBANK
+Congo pratiquent des taux ne franchissant pas 14% quelle que soit la nature de la
+clientèle.
+Le TEG moyen de l’ensemble des crédits consentis au Congo s’établit à
+9,38%.
+Montant des crédits octroyés (En FCFA) % TEG moyen
+Grandes entreprises 75 482 144 011 52,2 7,45%
+PME 38 166 774 037 26,4 9,69%
+Particuliers 30 908 684 101 21,4 13,70%
+Taux moyen 144 557 602 149 100,0 9,38%
+Répartition des crédits par type de bénéficiaires
+21%
+Grandes entreprises
+PME
+53% Particuliers
+26%
+TEG Moyen
+16,00%
+13,70%
+14,00%
+12,00% 9,69%
+10,00%
+7,45%
+8,00% TEG Moyen
+6,00%
+4,00%
+2,00%
+0,00%
+Grandes entreprises PME Particuliers
+L’analyse de la situation par banque permet de relever que les TEG moyens
+les plus bas sont observés à LCB (8,30%) et à BGFIBANK Congo (8,44%) tandis
+que les TEG moyens les plus élevés sont notés au Crédit du Congo (12,63%) et à la
+BCI (11,30%).
+16
+
+--- Page 17 ---
+LCB détient la plus grande production des crédits du pays en concentrant en
+effet 41% du total des crédits amortissables consentis entre janvier 2009 et avril
+2010, suivie de BGFIBANK Congo (22%). Ecobank Congo (7%) et BCH (12%)
+détiennent les parts les moins importantes de la place.
+Même si une grande part des concours reste orientée vers le secteur des
+grandes entreprises, les prêts aux particuliers sont en nette hausse, sous l’effet
+notamment des conventions signées avec certaines grandes entreprises afin de faire
+bénéficier à leurs salariés des taux préférentiels. Cette disposition contribue
+également à accroître l’offre de crédit à moyen terme à cette catégorie de clientèle.
+Montant des crédits octroyés (en FCFA) % TEG moyen
+CLT 248 200 000 0,2 9,81%
+CMT 100 076 794 644 69,2 9,33%
+CCT 44 232 607 505 30,6 9,48%
+Taux moyen 144 557 602 149 100,0 9,38%
+répartition des crédits octroyés
+0,17%
+30,60%
+CLT
+CMT
+CCT
+69,23%
+TEG moyen
+9,90% 9,81%
+9,80%
+9,70%
+9,60%
+9,48%
+9,50%
+TEG moyen
+9,40% 9,33%
+9,30%
+9,20%
+9,10%
+9,00%
+CLT CMT CCT
+La part des crédits à l’égard des grandes entreprises représente 52% du total
+des concours, celle des PME s’élève à 27% tandis que la part des particuliers se
+situe 21%.
+17
+
+--- Page 18 ---
+Taux effectif global moyen hors taxes par banque
+ECOBANK LCB
+En % BCH BCI BGFIBANK CA CDC
+CLT - - - - - 9,81
+CMT 10,04 10,74 8,22 11,80 10,19 8,69
+CCT 11,33 11,84 9,50 16,32 10,12 7,68
+Découvert - - - - - -
+Escompte - - - - - -
+Spot - - - - - -
+Cautions et aval - - - - - -
+Le TEG moyen des crédits accordés aux grandes entreprises s’établit à
+7,45%. La plus grande part des crédits distribués à cette clientèle est attribuable à
+LCB (57%). BGFIBANK Congo qui occupe le deuxième rang ressort à 23%. Les
+grandes entreprises ne bénéficient pas encore des concours de la BCH. Quant aux
+autres banques (BCI, Crédit du Congo et Ecobank Congo), leur part dans la
+distribution totale des crédits aux grandes entreprises ne représente chacune que 7%.
+Le TEG moyen hors assurance appliqué à la clientèle de particuliers s’établit
+à 13,70%. C’est le plus bas de la zone sur ce segment de la clientèle.
+De toutes les banques de la place, seule LCB a accordé des crédits à long terme au
+cours de la période considérée. Le TEG hors assurance pour ce type de crédit dans
+cette banque ressort à 9,38%.
+IV.2. Réglementation des changes
+A l’exception de BCH, toutes les banques implantées au Congo respectent les
+dispositions réglementaires en matière de commission de transferts. En effet, au lieu
+de 0,25% de commission prescrite pour les transferts hors-zone BEAC, la BCH
+prélève plutôt 0,5%.
+Par ailleurs, les coûts inhérents aux transferts paraissent particulièrement
+élevés au Congo comparativement aux autres places de la sous région. En effet,
+outre la commission de transferts, les frais de dossier, les frais Swift et les frais de
+correspondance communs à toutes les places, les banques congolaises prélèvent en
+plus une commission dite BEAC de 0,25% et une taxe de transfert de 1% pour le
+compte de l’Etat. En réalité, la commission dite BEAC n’est pas reversée à la
+Banque Centrale. Elle alimente plutôt le compte d’exploitation des établissements de
+crédit.
+18
+
+--- Page 19 ---
+Commissions de transferts
+BCH BCI BGFIBANK CDC Ecobank LCB
+Congo Congo
+Transferts Zone 0,5 % 0,25 % 0,25 % 0,25 % 0,25 % 0,25 %
+BEAC min. 3 950 min. 20 000 min. 5 000
+FCFA FCFA FCFA
+Transferts Hors 0,5 % 0,5 % 0,5 % 0,50 % 0,5 % 0,45 %
+Zone min. 6 760 min. 20 000 min. 5 000
+FCFA FCFA FCFA
+IV.3. Frais de tenue de compte
+Seule BCH prélève encore des frais de tenue de compte sur les comptes de
+Particuliers de 6 000 F alors que toutes les banques du Congo les ont supprimés.
+IV.4. Coût des ressources et marge bancaire
+En dépit d’un taux effectif moyen sur les crédits apparaissant, comme l’un des
+plus bas de la zone, les banques congolaises parviennent à dégager une marge
+d’intermédiation bancaire de 8,84% grâce à un coût moyen des ressources de
+0,54%.
+Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 9,38
+Coût moyen des ressources 0,54
+Marge d’intermédiation bancaire moyenne hors taxes 8,84
+19
+
+--- Page 20 ---
+V - GABON
+V.1 - Taux effectif des crédits
+Le Gabon compte neuf banques en activité au 20 avril 2010 parmi lesquelles
+une banque de développement (BGD) et une banque de l’habitat (BHG). Ces
+établissements sont des banques spécialisées même si elles sont amenées à réaliser
+(de manière marginale) les opérations classiques des banques universelles.
+Le taux effectif global moyen des concours amortissables octroyés par les
+banques du Gabon est ressorti à 9,79 %.
+Selon la nature de la contrepartie, 69,49% des crédits ont été accordés aux
+grandes entreprises au TEG moyen de 7,94%. Les PME et les particuliers qui ont
+bénéficié respectivement de 15,64% et 14,87% de l’encours total des crédits sur
+cette période ont obtenu un TEG moyen de 10,15% pour les PME et 18,06% pour
+les particuliers.
+Les grandes entreprises, en raison de la qualité de leur signature et des
+montants sollicités influencent fortement les niveaux des taux qui leur sont proposés
+lors de la signature des différentes conventions de prêts. Le secteur des PME, qui
+constitue une alternative au marché des grandes entreprises (en raison de la structure
+des économies de la sous région) semble de plus en plus convoité par les banques
+qui lui proposent certains aménagements sur les taux. En revanche, les particuliers,
+notamment les agents de l’Etat, se voient proposer les taux les plus élevés. Cette
+situation résulte du coût du risque plus élevé sur ce segment de la clientèle. En effet,
+cette clientèle, à l’exception de la domiciliation de leur salaire, ne présente aucune
+autre garantie.
+Montant des crédits octroyés du 1er janvier 2009 au
+20 avril 2010 (En FCFA) % TEG moyen
+Grandes entreprises 364 056 262 775 69,5 7,94%
+PME 81 917 523 821 15,6 10,15%
+Particuliers 77 896 125 214 14,9 18,06%
+Taux moyen 523 869 911 810 100,0 9,79%
+Répartition de l'encours des crédits octroyés par type de bénéficiaires
+15%
+16%
+Grandes entreprises
+PME
+Particuliers
+69%
+20
+
+--- Page 21 ---
+TEG moyen par type de béné ficiaires
+20,00% 18,06%
+18,00%
+16,00%
+14,00%
+12,00% 10,15%
+TEG moyen par type de
+10,00% 7,94% bénéficiaires
+8,00%
+6,00%
+4,00%
+2,00%
+0,00%
+Grandes PME Particuliers
+entreprises
+Avec un poids de 72,12% des crédits octroyés, les concours à court terme
+constituent le type de crédit le plus sollicité. Ces derniers ont été, en grande partie,
+accordés aux entreprises (PME et grandes entreprises). Le TEG moyen sur ces
+crédits s’est élevé à 7,64%. Ce niveau relativement bas résulte de la forte
+concurrence que se livrent les établissements de crédit sur le segment des grandes
+entreprises et de l’excédent des liquidités des banques.
+Les TEG moyens sur les concours à long terme et les crédits à moyen terme
+ressortent respectivement à 8,12% et 11,73%. En termes de crédits octroyés, les
+crédits à long terme ne représentent que 1,6% de l’encours total des crédits contre
+26,31% pour les crédits à moyen terme.
+TEG
+Montant des crédits octroyés du 1er janvier 2009 au 20 avril 2010 % moyen
+CLT 8 238 602 540 1,6 8,12%
+CMT 137 823 414 144 26,3 11,73%
+CCT 377 807 895 126 72,1 7,64%
+Taux moyen 523 869 911 810 100,0 9,79%
+répartition des crédits selon le terme
+2%
+26%
+CLT
+CMT
+CCT
+72%
+21
+
+--- Page 22 ---
+TEG moyen par catégorie de crédits
+14,00%
+11,73%
+12,00%
+10,00%
+8,12%
+7,64%
+8,00%
+TEG moyen par
+6,00% type de crédit
+4,00%
+2,00%
+0,00%
+CLT CMT CCT
+Pour ce qui est des crédits « in fine » (découverts, escomptes et spot), le taux
+le plus élevé sur les découverts a été enregistré à BGFIBANK où il est ressorti à
+15,00%. Toutefois, le prix de ce produit se situe en moyenne à 14,5% pour
+l’ensemble des banques de la place. ECOBANK et UGB constituent les exceptions
+du marché avec des taux de 12,59% et 12,2% respectivement.
+Le TEG sur l’escompte varie de 13,21% (FBG) à 14,6% (BICIG). Par
+ailleurs, sur la période sous revue, les entreprises ont très peu eu recours à cette
+facilité. De plus, le nombre d’établissements dans lequel ces concours ont été relevés
+demeure très faible.
+S’agissant des crédits spot, peu de banques offrent ce type de produits. En
+revanche, le portefeuille de la CITIBANK est essentiellement constitué de crédits
+spot octroyés au TEG moyen de 8,72%.
+Sur la période sous revue, les banques gabonaises ont octroyé plus de
+523 milliards FCFA de crédits amortissables dont 74,5% par BGFIBANK Gabon.
+Par conséquent, le TEG moyen de la place a été fortement influencé par les
+conditions pratiquées par cette banque.
+De ce fait, les TEG moyens sur les crédits à court terme les plus élevés ont
+été observés à BGD (22,06%), à UGB (24,02%) et à BICIG (17,85%). Dans
+l’ensemble, ces crédits sont octroyés aux particuliers à des taux nominaux d’une
+valeur modale d’environ 15 % en général à laquelle il convient d’ajouter les frais de
+dossier (souvent fixes) qui s’avèrent être assez lourds sur des crédits de faibles
+montants. Pour les particuliers, il s’agit en général des crédits à la consommation et
+des crédits « rentrée scolaire ». En revanche, BGFIBANK Gabon et ECOBANK
+Gabon proposent les taux les plus bas avec respectivement 7,11% et 6,30%. Ces
+prêts sont en général consentis aux entreprises.
+22
+
+--- Page 23 ---
+Enfin, cinq banques sur neuf ont octroyé des crédits à long terme sur la
+période. Les TEG moyens sur les prêts à long terme varient de 7,25%
+(BGFIBANK) à 14,36% (BGD). La Banque de l’Habitat du Gabon (BHG), dont
+l’activité est orientée vers des financements à long terme affiche un TEG moyen de
+11,73%.
+Taux effectif global moyen hors taxes par banque
+TEG moyen(en %) BGD BGFIBANK BHG BICIG CITIBANK
+CLT 14,36 7,25 11,73 13,67 -
+CMT 18,21 9,02 12,62 13,67 -
+CCT 22,06 7,11 13,78 17,85 -
+Découvert - 15,00 - 12,10 -
+Escompte - - - 14,6 -
+Spot - - - 6,95 8,72
+TEG moyen(en %) ECOBANK FBG UBA UGB
+CLT - - - 12,72
+CMT 10,91 11,86 14,65 12,07
+CCT 6,30 14,9 13,57 24,02
+Découvert 12,59 14,86 14,17 12,2
+Escompte - 13,21 14,00 13,6
+Spot 6,66 - - -
+Les coûts annuels des cautions et avals oscillent entre 1,75 % (UGB) et
+4,08 % (FBG).
+Coûts moyens des cautions et avals
+En % BGD BGFIBANK BHG BICIG
+Cautions et avals - 2,1 - 2,75
+En % ECOBANK FBG UGB UBA CITIBANK
+Cautions et avals - 4,08 1,75 - 2
+V.2 – Réglementation des changes
+En matière de transferts, les limites réglementaires sont respectées. Quelques
+établissements prélèvent des montants forfaitaires pour des opérations de transferts
+23
+
+--- Page 24 ---
+de faibles montants dont les minimums forfaitaires varient de 1 000 FCFA (BICIG)
+à 15 000 FCFA (UBA). En plus de la commission de transferts, d’autres frais
+annexes sont prélevés par certains établissements de crédit avec des seuils propres à
+chaque banque.
+Les opérations de change manuel au Gabon sont réalisées par toutes les
+banques de la place. Sur ces opérations qui ne portent, en général, que sur l’euro,
+une commission maximale de 4% est prélevée. Certaines banques appliquent un taux
+de commission de 3% pour leurs clients et un taux de 4% pour les non-clients. Au
+final, le produit total des opérations de change réalisées par les différentes banques
+gabonaises varie de 813 millions FCFA à 9,4 milliards FCFA.
+Commissions de transferts
+BGD BGFIBANK BICIG BHG CITIBANK
+Transferts Zone - 0,25 % 0,25 % - 0,25 %
+BEAC min 10 000 FCFA Min. 1 000 FCFA
+Transferts Hors - 0,5 % 0,5 % - 0,5 %
+Zone Min 10 000 FCFA Min. 1 000 FCFA
+FBG ECOBANK UBA UGB
+Transferts Zone 0,25 % 0,25 % 0,25 % 0,25 %
+BEAC Min 10 000 FCFA Min. 2 500 FCFA Min 15 000 FCFA
+Transferts Hors 0,5 % 0,5 % 0,50 % 0,50 %
+Zone Min 10 000 FCFA Min. 5 000 FCFA Min 15 000 FCFA
+V.3 - Frais de tenue de compte
+Les banques ont mis en application la décision de l’autorité monétaire
+supprimant les frais de tenue de compte sur les comptes des particuliers.
+V.4 – Coût des ressources et marge bancaire
+Le coût moyen des ressources de l’ensemble des banques du Gabon est de
+1,98%. Les coûts les plus élevés ont été observés à la BHG (5,5%) et BGD
+(3,8%). En revanche, Citibank affiche un coût très bas (0,15%).
+Au final, la marge d’intermédiation s’est élevée à 7,81%. Les marges les plus
+élevées sont enregistrées à la BGD (15,04%), UGB (11,74%) et FBG (10,95%). A
+l’opposé, BHG (6,45%) et BGFIBANK (6,46%) affichent les marges les plus
+basses.
+Marge bancaire moyenne (en %)
+Taux effectif global moyen sur crédits amortissables 9,79
+Coût moyen des ressources 1,98
+Marge d’intermédiation bancaire moyenne hors taxes 7,81
+24
+
+--- Page 25 ---
+VI. GUINEE EQUATORIALE
+VI.1. Taux effectifs des crédits
+Le système bancaire équato-guinéen est composé de quatre (04) banques en
+activité. Le secteur du bâtiment et des travaux publics concentrent toujours
+l’essentiel des engagements des banques du pays. Les montants en jeu sont
+relativement élevés comparativement aux concours observés dans les autres pays de
+la sous-région. Compte tenu de l’importance des marchés publics dans les projets de
+construction, les crédits de trésorerie, les crédits à moyen terme d’équipement et les
+engagements par signature sont les formes de concours les plus sollicitées.
+Le taux moyen du crédit observé en Guinée Equatoriale est l’un des plus
+élevés de la sous région. Le TEG moyen s’élève à 12,15% alors que la moyenne
+sous-régionale se fixe à 10,65%. Compte tenu des excédents de liquidités dans le
+pays, le coût moyen des ressources en 2009 s’établit à 0,49%. En conséquence, la
+marge d’intermédiation bancaire s’élève à 11,66% et est la plus importante de la
+zone.
+Montant des crédits octroyés (En FCFA) % TEG moyen
+Grandes entreprises 156 349 205 199 79,2 11,62%
+PME 18 401 558 792 9,3 14,13%
+Particuliers 22 670 883 222 11,5 14,20%
+Taux moyen 197 421 647 213 100,0 12,15%
+Répartition des crédits par catégorie de bénéficiaires
+11%
+9%
+Grandes entreprises
+PME
+Particuliers
+80%
+25
+
+--- Page 26 ---
+TEG moyen
+16,00%
+14,00%
+12,00%
+10,00%
+8,00% TEG moyen
+6,00%
+4,00%
+2,00%
+0,00%
+Grandes entreprises PME Particuliers
+Sur les entreprises, les TEG moyens constatés en Guinée Equatoriale sont
+également les plus élevés de la CEMAC. Ils s’établissent respectivement à 11,62%
+pour les grandes entreprises et 14,13% pour les PME.
+Le segment des grandes entreprises a un poids prépondérant dans la
+répartition des crédits amortissables suivant la nature des contreparties. En effet,
+79% des concours alloués par le système bancaire équato-guinéen sont orienté vers
+les grandes entreprises. La part des crédits consacrés aux particuliers (11%)
+supplante celle dévolue aux PME (9%).
+L’analyse des engagements par banque permet de constater que le marché du
+crédit reste dominé par CCEIBANK GE dont la part représente 76% de l’ensemble
+des engagements par caisse du pays. Cette domination s’amplifie sur le segment des
+grandes entreprises où la part de cette banque représente 91%. Le deuxième rang
+dans la distribution des crédits est occupé par SGBGE (18%), tandis que les parts de
+BGFIBANK GE (4%) et BANGE (2%) sont très faibles.
+Par ailleurs, les taux nominaux des crédits aux particuliers s’établissent
+presque systématiquement à 15%. Cependant, compte tenu du montant élevé des
+sommes empruntées et de l’inexistence dans certaines banques (CCEIBANK GE et
+BANGE notamment) des frais de dossier et commissions à la mise en place des
+prêts, le taux effectif global dans l’ensemble se rapproche du taux nominal.
+Montant des crédits octroyés (en CFA) % TEG moyen
+CLT 31 800 000 0,0 15,00%
+CMT 66 619 879 038 33,7 12,34%
+CCT 130 769 968 175 66,2 12,00%
+Total 197 421 647 213 100,0 12,15%
+26
+
+--- Page 27 ---
+Répartition des crédits octroyés selon le terme
+0%
+34%
+CLT
+CMT
+CCT
+66%
+TEG moyen
+16,00% 15,00%
+14,00% 12,34% 12,00%
+12,00%
+10,00%
+8,00% TEG moyen
+6,00%
+4,00%
+2,00%
+0,00%
+CLT CMT CCT
+La répartition des crédits selon la durée à courir révèle que 66% des crédits
+amortissables sont à court terme et 34% à moyen terme. Comme dans la plupart des
+pays de la CEMAC, les crédits à long terme sont quasiment inexistants.
+Le TEG moyen sur les crédits à court terme s’affiche à 12% et celui sur les
+crédits à moyen terme s’établit à 12,34%. Seule BANGE a distribué des crédits à
+long terme au cours de la période considérée. Le TEG moyen qui en découle,
+ressort à 15%.
+27
+
+--- Page 28 ---
+Taux effectif global moyen hors taxe par banques
+En % BANGE CCEIBANK G.E SGB GE BGFIBANK
+CLT 15,0 - - -
+CMT 13,46 10,73 13,26 12,13
+CCT 15,0 11,89 20,60 15,97
+Découvert - - - -
+Escompte - - - -
+Spot - - - -
+VI.2. Commissions de transferts
+A l’exception de CCEIBANK GE, les autres banques de Guinée Equatoriale
+ne prélèvent pas un montant forfaitaire minimum pour exécuter les transferts de
+faible montant. Par ailleurs, outre les frais de dossier et les frais Swift prélevés dans
+toutes les banques, la CCEIBANK GE prélève également une somme de 2 000 F
+relative à la déclaration de transfert et une taxe de transfert de 0,25% rétrocédée à
+l’Etat. Seulement, cette pratique est uniquement observée dans cette banque. Enfin,
+BANGE perçoit de son coté une taxe de transfert de 0,40% alimentant son produit
+net bancaire au lieu d’être reversée à l’Etat suivant sa terminologie.
+Guinée Equatoriale : Commissions de transferts
+BANGE BGFIBANK GE CCEIBANK GE SGBGE
+Transferts 0,25 % 0,25 % 0,25 % 0,20 %
+Zone BEAC Min. 5 000 FCFA
+Transferts 0,50% 0,50 % 0,5 % 0,50 %
+Hors Zone Min. 5 000 FCFA
+VI.3. Frais de tenue de compte
+Toutes les banques de la place ont effectivement supprimé les frais de tenue
+de compte sur les comptes des particuliers. Hormis la SGBGE où les coûts de
+certaines prestations ont été revus à la hausse, les autres banques affirment n’avoir
+pas pris de dispositions particulières pour compenser le manque à gagner causé par
+la suppression des frais de tenue de compte des particuliers.
+VI.4. Coût des ressources et marge bancaire
+Le taux effectif moyen des crédits assez élevé (12,12%) associé à une collecte
+abondante des liquidités bon marché, permet aux banques équato-guinéennes de
+dégager une marge d’intermédiation de 11,63%, la plus importante de la CEMAC.
+28
+
+--- Page 29 ---
+Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 12,12
+Coût moyen des ressources 0,49
+Marge d’intermédiation bancaire moyenne hors taxes 11,63
+29
+
+--- Page 30 ---
+VII - TCHAD
+VII.1 - Taux effectif des crédits
+Le nombre d’établissements de crédit en activité au Tchad est passé de
+7 à 8 banques. Celai a contribué à accentuer la concurrence sur le marché et à
+orienter à la baisse les taux nominaux des crédits proposés, notamment aux grandes
+entreprises. Ainsi, le TEG moyen des crédits amortissables octroyés sur la période
+retenue est ressorti à 12,70%.
+Le marché bancaire tchadien est dominé, en termes de crédits amortissables
+octroyés par deux banques : ECOBANK et SGT. Toutefois, il convient de relever
+que UBA Tchad et Banque Agricole et Commerciale présentent une spécificité
+chacune. En effet, sur la période considérée, UBA Tchad et BAC n’ont octroyé
+toutes les deux qu’un seul crédit à moyen terme. UBA Tchad vient de démarrer ses
+activités et la situation de la BAC est liée à la nouvelle orientation prise par la
+banque qui, au regard du risque élevé lié au financement de l’agriculture, envisage
+dorénavant de s’orienter vers le financement de l’habitat en délaissant le secteur de
+l’agriculture.
+La répartition des crédits selon le type de bénéficiaires montre que les grandes
+entreprises constituent le segment privilégié des banques tchadiennes. La
+concurrence est plus vive sur ce segment de la clientèle où le risque de défaillance
+est moins élevé que sur les autres mais le rendement est plus faible.
+Les crédits aux grandes entreprises et aux PME ont été octroyés au TEG
+moyen respectif de 11,85% et 12,19% contre 16,03% pour les particuliers.
+Montant des crédits octroyés du 1er janvier 2009 au 20
+avril 2010 (En FCFA) % TEG moyen
+Grandes entreprises 83 133 814 800 59,0 11,85%
+PME 31 752 641 287 22,5 12,19%
+Particuliers 26 066 117 617 18,5 16,03%
+Taux moyen 140 952 573 704 100,0 12,70%
+30
+
+--- Page 31 ---
+Répartition des crédits octroyés par type de bénéficiaires
+18%
+Grandes entreprises
+PME
+Particuliers
+23% 59%
+TEG moyen par type de bénéficiaires
+18,00% 16,03%
+16,00%
+14,00% 11,85% 12,19%
+12,00%
+10,00% TEG moyen par type de
+8,00% bénéficiaires
+6,00%
+4,00%
+2,00%
+0,00%
+Grandes entreprises PME Particuliers
+Selon la maturité, la structure du portefeuille de crédit de l’ensemble
+des banques du Tchad reste dominée par les crédits à court terme (54,98% des
+concours octroyés) contre 43,60% pour les crédits à moyen terme et 1,42% pour les
+crédits à long terme. Par conséquent, le TEG moyen a été influencé par les taux des
+crédits à court terme dont le TEG moyen est ressorti à 11,97% contre 12,06% et
+14,49% respectivement pour les crédits à moyen terme et les crédits à long terme.
+Montant des crédits octroyés (en FCFA) % TEG moyen
+CLT 2 006 646 465 1,4 14,49%
+CMT 61 453 280 934 43,6 12,06%
+CCT 77 492 646 305 55,0 11,97%
+Taux moyen 140 952 573 704 100,0 12,70%
+31
+
+--- Page 32 ---
+Répartition des crédits selon la durée
+1,42%
+31,30%
+CLT
+CMT
+CCT
+54,98%
+TEG moyen par catégorie de crédits
+16,00% 14,49%
+14,00%
+12,06% 11,97%
+12,00%
+10,00%
+TEG moyen par catégorie de
+8,00%
+crédits
+6,00%
+4,00%
+2,00%
+0,00%
+CLT CMT CCT
+Le TEG moyen des crédits à court terme le plus bas a été observé à la BSIC
+Tchad (11,33%) et le plus élevé a été enregistré à la FBT (15,29%). Les écarts
+relevés entre les banques proviennent en grande partie du montant des frais de
+dossier et des frais annexes prélevés par les différents établissements. En revanche,
+les taux nominaux proposés sont en général assez proches.
+Le TEG moyen des crédits à moyen terme oscille entre 9,5% (FBT) et
+25,0% (CBT). Les taux relevés au niveau de la CBT ont été influencés par les
+nouvelles conventions que cette banque a signées avec certaines entreprises de la
+place pour octroyer les prêts à leurs employés. En effet, l’approche consiste à
+accorder des prêts aux agents en prenant soin d’intégrer dans l’encours le montant
+de l’ancien prêt et de le racheter avant la mise en place effective du nouveau prêt.
+Or, il s’avère que la majorité des agents de cette entreprise avait déjà contracté des
+prêts auprès de la CBT grevant ainsi le TEG sur ces prêts.
+Les crédits à long terme demeurent encore marginaux. Ils ne représentent à
+peine que 1% des concours. De plus, ils n’ont été observés que dans deux banques :
+CBT et BCC. Ils concernent les crédits à l’habitat. Les taux élevés constatés sont
+liés aux conventions précédemment évoquées.
+Pour ce qui est de la nature des crédits « in fine » (découvert, escompte et
+spot), seuls les découverts sont constamment sollicités. Les taux proposés sur les
+32
+
+--- Page 33 ---
+découverts varient de 11,6% (SGT) à 16,0% (UBA). Le taux d’escompte moyen est
+compris entre 12,6 % et 15,32 %.
+En raison de nombreux chantiers d’infrastructures en cours dans le pays, les
+entreprises bénéficiaires des différents marchés ont recours aux différents types de
+cautions (notamment les cautions pour avance de démarrage, pour retenue de
+garantie et pour soumission). Ainsi, les cautions et avals constituent les types de
+concours les plus sollicités sur la place tchadienne. Le TEG moyen servi sur ce type
+de concours est ressorti à 2,04%.
+Taux effectif global moyen hors taxes
+TEG moyen(en SGTB CBT FBT BCC ECOBANK BSIC UBA BAC
+%)
+CLT 12,24 19,22 - - - - - -
+CMT 12,09 25,00 9,50 12,67 11,99 116,91 12,18 -
+CCT 8,56 15,22 15,29 12,59 12,93 11,33 - -
+Découvert 11,6 13,09 13,85 13,2 12,01 15,01 16,0 -
+Escompte 14,5 15,32 - 12,67 12,73 - - -
+Spot - - 10,49 - 10,5 - - -
+Les coûts des engagements par signature varient de 1,26% (CBT) à 2,90%
+(SGT). L’encours des cautions et avals est en constante progression en raison de
+l’évolution économique et des programmes de développement initiés par le pays. Par
+conséquent, les entreprises obtenant des marchés publics ont souvent recours à ce
+type d’engagement.
+Coûts moyens des cautions et avals
+En % SGTB CBT FBT BCC ECOBANK BSIC
+Cautions et avals 2,9 1,26 1,32 2,14 1,98 2,63
+VII.2 – Réglementation des changes
+En matière de transferts, la réglementation des changes est dans l’ensemble
+respectée. Toutefois, certains établissements de crédit ont fixé des montants
+planchers qu’ils prélèvent pour les opérations de transferts en dessous d’un certain
+seuil. Ces montants planchers varient de 1 500 FCFA (BCC) à 15 000 FCFA (FBT).
+Au final, ces montants planchers qui sont censés couvrir les charges liées à la
+transaction conduisent les établissements de crédit à enfreindre les limites
+réglementaires fixées par la réglementation des changes.
+Par ailleurs, de nombreux frais annexes qui varient selon l’établissement
+(frais de dossier, frais de télex, etc.) greffent ces opérations.
+Les produits des opérations de change dans les résultats des banques du Tchad
+occupent une place importante. Ces résultats sont en général obtenus sur les
+opérations de change manuel réalisées en grande partie avec les différents bureaux
+33
+
+--- Page 34 ---
+de change installés à N’djamena et dans une moindre mesure sur les opérations de
+change manuel avec les particuliers. Toutefois, les commissions de change manuel
+prélevées par les banques demeurent en dessous de la limite réglementaire.
+Commissions de transferts
+SGTB FBT ECOBANK BAC
+Transferts Zone 0,25 % 0,25 % 0,25 % 0,25 %
+BEAC Min 15 000 FCFA Min. 5 000 FCFA
+Transferts Hors 0,5 % 0,5 % 0,5 % 0,50 %
+Zone Min 15 000 FCFA Min. 5 000 FCFA
+CBT BSIC BCC UBA
+Transferts Zone 0,25 % 0,25 % 0,25 % 0,25 %
+BEAC Min. 5 000 FCFA Min. 1 500 FCFA
+Transferts Hors 0,5 % 0,5 % 0,5 % 0,50 %
+Zone Min. 5 000 FCFA Min. 1 500 FCFA
+VII.3 - Frais de tenue de compte
+La BAC continue à prélever les frais de tenue de compte sur les comptes
+chèques des particuliers à hauteur de 1 000 FCFA.
+VII.4 – Coût des ressources et marge bancaire
+Le coût moyen des ressources sur la place est de 1,06 %. Le coût le plus
+élevé est de 1,77% (BSIC) et le plus faible est de 0,45% (SGT).
+Au final, la marge d’intermédiation moyenne est de 10,64%. Elle varie, pour
+l’ensemble des banques de 9,31% à 16,37%.
+Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 12,7
+Coût moyen des ressources 1,06
+Marge d’intermédiation bancaire moyenne hors taxes 10,64
+34
+
+--- Page 35 ---
+ANNEXES
+35
+
+--- Page 36 ---
+A - CAMEROUN
+Les banques ayant participé à l’enquête.
+BICEC
+STANDARD CHARTERED BANK
+ECOBANK CAMEROUN
+SGBC
+UBC
+AFRILAND FIRST BANK
+NFC BANK
+CBC
+CITIBANK CAMEROUN
+UBA
+SCB CA
+BANQUE ATLANTIQUE
+36
+
+--- Page 37 ---
+BICEC : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 8,32 0,66 8,90 19,25 10,64
+CCT 7,65 0,55 8,88 19,25 10,64
+Découvert 19,25
+Escompte 11,58 - 11,58 19,25 13,81
+Spot 6,08 - 6,08 19,25 7,24
+Engagements 1,39 0,09 1,48 19,25 1,77
+par signature
+BICEC : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 5,37 0,06 5,49 19,25 6,54
+entreprises
+Petites 12,71 0,94 13,57 19,25 16,18
+entreprises
+Particuliers 12,40 1,60 14,88 19,25 17,74
+Coûts moyens des transferts2
+Commission Commission
+de transfert Frais de dossier de change Frais swift
+0,25%
+Zone BEAC Min 6 500 FCFA 7 150 FCFA - 10 000 FCFA
+0,50% 0,1 %
+Hors Zone Min. 6 500 FCFA 10 300 FCFA Min. 6 200 FCFA 14 200 FCFA
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA Non facturé
+SYSTAC Non facturé
+2 S’agissant des commissions des correspondants, elles s’élèvent à 13 750 FCFA lorsqu’elles sont à la charge du
+bénéficiaire et à 40 150 FCFA à charge de l’expéditeur.
+37
+
+--- Page 38 ---
+Opérations de change manuel
+Commission de vente de devise Produits des opérations de
+change
+Euro 4,25 %
+5 144 065 405 FCFA
+Autres 4,5 %
+Dates de valeur
+Date de valeur de la banque
+Opérations de crédit J+1
+Opérations de débit J-1
+BICEC – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 8,86
+Coût moyen des ressources 1,25
+Marge d’intermédiation bancaire moyenne hors taxes 7,61
+Monétique
+Cotisation annuelle pour les cartes
+Clientèle professionnelle
+Visa Business Electron 10 000 FCFA
+Visa Business Gold 20 000 FCFA
+Clientèle des particuliers (carte sur CSL)*
+Express 1 875 FCFA
+Plus 3 350 FCFA
+Leader 7 210 FCFA
+Visa Electron 6 000 FCFA
+Visa Classic 10 500 FCFA
+Visa Gold 20 000 FCFA
+Banque à distance pour les particuliers
+BICEC Info : consultation de compte par téléphone portable et fixe
+Réception par SMS d’un mini relevé
+Option 1 1 000 FCFA
+Option 2 1 960 FCFA
+BICEC.COM : consultation de compte par Internet
+Option 1 1 000 FCFA
+Option 2 1 500 FCFA
+Option 3 2 500 FCFA
+ALLO BICEC : consultation par téléphone fixe 1 000 FCFA
+* retrait dans un distributeur de billet d’une autre banque : 2 500 FCFA
+Paiement par carte (hors EpayBox) : 525 FCFA
+38
+
+--- Page 39 ---
+STANDARD CHARTERED BANK : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 6,98 1,1 8,08 19,25 9,63
+CCT - - - - -
+Découvert 9,81 0,59 10,40 19,25 12,41
+Escompte - - - - -
+Spot 7,11 1,66 8,77 19,25 10,45
+Engagements 2,15 - 2,15 19,25 2,56
+par signature
+STANDARD CHARTERED BANK : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 6,98 1,1 8,08 19,25 9,63
+entreprises
+Petites - - - - -
+entreprises
+Particuliers - - - - -
+Coûts moyens des transferts
+Commission Transfert Handling charges Exchange commission Swift
+Zone BEAC 0,25 % si 50 M
+0,25 % 0,5% si 50M ; 100M 0,1% 28 000
+1% si 100 M
+Hors Zone 0,25 % si 50 M
+0,5% 0,5% si 50M ; 100M 0,1% 28 000
+1% si 100 M
+STANDARD – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 8,08
+Coût moyen des ressources 0,51
+Marge d’intermédiation bancaire moyenne hors taxes 7,57
+Monétique
+Cotisation
+Un seul type de carte 10 000 FCFA lors de l’émission de la carte qui est valable 3ans
+39
+
+--- Page 40 ---
+ECOBANK CAMEROUN3 : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 9,75 0,4 10,01 19,25 11,93
+CCT 13,37 0,24 13,56 19,25 16,17
+Découvert 11,05 - 11,05 19,25 13,17
+Escompte 10,02 - 10,02 19,25 11,95
+Spot 7 - 7 19,25 8,35
+Engagements 19,25
+par signature
+ECOBANK CAMEROUN : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 8,2 0,3 8,3 19,25 9,9
+entreprises
+Petites 14,18 0,21 14,29 19,25 17,04
+entreprises
+Particuliers 12,4 0,9 12,6 19,25 15,03
+ECOBANK CAMEROUN- Coûts moyens des transferts
+Commission Transfert Dossier Change Swift Correspondant
+10 000 si < 1 M
+25 000 si ]1 M ; 5 M]
+Zone BEAC 0,25 % 35 000 si ]5M ;10 M] - 15 000 Variable
+Min. 5 000 FCFA 50 000 si ]10 M ;25 M]
+100 000 si > 25 M
+10 000 si < 1 M
+25 000 si ]1 M ; 5 M]
+Hors Zone 0,5 % 35 000 si ]5M ;10 M] 0,4 % 15 000 Variable
+Min. 5 000 FCFA 50 000 si ]10 M ;25 M]
+100 000 si > 25 M
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA 25 000 FCFA/ transaction
+SYSTAC 150 FCFA/ transaction
+3 Report des données de l’enquête réalisée en 2009
+40
+
+--- Page 41 ---
+Opérations de change manuel
+Commission de vente de devise Produits des opérations de
+change
+Euro 2,5 %
+2 335 000 000 FCFA
+Autres (USD) 1,5 %+0,4 % de commissions de
+change (avec Min. 5 000 FCFA)
+Dates de valeur
+Date de valeur de la banque
+Opération de crédit J-1
+Opérations de débit J+1
+ECOBANK CAMEROUN- Marge bancaire moyenne
+Taux effectif moyen sur crédits 11,75
+Coût moyen des ressources 1,29
+Marge d’intermédiation bancaire moyenne hors taxes 10,46
+Monétique
+Distributeurs Automatiques de Billets En F CFA
+Souscription/Emission de carte
+Carte azur 3 000
+Carte Gold 5 000
+Carte Platinium 7 500
+Forfait annuel
+Carte azur 6 000
+Carte Gold 10 000
+Carte Platinium 15 000
+Retrait régional (inter agences réseau Ecobank Afrique) 1 000 par retrait
+Consultation solde 100
+Impression reçu 100
+Internet Banking
+41
+
+--- Page 42 ---
+Souscription mensuelle
+Particuliers
+Abonnement bleu 1 500
+Abonnement argent 2 250
+Personnes morales
+Abonnement bleu 5 000
+Abonnement argent 7 500
+Grandes entreprises – Institutions
+Abonnement bleu 15 000
+Abonnement argent 20 000
+E-Alert
+Souscription mensuelle
+Particuliers 1 000
+Entreprises 2 500
+Grandes entreprises et Institutions 5 000
+E-Statement
+Souscription mensuelle
+Particuliers 500
+Entreprises 1 000
+Grandes entreprises et Institutions 1 000
+SGBC : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 9,17 0,1 9,48 19,25 11,64
+CCT 6,39 0,19 6,44 19,25 7,69
+Découvert 9,88 - 9,88 19,25
+Escompte 12,32 - 12,32 19,25 14,86
+Spot 5,30 - 5,30 19,25 6,32
+Engagements
+par signature 0,97 - 0,97 19,25 1,16
+SGBC : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 6,17 - 6,17 19,25 7,36
+entreprises
+Petites 9,53 - 9,53 19,25 11,36
+entreprises
+Particuliers 12,24 0,21 14,24 19,25 18,13
+42
+
+--- Page 43 ---
+Coûts moyens des transferts4
+Commission Transfert Frais de dossier Commission de change Frais Swift
+Zone BEAC 0,25 % 15 000 FCFA - 15 000 FCFA
+0,4 %
+Hors Zone 0,5 % 15 000 FCFA Min. 15 000 FCFA 15 000 FCFA
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA Non répercuté
+SYSTAC Non répercuté
+Opérations de change manuel
+Commission de vente de devises Produits des opérations de
+change
+Toutes devises
+Bureaux de change 1,4 % 3 632 000 000 FCFA
+Autres 2,5 %
+Dates de valeur des principales opérations
+Date de valeur de la banque
+Versement espèce J+1
+Virement reçu J+1
+Virement émis J-1
+Retrait J-1
+Paiement chèques de caisse J-1
+Remise chèque sur autres banques J+2
+Remise chèque SGBC J+1
+4 Pour ce qui est des transferts, il convient de noter que les frais de correspondant s’élèvent à 13 119 FCFA pour
+le réseau SG et à 26 238 FCFA hors réseau SG. De plus, le coût de l’édition de l’état du transfert est de 10 000
+FCFA. Pour les opérations hors compte ou pour les non clients, l’établissement prélève des frais
+supplémentaires de 0,5 % avec un minimum de 30 000 FCFA.
+43
+
+--- Page 44 ---
+SGBC – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 6,81
+Coût moyen des ressources 1,04
+Marge d’intermédiation bancaire moyenne hors taxes 5,77
+Monétique
+En F CFA
+VOCALIA (consultation de compte)
+Par téléphone (compte chèque/compte d’épargne) 1 150/mois
+Par fax 2 600/mois
+MESSALIA (consultation de compte par sms) 2 000/mois
+SOGECOM (consultation de compte sur internet) 2 500/mois
+PACKAGE
+Select 5 000/mois
+Confiance 4 100/mois
+Agence des particuliers 10 000/mois
+Cartes de retrait et de paiement
+Cotisation annuelle
+Carte préférence 12 544
+Carte privilège 18 544
+Carte Visa Electron 30 865
+Carte Visa Business 89 281
+Carte Visa Premier 89 281
+Frais retrait à l’étranger (carte business) 3 000 FCFA
+UBC : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 12,73 14,00 19,25 16,70
+CCT 11,04 17,62 19,25 21,03
+Découvert 15,00 2,78 17,78 19,25 21,20
+Escompte - - - - -
+Spot - - - - -
+Engagements 2 2,24 4,24 19,29 5,05
+par signature
+44
+
+--- Page 45 ---
+UBC : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 10,00 5,89 17,85 19,25 21,29
+entreprises
+Petites 11,64 6,75 18,33 19,25 21,86
+entreprises
+Particuliers 11,53 6,98 18,21 19,25 21,71
+Coûts moyens des transferts
+Commission Handling Commission de Frais Swift Documentation
+Transfert Commission change
+Zone BEAC - - - - -
+Hors Zone 0,5 % 0,25 % 0,1 % 15 000 FCFA 10 000 FCFA
+Min 5 000 FCFA Min. 22 500 FCFA Min 5 000 FCFA
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA 5 000 FCFA/transaction
+SYSTAC 5 000 FCFA/transaction
+Opérations de change manuel
+Commission de vente de devises Produits des opérations de
+change
+EURO
+Bureau de change 1,53 %
+Particuliers 2,1 % 4 165 000 000 FCFA
+USD 3 %
+Dates de valeur
+Date de valeur de la banque
+Opérations de crédit J+1
+Opérations de débit J-1
+UBC - Marge bancaire moyenne
+Taux effectif moyen sur crédits 16,99
+Coût moyen des ressources 2,37
+Marge d’intermédiation bancaire moyenne hors taxes 14,62
+45
+
+--- Page 46 ---
+AFRILAND FIRST BANK : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 8,44 0,02 9,22 19,25 10,99
+CCT 9,77 0,27 12,84 19,25 15,31
+Découvert 12,5 - 12,5 19,25
+Escompte 10,06 - 10,06 19,25 12,00
+Spot 7,62 - 7,62 19,25 9,08
+Engagements 2,00 - 2,00 19,25 2,39
+par signature
+AFRILAND FIRST BANK : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 7,07 - 7,65 19,25 9,13
+entreprises
+Petites 9,41 0,25 11,35 19,25 13,54
+entreprises
+Particuliers 11,16 0,31 12,60 19,25 15,02
+Coûts moyens des transferts
+Commission Commission de Frais de Frais Swift Commission
+Transfert change Dossier authentification
+Zone BEAC - - - - -
+0,5 % 0,4 %
+Hors Zone Min. 5 000 FCFA Min. 5 000 FCFA 10 000 FCFA 6 500 FCFA 2 000 FCFA
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA
+Virements normés
+Emis (< 100 millions) 20 000/opération
+Emis (> 100 millions) 30 000/opération
+Virements non normés
+Emis (< 100 millions) 25 000/opération
+Emis (> 100 millions) 35 000/opération
+SYSTAC 2 000 /opération
+46
+
+--- Page 47 ---
+Opérations de change manuel
+Commission de vente de Produits des opérations de change
+devises
+Euro 2,5 %
+Autres (USD) 4 % 3 486 000 000 FCFA
+Dates de valeur
+Date de valeur de la banque
+Virement SYGMA J-1
+Virement en compensation J+1
+Versement espèces J+1
+Retrait espèces, paiement chèques, domiciliation d’effet et divers J-1
+Remise chèque et effet J+2
+Effets à l’escompte J-1
+AFRILAND FIRST BANK - Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 10,23
+Coût moyen des ressources 2,13
+Marge d’intermédiation bancaire moyenne hors taxes 8,10
+Monétique
+GAB En F CFA
+Abonnement annuel
+Fellow 6 000
+Partner 12 000
+Edition mini relevé 250
+I-CARD
+Souscription 10 000
+Abonnement annuel 10 000
+Retraits
+De 0 à 100 000 200
+De 100 001 à 500 000 1 000
+De 500 001 et plus 5 000
+HOME FIRST
+Comptes CEL/CDI/FC 2 000/ semestre
+C/P et comptes de dépôts spéciaux des particuliers 3 000/ trimestre
+47
+
+--- Page 48 ---
+Comptes de dépôts spéciaux des entreprises 2 000/ mois
+Comptes courants 3 000/ mois
+CEL/CDS/CDI dispora 5 000/ trimestre
+FLASH CASH
+Commission fixe 1 500
+Commission variable pour non client 0,05 %, minimum 500
+Annulation 0,025%, minimum 500
+NFC BANK : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 11,94 0,01 12,20 19,25 14,54
+CCT 11,02 - 11,05 19,25 13,18
+Découvert 19,25
+Escompte -
+Spot -
+Engagements 19,25
+par signature
+NFC BANK : Taux effectif global moyen par type de client
+Taux nominal Divers frais et Taux effectif TVA Coût effectif de
+En % commissions sortie
+Grandes - - - - -
+entreprises
+PME 10,26
+0,1 10,28 19,25 12,26
+Particuliers 15,00 0,9 15,65 19,25 18,66
+Coûts moyens des transferts5
+Commission Commission de Frais de Swift Frais de
+Transfert change dossier correspondant
+Zone BEAC 0,1 % 15 000 15 000 15 000
+0,4 %
+Hors Zone 0,5 % Min. 10 000 15 000 15 000 15 000
+5 Pour les non-clients, une commission de 50 000 FCFA est perçue pour chaque transaction.
+48
+
+--- Page 49 ---
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA Non facturé
+SYSTAC Non facturé
+Opérations de change manuel
+Commission de vente de Produits des opérations de change
+devises
+Toutes devises 2 % 247 928 886 FCFA
+Dates de valeur
+Date de valeur de la banque
+Paiement chèques présentés par confrères J-1
+Virement émis, paiement chèques de caisse J-1
+Versement espèces, virement reçu J+1
+Remise chèques sur autres banques J+2
+Remise chèque NFC même guichet J+1
+Remise chèque intra NFC J+2
+NFC – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 11,96
+Coût moyen des ressources 3,58
+Marge d’intermédiation bancaire moyenne hors taxes 7,38
+CBC : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 9,31 0,53 9,78 19,25 11,66
+CCT 9,39 0,87 9,81 19,25 11,70
+Découvert 12,5 - 12,5 19,25
+Escompte 11,0 - 11,0 19,25
+Spot 6,43 0,29 6,72 19,25 8,01
+Engagements 1,2 - 1,2 19,25 1,43
+par signature
+49
+
+--- Page 50 ---
+CBC : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 12,31 0,54 13,77 19,25 16,42
+entreprises
+PME 10,81 0,28 11,83 19,25 14,11
+Particuliers 9,09 0,82 9,41 19,25 11,22
+Coûts moyens des transferts6
+Commission Transfert Correspondant Dossier Swift Commission paiement PDL
+0,1 % Intra Groupe
+Zone BEAC 0,2 % autres banques Variable 10 000 10 000 0,1 % 600
+Hors Zone 0,5 % Variable 10 000 30 000 0,1 % 600
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA Non facturé
+SYSTAC Non facturé
+Opérations de change manuel
+Commission de change manuel Produits des opérations de
+change
+Toutes devises 5 % 1 628 000 000 FCFA
+Dates de valeur
+Date de valeur de la banque
+Virements émis J-1
+Virements reçus
+Systac J+1
+Sygma J
+Opérations de crédit J+1
+6 Les frais de dossier pour les transferts dans la zone euro s’élèvent à 10 000 FCFA. De plus, les personnes non
+clientes de la banque désirant effectuer des transferts doivent s’acquitter des frais supplémentaires de 30 000
+FCFA.
+50
+
+--- Page 51 ---
+Opérations de débit J-1
+Chèques
+Encaissement chèques
+Chèques CBC J+1
+Chèques autres banques J+2
+Escompte chèques J
+Paiement chèques J-1
+CBC – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 13,34
+Coût moyen des ressources 1,91
+Marge d’intermédiation bancaire moyenne hors taxes 12,43
+CITIBANK CAMEROUN : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 6,75 - 6,75 19,25 8,05
+CCT - - - - -
+Découvert 7,45 0,24 7,7 19,25 9,18
+Escompte 5,15 0,21 5,36 19,25 6,39
+Spot 6,42 0,59 7,01 19,25 8,36
+Engagements 0,41 - 0,41 19,25 0,49
+par signature
+CITIBANK CAMEROUN: Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 6,75 - 6,75 19,25 8,05
+entreprises
+Petites - - - - -
+entreprises
+Particuliers - - - - -
+51
+
+--- Page 52 ---
+Coûts moyens des transferts
+Commission Transfert Handling commission Communication cost
+Zone BEAC 0,25 % Négociable 15 000 FCFA
+0,3 % Euro transfert 0,25 % corporate-target market
+Hors Zone 0,5 % autres devises 1 % autres 15 000 FCFA
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA Non facturé
+SYSTAC Non facturé
+Opérations de change manuel
+Commission de change Produits des opérations de
+change
+Toutes devises 4 % 2 596 000 000 FCFA
+Dates de valeur
+Date de valeur de la banque
+Opération de crédit J+1
+Virement émis J+2
+Virement reçu J
+Opération de débit J-1
+CITIBANK CAMEROUN – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 8,05
+Coût moyen des ressources 0,47
+Marge d’intermédiation bancaire moyenne hors taxes 7,52
+UBA CAMEROUN : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT - - - - -
+CCT 10,38 0,93 11,31 19,25 13,49
+Découvert 15 0,83 15,83 19,25 18,87
+52
+
+--- Page 53 ---
+Escompte 15 0,75 15,75 19,25 18,78
+Spot 6 0,15 6,15 19,25 7,33
+Engagements 1,2 - 1,2 19,25 1,43
+par signature
+UBA CAMEROUN: Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 8,06 0,69 8,75 19,25 10,43
+entreprises
+Petites 14,22 0,65 14,65 19,25 17,74
+entreprises
+Particuliers 12 1 13 19,25 15,5
+Coûts moyens des transferts
+Commission Frais de dossier Commission Communication Correspondant
+Transfert de change
+Zone BEAC 0,25% 15 000 FCFA - 15 000 FCFA Variable
+Min. 5 000 FCFA
+Hors Zone 0,5 % 15 000 FCFA 0,50 % 15 000 FCFA Variable
+Min. 10 000 FCFA
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA 1000 FCFA
+SYSTAC 500 FCFA
+Opérations de change manuel
+Commission de vente de devises Produits des opérations de
+change
+Clients 3 %
+2 350 648 949 FCFA
+Non-clients 4 %
+UBA CAMEROUN – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 12,21
+Coût moyen des ressources 0,68
+Marge d’intermédiation bancaire moyenne hors taxes 11,53
+53
+
+--- Page 54 ---
+Monétique
+Internet Banking En F CFA
+Particuliers 1 000 FCFA /mois
+PME 3 500 FCFA/mois
+Grandes entreprises 10 000 FCFA/mois
+SMS ALERTS
+Particuliers 1 000 FCFA/mois
+PME 2 000 FCFA/mois
+Grandes entreprises 5 000 FCFA/mois
+SCB CA CAMEROUN : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT
+CMT 9,40 10,14 19,25 11,62
+CCT 12,11 19,24 19,25 22,45
+Découvert
+Escompte
+Spot
+Engagements 1,07 1,00 2,07 19,25 2,47
+par signature
+SCB CA CAMEROUN: Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 7,10 7,16 19,25 8,54
+entreprises
+Petites 9,74 10,03 19,25 11,97
+entreprises
+Particuliers 13,10 15,92 19,25 18,98
+54
+
+--- Page 55 ---
+Coûts moyens des transferts
+Commission Transfert Dossier Swift Port de lettre
+Cameroun
+Euro 0,1 % Min. 2 000 FCFA 15 000 FCFA 3 000 FCFA 600 FCFA
+Autres 0,1 % Min.1 000 FCFA 15 000 FCFA 3 000 FCFA 600 FCFA
+Zone BEAC
+Euro 0,1 % Min. 2 000 FCFA 15 000 FCFA 15 000 FCFA 600 FCFA
+Autres 0,1 % Min. 1 000 FCFA 15 000 FCFA 15 000 FCFA 600 FCFA
+Hors Zone
+Euro 0,5 % Min. 2 000 FCFA 15 000 FCFA 20 000 FCFA 600 FCFA
+Autres 0,5 % Min. 1 000 FCFA 15 000 FCFA 20 000 FCFA 600 FCFA
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA Non facturé
+SYSTAC Non facturé
+Opérations de change manuel
+Commission de change Produits des opérations de
+change
+Euro 3 % Min. 5 000 FCFA
+1 151 000 000 FCFA
+Autres 5 % Min.5 000 FCFA
+Dates de valeur
+Date de valeur de la banque
+Remises Chèques Date effective de l’encaissement du chèque
+(Crédit après encaissement)
+Encaissement d’effet
+-crédit après encaissement Jour d’encaissement + 1 jour effectif de la banque
+- pris à l’escompte Nombre de jour entre la date de remise et la date d’échéance + 1
+jour de banque (Minimum 10 jours)
+Opération de crédit J+1
+Opération de débit J-1
+SCB CA CAMEROUN – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 10,78
+Coût moyen des ressources 0,9
+Marge d’intermédiation bancaire moyenne hors taxes 9,88
+55
+
+--- Page 56 ---
+Monétique
+Banque en ligne En F CFA
+EBANK Entreprise 50 000 FCFA/trimestre
+EBANK Particuliers 5 000 FCFA/trimestre
+Vocalion 885 FCFA/mois
+Cartes bancaires
+Carte privative LION 6 000 FCFA/mois
+Carte Visa Electron Essentiel 1 000 FCFA/ mois
+Carte Visa Electron Univers 1 500 FCFA/ mois
+Carte Visa Classic Select 35 000 FCFA/ an
+Carte Corporate Univers 2 250 FCFA/ mois
+Carte Visa Classic Select 52 500 FCFA/an
+BANQUE ATLANTIQUE CAMEROUN : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 11,00 12,70 19,25 15,14
+CCT 7,14 7,36 19,25 8,73
+Découvert 11,79 0,17 12,15 19,25 14,49
+Escompte - - - - -
+Spot - - - - -
+Engagements 2,06 0,10 2,16 19,25 2,5
+par signature
+BANQUE ATLANTIQUE CAMEROUN: Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 6,69 6,69 19,25 7,98
+entreprises
+Petites 12,44 13,40 19,25 15,98
+entreprises
+Particuliers 11,63 13,70 19,25 16,33
+56
+
+--- Page 57 ---
+Coûts moyens des transferts7
+Commission Frais dossier Swift PDL Commission
+Transfert de change
+Zone BEAC 0,25 % 10 000 FCFA 10 000 FCFA 1 500 FCFA -
+Hors Zone
+Euro 0,5 % 10 000 FCFA 10 000 FCFA 1 500 FCFA -
+Autres 0,5 % 10 000 FCFA 10 000 FCFA 1 500 FCFA 0,25 %
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA 250 FCFA/ transaction
+SYSTAC 150 FCFA/ transaction
+Opérations de change manuel
+Commission de vente de devise Produits des opérations de
+change
+Client 3,3 %
+198 000 000 FCFA
+Non client 5 %
+Dates de valeur
+Date de valeur de la banque
+Encaissement chèques et effets
+-Chèques et effet BAC J+1
+-Chèques et effets autres banque J+2
+Chèques et effets payables hors CEMAC J+15
+Opération de crédit J+1
+Opérations de débit J-1
+BANQUE ATLANTIQUE CAMEROUN – Marge bancaire moyenne (en %)
+Taux effectif global moyen sur crédits 7,33
+Coût moyen des ressources 1,89
+Marge d’intermédiation bancaire moyenne hors taxes 5,44
+7 Pour les opérations de transfert effectuées pour le compte des personnes non clientes de la banque il est perçu
+une commission de transfert fixe de 10 000 FCFA pour les transferts dans la CEMAC et de 30 000 FCFA
+pour les transferts hors CEMAC.
+57
+
+--- Page 58 ---
+Monétique8
+Cartes bancaires En FCFA
+Carte atlantique privilège-CT 6 000 FCFA/an
+Carte atlantique privilège-EG 15 000 FCFA/an
+Carte atlantique privilège-MG 15 000 FCFA/an
+Carte atlantique privilège-HG 20 000 FCFA/an
+Carte atlantique privilège-VIP 50 000 FCFA/an
+Carte atlantique épargne-CEC Franco
+Carte atlantique épargne-CEA Franco
+Cartes prépayées locales
+Cash classique 15 000 FCFA/an
+Carte salaire Variable
+Cash étudiant 6 000 FCFA/an
+8 Pour les différents types de cartes, des montants forfaitaires de 100 FCFA et 250 FCFA sont prélevés pour la
+consultation de compte et l’édition de mini relevés respectivement par opération. Pour les cartes cash salaire et
+cash étudiant, ces montants s’élèvent respectivement à 50 FCFA et 150 FCFA par opération.
+58
+
+--- Page 59 ---
+B - RCA
+Les banques ayant participé à l’enquête.
+CBCA
+ECOBANK RCA
+BPMC
+BSIC RCA
+59
+
+--- Page 60 ---
+CBCA : Taux effectif global moyens par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 9,91 0,41 10,13 19,00 12,05
+CCT 7,86 0,46 8,83 19,00 10,51
+Escompte 14,96 3,24 18,20 19,00 21,66
+Spot 12,59 1 13,59 19,00 16,17
+Engagements -
+par signature 3 3 19,00 3,57
+CBCA : Taux effectif global moyens par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 7,35 0,26 7,72 19,00 9,19
+entreprises
+PME 12,36 0,80 14,32 19,00 17,04
+Particuliers 13,90 1,29 15,45 19,00 18,39
+Coûts moyens des transferts
+Commission Commission
+Taux Swift Frais d’exécution de change
+traitement
+Transferts intra 0,25 % 10 000 FCFA 1 500 FCFA - -
+CEMAC min. 10 000 FCFA
+Transferts Zones 0,25 % 15 000 FCFA 1 500 FCFA 0,25 % -
+Euro et BCEAO min. 10 000 FCFA
+Transfert autres 0,5 % 15 000 FCFA 1 500 FCFA 0,25 % 0,5 %
+Zones min. 10 000 FCFA min. 18 000 FCFA
+CBCA – Marge bancaire moyenne (en %)
+Taux effectif global moyen sur crédits 11,02
+Coût moyen des ressources 1,65
+Marge d’intermédiation bancaire moyenne hors taxes 9,37
+60
+
+--- Page 61 ---
+ECOBANK CENTRAFRIQUE : Taux effectif global moyen par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 9,44 0,64 9,86 19,00 11,73
+CCT 11,10 0,94 13,44 19,00 15,99
+Découvert 15,5 3,25 18,75 19,00 22,31
+Escompte 13,41 1,07 14,48 19,00 17,23
+ECOBANK CENTRAFRIQUE : Taux effectif global moyen par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes
+entreprises 9,17 0,47 9,55 19,00 11,36
+PME 12,11 0,85 13,68 19,00 16,28
+Particuliers 13,31 2,48 19,89 19,00 23,67
+Coûts moyens des transferts
+Taux Swift Frais Correspondant
+Transferts intra CEMAC 0,20 % 10 000 FCFA Variable
+min. 4 000 FCFA
+Transferts Zones Euro et 0,25 % 10 000 FCFA Variable
+BCEAO min. 4 000 FCFA
+Transfert autres Zones 0,4 % 10 000 FCFA Variable
+min. 4 000 FCFA
+ECOBANK – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 11,54
+Coût moyen des ressources 1,47
+Marge d’intermédiation bancaire moyenne hors taxes 10,07
+61
+
+--- Page 62 ---
+BPMC : Taux effectif global moyen par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 9,78 0,17 9,87 19,00 11,75
+CCT 13,37 0,99 14,84 19,00 17,66
+Découvert 15 0,08 15,08 19,00 17,95
+Engagements 3 - 3 19 3,57
+par signature
+BPMC : Taux effectif global moyen par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 9,44 0,13 9,53 19,00 11,34
+entreprises
+PME 11,91 1,82 12,15 19,00 14,46
+Particuliers 14,51 1,82 17,20 19,00 20,47
+Coûts moyens des transferts et change
+Taux Frais Swift
+Transferts intra CEMAC 0,20 % 12 000 FCFA
+Transferts hors CEMAC 0 ,50 % 13 000 FCFA
+mini 2 313 FCFA
+BPMC – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 12,13
+Coût moyen des ressources 4,27
+Marge d’intermédiation bancaire moyenne hors taxes 7,86
+BSIC CENTRAFRIQUE : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 14,37 1,45 15,83 19 18,84
+CCT 13,78 3,89 30,57 19 36,38
+Découvert 15 3,20 18,20 19 21,66
+Engagements 2,62 0,64 3,26 19 3,88
+par signature
+62
+
+--- Page 63 ---
+BSIC CENTRAFRIQUE Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 6,69 6,69 19,0 7,96
+entreprises
+Petites 13,74 1,03 16,99 19,0 20,22
+entreprises
+Particuliers 14,40 4,02 28,06 19,0 33,39
+Coûts moyens des transferts
+Commission Swift Frais de Commission Commission
+Transfert traitement d’exécution de change
+Zone BEAC 0,20 % 10 000 FCFA 2 000 FCFA - -
+Hors Zone
+Euro et UEMOA 0,20 % 12 000 FCFA 2 000 FCFA 0,20% -
+Autres 0,25 % 15 000 FCFA 2 000 FCFA 0,25% 3 %
+63
+
+--- Page 64 ---
+C - CONGO
+Les banques ayant participé à l’enquête.
+CREDIT DU CONGO
+BGFI CONGO
+LA CONGOLAISE DE BANQUE
+BCI
+ECOBANK
+BANQUE CONGOLAISE DE L’HABITAT
+64
+
+--- Page 65 ---
+Crédit du Congo : Taux moyens par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie de sortie
+CMT 9,75 0,33 11,80 18,9 14,03
+CCT 12,54 1,15 16,32 18,9 19,40
+Découverts 15 - 15 18,9 17,84
+Caution 2 - 2 18,9 2,38
+Crédit du Congo : Taux effectif global moyen par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes
+entreprises 8,67 0 10,31 18,9 12,26
+Petites
+entreprises 9,44 0,02 11,24 18,9 13,36
+Particuliers 13,06 1,69 17,06 18,9 20,28
+Coûts moyens des transferts
+Taux Commission Swift Frais Frais de Commission de
+En % service correspondant transfert change
+Transferts intra 0,25 - 20 000 FCFA - 25 000 FCFA -
+Cemac
+Transferts hors 0,47 0,25 30 000 FCFA 35 000 FCFA 30 000 FCFA 0,20
+Cemac
+Crédit du Congo – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 12,63
+Coût moyen des ressources 0,55
+Marge d’intermédiation bancaire moyenne hors taxes 12,08
+65
+
+--- Page 66 ---
+Crédit du Congo : Monétique*
+Tarification Hors taxe
+Type de carte
+Cartes bancaires
+Carte select 59 500 FCFA
+Carte univers 42 500 FCFA
+Carte essentiel 25 500 FCFA
+Carte lion 13 000 FCFA
+Retrait GAB CDCO 500 FCFA
+Retrait GAB dans les GAB hors CDCO et dans 2000 FCFA
+la CEMAC
+Retrait GAB hors CDCO et hors CEMAC 2,5 % du retrait + 2 000 FCFA
+BGFI-Bank Congo : Taux moyens par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 8,17 0,09 8,22 18,9 9,77
+CCT 9,16 0,24 9,50 18,9 11,30
+Découvert 15 0,08 15,08 18,9 17,93
+Caution 2 - 2 18,9 2,38
+BGFI-Bank Congo : Taux moyens par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 7,68 0,03 7,70 18,9 9,16
+entreprises
+Petites 8,77 0,10 8,85 18,9 10,52
+entreprises
+Particuliers 11,25 0,89 12,05 18,9 14,33
+Coûts moyens des transferts
+Taux Swift Frais de transfert Frais
+correspondant
+0,25 % 20 000 FCFA 25 000 FCFa Variable
+Transferts intra Cemac min. 10 000 FCFA
+0,5 % 20 000 FCFA 30 000 FCFA Variable
+Transferts hors Cemac min 10 000 FCFA
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA 7 500FCFA/ transaction
+SYSTAC 7 500FCFA/ transaction
+66
+
+--- Page 67 ---
+BGFI-Bank Congo – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 8,44
+Coût moyen des ressources 0,46
+Marge d’intermédiation bancaire moyenne hors taxes 7,98
+BGFI-Bank Congo : Monétique
+Type de carte Prime annuelle
+Carte de retrait VEGA 20 000 FCFA
+La Congolaise de Banques : Taux moyens par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 8,65 0,08 8,69 18,9 10,33
+CCT 7,19 0,42 7,68 18,9 9,13
+CLT 9,72 0,40 9,81 18,9 11,66
+Caution 2 - 2 2,38
+La Congolaise de Banques : Taux moyens par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes
+entreprises 6,78 0,01 6,79 18,9 8,07
+Petites
+entreprises 10,00 0,06 10,04 18,9 11,94
+Particuliers 12,12 1,02 13,17 18,9 15,66
+Coûts moyens des transferts
+Taux Frais Swift Frais Commission Virement
+En % correspondant change SYGMA
+Transferts intra Cemac 0,25 % 20 000 FCFA Variable - 10 000
+Transferts hors Cemac 0,5 % 30 000 FCFA Variable 0,30%
+LCB – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 8 ,30
+Coût moyen des ressources 0,76
+Marge d’intermédiation bancaire moyenne hors taxes 7,54
+67
+
+--- Page 68 ---
+LCB - Monétique
+Type de carte* Prime annuelle
+Carte de retrait
+Carte électron 10 000 FCFA
+Carte prestige 20 000 FCFA
+Retraits sur place 300 FCFA
+Carte électron 500 FCFA
+Carte prestige
+6 000 FCFA
+Retrait hors place
+BCI : Taux moyens par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 10,28 0,66 10,74 18,9 12,77
+CCT 10,74 0,66 11,84 18,9 14,08
+Escompte 15 1,43 16,43 18,9 19,54
+Spot 7,49 0 7,49 18,9 8,91
+Caution 3,27 0,93 4,20 18,9 4,99
+BCI : Taux moyens par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes
+entreprises 7,79 0,19 7,92 18,9 9,42
+Petites
+entreprises 9,08 0,43 9,80 18,9 11,65
+Particuliers 13,59 1,17 14,89 18,9 17,70
+BCI : Coûts moyens des transferts
+Taux Commission Swift Frais Commission de
+En % correspondant dossier change
+Transferts 0,25 % 10 000 FCFA 15 000 FCFA 6 000 FCFA -
+intra Cemac min 3 800 FCFA
+Transferts 0,5 % 10 000 FCFA 15 000 FCFA 6 000 FCFA 0,4 %
+hors Cemac min 6 000 FCFA min 3 800 FCFA
+BCI – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 11,30
+Coût moyen des ressources 0,97
+Marge d’intermédiation bancaire moyenne hors taxes 10,33
+68
+
+--- Page 69 ---
+BCI - Monétique
+Type de carte Coût annuel
+Cartes
+Visa Electron 20 000 FCFA
+Visa Classique 40 000 FCFA
+Visa Gold 80 000 FCFA
+NB Tous retrait est facturé à 310 FCFA
+ECOBANK : Taux effectif global moyen par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 9,97 0,39 10,19 18,9 12,12
+CCT 8,81 0,13 10,12 18,9 12,03
+Escompte 9,24 0,0 9,24 18,9 10,99
+Spot 8,63 0,03 8,66 18,9 10,30
+Caution 1,82 0,59 2,41 18,9 2,87
+ECOBANK : Taux effectif global moyen par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes
+entreprises 8,23 0,07 8,96 18,9 10,65
+Petites
+entreprises 11,04 0,52 11,36 18,9 13,51
+Particuliers 11,33 0,62 11,80 18,9 14,03
+Coûts des transferts
+Taux Swift Commission Frais dossier
+En % Service
+Transferts intra Cemac 0,25 % 20 000 FCFA - 10 000 FCFA
+Transfert réseau ECOBANK 0,25 % 20 000 FCFA - -
+Dans la CEMAC min 5 000
+Transferts hors Cemac 0,48 % 20 000 FCFA 1 % 10 000 FCFA
+Transfert réseau ECOBANK 0,25 % 20 000 FCFA 1 % -
+Hors CEMAC min 5 000
+ECOBANK – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 10,17
+Coût moyen des ressources 0,50
+Marge d’intermédiation bancaire moyenne hors taxes 9,67
+69
+
+--- Page 70 ---
+ECOBANK - Monétique
+Type de carte Abonnement annuel
+Carte ECOBANK 5 000 FCFA
+NB : chaque transaction donne lieu à un coût de 400 FCFA.
+BCH : Taux effectif global moyen par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 9,31 1,85 10,04 18,9 11,94
+CCT 10,40 0,99 11,33 18,9 13,47
+Découvert 14 0,25 14,25 18,9 16,94
+Escompte 12 0,25 12,25 18,9 14,57
+BCH : Taux effectif global moyen par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes
+entreprises - - - - -
+Petites
+entreprises 9,09 1,24 9,62 18,9 11,44
+Particuliers 10,53 3,42 12,01 18,9 14,28
+BCH – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 10,19
+Coût moyen des ressources 0,01
+Marge d’intermédiation bancaire moyenne hors taxes 10,18
+70
+
+--- Page 71 ---
+GABON
+Les banques ayant participé à l’enquête.
+BGD
+BGFIBANK
+BHG
+BICIG
+FBG
+CITIBANK
+UGB
+UBA
+ECOBANK
+71
+
+--- Page 72 ---
+BGD : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT 14,36 0,05 14,36 18 16,95
+CMT 14,19 5,72 18,21 18 21,49
+CCT 14,7 0,07 22,08 18 26,06
+Découvert - - - - -
+Escompte - - - - -
+Spot - - - - -
+Engagements - - - - -
+par signature
+BGD : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes - - - - -
+entreprises
+Petites 12,38 0,36 12,52 18 14,77
+entreprises
+Particuliers 14,95 6,6 21,34 18 24,56
+Coûts des transferts
+Commission de transfert Dossier Swift
+N’effectue pas de transfert
+Zone BEAC d’ordre - -
+Hors Zone Clientèle. - -
+BGD – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 18,84
+Coût moyen des ressources 3,9
+Marge d’intermédiation bancaire moyenne hors taxes 14,92
+72
+
+--- Page 73 ---
+BGFIBANK GABON : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT 7,25 0,02 7,25 18 8,55
+CMT 8,83 0,37 9,02 18 10,64
+CCT 7,09 0,01 7,11 18 8,39
+Découvert
+Escompte
+Spot
+Engagements
+par signature 0,93 1,08 2,01 18 2,37
+BGFIBANK GABON : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 7,03 0,02 7,05 18 8,32
+entreprises
+Petites 8,25 0,06 8,28 18 9,77
+entreprises
+Particuliers 13,78 2,21 15,25 18 18,00
+Coûts des transferts
+Frais
+Commission de transfert Swift correspondant
+0,25%
+Zone BEAC Min. 10 000 FCFA 10 000 FCFA -
+0,25%
+Hors Zone Min. 10 000 FCFA 10 000 FCFA 13 119 FCFA
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA Aucune facturation
+SYSTAC Aucune facturation
+Opérations de change manuel
+Commission de change manuel Produits des opérations de
+change
+Clients 3 %
+9 408 000 000 FCFA
+Non clients 4 %
+73
+
+--- Page 74 ---
+Dates de valeur
+Date de valeur de la banque
+Remises Chèques
+Crédit après encaissement Date d’encaissement+1
+Sauf bonne fin J+1
+Paiement chèque J-2
+Virement émis J-1
+Escompte d’effet J+1
+Paiement d’effets J-1
+Virement reçu
+Versement espèces J+1
+Retrait espèces J-1
+BGFIBANK GABON – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 8,70
+Coût moyen des ressources 1,24
+Marge d’intermédiation bancaire moyenne hors taxes 6,46
+BGFIBANK Gabon – Monétique - entreprise
+Type de carte Coût de la carte H.T par an
+Etoile 40.000 FCFA
+VEGA 20.000 FCFA
+Carte salaire 18 000 FCFA/ carte
+Relstar 20 000 FCFA/Client/mois
+Voice star 1 500 FCFA/Compte/mois
+BGFIONLINE
+Abonnement 15 000 FCFA/mois
+Frais de dossier 20 000 FCFA
+74
+
+--- Page 75 ---
+BHG : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT 11,5 1,3 11,73 18 13,84
+CMT 12,14 0,95 12,62 18 14,89
+CCT 11,35 2,23 13,78 18 16,26
+Découvert 18
+Escompte - - - - -
+Spot - - - - -
+Engagements - - - - -
+par signature
+BHG : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes - - - - -
+entreprises
+Petites 12,22 0,46 12,46 18 14,72
+entreprises
+Particuliers 11,74 1,59 12,43 18 13,40
+Coûts des transferts
+Commission de transfert Dossier Swift
+Zone BEAC N’ effectue pas de transferts - -
+Hors Zone - -
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA Aucune facturation
+SYSTAC Aucune facturation
+Opérations de change manuel
+Commission de change manuel Produits des opérations de
+change
+FCFA
+75
+
+--- Page 76 ---
+BHG – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 12,45
+Coût moyen des ressources 5,50
+Marge d’intermédiation bancaire moyenne hors taxes 6,55
+BICIG : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT 13,5 0,6 13,67 18 16,13
+CMT 12,79 0,3 14,31 18 16,13
+CCT 13,36 1 14,96 18 21,06
+Découvert 12,10 - 12,10 18 14,88
+Escompte 14,6 - 14,6 18 17,31
+Spot - - - - -
+Engagements 2,75 - 2,75 18 3,25
+par signature
+BICIG : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 8,10 0,28 8,29 18 9,78
+entreprises
+Petites 10,97 0,3 11,3 18 13,13
+entreprises
+Particuliers 13,68 0,86 17,44 18 19,50
+Coûts moyens des transferts
+Commission de Commission de Frais Frais transfert
+transfert9 Swift change bénéficiaire
+0,25% 10 000
+Zone BEAC Min. 1 000 15 000 - -
+0,50%
+Hors Zone Min. 1 000 15 000 12 100 16 500 10 000
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coûts de l’établissement
+SYGMA 3 000 FCFA/ transaction
+76
+
+--- Page 77 ---
+SYSTAC Aucun frais
+Opérations de change manuel
+Commission de change manuel Produits des opérations de
+change
+Toutes devises 4 % 4 054 767 969 FCFA
+Dates de valeur
+Date de valeur de la banque
+Remises Chèques
+Sur les caisses de la banque J
+Sur d’autres banques J+2
+Virement émis J
+Opérations de débit J-1
+Virement reçu J+1
+BICIG – Marge bancaire moyenne (en %)
+Taux effectif Global moyen sur les crédits 15,45
+Coût moyen des ressources 1,21
+Marge d’intermédiation bancaire moyenne hors taxes 14,24
+BICIG - Monétique
+Type de carte* Prime annuelle Coût de la carte H.T
+1- carte BICIG
+- Prestige 20 000 FCFA 49 500 FCFA
+- RR 8 000 FCFA 24 800 FCFA
+- Devenir 4000 FCFA 18 000 FCFA
+- Epargne - 14 000 FCFA
+- Retrait salaire - 10 000 FCFA
+4 720 FCFA
+2- Visa commerçant commissions perçues sur le montant
+de la facture (2,5 % à 4 % avec un
+minimum de 500 FCFA TTC)
+3- Visa international
+- Electron - 29 500 FCFA
+- Classic - 58 100 FCFA
+- Prestige Gold - 86 700 FCFA
+77
+
+--- Page 78 ---
+CITIBANK GABON: Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT - - - - -
+CCT - - - - -
+Découvert 12 - 12 18 14,16
+Escompte - - - - -
+Spot 8,72 - 8,72 18 10,29
+Engagements 2 - 2 18 2,36
+par signature
+CITIBANK GABON: Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 8,72 - 8,72 18 10,29
+entreprises
+Petites - - - - -
+entreprises
+Particuliers - - - - -
+Coûts moyens des transferts
+Commission de transfert Dossier Swift
+Zone BEAC 0,25% - 20 000
+Hors Zone 0,50% - 20 000
+CITIBANK GABON – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 8,72
+Coût moyen des ressources 0,15
+Marge d’intermédiation bancaire moyenne hors taxes 8,57
+78
+
+--- Page 79 ---
+FBG : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 10,05 1 11,86 18
+CCT 11,7 1 14,9 18
+Découvert 14,86 - 14,86 18
+Escompte 13,21 - 13,21 18
+Spot - - - - -
+Engagements 1 % par trimestre 1,08 2,08 18
+par signature
+FBG : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 8,36 1 9,97 18
+entreprises
+Petites 13,46 1 14,25 18
+entreprises
+Particuliers 12,87 1 15,86 18
+Coûts moyens des transferts10
+Commission de transfert Dossier Swift
+0,25%
+Zone BEAC Min 10 000 - 20 000 FCFA
+0,50%
+Hors Zone Min. 10 000 - 20 000 FCFA
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coût par opération
+SYGMA Aucune facturation
+SYSTAC Aucune facturation
+10 Dans le cas des transferts effectués à l’intérieur du Gabon, la Commission de transferts est de 0,15 % avec un
+minimum de 1 000 FCFA.
+79
+
+--- Page 80 ---
+Opérations de change manuel
+Commission de change manuel Produits des opérations de
+change
+Euro 4 % 633 799 574 FCFA
+Dates de valeur
+Date de valeur de la banque
+Opérations de crédit J+1
+Opérations de débit J-1
+Virement étranger Date de valeur du correspondant
+FBG – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 13,33
+Coût moyen des ressources 2,38
+Marge d’intermédiation bancaire moyenne hors taxes 10,95
+UGB : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT 12,58 0,72 12,72 18 15,01
+CMT 10,91 1,89 12,07 18 14,24
+CCT 14,37 5,64 24,02 18 28,35
+Découvert 12,2 - 12,2 18 14,39
+Escompte 13,6 - 13,6 18 16,04
+Spot - - - - -
+Engagements 1,75 - 1,75 18 2,07
+par signature
+UGB : Taux moyens par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 7,90 0,08 7,94 18 9,37
+entreprises
+Petites 8,55 0,4 8,79 18 10,37
+entreprises
+80
+
+--- Page 81 ---
+Particuliers 14,43 4,37 18,33 18 21,63
+Coûts moyens des transferts
+Commission de Frais correspondant Commission de
+transfert Swift change
+Zone BEAC 0,25% 12 500 -
+Variable selon les
+Hors Zone 0,50% 12 500 35 000 montants
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coûts de l’établissement
+SYGMA Aucun frais
+SYSTAC Aucun frais
+Opérations de change manuel
+Commission de change manuel Produits des opérations de
+change
+Toutes devises 1,5 % 812 843 000 FCFA
+Dates de valeur
+Date de valeur de la banque
+Remises Chèques
+Sur les caisses de la banque J
+Sur d’autres banques J+2
+Virement émis J
+Opérations de débit J-1
+Virement reçu J+1
+UGB – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 13,22
+Coût moyen des ressources 1,48
+Marge d’intermédiation bancaire moyenne hors taxes 11,74
+81
+
+--- Page 82 ---
+UGB – Monétique
+Type de carte* Prime annuelle
+Lion 13 000 FCFA
+Essentiel 20 500 FCFA
+Univers 42 500 FCFA
+Select 59 500 FCFA
+* assurance : 10 000 FCFA TTC annuel
+Retrait chez les confrères : 2 000 FCFA H.T
+Retrait à l’étranger : 2 500 FCFA
+- frais fixes par opération : 2 000 FCFA
+- frais proportionnels au montant : 0,25 %
+- commission minimum : 2 500 FCFA
+- commission maximum : 5 000 FCFA
+UGB en ligne
+UGB interactif 5 000 FCFA/trimestre
+Allô ugb
+Compte de dépôt 850 FCFA/mois
+Compte sur livret 5 100 FCFA/semestre
+UBA : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 13 1,24 14,65 18 15,25
+CCT 13 1,05 13,57 18 16,12
+Découvert 14,17 - 14,17 18 16,722
+Escompte 14,00 - 14,00 18 16,52
+Spot - - - - -
+Engagements - - - - -
+par signature
+UBA : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes - - - -
+entreprises
+Petites - - - - -
+entreprises
+Particuliers 13,00 1,08 13,76 18 15,97
+82
+
+--- Page 83 ---
+Coûts moyens des transferts
+Commission de transfert11 Swift Commission de change
+0,25% 20 000 -
+Zone BEAC Min. 15 000
+0,50% 20 000 0,5 %
+Hors Zone Min. 15 000
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coûts de l’établissement
+SYGMA Aucun frais
+SYSTAC Aucun frais
+Opérations de change manuel
+Commission de change manuel Produits des opérations de
+change
+Toutes devises 4 % -
+Dates de valeur
+Date de valeur de la banque
+Remises Chèques
+Sur les caisses de la banque J
+Sur d’autres banques J+1
+Virement interne J
+Virement interbancaire reçu J+1
+Virement interbancaire émis J-1
+Opérations de débit J-1
+Versements espèces J
+UBA – Marge bancaire moyenne (en %)
+Taux effectif Global moyen sur les crédits 13,76
+Coût moyen des ressources 0
+Marge d’intermédiation bancaire moyenne hors taxes 13,76
+83
+
+--- Page 84 ---
+UBA – E-Banking12
+U – Direct 10 000 FCFA/mois
+E-statement journalier 2 500 FCFA/mois
+E-statement hebdomadaire 2 000 FCFA/mois
+E-statement mensuel 1 000 FCFA/mois
+E-alert 5 000 FCFA/mois
+Souscription cartes salaires 700 000 FCFA (abonnement)
+Cartes salaires individuelles 4 500 FCFA/ trimestre
+ECOBANK : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 9,28 0,02 10,91 18 12,88
+CCT 6,21 - 6,30 18 7,44
+Découvert 12,35 0,23 18
+Escompte 18 -
+Spot - - - - -
+Engagements 3,99 - 3,99 18 4,71
+par signature
+ECOBANK : Taux effectif global moyen par type de client13
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 6,68 - 7,07 18 8,34
+entreprises
+Petites 13,83 0,25 16,58 18 19,57
+entreprises
+Particuliers 12,59 0,25 15,03 18 17,74
+12 La souscription au service cartes salaires est un forfait dont l’entreprise doit s’acquitter lors de la souscription
+à ce produit quel que soit le nombre d’employés.
+13 Les coûts des transferts figurant dans ce tableau n’incluent pas les transferts internes au réseau ECOBANK
+pour lesquels une grille tarifaire est disponible.
+84
+
+--- Page 85 ---
+Coûts moyens des transferts hors réseau ECOBANK
+Commission de Commission de Frais de Frais
+transfert14 Swift change dossier correspondant
+0,25% 10 000 FCFA - - -
+Zone BEAC Min. 2.500 FCFA
+0,50% 10 000 FCFA 0,1 % Variable selon Variable selon
+Hors Zone Min. 5 000 FCFA Min. 5 000 FCFA les montants les montants
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coûts de l’établissement
+SYGMA
+Virement 150
+Encaissement Chèque 25 000
+Encaissement Effet 25 000
+SYSTAC
+Virement 100
+Encaissement Chèque 150
+Encaissement Effet 150
+Opérations de change manuel
+Commission de change manuel Produits des opérations de
+change
+Clients ECOBANK 3 %
+85 000 000 FCFA
+Non-clients 4 %
+Dates de valeur
+Date de valeur de la banque
+Versement espèce J
+Retrait espèces J-1
+Opération via SYSTAC J+1
+Opérations via SYGMA J
+ECOBANK – Marge bancaire moyenne (en %)
+Taux effectif Global moyen sur les crédits 7,60
+Coût moyen des ressources 0,16
+Marge d’intermédiation bancaire moyenne hors taxes 7,44
+85
+
+--- Page 86 ---
+GUINEE EQUATORIALE
+Les banques ayant participé à l’enquête.
+BANGE
+BGFI BANK GE
+CCEI
+SOCIETE GENERALE
+86
+
+--- Page 87 ---
+BANGE : Taux effectif global moyen par type de crédits
+En % Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+commissions sortie
+CLT 15,0 - 15,0 15,0 17,25
+CMT 13,46 - 13,46 15,0 15,48
+CCT 15,0 - 15,0 15,0 17,25
+Découvert 15 0,08 15,08 15 17,34
+BANGE : Taux effectif global moyen par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes - - - - -
+entreprises
+Petites 15 - 15 15,0 17,25
+entreprises
+Particuliers 13,5 - 13,5 15,0 15,53
+Coûts des transferts
+Commission de
+transfert Dossier Swift
+Zone BEAC 0,25% 10 000 10 000
+Hors Zone 0,40% 10 000 10 000
+BANGE – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 16,99
+Coût moyen des ressources 1,03
+Marge d’intermédiation bancaire moyenne hors taxes 15,96
+BGFIBANK GE: Taux effectif global moyen par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 10,32 0,21 12,13 15 13,95
+CCT 12,0 1,37 15,97 15 18,37
+Découvert 15 0,11 15,11 15 17,38
+87
+
+--- Page 88 ---
+BGFIBANK GE: Taux effectif global moyen par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 10,38 0,20 12,17 15 14,0
+entreprises
+Petites 10,62 0,46 12,96 15 14,90
+entreprises
+Particuliers 11,75 2,05 15,48 15 17,80
+Coûts des transferts
+Commission de transfert Frais de dossier Swift
+Zone BEAC 0,25% 23 000 20 000
+Hors Zone 0,50% variable 30 000
+BGFIBANK GE – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 12,48
+Coût moyen des ressources 0,23
+Marge d’intermédiation bancaire moyenne hors taxes 12,25
+CCEI Bank-Guinée Equatoriale: Taux effectif global moyen par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 10,73 - 10,73 15 12,34
+CCT 11,89 - 11,89 15 13,67
+Découvert 13,5 - 13,5 15 15,53
+Caution 1 0,17 1,17 15 1,35
+CCEI Bank-Guinée Equatoriale : Taux effectif global moyen par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 11,64 - 11,64 15 13,39
+entreprises
+Petites 13,16 - 13,16 15 15,13
+entreprises
+15,04 - 15,04
+Particuliers 15 17,30
+88
+
+--- Page 89 ---
+Coûts des transferts
+Commission de transfert15 Dossier Commission de change Swift
+Zone BEAC 0,50% 11 000 - 10 000
+Hors Zone 0,50% 12 000 0,5% 10 000
+CCEI Bank-Guinée Equatoriale – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 11,72
+Coût moyen des ressources 0,57
+Marge d’intermédiation bancaire moyenne hors taxes 11,15
+SGBGE: Taux moyens par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 10,29 1,07 13,26 15 15,25
+CCT 12,23 2,29 20,60 15 23,69
+Découvert - - -
+Engagements 1,92 0 1,92 15 2,21
+par signature
+SGBGE: Taux moyens par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 8,63 1,0 10,98 15 12,63
+entreprises
+Petites 12,13 1,02 15,60 15 17,94
+entreprises
+Particuliers 10,71 1,19 14,18 15 16,31
+Coûts des transferts
+Commission de transfert Dossier Swift
+Zone BEAC 0,25% 10 000 10 000
+Hors Zone 0,50% 10 000 10 000
+SGBGE– Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 13,55
+Coût moyen des ressources 0,12
+Marge d’intermédiation bancaire moyenne hors taxes 13,43
+15 Avec un minimum de 5.000 F
+89
+
+--- Page 90 ---
+TCHAD
+Les banques ayant participé à l’enquête.
+ECOBANK
+SGTB
+BCC
+FBT
+CBT
+BSIC
+BAC
+90
+
+--- Page 91 ---
+ECOBANK Tchad : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et Taux effectif TVA (en %) Coût effectif de
+En % commissions global (TEG) sortie
+CLT - - - - -
+CMT 10,03 0,1 11,99 18 14,15
+CCT 10,00 0,48 12,93 18 15,26
+Découvert 12,05 - 12,05 18 14,22
+Escompte 12,65 - 12,65 18 14,93
+Spot 10,45 - 10,45 18 12,33
+Caution 1,95 0,34 2,29 18 3,19
+ECOBANK Tchad : Taux effectif global moyen par type de client
+Taux nominal Divers frais et Taux effectif TVA Coût effectif de
+En % commissions global (TEG) sortie
+Grandes
+entreprises 9,70 0,14 11,82 18 13,94
+Petites
+entreprises 12,12 0,87 16,58 18 19,57
+Particuliers
+12,07 1,47 16,66 18 19,66
+Coûts moyens des transferts
+Taux Commission Correspondant Swift Port lettre
+de change
+0,25 %
+Transferts Zone franc Min. 5 000 FCFA - 15 678 FCFA 15 000 FCFA 1 500 FCFA
+Transferts hors Zone 0,50 % 0,15 % 15 678 FCFA 15 000 FCFA 1 500 FCFA
+franc Min. 5 000 FCFA
+Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coûts de l’établissement
+SYGMA Non facturé par la banque
+SYSTAC Non facturé par la banque
+Opérations de change manuel
+Commission de change manuel Produit des opérations de change
+Euro 0,93 % 3 157 000 000 FCFA
+91
+
+--- Page 92 ---
+Dates de valeur par instrument
+Date de valeur de la banque
+Chèques
+Sur les caisses de la banque
+Remis entre 7h et 11h J+1
+Remis après 11 h J+2
+Sur d’autres banques
+Remis entre 7h et 11h J+2
+Remis après 11h J+3
+Virement
+Prélèvement
+Effets de commerce
+ECOBANK Tchad – Marge bancaire moyenne (en %)
+Taux effectif moyen sur crédits 12,45
+Coût moyen des ressources 0,88
+Marge d’intermédiation bancaire moyenne hors taxes 11,57
+ECOBANK - Monétique
+Cotisation annuelle (Hors Taxe)
+Carte AZUR 2 500 F CFA
+Carte OR 15 000 F CFA
+Carte Platinum 25 000 F CFA
+Autres Services
+Retrait 200 F CFA
+Mini relevé 500 F CFA
+Consultation solde 100 F CFA
+92
+
+--- Page 93 ---
+Société Générale Tchadienne de Banques : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT 12,05 0,42 12,24 18,0 14,44
+CMT 11,79 0,78 12,09 18,0 14,26
+CCT 8,5 0,5 8,86 18,0 10,45
+Découvert 11,6 - 11,6 18,0 13,69
+Escompte 14,5 - 14,5 18,0 17,11
+Caution 1,67 0,78 2,45 18,0 2,9
+Société Générale Tchadienne de Banques : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes
+entreprises 8,96 0,32 9,10 18,0 10,74
+Petites 11,03 0,65 11,58 13,66
+entreprises 18,0
+Particuliers 13,4 0,3 13,63 18,0 16,08
+Coûts moyens des transferts
+Commission de transfert Frais de dossier
+Transferts intra Cemac 0,25 % 22 500
+Transferts hors Cemac 0,5 % 22 500
+SGTB – Marge bancaire moyenne (en %)
+TEG moyen sur crédits amortissables 10,76
+Coût moyen des ressources 0,45
+Marge d’intermédiation bancaire moyenne hors taxes 9,31
+SGTB - Monétique
+Type de carte Abonnement mensuel
+Carte Privilège 7500 FCFA
+Carte Ordinaire 33 000 FCFA
+Vocalia 1 000 FCFA
+Vocalia fax 5 000 FCFA
+Extrait mail 25 000 FCFA
+93
+
+--- Page 94 ---
+Banque Commerciale du Chari : Taux moyens par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 12,67 0,08 12,67 18,0 14,95
+CCT 12,59 0,06 12,59 18,0 14,86
+Découvert 13,5 - 13,5 18,0 15,93
+Escompte 12,6 - 12,6 18,0 14,87
+-
+Spot - - - -
+Caution 2,06 0,04 2,14 18,0 2,53
+Banque Commerciale du Chari : Taux moyens par type de clients
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes
+entreprises 11,45 - 11,45 18,0 13,51
+Petites 12,17 0,02 12,17 18,0 14,36
+entreprises
+Particuliers 14,92 0,25 14,92 18,0 17,6
+BCC - coûts moyens des transferts
+Commission Télex Frais de dossier Frais de
+de transfert correspondant
+Transferts intra Cemac 0,25 % 15 000 3 000 -
+Min 1 500
+Transferts hors Cemac 0,5 % 15 000 3 000 22 424
+Min. 1 500
+BCC - Coût des opérations sur SYGMA ET SYSTAC
+En FCFA Coûts de l’établissement
+SYGMA Non facturé par la banque
+SYSTAC Non facturé par la banque
+BCC - Opérations de change manuel
+Commission de change manuel Produit des opérations de change
+Toutes devises 1 491 000 000 FCFA
+94
+
+--- Page 95 ---
+BCC – Marge bancaire moyenne (en %)
+TEG moyen sur crédits amortissables 12,61
+Coût moyen des ressources 0,8
+Marge d’intermédiation bancaire moyenne hors taxes 11,81
+Financial Bank Tchad : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT 8,98 1 9,5 18,0 11,21
+CCT 13,26 1,36 15,29 18,0 18,04
+Découvert 13,05 2,55 15,57 18,0 18,38
+Escompte 13,21 0,02 13,22 18,0 15,6
+Spot - - - - -
+Caution 0,52 0,28 0,80 18,0 1,04
+Financial Bank Tchad : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes
+entreprises 8,82 1 9,88 18,0 11,67
+Petites 10,68 1 11,39 13,43
+entreprises 18,0
+Particuliers 13,94 2,13 16,48 18,0 19,45
+FBT - Coûts moyens des transferts
+Taux Frais dossier Frais Télex Frais Port lettre
+En % correspondant
+Transferts intra 0,25 % 5 000 FCFA 25 000 FCFA - 3 500 FCFA
+Cemac mini 15 000 FCFA
+Transferts hors 0,50 % 5 000 FCFA 25 000 FCFA 20 000 FCFA 3 500 FCFA
+Cemac mini 15 000 FCFA
+Coût des transactions prélevé par la banque
+En FCFA Coûts de l’établissement
+SYGMA
+Virement 5 000 FCFA/ transaction
+SYSTAC
+Remise chèque 50 FCFA/ transaction
+Rejet chèque 5 000 FCFA/ transaction
+Escompte effet 5 000 FCFA/ transaction
+95
+
+--- Page 96 ---
+Opérations de change
+Commission de change manuel Produit des opérations de change
+Euro 4 % Min. 10 000 FCFA -
+USD 5%
+Dates de valeur des instruments
+Date de valeur de la banque
+Chèques
+Paiement par chèque J-1
+Remise de chèque sur place J+3
+Remise de chèque France J+21
+Virements
+Reçu J+1
+Emis J-1
+Prélèvement J-1
+Effets de commerce
+FBT – Marge bancaire moyenne (en %)
+Taux effectif Global moyen sur crédits amortissables 11,45
+Coût moyen des ressources 1,34
+Marge d’intermédiation bancaire moyenne hors taxes 10,11
+Commercial Bank Tchad : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT 11,5 0,25 25,00 18,0 29,5
+CMT 11,5 0,26 19,22 18,0 22,68
+CCT 12,85 1,06 15,22 18,0 17,96
+Découvert 13,5 0,52 14,02 18,0 16,46
+Escompte 12,35 0,74 13,09 18,0 15,4
+Spot 10,5 - 10,5 18,0 12,39
+Caution 1,26 - 1,26 18,0 1,48
+96
+
+--- Page 97 ---
+Commercial Bank Tchad : Taux moyens par type de clients
+Taux nominal Divers frais et Taux effectif TVA Coût effectif de
+En % commissions sortie
+Grandes
+entreprises 11,9 0,16 12,25 18,0 14,46
+Petites 13,75 0,82 14,9 18,0 17,58
+entreprises
+Particuliers 12,61 1,17 21,06 18,0 24,85
+Coûts moyens des transferts
+Taux Commission de Frais de dossier Frais de câble Commission de
+paiement change
+Transferts intra Cemac 0,25 % 0,10 % 7 500 FCFA 5 500 FCFA -
+mini 5 000 FCFA
+Transferts Zone franc 0,50 % 0,10 % 7 500 FCFA 10 000 FCFA -
+mini 5 000 FCFA
+Transferts autres Zones 0,50 % 0,10 % 7 500 FCFA 15 000 FCFA 0,25 %
+mini 5 000 FCFA
+Coût des transactions prélevé par la banque
+En FCFA Coûts de l’établissement
+SYGMA Aucun frais prélevé
+SYSTAC Aucun frais prélevé
+Opérations de change
+Commission de change manuel Produit des opérations de change
+Toutes devises 1,5 % 1 628 000 000 FCFA
+CBT – Marge bancaire moyenne (en %)
+TEG moyen sur crédits amortissables 17,46
+Coût moyen des ressources 1,09
+Marge d’intermédiation bancaire moyenne hors taxes 16,37
+BSIC - Tchad : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT 11,82 0,98 16,91 18,0 19,95
+CCT 8,81 1,74 11,33 18,0 13,37
+Découvert 15 0,01 15,01 18,0 17,71
+Spot - - - - -
+Caution 1,4 0,012 1,41 18,0 1,66
+97
+
+--- Page 98 ---
+BSIC - Tchad : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes 9,29 1,54 11,41 18,0 13,46
+entreprises
+Petites 12,27 2,11 16,62 18,0 19,61
+entreprises
+Particuliers 14,36 0,25 16,77 18,0 19,79
+BSIC –Tchad - Coûts moyens des transferts
+Taux Frais Swift
+Transferts intra Cemac 0,25 % 15 000 FCFA
+Transferts hors Cemac 0,5 % 15 000 FCFA
+BSIC - Tchad - Opérations de change manuel
+Commission de change Produit des opérations de change
+manuel
+Toutes devises 3 % 472 000 000 FCFA
+BSIC –Tchad - Dates de valeur par instrument
+Date de valeur de la banque
+Chèques
+Débit en compte J-1
+Crédit en compte J+1
+Virements J
+Prélèvement J-1
+Effets de commerce J+1
+BSIC - TCHAD – Marge bancaire moyenne (en %)
+TEG moyen sur crédits amortissables 16,01
+Coût moyen des ressources 1,77
+Marge d’intermédiation bancaire moyenne hors taxes 15,24
+BAC : Taux moyens par type de crédits
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CMT - - - - -
+Caution 0,5 - 0,5 18,0 0,59
+98
+
+--- Page 99 ---
+Coûts moyens des transferts
+Taux Frais dossier Télex Commission de
+change
+Transferts intra Cemac 0,25 % 3 000 FCFA 5 000 FCFA -
+Transferts hors Cemac 0,5 % 5 000 FCFA 10 000 FCFA 0,25 %
+BAC - Tchad - Opérations de change manuel
+Commission de change Produit des opérations de change
+manuel
+Euro 1,3 %
+755 617 FCFA
+Autres 5 %
+BAC – Marge bancaire moyenne (en %)
+TEG moyen sur crédits amortissables 13,42
+Coût moyen des ressources 887,03
+Marge d’intermédiation bancaire moyenne hors taxes -875,66
+UBA - Tchad : Taux effectif global moyen par type de crédit
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+CLT - - - - -
+CMT -
+CCT -
+Découvert
+16,0 - 16,0 18,0 18,88
+Spot -
+-
+Caution
+UBA - Tchad : Taux effectif global moyen par type de client
+Taux nominal Divers frais et TEG moyen TVA Coût effectif de
+En % commissions sortie
+Grandes - - - - -
+entreprises
+Petites - - - - -
+entreprises
+Particuliers 11,9 0,37 12,18 18,0 14,37
+UBA –Tchad - Coûts moyens des transferts
+Taux Frais de câble
+Transferts intra Cemac 0,25 % 15 000 FCFA
+Transferts hors Cemac 0,5 % 15 000 FCFA
+99
+
+--- Page 100 ---
+UBA - Tchad - Opérations de change manuel
+Commission de change Produit des opérations de change
+manuel
+Toutes devises 3 % -
+UBA –Tchad - Dates de valeur par instrument
+Date de valeur de la banque
+Chèques
+Débit en compte J-1
+Crédit en compte J+1
+Virements J
+Prélèvement J-1
+Effets de commerce J+1
+UBA - TCHAD – Marge bancaire moyenne (en %)
+TEG moyen sur crédits amortissables 14,37
+Coût moyen des ressources -
+Marge d’intermédiation bancaire moyenne hors taxes -
+100

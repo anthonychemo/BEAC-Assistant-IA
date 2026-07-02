@@ -75,12 +75,13 @@ class ScraperConfig:
 class PDFTextExtractor:
     """
     Extrait le contenu textuel des fichiers PDF
-    Stratégie en cascade : pdfplumber → pypdf
+    Stratégie en cascade : pdfplumber → pypdf → OCR (pour PDFs scannés)
     """
     
     def __init__(self):
         self.has_pdfplumber = False
         self.has_pypdf = False
+        self.ocr_processor = None
         
         # Vérifier les dépendances
         try:
@@ -96,6 +97,12 @@ class PDFTextExtractor:
             self.has_pypdf = True
         except ImportError:
             logging.warning("pypdf non installé. pip install pypdf pour fallback")
+        
+        # Initialiser l'OCR pour les PDFs scannés
+        try:
+            self.ocr_processor = OCRProcessor()
+        except Exception as e:
+            logging.debug(f"OCR non disponible: {e}")
     
     def extraire_avec_pdfplumber(self, chemin_pdf: Path) -> str:
         """Extraction avec pdfplumber (meilleur pour mises en page complexes)"""
@@ -131,37 +138,55 @@ class PDFTextExtractor:
             logging.debug(f"pypdf erreur pour {chemin_pdf.name}: {e}")
             return ""
     
-    def extraire_texte(self, chemin_pdf: Path) -> Tuple[str, bool]:
+    def extraire_texte(self, chemin_pdf: Path) -> Tuple[str, bool, Optional[Dict[str, Any]]]:
         """
         Extrait le texte du PDF avec cascade de fallback
-        Retourne (texte, succes)
+        Retourne (texte, succes, metadata_ocr)
         """
         if not chemin_pdf.exists():
-            return "[ERREUR] Fichier PDF introuvable", False
+            return "[ERREUR] Fichier PDF introuvable", False, None
+        
+        metadata_ocr = None
         
         # Tentative 1 : pdfplumber
         texte = self.extraire_avec_pdfplumber(chemin_pdf)
         if texte and len(texte) > 100:
-            return texte, True
+            return texte, True, metadata_ocr
         
         # Tentative 2 : pypdf
         texte = self.extraire_avec_pypdf(chemin_pdf)
         if texte and len(texte) > 100:
             logging.info(f"  ↪ Extraction via pypdf (fallback): {chemin_pdf.name}")
-            return texte, True
+            return texte, True, metadata_ocr
+        
+        # Tentative 3 : OCR pour PDFs scannés
+        if self.ocr_processor and self.ocr_processor.has_paddleocr:
+            logging.info(f"🔄 Tentative OCR pour: {chemin_pdf.name}")
+            texte_ocr, confiance, succes_ocr = self.ocr_processor.traiter_pdf_scanne(chemin_pdf)
+            
+            if succes_ocr:
+                metadata_ocr = {
+                    'method': 'PaddleOCR',
+                    'confidence': confiance,
+                    'chars_extracted': len(texte_ocr)
+                }
+                logging.info(f"  ✅ OCR réussi: {len(texte_ocr)} chars (confiance: {confiance:.2%})")
+                return texte_ocr, True, metadata_ocr
         
         # Aucune extraction possible
         return (
             "[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.\n"
-            "Il s'agit probablement d'un PDF scanné (image). "
-            "Un outil OCR comme Tesseract serait nécessaire.",
-            False
+            "Il s'agit probablement d'un PDF scanné sans OCR disponible. "
+            "Pour activer l'OCR: pip install paddleocr pdf2image",
+            False,
+            None
         )
     
-    def sauvegarder_texte_pdf(self, chemin_pdf: Path, dossier_sortie: Path, texte: Optional[str] = None) -> Optional[Path]:
+    
+    def sauvegarder_texte_pdf(self, chemin_pdf: Path, dossier_sortie: Path, texte: Optional[str] = None) -> Tuple[Optional[Path], Optional[Dict[str, Any]]]:
         """
         Extrait le texte du PDF et le sauvegarde en .txt
-        Retourne le chemin du fichier .txt créé, ou None si échec
+        Retourne (chemin du fichier .txt créé, metadata_ocr) ou (None, None) si échec
         """
         # Déterminer le chemin de sortie (même structure que le PDF)
         # Ex: scraping/beac_data/La beac/documents/rapport.pdf
@@ -182,8 +207,9 @@ class PDFTextExtractor:
         txt_path = dossier_sortie / relative.with_suffix('.txt')
         txt_path.parent.mkdir(parents=True, exist_ok=True)
         
+        metadata_ocr = None
         if texte is None:
-            texte, _ = self.extraire_texte(chemin_pdf)
+            texte, _, metadata_ocr = self.extraire_texte(chemin_pdf)
         
         if texte:
             # Ajouter en-tête
@@ -191,13 +217,21 @@ class PDFTextExtractor:
                 f"Source PDF : {chemin_pdf.name}\n"
                 f"Chemin original : {chemin_pdf}\n"
                 f"Date extraction : {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n"
-                f"{'=' * 70}\n\n"
             )
+            
+            # Ajouter métadonnées OCR si disponibles
+            if metadata_ocr:
+                entete += f"Méthode extraction : {metadata_ocr.get('method', 'Unknown')}\n"
+                if 'confidence' in metadata_ocr:
+                    entete += f"Confiance OCR : {metadata_ocr['confidence']:.2%}\n"
+            
+            entete += f"{'=' * 70}\n\n"
+            
             txt_path.write_text(entete + texte, encoding='utf-8')
             logging.info(f"  📄 Texte PDF extrait → {txt_path}")
-            return txt_path
+            return txt_path, metadata_ocr
         
-        return None
+        return None, None
     
     def _find_root_parent(self, path: Path) -> Optional[Path]:
         """Trouve le dossier parent qui correspond à root_dir"""
@@ -205,6 +239,166 @@ class PDFTextExtractor:
             if parent.name == "beac_data" or str(parent).endswith("beac_data"):
                 return parent
         return None
+
+# ══════════════════════════════════════════════════════════════════
+#  PROCESSEUR OCR POUR PDFs SCANNÉS
+# ══════════════════════════════════════════════════════════════════
+
+class OCRProcessor:
+    """
+    Traite les PDFs scannés avec PaddleOCR
+    Détecte automatiquement les documents scannés et extrait le texte via OCR
+    """
+    
+    def __init__(self):
+        self.has_paddleocr = False
+        self.has_pdf2image = False
+        self.ocr = None
+        self.scanned_pdfs_count = 0
+        self.total_ocr_chars = 0
+        
+        # Vérifier les dépendances
+        try:
+            from paddleocr import PaddleOCR
+            self.ocr = PaddleOCR(
+                use_angle_cls=True,
+                lang=['en', 'fr'],  # Anglais et Français
+                show_log=False,
+                cpu_threads=2
+            )
+            self.has_paddleocr = True
+            logging.info("✓ PaddleOCR initialisé (multilingue: EN, FR)")
+        except ImportError:
+            logging.warning("⚠ PaddleOCR non installé. Installez avec: pip install paddleocr")
+        except Exception as e:
+            logging.warning(f"⚠ Erreur initialisation PaddleOCR: {e}")
+        
+        try:
+            import pdf2image
+            self.pdf2image = pdf2image
+            self.has_pdf2image = True
+        except ImportError:
+            logging.warning("⚠ pdf2image non installé. Installez avec: pip install pdf2image pdf2pptx")
+    
+    def est_pdf_scanne(self, chemin_pdf: Path, seuil_texte: int = 100) -> bool:
+        """
+        Détecte si un PDF est scanné (peu de texte extractible)
+        Retourne True si le PDF est probablement scanné
+        """
+        if not chemin_pdf.exists():
+            return False
+        
+        try:
+            import pdfplumber
+            with pdfplumber.open(chemin_pdf) as pdf:
+                texte_total = ""
+                for page in pdf.pages:
+                    texte = page.extract_text() or ""
+                    texte_total += texte
+                
+                # Si moins de N caractères sur toutes les pages = probablement scanné
+                est_scanne = len(texte_total.strip()) < seuil_texte
+                
+                if est_scanne:
+                    logging.debug(f"📸 PDF scanné détecté: {chemin_pdf.name} ({len(texte_total)} chars)")
+                
+                return est_scanne
+        except Exception as e:
+            logging.debug(f"Erreur détection PDF scanné: {e}")
+            return False
+    
+    def convertir_pdf_en_images(self, chemin_pdf: Path) -> List[Any]:
+        """
+        Convertit les pages PDF en images
+        Retourne une liste d'objets PIL Image
+        """
+        if not self.has_pdf2image:
+            logging.warning("pdf2image non disponible, OCR impossible")
+            return []
+        
+        try:
+            from pdf2image import convert_from_path
+            images = convert_from_path(chemin_pdf, dpi=300)
+            logging.debug(f"  Conversion: {len(images)} pages converties")
+            return images
+        except Exception as e:
+            logging.error(f"  Erreur conversion PDF→Image: {e}")
+            return []
+    
+    def extraire_texte_avec_ocr(self, chemin_pdf: Path) -> Tuple[str, float]:
+        """
+        Extrait le texte d'un PDF scanné avec PaddleOCR
+        Retourne (texte, confiance_moyenne)
+        """
+        if not self.has_paddleocr:
+            return "", 0.0
+        
+        # Convertir PDF en images
+        images = self.convertir_pdf_en_images(chemin_pdf)
+        if not images:
+            return "", 0.0
+        
+        try:
+            textes_pages = []
+            confidences = []
+            
+            for page_num, image in enumerate(images, start=1):
+                logging.debug(f"  OCR page {page_num}/{len(images)}...")
+                
+                # Exécuter OCR
+                result = self.ocr.ocr(image, cls=True)
+                
+                # Extraire texte et confiance
+                page_text = ""
+                page_confidence = []
+                
+                if result and result[0]:
+                    for detection in result[0]:
+                        text = detection[1][0]
+                        confidence = detection[1][1]
+                        page_text += text + " "
+                        page_confidence.append(confidence)
+                
+                if page_text.strip():
+                    textes_pages.append(f"--- Page {page_num} ---\n{page_text.strip()}")
+                    if page_confidence:
+                        confidences.extend(page_confidence)
+            
+            texte_final = "\n\n".join(textes_pages)
+            confiance_moyenne = sum(confidences) / len(confidences) if confidences else 0.0
+            
+            self.scanned_pdfs_count += 1
+            self.total_ocr_chars += len(texte_final)
+            
+            logging.info(f"  ✅ OCR: {len(texte_final)} chars extraits (confiance: {confiance_moyenne:.2%})")
+            
+            return texte_final, confiance_moyenne
+        
+        except Exception as e:
+            logging.error(f"  ❌ Erreur OCR: {e}")
+            return "", 0.0
+    
+    def traiter_pdf_scanne(self, chemin_pdf: Path) -> Tuple[str, float, bool]:
+        """
+        Pipeline complet pour traiter un PDF scanné
+        Retourne (texte, confiance, succes)
+        """
+        if not self.est_pdf_scanne(chemin_pdf):
+            return "", 0.0, False
+        
+        logging.info(f"🔄 Traitement OCR: {chemin_pdf.name}")
+        texte, confiance = self.extraire_texte_avec_ocr(chemin_pdf)
+        
+        succes = len(texte.strip()) > 100
+        return texte, confiance, succes
+    
+    def get_stats(self) -> Dict[str, Any]:
+        """Retourne les statistiques OCR"""
+        return {
+            'scanned_pdfs_processed': self.scanned_pdfs_count,
+            'total_ocr_chars': self.total_ocr_chars,
+            'avg_chars_per_pdf': self.total_ocr_chars // max(self.scanned_pdfs_count, 1)
+        }
 
 # ══════════════════════════════════════════════════════════════════
 #  GESTIONNAIRE DE PDF (avec export CSV enrichi)
@@ -221,6 +415,7 @@ class PDFManager:
         self.pdf_records: List[Dict[str, str]] = []
         self.processed_pdfs: Set[str] = set()
         self.pdf_extractor = PDFTextExtractor()
+        self.ocr_stats = {}
         self.lock = threading.Lock()
         
         # Charger les anciens enregistrements
@@ -312,7 +507,7 @@ class PDFManager:
     def ajouter_pdf(self, pdf_info: Dict[str, str], extraire_texte: bool = True):
         """
         Ajoute un PDF téléchargé avec ses métadonnées
-        Si extraire_texte=True, tente d'extraire le contenu du PDF
+        Si extraire_texte=True, tente d'extraire le contenu du PDF (avec OCR si nécessaire)
         """
         lien = pdf_info.get('lien', '')
         with self.lock:
@@ -327,24 +522,36 @@ class PDFManager:
         # Extraire le contenu du PDF si demandé et si le fichier existe
         contenu_pdf = ""
         chemin_txt = None
+        metadata_ocr_str = ""
         
         if extraire_texte and 'chemin_absolu' in pdf_info:
             chemin_pdf = Path(pdf_info['chemin_absolu'])
             if chemin_pdf.exists():
                 # Extraire le texte
-                texte, _ = self.pdf_extractor.extraire_texte(chemin_pdf)
+                texte, _, metadata_ocr = self.pdf_extractor.extraire_texte(chemin_pdf)
                 if texte:
                     # Limiter la taille pour le CSV (premiers 5000 caractères)
                     contenu_pdf = texte[:5000] + ("..." if len(texte) > 5000 else "")
                     
                     # Sauvegarder le texte complet dans le dossier text_dir
-                    chemin_txt = self.pdf_extractor.sauvegarder_texte_pdf(
+                    chemin_txt, metadata_ocr = self.pdf_extractor.sauvegarder_texte_pdf(
                         chemin_pdf, self.config.text_dir, texte
                     )
                     if chemin_txt:
                         pdf_info['chemin_texte'] = str(chemin_txt)
+                    
+                    # Stocker les métadonnées OCR
+                    if metadata_ocr:
+                        metadata_ocr_str = json.dumps(metadata_ocr, ensure_ascii=False)
+                        pdf_info['extraction_method'] = metadata_ocr.get('method', 'text')
+                        if 'confidence' in metadata_ocr:
+                            pdf_info['ocr_confidence'] = f"{metadata_ocr['confidence']:.2%}"
+                    else:
+                        pdf_info['extraction_method'] = 'text'
         
         pdf_info['contenu_pdf'] = contenu_pdf
+        if metadata_ocr_str:
+            pdf_info['ocr_metadata'] = metadata_ocr_str
         
         with self.lock:
             self.pdf_records.append(pdf_info)
@@ -353,39 +560,47 @@ class PDFManager:
         self.sauvegarder_csv()
     
     def sauvegarder_csv(self):
-        """Exporte tous les PDF vers le CSV"""
+        """Exporte tous les PDF vers le CSV avec métadonnées OCR"""
         with self.lock:
             records = list(self.pdf_records)
         
         if not records:
             return
         
-        # Colonnes (avec la nouvelle colonne contenu_pdf)
+        # Colonnes (avec les nouvelles colonnes OCR)
         fieldnames = [
-            'chemin_relatif',      # Chemin local du fichier PDF
-            'chemin_texte',        # Chemin du fichier texte extrait (nouveau)
-            'date_publication',    # Date de publication
-            'nom_pdf',             # Nom du fichier PDF
-            'lien',                # URL source
-            'module',              # Module BEAC
-            'section',             # Section spécifique
-            'sous_section',        # Sous-section
-            'page_source',         # Page source
-            'date_extraction',     # Date d'extraction
-            'taille_ko',           # Taille en Ko
-            'type_document',       # Type de document
-            'contenu_pdf'          # Contenu texte du PDF (NOUVEAU)
+            'chemin_relatif',         # Chemin local du fichier PDF
+            'chemin_texte',           # Chemin du fichier texte extrait
+            'date_publication',       # Date de publication
+            'nom_pdf',                # Nom du fichier PDF
+            'lien',                   # URL source
+            'module',                 # Module BEAC
+            'section',                # Section spécifique
+            'sous_section',           # Sous-section
+            'page_source',            # Page source
+            'date_extraction',        # Date d'extraction
+            'taille_ko',              # Taille en Ko
+            'type_document',          # Type de document
+            'extraction_method',      # Méthode d'extraction (text ou PaddleOCR) - NOUVEAU
+            'ocr_confidence',         # Confiance de l'OCR si applicable - NOUVEAU
+            'ocr_metadata',           # Métadonnées complètes OCR en JSON - NOUVEAU
+            'contenu_pdf'             # Contenu texte du PDF (aperçu)
         ]
         
         try:
             temp_output = self.config.csv_output.with_suffix(self.config.csv_output.suffix + ".tmp")
             with open(temp_output, 'w', encoding='utf-8-sig', newline='') as f:
-                writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=';')
+                writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=';', extrasaction='ignore')
                 writer.writeheader()
                 writer.writerows(records)
             temp_output.replace(self.config.csv_output)
             
-            logging.info(f"💾 CSV mis à jour: {len(records)} PDFs")
+            # Afficher statistiques OCR
+            stats_ocr = self.pdf_extractor.ocr_processor.get_stats() if self.pdf_extractor.ocr_processor else {}
+            if stats_ocr.get('scanned_pdfs_processed', 0) > 0:
+                logging.info(f"💾 CSV mis à jour: {len(records)} PDFs | OCR: {stats_ocr['scanned_pdfs_processed']} PDFs scannés traités")
+            else:
+                logging.info(f"💾 CSV mis à jour: {len(records)} PDFs")
             
         except Exception as e:
             logging.error(f"Erreur sauvegarde CSV: {e}")

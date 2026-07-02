@@ -1,0 +1,709 @@
+Source PDF : BWP_N°_04_15_Etudes_des_propriétés_de_long_terme_de_l'inflation_dans_les_pays_de_la_CEMAC__42018322.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BWP_N°_04_15_Etudes_des_propriétés_de_long_terme_de_l'inflation_dans_les_pays_de_la_CEMAC__42018322.pdf
+Date extraction : 15/06/2026 21:28:34
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 04/15 -
+Etude des propriétés de long terme de l’inflation dans les pays de la
+CEMAC : Une approche ARFIMA
+FOSSOUO KAMGA Armand L.
+Ingénieur statisticien - Economiste
+Direct ion de la Recher che
+fossouo@beac.int
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+DIRECTION DE LA RECHERCHE
+
+--- Page 2 ---
+Etude des propriétés de long terme de l’inflation dans les pays
+de la CEMAC:
+Une approche ARFIMA
+Armand Leroy FOSSOUO KAMGA
+(cid:3)
+Mars2015
+Résumé
+Le but de ce papier est d’analyser les propriétés de long terme de l’inflation dans les pays
+de la CEMAC via une approche ARFIMA. Partant des données mensuelles sur l’indice
+des prix à la consommation (IPC) des ménages de ces pays, nous avons constaté que le
+taux d’inflation dans chacun de ces pays est caractérisé par un paramètre d’intégration
+fractionnaire significatif. Sur la base des observations faites, de la méthodologie utilisée
+et des résultats obtenus, nous pouvons affirmer que, si le taux d’inflation en glissement
+annuelestprochede3%,àlasuited’unchocexogènenonanticipésurlesprix,leseffetsse
+dissiperaient lentement et ne s’annuleraient qu’après un horizon de 15 mois en moyenne.
+Ainsi, toutes mesures de politique monétaire palliatives visant à ramener l’inflation à sa
+cibledevraiententenircompte,enconsidérantunhorizontemporelcibleréaliste.
+Motsclés: Modèleauto-régressiffractionnairementintégréàmoyennemobile,tauxd’infla-
+tion,processusàmémoirelongue,intégrationfractionnaire.
+ClassificationJEL: C12,C22,C51,C52,E31.
+Direction de la Recherche, BEAC-Siège. L’auteur remercie tous ceux qui, par leurs observations, auront
+(cid:3)
+permisderehausserlaqualitédecepapier. Bienentendu,leséventuelleserreursdemeurentleseulfaitdel’auteur.
+Ilresteégalementdisponibleàtoutessollicitationséventuellesdescodestex/Rqui ontpermisl’implémentation
+decepapier.
+1
+
+--- Page 3 ---
+Sommaire
+Résuménon-technique 3
+Introduction 4
+1 Revuedelittérature 5
+2 Descriptiondesdonnéesetdel’approcheéconométrique 6
+2.1 Quelquestestspréliminairessurlesdonnées . . . . . . . . . . . . . . . . . . . 7
+2.1.1 TestderacineunitairedeDickey-FullerAugmenté . . . . . . . . . . . 7
+2.1.2 TestderacineunitairedeKPSS . . . . . . . . . . . . . . . . . . . . . 8
+2.2 Leprocessusàmémoirelongue . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.2.1 Définition1(Domainetemporel) . . . . . . . . . . . . . . . . . . . . . 8
+2.2.2 Sourcedelamémoirelongue . . . . . . . . . . . . . . . . . . . . . . . 9
+2.3 LeprocessusARFIMA(p,d,q)etEstimation . . . . . . . . . . . . . . . . . . . 9
+2.3.1 DéfinitionduprocessusARFIMA(p,d,q). . . . . . . . . . . . . . . . . 9
+2.3.2 Méthoded’estimationdesprocessusARFIMA . . . . . . . . . . . . . 11
+3 Résultats 13
+3.1 EstimationARFIMA(p,d,q)dutauxd’inflationdespaysdelaCEMAC . . . . . 13
+3.2 Interprétationdesrésultats. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Conclusion 15
+Référencesbibliographiques 16
+Annexes 18
+2
+
+--- Page 4 ---
+Résuménon-technique
+Conformément à l’article premier de ses Statuts, l’objectif final de la politique monétaire de
+la BEAC est de garantir la stabilité monétaire. Pour la BEAC, dont la monnaie est rattachée
+à l’Euro par une parité fixe, l’objectif de stabilité monétaire, statutairement, signifie un taux
+d’inflation faible (moins de 3%) et un taux de couverture de la monnaie suffisant (le seuil
+minimal est de 20%). L’étude des propriétés statistiques de l’inflation revêt donc un intérêt
+particulier,danslamesureoùcettevariableestaucentredel’objectiffinalauplaninternedela
+politiquemonétairedel’Institutd’Emission.
+Ce papier examine la question relative à la possibilité d’existence d’une mémoire longue dans
+les différentes séries du taux d’inflation en glissement annuel des pays de la CEMAC, aux fins
+d’en identifier le processus générateur et les propriétés statistiques. La persistance ou la signi-
+ficativité du degré d’intégration fractionnaire du taux d’inflation peut avoir une incidence ma-
+jeure sur les mesures de politique monétaire. Cette étude établit que si la valeur fondamentale
+du taux d’inflation est proche de 3%, à la suite d’un choc unitaire sur celui-ci, les effets se dis-
+siperaientlentementetnes’annuleraientqu’aprèsunhorizontemporelde15moisenmoyenne.
+Ce résultat converge avec celui obtenu par les travaux de Bernanke et Gertler en 1995, sur le
+rôle du canal du crédit bancaire dans la transmission de la politique monétaire de la FED aux
+Etats-Unis. Ainsi, toutes mesures de politique monétaire palliatives (utilisant des instruments
+de politique monétaire visant à absorber le choc inflationniste) à court terme devraient en tenir
+compte, en considérant un horizon temporel cible réaliste. Concrètement, en cas de choc in-
+flationniste dans la CEMAC, l’Autorité monétaire devrait tenir compte de ce comportement
+inertiel pour le choix aproprié de l’intrument de politique monétaire qui convient. Cette inertie
+de l’inflation observée dans les pays de la Zone CEMAC pourrait s’expliquer par les délais de
+transmission de la politique monétaire (canaux du taux d’intérêt, du coût du crédit, etc.) de la
+sphèremonétaireàlasphèreréelle.
+Lesrésultatsdecetteétudepermettrontdeserassurersurlespropriétésstatistiquesdel’inflation
+danscespaysvial’identificationduprocessusstochastiquequilagénère,pourlamiseenplace
+àtermed’unmodèledeprévisiondel’inflationefficace. Deplus,ellepourraconstituerunebase
+de travail pour les travaux de recherche utilisant cet agrégat dans une approche causale multi-
+variée (VAR), qui mettront en exergue les principales causes de la persistance dans l’inflation
+despaysdelaCEMAC.
+3
+
+--- Page 5 ---
+Introduction
+Phénomène de hausse cumulative et auto entretenue du niveau général des prix selon Goux
+(1998), l’inflation est l’une des principales variables suivies par les banques centrales, dont la
+BEAC. En effet, conformément à l’article premier de ses Statuts, l’objectif final de la politique
+monétairedelaBEACestdegarantirlastabilitémonétaire. PourlaBEAC,dontlamonnaieest
+rattachéeàl’Europaruneparitéfixe,l’objectifdestabilitémonétaire,statutairement,signifieun
+taux d’inflation faible (moins de 3%) et un taux de couverture de la monnaie suffisant (le seuil
+minimal est de 20%). L’étude des propriétés statistiques de l’inflation revêt donc un intérêt
+particulier,danslamesureoùcettevariableestaucentredel’objectiffinalauplaninternedela
+politiquemonétairedel’Institutd’Emission.
+L’une des questions importantes est de savoir comment les prix réagissent à la suite d’un choc
+exogène non anticipé. Plusieurs études (voir Nelson et Schwert (1977), Barsky (1987), Ball
+and Cecchetti (1990), et Kim (1993)) ont mis en évidence l’existence d’une racine unitaire
+dans la série des indices des prix aux Etats Unis, par conséquent, un choc unitaire sur la série
+aura des effets permanents. D’autres études ont montré que la mémoire longue caractérisait la
+dynamique de plusieurs séries économiques, y compris le taux d’inflation (voir Backus et Zin,
+1993, pour le cas de l’inflation aux USA, Hassler (1993), et Delgado et Robinson (1994), pour
+lescasrespectifsdelaSuisseetdel’Espagne).
+Ce papier examine la question relative à la possibilité d’existence d’une mémoire longue dans
+lesdifférentessériesdutauxd’inflationenglissementannueldespaysdelaCEMAC,àl’excep-
+tion de la Guinée Equatoriale1, aux fins d’en identifier le processus générateur et les propriétés
+statistiques. Considérant les séries mensuelles des indices des prix à la consommation des mé-
+nages de ces pays, nous constatons que l’application du test de racine unitaire standard (ADF)
+d’une part, et le test de Kwiatkowski et al. (KPSS) d’autre part, conduisent respectivement au
+rejetdeshypothèsesnullesI(1)etI(0)pourleCamerounetleGabon,tandisquepourlesautres
+pays, seul le cas I(0) est retenu pour les deux méthodes de test. Après l’application de la tech-
+nique du maximum de vraisemblance approché par la fonction de Whittle pour l’estimation du
+modèleARFIMA,ilressortquetouslescinq(5)paysprésententuntauxd’inflationàparamètre
+d’intégrationfractionnairesignificatif.
+La persistance ou la significativité du degré d’intégration fractionnaire du taux d’inflation peut
+avoir une incidence majeure sur les mesures de politique monétaire en ce sens que si la valeur
+fondamentaledutauxd’inflationestprochede3%,àlasuited’unchocunitairesurcelui-ci,les
+effets se dissiperaient lentement et ne s’annuleraient qu’après un horizon relativement long de
+15 mois en moyenne. Ainsi, toute action de politique monétaire correctrice devra tenir compte
+decetteinertiedansladynamiquedel’inflationdespaysdelaCEMAC.
+Lasuitedecepapiereststructuréeenquatreprincipalessections. Lapremièreestunerevuede
+littérature théorique et empirique autour du thème abordé, les deuxième et troisième sections
+présentent respectivement l’approche économétrique et les principaux résultats obtenus. La
+dernièresectionconclut.
+1LaGuinéeEquatorialenefaitpaspartiedenotreéchantillondepays,carnedisposantpasd’unesériedutaux
+d’inflationsuffisammentlonguepourlesanalysesstatistiques.
+4
+
+--- Page 6 ---
+1
+Revuedelittérature
+La question concernant la persistance des chocs occupe une place centrale en macroéconomie.
+Lestravauxportantsurlessériesdeprixfontgénéralementressortirlaprésenced’unestructure
+dedépendancedelongterme.
+Le premier processus à mémoire longue est le mouvement brownien fractionnaire développé
+par Mandelbrot et Van Ness (1968). Ce processus est caractérisé par un paramètre appelé
+exposant de Hurst, noté H, permettant de classifier les séries temporelles en fonction de leur
+structure de dépendance (mémoire courte ou nulle, mémoire longue positive (persistance) et
+anti-persistance) et donc fournit une mesure de l’intensité de la dépendance de long terme. Les
+séries économiques étant typiquement en temps discret, Mandelbrot et Wallis (1969) ont défini
+un analogue en temps discret du mouvement brownien fractionnaire en temps continu, appelé
+bruit gaussien fractionnaire. Tout comme le mouvement brownien fractionnaire, ce processus
+exhibeégalementlephénomènedepersistance.
+L’étude de Baillie (1996) montre ainsi que la série de l’indice des prix du blé de Beveridge est
+caractérisée par une mémoire longue dans la mesure où une telle série est non stationnaire en
+niveau alors qu’elle apparaît surdifférenciée en différence première. Cet aspect est par ailleurs
+confirmé par l’estimation des processus ARFIMA caractérisés par un paramètre d’intégration
+fractionnairesignificatifetprochede 1.
+2
+Baillie, Chung et Tieslau (1996) étudient quant à eux diverses séries mensuelles d’indices des
+prixàlaconsommationetmontrentquelesprocessusARFIMAsemblentbiensaisirl’évolution
+de ces séries. Notons en outre que ces mêmes auteurs ont estimé des processus ARFIMA avec
+erreursGARCHpourlessériesdetauxd’inflationetontmisenavantl’existenced’unparamètre
+d’intégrationfractionnairesignificatifpourtouslespaysduG7àl’exceptionduJapon.
+Les études réalisées par Tieslau (1992), Delgado et Robinson (1994) et Hassler et Wolters
+(1995) font également ressortir ce phénomène de mémoire longue dans diverses séries du taux
+d’inflation. Signalons en outre qu’une telle conclusion est validée par Bos, Franses et Ooms
+(1998)surlessériesdutauxd’inflationdespaysduG7.
+L’étude de Baum, Barkoulas et Caglayan (1997) met en avant un phénomène de persistance
+danslessériesdetauxd’inflationàlafoisdespaysindustrialisésetdespaysendéveloppement.
+Ils confirment par ailleurs ce résultat sur diverses séries d’indices des prix de gros par le biais
+d’estimationsdeprocessusARFIMA.
+Les économistes (néo) classiques considèrent que la politique monétaire doit avoir la stabilité
+des prix comme seul objectif. Pour eux, la monnaie est neutre à long terme sur la production
+et l’emploi et n’agit que sur les prix. Irving Fisher montre, avec la théorie quantitative de
+la monnaie, que le niveau général des prix est déterminé par la masse monétaire et donc que
+l’inflation est due à une création monétaire excessive : une augmentation de la quantité de la
+monnaie en circulation entraîne une augmentation des prix (avec le plein-emploi et la stabilité
+delavitessedelacirculationdelamonnaie).
+Milton Friedman (chef de fil des monétaristes) a déclaré à ce sujet que "l’inflation est toujours
+et partout un phenomène monétaire", au sens où il existe une relation de causalité de la mon-
+naie vers l’inflation. Pour lui, l’objectif de toute politique monétaire est la stabilité des prix
+(empêcher l’inflation). L’inflation a pour cause l’accroissement anormal de la quantité de la
+5
+
+--- Page 7 ---
+monnaieencirculation.
+Parailleurs,pourleskeynésiens,lamonnaien’estpasneutreetadesincidentssurlaproduction
+et l’emploi. Des taux d’intérêt faibles favorisent l’investissement et donc la production. Selon
+Keynes, tant qu’il existe du chômage, l’emploi varie proportionnellement à la quantité de la
+monnaie, lorsque l’économie connaît le plein emploi, les prix varient proportionnellement à la
+quantitédelamonnaie.
+2
+Descriptiondesdonnéesetdel’approcheéconométrique
+Dans cette étude, nous considérons des données sur l’inflation en glissement annuel obtenus
+à partir de l’indice des prix à la consommation des pays de la CEMAC à l’exception de la
+Guinée Equatoriale qui ne disposait cependant pas d’une série suffisamment longue pour les
+analyses statistiques. Pour un mois donné, c’est l’évolution entre l’indice de ce mois et celui
+du même mois de l’année précédente. Ces données proviennent de la Direction des Etudes et
+de la Stabilité Financière de la BEAC. Les profondeurs temporelles de ces données sont les
+suivantes:
+dejanvier1995àdécembre2011,pourleCameroun,soit204observations;
+(cid:15)
+de janvier 2000 à décembre 2011, pour la République Centrafricaine, soit 144 observa-
+(cid:15)
+tions;
+dejanvier1997àdécembre2011,pourleCongo,soit180observations;
+(cid:15)
+dejuillet1997àdécembre2011pourleGabon,soit174observations;
+(cid:15)
+dejanvier1998ànovembre2011pourleTchad,soit167observations.
+(cid:15)
+L’évolutiondutauxd’inflationenglissementannueldanslesdifférentspaysestdonnéedansla
+figure2.1ci-dessous.
+L’implémentation des différents modèles économétriques s’est faite à l’aide du logiciel R et de
+seslibrairiesafmtoolsetfracdiff(spécialiséesdelamodélisationARFIMA).
+6
+
+--- Page 8 ---
+Figure 2.1: Dynamique du taux d’inflation en glissement annuel dans cinq (5) pays de la
+CEMAC(laligneeninterrompureprésenteleseuilstatutairede3%)
+2.1 Quelquestestspréliminairessurlesdonnées
+2.1.1 TestderacineunitairedeDickey-FullerAugmenté
+Pays DFstatistic C.value(5%)
+Cameroun -6.12 -2.88
+Centrafrique -3.11 -2.88
+Congo -3.70 -2.88
+Gabon -3.55 -2.88
+Tchad -2.73 -1.95
+Table 2.1: Résultats du test de Dickey-Fuller sur le taux d’inflation des cinq (5) pays de la
+CEMAC
+Latable2.1nousmontrequeletauxd’inflationdetouslescinq(5)payseststationnaireausens
+deDickey-Fuller. Eneffet,lastatistiquedetestdeDickey-Fullerétantinférieureauxdifférentes
+valeurscritiques.
+7
+
+--- Page 9 ---
+Pays KPSSstatistic C.value(5%)
+Cameroun 0.55 0.46
+Centrafrique 0.09 0.46
+Congo 0.18 0.46
+Gabon 0.58 0.46
+Tchad 0.06 0.46
+Table2.2: RésultatsdutestdeKPSSsurletauxd’inflationdecinq(5)paysdelaCEMAC
+2.1.2 TestderacineunitairedeKPSS
+La table 2.2 nous montre que les taux d’inflation de tous les pays sont stationnaires au sens de
+KPSSàl’exceptiondeceuxduCamerounetduGabon.
+2.2 Leprocessusàmémoirelongue
+Les premiers processus à mémoire longue (persistance) ont été développés dans le but de for-
+malisermathématiquementlaloiempiriquedécouverteparHurst(1951)surdiversessérieshy-
+drologiques. Lesmodèlestraditionnellementretenusenhydrologiesupposaientquelesniveaux
+d’eau successifs d’une rivière étaient indépendants au cours du temps, ou n’étaient que faible-
+ment dépendants. On parle alors de mémoire nulle (indépendance totale) ou mémoire courte
+(faible dépendance entre les observations). L’exemple le plus connu de processus à mémoire
+courteestfourniparlesmodèlesARMA.Cesdernierssontcaractérisésparunefonctiond’auto-
+corrélationdécroissantgéométriquementlorsqueleretardaugmenteetparunedensitéspectrale
+finie et positive lorsque la fréquence tend vers zéro. Hurst va rejeter de tels modèles en mon-
+trant qu’ils sous-estiment très largement la complexité des fluctuations hydrologiques. La loi
+empirique de Hurst est issue de la détermination de la capacité idéale d’un réservoir d’eau.
+En divisant la capacité du réservoir par l’écart-type de T décharges successives d’un fleuve,
+Hurst trouve que ce rapport est proportionnel à TH, où H est une constante, appelée exposant
+de Hurst, comprise entre 0 et 1. Si les niveaux d’eau de la rivière étaient indépendants, Hurst
+aurait dû trouver que ce rapport se comportait comme T1=2. Le fait que le rapport entre la ca-
+pacité et l’écart-type soit proportionnel à TH est connu sous le nom de "loi de Hurst" ou "loi
+TH". La signification de cette découverte empirique réside dans le fait que la série des niveaux
+d’eau du fleuve n’est pas indépendante, n’est pas non plus faiblement dépendante, mais est
+fortement dépendante. On dira alors que cette série comporte une mémoire de long terme : les
+conséquencesd’unchocsurlasérieconsidéréevontserépercutersurunnombretrèsimportant
+de valeurs futures et le choc affectera donc le comportement de long terme de la série. Cette
+découverte empirique est à la base des divers processus à mémoire longue développés par la
+suite.
+2.2.1 Définition1(Domainetemporel)
+Un processus stationnaire X est un processus à mémoire longue s’il existe un nombre réel
+t
+(cid:11);0 < (cid:11) < 1,etuneconstantec,c > 0,vérifiant:
+8
+
+--- Page 10 ---
+(cid:26)
+k
+lim = 1 (2.1)
+k ck (cid:11)
+!1 (cid:0)
+où(cid:26)estlafonctiond’autocorrélationetk leretard.
+Par conséquent, les autocorrélations d’un processus à mémoire longue vérifient la relation as-
+ymptotiquesuivante: (cid:26) ck (cid:11) quandk . Lesautocorrélations(cid:26) décroissentlentement,
+k v (cid:0) k
+! 1
+c’est à dire à un taux hyperbolique. Ce décroissement hyperbolique des autocorrélations est à
+opposer au décroissement exponentiel des autocorrélations d’un processus ARMA: (cid:26) cak,
+k
+(cid:20)
+où c est une constante positive et 0 < a < 1. En d’autres termes, la fonction d’autocorrélation
+d’unprocessusARMAestgéométriquementbornée.
+2.2.2 Sourcedelamémoirelongue
+Gouriéroux(1999) montreque l’agrégationtemporelledes sérieséconomiques aun impactsur
+la structure de dépendance de celles-ci. Granger (1980) a en outre montré que l’agrégation
+de processus à mémoire courte, tels que des processus AR(1), pouvait mener à un processus à
+mémoire longue. L’illustration de cette affirmation est donnée en annexe via des simulations
+à l’aide du logiciel R. Par ailleurs, d’autres sources potentielles de la présence de la mémoire
+longuedanslessériesdetauxd’inflationdespaysdelaCEMACpeuventêtre:
+unesériedechocsinfluençantl’inflationdanslamêmedirection;
+(cid:15)
+la rigidité dans le processus de formation des prix des entreprises, due par exemple à (i)
+(cid:15)
+l’existance de contrat entre celles-ci et leurs clients; (ii) fait que certaines entreprises ont
+peud’incitantsàmodifierleursprixcarleurcourbedescoûtsmarginauxestrelativement
+plate, c’est-à-dire que leur coût marginal et donc leur prix varient peu ou pas du tout en
+fonction des quantités produites et (iii) fait que les entreprises ne souhaitent pas être les
+premièresàchangerleursprixetpréfèrentattendreladécisiondeleursconcurrents;
+lesanticipationsdesagentséconomiques.
+(cid:15)
+2.3 LeprocessusARFIMA(p,d,q)etEstimation
+2.3.1 DéfinitionduprocessusARFIMA(p,d,q).
+Les processus ARFIMA constituent une généralisation des processus ARIMA standards dans
+lesquels l’exposant de différenciation d était un entier. Le cas d’un paramètre de différencia-
+tion non entier est important en termes de mémoire longue. Dans un processus ARMA(p,q),
+d = 0, traduisant le fait que la série ne comporte qu’une mémoire courte. Pour les processus
+ARIMA{p,d,q), d est souvent égal à 1, ce qui correspond au cas de mémoire infinie. Par con-
+séquent, le cas intermédiaire de mémoire longue, i.e. d fractionnaire, n’est pas pris en compte
+par les modèles classiques de séries temporelles. La classe des processus ARFIMA peut être
+utilisée pour modéliser une dépendance qui est plus forte que celle permise par les processus
+ARMAetplusfaiblequecelleinduiteparlesARIMA.
+9
+
+--- Page 11 ---
+Un processus ARFIMA(p;d;q) s’écrit: (cid:8) (L)(1 L)dX = (cid:9) (L)(cid:15) où (cid:15) est un bruit blanc
+p t q t t
+(cid:0)
+gaussien BB(0;(cid:27)2):Ileststationnairesi:
+d < 1;
+(cid:15) 2
+lesracinesde(cid:8) (L)sontàl’extérieurducercleunitéduplancomplexe,
+p
+(cid:15)
+Ilestinversiblesi:
+d > 1;
+(cid:15) (cid:0)2
+lesracines(cid:9) (L)sontàl’extérieurducercleunitéduplancomplexe.
+q
+(cid:15)
+Onaenplus:
+1
+d = (1 L)d = (cid:25) Li (2.2)
+i
+r (cid:0)
+i=1
+X
+(cid:0)(j d) k 1 d
+(cid:25) = (cid:0) = ( (cid:0) (cid:0) ) (2.3)
+j
+(cid:0)(j +1)(cid:0)( d) k
+(cid:0) 0<k<j
+Y
+avec j = 0;1;:::
+(cid:0)correspondàlafonctionGammadéfiniepar: 8(cid:11)
+2
+R(cid:3)+;(cid:0)((cid:11)) = 0+ 1x(cid:11) (cid:0)1e (cid:0)xdx.
+R
+LesprocessusARFIMA(p,d,q)sontdesprocessusàmémoirelonguelorsque
+d 1; 1 etd = 0:Ilssontinversiblessid > 1 etstationnairessid < 1. Plusprécisément,
+2 (cid:0)2 2 6 (cid:0)2 2
+troiscaspeuventêtredistinguésenfonctiondesvaleursduparamètred:
+(cid:3) (cid:2)
+si0 < d < 1,leprocessusARFIMAestunprocessusstationnaireàmémoirelongue. Les
+(cid:15) 2
+autocorrélationssontpositivesetdiminuenthyperboliquementverszérolorsqueleretard
+augmente. La densité spectrale est concentrée autour des faibles fréquences et tend vers
+l’infinilorsquelafréquencetendverszéro.
+sid = 0,leprocessusARFIMAseréduitauprocessusARMAstandard.
+(cid:15)
+si 1 < d < 0; le processus est anti-persistant : les autocorrélations décroissent hy-
+(cid:15) (cid:0)2
+perboliquement vers zéro en alternant de signe et la densité spectrale est dominée par
+les composantes de hautes fréquences (elle tend vers zéro lorsque la fréquence tend vers
+zéro). Ce cas, appelé anti-persistance par Mandelbrot correspond à des alternances de
+hausses et de baisses dans le processus. Ce comportement est aussi appelé effet
+(cid:28)
+Joseph 2 parréférenceàlaBible.
+(cid:29)
+2Pourquoi effet Joseph ? Dans l’ancien testament, joseph fils d’Israël a été vendu par ses frères puis
+(cid:28) (cid:29)
+emmenéenEgypte. LePharaonfitvenirJosephafindeluiexpliquerlesongedesseptannéesdevachesgrasses
+etdesseptannéesdevachesmaigres. InitiégrâceàJoseph,lePharaonreconul’espritdeDieuenluietlenomma
+gouverneur de sa maison. C’est ce "hasard lent" ou anti-persistence qui est appelé l’effet Joseph: 7 ans de
+sécheresse,7ansdefertilité(Alternancedehaussesetdebaissesdansleprocessus).
+10
+
+--- Page 12 ---
+En outre, d décrit le comportement de long terme de la série alors que les paramètres auto-
+régressifsetdemoyennemobileprennentencomptelesfluctuationsdecourtterme.
+2.3.2 Méthoded’estimationdesprocessusARFIMA
+II existe diverses techniques d’estimation des processus ARFIMA (cf. Lardic et Mignon,
+1996b). Nous présentons ici la méthode du maximum de vraisemblance approché par la fonc-
+tiondeWhittle.
+Fox et Taqqu (1996) propose d’utiliser une approximation de la fonction de vraisemblance
+gaussienne. L’idée sous-jacente est que la technique du maximum de vraisemblance exact est
+certainementlaplusefficace,maisc’estlaplusdifficileàmettreenoeuvre. C’estpourquoiFox
+etTaqquontsuggérédeserameneràuneapproximation. Leursestimateurssontconvergentset
+asymptotiquementnormaux.
+LavraisemblancegaussiennedelasérieXpourleprocessusgénéral:
+(cid:8)(L) d (X (cid:22)) = (cid:2)(L)u (2.4)
+t t
+5 (cid:0)
+où(cid:8)et(cid:2)sontdespolynômesretardsd’ordrepetqrespectivementet
+1 < d < 1;peutêtreexpriméecomme:
+(cid:0)2 2
+1 T (X X^ )2
+L((cid:12);(cid:27)2) = (2(cid:25)(cid:27)2) T=2(r ;:::;r ) 1=2exp j (cid:0) j (2.5)
+(cid:0) 0 t (cid:0)1 (cid:0) (cid:0)2(cid:27)2 r
+j 1
+Xj=1 (cid:0)
+où(cid:12) = (d;(cid:30) ;:::;(cid:30) ;(cid:18) ;:::;(cid:18) )
+1 p 1 q 0
+X^ ; j = 1;:::;T; correspondàlasériedesprévisionsavecunpasunitaire,r = (cid:27) 2E(X
+j j 1 (cid:0) j
+X^ )2 j = 1;:::;T: (cid:0) (cid:0)
+j
+Lesestimateursdumaximumdevraisemblance(cid:12)^ et(cid:27)^2 sontobtenusenmaximisantlavraisem-
+blanceL((cid:12);(cid:27)2)parrapportà(cid:12) età(cid:27)2:
+BrockwelletDavis(1991)indiquentquecettemaximisationaboutità:
+T (X X^ )2
+(cid:27)^2 = T 1S((cid:12)^ ) où S((cid:12)^ ) = j (cid:0) j (2.6)
+(cid:0)
+r
+j 1
+Xj=1 (cid:0)
+^
+et(cid:12) estlavaleurde(cid:12) quiminimise:
+T
+S((cid:12))
+l((cid:12)) = ln( )+T 1 ln(r ) (2.7)
+(cid:0) j 1
+T (cid:0)
+j=1
+X
+11
+
+--- Page 13 ---
+Pour u gaussien, Yajima (1985) a montré que, dans le cas où p = q = 0 et d > 0; on a (voir
+t
+égalementRobinson,1995a):
+(cid:12)^ N((cid:12);T 1W 1((cid:12))) (2.8)
+(cid:0) (cid:0)
+(cid:24)
+où W((cid:12))estunematricedontl’élément(j,k)est:
+1 (cid:25) @lng((cid:21);(cid:12))@lng((cid:21);(cid:12))
+W ((cid:12)) = d(cid:21) (2.9)
+jk
+4(cid:25) @(cid:12) @(cid:12)
+Z (cid:25) j k
+(cid:0)
+et
+(cid:27)2g((cid:21);(cid:12))
+estladensitéspectraleduprocessus.
+2(cid:25)
+^
+Lecomportementasymptotiquede(cid:12) pourd < 0estcependantinconnu. Lecalculdelafonction
+l((cid:12))estlong,surtoutpourdesvaleursélevéesdeT.Aussi,BrockwelletDavis(1991)suggèrent
+d’utiliserl’approximationsuivantedel((cid:12)) :
+1 I (w )
+T j
+l ((cid:12)) = ln (2.10)
+(cid:11)
+T g(w ;(cid:12))
+j (cid:18) j (cid:19)
+X
+lasommeétantsurtouteslesfréquencesdeFourierw nulles.
+j
+~
+Hannan (1973) et Fox et Taqqu (1986) ont montré que l’estimateur (cid:12) qui minimise l ((cid:12)) est
+(cid:11)
+^
+convergent et si d > 0; il a la même distribution limite que (cid:12): La variance du bruit blanc est
+estiméepar:
+1 I (w )
+(cid:27)~2 = T j (2.11)
+T g(w ;(cid:12))
+j (cid:18) j (cid:19)
+X
+Brockwell et Davis (1991) remarquent cependant que l’approximation l ((cid:12)) ne prend pas en
+(cid:11)
+T
+compte le terme T 1 ln(r ). Bien que ce terme tende vers zéro lorsque T tend vers
+(cid:0) j 1
+j=1 (cid:0)
+l’infini, cet oubli peut Pavoir des conséquences non négligeables sur la minimisation de l((cid:12)).
+Lesauteurssuggèrentalorsd’approximercetermeparT 1 lng(w ;(cid:12)):
+(cid:0) j
+j
+P
+Onobtientenconséquencelasecondeapproximationdel((cid:12)),soit:
+l ((cid:12)) = l ((cid:12))+T 1 lng(w ;(cid:12)): (2.12)
+b (cid:11) (cid:0) j
+j
+X
+Brockwel et Davis (1991) proposent ainsi une technique visant à estimer les paramètres (cid:12) et
+(cid:27)2 du modèle fractionnairement intégré en maximisant l’approximation de Whittle, L ; de la
+w
+fonctiondevraisemblance. Unetelleopérationrevientàminimiser:
+12
+
+--- Page 14 ---
+I (w )
+2ln(L ) = T ln(2(cid:25))+2T ln(cid:27) +(cid:27) 2 T j + lng(w ;(cid:12)) (2.13)
+w (cid:0) j
+(cid:0) g(w ;(cid:12))
+j (cid:18) j (cid:19) j
+X X
+oùI correspondaupériodogramme,(cid:27)2g estladensitéspectraledumodèleetlasommeestsur
+T
+touteslesfréquencesdeFouriernonnulles.
+3
+Résultats
+3.1 EstimationARFIMA(p,d,q)dutauxd’inflationdespaysdelaCEMAC
+les paramètres résultants de l’estimation du taux d’inflation dans les cinq (05) pays par une
+modélisationARFIMAsontregroupésdansletableauci-après.
+dˆ Ecart-type t-value Pvalue
+Cameroun 0:44 0:11 3:89 9:8 10 5
+(cid:0)
+(cid:2)
+Centrafrique 0:49 0:13 3:65 2:5 10 3
+(cid:0)
+(cid:2)
+Congo 0:48 0:12 4:08 4:4 10 5
+(cid:0)
+(cid:2)
+Gabon 0:46 0:12 4:01 5:9 10 5
+(cid:0)
+(cid:2)
+Tchad 0:49 0:12 3:93 8:3 10 5
+(cid:0)
+(cid:2)
+Table3.1: Estimationduparamètred’intégrationfractionnaire
+3.2 Interprétationdesrésultats.
+Aprèsanalysedesvaleursestiméesduparamètred’intégrationfractionnairedobtenuesdansle
+tableau3.1parlaméthodedumaximumdevraisemblanceapprochéparlafonctiondeWhittle,
+il vient que ce paramètre est significativement différent de zéro dans chacun des cinq (5) pays.
+Ilressortqueletauxd’inflationdecespayspossèdedespropriétésdelongterme. Deplus,pour
+cespays,uneanalysedescorrélogrammesdelafigure3.1montrelalentedécroissanceverszéro
+delafonctiond’autocorrélation. Cettesituationtraduit,commeleprévoitlathéoriesous-jacente
+etcommeleprouventlesrésultatsdel’estimationduparamètred’intégrationfractionnairedans
+latableau3.1,l’existenced’unemémoiredelongtermestationnaire.
+Par ailleurs, l’analyse des fonctions impulsion-réponse du modèle ARFIMA à la figure 3.2,
+illustrelescommentairesprécédents.
+13
+
+--- Page 15 ---
+Figure3.1: Fonctionsd’autocorrélationdel’inflationdanscinq(5)paysdelaCEMAC.
+Figure 3.2: Fonctions Impulsion-réponse du modèle ARFIMA dans cinq (5) pays de la
+CEMAC.
+14
+
+--- Page 16 ---
+Conclusion
+Ce papier a pour but d’étudier les propriétés de long terme du taux d’inflation dans les pays
+de la CEMAC. Après une brève revue de la littérature théorique et empirique sur les travaux
+similaires, nous avons estimé les paramètres de court et de long terme du modèle ARFIMA
+associé à ces différentes séries par la méthode du maximum de vraisemblance approché par la
+fonction de Whittle. Il résulte de ces estimations que tous ces pays (Cameroun, République
+Centrafricaine, Congo, Gabon, Tchad) sont caractérisés par un taux d’inflation possédant une
+mémoiredelongterme.
+Sur la base des observations faites, de la méthodologie employée et des résultats obtenus, nous
+pouvons affirmer que, si la valeur fondamentale du taux d’inflation est proche de 3%, à la suite
+d’unchocunitairesurlesprix,leseffetssedissiperaientlentementetnes’annuleraientqu’après
+unhorizonrelativementlongde15moisenmoyenne,commel’illustrelesfonctionsimpulsion-
+réponse de la figure 3.2. Ce résultat converge avec celui obtenu par les travaux de Bernanke
+et Gertler en 1995, sur le rôle du canal du crédit bancaire dans la transmission de la politique
+monétaire de la FED aux Etats-Unis. Ces auteurs ont estimé entre 12 et 24 mois les délais de
+réaction de la sphère réelle suite à une impulsion monétaire. Ainsi, toutes mesures de politique
+monétairepalliatives(utilisantdesinstrumentsdepolitiquemonétairevisantàabsorberlechoc
+inflationniste)àcourttermedevraiententenircompte,enconsidérantunhorizontemporelcible
+réaliste.
+Cette inertie de l’inflation observée dans les pays de la Zone CEMAC pourrait s’expliquer par
+lesdélaisdetransmissiondelapolitiquemonétaire(canauxdutauxd’intérêt,ducoûtducrédit,
+etc.) de la sphère monétaire à la sphère réelle. Par exemple, en présence de rigidité des prix,
+une hausse des taux d’intérêt nominaux provoque un accroissement des taux d’intérêt réels, ce
+qui entraîne une dimunition des dépenses d’investissement (en capital fixe des entreprises, en
+logementdesménages),deconsommationenbiensdurables(desménages),doncdelademande
+agrégée et, in fine, de la production et de l’inflation. Cette étude a en outre un intérêt certain
+pour la BEAC, car elle est susceptible d’induire un meilleur contrôle de l’offre de monnaie
+centrale.
+Lesrésultatsdenotreétudepermettrontdeserassurersurlespropriétésstatistiquesdel’inflation
+danscespaysvial’identificationduprocessusstochastiquequilagénère,pourlamiseenplace
+àtermed’unmodèledeprévisiondel’inflationefficace. Deplus,ellepourraconstituerunebase
+detravailpourlestravauxderechercheutilisantcetagrégatdansuneapprochecausalemultivar-
+iée (VAR), qui mettront en exergue les principales causes de la persistance dans l’inflation des
+pays de la CEMAC. Elle permettra en outre de généraliser le concept de cointégration au sens
+usuel par celui de cointégration fractionnaire. Il sera ici question de vérifier que le terme à cor-
+rection d’erreurs est non pas I(0), mais fractionnairement intégré. Ceci permettra d’améliorer
+laqualitédesprévisions,intrapolationsetextrapolationsquiendécoulent.
+15
+
+--- Page 17 ---
+RéférencesBibliographiques
+[1]Agiakloglou, C., P. Newbold and M. Wohar (1992): "Bias in an estimator of the fractional
+differenceparameter."JournalofTirneSeriesAnalysis,vol.14,235-246.
+[2]Baillie, R. T. (1995): "Long memory processes and fractional integration in econometrics."
+JournalofEconometrics,forthcoming.
+[3]Ball, L. and S. G. Cecchetti (1990): "Inflation and uncertainty at short and long horizons."
+BrookingsPapersonEconornicActivity,215-254.
+[4]Barkoulas&ChristopherBaum&GurkanOguz,(1998): "Stochasticlongmemoryintraded
+goodsprices."AppliedEconomicsLetters,TaylorandFrancisJournals,vol.5,135-138.
+[5]Barsky, R. B. (1987): "The Fisher hypothesis and the forecastability and persistence of in-
+flation."JournalofMonetaryEconomics,vol.19,3-24.
+[6]BenBernankeetMarkGertler(1995): "InsidetheblackBox: TnecreditChannelofLonetary
+PolicyTransmission."JournalofEconomicPerspective.
+[7]Cheung, Y.-W. and F. X. Diebold (1994): "On maximum likelihood estimation of the differ-
+encingparameteroffractionallyintegratednoisewithunknownmean."JourrlalofEconor-
+netrics,vol.62;301-316.
+[8]Chung, C.-F. and R. T. Baillie (1993): "Small sample bias in conditional sum of squares
+estimators of fractionally integrated ARMA models." Ernpirical Economics, vol.18, 791-
+806.
+[9]Dahlhaus, R. (1989): "Efficient parameter estimation for self similar processes." Annals of
+Statistics,vol.17,1749-1766.
+[10]Delgado,M.A.andRobinson,P.M.(1993): "Optimalspectralbandwithforlongmemory."
+Preprint.
+[11]Delgado,M.A.andRobinson,P.M.(1994): "Newmethodsfortheanalysisoflongmemory
+timeseries: ApplicationtoSpanishinflation."JournalofForcastingvol.13 97-107.
+[12]Dickey, D. A. and W. A. Fuller (1981): "Likelihood ratio statistics for autoregressive time
+serieswithaunitroot."Econometrica,vol.49,1057-1072.
+[13]Diebold, F. X. and G. D. Rudebusch (1989): "Long memory and persistence in aggregate
+output."JournalofMonetaryEconomics,vol.24,189-209.
+[14]Diebold, F. X. and G. D. Rudebusch (1991): "On the power of Dickey-Fuller tests against
+fractionalalternatives."EconomicsLetters,vol.35,155-160.
+[15]Fox, R. and M. S. Taqqu (1986): "Large sample properties of parameter estimates for
+stronglydependentstationaryGaussiantime-series."AnnalsofStatistics,vol.14,517-532.
+[16]Geweke, J. and S. Porter-Hudak (1983): "The estimation and application of long memory
+timeseriesmodels."JournalofTimeSeriesAnalysis,vol.4,221-238.
+[17]Gouriéroux C. (1999): "La mémoire longue en économie: discussion sur l’article de S.
+LardicetV.Mignon."JournaldelasociétéFrancçaisedeStatistique,vol.140,61-64
+[18]Goux,J-F.(1998): "Inflation,désinflation,déflation." ed.Dunod,collection«topos»,126p.
+16
+
+--- Page 18 ---
+[19]Granger, C. W. J. (1980): "Long memory relationships and the aggregation of dynamic
+models."journalofEconometrics,vol.14,227-238.
+[20]Granger, C. W. J. and R. Joyeux (1980): "An introduction to long memory time series
+modelsandfractionaldifferencing."JournalofTimesSeriesAnalysis,vol.1,15-39.
+[21]HamiltonJ.D.(1994): "TimesSeriesAnalysis." PrincetonUniversityPress.
+[22]Hassler,U.andJ.Wolters(1995): "Longmemoryininflationrates: Internationalevidence."
+JournalofBusiness&EconomicStatistics,vol.13,37-45.
+[23]Hosking,J.R.M.(1981): "Fractionaldifferencing.",Biornetrika,vol.68,165-176.
+[24]Hosking, J. R. M. (1984): "Modeling persistence in hydrological time series using frac-
+tionaldifferencing."WaterResourcesResearch,vol.20,1898-1908.
+[25]Kwiatkowski, D., P. C. B. Phillips, P. Schmidt and Y. Shin (1992): "Testing the null hy-
+pothesisofstationarityagainstthealternativeofaunitroot: howsurearewethateconomic
+timeseriesarenonstationary."JournalofEconometrics,vol.54,159-178.
+[26]Moehring,R.(1990): "ParameterestimationinGaussianintermediatememorytimeseries."
+InstitutfürMathematischeStochastikworkingpaper,UniversityofHamburg.
+[27]Perron, P. (1988): "Trends and random walks in macroeconomic time series: further evi-
+dencefromanewapproach."JournalofEconomicDynamicsandControl,vol.12,297-332.
+[28]Sandrine Lardic, Valerie Mignon. (2002): "Econométrie des Séries Temporelles Macroé-
+comiquesetFinancières." Economica
+[29]Sowell,F.B.(1992): "Maximumlikelihoodestimationofstationaryunivariatefractionally-
+integratedtime-seriesmodels."JournalofEconometrics,vol.53,165-188.
+[30]Wilfredo Palma (2007): "Long-memory Time Series." Wiley Series in Probability and Sta-
+tistics.
+17
+
+--- Page 19 ---
+Annexes
+Graphiques
+Figure3.3: GraphiquedesrésidusdutestderacineunitairedeDFsurl’inflationauCameroun.
+Figure3.4: GraphiquedesrésidusdutestderacineunitairedeDFsurl’inflationenRCA.
+18
+
+--- Page 20 ---
+Figure3.5: GraphiquedesrésidusdutestderacineunitairedeDFsurl’inflationauCongo.
+Figure3.6: GraphiquedesrésidusdutestderacineunitairedeDFsurl’inflationauGabon.
+19
+
+--- Page 21 ---
+Figure3.7: GraphiquedesrésidusdutestderacineunitairedeDFsurl’inflationauTchad.
+Figure3.8: SpécificationdumodèleARFIMA:Cameroun
+20
+
+--- Page 22 ---
+Figure3.9: SpécificationdumodèleARFIMA:RCA
+Figure3.10: SpécificationdumodèleARFIMA:Congo.
+21
+
+--- Page 23 ---
+Figure3.11: SpécificationdumodèleARFIMA:Gabon
+Figure3.12: SpécificationdumodèleARFIMA:Tchad.
+22

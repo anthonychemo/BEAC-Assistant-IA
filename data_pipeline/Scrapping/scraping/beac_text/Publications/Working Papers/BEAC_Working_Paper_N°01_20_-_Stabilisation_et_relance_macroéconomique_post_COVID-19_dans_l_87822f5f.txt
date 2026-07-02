@@ -1,0 +1,1496 @@
+Source PDF : BEAC_Working_Paper_N°01_20_-_Stabilisation_et_relance_macroéconomique_post_COVID-19_dans_l_87822f5f.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°01_20_-_Stabilisation_et_relance_macroéconomique_post_COVID-19_dans_l_87822f5f.pdf
+Date extraction : 15/06/2026 21:21:23
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 01/20 -
+Stabilisation et relance macroéconomique post COVID-19 dans la
+CEMAC
+Quels instruments pour quels effets dans un modèle DSGE ?
+MVONDO Emile Thierry
+Docteur en Economie
+Direction des Etudes, de la Recherche et des Statistiques - BEAC
+mvondot@beac.int
+B ANQU E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE
+travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E S E T U D E S, D E L A R E C H E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+Stabilisation et relance macroØconomiques post COVID-19 dans la CEMAC
+Quels instruments pour quels e⁄ets dans un modŁle DSGE ?
+Post-COVID-19 Macroeconomic Stabilization and Recovery in CEMAC
+Which Instruments for Which E⁄ects in a DSGE Model?
+Thierry Mvondo
+Banque des Etats de l(cid:146)Afrique Centrale
+(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)-
+RØsumØ
+Cepapiers(cid:146)intØresse(cid:224)l(cid:146)e¢ cacitØdesmesuresdestabilisationpuisderelancemacroØconomiquespostCOVID-
+19danslaCEMAC.UnmodŁleDSGEestconstruit, prenantencomptelesspØci(cid:133)citØsdelazonedontparti-
+culiŁrement une banque centrale appelØe (cid:224) assouplir ses conditions monØtaires et, l(cid:146)Etat creusant son dØ(cid:133)cit
+(cid:224) travers l(cid:146)Ømission de titres ainsi que des allŁgements/exonØrations (cid:133)scaux. Dans ce cadre, la COVID-19
+est modØlisØe comme un processus autorØgressif impactant directement certaines variables et, indirectement
+d(cid:146)autres (cid:224) travers le principe de chocs corrØlØs. Les simulations menØes montrent que : (i) la modØlisation
+retenue de la COVID-19 permet de rØpliquer les e⁄ets postulØs de cette derniŁre dans la CEMAC ; (ii) les
+mesures budgØtaires combinØes (cid:224) des conditions monØtaires et macroprudentielles idoines seraient plus e¢ -
+caces,nonobstantdese⁄etsdistorsifssurcertainesvariables(cid:133)nanciŁreset;(iii)lese⁄etsobtenusprendraient
+30 trimestres environ pour se rØaliser complŁtement.
+Mots clØs (cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)-
+Choc COVID-19 (cid:150)Stabilisation (cid:150)Relance macroØconomique (cid:150)DSGE (cid:150)CEMAC
+Abstract:
+This paper focus on the e⁄ectiveness of stabilization and post-COVID-19 macroeconomic stimulus measures
+inCEMAC.Tothisend,aDSGEmodelisbuilt,takingintoaccountthespeci(cid:133)citiesofthezone,particularly
+a central bank called upon to ease its monetary conditions and, the State increasing its de(cid:133)cit through the
+issuance of domestic and foreign bonds as well as reductions or tax exemptions. In this context, COVID-19
+ismodelledasanautoregressiveprocessdirectlyimpactingsomevariablesand,indirectly,othersthroughthe
+principle of correlated shocks. The simulations carried out show that: (i) the model selected for COVID-19
+makesitpossibletoreplicatethepostulatede⁄ectsofthelatterinCEMAC;(ii)(cid:133)scalmeasurescombinedwith
+appropriate monetary and macroprudential conditions would be more e⁄ective, notwithstanding distorting
+e⁄ects on certain (cid:133)nancial variables and; (iii) the e⁄ects obtained would take around 30 quarters to fully
+materialize.
+Keywords (cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)-
+COVID-19 shock (cid:150)Stabilization (cid:150)Macroeconomic recovery (cid:150)DSGE - CEMAC
+
+--- Page 3 ---
+RØsumØ non technique
+Les premiers cas de COVID-19 ont ØtØ identi(cid:133)Øs (cid:224) Wuhan (Chine), le 31 dØcembre 2019. Cette pandØmie
+s(cid:146)estparlasuitepropagØedanslemondeentiervialesvoyageurs,enpassantparl(cid:146)Europeet(cid:133)nalementpour
+toucher les AmØriques, l(cid:146)Australie, puis l(cid:146)Afrique depuis le mois de mars 2020. En vue de l(cid:146)endiguer, les
+Gouvernements des pays a⁄ectØs ont adoptØs des mesures de con(cid:133)nement dont particuliŁrement la fermeture
+desfrontiŁresl(cid:146)interdictionderegroupementdepersonnesetl(cid:146)arrŒtdesemploisnonessentiels. Ils(cid:146)enestsuivi
+des perturbations des cha(cid:238)nes d(cid:146)approvisionnements, une hausse de l(cid:146)incertitude sur les marchØs (cid:133)nanciers et
+une baisse des cours du pØtrole. Les e⁄ets induits dans la CEMAC seraient suivant les services de la BEAC :
+(i) une dØgradation importante des comptes macro-Øconomiques ; (ii) une baisse des (cid:133)nancements extØrieurs
+; (iii) une perturbation des Øchanges intracommunautaires ; (iv) une fragilisation de la stabilitØ externe et
+(cid:133)nanciŁre et ; (v) un risque de montØe des tensions in(cid:135)ationnistes.
+Plus prØcisØment dans cette zone, la croissance reculerait de 2,9 % (-2,3 % pour le secteur pØtrolier et -5,5 %
+pour le secteur non pØtrolier) contre 2,0 % en 2019 (2,1 % pour le secteur pØtrolier et 2,0 % pour le secteur
+non pØtrolier). La dynamique du secteur non pØtrolier rØsulterait, des di¢ cultØs que subiraient les secteurs
+d(cid:146)activitØs quiseront lesplusa⁄ectØsparla crisesanitaire(tourisme, h(cid:244)tels, restaurants, commerceettrans-
+ports). Par ailleurs, le report de plusieurs ØvØnements internationaux (cas du CHAN 2020 au Cameroun)
+contribuerait (cid:224) a⁄ecter davantage l(cid:146)activitØ dans la branche h(cid:244)tellerie et restauration, tandis que les pertur-
+bations des cha(cid:238)nes d(cid:146)approvisionnement pourraient provoquer des cessations d(cid:146)activitØs des entreprises en
+rupture de matiŁres premiŁres avec pour corollaire des pertes d(cid:146)emplois. D(cid:146)oø la nØcessitØ d(cid:146)inverser cette
+tendance rØcessive, par l(cid:146)adoption de mesures budgØtaires appuyØes par des mesures monØtaires et macro-
+prudentielles idoines, adaptØes (cid:224) ce contexte exceptionnel, sans pour autant aller (cid:224) l(cid:146)encontre des principes
+du marchØ.
+AcesmesuresadoptØesparlesResponsablesØconomiques,monØtaireset(cid:133)nanciers,s(cid:146)ajoutentcellesretenues
+dans les pays partenaires de la zone. Sur le plan monØtaire, il a ØtØ dØcidØ : (i) d(cid:146)assouplir les conditions
+monØtaires ; (ii) d(cid:146)Ølargir la gamme des e⁄ets admis en collatØral ; (iii) de revoir la dØcote des e⁄ets publics
+; (iv) d(cid:146)accro(cid:238)tre les injections de liquiditØ et ; (v) Øventuellement de rØviser (cid:224) la baisse les coe¢ cients
+de rØserves obligatoires. Sur le plan budgØtaire, de nombreux allŁgements (cid:133)scaux ont ØtØ actØs, assortis
+de plans d(cid:146)endettement et d(cid:146)allŁgement de la dette auprŁs d(cid:146)organismes internationaux. En rapport avec
+la rØglementation prudentielle, la Commission bancaire a pour sa part recommandØ plus de prudence aux
+banques en leur fournissant des orientations relatives (cid:224) la gestion des risques nØes de la pandØmie alors que
+la Banque de DØveloppement des Etats de l(cid:146)Afrique Centrale a dØbloquØ des sommes sous forme d(cid:146)appuis
+directs aux Etats dans la mise en (cid:156)uvre de leurs programmes de riposte. Les principaux partenaires au
+dØveloppement de la CEMAC ont quant (cid:224) eux utilisØ les instruments (cid:224) leur disposition ou en ont crØØ des
+nouveaux pour davantage assister les Øconomies de la sous-rØgion.
+Autermede lamise enbranledetouscesmesures, l(cid:146)on esten droitde s(cid:146)attendre (cid:224)des e⁄ets positifs etdonc
+unerepriseprogressivedel(cid:146)activitØØconomique. Toutefois,denombreuseslimitespeuventsurveniretattØnuer
+voire annihiler ces e⁄ets d(cid:146)une part pour chaque instrument et, d(cid:146)autre part, du fait de l(cid:146)antagonisme entre
+cesinstruments. Ilenestainsidel(cid:146)instrumentbudgØtairevoiredel(cid:146)instrumentmonØtairelorsquel(cid:146)Øconomie
+est fortement extravertie. Il s(cid:146)en suit alors « des fuites du systŁme », avec des faibles e⁄ets de la politique
+budgØtaire du fait de la sortie des fonds injectØs en vue d(cid:146)acquØrir des biens, mŒme de premiŁre nØcessitØ.
+C(cid:146)est Øgalement le cas de trois principaux Øcueils prØsents dans le secteur (cid:133)nancier de la zone (cid:224) savoir la
+surliquiditØ, la dØ(cid:133)ance sur le compartiment interbancaire et, l(cid:146)asymØtrie d(cid:146)information entre les banques
+et leurs clients. Dans le premier et le deuxiŁme cas, il s(cid:146)en suit une altØration des impulsions monØtaires
+et, dans le troisiŁme, une ampli(cid:133)cation de la rØcession du fait de l(cid:146)e⁄ectivitØ de l(cid:146)accØlØrateur (cid:133)nancier :
+les passifs des (cid:133)rmes par ailleurs des petites et moyennes entreprises dØj(cid:224) trŁs endettØes ne permettraient
+pas de nouveaux crØdits, ce qui ampli(cid:133)e la rØcession. D(cid:146)oø la nØcessitØ dans ce papier d(cid:146)Øvaluer de maniŁre
+prospective, l(cid:146)e¢ cacitØ des mesures adoptØes ci-dessus.
+A cet (cid:133)n, un modŁle a ØtØ construit, prenant en compte les spØci(cid:133)citØs de la zone dont particuliŁrement
+1
+
+--- Page 4 ---
+une banque centrale appelØe (cid:224) assouplir ses conditions monØtaires et, l(cid:146)Etat creusant son dØ(cid:133)cit (cid:224) travers
+l(cid:146)ØmissiondetitresdomestiquesetØtrangersainsiquedesallŁgements/exonØrations(cid:133)scaux. Danscecadre,la
+COVID-19 a ØtØ introduite comme une variable dont l(cid:146)Øvolution dØpend de ses rØalisations antØrieures, avec
+dese⁄etssurl(cid:146)o⁄reetlademandedetravail,lestransactionscommercialesetlesprix. ApartirdecemodŁle,
+il a ØtØ montrØ que : (i) la prise en compte de la COVID-19 dans ce modŁle permet de retrouver les e⁄ets
+postulØs de cette derniŁre dans la CEMAC ; (ii) les mesures budgØtaires, quoique plus e¢ caces par rapport
+aux mesures monØtaires et macroprudentielles pourraient avoir des e⁄ets distorsifs sur certaines variables
+(cid:133)nanciŁres et ; (iii) les e⁄ets obtenus prendraient 30 trimestres environ pour se rØaliser complŁtement. Il
+devient par consØquent important pour chaque acteur impliquØ d(cid:146)aller dans le sens souhaitØ de ces mesures.
+2
+
+--- Page 5 ---
+Introduction
+La nØcessitØ d(cid:146)une rØaction appropriØe (cid:224) l(cid:146)impact macroØconomique de la pandØmie du COVID-19 a remis
+au goßt du jour le dØbat sur l(cid:146)e¢ cacitØ des instruments de stabilisation et de relance Øconomique. C(cid:146)est
+un dØbat qui plonge ses racines dans les ine¢ ciences du marchØ et se focalise sur l(cid:146)e¢ cacitØ relative des
+instruments budgØtaire et monØtaire ou macroprudentiel (Dollery et Wallis, 2001). Au-del(cid:224) de la question
+du bien-fondØ du recours (cid:224) ces instruments, se pose celle de l(cid:146)opportunitØ de faire usage de la politique
+monØtaire principalement conjoncturelle et, de la politique budgØtaire gØnØralement tributaire de la position
+de l(cid:146)Øconomie dans le cycle (CrØel et al, 2011). Cette conjecture thØorique trouve tout son sens dans la
+CommunautØ Economique et MonØtaire d(cid:146)Afrique Centrale (CEMAC) oø, la politique monØtaire fait face
+(cid:224) de nombreux Øcueils rØels et (cid:133)nanciers altØrant ses e⁄ets (Mvondo, 2019) et, la capacitØ d(cid:146)endettement
+des Etats menace la saturation (De Zamaroczy, 2018). C(cid:146)est pourquoi une importante rØforme monØtaire et
+(cid:133)nanciŁre a ØtØ lancØe par les AutoritØs d(cid:146)une part et, d(cid:146)autre part, des programmes (cid:133)nanciers sont signØs
+avec le Fonds MonØtaire International (FMI).
+L(cid:146)implØmentation des rØformes et la mise en (cid:156)uvre des programmes ci-dessus auraient certainement sorti
+la zone de son orniŁre si la pandØmie du COVID-19 ne s(cid:146)en Øtait pas mŒlØe. ConsidØrØe comme la crise
+sanitairelaplusgravequeconna(cid:238)tlemondedepuislagrippeespagnolede19181,cettepandØmiesedistingue
+Øgalement des autres par son Øvolution, ses e⁄ets et les rØactions des responsables politiques et Øconomiques.
+Ainsi, dŁs dØcembre 2019, les premiers cas sont identi(cid:133)Øs. Elle est dØclarØe urgence de santØ publique de
+portØe internationale par l(cid:146)Organisation Mondiale de la SantØ (OMS) le 30 janvier 2020 et, le 11 mars,
+l(cid:146)OMS la dØclare pandØmie mondiale. Ces faits qui se tiennent en moins de trois mois sont suivis de mesures
+de con(cid:133)nement dans les pays a⁄ectØs, des perturbations des cha(cid:238)nes d(cid:146)approvisionnements, de la hausse de
+l(cid:146)incertitude sur les marchØs (cid:133)nanciers et de la baisse des cours du pØtrole. Boissay et Rungcharoenkitkul
+(2020) soutiennent qu(cid:146)elle aura un impact nØgatif sans prØcØdent.
+DŁs avril 2020 en e⁄et, les Perspectives de l(cid:146)Øconomie mondiale, publiØes par le FMI, tablaient sur une chute
+de la croissance de 3% en (cid:133)n d(cid:146)annØe, contre une estimation de +2,9% en 2019. Un rebond Øtait toutefois
+attendu en 2021 avec une prØvision de 5,8%. Quasiment au cours du mŒme mois, la Banque Mondiale dans
+son rapport semestriel sur les perspectives macroØconomiques en Afrique subsaharienne soulignait que la
+croissance dans cette rØgion, qui s(cid:146)Øtait situØe (cid:224) 2,4% en 2019 chuterait dans une fourchette comprise entre
+-2,1% et -5,1% en 2020 ; soit la premiŁre rØcession depuis 25 ans. La dynamique ci-dessus aurait pour
+consØquence, un creusement des dØ(cid:133)cits publics en vue de lutter contre la pandØmie, en particulier dans les
+pays exportateurs de produits de base et/ou tributaires des recettes du tourisme (soit une baisse de 12%) et,
+une vulnØrabilitØ plus accrue de la dette publique (en rapport avec le ratio dette publique sur PIB) et donc
+une non soutenabilitØ de son service.
+Dans la CEMAC, l(cid:146)entrØe en rØcession a ØtØ actØe au deuxiŁme trimestre 2020, en raison des dØcisions liØes
+au con(cid:133)nement, (cid:224) la fermeture des frontiŁres et (cid:224) la perturbation des relations commerciales sur le plan
+international, suites aux mesures plus strictes prises dans les autres pays partenaires. Comme e⁄ets, il est
+attendu suivant la BEAC2 : (i) une dØgradation importante des comptes macro-Øconomiques ; (ii) une baisse
+des(cid:133)nancementsextØrieurs; (iii)uneperturbationdesØchangesintracommunautaires; (iv)unefragilisation
+de la stabilitØ externe et (cid:133)nanciŁre et ; (v) un risque de montØe des tensions in(cid:135)ationnistes. Ces tendances
+ont ØtØ obtenues sous l(cid:146)hypothŁse d(cid:146)une absence d(cid:146)intervention des AutoritØs. Toutefois, les Responsables
+Øconomiques, monØtaires et (cid:133)nanciers se sont mis (cid:224) l(cid:146)(cid:156)uvre et ont arrŒtØ un ensemble de mesures destinØes (cid:224)
+inverser cette dynamique. Cet ensemble de mesures n(cid:146)a d(cid:146)Øgal que les e⁄ets actuels et escomptØs de la crise.
+La principale question qui en dØcoule est de savoir si au terme de leur mise en (cid:156)uvre, les Øconomies de la
+zone se seront stabilisØes et surtout, auront retrouvØ leurs sentiers de croissance.
+1 La grippe espagnole a entrainØ 50 millions de dØcŁs et une contraction du PIB entre 6 et 8% (Barro et al, 2020), le SARS
+en 2003 avec une baisse du PIB de 0,1% (Correia, 2020), le H5N1 en 2014 avec une perte de 0,1% du PIB (Burns et al, 2006)
+...
+2 Rapport sur la Politique MonØtaire prØsentØ au deuxiŁme ComitØ de Politique MonØtaire ordinaire.
+3
+
+--- Page 6 ---
+Pour rØpondre (cid:224) la question ci-dessus, un cadre cohØrent a ØtØ construit. Il permet de simuler la capacitØ
+des mesures prises par les autoritØs publiques, monØtaires et macroprudentielles (cid:224) stabiliser puis relancer les
+ØconomiesdelaCEMAC.Cecadre,plusconnusousl(cid:146)appellationdemodŁleDSGEmetenrelationsdeuxtypes
+de consommateurs (ricardiens et non ricardiens), quatre types de (cid:133)rmes (biens (cid:133)nal, intermØdiaire, importØ
+pour la revente et pØtrole), une banque commerciale en excØdent de liquiditØ conformØment au contexte
+macroØconomique, une banque centrale appelØe (cid:224) assouplir ses conditions et l(cid:146)Etat creusant son dØ(cid:133)cit (cid:224)
+traversl(cid:146)ØmissiondetitresdomestiquesetØtrangers. Lapriseencomptedel(cid:146)ouverturedel(cid:146)Øconomiesuivant
+Monacelli (2005) a permis d(cid:146)analyser les canaux de transmission de la COVID-19 et surtout, de modØliser
+celle-cicommeunprocessusautorØgressifimpactantdirectementcertainesvariableset,indirectementd(cid:146)autres
+(cid:224)traversleprincipedechocscorrØlØs. PartantdumodŁleconstruit,deuxtypesdesimulationsontØtØmenØes.
+LepremieraportØsurlarØactiondesvariablesauxchocsavecetsanse⁄etCOVID-19. LedeuxiŁmetypes(cid:146)est
+intØressØ (cid:224) l(cid:146)incidence des mesures budgØtaires, monØtaires et macroprudentielles retenues par les AutoritØs
+sur la dynamique des variables avec e⁄et COVID-19 et (cid:224) leur e¢ cacitØ relative dans la zone.
+En guise de rØsultats, il est apparu suivant le premier type de simulations que la modØlisation retenue de la
+COVID-19 permet de rØpliquer les e⁄ets escomptØs de cette derniŁre dans la CEMAC. Suivant le deuxiŁme
+typedesimulations,lesmesuresbudgØtaires,quoiqu(cid:146)e¢ cacespourraientavoirdese⁄etsdistorsifssurcertaines
+variables (cid:133)nanciŁres alors que les mesures monØtaires et macroprudentielles n(cid:146)attØnueraient que quelque peu
+les impacts attendus de la COVID-19 sur les variables. De maniŁre comparØe, les mesures budgØtaires
+ampli(cid:133)ent les rØponses des variables aux chocs par rapport aux mesures monØtaires. Dans l(cid:146)ensemble, les
+e⁄etsobtenusprendraient30trimestresenvironpourserØalisercomplŁtement. CesrØsultatssontdiscutØsau
+pointVI.LepointIanalyselescanauxdetransmissiondese⁄etsdelaCOVID-19danslaCEMAC.Lepoint
+II discute des instruments thØoriquement (cid:224) la disposition des AutoritØs et de leur pertinence dans la zone.
+Le point III permet quant (cid:224) lui de modØliser la CEMAC comme une petite Øconomie ouverte et y introduit
+la COVID-19 suivant les canaux de transmission ci-dessous.
+4
+
+--- Page 7 ---
+1 Les canaux de transmission des e⁄ets de la COVID-19 dans la
+CEMAC
+Cettesections(cid:146)intØresseaussibienaucheminementdelaCOVID-19desonfoyerd(cid:146)origine(cid:224)laCEMACqu(cid:146)(cid:224)
+son impact macroØconomique dans la zone.
+1.1 Le cheminement de la COVID-19 de la Chine (cid:224) la CEMAC
+LaCOVID-19aØtØsignalØepourlapremiŁrefois(cid:224)Wuhan,enChine,le31dØcembre2019. Elles(cid:146)estpropagØe
+dans le monde entier via les voyageurs, en passant par l(cid:146)Europe et (cid:133)nalement pour toucher les AmØriques et
+l(cid:146)Australie, sans oublier l(cid:146)Afrique depuis le mois de mars 2020. Au 04 juin 2020, la pandØmie a fortement
+impactØ le monde avec plus de 6,6 millions de personnes contaminØes et 384,5 mille dØcŁs, soit un taux de
+lØtalitØ de 5,9 % ; le nombre de personnes guØries Øtant (cid:224) cette date de 3,2 millions (48,5 %). L(cid:146)Afrique dans
+son ensemble reste le continent le moins touchØ (165,2 milles cas positifs et 4,6 mille morts, soit un taux de
+lØtalitØde2,8%),mŒmes(cid:146)ilfautcraindreuneexpansiondelapandØmiecomptetenudesderniŁresØvolutions.
+Quant (cid:224) la sous-rØgion CEMAC, elle n(cid:146)est pas ØpargnØe avec une explosion de cas positifs, particuliŁrement
+ces derniŁres semaines (plus de 350 nouveaux cas et 3 dØcŁs), passant de 45 personnes contaminØes au 22
+mars (cid:224) 13 638 personnes au 04 juin 2020, dont 325 dØcŁs, soit un taux de lØtalitØ de 2,4 %.
+Compte tenu de l(cid:146)impact sanitaire de la pandØmie qu(cid:146)elle est devenue, les di⁄Ørents Gouvernements ont, en
+vue de l(cid:146)endiguer, pris des mesures d(cid:146)urgence dŁs le dØbut, dont la plupart ont portØ sur le con(cid:133)nement total
+ou partiel des populations, la fermeture des frontiŁres, la mise en quarantaine des voyageurs provenant de
+l(cid:146)extØrieuretlaconduitedescampagnesdesensibilisationetdeprØventionpardesgestesbarriŁres(cid:224)observer
+partous: portobligatoiredesmasques,utilisationdesgelshydro-alcooliques,observationsdeladistanciation
+sociale, fermetures des Øcoles, etc.. Toutefois, l(cid:146)on assiste (cid:224) un dØgel progressif des mesures de con(cid:133)nement
+depuisla(cid:133)ndumoisdemai2020,particuliŁrementenAsie,enEurope,auxEtats-UnisetmŒmedanscertains
+pays africains, y compris ceux de la CEMAC.
+Comme l(cid:146)on pouvait s(cid:146)y attendre, il s(cid:146)en est suivi des rØpercussions sur le plan Øconomique, avec notamment
+des fermetures d(cid:146)entreprises et pertes d(cid:146)emplois, une baisse gØnØralisØe de la demande puis de l(cid:146)o⁄re dans
+tous les secteurs d(cid:146)activitØs. Ces encha(cid:238)nements pourraient se prØsenter ainsi qu(cid:146)il suit pour la Chine (t-1) :
+Con(cid:133)nement (cid:150)baisse de la demande extØrieure en biens et services (cid:150)baisse de l(cid:146)o⁄re extØrieure (cid:150)rachat des
+titres Øtrangers (cid:150)baisse des services liØs au tourisme (cid:150)baisse de l(cid:146)emploi - baisse du PIB. Pour l(cid:146)Europe (t) :
+Con(cid:133)nement (cid:150)baisse de la demande extØrieure en biens et services (cid:150)baisse de l(cid:146)o⁄re extØrieure (cid:150)vente des
+titres chinois - baisse du tourisme (cid:150)baisse de l(cid:146)emploi (cid:150)baisse du PIB. Pour la CEMAC (t) : Con(cid:133)nement (cid:150)
+baisse des exportations en biens et services (cid:150)RenchØrissement des importations -baisse de l(cid:146)emploi (cid:150)baisse
+du PIB (cid:150)Politique monØtaire accommodante. Pour les AmØriques (t+1) : Con(cid:133)nement (cid:150)baisse de l(cid:146)o⁄re
+extØrieureenbiensetservices(cid:150)ventedestitreschinois(cid:150)baissedutourisme(cid:150)baissedelademandeextØrieure
+(cid:150)baisse de l(cid:146)emploi - baisse du PIB.
+1.2 L(cid:146)impact macroØconomique de la COVID-19 dans la CEMAC
+En rapport avec les Øconomies de la CEMAC qui prØsentent un degrØ d(cid:146)ouverture ØlevØ, un secteur (cid:133)nancier
+quelque peu isolØ et une dØpendance aux ressources naturelles, les impacts potentiellement attendus portent
+sur les termes de l(cid:146)Øchange, l(cid:146)o⁄re, la demande et les marchØs (cid:133)nanciers. Ainsi, les termes de l(cid:146)Øchange se
+dØgraderaientde21,0%enunan,essentiellementdufaitdelachutedescoursdupØtroleetdeplusieursautres
+produitsdebase; avecuncoursmoyendubarildupØtroleexportØparlespaysdelaCEMACde35,6USD3,
+3 Cette dØgradation pourrait atteindre 70,7 % en 2020 sile cours moyen chutait (cid:224) 10$.
+5
+
+--- Page 8 ---
+contre61,4USDen2019. Descontraintesappara(cid:238)traientduc(cid:244)tØdel(cid:146)o⁄re,enraisondesperturbationscausØes
+par la morbiditØ ainsi que par les con(cid:133)nements et les restrictions de mouvements de personnes et de biens,
+qui accro(cid:238)traient les coßts de transactions et les conditions (cid:133)nanciŁres et perturberaient plus directement le
+commerce,letourisme,l(cid:146)h(cid:244)tellerie,larestauration,letransportetlestransfertsdesmigrants. Cescontraintes
+toucheraientØgalementlademande,dufaitdelamontØedel(cid:146)incertitude4,delapoussØedescomportementsde
+prØcautionetdese⁄ortsdecon(cid:133)nementquidansl(cid:146)ensembleferaientbaisserl(cid:146)investissement,lesrevenusetle
+pouvoird(cid:146)achatdesmØnages. SurlesmarchØs(cid:133)nanciers, uneinstabilitØest(cid:224)noter, rØsultantprincipalement
+de la limitation des (cid:133)nancements en faveur des mØnages et des entreprises, de la baisse des (cid:133)nancements
+extØrieurs,deladiminutiondesinvestissementsdirectsØtrangersetdudurcissementdesconditions(cid:133)nanciŁres
+intØrieures.
+Plus prØcisØment, La croissancereculerait de2,9 % (-2,3 % pour lesecteurpØtrolieret -5,5% pourle secteur
+non pØtrolier) contre 2,0 % en 2019 (2,1 % pour le secteur pØtrolier et 2,0 % pour le secteur non pØtrolier).
+La dynamique du secteur non pØtrolier rØsulterait, des di¢ cultØs que subiraient les secteurs d(cid:146)activitØs qui
+seront les plus a⁄ectØs par la crise sanitaire (tourisme, h(cid:244)tels, restaurants, commerce et transports). Par
+ailleurs, lereportdeplusieursØvØnementsinternationauxcontribuerait(cid:224)a⁄ecterdavantagel(cid:146)activitØdansla
+branche h(cid:244)tellerie et restauration, tandis que les perturbations des cha(cid:238)nes d(cid:146)approvisionnement pourraient
+provoquerdescessationsd(cid:146)activitØsdesentreprisesenrupturedematiŁrespremiŁresavecpourcorollairedes
+pertes d(cid:146)emplois.
+2 Des instruments thØoriquement (cid:224) la disposition des autoritØs (cid:224)
+leur pertinence dans la CEMAC
+Cette section procŁde dans un premier temps (cid:224) l(cid:146)analyse des instruments mobilisØs dans la littØrature
+thØorique et empirique. Dans un deuxiŁme temps, elle discute de leur e¢ cacitØ et de leurs limites dans
+la zone. Elle conclue alors (cid:224) la prØpondØrance de l(cid:146)instrument budgØtaire qui doit pour cela Œtre soutenu par
+l(cid:146)instrument monØtaire.
+2.1 Vers une prØpondØrance de l(cid:146)instrument budgØtaire
+Par stabilisation macroØconomique, il faut entendre l(cid:146)action (parfois concertØe lorsqu(cid:146)elle impose un policy
+mix) des AutoritØs publiques, visant (cid:224) maintenir des indicateurs de rØfØrence autour de leur cible. Cette
+action se situe quelquefois, lorsqu(cid:146)il est question de la dØgradation des indicateurs de rØfØrence ci-dessus,
+en amont de la relance macroØconomique. Il est alors question d(cid:146)in(cid:135)Øchir leurs trajectoires descendantes,
+puis, de dØclencher des forces susceptibles d(cid:146)induire des trajectoires ascendantes aux indicateurs concernØs.
+ConcrŁtement, un plan de relance de l(cid:146)Øconomie consiste (cid:224) injecter de la liquiditØ dans l(cid:146)Øconomie pour lui
+permettrederedØmarrer,notammentdansdessituationsdecriseetderØcession. CesinjectionspeuventŒtre
+directes ou transiter par des manipulations d(cid:146)instruments (cid:133)scaux, monØtaires ou macroprudentiels. En tout
+Øtat de cause, les politiques budgØtaire, monØtaire et macroprudentielle sous-jacentes doivent Œtre menØes
+dans un contexte de cohØrence sur le plan national voire au sein de l(cid:146)union monØtaire.
+Suivant Dervi‚s (2009) et dans un contexte caractØrisØ par des taux d(cid:146)intØrŒts proches de zØro, la prioritØ
+doit toujours Œtre accordØe (cid:224) la relance budgØtaire. Mieux encore selon lui, mŒme en prØsence de mesures
+4 Plusieurssourcesd(cid:146)incertitudesa⁄ectentactuellementl(cid:146)orientationdespolitiquesØconomiquesdanslemonde:(i)letemps
+qu(cid:146)il faudrait pour que les mesures strictes de con(cid:133)nement rØduisent la propagation des infections (cid:224) un niveau supportable par
+lessystŁmesdesantØactuels;(ii)l(cid:146)e¢ cacitØdesmesuresdecon(cid:133)nement;(iii)lerisquederØsurgencedesinfectionsaveclalevØe
+desmesuresdecon(cid:133)nementobligeantlesEtats(cid:224)rentrerdansunnouveaucycledemesuresrestrictiveset;(iv)lesimplications
+potentielles du durcissement des conditions (cid:133)nanciŁres,etc.
+6
+
+--- Page 9 ---
+non orthodoxes, la politique monØtaire seule serait incapable de stabiliser et de relancer e¢ cacement les
+Øconomies. Nonobstant, elle reste un instrument Øconomique important. Cette politique de relance doit
+venir principalement de l(cid:146)accroissement de la dØpense publique car dans un tel contexte, les diminutions
+d(cid:146)imp(cid:244)ts, (cid:224) moins qu(cid:146)elles ne soient trŁs bien ciblØes, risquent d(cid:146)Œtre aussi ine¢ caces que la rØduction des
+taux d(cid:146)intØrŒts pour stimuler la demande. En e⁄et, la faiblesse de la demande globale, celle des entreprises
+et des consommateurs, associØes au resserrement du crØdit suivant le principe de l(cid:146)accØlØrateur (cid:133)nancier5
+[Christensen et Dib (2008) ; Christiano et al (2010) ; Bernanke et Gilchrist (1999)] rØvŁlent un manque de
+con(cid:133)ance et une profonde aversion au risque que mŒme des rØductions d(cid:146)imp(cid:244)ts ne parviendraient pas (cid:224)
+renverser. A ces ØlØments, l(cid:146)on pourrait associer l(cid:146)e⁄et de richesse liØ (cid:224) la dØ(cid:135)ation et aux baisses de valeurs,
+notamment sur les marchØs immobiliers et boursiers, (cid:224) moins que ces rØductions, temporaires et annoncØes
+comme telles, ne concernent les taxes sur la consommation. Si leur augmentation future Øtait crØdible, une
+baisse temporaire de ces taxes pourrait inciter (cid:224) la consommation. Mais cela poserait problŁme si la crise
+persistait.
+Lorsque l(cid:146)Etat intervient, une distinction est faite selon qu(cid:146)il s(cid:146)agit de la stabilisation ou de la relance.
+La stabilisation renvoie (cid:224) des ØlØments inscrits dans le budget (stabilisateurs automatiques), Øvoluant en
+opposition de phase avec ce dernier et, permettant aux (cid:133)nances publiques d(cid:146)attØnuer les consØquences des
+ØvØnements conjoncturels sur l(cid:146)activitØ. Il s(cid:146)agit gØnØralement des revenus (cid:133)scaux et divers transferts. Les
+revenus (cid:133)scaux augmentent avec la hausse de la consommation et de l(cid:146)emploi et les prestations sociales
+baissentaveclereculduch(cid:244)mage. Vussouscetangle,lesstabilisateursautomatiquespermettraientd(cid:146)amortir
+etd(cid:146)Øliminerdes(cid:135)uctuationstransitoiresnenØcessitantpasd(cid:146)ajustementstructurel. Parcontre, considØrant
+leurcaractŁreautomatique,ilsretarderaientl(cid:146)adoptiondemesuresadaptØesetlesrendraientplusrudesencas
+de choc dont les e⁄ets s(cid:146)avŁrent persistants. La relance quant (cid:224) elle renvoie (cid:224) l(cid:146)incidence d(cid:146)une augmentation
+des dØpenses publiques sur le revenu, par le jeu des multiplicateurs budgØtaires (Combes et Mustea, 2014).
+Toutefois,cesvertusdel(cid:146)instrumentbudgØtairenefontpasl(cid:146)unanimitØdanslalittØrature(CrØeletal,2011).
+C(cid:146)est notamment le cas lorsque la valeur du multiplicateur est rØduite par une faible pression (cid:133)scale ou une
+forte propension (cid:224) importer.
+Cette absence d(cid:146)unanimitØ demeure en rapport Øgalement avec l(cid:146)instrument retenu pour leur Øvaluation, la
+non-linØaritØ dans l(cid:146)e⁄et multiplicateur et le niveau de dØveloppement des pays concernØs. Les rØsultats
+obtenus dans le cadre des modŁles VAR ou panel corroborent l(cid:146)hypothŁse de multiplicateurs supØrieurs (cid:224)
+l(cid:146)unitØ alors que ceux des modŁles DSGE ne le font que sous certaines conditions. Ainsi, Combes et Mustea
+(2014)soulignentdanslecadredesmodŁlesd(cid:146)ØquilibregØnØraldynamiquestochastiquequ(cid:146)enprØsenced(cid:146)une
+Øquivalence nØo-ricardienne, les multiplicateurs, bien que positifs, sont infØrieurs (cid:224) l(cid:146)unitØ et dØpendent de
+facteurs tels que la fonction de rØaction des autoritØs monØtaires et, plus prØcisØment, de la rØaction du taux
+d(cid:146)intØrŒtrØel(GechertetWill, 2012). Parailleurspoursuivent-ils, lapriseencomptedecertainsmØcanismes
+(cid:224) l(cid:146)instar d(cid:146)imp(cid:244)ts distorsifs ou des primes de risque sur les taux d(cid:146)intØrŒt dans des contextes de dette
+publique ØlevØe gØnŁre des valeurs nØgatives du multiplicateur et, par consØquent, des e⁄ets expansifs (anti-
+keynØsiens) des contractions budgØtaires (Briotti, 2005). Cette faiblesse ou nØgativitØ des multiplicateurs
+peut Œtre corrigØe avec la prise en compte d(cid:146)agents non ricardiens [(Cwik et Wieland (2011) ; Gali et al
+(2007)] ou des taux d(cid:146)intØrŒt nominaux su¢ samment faibles [Woodford (2011) ; Freedman et al (2010)].
+Lapriseencomptedesnon-linØaritØss(cid:146)estfaitedansunpremiertempsparrapport(cid:224)l(cid:146)ouverturedel(cid:146)Øconomie.
+Danscecontexte,Ilzetzkietal(2013)ontmontrØquelesmultiplicateursdelongtermesontvoisinsdel(cid:146)unitØ
+dans les Øconomies relativement fermØes, alors qu(cid:146)ils sont nØgatifs dans les pays plus ouverts. Plus tard,
+d(cid:146)autres non-linØaritØs ont ØtØ mises en exergue (cid:224) savoir la position de l(cid:146)Øconomie dans le cycle Øconomique,
+lasituationbudgØtaireinitialeetdelapolitiquemonØtaire,ainsiquelerØgimedechange. Suivantlaposition
+del(cid:146)Øconomiedanslecycle, Baumetal(2012)montrentquelesmultiplicateursdedØpensesetd(cid:146)imp(cid:244)tssont
+plusØlevØsenphasederØcessionqu(cid:146)enphased(cid:146)expansion,avectoutefoisunesupØrioritØdeceluidesdØpenses.
+5 DemaniŁresimpli(cid:133)Øe,ceprincipeØnoncelefaitqu(cid:146)uneØconomieencroissancevaenseconsolidant,alorsqu(cid:146)uneØconomie
+faible ou en dØcroissance va en dØclinant. Plus prØcisØment, ce principe veut mettre en Øvidence l(cid:146)importance de la prise en
+compte des variables (cid:133)nanciŁres dans l(cid:146)orientation des Øconomies industrielles modernes.
+7
+
+--- Page 10 ---
+Batini et al (2012) arrivent (cid:224) la mŒme conclusion en considØrant que la consolidation budgØtaire commence
+pendant une rØcession ou en phase d(cid:146)expansion. La nature de la politique budgØtaire notamment (cid:224) partir
+d(cid:146)uncertainseuild(cid:146)endettementpeutØgalementŒtre(cid:224)l(cid:146)originedenon-linØaritØs[Ary-Tanimoune,Combeset
+Plane(2008);MineaetVillieu(2012)]avecnotammentdese⁄etsnon-keynØsiensouantikeynØsiens. Ainsi,au-
+dessus d(cid:146)un seuil d(cid:146)endettement, non seulement les multiplicateurs de court terme ne sont plus signi(cid:133)catifs,
+mais les multiplicateurs de long terme deviennent nØgatifs. Une explication possible rØside dans le signal
+nØgatif pour les agents que constitue une relance budgØtaire dans une situation des (cid:133)nances publiques dØj(cid:224)
+dØtØriorØes. Pour ce qui est de la politique monØtaire, elle induit des multiplicateurs budgØtaires ØlevØs en
+situation de taux d(cid:146)intØrŒt bas (Christiano et al (2011). Pour ce qui est du rØgime de change, Corsetti et al
+(2012), Born et al (2013) et Ilzetzki et al (2013) concluent que le multiplicateur budgØtaire est plus ØlevØ en
+rØgime de change (cid:133)xe qu(cid:146)en rØgime de change (cid:135)exible.
+En rapport avec le niveau de dØveloppement, le consensus semble di¢ cile aussi bien sur les Øtudes faites
+sur les pays dØveloppØs qu(cid:146)entre ceux-ci et les pays en dØveloppement suivant Combes et Mustea (2014).
+Cependant, les travaux ultØrieurs divergent quant (cid:224) l(cid:146)amplitude du multiplicateur budgØtaire : Mountford et
+Uhlig (2009) estiment un multiplicateur d(cid:146)impact de 0,65 et un multiplicateur (cid:224) long terme infØrieur (cid:224) 1, et
+celacontrairement(cid:224)FatasetMihov(2001)quiobtiennentdesvaleurssupØrieures(cid:224)1(cid:224)courtterme. Partant
+de la mØthodologie SVAR, Mountford et Uhlig (2005) arrivent (cid:224) la conclusion suivant laquelle la rØponse de
+la consommation privØe (cid:224) une augmentation des dØpenses publiques est positive lorsque les e⁄ets d(cid:146)annonce
+sont pris en compte, conclusion quelque peu di⁄Ørente des rØsultats de Tenhofen et Wol⁄(2007). Toutefois
+concluentCombesetMustea(2014),desmultiplicateurssupØrieurs(cid:224)l(cid:146)unitØ(cid:224)courttermesemblentcoexister
+avec des multiplicateurs assez faibles (cid:224) long terme. Mais la prise en compte d(cid:146)un choc mondial augmente
+((cid:201)tats-Unis) ou accro(cid:238)t fortement (zone euro et Japon,) le multiplicateur de court terme (les multiplicateurs
+sont respectivement de 1,5, 1,9 et 2,6). Par contre, les rØsultats sont peu di⁄Ørents pour les multiplicateurs
+de la quatriŁme annØe (respectivement Øgaux (cid:224) 0,3, 0,4 et 0,3).
+Pour les pays en dØveloppement et Ømergents, Le FMI (2008) prØsente des multiplicateurs budgØtaires en
+utilisantdeuxmesuresalternativesdeschocsbudgØtaires, basØesrespectivementsurl(cid:146)estimationd(cid:146)ØlasticitØs
+(ils mesurent l(cid:146)impulsion budgØtaire en utilisant le solde primaire corrigØ des variations conjoncturelles) et
+des estimations basØes sur des rØgressions (ils mesurent l(cid:146)impulsion budgØtaire en utilisant les changements
+dans le solde primaire par rapport (cid:224) l(cid:146)annØe prØcØdente). Les rØsultats sont peu di⁄Ørents selon les deux
+mØthodes. DanslapremiŁre,lemultiplicateurd(cid:146)imp(cid:244)tsestØgal(cid:224)0,2aprŁslapremiŁreetladeuxiŁmeannØe,
+alors que le multiplicateur des dØpenses positif (0,2) aprŁs une annØe devient nØgatif (-0,2) au bout de deux
+ans. S(cid:146)agissant, cette fois-ci, du niveau des multiplicateurs, des rØsultats comparables (cid:224) ceux du FMI (2008)
+sontobtenusparIlzetzkietVegh(2008)dansunmodŁleVARdepanelestimØssur27paysendØveloppement
+: les multiplicateurs de dØpenses sont Øgaux (cid:224) 0,4 aprŁs un an, (cid:224) 0,1 aprŁs deux ans et (cid:224) -0,1 aprŁs trois ans.
+Ces rØsultats ne sont pas fondamentalement di⁄Ørents de ceux de Bika(cid:239) et al (2017) pour la CEMAC suivant
+lesquels, (cid:224) l(cid:146)Øchelle de la sous-rØgion le multiplicateur des dØpenses totales serait 0,08 et celui de long terme
+de 0,51.
+LedØbatsurlavaleurdumultiplicateurci-dessussecomplexi(cid:133)eaveclapriseencomptedesunionsØconomiques
+et monØtaires. Etant donnØ l(cid:146)ampleur et la profondeur des interdØpendances Øconomiques, la coordination
+desplansderelances(cid:146)impose,fautedequoilerisquede« passagersclandestins»,considØrablementrenforcØ
+par l(cid:146)intØgration des Øconomies et des relations commerciales, pourrait inciter chaque pays (cid:224) attendre que
+l(cid:146)e⁄ort de relance soit portØ par d(cid:146)autres. En outre, un pays qui s(cid:146)aventurerait en solitaire dans la relance
+en approfondissant ses dØ(cid:133)cits et sa dette publique ne manquerait pas d(cid:146)Œtre stigmatisØ par les marchØs (cid:133)-
+nanciers, qui spØculeraient sur le caractŁre insoutenable de ses (cid:133)nances publiques. Dans de telles conditions,
+le remŁde de la relance pourrait s(cid:146)avØrer pire que le mal. Une relance coordonnØe sur le plan international
+rØduit ce risque de stigmatisation, mŒme si l(cid:146)on ne peut pas pousser le raisonnement trop loin. Les pays dØj(cid:224)
+trŁs lourdement endettØs, et dont les (cid:133)nances publiques sont structurellement dØ(cid:133)citaires, ne disposent pas
+de grandes marges de man(cid:156)uvre. La coordination des politiques Øconomiques est aussi nØcessaire a(cid:133)n de
+rendrecesplanspluse¢ caces,detirerpartiaumaximumdel(cid:146)e⁄etdumultiplicateurbudgØtaire,etdeveiller
+8
+
+--- Page 11 ---
+(cid:224) ce que chaque pays y contribue selon sa situation propre, ses capacitØs et ses objectifs de dØveloppement.
+2.2 De l(cid:146)e¢ cacitØ des mesures adoptØes dans la zone
+Envued(cid:146)inverserlestendancesnØgativesinduitesparlechocdelaCOVID-19,lesResponsablesØconomiques,
+monØtaires et (cid:133)nanciers se sont mis (cid:224) l(cid:146)(cid:156)uvre et ont arrŒtØ un ensemble de mesures. Ces mesures relŁvent
+de trois types d(cid:146)instruments destinØs (cid:224) stabiliser puis (cid:224) relancer les Øconomies (cid:224) savoir : (i) l(cid:146)instrument
+budgØtaire ; (ii) l(cid:146)instrument monØtaire et ; (iii) l(cid:146)instrument macroprudentiel dont l(cid:146)objectif est principale-
+ment la stabilitØ (cid:133)nanciŁre. A ces mesures, il faut ajouter les implications de la stabilisation et de la relance
+dans les pays partenaires de la zone. Si thØoriquement les e⁄ets escomptØs semblent positifs, il n(cid:146)en demeure
+pas moins que de nombreuses limites peuvent survenir et attØnuer voire annihiler ces e⁄ets d(cid:146)une part pour
+chaque instrument et, d(cid:146)autre part entre ces instruments. Il en est ainsi de l(cid:146)instrument budgØtaire voire de
+l(cid:146)instrument monØtaire lorsque l(cid:146)Øconomie est fortement extravertie. Il s(cid:146)en suit alors comme le postulent les
+monØtaristes rØpondant aux keynØsiens, « des fuites du systŁme », avec un multiplicateur budgØtaire a⁄aibli
+et/ou un coe¢ cient de Polack ampli(cid:133)Ø par le degrØ d(cid:146)ouverture.
+Ainsi,surleplanmonØtaire,ilaØtØdØcidØ: (i)d(cid:146)assouplirlesconditionsmonØtaires; (ii)d(cid:146)Ølargirlagamme
+des e⁄ets admis en collatØral ; (iii) de revoir la dØcote des e⁄ets publics ; (iv) d(cid:146)accro(cid:238)tre les injections de
+liquiditØ et ; (v) Øventuellement de rØviser (cid:224) la baisse les coe¢ cients de rØserves obligatoires. Sur le plan
+budgØtaire,denombreuxallŁgements(cid:133)scauxontØtØactØs,assortisdeplansd(cid:146)endettementetd(cid:146)allŁgementde
+ladetteauprŁsd(cid:146)organismesinternationaux. ConcrŁtement,ils(cid:146)agit: (i)desexonØrations(cid:133)scalo-douaniŁres;
+(ii) de la suspension de contr(cid:244)les (cid:133)scaux ; de l(cid:146)annulation de pØnalitØs de retard et ; de la mise en place de
+subventions. En rapport avec la rØglementation prudentielle, la Commission bancaire a pour sa part recom-
+mandØ plus de prudence aux banques en leur fournissant des orientations relatives (cid:224) la gestion des risques
+nØes de la pandØmie alors que la Banque de DØveloppement des Etats de l(cid:146)Afrique Centrale a dØbloquØ, un
+montant de trois (03) milliards de francs CFA sous forme d(cid:146)appui direct aux Etats dans la mise en (cid:156)uvre de
+leurs programmes de riposte. Il n(cid:146)est pas fortuit de signaler ici que les principaux partenaires au dØveloppe-
+ment (FMI, BM et autres) de la CEMAC ont utilisØ les instruments (cid:224) leur disposition ou en ont crØØ des
+nouveaux pour davantage assister les Øconomies de la sous-rØgion, notamment dans le cadre des programmes
+(cid:133)nanciers en cours.
+Les mesures d(cid:146)assouplissement monØtaires adoptØes sont de trois ordres : (i) la baisse du taux directeur ;
+(ii) l(cid:146)augmentation des injections de liquiditØ de toutes les maturitØs et ; (iii) le rachat des titres publics
+nouvellement Ømis sur le marchØ secondaire. Ces mesures butent sur deux principaux Øcueils (cid:224) savoir la
+surliquiditØ et la dØ(cid:133)ance sur le compartiment interbancaire (Mvondo, 2019) d(cid:146)une part et, d(cid:146)autre part,
+l(cid:146)asymØtrie d(cid:146)information entre les banques et leurs clients. Dans le premier cas, il s(cid:146)en suit une altØration
+des impulsions monØtaires et, dans le deuxiŁme, une ampli(cid:133)cation de la rØcession du fait de l(cid:146)e⁄ectivitØ de
+l(cid:146)accØlØrateur(cid:133)nancier: lepassifdes(cid:133)rmesparailleursdespetitesetmoyennesentreprisesdØj(cid:224)trŁsendettØes
+ne permetpas de nouveaux crØdits, ce quiampli(cid:133)e la rØcession. Une premiŁrevoiede sortie seraitla rØvision
+du collatØral qui permettrait ainsi aux banques commerciales d(cid:146)accorder plus de crØdit et donc, d(cid:146)induire
+une relance de l(cid:146)activitØ Øconomique, (cid:224) condition que les ratios prudentiels ne soient pas dØpassØs et que
+ces banques acceptent de « jouer le jeu ». Une deuxiŁme voie est liØe (cid:224) la dØcision de la banque centrale
+de racheter les titres publics nouvellement Ømis sur le marchØ secondaire, (cid:224) condition que l(cid:146)action publique
+devant suivre soit e¢ cace.
+La bou⁄Øe d(cid:146)oxygŁne attendue du rachat des titres publics ne peut Œtre e⁄ective que si les ressources con-
+sØquentes sont utilisØes dans le sens de la relance. D(cid:146)une part, ces ressources continuent d(cid:146)Œtre orientØes
+vers les dØpenses de santØ et donc de stabilisation et, d(cid:146)autre part, il faut que les mesures (cid:133)scalo-douaniŁres
+n(cid:146)induisentpasunbiaisdanslese⁄etsattendus. Ene⁄et,l(cid:146)e¢ cacitØdel(cid:146)instrumentbudgØtaireesttributaire
+del(cid:146)orientationdesressourcesversdesinvestissementslourds,notammentlorsquelemultiplicateurbudgØtaire
+est au-dessus de l(cid:146)unitØ. Cette e¢ cacitØ peut Œtre compliquØe lorsque des allŁgements (cid:133)scaux sont octroyØs
+9
+
+--- Page 12 ---
+dansuncontextede« dominancenon-ricardienne». L(cid:146)augmentationdupouvoird(cid:146)achatsesoldeparcellede
+laconsommationetnondel(cid:146)Øpargnequipermetl(cid:146)investissement. LarigueuretlesuivideladetteextØrieure
+peuvent de ce fait Œtre invoquØs pour permettre une relance de l(cid:146)activitØ Øconomique. En complØment des
+mesures domestiques, les Etats ont eu recours (cid:224) l(cid:146)allŁgement et (cid:224) l(cid:146)endettement extØrieur dans un contexte
+de signature de programmes avec le Fonds MonØtaire International. Ces ressources arrivent gØnØralement
+dans un contexte bien prØcis et, imposent un examen dans un cadre de modØlisation qui surpasse l(cid:146)analyse
+factuelle qui est menØe.
+3 La modØlisation de la CEMAC comme une petite Øconomie ou-
+verte
+3.1 Prise en compte de l(cid:146)impact de la COVID-19 et structure gØnØrale du mod-
+Łle
+Dans cette section, les caractØristiques structurelles des Øconomies de la zone sont prØsentØes, ce qui permet
+de mieux introduire la variable COVID-19 dans le modŁle dont les programmes des agents sont dØcrits par
+la suite.
+3.1.1 La COVID-19 dans le cadre macroØconomique de la CEMAC
+Du fait des infections-dØcŁs y relatifs et donc des mesures de con(cid:133)nement qui en ont dØcoulØ, l(cid:146)impact
+immØdiat de la pandØmie a ØtØ sur l(cid:146)o⁄re de travail. Le revenu qui en est tributaire ayant baissØ, il s(cid:146)en est
+suiviunebaissedelademandepuis, del(cid:146)o⁄redebiensetservicessuite(cid:224)lafermeturedesfrontiŁresdansune
+zone dont la composante importØe en biens et services est importante. Ainsi, l(cid:146)impact de la pandØmie peut
+Œtre captØ de maniŁre directe pour certaines variables et, indirecte pour d(cid:146)autres. A ce sujet, l(cid:146)emploi et la
+consommation seraient directement impactØs du fait des mesures de con(cid:133)nement alors que les instruments
+budgØtaires, monØtaires et macroprudentiels le seraient indirectement (cid:224) travers le principe de chocs corrØlØs.
+ConcrŁtement, l(cid:146)o⁄re de travail et la consommation Øtant des arguments de la fonction de prØfØrence du
+consommateur, l(cid:146)impact de la COVID-19 peut Œtre modØlisØ comme un choc sur chacune de ces variables
+[Fernandez-Villaverde(2006)puisDupaigneetal(2010)];toutelaquestionØtantdedØterminerladynamique
+dudit choc. Une telle prØoccupation a depuis le dØbut de la pandØmie, fait l(cid:146)objet de nombreux travaux en
+ØpidØmiologie mathØmatique (Djidjou-Demasse et al, 2020). En lui assignant une dynamique autoregressive,
+BØnØteauetal(2020)montrentqu(cid:146)enFrance,ilsuivraitunprocessusdePoissonsusceptibled(cid:146)ŒtreapproximØ
+par une loi normale. S(cid:146)intØressant (cid:224) son intervalle sØriel en Asie, Nishiura et al (2020) montrent qu(cid:146)une loi
+log-normale serait la mieux indiquØe, mŒme si d(cid:146)importantes di⁄Ørences ne sont pas observables. La (cid:133)gure 1
+ci-dessous en donnent une illustration.
+Suivant ces (cid:133)gures, la rØcession atteint son creux lorsque la pandØmie atteint son pic et donc que les mesures
+de con(cid:133)nement sont (cid:224) leur plus bas niveau. Ces mesures seraient le premier instrument de stabilisation voire
+de relance, les autres Øtant les politiques publiques et le dØcollage de la demande extØrieure pour une zone
+extravertie. Mieux encore, les dynamiques de la pandØmie et de la rØcession suivant les formes quadratiques
+qu(cid:146)exhibela(cid:133)gure1con(cid:133)rmentlepostulatd(cid:146)uneloinormale,particuliŁrementpourcequiestdelapandØmie
+dont la modØlisation des interactions avec les autres variables est primordiale. Une telle loi fait partie des
+lois de probabilitØ les plus adaptØes pour modØliser des phØnomŁnes naturels issus de plusieurs ØvØnements
+alØatoires. L(cid:146)on dira alors que la variable COVID-19 est in(cid:135)uencØe par la morbiditØ, le con(cid:133)nement, les
+restrictions de mouvements de personnes et de biens, des perturbations des marchØs (cid:133)nanciers, etc.
+10
+
+--- Page 13 ---
+Au vu de la (cid:133)gure 1, il appara(cid:238)t que la courbe en rouge est similaire (cid:224) celle prØsentØe par Baldwin (2020)
+en rouge Øgalement. Une telle transformation est assimilable (cid:224) l(cid:146)extraction de la composante cyclique d(cid:146)une
+variable, en vue de son utilisation dans un modŁle log-linØarisØ au voisinage de l(cid:146)Øtat stationnaire : l(cid:146)Øcart
+type du choc sur la dynamique de la variable COVID-19 peut de ce fait Œtre calibrØ (cid:224) 1. Une fois ce
+choc implØmentØ, c(cid:146)est son degrØ de corrØlation avec les autres chocs qui est (cid:224) Øtablir. Avec les termes
+de l(cid:146)Øchange, cette corrØlation doit induire une dØgradation de 21% au bout d(cid:146)un an, si aucune action de
+politique Øconomique n(cid:146)est entreprise. En rapport avec l(cid:146)activitØ Øconomique domestique et ØtrangŁre (o⁄re
+et demande), le coe¢ cient de corrØlation (cid:224) retenir doit situer sa contraction autour de 2,9 % (-5,5 % pour
+le secteur pØtrolier et -2,3 % pour le secteur non pØtrolier) et 4,4% respectivement au bout de l(cid:146)annØe, avec
+un creusement des dØ(cid:133)cits publics de l(cid:146)ordre de 12,7%. Du c(cid:244)tØ des marchØs (cid:133)nanciers, les services de la
+Commission Bancaire d(cid:146)Afrique Centrale escomptent une dØgradation du collatØral d(cid:146)environ 2% au bout de
+l(cid:146)annØe. L(cid:146)exercice de calibrage doit permettre d(cid:146)arriver au voisinage de ces valeurs.
+3.1.2 Des caractØristiques structurelles de la CEMAC aux interrelations entre les agents du
+modŁle
+Le poids de la CEMAC dans les Øchanges Øconomiques mondiaux est trŁs faible6. A ce titre, il faut rappeler
+que les pays de la zone sont de petites Øconomies ouvertes et trŁs peu diversi?Øes, avec une forte dØpendance
+aux exportations de matiŁres premiŁres dont principalement le pØtrole, une structure des importations de
+biens et services rigide, un faible dØveloppement ?nancier couplØ (cid:224) une prØpondØrance du secteur bancaire,
+des politiques budgØtaires procycliques et une exposition aux chocs [Mendoza (1995) ; Kose et Reizman
+(2001)]. Les spØci(cid:133)citØs mises en avant dans la CEMAC ont trait (cid:224) l(cid:146)environnement (cid:133)nancier (surliquiditØ,
+type de banques, dØ(cid:133)ance entre celles-ci (cid:224) l(cid:146)interbancaire, problŁme de collatØral et en dØ(cid:133)nitive, e⁄ectivitØ
+de l(cid:146)accØlØrateur (cid:133)nancier), aux consommateurs que l(cid:146)on y rencontre du fait de la faible inclusion (cid:133)nanciŁre
+(ricardiens et non ricardiens), aux (cid:133)rmes avec la modØlisation d(cid:146)une produisant et exportant le pØtrole au
+pro(cid:133)t de l(cid:146)Etat, au-del(cid:224) de la distinction entre celle important pour la revente et/ou celles produisant les
+biens (cid:133)nal et intermØdiaire.
+Plus spØci(cid:133)quement sur le plan interne, le secteur bancaire est structurellement surliquidite (400% en 2014
+suivantleFMI)etlapolitiquemonØtaireestconduitesuivantleprincipedupilotagedestauxd(cid:146)intØrŒtautour
+d(cid:146)uncorridordØ(cid:133)niparlesfacilitØsmarginalesdeprŒtetdedØp(cid:244)t. LesdØpensespubliquessontprocycliqueset
+indexØesauxrecettespØtroliŁresquiconstituentlaprincipaleressourced(cid:146)exportation. SuivantDeZamaroczy
+6 Moinsde1%desexportationsetmoinsde2,6%desimportationsen2017suivantlesstatistiquessurlecommercemondial.
+11
+
+--- Page 14 ---
+et al (2018), le pØtrole pŁse pour 32 % du PIB rØgional, 84 % des exportations de marchandises et 60 % des
+recettes budgØtaires. Sur le plan externe, le commerce se fait essentiellement avec l(cid:146)Union europØenne qui
+pŁseraitpour45,24%environ,laChinepour31,56%etlesUSApour23,2%. Pourcequiestdesmouvements
+decapitaux,l(cid:146)UnioneuropØennepŁseraitpour46,08%environ,laChinepour14,46%etlesUSApour39,47%
+suivantFya(2019). Pointn(cid:146)estbesoindesoulignericiquelecommerceintra-rØgionalreprØsenteenviron1,25
+% du total des Øchanges commerciaux de la zone.
+Sur le front de l(cid:146)endettement, la dette publique extØrieure de la CEMAC a augmentØ rapidement aprŁs un
+allŁgement substantiel de celle-ci. Suite (cid:224) l(cid:146)atteinte des points d(cid:146)achŁvement dans le cadre de l(cid:146)initiative
+PPTE. En (cid:133)n 2016, la dette extØrieure de la zone reprØsentait 23 % du PIB rØgional et, certains de ses
+pays ont connus des incidents de paiements ou sont depuis entrØs dans la catØgorie des pays surendettØs
+(De Zamaroczy et al, 2018). Avec la nØcessitØ de lutter contre la pandØmie d(cid:146)une part et, de relancer les
+Øconomies d(cid:146)autres part, les Etats ont dans un premier temps solliciter des allŁgements ou des annulations
+et, dansundeuxiŁmetemps, contractØdenouvellesdettes. IldevientparconsØquentimportantdemodØliser
+la dynamique de la dette, aussi bien intØrieure qu(cid:146)extØrieure, par l(cid:146)Ømission de titres publics. A ce sujet,
+la BEAC a lancØ dans le cadre du soutien aux Etats, un rachat de titres nouvellement Ømis (cid:224) concurrence
+de 600 milliards de francs CFA, de maniŁre Øgalitaire pour les six Etats de la zone. ParallŁlement, chacun
+de ces Etats nØgocie et contracte des dettes extØrieures dans le cadre de la lutte contre la COVID-19. Les
+interrelations entre ces agents sont prØsentØes ci-dessous.
+PourprendreencomptecesspØci(cid:133)citØs,nousconstruisonsunmodŁlequimetenrelationsunepetiteØconomie
+extravertie (la CEMAC) avec le reste du monde, reprØsentØ par l(cid:146)Europe7, en vue de rØpliquer d(cid:146)une part
+l(cid:146)impact attendu de la COVID-19 et, d(cid:146)autre part, d(cid:146)analyser la capacitØ des mesures prises par les autoritØs
+7 L(cid:146)EuropepŁseraitpour50% suivantlesstatistiquesdeFya(2019)mais,c(cid:146)estdavantagelestendancesquenouschoisissons
+de suivre ici,ce d(cid:146)autant plus que la rØaction de l(cid:146)extØrieure est la mŒme dans le cas de la COVID-19.
+12
+
+--- Page 15 ---
+pour stabiliser puis relancer cette Øconomie.
+3.2 Les programmes des agents du modŁle
+3.2.1 Les mØnages
+8ConformØment(cid:224)lafaiblessedel(cid:146)inclusion(cid:133)nanciŁredanslazone,noussupposonsquel(cid:146)Øconomiecomprend
+deux types de mØnages, des mØnages ricardiens en proportion (m) susceptibles de faire des arbitrages in-
+tertemporels, exhibant des habitudes de consommation et, des mØnages non-ricardiens en proportion (1-m)
+quiconsommentinstantanØmenttoutleurrevenu. LaconsommationdesricardiensestnotØe(CR)etcelledes
+non-ricardiens (CNR). L(cid:146)indice C de la consommation des deux types de mØnages combine une proportion
+t
+((cid:13)) de biens importØs (C ) et une proportion (1-(cid:13)) de biens produits localement (C ) tel que :
+E;t D;t
+(cid:17) 1
+C t= (1 (cid:0)(cid:13))(cid:17)1 C D(cid:17) (cid:0)(cid:17) ;t1 +(cid:13)(cid:17)1 C E(cid:17) (cid:0) ;(cid:17) t1 (cid:0)(cid:17) (3.1)
+(cid:20) (cid:21)
+((cid:17))estl(cid:146)ØlasticitØdesubstitutionentreconsommationdebiensdomestiquesetØtrangersdontlesindicessont
+Øgalement de type Dixit-Stiglitz (1977), fournis par :
+" "
+C D;t=
+1
+C
+D;t(i)" (cid:0)"1
+di
+" (cid:0)1
+et
+1
+C
+E;t(i)" (cid:0)"1
+di
+" (cid:0)1
+(3.2)
+(cid:20)Z0 (cid:21) (cid:20)Z0 (cid:21)
+Pour dØterminer l(cid:146)allocation optimale de biens domestiques et Øtrangers, nous supposons un consommateur
+reprØsentatif des deux types ci-dessus, qui maximise son utilitØ sous contrainte de son budget intertemporel,
+prenantencomptesonsalairenominal(W ),lesimp(cid:244)tsettaxes(T ),lespaiementsautitredesonportefeuille
+t t
+(D ) dont l(cid:146)escompte est Q . La premiŁre Øtape de ce programme consistant (cid:224) minimiser ses dØpenses
+t+1 t;t+1
+sous la contrainte de sa fonctions d(cid:146)utilitØ permet d(cid:146)obtenir les fonctions de demande suivantes, pour chaque
+catØgorie de bien :
+C (i)=
+P D;t(i) (cid:0)"
+etC (i)=
+P E;t(i) (cid:0)"
+(3.3)
+D;t E;t
+P P
+(cid:18) D;t (cid:19) (cid:18) E;t (cid:19)
+Ces deux indices sont ØvaluØs aux prix respectifs :
+1 1
+1 P(z)1 (cid:0)(cid:18) 1 (cid:0)(cid:18) 1 P(z)1 (cid:0)(cid:18) 1 (cid:0)(cid:18)
+P = dz etP = dz (3.4)
+D;t
+(cid:13)
+E;t
+(cid:13)
+" Z(cid:13) # " Z(cid:13) #
+(cid:13)
+Ilappara(cid:238)tainsiquelecoßtdelavieestØgalementunindicecompositedelaforme: P = P(Z)C (Z)dZ,
+C;t 0 t
+obtenu par la rØsolution du programme dual du consommateur par :
+R
+1
+P C;t= (1 (cid:13))(P D;t)1 (cid:0)(cid:18)+(cid:13)(P E;t)1 (cid:0)(cid:18) 1 (cid:0)(cid:18) (3.5)
+(cid:0)
+h i
+En combinant les relations (3.2), (3.4) et (3.5), on obtient l(cid:146)allocation optimale de la consommation entre
+biens domestiques et Øtrangers telle que :
+C =(1 (cid:13))
+P
+D;t
+(cid:0)(cid:17)
+C etC =(1 (cid:13))
+P
+E;t
+(cid:0)(cid:17)
+C (3.6)
+D;t t E;t t
+(cid:0) P (cid:0) P
+(cid:18) t (cid:19) (cid:18) t (cid:19)
+8Envued(cid:146)allØgerledocument,larØsolutiondecesprogrammesainsiquelalinØarisationnesontpasprØsentØs. CesØlØments
+et les codes des simulations (Matlab et Dynare) sont disponibles (cid:224) la demande.
+13
+
+--- Page 16 ---
+Le mØnage ricardien
+Il a une fonction d(cid:146)utilitØ intertemporelle avec un choc COVID19 qui impacte la consommation et les heures
+de travail telle que :
+U=E 1 (cid:12)t
+COVID19c tovid1[C ht]1 (cid:0)(cid:27)(cid:0)1
++(cid:17) COVID19covid2ln(1 N )+(cid:17) lnX (3.7)
+0 8 1 (cid:27) 1 N t (cid:0) ht X ht 9
+Xt=0 < (cid:0) (cid:0) =
+COVID19 est une variabl:e alØatoire qui suit un processus autorØgressif tel que : ;
+COVID19 =rhoCOVID COVID19 +"COVID19 (3.8)
+t (cid:3) t (cid:0)1 t
+Avec "COVID19 N(0;1)
+t (cid:24)
+Cechocd(cid:146)uneimportancecapitaleestdØterminantpourles(cid:135)uctuationsdel(cid:146)activitØimputable(cid:224)lapandØmie.
+Plus prØcisØment, c(cid:146)est des (cid:135)uctuations sur l(cid:146)emploi ou la consommation du fait de l(cid:146)ensemble des mesures
+barriŁres et de la morbiditØ.
+Il a Øgalement un actif monØtaire composite X prenant en compte l(cid:146)encaisse rØelle, les dØp(cid:244)ts et les titres
+acquis auprŁs du TrØsor tel que :
+X =MH+D +BH (3.9)
+ht ht ht ht
+A la (cid:133)n de chaque pØriode, le bien Œtre du mØnage (h), A est tel que :
+A =MH+D +BH (3.10)
+ht ht ht ht
+Sa contrainte budgØtaire est :
+P P P
+MH ht+D ht+B ht (cid:20)W tN rht (cid:0)T rht+MH ht (cid:0)1
+(cid:18)
+Pt (cid:0) t1 (cid:19)+ 1+iD t (cid:0)1 D ht (cid:0)1
+(cid:18)
+Pt (cid:0) t1 (cid:19)+ 1+iB t (cid:0)1 BH ht (cid:0)1
+(cid:18)
+Pt (cid:0) t1 (cid:19)+JI ht +’JB t+JK t (cid:0)C rht
+(cid:0) (cid:1) (cid:0) (cid:1) (3.11)
+Avec :
+C =C hC (3.12)
+ht rht rht 1
+(cid:0) (cid:0)
+Le mØnage non-ricardien
+Il maximise une fonction d(cid:146)utilitØ instantanØe ayant comme argument la consommation (C ) et le loisir
+nht
+(N ). Le programme sous-jacent est le suivant :
+nht
+Max Unr = E 1 (cid:12)t
+COVID19c tovid3[C nht]1 (cid:0)(cid:27)(cid:0)1
++(cid:17) COVID19covid4ln(1 N ) (3.13)
+0 8 1 (cid:27) 1 nN t (cid:0) nht 9
+Xt=0 < (cid:0) (cid:0) =
+s=cC ! N +T (3.14)
+nht t nht nht
+(cid:20) : ;
+3.2.2 In(cid:135)ation domestique, in(cid:135)ation globale, taux de change rØel et termes de l(cid:146)Øchange
+La log-linØarisation de la relation (3.5) au voisinage de l(cid:146)Øtat stationnaire nous permet d(cid:146)Øcrire :
+p =(1 (cid:13))p +(cid:13)p (3.15)
+t D;t E;t
+(cid:0)
+D(cid:146)oø le lien entre taux d(cid:146)in(cid:135)ation de l(cid:146)indice des prix (cid:224) la production domestique et le taux d(cid:146)in(cid:135)ation de
+l(cid:146)indice des prix (cid:224) la consommation :
+(cid:25) =(1 (cid:13))(cid:25) +(cid:13)(cid:25) =(cid:13)(cid:25) +(cid:1)s (3.16)
+t D;t E;t D;t t
+(cid:0)
+14
+
+--- Page 17 ---
+Sousl(cid:146)hypothŁsed(cid:146)e⁄etsincompletsdutauxdechange,laloiduprixuniquenetientplus. Cequivaimpacter
+la relation log-linØarisØe entre taux de change rØel Q
+t
+=Z tP P(cid:3)t
+t
+et termes de l(cid:146)Øchange s t=P P(cid:3)t
+t
+(cid:224) partir de
+la relation (3.12) tel que : (cid:16) (cid:17)
+Q =e +p p =(e +p p )+(1 (cid:13))s = +(1 (cid:13))s (3.17)
+t t (cid:3)t(cid:0) t t (cid:3)t(cid:0) E;t (cid:0) t E;t (cid:0) t
+Avec : =(e +p ) p +"
+E;t t (cid:3)t (cid:0) E;t ;t
+La relation (3.28) traduit ce que Monacelli (2005) appelle le gap de la loi du prix unique. C(cid:146)est l(cid:146)Øcart
+entre prix mondial et prix domestique des biens importØs. ConformØment (cid:224) notre problØmatique, nous y
+incorporons un choc (" ) qui montre l(cid:146)impact d(cid:146)une dØcØlØration des prix Øtrangers sur le taux de change
+;t
+rØel. Et donc sur les prix et la consommation domestique.
+Le consommateur reprØsentatif du « reste du monde » fait face (cid:224) un problŁme d(cid:146)optimisation identique (cid:224)
+celui du consommateur domestique. Toutefois, partant du fait que les Øconomies de la zone sont « petites »
+par rapport au « reste du monde », ce dernier peut de ce fait Œtre modØlisØ comme une Øconomie fermØe.
+Dansle« restedumonde»,laconsommationestainsiØgaleauproduitetl(cid:146)indicedesprix(cid:224)laconsommation
+est Øgal (cid:224) l(cid:146)indice des prix du reste du monde. Ce qui permet d(cid:146)arriver (cid:224) la relation suivante, traduisant
+l(cid:146)Øquilibre du consommateur reprØsentatif du « reste du monde » :
+Q =(cid:12) (cid:21) (cid:3)t+1 (cid:0)(cid:27) P (cid:3)t e t (3.18)
+t;t+1
+(cid:21) P e
+(cid:18) (cid:3)t (cid:19) (cid:18) (cid:3)t+1(cid:19)(cid:18) t+1(cid:19)
+Oø e est le taux de change nominal.
+t
+L(cid:146)identitØ des prØfØrences et la rØpartition des risques permettent alors d(cid:146)Øcrire :
+(cid:12) (cid:21) t+1 (cid:0)(cid:27) P t =Q =(cid:12) (cid:21) (cid:3)t+1 (cid:0)(cid:27) P (cid:3)t e t (3.19)
+(cid:21) P
+t;t+1
+(cid:21) P e
+(cid:18) t (cid:19) (cid:18) t+1(cid:19) (cid:18) (cid:3)t (cid:19) (cid:18) (cid:3)t+1(cid:19)(cid:18) t+1(cid:19)
+ConcrŁtement, la dynamique du rapport des utilitØs marginales de la consommation (domestique et du reste
+du monde) induit (cid:224) l(cid:146)Øquilibre celle du taux de change rØel. D(cid:146)oø l(cid:146)expression suivante, obtenue par log-
+linØarisation de la relation (3.19) :
+1
+c =c + q (3.20)
+t (cid:3)t (cid:27) t
+La rØØcriture de cette relation en rempla(cid:231)ant le taux de change rØel par son expression nous donne :
+1
+c =c + (1 (cid:13))s + (3.21)
+t (cid:3)t (cid:27) (cid:0) t E;t
+Enoutre,delaconditiondupremierordrepermetta(cid:2)ntdedØtermine(cid:3)rleprixdomestiqued(cid:146)untitredomestique
+ou du reste du monde, la paritØ des taux d(cid:146)intØrŒt non couverte peut Œtre dØterminØe telle que :
+e
+E Q i i t+1 =0 (3.22)
+t t;t+1 t (cid:0)(cid:3)t
+e
+(cid:20) (cid:18) t (cid:19)(cid:21)
+e
+Dont l(cid:146)expression log-linØarisØe est donnØe par : e e
+i i =E ((cid:1)e ) (3.23)
+t (cid:0)(cid:3)t t t+1
+3.2.3 La (cid:133)rme produisant le bien (cid:133)nal
+La (cid:133)rme produisant le bien (cid:133)nal fait usage du bien intermØdiaire suivant une technologie de Dixit Stiglitz
+telle que :
+(cid:18)=((cid:18) 1)
+Y t= [TY jt]((cid:18) (cid:0)1)=(cid:18)dj (cid:0) (3.24)
+n o
+15
+
+--- Page 18 ---
+Le prix du bien (cid:133)nal est :
+1 1=(1 (cid:18))
+P t= (P jt)1 (cid:0)(cid:18)dj (cid:0) (3.25)
+(cid:20)Z0 (cid:21)
+D(cid:146)oø son programme
+1
+Max P Y P Y d (3.26)
+Yjt t t
+(cid:0)
+jt jt
+Z0
+3.2.4 La (cid:133)rme produisant le bien intermØdiaire
+Elle Øvolue dans un environnement de concurrence monopolistique et combine le capital louØ au travail pour
+produire le bien intermØdiaire suivant une technologie Cobb-Douglas :
+Y jI t=A tK(cid:11)
+jt
+NI
+jt
+1 (cid:0)(cid:11)
+(3.27)
+A =A(cid:26) A exp eA
+t t 1(cid:0) (cid:1)t
+(cid:0)
+(cid:0) (cid:1)
+Elle emprunte au coßt (iC) pour payer les salaires :
+LFWI=(cid:20)WW NI (3.28)
+jt t jt
+Soit encore en incluant les intØrŒts :
+LFWI= 1+(cid:20)WiC W NI (3.29)
+jt t t jt
+Elle va ainsi minimiser ses coßts sous contrainte d(cid:0)e sa tech(cid:1)nologie :
+Max 1+(cid:20)WiC W N +rKK
+NI j;Kj t t jt t jt
+(3.30)
+s=c (cid:2)Y (cid:0)jt=A tK(cid:11) jt(cid:1)NI
+t
+1 (cid:0)(cid:11)
+(cid:3)
+Puis, maximiser son pro(cid:133)t en prenant en compte la dem(cid:0)and(cid:1)e qui lui est adressØe et les coßts d(cid:146)ajustement
+de ses prix que nous supposons de type Rotemberg (1982) :
+MaxE
+t
+1t=0(cid:12)t(cid:3) tJI
+jt
+(cid:18)
+s=c
+Y jtP= P Pj tt (cid:0) Y tI (3.31)
+8 2
+>< PAC jt=(cid:30) 2F(cid:16) PP j(cid:17) tjt 1(cid:0)1 Y tI
+(cid:0)
+(cid:16) (cid:17)
+Avec : >:
+2
+PAC =(cid:30) F Pjt 1
+jt 2 e(cid:16)tPjt (cid:0)1(cid:0)
+(cid:17)
+(3.32)
+JI =Y CM YI PAC
+jt jt (cid:0) jt jt(cid:0) jt
+Nous supposons ici que la loi du prix unique n(cid:146)est valable qu(cid:146)au port. Les (cid:133)rmes qui importent disposent
+de ce fait d(cid:146)un degrØ de (cid:135)exibilitØ dans la (cid:133)xation de leur prix et opŁrent en environnement de concurrence
+monopolistique. La (cid:133)xation de prix selon la rŁgle de Calvo (1983) dans ce cas se fait selon une proportion
+(1 (cid:18) ) de (cid:133)rmes pouvant (cid:133)xer leurs prix de maniŁre optimale (cid:224) la pØriode (t), et l(cid:146)autre fraction (cid:18) < 1
+E E
+(cid:0)
+indexant ses prix sur l(cid:146)in(cid:135)ation antØrieure.
+Dans la logique des producteurs domestiques, leur indice des prix agrØgØ est donnØ par :
+1
+P (cid:14) 1 (cid:0)" 1 (cid:0)"
+P D;t= 2(1 (cid:0)(cid:18) E)P0 E( ;1 t(cid:0)")+(cid:18) E P E;t (cid:0)1
+(cid:18)P
+EE ;; tt (cid:0)(cid:0) 21
+(cid:19) ! 3
+(3.33)
+4 5
+16
+
+--- Page 19 ---
+La fonction de demande (cid:224) laquelle elles font face est fournie par :
+P (i) P (cid:14) (cid:0)"
+C F;t(i)= F;t F;T (cid:0)1 (3.34)
+P P
+F;T (cid:18) F;t (cid:0)1(cid:19) !
+Ces (cid:133)rmes cherchent (cid:224) maximiser la valeur prØsente de leurs pro(cid:133)ts futurs anticipØs donnØe par :
+E t
+T
+X1 =t(cid:18)T F(cid:0)tQ t;TC F;T(i) "P F;t(i) (cid:18)P PF F; ;T
+t
+(cid:0)(cid:0) 11 (cid:19)(cid:14) (cid:0)e TP (cid:3)F;T(i)
+#
+(3.35)
+e
+3.2.5 La (cid:133)rme produisant le pØtrole
+L(cid:146)ouverturedel(cid:146)Øconomieimposedeprendreencomptel(cid:146)entrØedesrecettespØtroliŁressousformededevises
+et, via le bilan simpli(cid:133)Ø de la banque centrale. Par ailleurs, une fraction (1 (cid:11) ) de ces recettes est sensØe
+O
+(cid:0)
+revenirauxEtatsetl(cid:146)autrefraction((cid:11) )rØinvestie. ConformØmentauxmesuresdecon(cid:133)nementinduitespar
+O
+la pandØmie, il est logique de supposer ici que le choc de la COVID-19 impactera aussi bien la production
+(au niveau de l(cid:146)emploi) que la dynamique du cours du baril. Par consØquent, en lieu et place d(cid:146)un processus
+autorØgressifavecdØrivesurlaproduction(Dagheretal,2012),nousmodØlisonscelle-cisuivantunefonction
+de production Cobb-Doublas (Tabarraei et al, 2018). Cette fonction combine le capital (KO) et le travail
+(NO) pour produire le pØtrole (YO). A partir de la dynamique du capital ci-dessous :
+KO=(1 (cid:14) )KO +(cid:11) (PO YO ) (3.36)
+O t 1 O t t
+(cid:0) (cid:0)
+Le secteur pØtrolier maximise son pro(cid:133)t en choisissant sa demande de travail :
+Max L = (1 (cid:11) )PO YO WO NO (3.37)
+t O t t t t
+(cid:0) (cid:0)
+s=cYO
+t
+= AO t(KO
+t
+1)(cid:13) O(NO t)1 (cid:0)(cid:13) O
+(cid:0)
+A l(cid:146)exception de la corrØlation entre le choc COVID-19 et le choc sur le cours du baril, les autres termes
+d(cid:146)erreurs sont indØpendants et identiquement distribuØs.
+3.2.6 La (cid:133)rme produisant le bien de capital
+Elle emprunte l(cid:146)Øquivalent de l(cid:146)investissement (cid:224) la banque :
+LF;I=I (3.38)
+t t
+La dynamique du capital et son pro(cid:133)t sont tels que :
+(cid:2) K
+K =I +(1 (cid:14))K K t+1 1 (3.39)
+t+1 t t
+(cid:0) (cid:0) 2 K (cid:0)
+(cid:18) t (cid:19)
+JK=rKK 1+iL I (3.40)
+t t t (cid:0) t t
+Son programme est donnØ par : (cid:0) (cid:1)
+MaxE
+t
+1t=0(cid:12)t(cid:3) tJK
+t
+(3.41)
+s =I +(1 (cid:14))K (cid:2)K Kt+1 1
+cKt+1 t (cid:0)P t (cid:0) 2 Kt (cid:0)
+(cid:16) (cid:17)
+3.2.7 La banque commercial Øvoluant en situation de surliquiditØ
+17
+
+--- Page 20 ---
+Elle a en actif les prŒts aux (cid:133)rmes et aux Øtablissements de micro(cid:133)nance (LF), les rØserves totales (TR) et
+au passif les emprunts (cid:224) la banque centrale (LB) et les dØp(cid:244)ts des mØnages (DB) :
+LF+TR =LB+DB (3.42)
+t t t t
+Avec :
+LF=LFW+LFI (3.43)
+t t t
+Et
+LFW=LFWI+LFWM (3.44)
+t t t
+En prenant en compte les proportions de ces derniŁres dans les dØp(cid:244)ts des mØnages :
+ER = (cid:22)TR (cid:22) DB (3.45)
+t t (cid:0) t t
+RR(cid:0)
+=(cid:22)
+DB(cid:1)
+(3.46)
+t t t
+LesrØservestotalessontcomposØesderØservesexcØdentairesetdesrØservesobligatoires,rØmunØrØesautaux
+iM, avec i <i
+M C
+TR =ER +RR (3.47)
+t t t
+Par consØquent, la banque commerciale arbitre entre le ratio des rØserves total, le taux appliquØ aux dØp(cid:244)ts
+des mØnages et celui appliquØ aux prŒts aux (cid:133)rmes et aux Øtablissements de micro(cid:133)nance pour maximiser
+son pro(cid:133)t, soit :
+MaxE
+t
+1t=0(cid:12)t(cid:3) tJB
+t
+AvecE JB = 1+(cid:20)WiC LF;W+QF 1+iL LF;I (3.48)
+t t Pt t t t t
++ 1 QF (cid:20)CK + 1+iM TR 1+iD D 1+iC LB (cid:8) (cid:22)TR (cid:22) D
+(cid:0) t t (cid:0) t(cid:1) (cid:0) t (cid:0) (cid:1)t t (cid:0) (cid:0)t t(cid:1)(cid:0) t (cid:0) t t
+A partir de son bila(cid:0)n et sa(cid:1)chant qu(cid:0)e les e(cid:1)mprunt(cid:0)s des (cid:133)(cid:1)rmes(cid:0)et les(cid:1)dØp(cid:244)ts(cid:0)sont dØte(cid:1)rminØs par les autres
+agents privØs, son emprunt (cid:224) la banque centrale est tel que :
+LB=LF 1 (cid:22)TR DB (3.49)
+t t(cid:0) (cid:0) t t
+Elle fait Øgalement face (cid:224) des coßts convexes de dØte(cid:0)ntion de(cid:1)s rØserves tels que :
+(cid:8) (cid:22)TR (cid:22) = (cid:8) (cid:22)TR (cid:22) +(cid:8) C2 (cid:22)TR (cid:22) 2 +eR (3.50)
+t (cid:0) t (cid:0) C1 t (cid:0) t 2 t (cid:0) t t
+(cid:0) (cid:1) (cid:0) (cid:1) (cid:0) (cid:1)
+3.2.8 L(cid:146)Etat
+Il acquiert le bien (cid:133)nal, collecte des taxes et Ømet des titres. Sa contrainte budgØtaire est :
+P P P P
+B t+T t+iC t (cid:0)1LB t (cid:0)1 Pt (cid:0) t1+iB t (cid:0)1B t (cid:0)1 Pt (cid:0) t1 (cid:0)iMTR t (cid:0)1 Pt (cid:0) t1=G t+ 1+iB t (cid:0)1 B t (cid:0)1 Pt (cid:0) t1 (3.51)
+(cid:0) (cid:1)
+3.2.9 La banque centrale
+Les actifs de la banque centrale sont composØs des avoirs extØrieurs (AEX), des bonds de l(cid:146)Etat (BC) et des
+avances(cid:224)labanquecommerciale(L).SesengagementssontconstituØsdesrØservestotales(TR)etdesbillets
+et piŁces fournis aux agents Øconomiques (MS).
+Son bilan est par consØquent :
+AEX +BC+LB=TR +MS (3.52)
+t t t t t
+18
+
+--- Page 21 ---
+La dynamique des rØserves dØpend de sa valeur antØrieure et de l(cid:146)Øvolution des recettes pØtroliŁres :
+AEX =rho AEX +RP +"AEX (3.53)
+t AEX (cid:3) t (cid:0)1 t t
+MS=MM+M(cid:13)+M (3.54)
+t t t t
+Le niveau des titres publics en partant de l(cid:146)expression des rØserves totales est :
+B =(cid:22)TRDB+MS LB (3.55)
+t t t t(cid:0) t
+Sa rŁgle de politique monØtaire qui est augmentØe de l(cid:146)Øcart des rØserves excØdentaires ainsi que des avoirs
+extØrieurs (cid:224) leurs trajectoires de long terme est :
+1+iR= 1+iR (cid:31) 1+iR (1+(cid:25)) 1+(cid:25) t (cid:30) (cid:25) Y t (cid:30) y ER_TR t (cid:30) ER_TR 1 (cid:0)(cid:31) eR (3.56)
+t (cid:0) t (cid:0)1 (cid:1) " (cid:16) (cid:17) (cid:18) 1+(cid:25) (cid:19) (cid:18)Y (cid:19) (cid:18) ER_TR (cid:19) # t
+Avec
+ln "R =(cid:26)Rln "R + 1 (cid:26)R ln "R +eR (3.57)
+t (cid:0) t (cid:0)1 t
+(cid:0) (cid:1) (cid:0) (cid:1) (cid:0) (cid:1) (cid:0) (cid:1)
+Sachant que la base monØtaire au sens large (BML) est fournie par :
+BML =MS+TR (3.58)
+t t t
+Le taux de couverture extØrieure des engagements (cid:224) vue par les rØserves extØrieures est :
+AEX
+TCE = t (3.59)
+t
+BML
+t
+Le recours des banques commerciales (cid:224) la banque centrale induit un coßt de pØnalitØ qui dØ(cid:133)nit en fait un
+corridor de ses facilitØs marginales, avec :
+LB
+1+iC= 1+iR 1+(cid:18)B (59)Avec(cid:18)B=(cid:18)B t (3.60)
+t t t t 0 DB
+(cid:0) (cid:1)(cid:16) (cid:17) (cid:18) t (cid:19)
+Le principe de (cid:133)xation des rØserves obligatoires est :
+ln((cid:22) )=(cid:26)(cid:22)ln((cid:22))+(1 (cid:26)(cid:22))ln (cid:22)R +e(cid:22) (3.61)
+t (cid:0) t (cid:0)1 t
+(cid:0) (cid:1)
+3.2.10 Le modŁle canonique de l(cid:146)extØrieur
+L(cid:146)extØrieur est considØrØ comme une Øconomie fermØe. Toutefois, (cid:224) la di⁄Ørence d(cid:146)un modŁle standard, nous
+admettrons la prØsence d(cid:146)habitudes de consommation et de phØnomŁnes d(cid:146)indexation tels que postulØ par
+Christiano et al (2005). Les relations ci-dessous issues d(cid:146)une expression de notre modŁle en Øconomie fermØe
+seront donc retenues :
+y h y =E y h y 1 (1 h ) i E (cid:25) +"
+(cid:25)
+t(cid:3) (cid:0)
+(cid:14)
+(cid:25)(cid:3) t(cid:3) (cid:0)=1 (1t
+(cid:18)
+t(cid:3) )+ (1 1(cid:0) (cid:12)(cid:3) (cid:18)t(cid:3) )(cid:0) (cid:21)(cid:27) y(cid:3) +(cid:12)(cid:0) E(cid:3) (cid:25)(cid:3)t(cid:0) t (cid:14)(cid:3)t+ (cid:25)1 +"y ;(cid:3)t
+(3.62)
+8 (cid:3)t(cid:0) (cid:3) (cid:3)t i(cid:0)=1
+(cid:26) i
+(cid:0)(cid:0) +(cid:3)
+(1
+(cid:0)
+(cid:26)
+)(cid:3) (cid:13)(cid:3) (cid:1) (cid:3) ((cid:25)t(cid:3) 2)(cid:3) +t (cid:13)(cid:2) (cid:3)t y+1(cid:0) +"(cid:3) (cid:3)t(cid:3) (cid:3)(cid:25) (cid:3);t
+< (cid:3)t (cid:3) (cid:3)t (cid:0)1 (cid:0) (cid:3) (cid:25) (cid:3) (cid:3)t(cid:0) (cid:0)y (cid:3) t(cid:3) (cid:3)i (cid:3);t(cid:1)
+: (cid:2) (cid:3)
+3.2.11 Equilibres symØtriques
+Il est supposØ ici que toutes (cid:133)rmes produisant les biens intermØdiaires sont identiques et donc, ont le mŒme
+bien. De mŒme, les prix sont les mŒmes pour toutes les (cid:133)rmes. De plus, tous les mØnages o⁄rent le mŒme
+19
+
+--- Page 22 ---
+type de travail. Par consØquent, nous pouvons Øcrire K =K ; N =N ; Y =Y et P =P . L(cid:146)o⁄re de
+jt t jt t jt t jt t
+crØditparlabanquecommercialeetlesdØp(cid:244)tsparlesmØnagessontparfaitementØlastiquesautauxd(cid:146)intØrŒt
+correspondant. De ce fait, le marchØ du crØdit est toujours en Øquilibre. L(cid:146)Øquilibre du marchØ des biens et
+services exige que la production Øgalise l(cid:146)o⁄re agrØgØe, soit : MarchØ des titres, biens et services :
+Y =(cid:13)YI+(1 (cid:13))Q(cid:13)
+t t (cid:0) t 2
+Y =C +G +I +(cid:30) 1+(cid:25)t 1 Y (3.63)
+t t t t 2 1+(cid:25) (cid:0) t
+G t= Y t (cid:16) (cid:17)
+Dotation monØtaire initiale :
+MS=MM+M(cid:13)+M (3.64)
+t t t t
+4 Calibrage et simulations
+Les paramŁtres structurels sont issus de la littØrature alors que ceux dØcoulant de l(cid:146)Øtat stationnaire ont
+ØtØ obtenus des relations du modŁle (cid:224) l(cid:146)Øtat stationnaire. En vue des simulations, nous comparons dans un
+premiertempslesfonctionsderØponsesimpulsionnellesenl(cid:146)absenceetenprØsenceduchocdelaCOVID-19,
+demaniŁre(cid:224)s(cid:146)assurerquecelles-cisontconformesauxprØdictionsrencontrØesdanslalittØrature,notamment
+en termes de variations relatives. Dans un deuxiŁme temps, nous implØmentons les principales mesures
+annoncØes et mise en (cid:156)uvre par les Etats et la Banque Centrale pour juger de leurs e⁄ets.
+4.1 Choix des paramŁtres structurels et dØtermination de l(cid:146)Øtat stationnaire
+Le modŁle comporte trois types de paramŁtres, des paramŁtres structurels, des variables initialisØes (cid:224) l(cid:146)Øtat
+stationnaire et, des valeurs des variables dØterminØes (cid:224) cet Øtat stationnaire.
+4.1.1 ParamŁtres structurels
+Les paramŁtres structurels ont ØtØ obtenus d(cid:146)Øtudes connexes sur la zone, rØalisØ par Berg et al (2012) puis
+Mvondo (2019a et 2019b). D(cid:146)autres ont ØtØ empruntØs (cid:224) l(cid:146)Øtude de Primus (2017) portant sur un prototype
+d(cid:146)Øconomie en dØveloppement, faisant face (cid:224) des problŁmes de surliquiditØ dans son secteur bancaire. Les
+paramŁtres obtenus sont rØsumØs ci-dessous.
+Tableau 1 : ParamŁtres structurels du modŁle
+20
+
+--- Page 23 ---
+ParamŁtres Valeurs Descriptions
+(cid:12) 0,91 Facteur d(cid:146)escompte
+(cid:27) 0,18 ElasticitØ intertemporelle de substitution
+(cid:17) 1,8 Inverse dØsutilitØ du travail
+N
+(cid:17) 0,3 PrØfØrence relative de la dØtention d(cid:146)encaisses
+X
+(cid:23) 0,2 ParamŁtre de dØtention d(cid:146)encaisses
+(cid:18) 10 ElasticitØ de la demande de biens intermØdiaires
+(cid:11) 0,3 Part du capital dans le produit
+(cid:30) 65 ParamŁtre d(cid:146)ajustement des coßts sur les prix
+F
+(cid:2) 18 ParamŁtre d(cid:146)ajustement des coßts sur l(cid:146)investissement
+K
+(cid:14) 0,025 Taux de dØprØciation du capital
+(cid:20)C 0,05 Ratio e⁄ectif collatØral sur le prŒts
+(cid:20)W 0,47 Part du salaire (cid:133)nancØ par emprunt bancaire
+(cid:8) 0,35 ParamŁtre de la fonction de coßt linØaire
+C1
+(cid:8) 7,5 ParamŁtre de la fonction de coßts quadratique
+C2
+(cid:30) 0,02 ElasticitØ de la prime de risque par rapport au capital
+1
+(cid:30) 0,2 ElasticitØ de la prime de risque par rapport (cid:224) la com-
+1
+posante cyclique du produit
+(cid:22) 0,1 Ratio des rØserves exigibles
+(cid:31) 0,95 DegrØ de lissage des taux
+(cid:30) 1,5/1,2 ParamŁtre de l(cid:146)in(cid:135)ation dans la rŁgle monØtaire
+(cid:25)
+(cid:30) 0,2 ParamŁtredel(cid:146)ØcartdeproduitdanslarŁglemonØtaire
+Y
+0,47 Part des dØpenses publiques dans le produit
+4.1.2 ParamŁtres initialisØs (cid:224) l(cid:146)Øtat stationnaire
+LesdonnØesci-aprŁssontrentrØesdemaniŁre(cid:224)assurerunØtatstationnairecohØrentaumodŁleet,conformØ-
+ment aux critŁres de convergence sous rØgionale. Ainsi, pour une cible d(cid:146)in(cid:135)ation annuelle de 3%, sa valeur
+trimestrielle est ramenØe (cid:224) 0,75%. La technologie est (cid:133)xØe (cid:224) 1,03. En supposant donnØe la valeur (cid:224) l(cid:146)Øtat
+stationnaire du produit (Y), un sous-ensemble de variables est dØ(cid:133)ni par rapport (cid:224) lui et en rapport avec les
+donnØes sous-rØgionales. Il s(cid:146)agit de la consommation (C), des dØpenses publiques (G), de l(cid:146)investissement
+(I), des dØp(cid:244)ts du mØnage ricardien (D), des recettes (cid:133)scales (T), du niveau de titres publics (B). Les com-
+posantesdestitrespublics(BC,BSetBH)sontØgalementdØclinØessuivantcelui-ci. Lesdi⁄Ørentesrelations
+sont prØsentØes ci-dessous :
+C =cy Y ; G =gy Y ; I =iy Y ; D =dy Y (4.1)
+ss ss ss ss ss ss ss ss
+(cid:3) (cid:3) (cid:3) (cid:3)
+T =cy Y ; B =by Y ; BS =bs B ; BC =bc B ; (4.2)
+ss ss ss ss ss ss ss ss
+(cid:3) (cid:3) (cid:3) (cid:3)
+BH =bh Y (4.3)
+ss ss
+(cid:3)
+4.1.3 Variables (cid:224) l(cid:146)Øtat stationnaire suivant les relations du modŁle
+Il s(cid:146)agit du capital et de son rendement, du ratio des rØserves totales, de celui des rØserves excØdentaires du
+niveau des rØserves totales de l(cid:146)o⁄re de travail (cid:224) la (cid:133)rme intermØdiaire et (cid:224) celle produisant le capital, des
+prŒts aux (cid:133)rmes et avances (cid:224) banque commerciale, de l(cid:146)encaisse dØtenue par les mØnages, du capital de la
+(cid:133)rme produisant le pØtrole, du taux de de salaire de la (cid:133)rme produisant le pØtrole, de l(cid:146)emploi total et des
+recettes (cid:133)scales totales.
+21
+
+--- Page 24 ---
+1
+1 1+iB 1+iM +(cid:8) 1+iC C s(cid:27) s
+K = I ; rK= 1+iL 1+iL (1 (cid:14)) ;(cid:22)TR=(cid:22) +(cid:22)ER(cid:22)ER= C1(cid:0) ;TR = (cid:22) +(cid:22)ER D ;NI =1 etaN
+ss (cid:14) ss ss 1+(cid:25) (cid:0) (cid:0) ss ss ss (cid:8) ss ss ss ss ss (cid:0)0 (cid:16)W (cid:17)1
+(cid:18) (cid:19) (cid:18) ss(cid:19) (cid:0) (cid:1) C2 (cid:0) (cid:1) ss
+(cid:0) (cid:1) (cid:0) (cid:1) (cid:0) (cid:1)
+(4.4) @ A
+LFWI = 1+(cid:20)WiC W NI +I ;LB=LF+TR D ; (4.5)
+ss ss ss ss ss ss ss (cid:0) ss
+MM =
+(cid:0)(cid:17) XC(cid:27)1 1+(cid:1)iB
+(4.6)
+ss iB
+(cid:0) (cid:1)
+1
+KO = (cid:11) OPO ssYO ss ; NO = YO ss (1 (cid:0)(cid:13)O) ; (4.7)
+ss (cid:13)
+O
+ss (cid:18)AO ssKO(cid:13) ssO
+(cid:19)
+PO YO
+WO = (1 (cid:11) )(1 (cid:13) ) ss ss
+ss (cid:0) O (cid:0) O NO
+ss
+N =(cid:28)NI +(1 (cid:28))NO ; TAX =t TAXC +(1 t)TAXW (4.8)
+ss ss ss ss ss ss
+(cid:0) (cid:3) (cid:0)
+4.2 RØsultats des simulations
+ComptetenudugrandnombredevariablesendogŁnesquecomportelemodŁle,lessimulationsserontmenØes
+surunnombrerestreintdecelles-ci. Lesous-ensembleconcernØcomporteradesvariablesrØelleset(cid:133)nanciŁres,
+retenues en fonction de leur capacitØ (cid:224) retracer les impacts de la COVID-19 sur ces deux sphŁres, ainsi que
+lesmesuresdepolitiqueØconomique. Ils(cid:146)agitduproduit(Y),delaconsommationdesricardiens(CR)etdes
+non-ricardiens (CNR), de l(cid:146)in(cid:135)ation (PI) pour la sphŁre rØelle. Pour la sphŁre (cid:133)nanciŁre, le taux directeur
+(IR),leplafondducorridor(TEHTAB),laprobabilitØderemboursementdes(cid:133)rmes(QF),lesprŒtsaux(cid:133)rmes
+(LF) assortis de leur taux (IL), les prŒts aux banques (LB), leur taux (IC) et un indicateur de surliquiditØ
+(ERTR).DeuxtypesdesimulationsontØtØmenØes. Lepremierapermisd(cid:146)examinerlarØactiondesvariables
+aux chocs avec et sans e⁄et COVID-19. Le deuxiŁme type s(cid:146)est intØressØ (cid:224) l(cid:146)incidence des mesures retenues
+par les AutoritØs sur la dynamique des variables avec e⁄et COVID-19 et (cid:224) leur e¢ cacitØ relative.
+4.2.1 Dynamique des variables avec et sans choc de la COVID-19
+Cette simulation appelØe sim.0 est destinØe (cid:224) rØpliquer les impacts de la COVID-19 tels que postulØs par
+la littØrature empirique. C(cid:146)est en d(cid:146)autres termes, une comparaison de ce qu(cid:146)aurait dß Œtre la dynamique
+ØconomiquesansCOVID-19suivantlesprØvisionsusuellesendØbut2020aprŁsunchocstandardet,cequ(cid:146)elle
+estaprŁsimpactdelaCOVID-19.C(cid:146)estØgalementl(cid:146)occasiondes(cid:146)assurerquelemodŁleconstruitrØpliqueles
+faits stylisØs avant toute exercice de simulation comme l(cid:146)impose l(cid:146)approche dite de laboratoire sous-jacente.
+Les chocs privilØgiØs sont ceux portant sur l(cid:146)emploi (N), la demande extØrieure (YS), la consommation
+ricardienne (CR) et non-ricardienne (CNR) car, plus exposØes aux impacts directs de la COVID-19. Au-
+del(cid:224) des faits stylisØs standards, l(cid:146)analyse porte Øgalement sur les tendances postulØes en rapport avec la
+croissance, les termes de l(cid:146)Øchange et le collatØral. Les hypothŁses dØcoulant de la littØrature empirique et
+les tendances obtenues du modŁle sont reprises dans le tableau ci-dessous.
+Tableau 2 : E⁄ets postulØs et obtenus suivant le modŁle au bout d(cid:146)une annØe
+Source : construit par l(cid:146)auteur
+Suivantletableau2,lemodŁlerØpliqueparfaitementlereculdelacroissancepostulØdanslazone. Toutefois,
+la rØpartition de ce recul entre le secteur non pØtrolier et le secteur pØtrolier di⁄Łre, alors que le poids retenu
+22
+
+--- Page 25 ---
+Variables Croissance Croissance Croissance Croissance DØgradationIn(cid:135)ation Termes
+globale hors pØt- secteur Øconomie du col- de
+role pØtrolier ex- latØral l(cid:146)Øchange
+tØrieure
+Evolutions -2.9% -2,3% -5,5% -4,4% -2,0% 2,7% -21%
+postulØs (CEMAC) (CEMAC) (CEMAC) (Mondiale) (CEMAC) (CEMAC) (CEMAC)
+Evolution -2,9% -2% -5,2% -4,5% -5,8% 0,4% -0,9%
+du mod-
+Łle
+Table 4.1: Table Caption
+dans le calibrage (0,8 pour le hors pØtrole et 0,2 pour le pØtrole) des deux PIB dans le PIB total est celui
+dØcoulant de la littØrature empirique. L(cid:146)on peut ici mettre en avant l(cid:146)impact plus prononcØ des mesures de
+con(cid:133)nement sur la production pØtroliŁre et l(cid:146)e⁄et de l(cid:146)accalmie de la guerre commerciale entre Etats-Unis et
+Russiesurlecoursdubarilquin(cid:146)avaientpasØtØprisencompteaumomentdelaformulationdeshypothŁses
+retenues. Le modŁle ressort un recul du PIB du reste du monde de 4,5%, alors que l(cid:146)hypothŁse retenue situe
+celui-ci (cid:224) 4,4%. Cela peut s(cid:146)expliquer par le fait que le DSGE retenu pour le reste du monde a ØtØ calibrØ
+sur donnØes europØennes uniquement. Pour ce qui est du collatØral, le modŁle exhibe une dØgradation plus
+poussØe, du fait principalement de la prise en compte de l(cid:146)impact de la dynamique Øconomique dans son
+Øvolution : le con(cid:133)nement induit une fermeture des petites et moyennes structures et donc une dØtØrioration
+importanteduratiocapitalsurpatrimoine. Ladi⁄ØrencelaplusimportanteentrehypothŁsesettendancesdu
+modŁleestliØeauxtermesdel(cid:146)Øchange. L(cid:146)explicationpeutsetrouverdanslefaitquelecoursdubarilquiale
+pluschutØsuivantleconstatempirique(21%environsuivantlaBEAC)aØtØneutralisØdanssadØtermination
+dans le modŁle, parce qu(cid:146)il peut Œtre considØrØ comme prix Øtranger pour la zone Euro Øgalement.
+Choc nØgatif sur l(cid:146)emploi avec et sans COVID-19
+(cid:15)
+Les fonctions de rØponses impulsionnelles dØcoulant d(cid:146)un choc nØgatif sur l(cid:146)emploi avec et sans COVID-19
+sont reprises ci-dessous.
+Cechocpara(cid:238)tprØpondØrantparcequed(cid:146)unepartl(cid:146)emploiestimpactØparlesdØcŁsprovoquØsparlapandØmie
+et, d(cid:146)autre part, par les mesures de con(cid:133)nement. De l(cid:146)analyse de ces fonctions, il appara(cid:238)t qu(cid:146)aussi bien les
+variables rØelles que monØtaires et macroprudentielles sont a⁄ectØes. Ainsi, ce choc entraine un recul du
+produit avec un pic de 3%, une baisse consØquente de la consommation (ricardiens et non-ricardiens), un
+creusementdudØ(cid:133)cit(T-G)dufaitdelabaissedesrecettes(cid:133)scales, unedØgradationdestermesdel(cid:146)Øchange
+et une poussØe de tension in(cid:135)ationnistes avec un pic (cid:224) 1%. Sur le plan monØtaire et macroprudentiel, la
+rØsurgence des tensions in(cid:135)ationnistes induit une remontØe du taux directeur, du plafond du corridor et une
+baisse des avances de la banque centrale aux banques commerciales. Ce faisant, cette baisse des avances
+corrØlativement (cid:224) la dØgradation du collatØral et la baisse de la probabilitØ de remboursement des (cid:133)rmes
+pousse (cid:224) une remontØe des taux a⁄Ørents et une baisse des prŒts (cid:224) ces (cid:133)rmes.
+Choc sur l(cid:146)o⁄re de biens et services extØrieurs
+(cid:15)
+La CEMAC Øtant une petite Øconomie ouverte et structurellement extravertie, il est opportun d(cid:146)analyser les
+consØquences de la contraction de l(cid:146)o⁄re extØrieure de biens et services, du fait des mesures de con(cid:133)nement.
+Les fonctions de rØponse impulsionnelles correspondantes sont prØsentØe ci-dessous.
+23
+
+--- Page 26 ---
+24
+
+--- Page 27 ---
+Del(cid:146)analysedecesfonctions,ilappara(cid:238)tqu(cid:146)ilyauraitunebaisseduproduitavecunpic(cid:224)1,7%etunereprise
+cinq pØriodes aprŁs. Les e⁄ets induits seraient la baisse de la consommation (ricardiens et non-ricardiens).
+La rØsurgence des tensions in(cid:135)ationnistes qui s(cid:146)en suit provoque une remontØe du taux directeur ainsi que
+du plafond du corridor et une baisse des avances aux banques. Le comportement de ces derniŁres demeure
+similaire (cid:224) la simulation relative au choc sur l(cid:146)emploi pour ce qui est de leurs prŒts aux (cid:133)rmes et des taux
+a⁄Ørents.
+Choc sur les consommations des ricardiens et non-ricardiens
+(cid:15)
+LesrØactionsdesdi⁄Ørentesvariables(cid:224)ceschocssemblentidentiques,avecparfoisplusd(cid:146)e⁄etssuivantunchoc
+selonqu(cid:146)ils(cid:146)agitdesvariablesbudgØtaires(non-ricardiensincapablesdefairedesallocationsintertemporelles)
+que monØtaires (ricardiens susceptibles de faire des arbitrages).
+Si ces rØactions semblent identiques aux cas prØcØdents avec plus ou moins d(cid:146)ampleur, il faut souligner ici la
+nØcessitØ d(cid:146)une remontØe des dØpenses publics aux travers des stabilisateurs automatiques.
+25
+
+--- Page 28 ---
+Choc sur le cours du baril
+(cid:15)
+Cinq des six pays de la CEMAC Øtant exportateurs de pØtrole, l(cid:146)occurrence d(cid:146)un choc nØgatif sur le cours du
+barilvoirelaproductiondufaitdesmesuresdecon(cid:133)nementdevientparconsØquentprØpondØrant. L(cid:146)examen
+des fonctions de rØponses impulsionnelles y a⁄Ørente est faite ci-dessous.
+De ces fonctions, il appara(cid:238)t que la chute de la production pØtroliŁre induit une rØcession avec un creux
+(cid:224) -4%. La consommation baisse de ce fait, les recettes (cid:133)scales Øgalement et il s(cid:146)en suit une rØsurgence de
+tensionsin(cid:135)ationnistes. SurleplanmonØtaireetmacroprudentiel, lesrØponsesdutauxdirecteur, duplafond
+du corridor et du taux de couverture extØrieure de la monnaie apparaissent peu signi(cid:133)catives. Toutefois, les
+banques commerciales rØagissent en rapport avec le coßt de la liquiditØ du fait de la baisse des avances que
+leur consent la banque centrale et de la dØgradation du collatØral.
+4.2.2 E¢ cacitØ comparØe des mesures de stabilisation et de relance budgØtaires, monØtaires
+et macroprudentielles choc de la COVID-19
+En rØaction au choc de la COVID-19, les Etats de la zone ont adoptØ trois types de mesures assorties de
+dØpenses consØquentes. Le premier type visait (cid:224) contrer la maladie (cid:224) travers des dØpenses de santØ couplØes
+aux mesures de con(cid:133)nement. Le deuxiŁme quant (cid:224) lui visait (cid:224) stabiliser les Øconomies. Il est constituØ
+essentiellement des allŁgements (cid:133)scaux et subventions de toute nature. Le troisiŁme en(cid:133)n est destinØ (cid:224)
+relancerlesØconomies,face(cid:224)unsecteurprivØparalysØparsonpassif. C(cid:146)estl(cid:146)ensembled(cid:146)empruntsinterneset
+externesauxquelsontrecourulesEtatsenvuederØaliserlesgrandstravauxchersauxpolitiqueskeynØsiennes.
+Ces mesures ont ØtØ appuyØes par celles des politiques monØtaire et macroprudentielle. Il s(cid:146)est agi dans ce
+cadre des injections de liquiditØ, de la baisse du taux directeur et de la refonte du collatØral traduite par un
+choc devant amØliorer la qualitØ de celui-ci. Les chocs sont implØmentØs sur les instruments budgØtaires et
+monØtaires ainsi que la variable Covid19. De mŒme et conformØment au dØbat thØorique, cette simulation
+26
+
+--- Page 29 ---
+s(cid:146)intØresse (cid:224) l(cid:146)e¢ cacitØ comparØe des mesures budgØtaires d(cid:146)une part puis monØtaires et macroprudentielles
+d(cid:146)autres part. L(cid:146)ensemble de ces simulations est dØnommØ sim.1.
+E⁄ets des mesures budgØtaires, monØtaires et macroprudentielles face au choc de la
+(cid:15)
+COVID-19
+CettesimulationfournielesfonctionsderØponsesimpulsionnellesdesvariablesd(cid:146)intØrŒtendistinguantlecas
+de COVID-19 du mŒme cas avec prise en compte des mesures budgØtaires, monØtaires et macroprudentielles.
+Les rØsultats des simulations sont fournies ci-dessous.
+DemaniŁregØnØrale,lesvariablesrØagissentdavantageauxmesuresbudgØtairesqu(cid:146)auxmesuresmonØtaireset
+macroprudentielles. Toutefois,lesmesuresbudgØtairesmØritentd(cid:146)ŒtrecomplØtØesparlesmesuresmonØtaires
+et macroprudentielles pour un meilleur impact. Ainsi, les mesures budgØtaires attØnueraient mieux l(cid:146)e⁄et
+rØcessif du produit et la chute de la consommation des ricardiens et non-ricardiens. L(cid:146)augmentation des
+dØpenses qui en rØsulterait serait davantage le fait de l(cid:146)assouplissement des conditions monØtaires ; d(cid:146)oø une
+lØgŁreremontØedel(cid:146)in(cid:135)ation. Cefaisant,letauxdirecteurseraitappelØ(cid:224)remonterendØbutdepØriodepour
+fairefaceenplusdel(cid:146)in(cid:135)ation, (cid:224)labaissedutauxdecouvertureextØrieureet(cid:224)ladØgradationdestermesde
+l(cid:146)Øchange. La dØgradation du collatØral davantage imputable aux mesures monØtaires entrainerait une baisse
+desavancesauxbanquescommerciales,unebaissedesprŒtsaux(cid:133)rmesetuneremontØeconsØquentedestaux
+a⁄Ørents. Pour ce qui est de l(cid:146)indicateur de surliquiditØ, il s(cid:146)abaisserait lØgŁrement au cours de la pØriode
+aprŁs une hausse en dØbut de pØriode.
+De maniŁre spØci(cid:133)que (cid:224) partir des graphiques en annexe 1, il appara(cid:238)t qu(cid:146)en prØsence d(cid:146)un choc sur les
+dØpenses publiques combinØ (cid:224) l(cid:146)augmentation de la part de celles-ci dans le PIB, toutes les variables, qu(cid:146)elles
+soientrØellesoumonØtairesrØagissentplusfortement. Unfaitparticulier(cid:224)noterestlemultiplicateurbudgØ-
+taired(cid:146)impactquiestinfØrieur(cid:224)l(cid:146)unitØ,conformØmentauxconclusionsdelalittØratureempirique. DemŒme,
+27
+
+--- Page 30 ---
+l(cid:146)on peut con(cid:133)rmer la supØrioritØ de la relance budgØtaire face (cid:224) la relance monØtaire. Pour ce qui est de la
+(cid:133)scalitØ sur la consommation, les allŁgements subsØquents en boostant cette consommation vont relancer la
+croissance. Toutefois, ils(cid:146)ensuitunebaissedesrecettes(cid:133)scalesetuneaugmentationdesdØpensespubliques.
+Le taux directeur augmente, la probabilitØ de remboursement des (cid:133)rmes ainsi que la qualitØ du collatØral ;
+ce qui accro(cid:238)t les emprunts des (cid:133)rmes. Une exonØration et/ou baisse de la (cid:133)scalitØ sur les salaires produit
+des e⁄ets quelque peu contraires. Ainsi, les consommations des ricardiens et non-ricardiens Øvoluent dans
+des sens opposØs, le taux de couverture et la majoritØ de variables monØtaires baissent, (cid:224) l(cid:146)exception du taux
+d(cid:146)intØrŒt sur les prŒts aux (cid:133)rmes qui remonte pour le consacrer ; d(cid:146)oø les e⁄ets distorsifs de la (cid:133)scalitØ.
+En rapport avec les mesures monØtaires spØci(cid:133)ques prØsentØes en annexe 2, le choc sur le taux directeur
+montre que les e⁄ets de la politique monØtaire notamment la manipulation de celui-ci peinent (cid:224) porter des
+fruits. La dynamique baissiŁre du choc de la COVID-19 se poursuit en e⁄et sur toutes les variables, ce,
+quel que soit le type de mesures adoptØ. A contrario, la manipulation du coe¢ cient des rØserves obligatoires
+produit des e⁄ets positifs sur la dynamique des variables aprŁs le choc de la COVID-19. Mieux encore, ces
+e⁄ets semblent supØrieurs (cid:224) ceux rØsultant des mesures budgØtaires ; il reste (cid:224) souligner que cet instrument
+est structurel et ne saurait Œtre invoquØ rØguliŁrement. Quant au choc sur le plafond du corridor, il produit
+des dynamiques opposØes entre mesures budgØtaires et mesures monØtaires. Face aux mesures budgØtaires,
+il induit une dynamique favorables de toutes les variables alors que face aux mesures monØtaires, cela n(cid:146)est
+pas toujours le cas. Ce qui n(cid:146)est pas le cas pour le choc sur le collatØral qui induit une dynamique identique
+de toutes les variables mais, avec un e⁄et plus prononcØ en face des mesures monØtaires, ce, que l(cid:146)e⁄et soit
+bØnØ(cid:133)queounonparrapport(cid:224)laCOVID-19. En(cid:133)n,l(cid:146)observationsdesfonctionsderØponsesimpulsionnelles
+montre que les e⁄ets obtenus de ces mesures prendraient plusieurs pØriodes pour se rØaliser complŁtement ;
+ce qui tØmoigne des di¢ cultØs (cid:224) revenir sur le sentir de long terme et appelle (cid:224) une meilleure mise en (cid:156)uvre
+et un suivi de ces mesures.
+Conclusion
+Cepapiers(cid:146)estintØressØ(cid:224)l(cid:146)e¢ cacitØdesmesuresbudgØtaires,monØtairesetmacroprudentiellesdestinØes(cid:224)la
+stabilisation puis la relance macroØconomique post COVID-19 dans la CEMAC. Le modŁle DSGE construit
+(cid:224) cet e⁄et a mis l(cid:146)accent sur les comportements de la banque centrale appelØe (cid:224) assouplir ses conditions
+monØtaires puis, l(cid:146)Etat creusant son dØ(cid:133)cit (cid:224) travers l(cid:146)Ømission de titres domestiques et Øtrangers ainsi que
+des allŁgements ou exonØrations (cid:133)scaux. La COVID-19 a quant (cid:224) elle ØtØ modØlisØe comme un processus
+autorØgressif impactant directement l(cid:146)o⁄re et la demande de travail ainsi que la consommation. De maniŁre
+indirecte,c(cid:146)estleprincipedeschocsautocorrØlØsquiaØtØutilisØ,particuliŁremententrelechocdelavariable
+COVID-19 et les instruments budgØtaires, monØtaires et macroprudentielles. Le modŁle a en outre mis en
+avantlesspØci(cid:133)citØsdelazonedontdesmØnageshØtØrogŁnes,unesurliquiditØbancairealtØrantlesimpulsions
+monØtaires et des contraintes de collatØral. Par la suite, deux types de simulations ont ØtØ e⁄ectuØes. Le
+premier type a portØ sur la rØaction des variables aux chocs avec et sans e⁄et COVID-19. Le deuxiŁme type
+quant (cid:224) lui s(cid:146)est intØressØ (cid:224) l(cid:146)incidence des mesures budgØtaires, monØtaires et macroprudentielles retenues
+parlesAutoritØssurladynamiquedesvariablesavece⁄etCOVID-19et(cid:224)leure¢ cacitØrelativedanslazone.
+De ces simulations, il est apparu suivant le premier type de simulations que la modØlisation retenue de la
+COVID-19 permet de rØpliquer les e⁄ets escomptØs de cette derniŁre dans la CEMAC. En rapport avec le
+deuxiŁme type de simulations, les mesures budgØtaires, quoiqu(cid:146)e¢ caces pourraient avoir des e⁄ets distorsifs
+surcertainesvariables(cid:133)nanciŁresalorsquelesmesuresmonØtairesetmacroprudentiellesn(cid:146)attØnueraientque
+quelquepeulesimpactsattendusdelaCOVID-19surlesvariables. DemaniŁrecomparØe,lesmesuresbudgØ-
+taires ampli(cid:133)ent les rØponses des variables aux chocs par rapport aux mesures monØtaires. Dans l(cid:146)ensemble,
+les e⁄ets obtenus prendraient 30 trimestres environ pour se rØaliser complŁtement. Plus particuliŁrement,
+l(cid:146)augmentation des dØpenses publiques (cid:133)nancØe par des emprunts extØrieurs et intØrieur semble la meilleure
+combinaisonsurleplanbudgØtaire,nonobstantlafaibledumultiplicateursous-jacent. DesconditionsmonØ-
+taires idoines devraient Œtre trouvØes pour accompagner les deux mesures ci-dessus, particuliŁrement en
+rapport avec la refonte du collatØral dont les e⁄ets s(cid:146)avŁrent bØnØ(cid:133)ques.
+28
+
+--- Page 31 ---
+RØfØrences bibliographiques
+Ary-Tanimoune N., Combes J.-L. et P. Plane (2008) : « Les e⁄ets non linØaires de la politique
+budgØtaire : le cas de l(cid:146)Union (cid:201)conomique et MonØtaire Ouest Africaine », (cid:201)conomie et PrØvision, n 5,
+(cid:14)
+145-162.
+Baldwin R. (2020): « Economics in the Time of Covid-19 », CEPR Research-based policy analysis and
+commentary from leading economists.
+Barro, R. J., J. F. Ursua et J. Weng (2020): « The coronavirus and the Great In(cid:135)uenza Epidemic.
+Lessons from the (cid:147)Spanish (cid:135)u(cid:148)for the coronavirus(cid:146)s potential e⁄ects on mortality and economic activity »,
+CESifo working paper, n 8166.
+(cid:14)
+Batini N., G. Callegari et G. Melina (2012): « Successful Austerity in the United States, Europe and
+Japan », IMF Working Paper 12/190, 62 p.
+Baum A., M. Poplawski-Ribeiro et A. Weber (2012): « Fiscal multipliers and the state of the
+economy », IMF Working Paper 12/286, 31 p.
+BØnØteau T., B. Elie, S. Alizon et M. Sofonea (2020) : « StochasticitØ et ØpidØmie de COVID-19 »,
+HAL, Archives-ouvertes.fr.
+Berg A., Portillo R., Shu-Chun, S. Yang et L. F. Zanna (2012): « Public Investment in Resource-
+Abundant Developing Countries », IMF Working Paper.
+Bernanke, B., M. Gertler et S. Gilchrist (1999): « The(cid:133)nancialacceleratorinaquantitativebusiness
+cycle framework », Dans J. B. Taylor & M. Woodford (Eds.), Handbook of Macroeconomics, volume 1
+(pp.1341-1393), Elsevier.
+Bika(cid:239) J. L., P. N. D. Essiane et T. Yogo (2017) : « Quanti(cid:133)cation du multiplicateur budgØtaire dans
+les pays de la CEMAC », BEAC Working Paper - BWP N 07/17.
+(cid:14)
+Boissay F. et P. Rungcharoenkitkul (2020): « Macroeconomic e⁄ects of Covid-19: An Earlier Evalua-
+tion, BIS Bulletin n 7.
+(cid:14)
+Briotti G. (2005): « Economic Reactions to Public Finance Consolidation: A survey of the Literature »,
+ECB Occasional Paper, n 38, 31 p.
+(cid:14)
+Burns A. D., Van der Mensbrugghe et H. Timmer (2006): « Evaluating the economic consequences
+of avian in(cid:135)uenza », World Bank Working Paper, no 47417.
+Christensen I. et A. Dib (2008): «The (cid:133)nancial accelerator in an estimated new Keynesian model»,
+Review of Economic Dynamics, 11, 155-178.
+Christiano L. J., M. Eichenbaum et C. L. Evans (2005): « Nominal Rigidities and the Dynamic
+E⁄ects of a Shock to Monetary Policy », Journal of Political Economy, 113(??), 1-45.
+Christiano L., M. Eichenbaum et S. Rebelo (2011): « When Is the Government Spending Multiplier
+Large?(cid:148), Journal of Political Economy, n 119, 78-121.
+(cid:14)
+Christiano L., R. Motto et M. Rostagno (2010): « Financial Factors in Economic Fluctuations »,
+ECB working paper 1192, ECB.
+Combes J. L. et L. Mustea (2014) : « UneanalysedesmultiplicateursbudgØtaires: quellesle(cid:231)onspour
+les pays en dØveloppement et Ømergents ? », Mondes en dØveloppement.
+29
+
+--- Page 32 ---
+Correia, S, S Luck et E Verner (2020): « Pandemics depress the economy, public health interventions
+do not: evidence from the 1918 (cid:135)u», Mimeo.
+Corsetti G., A. Meier, G. M(cid:252)ller et Devereux M. (2012): « What determines government spending
+multipliers? », Economic Policy, n 27, 521-565.
+(cid:14)
+CrØel J., E. Heyer et M. Plane (2011) : « Petit prØcis de politique budgØtaire par tous les temps : Les
+multiplicateurs budgØtaires au cours du cycle », REVUE DE L(cid:146)OFCE, N 116.
+(cid:14)
+Cwik T. et V. Wieland (2011): « Keynesian government spending multipliers and spillovers in the euro
+area », Economic Policy, n 26, 493-549.
+(cid:14)
+De Zamaroczy M., Fleuriet et V., J. Gijon (2018) : « Gestion des rØserves internationales de la
+CEMAC : une nouvelle approche (cid:224) moyen terme », Fonds MonØtaire International.
+Dervi‚s K. (2009) : « La crise Øconomique mondiale : enjeux et rØformes », Revue-politique-Øtrangere-
+2009-1-page-11.htm.
+Djidjou-Demasse R., C. Selinger et M. T. Sofonea (2020) : « EpidØmiologie mathØmatique et
+modØlisation de la pandØmie de COVID-19 : enjeux et diversitØs », MEVIGEC (Univ.Montpellier, CNRS,
+IRD).
+Dollery B. et J. Wallis (2001): « The Theory of Market Failure and Policy Making in Contemporary
+LocalGovernment»,Working Paper Series in Economics,SchoolofEconomics,UniversityofNewEngland.
+Dupaigne M., P. FŁve et J. Matheron (2005): « Technology shock and Employment: Do we Really
+Need DSGE Models with a Fall in Hours? », Banque de France Working Paper n 124.
+(cid:14)
+Fernadez-Villaverde J. (2006) : « A Baseline DSGE Model », MimØo.
+Fya Y. Wang-namou (2019) : « Constructiond(cid:146)unpanierdedevises: quelleimportancepourlaCEMAC
+? », MØmoire professionnel de (cid:133)n d(cid:146)Øtudes, ISSEA.
+Gali J., J. Lopez-Salido et Valles J. (2007): « Understanding the e⁄ects of government spending on
+consumption », Journal of the European Economic Association, n 5, 227-270.
+(cid:14)
+Gechert S. et H. Will H. (2012): « Fiscal multipliers: A meta regression analysis », IMK Working
+Paper, n 97, 36 p
+(cid:14)
+Ilzetzki E. et Vegh C. (2008): « Procyclical Fiscal Policy in Developing Countries: Truth or Fiction? »,
+NBERWorkingPaper,n 14191,61p. IMF(InternationalMonetaryFund)(2012)WorldEconomicOutlook,
+(cid:14)
+October.
+Ilzetzki E., E. Mendoza et C. Vegh (2013): (cid:147)How big (small?) are (cid:133)scal multipliers? », Journal of
+Monetary Economics, n 60, 239-254.
+(cid:14)
+IMF (2008 and 2012): World Economic Outlook, October.
+Kose A. et R. Reizman (2001): « Trade shocks and macroeconomic (cid:135)uctuations in Africa », Journal of
+Development Economics, 2001, vol. 65, issue 1, 55-80.
+Mendoza E. G. (1995): « The Terms of Trade, the Real Exchange rate and Economic Fluctuations »,
+International Economic Review, vol. 36, n 1, 101-137.
+(cid:14)
+Minea A., et P. Villieu (2012): « Persistent De(cid:133)cit, Growth, And Indeterminacy », Macroeconomic
+Dynamics, n 16, 267-283.
+(cid:14)
+30
+
+--- Page 33 ---
+Monacelli (2005): « Monetary Policy in a Low Pass-through Environment », Journal of Money, Credit
+and Banking, Vol. 37, n 6, pp 1047-1066.
+(cid:14)
+Mountford A. et H. Uhlig (2005): « WhatAretheE⁄ectsofFiscalPolicyShocks?(cid:148),SFB649Discussion
+Paper 2005-039, 53 p.
+Mountford A. et H. Uhlig (2009): « What Are the E⁄ects of Fiscal Policy Shocks? », Journal of
+Applied Econometrics, n 24, 960-992.
+(cid:14)
+Mvondo T. (2019a) : « RØformes (cid:133)nanciŁres et formation des taux d(cid:146)intØrŒt en Afrique Centrale : une
+approche (cid:224) travers le modŁle DSGE », Revue Interventions Economiques, N 61.
+(cid:14)
+Mvondo T. (2019b): « Oil Shocks and Macroeconomic E⁄ects of Occasionally Binding Constraint on
+External reserves of CEMAC », International Journal of Business and Economic Research.
+Nishiura H., N. M. Linton et A. R. Akhmetzhanov (2020): « Serial interval of novel coronavirus
+(COVID-19) infections », International Journal of Infectious desease.
+Rotemberg, J. J. (1982): « MonopolisticPriceAdjustmentandAggregateOutput»,Review of Economic
+Studies, 49:517(cid:150)531.
+Tenhofen J. et Wol⁄G. (2007): « Does Anticipation of Government Spending Matter? Evidence from
+an Expectation Augmented VAR », Deutsche Bundesbank Discussion Paper 14/2007, 40 p.
+31
+
+--- Page 34 ---
+Annexe 1: Impact des mesures de politique budgØtaire face au choc de la COVID-2019
+Figure 4.1
+(a) E⁄ets directs de la COVID-19 sans et avec mesures budgØtaires
+(b) RØductions ou exonØrations (cid:133)scales surla consommation
+32
+(c) RØductions ou exonØrations (cid:133)scales surles salaires
+
+--- Page 35 ---
+Figure 4.2
+(a)E⁄etsd(cid:146)unchocpositifsurlesdØpensespubliquesavecaugmentationdeleurpartdanslePIBde0,2
+(cid:224) 0,35
+(b) E⁄ets d(cid:146)un choc positifsur l(cid:146)Ømission de titres domestiques
+(c) E⁄ets d(cid:146)un choc positifsur l(cid:146)Ømission de titres Øtrangers
+33
+
+--- Page 36 ---
+Annexe 2 : Impacts des mesures de politique monØtaire et macroprudentielles face au choc de
+la COVID-19
+Figure 4.3
+(a) E⁄ets directs de la COVID-19,sans et avec mesures monØtaires
+(b) E⁄ets d(cid:146)un choc nØgatifsurle taux directeur
+34
+(c) E⁄ets d(cid:146)un choc nØgatifsurle plafond du corridor
+
+--- Page 37 ---
+Figure 4.4
+(a) E⁄ets d(cid:146)un choc nØgatifsur les coe¢ cients de rØserves obligatoires
+(b) E⁄ets d(cid:146)un choc positifsur le collatØral(refonte, )
+35

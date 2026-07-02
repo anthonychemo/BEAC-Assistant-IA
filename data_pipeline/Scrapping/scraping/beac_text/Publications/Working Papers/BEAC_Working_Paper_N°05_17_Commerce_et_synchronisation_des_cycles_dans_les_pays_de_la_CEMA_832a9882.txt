@@ -1,0 +1,1028 @@
+Source PDF : BEAC_Working_Paper_N°05_17_Commerce_et_synchronisation_des_cycles_dans_les_pays_de_la_CEMA_832a9882.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°05_17_Commerce_et_synchronisation_des_cycles_dans_les_pays_de_la_CEMA_832a9882.pdf
+Date extraction : 15/06/2026 21:25:34
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 05/17 -
+Commerce et synchronisation des cycles dans les pays de la CEMAC
+BIKAI J. Landry AFOMONGONO G. Ferry
+Docteur en sciences économiques Economiste
+Et
+Direction de la Recherche Direction des Etudes et de la Stabilité Financière
+bikai@beac.int afomongono@beac.int
+B ANQ U E D E S E T A T S D E
+Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE
+travail sont propres à leur (s) auteur (s) et ne
+7 36, Av e n ue M on s e i g n e ur
+représentent pas nécessairement la position de la
+V og t B P:1 9 1 7 Y a o un d é
+Banque des Etats de l’Afrique Centrale.
+C a me roun
+T e l :(2 37 ) 2 2 2 34 0 30 / The opinions expressed in this working
+2 2 2 34 060 paper are those of the author (s) and don’t
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9
+of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E L A R E C H E R C H E
+
+--- Page 2 ---
+Commerce et synchronisation des cycles dans les pays de la
+CEMAC
+Bikai J. Landry∗, Afomongono G. Ferry∗∗
+Décembre 2017
+Résumé
+L’objectif de cette étude est de savoir si le commerce intracommunautaire dans la CEMAC
+permet une plus grande synchronisation des cycles et donc une plus grande efficacité de la
+politique monétaire. Les résultats de l’étude indiquent que l’intensification du commerce est une
+bonne source de synchronisation des cycles. Spécifiquement, l’accroissement d’un écart type de
+l’intensité commerciale, entraine une augmentation de la synchronisation des cycles en CEMAC
+en moyenne de 0,4. En d’autres termes plus les pays de la CEMAC commercent entre eux,
+et plus il y’a une symétrie des chocs dans la sous-région. Dans ces conditions, l’efficacité de
+la politique monétaire s’en trouve améliorée. Les pays de la CEMAC ont ainsi intérêt à créer
+des conditions de viabilité du commerce intracommunautaire dans la sous-région (qui est très
+faible) afin d’accroitre la synchronisation des cycles qui est un gage de l’efficacité de la politique
+monétaire. Cela peut passer par la mise en place d’infrastructures de transport adéquates et des
+mesures consistant à réduire l’importance du secteur informel.
+Mots-clés : Cycles d’affaire, commerce bilatéral, synchronisation des cycles.
+Codes JEL : E32, F42
+Trade and cycles synchronisation in CEMAC countries
+Abstract
+The main objective of this study is to know whether intra-Community trade in the CEMAC
+allowsforgreatersynchronizationofcyclesandthereforegreatereffectivenessofmonetarypolicy.
+The results of the study indicate that trade intensification is a good source of synchronization
+of business cycles. Especially, the increase of a standard deviation of the commercial intensity,
+leads to an increase of 0.4 in the synchronization of business cycles in CEMAC on average. In
+other words, the more the CEMAC countries trade with each other, the greater the symmetry
+of the shocks in the subregion. Under these conditions, the effectiveness of monetary policy can
+improve. CEMAC countries have to create conditions for the viability of intra-Community trade
+in the sub-region (which is very low) in order to increase the synchronization of cycles which
+is important for the monetary policy effectiveness. This can be achieved through the provision
+of adequate transport infrastructure and measures that contribute to reduce the size of the
+informal trade.
+Keywords : Business cycles, bilateral trade, synchronization of business cycles.
+JEL Classification : E32, F15, F42
+∗. Docteur en économie et Cadre à la Direction de la Recherche de la Banque des Etats de l’Afrique
+Centrale (BEAC).
+∗∗. Economiste à la Direction des Etudes et de la Stabilité Financière de la BEAC
+Les auteurs remercient les cadres de la BEAC pour leurs observations et commentaires, les éventuelles
+erreurs et omissions contenues dans cette étude sont du seul fait de ceux-ci.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 4
+1 Analyse du commerce intracommunautaire dans la CEMAC 5
+2 Brève revue de la littérature 10
+2.1 Les théories traditionnelles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+2.2 Les théories récentes des ZMO . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3 Modélisation du lien entre commerce et synchronisation des cycles 13
+13subsection.3.1
+3.2 Evaluation empirique de la thèse de l’endogénéisation des critères des ZMO en
+CEMAC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+3.3 Résultats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Conslusion 21
+Bibliographie 22
+Annexe 26
+2
+
+--- Page 4 ---
+Résumé non technique
+Dans une Union monétaire, le commerce intra régional est un facteur important pour la
+conduite de la politique monétaire. Lorsque le commerce entre les pays d’une même union est
+élevé, cela peut induire une synchronisation des cycles.
+La synchronisation des cycles a pour avantage d’accroitre l’efficacité de la politique moné-
+taire, car lorsque les pays sont sur la même phase du cycle (expansion ou récession) alors ils
+nécessitent une politique monétaire similaire. Si par contre certains pays sont en expansion et
+d’autres en récession, alors la politique monétaire commune sera assurément favorable aux uns
+au détriment des autres.
+L’objectif de cette étude est ainsi de savoir si le commerce intracommunautaire dans la
+CEMAC permet une plus grande synchronisation des cycles et donc une plus grande efficacité
+de la politique monétaire. Dans cette étude nous considérons uniquement les échanges entre le
+Cameroun et les cinq autres pays de la CEMAC, ce choix est justifié par le fait que ce pays
+est le seul ayant une frontière commune avec l’ensemble des pays de la sous-région. De plus, le
+commerce entre certains pays de la sous-région est presqu’inexistant ou transite par ce dernier.
+L’usage d’un modèle en données de panel auquel on associe des variables du modèle de
+gravité, nous permet d’aboutir aux résultats suivants :
+1. l’intensification du commerce est une bonne source de synchronisation des cycles dans la
+CEMAC;
+2. l’accroissement d’un écart type de l’intensité commerciale, entraine une augmentation de
+la synchronisation des cycles en CEMAC en moyenne de 0,4. En d’autres termes plus les
+pays de la CEMAC commercent entre eux, et plus il y’a une symétrie des chocs dans la
+sous-région.
+Dans ces conditions, un accroissement du commerce intra régional est une condition impor-
+tante pour une plus grande efficacité de la politique monétaire de la BEAC.
+Les pays de la CEMAC ont ainsi intérêt à créer des conditions de viabilité du commerce
+intracommunautaire dans la sous-région (qui est très faible) afin d’accroitre la synchronisation
+descyclesquiestutilepourlaconduitedelapolitiquemonétaire.Celapeutpasserparlamiseen
+place d’infrastructures de transport adéquates et des mesures consistant à réduire l’importance
+du commerce informel.
+3
+
+--- Page 5 ---
+Introduction
+Laconstitutiond’unezonemonétaireadesavantagesetdesinconvénients.Commeavantages,
+on peut citer : la limitation des incertitudes liées aux fluctuations des taux de change, la baisse
+des coûts de transaction dans les échanges intra-communautaires, l’augmentation de la taille
+du marché qui a généralement un impact positif sur les rendements d’échelle, l’élargissement
+des marchés financiers1. En outre, l’intensification du commerce intra-zone favorise la gestion
+des réserves de change en réduisant les risques pouvant peser sur le régime de change. Dans ce
+contexte,lespayspeuventpartagerlesrisquesenmettantencommunleurépargneinternationale
+composée de devises constituées pour régler les transactions avec l’extérieur.
+En contrepartie de ces avantages attendus, les pays formant l’union sont contraints d’aban-
+donner leur souveraineté monétaire. Dans ces conditions, le taux de change ne peut plus re-
+présenter une variable d’ajustement à court terme. Par ailleurs, la politique monétaire cesse
+d’être à la charge des Etats (ou des banques centrales nationales) et une politique monétaire
+commune se fait désormais à l’échelle de la zone. L’action de la banque centrale commune sera
+donc davantage efficace que les cycles des états sont synchronisés. Cela peut être rendu possible
+à travers une intensification du commerce intracommunautaire.
+La constitution de zones monétaires revêt une importance particulière dans la théorie éco-
+nomique et les travaux y relatifs, se réfèrent généralement à la théorie des zones monétaires
+optimales. L’analyse traditionnelle des zones monétaires optimales supposaient que le commerce
+entre pays était un préalable à la constitution d’une zone monétaire (Mc Kinnon, 1963). Si au-
+jourd’hui, certains économistes pensent qu’aucun critère ne contraint la constitution d’une zone
+monétaire et que le regroupement des pays, crée lui-même des conditions de synchronisation des
+cycles (Frankel et Rose, 1997, 1998), d’autres par contre estiment qu’une telle intensification
+augmente au contraire la spécialisation des pays et les rend de plus en plus différents, ce qui
+accroit l’asymétrie des chocs (Eichengreen, 1992; et Krugman, 1993).
+Quel que soit les courants de pensée économique, la question du commerce et de la synchro-
+nisation des cycles revêt une importance prioritaire pour la conduite de la politique monétaire
+dans une union monétaire. Lorsqu’une banque centrale communautaire prend une décision de
+politique monétaire, l’idéal serait que les pays soient tous sur la même phase du cycle (expan-
+sion ou récession). Si les pays sont tous en expansion, l’action de la banque centrale consistera à
+limiter ou éviter la surchauffe, et s’ils sont tous en récession, elle pourra relancer l’activité à tra-
+vers des politiques expansionnistes. Si par contre les cycles sont asynchrones, avec par exemple
+un pays en récession et un autre en expansion, alors l’action commune de la banque centrale
+va avantager l’un des pays au détriment de l’autre. Contrairement à d’autres régions, les blocs
+économiques régionaux en Afrique, notamment dans la CEMAC, enregistrent encore de faibles
+niveaux d’échange entre les Etats qui les composent, ce qui remet en cause le fondement même
+de ces ensembles notamment en raison de la nécessité de synchronisation des cycles économiques
+entre ces derniers. Ainsi, l’analyse du commerce intra régional africain est une préoccupation
+importante dans les débats sur l’intégration économique et monétaire sous régionale.
+L’objectif de cette étude est donc de savoir si le commerce intracommunautaire dans la
+CEMAC permet une plus grande synchronisation des cycles et donc une plus grande efficacité
+de la politique monétaire.
+1. Bienqu’ilexistedeuxmarchésfinanciersenCEMAC(DoualaetLibreville)dontlafusionn’estpas
+encore effective.
+4
+
+--- Page 6 ---
+En effet, l’efficacité de la politique monétaire dans une union est largement tributaire du
+degré d’échange intracommunautaire et donc du degré de synchronisation des cycles des pays
+concernés. L’étude a donc un double intérêt car elle permet d’aborder une question souvent
+négligée mais qui reste importante pour l’efficacité de la politique monétaire, mais elle permet
+également d’apprécier les avantages d’un trafic commercial plus important entre les Etats de la
+CEMAC.
+Nous allons dans la suite de l’article aborder dans une première section l’analyse du com-
+merce intracommunautaire dans la CEMAC. La deuxième section exposera une brève revue de
+littérature et la troisième section s’attèlera à présenter le modèle, les résultats et les recomman-
+dations qui en découlent.
+1 Analyse du commerce intracommunautaire dans la
+CEMAC
+Un faible niveau d’échange intracommunautaire ...
+Les faits économiques contemporains confirment que l’activité commerciale est un vecteur
+de croissance et de développement économique. En effet, les pays qui ont enregistré des taux de
+croissance élevés commercent également de manière intensive. Pour cette raison, et en vue de
+trouver des débouchés à une production locale parfois excédentaire, les pays ont mis en place
+plusieurs accords de libre-échange ayant pour objectif une intégration économique et monétaire,
+une libéralisation commerciale. Ces accords ont favorisé la naissance des regroupements de pays
+selon un certain nombre de critères qui peuvent être exogène ou endogènes.
+De leur côté, les pays africains se sont également constitués en zones économiques pour ti-
+rer profit de ce facteur de développement à travers l’accroissement du commerce intra régional
+et interrégional. Toutefois, ces regroupements sont parfois non fonctionnels et non vulgarisés et
+poursuiventleplussouventdesobjectifssimilairesfaceàuneproductionlocalelimitéeetconcen-
+tréesurdesproduitsdebasedontlaplusgrandedemandeestadresséepardespaysoccidentaux.
+En d’autres termes, les pays africains multiplient des accords sous régionaux (il en existe envi-
+ron 17 dans le continent) alors que leurs appareils productifs sont limités et les infrastructures
+permettant d’accroitre leurs échanges sont quasi inexistants ou très peu performants.
+La multiplicité d’accords régionaux en Afrique face à une production locale limitée et peu
+diversifiée ne facilite pas l’extension des échanges intracommunautaires, particulièrement dans
+la CEMAC.
+5
+
+--- Page 7 ---
+Tableau 1 – Les regroupements régionaux en Afrique
+N° Regroupements Pays membres
+1 Communauté économique et monétaire de Cameroun, Centrafrique, Congo-Brazzaville, Ga-
+l’Afrique centrale (CEMAC) bon, Guinée équatoriale, Tchad.
+2 Union économique et monétaire ouest- Bénin, Burkina Faso, Côte d’Ivoire, Guinée-Bissau, Mali,
+africaine (UEMOA) Niger, Sénégal, Togo.
+3 Communauté économique des États de Angola, Burundi, Cameroun, République centrafri-
+l’Afrique centrale (CEEAC) caine, Congo, Gabon, Guinée équatoriale, Tchad,
+République démocratique du Congo, São Tomé e Príncipe.
+4 Communauté économique des États Bénin, Burkina Faso, Cap-Vert, Côte d’Ivoire, Gambie,
+d’Afrique de l’Ouest (CEDEAO) Ghana, Guinée, Guinée-Bissau, Liberia, Mali, Niger, Ni-
+geria, Sénégal, Sierra Leone, Togo.
+5 Union du Maghreb arabe (UMA) Algérie, Libye, Maroc, Tunisie, Mauritanie.
+6 Communauté des États sahélo-sahariens Bénin, Burkina Faso, République centrafricaine, Comores,
+(CEN-SAD) Tchad, Côte d’Ivoire, Djibouti, Égypte, Érythrée, Gam-
+bie, Ghana, Guinée, Guinée-Bissau, Liberia, Libye, Mali,
+Maroc, Mauritanie, Niger, Nigeria, Sao Tomé-et-Principe,
+Sénégal, Sierra Leone, Somalie, Soudan, Togo, Tunisie.
+7 Marché commun de l’Afrique australe et Angola, Burundi, Égypte, Soudan, Djibouti, Comores, Ré-
+orientale (COMESA) publique démocratique du Congo, Érythrée, Éthiopie, Ke-
+nya,Madagascar,Malawi,Maurice,Namibie,Rwanda,Sey-
+chelles, Swaziland, Ouganda, Zambie, Zimbabwe.
+8 Autorité intergouvernementale pour le dé- Djibouti,Érythrée,Éthiopie,Kenya,Somalie,Soudan,Ou-
+veloppement (IGAD) ganda.
+9 Communauté pour le développement de Angola, Botswana, Lesotho, Malawi, Mozambique, Swazi-
+l’Afrique australe (SADC) land, Tanzanie, Zambie, Zimbabwe, Namibie, Afrique du
+Sud, Maurice, République démocratique du Congo, Mada-
+gascar, Seychelles.
+10 Communauté de l’Afrique de l’Est (EAC) Burundi, Kenya, Ouganda, Tanzanie, Rwanda.
+11 Communauté de l’océan indien (COI) Comores, Madagascar, Maurice, Seychelles, La Réunion.
+12 Comite Permanent Inter-Etats de Lutte Burkina Faso, Cap-Vert, Gambie, Guinée, Mali, Maurita-
+Contre la Sècheresse dans le Sahel (CILSS) nie, Niger, Sénégal, Tchad.
+13 Union Douanière de l’Afrique Australe Afrique du Sud, Botswana, Lesotho, Namibie, Swaziland.
+(SACU)
+14 Conseil de l’Entente (CE) Bénin, Burkina Faso, Côte d’Ivoire, Niger, Togo.
+15 Union du Fleuve MANO Libéria, Sierra Leone, Guinée.
+16 Coopération dans le Bassin du fleuve Nil Burundi,Djibouti,Ethiopie,Érythrée,Egypte,Kenya,Ou-
+ganda, République démocratique du Congo, Rwanda, Sou-
+dan.
+17 Initiative Transfrontalière (CBI) Burundi, Comores, Kenya, Madagascar, Malawi, Maurice,
+Namibie, Rwanda, Seychelles, Swaziland, Tanzanie, Ou-
+ganda, Zambie, Zimbabwe.
+Source : Auteurs
+6
+
+--- Page 8 ---
+Detouslesregroupementsévoquésdansletableau1,seulshuitontétéofficiellementreconnus
+par l’Union africaine : la CEEAC, la CEDEAO, la SADC, l’UMA, l’EAC, le COMESA, la CEN-
+SADetl’IGAD.Certainsregroupementstrèsactifs(CEMAC,l’UEMOA)sontsensésmigrervers
+des unions plus importants (CEEAC et CDEAO) et d’autres regroupements sont peu visibles et
+presqu’inactives.
+Sur la base de l’annuaire statistique pour l’Afrique BAD-CEA-UA (2016) on peut constater
+la persistance de la faiblesse des échanges intracommunautaires de la CEMAC, qui reste le
+moins performant du continent, tant en valeurs absolues qu’en valeurs relatives. En effet, les
+pays africains consacrent en moyenne 84,3% de leurs exportations totales à destination des
+autres continents (86% dans la CEMAC) et 86,4% de leurs importations proviennent des autres
+continents (89.7% dans la CEMAC). Leurs principaux partenaires sont donc situés hors de
+l’Afrique (Europe, Asie et Amérique).
+Tableau 2 – CommerceintraetintercommunautairedesCERenAfrique(en%desexportationstotales
+et des importations totales)
+ZONES UMA CEMAC COMESA CEEAC CEDEAO SADC UEMOA AFR
+Exportationsvers...
+UMA 4,5 5,7 1,6 0 0,4 0,2 0,2 6,9
+CEMAC 2,1 8 2,4 0,7 1,4 0,9 3,8 14
+COMESA 2,7 5,9 11 3 2,7 3,9 9,8 18,2
+CEEAC 0,4 9,7 28,9 18,4 9,3 13,2 16,6 40
+CEDEAO 0 0,7 1,8 0,1 1 0 4,2 5,5
+SADC 0,3 11,5 18,1 10,7 3,2 13,6 8 27,2
+UEMOA 0,2 1,9 8 1,1 2,6 0,8 19,3 21,9
+AFR 1,6 5,3 4,4 0,9 1,8 1 9,1 15,7
+Importationsvers...
+UMA 3,5 3,6 2 0 0 0,1 0,3 5,8
+CEMAC 3,2 6,4 1,8 0,3 0,3 0,6 1,1 10,3
+COMESA 2,6 3,8 6,1 2,3 1,1 2,1 9 15,3
+CEEAC 0,1 5,5 8 7,1 0,2 6 5,4 12,7
+CEDEAO 5,1 4,8 3,2 1 2,4 0,2 7,6 19,6
+SADC 0,3 4,7 6,4 2,9 0 3,9 2,8 9,1
+UEMOA 0,4 3,9 4,5 1,1 2,2 0,7 19 23,6
+AFR 2,3 5,4 2,8 0,9 1 0,8 7 14,6
+Source : Auteurs à partir de l’annuaire statistique BAD-CEA-UA, édition 2016. Notes :CER =
+Communautés Economiques Régionales, AFR=Afrique.
+Le tableau ci-dessus met en lumière la faiblesse du commerce intra régional africain2. Il
+représenteenviron15,7%desexportationstotaleset14,6%desimportationstotalesducontinent.
+De leur côté, les échanges intra-communautaires officiels en Afrique centrale demeurent les plus
+faibles de toutes les CER du continent. En effet, ils ne représentent que 8,0% des exportations
+totales de la zone CEMAC et 6,4% des importations. Face à ce constat, il est important de
+noter que la faiblesse du commerce intracommunautaire dans la CEMAC peut significativement
+limiter l’efficacité de la politique monétaire. Dans la zone Euro par exemple, un des avantages
+de la Banque Centrale Européenne (BCE) réside dans le niveau d’échanges intracommunautaire
+européen qui se situe à environ 64%3 des exportations totales et 64% des importations.
+L’amélioration du commerce intra-zone des pays de la CEMAC observé sur la période 2007-
+2014 est assurément lié à l’amélioration des cours des matières premières et non nécessairement
+à une stratégie de diversification des économies. Comparativement aux unions plus avancées
+comme la zone Euro, le commerce intracommunautaire reste encore très faible dans la CEMAC.
+2. Les chiffres présentés peuvent être revu à la hausse si l’on tient compte du secteur informel très
+développé en Afrique en général, et en CEMAC en particulier.
+3. Source : eurostat 2017. http ://ec.europa.eu/eurostat/documents/2995521/7958475/6-29032017-
+AP-FR.pdf/01adef50-24b6-4e13-983b-61d625a13d3a
+7
+
+--- Page 9 ---
+Graphique 1 – Commerce dans la CEMAC et dans la Zone Euro
+Source : Auteurs à partir des données de la CNUCED
+La faiblesse du commerce intracommunautaire des pays de la CEMAC résulte des structures
+productives de ses Etats membres dominées par des produits de base, notamment, les hydrocar-
+bures (pétrole brut et gaz) et les mines (manganèse, diamant, or) ainsi que quelques produits de
+rentetelsquelecacao,caféetlecoton.Ils’agitlàdesproduitsquivontenmajoritéàdestination
+des pays développés et qui représentent des intrants essentiels pour leurs industries.
+Auniveausousrégional,d’autresfacteurspeuventêtreàl’originedecettefaibleperformance
+du commerce intracommunautaire, notamment le fait que certains pays appartiennent à la fois
+à plusieurs CER dont les objectifs ne sont pas toujours convergents à moyen et long terme.
+Comme évoqué précédemment, ces multiples engagements fragilisent la souveraineté des Etats
+et rendent difficile la mise en place de programmes de développement communautaires au sein
+deszonescommelaCEMAC.Lesdéficitsimportantseninfrastructuresdetransportaffaiblissent
+également l’intégration commerciale entre les pays membres de la CEMAC. Cette situation a
+été accentuée par le retard énorme qu’a connu la mise en œuvre des projets d’infrastructures
+inscrits dans le Programme Economique Régional (PER) de la CEMAC qui en est le socle pour
+le développement de cette zone.
+8
+
+--- Page 10 ---
+... Mais une relative convergence des cycles
+Malgré le faible degré d’échange intracommunautaire, on observe tout de même une certaine
+convergence (et corrélation) des cycles économiques dans certains pays de la CEMAC.
+Lorsqu’on analyse les courbes ci-dessous (Graphique 2), on peut conclure que les cycles des
+pays de la zone CEMAC se rapprochent au fil du temps. Ce résultat a également été observé par
+Carmignani(2010).Celapeutêtredûàplusieursfacteurstelsqueladécouverteetàl’exploitation
+du pétrole dans certains pays de la zone (Guinée Equatoriale à la fin des années 90 et Tchad
+au début des années 2000), ce qui a permis à ces derniers de converger vers les autres pays
+producteurs de pétrole4. Les courbes ci-dessous rendent ainsi compte de la baisse des inégalités
+de répartition du PIB et de la masse monétaire entre les pays de la zone.
+Graphique 2 – Courbe de Lorenz5 pour la répartition du PIB et de la masse monétaire avant la crise
+financière.
+Source : Auteurs, à partir des données de la BEAC et des administrations nationales.
+En ce qui concerna le PIB, on peut constater qu’il y a encore une répartition très inégalitaire
+duproduitdelazone.Eneffet,50%des paysdétenaient environ11%du PIBdelazone en 1987,
+et ce pourcentage est passé à 15% en 1997 contre environ 30% en 2007. D’un autre côté, 83% des
+paysdétenaientenviron65%duPIBen2007alorsquelesmêmes83%nedisposaientquede40%
+du PIB en 1987 contre 52% en 1997. Cette évolution peut cacher une certaine synchronisation
+des cycles de ces pays bien que les écarts soient encore très importants, notamment avec le
+Cameroun qui détient encore plus du tiers du PIB de la zone.
+Concernant la masse monétaire le même schéma se reproduit, car en 19906 50 % des pays
+ne disposaient que de 10% de la masse monétaire, et ces mêmes 50% disposaient de 14% de la
+masse monétaire de la zone en 1999, contre 22% environ en 2008. D’un autre côté, et pour les
+mêmes périodes, 83% des pays de la zone détenaient 42% de la masse monétaire en 1990 contre
+50% en 1999 et 62% en 2008.
+4. Cinq pays sur six produisent du pétrole dans la CEMAC à l’exception de la République Centrafri-
+caine
+6. Année de début de la réforme de la politique monétaire de la BEAC.
+9
+
+--- Page 11 ---
+Pour aller plus loin, le tableau 2 (ci-dessous) des corrélations des cycles du PIB dans la
+CEMAC indique que certains coefficients de corrélation des cycles des pays avec le cycle de la
+zone sont positifs et significatifs, ce qui est d’entrée de jeu un atout pour la zone et confirme les
+analyses faites précédemment pour la courbe de Lorenz. En effet, une telle situation implique
+une certaine convergence des économies en termes de richesse et donc une capacité plus accrue
+de se protéger contre des chocs asymétriques. Toutefois, cette convergence peut être le fait
+de l’évolution satisfaisante des prix des matières premières sur les marchés internationaux et
+principalement du pétrole dont la plupart des pays de la zone est tributaire. Il n’est donc pas
+surprenantdeconstaterqueleCameroun(quidépendbeaucoupmoinsdupétrolequelesautres)
+et la RCA (qui ne produit pas encore de pétrole) sont les seuls à avoir une corrélation négative
+de leur cycle avec celui de la zone.
+Tableau 3 – Corrélations croisées des cycles du PIB en zone CEMAC (1987-2016)
+Pays CAM CNG GAB GE RCA TCH ZONE
+CAM 1
+CNG -0.5658*** 1
+GAB 0.0365 0.1135 1
+GE -0.3106* 0.1200 -0.3624** 1
+RCA -0.1573 -0.1161 -0.2573 0.1447 1
+TCH -0.2550 0.2014 0.2317 0.4071** -0.1428 1
+ZONE -0.0745 0.2714 0.2317 0.7230*** -0.1062 0.4085** 1
+Source : estimations des auteurs à partir des données de la BEAC. Note : (*) significativité à 10%,
+(**) significativité à 5%,(***) significativité à 1%, et les coefficients sans étoiles ne sont pas
+statistiquement significatifs.
+Au total, malgré le faible niveau d’échange entre les pays de la CEMAC, on observe tout de
+même une convergence nominale et une corrélation limitée des cycles qui pourrait être préjudi-
+ciable pour l’efficacité de la politique monétaire.
+2 Brève revue de la littérature
+A partir du milieu du XXème siècle, les théories se sont succédé sur les conditions né-
+cessaires pour constituer une zone monétaire optimale (ZMO).En effet, au début des années
+soixante (période où régnait le système de Brettons Wood7), plusieurs critères nécessaires pour
+7. Ce système, institué par les accords de Bretton Wood (1944) était caractérisé par la fixité des
+changes. La plupart des monnaies étaient ainsi ancrées au Dollar US, qui lui-même était convertible en
+or à taux fixé.
+10
+
+--- Page 12 ---
+la constitution d’une ZMO ont vu le jour dans un contexte où régnait une controverse entre
+les défenseurs des changes fixes et les promoteurs des changes flexibles. Puis, dans les années
+quatre-vingt-dix, la réflexion a été renouvelé et l’on a assisté à l’émergence des ZMO endogènes.
+2.1 Les théories traditionnelles
+Trois auteurs peuvent être considérés comme précurseurs de la théorie des ZMO : Robert
+Mundell (1961), Mc Kinnon (1963), et Kennen (1969).
+Mobilité du facteur travail de Mundell (1961) : Selon cet auteur, pour constituer
+une union, il faut qu’il existe une forte mobilité du facteur travail d’un pays à l’autre de la zone,
+ou tout simplement une forte flexibilité des salaires et des prix. En effet, l’analyse de Mundell
+repose sur l’identification des coûts et avantages de la constitution d’une ZMO. Selon cette
+approche, en cas d’absence d’union, plus les chocs qui touchent les pays sont asymétriques et
+plus l’utilisation du taux de change nominal comme instrument de stabilisation s’avère de plus
+en plus nécessaire. En cas d’union monétaire, plus les chocs sont asymétriques entre les pays,
+et plus les coûts de l’adoption d’une monnaie unique sont élevés et ces coûts pourraient être
+compensés par une très forte mobilité du travail entre les pays (régions).
+Le degré d’ouverture commerciale de R. Mc Kinnon (1963) : Selon Robert Mc
+Kinnon, plus une économie est ouverte, moins il lui sera coûteux de participer à un système
+de changes fixes et donc à une union monétaire. De cette manière, les pays fortement ouverts
+au niveau commercial, peuvent former une union. McKinnon propose une définition de la zone
+monétaireoptimalefondéesurledegréd’ouverturecommercial,l’optimumétantledegrépermet-
+tant de s’accommoder à la fixité des changes tout en atteignant les objectifs fixés en matière de
+politique économique. Ainsi, en terme d’analyse bénéfice-coûts de l’union, Mc Kinnon pense que
+les bénéfices sont susceptibles d’augmenter suivant le degré d’ouverture des pays (De Grauwe,
+1994). Aussi, plus le volume du commerce intra-régional entre des pays est important, et plus
+les coûts liés à la formation de l’union entre ces pays sont faibles.
+La diversification productive de Kennen (1969) : Pour Peter Kennen les économies
+sont davantage moins sensibles aux chocs asymétriques qu’ils ont des structures productives
+diversifiées. En d’autre termes, plus les économies sont spécialisées, et plus elles sont sensibles
+aux chocs. Ainsi, des pays ayant des économies diversifiées peuvent plus facilement adopter
+un régime de change fixe et constituer une union monétaire. En effet, Kennen rebondit sur le
+critère de mobilité du facteur travail de Mundell et suggère que la diversification d’une économie
+a pour effet de compenser l’éventuelle immobilité internationale du travail par une mobilité
+intersectorielle. Ainsi, les chocs asymétriques qui touchent les pays et les régions exerceront un
+effet atténué sur les différentes économies. Toutefois il s’intéresse aussi aux questions de « zone
+budgétaire optimale » pour compléter son analyse dans le cadre d’un meilleur policy mix.
+Ces trois théories traditionnelles représentent une base des théories sur les ZMO. Toutefois,
+au regard de ces critères, il est évident que la CEMAC ne peut constituer une zone monétaire
+optimale au sens des théories traditionnelles car la structure productive de ces pays n’est pas
+assez diversifiée, le commerce intracommunautaire est très faible, et en plus il se pose encore des
+problèmes de circulation des personnes au sein de la zone, ce qui limite la mobilité du facteur
+11
+
+--- Page 13 ---
+travail. En effet, pour aller d’un pays à l’autre au sein de la CEMAC, certaines procédures
+nécessitel’obtentiond’unVisa,cequin’estpaslecasdanslesautresunionstellesquel’UEMOA
+par exemple. Ce qui a fait dire à Albert Ondo Ossa (2000), que cette zone trouverait son
+optimalité non pas dans les critères standards définis par Robert Mundell (1961), Ronald Mc
+Kinnon (1963) et Peter Kenen (1969), mais, sur le plan de la solidarité.
+Des théories récentes peuvent cependant aider à mieux situer le contexte de l’intégration en
+zone CEMAC.
+2.2 Les théories récentes des ZMO
+A partir des années quatre-vingt-dix, deux approches ont vu le jour concernant les ZMO :
+la thèse de l’endogénéisation des ZMO et celle de la Spécialisation.
+La thèse de l’endogénéisation des ZMO : Pour les adeptes de la théorie de l’endo-
+généisation des critères des ZMO, la constitution d’une union monétaire entre un ensemble de
+pays met en place des conditions pour une intensification des échanges commerciaux et rap-
+proche par la même occasion les cycles de ces pays, ce qui encourage la symétrie des chocs. En
+d’autres termes, une union monétaire créerait en fait ex post les conditions de son optimalité,
+ainsi, les critères ex ante (critères traditionnels) ne sont donc plus un préalable à la constitution
+d’une zone monétaire. On dit donc dans ce cas que les critères de zone monétaire optimale sont
+endogènes car on aboutit in fine à une synchronisation des cycles. Il s’agit donc en quelque sorte
+d’un lien positif entre corrélation des cycles et intégration commerciale.
+Plusieurs auteurs ont apporté leurs contributions à ce sujet à l’instar de Frankel et Rose
+(1997, 1998), Corsetti et Pesanti (2002), Imbs (2004); Baxter et Kouparitsas (2005), Caldéron
+et al. (2007); Inklaar et al. (2008). Pour eux, la corrélation des cycles dépend du régime de
+change, et en entrant dans une union monétaire, la volatilité du change est réduite ce qui accroit
+le degré de certitude et contribue à stimuler les échanges.
+Ainsi, les critères traditionnels n’étant pas adaptés au contexte des pays de la CEMAC,
+celui de l’endogénéité des ZMO semble être plus pertinent dans cette zone et comme le montre
+le Graphique ci-dessous le commerce est susceptible d’entrainer une convergence des économies.
+Graphique 3 – Commerce, convergence et ZMO
+Source : Frankel et Rose (1997).
+12
+
+--- Page 14 ---
+L’idée développée dans ce graphique est que, les pays initialement indépendants et se situant
+danslazoneA,ontunniveaudecorrélationdecycleetdecommercebilatéralfaible.Cependant,
+si ces derniers parviennent à franchir la ligne ZMO c’est-à-dire, s’ils forment une union, ils se
+retrouveront progressivement dans la zone B et ainsi leur commerce bilatéral et la corrélation
+de leurs cycles augmenteront, ce qui encourage une symétrie des chocs. L’union apparait ainsi
+comme un préalable à l’optimalité d’une zone.
+La thèse de la Spécialisation de Krugman (1993) : PaulKrugmanmontrequantàlui
+que, l’union monétaire permet plutôt aux pays d’exploiter leurs avantages comparatifs. En effet,
+le commerce engendré par la constitution de l’union va permettre aux pays de diversifier leurs
+productionsrespectivesparunprocessusdespécialisationàl’intérieurdelazone.Chacunvadonc
+sespécialiserdanslaproductiondesbienspourlesquelsildétientunavantagecomparatifcequia
+pour conséquence une divergence des cycles et donc une augmentation des asymétries des chocs.
+Selon ce paradigme parfois appelé « Lessons of Massachusetts » ce phénomène a été observé
+au cours du XXème siècle aux Etats-Unis dans de nombreux secteurs avec le regroupement des
+industries automobile autour de Détroit, puis des industries informatiques autour de la Silicon
+Valley.Toutefois,encomparantledegrédespécialisationenEuropeetauxEtatsUnis,Krugman
+(1993) parvient à la conclusion selon laquelle les industries sont plus concentrées aux Etats Unis
+par rapport à l’Europe.
+L’une des principales critiques adressées à l’analyse de Krugman est qu’elle ne tient compte
+que du cas américain, alors même qu’on observe une corrélation de plus en plus élevée des cycles
+des Etats américains depuis des décennies.
+3 Modélisation du lien entre commerce et synchro-
+nisation des cycles
+8
+3.1 Modélisation théorique de l’impact du commerce sur la
+cyclicité
+Si l’on considère que la croissance du produit réel d’un pays (P) donné est définit par :
+n
+∆Y = X β S +v +g (1)
+i it t
+i=1
+Où ∆Y représente le taux de croissance du produit réel; β la part du secteur i dans le
+t i
+produit total, avec Pn β = 1; S représente la déviation du taux de croissance du produit
+i=1 i it
+du secteur i à la période t par rapport à v ; v est quant à lui la composante de la croissance
+t t
+du pays covariante à tous les secteurs et représente un choc agrégé au niveau du pays. En effet,
+il s’agit de l’écart moyen du produit à la tendance des taux de croissance; Et enfin g est la
+tendance de la croissance du produit.
+De la même manière, pour un pays étranger (P∗) nous aurons :
+8. Inspirée par Frankel et Rose (1998), Caldéron et al. (2007) et Tapsoba (2009).
+13
+
+--- Page 15 ---
+n
+∆Y∗ = X β∗S +v∗+g∗ (2)
+t i it t
+i=1
+On fait l’hypothèse que les chocs spécifiques aux différents secteurs sont communs aux deux
+pays (ce qui n’implique pas forcément que?β = β∗). On suppose aussi que les déviations S et
+i i it
+les v sont indépendamment distribués dans le temps. Avec une variance sectorielle σ2.
+t i
+Ainsi, la covariance entre les produits des deux pays sera donnée par :
+n n n
+cov(∆Y ,∆Y∗) = cov(X β S ,X β∗S )+cov(v ,v∗) = X β β∗σ2+σ (3)
+t t i it i it t t i i i v,v∗
+i=1 i=1 i=1
+Où σ est la covariance entre les chocs agrégés des pays. Toutefois le terme cov(∆Y ,∆Y∗)
+v,v∗ t t
+peut encore être remplacé par le coefficient de corrélation des cycles des différents pays. Ainsi,
+le degré de corrélation des cycles des pays dépendra de l’évolution de cette covariance, et peut
+être influencé par deux facteurs :
+— Le terme Pn β β∗σ2 qui représente le degré de spécialisation. En effet, si les pays pro-
+i=1 i i i
+duisent et s’échange des biens pour lesquels ils détiennent un avantage comparatif, dans
+cecas,leursstructuresdeproductionserontdifférentescarlecommerces’effectueraentre
+des secteurs différents (commerce inter-sectoriel). La corrélation entre les parts (β ,β∗)
+i i
+des différents secteurs dans le produit total va diminuer progressivement et devenir né-
+gative. Cette situation va entrainer une baisse de Pn β β∗σ2 ce qui aura pour impact
+i=1 i i i
+final, la baisse de la corrélation des cycles représentée ici par la baisse de cov(∆Y ,∆Y∗).
+t t
+Dans ce cas, l’accroissement du commerce entre les pays favorise l’occurrence des chocs
+asymétriques (c’est la thèse de Krugman, 1993).
+Cependant, l’effet inverse peut se produire si les pays s’échangent des biens issus des
+mêmes secteurs (commerce intra-sectoriel). Dans ce cas, les parts de ces secteurs dans le
+produittotalaugmenteaveclecommerce,cequientraineuneaugmentationdePn β β∗σ2
+i=1 i i i
+et un accroissement de la corrélation des cycles. Ainsi, le commerce intra-sectoriel per-
+mettra d’éviter l’occurrence des chocs asymétriques et accroit la synchronisation des
+cycles;
+— Le terme σ : il s’agit de la covariance des chocs agrégés (chocs pays) qui peuvent
+v,v∗
+être des chocs de demande ou des chocs d’offre. Ainsi, par exemple un choc positif de la
+demande dans un pays peut avoir un impact positif non seulement pour le pays concerné
+mais également pour son partenaire commercial pour qui l’accroissement de la demande
+peut entrainer une expansion de son secteur productif. Dans ce cas, une intensification
+du commerce entre les pays, combinée à une coordination des politiques économiques
+(monétaires et budgétaires) entraine une augmentation de σ . De la même manière,
+v,v∗
+un choc négatif sur la demande produira des effets inverses.
+Toutefois,l’intensificationdeséchangescommerciauxentrelespayspeutégalemententrainer
+une propagation rapide du savoir et de la technologie, et donc des chocs de productivités (qui
+sont encore des chocs d’offre). Ainsi, une diffusion de productivité importante aura un impact
+positif sur σ ce qui accroit la corrélation des cycles et attenue les chocs asymétriques.
+v,v∗
+Au total, le commerce peut favoriser la corrélation des cycles si dans un premier temps,
+14
+
+--- Page 16 ---
+les échanges intra-sectoriels sont privilégiés entre les pays qui commercent dans le processus
+d’intégration, et si dans un deuxième temps, la diffusion des chocs réels (demande ou offre) se
+fait rapidement d’un pays à l’autre.
+3.2 Evaluation empirique de la thèse de l’endogénéisation des
+critères des ZMO en CEMAC
+3.2.1 Données et modèle
+Laplupartdestravauxquiexaminentl’impactducommercesurlasynchronistionsdescycles
+retiennent le plus souvent le coefficient de corrélation entre les cycles d’activités comme étant
+la variable à expliquer. Ainsi à l’instar de Frankel et Rose (1998), nous nous basons sur le filtre
+de Hodrick et Prescott pour identifier la composante cyclique du PIB réel qu’on a choisi comme
+variable mesurant l’activité. Notons cependant que certaines études aboutissent à la conclusion
+selon laquelle le choix du filtre n’a pas d’influence capitale sur les résultats (Frankel et Rose,
+1997 et 1998, Caldéron et al., 2007).
+Ainsi, nous utilisons des données constituées des six pays de la zone sur la période allant
+de 1987 à 2011. L’année 1985 marque en effet la date d’entrée de la Guinée équatoriale dans la
+zone et certaines données ne sont disponibles qu’à partir de 1987. Toutefois, compte tenu de la
+faible disponibilité des données, du commerce bilatéral dans la sous-région, et au vu de la place
+centrale qu’occupe le Cameroun dans la sous-région, nous privilégions les échanges bilatéraux
+entre le Cameroun et les autres pays, l’idée étant que les cycles de ces pays doivent tendre vers
+le cycle Camerounais qui est un exemple en terme de diversification dans la zone. Les données
+concernant le commerce bilatéral entre les différents pays proviennent de la base de donnée de
+la Banque Mondiale « comtrade », extraite à partir du WITS (World Integrated Trade Solution,
+2011). Toutefois, le reste des données est obtenu à partir de la base de données de la Banque
+Mondiale WDI (World Development Indicator).
+A la lumière de la modélisation évoquée précédemment, la spécification de notre modèle est
+la suivante :
+ρ = α+βC +θX +δ +(cid:15) (4)
+ijt ijt ijt t ijt
+— Où ρ représente la corrélation des cycles du produit réel entre le pays i et le pays j
+ijt
+à la période t. Au vue du faible nombre de données, nous nous inspirons de Ceirquera
+et Martins (2009) pour calculer les coefficients de corrélation annuels contrairement aux
+autres études qui utilisent les coefficients de corrélations sur cinq ans, huit ans ou dix
+ans. Ainsi notre variable à expliquer sera déterminée comme suit :
+ 
+1 (y −y¯) (y −y¯)
+ρ ijt = 1− 2 q it 1 − q jt 2  (5)
+1 Pn (y −y¯)2 1 Pn (y −y¯)2
+T t=1 it 1 T t=1 jt 2
+Avec y et y respectivement les cycles du produit du pays i et du pays j, et y¯ et y¯
+jt jt 1 2
+étant leur moyennes respectives sur la période considérée;
+— X est un vecteur de variables de contrôle;
+ijt
+15
+
+--- Page 17 ---
+— C est une variable mesurant le degré d’intégration des échanges commerciaux bilaté-
+ijt
+raux entre le pays i et le pays j à la période t. Cette variable peut s’obtenir de deux
+manières :
+1. On peut normaliser le commerce bilatéral par rapport au commerce international
+(commerce total) et dans ce cas :
+X +M
+C = ijt ijt (6)
+ijt (X +M )+(X +M )
+it it jt jt
+Où X représente les exportations (Au prix FOB : Franco on bord) du pays i vers le
+ijt
+pays j à la période t. M les importations (Au prix CAF : Coûts Assurance Fret) du
+ijt
+pays i en provenance du pays j à la période t. X et X représentent respectivement
+it jt
+les exportations des pays i et j respectivement, à destination du reste du monde à la
+date t. De la même manière M et M représentent respectivement les importations
+it jt
+des pays i et j en provenance du reste du monde à la date t;
+2. On peut aussi normaliser le commerce bilatéral par rapport au PIB nominal et dans
+ce cas :
+X +M
+C∗ = ijt ijt (7)
+ijt (PIB )+(PIB )
+it jt
+Où X représente les exportations (Au prix FOB : Franco on bord) du pays i vers
+ijt
+le pays j à la période t. M les importations (Au prix CAF : Coûts Assurance
+ijt
+Fret) du pays i en provenance du pays j à la période t. PIB et?PIB représentent
+it it
+respectivement les PIB des pays i et j, à la date t.
+— δ représente un effet fixe temporel qui permet de contrôler les influences temporelles sur
+t
+la synchronisation des cycles qui sont indépendantes de l’intensité commerciale;
+— (cid:15) est un terme d’erreur.
+ijt
+Danslaspécification(4)ci-dessus,lecoefficientβ estlecoefficientcentralquinouspermettra
+de mesurer la plausibilité d’une zone monétaire optimale et endogène au sens de Frankel et
+Rose. En effet si ce coefficient est positif (β > 0) et significatif, alors la zone CEMAC apparaitra
+comme une zone optimale, et nous pourrons conclure que l’intensification du commerce intra-
+communautaire accroit la synchronisation des cycles dans la zone, et augmente l’occurrence de
+chocs symétriques. Par ailleurs, si ce coefficient est négatif (β < 0) et significatif, alors la thèse
+de la spécialisation de Krugman (1993) sera alors privilégiée, autrement dit, l’intensification du
+commerce en CEMAC entraine une spécialisation intersectorielle qui accroit la divergence des
+cycles et favorise l’occurrence des chocs dissymétriques.
+L’estimationdumodèleparlaméthodedesMoindresCarrésOrdinaires(MCO)posegénéra-
+lement problème, car la variable C , est généralement soupçonnée d’endogénéité. La littérature
+ijt
+préconise ainsi la méthode des Variables Instrumentales (VI). Aussi, Frankel et Rose (1997,
+1998), proposent d’instrumenter l’intensité commerciale par des variables du modèle de gravité
+qui ne sont pas, en théorie liées à la synchronisation des cycles. En effet, le choix des variables
+instrumentales n’est pas tranché dans la théorie. Frankel et Rose (1997, 1998) proposent le lo-
+garithme de la distance entre les pays, la communauté de frontière et la communauté de langue
+que nous utilisons dans nos estimations. Toutefois, le choix restreint des instruments est généra-
+lement critiqué dans le cas de petits échantillons s’ils ne présentent pas une variabilité suffisante
+16
+
+--- Page 18 ---
+(Babetskii, 2005; Fidrmuc, 2005; Caldéron et al., 2007; Inklaar et al., 2007). Dans nos estima-
+tions, nous avons également ajouté une dummy, qui prend la valeur 1 à partir de 1994 afin de
+capter l’effet de la dévaluation.
+3.3 Résultats
+Dans la première étape de l’estimation par la méthode des variables instrumentales, qui
+consiste à instrumenter l’intensité commerciale, nous contatons que la distance est négativement
+corrélée à l’intensité commerciale. En effet, plus la distance d’un pays à un autre est élevée et
+moins le commerce entre ces pays est intéressant. Nous retrouvons là les résultats de la plupart
+des études sur l’impact du commerce sur la synchronisation des cycles, en particulier Frankel et
+Rose (1997) et de la plupart des travaux sur les modèles de gravité. Mais ce résultat rend aussi
+compte de la nécessité de mettre en place un réseau de transport rapide et efficace en CEMAC
+qui serait capable de relier les pays entre eux en peu de temps.
+Comme on peut l’observer dans le tableau ci-dessous, la deuxième étape de l’estimation par
+la méthode des variables instrumentales nous montre que l’intensité commerciale agit positi-
+vement sur la synchronisation des cycles en CEMAC avec ou sans le contrôle pour les autres
+explications possibles de la synchronisation des cycles. Ainsi, pour un seuil de significativité de
+1% nous pouvons conclure que l’intensification des échanges en zone CEMAC, réduit l’occur-
+rence des chocs dissymétriques, l’efficacité de la politique monétaire pourra ainsi s’améliorer
+dans ce contexte. Ce résultat est valable pour les deux mesures de l’intensité commerciale : celle
+normalisée par le PIB (C∗) et celle normalisée par le commerce total (C). Comme Frankel et
+Rose (1998) et Inklar et al. (2007) nous trouvons que l’effet du commerce sur la synchronisation
+estplussignificatiflorsquel’onconsidèrelapremièremesuredel’intensitécommerciale(C)mais
+par contre, cet effet est plus important lorsqu’on considère la deuxième mesure (C∗).
+Pour l’interprétation des coefficients associés à nos variables d’intérêt, nous utilisons les co-
+efficients normalisés comme l’ont fait, Frankel et Rose (1997 et 1998), Caldéron et al. (2007),
+Inklaar et al. (2008) et Tapsoba (2009). Ainsi l’estimation par la méthode des variables instru-
+mentales nous permet d’avoir les coefficients suivant :
+— 0,405 lorsqu’on utilise C;
+— 0,494 lorsqu’on utilise C∗.
+En d’autre terme, l’accroissement d’un écart type de l’intensité commerciale (normalisée par
+le commerce), entraine une augmentation de la synchronisation des cycles en CEMAC de 0,405.
+Cependant, l’on peut constater que, parmi les variables de contrôle, le commerce total agit
+significativement et négativement sur la synchronisation des cycles, ce résultat met en exergue
+la faible diversification des économies de la sous-région. Et traduit la nécessité de renforcer
+les liens intra-sectoriels qui sont encore faibles dans la sous-région et qui pourraient remplacer
+progressivement les importations en provenance du reste du monde. En effet, les pays de la
+CEMAC échangent davantage avec les pays développés et exportent des matières premières tout
+en important des produits manufacturés, ainsi, l’essentiel du commerce intracommunautaire
+porte en majorité sur les produits alimentaires ou des produits faiblement transformés. Les
+échanges intracommunautaires devraient donc davantage porter sur des produits diversifiés et
+17
+
+--- Page 19 ---
+à forte intensité capitalistique pour remplacer progressivement les importations en provenance
+des pays développés.
+En ce qui concerne les autres variables de contrôle, nous constatons que les règles adoptées
+dans le cadre de la surveillance multilatérale, pour la coordination des politiques économiques,
+ne sont pas satisfaisantes, car les corrélations des cycles d’inflation et de dépenses publiques
+n’ont aucun impact significatif sur la synchronisation des cycles du produit dans la sous-région.
+En ce qui concerne la politique monétaire par exemple, la poursuite de la cible d’inflation de 3%
+par la Banque Centrale ne contribue pas à engendrer une synchronisation des cycles. L’essentiel
+de l’effet des unions monétaires sur la synchronisation des cycles passe ainsi par l’intensification
+des échanges et non par les effets de la politique monétaire commune ni des effets des politiques
+budgétaires coordonnées (Tapsoba, 2009). Des mesures devraient donc être prises pour adapter
+lesrèglesdecoordinationdespolitiqueséconomiquesaucontextedespaysdelazone,afinqu’elles
+puissent intégrer les caractéristiques intrinsèques de chacun des pays formant l’union.
+18
+
+--- Page 20 ---
+Tableau 4 – Intensité commerciale et synchronisation des cycles en CEMAC
+1 2 3 4
+Variabledépendante:lacorrélationdescycles(ρ)
+C 99.66** 82.67***
+(42.29) (31.36)
+Corr des dé- 0.129 0.0932
+penses
+(0.342) (0.343)
+Corrinflation 0.339 0.334
+(0.438) (0.441)
+Cor investisse- -0.0829
+ment
+(0.0747)
+Commercetotal -0.460*** -0.546***
+(0.153) (0.205)
+C* 291.4** 389.4**
+(139.5) (164.5)
+Constante -0.0812 0.0599 6.984*** 8.265***
+(0.283) (0.230) (2.211) (2.945)
+1 2 3 4
+Variabledépendante:lacorrélationdescycles(ρ)
+Ln(C) 0.584** 0.465***
+(0.227) (0.172)
+Corr des dé- 0.0827 0.0145
+penses
+(0.336) (0.335)
+Corrinflation 0.381 0.427
+(0.433) (0.438)
+Corr investisse- -0.0772
+ment
+(0.0731)
+Commercetotal -0.413*** -0.487***
+(0.136) (0.172)
+Ln(C*) 0.694** 0.588**
+(0.302) (0.230)
+Constante 3.657*** 5.174** 9.231*** 11.85***
+(1.230) (2.034) (2.827) (4.039)
+Note : Ecarts types entre parenthèses *** p<0.01, ** p< 0.05, * p<0.1
+(1) Estimation avec C , sans variables de contrôle, (2) Estimation avec C ijt∗, sans variables de
+ijt ijt
+contrôle, (3) Estimation avec C et variables de contrôle, (4) Estimation avec C ijt∗, et variables de
+ijt ijt
+contrôle. Corr=corrélation
+19
+
+--- Page 21 ---
+Pour conforter nos résultats nous avons utilisé un panel non cylindré avec les autres paires
+de pays, nous avons également changé puis augmenté le nombre de nos instruments en utilisant
+deux instruments supplémentaires : l’un qui tient compte du long passé colonial, et l’autre de
+la communauté de langue ethnique, conformément aux critiques de Babetskii, 2005; Fidrmuc,
+2005;Caldéronetal.,2007;Inklaaretal.,2007.Aprèsceschangements,noscoefficientsd’intérêt
+sont resté significatifs avec les signes attendus. Cet exercice nous permet ainsi de confirmer
+l’impact positif de l’intensification du commerce intrarégional sur la synchronisation des cycles
+en CEMAC. Le commerce total quant à lui a toujours un impact significativement négatif sur
+la synchronisation des cycles.
+Tableau 5 – Intensité commerciale et synchronisation des cycles en CEMAC - modèle augmenté
+1 2 3 4
+Variabledépendante:lacorrélationdescycles(ρ)
+C 93.13** 70.92**
+(41.36) (30.88)
+Corr des dé- 0.136 0.100
+penses
+(0.340) (0.338)
+Corrinflation 0.289 0.269
+(0.435) (0.435)
+Corrinvestisse- -0.0831
+ment
+(0.0742)
+Commerce to- -0.415*** -0.454**
+tal
+(0.152) (0.200)
+C* 245.3* 307.1*
+(135.2) (159.9)
+Constante -0.0425 0.131 6.364*** 6.976**
+(0.276) (0.224) (2.185) (2.874)
+1 2 3 4
+Variabledépendante:lacorrélationdescycles(ρ)
+Ln(C) 0.577** 0.446***
+(0.226) (0.171)
+Corr des dé- 0.0867 0.0145
+penses
+(0.336) (0.335)
+Corrinflation 0.365 0.427
+(0.432) (0.438)
+Corrinvestisse- -0.0774
+ment
+(0.0730)
+Commerce to- -0.402*** -0.487***
+tal
+(0.136) (0.172)
+Ln(C*) 0.691** 0.588**
+(0.302) (0.230)
+Constante 3.619*** 5.151** 8.954*** 11.85***
+(1.227) (2.031) (2.824) (4.039)
+Note : Ecarts types entre parenthèses *** p<0.01, ** p< 0.05, * p<0.1
+(1) Estimation avec C , sans variables de contrôle, (2) Estimation avec C ijt∗, sans variables de
+ijt ijt
+contrôle, (3) Estimation avec C et variables de contrôle, (4) Estimation avec C ijt∗, et variables de
+ijt ijt
+contrôle.
+Nos résultats sont en droite ligne avec les travaux de Carmignani (2010) qui reposent fonda-
+mentalement sur une approche statistique et qui montrent que le phénomène d’endogénéité est
+faible en CEMAC en raison de la faiblesse du commerce intra régional.
+20
+
+--- Page 22 ---
+Conslusion
+L’objectif de cette étude est d’analyser le lien entre le commerce intracommunautaire et la
+synchronisationdescycles.Noustrouvonsquel’intensificationducommerceestunebonnesource
+de synchronisation des cycles (essentiellement lorsque le commerce transite par le Cameroun),
+et donc de symétrie des chocs dans la sous-région étant susceptible d’améliorer les effets de la
+politique monétaire sur l’activité de chacun des pays.
+Les pays de la CEMAC ont ainsi intérêt à créer des conditions de viabilité du commerce
+intracommunautaire dans la sous-région (qui est très faible), et cela peut passer par la mise
+en place des systèmes de transport modernes, adéquats et rapides, mais aussi par des mesures
+consistantàréduirel’importancedusecteurinformel.Acesmesures,ilfaudraajouterunediver-
+sification des produits commercialisés, et tout ceci contribuera à une augmentation significative
+dedegrédesynchronisationdescyclesafinquelespaysréagissentdemanièresimilaireauxchocs
+communs de politique monétaire.
+21
+
+--- Page 23 ---
+Bibliographie
+[ 1 ]AfonsoA.etFurceriD.(2008):«EMUEnlargement,StabilizationCostsandInsurance
+Mechanisms », Journal of International Money and Finance, 27 (2), pp. 169-187.
+[ 2 ] Artis M. J. et Zhang W. (1997) : « International Business Cycles and the ERM : Is
+There a European Business Cycle? », International Journal of Finance & Economics,
+John Wiley & Sons, Ltd., vol. 2(1), pages 1-16, January.
+[ 3 ]ArtisM.J.etZhangW.(1997):«OnIdentifyingtheCoreofEMU:AnExplorationof
+Some Empirical Criteria », CEPR Discussion Papers, 1689, C.E.P.R. Discussion Papers.
+[ 4 ] Babetskii, I. (2005) : « Trade Integration and Synchronization of Shocks », Economics
+of Transition, 13 (1), pp. 105-138.
+[ 5 ] Backus D. et Kehoe P. (1992) : « International Evidence on the Historical Properties
+of Business Cycles», American Economic Review, vol. 82, n° 4, pp. 864-888.
+[ 6 ] Baxter, M. et Kouparitsas M. A. (2005) : « Determinants of Business Cycle Como-
+vement : a Robust Analysis », Journal of Monetary Economics, 52 (1), pp. 113-157.
+[ 7 ] Baxter, M. et King R. G. (1999) : « Measuring Business Cycles : Approximate Band-
+Pass Filters For Economic Time Series », Review of Economics and Statistics, 81 (4), pp.
+575-593.
+[ 8 ]BergmanM.(2004):«HowSimilarAreEuropeanBusinessCycles?»,Lund University
+Discussion Paper, 2004 :9, Lund University, Department of Economics.
+[ 9 ] Caldéron, C., Chong A. et Stein E. (2007) : « Trade Intensity and Business Cycle
+Synchronization : are Developing Countries Any Different? », Journal of International
+Economics, 71 (1), pp. 2-21.
+[ 10 ] Calderon, C., Duncan R. et Schmidt-Hebbel K. (2004) : « Institutions and Cyclical
+Properties of Macroeconomic Policies », Central Bank of Chile Working Paper, No. 285.
+[ 11 ] Carmignani, F. (2010) : « Endogenous Optimal Currency Areas : The Case of the
+Central African Economic and Monetary Community », Journal of African Economies,
+19 (1), 25-51.
+[ 12 ] Carrère C. (2004) : « African Regional Agreements : Impact on Trade with or without
+Currency Unions », Journal of African Economies, 13 (2), pp. 199-239.
+[ 13 ] Carvalho V. M. et Harvey A. C. (2002) : « Growth, Cycles and Convergence in U.S.
+Regional Time Series », DAE Working Paper 0221, University of Cambridge.
+[ 14 ] Cerqueira, P.A. et Martins R. (2009) : « Measuring the determinants of business cycle
+synchronization using a panel approach », Economics Letters, 102(2), 106-108.
+[ 15 ] Darvas Z. and Szapáry G. (2004) : « Business Cycle Synchronization in the Enlarged
+EU:Comovementsinthe(Soon-To-Be)NewandOldMembers»,Magyar Nemzeti Bank
+Working Paper, No. 2004-1 (Budapest : Magyar Nemzeti Bank).
+22
+
+--- Page 24 ---
+[ 16 ] Darvas, Z., Rose A. K. et Szapáry G. (2005) : « Fiscal Divergence and Business
+CycleSynchronization:IrresponsibilityisIdiosyncratic»,NBER Working Papers,11580,
+National Bureau of Economic Research.
+[ 17 ] De Grauwe P. (1994) : « The Economics of Monetary Integration », seconde édition,
+Oxford, Oxford University Press.
+[ 18 ] Debrun, X., Masson P. R. et Pattillo C. A. (2003) : « West African Currency Unions :
+Rationale and Sustainability », CESifo Economic Studies, 49 (3), pp. 381-413.
+[ 19 ] Debrun, X., Masson P. R. et Pattillo C. A. (2005) : « Monetary union in West Africa :
+who might gain, who might lose, and why? », Canadian Journal of Economics, 38(2),
+pp. 454-481.
+[ 20 ] Eichengreen B. (1992) : « Should the Maastricht Treaty be Saved? », Princeton
+Studies in International Economics 74, International Economics Section, Department of
+Economics Princeton University.
+[ 21 ] Elachhab F. (2010) : « Les déterminants de la synchronisation cyclique Tunisie-zone
+euro », Revue de l’OFCE, 2010/4 (n° 115), pp. 33-62.
+[ 22 ] Fidrmuc, J. (2005) : « The Endogeneity of the Optimum Currency Area Criteria
+and Intraindustry Trade : Implications for EMU Enlargement », in De Grauwe, P. et
+Mélitz, j. (Eds.), Prospects for Monetary Unions after the Euro. London : The MIT
+Press, pp.55-76.
+[ 23 ] Fielding, D. et Shields K. (2005) : « Do Currency Unions Deliver More Economic
+Integration than Fixed Exchange Rates? Evidence from the Franc Zone and the ECCU
+», Journal of Development Studies, 41 (6), pp. 1051-1070.
+[ 24 ]Fielding,D.etShieldsK.(2005):«TheImpactofMonetaryUniononMacroeconomic
+Integration : Evidence from West Africa », Economica, 72(288), pp. 683-704.
+[ 25 ] Fielding,D. et Shields K. (2001) : « Modelling Macroeconomic Shocks in the CFA
+Franc Zone», Journal of Development Economics, Vol. 66, No. 1, pp. 199?224.
+[ 26 ] Fiorito R. et Kollintzas T. (1994) : « Stylized facts of business cycles in the G7 from
+a real business cycles perspective », European Economic Review 38, 235? 269.
+[ 27 ] Frankel J. A., (1999) : « No single currency regime is right for all countries or at all
+times », Essays in International Finance, n°215, Princeton University.
+[ 28 ] Frankel J. A., Rose A. K., (1998) : « The Endogeneity of the Optimum Currency Area
+Criteria », The Economic Journal, n°108, pp. 1009-1025.
+[ 29 ] Frankel, J. A. et Rose A. K. (1997) : « Is EMU More Justifiable ex post than ex
+ante?», European Economic Review, 41 (3-5), pp. 753-760.
+[ 30 ] Frankel, J. A. et Rose A. K. (2002) : « An Estimate Of The Effect Of Common
+Currencies On Trade and Income », The Quarterly Journal of Economics, 117 (2), pp.
+437-466.
+23
+
+--- Page 25 ---
+[ 31 ] Goodhart C., (1998) : « The two concepts of money : implications for the analysis
+of optimal currency areas », European Journal of Political Economy, vol. 14, n°3, pp.
+407-432.
+[ 32 ] Imbs, J. (2004) : « Trade, Finance, Specialization, and Synchronization », Review of
+Economics and Statistics, 86 (3), pp. 723-734.
+[ 33 ] Ingram J. C., (1969) : « Comment : The Currency Area Problem » in R. A. Mundell,
+A. R. Swoboda (dir.), Monetary Problems of the International Economy, University of
+Chicago Press.
+[ 34 ] Inklaar R. et De Haan J. (2001) : « Is there really a European Business Cycle : A
+comment », Oxford Economic Papers, 53, 215-220.
+[ 35 ]InklaarR.,Jong-A-PinR.etDeHaanJ.(2008):«TradeandBusinessCycleSynchro-
+nizationinOECDcountries?ARe-examination»,European Economic Review,52(4),pp.
+646-666.
+[ 36 ]KaiserM.(2005):«Zoneeuro:laconvergenceinachevée»,Conjoncture,BNPParibas,
+Septembre.
+[ 37 ] Karras G. (2007) : « Is Africa an Optimum Currency Area? A Comparison of Ma-
+croeconomic Costs and Benefits », Journal of African Economies, 16 (2), pp. 234-258.
+[ 38 ] Kenen P. B. (1969) : « The Theory of Optimum Currency Areas : an Eclectic View »,
+in R. A. Mundell, A. Swoboda (dir.), Monetary Problems of the International Economy,
+University of Chicago Press, pp. 41-60.
+[ 39 ] Krugman P. (1993) : « Lessons of Massachusetts for EMU », in F. Torres, F. Giavazzi
+(dir.) Adjustment and Growth in the European Monetary Union, Cambridge University
+Press, pp. 241-269.
+[ 40 ] Kwark N. S. (1999) : « Sources of international business fluctuations : country-specific
+shocks or worldwide shocks? », Journal of International Economics, 48(2), pp. 367-385.
+[ 41 ] Lane P.R. (2003a) : « Business Cycles and Macroeconomic Policy in Emerging Market
+Economies », International Finance, Vol. 6, No. 1, pp. 89?108.
+[ 42 ] Mc Kinnon R. I. (1963) : « Optimum currency areas », American Economic Review,
+vol. 53, 1963, pp. 717-725.
+[ 43 ] Mélitz, J. et F. Zùmer (1999) : « Interregional and International Risk Sharing and
+Lessons for EMU », Carnegie-Rochester Conference Series on Public Policy, 51, pp. 149-
+188.
+[ 44 ] Mundell R. A. (1961) : « A theory of optimum currency areas », American Economic
+Review, vol. 51, pp. 657-665.
+[ 45 ] Nkendah R. et al. (2011) : « Cameroun. Le commerce transfrontalier informel des
+produits agricoles et horticoles », Économie rurale, 324 ,juillet-août 2011.
+[ 46 ]Nnanna,O.J.(2007):«ECOCurrency:IsaThirdPostponementAvoidable?»,West
+African Journal of Monetary and Economic Integration, 7(1), pp. 5?17.
+24
+
+--- Page 26 ---
+[ 47 ] Rand, J. et Tarp F. (2002) : « Business Cycles in Developing Countries : Are They
+Different?», World Development, Vol. 30, No. 12, pp. 2071?88.
+[ 48 ] Ravn, M. O. et Uhlig H. (2002) : « On Adjusting the Hodrick-Prescott Filter for the
+Frequency of Observations », The Review of Economics and Statistics, Vol. 84, No.2, pp.
+371-75.
+[ 49 ] Rogoff K. (1985) : « The optimal degree of commitment to monetary target », Quar-
+terly Journal of Economics, 100, 1169-1990.
+[ 50 ] Rogoff K. (1990) : « Equilibrium Political Budget Cycles », American Economic Re-
+view, Vol. 80(1), pp.21-36. Shapiro, M. and M. Watson (1989) : « Sources of Business
+Cycles Fluctuations», National Bureau of Economic Research Working Papers 2589.
+[ 51 ] Tapsoba S. J-A. (2007) : « Bilateral Trade and Business Cycles Synchronization :
+African Monetary Integration Perspective », Economics Bulletin, 6 (25), pp. 1-15.
+[ 52 ]TapsobaS.J-A.(2009):«TradeIntensityandBusinessCycleSynchronicityinAfrica»,
+Journal of African Economies, 18 (2), pp. 287-318.
+[ 53 ] Tsangarides C. G. et P. Ewenczyk et M. Hulej (2006) : « Stylized Facts on Bilateral
+Trade and Currency Unions : Implications for Africa », IMF Working Paper 06/31,
+International Monetary Fund.
+25
+
+--- Page 27 ---
+Annexe
+Tracé de la courbe de Lorenz
+La courbe de Lorenz a été créée en 1905 par l’économiste américain Max Otto LORENZ
+(1880-1962). Initialement, cette courbe permettait de mesurer les inégalités de revenu. Par la
+suite,elleaserviàmesurerlafaçondontserépartitunemasse(salariale,derevenus,derichesses,
+etc.) au sein d’une population pour se faire une idée du caractère plus ou moins égalitaire de
+la répartition de ces masses entre les individus de la population, et comparer ainsi différentes
+populationsentreellesoucomparerladistributiond’unemasseauseind’unepopulationendeux
+ouplusieurspointsdutempsafindesavoirsil’inégalitéaugmenteoudiminue.Nousl’avonsutilisé
+dans notre cas pour mesurer l’inégalité de répartition du PIB et de la masse monétaire. Quatre
+étapes sont nécessaires :
+• classer la distribution étudiée par ordre croissant;
+• déterminerlaproportiondelavariabled’intérêtdétenueparchaqueindividu(pays)dans
+le total, de même que la proportion du rang de l’individu (pays);
+• déterminer la proportion cumulée de la variable d’intérêt et la proportion cumulée du
+rang de chaque individu (Pays);
+• sur un graphique : reporter en abscisse la proportion cumulée de la population, et en
+ordonnée la proportion cumulée de la variable d’intérêt.
+La courbe tracée est comparée à une droite dite d’égalité parfaite qui est une diagonale
+ayant un angle de 45°. Plus la courbe s’éloigne de la diagonale, et plus il y a des inégalités de
+répartitions.
+NB : l’axe des abscisses (X) enregistre la proportion cumulée de la population classée par
+ordre croissant de la variable d’intérêt (X ∈ [0;1]ou[0;100%]).
+26

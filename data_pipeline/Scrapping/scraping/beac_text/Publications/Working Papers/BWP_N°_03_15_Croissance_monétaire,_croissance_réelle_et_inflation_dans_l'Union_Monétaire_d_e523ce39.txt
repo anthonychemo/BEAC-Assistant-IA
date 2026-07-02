@@ -1,0 +1,479 @@
+Source PDF : BWP_N°_03_15_Croissance_monétaire,_croissance_réelle_et_inflation_dans_l'Union_Monétaire_d_e523ce39.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BWP_N°_03_15_Croissance_monétaire,_croissance_réelle_et_inflation_dans_l'Union_Monétaire_d_e523ce39.pdf
+Date extraction : 15/06/2026 21:28:38
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 03/15 -
+Croissance monétaire, croissance réelle et inflation dans l’Union
+Monétaire d’Afrique Centrale : quelques évidences empiriques
+KEUNGNE K. Léo Spencer Ousman A. Mahamat
+Direction de la Recherche Direction des études et de la stabilité financière
+ET
+keungne@beac.int Ousman_A boubakar@beac.int
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 / paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+DIRECTION DE LA RECHERCHE
+
+--- Page 2 ---
+Croissance monétaire, Croissance réelle et Inflation
+dans l’Union Monétaire d’Afrique Centrale : Quelques
+évidences empiriques
+Keungne Kouotang Léo Spencer∗
+et
+Ousman Aboubakar Mahamat†
+Novembre 2014
+Résumé
+Cette étude examine l’évolution des corrélations empiriques entre croissance
+monétaire, inflation et croissance réelle dans l’UMAC sur la période 1973-2012.
+Trois périodes d’analyse sont considérées : 1973-1990, 1994-2001 et 2002-2012.
+Les résultats des tests de corrélation de Spearman suggèrent que : (i) la forte
+corrélation positive entre croissance monétaire et inflation observée avant 2002
+n’est plus observée sur la période 2002-2012, (ii) il existe une forte corrélation entre
+croissance monétaire et croissance réelle dans l’Union sur les périodes 1973-1990
+et 2002-2012; mais pas entre 1994 et 2001, et (iii) une corrélation positive entre
+inflation et croissance réelle n’est observée que sur la période 1994-2001.
+Classification JEL : E3, E4, E5.
+Mots-clés : Croissance monétaire, Croissance réelle, Inflation.
+Abstract
+This paper analyses the evolution of the empirical correlations between money
+growth, inflation and real GDP growth in the Monetary Union of Central Africa
+during the period 1973-2012. Three periods are considered: 1973-1990, 1994-2001,
+and 2002-2012. Spearman correlation test results suggest that there is: (i) a
+strong positive correlation between money growth and inflation before 2002 but not
+thereafter, (ii) a strong positive correlation between money and real GDP growth
+before 1990 and after 2001, but not between 1994 and 2001, and (iii) only a posi-
+tivecorrelationbetweeninflationandrealGDPgrowthduringtheperiod1994-2001.
+JEL Code : E3, E4, E5.
+Keywords : Money growth, Growth, Inflation.
+∗Direction de la Recherche
+†Direction des Etudes et de la Stabilité Financière.
+Les auteurs remercient l’équipe des chercheurs de la BEAC et Erik De Vrijer pour leurs obser-
+vations. Les éventuelles erreurs ou omissions de ce document demeurent du seul fait de ceux-ci.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 4
+1 Méthodologie et données 5
+2 Résultats 7
+2.1 Croissance monétaire et inflation . . . . . . . . . . . . . . . . . . . . . . . 7
+2.2 Croissance monétaire et croissance réelle . . . . . . . . . . . . . . . . . . . 8
+2.3 Inflation et croissance réelle . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Conclusion 12
+Références 13
+2
+
+--- Page 4 ---
+Résumé non technique
+Cette étude examine l’évolution des corrélations empiriques à moyen et long terme entre
+croissance monétaire, inflation et croissance réelle dans l’Union Monétaire d’Afrique
+Centrale (UMAC) entre 1973 et 2012. Trois périodes d’analyses sont retenues : la période
+1973-1990 au cours de laquelle la nature interventionniste des instruments de politique
+monétaire de la BEAC suggère que l’objectif final de la politique monétaire dans l’Union
+était de soutenir le développement économique, la période 1994-2001 durant laquelle
+la BEAC a utilisé des instruments indirects de politique monétaire, et qui précède la
+période de surliquidité bancaire 2002-2012. Pour chacune de ces périodes, les coefficients
+de corrélations de rang de Spearman entre les taux de croissance moyens des agrégats de
+monnaie M1 et M2, de l’indice des prix à la consommation et du PIB réel sont calculés
+et des tests de corrélation de rang de Spearman entre ceux-ci sont implémentés. Les
+principaux résultats obtenus sont les suivants :
+• Il existe une forte corrélation positive entre la croissance monétaire et l’inflation
+avant 2002. Toutefois, depuis 2002, cette corrélation positive n’est plus observée;
+• Une forte corrélation positive est observée entre croissance monétaire et croissance
+réelle dans l’UMAC avant 1990 et après 2001. En revanche, cette corrélation n’est
+pas observée durant la période 1994-2001 ;
+• La corrélation entre croissance réelle et inflation est fortement positive entre 1994
+et 2001. Toutefois, il n’existe pas de corrélation entre inflation et croissance réelle
+dans l’Union sur les périodes 1973-1990 et 2002-2012.
+Si la relation positive entre croissance monétaire et inflation avant 2002 semble confirmer
+les résultats de la littérature suggérant que la croissance monétaire explique l’inflation
+à long terme, l’absence de corrélation entre croissance monétaire et inflation sur la
+période 2002-2012 suggèrerait quant à elle que l’inflation au cours des dernières années
+n’est pas un phénomène purement monétaire dans l’UMAC. Quant à la forte corrélation
+entre croissance monétaire et croissance réelle observée sur les périodes 1973-1990 et
+2002-2012, dans une Union où la croissance est fortement corrélée à l’évolution des
+dépenses publiques, elle serait liée d’une part aux politiques publiques interventionnistes
+avant 1990, et à la forte croissance des prix du pétrole sur la période 2002-2012 d’autre
+part. Pour finir, l’absence de corrélation entre inflation et croissance réelle à moyen et
+long terme sur les périodes 1973-1990 et 2002-2012, elle suggère une hétérogénéité de
+l’impact d’un choc de demande commun sur la dynamique des prix dans l’Union .
+Les corrélations empiriques entre variables n’étant pas synonyme de causalité, des études
+plus approfondies devraient être menées à la suite de ces travaux pour valider ou infirmer
+ces intuitions.
+3
+
+--- Page 5 ---
+Introduction
+La Banque des Etats de l’Afrique Centrale (BEAC) à l’instar de plusieurs autres banques
+centrales a choisi d’adopter la stabilité monétaire comme objectif principal de sa poli-
+tique monétaire. La stabilité monétaire dont il est question revêt deux dimensions étant
+donné que le taux de change du Franc de la Coopération Financière en Afrique Centrale
+(FCFA)1 est ancré à l’euro : une dimension interne en relation avec la stabilité des prix
+et une dimension externe en relation avec un taux de couverture extérieure suffisant de
+la monnaie par ses avoirs en devise. Les statuts de la BEAC prévoient aussi que tout en
+préservant la stabilité monétaire, la Banque Centrale pourrait apporter son soutien aux
+politiques économiques élaborées dans l’Union Monétaire de l’Afrique Centrale (UMAC)2
+qui regroupe ses pays membres.
+L’objectif de stabilité des prix adopté par la BEAC suppose d’une part que l’inflation
+est préjudiciable au bien-être et d’autre part que la BEAC a la capacité de contrôler la
+dynamique des prix dans l’UMAC à travers ses décisions de politique monétaire. Or, le
+systèmefinancierdel’UMACétanttrèspeudéveloppé,ilestplausibledanscecontexteque
+lesdécisionsdepolitiquemonétairesoientassociéesàdesvariationsdelamassemonétaire.
+Par conséquent, le choix de l’objectif de stabilité des prix suggère que les variations de la
+massemonétaireinfluencentladynamiquedesprixdansl’UMAC.Parailleurs,laprimauté
+accordée à l’objectif de stabilité des prix suggère l’existence de potentiels conflits entre la
+stabilité des prix et les objectifs des autres politiques économiques élaborées dans l’Union
+au nombre desquels celui de la croissance économique.
+Pourtant, la littérature théorique tout comme les travaux empiriques ne permettent pas
+toujours de dégager des conclusions nettes sur les relations de long terme entre croissance
+monétaire, inflationetcroissanceréelledansl’espaceetdansletemps. Or, laconnaissance
+de ces relations est d’autant plus importante pour les Etats membres de l’UMAC parce
+qu’ils disposent d’une banque centrale commune (la BEAC) qui définit et conduit la
+politiquemonétairecommuneàtouslespaysmembres. Leshétérogénéitésdescorrélations
+entre ces variables dans l’UMAC devraient être prises en compte dans la conduite de la
+politique monétaire de la BEAC.
+Ce papier examine l’évolution des corrélations empiriques à moyen et long terme entre
+croissance monétaire, inflation et croissance réelle dans l’UMAC sur la période 1973-
+2012. La caractérisation de celles-ci est importante pour la conduite de la politique
+monétaire car, elle permet à la BEAC d’apprécier les effets de long terme de ses décisions
+de politique monétaire. Elle est aussi essentielle pour la modélisation des effets de la
+politique monétaire : l’hétérogénéité des corrélations entre ces variables dans l’Union
+suggèreunemodélisationpaysdeseffetsdelapolitiquemonétairetandisquel’homogénéité
+desrelationspourraitlaisserenvisagerunemodélisationdeseffetsdelapolitiquemonétaire
+sur données agrégées de l’Union. L’originalité de cette étude réside dans le fait qu’il
+n’existe pas à notre connaissance d’étude portant sur l’analyse des corrélations entre
+croissance monétaire, inflation et croissance réelle dans l’UMAC.
+Le choix de l’horizon temporel, moyen et long terme, a été retenu d’une part en raison de
+1Le FCFA est la devise ayant cours légal dans l’UMAC.
+2L’UMAC regroupe le Cameroun, la République Centrafricaine, le Congo, le Gabon, la Guinée Equa-
+toriale et le Tchad.
+4
+
+--- Page 6 ---
+l’indisponibilité d’indicateurs macroéconomiques à fréquence infra-annuelle 3 et, d’autre
+part en raison des difficultés de la politique monétaire à influencer l’activité économique
+à court terme, eu égard à la longueur des délais de réaction et des délais d’impact des
+décisions de politique monétaire. Quant à la portée géographique de l’étude, elle a été
+motivéeparlanécessitédecaractériserlespotentielleshétérogénéitésdescorrélationsentre
+les variables étudiées dans l’UMAC; l’hétérogénéité des corrélations entre deux variables
+sur une période est assimilée dans cette étude à l’absence de corrélation entre leurs taux
+de croissance moyen dans l’Union durant la période concernée.
+Les principaux enseignements de cette étude sont les suivants :
+• Sur les périodes 1973-1990 et 1994-2001, il existe une corrélation positive entre
+croissance monétaire et inflation. En revanche, entre 2002 et 2012, la corrélation
+entre croissance monétaire et inflation est hétérogène dans l’UMAC ;
+• La corrélation entre croissance monétaire et réelle est hétérogène entre 1994 et 2001.
+En revanche, sur les périodes 1973-1990 et 2002-2012, il existe une corrélation pos-
+itive entre croissance monétaire et croissance réelle ;
+• La corrélation entre inflation et croissance réelle est hétérogène sur les périodes
+1973-1990 et 2002-2012. Par contre, il est observé une corrélation positive entre
+inflation et croissance réelle sur la période 1994-2001.
+La suite de ce travail s’articule ainsi qu’il suit. Dans la section 1, nous présentons la
+méthodologieetlesdonnéesutilisées. Lasection2exposelesprincipauxrésultatsobtenus.
+La dernière section conclut le papier.
+1 Méthodologie et données
+Dans cette étude, le moyen terme désigne tout horizon compris entre un et dix ans.
+Le long terme quant à lui fait référence aux horizons temporels supérieurs à dix ans.
+L’analyse des corrélations est effectuée dans l’UMAC dans son ensemble plutôt que dans
+chaque Etat membre en relation avec l’objectif d’identifier les potentielles homogénéités
+des corrélations entre croissance monétaire, inflation et croissance réelle dans l’Union.
+Les données utilisées sont des séries annuelles, couvrant la période 1973-2012 issues de
+la base de données World Development Indicators (WDI) de la Banque Mondiale. Les
+séries de données utilisées pour chaque Etat membre de l’Union sont les suivantes : (i) un
+indicateurd’activité, lePIBréel(GDP,LocalCurrencyUnit), (ii)unindicateurduniveau
+général des prix, l’indice des prix à la consommation (Consumer Price Indice, 2005=100)
+et, (iii) deux agrégats de monnaie, M1 (Money, Local Currency Unit) et M2 (Money and
+Quasi Money, Local Currency Unit).
+Afin d’identifier de potentielles ruptures dans les corrélations entre les variables d’intérêt
+au cours de la période d’étude, la période 1973-2012 a été segmentée en plusieurs sous
+3A titre d’exemple, seul le Cameroun produit actuellement les statistiques du PIB à fréquence
+trimestrielle.
+5
+
+--- Page 7 ---
+périodescaractériséespardeschangementsmajeursdanslaconduitedelapolitiquemoné-
+taire de la BEAC ou par des changements structurels dans l’UMAC. Le tableau ci-dessous
+présente les différentes sous-périodes retenues aux fins de l’analyse.
+Table 1: Périodes retenues aux fins de l’analyse
+PERIODE DESCRIPTION
+Période au cours de laquelle la BEAC utilise des instruments directs
+1973-1990
+dans la conduite de sa politique monétaire
+Période post-dévaluation précédant la situation de surliquidité bancaire
+1994-2001
+au cours de laquelle la BEAC utilise des instruments indirects
+Période de surliquidité bancaire au cours de laquelle la BEAC utilise
+2002-2012
+des instruments indirects
+La période 1973-1990 est une période durant laquelle les statuts de la BEAC ne précisent
+pas clairement l’objectif final de sa politique monétaire. Toutefois, la nature interven-
+tionniste des instruments utilisés suggère que l’objectif final de sa politique monétaire
+au cours de cette période est le soutien au développement économique. En effet, durant
+cette période, des plafonds de refinancement étaient accordés par pays et par branche
+d’activités et les taux d’intérêt des crédits étaient administrés.
+Avec l’adoption de la stabilité monétaire comme objectif final de la politique monétaire
+de la BEAC et l’utilisation de la programmation monétaire4 pour la détermination des
+objectifsderefinancementdanschaquepaysenjanvier1990, laBEACaréduitlecaractère
+interventionniste dans la conduite de sa politique monétaire. Toutefois, ce n’est qu’après
+la dévaluation du FCFA de janvier 19945 , avec la mise en place du marché monétaire de
+l’UMAC en juillet 1994, que la BEAC utilise effectivement des instruments indirects pour
+la conduite de la politique monétaire.
+Entre 2002 et 2012, la liquidité bancaire dans l’UMAC a été structurellement excédentaire
+comme illustrée par le graphique ci-dessous.
+Figure 1: Evolution du ratio réserves libres sur réserves obligatoires dans les pays de l’Union entre 2002
+et 2012
+Source: Auteurs.
+4La programmation monétaire est un modèle de cadrage macroéconomique utilisé pour la détermina-
+tion des plafonds de refinancement dans l’Union
+5Le 01er janvier 1994, le taux de change du FCFA par rapport au Franc français est passé de 1
+FCFA=0,02 Franc Français à 1 FCFA=0,01 Franc Français.
+6
+
+--- Page 8 ---
+La moyenne mensuelle du ratio des réserves libres des établissements de crédits sur les
+réserves obligatoires s’élève à 2,38. Saxegaard (2006) montre que cette situation, qualifiée
+de situation de surliquidité bancaire, réduit l’efficacité de la politique monétaire de la
+BEAC. Afin d’apprécier les potentielles ruptures des corrélations entre monnaie, prix et
+activité induites par la surliquidité bancaire, la dévaluation du FCFA et la mise en place
+du marché monétaire, les périodes 1994-2001 et 2002-2012 ont aussi été retenues aux fins
+de l’analyse.
+Sur chacune des périodes d’analyse retenue, l’examen des corrélations entre croissance
+monétaire, croissance réelle et inflation se fera ainsi qu’il suit. Les taux de croissance
+moyen du PIB réel, de l’indice des prix à la consommation et de chaque agrégat de
+monnaie sont tout d’abord calculés dans chaque pays membre de l’UMAC. Disposant d’un
+échantillon de six observations du taux de croissance moyen de chaque indicateur sur la
+période d’analyse considérée, l’existence d’une corrélation entre les taux de croissance des
+indicateurs est ensuite testée en utilisant le test de corrélation de rang de Spearman. La
+plausibilité de la linéarité de la relation existante entre ces variables est enfin appréciée
+par l’examen du coefficient de corrélation de rang de Spearman.
+Dans ce papier, le non rejet de l’hypothèse nulle d’absence de corrélation entre deux vari-
+ables sur une période d’analyse est assimilé à une hétérogénéité des corrélations entre ces
+deux variables dans l’UMAC. Intuitivement et à titre d’exemple, l’absence de corrélation
+entre croissance monétaire et inflation dans l’Union peut suggérer l’existence de pays à
+faible croissance monétaire et forte inflation et celle des pays à faible croissance monétaire
+et faible inflation.
+2 Résultats
+2.1 Croissance monétaire et inflation
+Sur les périodes 1973-1990 et 1994-2001, il existerait une corrélation positive entre crois-
+sance monétaire et inflation. En revanche, depuis 2002, la corrélation entre croissance
+monétaire et croissance du niveau général des prix est hétérogène dans l’UMAC.
+Le tableau 2 ci-dessous présente les corrélations entre croissance monétaire et inflation
+dans l’Union sur chacune des périodes d’analyses.
+Table 2: Corrélation entre croissance monétaire et Inflation
+Coefficient de corrélation de rang de Spearman
+M1 M2
+Période
+1973-1990 0,48 0,71*
+1994-2001 0,83 0,77*
+2002-2012 0,60 0,60
+* Significatif à 10% ** Significatif à 5% *** Significatif à 1%
+Source: Auteurs.
+7
+
+--- Page 9 ---
+Avant 2002, la corrélation entre croissance monétaire et inflation n’est significative que
+pour l’agrégat de monnaie M2. Si sur les périodes 1973-1990 et 1994-2001, il existe une
+corrélation positive significative entre l’inflation et le taux de croissance de l’agrégat de
+monnaie M2, celle-ci n’est en revanche plus observée depuis 2002 et ce, indépendamment
+de l’agrégat de monnaie considéré.
+La forte corrélation positive entre le taux de croissance de l’agrégat M2 et l’inflation avant
+2002 semble confirmer les résultats de nombreuses études empiriques sur la relation entre
+croissance monétaire et inflation. Walsh (2010) fait un survey des études ayant analysé
+les corrélations entre ces deux variables. Parmi celles-ci, l’une des plus citée est celle
+de Mc Candless et Weber (1995). Ces derniers ont travaillé sur un échantillon de 110
+pays et ont trouvé une droite d’ajustement linéaire du taux d’inflation à la croissance
+monétaire assez proche de la première bissectrice, suggérant ainsi une validation de la
+théorie quantitative de la monnaie. Toutefois, contrairement à l’étude de Mc Candless et
+Weber, les coefficients de corrélation de Spearman entre croissance monétaire et inflation
+sur les périodes 1973-1990 et 1994-2001 ne sont pas assez proches de l’unité, suggérant
+que la croissance monétaire pourrait aussi avoir des effets réels au cours de ces périodes.
+L’hétérogénéité de la corrélation entre inflation et croissance monétaire durant la période
+2002-2012 semble cohérente avec les travaux de Poplawski-Ribeiro et Tartari (2011). Ces
+derniers travaillant sur des données trimestrielles de l’Union couvrant la période 1996-
+2010 aboutissent à la conclusion selon laquelle les variations de la masse monétaire ont un
+impact relativement faible sur la dynamique des prix. Ce résultat suggère que sur la péri-
+ode 2002-2012, des facteurs non monétaires ont été la principale source d’inflation dans
+certains pays de l’Union. Ces facteurs tiennent principalement aux conditions d’offre, à
+l’ouverture commerciale et à la demande publique. Au regard des évolutions économiques
+récentes dans l’UMAC, caractérisées par une intensification des relations commerciales
+avec le reste du monde et un important développement des projets d’infrastructure, les
+composantes non monétaires de la dynamique des prix semblent s’être renforcées depuis
+2002. Cette assertion est soutenue par certains travaux empiriques sur la dynamique
+des prix dans les Etats membres de l’UMAC. On peut noter à cet effet les travaux de
+Kinda (2011) qui trouve que la dynamique des prix au Tchad est expliquée essentielle-
+ment par l’évolution des conditions climatiques, des prix des biens importés, des dépenses
+gouvernementales et les variations du taux de change effectif réel.
+2.2 Croissance monétaire et croissance réelle
+Sur les périodes 1973-1990 et 2002-2012, il existerait une corrélation positive entre crois-
+sance monétaire et croissance réelle dans l’UMAC. En revanche, entre 1994-2001, la
+corrélation entre croissance monétaire et croissance réelle serait hétérogène.
+Les coefficients et les résultats des tests de corrélation de rang de Spearman entre crois-
+sance monétaire et croissance réelle sont présentés dans le tableau 3 ci-dessous:
+8
+
+--- Page 10 ---
+Table 3: Corrélation entre croissance monétaire et croissance réelle
+Coefficient de corrélation de rang de Spearman
+M1 M2
+Période
+1973-1990 0,77* 0,71*
+1994-2001 0,54 0,48
+2002-2012 0,88*** 0,88***
+* Significatif à 10% ** Significatif à 5% *** Significatif à 1%
+Source: Auteurs.
+La forte corrélation positive entre croissance monétaire et croissance réelle sur les péri-
+odes 1973-1990 et 2002-2012 n’est pas surprenante. En effet, entre 1973 et 1990, les Etats
+membres de l’UMAC ont massivement investi en acquérant des parts massives du capital
+des principales entreprises dans des secteurs d’activités jugés prioritaires. Par ailleurs,
+la politique monétaire de la BEAC a été caractérisée par une administration des taux
+d’intérêts et une politique de refinancement visant à favoriser le développement de ces
+secteurs d’activités (Avom et Eyeffa, 2007). Le tissus économique, dominé par les en-
+treprises publiques, a au cours de cette période bénéficié de la politique de refinancement
+de la Banque centrale. Il est donc plausible d’observer une corrélation positive entre
+croissance monétaire et croissance réelle durant cette période.
+Quant à la période 2002-2012 caractérisée par une flambée des cours du pétrole, elle s’est
+accompagnée d’une forte croissance du PIB pétrolier de l’UMAC qui s’est élevée à près
+de 7 %. Dans une Union caractérisée par une croissance essentiellement tirée par les
+dépenses publiques, la hausse des ressources budgétaires induites par la hausse des prix
+pétrole a induit une croissance du PIB réel. Concomitamment à la hausse du PIB réel,
+la hausse des recettes pétrolières a aussi induit une forte progression des avoirs extérieurs
+de l’Union qui sont passés d’environ 853 milliards en 2002 à 8749 milliards de francs CFA
+en 2014, et donc de la masse monétaire eu égard à la hausse des dépenses publiques. La
+flambée des cours du pétrole pourrait donc justifier les comouvements entre croissances
+monétaire et réelle entre 2002 et 2012.
+L’absence de corrélation entre croissance monétaire et croissance réelle sur la période
+1994-2001, elle pourrait être due d’une part aux restructurations et aux privatisations des
+entreprises publiques dans l’Union, et à l’abandon des instruments directs par la BEAC
+dans la conduite de sa politique de refinancement.
+L’ambiguïté de la nature de la corrélation entre croissance monétaire et croissance réelle
+semble cohérente avec les travaux empiriques effectués ailleurs. Dans leur étude, Mc
+Candless et Weber (1995) aboutissent à la conclusion selon laquelle il n’existe pas de
+relation de long terme entre croissance monétaire et croissance réelle sur l’échantillon de
+110 pays sur lequel porte leur étude. Néanmoins, lorsqu’ils considèrent uniquement les
+pays de l’OCDE, ils trouvent une corrélation positive entre croissance réelle et croissance
+monétaire.
+9
+
+--- Page 11 ---
+La nature des corrélations entre croissance monétaire et réelle a toujours été au chœur
+des débats de politique monétaire. S’il est admis dans le cadre de la nouvelle synthèse
+néokeynésienne qu’à long terme, toute variation de la masse monétaire se traduit par une
+variation équivalente du niveau général des prix, il est aussi défendu qu’à court terme, les
+politiques monétaires ont des effets réels, eu égard aux rigidités nominales et réelles. Les
+théoriciensdel’économiedutravailquantàeuxfontvaloirquelapolitiquemonétairepeut
+avoir des effets de long terme sur l’activité économique en raison des effets d’hystérèse. Si
+le fait que les variations de la masse monétaire ont des effets réels à court terme semble
+faire l’objet d’une unanimité au plan théorique, la caractérisation opérationnelle de cet
+horizon ne semble pas quant à elle faire l’objet d’une unanimité.
+2.3 Inflation et croissance réelle
+Sur les périodes 1973-1990 et 2002-2012, il n’existe pas de corrélation entre inflation et
+croissance réelle. En revanche, entre 1994 et 2001, il existe une corrélation positive entre
+inflation et croissance réelle.
+Les résultats des corrélations empiriques entre inflation et croissance réelle sont présentés
+dans le tableau ci-dessous.
+Table 4: Corrélation entre inflation et croissance réelle
+Coefficient de corrélation de Rang de Spearman
+Période
+1973-1990 0,20
+1994-2001 0,83**
+2002-2012 0,54
+* Significatif à 10% ** Significatif à 5% *** Significatif à 1%
+Source: Auteurs.
+Sur la période d’étude, la tendance observée est l’absence de corrélation entre inflation
+et croissance réelle; la corrélation positive entre inflation et croissance réelle entre 1994
+et 2001 pouvant être la conséquence de la dévaluation de 1994. En effet, la dévaluation
+de 1994 s’est accompagnée d’une hausse des prix en relation avec la dépréciation du taux
+de change du Franc CFA et une nette amélioration du solde des transactions courantes
+comme le suggère le graphique ci dessous. Cette situation suggère qu’un choc de demande
+commun a des effets hétérogènes sur la dynamique des prix de l’Union.
+10
+
+--- Page 12 ---
+Figure 2: Evolution du taux d’inflation en moyenne annuelle et du solde des transactions courantes en
+% du PIB de l’UMAC entre 1990 et 2001
+Source: BEAC
+L’absence de corrélation entre inflation et croissance réelle n’est pas surprenante. Elle
+pourrait être expliquée par les faibles taux de bancarisation dans les pays de l’Union et
+par les insuffisances du climat des affaires qui limitent la capacité des banques à distribuer
+le crédit à partir de l’épargne collectée; situation atténuant sensiblement les tensions sur
+la demande pouvant découler des revenus issus de l’exploitation des ressources minières
+et des produits de base dans l’Union.
+En effet, le taux de bancarisation, calculé comme la proportion de la population détenant
+un compte bancaire, se situait en 2012 à moins de 10% . La profondeur du système
+financier, calculée comme le ratio entre les crédits au secteur privé et le PIB, se situe à
+9,8% en 2012. La faible profondeur du système financier dans un contexte de surliquidité
+bancaire pourrait être associée aux insuffisances du climat des affaires, notamment le
+manque d’informations financières de qualité pouvant justifier la réticence des banques
+à distribuer le crédit bancaire aux petites et moyennes entreprises. En 2012, la Guinée
+équatoriale, meilleur pays de l’Union dans le classement Doing Business de la Banque
+mondiale n’occupait que la 150e place (Banque mondiale, 2012).
+11
+
+--- Page 13 ---
+Conclusion
+Ce papier a examiné l’évolution des corrélations empiriques à moyen et long terme entre
+croissance monétaire, inflation et croissance réelle dans l’UMAC sur la période 1973-2012.
+Trois périodes d’analyse ont été considérées : la période 1973-1990 au cours de laquelle la
+nature interventionniste des instruments de politique monétaire de la BEAC suggère que
+l’objectif final de la politique monétaire a été de soutenir le développement économique
+dans l’Union; la période 1994-2001 durant laquelle la BEAC a utilisé des instruments
+indirects de refinancement et qui précède la période de surliquidité bancaire 2002-2012.
+Les principaux enseignements de cette étude sont les suivants :
+• La croissance de la masse monétaire pourrait expliquer la dynamique de l’inflation
+avant 2002. Toutefois, depuis 2002, il n’existerait pas de corrélation entre croissance
+monétaire et inflation dans l’UMAC ;
+• Il existe une forte corrélation positive entre croissance monétaire et croissance réelle
+sur les périodes 1973-1990 et 2002-2012. En revanche, entre 1994 et 2001, la cor-
+rélation entre croissance monétaire et croissance réelle dans l’Union est hétérogène
+;
+• La corrélation entre croissance réelle et inflation est fortement positive entre 1994
+et 2001. En revanche, il n’y a pas de corrélation entre inflation et croissance réelle
+dans l’Union sur les périodes 1973-1990 et 2002-2012.
+Si la relation positive entre croissance monétaire et inflation avant 2002 semble cor-
+roborer les résultats des travaux empiriques suggérant que la croissance monétaire
+explique l’inflation à long terme, l’absence de corrélation entre croissance monétaire
+et inflation sur la période 2002-2012 suggèrerait quant à elle que l’inflation n’est pas
+un phénomène purement monétaire dans l’UMAC. Quant à la forte corrélation entre
+croissance monétaire et croissance réelle observée sur les périodes 1973-1990 et 2002-2012
+dans une Union où la croissance est essentiellement liée à l’évolution des dépenses
+publiques, elle serait liée d’une part aux politiques publiques interventionnistes (avant
+1990) et à la forte hausse des prix du pétrole sur la période 2002-2012 d’autre part. Pour
+finir, l’absence de corrélation entre inflation et croissance réelle à moyen et long terme
+sur les périodes 1973-1990 et 2002-2012 suggère l’hétérogénéité de l’impact d’un choc de
+de demande commun sur la dynamique des prix dans l’Union.
+Les corrélations empiriques entre variables n’étant pas synonymes de causalité, des études
+plusapprofondiesdevraientêtremenéesàlasuitedecestravauxpourétayercesintuitions.
+12
+
+--- Page 14 ---
+Références
+[1] Avom,D.&Eyeffa.S.(2007).QuinzeansderestructurationbancairedanslaCEMAC,
+qu’avons-nous appris? Revue d’économie financière Vol 89, PP 189-205.
+[2] Banque Mondiale. (2012). "Doing Business 2012 : Entreprendre dans un monde plus
+transparent:Comparaisondesréglementationsquis’appliquentauxentrepriseslocales
+dans 183 économies"
+[3] Caceres, C., Markos Poplawski-Ribeiro & Darlena Tartari. (2011). Inflation Dynamics
+in the CEMAC region. IMF Working Paper.
+[4] Kinda, T. (2011). Modeling Inflation in Chad. IMF Working Paper.
+[5] McCandless, G. T., & W. E. Weber. (1995). Some Monetary Facts. Federal Reserve
+Bank of Minneapolis, 19(3).
+[6] Saxegaard.M. (2006). Involuntary Excess Liquidity and the Effectiveness of Monetary
+Policy : Evidence from Sub-saharan Africa. IMF Working paper-115.
+[7] Walsh, C. (2010). Monetary Theory and Policy. The MIT Press Cambridge.
+13

@@ -1,0 +1,597 @@
+Source PDF : Impact_macroéconomique_des_établissements_de_microfinance_en_Afrique_Centrale_b5749bcf.pdf
+Chemin original : scraping\beac_data\Publications\Etude Thematique\Impact_macroéconomique_des_établissements_de_microfinance_en_Afrique_Centrale_b5749bcf.pdf
+Date extraction : 15/06/2026 21:52:58
+======================================================================
+
+--- Page 1 ---
+B A N Q U E D E S E T A T S D E L ’ A F R I Q U E C E N T R A L E
+Etude thématique 2019
+MICROFINANCE ET SURLIQUIDITÉ BANCAIRE DANS LA CEMAC
+IMPACT MACROECONOMIQUE DES ETABLISSEMENTS DE
+MICROFINANCE EN AFRIQUE CENTRALE
+BIKAI Jacques Landry
+bikai@beac.int
+KEUNGNE KOUOTANG Leo spencer
+keungne@beac.int
+NGOMBA BODI Francis Ghislain
+ngomba@beac.int
+B AN QUE DE S E TAT S DE Les opinions émises dans cet article sont
+L’AFR IQU E CEN TR ALE p r o pres à leur (s) auteur (s) et ne
+736, Ave n u e M o n se ign e u r
+représentent pas nécessairement la position
+Vo gt B P:1917 Yao u n d é
+de la Banque des Etats de l’Afrique Centrale.
+Cam e r o u n
+Te l :(237)2 22 234 030 - ------------------------------------------------------------------------
+Fax : (237) 22 2 2 33 329 The opinions expressed in this paper are
+Dir e c t io n d e s Et u d e s, d e la those of the author (s) and don’t necessarily
+R e c h e r c h e e t d e s St at ist iq u e s
+represent the views of the Central Bank of
+03 jan vie r 20 22 Central Africa States.
+D I R E C T I O N G E N E R A L E D E S E T U D E S F I N A N C E S E T R E L A T I O N S I N T E R N A T I O N A L E S
+
+--- Page 2 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+1
+Etude thématique 2019
+
+--- Page 3 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Résumé
+L’objectif de cette étude est d’évaluer l’impact macroéconomique induit par les activités
+des Microfinances. En effet, celles-ci exhibent depuis maintenant une décennie une
+explosion de leurs activités, notamment les crédits octroyés aux agents économiques. Ce
+développement des microfinances, en touchant une large partie de la population
+défavorisée avec des services financiers de base, pourrait influencer positivement la
+création de richesse. Nous évaluons empiriquement ce postulat dans le cadre d’un modèle
+vectoriel autorégressif structurel. Les diverses simulations effectuées, confortées par des
+tests de robustesse, montrent une faiblesse marquée de la contribution de l’activité des
+EMF à l’accroissement de la valeur ajoutée dans la CEMAC. Cette faiblesse peut s’expliquer
+par la destination des crédits octroyés par les EMF, principalement à des fins de
+consommation. Elle peut aussi s’expliquer par le coût élevé du crédit qui potentiellement
+pourrait annuler les gains initiaux de bien-être.
+2
+Etude thématique 2019
+
+--- Page 4 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Introduction
+L’activité bancaire traditionnelle a pour but de convoyer la liquidité des agents en
+excédent vers les agents en déficit. Pour ce faire, les banques mettent en œuvre des
+moyens et des méthodes permettant d’acquérir des informations pertinentes sur les
+comportements des emprunteurs, qui pourraient impacter leur capacité de
+remboursement futur. En ce sens, une des justifications théoriques de l’activité bancaire
+se trouve être la capacité des banques à réduire les asymétries d’informations dans les
+contrats de crédit (Diamond et Dybvig, 1981). Cependant, il existe des agents
+économiques pour lesquels la réduction des asymétries d’information s’avère ardue du
+point de vue de la banque traditionnelle, et ce pour plusieurs raisons.
+Tout d’abord, l’activité économique de ces agents s’exerce en dehors des canaux dits
+« formels ». Dans les pays en voie de développement, notamment en zone CEMAC, le tissu
+économique est constitué d’un nombre important d’entités informelles. Ces dernières ne
+tiennent généralement pas de comptabilité adéquate et à jour. Parce que ces activités sont
+informelles : (i) le banquier traditionnel n’arrive pas à saisir le cycle de production et de
+commercialisation ; (ii) l’accès au crédit des agents économiques dans l’informel est
+restreint car ceux-ci ne disposent pas de collatéraux consistants (étant entendu que les
+facteurs de production ont deux fonctions à savoir, d’une part produire des biens et
+services, et d’autre part constituer des collatéraux aux contrats de crédit.
+Ensuite, les revenus de ces agents sont assez faibles. Ils ne sont donc pas en mesure de
+supporter les coûts bancaires minimums. Ainsi, les banques préfèrent se concentrer sur
+les segments de clientèle à revenus moyens et élevés. A cet élément d’explication pourrait
+se greffer la forte préférence que les agents ont pour les billets et pièces, par rapport à la
+monnaie scripturale. De ce fait, une bonne partie des transactions financières entre agents
+s’effectue en dehors des circuits bancaires. Ce flux d’information non capté par les
+banques participe à accroître les asymétries d’informations, et partant, réduire la
+probabilité de conclusion des contrats de crédit.
+Enfin, dans la CEMAC subsiste un environnement généralisé de fortes asymétries
+d’information. Les droits de propriété ne sont pas clairement identifiés à cause du déficit
+d’intégrité des registres de propriété. L’exemple le plus patent est relatif aux droits
+fonciers, pour lequel plusieurs affaires de multiples ventes ou de propriété nébuleuse sont
+pendantes devant les tribunaux. Cette circonscription imprécise des droits de propriété
+entraîne des délais allongés dans la conclusion des contrats, et bien plus, des coûts de
+transaction élevés. La lenteur des procédures judiciaires, et le manque de confiance en la
+justice viennent encore exacerber cet environnement délétère des affaires. Dans ce type
+de configuration, la banque est incitée à se cantonner à ses activités traditionnelles en se
+focalisant sur des signatures fiables.
+Face à cette prudence du système bancaire traditionnelle, et tenant compte des facteurs
+lointains tels que le manque de confiance aux banques suite aux faillites bancaires des
+années 1990, ont émergé des établissements de microfinance dans l’ensemble des pays
+de la CEMAC [Avom et Eyeffa (2007)]. Ces établissements viennent en appui aux entités
+exclues du système bancaire traditionnel.
+3
+Etude thématique 2019
+
+--- Page 5 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Le Règlement N°01/17/CEMAC, en son article 1er définit l’activité de microfinance comme
+étant « une activité exercée par des entités agréées n’ayant pas le statut de banque ou
+d’établissement financier tel que défini à l’annexe portant harmonisation de la
+réglementation bancaire dans les Etats de l’Afrique Centrale et qui pratiquent, à titre
+habituel, des opérations de crédit et ou de collecte de l’épargne et offrent des services
+financiers spécifiques au profit des populations évoluant pour l’essentiel en marge du
+circuit bancaire traditionnel ». Cette définition tient compte du fait que les EMF offrent
+des services financiers de base aux agents économiques délaissés par les banques
+traditionnelles. Pour ce faire, elles utilisent des méthodes de gestion du risque différentes
+de celles des banques traditionnelles. La méthode la plus emblématique est basée sur la
+réputation sociale. Ainsi, le contrat de crédit ne met pas seulement en présence
+l’emprunteur et le bailleur de fonds ; y sont également associés les autres membres de la
+communauté. De ce fait, l’emprunteur est incité à rembourser son crédit au risque d’être
+symboliquement exclu de sa communauté. Son expression la plus connue se retrouve
+dans les tontines, mais aussi dans les réseaux MC2 (Mutuelle Communautaire de
+croissance). Cette notion de réputation sociale implique une certaine proximité que
+n’autorise pas l’activité bancaire traditionnelle où les relations avec les emprunteurs sont
+essentiellement formelles. La proximité entre les parties au contrat de crédit permet au
+bailleur de fonds de suivre de près l’activité économique de l’emprunteur, et ainsi de lui
+proposer des outils de financement adaptés à son environnement et à son activité. Cette
+proximité devrait ainsi participer à la réduction des taux de non remboursement des
+crédits.
+Dans la CEMAC, l’activité de microfinance est en plein essor : le total actif des EMF a
+doublé entre 2010 et 2016, passant de 600 milliards de FCFA à plus de 1 230 milliards
+FCFA. Cette évolution exponentielle est confirmée par le niveau élevé des dépôts des EMF
+auprès du système bancaire1. Les crédits distribués par les EMF ont suivi la même
+dynamique, passant de 200 milliards à plus de 500 milliards sur la même période. Au 31
+décembre 2018 la CEMAC dénombrait 619 EMF2 avec un volume de crédit approchant les
+600 milliards de FCFA, soit environ 10 % seulement des crédits octroyés par des banques
+commerciales. Une si faible proportion laisse penser à des effets marginaux de l’activité
+de microfinance sur l’activité. Cette hypothèse est d’autant plus plausible que les travaux
+sur les canaux de transmission de la politique monétaire sur l’activité des pays de la
+CEMAC tendent généralement à montrer que les crédits octroyés par les banques ont des
+effets macroéconomiques limités.
+Toutefois, l’impact macroéconomique des microfinances pourrait se situer dans le large
+débat théorique et empirique sur les effets positifs du développement financier sur la
+croissance économique. Il s’agirait ainsi d’une influence indirecte, à travers la
+concurrence qu’elles peuvent faire subir aux banques, et l’accroissement de la masse
+monétaire résultant de leur activité de crédit. Cette influence indirecte pourrait aussi
+s’exercer par les effets positifs de la complémentarité technique, institutionnelle et
+financière, entre les banques et les microfinances. L’influence directe pourrait s’effectuer
+1 Ces dépôts évalués à environ 400 milliards de FCFA contribuent également à alimenter la surliquidité
+dans la CEMAC.
+2 Cameroun (412), Centrafrique (11), Congo (57), Gabon (14), Guinée Equatoriale (03) et Tchad (122).
+4
+Etude thématique 2019
+
+--- Page 6 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+par les crédits qu’elles accordent aux micro-entrepreneurs (exclus du système bancaire
+traditionnel), accroissant ainsi la valeur ajoutée et l’inflation.
+L’objectif de ce travail est donc d’évaluer les effets macroéconomiques de l’activité de
+microfinance. Deux principaux canaux pourraient permettre d’appréhender cette
+causalité : (i) un canal direct fonction de la destination des crédits accordés par les EMF ;
+(ii) un canal indirect via les dépôts bancaires à travers le recyclage des dépôts des EMF.
+Même si les crédits distribués par les EMF représentent environ 10 % des crédits accordés
+par les banques, l’influence macroéconomique de ces crédits pourrait être conditionnée
+par la nature de l’activité qu’ils permettent de financer. Ainsi, cette influence sera d’autant
+plus forte que ces crédits permettront de financer l’activité productive plutôt que la
+consommation courante.
+Dans la suite de l’article nous allons tout d’abord analyser les potentiels canaux par
+lesquels la microfinance pourrait impacter l’activité macroéconomique, ensuite, nous
+présenteront une brève revue de littérature sur le sujet, et enfin le modèle SVAR utilisé à
+cet effet ainsi que les résultats qui en découlent.
+1. Par quels canaux le crédit accordé et les dépôts collectés par les EMF
+de la CEMAC peuvent-ils influencer la situation macroéconomique ?
+1.1 Canal direct sur l’activité économique : la destination des crédits
+accordés par les EMF
+Ce canal direct peut avoir des effets ambigus sur la création de valeur ajoutée domestique,
+en fonction de la part des crédits productifs dans le crédit total accordé par les EMF.
+En effet, les crédits productifs destinés à accroître la capacité de production des unités
+économiques résidentes participent à la hausse de la valeur ajoutée, et partant à la
+croissance réelle et dans une moindre mesure à l’inflation (l’inflation dans la CEMAC étant
+essentiellement un phénomène d’offre).
+Les relations d’influence sont résumées comme suit :
+Crédits EMF   Investissement   Valeur ajoutée   Croissance réelle et 
+Inflation
+Cependant, les crédits de consommation font croître la demande intérieure ; ce qui crée
+un appel d’air en faveur des biens importés avec un effet négatif sur les réserves de change
+et sur le déficit commercial.
+Crédits EMF   Consommation finale   Importations   Solde commercial et 
+Réserves de change
+Les statistiques sur la destination des crédits octroyés par les EMF ne sont pas
+disponibles. Cependant, nous pouvons les approximer indirectement à travers les
+maturités.
+5
+Etude thématique 2019
+
+--- Page 7 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Fin 2016, les statistiques pour la CEMAC montrent une dominance des crédits à court
+terme qui représentent près de la moitié du volume de crédits bruts octroyés par les EMF,
+20 % pour les crédits à moyen terme et 14 % pour les crédits à long terme. Par pays, seuls
+la Centrafrique et le Congo ne reflètent pas l’évolution sous-régionale. On y observe une
+orientation du crédit principalement vers des maturités de moyen terme, notamment au
+Congo où ils représentent plus de 77 % de l’encours brut de crédit.
+Il apparaît ainsi que la moitié du volume de crédit est octroyée sur une maturité de court
+terme ce qui permettra de financer davantage la consommation. On s’attendrait donc dans
+ce cas à de potentiels effets sur l’inflation et non nécessairement sur l’activité.
+1.2 Canal indirect via les dépôts bancaires : le recyclage des dépôts des
+EMF
+Les EMF recueillent des dépôts auprès de la clientèle. Contrairement aux EMF asiatiques
+qui financent leur activité de crédit sur la base de leurs fonds propres, les EMF de la
+CEMAC le font sur la base des dépôts qu’elles reçoivent. On observe cependant un volume
+de crédit accordé inférieur au volume de dépôt reçu. De ce fait, en l’absence d’un marché
+de refinancement des EMF, elles sont incitées à placer leurs excédents de liquidités auprès
+des banques, ce qui participe au gonflement de la liquidité bancaire qui est déjà assez
+élevée. Les dépôts des EMF auprès des banques sont estimés à environ 4OO milliards de
+FCFA.
+D’un autre côté, la part des dépôts détenus par les EMF dans la masse monétaire est assez
+faible, de même que la part des crédits octroyés par les EMF dans les crédits totaux du
+système financier. Par conséquent, l’effet inflationniste de l’activité des EMF peut a priori
+être considéré comme négligeable. Ce d’autant plus que certaines études montrent que la
+masse monétaire globale n’influence l’inflation que très faiblement (Bikai et al, 2016).
+Cependant, l’existence de relations étroites entre banques et microfinances autorise à
+croire à un lien d’influence indirect. A cet égard, il est important de nuancer en faisant
+appel à la fragmentation du marché bancaire de la CEMAC. En effet, il existe des banques
+dont la liquidité est structurellement excédentaire et des banques où elle est
+structurellement déficitaire. Les dépôts des EMF dans les banques à excédent de liquidité
+ne participent qu’à gonfler la surliquidité préexistante, tandis que sur les banques en
+déficit de liquidité, ces dépôts peuvent avoir des effets sur l’activité ou les prix.
+Par ailleurs, le coefficient de corrélation entre les dépôts bancaires et les dépôts des EMF
+est assez élevé, et se situe à 0.89. Ce qui témoigne d’une relation étroite entre ces deux
+variables.
+6
+Etude thématique 2019
+
+--- Page 8 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Figure 1 : Evolution des dépôts bancaires et des EMF
+12 000,000 1 000,000
+900,000
+10 000,000
+800,000
+700,000
+8 000,000
+600,000
+6 000,000 500,000
+400,000
+4 000,000
+300,000
+200,000
+2 000,000
+100,000
+- -
+1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3
+Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q
+7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 5 5 6 6
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Dépôts EMF Dépôts Bancaires
+Source : BEAC/COBAC
+2. Etat de la littérature sur les interrelations entre microfinance et
+macroéconomie
+2.1 Le débat entre développement financier et croissance économique
+La question de l’influence des microfinances sur la croissance économique s’inscrit dans
+le débat général sur l’apport positif du développement financier sur la croissance réelle.
+Levine (1997) met en avant le fait que la compréhension juste du processus de croissance
+passe par une meilleure compréhension de l’évolution et de la dynamique des systèmes
+financiers.
+Ce débat a bénéficié de l’apport séminal de Goldsmith (1969) qui documente la relation
+entre développement financier et développement économique. Cette relation transite
+essentiellement via le canal de l’investissement. En effet ; le développement du secteur
+financier, notamment les marchés de dettes à court terme et les marchés des fonds
+prêtables (marché financier), optimise et accroît la quantité de crédit disponible pour le
+secteur privé afin de mettre en œuvre des projets d’investissement. Ce qui augmente la
+croissance potentielle de l’économie, c’est-à-dire la croissance de long terme. Cette
+importance du long terme est illustrée par Levine (1997) qui pense que le lien finance-
+croissance s’inscrit au-delà des considérations de court terme.
+En effet, une nuance a été mise en évidence par rapport au degré de significativité de cette
+relation. La majorité de la littérature a identifié la significativité de cette relation à long
+terme, à cause du principal canal d’interrelation à savoir l’investissement qui est le
+principal déterminant de la croissance à long terme. (Bist, 2018 ; Mutlugun, 2014 ;
+Tieguhong et Mandiefe, 2017 ; Ncanywa et Mabusela (2019) ; Acaravci, Ozturk et
+Acaravci, 2009 ; Odhiambo, 2004). A court terme, cette relation a été trouvé non
+significative. En effet, le développement de l’intermédiation financière entraîne un
+7
+Etude thématique 2019
+
+--- Page 9 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+accroissement de la capacité de mobilisation de l’épargne des agents, ce qui n’est pas
+nécessairement profitable à la consommation.
+Cependant, même lorsque cette relation est non significative (Al-zubi, Al-rjoub et Abu-
+Mhareb, 2006), la recommandation commune qui ressort des résultats de toutes les
+études relatives à ce sujet interpelle les décideurs sur la nécessité d’accélérer les réformes
+du système financier qui tendent à accroître l’approfondissement financier et faciliter
+l’allocation des ressources. Toutefois, il est important de considérer les potentiels risques
+que peuvent entretenir un développement excessif et rapide du système financier, surtout
+dans des conditions réglementaires inexistantes ou inadéquates. En effet, le
+développement financier n’agit pas sur le volume, mais sur l’efficience de l’investissement
+(De Gregorio et Guidotti, 1995). Or, cette efficience peut être comprimée par des facteurs
+tels que le manque d’intégrité des procédures judiciaires ou le défaut de protection des
+investisseurs. C’est ce qui permet d’expliquer pourquoi les réformes de libéralisation
+financière en Afrique n’ont pas marché.
+Ainsi donc, l’approfondissement financier emmène à un dilemme entre une croissance
+élevée et une forte probabilité de crise financière (Levine, Loayza et Beck, 2000 ;
+Schularick et Taylor, 2012 ; Loayza et Rancière, 2006 ; Rancière, Tornell et Westerman,
+2006 ; Caldera-Sanchez et Gorri, 2016). De ce fait, pour les pays à revenus intermédiaires,
+l’effet positif de cet approfondissement financier est susceptible d’être contrebalancé par
+le coût des crises financières qui peuvent en découler. (Rousseau et Wachtel, 2011 ;
+Arcand, Berkes et Panizza, 2015 ; Levchenko, Rancière et Thoenig, 2009)
+Le débat prend une autre tournure dans les pays développés. La littérature a convergé
+vers le fait qu’il existe un niveau d’approfondissement financier au-delà duquel la finance
+peut avoir des effets négatifs sur l’économie, notamment sur le financement des activités
+productives et une mauvaise allocation des ressources.
+Tout compte fait, l’essentiel du débat sur les effets de l’approfondissement financier s’est
+concentré sur la dynamique souhaitée du crédit bancaire au secteur privé. Et de ce fait, le
+crédit des établissements de microfinance a été relégué au second plan.
+2.2 La microfinance comme instrument de réduction de la pauvreté et des
+inégalités
+L’intérêt de la microfinance comme outil dans la lutte contre la pauvreté est
+institutionnellement admis. Alors que son impact positif n’est plus à démontrer au niveau
+microéconomique, ses bienfaits sont encore à prouver au niveau macroéconomique,
+principalement à cause de la carence de données surtout dans les pays en développement.
+La microfinance est connue pour permettre aux couches les plus défavorisées de la
+population de disposer d’un crédit (micro-crédit) afin de mener à bien leurs activités
+productives ou commerciales.
+En ce sens elles sont susceptibles d’avoir une part active dans la réduction de la pauvreté
+dans les pays en développement, mais également dans le processus d’inclusion financière.
+8
+Etude thématique 2019
+
+--- Page 10 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+La microfinance agit sur la distribution et la répartition des revenus. Selon Batbekh et
+Blackburn (2008), elle permet de réduire la pauvreté et les inégalités. Pour le démontrer,
+les auteurs utilisent un modèle macroéconomique dynamique à générations imbriquées
+et modélisent la microfinance comme une innovation du marché du crédit qui permet
+d’offrir des crédits sans collatéraux matériels, ou plutôt le collatéral est représenté par la
+proximité et la confiance sociale. Ainsi, le contrat de crédit n’est pas individuel, mais
+collectif.
+Hermes (2014) confirme l’effet des microfinances sur la réduction des inégalités à l’aide
+d’un panel de 70 pays en développement.
+Lansana, Diadié et Lessoua (2016) s’inscrivent dans la même veine en optant pour une
+modélisation en panel hétérogène. Pour eux, l’accès au micro-crédit accroît le revenu des
+pauvres et participe à la réduction des inégalités.
+D’autres analyses débouchent sur des résultats plus mitigés et mettent en avant un effet
+sur la pauvreté, mais avec des effets limités sur les inégalités. C’est le cas d’Arif et al (2019)
+qui parviennent à cette conclusion grâce à un panel constitué de 33 provinces en
+Indonésie.
+2.3 Les effets de la microfinance sur les inégalités et la pauvreté sont
+limités
+Hermes (2014), de même que Van Rooyen, Stewart et de Wet (2012), tempèrent les
+résultats précédents en statuant que cet impact est relativement modeste. Les
+microfinances ne sauraient constituer une panacée à cette fin. Une explication de cet
+impact mitigé viendrait du fait que les prêts des EMF seront orientés vers des activités
+non agricoles, contrairement aux prêts informels ou bancaires. En effet, les EMF ont des
+calendriers de remboursement serrés et des exigences de collatéral essentiellement
+foncières ; lesquelles caractéristiques ne concordent pas avec le financement du secteur
+agricole (Pellegrina, 2011).
+Une autre explication viendrait des taux d’intérêt élevés pratiqués par les microfinances,
+en contrepartie de l’élargissement de l’accès au crédit. Ces taux d’intérêt élevés
+transfèrent les gains de bien-être initiaux (acquisition du crédit pour augmenter la
+productivité de la petite entreprise) vers les catégories aisées de la population (Buera,
+Kaboski et Shin 2017 ; Doligez, 2002).
+2.4 L’impact sur certaines variables macroéconomiques est mitigé
+La microfinance peut affecter l’épargne des agents économiques. Ahlin et Jiang
+(2008) l’illustrent par un modèle d’équilibre générale emprunté à Banerjee et Newman
+(1993) dans lequel la microfinance représente également une innovation financière qui
+accroît l’accès des emprunteurs pauvres au crédit en collectivisant les contrats de crédit.
+Le non remboursement du crédit a une portée sociale forte et dissuade les emprunteurs
+9
+Etude thématique 2019
+
+--- Page 11 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+véreux. L’impact de la microfinance est d’autant plus important que la possibilité de sortir
+de la pauvreté et d’accroître son revenu, transitent essentiellement par la capacité
+d’épargne (« saver graduation »), plutôt que le fait de disposer d’un revenu au-dessus de
+la moyenne (« winner graduation »).
+Buera et al (2012) estiment quant à eux dans un modèle d’équilibre général
+dynamique stochastique que l’impact des microfinances sur l’activité et le capital est
+faible.
+Maksudova (2010) suggère cependant que les effets dépendent du niveau de
+développement économique du pays, du niveau de développement du secteur de la
+microfinance, des catégories de revenus, mais surtout de la concurrence entre
+microfinances, avec des externalités négatives potentielles sur les banques.
+3. Evaluation empirique de l’influence macroéconomique de l’activité
+des EMF
+3.1. Les hypothèses du modèle VAR structurel
+Conformément aux canaux identifiés précédemment, nous élaborons une représentation
+autorégressive vectorielle des variables explicitées dans les canaux de transmission. Cette
+modélisation a le mérite de tenir compte des interdépendances entre diverses variables.
+Les variables suivantes entrent dans le modèle VAR : la croissance réelle, l’inflation, la
+masse monétaire, les crédits des EMF, et la consommation finale.
+De manière formelle, considérons un VAR de forme structurelle :
+A Y = A Y +A Y +⋯+A Y +ε (1)
+0 t 1 t−1 2 t−2 p t−p t
+Sa forme réduite s’écrit comme suit sous forme matricielle :
+𝑌 = 𝑍 𝛽+ 𝑒 (2)
+𝑡 𝑡 𝑡
+L’estimation de la forme réduite du VAR nous permet d’obtenir les résidus, qui
+représentent l’information non expliquée par les variables du modèle.
+Pour passer de la forme réduite à la forme structurelle présentée plus haut, nous faisons
+l’hypothèse que ces résidus représentent une combinaison de chocs structurels.
+𝑒 = 𝑨 𝜀 (3)
+𝑡 𝑡 𝑡
+Avec 𝑨 une matrice carrée.
+𝑡
+Pour recouvrer ces chocs structurels, nous avons besoin de faire des restrictions sur la
+matrice A qui lie les résidus de la forme réduite du VAR aux perturbations structurelles.
+10
+Etude thématique 2019
+
+--- Page 12 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Pour appliquer ces restrictions, nous nous inspirons de la méthode de Choleski associée
+aux contraintes de signe.
+L’approche de Choleski nous impose de bien choisir l’ordre des variables dans le VAR. Cet
+ordre vise à donner un sens économique au modèle et le classement des variables
+conditionne les résultats attendus, d’où l’importance de s’appuyer sur des hypothèses
+économiques fortes. L’ordre choisi dans le cadre de ce travail est le suivant :
+i. Croissance du PIB réel non pétrolier ;
+ii. Consommation finale ;
+iii. Inflation ;
+iv. Masse monétaire ;
+v. Crédits des EMF.
+Cet ordre implique que chaque variable influence de façon contemporaine les variables
+qui la suivent, sans pouvoir influencer celles qui la précèdent. L’ordre choisi est inspiré
+des travaux de Christiano, Eichenbaum et Evans (2005) qui préconisent de commencer
+par des variables du secteur réel ensuite du secteur monétaire. Ce principe permet de
+tenir compte des délais de réaction de l’activité aux variables monétaires. En d’autres
+termes, la masse monétaire et les crédits des EMF ne peuvent influencer la croissance, la
+consommation et l’inflation qu’avec un certain décalage.
+Afin de tester nos canaux de transmission potentiels, notamment via la consommation et
+l’investissement, nous rajoutons à la méthode de Cholesky des contraintes de signe. Nous
+supposons ainsi que qu’il devrait exister un lien positif entre les crédits des EMF et la
+consommation/investissement.
+Par ailleurs, nous opérons des normalisations de signe qui consiste à faire l’hypothèse que
+l’influence de chaque choc est contemporainement positive sur la variable qui lui est
+associée.
+Les données sont toutes pour la sous-région CEMAC et celles relatives aux EMF ont été
+collectées auprès de la COBAC, tandis que les données macroéconomiques proviennent
+de la BEAC et des administrations publiques. La consommation finale, l’investissement
+privé et le PIB réel ont été trimestrialisés. Les variables sont prises en différence
+logarithmique, ce qui rend le VAR stable et utile pour l’analyse de diverses simulations.
+Compte tenu de la faiblesse de l’échantillon (2007Q1-2016Q4), nous utilisons 100 000
+réplications de bootstrap pour améliorer la qualité des résultats.
+1.2. Les résultats des simulations : une faible influence de l’activité des
+EMF sur la situation macroéconomique
+De manière générale, les simulations effectuées tendent à montrer une faible influence de
+l’activité des EMF sur la dynamique macroéconomique.
+11
+Etude thématique 2019
+
+--- Page 13 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Les résultats obtenus indiquent qu’il n’y a que 30% de probabilité que la croissance des
+crédits des EMF affecte positivement la consommation finale, le PIB non pétrolier et
+l’inflation.
+En appliquant donc au modèle une perturbation inattendue sur les crédits octroyés par
+les EMF, il apparaît des réactions assez faibles de la croissance et de l’inflation. L’effet est
+moins marqué sur l’inflation car, dans la CEMAC, celle-ci dépend essentiellement des
+conditions d’offre des biens et services. Cette influence sur l’inflation est de l’ordre de 10-
+3, de même pour la consommation finale. Nos résultats se rapprochent ainsi de ceux de
+Buera et al (2012) qui confirment une faible influence de la microfinance sur l’activité.
+Le Canal par la consommation semble donc être validé mais ses effets restent limités en
+raison notamment du faible poids des microfinances dans le total des crédits de
+l’économie (seulement 10 % environ).
+Figure 2 : Réactions à la suite d'un choc sur les crédits des EMFS
+Source : Simulations des auteurs à partir de la boite à outil RISE. Les intervalles de confiance sont obtenus
+par 100 000 simulations bootstrap et ont été rangés de la bande la plus foncée vers la plus claire à 30%,
+50%, 68% et 90%
+La faible significativité de l’activité des Etablissements de Microfinance sur le cadre
+macroéconomique est aussi confirmée par l’analyse des décompositions de variance des
+variables. Les chocs sur les crédits offerts par les EMF constituent une variable explicative
+importante de la croissance monétaire (environ 20 %), ce qui peut être considéré comme
+allant de soi. Pour les autres variables, soit elle est inexistante, soit elle ne dépasse guère
+5 %.
+12
+Etude thématique 2019
+
+--- Page 14 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Figure 3 : Décomposition de la variance des variables du modèle
+Source : Simulations des auteurs
+Enfin, la décomposition historique, entre différents chocs, de l’évolution des variables
+témoigne enfin de cette influence réduite des crédits des EMF. Nous observons dans le
+graphique ci-dessous que dans le passé, les crédits des EMF ont eu des effets marginaux
+sur les variables macroéconomiques. En effet, comme on peut l’observer, les chocs sur les
+crédits des EMF (en gris) ont une apparition marginale dans l’historique des principales
+variables macroéconomiques. Sur le PIB, l’inflation et la masse monétaire, les chocs sur
+les crédits des EMF ont eu une incidence globalement positive autour des années 2012-
+2013, mais leur contribution est restée marginale.
+13
+Etude thématique 2019
+
+--- Page 15 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Figure 4 : Décomposition historique de la dynamique des variables
+Source : Simulations des auteurs
+3.3 Exercice de robustesse
+3.3.1 Modification de la position de deux variables dans l’ordre d’entrée
+Comme exercice de robustesse, nous opérons une modification dans l’ordre d’entrée des
+variables dans le VAR. Plus précisément, nous intervertissons les positions des deux
+dernières variables à savoir la croissance monétaire et la croissance des crédits distribués
+par les Etablissements de Microfinance. Nous observons que bien que l’orientation des
+réactions reste identique, l’impact macroéconomique de l’activité des EMF s’affaiblit un
+peu plus. Ce résultat conforte nos conclusions précédentes et renforce l’idée suivant
+laquelle les EMF ne participent pas encore à l’augmentation substantielle de valeur
+ajoutée dans la CEMAC.
+14
+Etude thématique 2019
+
+--- Page 16 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Figure 5 : Comparaison des réactions des variables suivant divers scénarios
+Source : Simulations des auteurs
+3.3.2 Prise en compte du canal de l’investissement
+Conformément aux canaux mis en évidence plus haut, nous remplaçons la consommation
+finale par l’investissement afin de capter l’influence macroéconomique du financement
+des projets d’investissement productif par les EMF.
+15
+Etude thématique 2019
+
+--- Page 17 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Figure 6 : Réactions macroéconomiques suivant le canal de l'investissement
+Nous constatons ainsi que la réaction de la croissance économique à un choc sur les
+crédits EMF transitant par le canal de l’investissement est très faible comparée à
+l’amplitude de réaction en présence du canal de la consommation finale des ménages. En
+effet, ce résultat concorde avec la destination des crédits des EMF qui sont essentiellement
+à des maturités de court terme (correspondant généralement aux crédits de
+consommation). Ainsi, les crédits octroyés par les EMF ne participent pas
+substantiellement à l’amélioration de la production potentielle de l’économie.
+Conclusion
+L’objectif de cette étude était d’évaluer la contribution de l’activité des Etablissements de
+Microfinances à l’accroissement de la valeur ajoutée dans les économies de la CEMAC.
+Nous avons mis en lumière le fait que cette activité est en plein essor et permet d’accroître
+l’accès des populations les plus défavorisées aux services financiers de base. Ainsi, les
+populations pauvres ont la possibilité de constituer une épargne en vue d’une
+consommation future ou alors contracter un crédit afin d’augmenter sa consommation
+courante ou d’accroître sa productivité. Dans les deux cas, la croissance économique serait
+positivement impactée. L’hypothèse de départ était ainsi, au regard de l’explosion de
+l’activité des EMF, de se dire que cet impact sans être élevé, serait significatif. Des
+simulations effectuées à l’aide d’une modèle vectoriel autorégressif structurel, il apparaît
+clairement que cette influence est très faible. Les tests de robustesse effectués ont
+contribué à renforcer ce résultat. Cette faiblesse de l’influence des activités des EMF peut
+s’expliquer par la destination des crédits des EMF, principalement vers la consommation
+finale. Elle peut également s’expliquer par les taux d’intérêt élevés qui participent à
+annuler l’effet positif initial de l’accroissement du volume de crédit (Buera, Kaboski et
+Shin 2017 ; Doligez, 2002).
+16
+Etude thématique 2019
+
+--- Page 18 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+Bibliographie
+AHLIN, C. et JIANG, N. (2008) ; « Can micro-credit bring development ? » Journal of
+Development Economics, Vol 86, pp 1-21
+BANERJEE, A.V., BESLEY, T. et GUINNANE, T.W. (1994) ; « The neighbor’s keeper : the
+design of a credit cooperative with theory and a test » : The Quarterly Journal of
+Economics, Vol 109, N°2, pp 491-515
+BANGOURA, L., DIAW, D., LESSOUA, A. et MBOW, M.K. (2016) « Impact of microfinance on
+poverty and inequality : a panel heterogeneous causality analysis » : Revue d’Economie
+Politique, Vol 126, pp 789-818
+BATBEKH, S. et BLACKBURN, K. (2008) ; « On the Macroeconomics of Microfinance » :
+Institue for Development Policy and Management – University of Manchester
+BUERA, F.J., KABOSKI, J.P. et SHIN, Y. (2013) ; « The macroeconomics of microfinance »
+Federal Reserve Bank of St.Louis Working Paper N°2013-034A
+DOCI, E. (2017) ; « Microfinance, the role and impact on macroeconomic indicators of the
+country. Case study : Albania » : Mediterranean Journal of Social Sciences, Vol 8, N° 1, pp
+161-168
+DOLIGEZ, F. (2002) ; « Microfinance et dynamiques économiques : quels effets après dix
+ans d’innovations financières ? » : Revue Tiers Monde, Vol 43, N°172, pp 783-808
+DONOU-ADONSOU; F. et SYLWESTER, K. (2016) ; « Financial development and poverty
+reduction in developing countries : new evidence from banks and microfinance
+institutions » : Review of Development Finance, Vol 6, pp 82-90
+HERMES, N. (2014) ; « Does microfinance affect income inequality » : Applied Economics,
+Vol 46, N°9, pp 1021-1034
+HERMES, N. et LENSINK, R. (2011) ; « Microfinance : its impact, outreach and
+sustainability » : World Development, Vol 39, N° 6, pp 875-881
+MAKSUDOVA, N. (2010) ; « Macroeconomics of microfinance : how do the channels
+work ? » : Center for Economic Research and Graduate Education Working Paper Series
+N°423
+MBAYE, S. (2018) ; « Impact de la microfinance sur la croissance économique au
+Sénégal » : Revue d’Economie Théorique et Appliquée, Vol 8, N°1, pp 1-14
+PELLEGRINA, L.D. (2011) ; « Microfinance and investment : a comparison with bank and
+informal lending » : World Development, Vol 39, N° 6, pp 882-897
+SWAIN, R.B. (2006) ; « Microfinance : a catalyst for development at macroeconomic
+level ? » Finance & Bien Commun, N°25, pp 83-87
+17
+Etude thématique 2019
+
+--- Page 19 ---
+Impact Macroéconomique des Etablissements de Microfinance en Afrique Centrale
+VAN ROOYEN, C., STEWART, R. et DE WET, T. (2012) ; « The impact of microfinance in
+sub-saharan Africa : A systematic review of the evidence » : World Development, Vol 40,
+N° 11, pp 2249-2262
+18
+Etude thématique 2019

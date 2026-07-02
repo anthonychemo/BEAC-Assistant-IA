@@ -1,0 +1,78 @@
+Source PDF : Courbe_des_rendements_des_titres_publics_camerounais_-_novembre_2018_c811f426.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbe_des_rendements_des_titres_publics_camerounais_-_novembre_2018_c811f426.pdf
+Date extraction : 15/06/2026 20:25:39
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS
+Courbe de rendements des titres publics camerounais
+DE L’AFRIQUE CENTRALE
+nov.-18
+7,00
+6,29 6,36 6,41 6,45
+6,19
+6,06
+5,87
+5,73
+6,00 5,55
+4,94
+5,00
+4,44
+%
+n 4,00
+3,73
+e
+s
+t 2,89
+n 3,00 2,56
+e
+m
+e
+d 2,00
+n
+e
+R
+1,00
+0,00
+3 mois 6 mois 1 an 1,5 ans 2 ans 3 ans 3,5A 4 ans 5 ans 6 ans 7 ans 8 ans 9 ans 10 ans
+Maturités
+
+--- Page 2 ---
+Rendements par maturite (en %) des titres d'Etat camerounais
+.. .
+. ,... . .
+,Iit;
+3mois 2,563
+6mois 2,887
+1an 3,733
+1,5ans 4,440
+2ans 4,944
+3ans 5,545
+3,5A . 5,728
+4 ans 5,867
+5ans 6,062
+6ans 6,193
+7ans- 6,286
+..
+8ans 6,356
+9ans 6,410
+10 ans 6,453
+Rendements par maturite (en %) des titres d'Etat gabonais
+..
+.
+:l'1l1T;l;Uler •••'•l Ill. • Ilit;t
+3mois 2,736
+6mois 4,765
+1an 7,398
+1,5 ans 8,817
+2ans 9,543
+3ans 9,999
+3,5A 10,005
+4ans 9,953
+5ans 9,791
+6ans 9,625
+7ans 9,484
+8ans 9,370
+9ans 9,277
+10ans 9,202
+Source: BEAC

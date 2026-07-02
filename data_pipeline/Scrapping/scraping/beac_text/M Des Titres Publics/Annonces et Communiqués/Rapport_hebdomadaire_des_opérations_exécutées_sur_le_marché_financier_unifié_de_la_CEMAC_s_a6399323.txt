@@ -1,0 +1,7 @@
+Source PDF : Rapport_hebdomadaire_des_opérations_exécutées_sur_le_marché_financier_unifié_de_la_CEMAC_s_a6399323.pdf
+Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\Rapport_hebdomadaire_des_opérations_exécutées_sur_le_marché_financier_unifié_de_la_CEMAC_s_a6399323.pdf
+Date extraction : 15/06/2026 19:57:00
+======================================================================
+
+[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
+Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

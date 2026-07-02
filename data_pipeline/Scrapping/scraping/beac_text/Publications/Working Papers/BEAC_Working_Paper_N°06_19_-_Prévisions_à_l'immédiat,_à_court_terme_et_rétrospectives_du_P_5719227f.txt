@@ -1,0 +1,569 @@
+Source PDF : BEAC_Working_Paper_N°06_19_-_Prévisions_à_l'immédiat,_à_court_terme_et_rétrospectives_du_P_5719227f.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°06_19_-_Prévisions_à_l'immédiat,_à_court_terme_et_rétrospectives_du_P_5719227f.pdf
+Date extraction : 15/06/2026 21:21:59
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 06/19 -
+Prévisions à l’immédiat, à court terme et rétrospectives du PIB
+trimestriel camerounais : analyse par un modèle à facteurs
+dynamiques
+BIKAI Jacques Landry DE RESENDE Carlos
+Docteur en sciences économiques Et Economiste
+Direction des Etudes, de la Recherche et des Fonds Monétaire International
+Statistiques
+cderesende@imf.org
+bikai@beac.int
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E S E T U D E S, D E L A R E C H E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+Prévisions à l’immédiat, à court terme et rétrospectives du PIB
+trimestriel Camerounais : analyse par un modèle à facteurs
+dynamiques
+Bikai J. Landry∗,De Resende Carlos∗∗
+Décembre 2019
+Résumé
+L’objectifdenotreétudeestdeproduire,àl’aided’unmodèleàfacteurdynamique,desprévisions
+immédiates (trimestre en cours), à court terme (deux ou trois trimestres) et rétrospectives
+(antérieures à 1999) du PIB trimestriel camerounais. Les résultats obtenus sont globalement
+satisfaisants. Les erreurs de prévision de notre modèle sont inférieures à 1% de la vraie valeur
+du PIB publiée par l’Institut National de Statistique (INS) pendant au moins 4 trimestres.
+Plus spécifiquement, en utilisant notre modèle pour les prévisions immédiates et à court terme
+(4 trimestres) les valeurs obtenues s’écartent en moyenne de 0,62% de la vraie valeur. Pour
+les prévisions rétrospectives, l’écart est en moyenne de 0,61%. En fournissant des prévisions
+immédiates et à court terme du PIB, cela permet d’enrichir la batterie d’outils de prévision de
+labanquecentraleàunefréquenceinfraannuelleutilepourlaconduitedelapolitiquemonétaire
+etlemodèlepeutainsis’étendreauxautrespaysdelaCEMACencasdedisponibilitédedonnées.
+La reconstitution du PIB trimestriel à partir de 1994 permet de son côté d’alimenter les bases
+de données nécessaires pour la réalisation des travaux de recherche.
+Mots-clés : Modèle à facteur dynamique, prévisions immédiates, produit intérieur brut,
+filtre de kalman..
+Codes JEL : C53, E32, E37, R11.
+Nowcasting, forcasting and backcasting of cameroonian quaterly
+GDP : a Dynamic Factor Model approach
+Abstract
+The objective of our study is to carry out, using a dynamic factor model, nowcasting, short-term
+forecats and backcasting (prior to 1999) of Cameroonian quarterly GDP. The results obtained
+are generally satisfactory. The forecast errors in our model are less than 1% of the true value of
+GDP published by the national institute of statistics for at least 4 quarters. More specifically,
+using our model for short-term forecasts (4 quarters) the values obtained deviate on average
+by 0.62% from the true value. For retrospective forecasts, the difference is on average 0.61%.
+By providing immediate and short-term forecasts of GDP, this enriches the battery of central
+bank forecasting tools at an infra-annual frequency useful for the conduct of monetary policy
+and the model can thus be extended to other CEMAC countries in case of data availability. The
+reconstitution of quarterly GDP from 1994 makes it possible to supply the databases necessary
+for carrying out research work.
+Keywords : Dynamic factor model, Nowcasting, Gross Domestic Product, kalman filter.
+JEL Classification : C53, E32, E37, R11.
+∗. Docteur en économie et Cadre à la Direction de la Recherche de la Banque des Etats de l’Afrique
+Centrale (BEAC)
+∗∗. Docteur en économie et Economiste principal au Fonds Monétaire International (FMI)
+Les auteurs remercient les cadres de la BEAC pour leurs observations et commentaires.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 4
+1 Littérature sur les modèles à facteur dynamique pour la prévision et la re-
+tropolation des données 5
+2 Le modèle 6
+2.1 Spécification. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.2 Données . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+3 Résultats 8
+Conclusion 12
+Bibliographie 13
+Annexe 16
+2
+
+--- Page 4 ---
+Résumé non technique
+Une bonneorientation des politiques économiques, notammentdela politique monétaire, est
+généralement conditionnée par l’ analyse des données historiques, futures et surtout immédiates
+des principales variables économiques à une fréquence infra annuelle.
+L’une des limites de l’ approche actuellement utilisée par la Banque des Etats de l’Afrique
+Centrale (BEAC) est qu’en raison de l’indisponibilité des comptes nationaux trimestriels dans
+tous les pays de la CEMAC, les décisions de politique monétaire qui se prennent quatre fois
+(minimum) au cours d’ une année s’ appuient sur des projections annuelles de certaines va-
+riables clés comme le PIB. Dans le même temps, il existe des variables macroéconomiques et
+financières disponibles à fréquences mensuelles et trimestrielles et qui pourraient aider à obtenir
+des projections infra annuelles du PIB.
+Le Cameroun étant le seul pays produisant des comptes trimestriels à partir de 1999, l’ ob-
+jectif de cette étude est de produire, à l’ aide d’ un modèle à facteur dynamique utilisant des
+variables mensuelles et trimestrielles, des prévisions immédiates (trimestre en cours), à court
+terme (deux ou trois trimestres) et rétrospectives (antérieures à 1999) du PIB trimestriel came-
+rounais. Notre échantillon couvre la période 1999-2017. Le modèle à facteur dynamique utilisé
+a l’ avantage de pouvoir s’ adapter aisément aux prévisions immédiates, futures et même ré-
+trospectives. Ce type de modèle est utilisé pour résumer les informations contenues dans un
+grand nombre de variables économiques, à diverses fréquences, en un petit nombre de facteurs
+communs à l’ ensemble des variables.
+Les principaux résultats sont globalement satisfaisants. Plus spécifiquement, les prévisions
+immédiatesetàcourtterme(4trimestres)obtenuesgrâceànotremodèles’écartentenmoyenne
+de 0,62% de la vraie valeur publiée par l’ INS du Cameroun. Pour les prévisions rétrospectives,
+étant donné que la série du PIB trimestriel de l’ INS débute en 1999, nous avons pu reconstituer
+les données trimestrielles du PIB camerounais à partir de 1994. En effectuant la somme des
+PIB trimestriels obtenus pour chaque année à l’ aide de notre modèle nous les comparons aux
+PIB annuels publiés par l’ INS. Nous observons que les écarts entre les valeurs estimées et les
+vraies valeurs publiées par l’ INS sont faibles. Dans l’ ensemble, les prévisions rétrospectives ont
+tendance à surévaluer légèrement le PIB. L’ écart est en moyenne de 0,61%.
+Une telle étude a une triple contribution pour la banque centrale : (i) elle permet d’ enrichir
+la batterie d’ outils de prévision de cette dernière, (ii) elle fournit des prévisions immédiates et
+à court terme du PIB, utile pour la conduite de la politique monétaire à une fréquence infra
+annuelle, et (iii) elle permet de reconstituer les données antérieures du PIB trimestriel, utiles
+pour diverses autres études et analyses.
+3
+
+--- Page 5 ---
+Introduction
+L’orientation des politiques économiques, notamment de la politique monétaire, est géné-
+ralement conditionnée par l’analyse des données historiques, futures et surtout immédiates des
+principalesvariableséconomiques.Ilestdoncimportantdedisposerd’outilsrobustespermettant
+de prévoir à divers horizons et surtout à l’immédiat1 des variables comme le PIB et l’inflation
+dont les chiffres officiels ne sont parfois disponibles qu’avec un certain délai.
+Dans la Communauté Economique et Monétaire de l’Afrique Centrale (CEMAC), la poli-
+tique monétaire est commune aux six Etats, et pour prendre des décisions, la Banque Centrale2
+s’appuie sur une batterie d’indicateurs domestiques et étrangers à diverses fréquences. Elle est
+donc amenée à faire des projections des variables qui ne sont pas encore officiellement dispo-
+nibles. L’une des limites de l’approche actuellement utilisée est qu’en raison de l’indisponibilité
+des comptes nationaux dans tous les pays à une fréquence trimestrielle3, les décisions de poli-
+tique monétaire qui se prennent quatre fois (minimum) au cours d’une année s’appuient sur des
+projectionsannuellesdecertainesvariablescléscommelePIB.Danslemêmetemps,ilexistedes
+variables macroéconomiques et financières disponibles à fréquences mensuelles et trimestrielles
+et qui pourraient aider à obtenir des projections infra annuelles du PIB.
+LeCamerounétantleseulpaysactuellementquipubliedescomptesnationauxtrimestrielsà
+partir du premier trimestre 1999, cet article a pour objectif d’exploiter les données mensuelles et
+trimestrielles de certaines variables économiques camerounaises, afin d’effectuer des prévisions
+immédiates, à court-moyen terme, et antérieures à l’année 1999 pour le PIB trimestriel du
+Cameroun. Cette approche pourra être étendue plus tard sur les autres pays de la sous-région
+lorsque leurs comptes nationaux trimestriels seront disponibles.
+Pour atteindre notre objectif, nous faisons recours à un modèle à facteur dynamique, ini-
+tialement développé par Geweke (1977), qui a l’avantage de pouvoir s’adapter aisément aux
+prévisions immédiates, futures et même rétrospectives. Ce type de modèle est utilisé pour ré-
+sumer les informations contenues dans un grand nombre de variables économiques, à diverses
+fréquences, en un petit nombre de facteurs communs à l’ensemble des variables.
+En effet, dans la littérature économique, les modèles à facteurs dynamique sont utilisés
+à diverses fins, notamment pour (i) des projections macroéconomiques immédiates et à court
+terme (Stock et Watson, 2002; Marcellino et al., 2003; Giannone, Reichlin et Small, 2008; Bai
+et Ng, 2008; Chernis et Sekkel, 2017; Hakk KIM et Swanson, 2018), (ii) le suivi de conjoncture
+économique, notamment l’analyse du climat des affaires et le suivi d’un indice d’activité (Doz
+et Lenglart, 1999, Clavel et Minodier, 2009; Stock et Watson, 1999; Altissimo et al., 2001), (iii)
+analysed’impactdeschocsdepolitiquemonétairesavecdesFAVAR(Bernanke,BoivinetEliasz,
+2005; Stock et Watson, 2005), (iv) simulations des valeurs antérieures des variables (Hakk KIM
+et Swanson, 2018), etc.
+La popularité des modèles à facteurs dynamiques est de plus en plus grande au sein des
+banques centrales pour la mise à jour régulière des projections immédiates et à court terme du
+PIB notamment : la banque d’Angleterre (Anesti et al, 2018), la banque du Canada (Chernis
+1. Les prévisions immédiates (nowcasting) consistent par exemple à faire la projection d’une variable
+comme le PIB au trimestre courant mais en utilisant des données d’autres variables déjà disponibles à
+une fréquence mensuelle, voir trimestrielle.
+2. Banque des Etats de l’Afrique Centrale (BEAC)
+3. Au stade actuel, seul le Cameroun produit des comptes nationaux trimestriels.
+4
+
+--- Page 6 ---
+et Sekkel, 2017), la banque de Suède (Andersson et Reijer, 2015), la reserve fédérale de New-
+York (Kliesen et McCracken, 2016), la banque centrale européenne (Banbura et al, 2013), la
+banque centrale de Russie (Porshakov et al., 2015),la banque centrale du Rwanda (Karangwa et
+Mwenese, 2015), la banque centrale du Nigéria (Mordi et al., 2015). La particularité de notre
+modèle à facteur dynamique est que nous y incorporons des variables à diverses fréquences
+(mensuelles et trimestrielles). Cette approche nous permet de capturer des informations à partir
+d’indicateurs à haute fréquence (mensuelle) et déjà disponibles au cours d’un trimestre afin de
+prévoir le PIB trimestriel courant et à court terme.
+Une telle étude a une triple contribution pour la banque centrale : (i) elle permet d’enrichir
+la batterie d’outils de prévision de cette dernière, (ii) elle fournit des prévisions immédiates et
+à court terme du PIB, utile pour la conduite de la politique monétaire à une fréquence infra
+annuelle,et(iii)ellepermetdereconstituerlesdonnéesantérieuresduPIBtrimestriel,utilespour
+diverses autres études et analyses. Dans la suite de l’article, nous allons tout d’abord présenter
+une brève revue de littérature sur les modèles à facteurs dynamiques et leur utilité, ensuite nous
+présenterons le modèle retenu ainsi que le traitement des variables à divers fréquences, et enfin
+nous exposerons les résultats de notre étude.
+1 Littérature sur les modèles à facteur dynamique
+pour la prévision et la retropolation des données
+La disponibilité de multitudes données économiques et financières ces dernières années a
+amené les prévisionnistes à se focaliser davantage sur des modèles capables d’exploiter des cor-
+rélationsd’unepléthoredevariablesafinderésumertoutleurcontenuinformationnelenunfaible
+nombre de facteurs communs (Barhoumi et al. 20174). Les modèles à facteurs dynamiques font
+donc partie de cette catégorie et ont été développés initialement par Geweke (1977). Ils ont eu
+un regain d’intérêt depuis les travaux de Stock et Watson (2002) et sont utilisées à diverses fins
+notamment,pourl’analysemacroéconomiqueetlesprévisions.Nousnouslimiteronsiciàl’usage
+de ces modèles pour les prévisions du PIB.
+Les modèles à facteurs dynamiques sont aujourd’hui très populaires dans les banques cen-
+trales pour les projections immédiates, à court terme et rétrospectives des principales variables
+macroéconomiques. Les modèles à facteurs dynamiques développés dans la littérature pour les
+prévisionsduPIButilisentgénéralementsoitunnombreimportantdevariablesissuesdusecteur
+réel, du secteur monétaire et financier, du secteur public et du secteur extérieur, soit alors un
+nombre limité de variables.
+Les premiers modèles à facteurs dynamique pour la prévision immédiate faisaient recours
+à un grand nombre de variables macroéconomiques. L’une des premières études à utiliser les
+modèles à facteur dynamique pour les prévisions immédiates est celle de Giannone et al (2008).
+Cesauteursfontusaged’environ200variablesmacroéconomiquescomprenantlesecteurréel,les
+variablesfinancières,lesprix,lessalaires,lesagrégatsmonétairesetdecréditetdiversindicateurs
+conjoncturels pour prévoir à l’immédiat le PIB trimestriel. Les données utilisées sur diverses
+fréquences vont de janvier 1982 à mars 2005. Les auteurs parviennent à montrer que la variété
+d’informations utilisées à diverses fréquences, de l’ensemble des variables retenues permettent
+d’obtenir de très bonne prévisions immédiates du PIB réel américain. Plusieurs études ont alors
+4. 10ème chapitre du Handbook on rapid Estimates
+5
+
+--- Page 7 ---
+montré la supériorité des modèles à facteurs dynamique pour les prévisions en utilisant un large
+éventail de variables (Stock et Watson, 2002a, 2006; D’Argostino et Giannone, 2007; Forni et
+al., 2005, Jansen et al., 2016).
+Utiliser un grand nombre de variables n’est cependant pas toujours nécessaire pour obtenir
+desprévisionssatisfaisantes.BoivinetNg(2006)indiquentàcetitrelesconditionspourlesquelles
+l’accroissement de la base de données utilisées peut aboutir à des prévisions imprécises. Une
+vague d’analyses va donc naitre sur la nécessité de l’usage des grandes bases de données dans
+des modèles à facteurs dynamiques (Schumacher et Dreger, 2004; Schumacher, 2007; Banerjee
+et al., 2005). Plus spécifiquement, Barhoumi et al. (2010) appliquent ces modèles à facteurs
+dynamiques pour la prévision du PIB français en utilisant un ensemble de variables mensuelles
+clés. Ils démontrent que, les modèles à facteurs dynamique complexes et contenant un grand
+nombre de variables ne sont pas nécessairement préférables aux modèles statiques avec un faible
+nombre de variables surtout en ce qui concerne les prévisions immédiates.
+Outre leur efficacité dans les prévisions immédiates et à court terme, les modèles à facteur
+dynamiques sont également utilisés pour des projections rétrospectives. En comparant douze
+modèles statistiques à un modèle à facteur dynamique, Jansen et al. (2016) estiment à ce titre
+quecetypedemodèleademeilleuresperformancespourlaprévisionimmédiateetrétrospective.
+Leur analyse est basée sur la prévision du PIB dans la zone euro et de cinq pays (France,
+Allemagne, Italie, Espagne et Hollande) sur la période 1996-2011.
+Très peu d’études ont été menées dans les pays en développement et particulièrement les
+pays africains où l’appareil statistique est généralement pauvre en données fiables. Pour ce type
+de pays, l’inexistence de grandes bases de données, la faible profondeur des marchés financiers et
+la transformation limitée des structures productives amènent généralement à se focaliser sur des
+modèles à facteur dynamique contenant peu de variables. Dans l’ensemble, même avec un faible
+nombre de variables macroéconomiques, les modèles à facteur dynamique ont généralement des
+prévisions satisfaisantes pour le PIB à l’immédiat et à court terme. Des analyses ont ainsi été
+menéesdanscesenspourleNigéria(Mordietal.,2015),l’AfriqueduSud(Kabundietal.,2016),
+le Rwanda (Karangwa et Mwenese, 2015).
+2 Le modèle
+2.1 Spécification
+Le modèle à facteur dynamique utilisé pour les prévisions immédiates et rétrospectives du
+PIB trimestriel camerounais prend la forme suivante :
+Y = ΛF +(cid:15) (1)
+t t t
+F = A F +···+A F +u (2)
+t 1 t−1 p t−p t
+(cid:15) = B (cid:15) +···+B (cid:15) +θ (3)
+t 1 t−1 q t−q t
+Où Y = [Y ,··· ,Y ]0 est un vecteur n × 1 de variables observables stationnaires, F =
+t 1t nt t
+[F ,··· ,F ]0 et(cid:15) = [(cid:15) ,··· ,(cid:15) ]0 sontdesvecteursn×1contenantsdesvariablesinobservables
+1t nt t 1t nt
+6
+
+--- Page 8 ---
+de Y . Le premier bloc de vecteur recueille des facteurs communs qui influencent la dynamique
+t
+de chaque série dans Y , tandis que le deuxième bloc est constitué de termes idiosyncratiques ou
+t
+perturbations; Λ est une matrice de coefficient (» dynamic loading factors» ) liant les facteurs
+inobservables aux variables observables; les matrices A et B contiennent des coefficients des
+i i
+processus autoregressifs F et (cid:15) respectivement.
+t t
+Les perturbations idiosyncratiques contenues dans (cid:15) peuvent être autocorrelées selon la
+t
+relation (3), par ailleurs, F et (cid:15) sont supposés non corrélés pour tout décalage5 :
+t t
+E((cid:15) ,(cid:15) ) = 0, pourtouts, t, ettouti, j ∈ [1,··· ,n],i 6= j (4)
+is jt
+Notre modèle à facteur dynamique à n variables est caractérisé par (i) n ∈ [3,4,5], (ii)
+un seul6 facteur commun inobservable, et (iii) un processus autoregressif d’ordre un pour tout
+facteur commun et idiosyncratic. De sorte que :
+Y = ΛF +(cid:15) (5)
+t t t
+F = AF +u (6)
+t t t
+(cid:15) = B(cid:15) +θ (7)
+t t−1 t
+Les coefficients inconnus du modèle donnés par les équations (6)−(8), c’est-à-dire, A,B, et
+les variances de u et θ en plus des facteurs inobservables F et (cid:15) , peuvent être estimés par
+t t t t
+la technique du maximum de vraissemblance gaussien à l’aide du filtre de Kalman (Engle et
+Watson, 1981; Sargent, 1989, et Quah et Sargent, 1993). Une fois ces paramètres estimés, le
+modèle peut être simulé pour générer des prévisions rétrospectives (valeur antérieures à 1999),
+des prévisions immédiates (nowcasting), et des projections à court terme des taux de croissance
+mensuels du PIB qui pourront par la suite être transformées en fréquence trimestrielle.
+2.2 Données
+Les séries de données considérées dans cette étude et contenues dans le vecteur Y sont
+t
+des taux de croissance : du Pib réel, de la masse monétaire (M2), des crédits à l’économie
+(CE), prix mondiaux du cours du pétrole (OP), les réserves de change(Res), les exportations
+(EX) et importations (IM) mesurées en monnaie monnaie locale. Seules la masse monétaire et
+les crédits à l’économie sont disponibles mensuellement. Les autres séries sont disponibles à la
+même fréquence que le PIB (trimestrielle), et peuvent aider à la prévision immédiate du PIB
+car elles sont généralement disponibles avec un délai plus court que le PIB ne l’est.
+Les données en niveau utilisées pour déterminer les taux de croissance des séries, excepté
+les cours du pétrole, sont mesurées en monnaie locale et déflatées par l’indice des prix à la
+5. Acontrario,ChamberlainetRothschild(1983)définissentunmodèleàfacteurdynamiqueapproxi-
+matiflorsquecettefortehypothèsed’absenced’autocorrélationestrelâchéepourpermettreunecorrelation
+limitée entre les termes idiosyncratiques pour différents indices i et j. Les implications techniques de ces
+hypothèses sont développées dans Stock et Watson (2004).
+6. Pour un faible nombre de variables (n ≺ 7) un seul facteur commun peut résumer l’information
+contenue dans les variables (Barhoumi et al 2017)
+7
+
+--- Page 9 ---
+consommation et couvrent différentes sous-périodes partant de 1992M1 à 2017M9. Les taux de
+croissancedesseriesmensuellesettrimestriellessontcalculéssurdouzemoisetquatretrimestres
+respectivement, on leur retranche par la suite leur moyenne. Les taux de croissance trimestriels
+sont répétés pour chaque mois du trimestre correspondant7.
+Les données mensuelles de la monnaie et des crédits sur la période 1993M12-2017M9 et
+trimestrielles des réserves, exportations et importations pour 1999Q1-2014Q4 proviennent de la
+BEAC,tandisquelesprixdupétroleproviennentdelabasededonnéesdelaRéservefédéralede
+St. Louis; Les données trimestrielles du PIB réel quant à elles proviennent de l’Institut National
+de Statistique (INS) et couvrent la période 2000Q1-2016Q4. Le tableau 1 ci-dessous présente les
+données utilisées dans l’estimation :
+Tableau 1 – Description des données
+Séries Fréquences échantillon Source
+PIB réel Trimestrielle 2000Q1-2016Q4 INS
+Prix du pétrole (OP) Trimestrielle 1994Q1-2017Q2 St. Louis FED
+Réserves de change (Res) Trimestrielle 2000Q2-2016Q4 BEAC
+Exportations (EX) Trimestrielle 1999Q1-2016Q4 BEAC
+Importations (IM) Trimestrielle 1999Q1-2016Q4 BEAC
+Masse monétaire (M2) Mensuelle 1993M12-2017M9 BEAC
+Crédits à l’économie (CE) Mensuelle 1993M12-2017M9 BEAC
+3 Résultats
+L’estimation de notre modèle avec les différentes séries nous a permis d’observer que le choix
+des variables est primordial pour la prévision du PIB (cf graphiques en Annexe).
+Etant donné que nous souhaitons également reconstituer la série du PIB trimestriel jusqu’en
+1994 au moins, notre choix a été porté sur les variables ayant une profondeur historique jusqu’en
+1994. Le modèle retenu a donc combiné les variables M2, CE à une fréquence mensuelle et la
+variable OP à une fréquence trimestrielle. Vu que le prix du pétrole ne peut être considéré
+comme variable endogène dans un tel modèle, en raison de la faible influence du Cameroun
+sur l’économie mondiale, nous avons intégré le prix du pétrole comme variable exogène. Après
+l’estimation des deux types de modèles, le tableau 2, ci-dessous, nous a permis de sélectionner
+le modèle avec trois variables (PIB, M2, CE) :
+7. Cette transformation est conforme à l’approche suggérée par Mariano et Murasawa (2003).
+8
+
+--- Page 10 ---
+Tableau 2 – Choix du modèle à facteur dynamique
+Modèles RMSE RMSE RMSE RMSE RMSE RMSE*
+Facteur PIB M2 CE OP
+PIB, M2, 5,79826 0.024999 0.000738 0.063657 1,47
+CE
+PIB, M2, 2.389292 0.008850 1.944344 0.132161 5.889906 2,07
+CE, OP
+Note :*Moyenne
+L’estimation du modèle à facteur dynamique contenant uniquement le PIB la masse moné-
+taire et les crédits nous a donné des prévisions satisfaisantes du PIB trimestriel camerounais.
+Le graphique 1 ci-dessous permet d’observer que la tendance du PIB hors échantillon a été
+maintenue. En d’autres termes, en utilisant les données mensuelles de la masse monétaire et
+du crédit sur la période 1999-2017 et celles du PIB de l’INS de 2000 à 2016, on observe que
+les quatre trimestres de 1999 obtenus avec les projections rétrospectives et les quatre autres de
+2017 obtenus avec les projections futures, sont très proches des données publiées par l’INS du
+Cameroun (Tableau 3).
+Graphique 1 – Prévisions trimestrielles futures et rétrospectives hors échantillon
+Spécifiquement, les erreurs de prévision de notre modèle sont inférieures à 1 % de la vraie
+valeurduPIBpubliéeparl’INSpendantaumoins4trimestres.Plusspécifiquement,enutilisant
+notre modèle pour les prévisions à court terme (4 trimestres de 2017) les valeurs obtenues
+s’écartent en moyenne de 0,62 % de la vraie valeur. Pour les prévisions retrospectives l’écart est
+en moyenne de 0,61 %.
+9
+
+--- Page 11 ---
+Tableau 3 – Ecarts de prévisions futures et rétrospectives
+Date PIB_INS FORCAST Ecart Date PIB_INS BACKCAST Ecart
+201603 3728,09 3719,15 0,24% 199903 1827,79 1838,39 -0,58%
+201606 3760,65 3756,16 0,12% 199906 1857,81 1868,88 -0,59%
+201609 3778,5 3776,49 0,05% 199909 1797,67 1810,13 -0,69%
+201612 3797,51 3796,62 0,02% 199912 1892,13 1902,8 -0,56%
+201703 3885,22 3848,35 0,96% 200003 1874,01 1887,62 -0,72%
+201706 3911,26 3905,3 0,15% 200006 1920,34 1930,85 -0,54%
+201709 3921,14 3930,24 -0,23% 200009 1911,35 1921,28 -0,52%
+201712 3907,1 3951,7 -1,13% 200012 1931,77 1944,76 -0,67%
+Nous avons pu reconstituer les données trimestrielles du PIB camerounais à partir de 1994.
+Etant donné que la série du PIB trimestriel de l’INS débute en 1999, nous avons fait la somme
+des PIB trimestriels obtenus pour chaque année à l’aide de notre modèle afin de les comparer
+aux PIB annuels publiés par l’INS. Nous observons dans le Graphique 2 ci-dessous que les
+écarts entre les valeurs estimées et les vraies valeurs sont faibles. Dans l’ensemble, les prévisions
+rétrospectives ont tendance à surévaluer légèrement le PIB.
+Graphique 2 – Prévisions futures et rétrospectives du PIB annuel
+10
+
+--- Page 12 ---
+Tableau 4 – Ecarts de prévision par rapport au PIB de l’INS
+PIB INS PIB FORCAST PIB BACKCAST Ecart PIB F. Ecart PIB B.
+1994 5955,4 6081,9 2,12%
+1995 6162 6334,1 2,79%
+1996 6430,8 6595,6 2,56%
+1997 6767,2 6866,3 1,46%
+1998 7071,9 7153,8 1,16%
+1999 7375,4 7420,2 0,61%
+2000 7637,5 7684,5 0,62%
+2001 7971,1 7963,4 8025,9 -0,10% 0,69%
+2002 8308,8 8300,3 8367,4 -0,10% 0,71%
+2003 8688,3 8679,4 8746 -0,10% 0,66%
+2004 9277,5 9257,8 9324,9 -0,21% 0,51%
+2005 9464,9 9462,8 9520,1 -0,02% 0,58%
+2006 9792,2 9784,3 9854,1 -0,08% 0,63%
+2007 10272,2 10254,8 10335,8 -0,17% 0,62%
+2008 10630,6 10617,4 10705,8 -0,12% 0,71%
+2009 10864,3 10857,6 10953 -0,06% 0,82%
+2010 11236,2 11229,5 11333,4 -0,06% 0,86%
+2011 11700,1 11689 -0,10%
+2012 12231,7 12215,3 -0,13%
+2013 12892,7 12873,2 -0,15%
+2014 13651,4 13622,2 -0,21%
+2015 14422,9 14398,9 -0,17%
+2016 15064,8 15048,4 -0,11%
+2017 15629 15635,6 0,04%
+Note : Ecart PIB F= Différence entre le PIB publié par l’INS et les prévisions futures du
+modèle à facteur dynamique. Ecart PIB B= Différence entre le PIB publié par l’INS et les
+prévisions rétrospectives du modèle à facteur dynamique.
+11
+
+--- Page 13 ---
+L’usage de notre modèle à facteur dynamique apparait donc intéressant pour la conduite
+de la politique monétaire. Les décisions de politique monétaire se prennent au moins 4 fois par
+an et généralement la Banque centrale s’appuie sur les valeurs annuelles du PIB des pays de la
+CEMAC. L’extension de notre approche aux autres pays permettra à la Banque centrale d’avoir
+des informations trimestrielles plus adéquates pour la prise de décision.
+Eneffet,lorsquelesdécisionsdepolitiquemonétairesontbaséessurdesprojectionsannuelles,
+les variations trimestrielles sont lissées et il devient difficile d’isoler le niveau d’activité et même
+l’impact de la politique monétaire à chaque trimestre. La réforme de la poltique monétaire en
+cours vise entre autres, une migration vers des analyses infrannuelles. Cette étude permettra
+assurément de renforcer la batterie d’outils à la disposition de la banque centrale à cette fin.
+Conclusion
+L’objectif de notre étude était de produire, à l’aide d’un modèle à facteur dynamique, des
+prévisions immédiates, à court terme et rétrospectives du PIB trimestriel camerounais. Nos
+principauxrésultatsmontrentclairementquelesécartsdeprévisionsparrapportauxPIBpubliés
+par l’INS sont très faibles.
+Le modèle conçu à cet effet peut ainsi permettre d’enrichir la batterie d’outils de prévision
+de la banque centrale. En fournissant des prévisions immédiates et à court terme du PIB, cela
+permettraàlabanquecentraled’enrichirsabatteried’indicateursàunefréquenceinfraannuelle
+utiles pour la conduite de la politique monétaire. La reconstitution du PIB trimestriel à partir
+de 1994 permet de son côté d’alimenter les bases de données nécessaires pour la réalisation des
+travaux de recherche.
+Une telle étude peut cependant évoluer car à ce stade, les données utilisées proviennent
+uniquement du secteur monétaire. Il serait utile ultérieurement d’évaluer les performances du
+modèle en y rajoutant des séries issues d’autres secteurs.
+12
+
+--- Page 14 ---
+Bibliographie
+[ 1 ] Altissimo, F., Cristadoro, R., Forni, M., Lippi, M., and Veronese, G. (2001) : « New eu-
+rocoin:Trackingeconomicgrowthinrealtime».TheReviewofEconomicandStatistics,
+92(4) :1024-1034.
+[ 2 ] Andersson, M. K. and Ard H.J. den Reijer (2015) : « Nowcasting », Sveriges Riksbank
+Economic Review, No. 1, pp. 73-86.
+[ 3 ] Anesti N. Galvão A. B. and Miranda-Agrippino S. (2018) : «Uncertain Kingdom :
+Nowcasting GDP and its Revisions», Bank of England Working Paper No. 764.
+[ 4 ] Bai, J. and Ng, S. (2002) : «Determining the number of factors in approximate factor
+models», Econometrica, 70(1) :191-221.
+[ 5 ]Bai,J.andNg,S.(2008):«Forecastingeconomictimeseriesusingtargetedpredictors»,
+Journal of Econometrics, 146(2) :304-317.
+[ 6 ] Bańbura M., Giannone D., Modugno M. and Reichlin L. (2013) : «Now-casting and the
+real-time data flow», Working Paper SerieS N° 1564 / july 2013.
+[ 7 ] Barhoumi K., O. Darne, and L. Ferrara ´ (2010) : «Are disaggregate data useful for
+factor analysis in forecasting French GDP?», Journal of Forecasting, 29, 132-144.
+[ 8 ] Barhoumi K., Darné O. and Ferrara L. (2017) : «Dynamic Factor Models : A Review
+of the Literature», in Handbook of Rapid Estimates, pp. 289-320.
+[ 9 ] Banerjee A., Marcellino M. and Masten I. (2005) : «Leading indicators for euro-area
+inflation and GDP growth», Oxford Bulletin of Economics and Statistics, 67, 785-814.
+[ 10 ] Bernanke Ben S., Boivin J. and Eliasz P. (2005) : «Measuring the Effects of Monetary
+Policy:AFactor-AugmentedVectorAutoregressive(FAVAR)Approach»,TheQuarterly
+Journal of Economics, Volume 120, Issue 1, February 2005, Pages 387-422.
+[ 11 ] Boivin, J. and Ng S. (2006) : «Are more data always better for factor analysis?»,
+Journal of Econometrics, 132, 169-194.
+[ 12 ] Chamberlain Gary and Rothschild M. (1983) : «Arbitrage and mean variance analysis
+on large asset markets», Econometrica 51, 1281-1304.
+[ 13 ]Chernis, T. and Sekkel, R. (2017) : «A dynamic factor model for nowcasting Canadian
+GDP growth», Bank of Canada Staff Working Paper, No. 2017-2.
+[ 14 ] Clavel L. and Minodier C. (2009) : «A Monthly Indicator of the French Business
+Climate», Document de travail INSEE G2009/02.
+[ 15 ] D’Agostino A. and Giannone D. (2007) : «Comparing alternative predictors based on
+large-panel factor models», CEPR Discussion Paper No 6564.
+[ 16 ]Doz,C.,andLenglart,F.(1999):«Analysefactorielledynamique:Testdunombrede
+facteurs, estimation et application à l’enquête de conjoncture dans l’industrie ». Annales
+D’Économie Et De Statistique, (54), 91-127.
+13
+
+--- Page 15 ---
+[ 17 ] Engle R. F. and Watson M. W. (1981) : «A One-Factor Multivariate Time Series
+Model of Metropolitan Wage Rates,» Journal of the American Statistical Association,
+76, 376, 774-781.
+[ 18 ] Forni M., Hallin M., Lippi M and Reichlin L. (2005) : «The Generalized Dynamic
+Factor Model : identification and estimation», Review of Economics and Statistics, 82,
+540-554.
+[ 19 ] Geweke, J. F. (1977) : «The Dynamic Factor Analysis of Economic Time Series Mo-
+dels,»inLatentVariablesinSocioeconomicModels,ed.byD.Aigner,andA.Goldberger,
+pp. 365-383. North-Holland.
+[ 20 ] Giannone, D., Reichlin, L., and Small, D. (2008) : «Nowcasting gdp and inflation :
+Therealtimeinformationcontentofmacroeconomicdatareleases»,JournalofMonetary
+Economics, 55 :665-676.
+[ 21 ] Hakk KIM and Swanson, N. (2018) : «Methods for backcasting, nowcasting and fore-
+casting using factor-MIDAS : With an application to Korean GDP», Journal of Forecas-
+ting 37, 281-302.
+[ 22 ]JansenW.,XiaowenJinandJasperM.deWinter(2016):«Forecastingandnowcasting
+realGDP:Comparingstatisticalmodelsandsubjectiveforecasts»,InternationalJournal
+of Forecasting,Volume 32, Issue 2, Pages 411-436.
+[ 23 ] Kabundi A., Nel E. and Ruch F. (2016) : «Nowcasting Real GDP growth in South
+Africa South African», Reserve Bank Working Paper Series WP/16/01.
+[ 24 ] Karangwa M. and Mwenese B. (2015) : «Modeling GDP in Rwanda : the dynamic
+factors model (DFM) nowcasting methodology», BNR Economic Review Vol. 7, pp. 131-
+144.
+[ 25 ] Kliesen S. P., and McCracken M. W. (1996) : «A Macroeconomic News Index for
+Constructing Nowcasts of U.S. Real Gross Domestic Product Growth», Federal Reserve
+Bank of St. Louis Review, Fourth Quarter 2016, 98(4), pp. 277-96.
+[ 26 ] Marcellino, M., J. H. Stock, and M. W. Watson (2003) : «Macroeconomic forecasting
+in the Euro area : Country specific versus area-wide information,» European Economic
+Review, 47(1), 1- 18.
+[ 27 ] Mariano, R., and Y. Murasawa (2003) : «A new coincident index of business cycles
+based on monthly and quarterly series,» Journal of Applied Econometrics, 18, 427- 443.
+[ 28 ] Mordi and al. (2015) : «Forecasting Nigeria GDP Growth Rate Using A Dynamic
+Factor Model in A State Space Framework», Central Bank of Nigeria paper, ISBN -
+978-978-951-926-2.
+[ 29 ] Porshakov A., Deryugina E., Ponomarenko A. and Sinyakov A. (2015) : «The short-
+term estimation and forecasting Russia’s GDP using dynamic factor model», The Bank
+of Russia series of reports on economic research No. 2.
+[ 30 ]QuahD.andSargentT.J.(1993):«ADynamicIndexModelforLargeCrossSections,»
+inJ.H. StockandM.W.Watson (eds.),BusinessCycles, IndicatorsandForecasting,285-
+310. Chicago : University of Chicago Press for NBER.
+14
+
+--- Page 16 ---
+[ 31 ]SargentT.J.(1989):«TwoModelsofMeasurementsandtheInvestmentAccelerator,»
+Journal of Political Economy, 97, 251-287.
+[ 32 ] Schumacher C. (2007) : «Forecasting German GDP using alternative factor models
+based on large datasets», Journal of Forecasting, 26, 271- 302.
+[ 33 ]SchumacherC.andDregerC.(2004):«Estimatinglarge-scalefactormodelsforecono-
+micactivityinGermany:dotheyoutperformsimplermodels?»,JahrbucherfürNational
+ökonomie und Statistik, 224, 731- 750.
+[ 34 ] Stock, J. H. and Watson, M. W. (1999) : «Forecasting Inflation», Journal of Monetary
+Economics, 44, 293-335
+[ 35 ] Stock, J. H. and Watson, M. W. (2002) : «Forecasting using principal components
+from a large number of predictors», Journal of the American Statistical Association,
+97 :1167-1179.
+[ 36 ] Stock, J.H., Watson, M.W. (2004) : «Combination Forecasts of Output Growth in a
+Seven-Country Data Set», Journal of Forecasting 23, 405-430.
+[ 37 ] Stock, J.H., Watson, M.W. (2005) : «Understanding changes in international business
+cycle dynamics», Journal of the European Economic Association 3, 968-1006.
+[ 38 ] Stock, J.H., Watson, M.W. (2006) : «FORECASTING WITH MANY PREDIC-
+TORS», Handbook of Economic Forecasting, Volume 1, chapter 10.
+[ 39 ] Stock, J. H. and Watson, M. W. (2012) : «Generalized shrinkage methods for forecas-
+tingusingmanypredictors»,JournalofBusinessandEconomicStatistics,30(4):481-493.
+15
+
+--- Page 17 ---
+Annexe
+Annexe : Choix des variables pour l’estimation du modèle à facteur dyna-
+mique
+16

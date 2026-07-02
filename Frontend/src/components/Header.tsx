@@ -34,7 +34,7 @@ export default function Header({
           onClick={() => handleNavClick("accueil")}
           className="flex items-center gap-2 md:gap-3 text-left focus:outline-none focus:ring-2 focus:ring-[#C8971A]/30 p-1 rounded"
         >
-          <div className="w-10 h-10 rounded-full flex items-center justify-center overflow-hidden shadow-md shadow-[#C8971A]/10">
+          <div className="w-20 h-20 flex items-center justify-center">
             <img src={beacLogo} alt="Logo BEAC" className="w-full h-full object-contain" />
           </div>
           <div className="flex flex-col leading-tight select-none">
@@ -49,7 +49,6 @@ export default function Header({
             { id: "accueil", label: "Accueil" },
             { id: "chat", label: "Chat" },
             { id: "bibliotheque", label: "Bibliothèque" },
-            { id: "dashboard", label: "Tableau de bord" },
           ].map((item) => (
             <button
               key={item.id}
@@ -148,7 +147,6 @@ export default function Header({
             { id: "accueil", label: "Accueil" },
             { id: "chat", label: "Assistant IA" },
             { id: "bibliotheque", label: "Bibliothèque" },
-            { id: "dashboard", label: "Tableau de bord" },
           ].map((item) => (
             <button
               key={item.id}

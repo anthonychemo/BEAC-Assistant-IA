@@ -1,0 +1,700 @@
+Source PDF : Etat_des_systèmes_de_paiements_par_monnaie_électronique_dans_la_CEMAC_en_2017_abd27604.pdf
+Chemin original : scraping\beac_data\Systemes Paiement\Instructions Circulaires Reglements\Etat_des_systèmes_de_paiements_par_monnaie_électronique_dans_la_CEMAC_en_2017_abd27604.pdf
+Date extraction : 15/06/2026 19:28:41
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS
+DE L'AFRIQUE CENTRALE
+ETAT DES SYSTÈMES DE PAIEMENT PAR MONNAIE
+ÉLECTRONIQUE DANS LA CEMAC
+2017
+SERVICES CENTRAUX
+--------------
+DIRECTION GENERALE
+DE L’EXPLOITATION
+---------------
+DIRECTION DES SYSTEMES
+ET MOYENS DE PAIEMENT
+---------------
+
+--- Page 2 ---
+Sommaire
+INTRODUCTION ...................................................................................................................... 3
+1. PRESENTATION DE L’ACTIVITE ................................................................................. 4
+2. EVOLUTION DE L’ACTIVITE ....................................................................................... 4
+3. SOUSCRIPTEURS AUX PRODUITS DE MONNAIE ELECTRONIQUE .................... 6
+4. TRANSACTIONS DE MONNAIE ELECTRONIQUE .................................................... 7
+5. PAIEMENTS PAR MONNAIE ELECTRONIQUE ......................................................... 8
+6. USAGE DES CARTES PREPAYEES ............................................................................ 10
+7. TRANSFERTS INTERNATIONAUX ............................................................................ 10
+CONCLUSION ........................................................................................................................ 11
+GLOSSAIRE ............................................................................................................................ 13
+2
+
+--- Page 3 ---
+INTRODUCTION
+Selon les dispositions de l’article 1er de ses statuts, la BEAC a entre autres
+missions, celle de promouvoir le bon fonctionnement des systèmes de paiement et de
+règlement. Les systèmes de paiement et de règlement modernes et efficaces qui
+assurent la célérité des transactions financières et commerciales, dans un
+environnement technique et juridique sécurisé sont une réponse à l’accélération des
+mouvements de capitaux et à la globalisation de l’économie mondiale consécutives
+aux innovations technologiques, notamment dans le domaine de l’information et des
+télécommunications.
+Fort de cette exigence, les Autorités Monétaires de la Communauté
+Economique et Monétaire de l’Afrique Centrale ont initié depuis 1999, une réforme
+d'envergure régionale visant la modernisation des systèmes de paiement dans les Etats
+membres de la zone. A cet effet, le règlement CEMAC n° 02/03/CEMAC/UMAC/CM
+du 04 avril 2003 relatif aux systèmes, moyens et incidents de paiement a été adopté.
+Ce règlement est le premier texte règlementaire évoquant l’activité d’émission de
+monnaie électronique.
+La monnaie électronique est définie dans la CEMAC comme une valeur
+monétaire stockée sur un support sous forme électronique contre remise de fonds de
+valeur égale, qui peut être utilisée pour effectuer des paiements à des personnes autres
+que l’émetteur, sans faire intervenir des comptes bancaires dans la transaction.
+La définition de la monnaie électronique fait aussi ressortir la notion
+d’instrument de paiement électronique, c’est-à-dire le moyen par lequel le porteur
+(détenteur des unités de compte de monnaie électronique) accède à la monnaie
+électronique en vue de son utilisation. Ces instruments sont la carte prépayée et le
+téléphone portable. Dans ce dernier cas, on parlera du Mobile Money.
+Le dispositif règlementaire encadrant l’activité s’articule autour de :
+ un Règlement n° 01/11-CEMAC/UMAC/CM du 18 septembre 2011, fixant
+les conditions d’exercice de l’activité d’émission de monnaie électronique,
+ainsi que les rôles des Autorités de Régulations ;
+ une Instruction n° 01_GR du 31 octobre 2011 du Gouverneur de la BEAC,
+relative à la surveillance des systèmes de paiement par monnaie électronique
+avec, en annexe, un cadre référentiel recensant les éléments permettant à la
+BEAC d’assurer sa mission de surveillance de l’activité ;
+ l'Instruction du Gouverneur n° 02/GR/UMAC du 07 mai 2014 relative à la
+mise en place du multibanking dans le cadre de l'activité d'émission de la
+monnaie électronique.
+3
+
+--- Page 4 ---
+1. PRESENTATION DE L’ACTIVITE
+Au 31 décembre 2017, 19 banques étaient autorisées à exercer l’activité
+d’émission de monnaie électronique. Mais 17 exercent effectivement l’activité, la
+Société Générale Cameroun ayant arrêté la commercialisation de son porte-monnaie
+électronique depuis la fin de l’année 2014. BGFIBank Cameroun n’avait pas encore
+lancé la commercialisation de BGFI Money.
+Les instruments de monnaie électronique utilisés dans la CEMAC sont le
+Mobile Money et les cartes prépayées. Ces dernières, peuvent être privatives ou
+internationales (Visa et Mastercard).
+Le Groupement Interbancaire Monétique de l'Afrique Centrale (GIMAC)
+propose une carte prépayée dans son offre en direction des banques.
+Les chiffres contenus dans le présent document résultent des déclarations des
+établissements exerçant l’activité d’émission de monnaie électronique. Certaines
+déclarations (essentiellement sur les cartes prépayées) n’ont pas pu être intégrées en
+raison de leur manque de fiabilité et de leur incohérence. Par ailleurs, les données de
+l’activité des produits « BGFI Money » distribués au Congo et au Gabon ont été
+intégrés.
+2. EVOLUTION DE L’ACTIVITE
+Au 31 décembre 2017, on dénombrait 39 731 distributeurs de service de
+monnaie électronique à travers la CEMAC, contre 11 472 à la fin de l’année 2016. Il
+sied de noter que ce chiffre est en deçà de la réalité car, chez certains opérateurs, il
+n’est pas possible de déterminer avec exactitude le nombre de revendeurs (appelés
+« call box » au Cameroun) affiliés aux grossistes.
+Source : BEAC, DSMP
+4
+
+--- Page 5 ---
+En 2017, la monnaie électronique a été utilisée sur 303 266 265 transactions
+financières. Il n’y en avait que 97 836 317 pour toute l’année 2016. Ceci illustre très
+bien la forte progression de cette activité dans la région. Le Mobile Money représente
+99% de cette activité.
+Source : BEAC, DSMP
+En valeur, les transactions globales de monnaie électronique qui s’élevaient à
+1 631 milliards de F CFA en 2016 ont dépassé 4 700 milliards à la fin de l’année 2017.
+Le Mobile Money représente 96% de cette valeur.
+Source : BEAC, DSMP
+Toutefois, ces tendances marquent une très grande disparité entre les pays. Il
+n’y a pas d’établissement autorisé à émettre de la monnaie électronique en Guinée
+Equatoriale. En République Centrafricaine, le seul produit de Mobile Money est récent
+(lancement en avril 2016) et l’activité de « Orange Money RCA » demeure très
+modeste. En outre, on note une baisse de l’activité au Tchad due notamment à un
+5
+
+--- Page 6 ---
+manque de dynamisme des acteurs notamment ceux émettant le Mobile Money et
+l’environnement économique du pays.
+2015 2016 2017
+Nombre Valeur Nombre Valeur Nombre Valeur
+Cameroun 1 4 230 073 2 04 861 871 136 4 9 831 982 887 783 935 214 2 10 276 929 3 412 970 418 636
+Tchad 9 777 323 80 163 071 611 9 122 055 9 2 863 922 307 4 848 231 8 0 782 481 393
+RCA 1 4 218 1 073 567 837 21 369 1 801 942 450
+Congo 1 236 449 42 539 348 754 2 409 726 5 3 488 658 188 10 223 628 118 299 500 386
+Gabon 1 5 583 701 2 32 069 704 293 3 6 458 336 596 494 301 120 77 896 108 1 086 525 062 308
+TOTAL 4 0 827 546 5 59 633 995 794 9 7 836 317 1 631 704 384 666 3 03 266 265 4 700 379 405 173
+Transactions de monnaie électronique en nombre et en valeur
+Source : BEAC, DSMP
+L’évolution de l’encours de monnaie électronique, c’est-à-dire, les sommes
+détenues par les utilisateurs (porteurs et distributeurs) dans les porte-monnaie
+électronique, au 31 décembre de chaque année, démontre la confiance grandissante des
+populations envers ce moyen de paiement :
+2015 2016 2017
+Cameroun 9 922 240 785 2 3 093 868 867 6 2 416 135 281
+Tchad 4 605 097 582 4 144 578 810 2 989 392 394
+RCA 188 483 447 219 584 940
+Congo 1 864 166 335 3 412 393 193 3 924 477 437
+Gabon 6 243 021 681 1 2 289 670 253 1 9 214 810 561
+TOTAL 2 2 634 526 383 4 3 128 994 570 8 8 764 400 613
+Evolution de l’encours de monnaie électronique par pays
+Source : BEAC, DSMP
+3. SOUSCRIPTEURS AUX PRODUITS DE MONNAIE
+ELECTRONIQUE
+Le nombre de porte-monnaie électronique a considérablement évolué. Il est passé de
+12,6 millions d’inscrits à la fin de l’année 2016 à 16 millions en décembre 2017. Le
+taux d’actifs, c’est-à-dire, les clients qui ont utilisé leur instrument de monnaie
+électronique au cours des 30 derniers jours est passé de 21% en 2016 à 28% en 2017.
+6
+
+--- Page 7 ---
+Source : BEAC, DSMP
+Les acteurs n’ont pas de cible particulière pour leurs actions commerciales. Ils
+enregistrent les clients au gré des opportunités qui s’offrent à eux.
+7
+C
+T
+R
+C
+G
+T
+T
+a m e r
+c h a d
+C A
+o n g o
+a b o n
+O T A L
+a u x A
+o
+c
+u
+t
+n
+if s
+3 5
+3 1
+1 4
+7
+8 9
+8
+6
+2
+6
+4
+In
+7
+3
+6
+5
+2
+s
+2
+6
+2
+4
+6
+c
+7
+2
+3
+9
+4
+r it
+8
+5
+9
+9
+1
+s
+2
+1
+0
+4
+1
+%
+5
+d
+4
+3
+1
+3
+1 2
+o
+7
+1
+3
+5
+7
+n t
+4 5
+3 2
+5 7
+4 4
+7 9
+a
+5
+7
+4
+2
+9
+c
+6
+0
+1
+9
+6
+t if s In
+5 4 5 2
+3 5 8 8
+1
+2 3 7 3
+1 2 3 6
+1 2 6 5 2
+s c
+7
+4
+5
+4
+7
+9
+r
+3
+8
+2
+6
+6
+6
+it s
+0
+0
+0
+8
+7
+5
+2
+2
+0
+2
+1
+%
+6
+d o n t
+1 6 1 5 4
+3 4 8 6
+7
+9 6 4
+6 8 4 4
+2 7 4 5 7
+a
+0
+6
+6
+1
+9
+4
+c
+4
+8
+4
+1
+9
+6
+t if s In
+8 0 0 3
+2 4 8 6
+3
+4 2 9 9
+1 2 6 4
+1 6 0 5 6
+s c
+2
+2
+0
+2
+4
+2
+r
+5
+5
+4
+2
+8
+7
+it s
+2
+9
+6
+9
+5
+1
+2
+2
+0
+8
+1
+%
+7
+d o n t
+3 2 3 0 2
+2 1 8 0
+1 0
+3 3 8 4
+6 3 9 9
+4 4 2 7 6
+a
+3
+2
+7
+2
+2
+8
+c
+6
+1
+0
+8
+5
+0
+t if s
+Répartition des porte-monnaie de monnaie électronique
+Source : BEAC, DSMP
+Le Gabon a le meilleur taux d’actifs (51% en 2017). Ce pays peut donc être
+considéré comme celui où les populations se sont mieux approprié le téléphone
+portable pour effectuer leurs transactions financières.
+4. TRANSACTIONS DE MONNAIE ELECTRONIQUE
+En 2017, les recharges de porte-monnaie électronique, c’est-à-dire, les dépôts
+en espèces de la clientèle dans les points de vente, ont atteint 1 814 milliards de F CFA
+(contre 735 milliards de F CFA pour l’année 2016), dont 1 726 milliards de F CFA
+(663 milliards de F CFA pour toute l’année 2016) pour le Mobile Money. Cet
+instrument est également le moyen par excellence des transferts d’argent par monnaie
+électronique car, 99% de ceux-ci se font par Mobile Money.
+
+--- Page 8 ---
+8
+RechargesTransfert
+d'argentRetraits
+autom atesRetraits
+au G uichet
+Paiem ents
+TO TAL
+N om bre
+56 825 866
+43 915 933
+409 228
+51 065 890
+58 060 012
+210 276 929
+Cam eroun
+Valeur
+1 287 437 630 884
+936 449 390 333
+20 693 784 524
+1 059 543 540 921
+108 846 071 974
+3 412 970 418 636
+N om bre
+4 274 076
+254 459
+12 604
+301 834
+5 258
+4 848 231
+Tchad
+Valeur
+25 477 760 851
+17 480 733 086
+1 105 481 240
+36 426 325 569
+292 180 647
+80 782 481 393
+N om bre
+5 241
+3 471
+6 149
+6 778
+21 639
+RCA
+Valeur
+807 325 645
+401 325 612
+396 124 500
+197 166 693
+1 801 942 450
+N om bre
+2 542 192
+639 098
+71 417
+1 011 266
+5 959 655
+10 223 628
+Congo
+Valeur
+43 945 615 105
+8 906 161 327
+3 155 650 195
+31 732 614 406
+30 559 459 353
+118 299 500 386
+N om bre
+18 106 002
+7 903 962
+309 334
+16 744 292
+34 832 518
+77 896 108
+G abon
+Valeur
+458 125 054 002
+143 321 541 341
+24 846 999 610
+370 683 867 679
+89 547 599 677
+1 086 525 062 308
+Répartition des transactions de monnaie électronique en 2017
+Source : BEAC, DSMP
+De manière générale, les acteurs du Mobile Money connaissent un problème de
+liquidité de leur réseau. L’une des solutions envisagées a été de permettre les retraits
+sans carte dans les Guichets Automatiques de Banque (GAB). Cette opération est déjà
+possible dans plusieurs banques au Cameroun et au Gabon. L’autre solution, retenue
+par Orange Cameroun, en collaboration avec la BICEC, a été la mise en place d’une
+carte Visa qui permet aux souscripteurs d’effectuer des opérations dans tous les
+automates du réseau Visa au Cameroun uniquement.
+5. PAIEMENTS PAR MONNAIE ELECTRONIQUE
+En 2017, les paiements en monnaie électronique ont dépassé 229 milliards
+(contre 121 milliards en 2016) de F CFA dont 93% avec le Mobile Money.
+
+--- Page 9 ---
+Source : BEAC, DSMP
+Hormis au Tchad et en RCA, il est possible de payer sa facture d’électricité
+avec le Mobile Money. Les factures d’eau ne sont payables par Mobile Money qu’au
+Cameroun. Cependant, ce ne sont que les clients de quelques agences de la
+Camerounaise des Eaux qui bénéficient de ce service.
+L’achat de crédit téléphonique par Mobile Money est le premier service offert
+par tous les opérateurs, y compris les banques n’ayant pas d’opérateur téléphonique
+comme partenaire technique. Cette transaction constitue la plupart des opérations de
+paiement (80 millions de transactions en 2017). Elle représente 17% de l’activité en
+valeur.
+Dans tous les pays de la CEMAC (sauf la Guinée Equatoriale), il est possible de
+payer son abonnement à un service de télévision avec le Mobile Money.
+Les « ventes à distance » ne sont effectives que sur quelques sites internet de la
+CEMAC qui acceptent les paiements par Mobile Money. La plupart de ces sites sont
+des entreprises de jeux en ligne.
+9
+
+--- Page 10 ---
+6. USAGE DES CARTES PREPAYEES
+Répartition géographique de l’usage des cartes prépayées
+Source : BEAC, DSMP
+Les cartes prépayées servent essentiellement pour les transactions
+internationales. Seules les cartes prépayées dites « salaires », (cartes privatives) sont
+utilisées localement.
+7. TRANSFERTS INTERNATIONAUX
+Les transferts internationaux via la monnaie électronique se font à travers les
+cartes prépayées internationales, depuis leur lancement en 2012. C’est d’ailleurs
+l’instrument de monnaie électronique le plus utilisé pour sortir l’argent hors de la
+CEMAC avec 1,7 millions de transactions internationales pour une valeur dépassant
+les 63 milliards F CFA.
+Depuis l’année 2016, trois banques, en collaboration avec leur partenaire
+technique, avaient débuté les transferts internationaux via le Mobile Money : Afriland
+First Bank, BGFIBank Congo et Ecobank Congo.
+Le 7 juin 2017, le Gouverneur de la BEAC a recommandé aux banques de
+cesser toute opération de transfert de fonds à l’international dans le cadre des activités
+de monnaie électronique, par le canal des partenaires techniques.
+10
+
+--- Page 11 ---
+CONCLUSION
+Les textes règlementaires cités en introduction renfermaient quelques
+insuffisances notamment sur la répartition des responsabilités de surveillant des
+systèmes et celui de superviseur. En outre, les acteurs de l’activité d’émission de
+monnaie électronique sont unanimes sur le fait que les textes actuels, en dehors du fait
+qu’ils restent muets sur le développement des certains services (transferts d’argent à
+l’international, microcrédit, microepargne, crowfunding etc.), ne permettent pas de
+résoudre certains problèmes épineux rencontrés sur le terrain comme les modalités
+d’entrée en relation et l’identification de la clientèle. Enfin, les établissements de
+microfinance en l’état actuel de la règlementation ne peuvent pas émettre de la
+monnaie électronique ; or cette catégorie d’acteurs financiers joue un rôle important
+dans l’inclusion financière.
+Aussi, la Commission Bancaire, réunie en session ordinaire le 17 juillet 2017 à
+N’Djamena, a instruit son Secrétariat Général à engager des discussions avec la
+Banque des Etats de l’Afrique Centrale (BEAC) pour une proposition de réforme des
+textes encadrant les services de paiement. Le nouveau cadre réglementaire devrait être
+en vigueur avant la fin de l’année 2018.
+En mars 2018, le Gouverneur de la BEAC a signé 2 nouvelles autorisations
+d’exercice de l’activité d’émission de monnaie électronique :
+- UBA Cameroun en partenariat avec VIETTEL Cameroun ;
+- Société Générale Cameroun en partenariat avec YUP Cameroun.
+Ces 2 nouveaux partenariats mettront à la disposition du public des services de Mobile
+Money. Dans la CEMAC, de manière généralle, l’offre des services de paiements
+devrait fortement se diversifier dans les prochains mois impulsés à la fois par le
+dynamisme des acteurs, les attentes d’un public désormais éduqué et le futur cadre
+règlementaire plus favorable. Aussi, la Banque Centrale en tant qu’entité garante de la
+sécurité des instruments et moyens de paiement, et la COBAC en tant qu’organe de
+supervision des activités bancaires et des établissements réalisant ces activités, seront
+davantage mobilisés pour assurer leurs missions respectives.
+11
+
+--- Page 12 ---
+12
+P a y s
+C A M E R O U N
+C E N T R A F R IQ U E
+C O N G O
+G A B O N
+T C H A D
+T O T A L G LO B A L
+L IS T E D E S E T A B L IS S E M E N T S A U T O R IS E S A E M E T T R
+E m e tte u rs P a rte n a ire T e ch n iq u e T y p e d e p ro d u itB
+IC E C O ra n g e C M R M o b ile M o n e y *M
+T N C M R M o b ile M o n e yA
+frila n d F irst B a n k
+In te llig e n tsia C a rte p ré p a y é eO
+B O P A Y M o b ile M o n e yS
+G B C
+F IS C a rte p ré p a y é eU
+B A G T P C a rte p ré p a y é e V IS AE
+C O B A N K C M R G T P C a rte p ré p a y é e V IS AC
+B C G IE -G C B C a rte p ré p a y é eB
+G F IB a n k C a m e ro u n C H A K A M o b ile M o b ile M o n e y*
+La ca rte O ra n g e M o n ey V isa q u i p erm et d 'a cced er a u p o rtem o n n a ie électro n iq
+** La C B C b en eficie d 'u n e d éro g a tio n sp écia le d ep u is sep tem b re 2 0 1 5
+T o ta l C a m e ro u n : 7
+E C O B A N K R C A O ra n g e R C A M o b ile M o n e y
+T O T A L C E N T R A F R IQ U E : 1
+E C O B A N K M T N M o b ile M o n e yB
+G F I B A N K A irte l M o b ile M o n e yU
+B A G T P C a rte p ré p a y é e V IS A
+T o ta l C o n g o : 3
+B G F I B A N K A irte l M o b ile M o n e y
+B IC IG M o b ile M o n e yU
+B A G T P C a rte p ré p a y é e V IS AA
+tla n tiq u e T é le co m s
+O R A B A N K (M o o v ) M o b ile M o n e y
+U G B G a b o n T e le co m M o b ile M o n e y
+T o ta l G A B O N : 5
+E C O B A N K A irte l M o b ile M o n e y
+O R A B A N K T IG O M o b ile M o n e yU
+B A G T P C a rte p ré p a y é e V IS A
+T o ta l T ch a d : 3
+1 9
+E
+u
+L A M O N
+D a te d 'a u221
+0
+11
+2e
+fa it l'o b jet d
+1
+202
+2 9 /0 7
+12
+1
+2
+0
+12
+N A IE E L E C
+to risa tio n D a9
+/0 7 /2 0 1 19
+/0 7 /2 0 1 13
+/0 5 /2 0 0 9
+2 /1 2 /2 0 1 1
+2 /1 2 /2 0 1 28
+/0 7 /2 0 1 6*
+*8
+/1 1 /2 0 1 7'u
+n a cco rd d e la
+4 /0 1 /2 0 1 6
+9 /0 7 /2 0 1 13
+/1 0 /2 0 1 19
+/0 8 /2 0 1 3
+/2 0 1 1
+1 /0 7 /2 0 1 29
+/0 8 /2 0 1 3
+1 /0 6 /2 0 1 4
+0 /0 1 /2 0 1 4
+5 /0 3 /2 0 1 2
+1 /0 7 /2 0 1 21
+/0 5 /2 0 1 3
+T R
+te d
+B EA
+O N IQ U E A U 3 1 / 1 2 / 2 0 1 7
+e la n ce m e n t N o m co m m e rcia l2
+1 /0 9 /2 0 1 1 O ra n g e M o n e y0
+1 /0 1 /2 0 1 2 M T N M o b ile M o n e yn
+o v -1 0 I-C a rd1
+9 /0 3 /2 0 1 2 M o n ifo n eca
+rte p ré p a y é e ;
+ca rte sa la ire1
+2 /1 2 /2 0 1 2 U B A A frica rd
+0 1 /0 5 /2 0 1 0 ca rte S a la risB
+G F I M o b ileC
+d ep u is le 1 8 ju illet 2 0 1 6
+0 7 /0 4 /2 0 1 6 O ra n g e M o n e y
+0 1 /0 1 /2 0 1 2 M T N M o b ile M o n e y0
+1 /0 4 /2 0 1 2 A irte l M o n e y0
+1 /0 9 /2 0 1 3 U B A A frica rd
+0 1 /0 3 /2 0 1 2 A irte l M o n e y2
+3 /1 2 /2 0 1 5 B G F IM o n e y0
+6 /1 2 /2 0 1 2 B IC IG M o b ile0
+1 /1 1 /2 0 1 3 U B A A frica rd
+0 1 /0 7 /2 0 1 4 M o o v F lo o z
+0 1 /0 5 /2 0 1 4 M o b i C a sh
+m a i-1 2 A irte l M o n e y
+0 1 /1 0 /2 0 1 2 T ig o C a sh0
+1 /0 6 /2 0 1 3 U B A A frica rd
+
+--- Page 13 ---
+GLOSSAIRE
+Tous les termes utilisés dans le présent document s’entendent au sens défini
+dans le Règlement n° 01/11-CEMAC/UMAC/CM du 18 septembre 2011, fixant les
+conditions d’exercice de l’activité d’émission de monnaie électronique, ainsi que les
+rôles des Autorités de Régulations.
+Carte privative : carte bancaire émisse par un établissement de crédit ou une
+enseigne et ne pouvant être utilisé que dans les automates de l’émetteur.
+Accepteur : commerçant ou prestataire de services ayant signé un contrat avec un
+émetteur de monnaie électronique, en vue de recevoir des règlements par la monnaie
+électronique émise par ce dernier ;
+Autorités de Régulation : Organes chargés d’autoriser, de contrôler et de surveiller
+l’activité d’émission de la monnaie électronique ;
+Comité Technique : Structure ad hoc instituée par le Gouverneur de la BEAC en vue
+de l’instruction des dossiers de demande d’autorisation d’exercice de l’activité de
+monnaie électronique ;
+Distributeur de monnaie électronique : établissement offrant au porteur de
+l'instrument électronique, en exécution d’un contrat conclu avec un établissement
+émetteur de monnaie électronique, un service de chargement, de rechargement ou
+d’encaissement de monnaie électronique ;
+Etablissements assujettis : établissements habilités à exercer l’activité d’émission de
+monnaie électronique ;
+Etablissement émetteur de monnaie électronique ou émetteur : établissement
+assujetti débitrice de la créance incorporée dans l’instrument de paiement
+électronique ;
+Etablissement de crédit : organisme tel que défini à l'article 4 de l'Annexe à la
+Convention portant Harmonisation de la Réglementation Bancaire dans les Etats de
+l’Afrique Centrale du 17 janvier 1992;
+Etablissement de microfinance ou EMF : organisme tel que défini aux articles 1 et 2
+de Règlement n°01/02/CEMAC/UMAC/COBAC relatif aux conditions d'exercice et
+de contrôle de l'activité de microfinance dans la CEMAC ;
+Instrument de paiement électronique : signaux enregistrés dans une mémoire
+informatique, incorporée dans une carte nominative fournie par l’émetteur au porteur
+(Porte-Monnaie Electronique), incluse dans un ordinateur (Porte-Monnaie Virtuel) ou
+un téléphone portable (mobile money) et gérée d’une façon centralisée ou chargée par
+l’utilisateur ;
+13
+
+--- Page 14 ---
+Monnaie électronique : valeur monétaire incorporée sous forme électronique contre
+remise de fonds de valeur égale, qui peut être utilisée pour effectuer des paiements à
+des personnes autres que l’émetteur, sans faire intervenir des comptes bancaires dans
+la transaction ;
+Porteur : personne qui, en vertu d’un contrat conclu avec un établissement émetteur
+de monnaie électronique, détient de la monnaie électronique pour son propre compte ;
+Remboursement de la monnaie électronique : conversion de la monnaie
+électronique en monnaie fiduciaire ou scripturale à sa valeur nominale, suivie de sa
+restitution au porteur à la demande de celui-ci ;
+Unités de Valeur Electronique (UV) : unités de compte de monnaie électronique.
+14

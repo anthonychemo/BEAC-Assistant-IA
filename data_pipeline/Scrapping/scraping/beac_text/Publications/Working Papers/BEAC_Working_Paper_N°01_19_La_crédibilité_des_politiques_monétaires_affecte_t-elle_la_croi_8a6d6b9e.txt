@@ -1,0 +1,2679 @@
+Source PDF : BEAC_Working_Paper_N°01_19_La_crédibilité_des_politiques_monétaires_affecte_t-elle_la_croi_8a6d6b9e.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°01_19_La_crédibilité_des_politiques_monétaires_affecte_t-elle_la_croi_8a6d6b9e.pdf
+Date extraction : 15/06/2026 21:23:09
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 01/19 -
+La crédibilité des politiques monétaires affecte-t-elle la croissance
+économique en Afrique subsaharienne ?
+T ADADJEU WEMBA Dessy-Karl ESSIANE Patrick-Nelson Daniel
+Docteur en sciences économiques Economiste
+Et
+Université de Dschang
+Direction des Etudes, de la Recherche et des
+dessykarl@yahoo.fr
+Statistiques
+essiane@beac.int
+B ANQ U E D E S E T A T S D E
+L’AF R IQ U E C E NT R ALE
+Les opinions émises dans ce document de
+7 36, Av e n ue M on s e i g n e ur
+travail sont propres à leur (s) auteur (s) et ne
+V og t B P:1 9 1 7 Y a o un d é
+représentent pas nécessairement la position de la
+C a me roun
+Banque des Etats de l’Afrique Centrale.
+T e l :(2 37 ) 2 2 2 34 0 30 /
+2 2 2 34 060 The opinions expressed in this working
+paper are those of the author (s) and don’t
+F a x : (2 37 ) 2 2 2 33 32 9
+necessarily represent the views of the Central Bank
+ww w.be a c.i n t
+of Central Africa States.
+D I R E C T I O N D E S E T U D E S, D E L A R E C H E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+La crédibilité des politiques monétaires affecte-t-elle la croissance
+économique en Afrique Subsaharienne?1
+Tadadjeu Wemba Dessy-Karl∗ Essiane Patrick-Nelson Daniel∗∗
+Décembre 2019
+Résumé
+Cette étude propose de faire ressortir l’effet d’une plus grande Crédibilité de la Politique
+Monétaire (CPM) sur la croissance économique en Afrique Subsaharienne (ASS) au cours de
+la période 1980-2017. L’approche économétrique basée sur des données de panel dynamique est
+principalement utilisée pour nos estimations. Il ressort des principaux résultats un effet limité
+et non significatif de l’indicateur de crédibilité sur l’activité économique, du fait principal de
+l’inefficacité des canaux de transmission de la politique monétaire. Cette contradiction nous a
+conduit à recommander pour notre part la promotion d’une politique monétaire orientée vers
+l’amélioration de la croissance économique en Afrique Subsaharienne, mais sans toutefois porter
+préjudice à la contrainte de stabilité des prix.
+Mots-clés :Crédibilité de la Politique Monétaire (CPM), croissance économique, stabilité
+des prix, économétrie des données de panel, Afrique Subsaharienne (ASS).
+Codes JEL : E58, E61, O43, O55
+Does the credibility of monetary policies affect economic growth in Sub-Saharan
+Africa?
+Abstract
+This study proposes to highlight the effect of greater Monetary Policy Credibility (CPM) on
+economic growth in Sub-Saharan Africa (SSA) during the period 1980-2017. The econometric
+approach based on dynamic panel data is mainly used for our estimates. The main results show
+a limited and insignificant effect of the credibility indicator on economic activity, mainly due
+to the ineffectiveness of the monetary policy transmission channels. This contradiction has led
+us to recommend for our part the promotion of a monetary policy oriented towards improving
+economicgrowthinSub-SaharanAfrica,butwithouthoweverprejudicingtheconstraintofprice
+stability.
+Keywords : Monetary Policy Credibility (MPC), economic growth, price stability, panel
+data econometrics, Sub-Saharan Africa (SSA).
+JEL Classification :E58, E61, O43, O55
+1. Les auteurs remercient les participants aux ateliers de recherche organisés par la Banque des Etats
+de l’Afrique Centrale pour leurs observations et commentaires. Tout particulièrement, nous remercions
+le Pr. Désiré Avom, Dr. Junior Maih, le Dr. Kenneck Massil ainsi que Monsieur Moustapha Mbohou
+pour leurs discussions et analyses sur le papier. Les erreurs et omissions éventuellement contenues dans
+le document relèvent du seul fait des auteurs.
+∗. Économiste, Ph.D, Université de Dschang, Cameroun
+∗∗. Économiste,BanquedesÉtatsdel’AfriqueCentrale(BEAC),DirectiondesÉtudes,delaRecherche
+et des Statistiques. essiane@beac.int
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 4
+1 Connexions théoriques et empiriques avec la littérature 8
+2 Faits stylisés 15
+3 Méthodologie de l’étude 20
+4 Interprétation des résultats et implication de politique économique 42
+Conclusion 53
+Éléments de recherche bibliographique 55
+Références 55
+Annexes 65
+2
+
+--- Page 4 ---
+Résumé non technique
+Les courants de pensée néo-classiques ont mis l’accent sur la crédibilité de la Banque Cen-
+trale comme facteur d’efficacité de la politique monétaire vu sous l’angle de la réalisation de son
+objectif final qui n’est autre que la stabilité interne et externe des prix. C’est ainsi que dans le
+contexte de certains pays d’Afrique Subsaharienne, des réformes allant dans le sens du renfor-
+cement de l’autonomie et de la crédibilité de la Banque Centrale en matière de stabilisation des
+prix ont vu le jour. Fort du constat qu’en Afrique Subsaharienne (ASS), on note ces dernières
+années de faibles taux de croissance cohabitant régulièrement avec une inflation plus ou moins
+maîtrisée, ce qui remet souvent en cause l’efficacité et la crédibilité les politiques monétaires
+dans les pays cette région.
+Nousnoussommesproposésdanscetravailderessortirl’effetd’uneplusgrandeCrédibilitéde
+laPolitiqueMonétaire(CPM)surlacroissanceéconomiqueenAfriqueSubsaharienne.Lemodèle
+économétrique théorique utilisé a été un modèle de croissance endogène dérivé du modèle de
+Solow.Àpartirdecemodèle,nousavonsoptépourl’utilisationdesméthodeséconométriquesde
+panel, plus précisément les panels dynamiques afin de procéder à l’estimation de notre équation
+de croissance. Cette équation à laquelle nous avons ajouté un indice simple de Crédibilité de
+la Politique Monétaire préalablement construit, a servi d’instrument théorique à notre analyse
+empirique.
+L’estimation faite sur la base des données issues de la Banque Mondiale (WDI 2018), de la
+Conférence des Nations Unies sur le Commerce et le Développement (CNUCED, 2018) et de
+Freedom House Database (2018) sur la période 1980 et 2017; donne un résultat limité et non
+significatif de l’indicateur de crédibilité sur l’activité économique, du fait principal de l’ineffica-
+cité des canaux de transmission de la politique monétaire. A cet effet, nous recommandons la
+promotion d’une politique monétaire orientée vers l’amélioration de la croissance économique en
+Afrique Subsaharienne, mais sans toutefois porter préjudice à la contrainte de stabilité des prix.
+3
+
+--- Page 5 ---
+Introduction
+Par partir des années quatre-vingts, la crédibilité et la réputation de la politique monétaire
+redevinrent le centre de la littérature économique relative au Central Banking (Gilles et Bas-
+tidon, 2012). Cet intérêt particulier accordé à la Crédibilité de la Politique Monétaire (CPM)
+a émergé d’un double constat : Au plan théorique, l’échec des stratégies keynésiennes face à la
+stagflation a conduit naturellement à préconiser l’abandon de la fonction de stabilisation macro-
+économique de la politique monétaire. Empiriquement, le replacement des préceptes classiques
+au rang des priorités découle des inquiétudes des Autorités à atteindre les objectifs qu’elles se
+sont assignées. C’est ainsi que ces dernières décennies ont a remarqué de profondes mutations
+dans la gouvernance des Banques Centrales en particulier, la délégation de la politique moné-
+taire à une Banque Centrale autonome vis-à-vis des pouvoirs publics qui est devenue l’un des
+principaux déterminants de la crédibilité dans les économies avancées (Bordo et Orphanides
+(2013), Goodfriend (2012), Persson et Tabellini (1993), Cukierman (1992)). Dans un environne-
+ment caractérisé par des risques de tensions inflationnistes et des signes de fragilité des systèmes
+financiers, les préoccupations de stabilité des prix posent avec acuité un problème qu’on évoque
+de plus en plus, celui de la crédibilité de la politique monétaire et de la réputation des autorités
+monétaires qui la conduisent (Ba, 2015).
+Le terme «crédibilité1» est souvent utilisé pour qualifier une politique et désigne le degré
+de confiance que manifeste le public envers la Banque Centrale dans sa capacité d’atteindre les
+objectifs annoncés. La crédibilité de celle-ci dépend de la réalisation de la politique annoncée.
+SelonKydlandetPrescott(1977),laBanqueCentraleseracrédiblesisapolitiqueesttempo-
+rellement cohérente. Ainsi conçue, la crédibilité exige l’abandon des politiques discrétionnaires.
+Cette recommandation est centrale dans l’approche de la crédibilité selon Barro et Gordon
+(1983). La Banque Centrale doit abandonner toute tentation de provoquer des «surprises d’in-
+flation» car, en présence d’agents parfaitement informés, l’inflation anticipée est identique à
+l’inflation effective. Plus les anticipations du public sont proches de ce que fait réellement la
+Banque Centrale, plus elle est crédible (Brahmi et Zouari-Ghorbel, 2013).
+Pour St-Amant et Tessier (1998), la « crédibilité » est le fait que les agents économiques
+s’attendent à ce que les autorités mettent à exécution les plans qu’elles ont annoncés2 et à ce
+que ces plans permettent la réalisation des objectifs visés. La crédibilité tient à la détermination
+et à la capacité de l’autorité monétaire à convaincre les agents économiques de souscrire aux
+stratégies annoncées et d’agir en conséquence (Pollin, 2008). Elle est donc perçue comme le
+degré de confiance du secteur privé dans l’aptitude et la détermination de la Banque Centrale à
+suivre la politique monétaire et à atteindre les objectifs qu’elle a annoncé, en dépit de déviations
+temporaires qu’elle pourrait consentir afin d’absorber les chocs subis par l’économie (Loisel
+(2006), Carré et Le Heron (2006)).
+De son côté, Aglietta (2000) propose une définition élargie de la crédibilité. Selon cet au-
+1. La base de données du Journal of Economic Litterature, qui recense l’ensemble des publications
+économiques à partir de mots clés a répertorier le nombre de fois que le mot « crédibilité » a été utilisé
+depuis 1985 dans les résumés d’articles parus dans des revues (les documents de travail, les chapitres
+dans des ouvrages sont exclus afin d’éviter les doublons). Le résultat est plus de 281 fois (on a associé «
+crédible » ou «crédibilité » à «monétaire », «engagement » et «fiscal »). (Creel et fayolle ,2000). Sur
+google schoolar en 2018, le terme « crédibilité » est retrouvé plus 700 fois dans des articles.
+2. SelonDrazen(2000)sil’onn’apasconfiancedanslefaitqueledécideurferaexactementcequ’ildit
+(crédibilité du décideur), ni l’espoir que sa politique sera réalisée (crédibilité de la politique), l’équilibre
+discrétionnaireapparaitcommel’uniqueéquilibretemporellementcohérentdujeudepolitiquemonétaire.
+4
+
+--- Page 6 ---
+teur:«Lacrédibilitéestl’aptitudedelaBanqueCentraleàfairereconnaîtresadéterminationde
+préserver le régime monétaire sur lequel elle a engagé sa stratégie, en dépit des déviations qu’elle
+consent pour absorber les chocs dans les meilleures conditions possibles ». C’est la revendication
+d’une complémentarité entre la règle et les décisions discrétionnaires.
+Pour Bastidon et Gilles (2014), l’évaluation qualitative de la crédibilité, c’est-à-dire la ratio-
+nalisation d’appréciation d’éléments subjectifs ou arbitraires, liées aux données fondamentales
+dont la disponibilité peut faire défaut, renvoie à la capacité des Banques Centrales à gérer et à
+prévenir les crises financières. Mais pour Mvondo (2016), l’annonce d’une cible d’inflation et son
+respect contribuent à l’ancrage des anticipations et en définitive à la crédibilité de la politique
+monétaire.
+Besson(1993)etBlinder(2000)vontrépertorierquatre(04)raisonsconsensuellesquiconfère
+de l’importance à la notion de crédibilité : « Plus de crédibilité rend la désinflation moins coû-
+teuse, aide à maintenir l’inflation à un niveau faible, rend plus aisée la défense d’une parité
+quand c’est nécessaire et augmente le soutien du public en faveur de l’autonomie de la Banque
+Centrale ». Une politique monétaire hautement crédible réduit le degré d’incertitude entourant
+les objectifs de la politique monétaire. En réduisant l’incertitude quant à l’évolution future de
+l’inflation, il favorise de meilleures décisions en matière d’épargne et d’investissement, ce qui
+accroît la productivité globale. Par conséquent, quand la politique mis en?uvre par la Banque
+Centrale jouit d’une grande crédibilité, les fluctuations qu’enregistrent l’inflation, les taux d’in-
+térêts, la production et l’emploi en réaction à des chocs donnés devraient être moins prononcées
+que dans le cas inverse (Perrier et Amano, 2000). On peut ajouter un autre élément important
+d’unecrédibilitéélevée,c’estqu’ellepermetauxautoritésmonétairesdemieuxjaugerlacapacité
+de l’économie de produire des biens et des services et de générer des emplois, sans automati-
+quement risquer d’attiser les craintes d’inflation. Il s’agit là d’un avantage considérable, étant
+donné le haut degré d’incertitude qui entoure les estimations de la production potentielle et de
+l’écart de production (Ba, 2015).
+On peut arguer deux (02) situations dans lesquelles se pose la question de la crédibilité de la
+politique monétaire : d’une part, quand le taux d’inflation a dépassé un certain seuil et
+quelesautoritésdécidentdeleréduireetd’autrepart,quandl’inflationaétémaîtrisée
+et que les autorités s’efforcent de le maintenir à l’intérieur d’une fourchette cible
+donnée. Dans le premier cas, les autorités ont perdu leur crédibilité parce qu’elles n’ont pu
+empêcher la situation de se détériorer. Elles doivent alors commencer par faire la preuve qu’elles
+ont la détermination et la capacité d’opérer les redressements qui s’imposent. Dans le second
+cas, la preuve de la capacité de la Banque Centrale de réduire l’inflation a déjà été faite et
+le problème de la crédibilité se pose essentiellement à l’égard du maintien du taux d’inflation
+à l’intérieur de la fourchette cible annoncée (Perrier et Amano, 2000). A ce niveau, un haut
+degré de crédibilité de la politique monétaire et par conséquent l’existence d’un environnement
+d’inflation faible, il peut occasionner « le paradoxe de la crédibilité ». D’après Borio et Lowe
+(2002), une politique crédible de faible inflation réduit la probabilité que les investisseurs et
+les institutions financières accordent la survenance d’un ralentissement économique à venir, et
+s’engagentdansdenouveauxempruntsetdeprêtsrespectivement,cequifaitaugmenterlesprix
+des actifs et l’endettement privé. Maîtriser l’inflation peut contribuer à des modifications dans
+la dynamique du système susceptibles de dissimuler les risques auxquels l’économie est exposée.
+De ce fait, une politique monétaire crédible pourrait rendre le système financier paradoxalement
+plus vulnérable aux chocs économiques défavorables (Bean et al., 2010).
+La présente analyse s’intéresse particulièrement à ces deux (02) situations qui semblent
+les mieux correspondre aux pays en voie de développement. Depuis plus de deux décennies,
+5
+
+--- Page 7 ---
+l’un des principes clefs de nombreux programmes du Fonds Monétaire International (FMI) en
+Afrique Subsaharienne est que les régimes de taux de change flottants, associés à une plus
+grande autonomie des Banques Centrales, permettraient d’assurer des politiques monétaires
+crédibles(Schadler,1995).Maislarecherched’uneplusgrandecrédibilitéengendregénéralement
+de nombreuses controverses au sein de la science économique dont la plus célèbre est celle des
+rapports complexes entretenus entre l’inflation et la croissance économique.
+Durantlesannées1960l’Afriquedessinaitdebeauxespoirs.SuivantlestravauxdeMaddison
+(1995) basés sur le Produit Intérieur Brut (PIB) par habitant pour un échantillon de pays, au
+cours de la première moitié du siècle, l’Afrique a connu une croissance beaucoup plus rapide
+que celle de l’Asie. Pendant la période 1960-1973, la croissance en Afrique a été plus rapide
+que celle de la première moitié du siècle. En effet pour cette période, la croissance de l’Afrique
+et sa composition étaient indissociables de celle de l’Asie du Sud (Collins et Bosworth, 1996).
+L’autodétermination politique en Afrique et la croissance économique semblaient aller de pair
+(Collier et Gunning, 1999).
+Cependant,unengagementversunepolitiquemonétairepluscrédibledelapartdesautorités
+monétaires de l’Afrique Subsaharienne peut s’avérer être « une épée à double tranchant » :
+d’un côté, il renforce certes des facteurs structurels susceptibles de contenir les pressions infla-
+tionnistes,maisdel’autre,alorsquelesanticipationsd’inflationdelongtermesontmieuxancrées
+autourdel’objectif,onpeutobserverunralentissementdel’activitééconomiqueetdoncdutaux
+decroissanceéconomique.Eneffet,l’inflationestdansunecertainemesure,unesorted’aiguillon
+qui permet de développer les moyens de production. Elle est le signe que d’importants profits
+sont réalisables et elle résulte elle-même du processus de développement car, les investissements
+réalisés dans une branche sont susceptibles de stimuler la demande dans d’autres branches en
+raison des interdépendances sectorielles. Pour certaines zones et pays d’Afrique Subsaharienne,
+brider à tout prix l’inflation à un niveau très bas, et qui serait sans doute trop bas y compris
+pourlespayscapitalistesavancés,revienttoutsimplementàbriderl’activitééconomiqueetdonc
+le développement lui-même. Les taux d’inflation très faibles affichés par exemple en zone CFA
+signifieraient une certaine crédibilité des politiques monétaires mais, pourrait également être le
+signe de perpétuation et d’absence de développement économique (Tinel, 2016). Ce paradoxe
+pourrait signifier que les Banques Centrales de cette partie de l’Afrique peuvent dans certains
+cas, être victime de leur propre succès (Ekomie (2001), Nguena (2012)).
+De manière concrète, la question qui nous vient en esprit à la suite de ces paradoxes serait
+alors de savoir si la crédibilité est-t-elle en mesure d’améliorer l’efficacité de la politique moné-
+taire? Autrement dit, nous voulons examiner dans cet article si la politique monétaire
+en Afrique Subsaharienne est-elle crédible et favorable à la croissance économique?
+L’objectif de cette étude est donc d’évaluer empiriquement l’effet d’une politique
+monétaire crédible en terme de stabilité des prix sur la croissance économique en
+Afrique Subsaharienne. Pour cela, nous formulons l’hypothèse selon laquelle il y a une in-
+cidence positive de la Crédibilité de la Politique Monétaire (CPM) sur la croissance
+économique en Afrique Subsaharienne.
+D’après Blinder (2000), la crédibilité est identifiée dans la littérature académique par l’une
+des trois (03) choses suivantes : la lutte contre l’inflation, la réputation et le pré engagement.
+La Banque Centrale construit sa crédibilité en gagnant « la bataille » contre l’inflation. Ainsi,
+pour être crédible et reconstruire sa réputation, la Banque Centrale devra avoir une inflation
+faible pendant une longue période ceci afin de faire tendre les anticipations vers un niveau bas
+d’inflation (Creel et Fayolle, 2000). Dans notre étude la CPM sera captée par le choix de la lutte
+6
+
+--- Page 8 ---
+contrel’inflation.Parricochet,uneBanqueCentralepratiquantunepolitiquemonétairecrédible
+devra également fixer des objectifs ou seuils d’inflation favorables à la croissance économique.
+Danslalittérature,lacrédibilitéd’uneinstitutionéconomiqueestsupposéefavoriserlacrois-
+sance économique de deux (02) manières : Premièrement, les institutions crédibles agissent sur
+le niveau des investissements en diminuant les coûts de transactions à travers la réduction des
+risques et la neutralisation des rigidités qui altèrent les marchés (Chtourou, 2004); deuxième-
+ment et de façon plus large, les institutions crédibles permettent de réduire les incertitudes
+inhérentes aux relations humaines (North, 1994). Keneck et al. (2017) vont préciser plus loin
+que la construction progressive de la crédibilité d’une Banque Centrale est l’un des canaux par
+lequel la maturité des Banques Centrales peut agir sur la croissance économique.
+En Afrique Subsaharienne, une pareille investigation a pour ambition de contribuer à un
+débat d’actualité récent sur l’analyse économique des Institutions, et particulièrement celle des
+Banques Centrales qui est l’un des sujets qui suscitent un regain d’intérêt aussi bien dans les
+milieux académiques que dans les organisations multilatérales. Ce travail est une contribution
+certaine à la littérature existante sur la qualité des institutions économiques. L’utilisation des
+données récentes permettra de combler les lacunes des études précédentes tout en mettant en
+avantlesimplicationsdepolitiqueéconomiqueplusàjour.Cetarticlecontribueaussidemanière
+innovante à la littérature sur le rôle des Banques Centrales en construisant un indicateur de
+Crédibilité de la Politique Monétaire afin d’apprécier les effets de son action sur la performance
+économique et particulièrement dans l’explication de la croissance économique. Enfin, ce travail
+qui s’inscrit dans l’ordre des déterminants institutionnels de la croissance économique, pourra
+fournirauxautoritésenchargedesquestionsmonétairesetfinancières,unélémentd’appréciation
+sur la politique monétaire menée par leurs Institutions depuis les années 1980.
+Notreétudeportesurunéchantillonde22paysd’AfriqueSubsahariennerépartientrois(03)
+groupes à savoir : l’échantillon total (22 pays), la zone Franc CFA (14 pays) et les huit (08) pays
+hors zone Franc CFA. Pour atteindre notre objectif et vérifier notre hypothèse, nous utilisons un
+modèle de croissance endogène auquel nous appliquons la méthode économétrique des Moments
+Généralisés (GMM) sur données de panel dynamique pour période allant de 1980 à 2017. Il
+ressort des principaux résultats un effet limité et non significatif de l’indicateur de crédibilité
+sur l’activité économique, du fait principal de l’inefficacité des canaux de transmission de la
+politique monétaire. Ce résultat contradictoire qui renvoi sans doute à la qualité proprement
+dite des institutions en ASS et son environnement socioéconomique, confirment l’idée selon
+laquelle il serait judicieux de poursuivre des réformes visant l’amélioration de l’efficacité de la
+politique monétaire tant au niveau de la Banque Centrale (accent mis sur le soutien de l’activité
+économique en plus de son objectif de stabilité des prix, etc..) qu’au niveau des Etats (climat
+des affaires, bonne gouvernance, accélération du commerce intra régional, etc..).
+Le reste de notre article se présente comme suit. Dans la section 1, nous présentons les
+connexions théoriques et empiriques avec la littérarure sur la Crédibilité de la Politique Moné-
+taire. Ensuite nous exposons quelques faits stylisés en Afrique Subsaharienne dans la section 2
+avant de décrypter le cadre méthodologique de notre travail dans la section 3. Pour terminer,
+nous ressortons les résultats et un certain nombre de recommandations de politique économique
+dans la section 4.
+7
+
+--- Page 9 ---
+1 Connexions théoriques et empiriques avec la litté-
+rature
+Dans un premier temps, il s’agira de présenter l’évolution des travaux théoriques relatif à
+notre problématique (1.1), puis dans un second temps de lister les travaux empiriques mettant
+en exergue la CPM dans certains pays (1.2).
+1.1 Fondements théoriques : de l’incohérence à la crédibilité
+L’expériencedeplusieursBanquesCentralesaeffectivementprouvéquepourrégulerl’écono-
+mie, la pratique des méthodes traditionnelles du contrôle optimal ne résiste plus à la conception
+des anticipations rationnelles. Elle soulève de ce fait un problème « d’incohérence tempo-
+relle » de la politique optimale. Cette question est évoquée lorsqu’une décision de politique
+économique à prendre dans le futur, se révèle non optimale alors qu’elle l’était au moment de
+la proposition d’un plan (Miniaoui et Smida, 2008). Pour répondre à ce problème d’incohérence
+temporelle, les travaux de Kydland et Prescott (1977), Calvo (1978), Barro et Gordon (1983) et
+Rogoff(1985)ontouvertlavoieauxréflexionssurlacrédibilitédesBanquesCentrales.Proposée
+par les premiers, cette idée fondatrice a débouché dans les années quatre-vingt sur de nouveaux
+modèlesenvisageantlapolitiqueéconomiquesouslaformed’unjeudestratégie.Cederniersedé-
+roule entre le décideur public et les acteurs économiques privés. Les résultats de ces interactions
+stratégiques varieraient selon le jeu envisagé entre les deux centres de décisions. Théoriquement,
+ce jeu peut être coopératif ou non coopératif. Dans ce dernier cas, il est simultané (équilibre de
+Cournot-Nash) ou séquentiel : c’est la configuration de Stackelberg.
+S’agissant de la politique monétaire, le dit jeu n’est pas coopératif. Il s’institue entre le
+décideur public et les acteurs économiques privés. Le premier cherche à tromper les plans indivi-
+duels, les seconds tentent d’anticiper les décisions de la Banque Centrale. À ce propos, l’exemple
+communément cité est celui d’une Banque Centrale qui dépend d’un gouvernement dépendant
+lui-mêmedeséchéancesélectorales3.Pourlesbesoinsdelastratégied’ordrepolitique,laBanque
+Centrale est tentée d’abandonner son premier objectif de lutte contre l’inflation. Elle perd ainsi
+toute crédibilité4 . Conformément à cette présentation, le problème de l’incohérence temporelle
+provient du fait que le comportement économique est influencé par les attentes de la politique
+future. Il apporte la preuve que les autorités peuvent atteindre un résultat sous-optimal de biais
+inflationniste (Mishkin, 1997). Effectivement, les analyses des travaux de Kydland et Prescott
+(1977) ont déjà mis en évidence qu’il est coûteux de laisser au décideur politique le choix d’une
+politique monétaire discrétionnaire.
+En bref, la délégation de la responsabilité de la politique monétaire à une institution plus
+averse que la société à l’inflation, permet de réduire le biais inflationniste inhérent à toute po-
+litique discrétionnaire. Elle garantit à la Banque Centrale la possibilité de réagir de manière
+flexible aux chocs imprévus interdisant par la même occasion à l’Etat d’avoir recours à la «
+planche à billets », pour financer un déficit des comptes publics. Sa mise en?uvre a été cepen-
+dant, jugée en mesure de poser un problème supplémentaire de coordination des instruments de
+3. L’origine de la discussion portant sur les solutions à envisager a été souvent affiliée au modèle de
+RogoffetSilber(1988).Lesauteursintroduisentunbiaisinflationnistedanslecomportementdesautorités
+monétaires qui mettent en place une politique d’expansion monétaire pendant la période pré-électorale.
+4. Voir d’une façon générale, les cas de l’inflation surprise pour la résorption de la dette publique,
+l’exploitation de la courbe de Phillips à court terme, etc...
+8
+
+--- Page 10 ---
+la politique économique à l’intérieur du même pays. Elle implique une spécialisation de la poli-
+tique monétaire dans la lutte contre l’inflation, réduit la possibilité d’une utilisation combinée
+des instruments budgétaire et monétaire, et affecte ainsi l’usage conjoncturel de l’instrument
+budgétaire (Villa, 1993)5. Loin d’être partagé par tous, ce point de vue qui évoque un éventuel
+conflit entre les deux autorités a été quelquefois jugé constructif (Thygesen, 1995). Il permet-
+trait premièrement, de limiter les erreurs les plus graves et deuxièmement, d’obtenir en moyenne
+des résultats supérieurs à ceux qui résulteraient de la domination par les autorités non moné-
+taires6. En complément à cette solution institutionnelle, la littérature économique a souvent
+évoqué l’instauration d’une règle contingente. La crédibilisation de la politique monétaire passe
+par l’identification de règles susceptibles d’éviter le recours à la discrétion. Il s’agit dans la pra-
+tique de se conformer à une politique qui fixe un objectif de moyen terme et de le respecter.
+S’inscrivant dans la durée, cette règle doit faire l’objet d’une déclaration a priori.
+Historiquement, l’idée de fixer des règles est ancienne et rappelle certains débats des éco-
+nomistes classiques. Le premier argument moderne en leur faveur a été proposé par Friedman
+(1968). Compte tenu des besoins de l’économie et de l’évolution des prix, l’auteur avait suggéré
+de fixer un taux de croissance de long terme de la masse monétaire. La transposition de l’ob-
+jectif des autorités monétaires en règle fait de cette dernière un instrument de transparence de
+la politique monétaire et permet de discuter de sa pertinence et de l’opportunité de l’action de
+la Banque Centrale. Dans cet ordre d’idées, plusieurs règles dont l’objet est de garder l’inflation
+au taux visé, sans toutefois attiser les fluctuations de la production, ont été proposées. La plus
+populaire est incontestablement celle de Taylor (1993) (voir annexe 1). Jugée pouvoir répondre
+àl’incertitudeentourantl’économie,elleseprésentecommel’exempled’unerèglesimple,linéaire
+et comportant un petit nombre de variables d’état. Dans le cas de celle de Mc Callum (1993), il
+s’agit plutôt d’une relation fonction de l’écart entre le PIB nominal effectif et la cible du PIB.
+Danscetteprésentation,c’estl’agrégatmonétairedebasequisertd’instrumentetc’estlerevenu
+nominal qui sert de cible. Généralement, ces équations comprennent des éléments de rétroaction
+qui s’ajustent aux déséquilibres macroéconomiques. D’autres règles non automatiques ont été
+jugées complexes ce qui réduit leur caractère opérationnel (Drumetz et Verdelhan, 1997). Dans
+certains cas, les Banques Centrales ont préféré utiliser un indice de conditions monétaires qui a
+été également considéré par certains comme une règle (Ball, 1998). En définitive, pour qu’elles
+soient crédibles c’est-à-dire non inflationnistes et réagissant convenablement aux évolutions de
+la conjoncture, ces règles devraient être pertinentes et transparentes donc opérationnelles.
+1.1.1 Lien entre la Crédibilité de la Politique Monétaire et la croissance
+économique
+L’origine des analyses théoriques sur la crédibilité et l’autonomie des Banques Centrales
+est la mise en évidence par Kydland et Prescott (1977) du problème d’incohérence temporel
+et la volonté de résoudre ce problème en particulier dans le cas de la politique monétaire.
+C’est ainsi qu’ils proposent comme solution l’adoption d’une politique fondée sur une règle.
+En faisant les hypothèses d’anticipations rationnelles, de réaction optimale des agents dans un
+5. Notonstoutefois,queceditinconvénientaétéconsidéréparcertainscommeunavantagedumoment
+que cette situation pourrait être à l’origine d’un conflit constructif entre les autorités budgétaires et la
+Banque Centrale.
+6. Dans ce contexte, l’auteur prend pour exemple la FED à l’époque de Reagan et la BudensBank
+(Buba) à l’occasion de l’unification Allemande. Les deux Banques ont refusé toute politique accommo-
+dante face à un déficit budgétaire grandissant.
+9
+
+--- Page 11 ---
+environnement qu’ils connaissent bien7, d’une courbe d’offre confondue à la courbe de Phillips8
+avecanticipationsrationnellesàlaLucas(1972)etdel’existenced’unarbitrageentrelesbénéfices
+et les coûts de l’inflation, ils montrent la prédominance d’une politique monétaire fondée sur
+une règle par rapport à une politique discrétionnaire. Les bénéfices de l’inflation proviennent de
+l’existence dans leur modèle d’une courbe de Phillips non verticale à court terme. Cela entraîne
+qu’une expansion monétaire non anticipée permet de baisser le taux de chômage en dessous du
+taux d’équilibre et d’augmenter l’activité en termes réels. Le coût de l’inflation le plus souvent
+décrit dans la littérature est quant à lui le brouillage par l’inflation des signaux envoyés par
+les prix. En effet, une inflation plus forte se traduit en général par une variabilité plus forte de
+l’inflation. Il en résultera une augmentation de l’incertitude concernant l’inflation future et une
+baisse de l’information contenue dans les prix relatifs. Cette augmentation de l’incertitude ainsi
+que ce brouillage des prix relatifs agiront négativement sur l’investissement et l’innovation et, de
+ce fait, seront défavorables à la productivité des facteurs et, partant à la croissance économique
+(Nguena,2012).Sousleshypothèsesénuméréesplushaut,contrairementàunepolitiquederègle,
+une politique discrétionnaire conduit à un coût d’inflation et à un coût en termes de bien être
+plus élevé. Même si cette dernière offre plus de souplesse aux gouvernements, il est préférable en
+théoriepouruninstitutd’émissionmonétairede«selierlesmains».Cetengagementpermettrait
+de gagner la crédibilité nécessaire pour mener la politique monétaire qui s’avère en définitive
+optimale du point de vue du bien-être et particulièrement de la croissance du PIB. Dans ces
+conditions, la CPM aurait donc un impact certain sur la croissance économique9 . Cependant,
+ces mêmes auteurs stipulent en guise de limite à leur modèle que si le gouvernement n’a pas la
+capacitéoulavolontédeprendreunengagement,aucunerègleneserasoutenableetmêmesielle
+n’est pas optimale, seule une politique discrétionnaire pourra être mise en œuvre. En résumé,
+nous pouvons faire des schémas synthétiques (voir graphiques 1 et 2) qui montre le lien entre
+une politique monétaire crédible et la croissance économique de la manière suivante.
+7. Les erreurs de prévisions ne pouvant être dues qu’à des surprises.
+8. La courbe de Phillips rend compte de l’arbitrage existant entre inflation et chômage : en effet, elle
+suggère qu’il est possible d’obtenir un supplément de croissance économique devant se traduire par une
+baisse du chômage, par le biais d’une politique monétaire expansionniste. La hausse du taux d’inflation,
+conséquence de la politique monétaire expansionniste, serait le prix à payer pour obtenir la croissance.
+Un tel enchaînement des mécanismes a été remis en cause par Phelps et Friedman (1968-1969), puis
+SargentetWallace(1975),quimontrèrentgrâceàl’introductiondesanticipationsditesadaptatives,puis
+rationnelles dans les modèles keynésiens, l’absence d’arbitrage entre inflation et chômage. La réponse
+des nouveaux keynésiens fut de réhabiliter la courbe de Phillips en passant par l’hypothèse d’imparfaite
+flexibilité des prix.
+9. En effet, le manque préalable de crédibilité cause un biais positif d’anticipation d’inflation. Ce
+dernier sera à son tour à l’origine de la pression vers le haut sur l’inflation passant par les enseignements
+de la courbe de Phillips et partant, l’augmentation du chômage et de ce fait, de la variabilité de la
+production étroitement liée au taux de croissance du PIB. Nous remarquons que de par la théorie, la
+causalité est unidirectionnelle entre la CPM et la croissance économique : c’est la CPM qui a un effet sur
+la croissance économique et non le contraire (Nguena, 2013).
+10
+
+--- Page 12 ---
+Graphique 1 – De la politique monétaire crédible à l’augmentation de la croissance économique.
+Source : « Le paradoxe de la crédibilité » Mésonnier (2004) et Nguena (2012).
+Graphique 2 – Schéma de la crédibilité et canaux de transmission de la politique monétaire.
+Source : Aguir (2016).
+D’après ces graphiques, il existe une relation théorique indirect entre la crédibilité de la
+politique monétaire et la croissance économique qui peut se traduire ainsi : Crédibilité de la
+Banque Centrale ⇒ Amélioration de l’efficacité de sa politique monétaire ⇒ Maîtrise de la
+stabilité des prix ⇒ Stabilité macroéconomique et environnement propice pour l’investissement
+et la consommation ⇒ Accélération des investissement ⇒ Croissance économique.
+11
+
+--- Page 13 ---
+1.2 Brève revue de la littérature empirique sur la crédibilité du
+change fixe
+Plusieurs études ont été menées afin de mesurer la crédibilité d’une politique monétaire
+depuis les années quatre-vingt. La majeure partie d’entre elles sont essentiellement axées sur les
+pays industrialisés car, la plupart de ces pays ont adopté une stratégie de ciblage de l’inflation
+au début des années 90. Dans ce qui va suivre, nous présentons quelques-uns de ces travaux.
+Le régime de change fixe est un engagement transparent, qui offre des incitations à la per-
+formance macroéconomique et financière élevée pour maintenir la confiance, en particulier si
+les coûts des politiques monétaires et budgétaires laxistes sont élevés (Ostfeld et Rogoff (1995),
+Ghosh et al. (1996, 1997)). Cela est généralement dû à deux facteurs principaux : discipline et
+crédibilité. D’une part, les pays ayant des taux de change fixes ont une faible croissance de la
+masse monétaire permettant de maintenir durablement la parité qui est considérée comme le
+principal objectif de la politique monétaire. D’autre part, un régime fixe offre une plus grande
+crédibilité monétaire car, elle implique que le taux d’inflation du pays arrimé converge vers ce-
+lui du pays d’ancrage (Edwards et Savastano, 1999). Le choix d’un régime de change répond
+généralement à un objectif de stabilité, par la minimisation de la variance de l’output dans un
+environnement de prix visqueux, avec une fonction de perte (Allegret et al., 2006) et un objectif
+de bien-être, par une maximisation de la fonction d’utilité (Chinn et Miller, 1998). Toutefois, la
+prise en compte de la source des chocs (internes ou externes) et leur type (monétaires ou réels)
+complexifie et impacte le choix des Autorités.
+Les régimes de change fixe permettant d’importer la crédibilité de la politique monétaire
+du pays de rattachement de la monnaie domestique (Ghosh et al., 1995). Le gain de crédibilité
+ainsi réalisé guide les anticipations des agents économiques et accroît l’efficacité de la politique
+monétaire dans la stabilisation de l’économie. En effet, par la crédibilité d’une politique de
+désinflation, le choix du régime de change fixe concourt à la création d’un environnement éco-
+nomique intérieur favorable à l’investissement et au commerce (Ghosh et al., 1995) et par là, à
+une croissance économique relativement plus stable et soutenue. Par exemple l’Argentine depuis
+1991 et le Brésil de 1994 à 1998 ont fait un usage efficace des taux de change fixes pour réduire
+rapidement l’inflation.
+Ghosh et al. (1997) trouvent que dans un échantillon de 136 pays durant la période 1960-
+1990, les régimes de change fixes ont enregistré des taux d’inflation plus bas que les régimes
+flexibles. Rogoff et al. (2003) sur un échantillon de 120 économies entre 1940-2001 subdivisé
+en trois groupes respectivement : pays en développement, émergents et avancés, montrent que
+les régimes de change flexibles ont été associés de manière significative à un taux d’inflation
+plus élevé dans les pays en développement. Ce résultat empirique est conforme aux faits stylisés
+des années 1970. L’adoption du flottement généralisé des monnaies provoque la propagation de
+l’inflation au niveau international et affecte les pays à monnaie faible par le canal de l’inflation
+importée, ce qui provoque une détérioration de la compétitivité-prix à l’exportation selon la
+valeur des « élasticités critiques » par une hausse des différentiels d’inflation (Bastidon et al.,
+2010).
+Klein et Shamuaugh (2010) constatent que les effets négatifs d’un régime de change fixe
+sur l’inflation signalée antérieurement sont relativement mineurs sur un échantillon de 80 pays
+industrialisés et en développement entre 1980-1999. Edwards (1992) constate que l’ancrage a
+réduit avec succès l’inflation dans un échantillon de 52 pays en développement au cours de la
+période 1980-1989.
+12
+
+--- Page 14 ---
+Ghosh et al. (2010) sur une étude portant sur les effets potentiels d’un régime de change sur
+des variables relatives à la politique monétaire et budgétaire, à l’inflation, à la croissance, aux
+crises économiques, au commerce et aux flux de capitaux, trouvent que sensiblement les régimes
+fixes ancrent mieux les anticipations inflationnistes, soutiennent la croissance de la production
+en favorisant une meilleure intégration économique.
+Domack (2004) montre en contrôlant à la fois le régime de taux de change et compte tenu
+de la critique de Lucas, que la crédibilité du régime change fixe explique la bonne performance
+de l’inflation dans un échantillon de 22 pays en transition durant la période 1990.
+Moreno (2000 et 2001) en ajustant les épisodes de crise de change, trouve le même résultat
+sur un échantillon de 98 pays en développement pour les périodes de 1974 à 1999. Ainsi que la
+performance de la zone Franc CFA à contenir des tensions inflationnistes est largement acceptée
+(Coulibaly et Davis, 2013).
+D’autres auteurs ont mis en évidence la performance exceptionnelle des pays membres de
+la zone Franc CFA en termes d’inflation par rapport à d’autres pays d’Afrique Subsaharienne
+(Honohan (1990), Devarajan et De Melo (1991), Eldadawi et Madj (1996) et Klau (1998)).
+Cependant, ils ne séparent pas les effets de l’Union Monétaire de ceux de l’ancrage comme
+suggéré par Bleaney et Fielding (2000, 2002) et Ghosh et al. (2008).
+Enutilisantunéchantillonde80paysendéveloppement,BleaneyetFielding(2000)trouvent
+qu’unrégimedechangefixeréduitl’inflationde13%paran.Ilsmontrentégalementquel’appar-
+tenanceàlazoneFrancCFAapportedesgainssupplémentairesentermesdebaissedel’inflation
+(3,9%). De même, Ghosh et al. (2008) montrent que l’appartenance à la CEMAC et à l’UEMOA
+respectivement, est associée à une baisse de l’inflation de 8% et 10% par rapport à d’autres
+pays à revenus faibles et intermédiaires. Néanmoins, par rapport aux pays ayant des régimes de
+taux de change fixe, les différences précédentes diminuent légèrement de 6,2% et 9,4% pour la
+CEMAC et l’UEMOA respectivement d’où les avantages d’adhésion dans le cadre d’un élargis-
+sement des Unions Monétaires. Bleaney et Fielding (2002) après le contrôle des effets des autres
+déterminants sur l’inflation, trouvent une valeur similaire (8%) ce qui confirme les avantages
+potentiels de l’adhésion à la zone Franc CFA.
+1.2.1 Transmission monétaire dans les pays en développement (PED) et cré-
+dibilité des Banques Centrales
+D’aprèslesdéveloppementsthéoriquesdeBernankeetBlinder(1992),leseffetsdelapolitique
+monétaire sur la production et les prix dépendent de la combinaison des effets des (03) trois
+canaux traditionnels : taux d’intérêt, crédit et taux de change. Par exemple un mauvais chiffre
+provisoire d’inflation, en absence de réaction de la Banque Centrale peut être interprétée à tort
+parlesagentséconomiquescommeunrelâchementdel’objectifdemaîtrisedel’inflationpouvant
+affecter la crédibilité de l’institution monétaire (Banque Centrale), les enchaînements
+inflationnistes vont accroitre les anticipations de prix à la hausse, au final la politique monétaire
+deviendra moins efficace.
+La question de l’efficacité de la politique monétaire dans les PED n’est pas tranchée dans
+la littérature économique. Certains auteurs mettent en exergue la faiblesse des canaux de trans-
+mission de la politique monétaire et particulièrement le canal du taux d’intérêt, en raison de la
+faiblesseducadreinstitutionnel,desmarchés?nanciersembryonnaires,delasurliquiditébancaire
+13
+
+--- Page 15 ---
+et de la prépondérance du secteur bancaire. D’autres auteurs par contre aboutissent à l’efficacité
+des canaux de transmission dans certains pays en développement. (Voir Bikai et Essiane, 2017).
+Des preuves d’une efficacité limitée de la transmission monétaire sont rapportées dans les
+études portant sur les pays d’Afrique Subsaharienne. Par exemple, l’étude d’Abradu-Otoo et
+al. (2003) conclut à un résultat statistiquement non significatif dans le cas du Ghana. Au cours
+de la période 1969-2002, un choc positif sur le taux d’intérêt entraîne un impact négatif sur le
+PIB réel conformément aux attentes théoriques. Mais, l’effet reste non significatif. Dans le cas
+du Kenya, les résultats rapportés par Cheng (2006) indiquent que le canal de taux d’intérêt ne
+semble pas fonctionner. Un choc monétaire, simulé à travers un modèle VAR10 estimé avec des
+données mensuelles de 1997 à 2005, entraînerait une hausse exogène des taux d’intérêt à court
+terme. Elle est suivie d’un déclin des prix et d’une appréciation du taux de change nominal.
+Mais, la hausse du taux d’intérêt n’a pas d’impact significatif sur le PIB en raison des faiblesses
+structurelles du système financier kenyan. Celles-ci bloqueraient la transmission de la politique
+monétaire au secteur réel.
+Etant donné les spécificités des économies émergentes, à savoir une faible concurrence dans
+le secteur bancaire, un coût élevé des crédits bancaires et l’existence de marchés financiers
+embryonnaires, Mishra et al. (2010) trouvent que les mécanismes de transmission classiques de
+la politique monétaire sont inefficaces faisant ainsi remarquer un certain nombre de différences
+par rapport aux économies développées.
+Saxegaard(2006)danssonétude,utiliseainsiunmodèleVARàseuilpourmettreenexergue
+les non linéarités dans la transmission de la politique monétaire en zone CEMAC, au Nigéria et
+en Ouganda. D ’après cet auteur il faut tout d’abord distinguer l’excès de liquidité involontaire
+de l’excès de liquidité pour des besoins de précaution. Il montre ainsi que la transmission de
+la politique monétaire à l’activité est faible lorsque la liquidité involontaire est élevée (à partir
+des années 2000 en zone CEMAC). En zone CEMAC, il trouve que même lorsque la liquidité
+n’est pas trop élevée, cette transmission demeure faible. Cette situation met donc en évidence
+l’existence d’autres facteurs susceptibles d’induire la faiblesse des canaux de transmission en
+dehors de la situation de surliquidité volontaire ou non des banques.
+Kamgna et Ndambendia (2008) tentent d’apprécier l’efficacité des mécanismes de transmis-
+sion de la politique monétaire en zone CEMAC en situation de surliquidité, et trouvent que la
+surliquiditébancairedanscettezonedépendfortementdesstructureséconomiquesetfinancières
+de chaque pays et limite de manière significative l’efficacité de la politique monétaire. Cette in-
+efficacité est liée, selon ces derniers, à une faible sensibilité du taux interbancaire aux décisions
+de politique monétaire et à une politique de réserves obligatoires inefficace.
+A l’instar des travaux de Romer et Romer (1989) d’autres études se sont focalisées sur une
+approchenarrativepourmontrerquelesmécanismesdetransmissionnesontpastoujoursfaibles
+dans les pays en développement et particulièrement ceux d’Afrique Subsaharienne. Berg et al.
+(2013) démontrent à ce titre que l’usage des modèles très sophistiqués peut sous-estimer le poids
+de certains canaux dans la transmission de la politique monétaire. Ces auteurs illustrent par
+l’approche narrative que les canaux traditionnels sont opérants dans certains pays de l’Afrique
+de l’Est comme le Kenya, l’Ouganda, la Tanzanie et le Rwanda.
+Des études empiriques portant sur l’UMOA (Union Monétaire Ouest Africain) se sont inté-
+resséesauxeffetsdelapolitiquemonétairedelaBCEAO(BanqueCentraledesEtatsdel’Afrique
+10. Vecteur Auto Regressif.
+14
+
+--- Page 16 ---
+de l’Ouest) sur l’activité et sur prix. Par exemple, Diagne et Doucouré (2000) soutiennent qu’un
+choc positif sur le taux d’intérêt réel affecte de façon significative le PIB, l’investissement privé
+et le niveau des prix dans tous les pays de l’Union. Un canal de taux d’intérêt actif serait donc à
+l’?uvre. Ces résultats sont en partie confirmés par Nubukpo (2002). En s’appuyant sur l’estima-
+tion d’un Modèle à Correction d’Erreur (MCE) avec des données 1989 :4 à 1999 :4, ce dernier
+trouve qu’un choc positif sur les taux d’intérêt de la BCEAO se traduit par un effet négatif sur
+la croissance de l’output. Les réponses apparaissent différenciées par pays. Ces deux études font
+ressortir une faible sensibilité de la croissance de l’output et de l’inflation au choc de politique
+monétaire. Les conclusions des études de Diaw et Tadenyo (2012) partagent les caractéristiques
+de faible amplitude et d’hétérogénéité des réponses de l’output à une variation positive des taux
+d’intérêt directeurs de la BCEAO. Cependant, les résultats ne sont pas significatifs.
+Enfin,uneanalysedeBikaietKenkouo(2015)concernantleseffetsdesdécisionsdepolitique
+monétaire sur l’activité économique et l’inflation ainsi que les canaux de transmission les plus
+opérantsdanslazoneCEMAC,permetdemettreenévidenceuneasymétriedeschocs,desdélais
+d’action de la politique monétaire divergents, ainsi qu’une faiblesse des canaux de transmission
+dans un modèle VAR structurel. Une faiblesse des canaux de transmission dans la zone est
+également vérifiée par ces auteurs pour des données en panel.
+2 Faits stylisés
+Deux (02) paragraphes seront illustrés dans cette section : une description des performances
+de la croissance économique en 2.1, puis une analyse de l’évolution de l’inflation en ASS en 2.2.
+2.1 Facteurs et performances de la croissance économique en
+Afrique Subsaharienne
+L’origine la plus évidente de l’amélioration de la croissance en Afrique Subsaharienne est la
+progression de la demande mondiale et des prix des produits primaires qui constituent l’essentiel
+des revenus d’exportations. Une part très significative de l’augmentation des exportations de
+l’Afrique Subsaharienne entre 2000 et 2012 s’est faite en réponse à la demande chinoise : 50%
+pourlesmineraiset25%pourlepétrolebrutrapportéàlapopulation;lavaleurdesexportations
+qui n’avait pas augmenté durant les vingt années précédentes a quadruplé entre 1999 et 2012.
+La hausse des revenus s’est produite alors que les déséquilibres macroéconomiques qui avaient
+conduit aux programmes d’ajustement et à l’arrêt de la croissance étaient largement surmontés.
+Les programmes d’annulation de dette (Initiative Pays Pauvres Très Endettés sur la dette de ces
+pays en 1996 et Initiative d’allégement de la dette multilatérale en 2005) dans 30 pays africains
+à hauteur de 100 milliards de dollars US approximativement ont permis aux États africains
+de retrouver des marges de manœuvre financière. Conjugués à une croissance plus élevée, ils
+ont fait baisser les ratios de dette publique/PIB à environ 33% en moyenne sur 2010-2013. Par
+ailleurs, l’amélioration du climat politique et de la situation en matière de sécurité est souvent
+pointée comme un facteur contribuant à l’essor économique du continent. Le nombre de conflits
+a diminué depuis l’an 2000 et la stabilité politique ainsi que la gouvernance démocratique se
+sont améliorées dans de nombreux pays. L’amélioration de la situation macroéconomique et du
+climat des affaires a également joué un rôle majeur. La fin des guerres civiles qui sévissaient
+dans plusieurs pays, parfois depuis des dizaines d’années (Angola, Burundi, Mozambique, Sierra
+15
+
+--- Page 17 ---
+Leone),l’augmentationdel’aideinternationale,notammentavecl’arrivéedenouveauxbailleurs,
+ainsi qu’une pluviométrie plus favorable dans les pays sahéliens a également joué en faveur de
+la croissance.
+Letauxd’investissementenASSestpasséde21%enmoyennedanslesannées1990à25%en
+2014 et les écarts entre pays se sont creusés, puisque ce taux a gagné 10 points en moyenne dans
+les pays où il est le plus élevé (31% en 2012 pour le premier quartile) et seulement 5 points dans
+ceux où il est le plus faible (18% en 2012 pour le troisième quartile). L’intérêt pour un continent
+qui paraissait jusque-là en marge des dynamiques de la mondialisation s’est alors renforcé. Cer-
+tains pays (Ghana, Kenya, Nigeria?) considérés comme des « frontier markets », ont attiré des
+capitaux privés, parfois au-delà des seuls secteurs d’exploitation des ressources naturelles, et ont
+puemprunterendevisessurlesmarchésfinanciersinternationaux.Lesdécouvertesderessources
+naturelles dans certains pays comme la Tanzanie pour le gaz, ont relancé l’investissement pu-
+blic et les investissements directs étrangers. Si la croissance des années 2000 et d’aujourd’hui
+constitue une amélioration considérable en ASS, elle doit cependant être relativisée. Sur cette
+période, le rythme de progression du PIB par tête est comparable à celui observé en moyenne en
+Amérique Latine dont le niveau de revenu par tête en parité de pouvoir d’achat est 4,3 fois plus
+élevé qu’en Afrique Subsaharienne (Chevallier et Le Goff, 2014). C’est dire que si la croissance
+moyenne des dix dernières années met un terme à la divergence antérieure, elle est cependant
+très loin de signifier l’entrée de l’Afrique Subsaharienne dans un processus de rattrapage.
+Le dernier rapport de la Banque mondiale consacrée à l’ASS « Africa’s Pulse » fait état d’un
+ralentissement de l’économie en Afrique Subsaharienne, avec une baisse de la croissance en 2015
+de 3,7% (contre 4,6% en 2014). La fin du super cycle des prix des matières premières (frappant
+de plein fouet le pétrole, le cuivre et le minerai de fer), le ralentissement de l’économie chinoise
+et le durcissement du contexte financier global vont concourir à ralentir l’économie. Le taux de
+croissance pour l’année 2015 a été le plus bas depuis 2009. Récemment, il est passé de 1,4% en
+2016 à 2,6% en 2017, sous l’impulsion d’une demande intérieure générée par la consommation,
+l’investissement et les dépenses publiques; et surtout sous l’effet d’un environnement extérieur
+plus favorable et de plusieurs facteurs ponctuels dont le redressement des productions pétrolière
+etagricoleauNigéria,etl’atténuationdelasécheressequiafrappéunegrandepartiedel’Afrique
+Orientale et Australe en 2016 et au début de 2017.
+16
+
+--- Page 18 ---
+Graphique 3 – Evolution de la croissance économique pour l’ensemble de notre échantillon entre 1980
+et 2017.
+Source : Construction des auteurs
+Graphique 4 – EvolutiondelacroissanceéconomiquepourlaCEMACetl’UEMOAentre1980et2017.
+Source : Construction des auteurs
+17
+
+--- Page 19 ---
+Graphique 5 – Evolution de la croissance économique pour les 08 pays hors zone Franc CFA de notre
+échantillon entre 1980 et 2017.
+Source : Construction des auteurs
+2.2 Amenuisement progressif des tensions inflationnistes en Afrique
+Subsaharienne
+Surlapériode1980-2017(voirgraphiques6et7),lespaysdelazoneFrancCFAontenregistré
+les taux d’inflation le plus faibles de notre échantillon soit 5,30% en moyenne, comparée au
+groupe des 08 pays hors zone Franc Cfa (168,40%) sur la même période. Particulièrement dans
+ce bloc de pays, la République Démocratique du Congo11 enregistre le taux d’inflation le plus
+élevé soit 928,79%, suivit de l’Angola 323,89% et du Ghana 27,66%. En effet, les longues années
+de guerres civiles qu’ont connu ces pays (RDC et Angola) dans les années 90 peut justifier
+en partie ces taux records. L’Ethiopie (8,84%) et l’Afrique du Sud (9,21%) ont les taux les
+plus faibles de ce bloc. L’actualité récente en ASS nous fait savoir que l’inflation a diminué
+progressivement par rapport à son niveau élevé de 2016. Suite au choc des cours des produits
+de base ces dernières années, l’inflation avait fortement augmenté entre 2015-2016, sous l’effet
+principalement de la répercussion des importantes dépréciations monétaires subies par plusieurs
+paysrichesenressourcesnaturelles,dontl’AngolaetleNigéria(FMI,2017).Maisengénérale,ces
+tensions inflationnistes se sont atténuées en Angola et au Nigéria en 2017, avec le durcissement
+delapolitiquemonétaireetlastabilisationdutauxdechange.EnTanzanie,lecontextedefaible
+inflation a permis à Banque Centrale de baisser les taux d’intérêt au début de l’année 2016. La
+BanqueCentraleduGhanaaégalementprocédéàunebaissedesontauxdirecteur,mêmesidans
+ce pays l’inflation est restée supérieure à 10%. Par exemple, l’inflation est passée de plus de 19%
+en2016àprèsde13%enJanvier2017,reflétantl’orientationrigoureusedelapolitiquemonétaire
+etlarelativestabilitéduCédiGhanéen.Al’opposé,plusieurspaysd’Afriquedel’Estontobservé
+un rebond d’inflation en début 2017. Après une flambée des prix alimentaires provoquée par la
+sécheresse, le Kenya a connu une hausse des prix dans ce secteur qui est passée de 11,2% en
+Décembre 2016 à un pic de 21,5% en Mai 2017, d’où l’inflation globale qui est restée jusqu’à la
+11. L’inflationenRDCestégalementdûàladépréciationpersistanceduFrancCongolaisfaceauDollar
+US et à la monétisation des déficits publics.
+18
+
+--- Page 20 ---
+fin du mois de Juin 2017 au-dessus de la limite supérieure de 7,5% de la fourchette ciblée par
+les autorités. Mais par le suite, l’inflation a fléchi dans ce pays où des mesures gouvernementales
+visant à accroître les importations de maïs ont permis de ramener ce taux à moins de 7,5% en
+Juillet.
+Graphique 6 – Inflation globale moyenne (indice des prix à la consommation) dans l’ensemble de notre
+échantillon entre 1980 et 2017.
+Source : Construction des auteurs
+Graphique 7 – Inflation globale moyenne (indice des prix à la consommation) dans les 08 pays hors
+zone Franc CFA de notre échantillon entre 1980 et 2017.
+Source : Construction des auteurs
+Pourcequiestdel’évolutiondel’inflationdanslazoneFrancCFA,malgrél’instaurationdes
+mesures de contrôle des prix, des salaires, des tarifs et l’adoption des politiques monétaires anti-
+inflationnistes, la hausse des prix a atteint 33% en moyenne lors de la dévaluation de 1994 (voir
+19
+
+--- Page 21 ---
+graphique8).Cettehausseaétéconfortéeparleraffermissementdescoursdesmatièrespremières
+etlerapatriementdescapitauxspéculatifsaprèsladévaluation.Parconséquent,lespaysdecette
+Zone se sont retrouvés dans une situation paradoxale où les banques commerciales gorgées de
+liquidité, à cause de la hausse des taux d’intérêt par les Banques Centrales pour combattre
+l’inflation, finançaient très peu l’économie. Selon le FMI, l’inflation était plus marquée dans la
+CEMAC que dans l’UEMOA, avec respectivement un taux de 37,3% contre 29,7% au moment
+de la dévaluation. Par la suite en 2008, l’inflation a avoisiné les 8,78% dans l’UEMOA avec
+l’éclatement de la crise internationale et le report de la spéculation sur les produits alimentaires.
+Dans la CEMAC, ce taux était de 7,4% dû principalement à la hausse des cours du pétrole.
+Mais à partir de 2009, ces taux seront relativement bas pour l’ensemble de la zone CFA jusqu’à
+2017. En générale, l’inflation reste faible dans la plupart des pays de la CEMAC et de l’UEMOA
+traduisant ainsi la stabilité de l’ancrage monétaire par rapport à l’Euro.
+Graphique 8 – Inflation globale moyenne (indice des prix à la consommation) dans la zone CEMAC et
+UEMOA entre 1980 et 2017.
+Source : Construction des auteurs
+3 Méthodologie de l’étude
+Cette section va présenter les différentes mesures de la Crédibilité des Politiques Monétaires
+(3.1), avant de décrire la modélisation (3.2) et les contours méthodologiques (3.3) employés pour
+vérifier notre hypothèse de départ.
+3.1 Mesures et tests de la Crédibilité de la Politique Monétaire
+dans la littérature
+La crédibilité est une notion importante certes, mais difficile à cerner et par conséquent à
+mesurer. Selon Lucotte (2012) l’évaluation de la crédibilité d’une Banque Centrale consiste à
+analyser dans quelle mesure évoluent les anticipations d’inflation de long terme suite à un choc
+20
+
+--- Page 22 ---
+inflationniste exogène; c’est-à-dire échappant au contrôle de la politique monétaire, tel qu’une
+hausse des prix des produits ou des matières premières.
+a) Mesures de la Crédibilité de la politique monétaire
+Svensson (1993) a mis au point une mesure de crédibilité de la politique monétaire dans
+un régime de ciblage d’inflation dans lequel la Banque Centrale définit et annonce au marché
+une objectif minimum (π ) et maximum (π ) pour le taux d’inflation. Dans cette mesure
+min max
+de Svensson (1993), les taux d’intérêt réels minimum et maximum correspondant à l’objectif
+d’inflation dans des intervalles de tolérance (CM et CM ) respectivement sont calculés en
+min max
+soustrayant le taux d’inflation maximal cible (π ) et taux d’inflation minimal ciblé (π ) à
+max min
+partir des rendements nominaux des obligations d’État (i ) :
+t
+CM = i −π (1)
+min t max
+CM = i −π (2)
+max t min
+Afin d’estimer la crédibilité de la politique monétaire et de comparer les résultats à ceux du
+test de Svensson (1993), quatre (04) méthodologies supplémentaires largement utilisées, propo-
+sées par Cecchetti et Krause (2002), Sicsú (2002), De Mendonça (2004), et De Mendonça et De
+Souza (2009) ont été utilisés. Cecchetti et Krause (2002) ont proposé un indice de crédibilité
+normalisé, compris entre 0 et 1, qui mesure les écarts des anticipations d’inflation (E(π )) par
+t
+rapport à l’inflation cible (π ) :
+t
+1 if E(π) ≤ π
+
+E(π)−π
+t
+CI = 1− t if π < E(π) < 20%
+CecchetiandKrause 0.2−π t
+0 t
+if E(π) ≥ 20%
+(3)
+Pour le marché brésilien, Sicsú (2002) a proposé un indicateur des anticipations d’inflation
+((E(π ))) similaire àcelui proposépar Cecchettiet Krause(2002), fondé surl’objectif d’inflation
+t
+(π ) et sa limite supérieure (πmax).
+t t
+|E(π )−π |
+CI = 100−(100∗ t t ) (4)
+Sicsú πmax−π
+t t
+De Mendonça (2004) a proposé une normalisation de l’indice de Sicsú, ce qui peut avoir
+des valeurs négatives, de sorte qu’il se situe dans la plage [0,1]. Dans cette normalisation, π∗ =
+t
+{πmin;πmax} sont les limites inférieure et supérieure de la cible d’inflation :
+t t
+21
+
+--- Page 23 ---
+1 if E(π) ≤ π
+
+E(π)−π
+t
+CI = 1− t if πmin < E(π) < πmax (5)
+Mendonça π∗−π t t
+0 t t
+if E(π ) ≥ πmax or E(π ) ≤ πmin
+t t t t
+De Mendonça et De Souza (2009) ont proposé des indicateurs de crédibilité fondés sur l’hy-
+pothèse selon laquelle la crédibilité peut être mesurée par la réputation à moyen et à long terme
+aufildutempsdelaBanqueCentrale.Commelaréputation,cesmesuresdecrédibilitéprennent
+en compte l’inflation observée et ont donc des caractéristiques rétrospectives.
+1 if πmin ≤ πobs ≤ πmax
+1−
+π 0to .b 2s −− ππ mtm aa xx
+if
+πt
+tmax ≤
+πt
+tobs ≤
+2t
+0%
+R = t (6)
+πobs−πmin
+01− t
+−π
+tmint ii ff π0% obs≤ ≥π 2to 0bs %≤ oπ rtm πi on
+bs ≤ 0%
+t t
+Pn R
+CI = i=1 i (7)
+Mean
+n
+oùRestlaréputationdel’autoritémonétaire,πobs estl’inflationobservéeaucoursdesdouze
+t
+derniersmois,πmin etπmax sontrespectivementleslimitesinférieuresetsupérieuresdel’objectif
+t t
+d’inflation. Dans cette étude, De Mendonça et De Souza ont estimé deux indices de crédibilité :
+CI définitdansl’équation(7),correspondantàlaréputationmoyennedelaBanqueCentrale
+mean
+dans le temps et CI , définit dans l’équation (8), à la réputation moyenne pondérée de la
+weighted
+Banque Centrale. Le poids (p = k /n) diminue en fonction du temps t, c’est-à-dire que le poids
+i i
+p est le rapport de k , qui diminue en fonction du temps t et, il est limité au intervalle [0,1].
+i i
+Pn (R ∗p )
+CI = i=1 i i (8)
+Weighted Pn p
+i=1 i
+Un autre type de mesure relativement proche consiste à approximer l’évolution des anticipa-
+tions d’inflation à long terme par l’évolution des swaps de même échéance indexés sur l’inflation.
+Toutefois, ce type d’informations n’est généralement pas disponible pour les pays en développe-
+ment ou, lorsque ces informations sont disponibles, elles ne le sont que pour un échantillon et
+une profondeur temporelle relativement restreints12. C’est principalement pour cette raison que
+la majorité des études empiriques ayant cherché à analyser la crédibilité du régime de ciblage
+d’inflation à travers son pouvoir d’ancrage des anticipations se sont majoritairement focalisées
+sur les économies industrialisées (voir notamment Johnson (2002, 2003), Levin et al. (2004),
+Demir et Yigit (2008), Gürkaynak et al. (2010)).
+Lacrédibilitédespolitiquesmonétairesatoutefoisétémesuréeparcertainsauteurs.Johnson
+12. L’enquête la plus exhaustive sur les anticipations d’inflation du secteur privé est celle fournie par
+Consensus Economics. Cette enquête, réalisée mensuellement auprès de plus d’un millier de prévision-
+nistes,couvreeneffet85pays,laplupartdepuis1989.Toutefois,soncoûtd’acquisitionrelativementélevé
+fait que peu d’universitaires ont accès à cette base de données.
+22
+
+--- Page 24 ---
+(1995) prend l’exemple de 18 pays au cours de la période allant de 1984 à 1995, et essaye
+d’évaluer la crédibilité et l’efficacité de leur politique monétaire en se basant sur des prévisions
+d’inflation faites par des prévisionnistes au cours d’une enquête dans chacun des pays. Ces
+enquêtes d’inflation offrent un moyen de jauger les anticipations des agents économiques et
+d’évaluer la crédibilité. Plus tard, le même auteur Johnson (1997) aura recours à une méthode
+spécifique pour évaluer la crédibilité de la politique monétaire à l’aide des données d’enquête
+d’Economic Forecasts13 dans le cas du Canada. Il procèdera à une comparaison des prévisions
+des taux d’inflation et des points médians des fourchettes cibles. Il s’agit là d’une mesure directe
+de la crédibilité14.
+Clarida et al. (1999) ont présenté des modèles théoriques qui prédisaient que si le ratio
+de sacrifice15 est faible alors, la Banque Centrale est plus crédible. L’étude de ces auteurs se
+base sur le différentiel taux long / taux court qui peut être considéré comme une mesure des
+anticipations d’inflation. Cette évaluation devrait néanmoins tenir compte de la position dans
+le cycle des économies ou des variations du niveau d’endettement de l’Etat (Aurel-Level, 2001).
+Cette idée de mesure de la crédibilité à partir de la courbe des taux se trouve aussi dans les
+travaux de Goodfriend (1993) et de Gerlach-Kristen (2003), où la variation des taux nominaux à
+long terme fournit une approximation satisfaisante des craintes inflationnistes. Afin d’améliorer
+ces approximations inflationnistes, Bomfim et Rudebusch (2000) ont élaboré un indice de cré-
+dibilité qui permet d’évaluer le poids accordé par le secteur privé à l’objectif d’inflation dans la
+formationdeleursattentesetprévisionsinflationnistes.Acestade,silesattentesdecesderniers
+sont basées sur une cible alors, la Banque Centrale est considérée comme crédible.
+Enfin, Argov et al. (2007) dans un papier du FMI proposent un indice de crédibilité endo-
+gène simple au niveau de l’économie israélienne pour la période 1997-2006, tout en estimant
+particulièrement la détérioration de la crédibilité monétaire et le coût de la production entre
+2001-2003. La mesure de la crédibilité de la politique monétaire dans leurs travaux est fondée
+sur une équation assigné à des paramètres clés qui sont ensuite été utilisés pour évaluer l’impact
+de la crédibilité sur les variables macroéconomiques.
+Au travers de ces exemples, la mesure de la CPM en Afrique Subsaharienne s’avère être très
+délicatedumomentoùl’ondisposed’uneméthodologiepluriellepourcetyped’investigation.Le
+choixdelaméthodologieàadoptervaainsidépendredenotreobjectifconcretetdesafaisabilité
+dans le contexte de notre étude.
+b) Quelques tests sur la Crédibilité de la politique monétaire
+On peut tester la présence des effets d’une politique monétaire crédible par différentes tech-
+niques comme la méthode d’erreur d’anticipation, la procédure d’apprentissage bayésienne, les
+paramètres variants dans le temps pour prendre en compte la critique de Lucas et le filtre de
+13. Les prévisions d’inflation qui proviennent des enquêtes de Consensus Economics concernent des
+prévisions portant sur un horizon de six à dix ans.
+14. Une seconde méthode consiste à calculer les erreurs de prévision pour chacun des pays, chacun des
+prévisionnistes et chacune des années, ainsi que pour le régime en vigueur en présence ou absence de
+cibles en matière d’inflation.
+15. Le ratio de sacrifice nous dit de combien de points de pourcentage il faut réduire la production
+pour faire baisser l’inflation d’un certain nombre de points de pourcentage. Ce ratio serait abaissé car
+les agents changeraient leurs attentes d’inflation en fonction des cibles annoncées en anticipant que les
+autorités monétaires atteindront leur objectif (cet objectif serait alors crédible).
+23
+
+--- Page 25 ---
+Kalman (Gübuz, 2008).
+Test 1 : Prediction-Error Method and Proxy Variables (la méthode d’erreur
+d’anticipation)
+La plupart des travaux empiriques relatifs à la crédibilité des politiques économiques comme
+par exemple les travaux de Blanchard (1984), Christensen (1987) et Kremers (1990) utilisent
+la méthode d’erreur d’anticipation. Cette méthode consiste à estimer un modèle du processus
+inflationniste dans la période de pré-réforme et à faire des prévisions pendant la période de
+post-réforme16.
+Christensen (1987, 1990) utilise la variation du taux de change comme une variable proxy
+pour la crédibilité d’un régime de taux de change. Il argumente que la condition nécessaire pour
+soutenir un degré élevé de crédibilité est le fait que la variation du taux de change devienne
+corréléepositivementavecletauxd’intérêtnominal.Ilmesurelavariabledecrédibilitéparl’écart
+type du taux de change. La crédibilité est donc affectée par l’appréciation et la dépréciation de
+l’unité monétaire domestique.
+Blanchard (1984) examine le comportement de deux relations importantes pour lesquels les
+anticipations jouent un rôle important : relation entre l’inflation et le chômage, c’est-à-dire la
+courbe de Phillips et la relation entre les taux d’intérêt de court terme et de long terme, et donc
+la structure par terme des taux d’intérêt. Il se base sur la critique de Lucas dans la période de
+changement de la politique monétaire américaine en 1979.
+Kremers (1990) analyse comment la politique désinflationniste en Irlande a gagné de la
+crédibilité à partir de la participation de l’Irlande au système de taux de change européen
+(ERM)17.Pourcefaire,ilconstruitunmodèledutauxd’inflationdel’Irlandeavecdeuxvariables
+exogènes:variablesanticipéscommeletauxd’inflationanticipéduRoyaume-Unietceluid’ERM
+(Irlande exclue) et variables explicatives comme les coûts de facteurs et concurrence des prix
+internationaux. En effet, selon l’hypothèse qu’il fait l’inflation des prix à la consommation en
+Irlande dépend de deux éléments : les coûts de facteurs et la concurrence des prix internationale.
+D’après, les résultats obtenus, il met en évidence que la politique désinflationniste irlandaise a
+gagnée de la crédibilité après l’intégration de l’Irlande à ERM.
+Test 2 : Bayesian Learning Procedure (la procédure d’apprentissage bayésienne)
+On peut tester la crédibilité par la méthode de la procédure d’apprentissage bayésienne suite
+à l’adoption d’un nouveau programme. Dans cette méthode, il s’agit de formuler et de déter-
+miner une règle de décision bayésienne, c’est-à-dire une règle qui choisit l’hypothèse minimisant
+l’espérance de risque et de dériver explicitement une probabilité d’échec d’un programme de
+désinflation dès que les agents privés commencent à observer un changement dans un régime.
+Le critère est de minimiser le nombre d’erreur, et donc la probabilité d’erreur.
+16. Uneprocédurealternativeconsisteàdéfiniretàintroduireexplicitementunevariabledecrédibilité
+dans le modèle de régression et de tester sa signification et sa stabilité dans le temps.
+17. European Exchange Rate System, système adopté à partir de Mars 1979 par la Communauté
+Européenne dans le cadre du système monétaire Européen dans le but de réduire la volatilité du taux de
+change et d’assurer la stabilité monétaire en Europe.
+24
+
+--- Page 26 ---
+Baxter(1985)essayed’évaluerl’évolutiondelacrédibilitéaprèsl’introductiond’unepolitique
+de taux de change annoncée en Argentine et au Chili dans les années 1970. Son objectif est de
+développer et d’appliquer une méthode pour mesurer la crédibilité d’une réforme de politique
+annoncée et ainsi, de voir comment les agents décident de croire à la réussite de la réforme
+annoncée au moment de l’annonce du changement ou de la réforme en question, quand ils
+n’ont que de l’information passée sur la mise en application des changements ou des réformes.
+Une fois que les agents privés ont une idée sur les règles de politique du gouvernement, ils
+calculent la probabilité que ces règles appartiennent à l’ensemble des règles de la réforme, en
+utilisant la technique bayésienne. Il construit un modèle linéaire de régression multiple où il
+essaye d’expliquer la variable cible de la politique par des variables d’état et un terme d’erreur.
+Il conclut que l’amélioration de la crédibilité cause une réduction de l’inflation et des taux
+d’intérêt et qu’elle augmente les réserves et la demande de la monnaie réelle.
+Weber (1991) mesure une réputation anti-inflationniste par une probabilité que les décideurs
+de politique poursuivent des politiques à faible inflation, en se posant comme question si le sys-
+tèmemonétaireEuropéenaaidélespaysmembresàréduireleurtauxd’inflationdanslesannées
+1980. Cette probabilité est dérivée par apprentissage dans le temps à partir du comportement
+actuel des faiseurs et estimée par une procédure bayésienne qui consiste à trouver comment
+l’inflation peut être estimée à une période donnée sous différentes hypothèses alternatives re-
+latives au degré auquel les chocs d’inflation sont permis par la Banque Centrale. La technique
+bayésienne qu’il adopte dans son article, consiste à trouver la façon dont l’inflation peut être an-
+ticipée dans chaque sous-période à partir de différentes hypothèses sur le degré auquel les chocs
+d’inflation autorisés à être permanents par la Banque Centrale. Cette technique détermine la
+probabilité que la moyenne de différentes anticipations donne mieux l’inflation par rapport au
+cas où ces anticipations seraient examinées séparément, et lui permet de conclure que le système
+monétaire international a réduit les coûts de désinflation.
+Test 3 : Time-Varying Parameters and the Lucas Critique (les paramètres variant
+dans le temps et la critique de Lucas)
+Un autre moyen de tester les effets de la crédibilité consiste à utiliser les paramètres variant
+dansletempsensebasantsurlacritiquedeLucas.Puisqu’onnepeutpaspenserquelesvariables
+qu’on analyse ne peuvent pas rester invariantes et qu’elles peuvent évoluer sous l’influence de la
+politiqueéconomique,quandlesacteursprivésreconnaissentdesmodificationsdanslesrèglesou
+dans le régime de politique économique et quand ils les intègrent dans leur comportement. C’est
+pour cela que selon Lucas, il faut comparer les coefficients de régression de différentes périodes
+correspondant à différents régimes de politique économique.
+Mankiw et al. (1987) utilisent des techniques de régression à changements de régimes pour
+tester les effets de la crédibilité. Dans leur article, ils ont pour but d’analyser le changement du
+comportement des taux d’intérêt nominaux suite au changement de régime dans le système de
+la Réserve Fédérale (FED) en 1914 et de déterminer comment les agents privés ont réagi par
+leurs anticipations. Ils estiment le modèle step et le modèle logistique de Modigliani-Such par
+régression à changement de régime. Ils concluent que les agents sur le marché financier n’ont pas
+pu estimer le nouveau processus du taux d’intérêt de court terme dans les premiers mois mais
+après, ils ont anticipé les effets de l’introduction du nouveau régime et ont réagi conformément
+au changement dans quelques mois.
+Test 4 : Kalman Filter (Le filtre de Kalman)
+25
+
+--- Page 27 ---
+En tant qu’une technique alternative récente pour mesurer les effets de la crédibilité, le filtre
+de Kalman est proposé par Agénor et Taylor (1992). Dans cette technique, il s’agit d’estimer
+des variables d’état par le filtre de Kalman et d’estimer à chaque instant t les variables cachées
+(le vecteur d’état) conditionnellement aux variables observées jusqu’à la date t (le vecteur de
+mesure).
+Agénor et Taylor (1993) utilisent cette procédure pour estimer la taille et la diffusion des
+effets de la crédibilité dans le cadre des politiques de stabilisation dans des pays à inflation
+élevée. Plus particulièrement, ils examinent le Cruzado Plan mis en œuvre au Brésil en 1986.
+Ils obtiennent comme résultat que même si le Cruzado Plan semble avoir gagné de la crédibilité
+rapidement, ses impacts sur le processus inflationniste ont été moins dramatiques.
+Karfakis et al. (2000) analysent le programme de stabilisation mis en œuvre en Grèce en
+1985 par la procédure à deux étapes tout en se focalisant sur les propriétés de séries temporelles
+du processus inflationniste et du marché parallèle. Ils utilisent la procédure de Harvey pour
+décomposerlemarchéparallèleenunecomposantepermanenteetenunecomposantetransitoire
+qu’ilsconsidèrentcommelamesuredelacrédibilité.Après,ilsestimentleprocessusdel’inflation
+avec des coefficients variant en utilisant l’approche du filtre de Kalman. Ils concluent que le
+programme en question a gagné de la crédibilité immédiatement.
+3.1.1 Formulation et mesure de la Crédibilité de la Politique Monétaire en
+Afrique Subsaharienne
+L’absenced’unhistoriquesuffisammentlongdesvaleursdel’inflationanticipéedelongterme
+pour les pays d’Afrique Subsaharienne altère de manière considérable la possibilité d’utiliser les
+méthodes d’appréciation de la crédibilité telle que : la méthode du sacrifice de ratio (voir Cla-
+rida et al., 1999) ou encore celle de l’évolution des swaps. Compte tenu de cela, nous allons
+recourir pour une mesure de la crédibilité à la formulation d’Argov et al. (2007). Celle-ci pré-
+sente l’avantage d’être aisément calculable sur une base annuelle avec des valeurs spécifiques à
+chaque pays de notre échantillon, même si elle présente souvent quelques défauts évidents. En
+effet, Castelnuovo et al. (2003) fournissent une alternative intéressante : ces auteurs retiennent
+l’ancrage des anticipations à long terme de l’inflation comme critère de la CPM du point de vue
+de sa détermination à atteindre l’objectif annoncé de stabilité des prix. Ils considèrent que les
+anticipations à long terme sont correctement ancrées si elles présentent les deux caractéristiques
+observables suivantes : un faible degré de volatilité autour du niveau donné, correspondant à
+l’objectif officiel d’inflation ou au milieu de la bande-cible lorsque la Banque Centrale quantifie
+son objectif, ainsi qu’une faible corrélation avec les mouvements de l’inflation réalisée et les an-
+ticipations à court terme. Cette étude utilise toutefois la chronique des anticipations d’inflation
+à long terme fournie par les enquêtes de la société Consensus Forecasts depuis la fin des années
+quatre-vingt, base que nous n’avons pas à notre disposition pour notre échantillon.
+De ce fait, Laxton et al. (2002) vont dans leur travail proposer une mesure simple de la
+CPM à l’aune d’une transformation des taux d’intérêt à long terme qui compare le taux courant
+avec ses plus hauts et plus bas niveaux historiques sur la période sélectionnée. Elle se présente
+formellement comme suit :
+(R −R )2
+Cr = it i,max (9)
+it (R −R )2+(R −R )2
+it i,max it i,min
+26
+
+--- Page 28 ---
+Ainsi, pour chaque pays i à la période t de l’échantillon, l’indicateur est obtenu par la trans-
+formation du taux d’intérêt nominal de long terme18 R . Les valeurs minimales et maximales
+it
+R et R correspondent aux extrema de cette variable pour chaque pays sur la période
+i,min i,max
+de disponibilité des données.
+La justification de cette approche est tirée d’un travail de Goodfriend (1993) selon lequel
+la variation des taux nominaux de long terme fournit une bonne approximation des craintes
+inflationnistes. L’idée sous-jacente étant que le rendement des obligations de l’Etat à long terme
+contientuneprimed’inflationquipeutêtreutilepouridentifierdespériodesdebasse,moyenneet
+hautecrédibilité.Lacrédibilitéaplusdechanced’êtrefortelorsquelestauxlongssontprochesde
+leurminimumetfaiblelorsqu’ilssontàunniveauhistoriquementélevé.Letauxd’intérêtnominal
+étant composé du taux d’intérêt réel et de l’inflation, Goodfriend suppose qu’une variation de
+long terme des taux nominaux est davantage due à une variation de l’inflation que de celle
+des taux d’intérêt réels. Cette hypothèse forte, qui revient à supposer que les variations des
+taux d’intérêt réels et des primes de risque n’expliquent qu’une faible proportion de la volatilité
+des taux nominaux à long terme, est plus vraisemblable pour les périodes où l’engagement
+anti-inflationniste de la politique monétaire est moins fort. Ceci constituerait naturellement
+une limitation importante de l’application de l’indicateur choisi dans certains pays de notre
+échantillon, où depuis une période donnée cet engagement est élevé.
+Les arguments et les limites précédents vont donc amener Argov et al. (2007) à reprendre
+cette formulation de la CPM en remplaçant le taux d’intérêt nominal de long terme par le taux
+d’inflation qui constitue une approximation de la précédente formulation. Ainsi, en se basant
+sur ce changement, on a la nouvelle formulation suivante :
+(π −π )2
+Cr = i,max i,t avec 0 ≤ Cr ≤ 1 (10)
+it (π −π )2+(π −π )2 it
+i,min it i,max it
+Où π représente le taux d’inflation d’un pays i à un moment donné t, π et π
+it i,min i,max
+représentant ses valeurs maximales et minimales. En effet, lorsque l’indice Cr i,t se rapproche
+i,t
+de 0 point, la politique monétaire perd de sa crédibilité car la Banque Centrale s’éloigne de
+l’objectif ou de la cible d’inflation qu’elle avait annoncée. Inversement, lorsque l’indice Cr se
+i,t
+rapproche de 1 point, la politique monétaire gagne en crédibilité, car la Banque Centrale se
+rapproche de son objectif ou de sa cible en terme d’inflation.
+Le développement théorique précédent nous emmène à conjecturer une relation décroissante
+entre la crédibilité et l’inflation. En procédant à la dérivé de cette formulation par rapport à π
+it
+on a :
+18. Taux d’intérêt nominal = Taux d’intérêt réel + Taux d’inflation.
+27
+
+--- Page 29 ---
+δCr −2π (cid:2)(π −π )2+(π −π )2)(cid:3) −(cid:2)(−2π −2π )(π −π )2)(cid:3)
+it = i,t i,max i,t i,min i,t i,t i,t i,max i,t
+δπ it [(π i,max−π i,t)2)+(π i,min−π i,t)2)]2
+−2π (cid:2)(π −π )2+(π −π )2(cid:3)+4π (π −π )2)
+= i,t i,max i,t i,min i,t i,t i,max i,t
+[(π −π )2)+(π −π )2)]2
+i,max i,t i,min i,t
+−2π (π −π )2−2π (π −π )2+4π (π −π )2
+= i,t i,max i,t i,t i,min i,t i,t i,max i,t
+[(π −π )2)+(π −π )2)]2
+i,max i,t i,min i,t
+δCr −2π (cid:2)(π −π )2+(π −π )2)(cid:3)
+it = i,t i,min i,t i,max i,t
+δπ it [(π i,max−π i,t)2)+(π i,min−π i,t)2)]2
+On remarque que le signe de la dérivée dépend du signe de :
+(cid:2)(π −π )2−(π −π )2(cid:3);
+i,min i,t i,max i,t
+en effet, on remarque que si on a : (cid:2)(π −π )2−(π −π )2(cid:3) > 0 alors on peut
+i,min i,t i,max i,t
+conclure que σCri,t < 0, conformément au développement théorique sous-jacent à la formulation
+σπi,t
+de la crédibilité.
+La CPM des pays de notre échantillon est à notre sens, mieux indexée par cette dernière
+formulation parce que, comparativement à la première, elle cadre mieux avec le contexte d’étude
+en raison d’une libéralisation tardive des taux d’intérêt et de la création tardive d’un marché
+monétairedanslazoneFrancCFAenparticulier.Demême,lapolitiquedetauxd’intérêtcomme
+instrument de la politique monétaire a une efficacité limitée dans cette Zone où, les Banques
+Centrales fonctionnent beaucoup plus avec la base monétaire, le taux d’intérêt ne pouvant jouer
+véritablement son rôle d’influence sur le mouvement des capitaux que s’il existe un marché
+monétaire fonctionnant en bonne et due forme (Nguena, 2012).
+Ainsi, l’application de la formulation de l’équation (10) a permis d’avoir des valeurs de
+la CPM comprises entre 0 point et 1 point, qui correspondent respectivement aux seuils de
+crédibilité nulle et parfaite par Zone et par année (voir graphiques 9, 10 et 11 ci-dessous).
+Récemment, cette formule fut utilisée dans les travaux de Nguena (2012), Bendahmane (2015)
+et Kwangyong (2016).
+28
+
+--- Page 30 ---
+Graphique 9 – Evolution de l’indicateur de la CPM dans l’ensemble de notre échantillon entre 1980 et
+2017.
+Source : Construction des auteurs
+Graphique 10 – Evolution de l’indicateur de la CPM dans la zone CEMAC et UEMOA entre 1980 et
+2017
+Source : Construction des auteurs
+29
+
+--- Page 31 ---
+Graphique 11 – Evolution de l’indicateur de la CPM dans les pays 08 hors zone Franc CFA de notre
+échantillon entre 1980 et 2017
+Source : Construction des auteurs
+Graphique 12 – EvolutiondelaCPMdelaRéserveFédérale(FED)auxEtats-Unisentre1980et2010
+Source : Kwangyong (2016)
+Méthodiquement, il serait erroné d’utiliser l’indice de réputation et de crédibilité de De
+Mendoça et De Souza (2009) car, sur les 22 pays constituant notre panel, seul deux (02) d’entre
+eux à savoir l’Afrique du Sud en 2000 et le Ghana19 en 2007 ont adopté une stratégie de ciblage
+del’inflation20.Pourcesdeuxpaysd’AfriqueSubsahariennecibleursd’inflation,enréactualisant
+la formulation (6) De Mendoça et De Souza (2009), Lucotte (2012) obtient les valeurs suivantes
+19. LeGhanaaffichedesperformancesplusqu’inquiétantes,avecdeséchecssuccessifsdansl’atteintede
+la cible, et une inflation qui n’a cessé d’augmenter depuis Mai 2007, et l’adoption du ciblage d’inflation.
+20. Le ciblage de l’inflation est un régime de politique monétaire qui comprend 05 éléments : (i) l’an-
+30
+
+--- Page 32 ---
+de réputation : 0.90 point pour l’Afrique du Sud et 0,43 point pour le Ghana à partir des années
+respectives d’adoption du ciblage de l’inflation.
+A la lumière des graphiques (9), (10) et (11) précédents, le principal constat est que les bas
+niveaux de la crédibilité correspondent aux forts taux d’inflation et inversement, les niveaux
+élevés de crédibilité correspondent aux bas taux d’inflation. L’on peut donc conjecturer que
+la théorie qui dit que les niveaux élevés de crédibilité doivent être associés à une maîtrise de
+l’inflation à un bas taux est vérifiée dans le contexte de cette étude.
+D’après le graphique 9, il ressort que la politique monétaire dans nos 03 groupes (échantillon
+total, zone Franc CFA et 08 pays hors zone Franc CFA) est crédible sur la période 1980-2017 en
+terme d’engagement anti inflationniste. Effectivement, il n’y a qu’entre 1992 et 1994 que cette
+crédibilité a connu une chute à 0,46 point pour les huit (08) pays hors zone Franc CFA. Pour la
+zoneFrancCFAproprementdite,cettechutedelacrédibilitéestalléejusqu’à0,07pointen1994
+à cause de la dévaluation qui a conduit à une hausse spectaculaire du niveau des prix au cours
+de cette année. Mais très vite, les valeurs de la crédibilité remonteront à 0,54 point dès 1995. De
+1996 à 2017, ces valeurs seront situées dans l’intervalle 0,7 point et 1 point. Cette performance
+précédente des Banques Centrales de notre échantillon n’est pas très loin de celle de la FED aux
+Etats-Unis entre 1988 et 2006, période postérieur la crise financière (voir graphique 12). D’après
+l’analyse de Romer (2004), il semble plausible qu’une partie de l’histoire politique de la FED ait
+justifier sa crédibilité à cette période précise.
+Dans la zone CFA (voir graphique 10), ce bon résultat en termes de politique monétaire
+crédible peut s’expliquer par la convertibilité illimitée et la fixité de la parité du Franc CFA par
+rapport à l’Euro21. La convertibilité garantie par les accords de coopération monétaire s’entend
+comme une convertibilité à un taux de change fixe. Ceci ne veut pas dire que le taux ne peut
+pas être modifié. Dans la littérature, il apparait qu’un taux de change fixe permet d’augmenter
+la crédibilité à l’engagement du gouvernement de la Banque Centrale en faveur d’une politique
+monétaire stable. En réduisant les anticipations inflationnistes et donc les taux d’intérêt, la
+crédibilité accrue peut entraîner une production plus élevée. (Ngniado, 2016).
+Le principe reste celui de la stabilité du taux de change qui a conduit jusque-là à une
+remarquable stabilité monétaire. La discipline monétaire dont les Unions de cette Zone se sont
+maintenant approprié le principe est confortée par les accords de coopération monétaire. En
+garantissant la fixité du taux de change, ces accords renforcent la crédibilité de la politique de
+stabilité monétaire et par là même, son efficacité à travers le nouveau statut d’autonomie22
+des Banques Centrales qui va dans le même sens (Guillaumont J. et Guillaumont P., 2017).
+Cependant, maintenir plus longtemps les parités n’est pas nécessairement gage de crédibilité.
+nonce publique d’objectifs d’inflation numériques à moyen terme; (ii) l’engagement des institutions à
+faire de la stabilité des prix leur principal objectif; (iii) une stratégie d’information dans laquelle un
+certain nombre de variables (monétaires et non monétaires) sont utilisées dans la prise de décision; (iv)
+améliorationdelatransparence,vialacommunicationaveclepublicetlemarché,concernantlesprojets,
+les objectifs et les décisions de l’autorité monétaire; et (v) responsabilité accrue de la Banque Centrale
+quant à la réalisation des objectifs d’inflation (Mishkin, 2000).
+21. L’ancrage des Francs CFA à une monnaie bien définie (en l’occurrence l’Euro) leur assure en per-
+manence une cotation stable (qui disparaitrait avec un rattachement à un panier). C’est un élément de
+la confiance de la stabilité monétaire. Il contribue à réduire les anticipations inflationnistes des agents
+économiques et par là, à diminuer les coûts que présente la réduction de l’activité économique due à une
+politique monétaire restrictive qui serait peu crédible.
+22. Une autre réforme importante a été la modification des statuts de la BCEAO et de la BEAC afin
+d’en accroître leur autonomie (adoptée respectivement en Avril 2010 pour la BCEAO et Juin 2017 pour
+la BEAC).
+31
+
+--- Page 33 ---
+En présence de chocs négatifs, la fixité des changes aujourd’hui peut aggraver la situation de
+l’économie et rendre plus évidente la dévaluation (Ba, 2015).
+Enfin, et de manière générale, il semblerait que les échecs dans l’atteinte de l’objectif d’in-
+flation à certaines périodes ne soient pas dus intrinsèquement à de mauvaises performances des
+Banques Centrales dans la conduite de leur politique monétaire, mais plutôt à un degré d’expo-
+sition aux chocs exogènes relativement élevé qui fait que le taux d’inflation de ces pays s’est à
+certaines périodes largement écarté de l’objectif visé (voir graphique 11).
+3.2 Modélisation économétrique
+Cette sous-section s’intéresse au modèle théorique et empirique en rapport avec la croissance
+économique.
+3.2.1 Modèle théorique
+Les évolutions de la théorie de la croissance endogène constituent le socle pour la construc-
+tion de notre modèle théorique. Le modèle de Mankiw et al. (1992) qui constitue notre modèle
+de base, tout comme celui de Solow (1956) et Swan (1956) a une forte influence dans la lit-
+térature sur la croissance économique. Il utilise la fonction de production pour expliquer les
+déterminants de la croissance économique. Cette fonction est à la base de l’explication de la
+théorie de la croissance économique depuis plus de quatre décennies. Cette approche est basée
+sur le modèle néo-classique de Solow et Swan (1956) qui identifie les canaux par lesquels les va-
+riables macroéconomiques affectent la croissance économique. Le modèle néo-classique suppose
+qu’à tout moment, la production totale de l’économie dépend de la qualité et de la quantité du
+capital physique employé, de la quantité de travail employé et du niveau moyen de la qualité de
+la force de travail. Cependant, même si l’économie atteint le niveau d’équilibre, une croissance
+additionnelle du stock de capital par travailleur peut prendre place uniquement si la producti-
+vité augmente soit à travers l’augmentation du stock de capital, ou à travers l’amélioration de
+la qualité de la force de travail.
+UntravaildeKnightetal.(1993)affirmequ’enplusdesfacteursprésentésdanslemodèlenéo-
+classique, d’autres facteurs tels que l’amélioration de la technologie exogène qui est absorbée par
+lepaysdomestiqueàtraversl’importationdesbienscapitaux,ledegréd’ouverturedel’économie,
+le taux de change et le niveau d’investissement fixe entrepris par le gouvernement sont aussi
+importants. Mankiw et al. (1992) avaient déjà confirmé cette réalité un an plus tôt.
+La spécification ci-dessus est particulièrement convenable pour les pays en voie de déve-
+loppement. La fonction de production utilisée est spécifiée dans le cadre de la comptabilité
+conventionnelle prenant en compte les dynamiques de court terme, aussi bien que les relations
+delongterme.Knightetal.(1993)fournissentunmodèledecroissanceàpartirdelacomptabilité
+conventionnelle de la croissance semblable à celui que nous allons présenter ici :
+Considérons la fonction de production de Cobb-Douglas23 suivante :
+23. Tybout (1992) indique en effet que l’utilisation de cette forme fonctionnelle pour la fonction de
+production est la plus adaptée en présence d’imperfections dans les données, ce qui est souvent le cas
+lorsque l’on utilise des données provenant de pays en développement.
+32
+
+--- Page 34 ---
+Y = F(K ,L ,H ,A ) (11)
+t t t t t
+Où K, L et H sont respectivement le capital physique, le travail et le capital humain. A
+est le facteur d’efficience globale qui inclut le niveau de technologie, la qualité de la gestion
+gouvernementale de l’économie, ...etc. H comprend le niveau d’éducation de la force de travail,
+tout comme le statut nutritionnel et sanitaire.
+Endifférenciantl’équation(11),l’équationdecomptabilitéconventionnelledecroissanceest:
+γ0/γ = η (K0/K)+η (L0/L)+η (H0/H)+η (A0/A) (12)
+1 2 3 4
+Où η est l’élasticité et [η (A0/A)] la productivité résiduelle.
+i 4
+Le travail brut d’une part et le travail relié à la technologie d’autre part, sont supposés
+croître suivant les fonctions ci-dessous :
+L = L exp(n ) (13)
+t 0 t
+A = A exp(g )Fθ fPθp (14)
+t 0 t
+Où n est le taux exogène de croissance du facteur travail; g le taux exogène du progrès
+technologique; F le degré d’ouverture de l’économie domestique au commerce extérieur et P le
+taux d’investissement fixe du gouvernement dans l’économie.
+Avec le taux d’épargne déterminé de manière exogène, le capital physique et humain est
+accumulé comme suit :
+dk
+t = s Y −δK (15)
+k t
+dt
+dh
+t = s Y −δH (16)
+h t
+dt
+Oùs estunefractiondesrevenusinvestisdanslecapitalphysique;s lafractiondesrevenus
+k h
+investis dans le capital humain et δ le taux de dépréciation.
+Sans imposer des restrictions selon lesquelles l’économie est continuellement dans un état
+stable, la vitesse de convergence, qui est la vitesse avec laquelle la production atteint son état
+de stabilité est définie par le paramètre η. Plusieurs études sont arrivées à la conclusion selon
+laquellelespaysquisontinitialementen-dessousdeleurétatdestabilitédelacroissancecroissent
+plus vite.
+En substituant les équations (13) à (16) dans la fonction de production (équation (12)), on
+33
+
+--- Page 35 ---
+a :
+Y = α+β (n t+g+δ)+β S +β S +β F +β P +β Y +ξ +µ +ε (17)
+t 1 i 2 Kit 3 hi 4 i 5 i 6 i,t−1 t i i,t
+Où ξ et µ sont respectivement les effets spécifiques temporels et pays; ε le terme d’erreur
+t i i,t
+et β ,...,β les différents paramètres à estimer.
+1 6
+L’équation (17) sera à la base de la confection de notre modèle empirique.
+3.2.2 Modèle empirique
+ApartirdumodèleoriginalproposéparMankiwetal.(1992),quifutdéveloppéplustardpar
+Barro et Sala-i-Martin (1995) et utilisé récemment par Kuipou et al. (2015) et Ndikeu (2017),
+nous construisons un modèle spécifique pour apprécier l’impact de la CPM sur la croissance
+économique en ASS. Les variables retenues comme déterminants de la croissance dans notre
+échantillonsontcellescourammentutiliséesdanslalittératureempiriquesurlacroissance(Barro
+(1991); Bailliu et al. (2001); Aloui et Sassi (2005); Bamba (2012), Sall (2016)). Notre équation
+spécifique de croissance économique se présente comme suit :
+PIB = θ +θ PIB +θ CPM +θ CAPHUM +θ OUV +θ MAMO
+i,t 0 1 i,t−1 2 i,t 3 i,t 4 i,t 5 i,t (18)
++θ FBCF +θ TCHA +θ DEVFI +U +V +W t
+6 i,t 7 it 8 i,t i i i
+Avec : PIB : le taux de croissance réelle du produit intérieur brut par habitant dans le
+i,t
+pays i au cours de l’année t; PIB : le taux de croissance du PIB réel décalé par habitant
+i,t−1
+dans le pays i au cours de l’année t; CPM : le niveau de crédibilité de la politique monétaire
+i,t
+dans le pays i au cours de l’année t; CAPHUM : le capital humain en pourcentage du PIB
+i,t
+dans le pays i au cours de l’année t; OUV : l’ouverture commerciale (somme des exportations
+i,t
+et des importations rapporté au PIB) dans le pays i au cours de l’année t; MAMO : la
+i,t
+monnaie et quasi monnaie (M2) en pourcentage du PIB dans le pays i au cours de l’année t;
+FBCF : la formation brute en capital fixe en pourcentage du PIB dans le pays i au cours de
+i,t
+l’année t; TCHA : le taux de change réel dans le pays i au cours de l’année t; DEVFI : le
+i,t i,t
+développement du secteur financier en pourcentage du PIB dans le pays i au cours de l’année
+t; U : l’effet individu; V : l’effet temps; W : l’effet croisé24; i : nombre de pays allant de 1 à
+i t it
+22; t : la période allant de 1980 à 2017; θ : la constante; θ àθ : les coefficients de régression
+0 1 1
+relatifs au niveau de croissance économique. Notre équation comporte les variables numérotées
+de 1 à 8.
+L’impact de la crédibilité de la politique monétaire sera évalué sur le bloc réel à partir de la
+construction d’un indice simple de CPM qui sera inclus parmi les autres variables explicatives
+24. Ces paramètres sont supposés fixes et différents d’un individu à l’autre (Dumitrescu et Hurlin,
+2012). Dans la plupart des cas, les tests d’homogénéité sur panel aboutissent aux conclusions que le
+panel est hétérogène. A ce titre, si les paramètres se trouvent abusivement imposés comme homogène, la
+pertinence des résultats devient sujette à caution (Hurlin, 2004).
+34
+
+--- Page 36 ---
+jugées robustes dans un modèle de croissance endogène25 . Ces variables ont été normalisées par
+lePIB.Eneffetd’aprèsJengetWells(2000),cetajustementparaîtnécessairepourdeuxraisons:
+toutd’abordpourtenircomptedeladivergenceduniveaudecroissanceéconomiqued’unpaysà
+l’autreetaussiafind’atténuerlerisqued’hétéroscédasticité.Danslebutderessortirlacohérence
+du modèle, nous allons maintenant définir les relations entre ces différentes variables.
+3.2.3 Présentation et justification des variables
+Dans ce qui suit, nous passons en revue les différentes variables utilisées dans le cadre de
+cette étude.
+a) Variable expliquée ou endogène
+Dans notre modèle la variable expliquée est le taux de croissance produit intérieur brut réel
+par habitant (PIBi,t) qui est l’indicateur de la croissance économique. Il représente la varia-
+tion relative du PIB réel par tête d’une année à l’autre. Il ne faut cependant pas confondre
+croissance économique et développement économique. La croissance est l’augmentation de la
+production d’un pays sur une longue période. Le second se différencie du premier par son aspect
+plus qualitatif. Ainsi, François Perroux définit le développement comme étant la combinaison
+des changements mentaux et sociaux d’une population qui la rendent apte à faire croître cu-
+mulativement et durablement son produit réel global. Perroux ajoute que le développement : «
+C’est nourrir les hommes, soigner les hommes, déplacer les hommes? ». Le développement se
+mesure en général par l’Indice de Développement Humain (IDH) qui comprend l’espérance de
+vie à la naissance, le taux d’alphabétisation et le PIB par tête. Donc l’IDH prend en compte
+le PIB, mesure de la croissance économique. De manière synthétique, la croissance permet de
+dégagerlesressourcespourfinancerledéveloppement.Celui-cis’accompagned’uneamélioration
+du niveau de vie favorable à la croissance économique. Comme nous, plusieurs auteurs à l’instar
+de Guissé (2016) et Aguir (2016) ont récemment utilisé cet indicateur dans le cadre de leurs
+travaux.
+b) Variable d’intérêt ou institutionnelle
+La crédibilité de la politique monétaire (CPM ) : L’indice simple de crédibilité de
+i,t
+la politique monétaire (CPM ) formulé et calculé dans la section 2 représente notre variable
+i,t
+d’intérêt. Cette variable qualifie et prend en compte les effets de la politique monétaire sur la
+croissance du PIB. En effet, suivant la théorie de Kydland et Prescott (1977), le facteur CPM
+aurait un impact positif sur le réel.
+c) Variables explicatives ou exogènes ou de contrôles
+Les variables explicatives utilisées dans notre modèle sont les suivantes :
+25. Unealternativepouréviterlaconstructiond’unindicateurseraitd’associerlespériodesdevolatilité
+d’inflation et de maîtrise de l’inflation à un bas taux, respectivement aux périodes de faible et de forte
+crédibilité de la politique monétaire.
+35
+
+--- Page 37 ---
+LetauxdecroissanceduPIBréeldécaléparhabitant(PIB ):Ils’agitdelavaleur
+i,t−1
+retardée du taux de croissance économique qui sert de proxy au revenu initial par habitant : on
+introduitlavariableendogèneretardéed’unepériodeparmilesvariablesexplicativesnotamment
+letauxduPIBpartêteàt−1,demanièreàtesterl’effetdecomportementsdynamiques.Suivant
+Hansen et Tarp (2000), le revenu initial par tête est une variable déterminante dans les relations
+de croissance. Il permet de prendre en compte les dotations initiales dans le but de capter l’effet
+de convergence conditionnelle entre les économies. Le modèle néoclassique prévoit un coefficient
+négatif du PIB initial sur la croissance. De même, Lensink et Morrissey (2001) ont trouvé un
+coefficient négatif et significatif entre le revenu initial par tête et la croissance; ce qui confirme
+l’hypothèse de convergence au sein des groupes des pays retenus. Pour cela, on prévoit un signe
+négatif entre les deux variables.
+Le capital humain (CAPHUM ) : C’est le niveau total de scolarisation dans le primaire.
+i,t
+Dansl’analyseactuelledelacroissanceéconomique,lefacteurhumainjoueunrôleprépondérant
+et la théorie de la croissance endogène tend à mesurer désormais tous les indices qui rendent
+compte du niveau de développement du facteur humain dans chaque société. Ici, la disponibi-
+lité des données nous emmène à nous limiter aux dépenses publiques totales en éducation (en
+pourcentage du PIB). Au même titre que les infrastructures économiques, un capital humain de
+qualité participe en effet à l’amélioration de l’environnement des affaires et constitue l’un des
+facteurs déterminants de la croissance d’une zone d’intégration économique. Actuellement, les
+pays de l’UEMOA comme ceux de la CEMAC connaissent une pénurie de compétences spécia-
+lisées et une amélioration des résultats éducatifs devrait pouvoir se traduire par une croissance
+tendancielle plus soutenue. En plus des objectifs économiques liés à une meilleure intégration
+des systèmes éducatifs de la zone Franc, celle-ci est également essentielle pour la promotion du
+dialogue interculturel et la compréhension entre les peuples de la sous-région (FERDI, 2012).
+Barro et Lee (1993) ont trouvé que cette variable est significativement corrélée à la croissance.
+On espère donc un rapport positif entre le capital humain et la croissance.
+Le taux d’ouverture commerciale (OUV ) : Cet indicateur est mesuré par le ratio au
+i,t
+PIBdelasommedesexportationsetdesimportations.LesrésultatsdeBarro(1997)donnentun
+coefficient positif et significatif des termes de l’échange (mesurés par la somme des importations
+et des exportations rapportées au PIB) sur la croissance économique. L’auteur rajoute que bien
+que la variable de l’ouverture au commerce soit statistiquement significative, elle ne s’avère pas
+êtrel’élémentclédelafaibleperformanceéconomiquedansplusieurspayspauvres,enparticulier
+ceux de l’Afrique Subsaharienne. Par contre, Sachs et Warner (1995) démontrent que c’est
+seulement dans les économies ouvertes qu’on peut observer une convergence inconditionnelle.
+Ils montrent que dans les années 1970-1980, le taux de croissance des pays avec des politiques
+d’ouverture avait cru à un rythme de 4,5% par année et qu’en revanche, les pays relativement
+fermés n’avaient qu’un taux de croissance de 0,7%. On espère avoir un signe positif entre cette
+variable et la croissance.
+La masse monétaire(MAMO ):EllereprésentelamassemonétairerapportéeauPIBet
+i,t
+prend en compte le niveau de liquidité des économies. C’est la variable qui prend en compte les
+effets de la politique monétaire à travers l’offre de monnaie sur la croissance économique. Selon
+King et Levine (1993), la variable masse monétaire rapportée au PIB a une influence positive
+sur la croissance. Cette variable est utilisée généralement comme indicateur de la liquidité du
+système financier d’un pays.
+La formation brut en capital fixe (FBCF ) : C’est le ratio (FBCF + variations de
+i,t
+stocks) / PIB. L’investissement est une variable clé de la croissance et devrait avoir un fort effet
+positif sur cette dernière (Nguena (2013), Mba et al. (2014)). Après la dévaluation, une reprise
+36
+
+--- Page 38 ---
+substantielle de l’investissement a été observée dans la zone CFA, mais avec un taux inférieur à
+celui qui était prévu (17,4% au lieu de 18,7% prévu). Le taux d’investissement de la majorité des
+paysétaitinférieurà20%duPIBavantladévaluation.Surlelongterme,l’augmentationdutaux
+d’investissement est devenue plus vigoureuse dans la CEMAC, permettant ainsi à cette région
+de figurer parmi les plus dynamiques au sein des économies à faible revenu. En 1994, le taux
+d’investissement dans cette zone dépassait légèrement la barre des 30% du PIB et en 2003 celle
+des 20%. Toutefois, ces investissements sont effectués essentiellement dans le secteur du pétrole.
+A l’inverse, l’UEMOA a connu une progression limitée de son taux d’investissement. Elle a à
+peine atteint le niveau des autres pays de l’Afrique Subsaharienne (18%) avant de baisser sous
+les effets de la crise ivoirienne. En 2003, l’UEMOA se présente comme la région qui investit le
+moinsparmiles paysàfaiblerevenuavecun tauxinférieurà18%.En2008,sauflaCentrafrique,
+tous les pays avec un taux d’investissement inférieurs à 20% sont membres de l’UEMOA.
+Le taux de change réel (TCHA ) : Le taux de change entre deux pays est le prix auquel
+i,t
+se font les échanges entre eux. Seulement, tous les pays n’utilisent pas la même monnaie. Ainsi,
+se pose-t-il un problème de change, c’est-à-dire de transformation de la monnaie d’un pays en
+monnaies d’autres pays. Les économistes distinguent deux taux de change : le taux de change
+nominal et le taux de change réel qu’on appelle quelquefois termes de l’échange. Les travaux
+menés par Dufort et Murray (2004) ont démontré que l’impact d’une variation de la valeur
+de la devise Canadienne sur le PIB varie grandement selon le modèle employé et ce, à cause
+des nombreux problèmes de spécification et d’estimation inhérents aux modèles économétriques
+servant à quantifier les impacts d’une variation de la valeur de la devise Canadienne. Par contre,
+Ojo et Oshikoya (1995) trouvent un lien positif entre le taux de change réel et la croissance
+du PIB. L’impact du régime de change sur la croissance n’a pas été clairement tranché par la
+théorie économique. Certains auteurs défendent une influence positive du régime de change fixe
+sur la croissance (Bodea, 2010) alors que d’autres retiennent une influence négative (Schnabl,
+2009), d’où l’incertitude sur le signe de cette variable.
+Le développement financier (DEVFI ) : Le niveau de développement financier est
+i,t
+mesuré par les crédits faits au secteur privé en pourcentage du PIB réel. En effet, le développe-
+ment financier joue un rôle important dans le processus de croissance (King et Levine, 1993).
+Des auteurs ont identifié beaucoup de raisons pour lesquelles la profondeur du niveau de dé-
+veloppement financier peut promouvoir la croissance économique. Selon Lee et Wong (2005),
+un système financier développé préserve l’efficacité des systèmes de paiements, conduit à une
+meilleure allocation des ressources, à une meilleure gestion et à une moindre asymétrie d’infor-
+mation. En outre, une utilisation plus intense des intermédiaires financiers et l’accroissement de
+l’intermédiation encourage l’épargne et l’investissement, et améliore la répartition de l’épargne
+aux projets d’investissement (Rousseau et Wachtel, 2002). Pour Rousseau et Wachtel (2002),
+ceci encourage à son tour un niveau plus élevé de formation de capital et une plus grande effi-
+cacité dans l’allocation du capital. La littérature empirique tend à corroborer l’impact favorable
+du développement financier sur la croissance économique (Hnatkovska et Loayza, 2003).
+37
+
+--- Page 39 ---
+Tableau 1 : Récapitulatif des signes attendus des coefficients des différentes variables.
+Source : Construction des auteurs
+3.3 Présentation de l’échantillon et source des données
+Les données recueillies pour cette étude sont d’origines secondaires. Elles proviennent de
+diverses sources telles que : les bases statistiques de la Banque Mondiale dans le «World Deve-
+lopment Indicators (2018) , de la Conférence des Nations Unies sur le Commerce et le Dévelop-
+pement (CNUCED, 2018) et de Freedom House Database (2018). Les données institutionnelles
+telles que la crédibilité de la politique monétaire des pays de notre échantillon ont été calculé
+par nos propres soins à partir de la formulation d’Argov et al. (2007). Cette étude emploie l’éco-
+nométrie des données de panel dynamique sur un échantillon constitué des 22 pays d’Afrique
+Subsaharienne répartis en trois (03) blocs à savoir : un bloc constitué des 14 pays de la zone
+Franc CFA ( Cameroun, Gabon, Congo, Tchad, Guinée-Equatoriale, République Centrafricaine,
+Sénégal, Côte d’Ivoire, Mali, Burkina-Faso, Guinée-Bissau, Togo, Niger et Benin); d’un second
+blocconstituéde08payshorszoneFrancCFA(Nigéria,AfriqueduSud,Angola,Ghana,Kenya,
+Tanzanie,EthiopieetRépubliqueDémocratiqueduCongo(RDC);etuntroisièmeblocforméde
+l’ensemble des deux blocs précédents. Leurs spécificités peuvent être communes ou différentes.
+38
+
+--- Page 40 ---
+La périodicité est annuelle et l’étude part de 1980 à 2017.
+3.4 Méthode d’estimation des paramètres
+SuivantBéah(2015)etGuissé(2016),nousestimonsnotreéquationdecroissanceéconomique
+en faisant recours à l’estimateur GMM26 développé par Arellano et Bond (1991), Arellano et
+Bover (1995) et Blundell et Bond (1998). Deux (02) raisons principales nous ont amené à retenir
+cette stratégie d’estimation, désormais devenue très populaire dans la littérature empirique. La
+première est liée à la structure dynamique de l’équation. La présence de la variable dépendante
+retardée conduit en effet à remettre en cause l’inférence statistique basée sur l’estimation d’une
+régressionparlesMCO.Letermeautorégressifétantcorréléavecleseffetsspécifiquesindividuels
+ε , a pour conséquence l’autocorrélation des résidus ε (Nickel, 1981). De plus, une source
+i it
+d’endogénéité peut provenir du fait que la variable dépendante de l’équation (18) influence les
+variables explicatives du modèle. Ce biais d’endogénéité semble particulièrement se poser dans
+le cas de notre étude car, il semblerait que les performances économiques aient pu conditionner
+la CPM. Ce problème de double causalité n’est pas à exclure pour certaines de nos variables de
+contrôle, en particulier le taux de change et développement financier.
+L’estimateur GMM permet de corriger ces deux biais d’endogénéité et présente en outre
+l’avantage, contrairement à l’estimateur par variables instrumentales proposé par Anderson et
+Hsiao(1982),degénérerdesinstrumentseninterne.Lesvariablessupposéesendogènessontalors
+instrumentées par leurs valeurs retardées. Il convient toutefois de préciser que cette méthode
+permet de corriger l’endogénéité au sens faible, mais non l’endogénéité au sens fort. En ce sens
+qu’elle suppose que les variables explicatives peuvent être affectées par les réalisations passées
+et présentes de la variable dépendante, mais non par les réalisations futures de cette dernière.
+Deux versions de l’estimateur GMM ont été ainsi proposées. Le premier de ces estimateurs est
+l’estimateur en différences premières développé par Arellano et Bond (1991)27. Cet estimateur
+consiste à instrumenter les variables dans l’équation en différence première par leurs valeurs en
+niveau retardées d’au moins une période.
+Sous les hypothèses suivantes : ε ne sont pas autocorrélés et les variables explicatives X et
+it it
+VF sont faiblement exogènes (c’est-à-dire sont censées être non corrélées avec les réalisations
+it
+futurs des termes d’erreurs ε ). Arellano et Bond (1991) proposent les conditions suivantes sur
+it
+les moments :
+E[y (ε −ε )] = 0 pour s ≥ 2; t,··· ,T (19)
+i,t−s i,t i,t−1
+E[X (ε −ε )] = 0 pour s ≥ 2; t,··· ,T (20)
+i,t−s i,t i,t−1
+26. L’estimationd’unmodèledynamiqueenpanelremonteauxtravauxpionniersdeBalestraetNerlove
+(1966). La littérature sur le sujet s’est considérablement enrichie à partir des années 1990 suites aux
+travaux de Holtz-Eakin, Newey et Rosen (1988) et Arellano et Bond (1991). Ces derniers ont introduit
+l’utilisation de la Méthode d’estimation des Moments Généralisés (GMM) pour les panels dynamiques.
+27. Laprocédured’ArellanoetBond(1991)consisteàréécrirel’équationinitialeendifférencepremière,
+cequiélimeleseffetsfixesindividuels,puisàutilisercommeinstrumentspourlessériesdifférenciéesleurs
+propresniveauxretardés.Cetteméthodeaméliorel’estimationparvariablesinstrumentalesd’Andersonet
+Hsiao (1982) en faisant référence à un ensemble de conditions d’orthogonalité définissant des estimateurs
+GMM optimaux. Elle résoud, par ailleurs, le choix délicat concernant la liste des instruments.
+39
+
+--- Page 41 ---
+Bienque permettantd’annuler parconstructionla corrélationentreles variables explicatives
+et le résidu courant, cet estimateur souffre de trois (03) principales limites. La première est que
+la convergence de cet estimateur est vérifiée lorsque le nombre d’observations tend vers l’infini
+et que la période est fixée. De plus, comme le montrent Blundell et Bond (2000), les propriétés
+de cet estimateur sont faibles lorsque les variables explicatives sont fortement persistantes. Dans
+ce cas, les variables retardées en niveau sont des faibles instruments de l’équation en différences
+premières.Or,danslecadredenotreétude,lapersistancedelavariablecrédibilitédelapolitique
+monétaire est forte sur l’ensemble de la période. Enfin, la différenciation de l’équation en niveau
+élimine les effets spécifiques individuels et ne permet pas par conséquent de prendre en compte
+l’hétérogénéité inobservée des pays.
+Pour contrecarrer ces limites de l’estimateur GMM en différences premières, Arellano et
+Bover (1995) et Blundell et Bond (1998) ont proposé l’estimateur System-GMM, qui consiste
+à combiner pour chaque période l’équation en différences premières avec celle en niveau, dans
+laquelle les variables sont instrumentées par leurs différences premières. Blundell et Bond (1998)
+utilisent un système d’équations avec la méthode des moments généralisés (System-GMM) : une
+équation en différence dont les instruments sont les variables explicatives en niveau retardées
+à partir de deux périodes, et une équation en niveau dont les instruments sont les variables
+explicatives en différence retardées. Les instruments utilisés dans ce système sont appropriés
+sous l’hypothèse suivante : bien qu’il y ait une corrélation entre les variables en niveau et les
+effets spécifiques aux pays dans la seconde équation, il n’existe pas de corrélation entre ces
+variables différenciées et les dits effets spécifiques. Ces auteurs proposent donc des conditions
+supplémentaires sur les moments de la seconde partie du système (l’équation en niveau) :
+E[(y −y )(α +ε )] = 0 pour s = 1; t,··· ,T (21)
+i,t−s i,t−s−1 i i,t
+E[(X −X )(α +ε )] = 0 pour s = 1; t,··· ,T (22)
+i,t−s i,t−s−1 i i,t
+Le système d’équations ainsi obtenu est estimé simultanément, à l’aide de la méthode des
+momentsgénéralisés.BlundelletBond(1998)montrentàl’aidedesimulationsdeMonteCarlo28
+que l’estimateur GMM en système est plus performant que celui des GMM en différence, qui
+n’exploite que les conditions de moments de l’équation en différences premières. Pour l’ensemble
+decesraisons,nousavonsfaitlechoixderetenirl’estimateurSystem-GMMpourestimerl’équa-
+tion (18). Plus précisément, nous estimons cette équation à l’aide de l’estimateur des GMM en
+deux étapes avec correction de Windmeijer (2005)29.
+La détermination de l’estimateur GMM dépend également de la validité de l’hypothèse selon
+laquelle les termes d’erreur ne sont pas autocorrélés et les variables instrumentales utilisées sont
+valides. Pour s’assurer du respect de ces hypothèses, Blundell et Bond (1998) proposent deux
+28. Le terme « Monte Carlo » est employé dans de nombreuses disciplines et fait référence aux procé-
+dures où les quantités d’intérêt sont approximées en générant de nombreuses réalisations aléatoires d’un
+processus stochastiques quelconque et en calculant une moyenne quelconque de leurs valeurs. Le nom
+de ces méthodes, qui fait allusion aux jeux de hasard pratiqués à Monte-Carlo, a été inventé en 1947
+par Nicholas Metropolis, et publié pour la première fois dans un article coécrit avec Stanislaw Ulam
+(Metropolis et Ulam, 1949).
+29. Windmeijer (2005) a en effet montré que les écart-types des paramètres obtenus à partir d’une
+estimation GMM en deux étapes sur panels dynamiques sont biaisés dans le cas d’échantillons finis.
+Par ailleurs, l’estimation GMM en deux étapes avec correction de Windmeijer est plus efficiente que la
+méthode en une étape dans le cas spécifique des estimations en System-GMM.
+40
+
+--- Page 42 ---
+testsessentielsàsavoir:lestestsdeSargan/Hansenquipermettentd’analyserlasuridentification
+du modèle et la validité des instruments utilisés pour l’estimation, et le test usuel d’absence
+d’autocorrélation des termes d’erreur ε .
+i,t
+Eneffet,lestestsdevaliditédesinstrumentsdeSargan30/Hansensontconnuspourleurfaible
+puissancelorsquelenombred’instrumentsemployésesttrèsélevé.Roodman(2009)suggèrealors
+de conserver un nombre d’instruments inférieur au nombre de pays/individus, bien que cette
+indicationpratiquen’aaucunfondementthéorique.Toutefois,lesestimateursd’ArellanoetBond
+(1991) et Blundell et Bond (1998) souffrent de la perte d’information associée à l’écriture du
+modèle en différences premières; perte d’information qui se traduit souvent par des estimations
+peuprécisesetparfoiserratiques.L’obtentiondebonnesestimationsdescoefficientsd’unmodèle
+autorégressifàeffetsfixesn’estdoncpaschoseaiséeenpratiquedufaitdelanécessitéd’éliminer
+les paramètres incidents que constituent ces effets fixes et de la perte d’information qui s’en suit.
+Avant toute estimation avec la méthode des GMM en système31 , il est conseillé de s’assurer
+de la spécification du modèle. Il s’agit de prendre une décision sur la spécification du modèle en
+termesd’effetsindividuels.Est-cequelemodèleestavecdeseffetsindividuelsfixesoualéatoires?
+Pour donner une réponse à cette question, nous appliquerons un test de Hausman. Ce test
+permet de trancher entre les deux types d’effets. Pour décider du choix entre les spécifications
+du modèle en données de panel (effets fixes32 ou effets aléatoires33), Hausman (1978) propose
+un test permettant de bien le spécifier (c’est-à-dire permet de choisir un estimateur non biaisé
+à variance minimale parmi les estimateurs possibles). L’idée de ce test est que, sous l’hypothèse
+nulle d’indépendance entre les erreurs et les variables explicatives, les deux estimateurs (effets
+fixes (β ) et effets aléatoires (β )) sont non biaisés, donc les coefficients estimés devraient peu
+f α
+différer. Le test d’Hausman34 compare la matrice de variance-covariance des deux estimateurs :
+h i
+W = (β −β )0 Var(β −β )−1 (β −β ) (23)
+f α f α f α
+Le résultat suit une loi χ2, avec k − 1 degré de liberté. Lorsque la p-value est supérieure
+au seuil de confiance α%, on accepte l’hypothèse nulle, et la meilleure spécification est celle des
+effets aléatoires. Sinon, c’est le modèle avec effets fixes qui est considéré dans ce cas.
+30. Les tests de Sargan/Hansen permettent d’analyser la suridentification du modèle et la validité des
+instruments utilisés pour l’estimation. On utilise ces tests lorsqu’on applique l’estimateur des variables
+instrumentales,plusprécisémentlorsquelenombred’instruments(p)estsupérieuraunombredevariables
+explicatives (k) intégrées dans le modèle.
+31. L’estimation par la méthode des GMM s’effectue en utilisant la commande xtabond2 sur le logiciel
+Stata15.C’estlacommandedéveloppéeparRoodman(2006).Elledonnedesestimationsplusefficientes
+que la commande xtabond.
+32. L’estimationd’unmodèleàeffetsfixessousStata15sefaitaveclasyntaxesuivante:xtregvariable
+dépendante variables explicatives, fe.
+33. Pour estimer un modèle à effets aléatoires sous Stata 15, il suffit de remplacer l’option fe dans la
+commande xtreg par l’option re. La syntaxe générale est donc la suivante : xtreg variable déependante
+variables explicatives, re.
+34. La démarche du test de Hausman sous Stata 15 est comme suit : xtreg . . . , fe. est store fixed.
+xtreg . . . , re. hausman fixed. La première ligne de commande estime le modèle à effets fixes. La seconde
+ligne conserve les résultats du modèle à effets fixes sous le nom fixed. La troisième ligne estime le modèle
+à effets aléatoire et la quatrième ligne exécute le test de Hausman proprement dit.
+41
+
+--- Page 43 ---
+4 Interprétation des résultats et implication de poli-
+tique économique
+Il est question dans cette section de présenter les différents résultats obtenus de l’analyse
+économétrique (4.1), de donner leur interprétation économique (4.2) et enfin de vérifier leur
+robustesse (4.3).
+Lastatistiquedescriptive,lestestsdenormalitédeSkewness/Kurtosisetletestdecorrélation
+des variables se trouvant en annexe 2, 3 et 4 , les résultats de nos tests de stationnarité35 Im-
+Pesaran et Shin (IPS) et Lin Levine et Chu (LLC) pour nos trois (03) blocs sont présentés dans
+les tableaux 2, 3 et 4 ci-dessous.
+Tableau 2 : Tests de stationnarité des variables pour l’ensemble de l’échantillon (22 pays).
+Source : Construction des auteurs
+Tableau 3 : Tests de stationnarité des variables pour l’ensemble de la zone Franc CFA (14 pays).
+Source : Construction des auteurs
+35. La stationnarité avec constance et trend inclut les effets de toutes les variables y compris le temps
+sur l’évolution de la série considérée.
+42
+
+--- Page 44 ---
+Tableau 4 : Récapitulatif des signes attendus des coefficients des différentes variables.
+Source : Construction des auteurs
+Avec : I(0) : Série stationnaire en niveau ou intégrée d’ordre 0; I(1) : Série stationnaire en
+différence première ou au niveau du trend ou encore intégré d’ordre 1; α = 1% ***; α = 5% **
+et α = 10% * le degré de significativité.
+Présentons d’abord les résultats dans nos (03) groupes avant de les interpréter.
+La spécification nous permettant de choisir entre un modèle à effets fixes et un modèle à
+effets aléatoires à partir du test de Hausman nous donne les valeurs suivantes : effets aléatoires
+pourl’ensembledel’échantillon(22pays)(0.1377)eteffetsfixespourlazoneFrancCFA(0.0252)
+et le groupe des 08 pays hors zone Franc CFA (0.0000). Maintenant, il est question de passer
+aux estimations à l’aide de la Méthode des Moments Généralisés (GMM) de Blundell et Bond
+(1998) et de donner une interprétation aux tests d’autocorrélation d’Arellano et Bond (1991),
+aux tests de suridentification des instruments de Sargan/Hansen et aux statistiques de Wald
+relative à la validité globale du modèle dans chaque groupe.
+Concernant le test d’autocorrélation, il se fait en deux (02) étapes. La première étape a trait
+au test d’autocorrélation d’ordre 1 AR (1) et repose sur les hypothèses suivantes : H0 : absence
+d’autocorrélation d’ordre 1 des résidus et H1 : présence d’autocorrélation d’ordre 1 des résidus.
+La meilleure décision serait d’accepter l’hypothèse alternative et de rejeter l’hypothèse nulle.
+Pour ce faire, il faut que la p-value soit inférieure au seuil (α) considéré (p-value < α %). La
+probabilité associée à AR (1) est de 0.054 pour l’ensemble de l’échantillon (22 pays), 0.097 pour
+la zone Franc CFA et 0.050 pour le bloc des 08 pays hors zone Franc CFA. Ces probabilités
+sont toutes inférieures aux seuils de 10%. On conclut dont qu’à ces seuils de significativité,
+il existe une autocorrélation sérielle d’ordre 1 des résidus dans nos trois (03) blocs. On passe
+dans ce cas au test d’autocorrélation d’ordre 2 des résidus qui est la seconde étape du test
+d’Arellano et Bond (1991). Pour cette phase, les hypothèses suivantes sont formulées : H0 :
+absence d’autocorrélation d’ordre 2 des résidus et H1 : présence d’autocorrélation d’ordre 2 des
+résidus. Il faut pouvoir accepter l’hypothèse nulle et rejeter l’hypothèse alternative. Il est donc
+nécessaire que la p-value soit supérieure au seuil considéré (p-value > α%). D’après les résultats
+obtenus, la probabilité adjointe à AR (2) est de 0.209 pour l’ensemble de l’échantillon (22 pays),
+0.305 pour la zone Franc CFA, et 0.154 pour le bloc des 08 pays hors zone Franc CFA. Ces
+probabilités sont largement supérieures aux niveaux de signification différents (1%, 5% et 10%).
+Alors, nous rejetons l’hypothèse alternative d’autocorrélation de second ordre des résidus.
+43
+
+--- Page 45 ---
+S’agissant des tests de suridentification de Sargan/Hansen, on a les hypothèses suivantes :
+H0 : les instruments sont valides et H1 : les instruments ne sont pas valides. Si la probabilité
+du test est supérieure aux différents seuils critiques (1%, 5% et 10%), alors on accepte l’hypo-
+thèse nulle de la validité des variables retardées comme instruments. Les résultats des tests de
+Sargan/Hansen donnent une p-value de 0.042/1.000 pour l’ensemble de l’échantillon (22 pays),
+0.371/1.000 pour la zone Franc CFA et 0.123/1.000 pour le bloc des 08 pays hors zone Franc
+CFA. Ces probabilités sont au-dessus36 de 1%, 5% et 10%. On conclut donc que les variables
+retardées sont valides en tant qu’instruments, en d’autres termes, les instruments du modèle
+sont bien choisis, il n’y a ni suridentification, ni sous identification des instruments du modèle.
+La statistique de Wald en ce qui la concerne permet de vérifier si le modèle final est bien
+spécifié et si les estimations ne sont pas fallacieuses. Pour cela, la probabilité correspondante
+à la valeur du chi-deux dudit test doit être inférieure au seuil de signification considéré. Il est
+donc préférable que l’hypothèse nulle (qui signifierait que tous les coefficients du modèle sont
+nuls) soit rejetée. Les résultats de la statistique de Wald obtenue sont de 0.000 pour l’ensemble
+de l’échantillon (22 pays), 0.000 pour la zone Franc CFA, et 0.000 pour le groupe des 08 pays
+hors zone Franc CFA. Ces probabilités sont inférieures aux degrés de signification de 1% et 5%
+donc, le modèle estimé est globalement significatif.
+Le tableau 5 ci-dessous présente le récapitulatif des tests et résultats de l’impact de la Cré-
+dibilité de la Politique Monétaire sur la croissance économique pour l’ensemble de l’échantillon
+(22 pays), la zone Franc CFA et le groupe des 08 pays hors zone Franc CFA.
+36. LaprobabilitéassociéeautestdeSarganpourlegroupedes22pays(échantillontotal)indiqueque
+l’hypothèse nulle de validité des instruments ne peut être rejetée au seuil de 1% (0.042).
+44
+
+--- Page 46 ---
+Tableau 5 : Récapitulatifs des tests et résultats de l’impact de la Crédibilité de la Politique Monétaire
+sur la croissance économique pour nos 03 blocs.
+Source : Construction des auteurs
+Avec : *, **, *** les significativités respectivement à 10%, 5% et 1%. Les valeurs (...) représentent les
+écarts-types (corrigés par la méthode de Windmeijer dans le cas du System-GMM). Dans les crochets
+[...] nous avons les valeurs des probabilités (P-values). EF : effets fixes avec la p-value et EA : effets
+aléatoires avec la p-value. La variable dépendante est le taux de croissance du PIB réel par tête. Le test de
+Sargan/Hansenestlastatistiquedutestdevaliditédesinstrumentsaveclap-value.LastatistiquedeWald
+vérifie si le modèle final est bien spécifié avec la p-value. AR (1) et AR (2) : statistique d’Arellano-Bond
+du test d’autocorrélation des erreurs respectivement du premier ordre et de second ordre avec la p-value.
+Toutes les variables sont considérées comme endogènes à l’exception de la variable du PIB réel par tête
+retardé qui est considérée comme prédéterminée. GMM : méthodes des moments généralisées.
+45
+
+--- Page 47 ---
+4.1 Implications macro-économiques
+L’intérêt est porté sur les signes et la significativité des variables. Le test de significativité
+des coefficients des variables se fait en utilisant la statistique Z de la loi normale. Les hypothèses
+suivantes sont vérifiées pour chaque coefficient : H0 : β = 0 et H1 : β 6= 0. Cet exercice va se
+i i
+faire pour chaque variable explicative dans nos trois (03) groupes d’étude respectifs.
+Lecoefficientdelavariabledécaléerevenuinitialparhabitant(PIB )estpositifetsignifi-
+i,t−1
+catifà5%,10%et1%pournostrois(03)blocsrespectifs:échantillontotal(22pays)(0.1001251),
+14 pays de la zone Franc CFA (0.0464111) et 08 pays hors zone Franc CFA (0.3857359). Les
+signes de ces coefficients sont donc contraires à celui présagé. Une augmentation d’une unité
+du produit réel initial par habitant entraîne une augmentation de la production de 0.1001251,
+0.0464111 et 0.3857359 fois cette unité au sein de ces groupes respectifs. Ce résultat est
+contraire à celui de Hansen et Tarp (2000), ou encore à celui de Lensink et Morrissey (2001).
+Par ce signe positif l’hypothèse de convergence conditionnelle entre les économies de ces groupes
+de pays n’est pas respectée. Dans ce cas, l’effet de rattrapage à long terme entre les pays de
+notre échantillon total, ceux de la zone Franc CFA et ceux des 08 pays hors zone Franc CFA ne
+pourrait pas se vérifier.
+La crédibilité de la politique monétaire (CPM ) a un impact positif, mais non significatif
+i,t
+dans l’ensemble de l’échantillon (22 pays) (1.251827) et dans le groupe des 08 pays hors zone
+Franc CFA (1.711995). Ceci impliqu’une augmentation d’une unité suppléméntaire de la CPM
+entraine une hausse du PIB respectivement de 1.251827 et 1.711995 fois cette unité dans ces
+deux blocs. Dans le groupe des 14 pays de la zone Franc CFA, cette variable est négative (-
+0.994887) et non significative également. En effet, ce résultat va à l’encontre de l’hypothèse que
+nous nous sommes faite au départ de l’analyse et qui supposait que cette variable aurait un effet
+positif et significatif sur la croissance économique; et ceux malgré des indicateurs de crédibilité
+à majorité élevés, c’est-à-dire compris entre 0.5 point et 1 point sur une longue période, signe
+d’une relative bonne crédibilité en matière de stabilité des prix (voir graphiques 13, 14 et 15
+ci-dessous). Nguena (2012) dans le cas de la CEMAC et Bendahmane (2015) dans le cas de trois
+(03) pays du Maghreb étaient arrivés à des résultats semblables au nôtre. L’on peut affirmer
+que ces résultats inattendus et/ou non significatifs trouvent une explication dans le fait que
+les objectifs de stabilité des prix et de croissance économique sont opposés selon la théorie
+Keynésienne; c’est-à-dire que l’on ne peut mettre sur pied une politique permettant d’aboutir
+simultanément à ses deux objectifs. L’amélioration de l’un entraînant la baisse de l’autre. En
+conséquence,aulieudecontinueràœuvrerdemanièreabsoluepourl’améliorationdelastabilité
+des prix, nous devons relativiser cet objectif au regard de l’évolution des variables réelles dans
+nosgroupesdepays,notammentlacroissanceéconomiquequiresteinsuffisante.D’aprèsNguena
+et Tsafack (2014), cette situation attesterait aussi de l’inadéquation de l’objectif final que les
+autorités monétaires ont attribuées à la politique monétaire relativement à la santé économique
+dublocréel.ParexempledanslazonefrancCFA,lamissionprincipaledesBanquesCentralesest
+orientéeversunobjectifprincipaldestabilitédelamonnaie(externeetinterne).Toutefois,même
+si ces Banques Centrales ont continuellement mis l’accent sur le facteur crédibilité en termes de
+réalisation de l’objectif de stabilité des prix, on peut affirmer à la lumière de nos résultats
+que cet objectif final de politique monétaire n’a aucun lien significatif avec le développement
+économique. Ce qui semble inapproprié du moment où dans toutes les économies du monde, les
+politiques implémentées y compris la politique monétaire ont pour objectif ultime la croissance
+économique.
+En outre, étant donné la prédominance de l’auto investissement et de l’auto consommation
+dans les pays en voie de développement comme c’est le cas en Afrique centrale, il est difficile
+46
+
+--- Page 48 ---
+d’appréhender l’effet de la politique monétaire au secteur réel du fait que la majorité de la
+population n’a pas forcément accès au système financier traditionnel. Nubukpo (2002) considère
+par exemple que les deux principales limites à l’efficacité de la transmission de la politique
+monétaire au secteur réel de l’économie sont les références utilisées dans les contrats financiers
+etlastructuredesbilansfinanciersdesagentséconomiques.Ainsi,latransmissiondelapolitique
+monétairedépenddecertainescaractéristiquesdeséconomiesetenparticulierdeleursstructures
+financières,demême,lastructurespécifiquedesbilansfinanciersdesagentsnonfinancierslimite
+l’influence de la politique monétaire sur l’activité.
+Comptetenudecequiprécède,uneréformeréglementairedelapolitiquemonétaireappliquée
+dans la zone Franc CFA serait donc plausible. Elle devrait s’orienter dans un premier temps à
+consolider le niveau de crédibilité dans l’élaboration de la politique monétaire gage de l’efficacité
+de cette dernière, et en second lieu, à alterner l’objectif principal de stabilité des prix avec
+l’objectif de relance économique en fonction de l’évolution du cycle économique.
+Graphique 13 – Relation CPM et PIB entre 1980 et 2017 pour notre échantillon total.
+Source : Construction des auteurs
+47
+
+--- Page 49 ---
+Graphique 14 – Relation CPM et PIB entre 1980 et 2017 pour la zone Franc CFA.
+Source : Construction des auteurs
+Graphique 15 – Relation CPM et taux d’inflation entre 1980 et 2017 pour notre échantillon total.
+Source : Construction des auteurs
+Toutcomme le revenu initialpar habitant, lecapital humain (CAPHUM ) estune variable
+i,t
+primordiale dans l’explication du taux de PIB par habitant. Son coefficient est négatif et signi-
+ficatif à 10% pour la zone Franc CFA (-0.5056051). La hausse d’une unité du capital humain va
+conduireàunediminutionduPIBde0.5056051foiscetteunitédanscetteZone.Cetteconclusion
+qui est contraire à celle de Barro et Lee (1993) et aux théories développées par Romer (1987)
+et Lucas (1988) identifiant la formation du capital humain et ses externalités comme véritables
+sources de croissance à long terme, est imputable à une répartition inégale et irrationnelle des
+dépenses d’éducation au profit des couches urbaines. Ce résultat peut aussi s’expliquer par l’in-
+efficacité des subventions reversées et des avantages issus des coopérations multilatérales dans
+48
+
+--- Page 50 ---
+le secteur de l’éducation dans cette Zone. Par contre, cette variable est positive et significative à
+10% pour le bloc des 08 pays hors zone Fanc CFA (0.2047272). Pour l’ensemble de l’échantillon
+(22 pays), le capital humain reste négatif et non significatif (-0.1287111).
+L’ouverture commerciale (OUV ) a un coefficient positif et significatif à 1% dans nos 03
+i,t
+groupes : l’échantillon total (0.0802205), les pays de la zone Franc Cfa (0.0913604) et le bloc des
+08 pays hors zone Franc CFA (0.0420234). Il y un effet positif de l’ouverture commerciale sur le
+PIB dans ces groupes de pays. L’augmentation d’une unité supplémentaire du degré d’ouverture
+commercialevafavoriserunaccroissementduPIBde0.0802205,0.0913604et0.0420234foiscette
+unité dans ces blocs respectivement. Ce résultat qui corrobore avec celui de Sachs et Warner
+(1995),etdeNguenaetTsafack(2014)peuts’expliquerpardespolitiquesdedémantèlementdes
+restrictions sur le commerce extérieur qui exerce un effet favorable sur la croissance économique.
+Il apparait que la politique monétaire axée sur le rôle joué par les agrégats nominaux de
+monnaie et de crédit (MAMO ) influence négativement et significativement à 5% le PIB pour
+i,t
+le groupe des 08 pays hors zone Franc CFA (-0.0921693). Ainsi, une augmentation du taux de
+croissance de la masse monétaire d’une unité entrainera une diminution du PIB de 0.0921693
+fois cette unité dans ce groupe. Ce résultat rejoint ceux de Kuipou et al. (2012). En effet, il
+semblerait que le système financier approché par la masse monétaire est peu ou pas développé
+dansleséconomiesdeceblocd’où,soneffetnégatifsurlacroissanceéconomique.Dansl’ensemble
+de l’échatillon (22 pays) et dans les 14 pays de la zone Franc CFA, la masse monétaire reste
+toujours négative (-0.0549998 et -0.0092631) mais cette fois, elle est non significative ce qui
+l’oppose aux résultats des travaux de Levine (2005).
+Le coefficient de la formation brute en capital fixe ou taux d’investissement (FBCF ) est
+i,t
+positif et significatif à 1% et 5% pour l’ensemble de l’échantillon (22 pays) (0.1053506) et pour
+la zone Franc CFA (0.0998862) respectivement. Une hausse d’une unité supplémentaire du taux
+d’investissement entrainera un accroissement du PIB de 0.1053506 et 0.0998862 fois cette unité
+pour ces deux (02) groupes. Ce résultat s’oppose à celui de Fouda (2013) et Ndikeu (2017). Dans
+le bloc des 08 pays hors zone Fran CFA, cette variable est négative (-0.0259477) et non signi-
+ficative. Ce dernier résultat qui est contraire à nos anticipations et aux sentiers de croissance
+économique tels que théorisé par les modèles d’accumulation du capital des entreprises, trouve
+son explication dans les mauvaises allocations des ressources empruntées et les prêts improduc-
+tifs, ou encore le coût élevé du crédit bancaire qui diminue la rentabilité des investissements.
+D’où, une inefficacité globalement faible et instable des investissements.
+L’effet du taux de change (TCHA ) sur la croissance économique est positif mais non
+i,t
+significatif dans nos trois (03) blocs : l’ensemble de l’échantillon (0.0009285), les pays de la
+zone Franc CFA (0.0117618) et les 08 pays hors zone Franc CFA (0.0009042). Une appréciation
+du taux de change d’une unité entrainera une progression du PIB de 0.0009285, 0.0117618 et
+0.0009042 fois cette unité dans ces blocs respectifs. Ces résultats qui sont similaires à celui
+Bamba (2012), s’opposent à ceux de Levy-Yeyati et Sturzenegger (2003), qui utilisent 183 pays
+pour évaluer la relation entre les régimes de change et la croissance de la production pendant
+la période 1974-2000. Ces auteurs trouvent que pour les pays en développement, les régimes de
+changemoinsflexiblessontassociésàunecroissanceplusfaiblealorsquepourlespaysindustriels,
+le régime de change n’a aucun impact sur la croissance. De plus, nos résultats vont dans le sens
+de ceux de De Vita et Kyaw (2011), qui utilisent un panel à effets fixes sur un échantillon de 70
+pays en développement pour la période 1981-2004, et indiquent l’absence d’une relation robuste
+entre le choix du régime de change et la croissance économique, impliquant que dans les pays en
+développement, le choix du régime de change n’a aucun impact direct sur la croissance à long
+terme.
+49
+
+--- Page 51 ---
+Pour finir, la variable développement financier (DEVFI ) est significative à 1% mais de
+i,t
+signe négatif (-0.1978828) dans la zone Franc CFA. Une augmentation d’une unité supplémen-
+taire du développment financier dans cette Zone entrainera une réduction de la croissance de
+0.1978828 fois cette unité. Cette varible reste négative (-0.0629569) et non significative pour
+l’ensemble de l’échantillon (22 pays) et positive (0.0053952) et non significative pour les 08 pays
+hors zone Franc CFA. Ces résultats non significatifs rejoignent donc celui d’Andersen et Trap
+(2003). Selon Lee (1996), l’expansion du secteur financier ne peut être bénéfique à la croissance
+qu’en présence d’autorités de supervision suffisamment expérimentées, capables de gérer à bien
+un tel développement. L’expertise au sein du secteur financier s’acquiert néanmoins via le méca-
+nisme de l’apprentissage parla pratique. Un système financierdoit par conséquent, favoriser une
+meilleure allocation des ressources productives et être suffisamment développé afin de pouvoir
+stimuler la croissance économique.
+Le tableau 6 ci-dessous fait un récapitulatif entre les signes attendus et les signes obtenus
+dans notre analyse.
+Tableau 6 : Tableau de comparaison entre les signes attendus et les signes obtenus.
+Source : Construction des auteurs // Avec : *, **, *** significativité respectivement à 10%, 5% et 1%.
+NB : Le rapport de validation se calcule en prenant l’ensemble des signes significatifs obtenus divisé par
+l’ensemble des signes attendus pour les variables d’interaction.
+4.2 Etude de la robustesse
+Pour étudier la solidité de nos résultats, nous remplaçons notre variable d’intérêt qui est le
+Crédibilité de la Politique Monétaire par un autre indicateur de niveau institutionnel; puisque
+la littérature sur la théorie de la croissance endogène souligne que tout ce qui améliore l’effi-
+cacité économique est bon pour la croissance (Sall, 2016). De ce fait, en accordant un intérêt
+particulier à la démocratie, Barro (1996) fait valoir que les libertés économiques et de petits
+gouvernements qui mettent l’accent sur le maintien des droits de propriété sont souvent consi-
+dérés comme des facteurs qui encouragent la croissance économique. En effet, selon Morchid
+(2010), des institutions efficaces créent un environnement propice à l’accumulation de capital,
+favorisentunajustementplussoupledesressourcesauxchangementsdeconditionsintérieureset
+extérieures et, génèrent de ce fait une croissance plus rapide. De manière particulière, la qualité
+50
+
+--- Page 52 ---
+initiale des institutions est un déterminant susceptible d’influencer la crédibilité de la politique
+économique dans un pays, et par conséquent un préalable son efficacité (Acemoglu et al. 2008).
+Dans la littérature, une meilleure qualité des institutions est favorable à la croissance du re-
+venu par habitant (Acemoglu et al. (2005); Rodrik (2007)). D’ailleurs, Acemoglu et al. (2002)
+montrent à ce titre que la performance économique contemporaine est expliquée par la qualité
+des institutions.
+Dans notre cas, nous introduisons le niveau de démocratie comme indicateur de la qualité
+institutionnelle. La valeur de cet indicateur est comprise entre 1 point et 7 point. Plus on
+se rapproche de la valeur 1 point, plus l’institution est de meilleur qualité. Plusieurs travaux
+montrent qu’une meilleure démocratie a un effet positif sur le PIB par tête (Barro (1996);
+Acemoglu et al., (2016)).
+Après estimations, le tableau 7 ci-dessous nous fait savoir que la variable qualité des insti-
+tutions (QIPR ) est négative et significative à 5% pour l’ensemble de l’échantillon (22 pays)
+i,t
+(-0.8513908) et pour les 08 pays hors zone Franc CFA (-0.3996378). Une augmentation d’une
+unité supplémentaire de la qualité des institutions dans ces groupes entrainera la diminution du
+PIB de 0.8513908 et 0.3996378 unité respectivement. Par contre pour le bloc des 14 pays de la
+zone Franc CFA, cette variable est non significative et de signe négatif (-0.6876084). En effet,
+ces conclusions qui s’opposent à celle de Mijiyawa (2010), démontrent que les institutions dans
+notre échantillon ne sont pas tangibles à la croissance économique et confirment les résultats
+issus du tableau 5 pour la variable crédibilité de la politique monétaire.
+Les graphiques 16, 17, et 18 ci-dessous permettent également une lecture de cette relation
+où paradoxalement, les pays ayant une meilleure qualité des institutions affichent les taux de
+croissance les plus bas de notre échantillon (Afrique du Sud, Sénégal et Bénin); contrairement
+aux pays à faible qualité institutionnelle qui présentent des taux de croissance bien plus élevés
+(Angola, Ethiopie et Guinée Equatoriale) sur la même période.
+51
+
+--- Page 53 ---
+Tableau 7 : Résultats du test de robustesse de l’impact de la qualité des institutions sur la croissance
+économique pour nos 03 blocs.
+Source : Construction des auteurs // Avec : *, **, *** les significativités respectivement à 10%, 5% et
+1%. Les valeurs (...) représentent les écarts-types (corrigés par la méthode de Windmeijer dans le cas du
+System-GMM). Dans les crochets [...] nous avons les valeurs des probabilités (P-values). EF : effets fixes
+avec la p-value et EA : effets aléatoires avec la p-value. La variable dépendante est le taux de croissance
+du PIB réel par tête. Le test de Sargan/Hansen est la statistique du test de validité des instruments avec
+la p-value. La statistique de Wald vérifie si le modèle final est bien spécifié avec la p-value. AR (1) et AR
+(2) : statistique d’Arellano-Bond du test d’autocorrélation des erreurs respectivement du premier ordre et
+de second ordre avec la p-value. Toutes les variables sont considérées comme endogènes à l’exception de
+la variable du PIB réel par tête retardé qui est considérée comme prédéterminée. GMM : méthodes des
+moments généralisées.
+Graphique 16 – Relation qualité des institutions et PIB pour notre échantillon entre 1980 et 2017.
+Source : Construction des auteurs
+52
+
+--- Page 54 ---
+Graphique 17 – Relation qualité des institutions et PIB pour la zone Franc CFA entre 1980 et 2017.
+Source : Construction des auteurs
+Graphique 18 – Relation qualité des institutions et CPM entre 1980 et 2017 pour notre échantillon.
+Source : Construction des auteurs
+Conclusion
+Au terme de plus de deux décennies d’engagement anti-inflationniste, les Banques Centrales
+de l’Afrique Subsaharienne semblent aujourd’hui entrées dans un régime d’inflation bien plus
+bassequ’auparavant.Unetellesituationestgénéralementconsidéréecommebénéfique.Lemain-
+tien de la stabilité des prix sur le moyen/long terme apparait comme la meilleure contribution
+possible de la politique monétaire à une croissance de l’économie durable et non inflationniste.
+53
+
+--- Page 55 ---
+L’article qui s’achève s’est donc donné pour objectif principal d’examiner l’effet de la Crédi-
+bilité de la Politique Monétaire (CPM) sur la croissance économique appliquée à un échantillon
+de pays d’Afrique Subsaharienne entre 1980 et 2017. D’entrée de jeu, nous sommes partis de
+l’hypothèse selon laquelle la crédibilité de la politique monétaire affecte positivement le bloc réel
+et particulièrement la croissance économique. Par la suite, il a été effectué une connexion théo-
+rique et empirique avec la littérature sur la thématique, avant d’illustrer quelques faits stylisés
+spécifiques à notre recherche. Le plan méthodologique nous a imposé le calcul de l’indice de la
+CPM à partir de la formulation d’Argov et al. (2007); indice qui s’est avéré majoritairement
+parfait dans les différents pays de notre échantillon. De manière empirique, à la lumière du mo-
+dèle de base développé par Mankiw et al. (1992), nous avons spécifié le nôtre. L’estimation de
+notre équation de la croissance économique a été faite à l’aide de l’estimateur system-GMM de
+Blundell et Bond (1998) appliqué au données de panel dynamique. Il ressort de notre investi-
+gation économétrique que la crédibilité de la politique monétaire exerce un effet limité et non
+significatifsurl’activitééconomique,dufaitprincipaldel’inefficacitédescanauxdetransmission
+delapolitiquemonétairedansl’ensembledenotreéchantillon(22pays),danslazoneFrancCFA
+(14 pays) et dans le groupe des 08 pays hors zone Franc CFA. Le mécanisme de transmission de
+la politique monétaire en Afrique subsaharienne est extrêmement aléatoire rendant plus difficile
+la conduite de la politique monétaire. L’excès de liquidité, ou encore la faible intégration des
+marchés du crédit limiteraient l’influence des taux directeurs et seraient à l’origine des difficultés
+d’action de la politique sur l’activité économique.
+En guise de recommandation générale, serait particulièrement judicieux de poursuivre des
+réformesvisantl’améliorationdel’efficacitédelapolitiquemonétairetantauniveaudesBanques
+Centrales (redynamisation du marché interbancaire, mise en place des centrales d’information
+financières,résorberlaliquiditédesbanques,encouragerl’octroiducréditàmoyenetlongterme,
+promouvoir l’émission de titres etc?) qu’au niveau des Etats en Afrique Subsaharienne (climat
+des affaires, bonne gouvernance, accélération du commerce intra régional, développer le marché
+financier, etc...). Toujours dans le même sens, nous dirons qu’il est économiquement rationnel
+de réformer les institutions dans les pays en développement, si d’une part, les institutions jouent
+un rôle dans la soutenabilité de la croissance, qui est la condition nécessaire pour la réduction
+de la pauvreté et le développement économique; et si d’autre part, les bénéfices de long terme
+l’emportent sur les coûts induits de la démocratie à court terme. Enfin, nous suggérons la
+promotion d’une politique monétaire orientée principalement vers l’amélioration de la croissance
+économique, mais sans toutefois porter préjudice de la contrainte de stabilité des prix.
+54
+
+--- Page 56 ---
+Références
+[1] Abradu-Otoo P. et al. (2003). «An investigation of the transmission mechanisms of mo-
+netary policy in Ghana : A structural vector error correction analysis ». Bank of Ghana
+Working Paper N° 02.
+[2] Acemoglu D. et Johnson S. (2005). «Unbundling institutions». Journal of Political Eco-
+nomy, Vol.113, n°5, pp. 949-995.
+[3] Acemoglu D., Johnson S. et Robinson J. (2002). « Reversal of fortune : geography and
+institutions in the making of the modern world income distribution». Quarterly Journal
+of Economics, Vol.118, n°4, pp.1231-94.
+[4] Acemoglu D., Johnson. S., Querubin P.et Robinson A . (2008). «When does policy reform
+work? The case of Central Bank independence». N B E R , WP -n°14033.
+[5] Acemoglu D., Moscona J. et Robinson J. (2016). «States capacity and American techno-
+logy : Evidence from the 19th Century» . NBER Working paper, n°21932.
+[6] Agénor P. et Taylor P. (1992). « Testing for credibility effects». IMF Staff Papers, 1992,
+Vol. 39; n°3. pp.545-571.
+[7] Agénor P. et Taylor P. (1993). «Analysing credibility in high-inflation countries : a new
+approach». The Economic Journal, 1993; Vol. 103, pp.329-336.
+[8] AgliettaM.(2000).Macroéconomiefinancière.SecondeEdition;LaDécouverte,Collection
+Repères.
+[9] AguirA.(2016).Stabilité, croissance économique et ciblage d’inflation.ThèsedeDoctorat
+en Economies et Finances; Université de Grenoble Alpes, 2016.
+[10] Allegret P., Ayadi M. et Haouaoui L. (2006). » Un modèle de choix de régime de change :
+aspectsthéoriquesetanalyseempirique˙CommunicationauColloque:«Intégrationfinan-
+cière internationale, régimes monétaires et stabilisation macroéconomique », Hammamet,
+Tunisie, Mai 2006.
+[11] Aloui C. et Sassi H. (2005). « Régime de change et croissance économique : une investi-
+gation empirique». Economie Internationale, CEPII research center, issue n°4 pp.97-134.
+[12] Andersen T. et Trap F. (2003). «Financial liberalization, financial development and eco-
+nomic growth in LDCs». Journal of International Development, Vol. 15, n°2, pp.189-209.
+[13] Anderson W. et Hsiao C. (1982). «Formulation and estimation of dynamic models using
+panel data». Journal of Econometrics; n°18(1), pp.47-82.
+[14] Arellano M. et Bond S. (1991). «Some tests of specification for panel data : Monte Carlo
+evidenceandapplicationtoemploymentequations».ReviewofEconomicStudies;n°59(3).
+[15] Arellano M. et Bover O. (1995). « Another look at the instrumental variable estimation
+of error-components models». Journal of Econometrics; n°68(1), pp.29-51.
+[16] Arestis P., Demetriades P. et Luintel K. (2001). « Financial development and economic
+growth:Theroleofstockmarkets».Journal of Money, Credit, and Banking,33:pp.16-41.
+[17] Argov E., Epstein N., Laxton D., Karam P. et Rose D. (2007). « Endogenous monetary
+policy credibility in a small macro model of Israel». IMF Working paper, WP/07/207.
+[18] Aurel-Level (2001). «Courbe des taux : une histoire de crédibilité de Banque Centrale».
+Point de conjoncture - 7 Juin 2001.
+[19] Ba A. (2015). Les déterminants de la crédibilité et de la réputation des Banques Centrales
+et de la politique monétaire : une analyse de la littérature et une application aux pays en
+développement.ThèsedeDoctoratenScienceEconomie.UniversitédeToulon.Laboratoire
+d’Economie Appliqué au Développement (LEAD). Novembre 2015.
+55
+
+--- Page 57 ---
+[20] Bailliu J., Lafrance R. et Perrault J-F. (2001). « Régimes de change et croissance éco-
+nomique dans les marchés émergents». In : Les taux de change flottants : une nouvelle
+analyse; actes d’un colloque tenu à la Banque du Canada, Novembre 2000, Banque du
+Canada, Ottawa - pp.347-377.
+[21] Balestra P. et Nerlove M. (1966). « Pooling cross-section and time series data in the
+estimationofadynamicmodel:thedemandfornaturalgas».Econometrica;n°34,pp.585-
+612.
+[22] Ball l. (1998). «Policy rules for open economies». Nber working paper; pp.67-60, Octobre.
+[23] Bamba K. (2012). « Régime de change et croissance économique : cas des pays de la
+Communauté Economique des Etats de l’Afrique de l’Ouest (CEDEAO)». Conférence
+Economique Africaine Kigali, Rwanda 30 Octobre au 02 Novembre 2012 promouvoir un
+développement inclusif et durable en Afrique dans une période d’incertitude pour l’écono-
+mie mondiale.
+[24] Barro R (1991). «Economic growth in a cross section of countries». Quarterly Journal of
+Economics, Vol. 151, pp.407-443.
+[25] Barro R. (1997). «Determinants of economic growth : a Cross-Country Empirical Study».
+Development Discussion paper n° 579, Harvard Institute for International Development.
+[26] Barro R. et Gordon D. (1983). «Rules, discretion and reputation in a model of monetary
+policy». Journal of Monetary Economics; Vol. 12 July, pp. 101-122.
+[27] Barro R et Lee (1993). « Economic growth in a cross section of countries». Quarterly
+Journal of Economics, n° 106, pp.407-433.
+[28] Barro R., Sala-I-Martin X. (1995). « Economic growth. Advanced Series in Economics»,
+n°539 New York; London and Montreal : McGraw-Hill .
+[29] Barro R. (1996). «Determinants of economic growth : A cross-country empirical study».
+NBER working paper, N°5698, August.
+[30] Barro R. (1995). «Inflation and growth» . NBER Working Paper , n° 5326.
+[31] Barro R. (1996). « Inflation and growth». Federal Reserve Bank of St. Louis Review,
+May/June 1996.
+[32] Bastidon C., Brasseul J. et Gilles P. (2010). Histoire de la globalisation financière : es-
+sor, crises et perspectives des marchés financiers internationaux. Paris, Armand Colin,
+coll.?U?.
+[33] Bastidon C. et Gilles P. (2014). « Central Banking since the eighties the European debt
+crisis : causes, consequences, measures and remedies». Chapter Eight in A. Ari (ed.),
+Newcastle, Cambridge Scholars Publishing, pp.195-215.
+[34] Baxter M. (1985). «The role of expectations in stabilization policy». Journal of Monetary
+Economics, 1985; Vol. 15, pp.343-362.
+[35] Béah Y. (2015). Politique budgétaire dans l’UEMOA : soutenabilité de la dette et pers-
+pectives de financement. Thèse de Doctorat en Sciences Economiques / macroéconomie.
+Université François Rabelais de Tours, 30 Janvier 2015.
+[36] Bean C., Paustian M., Penalver A. et Taylor T (2010). «Monetary policy after the fall» .
+Presented at the Federal Reserve Bank of Kansas City- Annual Conference, Jackson Hole,
+Wyoming, 28 August 2010.
+[37] Bendahmane M. (2015). Politiques monétaires monétaire et croissance économique dans
+les pays du Maghreb. Thèse de Doctorat options Finance; Université Abou Bekr Belkaid;
+Tlemen, Algerie.
+[38] BergA.,CharryL.,PortilloR.etVlcekJ.(2013).«Themonetarytransmissionmechanism
+in the tropics : a narrative approach». IMF Working Paper, September 2013, WP/13/197.
+56
+
+--- Page 58 ---
+[39] Bernanke B. S. et Blinder A. S. (1992). « The federal funds rate and the channels of
+monetary transmission». American Economic Review, n°82, pp.901-921.
+[40] Besson J-L. (1993). Monnaie et finance. L’économie en plus, 1993.
+[41] Bikai J. L et Essiane P-N (2017). «Politique monétaire, stabilité monétaire et croissance
+économique dans la CEMAC : Une approche SVAR bayésienne». BEAC Working Paper -
+BWP N° 08/17.
+[42] Bikai J. L. et Kenkouo G-A. (2015). «Analyse et évaluation des canaux de transmission
+de la politique monétaire dans la CEMAC : Une approche SVAR et SPVAR». BEAC
+Working Paper, BWPN° 02/15.
+[43] Blanchard O. (1984). «The Lucas critique and the Volcker deflation». National Bureau of
+Economic Research Working Papers, 1984; NBER WP n°. 1326.
+[44] Bleaney M. et Fielding D. (2000). «Exchange rate regimes, inflation and output volatility
+in developing countries». CREDIT research paper?n°.99/4, University of Nottingham.
+[45] Blinder S., (2000). « Central-Bank credibility : why do we care? how do we build it?».
+American Economic Review, n°90 (5), Décembre 2000.
+[46] Blundell R. et Bond S. (1998). « Initial conditions and moment restrictions in dynamic
+panel data models». Journal of Econometrics; n°87(1), pp.115-143.
+[47] Blundell R. et Bond S. (2000). «GMM estimation with persistent panel data : an appli-
+cation to production functions». Econometric Reviews; n°19(3), pp.321-340.
+[48] Bodea C. (2010). «The political economy of fixed exchange rate regimes : the experience
+of post-communist countries». European Journal of Political Economy; n°26, pp. 248-264.
+[49] Bomfim A. et Rudebusch G. (2000). « Opportunistic and deliberate disinflation under
+imperfect credibility». Journal of Money, Credit and Banking; n°32(4), pp.707-721.
+[50] Bordo M. et Orphanides A. (2013). The great inflation : the rebirth of modern Central
+Banking. University of Chicago Press.
+[51] Borio C.et Lowe P (2002). «Asset prices, financial and monetary stability : exploring the
+Nexus». BIS Working Paper n°.114, (Basel : Bank of International Settlements).
+[52] Brahim M. et Zouari-Ghobel S. (2013). « L’approche de la crédibilité de la politique
+monétaire et règles de conduite : controverses théoriques». Revue congolaise d’Economie;
+Juin 2013. Vol. 8, n°2 pp.14-33.
+[53] Calvo A. (1978). « On the time consistency of optimal policy in a monetary economy».
+Econometrica; n°46 (6), pp.1411-1428.
+[54] Carré E. et Le Heron E. (2006). « Credibility versus confidence in monetary policy». in
+R. Wray et M. Forstater (eds); Money, Financial Instability and Stabilization Policy,
+Aldershot : Edward Elgar, Chapter 4, pp.58-84.
+[55] Castelnuovo E., Nicoletti Altimari S. et Rodriguez-Palenzuela D. (2003). « Definition of
+price stability, range and point inflation targets : the anchoring of long-term inflation
+expectations». BCE, Mai, (www.ecb.int).
+[56] Cecchetti S. et Krause S. (2002). «Central Bank structure, policy efficiency, and macroe-
+conomic performance : exploring empirical relationships». Federal Reserve Bank of St.
+Louis Review n° (84), pp.99-117.
+[57] Cheng K. C. (2006). « A VAR analysis of Kenya’s monetary policy transmission mecha-
+nism:HowdoestheCentralBank’sREPOrateaffecttheeconomy».IMF Working Paper,
+N° 06/300, (Washington : International Monetary Fund).
+[58] Chevallier A. et Le Goff M. (2014). L’Afrique subsaharienne après quinze années de crois-
+sance. Éditions La Découverte, collection Repères, Paris, 2014.
+57
+
+--- Page 59 ---
+[59] Christensen M. (1987). «Disinflation, credibility and price inertia : a Danish exposition».
+Applied Economics, (1987), Vol. 19; n°10, pp.1353-1366.
+[60] Christensen M. (2000). « On interest rate determination, testing for credibilitiy policy
+and the relevance of Lucas critique». European Journal of Political Economy. Vol. 3, p.
+369-388.
+[61] Chtourou N. (2004). Inefficience institutionnelle et performance sociale. Dans Restau-
+ration du rôle de l’Etat dans le développement économique, Ouvrage Collectif, Editions
+PUBLISUD, Paris.
+[62] Clarida R., Gali J. et Gertler M. (1999). « The science of monetary policy : a new Key-
+nesian perspective». Journal of economic litterature, n°37, December 1999.
+[63] CollierP.etGunninG.(1999).«WhyhasAfricagrownslowly?»TheJournalofEconomic
+Perspectives, pp.3-22.
+[64] Collins S. et Bosworth (1996). « Economic growth in East Asia : accumulation versus,
+similation». Brookings Papers in Economic Activity; n°2, pp.135-203.
+[65] CoulibalyI.etDavisJ.(2013).«Exchangerateregimesandeconomicperformance:Does
+CFAZonemembershipbenefittheireconomies?»UniversityLibraryofMunich,Germany.
+[66] Creel J. et fayolle J. (2000). « La Banque Centrale et l’Union Monétaire Européennes :
+les tribulations de la crédibilité». Département des études de l’OFCE, 2000.
+[67] Cukierman A. (1992). « Central Bank strategies, credibility, and independence : theory
+and evidence». Cambridge, Massachusetts : The MIT Press.
+[68] De Mendoça F., De Guimarães et De Souza J. (2009). « Inflation targeting credibility
+and reputation : the consequences for the interest rate». Economic Modelling n°26(6),
+pp.1228-1238.
+[69] De Mendonça F. (2004). «Mensurando a credibilidade do regime de metas inflacionárias
+no Brasil [Measuring the credibility of Brazil’s inflation-targeting regime]». Rev. Econ.
+Política [Rev. Pol. Econ.] n° 24(3), pp.344-350.
+[70] De Mendonça F. et Souza J. (2009). «Inflation targeting credibility and reputation : the
+consequences for the interest rate». Econ. Model. n°26, pp.1228-1238.
+[71] De Vita G. et Kyaw K. (2011). « Does the choice of exchange rate regime affect the
+economicgrowthofdevelopingcountries».Journal of Developing Areas,n°45(1);pp.135-
+153.
+[72] Demir B. et Yigit M. (2008). «Announcements and credibility under inflation targeting».
+Economics Letters, n°100 (2); pp.249-253.
+[73] Devarajan S. et De Melo J. (1991). « Membership in the CFA Zone : Odyssean journey
+or Trojan horse?» In A. Chhibber and S. Fisher (eds.), Economic Reform in Sub-Saharan
+Africa. Washington DC : World Bank, pp.25-33.
+[74] Diagne A. et Doucouré F. (2000). «Les canaux de transmission de la politique monétaire
+dans les pays de l’UMOA». Document de recherche du CREA 01/10/EM.
+[75] DiawA.etTadenyo(2012)Y.«Lesmécanismesdetransmissiondelapolitiquemonétaire
+des Banques Centrales des Etats de l’Afrique de l’Ouest et du Cap-Vert». Etude réalisée
+pour l’Agence Monétaire de l’Afrique de l’Ouest (AMAO).
+[76] Domack (2001). « Does the exchange rate regime affect macroeconomic performance?
+Evidence from transition economies». World Bank policy research working paper n°2642.
+[77] Drazen A. (2000). Political economy in macro economics. Princeton, Princeton University
+Press.
+[78] Drumetz F. et Verdelhan A. (1997). «Règle de taylor, presentation, application, limites».
+Bulletin de la Banque de France; n°45, pp.81-87.
+58
+
+--- Page 60 ---
+[79] Dufort J. et Murray F. (2004). «Impact de l’appréciation du taux de change sur la crois-
+sance des exportations et du PIB du Québec». Direction de l’analyse des relations écono-
+miques extérieures, pp.46.
+[80] Dumitrescu E. et Hurlin C. (2012). «Testing for Granger non causality in heterogeneous
+panels». Economic Modelling; n°29; pp.1450-1460.
+[81] EdwardsS.(1992).«Exchangeratesasnominalanchors».NBER Working Paper;n°4246,
+December.
+[82] Edwards S. et Savastano A. (1999). «Exchange rates in emerging economics : what do we
+know? what do we need to know?» (n°7228). National Bureau of Economic Research.
+[83] Ekomie J. (2001). «Banque Centrale et crédibilité (le cas de zone franc Africaine)». Revue
+du L.E.A., Vol.2, Numéros 1.
+[84] Elbadawi I. et Majd N. (1996). « Adjustment and economic performance under a fixed
+exchange rate : a comparative analysis of the CFA zone». World Development, n°24(5),
+pp.939-951.
+[85] FERDI (2012). Evaluation des gains attendus de l’intégration économique régionale dans
+les pays africains de la zone Franc. Rapport préparé à la demande des Ministres des Fi-
+nances de la zone Franc, Site WEB FERDI.
+[86] FMI (2017). Perspectives économiques régionales pour l’Afrique Subsaharienne.
+[87] Fouda E. (2013). « Politique monétaire et croissance économique en zone CEMAC : une
+approche en données de panel». Banque Africaine de Développement, WP.
+[88] Friedman M. (1968). « The role of monetary policy». American Economic Review, n°58,
+March, pp. 1-17.
+[89] Gerlach-Kristen.(2003).«Whotargetsinflationexplicitly?»European Economic Review;
+n°43(7), pp.1257-1277.
+[90] GhoshA.,GuldeM.etWolfH.(1995).«Doesthenominalexchangerateregimematter?»
+IMF Working Papers 95/121.
+[91] Ghosh A., Gulde M. et Wolf H. (1997). « Does the nominal exchange rate regime mat-
+ter?».NBER working paper n° 5874.
+[92] GhoshA.,GuldeM.etWolfH.(2008).«MonetaryUnioninCentralandWesternAfrica».
+Journal of Financial Transformation, n°20, pp.175-189.
+[93] Ghosh A., Ostry D. et Sangarides H. (2010). «Exchange rate regimes and the stability of
+the international monetary system». IMF Occasional Paper; n°270.
+[94] Gilles P. et Bastidon C (2012). « The evolution of Central Banking over the last three
+decades».Keynotespeaker,CentreofEuropeanStudies(CES)annualinternationalconfe-
+rence : European debt crisis CES, Kirklareli University, Kirklareli (Turkey),17-18 May.
+[95] Goodfriend M. (1993). «Interest rate policy and the inflation scare problem». Economic
+Quarterly; Federal Reserve Bank of Richmond, Vol. 79, Winter, pp.1-24.
+[96] GuillaumontJS.etGuillaumontP.(2017).«QuelavenirpourlesfrancsCFA?»Fondation
+pour les Etudes et Recherches sur le Développement International (FERDI); Working
+Paper. Mai 2017.
+[97] Guissé O. (2016). Effets de l’endettement public sur la croissance économique en présence
+de Non Linéarité : cas des pays de l’Union Économique et Monétaire Ouest Africaine.
+Thèse de Doctorat en Sciences Economiques-Université D’orléans, Avril 2016.
+[98] Gürkaynak R., Levin A. et Swanson E. (2010). « Does inflation targeting anchor long-
+run inflation expectations? evidence from long-term bond yields in the U.S., U.K., and
+Sweden». Journal of the European Economic Association n°8(6), pp.1208-1242.
+59
+
+--- Page 61 ---
+[99] Hansen H. et Tarp F. (2000). « Aid and growth regressions». Journal of Development
+Economics, vol. 64, n°2.
+[100] HausmanA.(1978).«Specificationtestineconometrics».Econometrica,n°46(5),pp.1251-
+1272.
+[101] Hnatkovska V. et Loayza N. (2003). « Volatility and growth». Policy Research Working
+Papers Series; n° 3184; The World Bank.
+[102] Holtz-Eakin, Newey W. et Rosen, H. (1988). « Estimating vector autoregressions with
+panel data». Econometrica; n°56(6), pp.1371-1395.
+[103] Honohan P. (1990). « Monetary cooperation in the CFA Zone». PRE Working Paper
+Series n°389, Washington D C; the World Bank.
+[104] Hurlin C. (2004). « Testing granger causality in heterogeneous panel data models with
+fixed coefficients». Document de recherche LEO.
+[105] Johnson R. (1997). «Expected inflation in Canada 1988-1995 : an evaluation of Bank of
+Canada»
+[106] JohnsonR.(2002).«Theeffectofinflationtargetingonthebehaviorofexpectedinflation:
+evidence from an 11 country panel». Journal of Monetary Economics n°49(8), pp.1521-
+1538.
+[107] Johnson R. (2003). « The effect of inflation targets on the level of expected inflation in
+five countries». Review of Economics and Statistics; n°85(4), pp.1076-1081.
+[108] Johnson. R. (1995). « La crédibilité de la politique monétaire : analyses des résultats
+d’enquêtes menées sur l’inflation attendue des divers pays». Colloque tenu à la Banque du
+Canada en Mai 1995, Ottawa, Banque du Canada.
+[109] Kamgna S. Y. et Ndambedia H. (2008). «Excess liquidity and monetary policy effective-
+ness : The case of CEMAC countries». MPRA Paper N° 9599.
+[110] KarfakisC.,SidiropoulosM.etTrabelsiJ.(2000).«Testingthecredibilityofstabilization
+programmes : evidence from Greece». International Journal of Finance and Economics,
+2000-Vol. 5, pp.165-173.
+[111] KeneckJ.,KablanetBikaiL(2017).«LamaturitédesBanquesCentralesinfluence-t-elle
+les performances économiques?» BEAC Working Paper n°/2017.
+[112] King G. et Levine R. (1993). «Finance and growth : Schumpeter might be right». Quar-
+terly Journal of Economics, n° 108, pp.717-737.
+[113] Klau M. (1998). «Exchange rate regimes and inflation and output in Sub-Saharan Coun-
+tries». BIS Working Paper n°53, March.
+[114] Klein M. et Shambaugh C. (2010). Exchange rate regimes in the modern Era. The MIT
+Press Cambridge, Massachusetts London, England.
+[115] Kremers M. (1990). «Gaining policy credibility for a disinflation-Ireland’s experience in
+the EMS». IMF Staff Papers, 1990, Vol. 37; n°1, pp. 116-141.
+[116] Kuipou C., Nembot L. et Tafah O. (2015). «Développement financier et croissance éco-
+nomique dans les pays africains de la Zone Franc : le rôle de la gouvernance». European
+Scientific Journal February; 2015 edition, Vol.11, n°.4 ISSN : 1857-7881 (Print)e- ISSN
+1857-7431.
+[117] Kuipou C., Nembot L et Tafah O. (2012). «Financial development and economic growth
+in CEMAC Countries». Global Journal of Management and Business Research, volume
+XII version 1; pp.8-25
+[118] Kwangyong P. (2016). « Central Bank credibility and monetary policy. Department of
+Economics For Jordan River Conference submission». April n°21, 2016.
+60
+
+--- Page 62 ---
+[119] Kydland F. et Prescott E. (1977). « Rules rather than discretion : the inconsistency of
+optimal plans». Journal of Political Economy, n° 85, pp.473-491.
+[120] LaxtonD.,RoseA.etN’DiayeP.(2002).«Monetarypolicycredibilityandtheunemployment-
+inflationtrade-off:someevidencefor17industrialcountries».IMFWorkingPaper,n°02/220,
+December.
+[121] LeeC.etWongS(2005).«In?ationarythresholdeffectsintherelationshipbetween?nan-
+cial development and economic growth : evidence from Taiwan and Japan». Journal of
+economic development, Volume n° 30, Number 1, June.
+[122] Lee J. (1996). «Financial development by learning». Journal of Development Economics,
+Vol. 50, n°1, pp.147-164.
+[123] Lensink R. et Morrissey O. (2001). «Aid instability as a measure of uncertainty and the
+positive impact of aid on growth». Journal of Development Studies, vol.36.
+[124] Levin A., Natalucci F. et Piger J. (2004). «The macroeconomic effects of inflation targe-
+ting». Federal Reserve Bank of St. Louis Review; n°86(4), pp.51-80.
+[125] Levine R.(2005). «Finance and growth : theory and evidence». In Handbook of Economic
+Growth,ed. Phillipe Aghion and Steven Durlauf. The Netherlands : Elsevier Science.
+[126] Levy-Yeyati, E. et F. Sturzenegger (2003). « To float or to fix : Evidence on the im-
+pact of exchange rate regimes on growth». The American Economic Review, Vol. 93, n°4
+September, pp. 1173-1193.
+[127] Loisel O. (2006). «La crédibilité de la politique monétaire dans une perspective néokey-
+nésienne». Bulletin de la Banque de France; n°149, Mai, pp.21-32.
+[128] Lucas R. (1972). « Expectations and the neutrality of money». Journal of Economic
+Theory, n°4, pp. 103-124.
+[129] Lucotte Y. (2012). Etudes des interactions entre les stratégies de ciblage d’inflation et
+leur contexte institutionnel : application aux économies émergentes. Thèse de Doctorat en
+Science Economique soutenue le : 11 Décembre 2012. Université d’Orléans.
+[130] Maddison A. (1995). Monetoring the world economy. Paris : OECD.
+[131] Mankiw G., Miron A. et Weil N. (1987). « The adjustment of expectations to a change
+in regime : a study of the founding of the Federal Reserve. National Bureau of Economic
+Research Working Papers, 1987; NBER WP n°.2124.
+[132] Mankiw G., Romer D. et Weil N. (1992). « A contribution to the empirics of economic
+growth». Quarterly Journal of Economics. Vol. 107, Issue n°2, pp.407-437.
+[133] Mba F., Kamajou F et Ngouhouo N. (2014). «Politique monétaire, stabilité des prix et
+développement de l’activité économique en zone CEMAC». European Scientific Journal.
+Décember 2014; vol 10, n°34, pp.4-10.
+[134] McCallumT.(1993).«Discretionversusrulesinpractice,twocriticalpointsacomment».
+Carnegie rochester Conference series on public policy; n°39, pp.215-220.
+[135] Mesonnier J. (2004). «Le paradoxe de la crédibilité en question». Bulletin de la Banque
+de France.
+[136] Metropolis N. et Ulam S. (1949). «The Monte Carlo Method». Journal of the American
+Statistical Association, n°44 (247), pp.335-341.
+[137] Mijiyawa G (2010). Institutions et développement : analyse des effets macroéconomiques
+des institutions et de réformes institutionnelles dans les pays en développement. Thèse
+de Doctorat Université D’auvergne-Clermont I, Faculté de Sciences Économiques et de
+Gestion; Mai 2010.
+[138] Miniaoui H. et Smida M. (2008). «Crédibilité des autorités monétaires et transparence :
+Quelle complémentarité dans le cas de la Tunisie? une contribution au débat». L’actualité
+économique; Vol. 84, n°2, 2008, pp. 205-234.
+61
+
+--- Page 63 ---
+[139] Mishkin S. (1997). «Strategies for controlling inflation». Nber Working Paper, pp.61-22,
+Aout.
+[140] Mishkin S. (2000). « Inflation targeting in emerging market countries». NBER Working
+Paper n°. 7618. National Bureau of Economic Research.
+[141] Mishkin S. (2010). Monnaie, banque et marches financiers. 9ième édition, Adaptation de
+Christian Bordes, Pierre-Cyrille Hautcoeur et Dominique Lacoue-Labarthe.
+[142] Mishra P., Montiel P. et Spilimbergo A. (2010). « Monetary transmission in low-income
+countries». IMF Working Paper, WP/10/223.
+[143] MorchidB.(2010).Laqualitédesinstitutionsconstitue-t-elleunebarrièreàlarelanceéco-
+nomique? Application à un échantillon de pays africains.ConférenceGuyMhone,Thème:
+La renaissance et la relance des économies africaines, Dar es Salaam, Tanzanie.
+[144] Moreno R. (2000). « Pegging and macroeconomic performance in East Asia». ASEAN
+Economic Bulletin; n°18(1), pp.48-63.
+[145] Moreno R. (2001). «Pegging and stabilization policy in developing countries». Economic
+Review of the Federal Reserve Bank of San Francisco; n°12(99), pp.17-29.
+[146] Mvondo T. (2016). « Pour un horizon optimal de la cible d’inflation dans la CEMAC».
+BEAC. Working paper - BWP n° 01/16.
+[147] Ndikeu N. (2017). Corruption et croissance économique au Cameroun : De l’effet direct
+et des effets indirects à travers la répartition des dépenses publiques. Thèse de Doctorat
+en Sciences Economiques-Université de Rennes 2-Juin 2017.
+[148] Ngniado Nognou E (2016). Incertitude et mise en oeuvre de la politique monétaire dans
+la CEMAC. Thèse de Doctorat en Economies et finances. Université de Bordeaux, 2016.
+[149] Nguena C. (2012). « Price stability objectives and economic growth : a panel data eco-
+nometrics empirical investigation for selected CEMAC countries». University of Yaoundé
+2-CEREG 8. February 2012 Online at http ://mpra.ub.uni-muenchen.de/49412/ MPRA
+Paper n°. 49412, posted 1. September 2013 17 : 42 UTC.
+[150] Nguena C. (2013). «Objectif de stabilité des prix et croissance économique en zone CE-
+MAC : une approche en données de panel». MPRA Paper n°. 49412. September 2013.
+Centre d’Etude et de Recherche en Economie et Gestion (CEREG).
+[151] NguenaC.etTsafackR.(2014).«Importancedespolitiquesfinancièresdanslacroissance
+économique en zone CEMAC : une approche en données de panel». AAYE PR Working
+Paper Series, n° 08, Association of African Young Economists; October 2014.
+[152] Nickel J. (1981). «Biases in dynamic models with fixed effects». Econometrica; n°49(6),
+pp.1417-1426.
+[153] North C. (1994). « Economic performance through Time». American Economic Review
+84, n°.3 (June, 1994) : pp.359-367.
+[154] NubukpoK.(2002).«L’impactdelavariationdestauxd’intérêtdirecteursdelaBCEAO
+sur l’inflation et la croissance dans l’UMOA». Note d’information et Statistiques, Série -
+Etudes et Recherches, n° 526-BCEAO.
+[155] Obstfeld M. et Rogoff M. (1995). « Risk and exchange rates». NBER Working Paper;
+August n°66(94), pp1-47.
+[156] Ojo et Oshikoya (1995). « Determinants of long-term growth : some African results».
+Journal of African economies, Vol. 4, n°2, pp164-198.
+[157] Perrier P. et Amano R. (2000). « Crédibilité et politique monétaire». Département des
+recherches Revue De La Banque Du Canada - Printemps 2000 - pp. 11-17.
+[158] PerssonT.etTabelliniG.(1993).«Designinginstitutionsformonetarystability».Carnegie-
+rochester conference series on public policy; n°39, pp.53-84.
+62
+
+--- Page 64 ---
+[159] Pollin P (2008). « De la crise financière à la récession : une lecture « à la Bernanke »».
+Revue d’économie financière, pp.27-35.
+[160] Rodrik D. (2007). «How to save globalization from its cheerleaders». CEPR Discussion
+Papers n°6494.
+[161] Rogoff K. (1985). « Can international monetary policy cooperation be counter produc-
+tive». Journal of International Economics, 18, pp.199-217.
+[162] RogoffK.(2003).«Globalizationandglobaldisinflation».PaperPreparedfortheFederal
+Reserve Bank of Kansas City Conference on monetary policy and uncertainly : adapting
+to a changing economy. Jackson Hole, Wyoming.
+[163] Rogoff K. et Silber A. (1988). «Equilibrium political business cycle». Review of economic
+studies n°55 (1); pp.1-16.
+[164] Romer D. (2004). «Choosing the federal reserve chair : lessons from history». Journal of
+Economic Perspectives; n°18(1), pp.129-162.
+[165] Romer D. et Romer H. (1989). «Does monetary policy matter? a new test in the spirit of
+FriedmanandSchwartz».NationalBureauofEconomicResearchMacroeconomics Annual,
+Cambridge press : MIT.
+[166] Roodman D. (2006). « How to do xtabond2 : an introduction to difference and system
+GMM in Stata». Center for Global Development Working Paper, n°103.
+[167] Roodman D. (2009). « A note on the theme of too many instruments». Oxford Bulletin
+of Economics and Statistics; n°71(1), pp.135-158.
+[168] Rousseau P.et Wachtel P. (2002). «In?ation thresholds and the?nance growth. Nexus».
+Journal of International Money and Finance n° 21. pp.777?793.
+[169] Sachs D. et Warner A. (1995). «Economic reform and the global integration». Brookings
+papers on Economic Activities, Vol. 1- pp1-118.
+[170] Sall K. (2016). Les perspectives de ciblage de l’inflation dans les pays de l’Union Econo-
+mique Monétaire Ouest Africaine (UEMOA).ThèsedeDoctoratenEconomiesetfinances.
+Université d’Orléans, Décembre 2016.
+[171] Sargent T. et Wallace N. (1975). « Rational expectations, the optimal monetary instru-
+mentandtheoptimalmoneysupplyrule».Journal of Political Economy n°83(2),241-254.
+[172] Saxegaard M. (2006). «Excess liquidity and effectiveness of monetary policy : Evidence
+from Sub-saharan africa». IMF Working Paper WP/06/115.
+[173] Schadler S. (1995). « IMF conditionality : experience under stand-by and extended ar-
+rangements». Part II : Background papers, Vol. 129, International Monetary Fund.
+[174] Schnabl G. (2009). «Exchange rate volatility and growth in Emerging Europe and East
+Asia». Open Economics Review, Vol. 20, n° 4, pp. 565-587.
+[175] SicsúJ.,(2002).«Expectativasinflacionáriasnoregimedemetasdeinflação:Umaanálise
+preliminar do caso Brasileiro [Inflation expectations in an inflation-targeting regime : A
+preliminary analysis of the Brazilian case]». Econ. Apl. [Appl. Econ.] n° 6(4), pp.703-711.
+[176] Solow R. (1956). « A contribution to the theory of economic growth». The Quarterly
+Journal of Economics; n°70, pp.65.
+[177] St-Amant P. et Tessier D. (2000). « Résultats empiriques multi-pays relatifs à l’impact
+des cibles d’inflation sur la crédibilité de la politique monétaire». Document de travail
+n°98-23, Banque du Canada.
+[178] Svensson L. (1993). « The simplest test of inflation target credibility». NBER Working
+Paper n°. 4604. National Bureau of Economic Research.
+[179] Svensson L. (2002). «Inflation targeting : should it be modeled as an instrument rule or
+a targeting rule?» European Economic Review, n° 46(4-5), pp.771-780.
+63
+
+--- Page 65 ---
+[180] Swan W. (1956). « Economic growth and capital accumulation». Economic Record, Vol.
+32, n°63, p.334-361.
+[181] Taylor B. (1993). «Discretion versus policy rules in practice». Carnegie- rochester confe-
+rence series on public policy, n°39; pp.195-214.
+[182] Thygesen N. (1995). «Pourquoi la Banque Centrale doit-être independante?» Revue de
+l’OFCE, n°54 (Juillet).
+[183] Tinel B. (2016). «Le fonctionnement des comptes d’opérations et leur rôle dans les rela-
+tions entre la France et les pays africains». Université Paris 1 Panthéon-Sorbonne, Centre
+d’Economie de la Sorbonne -Working Paper.
+[184] Tybout J. (1992). «Credit rationing and investment behavior in a developing country».
+The Review of Economics and Statistics. Vol. 65, n°4, pp.598-607.
+[185] Villa P. (1993). «Règle, discrétion et régime de change en Europe». CEPII, document de
+travail; n°93-Vol.3.
+[186] Weber A. (1991). «EMS credibility, reputationandcredibilityin the European Monetary
+System». Economic Policy, 1991; pp. 57-101.
+[187] Windmeijer F. (2005). « A finite sample correction for the variance of linear efficient
+two-step GMM estimators». Journal of Econometrics; n°126(1), pp.25-51.
+64
+
+--- Page 66 ---
+Annexes
+Annexe 1
+La règle de Taylor originale37
+Depuis le début des années 90, plusieurs travaux économiques se sont développés pour mon-
+trer l’efficacité et la crédibilité des règles activistes. Parmi ces travaux de recherche, on cite
+principalement les travaux de Taylor (1993) qui ont pris naissance à l’introduction de la nou-
+vellerègledeconduitedelapolitiquemonétairedite:«règledeTaylor»,etquisontlespremières
+utilisationséconomiquesdelanotion«règleactiviste»delapolitiquemonétaire.Cedomainede
+recherche a connu par la suite d’autres investigations en cette matière, avec l’apparition d’autres
+recherches récentes pour consolider cette règle.
+Présentation de la règle de Taylor
+La règle de Taylor a été présentée par Taylor en (1993). Elle se situe dans une problématique
+de recherche qui vise la détermination d’une règle « activiste » de politique monétaire, ainsi
+que ses conduits d’insertion dans le processus de décision de la Banque Centrale. Pour certains
+économistes, elle se présente comme une alternative aux actions discrétionnaires des autorités
+monétaires. Elle n’est pas fixée en fonction d’une norme de croissance monétaire, mais ajustée
+par référence à l’évolution des variables endogènes. Sa simple formulation est une relation qui
+relie le taux d’intérêt à court terme contrôlé par la Banque Centrale, à l’inflation et à l’output
+gap. Pour les Etats-Unis entre 1987 et 1992, Taylor présente la règle suivante :
+i = r+π +0,5(π −π0)+0,5y )
+t t t t t
+Taylor constate que cette règle «hypothétique » très simple reproduit assez fidèlement l’évo-
+lution du taux des fonds fédéraux et suppose que la Banque Centrale réagit d’une façon équiva-
+lenteàl’écartdutauxd’inflationetaugapdeproduction.Ilattribueauxparamètresderéaction
+la même valeur 0,5 bien que ces coefficients pourraient se différer dans d’autres Pays.
+Définition des variables
+i : Le taux d’intérêt du fond fédéral directeur de trimestre t;
+t
+r : Le taux d’intérêt réel annuel moyen;
+π : Le taux d’inflation de l’année prévu au trimestre t;
+t
+π0 : Le taux d’inflation cible ou la moyenne d’inflation;
+t
+y : L’output gap; qui est l’écart entre le PIB effectif et la PIB tendanciel;
+t
+π −π0 : L’output gap; qui est l’écart entre le PIB effectif et la PIB tendanciel;
+t t
+Ainsi suivant cette règle de conduite, dont l’objectif est de maintenir la stabilité du niveau
+des prix et de l’output, les autorités monétaires doivent ajuster le niveau du taux d’intérêt à
+court terme chaque fois qu’il y a déviation de l’inflation et/ou l’output par rapport à leurs
+37. D’après Brahmi et Zouari-Ghorbel (2013)
+65
+
+--- Page 67 ---
+niveaux ciblés.
+Y : Le PIB réel;
+Y∗ : Le PIB tendanciel réel ou potentiel dont le taux de croissance est estimé au Etats-Unis
+à 2,2% par an entre (1984T1 et 1992T3);
+Y : 100.(y−y0)/y avec y : -log- du PIB potentiel;
+t t
+Ensebasantsurcesdeuxvariableséconomiquesl’équationinitialepeuts’écrirecommesuit:
+i = r+π +0,5(π −π0)+0,5(y −y0)
+t t t t t t
+r = r0 +π0 +1,5π −0,5π0 +0,5(y −y0)
+t t t t t t t
+r +(π −π0) = r0 +1,5(π −π0)+0,5(y −y0)
+t t t t t t t t
+r +(π −π0)−(π −π ) = r0 +0,5(π −π0)+0,5(y −y0)
+t t t t t t t t t t
+d’où :r = r0 +0,5(π −π0)+0,5(y −y0)
+t t t t t t
+Cette équation traduit le niveau du taux d’intérêt ciblé de court terme déterminé sur la
+base de l’inflation gap, de l’output et du taux d’intérêt d’équilibre r0.Selon cette règle, quand
+t
+l’inflation est égale à sa valeur cible de 2% et que le PIB atteint sa valeur tendancielle, le taux
+d’intérêt réel ou taux neutre (2%) est équivalent au taux de croissance tendanciel de l’économie
+(2,2% sur la période 1984-l992). Ainsi, l’équation initiale peut être exprimée de nouveau comme
+suit :
+i = r+π +0,5(π −π0)+0,5y
+t t t t t
+Ainsi :
+i = 2+π +0,5(π −2)+0,5y
+t t t t
+A la Lumière de cette étude de la règle de Taylor (1993) avec son apport remarquable
+à l’économie en général, quelques faiblesses apparaissent tout de même et seront considérées
+comme un cadre de recherches pour autres études postérieurs comme Svensson (2000), Ball
+(l999), Goldman Sachs (1996) etc.
+Les critiques de la règle de Taylor
+Malgrél’apport-opérationneletdescriptif-delarègledeTayloretsonefficacitéàreprésen-
+ter les comportements de la Banque Centrale américaine, quelques critiques s’adressent à cette
+Règle par divers auteurs en cette matière à savoir : La première critique à travers laquelle les
+coefficients des variables (a = a = 0,5) de l’équation initiale choisie par Taylor, qui reflètent
+1 2
+les coefficients respectifs de l’inflation gap et l’output gap sont tenus sans aucune véritable jus-
+tification. Seulement, Taylor montre que son choix basé sur le fait que le taux d’intérêt observé
+aux Etats-Unis est presque celui qui est calculé. Selon Taylor, cette équation traduit convena-
+blement les directions de l’inflation et de l’output sur la base des coefficients algébriques et les
+données passées de l’économie américaine entre 1987 et 1992. Dans la perspective où ces règles
+66
+
+--- Page 68 ---
+de conduite préservent leurs caractères normatifs et descriptifs, il ait tenu à Taylor (1993) de
+démontrer que les directions suivies par l’inflation et l’output découlant du choix de ces coeffi-
+cients qui sont égaux doivent être optimaux. La deuxième critique adressée par Goldman Sachs
+(1996), dans son rapport « The international Economic analyst ». A la règle initiale de Tay-
+lor (1993), il a montré que l’introduction d’une anticipation d’inflation, puisque l’inflation ciblé
+prend des taux variant selon les phases conjoncturelles, conduit donc à un rapprochement du
+comportement des Banques Centrales qui doivent par conséquent agir à titre préventif. De plus,
+pour décrire la politique de lissage des taux d’intérêt, Goldman Sachs (1996) a montré aussi
+que l’introduction des taux d’intérêts retardés (lissage du taux d’intérêt) permet de réduire la
+volatilité de l’inflation et de l’output et aussi des taux d’intérêt courants. Ainsi Levin, Wieliand
+et Williams (1999) ont constatés que les règles qui sont peu sensibles à l’incertitude, englobent
+l’écartdel’inflationparrapportauxtauxvisés,l’écartdeproductionetletauxd’intérêtretardé.
+Taylor (1993) a ajouté que les règles simples, en particulier la règle de Taylor (1993), se
+comportent bien puisqu’elles sont moins sensibles à l’incertitude inhérente aux modèles que
+les règles complexes. Rudedush et Svensson (1999) et Ball (1999) ont conclu que les règles qui
+incluentuntermedelissagedestauxaboutissentdoncàdesrésultatsmédiocresetmêmeparfois
+instables dans les modèles à attentes adaptives. Pour Hetzel (2000), à travers son apport sur
+la règle simple de Taylor, retire son doute de robustesse en avançant que ces règles simples
+cadrent tout naturellement avec les modèles où l’écart de production est au c?ur du processus
+d’inflation; puisqu’elles mettent l’accent sur le rôle de l’écart de production et de l’inflation
+observé. De même, Alvarez, Lucas et Weber (2001) ont conclu qu’une règle simple peut produire
+des résultats instables dans un modèle où les marchés financiers sont segmentés. Ces auteurs se
+mettent d’accord sur le fait que ces règles simples sont peu robustes en se référant aux marchés
+financiersetlesnombresdefrictionsquiendécoulent.Ilfaudraitdoncêtretrèsprudentsionfait
+recours à une règle de Taylor par les autorités monétaires pour guider leurs décisions, puisque
+le bon modèle ne peut être connu avec certitude.
+67
+
+--- Page 69 ---
+Annexe 2
+Statistiques descriptives pour l’ensemble des variables de notre échantillon
+Source : Calculs des auteurs
+68
+
+--- Page 70 ---
+Annexe 3
+Test de corrélation pour l’ensemble des variables de notre échantillon
+Source : Calculs des auteurs
+Annexe 4
+Test de normalité de Skewness/Kurtosis pour l’ensemble des variables de notre échantillon
+Source : Calculs des auteurs
+69
+
+--- Page 71 ---
+Annexe 5
+Résultats de l’impact de la crédibilité de la politique monétaire sur la croissance économique pour l’en-
+semble de notre échantillon (22 pays)
+Source : Calculs des auteurs
+70
+
+--- Page 72 ---
+Annexe 6
+Résultats de l’impact de la crédibilité de la politique monétaire sur la croissance économique pour l’en-
+semble la zone Franc CFA (14 pays)
+Source : Calculs des auteurs
+71
+
+--- Page 73 ---
+Annexe 7
+Résultats de l’impact de la crédibilité de la politique monétaire sur la croissance économique pour les 08
+pays hors zone Franc CFA de notre échantillon
+Source : Calculs des auteurs
+72
+
+--- Page 74 ---
+Annexe 8
+Résultats de la robustesse de l’impact de la qualité des institutions sur la croissance économique pour
+l’ensemble de notre échantillon (22 pays)
+Source : Calculs des auteurs
+73
+
+--- Page 75 ---
+Annexe 9
+Résultats de la robustesse de l’impact de la qualité des institutions sur la croissance économique pour
+l’ensemble de la zone Franc CFA (14 pays)
+Source : Calculs des auteurs
+74
+
+--- Page 76 ---
+Annexe 10
+Résultats de la robustesse de l’impact de la qualité des institutions sur la croissance économique pour les
+08 pays hors de la zone Franc CFA de notre échantillon
+Source : Calculs des auteurs
+75

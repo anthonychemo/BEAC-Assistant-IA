@@ -1,0 +1,2002 @@
+Source PDF : Tableau_de_bord_du_CPM_de_juillet_2020_-_annexe_au_rapport_de_politique_monétaire_c8998633.pdf
+Chemin original : scraping\beac_data\Publications\Rapport De Politique Monetaire\Tableau_de_bord_du_CPM_de_juillet_2020_-_annexe_au_rapport_de_politique_monétaire_c8998633.pdf
+Date extraction : 15/06/2026 22:57:01
+======================================================================
+
+--- Page 1 ---
+3
+BANQUE DES ETATS DE L’AFRIQUE CENTRALE
+COMITE DE POLITIQUE MONETAIRE
+PRINCIPAUX INDICATEURS
+ECONOMIQUES, MONETAIRES ET
+FINANCIERS DE LA CEMAC
+Version de juillet 2020
+
+--- Page 2 ---
+1
+Liste des tableaux et graphiques
+I. ENVIRONNEMENT INTERNATIONAL ……………………………………………………3……………..
+T1. Taux de croissance réelle des principaux partenaires ……………………………………………4 ………………………..………..
+T2. Cours mondiaux des matières premières ………………………………………………………5……………..………..
+T3. Cours moyens mensuels de l’euro ………………………………………………………………6……..………..
+T4. Taux directeurs des principales banques centrales ………………………………………………7 ……………………..………..
+G1. Taux de croissance réelle des pays industrialisés ………………………………………………4……………………..………..
+G2. Taux de croissance réelle des pays en développement …………………………………………4…………………………..………..
+G3. Cours du pétrole ……………………………………………………………………..………..5
+G4. Cours des produits agricoles d’exportation ……………………………………………………5………………..………..
+G5. Cours des métaux non ferreux …………………………………………………………………5…..………..
+G6. Indice composite des cours des matières premières exportées par la CEMAC …………………5 …………………………………………………..………..
+G7. Cours moyens mensuels de l’euro ………………………………………………………………6……..………..
+G8. Cours moyens mensuels de l’euro (suite) ………………………………………………………6……………..………..
+II. CONJONCTURE ECONOMIQUE SOUS-REGIONALE …………………………………8…………………………………..………..
+T5. Taux de croissance des Etats de la CEMAC ……………………………………………………9………………..………..
+T6. Contributions à la croissance réelle ……………………………………………………………10………..………..
+T7. Principaux produits d’exportation des pays ……………………………………………………11………………..………..
+T8. Taux d’inflation sur les 12 derniers mois ………………………………………………………12……………..………..
+T9. Indice des prix de la CEMAC par fonction de consommation …………………………………13…………………………………..………..
+T10. Contribution des fonctions de consommation à linflation de la CEMAC ………………… 14
+T11. Contribution des pays à l'inflation de la CEMAC ……………………………. 16
+T12. Compétitivité ……………………………………………………………………..……….. 17
+T13. Solde budgétaire, dépenses globales et recettes globales ……………………………………1…8 ……………………………..………..
+T14. Evolution de la dette publique extérieure ……………………………………………………1…9 ……………..………..
+T15. Balance commerciale …………………………………………….……………………………20…………………………………..………..
+T16. Soldes de la balance des paiements …………………………………………….……………2…1 ………………………………………………..………..
+T17. Prévisions du FMI …………………………………………….………………………………23………………………………..………..
+G9. Taux de croissance réelle des Etats de la CEMAC ……………………………………………9.………………………………………………………………..………..
+G10. PIB nominal des Etats de la CEMAC …………………………………………….……………9 …………………………………………………..………..
+G11. Contribution du secteur primaire à la croissance ……………………………………………1.0………………………………………………………………..………..
+G12. Contribution du secteur secondaire à la croissance …………………………………………1…0.………………………………………………………………..………..
+G13. Contribution du secteur tertiaire à la croissance ……………………………………………1.…0 ……………………………………………………………..………..
+G14. Production pétrolière …………………………………………….……………………………11…………………………………..………..
+G15. Production de gaz naturel …………………………………………….………………………11………………………………………..………..
+G16. Production de bois …………………………………………….………………………………11………………………………..………..
+G17. Taux d’inflation en glissement annuel des Etats de la CEMAC ……………………………1…2…………….………………………………………………………………..………..
+G18. Taux d’inflation en glissement annuel des partenaires ………………………………………12…….………………………………………………………………..………..
+G19. Contribution absolue des fonctions de consommation à l'indice des prix à la
+consommation de la CEMAC (en moyenne annuelle) ……………………………………….. 15
+G20. Contribution absolue des fonctions de consommation à l'indice des prix à la
+consommation de la CEMAC (en glissement annuel) ………………………………………. 15
+
+--- Page 3 ---
+2
+G21. Contribution absolue des pays membres de CEMAC à l'indice des prix à la
+consommation (en moyenne annuelle) …………………………………………………….. 16
+G22. Contribution absolue des pays membres de CEMAC à l'indice des prix à la
+consommation (en glissement annuel) ……………………………………………………… 16
+G23. Evolution de l’indice composite du TCER …………………………………………….……1…7 ………………………………………………………..………..
+G24. Solde budgétaire, base engagements, hors dons …………………………………………….1…8……………………………………………………………..………..
+G25. Encours de la dette publique extérieure …………………………………………….………1…9……………………………………………………..………..
+G26. Balance commerciale des Etats de la CEMAC …………………………………………….…20……………………………………………………………..………..
+G27. Solde des transactions courantes des Etats de la CEMAC ……………………………………21……….………………………………………………………………..………..
+G28. Réserves de change des Etats de la CEMAC …………………………………………….…2…2…………………………………………………………..………..
+III. MONNAIE ET MARCHE DES CAPITAUX …………………………………………….…24……………………………………………………………..………..
+T18. CEMAC : Agrégats de monnaie et de crédit …………………………………………….……25…………………………………………………………..………..
+T19. Cameroun : Agrégats de monnaie et de crédit …………………………………………….…2…6 …………………………………………………………..………..
+T20. République Centrafricaine : Agrégats de monnaie et de crédit ………………………………27…………….………………………………………………………………..………..
+T21. Congo : Agrégats de monnaie et de crédit …………………………………………….………28………………………………………………………..………..
+T22. Gabon : Agrégats de monnaie et de crédit …………………………………………….………29………………………………………………………..………..
+T23. Guinée Equatoriale : Agrégats de monnaie et de crédit ………………………………………30…….………………………………………………………………..………..
+T24. Tchad : Agrégats de monnaie et de crédit …………………………………………….………31………………………………………………………..………..
+T25. Evolution des principaux taux directeurs de la BEAC ………………………………………3…2 ….………………………………………………………………..………..
+T26. Evolution des principaux indicateurs de la liquidité …………………………………………33….………………………………………………………………..………..
+T27. Données de base du marché monétaire de la CEMAC ………………………………………3…4 ….………………………………………………………………..………..
+G29. Evolution comparée du TIAO et du taux d’appels d’offre de la BCE ………………………3…2 ………………….………………………………………………………………..………..
+G30. Evolution comparée du TISP et du taux de facilité des dépôts de la BCE ……………………32……………………….………………………………………………………………..………..
+G31. Evolution de la structure des réserves des banques de la CEMAC …………………………3…3……………….………………………………………………………………..………..
+G32. Evolution du volume des injections de liquidité (Guichet A) dans la CEMAC ……………3…4 …………………………….………………………………………………………………..………..
+IV. PRINCIPAUX INDICATEURS ECONOMIQUES ET FINANCIERS …………………3…5……………………….………………………………………………………………..………..
+T28. CEMAC : Principaux indicateurs économiques et financiers ………………………………3…6………….………………………………………………………………..………..
+T29. Cameroun : Principaux indicateurs économiques et financiers ………………………………37…………….………………………………………………………………..………..
+T30. République Centrafricaine : Principaux indicateurs économiques et financiers ……………3…8…………………………….………………………………………………………………..………..
+T31. Congo : Principaux indicateurs économiques et financiers …………………………………3…9……….………………………………………………………………..………..
+T32. Gabon : Principaux indicateurs économiques et financiers …………………………………4…0……….………………………………………………………………..………..
+T33. Guinée Equatoriale : Principaux indicateurs économiques et financiers ……………………4…1…………………….………………………………………………………………..………..
+T34. Tchad : Principaux indicateurs économiques et financiers ……………………………………42……….………………………………………………………………..………..
+
+--- Page 4 ---
+3
+I. ENVIRONNEMENT INTERNATIONAL
+
+--- Page 5 ---
+4
+T1. Taux de croissance réelle des principaux pays partenaires
+2014 2015 2016 2017 2018 2019 2020
+Estim Sr
+Economie mondiale 3,6 3,5 3,4 3,8 3,6 2,9 -4,9
+Pays industrialisés 2,1 2,3 1,7 2,5 2,3 1,7 -8,0
+Etats-Unis 2,5 2,9 1,6 2,4 2,9 2,3 -8,0
+Zone Euro 1,4 2,1 1,9 2,5 1,9 1,2 -10,2
+France 1,0 1,0 1,1 2,3 1,7 1,2 -12,5
+Pays émergents et en développement d'Asie 6,8 6,8 6,7 6,6 6,4 5,9 -0,8
+Chine 7,3 6,9 6,7 6,8 6,6 6,1 1,0
+Inde 7,4 8,0 8,2 7,2 6,8 4,8 -4,5
+Pays d'Amérique Latine 1,3 0,3 -0,6 1,2 1,1 0,1 -9,4
+Russie 0,7 -2,3 0,3 1,6 2,3 1,1 -6,6
+Pays d'Afrique Subsaharienne 5,1 3,1 1,4 3,0 3,2 3,3 -3,2
+CEMAC 4,0 1,6 -1,4 0,7 1,8 2,1 -5,9
+UEMOA 5,9 6,3 6,6 6,3 6,6 6,6 2,6
+Afrique du Sud 1,8 1,2 0,4 1,4 0,8 0,4 -8,0
+Nigeria 6,3 2,7 -1,6 0,8 1,9 2,3 -5,4
+Sources : Perspectives économiques du FMI (mise à jour d'avril 2020), Base de données du WEO (avril 2020), BEAC, BCEAO.
+G1. Taux de croissance réelle des pays industrialisés
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+-10
+-12
+-14
+Pays industrialisés Etats-Unis Zone Euro France CEMAC Economie mondiale
+G2. Taux de croissance réelle des pays en développement
+10
+5
+0
+-5
+-10
+-15
+Pays émergents et en développement d'Asie Pays d'Amérique Latine
+Pays d'Afrique Subsaharienne CEMAC
+UEMOA
+
+--- Page 6 ---
+5
+T2. Cours mondiaux des produits de bases exportées par la CEMAC
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Produit Unité
+Pétrole
+Crude oil, average $/baril 63,8 68,6 66,8 59,8 61,5 57,7 60,0 57,3 60,4 63,4 61,6 53,3 32,2
+Gaz naturel et méthanol
+Europe ($/mmbtu) 2,9 2,6 2,6 2,4 2,4 2,2 2,6 2,3 2,7 2,2 2,0 1,9 1,8
+Etats-Unis ($/mmbtu) 5,2 4,9 4,3 3,6 3,6 3,7 4,2 5,1 5,2 4,6 3,6 2,9 2,7
+Japon ($/mmbtu) 11,3 10,3 10,1 10,0 10,1 10,9 10,9 10,0 10,0 10,0 9,9 9,9 9,9
+Bois
+Bois bruts, même écorcés,
+$/m3 304,0 302,4 302,7 306,4 304,8 304,8 302,3 302,3 301,7 302,1 301,9 299,0 303,0
+désaubiérés ou équarris
+Bois sciés (ycp Feuilles de
+placage & feuilles pour $/m3 631,4 624,8 615,5 607,5 597,7 582,0 591,6 605,4 617,5 627,9 626,5 621,1 593,7
+contre-plaqués)
+Fer ($/dmtu) 86,5 93,7 100,2 108,9 120,2 93,1 93,1 88,5 85,0 92,7 95,8 87,7 89,0
+Aluminium ($/mt) 1 871,2 1 845,4 1 781,3 1 756,0 1 797,0 1 740,7 1 753,5 1 726,0 1 774,8 1 771,4 1 773,1 1 688,1 1 610,9
+Diamant ($/carat) 157,8 157,8 157,8 157,8 161,8 162,8 163,8 154,8 154,8 154,8 155,8 156,8 157,8
+Or ($/troy oz) 1 300,9 1 285,9 1 283,7 1 359,0 1 412,9 1 500,4 1 510,6 1 494,8 1 470,8 1 479,1 1 560,7 1 597,1 1 591,9
+Manganèse $/kg 2,2 2,2 2,1 2,2 2,2 2,1 2,1 2,0 1,9 2,0 2,0 2,0 2,1
+Cacao $/kg 2,2 2,3 2,3 2,4 2,4 2,2 2,3 2,4 2,5 2,4 2,6 2,7 2,3
+Riz ($/mt) 382,5 387,4 386,9 396,0 394,2 405,2 400,1 391,2 389,8 398,3 416,4 419,0 452,8
+Caoutchouc ($/kg) 1,7 1,7 1,8 1,9 1,7 1,5 1,5 1,4 1,5 1,7 1,7 1,6 1,5
+Coton ($/kg) 1,8 1,9 1,8 1,7 1,7 1,6 1,6 1,6 1,7 1,7 1,7 1,7 1,5
+Huile de palme ($/mt) 573,0 636,2 573,4 542,2 543,9 586,1 580,3 591,4 683,4 769,9 810,1 728,8 635,2
+Banane ($/kg) 0,9 0,9 0,9 0,9 0,9 0,8 0,8 0,9 0,9 0,9 0,9 0,9 0,9
+Sucre ($/kg) 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3 0,3
+Tabac ($/mt) 4 948,3 4 671,8 4 649,5 4 906,7 4 542,0 4 869,3 4 861,1 4 446,9 4 792,6 4 780,8 4 725,2 4 712,9 4 686,8
+Café ($/kg) 2,2 2,1 2,1 2,2 2,3 2,2 2,2 2,2 2,4 2,5 2,3 2,2 2,4
+Gomme arabique $/tonne 2 841,1 2 843,5 2 831,8 2 860,9 2 848,7 2 827,1 2 797,8 2 820,6 2 777,1 2 840,8 2 796,5 2 779,2 2 775,5
+Viande de bœuf ($/kg) 4,5 4,7 4,6 4,6 4,6 4,6 4,7 4,9 5,9 5,6 5,0 4,7 4,5
+Indice composite (cours exprimés en dollars) - Base 100 : janvier 2012
+Indice global 64,8 68,2 66,5 61,2 62,4 58,9 61,4 59,6 62,6 64,2 62,5 56,2 40,0
+Indice hors produits énergétique 116,1 118,5 117,3 119,5 119,1 113,4 115,6 117,6 121,1 120,9 121,7 122,5 116,1
+Indices des produits énérgétiques 60,4 64,0 62,2 55,6 57,1 53,8 56,4 54,1 57,1 59,0 56,8 49,4 31,1
+Indices des métaux et minéraux 60,0 60,5 59,7 61,9 62,7 59,3 59,8 55,8 53,6 56,3 55,5 55,5 59,3
+Indices des produits forestiers 82,8 82,0 81,0 80,2 79,1 77,4 78,3 79,8 81,1 82,3 82,1 81,4 78,6
+Indice des produits agricoles 106,5 110,5 109,5 112,4 112,0 105,7 108,3 112,4 118,1 116,0 117,7 119,2 109,2
+Source : Banque Mondiale
+Note: nd = Non disponible
+G3. Cours du pétrole G4. Cours des produits agricoles d'exportation
+80 6
+70 5
+60 4
+3
+50
+2
+40
+1
+30
+0
+20
+Cacao Riz Caoutchouc Coton Huile de palme
+Crude oil, average Banane Sucre Tabac Café
+G5. Cours des métaux non précieux G6. Indice composite des cours des produits de bases exportées
+8 par la CEMAC (Base 100 : janvier 2012)
+140
+7
+6 120
+5 100
+4 80
+3
+60
+2
+40
+1
+0 20
+Indice global Indice hors produits énergétique
+Fer Aluminium Manganèse Indices des produits énérgétiques Indices des métaux et minéraux
+Indices des produits forestiers Indice des produits agricoles
+Cours suivis
+Coton : Cotlook A Index, CAF, Extreme Orient)
+Cacao : ICCO daily price
+Café : Robusta ICO Indicator
+Sucre : ISO Indicator, New-York
+Caoutchouc : INRO Singapour
+Manganèse : 48/50% Mn Max 0.1% P, FAB métallurgique
+Aluminium : London Metal Exchange, High Grade, Cash
+Gaz naturel et méthanol
+Etats Unis : Spot price, Louisiana
+Europe : Prix moyen à l'importation, UE
+
+--- Page 7 ---
+6
+T3. Cours moyens mensuels de l'euro (1)
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Dollar (USA) 1,13 1,12 1,12 1,13 1,12 1,11 1,10 1,11 1,11 1,11 1,11 1,09 1,11
+Yen (Japon) 125,67 125,44 122,95 122,08 121,41 118,18 118,24 119,51 120,34 121,24 121,36 120,03 118,90
+Livre sterling (GBP) 0,86 0,86 0,87 0,89 0,90 0,92 0,89 0,88 0,86 0,85 0,85 0,84 0,89
+Franc suisse (CHF) 1,13 1,13 1,13 1,12 1,11 1,09 1,09 1,10 1,10 1,09 1,08 1,06 1,06
+Rand (RSA) 16,25 15,90 16,14 16,47 15,74 16,86 16,32 16,49 16,34 16,05 16,01 16,36 18,42
+Yuan (Chine) 7,59 7,55 7,67 7,79 7,72 7,86 7,83 7,84 7,76 7,80 7,68 7,63 7,77
+Naira* (Nigeria) 404,98 401,32 398,17 401,71 398,84 398,07 394,25 396,50 397,42 399,54 399,26 394,08 403,30
+Source : Banque de France
+* cours de fin de mois
+(1) 1 euro= 655,957 FCFA
+G7. Cours moyen mensuel de l'Euro G8. Cours moyen mensuel de l'Euro (suite)
+1,2 20 450
+18
+1,0 16 400
+0,8 14 350
+12 300
+0,6 10
+8 250
+0,4 6 200
+0,2 4 150
+2
+0,0 0 100
+50
+Dollar (USA) Livre sterling (GBP)
+Franc suisse (CHF) Rand (RSA) Yen (Japon) Naira* (Nigeria)
+Yuan (Chine)
+Rand et Yuan : échelle de droite
+
+--- Page 8 ---
+7
+T4. Taux directeurs des principales banques centrales
+mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20 avr-20 mai-20
+Fédéral Reserve (Fed)
+Taux des Fonds Fédéraux 2,00-2,25 2,00-2,25 2,00-2,25 2,00-2,25 1,75-2,00 1,50-1,75 1,50-1,75 1,50-1,75 1,50-1,75 1,50-1,75 0,00-0,25 0,00-0,25 0,00-0,25
+Bank of Japon (BoJ)
+Taux au jour le jour -0,100 -0,100 -0,100 -0,100 -0,100 -0,100 -0,100 -0,100 -0,100 -0,100 -0,100 -0,100 -0,100
+Bank of England (BoE)
+Taux de prise en pension 0,750 0,750 0,750 0,750 0,750 0,750 0,750 0,750 0,750 0,750 0,100 0,100 0,100
+Banque du Canada
+Taux de refinancement 1,750 1,750 1,750 1,750 1,750 1,750 1,750 1,750 1,750 1,750 0,250 0,250 0,250
+Banque Centrale Européenne (BCE)
+Taux des principales opérations de refinancement 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000
+Taux d'interet de la BCEAO
+Taux des pensions 4,50 4,50 4,50 4,50 4,50 4,50 4,50 4,50 4,50 4,50 4,50 4,50 4,50
+Taux d'injection de liquidités 2,50 2,50 2,50 2,50 2,50 2,50 2,50 2,50 2,50 2,50 2,50 2,50 2,50
+Sources: Fed, BoE,BoJ, Banque du Canada, BCE et BCEAO
+
+--- Page 9 ---
+8
+II. CONJONCTURE ECONOMIQUE
+SOUS-REGIONALE
+
+--- Page 10 ---
+9
+T5. Taux de croissance des Etats de la CEMAC
+Taux de croissance nominale T a u x de croissance réelle T a u x d e croissance du PIB réel
+(en %) (en %) hors pétrole (en %)
+2018 2019 2020 2018 2019 2020 2018 2019 2020
+Estim. Sr* Estim. Sr* Estim. Sr*
+Cameroun 5,7 5,2 -5,8 4,1 3,7 -5,2 4,4 3,6 -4,2
+République Centrafricaine 2,5 5,5 5,4 3,8 4,3 0,5 3,8 4,3 0,8
+Congo 8,8 1,3 -39,8 1,1 -0,3 -12,3 -12,5 -1,6 -16,7
+Gabon 4,3 7,1 -19,8 0,4 3,9 -4,2 2,8 1,7 -1,2
+Guinée Equatoriale 8,3 -4,1 -21,2 -3,1 -4,6 -7,4 4,2 0,7 -6,3
+Tchad 6,5 0,9 -7,0 1,9 2,6 -3,8 0,4 1,3 0,5
+CEMAC 6,3 3,2 -15,1 1,8 2,1 -5,9 1,9 2,0 -4,1
+Sources : Administrations Nationales et BEAC
+G9. Taux de croissance réelle des Etats de la CEMAC
+Cameroun
+20 10
+RCA
+5 Congo
+15
+Gabon
+0
+Guinée Eq.
+10 -5 Tchad
+-10 CEMAC
+5
+-15
+0
+-20
+2012 2013 2014 2015 2016 2017 2018 2019 Estim. 2020 Prév.
+-5 -25
+-30
+-10
+-35
+-15 -40
+Cameroun Congo Gabon Guinée Eq.
+Tchad CEMAC RCA (échelle de droite)
+G10. PIB nominal des Etats de la CEMAC
+(en milliards de FCFA)
+5978
+Tchad
+6430
+5298
+Guinée Eq.
+6724
+7598
+Gabon
+9474
+4913
+Congo
+8166
+1372
+RCA
+1301
+21290
+Cameroun
+22601
+0 5 000 10 000 15 000 20 000 25 000
+2020 Prév. 2019
+Sr= Scénario Réaliste de la programmation monétaire 2020 révisée à fin mai avec un cours du baril de pétrole à 25 dollars ; les
+prévisions sectorielles sont celles formulées par les agents économiques en tenant compte, dans la mésure du possible, des effets de
+la crise sanitaire du COVID-19 et des mésures prises par les Etats (confinencement de 3 à 4 mois, fonds de solidarités, autres mésures
+de soutien), ainsi que des appuis des parténaires au développement.
+
+--- Page 11 ---
+10
+T6. Contributions à la croissance réelle
+Secteur primaire Secteur secondaire Secteur tertiaire Taxes nettes sur les produits
+2018 2019 2020 2018 2019 2020 2018 2019 2020 2018 2019 2020
+Estim. Sr* Estim. Sr* Estim. Sr* Estim. Sr*
+Cameroun 0,5 0,7 -0,6 1,0 0,9 -0,3 2,3 2,2 -4,1 0,2 0,0 -0,3
+République Centrafricaine 1,1 0,8 -0,3 0,3 0,8 -0,4 2,0 2,6 2,7 0,4 0,1 -1,6
+Congo 9,5 0,6 -1,2 -3,0 1,3 -1,5 -4,2 -2,2 -9,0 -1,3 0,0 -0,6
+Gabon -1,0 3,5 -0,7 1,2 0,7 -1,5 0,4 -0,7 -1,7 -0,2 0,4 -0,3
+Guinée Equatoriale -2,9 -2,8 -0,5 -2,2 -3,1 -1,9 1,9 1,3 -5,1 0,1 0,1 0,0
+Tchad 0,7 1,1 2,7 0,9 1,9 -1,2 0,2 -0,6 -5,2 0,1 0,3 0,0
+CEMAC 1,6 1,1 -1,3 0,6 0,6 -0,9 0,9 0,6 -4,4 0,1 -0,1 0,7
+Sources : Administrations Nationales et BEAC
+G11. Contribution du secteur primaireà la croissance
+9
+7
+5
+3
+1
+-1 Cameroun République Congo Gabon Guinée Tchad CEMAC
+Centrafricaine Equatoriale
+-3
+-5
+2018 2019 Estim. 2020 Sr*
+G12. Contribution du secteur secondaire à la croissance
+3
+2
+1
+0
+Cameroun République Congo Gabon Guinée Tchad CEMAC
+-1 Centrafricaine Equatoriale
+-2
+-3
+-4
+2018 2019 Estim. 2020 Sr*
+G13. Contribution du secteur tertiaire à la croissance
+3
+1
+Cameroun République Congo Gabon Guinée Tchad CEMAC
+-2
+Centrafricaine Equatoriale
+-4
+-6
+-8
+-10
+2018 2019 Estim. 2020 Sr*
+
+--- Page 12 ---
+11
+T7. Principaux produits d'exportation des pays de la CEMAC
+2018 2019 2020 G14. Production pétrolière
+Sr* (en millions de tonnes)
+Cameroun 20
+Pétrole brut (en millions de tonnes) 3,5 3,6 3,6 18 16,7 17,0 16,8
+Gaz (en milliers de tonnes) 930,7 1 275,4 1 465,9 16
+Cacao (en milliers de tonnes) 301,7 304,2 291,5 14
+C Ca of té o n(e -n g m rai il nli ee r (s e nd e m t io lln in ere ss ) de tonnes) 304 73 ,, 97 344 71 ,, 36 353 39 ,, 50 11 02 9,6 10,9 10,4
+Bois - grumes, sciages et dérivés (en milliers de m3) 3 013,1 2 767,1 2 164,1 8 7,9 6,5 7,2 7,3 7,1 7,4
+Caoutchouc naturel (en milliers de tonnes) 41,6 34,1 32,1 6
+4 3,5 3,6 3,6
+République Centrafricaine 2
+Coton - graine (en milliers de tonnes) 3,1 1,1 3,2 0
+Diamants - brut et taillés (en milliers de carats) 80,3 25,3 21,4 2018 2019 2020
+Or (en kg) 141,8 358,9 296,3
+Café (en milliers de tonnes) 2,5 2,0 1,5
+Bois - grumes, sciages et dérivés (en milliers de m3) 631,6 613,0 511,1
+Cameroun Congo Gabon Guinée Equatoriale Tchad
+Congo
+Pétrole brut (en millions de tonnes) 16,7 17,0 16,8
+G15. Production de gaz naturel
+Gaz (en milliers de tonnes) 91,6 102,5 124,9
+Bois - grumes, sciages et dérivés (en milliers de m3) 2 066,2 1 991,9 1 557,8 (en milliers de tonnes)
+7 000
+Gabon 6 000 5724,8
+Pétrole brut (en millions de tonnes) 9,6 10,9 10,4
+Manganèse (millions de tonnes) 5,4 7,3 6,9 5 000 4962,4 4664,5
+Or (en kg) 82,8 107,0 200,0
+Cacao (en milliers de tonnes) 1,0 1,1 1,3 4 000
+Café (en milliers de tonnes) 0,5 0,5 0,6
+3 000
+Bois - grumes, sciages et dérivés (en milliers de m3) 3 055,7 3 206,9 2 675,8
+Caoutchouc naturel (en milliers de tonnes) 13,2 9,4 15,4 2 000 1275,4 1465,9
+930,7
+Guinée Equatoriale 1 000
+Pétrole brut (en millions de tonnes) 7,9 7,2 7,1 0 91,6 102,5 124,9
+Gaz (en milliers de tonnes) 5 724,8 4 962,4 4 664,5 2018 2019 2020
+Bois - grumes, sciages et dérivés (en milliers de m3) 364,1 137,1 128,7 Congo Guinée Equatoriale Cameroun
+Cacao (en milliers de tonnes) 0,7 0,6 0,5
+Café (en milliers de tonnes) 0,0 0,0 0,0
+G16. Production de bois
+Tchad (en milliers de m3)
+Pétrole brut (en millions de tonnes) 6,5 7,3 7,4
+C Go ot mon m - e g ar ra ai bn ie q u(e en ( em ni l mli ie lr ls ie d rse dto en tn oe ns n) es) 4 47 9, ,8 9 1 45 7, ,5 9 17 42 9, ,0 8 3500 3 013,1 3 055,7 3 206,9
+3000 2 767,1 2 675,8
+ENSEMBLE CEMAC
+P Gé at zr o (l ee n b mru ilt l ( iee rn s m deil l ti oo nn ns e d s)e tonnes) 6 744 74 ,, 13 6 344 05 ,, 49 6 254 55 ,, 23 22 050 000 2 066,2 1 991,92 164,1
+Diamants - brut et taillés (en milliers de carats) 80,3 25,3 21,4 1 557,8
+Manganèse (millions de tonnes) 5,4 7,3 6,9 1500
+Or (en kg) 224,6 465,9 496,3
+Cacao (en milliers de tonnes) 303,4 305,9 293,4 1000
+Café (en milliers de tonnes) 46,6 44,1 41,2 500 631,6 364,1 613,0 511,1
+Coton - graine (en milliers de tonnes) 358,8 363,9 528,7 137,1 128,7
+Gomme arabique (en milliers de tonnes) 49,9 47,9 49,8 0
+Bois - grumes, sciages et dérivés (en milliers de m3) 9 130,7 8 715,9 7 037,6 2018 2019 2020
+Caoutchouc naturel (en milliers de tonnes) 54,8 43,5 47,5
+Cameroun République Centrafricaine Guinée Equatoriale Gabon Congo
+Sources : Administrations Nationales et BEAC
+
+--- Page 13 ---
+12
+T8. Taux d'inflation sur les 12 derniers mois
+Variation en moyenne annuelle de l'Indice des Prix à la Consommation
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Cameroun 1,4 1,6 1,7 1,9 2,0 2,2 2,3 2,4 2,4 2,5 2,5 2,6 2,6
+RCA 2,1 2,3 2,4 2,7 3,1 3,3 3,5 3,6 3,3 2,7 2,2 1,6 1,3
+Congo 1,1 1,2 1,2 1,3 1,4 1,5 1,6 1,8 2,0 2,2 2,4 2,6 2,7
+Gabon 5,3 5,2 5,0 4,6 4,3 3,9 3,5 3,0 2,5 2,1 1,7 1,4 1,1
+Guinée Equatoriale 2,2 2,2 2,1 1,9 1,6 1,5 1,2 1,2 1,3 1,5 1,7 1,8 2,0
+Tchad 4,5 -4,9 -3,5 -1,6 0,3 1,7 1,0 0,2 -0,5 -1,0 -1,1 -1,1 -0,9
+CEMAC* 2,8 2,9 2,9 2,8 2,8 2,9 2,8 2,5 2,2 1,9 1,7 1,6 1,5
+UEMOA 0,7 0,6 0,4 0,3 0,2 0,0 -0,1 -0,3 -0,4 -0,5 -0,4 -0,3 -0,2
+Zone Euro 1,8 1,8 1,8 1,7 1,6 1,5 1,4 1,3 1,2 1,2 1,2 1,2 1,1
+France 2,2 2,1 2,0 1,9 1,8 1,6 1,5 1,4 1,3 1,2 1,3 1,3 1,3
+Etats Unis 2,3 2,3 2,2 2,1 2,0 1,9 1,9 1,8 1,8 1,8 1,9 2,0 1,9
+Sources : FMI, Administrations Nationales et BEAC
+Variation en glissement annuel de l'Indice des Prix à la Consommation
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Cameroun 2,7 2,6 2,4 2,6 2,7 2,7 2,5 2,4 2,5 2,4 2,8 2,6 2,5
+RCA 4,6 4,9 2,4 3,5 3,6 2,7 2,5 1,1 -0,2 -2,8 -0,9 -1,1 0,4
+Congo 1,8 2,1 1,9 2,1 2,3 2,2 2,3 2,5 3,3 3,8 3,5 3,4 3,2
+Gabon 4,1 3,0 2,3 1,1 1,1 1,0 0,9 0,5 0,2 1,0 1,1 0,7 0,4
+Guinée Equatoriale 3,2 0,6 0,2 -0,4 -1,1 -0,2 -0,4 2,5 3,4 4,3 5,1 5,0 5,4
+Tchad 2,7 0,9 -3,3 -1,4 -2,8 -2,1 -2,8 -3,2 -2,8 -1,7 1,0 3,2 4,7
+CEMAC* 3,7 2,8 1,8 1,8 1,6 2,4 1,0 0,1 0,3 0,5 1,5 1,8 1,9
+UEMOA -0,1 -0,6 -0,6 -0,6 0,4 -1,2 -1,2 -0,9 -0,5 -0,5 0,8 1,6 1,4
+Zone Euro 1,4 1,7 1,2 1,3 1,0 1,0 0,8 0,7 1,0 1,3 1,4 1,2 0,7
+France 1,3 1,5 1,1 1,4 1,3 1,3 1,1 0,9 1,2 1,6 1,7 1,6 0,8
+Etats Unis 1,9 2,0 1,8 1,6 1,8 1,7 1,7 1,8 2,1 2,3 2,5 2,3 1,5
+Sources : FMI, Administrations Nationales et BEAC
+G17. Taux d'inflation en glissement annuel des Etats de la CEMAC
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+Cameroun RCA Congo Gabon Guinée Equatoriale Tchad CEMAC*
+G18. Taux d'inflation en glissement annuel des partenaires
+4,0
+3,0
+2,0
+1,0
+0,0
+-1,0
+-2,0
+CEMAC* UEMOA Zone Euro Etats Unis
+
+--- Page 14 ---
+13
+T9. Indice des prix de la CEMAC par fonction de consommation
+Base 100 : Année 2011
+POSTES DE CONSOMMATION mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20 Moy. Ann.* Gli. Ann.**
+Produits alimentaires et boissons non alcoolisees 115,0 115,3 115,6 116,4 116,4 117,3 117,5 117,5 117,6 118,7 119,1 119,9 120,9 1,3% 5,1%
+Boissons alcoolisees et tabac 123,5 113,6 113,5 106,4 120,0 120,5 121,3 122,6 123,2 123,7 125,8 126,0 126,2 8,8% 4,6%
+Articles d'habillement et chaussures 116,4 113,8 113,5 113,9 115,6 116,2 116,3 116,7 117,3 117,7 117,4 117,4 117,0 2,8% 0,5%
+Logement, eau, gaz, électricité et autres combustibles 129,4 129,7 129,8 129,8 123,3 123,0 123,1 123,9 124,4 124,0 124,0 124,9 124,3 0,6% -4,0%
+Meubles, articles de ménage et entretien courant de la maison 113,4 124,8 127,4 125,9 115,2 116,4 116,5 116,8 117,0 117,2 117,8 117,7 117,6 -0,6% 3,7%
+Santé 115,0 121,9 121,5 122,0 110,3 116,3 116,4 116,6 117,0 116,9 116,9 117,0 116,4 -0,7% 1,3%
+Transports 126,3 121,0 121,6 122,0 127,1 125,1 125,3 125,6 126,1 126,4 126,2 126,6 127,5 0,8% 1,0%
+Communications 90,1 90,1 89,9 89,2 89,2 94,1 94,2 94,4 94,5 93,3 94,2 94,2 94,3 -0,5% 4,6%
+Loisirs et culture 113,4 113,6 114,1 114,5 114,3 114,0 114,3 114,5 114,9 114,8 114,7 114,7 114,5 1,2% 0,9%
+Enseignement 136,7 136,7 138,4 139,0 139,0 132,8 135,2 135,6 136,6 136,0 136,2 136,1 136,0 6,0% -0,5%
+Restarants et hotels 129,1 129,3 129,9 127,9 127,8 129,6 129,7 130,9 131,6 130,3 131,3 131,4 131,8 3,0% 2,1%
+Biens et services divers 121,6 121,8 121,9 121,8 122,1 122,6 122,5 122,6 122,7 121,9 121,4 121,1 121,5 1,6% 0,0%
+Indice général national 119,0 119,0 119,4 119,4 118,5 119,1 119,3 119,6 120,0 120,3 120,5 121,0 121,3 1,5% 1,9%
+Produits locaux 119,0 119,0 119,4 119,4 118,5 119,1 119,3 119,6 120,0 120,3 120,5 121,0 121,3 - 1,9%
+Produits importés - -
+Indice hors alimentation 121,5 121,3 121,7 121,3 119,8 120,2 120,4 120,9 121,4 121,2 121,4 121,6 121,6 1,5% 0,0%
+Indice hors Transports 115,7 118,6 119,3 118,9 114,9 116,1 116,4 116,7 117,1 116,8 117,1 117,2 117,1 0,7% 1,2%
+Indice hors alimentation et transports 120,6 121,4 121,7 121,1 118,4 119,3 119,5 120,1 120,5 120,2 120,5 120,7 120,5 1,7% -0,1%
+Indice sous-jacent 114,8 115,0 115,3 115,7 115,4 115,4 115,6 115,9 116,1 116,5 116,6 117,0 117,3 1,2% 2,2%
+Source : Administrations nationales, BEAC
+(*) Moyenne annuelle, (**) Glissement annuel
+
+--- Page 15 ---
+14
+T10. Contribution des fonctions de consommation à linflation de la CEMAC
+Variation en moyenne annuelle de l'Indice des Prix à la Consommation
+POSTES DE CONSOMMATION mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Produits alimentaires et boissons non alcoolisees 0,3% 0,2% 0,0% 0,0% 0,1% 0,2% 0,4% 0,4% 0,4% 0,4% 0,7% 0,9% 1,3%
+Boissons alcoolisees et tabac -5,5% -5,9% -6,4% -7,5% -6,2% -3,6% -0,9% 2,7% 6,5% 10,5% 9,7% 9,1% 8,8%
+Articles d'habillement et chaussures 0,5% 0,6% 0,5% 0,5% 0,7% 1,0% 1,6% 2,1% 2,8% 3,6% 3,2% 3,0% 2,8%
+Logement, eau, gaz, électricité et autres combustibles 9,7% 10,8% 10,6% 10,6% 11,1% 11,6% 10,4% 8,3% 6,2% 4,3% 3,2% 2,1% 0,6%
+Meubles, articles de ménage et entretien courant de la maison 4,7% 5,2% 6,0% 6,7% 5,3% 4,1% 2,9% 1,4% 0,0% -1,4% -1,1% -1,0% -0,6%
+Santé 8,7% 8,8% 8,9% 9,1% 7,3% 6,0% 4,7% 3,0% 1,3% -0,3% -0,6% -0,7% -0,7%
+Transports 3,1% 2,7% 2,5% 2,1% 2,0% 1,8% 1,6% 1,3% 1,1% 1,0% 1,0% 1,0% 0,8%
+Communications 2,3% 1,8% 1,3% 0,7% 0,1% -0,1% -0,3% -0,4% -0,6% -0,6% -0,9% -1,1% -0,5%
+Loisirs et culture 2,4% 2,2% 2,1% 1,9% 1,7% 1,6% 1,5% 1,3% 1,1% 1,0% 1,1% 1,2% 1,2%
+Enseignement 6,0% 6,5% 7,1% 7,7% 8,2% 8,2% 8,1% 7,7% 7,4% 7,1% 7,1% 6,9% 6,0%
+Restarants et hotels 3,6% 3,9% 4,2% 4,2% 4,1% 4,2% 4,1% 4,0% 4,0% 3,7% 3,5% 3,3% 3,0%
+Biens et services divers 1,9% 1,9% 2,1% 2,1% 2,1% 2,2% 2,2% 2,3% 2,3% 2,4% 2,1% 1,8% 1,6%
+Indice général national 2,8% 2,9% 2,9% 2,8% 2,8% 2,9% 2,8% 2,5% 2,2% 1,9% 1,7% 1,6% 1,5%
+Source : Administrations nationales, BEAC
+Variation en glissement annuel de l'Indice des Prix à la Consommation
+POSTES DE CONSOMMATION mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Produits alimentaires et boissons non alcoolisees 0,3% -0,4% -1,0% -0,3% 0,3% 0,9% 1,2% 1,0% 0,8% 1,3% 3,4% 3,6% 5,1%
+Boissons alcoolisees et tabac 5,4% -4,1% -4,6% -10,7% 10,5% 20,0% 21,9% 28,4% 29,0% 30,1% -0,3% 0,6% 2,2%
+Articles d'habillement et chaussures 3,6% 0,8% 0,5% 0,7% 2,4% 3,8% 4,8% 5,5% 6,3% 6,9% 0,3% 1,4% 0,5%
+Logement, eau, gaz, électricité et autres combustibles 14,9% 13,6% 6,5% 7,1% 7,5% 7,0% -2,4% -6,6% -6,4% -6,5% -2,4% -1,6% -4,0%
+Meubles, articles de ménage et entretien courant de la maison -1,5% 8,0% 10,2% 9,3% -6,8% -5,8% -6,1% -7,3% -6,9% -7,3% 3,5% 1,9% 3,7%
+Santé 2,2% 7,3% 7,3% 7,5% -8,3% -3,4% -3,2% -6,0% -5,8% -5,6% 0,8% 1,4% 1,3%
+Transports 3,2% -1,4% -0,9% -1,2% 2,4% 1,2% 0,8% 0,9% 1,4% 1,9% 1,7% 1,9% 1,0%
+Communications -2,4% -3,3% -3,4% -4,3% -4,3% 0,9% 0,6% 1,1% 1,2% 0,8% -0,2% -0,2% 4,6%
+Loisirs et culture 1,0% 0,9% 1,4% 1,4% 1,1% 1,1% 1,3% 0,4% 1,0% 1,3% 1,7% 1,8% 0,9%
+Enseignement 10,0% 9,9% 11,5% 11,8% 11,6% 6,3% 5,2% 2,8% 3,4% 3,6% 4,1% 4,0% -0,5%
+Restarants et hotels 5,2% 5,0% 4,9% 2,9% 2,0% 3,8% 2,9% 3,1% 3,6% 1,7% 2,3% 2,1% 2,1%
+Biens et services divers 2,4% 2,5% 2,6% 2,4% 2,3% 2,7% 2,0% 2,1% 2,1% 1,8% -0,1% -0,6% 0,0%
+Indice général national 3,7% 2,8% 1,8% 1,8% 1,6% 2,4% 1,0% 0,1% 0,3% 0,5% 1,5% 1,8% 1,9%
+Source : Administrations nationales, BEAC
+
+--- Page 16 ---
+15
+G19. Contribution absolue des fonctions de consommation à l'indice des prix à la consommation de la CEMAC
+(en moyenne annuelle)
+50,0%
+40,0%
+30,0%
+20,0%
+10,0%
+0,0%
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+-10,0%
+-20,0%
+Produits alimentaires et boissons non alcoolisees Boissons alcoolisees et tabac
+Articles d'habillement et chaussures Logement, eau, gaz, électricité et autres combustibles
+Meubles, articles de ménage et entretien courant de la maison Santé
+Transports Communications
+Loisirs et culture Enseignement
+Restarants et hotels Biens et services divers
+Indice général national
+G20. Contribution absolue des fonctions de consommation à l'indice des prix à la consommation de la CEMAC
+(en glissement annuel)
+60,0%
+50,0%
+40,0%
+30,0%
+20,0%
+10,0%
+0,0%
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+-10,0%
+-20,0%
+-30,0%
+Produits alimentaires et boissons non alcoolisees Boissons alcoolisees et tabac
+Articles d'habillement et chaussures Logement, eau, gaz, électricité et autres combustibles
+Meubles, articles de ménage et entretien courant de la maison Santé
+Transports Communications
+Loisirs et culture Enseignement
+Restarants et hotels Biens et services divers
+Indice général national
+
+--- Page 17 ---
+16
+T11. Contribution des pays à l'inflation de la CEMAC
+Variation en moyenne annuelle de l'Indice des Prix à la Consommation
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Cameroun 0,8 0,9 0,9 1,0 1,1 1,2 1,2 1,2 1,2 1,2 1,3 1,3 1,2
+RCA 0,2 0,3 0,3 0,3 0,3 0,4 0,4 0,4 0,3 0,2 0,2 0,1 0,1
+Congo 0,2 0,2 0,2 0,2 0,2 0,3 0,3 0,3 0,2 0,2 0,2 0,2 0,2
+Gabon 0,7 0,7 0,7 0,7 0,6 0,6 0,6 0,5 0,4 0,3 0,2 0,2 0,1
+Guinée Equatoriale 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,2 0,1 0,1 0,1 0,1 0,1
+Tchad 0,7 0,8 0,7 0,5 0,5 0,4 0,3 0,1 0,0 -0,1 -0,1 -0,2 -0,2
+CEMAC* 2,8 2,9 2,9 2,8 2,8 2,9 2,8 2,5 2,2 1,9 1,7 1,6 1,5
+Source : Administrations nationales, BEAC
+Variation en glissement annuel de l'Indice des Prix à la Consommation
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Cameroun 1,4 1,3 1,2 1,3 1,4 1,5 1,2 1,0 1,1 1,0 1,3 1,2 1,1
+RCA 0,5 0,4 0,3 0,3 0,3 0,3 0,2 -0,1 -0,1 -0,3 -0,2 -0,2 -0,1
+Congo 0,3 0,3 0,3 0,2 0,2 0,3 0,2 0,1 0,2 0,2 0,2 0,2 0,2
+Gabon 0,6 0,4 0,4 0,2 0,2 0,3 0,1 -0,1 -0,1 0,0 0,1 0,0 -0,1
+Guinée Equatoriale 0,4 0,2 0,2 0,0 0,0 0,2 -0,1 -0,2 -0,1 0,0 0,1 0,1 0,1
+Tchad 0,5 0,2 -0,5 -0,2 -0,4 -0,2 -0,5 -0,7 -0,6 -0,4 0,1 0,4 0,6
+CEMAC* 3,7 2,8 1,8 1,8 1,6 2,4 1,0 0,1 0,3 0,5 1,5 1,8 1,9
+Source : Administrations nationales, BEAC
+G21. Contribution absolue des pays membres de CEMAC à l'indice des prix à la consommation
+3,5 (en moyenne annuelle)
+3,0
+2,5
+2,0
+1,5
+1,0
+0,5
+0,0
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+-0,5
+Cameroun RCA Congo Gabon Guinée Equatoriale Tchad CEMAC*
+G22. Contribution absolue des pays membres de CEMAC à l'indice des prix à la consommation
+4,0 (en glissement annuel)
+3,0
+2,0
+1,0
+0,0
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+-1,0
+-2,0
+Cameroun RCA Congo Gabon Guinée Equatoriale Tchad CEMAC*
+
+--- Page 18 ---
+17
+T12. Compétivité
+(Variations en %)
+TCER composite (*) TCER des exportations TCER des importations
+2019Q2 2019Q3 2019Q4 2020Q1 2019Q2 2019Q3 2019Q4 2020Q1 2019Q2 2019Q3 2019Q4 2020Q1
+Cameroun 0,0 -1,2 0,2 0,1 -0,2 -0,6 0,9 0,5 0,2 -1,5 -0,3 -0,1
+République centrafricaine -1,8 -0,7 -1,9 0,7 -1,4 -1,5 -0,7 1,2 -2,0 -0,5 -2,2 0,5
+Congo 1,0 -0,5 0,3 0,5 0,1 -0,5 0,9 1,1 1,2 -0,5 0,2 0,4
+Gabon -0,3 1,2 1,0 1,3 0,0 2,0 1,8 2,0 -0,7 -0,2 -0,3 0,3
+Guinée Equatoriale -1,5 -1,0 4,0 1,3 -1,6 -1,0 4,4 1,4 -1,2 -1,1 3,3 1,0
+Tchad 0,3 -2,7 -1,4 -1,4 -1,1 -3,3 -1,9 -1,4 1,7 -2,0 -1,0 -1,4
+CEMAC -0,1 -0,4 0,5 0,1 -0,5 1,5 1,8 0,5 0,1 -1,1 0,0 0,0
+Source : BEAC
+(*) Cotation au certain du FCFA par rapport aux autres monnaies.
+G23. Evolution de l'indice composite du TCER
+10
+8
+6
+4
+2
+0
+2018Q1 2018Q2 2018Q3 2018Q4 2019Q1 2019Q2 2019Q3 2019Q4
+-2
+-4
+-6
+-8
+-10
+Cameroun République Centrafricaine Congo
+Gabon Guinée Equatoriale Tchad
+CEMAC
+
+--- Page 19 ---
+18
+T13. Solde budgétaire, dépenses globales et récettes globales
+(en % du PIB)
+Solde budgétaire global, base Recettes globales Dépenses globales
+engagements, dons compris
+2018 2019 2020 Sr 2018 2019 2020 Sr 2018 2019 2020 Sr
+Cameroun -2,3 -3,3 -3,7 16,0 15,5 13,2 11,9 12,5 11,5
+République centrafricaine 0,4 2,9 -5,2 59,8 61,9 46,7 48,2 49,2 54,8
+Congo 5,3 6,0 -4,1 23,3 23,8 17,7 16,4 15,5 18,7
+Gabon -1,4 2,3 -5,1 17,9 20,4 18,5 14,4 13,9 18,5
+Guinée Equatoriale 0,1 1,9 -11,3 20,6 18,4 11,7 10,9 11,5 17,0
+Tchad 1,5 -0,6 -3,8 11,6 12,5 10,7 9,3 9,9 12,6
+CEMAC -0,3 0,0 -4,5 18,3 17,5 13,8 12,5 12,7 14,2
+Sources : Administrations nationales, BEAC
+* Prévisions
+G24. Solde budgétaire, base engagements, dons compris
+(en % du PIB)
+6
+4
+2
+0
+Cameroun République Congo Gabon Guinée Tchad CEMAC
+centrafricaine Equatoriale
+-2
+-4
+-6
+-8
+-10
+-12
+2018 2019 2020 Sr
+
+--- Page 20 ---
+19
+T14. Evolution de la dette publique extérieure
+Encours de la dette extérieure Service de la dette extérieure Service de la dette extérieure
+(en % du PIB) (en % des Xbsnf) (en % des recettes budgétaires)
+2018 2019 2020 Sr 2018 2019 2020 Sr 2018 2019 2020 Sr
+Cameroun 26,6 28,5 33,3 9,1 11,0 15,6 10,8 14,0 17,5
+République centrafricaine 25,2 23,7 24,6 3,6 3,4 3,0 7,4 6,9 7,7
+Congo 60,2 55,7 91,5 12,2 18,7 34,0 35,4 53,0 94,5
+Gabon 40,8 37,3 46,3 8,4 10,3 43,7 19,2 20,7 62,5
+Guinée Equatoriale 10,4 10,6 13,2 3,0 4,1 12,9 6,9 9,3 22,7
+Tchad 25,2 25,1 31,6 7,5 6,7 15,6 18,8 16,5 26,9
+CEMAC 31,7 31,4 38,8 7,5 10,1 25,1 15,0 20,0 39,0
+Sources : Administrations nationales, BEAC
+* = prévisions
+G25. Encours de la dette publique extérieure
+(en % du PIB)
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Cameroun République Congo Gabon Guinée Equatoriale Tchad CEMAC
+centrafricaine
+2018 2019 2020 Sr
+
+--- Page 21 ---
+20
+T15. Balance commerciale
+Exportations Importations Balance commerciale
+(variation en %) (variation en %) (en milliards de FCFA)
+2018 2019 2020 Sr 2018 2019 2020 Sr 2018 2019 2020 Sr
+Cameroun 7,3 7,9 -33,8 12,5 5,3 -10,9 -272,3 -213,2 -899,2
+République centrafricaine 11,8 -5,3 -28,7 7,6 5,1 -15,7 -214,4 -234,9 -209,3
+Congo 45,4 0,7 -57,3 -2,8 3,7 -42,8 3 355,2 3 324,4 1 129,6
+Gabon 14,3 7,4 -69,5 1,9 7,5 -27,2 1 718,2 1 843,6 -215,3
+Guinée Equatoriale 14,1 -16,5 -87,8 3,9 -22,3 -23,8 1 587,4 1 423,9 -679,9
+Tchad 15,8 7,2 -48,3 3,9 15,2 -37,5 1 110,1 1 142,3 516,7
+CEMAC 11,7 11,8 -51,4 14,7 -5,6 -23,6 5 163,8 7 471,1 1 065,5
+Sources : Administrations nationales, BEAC
+G26. Balance commerciale des Etats de la CEMAC
+(en milliards de F CFA)
+3 400
+2 900
+2 400
+1 900
+1 400
+900
+400
+-100 Cameroun République Congo Gabon Guinée Equatoriale Tchad
+centrafricaine
+-600
+-1 100
+2018 2019 2020 Sr
+
+--- Page 22 ---
+21
+T16. Soldes de la balance des paiements
+(en % du PIB)
+Solde des transactions Solde du compte de capital et Solde global
+courantes d'opérations financières
+2018 2019 2020 Sr 2018 2019 2020 Sr 2018 2019 2020 Sr
+Cameroun -3,5 -3,4 -5,8 4,6 4,5 2,5 0,7 0,7 -3,4
+République centrafricaine -8,5 -6,3 -5,0 8,2 3,9 -5,5 -1,8 -1,2 -10,6
+Congo 8,4 -0,6 -7,6 -5,5 0,5 -14,1 -1,9 1,3 -21,7
+Gabon -5,0 -2,1 -13,7 4,0 2,3 8,9 0,7 0,2 -11,3
+Guinée Equatoriale -7,3 -5,6 -19,9 4,3 1,1 22,2 0,4 -2,4 -12,4
+Tchad 9,5 7,6 3,5 -7,5 -7,2 -8,4 1,6 0,3 -4,0
+CEMAC -0,7 -1,5 -7,3 1,6 1,7 0,7 1,3 0,8 -6,6
+Sources : Administrations Nationales et BEAC
+G27. Solde des transactions courantes des Etats de la CEMAC
+(en % du PIB)
+République Guinée
+Cameroun centrafricaine Congo Gabon Equatoriale Tchad CEMAC
+10
+5
+0
+-5
+-10
+-15
+-20
+2018 2019 2020 Sr
+
+--- Page 23 ---
+22
+T17. Données du FMI
+2019 (Estimations)
+Croissance réelle Inflation en moyenne Solde budgétaire, base Solde courant, transfert
+(en %) annuelle (en %) engagement, dons compris officiel inclus (en % du
+(en % du PIB) PIB)
+Cameroun 3,7 2,5 -2,3 -3,7
+République Centrafricaine 3,0 2,7 1,4 -4,9
+Congo -0,9 2,2 5,8 8,4
+Gabon 3,4 2,0 1,9 -0,8
+Guinée Equatoriale -6,1 0,6 1,7 -5,8
+Tchad 3,0 -1,0 -0,2 -4,9
+CEMAC 1,8 1,7 0,3 -2,2
+Sources : Base de données du WEO (d'avril 2020), Perspectives Afrique subsaharienne (d'avril 2020)
+2020 (Prévisions)
+Solde budgétaire, base Solde courant, transfert
+Croissance réelle Inflation en moyenne engagement, dons compris officiel inclus (en % du
+(en %) annuelle (en %) (en % du PIB) PIB)
+Cameroun -1,2 2,8 -4,5 -5,7
+République Centrafricaine 1,0 1,2 -2,4 -5,3
+Congo -2,3 2,1 5,7 -1,2
+Gabon -1,2 3,0 -2,7 -8,4
+Guinée Equatoriale -5,5 1,7 -4,8 -10,4
+Tchad -0,2 2,2 -0,4 -12,8
+CEMAC -1,7 2,5 -2,6 -7,1
+Sources : Base de données du WEO (d'avril 2020), Perspectives Afrique subsaharienne (d'avril 2020)
+
+--- Page 24 ---
+23
+G28. Réserves de change des Etats de la CEMAC
+6,0
+CEMAC 4,8
+4,3
+4,2
+Tchad 2,8
+1,6
+0,2
+Guinée Equatoriale 0,2
+0,2
+5,9
+Gabon 4,5
+4,3
+3,5
+Congo 3,1
+1,5
+8,3
+République centrafricaine 6,5
+6,7
+7,8
+Cameroun 6,8
+6,6
+0 1 2 3 4 5 6 7 8 9
+Réserves de change (en mois d'importation de biens CAF)
+2020* 2019 2018
+Sources : BEAC
+
+--- Page 25 ---
+24
+III. MONNAIE ET MARCHE
+DES CAPITAUX
+
+--- Page 26 ---
+25
+T18. CEMAC : Agrégats de monnaie et de crédit
+(En millions de FCFA)
+2019 2020
+CEMAC
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 2 478 960 2 542 021 2 655 087 2 765 257 2 733 512 2 725 164 2 488 248 2 323 525 2 333 298 2 667 243 2 839 470 3 258 881 3 005 478
+dont BEAC 2 480 332 2 529 299 2 674 335 2 860 384 2 753 233 2 762 789 2 558 044 2 423 163 2 436 902 2 730 062 2 920 924 3 299 605 3 010 185
+Créances nettes sur l'Etat 3 800 024 3 842 930 3 854 885 3 820 598 3 969 471 4 016 566 4 103 063 4 003 494 4 094 095 4 131 414 4 238 292 4 219 026 4 421 223
+Crédits à l'économie 7 718 076 7 656 914 7 620 754 7 639 471 7 619 715 7 709 604 7 682 823 7 731 085 7 763 972 7 815 589 7 805 331 7 742 454 7 785 141
+Crédits à court terme 4 553 450 4 503 643 4 466 122 4 460 890 4 456 513 4 485 917 4 413 667 4 450 233 4 494 863 4 527 671 4 545 880 4 500 479 4 537 829
+Crédits à moyen terme 2 966 501 2 957 642 2 957 490 2 987 070 2 973 555 3 028 762 3 073 590 3 090 147 3 077 103 3 087 627 3 059 149 3 050 440 3 055 868
+Crédits à long terme 198 125 195 629 197 142 191 511 189 647 194 925 195 566 190 705 192 006 200 291 200 302 191 535 191 444
+Masse monétaire (M2) 11 352 623 11 510 956 11 543 471 11 623 637 11 874 338 12 104 499 11 906 809 11 776 858 12 032 823 12 151 700 12 280 891 12 340 257 12 311 863
+Monnaie fiduciaire 2 477 108 2 475 818 2 479 935 2 513 345 2 548 629 2 557 409 2 549 786 2 576 074 2 595 509 2 751 263 2 703 730 2 698 853 2 777 142
+Monnaie scripturale 5 508 401 5 677 213 5 788 308 5 829 046 6 080 897 6 281 543 6 058 668 5 905 330 6 122 891 6 052 008 6 174 726 6 229 816 6 072 445
+Quasi-monnaie 3 367 114 3 357 925 3 275 228 3 281 246 3 244 812 3 265 547 3 298 355 3 295 454 3 314 423 3 348 429 3 402 435 3 411 588 3 462 276
+Taux de couverture extérieure de
+62,75 62,93 63,94 65,56 66,21 66,40 65,87 65,30 64,93 66,90 71,34 74,67 72,23
+la monnaie (en %)
+Source: BEAC
+2019 2020
+CEMAC
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 15,4% 13,4% 19,9% 26,4% 25,2% 22,7% 20,0% 17,0% 10,1% 6,3% 16,6% 47,1% 21,2%
+dont BEAC 22,5% 29,2% 34,0% 48,1% 44,1% 35,3% 32,0% 30,7% 18,9% 14,8% 23,0% 45,8% 21,4%
+Créances nettes sur l'Etat 33,3% 30,1% 33,9% 33,9% 39,4% 32,3% 31,5% 24,4% 26,6% 22,8% 20,4% 9,3% 16,3%
+Crédits à l'économie -0,1% -1,0% -1,4% -2,1% -2,2% -1,8% -2,9% -2,4% -2,7% -3,6% -1,8% 0,7% 0,9%
+Crédits à court terme -4,3% -5,4% -4,9% -5,4% -5,0% -4,7% -7,3% -7,4% -7,1% -8,0% -4,6% -0,5% -0,3%
+Crédits à moyen terme 7,1% 6,7% 4,2% 3,1% 2,4% 2,6% 3,9% 5,7% 4,2% 3,5% 2,5% 2,7% 3,0%
+Crédits à long terme -1,9% -3,0% 0,5% -1,1% -2,2% 2,0% 2,1% -0,2% 3,9% 2,1% 2,7% -1,0% -3,4%
+Masse monétaire (M2) 9,4% 9,0% 9,6% 10,1% 13,2% 13,2% 11,0% 9,7% 10,6% 5,8% 8,2% 10,8% 8,4%
+Monnaie fiduciaire 9,7% 9,7% 9,9% 11,1% 12,9% 9,8% 7,7% 7,7% 6,2% 7,0% 10,7% 10,6% 12,1%
+Monnaie scripturale 9,3% 10,9% 12,1% 12,8% 18,6% 19,0% 15,2% 12,7% 16,7% 8,0% 9,4% 15,8% 10,2%
+Quasi-monnaie 9,4% 5,6% 5,4% 4,9% 4,4% 6,0% 6,5% 6,0% 4,0% 1,3% 4,2% 2,8% 2,8%
+Contribution à la croissance de M2 (En point de pourcentage)
+Avoirs extérieurs nets 3,2 2,8 4,2 5,5 5,2 4,7 3,9 3,1 2,0 1,4 3,6 9,4 4,6
+Créances nettes sur l'Etat 9,1 8,4 9,3 9,2 10,7 9,2 9,2 7,3 7,9 6,7 6,3 3,2 5,5
+Crédits à l'économie -0,1 -0,7 -1,0 -1,6 -1,6 -1,3 -2,1 -1,8 -2,0 -2,5 -1,2 0,5 0,6
+Autres postes nets -2,8 -1,5 -2,8 -3,0 -1,1 0,7 0,1 1,0 2,7 0,3 -0,5 -2,3 -2,2
+Source: BEAC
+
+--- Page 27 ---
+26
+T19. Cameroun : Agrégats de monnaie et de crédit
+(En millions de FCFA)
+2019 2020
+CAMEROUN
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 2 039 653 2 135 803 2 255 677 2 219 052 2 151 916 2 120 798 1 991 443 2 095 316 2 170 933 2 361 159 2 558 312 2 725 124 2 527 202
+dont BEAC 1 522 276 1 532 440 1 650 566 1 705 971 1 623 640 1 633 232 1 446 964 1 456 054 1 463 549 1 643 330 1 853 513 1 960 367 1 724 095
+Créances nettes sur l'Etat 537 182 512 113 522 043 541 275 649 179 626 253 705 568 779 032 749 566 718 386 783 967 845 507 877 010
+Crédits à l'économie 3 357 968 3 381 196 3 351 306 3 361 473 3 339 626 3 362 634 3 351 426 3 406 669 3 433 676 3 422 762 3 374 210 3 377 104 3 462 312
+Crédits à court terme 1 980 678 1 993 314 1 970 254 1 976 250 1 956 276 1 959 133 1 927 019 1 944 673 1 956 560 1 953 458 1 904 062 1 920 977 1 972 780
+Crédits à moyen terme 1 283 362 1 294 286 1 287 976 1 291 261 1 289 842 1 310 379 1 328 671 1 366 781 1 381 859 1 367 505 1 368 434 1 355 516 1 388 012
+Crédits à long terme 93 928 93 596 93 076 93 962 93 508 93 122 95 736 95 215 95 257 101 799 101 714 100 611 101 520
+Masse monétaire (M2) 4 981 810 5 102 342 5 130 051 5 169 748 5 240 495 5 236 598 5 200 511 5 221 766 5 372 361 5 389 065 5 430 988 5 583 860 5 522 657
+Monnaie fiduciaire 1 013 317 1 000 693 970 965 1 042 629 1 056 772 1 069 163 1 054 998 1 062 683 1 073 744 1 124 054 1 127 834 1 121 266 1 160 206
+Monnaie scripturale 2 122 112 2 248 139 2 298 248 2 273 042 2 303 482 2 302 122 2 240 025 2 242 356 2 352 568 2 326 579 2 309 264 2 450 196 2 346 501
+Quasi-monnaie 1 846 381 1 853 510 1 860 838 1 854 077 1 880 241 1 865 313 1 905 488 1 916 727 1 946 049 1 938 432 1 993 890 2 012 398 2 015 950
+Taux de couverture extérieure de la
+76,40 76,21 78,12 78,48 77,65 77,35 76,16 77,43 76,81 78,66 85,87 90,75 85,22
+monnaie (en %)
+Source: BEAC
+2019 2020
+CAMEROUN
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 0,2% 9,4% 18,6% 18,5% 19,5% 14,1% 9,3% 9,6% 23,7% 14,1% 24,7% 38,9% 23,9%
+dont BEAC 7,7% 17,0% 26,9% 35,9% 35,4% 32,6% 17,8% 18,0% 16,4% 11,5% 27,6% 29,8% 13,3%
+Créances nettes sur l'Etat 350,7% 102,6% 176,0% 281,9% 282,7% 185,8% 146,8% 258,5% 45,5% 52,6% 64,7% 45,9% 63,3%
+Crédits à l'économie 7,8% 7,2% 6,2% 4,2% 3,3% 2,9% 2,2% 3,5% 2,9% 0,2% 0,6% 1,0% 3,1%
+Crédits à court terme 2,8% 2,6% 1,8% -0,5% -0,2% -0,9% -2,8% -2,2% -3,2% -4,8% -4,6% -3,0% -0,4%
+Crédits à moyen terme 17,2% 16,1% 14,3% 12,5% 9,0% 9,0% 9,8% 12,6% 12,3% 7,7% 8,0% 6,8% 8,2%
+Crédits à long terme -1,3% -2,1% 1,6% 3,9% 4,6% 4,2% 10,1% 9,1% 10,5% 7,8% 9,0% 8,8% 8,1%
+Masse monétaire (M2) 11,6% 11,8% 15,4% 16,4% 18,1% 15,9% 14,4% 13,7% 14,8% 6,9% 9,4% 13,9% 10,9%
+Monnaie fiduciaire 9,8% 9,4% 7,6% 15,3% 16,6% 14,1% 9,5% 8,5% 5,4% 6,5% 12,5% 13,0% 14,5%
+Monnaie scripturale 11,5% 14,7% 20,5% 20,4% 22,0% 18,0% 14,0% 13,1% 16,9% 6,7% 7,1% 17,5% 10,6%
+Quasi-monnaie 12,8% 9,9% 13,7% 12,4% 14,5% 14,3% 17,8% 17,7% 17,9% 7,3% 10,3% 10,2% 9,2%
+Contribution à la croissance de M2 (En point de pourcentage)
+Avoirs extérieurs nets 0,1 4,0 7,9 7,8 7,9 5,8 3,7 4,0 8,9 5,8 10,2 15,6 9,8
+Créances nettes sur l'Etat 9,4 5,7 7,5 9,0 10,8 9,0 9,2 12,2 5,0 4,9 6,2 5,4 6,8
+Crédits à l'économie 5,4 5,0 4,4 3,1 2,4 2,1 1,6 2,5 2,0 0,1 0,4 0,7 2,1
+Autres postes nets -3,3 -2,8 -4,5 -3,5 -3,0 -1,0 -0,2 -5,1 -1,2 -3,9 -7,4 -7,8 -7,8
+Source: BEAC
+
+--- Page 28 ---
+27
+T20. République Centrafricaine : Agrégats de monnaie et de crédit
+(En millions de FCFA)
+2019 2020
+REP CENTRAFRICAINE
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 68 155 65 591 58 292 101 885 91 518 88 901 82 868 67 191 57 600 89 219 74 820 55 104 68 393
+dont BEAC 33 359 33 319 21 843 62 261 51 874 45 617 28 497 22 065 10 861 37 031 24 600 18 079 30 221
+Créances nettes sur l'Etat 196 089 201 394 202 906 149 669 162 946 168 877 178 807 186 903 191 372 185 619 194 193 198 684 203 401
+Crédits à l'économie 159 169 154 574 150 231 157 847 146 649 143 818 147 315 147 254 150 720 154 171 153 023 154 361 156 477
+Crédits à court terme 92 623 88 569 83 283 88 158 82 114 71 708 80 081 80 931 84 969 88 698 88 306 90 223 91 835
+Crédits à moyen terme 53 082 52 660 53 440 56 278 49 793 57 559 52 157 51 281 50 832 50 527 49 745 49 289 49 833
+Crédits à long terme 13 464 13 345 13 508 13 411 14 742 14 551 15 077 15 042 14 919 14 946 14 972 14 849 14 809
+Masse monétaire (M2) 364 551 370 580 366 352 347 517 348 114 350 316 353 410 356 198 361 276 395 424 386 888 381 590 388 758
+Monnaie fiduciaire 185 967 188 399 190 903 175 757 177 659 178 913 179 913 179 413 180 571 192 290 184 343 182 811 187 323
+Monnaie scripturale 114 628 118 519 112 638 111 348 109 400 112 986 116 170 118 034 121 016 141 039 139 761 136 942 139 174
+Quasi-monnaie 63 956 63 662 62 811 60 412 61 055 58 417 57 327 58 751 59 689 62 095 62 784 61 837 62 261
+Taux de couverture extérieure de la
+81,15 80,36 79,42 82,00 82,65 81,80 81,35 80,31 80,27 81,32 81,42 80,62 83,23
+monnaie (en %)
+Source: BEAC
+2019 2020
+REP CENTRAFRICAINE
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets -17,9% -28,2% -22,2% 5,3% -12,1% -19,9% -7,9% -5,7% -21,3% 11,7% 11,1% -24,0% 0,3%
+dont BEAC -37,5% -32,3% -44,8% 12,9% -8,9% -31,8% -52,4% -58,8% -80,0% -29,0% -40,6% -52,2% -9,4%
+Créances nettes sur l'Etat 29,2% 32,5% 26,8% 0,4% 6,6% 14,5% 14,9% 11,8% 11,6% 11,4% 8,0% 7,3% 3,7%
+Crédits à l'économie 13,2% 11,3% 9,6% 15,3% 7,3% 2,0% 4,9% 0,2% -0,2% -1,4% -5,1% -5,0% -1,7%
+Crédits à court terme 25,3% 22,0% 0,8% 6,9% 0,3% -18,2% -8,1% -13,5% -9,6% 0,5% -5,7% -5,6% -0,9%
+Crédits à moyen terme -2,9% -2,9% 17,3% 24,8% 9,2% 30,8% 18,9% 16,8% 7,1% -11,2% -11,8% -11,7% -6,1%
+Crédits à long terme 12,5% 10,7% 50,3% 44,1% 58,7% 57,3% 60,5% 59,3% 56,8% 33,2% 33,8% 33,4% 10,0%
+Masse monétaire (M2) 16,5% 14,5% 16,3% 7,9% 6,2% 6,0% 6,0% 7,3% 4,8% 11,5% 8,3% 4,9% 6,6%
+Monnaie fiduciaire 17,9% 14,0% 15,7% 4,5% 4,1% 3,4% 3,8% 2,6% 1,0% 4,9% 1,0% -0,5% 0,7%
+Monnaie scripturale 21,2% 21,5% 19,7% 14,3% 11,3% 12,9% 15,4% 23,7% 13,8% 29,5% 26,3% 18,5% 21,4%
+Quasi-monnaie 5,4% 4,5% 12,3% 7,2% 3,7% 1,8% -3,6% -4,7% -0,1% -0,3% -1,9% -4,3% -2,7%
+Contribution à la croissance de M2 (En point de pourcentage)
+Avoirs extérieurs nets -4,7 -8,0 -5,3 1,6 -3,9 -6,7 -2,1 -1,2 -4,5 2,6 2,1 -4,8 0,1
+Créances nettes sur l'Etat 14,1 15,3 13,6 0,2 3,1 6,5 7,0 5,9 5,8 5,4 4,0 3,7 2,0
+Crédits à l'économie 5,9 4,9 4,2 6,5 3,0 0,9 2,1 0,1 -0,1 -0,6 -2,3 -2,2 -0,7
+Autres postes nets 1,1 2,3 3,8 -0,4 4,0 5,3 -1,0 2,5 3,6 4,2 4,5 8,2 5,3
+Source: BEAC
+
+--- Page 29 ---
+28
+T21. Congo : Agrégats de monnaie et de crédit
+(En millions de FCFA)
+2019 2020
+CONGO
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 191 341 215 597 246 289 340 869 374 181 423 416 475 636 369 437 376 301 531 452 516 367 564 404 605 227
+dont BEAC 181 397 205 702 223 063 303 476 343 733 354 846 374 537 311 010 363 196 478 132 458 000 491 682 505 487
+Créances nettes sur l'Etat 627 821 628 678 622 521 608 932 656 204 649 099 646 961 673 180 650 580 551 368 567 205 627 186 620 065
+Crédits à l'économie 1 098 663 1 074 293 1 073 994 1 077 724 1 070 603 1 045 029 1 021 723 1 032 441 1 051 691 1 081 856 1 067 800 1 068 630 1 041 073
+Crédits à court terme 571 817 549 602 548 237 533 216 542 298 517 446 497 740 519 907 533 298 561 229 566 227 577 923 560 004
+Crédits à moyen terme 507 224 505 587 506 674 525 348 509 432 507 191 503 813 492 814 497 711 497 567 478 873 474 963 465 214
+Crédits à long terme 19 622 19 104 19 083 19 160 18 873 20 392 20 170 19 720 20 682 23 060 22 700 15 744 15 855
+Masse monétaire (M2) 1 606 551 1 587 680 1 628 402 1 733 266 1 773 118 1 823 710 1 824 127 1 774 978 1 775 107 1 829 690 1 872 051 1 906 660 1 864 268
+Monnaie fiduciaire 408 179 411 329 415 865 469 427 474 354 475 506 475 380 478 919 485 084 511 152 502 797 500 405 512 054
+Monnaie scripturale 894 108 877 289 907 531 948 361 986 649 1 029 500 1 038 269 977 316 969 963 975 376 1 041 055 1 070 456 1 004 575
+Quasi-monnaie 304 264 299 062 305 006 315 478 312 115 318 704 310 478 318 743 320 060 343 162 328 199 335 799 347 639
+Taux de couverture extérieure de la
+31,21 32,62 34,07 40,35 45,16 45,93 47,45 43,85 46,79 54,33 53,57 46,96 49,93
+monnaie (en %)
+Source: BEAC
+2019 2020
+CONGO
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 29,7% 38,8% 76,8% 135,8% 140,3% 96,4% 169,5% 105,7% 99,7% 119,8% 120,9% 138,4% 216,3%
+dont BEAC 68,9% 113,6% 153,1% 219,7% 222,1% 100,6% 129,3% 97,9% 118,4% 136,3% 130,4% 144,3% 178,7%
+Créances nettes sur l'Etat 7,2% 7,4% 5,3% -0,4% 9,1% 11,0% 20,6% 18,1% 28,5% -10,8% -7,0% 5,0% -1,2%
+Crédits à l'économie -6,3% -6,9% -5,3% -3,7% -4,9% -6,6% -9,7% -8,5% -6,5% -4,7% -1,8% -1,4% -5,2%
+Crédits à court terme -0,2% -2,5% -0,1% -0,2% -0,7% -5,9% -11,2% -10,3% -7,1% -5,7% 2,8% 4,3% -2,1%
+Crédits à moyen terme -11,6% -10,5% -9,6% -6,1% -7,9% -6,4% -7,1% -5,8% -6,0% -4,5% -7,3% -6,9% -8,3%
+Crédits à long terme -24,3% -26,2% -24,7% -24,5% -29,6% -24,1% -28,7% -21,5% 0,4% 15,9% 15,8% -19,7% -19,2%
+Masse monétaire (M2) -1,9% -2,2% 1,5% 8,1% 10,4% 10,3% 12,0% 9,2% 10,7% 7,9% 15,9% 20,0% 16,0%
+Monnaie fiduciaire -1,5% -0,2% 0,8% 13,5% 17,7% 15,4% 15,8% 18,4% 19,6% 15,0% 26,1% 24,4% 25,4%
+Monnaie scripturale -2,0% -0,9% 5,0% 9,3% 11,6% 7,5% 13,4% 6,9% 9,1% 0,2% 12,5% 19,8% 12,4%
+Quasi-monnaie -2,1% -8,4% -7,2% -2,0% -2,1% 12,6% 2,5% 4,1% 3,4% 23,7% 13,0% 14,5% 14,3%
+Contribution à la croissance de M2 (En point de pourcentage)
+Avoirs extérieurs nets 2,7 3,7 6,7 12,2 13,6 12,6 18,4 11,7 11,7 17,1 17,5 20,6 25,8
+Créances nettes sur l'Etat 2,6 2,7 2,0 -0,2 3,4 3,9 6,8 6,3 9,0 -3,9 -2,6 1,9 -0,5
+Crédits à l'économie -4,5 -4,9 -3,8 -2,6 -3,4 -4,5 -6,7 -5,9 -4,5 -3,2 -1,2 -0,9 -3,6
+Autres postes nets -2,6 -3,7 -3,4 -1,4 -3,2 -1,6 -6,4 -2,9 -5,5 -2,1 2,3 -1,6 -5,7
+Source: BEAC
+
+--- Page 30 ---
+29
+T22. Gabon : Agrégats de monnaie et de crédit
+(En millions de FCFA)
+2019 2020
+GABON
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 543 171 628 592 565 866 519 429 456 099 465 566 469 270 461 794 476 615 479 698 521 101 751 556 708 848
+dont BEAC 463 253 495 230 447 384 449 897 328 487 281 758 340 596 398 680 399 540 384 926 459 437 647 461 612 129
+Créances nettes sur l'Etat 871 299 845 367 883 913 841 707 860 633 896 212 785 403 776 376 783 147 882 651 886 899 750 494 847 158
+Crédits à l'économie 1 114 653 1 099 103 1 098 291 1 119 137 1 135 422 1 187 407 1 173 528 1 167 680 1 155 159 1 196 145 1 255 328 1 171 979 1 159 582
+Crédits à court terme 562 382 545 004 548 734 561 909 567 211 584 654 562 140 553 961 571 237 593 730 650 715 569 728 574 593
+Crédits à moyen terme 532 060 534 153 530 209 537 951 549 145 584 468 593 594 595 877 566 193 585 181 587 335 585 127 568 299
+Crédits à long terme 20 211 19 946 19 348 19 277 19 066 18 285 17 794 17 842 17 729 17 234 17 278 17 124 16 690
+Masse monétaire (M2) 2 302 678 2 334 373 2 306 788 2 249 663 2 308 957 2 425 478 2 259 830 2 230 211 2 376 769 2 329 320 2 373 377 2 330 779 2 369 603
+Monnaie fiduciaire 373 950 378 354 387 416 333 360 341 314 330 345 326 832 338 066 337 233 360 637 356 645 370 395 373 714
+Monnaie scripturale 1 133 510 1 161 925 1 222 913 1 212 280 1 321 317 1 429 988 1 270 382 1 242 533 1 387 391 1 317 880 1 361 912 1 309 969 1 321 118
+Quasi-monnaie 795 218 794 094 696 459 704 023 646 326 665 145 662 616 649 612 652 145 650 803 654 820 650 415 674 771
+Taux de couverture extérieure de la
+71,26 72,73 71,97 72,19 69,61 67,96 70,46 73,29 71,18 73,88 81,09 84,59 83,04
+monnaie
+Source: BEAC
+2019 2020
+GABON
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 47,1% 24,0% 10,2% 6,6% -8,4% 4,7% 4,6% 8,3% 15,0% -20,1% -5,3% 88,0% 30,5%
+dont BEAC 99,9% 97,2% 78,3% 108,4% 25,6% 9,4% 52,8% 71,5% 56,8% -8,0% 19,4% 105,9% 32,1%
+Créances nettes sur l'Etat 12,0% 13,2% 21,0% 2,9% 7,0% 6,4% -9,8% -12,4% -15,4% 10,0% 0,9% -19,6% -2,8%
+Crédits à l'économie 8,5% 7,4% 3,2% 2,7% 6,3% 7,1% 3,7% 3,3% 2,7% 2,2% 11,8% 4,3% 4,0%
+Crédits à court terme -6,4% -9,6% -2,7% 1,6% 7,5% 11,4% 0,6% -1,4% 3,3% -1,6% 17,2% 2,5% 2,2%
+Crédits à moyen terme 32,4% 34,7% 11,1% 4,8% 6,3% 4,1% 7,6% 8,9% 2,8% 7,1% 7,5% 6,8% 6,8%
+Crédits à long terme -16,4% -16,5% -16,9% -17,1% -18,0% -17,7% -19,2% -17,9% -16,5% -17,8% -17,3% -15,6% -17,4%
+Masse monétaire (M2) 15,0% 12,5% 6,6% 0,7% 5,5% 9,3% 0,0% 0,0% 5,1% 0,9% 2,0% 5,2% 2,9%
+Monnaie fiduciaire 22,8% 22,3% 19,4% 0,1% 1,3% -4,7% -10,4% -9,0% -10,2% -6,4% -5,3% -1,7% -0,1%
+Monnaie scripturale 15,2% 11,3% 9,1% 3,5% 17,7% 26,0% 10,7% 10,7% 27,0% 15,7% 12,2% 23,6% 16,6%
+Quasi-monnaie 11,4% 10,0% -3,0% -3,6% -11,4% -9,8% -11,5% -11,8% -17,8% -17,2% -11,1% -16,4% -15,1%
+Contribution à la croissance de M2 (En point de pourcentage)
+Avoirs extérieurs nets 8,7 5,9 2,4 1,4 -1,9 0,9 0,9 1,6 2,8 -5,2 -1,3 15,9 7,2
+Créances nettes sur l'Etat 4,7 4,7 7,1 1,1 2,6 2,4 -3,8 -4,9 -6,3 3,5 0,3 -8,3 -1,0
+Crédits à l'économie 4,4 3,6 1,6 1,3 3,1 3,6 1,8 1,6 1,3 1,1 5,7 2,2 2,0
+Autres postes nets -2,7 -1,8 -4,4 -3,1 1,7 2,4 1,0 1,7 7,3 1,5 -2,8 -4,6 -5,2
+Source: BEAC
+
+--- Page 31 ---
+30
+T23. Guinée Equatoriale : Agrégats de monnaie et de crédit
+(En millions de FCFA)
+2019 2020
+GUINEE EQUATORIALE
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 46 674 62 257 98 349 112 952 161 441 185 918 137 504 42 969 -19 130 -76 982 -107 492 -90 626 -114 346
+dont BEAC -3 181 22 671 58 795 73 762 111 667 137 551 69 062 -12 100 -62 696 -125 004 -138 338 -115 554 -140 010
+Créances nettes sur l'Etat 557 739 527 660 473 082 473 310 495 479 491 355 556 605 281 443 318 096 384 218 390 327 358 271 413 078
+Crédits à l'économie 946 870 940 963 929 930 920 009 915 009 919 332 922 130 940 024 940 417 942 917 941 772 941 233 934 936
+Crédits à court terme 776 219 770 891 750 944 743 736 736 872 746 190 749 678 761 077 760 033 764 514 763 203 754 723 751 500
+Crédits à moyen terme 148 503 148 005 155 902 157 201 161 138 150 898 150 242 156 408 157 697 155 837 154 924 162 896 159 528
+Crédits à long terme 22 148 22 067 23 084 19 072 16 999 22 244 22 210 22 539 22 687 22 566 23 645 23 614 23 908
+Masse monétaire (M2) 1 109 811 1 107 884 1 085 024 1 093 411 1 145 502 1 175 172 1 159 733 1 100 825 1 060 318 1 070 435 1 054 739 1 024 013 1 042 471
+Monnaie fiduciaire 141 618 140 461 142 835 148 367 152 993 151 686 153 533 152 894 157 616 166 401 150 302 145 465 151 014
+Monnaie scripturale 702 174 721 557 692 444 695 743 742 307 763 389 750 812 692 883 656 820 652 043 643 856 624 611 636 099
+Quasi-monnaie 266 019 245 866 249 745 249 301 250 202 260 097 255 388 255 048 245 882 251 991 260 581 253 937 255 358
+Taux de couverture extérieure de la
+7,37 10,84 14,41 16,35 20,37 23,26 16,38 7,26 7,57 7,28 7,18 7,79 7,78
+monnaie (en %)
+Source: BEAC
+2019 2020
+GUINEE EQUATORIALE
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 7069,6% -- 318,4% 8,0% 77,4% 103,9% 534,6% -- -- -- -- -1540,9% --
+dont BEAC 97,5% -- -- -- -- -- -- 90,6% -136,9% -311,4% -363,2% -8,4% -4301,4%
+Créances nettes sur l'Etat 79,7% 80,6% 61,3% 131,2% 180,7% 121,0% 143,5% 8,8% 85,0% 17,7% 7,9% -39,9% -25,9%
+Crédits à l'économie -18,6% -19,8% -20,6% -21,1% -22,4% -21,0% -21,7% -21,1% -22,3% -20,6% -21,0% -0,3% -1,3%
+Crédits à court terme -21,2% -22,8% -24,6% -25,8% -27,4% -25,4% -26,2% -26,1% -27,5% -25,6% -25,1% -2,7% -3,2%
+Crédits à moyen terme -2,6% -1,3% 3,8% 11,6% 14,1% 7,9% 8,0% 12,8% 10,6% 11,0% 1,0% 10,8% 7,4%
+Crédits à long terme -11,3% -10,7% -7,0% -18,3% -26,9% -4,7% -4,8% -0,6% 10,8% 10,3% 13,1% 12,5% 7,9%
+Masse monétaire (M2) 0,9% 1,7% -3,4% -1,3% 6,9% 8,0% 9,3% 4,2% -1,2% -7,9% -7,9% -7,8% -6,1%
+Monnaie fiduciaire -2,5% -0,1% 4,0% 6,0% 11,1% 10,7% 13,8% 10,9% 13,1% 3,0% 0,6% 0,4% 6,6%
+Monnaie scripturale 0,8% 7,7% -4,4% -1,4% 10,8% 11,1% 13,2% 5,5% -1,7% -11,1% -11,9% -11,4% -9,4%
+Quasi-monnaie 3,1% -11,8% -4,6% -5,1% -5,2% -1,6% -2,9% -2,9% -7,4% -5,7% -1,8% -2,5% -4,0%
+Contribution à la croissance de M2 (En point de pourcentage)
+Avoirs extérieurs nets 4,2 6,4 6,7 0,8 6,6 8,7 10,9 5,5 -9,7 -15,1 -11,1 -7,7 -14,5
+Créances nettes sur l'Etat 22,5 21,6 16,0 24,2 29,8 24,7 30,9 2,2 13,6 5,0 2,5 -21,4 -13,0
+Crédits à l'économie -19,7 -21,3 -21,4 -22,2 -24,6 -22,4 -24,1 -23,8 -25,2 -21,1 -21,9 -0,3 -1,1
+Autres postes nets -6,1 -5,0 -4,6 -4,1 -4,8 -3,1 -8,4 20,3 20,1 23,3 22,6 21,5 22,6
+Source: BEAC
+
+--- Page 32 ---
+31
+T24. Tchad : Agrégats de monnaie et de crédit
+(En millions de FCFA)
+2019 2020
+TCHAD
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets -193 366 -210 097 -185 451 -193 518 -156 533 -140 496 -148 111 -153 936 -173 531 -151 222 -169 379 -155 036 -137 599
+dont BEAC -131 497 -148 927 -112 660 -126 686 -99 956 -96 365 -100 530 -130 393 -110 694 -85 256 -114 702 -88 518 -89 301
+Créances nettes sur l'Etat 593 124 646 627 639 476 702 298 663 731 673 723 688 034 682 786 691 770 725 443 713 893 687 357 683 611
+Crédits à l'économie 639 168 623 042 630 719 626 772 632 216 637 439 646 378 644 631 639 451 633 361 641 123 652 086 651 517
+Crédits à court terme 449 593 441 705 446 583 445 965 455 118 460 206 453 586 464 990 465 646 438 421 450 051 457 157 456 079
+Crédits à moyen terme 167 006 158 116 159 388 158 473 154 934 155 163 172 450 163 531 157 680 178 861 175 686 179 657 180 605
+Crédits à long terme 22 569 23 221 24 748 22 334 22 164 22 070 20 342 16 110 16 125 16 079 15 386 15 272 14 833
+Masse monétaire (M2) 925 077 940 812 968 983 972 896 997 718 1 030 521 1 042 412 1 039 652 1 044 425 1 092 105 1 117 585 1 068 708 1 083 346
+Monnaie fiduciaire 354 077 356 582 371 951 343 805 345 537 351 796 359 130 364 099 361 261 396 729 381 809 378 511 392 831
+Monnaie scripturale 487 530 490 067 504 509 538 456 564 486 588 117 592 022 586 152 599 727 600 990 641 115 600 627 591 533
+Quasi-monnaie 83 470 94 163 92 523 90 635 87 695 90 608 91 260 89 401 83 437 94 386 94 661 89 570 98 982
+Taux de couverture extérieure de la
+17,49 15,44 19,88 18,36 24,51 25,35 25,72 21,57 24,15 27,91 26,76 29,45 29,39
+monnaie (en %)
+Source: BEAC
+2019 2020
+TCHAD
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Avoirs extérieurs nets 27,6% 16,7% 26,7% 22,2% 42,2% 50,8% 49,8% 49,5% 39,1% 23,8% 11,2% 11,4% 28,8%
+dont BEAC 43,3% 32,6% 44,1% 37,6% 53,3% 55,8% 54,4% 42,5% 49,4% 36,3% 8,2% 21,5% 32,1%
+Créances nettes sur l'Etat 28,2% 38,6% 33,9% 46,0% 27,3% 23,4% 20,4% 13,8% 16,6% 38,9% 28,8% 22,1% 15,3%
+Crédits à l'économie 3,0% 1,3% 4,2% 1,2% 4,2% 3,5% 4,5% 4,9% 4,5% 1,4% 2,9% 3,4% 1,9%
+Crédits à court terme -5,2% -4,7% -1,2% 0,0% 3,3% 2,9% 3,3% 8,1% 8,5% 0,1% 2,3% 2,5% 1,4%
+Crédits à moyen terme 30,1% 18,2% 20,3% 3,9% 6,1% 3,1% 8,0% 1,7% -1,7% 9,4% 9,5% 11,1% 8,1%
+Crédits à long terme 25,1% 30,0% 20,5% 9,3% 8,8% 19,2% 1,6% -31,4% -28,0% -30,2% -32,9% -33,0% -34,3%
+Masse monétaire (M2) 12,1% 12,3% 15,3% 20,3% 21,3% 22,9% 22,5% 21,0% 20,1% 24,9% 23,9% 16,5% 17,1%
+Monnaie fiduciaire 12,7% 13,3% 18,1% 13,2% 14,1% 8,6% 11,9% 12,7% 10,9% 16,7% 14,8% 11,1% 10,9%
+Monnaie scripturale 15,2% 15,1% 18,0% 31,9% 29,9% 40,9% 36,8% 35,1% 35,0% 37,7% 35,2% 23,5% 21,3%
+Quasi-monnaie -5,4% -3,0% -5,2% -6,1% 2,8% -6,9% -6,0% -12,8% -16,3% -4,1% -0,8% -0,9% 18,6%
+Contribution à la croissance de M2 (En point de pourcentage)
+Avoirs extérieurs nets 8,9 5,0 8,0 6,8 13,9 17,3 17,3 17,6 12,8 5,4 2,4 2,2 6,0
+Créances nettes sur l'Etat 15,8 21,5 19,3 27,4 17,3 15,2 13,7 9,6 11,3 23,2 17,7 13,5 9,8
+Crédits à l'économie 2,2 1,0 3,1 1,0 3,1 2,5 3,2 3,5 3,2 1,0 2,0 2,3 1,3
+Autres postes nets -14,9 -15,2 -15,0 -14,9 -13,0 -12,2 -11,7 -9,7 -7,2 -4,8 1,8 -1,5 0,0
+Source: BEAC
+
+--- Page 33 ---
+32
+T25. Evolution des principaux taux directeurs de la BEAC
+(en pourcentage)
+2019 2020
+avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20 avr-20
+Taux d'interet des appels d'offres (TIAO) 3,50 3,50 3,50 3,50 3,50 3,50 3,50 3,50 3,50 3,50 3,50 3,25 3,25
+Taux interbancaire moyen pondéré (TIMP) 4,98 4,57 4,56 5,15 4,50 3,84 3,35 4,65 5,01 4,67 4,75 4,82 4,76
+Taux d'intérêt sur placement à 7 jours "TISP" 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00
+Taux d'intérêt sur placement à 28 jours "TISP" 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00
+Taux d'intérêt sur placement à 84 jours "TISP" 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00
+Taux créditeur minimim (TCM) 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45
+Taux d'interet de la zone Euro
+Taux d'appels d'offre 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00
+Facilité de dépots -0,40 -0,40 -0,40 -0,40 -0,40 -0,50 -0,50 -0,50 -0,50 -0,50 -0,50 -0,50 -0,50
+* Les taux du marché monétaire sont les taux de fin de période
+G29. Evolution comparée du TIAO et du taux d'appels d'offres de la BCE G30. Evolution comparée du TISP et du taux de facilité de
+dépôts de la BCE
+4,0
+0,00
+3,5
+3,0
+-0,10
+2,5
+-0,20
+2,0
+1,5
+-0,30
+1,0
+-0,40
+0,5
+0,0
+-0,50
+9 9 9 9 9 9 9 9 9 0 0 0 0
+1 1 1 1 1 1 1 1 1 2 2 2 2
+-rv
+a
+-ia
+m
+-n
+iu j
+-liu
+j
+-tû
+o a
+-tp
+e s
+-tc
+o
+-v
+o n
+-c
+é d
+-v
+n a j
+-rv
+é f
+-sra
+m
+-rv
+a -0,60
+Taux d'interet des appels d'offres (TIAO) Taux d'appels d'offre Taux d'intérêt sur placement à 7 jours "TISP" Facilité de dépots
+
+--- Page 34 ---
+33
+T26. Evolution des principaux indicateurs de la liquidité
+(Montants en millions de FCFA)
+2019 2020
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Réserves totales* 2 438 360 2 445 410 2 412 017 2 431 669 2 449 609 2 335 284 2 220 479 2 530 540 2 130 383 2 319 212 2 419 370 2 558 209 2 423 348
+Réserves libres 1 853 042 1 856 163 1 799 533 1 766 802 1 798 420 1 647 822 1 526 549 1 822 442 1 435 477 1 619 589 1 739 710 1 861 187 1 714 420
+Réserves obligatoires** 585 318 589 247 612 484 664 867 651 189 687 462 693 930 708 098 694 906 699 623 679 660 697 022 708 928
+Réserves / Dépôts 27,8% 27,4% 26,9% 27,1% 26,6% 24,8% 24,0% 27,8% 22,8% 25,0% 25,6% 26,9% 25,8%
+119,7% 122,8% 123,8% 124,0% 127,5% 128,9% 126,4% 123,5% 125,8% 124,4% 126,9% 128,7% 126,9%
+Dépôts/ Crédits à l'économie
+Réserves/ Total bilan 17,7% 17,6% 17,3% 17,4% 17,3% 16,2% 15,6% 18,0% 14,8% 16,2% 16,7% 17,6% 16,9%
+Réserves libres / 316,6% 315,0% 293,8% 265,7% 276,2% 239,7% 220,0% 257,4% 206,6% 231,5% 256,0% 267,0% 241,8%
+Réserves Obligatoires
+Réserves libres /
+25,3% 25,6% 24,9% 24,4% 24,9% 22,5% 20,9% 24,8% 19,4% 21,7% 23,4% 25,2% 23,1%
+Crédits à l'économie
+* en millions de FCFA
+** Conformément à la Décision du CPM n°11/CPM/2018, les réserves obligatoires sont constituées depuis le 11 décembre 2017 sur le compte courant des établissements de crédit assujettis
+G31. Evolution de la structure des reserves des banques (réserves libres et obligatoires) de la CEMAC
+100,0%
+80,0% % 0 ,4 2 % 1 ,4 2 % 4 ,5 2 % 3 ,7 2 % 6 ,6 2 % 4 ,9 2 % 3 ,1 3 % 0 ,8 2 % 6 ,2 3 % 2 ,0 3 % 1 ,8 2 % 2 ,7 2 % 3 ,9 2
+60,0%
+40,0% % 0 0 ,6 7 % 0 9 ,5 7 % 1 6 ,4 7 % 6 6 ,2 7 % 2 4 ,3 7 % 6 5 ,0 7 % 5 7 ,8 6 % 2 0 ,2 7 % 8 3 ,7 6 % 3 8 ,9 6 % 1 9 ,1 7 % 5 7 ,2 7 % 5 7 ,0 7
+20,0%
+0,0%
+mars-19 avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20
+Réserves libres Réserves obligatoires**
+
+--- Page 35 ---
+34
+T27. Données de base du marché monétaire de la CEMAC*
+2019 2020 (En millions de FCFA)
+Instruments de gestion de la liquidité avr-19 mai-19 juin-19 juil-19 août-19 sept-19 oct-19 nov-19 déc-19 janv-20 févr-20 mars-20 avr-20
+Interventions de la BEAC 358 496 337 143 335 255 298 282 281 612 277 500 275 488 280 782 287 740 257 148 269 600 288 763 266 406
+Opération principale d'injection de liquidité 131 000 94 969 78 333 64 355 60 017 58 553 48 065 40 000 40 000 40 000 16 552 0 53 783
+Facilité de prêt marginal 121 288 124 293 149 243 135 704 141 775 147 896 173 207 184 593 211 870 182 047 202 899 218 117 178 852
+Réglage fin (injection) 0 0 0 0 0 0 0 0 0 0 0 0 0
+Avance intrajournalière 435 1 581 0 0 0 0 0 0 0 0 0 0 50
+Avances au taux de pénalité 1 387 0 29 561 0 0 0 0 0 0 0 0 0 0
+Opération à maturité longue 0 0 8 571 38 871 67 950 79 727 72 000 63 226 45 161 36 533 20 000 18 000 0
+Opération structurelle 0 0 0 0 0 0 0 0 0 0 0 0 0
+Apport liquidité d'urgence 2 452 0 0 0 0 0 0 0 0 0 0 0 0
+Guichet spécial 42 207 40 797 39 048 39 004 38 258 38 154 35 679 34 997 34 561 34 517 34 217 38 189 33 721
+Facilités de dépôt 0 0 0 0 0 0 0 0 0 0 0 0 0
+Opération principale de reprise de liquidité 0 0 0 0 0 0 0 0 0 0 15 552 36 032 0
+Réglage fin (ponction) 0 0 0 0 0 0 0 0 0 0 0 0 0
+Opération structurelle 0 0 0 0 0 0 0 0 0 0 0 0 0
+* moyennes mensuelles
+G32. Evolution du volume des injections de liquidité dans la CEMAC
+(en millions de FCFA)
+358496
+337143
+335255
+298282
+281612 277500 275488 280782 287740 257148 269600 288763 266406
+91-rva 91-iam 91-niu
+j
+91-liu
+j
+-tûoa91 91-tpes 91-tco 91-von 91-céd -vnaj02 02-rvéf -sram02 02-rva
+
+--- Page 36 ---
+35
+IV. PRINCIPAUX INDICATEURS
+ECONOMIQUES ET FINANCIERS
+
+--- Page 37 ---
+36
+T28. CEMAC : Principaux indicateurs économiques, financiers et sociaux
+2014 - 2023
+2014 2015 2016 2017 2018 2019 2020 2020 2021 2022 2023
+Estim (*) Sop (**) Sr Prév. Prév. Prév.
+PIB, prix et population (Variation annuelle en %, sauf indications contraires)
+Taux de croissance (PIB reel) 4,0 1,6 -1,4 0,7 1,8 2,1 -3,7 -5,9 3,6 3,9 3,5
+dont secteur pétrolier 2,9 0,0 -6,7 -5,6 1,2 2,1 -1,9 -1,9 2,4 0,2 -3,6
+secteur non pétrolier 4,4 2,1 0,1 2,4 1,9 2,0 -4,1 -6,9 3,9 4,8 5,1
+Contribution du secteur pétrolier à la croissance réelle 0,7 0,0 -1,5 -1,2 0,2 0,4 -0,4 -0,4 0,5 0,0 -0,7
+Contribution du secteur non pétrolier à la croissance réelle 3,4 1,6 0,1 1,9 1,5 1,6 -3,3 -5,5 3,1 3,9 4,1
+Taux de croissance demographique (moyen) 2,9 2,9 2,9 2,9 2,9 2,9 2,9 2,9 2,9 2,9 2,9
+Inflation (prix à la consommation, en moy annuelle, décembre) 3,2 2,5 1,1 0,9 2,3 2,0 2,4 2,5 2,7 2,8 2,8
+Finances publiques
+Recettes totales 1,6 -25,7 -19,0 3,7 17,7 3,8 -25,5 -32,6 19,4 9,3 7,3
+dont recettes pétrolières -8,2 -45,6 -33,0 10,4 39,0 1,6 -46,1 -60,6 32,5 9,9 3,9
+recettes non pétrolières 17,3 -0,8 -9,4 0,3 5,8 5,5 -10,9 -12,9 13,8 9,1 9,0
+Depenses totales 11,7 -14,3 -12,0 -10,7 -3,9 2,1 -6,4 -6,5 9,1 2,2 2,2
+dont dépenses courantes 13,4 -6,2 -1,9 -2,4 -2,0 5,0 -5,2 -5,4 2,5 1,5 1,5
+dépenses en capital 10,0 -22,7 -24,5 -24,0 -7,8 -4,3 -9,4 -9,4 25,7 3,5 3,6
+Monnaie et crédit
+Avoirs extérieurs nets -9,9 -25,7 -58,0 -4,1 8,3 6,3 -56,4 -106,1 54,6 38,9 53,4
+Crédits à l'économie 8,5 9,9 5,3 -1,9 4,0 -3,6 -6,9 -8,8 4,3 13,0 10,6
+Créances nettes sur l'Etat 40,9 80,6 798,3 13,1 22,1 23,9 43,4 62,9 10,0 8,5 -3,4
+Masse monetaire (M2) 5,5 -6,6 0,0 -0,4 8,3 5,8 -3,9 -9,2 13,6 16,5 12,7
+Taux de couverture exterieure (fin de periode) 89,8 77,1 59,1 57,5 61,4 67,1 64,7 55,2 70,5 76,8 83,1
+Vitesse de circulation de la monnaie (PIB/M2) 3,4 3,8 3,8 3,9 3,7 3,6 3,7 3,8 3,5 3,2 3,0
+Secteur exterieur
+Exportations, fob -4,9 -30,7 -16,4 20,2 22,1 2,2 -36,8 -51,4 9,6 6,2 2,5
+Importations, fob 16,0 -1,9 -14,2 -19,6 4,1 4,0 -13,7 -23,6 6,8 10,4 6,8
+Termes de l'echange -5,5 -38,4 7,3 12,6 9,1 -5,4 -33,4 -47,4 13,7 4,8 2,9
+Taux de change effectif réel 1,5 -3,9 0,6 -3,8… … … … … … …
+Taux de change effectif réel des exportations 5,0 -4,6 -2,9 -3,7… … … … … … …
+Taux de change effectif réel des importations -0,7 -3,5 0,3 -5,7… … … … … … …
+Marge de compétitivité cumulée depuis 1994 10,4 13,9 13,4 16,7… … … … … … …
+Monnaie et crédit (Contribution à la croissance de la masse monétaire, en %)
+Avoirs extérieurs nets -8,2 -17,7 -31,3 -0,6 1,7 1,3 -12,4 -23,3 5,4 8,6 8,6
+Avoirs intérieurs nets 13,7 11,1 31,3 0,2 6,6 4,5 8,4 14,1 8,3 7,9 4,1
+Crédit intérieur net 16,5 18,5 30,2 1,6 8,7 4,4 10,3 15,8 7,7 11,6 4,3
+Créances nettes sur l'Etat 11,5 12,5 26,4 3,0 5,7 6,9 14,8 21,4 5,1 4,2 -1,6
+Crédits à l'économie 5,0 6,0 3,7 -1,4 2,9 -2,5 -4,5 -5,6 2,7 7,4 5,9
+Masse monétaire (M2) 5,5 -6,6 0,0 -0,4 8,3 5,8 -3,9 -9,2 13,6 16,5 12,7
+Comptes nationaux (Contribution à la croissance réelle, en %)
+Produit intérieur brut 4,0 1,6 -1,4 0,7 1,8 2,1 -3,7 -5,9 3,6 3,9 3,5
+Demande intérieure brute 7,1 -5,8 -5,1 0,1 2,2 0,2 -6,3 -10,7 4,2 6,0 5,0
+Consommation 7,1 -3,4 -1,0 -4,0 1,0 1,1 -4,1 -7,8 3,3 4,6 3,9
+Publique -0,9 -2,0 0,3 0,4 -1,0 0,0 0,4 0,2 0,0 -0,8 -0,2
+Privée 8,0 -1,5 -1,3 -4,4 2,0 1,2 -4,5 -8,0 3,3 5,3 4,0
+Investissements bruts 0,0 -2,4 -4,1 4,1 1,2 -0,9 -2,3 -2,9 0,9 1,4 1,1
+Publics -0,6 -0,5 -1,9 -1,0 -0,2 -0,4 -0,6 -0,4 -0,1 -0,1 -0,2
+Privés (Entreprises et ménages) 0,9 -1,8 -1,5 5,1 0,9 -0,5 -1,6 -2,5 1,0 1,6 1,2
+Exportations nettes -3,1 7,4 3,7 0,6 -0,4 1,8 2,7 4,8 -0,6 -2,1 -1,5
+Exportations de biens et services non facteurs 0,7 0,5 -0,9 0,3 1,2 0,6 -1,1 -1,1 0,7 0,5 -0,5
+Importations de biens et services non facteurs -3,8 7,0 4,6 0,3 -1,6 1,2 3,7 5,9 -1,3 -2,6 -1,0
+Comptes nationaux (En % du PIB, sauf indications contraires)
+Investissements 11,3 11,0 7,0 4,8 4,7 4,4 4,7 5,1 5,3 5,0 4,8
+Epargne interieure 12,2 0,7 -0,1 8,2 9,5 9,2 2,7 0,7 3,7 1,6 0,9
+Epargne nationale 7,3 -2,1 -4,9 3,1 3,8 2,6 -1,6 -2,7 0,2 -2,1 -2,3
+Finances publiques
+Recettes totales 23,2 19,0 15,9 15,7 17,3 17,5 14,5 13,8 16,2 16,5 16,5
+Recettes pétrolières 12,9 7,7 5,4 5,6 7,3 7,2 4,3 3,3 5,4 5,5 5,3
+Recettes non pétrolières 10,3 11,3 10,6 10,1 10,0 10,2 10,1 10,5 10,8 11,0 11,2
+Depenses totales 1/ 27,7 26,1 23,8 20,1 18,2 18,0 18,8 19,8 19,1 18,2 17,4
+Dépenses courantes 14,0 14,4 14,7 13,6 12,5 12,7 13,4 14,2 12,9 12,2 11,6
+Dépenses en capital 13,7 11,6 9,1 6,5 5,7 5,3 5,3 5,6 6,3 6,0 5,9
+Solde budgetaire primaire (deficit - ) -1,3 -4,3 -4,1 -0,7 2,5 3,0 -0,3 -1,7 1,4 2,3 3,0
+Solde budgetaire de base (deficit - ) -1,9 -5,1 -5,4 -2,0 1,2 1,6 -1,7 -3,3 -0,1 0,8 1,6
+Solde budgetaire, base engagements hors dons (deficit - ) -4,6 -7,2 -8,0 -4,6 -1,0 -0,8 -4,5 -6,2 -3,2 -2,0 -1,1
+Solde budgetaire, base engagements dons compris (deficit - ) -4,0 -6,5 -7,3 -3,9 -0,3 0,0 -3,4 -4,5 -2,3 -1,1 -0,3
+Solde budgétaire de référence (>= -1,5 % du PIB) -4,1 -2,6 -3,3 -2,6 -2,7 -2,4 -2,9 -2,9 -2,6 -1,5 -1,1
+Secteur exterieur
+Exportations de biens et services non facteurs 38,9 30,8 27,1 31,3 34,6 34,5 25,3 21,5 25,8 25,5 24,7
+Importations de biens et services non facteurs -38,0 -41,1 -34,3 -27,9 -29,8 -29,7 -27,3 -25,9 -27,4 -28,9 -28,6
+Solde du compte courant (dons off.incl., def.- ) -4,1 -12,8 -12,4 -1,3 -0,7 -1,5 -5,8 -7,3 -4,6 -6,7 -6,7
+Solde du compte courant (dons off.excl., def. - ) -4,2 -13,0 -12,6 -2,0 -1,1 -2,0 -6,5 -8,1 -5,3 -7,3 -7,3
+Encours de la dette exterieure/PIB 19,7 26,1 33,7 33,6 31,7 31,4 36,8 38,8 37,1 36,6 36,1
+Encours de la dette interieure/PIB … … … 20,7 19,2 17,3 16,4 17,9 12,3 9,8 7,7
+Encours de la dette globale/PIB … … … 54,3 50,9 48,7 53,2 56,7 49,3 46,4 43,8
+Ratio du service de la dette publique/Recettes budgétaires 8,6 19,6 17,7 18,0 15,0 20,0 35,3 39,0 22,7 23,7 21,6
+Ratio du service de la dette publique/XBSNF 5,1 12,1 10,4 9,0 7,5 10,1 20,2 25,1 14,2 15,3 14,5
+Réserves extérieures (en mois d'importations de biens caf)) 6,8 5,2 2,9 3,8 4,3 4,8 5,0 4,3 5,6 5,8 6,7
+Réserves extérieures (en mois d'importations de biens et snf caf)) 4,9 3,7 2,3 2,8 2,9 3,2 3,5 3,0 3,9 3,9 4,5
+Pour mémoire
+PIB nominal (en milliards de FCFA) 53 857,0 49 004,8 47 300,5 49 887,6 53 018,2 54 696,9 49 169,7 46 449,1 52 540,2 56 406,8 60 230,9
+Population (en millions d'habitants) 50,7 52,2 53,7 55,3 56,9 58,5 60,2 60,2 62,0 63,8 65,7
+PIB par tête d'habitant (en $ E.U.) 2 150,7 1 588,0 1 485,6 1 553,7 1 678,7 1 594,8 1 386,7 1 310,0 1 415,9 1 477,1 1 532,5
+Sources: Administrations nationales, FMI et BEAC
+(*) Sop :Scénario Optimiste de la programmation monétaire 2020 révisée à fin mai avec un cours du baril de pétrole à 35,6 dollars (PEM d'avril 2020) ; les prévisions sectorielles sont celles formulées par les agents économiques en tenant compte, dans
+la mésure du possible, des effets de la crise sanitaire du COVID-19 et des mésures prises par les Etats (confinencement de 1 à 3 mois, fonds de solidarités, autres mésures de soutien), ainsi que des appuis des parténaires au développement.
+(**) Sr : Scénario Réaliste de la programmation monétaire 2020 révisée à fin mai avec un cours du baril de pétrole à 25 dollars ; les prévisions sectorielles sont celles formulées par les agents économiques en tenant compte, dans la mésure du possible,
+des effets de la crise sanitaire du COVID-19 et des mésures prises par les Etats (confinencement de 3 à 4 mois, fonds de solidarités, autres mésures de soutien), ainsi que des appuis des parténaires au développement.
+
+--- Page 38 ---
+37
+T29. CAMEROUN : Principaux indicateurs économiques, financiers et sociaux
+2014 - 2023
+2014 2015 2016 2017 2018 2019 2020 2020 2021 2022 2023
+Estim (*) Sop (**) Sr Prév. Prév. Prév.
+PIB, prix et population (Variations annuelles, en %)
+Taux de croissance (PIB réel) 5,9 5,7 4,6 3,5 4,1 3,7 -3,9 -5,2 4,4 4,8 5,1
+Secteur pétrolier 14,4 24,8 -3,6 -16,4 -2,7 6,9 2,0 2,0 -2,6 -2,5 -2,5
+Secteur non pétrolier 5,4 4,4 5,3 5,0 4,4 3,6 -4,2 -5,6 4,8 5,2 5,5
+Taux de croissance demographique (moyen) 2,6 2,6 2,6 2,6 2,6 2,6 2,6 2,6 2,6 2,6 2,6
+Inflation (déflateur du PIB non pétrolier) 2,7 3,9 1,4 0,1 0,5 1,9 2,0 2,0 2,4 2,5 2,7
+Inflation (prix à la consommation, en moyenne annuelle, juin, Décembre à compter de 2001) 1,8 2,7 0,9 0,6 1,1 2,5 2,6 2,6 2,6 2,7 2,7
+Inflation (prix à la consommation, en moy annuelle, décembre) 1,8 2,7 0,9 0,6 1,1 2,5 2,6 2,6 2,6 2,7 2,7
+Finances publiques
+Recettes totales 5,0 11,0 -8,6 8,7 12,4 2,1 -17,2 -19,9 15,4 10,1 9,7
+Recettes pétrolières -17,5 -3,6 -23,6 -9,2 29,6 16,8 -39,6 -53,9 4,4 4,2 2,0
+Recettes non pétrolières 13,2 14,9 -5,3 11,9 9,9 -0,4 -12,7 -13,1 17,0 10,9 10,6
+Dépenses totales 5,4 1,3 17,5 2,4 -2,1 8,3 -15,2 -15,2 11,8 4,0 2,2
+Dépenses courantes 3,4 5,5 3,4 2,8 3,5 10,6 -13,8 -13,8 2,6 1,5 0,6
+Dépenses en capital 9,4 -6,7 47,8 1,9 -10,6 4,3 -17,8 -17,8 29,8 8,0 4,6
+Monnaie et crédit
+Avoirs extérieurs nets 7,6 26,5 -19,1 15,5 5,1 14,1 -22,7 -26,0 18,3 13,2 32,4
+Crédits à l'économie 8,9 14,8 4,5 2,7 12,1 0,2 -3,5 -5,0 3,9 17,2 14,6
+Créances nettes sur l'Etat 1,4 -202,0 119,3 15,3 244,2 52,6 62,9 86,0 -11,3 15,5 56,7
+Masse monétaire (M2) 11,1 8,5 5,3 5,7 14,6 6,9 -3,8 -3,1 11,5 11,6 11,7
+Concours de la BEAC aux banques 424,0 233,1 105,2 -62,4 -48,2 36,3 62,4 257,9 -120,3 0,6 0,0
+Taux de couverture extérieure (fin de periode) 93,1 86,8 73,6 71,0 75,8 78,7 75,4 71,6 81,1 84,3 88,8
+Vitesse de circulation de la monnaie (PIB/M2) 4,4 4,4 4,5 4,5 4,1 4,0 4,1 4,0 3,9 3,8 3,7
+Taux BEAC - TIAO fin de période (à partir de 1994/1995) 2,95 2,45 2,45 2,95 2,95 3,50 2,95 3,50 3,50 3,50 3,50
+Secteur extérieur
+Exportations, fob 8,0 -4,9 -11,7 -1,8 7,3 7,9 -20,5 -33,8 6,0 2,9 2,8
+Importations, fob 11,8 -4,6 -13,4 -2,4 12,5 5,3 -7,7 -10,9 17,0 12,7 10,9
+Termes de l'échange -9,6 -34,8 -14,3 16,4 20,3 -2,2 -25,3 -36,4 0,0 -4,4 -2,9
+Variation des prix à l'exportation -10,2 -22,1 -27,0 13,8 20,7 0,9 -27,5 -38,3 0,6 -3,8 -2,0
+Variation des prix à l'importation -0,6 19,4 -14,8 -2,2 0,3 3,2 -2,9 -2,9 0,5 0,7 0,9
+Taux de change effectif réel 1,4 -1,0 2,7 1,4 … … … … … … …
+Taux de change effectif réel des exportations 5,8 -1,5 -0,5 1,7 … … … … … … …
+Taux de change effectif réel des importations 0,5 -1,2 3,6 1,4 … … … … … … …
+Marge de compétitivité cumulée depuis 1994 28,0 28,7 26,8 25,8 … … … … … … …
+Monnaie et crédit (Contribution à la croissance de la masse monétaire, en %)
+Avoirs extérieurs nets 3,3 11,9 -10,2 6,6 2,2 5,7 -9,9 -11,4 6,4 4,9 12,3
+Avoirs intérieurs nets 7,8 -3,4 15,5 -0,9 12,4 1,1 6,1 8,3 5,0 6,7 -0,6
+Crédit intérieur net 6,3 -1,2 21,7 2,3 16,0 5,0 6,1 8,3 5,0 6,7 -0,6
+Créances nettes sur l'Etat 0,1 -11,3 18,5 0,4 7,6 4,9 8,4 11,5 2,6 -3,5 -9,7
+Crédits à l'économie 6,2 10,0 3,2 1,9 8,4 0,1 -2,2 -3,2 2,5 10,2 9,1
+Autres postes nets 1,6 -2,1 -6,2 -3,3 -3,5 -3,9 0,0 0,0 0,0 0,0 0,0
+Masse monétaire (M2) 11,1 8,5 5,3 5,7 14,6 6,9 -3,8 -3,1 11,5 11,6 11,7
+Comptes nationaux (Contribution à la croissance réelle, en %)
+Produit intérieur brut 5,9 5,7 4,6 3,5 4,1 3,7 -3,9 -5,2 4,4 4,8 5,1
+dont secteur pétrolier 0,8 1,5 -0,3 -1,1 -0,1 0,3 0,1 0,1 -0,1 -0,1 -0,1
+secteur non pétrolier 5,1 4,1 4,9 4,6 4,2 3,4 -4,0 -5,3 4,5 4,9 5,2
+Demande intérieure brute 7,3 4,1 4,4 3,7 5,7 4,1 -4,6 -7,2 7,6 7,2 7,5
+Consommation 4,2 4,2 2,7 2,6 3,6 2,0 -2,9 -4,0 4,9 5,9 6,4
+Publique 0,6 0,6 0,4 -0,2 0,5 0,4 -1,3 -1,8 -1,5 -0,3 -0,2
+Privée 3,6 3,6 2,2 2,8 3,1 1,6 -1,5 -2,1 6,4 6,1 6,6
+Investissements bruts 3,1 -0,1 1,7 1,1 2,1 2,2 -1,7 -3,2 2,8 1,3 1,2
+Publics 0,2 0,0 0,8 -0,3 -0,2 -0,6 -0,8 -0,8 0,8 0,1 0,0
+Privés (Entreprises et ménages) 3,1 0,7 0,5 1,4 2,0 2,8 -0,9 -2,4 1,9 1,2 1,2
+Variation des stocks -0,2 -0,8 0,4 0,1 0,2 0,0 0,0 0,0 0,0 0,0 0,0
+Exportations nettes -1,4 1,5 0,3 -0,2 -1,6 -0,4 0,7 2,0 -3,2 -2,4 -2,4
+Exportations de biens et services 1,2 1,4 -0,1 -0,3 0,5 0,6 -1,3 -1,2 0,2 0,6 0,2
+Importations de biens et services -2,6 0,1 0,4 0,2 -2,1 -1,0 2,0 3,2 -3,4 -2,9 -2,7
+Comptes nationaux (En pourcentage du PIB, sauf indication contraire)
+Investissements 24,1 22,4 22,7 22,9 22,8 24,0 23,4 23,0 25,4 26,0 26,4
+Epargne intérieure 18,5 16,6 18,8 18,9 20,2 21,8 19,5 17,9 20,2 19,5 19,0
+Epargne nationale 16,6 15,2 17,1 17,0 18,1 19,3 17,3 15,8 18,5 18,4 17,9
+Finances publiques
+Recettes totales 16,0 16,8 14,6 15,0 16,0 15,5 13,4 13,2 14,4 14,7 14,9
+Recettes pétrolières 3,3 3,0 2,2 1,9 2,3 2,6 1,6 1,3 1,6 1,5 1,4
+Recettes non pétrolières 12,7 13,8 12,4 13,1 13,7 12,9 11,7 11,9 12,8 13,2 13,5
+Dépenses totales 19,5 18,7 20,8 20,2 18,7 19,3 17,0 17,4 17,7 17,1 16,2
+Dépenses courantes 12,8 12,7 12,5 12,2 11,9 12,5 11,2 11,5 10,7 10,1 9,4
+Dépenses en capital 6,8 6,0 8,3 8,1 6,8 6,8 5,8 5,9 7,0 7,0 6,8
+Solde budgétaire primaire (deficit - ) 0,5 1,2 -2,9 -0,5 1,7 0,8 0,4 0,0 1,2 2,0 3,1
+Solde budgétaire primaire (hors intérêts) -3,0 -1,5 -5,5 -4,3 -1,8 -2,8 -2,7 -3,2 -2,3 -1,4 -0,3
+Solde budgétaire primaire (hors intérêts et recettes pétrolières)en % PIB hors pétrole -6,8 -4,7 -7,9 -6,5 -4,3 -5,6 -4,4 -4,6 -4,0 -3,0 -1,8
+Solde budgétaire de base (deficit - ) 0,0 0,8 -3,7 -1,4 0,8 -0,2 -0,5 -1,0 0,2 1,0 2,2
+Solde budgétaire, base engagements hors dons (déficit - ) -3,5 -1,8 -6,2 -5,2 -2,7 -3,8 -3,6 -4,2 -3,3 -2,4 -1,3
+Solde budgétaire, base engagements dons compris (déficit - ) -3,1 -1,8 -6,0 -4,9 -2,3 -3,3 -3,2 -3,7 -2,9 -2,0 -0,9
+Solde budgétaire de référence (>= -1,5 % du PIB) -2,8 -1,5 -5,3 -4,5 -2,8 -4,2 -3,3 -3,1 -2,7 -2,2 -1,2
+Secteur extérieur
+Exportations de biens et services, fob 24,6 21,8 19,4 18,6 19,1 19,8 16,6 14,8 16,5 15,9 15,4
+Importations de biens et services, caf 30,1 27,6 23,2 22,6 21,6 22,0 20,5 19,9 21,7 22,4 22,8
+Solde du compte courant (dons off.incl., def.- ) -4,0 -3,8 -3,1 -2,5 -3,5 -3,4 -4,6 -5,8 -5,5 -6,3 -7,2
+Solde du compte courant (dons off.excl., def. - ) -4,3 -4,0 -3,4 -2,9 -3,8 -3,7 -5,0 -6,3 -5,9 -6,7 -7,5
+Encours de la dette extérieure/PIB 14,8 18,7 20,6 24,1 26,6 28,5 32,6 33,3 33,7 35,0 36,4
+Encours de la dette globale (y/c dette avalisée)/PIB 20,9 24,9 27,5 33,5 36,8 36,7 38,9 41,4 38,1 37,8 37,8
+Ratio du service de la dette/Recettes budgétaires 5,0 4,4 8,7 8,8 10,8 14,0 16,9 17,5 17,3 18,0 14,4
+Ratio du service de la dette/XBSNF 3,2 3,4 6,5 7,2 9,1 11,0 13,6 15,6 15,1 16,6 14,0
+Réserves extérieures (en mois d'importations caf) 5,4 6,9 5,2 6,8 6,6 6,8 6,6 6,6 6,7 6,7 7,9
+Réserves extérieures (en mois d'importations de biens et services) 4,3 5,6 4,0 5,1 5,2 5,3 5,1 5,1 5,3 5,4 6,4
+Pour mémoire
+PIB nominal (en milliards de FCFA) 17 276,3 18 285,3 19 304,8 20 328,4 21 492,6 22 601,0 21 749,8 21 289,6 23 323,3 25 135,7 27 185,7
+PIB nominal non pétrolier (en milliards de FCFA) 16 141,7 17 509,8 18 687,0 19 628,8 20 594,5 21 722,6 21 219,5 20 904,1 22 769,8 24 559,2 26 597,7
+Population (en millions d'habitants) 25,0 25,6 26,3 27,0 27,7 28,4 29,1 29,1 29,9 30,6 31,4
+PIB par tête d'habitant (en $ E.U.) 1 402,5 1 208,1 1 239,9 1 298,5 1 405,3 1 359,7 1 269,5 1 242,7 1 304,8 1 370,6 1 444,8
+Sources: Administrations nationales, FMI et BEAC
+
+--- Page 39 ---
+38
+T30. République Centrafricaine: Principaux indicateurs économiques, financiers et sociaux
+2014 - 2023
+2014 2015 2016 2017 2018 2019 2020 2020 2021 2022 2023
+Estim (*) Sop (**) Sr Prév. Prév. Prév.
+PIB, prix et population (Variation annuelle en %, sauf indications contraires)
+Taux de croissance (PIB réel) 0,1 4,3 4,8 4,5 3,8 4,3 0,8 0,5 2,9 5,0 4,9
+Taux de croissance démographique (moyen) 2,5 2,5 2,5 2,5 2,5 2,5 2,5 2,5 2,5 2,5 2,5
+Inflation (prix de détail, type africain - en moyenne annuelle) 17,8 2,0 2,7 4,2 1,7 2,8 3,0 3,7 2,9 3,0 3,0
+Finances publiques
+Recettes totales -3,3 59,2 -5,5 48,7 20,2 3,3 -17,5 -20,7 14,2 13,2 11,8
+Dépenses totales -4,2 32,3 -7,7 27,5 23,5 12,5 28,0 28,0 3,9 6,0 4,4
+Dépenses courantes -10,2 8,3 2,8 14,0 14,8 7,5 24,2 24,2 14,0 3,3 4,0
+Dépenses en capital 42,5 150,5 -30,0 69,4 41,6 21,1 33,7 33,7 -10,4 11,0 5,1
+Monnaie et crédit
+Avoirs extérieurs nets 499,5 -18,3 27,0 93,3 -23,0 11,7 -52,7 -122,1 38,2 63,0 49,3
+Crédits à l'économie 6,5 0,3 13,6 -1,6 17,0 -1,4 -6,2 -8,0 8,2 12,9 4,7
+Créances nettes sur l'Etat -0,1 15,7 -13,4 10,8 17,3 11,4 29,0 31,0 24,7 6,5 7,2
+Masse monétaire (M2) 14,9 4,6 6,5 12,3 15,3 11,5 -0,8 -13,6 22,1 15,8 13,9
+Concours de la BEAC aux banques … … … … … … … … … … …
+Taux de couverture extérieure 78,7 76,8 80,2 83,2 81,4 81,3 76,1 69,7 78,5 84,2 89,4
+Vitesse de circulation de la monnaie (PIB/M2) 3,8 3,9 4,0 3,9 3,5 3,3 3,4 4,0 0,0 2,7 2,5
+Taux directeur de la BEAC ( TIAO fin de période) 2,95 2,45 2,45 2,95 3,50 3,50 2,95 3,50 3,50 3,50 3,50
+Secteur extérieur
+Exportations, fob -21,3 4,3 8,2 48,9 11,8 -5,3 -3,0 -3,0 8,0 10,0 5,9
+Importations, fob 114,6 8,9 -1,0 20,2 7,6 5,1 -8,1 -8,6 2,2 5,6 5,1
+Termes de l'échange -1,0 -7,5 17,5 -9,4 -0,6 6,3 22,4 26,1 0,5 -1,0 -5,9
+Variation des prix à l'exportation 3,8 5,0 3,7 -8,4 -4,7 14,0 3,3 3,3 2,9 1,2 -3,9
+Variation des prix à l'importation 4,8 13,5 -11,7 1,1 -4,1 7,2 -15,6 -18,1 2,4 2,3 2,1
+Taux de change effectif réel 17,5 -2,3 2,0 4,8 … … … … … … …
+Taux de change effectif réel des exportations 19,6 -2,7 2,4 7,5 … … … … … … …
+Taux de change effectif réel des importations 16,6 -2,3 2,0 4,1 … … … … … … …
+Marge de compétitivité cumulée depuis 1994 8,9 11,0 9,2 4,9 … … … … … … …
+Monnaie et crédit (Contribution à la croissance de la masse monétaire, en %)
+Avoirs extérieurs nets 18,9 -5,0 4,4 19,4 -8,0 2,4 -12,0 -27,6 4,1 7,7 8,4
+Avoirs intérieurs nets -4,0 9,6 2,1 -7,1 23,4 9,1 11,2 14,0 18,0 8,1 5,5
+Crédit interieur net 3,3 8,3 -1,4 4,2 15,4 4,7 11,2 11,4 18,1 8,3 5,6
+Créances nettes sur l'Etat -0,1 8,2 -7,7 5,0 8,0 5,4 13,6 14,6 15,1 4,0 4,1
+Crédits à l'économie 3,4 0,1 6,3 -0,8 7,4 -0,6 -2,4 -3,1 3,0 4,2 1,5
+Autres postes nets -7,3 1,3 3,5 -11,3 8,0 4,4 -0,1 2,6 -0,2 -0,1 -0,1
+Masse monétaire (M2) 14,9 4,6 6,5 12,3 15,3 11,5 -0,8 -13,6 22,1 15,8 13,9
+Comptes nationaux (Contribution à la croissance réelle, en %)
+Produit intérieur brut 0,1 4,3 4,8 4,5 3,8 4,3 0,8 0,5 2,9 5,0 4,9
+Demande intérieure brute 7,9 4,4 9,2 3,2 7,0 3,3 5,1 4,4 0,8 4,1 2,2
+Consommation -0,7 1,5 6,2 0,8 9,1 1,6 1,5 -1,1 -0,7 -0,1 -0,2
+Publique -2,3 0,3 0,4 0,4 0,5 0,9 1,2 1,6 -0,2 0,2 0,2
+Privée 1,6 1,2 5,8 0,5 8,7 0,7 0,3 -2,7 -0,5 -0,3 -0,3
+Investissements bruts 8,5 2,9 3,1 2,3 -2,2 1,7 3,6 5,5 1,5 4,2 2,3
+Publics 5,7 3,7 -0,6 2,6 0,5 1,1 2,4 4,9 -0,7 1,0 0,1
+Privés (Entreprises et ménages) 4,0 -3,0 1,6 0,3 0,2 0,6 1,1 0,6 2,3 3,1 2,1
+Variation des stocks -1,2 2,2 2,1 -0,6 -2,9 0,0 0,1 0,0 -0,1 0,1 0,1
+Exportations nettes -7,8 -0,1 -4,5 1,4 -3,2 1,0 -4,3 -3,9 2,1 0,9 2,8
+Exportations de biens et services non facteurs 3,8 3,2 -2,8 6,7 5,1 -4,5 -1,0 -1,0 0,9 1,3 3,0
+Importations de biens et services non facteurs -11,6 -3,2 -1,7 -5,4 -8,3 5,5 -3,3 -2,9 1,2 -0,4 -0,2
+Comptes nationaux (En pourcentage du PIB, sauf indication contraire)
+Investissements 22,0 21,8 22,5 25,6 25,9 27,1 32,6 33,4 32,9 36,0 36,7
+Epargne intérieure 2,2 2,8 1,6 3,0 -2,2 2,8 11,9 13,9 13,9 17,6 19,0
+Epargne nationale 2,0 2,0 2,7 4,7 -0,6 4,3 13,5 15,5 15,1 19,0 20,4
+Finances publiques
+Recettes totales 4,5 6,6 5,8 7,8 9,1 8,9 7,1 6,7 7,8 8,2 8,7
+Dépenses totales 11,5 14,1 12,1 13,9 16,7 17,8 22,1 21,6 21,9 21,7 21,3
+Dépenses courantes 9,5 9,6 9,2 9,4 10,5 10,7 12,9 12,6 14,0 13,6 13,3
+Dépenses en capital 1,9 4,5 2,9 4,5 6,2 7,1 9,2 9,0 7,8 8,2 8,1
+Solde budgétaire primaire (déficit -) -4,6 -2,8 -3,1 -2,0 -1,8 -2,7 -7,6 -7,8 -8,0 -7,5 -7,1
+Solde budgétaire primaire (hors intérêts) -6,4 -7,0 -5,7 -5,8 -7,2 -8,5 -14,7 -14,7 -13,6 -31,9 -31,2
+Solde budgétaire primaire (hors intérêts et recettes pétrolières) -6,4 -7,0 -5,7 -5,8 -7,2 -8,5 -14,7 -14,7 -13,6 -31,9 -31,2
+Solde budgétaire, base engagements hors dons (déficit -) -7,0 -7,5 -6,3 -6,1 -7,6 -8,9 -14,9 -14,9 -14,1 -13,5 -12,7
+Solde budgétaire, base engagements dons compris (déficit -) 2,1 0,5 -0,5 -1,1 0,4 2,9 -5,0 -5,2 -5,4 -5,3 -4,9
+Solde budgétaire de base (déficit -) -5,1 -3,3 -3,6 -2,4 -2,2 -3,1 -7,9 -8,0 -8,5 -7,8 -7,4
+Solde budgétaire de référence (>= -1,5 % du PIB) 2,1 0,5 -0,5 -1,1 0,4 2,9 -5,0 -5,2 -5,4 -5,3 -4,9
+Secteur extérieur
+Exportations de biens et services non facteurs, fob 16,7 17,1 14,5 17,2 19,0 18,3 17,7 17,4 17,9 17,7 17,6
+Importations de biens et services non facteurs, fob 36,4 36,1 35,1 40,9 42,2 42,6 38,5 36,9 36,9 36,1 35,3
+Solde du compte courant (transf.incl., déficit -) -13,7 -8,0 -13,7 -12,0 -8,5 -6,3 -6,2 -5,0 -4,3 -4,4 -4,0
+Solde du compte courant (transf.excl., déficit -) -13,9 -13,7 -15,3 -16,1 -13,9 -15,1 -12,3 -11,2 -10,6 -10,1 -9,4
+Encours de la dette extérieure/PIB 29,4 29,9 28,2 25,9 25,2 23,7 25,1 24,6 25,0 26,9 28,3
+Encours de la dette intérieure/PIB 14,4 29,4 22,6 23,3 22,9 17,2 13,4 13,9 10,5 8,3 6,0
+Encours de la dette globale/PIB 43,7 59,3 50,8 49,2 48,1 40,9 38,4 38,5 35,5 35,2 34,4
+Encours de la dette extérieure/XBSNF 176,1 175,4 190,3 149,9 133,7 129,5 141,5 141,2 139,8 152,2 161,3
+Encours de la dette extérieure/Recettes budgétaires 657,5 451,4 485,4 333,0 277,1 265,6 352,2 366,5 322,3 327,0 327,7
+Ratio du service de la dette extérieure/PIB 1,0 1,0 1,1 0,3 0,7 0,6 0,5 0,5 0,9 0,7 0,5
+Ratio du service de la dette extérieure/XBSNF 5,8 6,0 7,7 1,9 3,6 3,4 3,0 3,0 4,9 4,0 2,6
+Ratio du service de la dette extérieure/Recettes budgétaires 21,6 15,5 19,6 4,2 7,4 6,9 7,4 7,7 11,2 8,5 5,3
+Réserves extérieures (en mois d'importations caf) 6,4 5,5 7,1 6,8 6,7 6,5 7,2 5,7 7,4 8,4 9,0
+Pour mémoire
+PIB nominal (en milliards de FCFA) 935,6 1 002,6 1 081,5 1 203,3 1 233,6 1 301,1 1 344,8 1 371,9 1 409,4 1 505,0 1 600,0
+Population (en millions d'habitants) 5,1 5,2 5,4 5,5 5,6 5,8 5,9 5,9 6,1 6,2 6,4
+PIB par tête d'habitant (en $ E.U.) 371,0 323,9 340,0 376,6 394,0 384,2 385,7 393,5 387,8 404,0 419,0
+Sources: Administrations nationales, FMI et BEAC
+
+--- Page 40 ---
+39
+T31.CONGO : Principaux indicateurs économiques, financiers et sociaux
+2014 - 2023
+2014 2015 2016 2017 2018 2019 2020 2020 2021 2022 2023
+Estim (*) Sop (**) Sr Prév. Prév. Prév.
+PIB, prix et population (Variation annuelle en %, sauf indications contraires)
+Taux de croissance (PIB réel) 6,7 -1,0 -12,2 -0,2 1,1 -0,3 -9,8 -12,3 -1,2 3,8 -0,2
+dont secteur pétrolier 2,8 -5,4 -6,5 8,4 26,2 1,4 -1,2 -1,2 0,5 5,6 -5,3
+secteur non pétrolier 8,5 1,0 -14,6 -4,3 -12,5 -1,6 -16,7 -21,3 -2,8 2,1 5,1
+Taux de croissance démographique 2,6 2,6 2,6 2,6 2,6 2,6 2,6 2,6 2,6 2,6 2,6
+Inflation (prix consommation africaine en moyenne annuelle) 0,9 1,7 4,6 0,7 1,2 2,3 2,8 3,0 2,8 3,0 3,0
+Finances publiques
+Recettes totales 6,8 -51,5 -4,8 -7,6 33,0 3,3 -43,4 -55,4 24,4 8,5 2,6
+dont recettes pétrolières 5,6 -71,5 0,1 -3,0 89,7 1,2 -57,7 -68,9 44,3 13,7 -0,6
+recettes non pétrolières 10,5 5,9 -8,7 -11,4 -19,3 7,8 -14,3 -27,8 4,5 1,3 7,6
+Dépenses totales 58,6 -32,6 -13,9 -25,6 -21,3 3,3 -25,7 -26,3 4,0 3,4 3,4
+dont dépenses courantes 87,2 -19,0 -5,3 -10,7 -8,8 -4,1 -26,6 -27,3 -1,3 1,1 2,6
+dépenses en capital 38,3 -45,6 -25,1 -54,1 -65,5 72,3 -21,1 -21,1 29,6 11,8 6,2
+Monnaie et crédit
+Avoirs extérieurs nets -7,8 -44,2 -70,1 -53,8 13,4 119,8 -70,5 -144,0 -89,1 -86,0 289,2
+Crédits à l'économie 27,6 13,1 8,7 -2,3 -6,2 -4,7 -19,1 -18,7 -4,6 10,4 8,0
+Créances nettes sur l'Etat 26,0 85,6 455,5 17,8 3,8 -10,8 57,8 110,7 -10,3 43,5 -6,0
+Masse monétaire (M2) 13,0 -11,2 -15,4 -10,4 -4,0 7,9 -14,4 -20,1 0,6 10,9 7,2
+Concours de la BEAC aux banques … … … … … … … … … … …
+Taux de couverture extérieure (fin de période) 88,9 71,2 43,9 27,6 32,6 54,3 41,3 24,5 55,0 50,6 60,5
+Vitesse de circulation de la monnaie (PIBNP/M2) 2,2 2,6 2,7 2,9 2,6 2,5 2,5 2,5 2,4 2,3 2,3
+Taux directeur BEAC - TIAO (fin de période) 2,95 2,45 2,45 2,95 3,50 3,50 2,95 3,50 3,50 3,50 3,50
+Secteur extérieur
+Exportations, fob -0,6 -36,9 -6,7 40,5 45,4 0,7 -42,1 -57,3 -0,7 12,1 0,6
+Importations, fob 26,2 28,1 11,2 -48,1 -2,8 3,7 -27,8 -42,8 1,7 9,3 2,6
+Termes de l'échange -3,9 -49,0 -3,2 33,0 26,5 -5,5 -41,3 -58,9 7,8 6,9 4,8
+Variation des prix à l'exportation -4,5 -39,2 -17,5 30,1 25,8 -1,6 -43,0 -60,1 8,4 7,6 5,7
+Variation des prix à l'importation -0,6 19,4 -14,8 -2,2 -0,6 4,1 -2,9 -2,9 0,5 0,7 0,9
+Taux de change effectif réel -0,4 -3,6 6,3 -2,2 … … … … … … …
+Taux de change effectif réel des exportations 0,0 1,0 4,5 -0,3 … … … … … … …
+Taux de change effectif réel des importations -0,4 -3,8 6,4 -2,4 … … … … … … …
+Marge de compétitivité cumulée depuis 1994 -3,6 0,1 -6,1 -3,8 … … … … … … …
+Monnaie et crédit (Contribution à la croissance de la masse monétaire, en %)
+Avoirs extérieurs nets -10,2 -46,7 -46,5 -12,4 1,5 17,0 -20,5 -41,8 8,9 -16,2 6,9
+Avoirs intérieurs nets 23,2 35,5 31,2 1,9 -5,6 -9,1 6,1 21,8 -8,3 27,1 0,4
+Crédit intérieur net 24,3 37,1 32,0 3,1 -3,0 -7,1 6,1 22,3 -8,3 27,1 0,4
+Créances nettes sur l'Etat 14,9 32,1 27,8 4,6 1,3 -3,9 17,4 33,4 -5,7 21,5 -3,8
+Crédits à l'économie 9,4 5,0 4,2 -1,4 -4,2 -3,2 -11,3 -11,0 -2,6 5,5 4,2
+Autres postes nets -1,1 -1,6 -0,9 -1,2 -2,6 -2,0 -0,1 -0,6 -0,1 0,0 0,0
+Masse monétaire (M2) 13,0 -11,2 -15,4 -10,4 -4,0 7,9 -14,4 -20,1 0,6 10,9 7,2
+Comptes nationaux (Contribution à la croissance réelle, en %)
+Produit intérieur brut 6,7 -1,0 -12,2 -0,2 1,1 -0,3 -9,8 -12,3 -1,2 3,8 -0,2
+dont secteur pétrolier 0,9 -1,7 -2,0 2,7 9,2 0,6 -0,5 -0,5 0,3 2,8 -2,7
+secteur non pétrolier 5,7 0,7 -10,2 -2,9 -8,1 -0,9 -9,3 -11,8 -1,4 1,1 2,5
+Demande intérieure brute 7,6 8,4 -23,8 -7,8 -14,7 -0,4 -20,2 -26,7 1,6 8,0 4,5
+Consommation 4,5 -0,8 -4,7 0,4 -13,9 -0,5 -16,7 -22,1 11,1 7,9 4,7
+Publique 1,1 -3,0 -2,9 2,4 -7,4 -0,5 -2,2 0,0 -1,3 0,8 0,1
+Privée 3,4 2,2 -1,9 -2,1 -6,5 0,0 -14,5 -22,1 12,4 7,2 4,6
+Investissements bruts 3,1 9,1 -19,0 -8,2 -0,7 0,1 -3,6 -4,7 -9,5 0,1 -0,1
+Publics 0,8 0,9 -4,3 -1,7 -2,9 0,2 -1,8 -0,9 -4,5 -1,2 -1,1
+Privés (Entreprises et ménages) 3,8 7,0 -9,1 -6,2 -1,7 -0,2 -1,8 -3,7 -5,0 1,2 0,9
+dont secteur pétrolier -2,5 8,9 -1,2 -20,6 -0,4 0,5 -1,7 -3,1 -2,3 0,0 -0,3
+secteur non pétrolier 6,3 -1,8 -4,3 10,4 -1,3 -0,7 -0,1 -0,7 -2,7 1,2 1,2
+Variation des stocks -1,5 1,2 -5,6 -0,3 3,9 0,0 0,0 0,0 0,0 0,0 0,0
+Exportations nettes -0,9 -9,4 11,6 7,7 15,8 0,2 10,4 14,4 -2,8 -4,1 -4,7
+Exportations de biens et services non facteurs 2,3 -1,0 2,1 5,7 14,2 1,6 -3,2 -3,4 1,3 3,8 -4,4
+Importations de biens et services non facteurs -3,3 -8,4 9,5 2,0 1,6 -1,4 13,6 17,9 -4,1 -7,9 -0,3
+Comptes nationaux (En % du PIB, sauf indications contraires)
+Investissements 50,7 74,6 59,7 41,6 36,6 37,5 47,7 51,8 46,5 46,2 46,6
+dont secteur pétrolier 20,6 39,0 44,4 11,8 11,5 12,5 14,4 12,9 13,9 13,1 11,9
+Epargne intérieure 52,7 41,3 36,5 39,6 58,9 56,5 60,0 57,9 52,2 46,9 46,9
+Epargne nationale 54,0 40,8 33,2 27,4 44,9 36,9 45,1 43,5 43,0 35,0 35,6
+Finances publiques
+Recettes totales 35,1 20,5 22,2 19,1 23,3 23,8 19,1 17,7 23,2 23,3 22,9
+dont recettes pétrolières 26,0 8,9 10,2 9,2 16,0 16,0 9,6 8,2 13,5 14,2 13,5
+recettes non pétrolières 9,1 11,6 12,1 9,9 7,4 7,8 9,6 9,4 9,7 9,1 9,4
+Dépenses totales 45,5 36,9 36,3 25,1 18,1 18,5 19,5 22,6 19,8 18,9 18,7
+dont dépenses courantes 22,3 21,8 23,5 19,5 16,4 15,5 16,2 18,7 15,6 14,6 14,3
+dépenses en capital 23,2 15,2 13,0 5,5 1,8 3,0 3,3 3,9 4,2 4,4 4,4
+Solde budgétaire primaire (déficit - ) -6,5 -13,8 -7,7 -0,8 7,7 9,6 3,6 -0,4 7,4 8,1 7,8
+Solde budgétaire primaire (hors intérêts) -10,3 -15,9 -12,3 -4,2 7,0 7,8 1,3 -3,0 5,0 5,8 5,5
+Solde budgétaire primaire (hors intérêts et recettes pétrolières) en % du PIB hors pétrole -59,5 -33,1 -29,4 -19,2 -16,3 -14,7 -12,6 -15,4 -13,4 -13,7 -12,7
+Solde budgétaire de base (déficit - ) -6,7 -14,4 -9,5 -2,6 5,8 7,1 1,9 -2,3 5,8 6,7 6,4
+Solde budgétaire, base engagements hors dons (déficit - ) -10,5 -16,5 -14,0 -6,0 5,2 5,3 -0,4 -5,0 3,4 4,4 4,1
+Solde budgétaire, base engagements dons compris (déficit - ) -10,1 -15,9 -13,5 -5,6 5,3 6,0 0,4 -4,1 4,4 5,2 5,0
+Solde budgétaire de référence (>= -1,5 % du PIB) -14,2 -4,3 -7,4 -2,7 -3,2 -0,5 1,8 -1,4 2,0 1,4 1,4
+Secteur extérieur
+Exportations de biens et services non facteurs, fob 49,7 38,2 39,6 56,7 67,8 67,5 55,4 49,1 53,5 55,4 53,4
+Importations de biens et services non facteurs, fob 47,8 71,6 75,8 41,9 45,6 48,5 43,1 43,0 47,8 54,7 53,1
+Solde du compte courant (dons off.incl., déf.- ) 3,5 -34,9 -44,0 2,6 8,4 -0,6 -2,0 -7,6 -2,8 -10,7 -10,5
+Solde du compte courant (dons off.excl., déf. - ) 3,3 -35,0 -44,2 2,2 8,0 -1,0 -3,1 -8,9 -3,9 -11,6 -11,4
+Encours de la dette extérieure/PIB 28,6 56,4 91,3 79,5 60,2 55,7 78,2 91,5 75,5 69,5 67,1
+Encours de la dette extérieure/exportations 61,6 160,0 243,3 162,4 91,9 85,6 146,1 198,2 145,9 129,4 129,9
+Ratio du service de la dette extérieure / XBNSF 5,2 9,7 13,1 9,8 12,2 18,7 25,8 34,0 20,5 17,5 16,6
+Ratio du service de la dette extérieure / Recettes budgétaires 7,3 18,0 23,3 29,1 35,4 53,0 74,5 94,5 47,2 41,5 38,7
+Ratio du service de la dette extérieure / PIB 2,6 3,7 5,2 5,6 8,3 12,6 14,3 16,7 11,0 9,7 8,9
+Encours de la dette totale/PIB 46,2 76,8 120,8 106,6 82,6 76,8 100,3 117,4 88,5 77,7 71,2
+Réserves ext. (en mois d'importation de biens caf) 10,9 4,4 1,3 1,5 1,5 3,1 2,7 1,7 4,1 2,5 3,1
+Réserves ext. (en mois d'importation de biens et services) 7,2 2,9 1,2 1,1 1,0 1,9 1,9 1,1 2,6 1,4 1,7
+Pour mémoire
+PIB nominal (en milliards de FCFA) 9450,4 7856,1 6885,9 7413,9 8063,2 8166,5 5751,1 4913,1 5904,6 6372,6 6665,8
+PIB non pétrolier (en milliards de FCFA) 5760,1 5883,6 5253,8 5152,5 4422,1 4518,4 3784,6 3583,0 3747,8 3916,9 4204,4
+Population (en millions d'habitants) 4,3 4,4 4,5 4,6 4,7 4,8 5,0 5,0 5,1 5,2 5,4
+PIB par tête d'habitant (en $ E.U.) 4492,2 3039,2 2589,6 2772,9 3075,2 2876,7 1965,6 1679,2 1934,2 2034,6 2074,3
+Sources: Administrations nationales, FMI et BEAC
+
+--- Page 41 ---
+40
+T32. Gabon : Principaux indicateurs économiques, financiers et sociaux
+2014 - 2023
+2014 2015 2016 2017 2018 2019 2020 2020 2021 2022 2023
+Estim (*) Sop (**) Sr Prév. Prév. Prév.
+PIB, prix et population (Variation annuelle en %, sauf indications contraires)
+Taux de croissance (PIB réel) 4,3 3,9 2,0 0,5 0,4 3,9 -1,9 -4,2 3,6 3,9 4,2
+dont secteur pétrolier -0,3 8,6 -2,9 -8,5 -8,2 13,0 -4,5 -4,5 -1,3 -0,7 -0,6
+secteur non pétrolier 5,8 2,4 3,6 3,2 2,8 1,7 -1,2 -4,1 4,9 5,0 5,3
+Taux de croissance démographique 3,4 3,4 3,4 3,4 3,4 3,4 3,4 3,4 3,4 3,4 3,4
+Inflation (prix consommation-125 articles- moyenne annuelle) 4,7 -0,3 2,1 2,7 4,8 2,0 1,8 1,7 2,6 2,8 2,9
+Finances publiques
+Recettes totales -10,4 -23,5 -20,8 0,0 11,0 22,2 -21,9 -27,4 8,5 4,8 4,2
+Recettes pétrolières -23,0 -41,7 -29,9 35,8 1,6 28,1 -39,9 -54,2 5,7 6,1 4,3
+Recettes non pétrolières 2,9 -9,2 -16,2 -15,1 17,5 18,7 -10,5 -10,5 9,8 4,2 4,1
+Dépenses totales -14,1 -11,4 -2,4 -10,0 3,2 0,9 4,1 4,1 9,7 -3,6 1,1
+Dépenses courantes -4,2 -1,9 -2,5 -4,4 -5,9 4,0 6,6 6,6 0,4 1,3 1,5
+Dépenses en capital -30,6 -33,4 -1,8 -29,0 44,3 -8,1 -4,1 -4,1 43,9 -16,3 0,0
+Monnaie et crédit
+Avoirs extérieurs nets -8,2 -14,2 -58,9 19,6 9,2 -20,1 -56,9 -130,2 55,4 125,2 16,7
+Crédits à l'économie -5,9 -6,3 -10,1 -4,4 4,5 2,2 -4,7 -5,5 9,1 9,1 7,4
+Créances nettes sur l'Etat 40,4 124,4 989,6 -2,5 35,5 10,0 22,8 35,6 45,3 24,5 13,7
+Masse monétaire (M2) -2,4 1,5 -7,8 -3,8 15,2 0,9 -5,5 -16,1 32,2 31,0 12,8
+Concours de la BEAC aux banques … … … -0,4 -0,5 -1,0 … … -1,0 … …
+Taux de couverture extérieure (fin de période) 89,1 75,5 55,7 58,8 71,6 73,9 70,3 53,5 75,5 83,5 86,3
+Vitesse de circulation de la monnaie (PIBNP/M2) 2,6 2,5 2,9 3,1 2,7 2,9 3,1 3,4 2,5 2,0 1,9
+Taux directeur BEAC - (TIAO fin de période) 2,95 2,45 2,45 2,95 3,50 3,50 2,95 3,50 3,50 3,50 3,50
+Secteur extérieur
+Exportations, fob -11,3 -26,2 -15,8 17,9 14,3 7,4 -37,0 -50,7 14,9 6,6 4,6
+Importations, fob -4,8 -1,5 -16,6 7,3 1,9 7,5 -10,7 -16,5 -1,3 4,9 2,3
+Termes de l'échange -10,0 -46,3 9,7 24,6 21,3 -10,5 -32,0 -46,1 9,3 4,3 2,9
+Variation des prix à l'exportation -10,2 -35,8 -6,6 21,8 20,6 -6,8 -34,0 -47,6 9,9 5,0 3,8
+Variation des prix à l'importation -0,2 19,4 -14,8 -2,2 -0,6 4,1 -2,9 -2,9 0,5 0,7 0,9
+Taux de change effectif réel 3,5 -7,0 3,1 -9,7 … … … … … … …
+Taux de change effectif réel des exportations 3,6 -6,6 3,7 -10,5 … … … … … … …
+Taux de change effectif réel des importations 3,5 -8,3 1,5 -7,9 … … … … … … …
+Marge de compétitivité cumulée depuis 1994 18,6 24,2 21,9 29,4 … … … … … … …
+Monnaie et crédit (Contribution à la croissance de la masse monétaire, en %)
+Avoirs extérieurs nets -5,4 -8,6 -29,2 4,7 2,4 -5,3 -11,7 -26,8 5,0 13,8 3,2
+Avoirs intérieurs nets 3,1 10,2 21,4 -8,6 12,8 6,2 6,2 10,7 27,2 17,1 9,7
+Crédit intérieur net 2,9 8,8 18,6 -3,2 13,0 4,6 6,2 10,7 27,0 17,1 9,7
+Créances nettes sur l'Etat 6,8 12,8 24,4 -0,7 10,5 3,5 8,7 13,5 22,3 13,3 7,0
+Crédits à l'économie -3,8 -3,9 -5,8 -2,5 2,5 1,1 -2,4 -2,8 4,7 3,9 2,6
+Autres postes nets 0,1 1,3 2,8 -5,3 -0,2 1,6 0,0 0,0 0,2 0,0 0,0
+Masse monétaire (M2) -2,4 1,5 -7,8 -3,8 15,2 0,9 -5,5 -16,1 32,2 31,0 12,8
+Comptes nationaux (Contribution à la croissance réelle, en %)
+Produit intérieur brut 4,3 3,9 2,0 0,5 0,4 3,9 -1,9 -4,2 3,6 3,9 4,2
+dont secteur pétrolier -0,1 2,0 -0,7 -2,0 -1,7 2,5 -1,0 -1,0 -0,3 -0,1 -0,1
+secteur non pétrolier 4,4 1,8 2,7 2,5 2,2 1,4 -1,0 -3,2 3,9 4,1 4,3
+Demande intérieure brute 3,0 -2,0 3,9 1,8 1,2 2,1 -3,9 -5,8 0,9 3,9 3,6
+Consommation 3,7 7,4 0,9 2,1 0,2 0,9 -0,5 0,3 0,0 2,5 1,9
+Publique 0,0 0,0 0,5 0,8 -2,5 -2,6 2,3 2,6 0,2 -0,1 -0,1
+Privée 3,7 7,4 0,4 1,3 2,7 3,6 -2,8 -2,3 -0,2 2,6 2,0
+Investissements bruts -0,8 -9,4 3,0 -0,2 1,1 1,2 -3,4 -6,1 1,0 1,4 1,7
+Publics -4,1 -2,3 -0,2 -2,6 0,7 0,8 -0,8 0,0 0,7 -0,5 -0,1
+Privés (Entreprises et ménages) 3,3 -7,1 3,2 2,4 0,4 0,4 -2,6 -6,1 0,2 1,9 1,8
+dont secteur pétrolier 1,1 -5,9 0,9 1,0 0,2 0,3 -2,6 -4,6 -0,3 1,0 0,9
+secteur non pétrolier 2,2 -1,2 2,3 1,4 0,1 0,1 0,0 -1,5 0,6 0,9 0,8
+Variation des stocks 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Exportations nettes 1,4 5,8 -1,9 -1,4 -0,8 1,8 2,0 1,6 2,7 0,0 0,6
+Exportations de biens et services non facteurs -0,2 1,0 -0,9 0,4 -0,5 1,4 -0,4 -0,6 0,5 0,2 0,1
+Importations de biens et services non facteurs 1,6 4,9 -1,0 -1,8 -0,3 0,3 2,4 2,2 2,2 -0,2 0,5
+Comptes nationaux (En % du PIB, sauf indications contraires)
+Investissements 21,0 19,6 21,3 17,6 22,2 23,3 23,8 23,1 26,4 26,3 27,3
+dont secteur pétrolier 5,7 4,4 4,9 5,3 7,1 7,2 5,0 4,0 6,1 7,3 8,3
+Epargne intérieure 32,5 22,1 21,3 20,5 27,5 30,4 20,5 14,6 30,5 29,5 30,8
+Epargne nationale 29,7 21,6 16,4 13,5 17,7 21,7 12,7 9,8 23,0 22,1 25,5
+Finances publiques
+Recettes totales 24,9 22,1 17,9 16,8 17,9 20,4 18,3 18,5 18,4 18,3 18,1
+Recettes pétrolières 10,9 7,4 5,3 6,8 6,6 7,9 5,5 4,5 5,3 5,4 5,3
+Recettes non pétrolières 13,9 14,7 12,6 10,0 11,3 12,5 12,9 14,0 13,1 13,0 12,8
+Dépenses totales 22,4 23,1 23,1 19,4 19,2 18,1 21,7 23,5 22,0 20,2 19,4
+Dépenses courantes 15,6 17,8 17,8 15,9 14,4 13,9 17,1 18,5 15,9 15,3 14,7
+Dépenses en capital 6,8 5,3 5,3 3,5 4,9 4,2 4,6 5,0 6,1 4,9 4,6
+Solde budgétaire primaire (déficit - ) 6,3 3,4 0,3 0,7 3,1 5,8 2,8 1,7 3,0 3,6 4,0
+Solde budgétaire primaire (hors intérêts) 3,6 1,1 -2,7 -0,1 1,2 4,6 0,0 -1,4 -0,6 1,0 1,5
+Solde budgétaire primaire (hors intérêts et recettes pétrolières) en % du PIB hors pétrole-12,1 -9,0 -10,7 -9,3 -7,7 -4,6 -6,7 -6,9 -7,2 -5,3 -4,7
+Solde budgétaire de base (déficit - ) 5,1 1,3 -2,1 -1,9 0,5 3,4 -0,5 -2,0 0,0 0,7 1,2
+Solde budgétaire, base ordonnancements hors dons (déficit - ) 2,4 -1,0 -5,2 -2,7 -1,4 2,3 -3,4 -5,1 -3,6 -1,9 -1,2
+Solde budgétaire, base ordonnancements dons compris (déficit - ) 2,4 -1,0 -5,2 -2,7 -1,4 2,3 -3,2 -5,1 -3,4 -1,7 -1,1
+Solde budgétaire de référence (>= -1,5 % du PIB) 3,9 2,7 -1,9 -3,1 -2,8 -0,3 -3,5 -3,9 -3,9 -2,4 -2,0
+Secteur extérieur
+Exportations de biens et services non facteurs, fob 44,1 39,2 34,2 37,6 40,9 41,1 30,9 26,7 32,8 33,2 32,9
+Importations de biens et services non facteurs, fob 32,6 36,7 34,2 34,7 35,5 33,9 33,9 34,9 28,3 29,6 29,0
+Solde du compte courant (dons off.incl., déf.- ) 5,8 1,3 -5,6 -4,8 -5,0 -2,1 -11,3 -13,7 -3,5 -4,3 -1,9
+Solde du compte courant (dons off.excl., déf. - ) 5,9 1,3 -5,6 -4,8 -5,0 -2,1 -11,6 -13,8 -3,8 -4,6 -2,1
+Encours de la dette extérieure/PIB 26,0 33,4 39,5 40,8 40,8 37,3 42,7 46,3 41,0 38,0 34,5
+Encours de la dette intérieure/PIB 20,1 25,4 28,0 25,7 23,3 20,4 21,0 23,0 16,5 16,2 16,0
+Encours de la dette totale/PIB 46,1 58,7 67,6 66,5 64,1 57,8 63,7 69,2 57,5 54,2 50,6
+Ratio du service de la dette / XBSNF 6,7 12,3 13,8 14,0 8,4 10,3 34,8 43,7 13,0 17,3 18,5
+Ratio du service de la dette / recettes budgétaires 11,9 21,8 26,4 31,3 19,2 20,7 58,1 62,5 22,8 30,9 33,2
+Ratio du service de la dette / PIB 3,0 4,8 4,7 5,3 3,4 4,2 10,7 11,5 4,2 5,7 6,0
+Taux de couverture des échanges de marchandises 1,4 1,1 1,0 1,1 1,2 1,2 0,9 0,8 1,2 1,1 1,1
+Réserves extérieures (en mois d'importations caf) 7,1 6,2 3,2 3,2 4,3 4,5 4,3 2,3 5,2 7,3 7,8
+Réserves extérieures (en mois d'importations biens et services) 5,2 4,5 2,2 2,2 2,9 3,0 3,0 1,6 3,9 5,2 5,5
+Pour mémoire
+PIB nominal (milliards de FCFA) 9 452,0 8 136,9 7 949,0 8 482,3 8 842,9 9 473,6 8 229,8 7 598,5 8 898,5 9 366,0 9 868,0
+PIB non pétrolier (milliards de FCFA) 5 720,7 5 688,8 5 952,1 6 251,7 6 211,7 6 659,9 6 722,8 6 551,1 7 287,5 7 635,0 8 049,2
+Population ( millions d'habitants) 2,0 2,1 2,2 2,3 2,3 2,4 2,5 2,5 2,6 2,7 2,8
+PIB par tête d'habitant (en $ E.U.) 9 348,3 6 499,1 6 124,1 6 449,0 6 802,7 6 679,0 5 585,9 5 157,4 5 744,1 5 847,1 5 958,0
+Sources: Administrations nationales, FMI et BEAC
+
+--- Page 42 ---
+41
+T33. Guinée Equatoriale : Principaux indicateurs économiques, financiers et sociaux
+2014 - 2023
+2014 2015 2016 2017 2018 2019 2020 2020 2021 2022 2023
+Estim (*) Sop (**) Sr Prév. Prév. Prév.
+PIB, prix et population (Variation annuelle en %, sauf indications contraires)
+Taux de croissance (PIB global en termes réels) -0,7 -9,3 -9,5 -2,1 -3,1 -4,6 -4,9 -7,4 2,4 -1,5 -2,0
+dont secteur pétrolier 1,2 -15,0 -8,8 -6,5 -10,3 -10,7 -3,1 -3,1 2,4 -7,9 -7,9
+secteur non pétrolier -3,1 -2,2 -10,1 2,8 4,2 0,7 -6,3 -10,7 2,3 3,7 2,1
+Taux de croissance démographique 3,4 3,4 3,4 3,4 3,4 3,4 3,4 3,4 3,4 3,4 3,4
+Inflation/ (prix à la consommation - en moyenne annuelle) 4,3 1,7 1,4 0,8 1,3 1,2 2,0 3,0 2,9 2,9 3,0
+Finances publiques
+Recettes totales -3,0 -20,9 -45,4 6,7 20,0 -14,2 -35,1 -49,9 39,7 6,2 3,2
+dont recettes pétrolières -8,2 -25,9 -51,2 17,6 23,4 -16,5 -45,9 -63,9 49,9 0,9 1,8
+recettes non pétrolières 48,8 9,5 -21,5 -21,0 7,2 -4,3 6,4 3,9 19,9 19,0 6,3
+Dépenses totales 2,6 -4,9 -42,2 -26,1 3,7 -22,8 9,9 9,9 3,8 0,0 2,2
+dont dépenses courantes -10,9 -11,9 4,2 2,6 3,9 1,3 16,8 16,8 1,9 -1,8 1,1
+dépenses en capital 7,4 -2,9 -54,6 -43,7 3,4 -49,9 -5,8 -5,8 9,3 4,6 5,1
+Monnaie et crédit
+Avoirs extérieurs nets -31,6 -47,6 -80,9 -57,1 42,0 -201,7 -308,7 -511,5 -12,6 16,6 30,5
+Crédits à l'économie 17,3 14,0 3,7 1,4 1,8 -20,6 -22,0 -25,1 4,5 5,1 5,4
+Créances nettes sur l'Etat 43,9 71,6 227,4 50,9 3,6 97,8 95,3 123,8 0,0 6,2 16,3
+Masse monétaire (M2) -13,6 -10,8 -16,0 1,0 -2,6 -7,9 9,1 4,8 3,6 15,4 25,4
+Concours de la BEAC aux banques ... 200,0 52,8 -34,5 93,3 -39,2 -5,4 89,2 -50,0 -50,0 0,0
+Taux de couverture extérieure (fin de période) 80,6 55,9 8,4 7,1 7,1 7,3 7,3 5,2 7,8 9,0 17,6
+Vitesse de circulation de la monnaie (PIB non pétrolier/M2) 2,6 2,9 3,2 3,3 3,6 4,1 3,9 4,0 3,9 3,7 3,2
+Taux directeur BEAC - TIAO (fin de période) 2,95 2,95 2,45 2,95 3,50 3,50 2,95 3,50 3,50 3,50 3,50
+Secteur extérieur
+Exportations, fob -9,9 -46,1 -27,2 17,9 14,1 -16,5 -47,0 -63,8 7,6 -0,7 -3,1
+Importations, fob -4,6 -23,1 -9,5 -12,6 3,9 -22,3 -5,7 -27,2 -1,4 12,7 4,7
+Termes de l'échange -10,3 -46,5 -5,3 26,6 25,0 -6,5 -43,1 -61,7 8,3 8,1 5,1
+Variation des prix à l'exportation -10,5 -36,1 -19,3 23,9 24,3 -2,7 -44,7 -62,8 8,9 8,9 6,1
+Variation des prix à l'importation -0,2 19,4 -14,8 -2,2 -0,6 4,1 -2,9 -2,9 0,5 0,7 0,9
+Taux de change effectif réel 5,8 -0,1 1,5 -1,6 ... ... ... ... ... ... ...
+Taux de change effectif réel des exportations 5,9 0,1 1,3 -1,5 ... ... ... ... ... ... ...
+Taux de change effectif réel des importations 3,1 -0,2 2,1 -2,9 ... ... ... ... ... ... ...
+Marge de compétitivité cumulée depuis 1994 -64,8 -64,6 -67,0 -64,3 ... ... ... ... ... ... ...
+Monnaie et crédit (Contribution à la croissance de la masse monétaire, en %)
+Avoirs extérieurs nets -41,3 -49,2 -49,1 -7,7 2,4 -17,2 -29,0 -48,1 -4,4 6,4 8,4
+Avoirs intérieurs nets 27,7 38,4 33,1 8,7 -5,1 9,4 38,1 52,9 8,1 9,1 16,9
+Crédit intérieur net 34,4 36,7 31,4 11,0 0,8 6,4 38,1 52,6 2,9 9,7 18,7
+Créances nettes sur l'Etat 26,6 28,1 28,4 9,7 -1,0 27,5 57,5 74,7 0,0 6,5 15,6
+Crédits à l'économie (crédits actifs) 7,9 8,6 2,9 1,4 1,8 -21,1 -19,4 -22,1 2,8 3,2 3,1
+Autres postes nets -6,8 1,7 1,7 -2,3 -5,8 3,0 0,0 0,3 5,2 -0,6 -1,8
+Masse monétaire (M2) -13,6 -10,8 -16,0 1,0 -2,6 -7,9 9,1 4,8 3,6 15,4 25,4
+Comptes nationaux (Contribution à la croissance réelle, en %)
+Produit intérieur brut -0,7 -9,3 -9,5 -2,1 -3,1 -4,6 -4,9 -7,4 2,4 -1,5 -2,0
+dont secteur pétrolier 0,7 -8,3 -4,6 -3,4 -5,2 -4,9 -1,4 -1,4 1,1 -3,5 -3,3
+secteur non pétrolier -1,4 -1,0 -4,8 1,3 2,1 0,4 -3,6 -6,1 1,3 2,1 1,2
+Demande intérieure brute -1,8 -29,4 -7,0 -0,2 7,5 -10,0 -6,5 -16,3 4,7 6,6 2,2
+Consommation 3,2 -22,8 5,5 -12,8 6,6 -1,0 -5,7 -17,7 2,5 4,7 1,2
+Publique -2,6 -2,0 1,0 0,1 0,8 0,7 1,9 1,0 1,5 -2,3 -0,2
+Privée 5,8 -20,8 4,5 -12,9 5,8 -1,7 -7,6 -18,7 1,0 7,0 1,4
+Investissements bruts -5,1 -6,6 -12,6 12,7 0,9 -9,0 -0,8 1,4 2,1 1,9 1,0
+Publics -1,8 -1,3 -10,8 -2,5 0,8 -3,3 -0,3 -0,3 0,1 0,0 0,0
+Privés (Entreprises et ménages) -3,3 -5,3 -1,8 15,2 0,1 -5,7 -0,5 1,8 2,1 1,9 1,0
+dont secteur pétrolier -3,7 -2,2 -1,0 8,2 -0,8 -5,4 -1,5 0,1 0,9 0,3 -0,1
+secteur non pétrolier 0,4 -3,1 -0,8 6,9 0,9 -0,3 1,0 1,7 1,2 1,6 1,2
+Variation des stocks 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Exportations nettes 1,1 20,1 -2,4 -1,9 -10,6 5,4 1,5 8,9 -2,3 -8,0 -4,2
+Exportations de biens et services non facteurs 0,3 -4,2 -4,2 -4,4 -5,1 -6,2 -0,3 0,4 -0,7 -4,0 -3,5
+Importations de biens et services non facteurs 0,8 24,4 1,8 2,5 -5,4 11,6 1,8 8,4 -1,6 -4,1 -0,8
+Comptes nationaux (En % du PIB, sauf indications contraires)
+Investissements 35,8 46,7 28,2 31,8 29,4 26,2 26,3 33,3 29,4 29,9 29,7
+dont Secteur pétrolier 3,6 3,1 1,1 10,3 8,6 8,3 5,2 10,5 6,9 7,1 6,6
+Epargne intérieure 55,0 47,9 24,9 38,6 36,6 35,3 17,7 23,5 21,4 18,2 16,8
+Epargne nationale 33,8 32,4 3,8 31,1 29,1 27,8 16,2 22,4 19,1 15,0 13,8
+Finances publiques
+Recettes totales 26,9 29,8 19,1 18,6 20,6 18,4 13,9 11,7 18,2 18,2 17,9
+Recettes pétrolières 23,1 24,0 13,7 14,8 16,8 14,6 9,2 6,7 12,9 12,2 11,9
+Recettes non pétrolières 3,8 5,8 5,4 3,9 3,8 3,8 4,7 5,0 5,3 5,9 6,0
+Dépenses totales 35,2 46,9 31,8 21,4 20,5 16,5 21,1 23,1 20,5 19,3 18,8
+Dépenses courantes 8,0 9,9 12,1 11,3 10,9 11,5 15,6 17,0 14,9 13,7 13,2
+Dépenses en capital 27,2 37,0 19,7 10,1 9,7 5,1 5,5 6,0 5,7 5,6 5,6
+Solde budgétaire primaire (déficit - ) -7,7 -16,6 -11,8 -2,4 0,8 2,8 -5,9 -9,9 -0,4 0,6 0,7
+Solde budgétaire primaire (hors intérêts) -7,7 -16,6 -11,8 -2,4 0,8 2,8 -5,9 -9,9 -0,4 0,6 0,7
+Solde budgétaire primaire (hors intérêts et recettes pétrolières) en % du PIB hors pétrole -72,2 -69,4 -40,2 -27,7 -26,6 -18,2 -19,3 -19,7 -17,3 -14,8 -13,9
+Solde budgétaire, base engagements hors dons (déficit - ) -8,3 -17,0 -12,7 -2,8 0,1 1,9 -7,2 -11,3 -2,3 -1,1 -0,9
+Solde budgétaire, base engagements dons compris(déficit - ) -8,3 -17,0 -12,7 -2,8 0,1 1,9 -7,2 -11,3 -2,3 -1,1 -0,9
+Solde budgétaire de base (déficit -) -8,3 -17,0 -12,7 -2,8 0,1 1,9 -7,2 -11,3 -2,3 -1,1 -0,9
+Solde budgétaire de référence (>= -1,5 % du PIB) -9,9 -20,9 -6,6 -1,3 -2,7 -0,6 -5,9 -5,4 -3,9 -1,9 -2,8
+Secteur extérieur
+Exportations de biens et services non facteurs, fob 65,3 51,0 43,4 45,9 48,4 42,3 26,9 20,6 27,0 25,2 23,4
+Importations de biens et services non facteurs, fob 46,1 49,8 46,8 39,1 41,2 33,3 35,4 30,4 35,0 36,9 36,3
+Solde du compte courant (dons off.incl., déf.- ) -4,7 -18,3 -27,9 -7,3 -7,3 -5,6 -18,8 -19,9 -18,9 -23,7 -24,5
+Solde du compte courant (dons off.excl., déf. - ) -4,1 -16,8 -28,0 -7,5 -6,9 -5,5 -18,7 -20,1 -18,8 -23,6 -24,4
+Encours de la dette extérieure/PIB 8,9 8,9 10,6 9,8 10,4 10,6 13,1 13,2 17,7 18,6 17,6
+Encours de la dette extérieure/XBSNF 13,7 17,4 24,4 21,3 21,4 25,1 48,6 64,3 65,4 74,0 75,2
+Encours de la dette extérieure/recettes budgétaires 33,2 29,7 55,6 52,5 50,3 57,6 93,7 112,6 96,9 102,6 98,3
+Ratio du service de la dette/PIB 1,7 1,8 1,7 1,4 1,4 1,7 2,4 2,7 2,3 2,7 2,5
+Ratio du service de la dette/Export bsnf 2,6 3,4 4,0 3,0 3,0 4,1 9,1 12,9 8,5 10,8 10,8
+Ratio du service de la dette/Recettes budgétaires 6,3 5,9 9,1 7,5 6,9 9,3 17,5 22,7 12,6 15,0 14,1
+Encours de la dette totale/PIB 28,4 32,5 51,3 48,7 45,2 47,8 53,9 54,4 49,5 43,4 37,2
+Réserves extérieures (en mois d'importations caf) 5,9 3,6 0,2 0,1 0,2 0,2 0,2 0,1 0,2 0,2 0,5
+Réserves extérieures (en mois d'importations biens et services) 4,2 2,5 0,2 0,1 0,1 0,1 0,1 0,1 0,1 0,1 0,3
+Pour mémoire
+PIB nominal (en milliards de FCFA) 9 704,8 6 923,8 5 914,1 6 473,4 7 011,7 6 724,4 5 782,7 5 297,6 6 172,6 6 584,6 6 892,2
+PIB non pétrolier (en milliards de FCFA) 4 151,0 4 050,5 3 754,8 3 997,6 4 216,1 4 370,1 4 516,5 4 453,4 4 768,2 5 179,3 5 521,5
+Population (en millions d'habitants) 1,2 1,2 1,3 1,3 1,4 1,4 1,4 1,4 1,5 1,5 1,6
+PIB par tête d'habitant (en $ E.U.) 16 632,6 9 581,1 7 892,5 8 523,6 9 339,8 8 207,1 6 793,5 6 223,7 6 895,2 7 112,3 7 198,3
+Sources: Administrations nationales, FMI et BEAC
+
+--- Page 43 ---
+42
+T34. Tchad : Principaux indicateurs économiques, financiers et sociaux
+2014 - 2023
+2014 2015 2016 2017 2018 2019 2020 2020 2021 2022 2023
+Estim (*) Sop (**) Sr Prév. Prév. Prév.
+PIB, prix et population (Variations annuelles en %, sauf indications contraires)
+Taux de croissance (PIB réel) 2,6 4,2 -2,8 -4,2 1,9 2,6 0,8 -3,8 6,4 5,5 4,5
+dont Secteur pétrolier 11,1 43,2 -14,7 -10,9 12,9 11,8 2,4 2,4 24,5 9,0 1,9
+Secteur non pétrolier 1,7 -0,4 -0,8 -3,2 0,4 1,3 0,5 -4,8 3,4 4,8 5,0
+Taux de croissance démographique 3,6 3,6 3,6 3,6 3,6 3,6 3,6 3,6 3,6 3,6 3,6
+Inflation (prix consommation-base= 01/1994) N'Djamena 1,7 3,7 -1,6 -1,1 4,0 -1,0 2,0 1,8 2,9 3,0 3,0
+Finances publiques
+Recettes totales 17,5 -52,0 -15,7 7,6 19,0 9,3 -13,2 -20,6 28,4 19,4 14,6
+Recettes pétrolières -15,7 -59,9 -32,7 16,9 67,5 -2,7 -25,9 -44,2 58,4 30,9 16,5
+Recettes non pétrolières 71,5 -45,8 -5,6 3,7 -4,2 19,3 -4,5 -4,5 12,6 10,8 12,9
+Dépenses totales 4,2 -25,1 -26,7 -0,1 -6,0 13,2 18,4 18,4 11,5 5,3 1,8
+Dépenses courantes 0,8 -8,2 -14,9 -4,5 -9,7 7,5 17,5 17,5 9,0 5,7 2,7
+Dépenses en capital 9,0 -46,3 -52,3 16,7 5,7 28,4 20,4 20,4 16,9 4,5 0,0
+Monnaie et crédit
+Avoirs extérieurs nets -1,9 -83,1 -442,8 1,4 33,8 23,7 22,1 -134,2 72,6 389,9 144,2
+Crédits à l'économie 19,0 9,3 5,2 -2,3 0,9 1,4 7,4 -1,7 11,0 18,2 10,7
+Créances nettes sur l'Etat 169,1 353,9 65,1 -2,9 0,5 47,4 5,8 12,5 -0,1 -8,6 -8,5
+Masse monétaire (M2) 25,0 -3,9 -7,8 -3,0 -2,4 24,9 2,5 -19,4 13,8 14,9 11,7
+Concours de la BEAC atx banques 328,0 409,3 258,9 3,0 -20,8 -37,2 -0,2 49,7 -20,0 12,5 -17,8
+Taux de couverture extérieure (fin de période) 73,2 32,5 5,3 5,2 16,8 29,4 39,7 14,2 45,9 54,1 62,7
+Vitesse de circulation de la monnaie (PIB/M2) 5,7 5,8 6,2 6,1 6,5 5,2 5,2 6,4 4,9 4,6 4,4
+Taux directeur BEAC - TIAP (fin de période) 2,95 2,45 2,45 2,95 3,50 3,50 2,95 3,50 3,50 3,50 3,50
+Secteur extérieur
+Exportations, fob 0,2 -17,3 -16,0 22,2 15,8 7,2 -30,9 -48,3 32,1 17,3 8,4
+Importations, fob 66,9 -16,5 -67,1 -6,8 3,9 15,2 -10,3 -37,5 10,6 10,3 6,0
+Termes de l'échange -4,7 -44,9 -3,7 19,9 14,7 -11,9 -39,6 -56,5 -0,8 0,4 -1,2
+Variation des prix à l'exportation -5,3 -34,2 -18,0 17,3 14,0 -8,3 -41,4 -57,7 -0,3 1,2 -0,2
+Variation des prix à l'importation -0,6 19,4 -14,8 -2,2 -0,6 4,1 -2,9 -2,9 0,5 0,7 0,9
+Taux de change effectif réel 0,6 -1,6 -1,0 -1,0 … … … … … … …
+Taux de change effectif réel des exportations 3,0 -19,7 -1,4 -3,7 … … … … … … …
+Taux de change effectif réel des importations 0,5 1,7 -0,9 -0,3 … … … … … … …
+Marge de compétitivité cumulée depuis 1994 12,5 13,9 14,7 15,6 … … … … … … …
+Monnaie et crédit (Contribution à la croissance de la masse monétaire, en %)
+Avoirs extérieurs nets -1,5 -41,9 -39,1 0,8 11,2 5,3 3,0 -18,6 7,6 9,9 9,2
+Avoirs intérieurs nets 26,6 38,0 31,3 -3,8 -13,5 19,6 -0,5 -0,8 6,2 5,0 2,5
+Crédit intérieur net 31,5 29,1 24,1 -3,3 0,9 27,7 8,2 7,3 6,6 5,6 2,5
+Créances nettes sur l'Etat 20,9 24,2 21,0 -1,7 0,3 26,7 3,8 8,3 -0,1 -5,2 -4,1
+Crédits à l'économie 10,6 4,9 3,1 -1,6 0,6 1,0 4,3 -1,0 6,7 10,8 6,5
+Autres postes nets -5,0 8,9 7,2 -0,6 -14,4 -8,1 -8,7 -8,1 -0,5 -0,5 0,0
+Masse monétaire (M2) 25,0 -3,9 -7,8 -3,0 -2,4 24,9 2,5 -19,4 13,8 14,9 11,7
+Comptes nationaux (Contribution à la croissance réelle, en %)
+Produit intérieur brut 2,6 4,2 -2,8 -4,2 1,9 2,6 0,8 -3,8 6,4 5,5 4,5
+dont Secteur pétrolier 1,1 4,5 -2,1 -1,4 1,5 1,5 0,3 0,3 3,5 1,5 0,3
+Secteur non pétrolier 1,5 -0,3 -0,7 -2,8 0,4 1,1 0,4 -4,1 2,9 4,0 4,1
+Demande intérieure brute 24,5 -14,2 -26,3 -5,3 0,9 2,2 -2,7 -10,2 4,4 3,9 2,9
+Consommation 23,5 -9,5 -22,2 -7,9 -1,4 1,6 2,5 -3,2 2,6 2,8 2,2
+Publique 1,4 -5,7 -0,3 0,3 -2,2 -0,2 1,4 1,4 1,4 0,6 0,1
+Privée 22,1 -3,8 -21,9 -8,2 0,9 1,8 1,1 -4,6 1,1 2,2 2,1
+Investissements bruts 1,0 -4,7 -4,1 2,6 2,3 0,6 -5,2 -7,0 1,8 1,1 0,7
+Publics 0,3 -3,7 -2,1 0,3 0,1 0,6 0,5 0,5 0,5 0,1 -0,1
+Privés (Entreprises et ménages) 0,6 -1,0 -2,0 2,3 2,2 0,0 -5,7 -7,5 1,4 1,0 0,7
+dont secteur pétrolier -1,2 -1,0 -1,7 3,1 2,1 0,0 -5,8 -7,7 1,3 1,0 0,7
+dont secteur non pétrolier 1,8 0,0 -0,4 -0,8 0,1 0,0 0,1 0,2 0,1 0,1 0,1
+Variation des stocks 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0
+Exportations nettes -21,8 18,4 23,5 1,1 1,0 0,4 3,5 6,4 2,0 1,6 1,6
+Exportations de biens et services non facteurs -0,1 0,8 0,7 -0,8 0,1 0,3 1,5 1,6 1,5 1,0 0,8
+Importations de biens et services non facteurs -21,7 17,5 22,8 1,9 0,9 0,2 2,0 4,8 0,5 0,5 0,8
+Comptes nationaux (En % du PIB, sauf indications contraires)
+Investissements 28,9 24,8 22,7 25,8 26,6 27,8 24,8 24,7 25,3 24,7 23,9
+Epargne intérieure 0,3 -3,8 24,2 34,6 33,6 34,3 24,5 24,2 27,7 28,8 28,7
+Epargne nationale -1,5 -3,1 23,3 31,2 31,7 32,2 23,5 23,7 26,0 26,7 26,6
+Finances publiques
+Recettes totales 20,2 10,0 9,3 10,4 11,6 12,5 11,1 10,7 13,2 14,4 15,3
+Recettes pétrolières 9,0 3,7 2,8 3,3 5,3 5,1 3,8 3,0 5,6 6,7 7,3
+Recettes non pétrolières 11,2 6,3 6,6 7,0 6,3 7,5 7,3 7,7 7,6 7,7 8,1
+Dépenses totales 22,5 17,5 14,1 14,5 12,8 14,4 17,3 18,3 17,9 17,3 16,3
+Dépenses courantes 12,6 11,9 11,2 11,0 9,3 9,9 11,9 12,6 12,0 11,6 11,1
+Dépenses en capital 10,0 5,5 2,9 3,5 3,5 4,4 5,4 5,7 5,9 5,6 5,2
+Solde budgétaire primaire, (déficit - ) 1,1 -3,7 -0,7 0,3 2,0 1,2 -1,8 -2,9 0,0 1,5 3,1
+Solde budgétaire primaire (hors intérêts) -1,6 -5,8 -2,8 -2,6 -0,2 -0,9 -5,2 -6,5 -3,8 -1,9 -0,1
+Solde budgétaire primaire (hors intérêts et recettes pétrolières) en % PIB hors pétrole -12,6 -11,1 -6,0 -6,5 -6,2 -6,7 -9,8 -10,1 -10,4 -9,6 -8,2
+Solde budgétaire de base, (déficit - ) 0,4 -5,3 -2,7 -1,3 0,9 0,2 -2,8 -3,9 -0,9 0,6 2,2
+Solde budgétaire, base engagements hors dons (déficit - ) -2,3 -7,4 -4,8 -4,2 -1,2 -1,8 -6,3 -7,6 -4,7 -2,9 -1,0
+Solde budgétaire, base engagements dons compris (déficit - ) -0,3 -4,4 -2,4 -0,7 1,5 -0,6 -2,7 -3,8 -1,9 -0,2 1,5
+Solde budgétaire de référence (>= -1,5 % du PIB) 1,9 1,0 1,2 0,1 -1,2 -2,7 -3,2 -3,3 -3,9 -2,3 -1,5
+Secteur extérieur
+Exportations de biens et services non facteurs, fob 26,5 23,4 22,5 27,7 30,0 31,6 23,4 19,3 27,7 29,4 29,5
+Importations de biens et services non facteurs, fob 55,1 52,1 20,9 18,0 22,2 24,3 22,8 18,9 24,6 24,7 24,1
+Solde du compte courant (dons off.incl., déf.- ) -26,8 -23,4 1,3 10,8 9,5 7,6 2,9 3,5 4,5 5,9 6,5
+Solde du compte courant (dons off.excl., déf. - ) -27,3 -24,8 1,1 8,0 7,9 6,7 1,0 1,6 3,1 4,5 5,2
+Encours de la dette extérieure/PIB 24,6 19,0 26,3 26,3 25,2 25,1 29,9 31,6 30,1 30,1 28,5
+Encours de la dette globale/PIB 49,6 43,2 49,6 50,3 46,4 44,6 48,4 51,5 45,9 43,7 40,3
+Encours de la dette extérieure/XBSNF 92,7 81,3 117,1 97,9 86,3 81,6 132,5 171,0 111,6 104,6 98,6
+Encours de la dette extérieure/Recettes budgétaires 121,5 189,4 281,6 253,5 217,7 200,6 269,8 294,9 228,6 208,6 185,6
+Ratio du service de la dette/PIB 3,4 12,8 3,7 3,1 2,2 2,1 2,7 2,9 2,5 2,7 2,5
+Ratio du service de la dette/XBSNF 12,8 54,8 16,7 11,6 7,5 6,7 12,1 15,6 9,5 9,4 8,7
+Ratio du service de la dette/Recettes budgétaires 16,8 127,6 40,1 30,0 18,8 16,5 24,6 26,9 19,4 18,8 16,4
+Réserves extérieures (en mois d'importations caf) 2,5 1,1 0,2 0,2 1,6 2,8 4,9 1,5 5,6 6,6 7,7
+Réserves extérieures (en mois d'importations biens et services) 1,8 0,8 0,1 0,1 0,8 1,5 2,5 0,7 2,7 3,2 3,8
+Pour mémoire
+PIB nominal (en milliards de FCFA) 7 037,9 6 800,1 6 165,2 5 986,4 6 374,2 6 430,3 6 311,5 5 978,4 6 831,7 7 442,8 8 019,3
+PIB nominal non pétrolier (en milliards de FCFA) 5 933,1 5 833,1 5 721,1 5 474,2 5 647,9 5 665,4 5 854,7 5 665,7 6 214,8 6 713,5 7 232,8
+Population (en millions d'habitants) 13,2 13,6 14,1 14,7 15,2 15,7 16,3 16,3 16,9 17,5 18,1
+PIB par tête d'habitant (en $ E.U.) 1 082,1 842,7 735,6 703,5 756,4 698,0 658,3 623,6 676,4 711,3 739,7
+Sources: Administrations nationales, FMI et BEAC

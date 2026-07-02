@@ -1,0 +1,1179 @@
+Source PDF : BEAC_Working_Paper_N°07_19_-_Chocs_extérieurs_et_stabilité_financière_cas_de_l'Union_Monét_96c0edc7.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°07_19_-_Chocs_extérieurs_et_stabilité_financière_cas_de_l'Union_Monét_96c0edc7.pdf
+Date extraction : 15/06/2026 21:21:53
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 07/19 -
+Chocs extérieurs et stabilité financière : cas de l’Union Monétaire
+d’Afrique Centrale
+KENKOUO Guy-Albert
+Economiste
+Direction de la Stabilité Financière, des
+Activités Bancaires et du Financement des
+E c o n o m i e s
+kenkouo@beac.int
+Les opinions émises dans ce document de
+B ANQ U E D E S E T A T S D E
+L’AF R IQ U E C E NT R ALE travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+Banque des Etats de l’Afrique Centrale.
+V og t B P:1 9 1 7 Y a o un d é
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 / paper are those of the author (s) and don’t
+2 2 2 34 060 necessarily represent the views of the Central Bank
+of Central Africa States.
+F a x : (2 37 ) 2 2 2 33 32 9
+ww w.be a c.i n t
+D I R E C T I O N D E S E T U D E S, D E L A R E C H E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+Chocs extérieurs et stabilité financière : cas
+de l’Union Monétaire d’Afrique Centrale
+1KENKOUO Guy Albert
+1kenkouo_guy@yahoo.fr
+Février - 2020
+
+--- Page 3 ---
+Table des matières
+Résumé 1
+Abstract 1
+Résuménon-technique 2
+Introduction 4
+1 Intégration financière en Afrique Centrale 6
+1.1 Présentation du système financier de la CEMAC . . . . . . . . . . . . . . . 6
+1.2 Analyse de l’activité du secteur bancaire de la CEMAC . . . . . . . . . . . 8
+2 Sources de vulnérabilités du système financier : revue de littérature 10
+2.1 Sources d’instabilité financière . . . . . . . . . . . . . . . . . . . . . . . . 11
+2.2 Exposition du système financier à la conjoncture étrangère . . . . . . . . . 15
+2.2.1 Canaux directs de propagation des chocs financiers internationaux 15
+2.2.2 Canaux indirects de propagation des chocs financiers internationaux 17
+3 Approche méthodologique 19
+3.1 Élaboration d’un indicateur de solidité du système bancaire . . . . . . . . . 19
+3.2 Présentation de la modélisation PSVAR . . . . . . . . . . . . . . . . . . . 21
+4 Résultats et interprétations 23
+4.1 Analyse descriptive de l’ICSB de la CEMAC . . . . . . . . . . . . . . . . . 23
+4.2 Vérification des conditions de modélisation . . . . . . . . . . . . . . . . . . 24
+4.3 Analyse de l’impact des chocs exogènes sur la solidité du système bancaire 25
+Conclusionsetimplicationsdepolitiqueéconomique 27
+Référencesbibliographiques 29
+Annexe 33
+i
+
+--- Page 4 ---
+Résumé
+Cette étude analyse les effets des chocs extérieurs sur la résilience du système bancaire
+de la CEMAC. Pour ce faire, un indice composite de solidité du système bancaire a été
+construit à l’aide des pondérations obtenues d’une Analyse en Composante Principale
+(ACP) normée. En estimant un modèle PSVAR avec les données de 1993 à 2017, il ressort
+des analyses qu’un choc négatif sur le taux de change USD/XAF ou une forte volatilité des
+cours du pétrole contribue à une dégradation durable de la stabilité bancaire. Par contre,
+un choc positif sur le taux de croissance de certains pays partenaires commerciaux de la
+CEMAC (Chine, USA et Nigeria) contribue au renforcement de la résilience du système
+bancaire.
+Classification JEL : G32, E52, C33 et O55.
+Mots clés : Stabilité bancaire, PSVAR et risque de crédit.
+Abstract
+This paper examines the effects of external shocks on the resilience of the CEMAC
+banking system. To do this, a composite index of bank system strength was constructed
+using weights derived from a standardized Principal Component Analysis (PCA). By esti-
+mating a PSVAR model with data from 1993 to 2017, the analysis shows that a negative
+shock on the USD/XAF exchange rate or high volatility in oil prices contributes to a las-
+ting deterioration in bank stability. On the other hand, a positive shock on the growth rate
+of certain CEMAC trading partner countries (China, USA and Nigeria) contributes to
+strengthening the resilience of the banking system.
+Classification JEL : G32, E52, C33 and O55.
+Key words : Bank stability, PSVAR and credit risk.
+1
+
+--- Page 5 ---
+Résumé non-technique
+La présente étude évalue les effets des chocs extérieurs sur la solidité du système ban-
+caire de la CEMAC. En identifiant les principales variables dont les évolutions pourraient
+dégrader ou renforcer la résilience du système bancaire dans la zone, cette étude contribue
+à une meilleure contextualisation de la notion de stabilité financière dans la CEMAC et
+à l’amélioration du cadre de surveillance macroprudentielle.
+La littérature économique sur les sources d’instabilité financière, devenue plus abon-
+dante depuis la crise asiatique, s’appesantit sur les chocs endogènes. Cependant, l’inter-
+nationalisation des crises financières au cours des dernières années est révélatrice d’une
+interdépendance croissante entre les systèmes financiers nationaux, pouvant être liée à
+l’interconnexion des marchés financiers, au développement du commerce international et
+à la forte intégration de l’économies mondiale.
+Compte tenu des caractéristiques des économies de la CEMAC, la vulnérabilité exté-
+rieure la plus plausible de son système financier son exposition à la conjoncture interna-
+tionale à travers le canal du commerce. La propagation des chocs extérieurs dans la zone
+par l’interconnexion des marchés, le canal bancaire, les APD et les IDE semble limitée.
+Il ressort de l’analyse que les chocs sur le change USD/XAF, la volatilité des prix du
+pétrolebrutetlademandechezcertainspartenairescommerciaux(Chine,NigeriaetUSA)
+rendent compte des vulnérabilités du système bancaire de la CEMAC à la conjoncture
+économique internationale. A cet effet, la résilience du système bancaire se renforcerait
+en cas d’un choc positif sur la croissance en Chine, au Nigeria et aux USA. Par contre,
+les fortes fluctuations des cours mondiaux du pétrole (en l’occurrence à la baisse) et du
+taux de change USD/XAF fragiliserait davantage le système bancaire de la Zone.
+A la lumière des résultats de cette étude, le cadre de surveillance macro-prudentielle
+mis en place dans la CEMAC pour prévenir les risques d’instabilité financière devrait
+donner une place majeure à l’évolution des taux de changes de devises, notamment avec
+les principaux partenaires commerciaux. Par ailleurs, un effort de diversification des par-
+tenaires commerciaux des États de la sous-région, et une politique d’intensification des
+échanges commerciaux intra-CEMAC visant à réduire la sensibilité des pays de la sous-
+région aux fluctuations commerciales liées au récession qui pourrait se produire à l’exté-
+rieur réduiraient les vulnérabilités structurelles du système financier de la CEMAC.
+2
+
+--- Page 6 ---
+Introduction
+Depuis la crise économique de 1929, l’environnement économique mondial est caracté-
+risé par de longues périodes d’instabilité du système monétaire international, qui se sont
+accentuées avec l’effondrement du système de Brettons Wood en 1973 et se manifestant
+par une recrudescence de crises (crise des subprimes, crise de la dette souveraine en Eu-
+rope, chocs pétroliers), d’origines diverses, affectant aussi bien les pays développés que les
+pays en développement. Cette situation a renforcé l’intérêt de la recherche sur la stabilité
+dusystèmefinancierquiestdepuistoujoursunepréoccupationpourlesbanquescentrales.
+Plusieurs institutions (Banque centrale, autorités de régulation et de supervision, en-
+treprises en charge des infrastructures financières comme les bourses, etc.) sont garantes
+de la stabilité financière. En dépit de ce caractère multidimensionnel de la stabilité finan-
+cière, un système est qualifié de stable s’il maintient sa résilience et continue à remplir sa
+fonction principale consistant à canaliser l’épargne vers l’investissement même en cas de
+chocs imprévus.
+La littérature économique sur les sources d’instabilité financière s’appesantit généra-
+lement sur la nature endogène des chocs pouvant affecter le système financier. En effet,
+certaines études (Fisher[16], 1933; Kindlerberger[29], 1978; Minsky[32], 1982) expliquent
+l’instabilité financière en se référant aux interactions entre les sphères financière et réelle,
+en lien avec le retournement du cycle économique, et d’autres (Mishkin[31], 1991; Gut-
+tentag et Herring[23], 1986; Diamond et Dybvig[14], 1983) aux dysfonctionnements sur
+des marchés financiers. Suivant cette dernière approche, une zone comme la CEMAC,
+marquée par la prédominance du secteur bancaire avec un rôle faible ou inexistant des
+marchés financiers, ne devrait pas être concerné par des problématiques de stabilité finan-
+cière. Les banques qui y exercent ont peu recours à la titrisation et n’ont pas ou peu de
+positions spéculatives sur les marchés internationaux, celles-ci étant de fait limitées par
+l’existence d’un certain degré de contrôle des mouvements de capitaux (Chauvin et Geis,
+2011)[8].
+Plus globalement, le système financier de la CEMAC est peu intégré aux marchés de
+capitaux internationaux; les innovations financières y sont rares; les engagements hors
+bilan ne sont pas aussi développés que dans les pays industrialisés et les instruments de
+titrisationcomplexesnesontgénéralementpasutilisés.Nonobstantcescaractéristiques,la
+Zone CEMAC a connu une crise bancaire à la fin des années 80. Par ailleurs, même s’il n’y
+3
+
+--- Page 7 ---
+a pas eu de crise bancaire dans la CEMAC depuis celle précitée, l’analyse de l’évolution
+des indicateurs de solidité du système bancaire montre que la crise financière de 2008 et
+la chute des cours du pétrole à partir du second semestre 2014 ont soit affecté la distribu-
+tion du crédit bancaire dans la CEMAC ou contribué à la dégradation du portefeuille de
+crédit ou encore fragilisé la trésorerie de plusieurs banques. Ainsi, les différents épisodes
+de stress du système bancaire de la CEMAC coïncident généralement avec la dégradation
+de la conjoncture économique internationale. S’agit-il d’une simple coïncidence ou alors
+d’une relation de cause à effet?
+Pour y répondre, cette étude a pour objectif d’évaluer les effets des chocs extérieurs
+sur la solidité du système bancaire de la CEMAC, contribuant ainsi à mieux contextua-
+liser la notion de stabilité financière dans la Zone. En identifiant les principales variables
+dont les évolutions pourraient dégrader la stabilité du système bancaire dans la sous-
+région, cette étude participe à l’amélioration du cadre de surveillance macroprudentielle
+enaffinantlechoixdesindicateursdansleprocessusd’élaborerlacartographiedesrisques.
+En se basant sur l’hypothèse que le commerce est le principal canal par lequel la dé-
+gradation de la conjoncture économique internationale affecte le système bancaire de la
+CEMAC, nous élaborons un indice de conditions financières pour apprécier la solidité du
+système bancaire. Par la suite, nous estimons un modèle vectoriel auto-régressif sur les
+données de panel (PSVAR) à l’aide de la méthode de Pedroni (2013)[35] pour apprécier
+l’impact des chocs extérieurs sur la stabilité du système bancaire.
+Dans la suite de l’article, nous présentons dans une première section la situation de
+l’intégration financière en Afrique Centrale. La deuxième section est consacrée à la revue
+de la littérature sur les sources de vulnérabilité du système financier en insistant sur les
+canaux de transmission des crises aux pays émergents. La troisième section est réservée à
+la méthodologie d’évaluation des vulnérabilités du système financier de la CEMAC. Enfin,
+dans la quatrième section, les résultats ainsi que les recommandations qui en découlent
+sont présentés.
+4
+
+--- Page 8 ---
+1 Intégration financière en Afrique Centrale
+L’intégration économique est un processus séquentiel qui se déroule généralement en
+cinq étapes, à savoir : la zone de libre-échange, l’union douanière, le marché commun,
+l’unionéconomiqueetmonétaire.Ainsi,l’adoptiond’unemonnaieuniquedanslaCEMAC
+et la création d’une banque centrale unique devraient favoriser l’intégration économique
+et financière dans la sous-région. Cependant, le système financier de la zone est encore
+relativement peu développé, faiblement diversifié et largement dominé par le système
+bancaire.
+1.1 Présentation du système financier de la CEMAC
+Le système financier de la CEMAC est composé des institutions financières (Banques,
+établissements financiers, établissements de microfinance, compagnies d’assurance et or-
+ganismesdesécuritésociale),desmarchésdescapitauxetdesinfrastructuresdemarché.Il
+reste dominé par le secteur bancaire fortement concentré qui, à fin 2017, détenait environ
+78% des actifs (Cf. graphique 1). En 2017, les actifs du système financier ont représenté
+33,4% du PIB de la CEMAC.
+Graphique 1 – Répartition des actifs détenus par les composantes du système financier
+au 31 décembre 2017.
+Source : COBAC, CIMA et CIPRES
+Le système bancaire de la CEMAC, au 31 décembre 2018, compte 65 établissements
+de crédit dont 54 banques et 11 établissements financiers1. Ces établissements de crédit
+1. Constitués essentiellement des sociétés de crédit-bail et d’entités publiques spécialisées. Ils ne sont
+installés qu’au Cameroun et au Gabon.
+5
+
+--- Page 9 ---
+sont inégalement répartis par pays, le Cameroun et le Gabon bénéficiant de meilleures
+dotations et représentent plus de 80% du marché bancaire de la CEMAC en matière de
+distribution de crédits et de collecte des dépôts. Il est très marqué par la présence de
+banques étrangères, détenant plus de 70% de l’ensemble des actifs contre seulement 30%
+pour les banques à capitaux domestiques.
+Tableau 1 – Répartition des établissements de crédit dans le CEMAC au 31-12-2018
+Banques Etablissements financiers Ensemble
+Cameroun 15 8 23
+RCA 4 0 4
+Congo 11 0 11
+Gabon 10 3 13
+Guinée Equatoriale 5 0 5
+Tchad 9 0 9
+Total 54 11 65
+Source : COBAC
+En plus du secteur bancaire, le secteur de la microfinance, avec 8% des actifs du sys-
+tème financier, connait une forte croissance. Au 31 décembre 2015, 8192 établissements
+de microfinance (EMF) ayant reçu l’avis conforme de la COBAC sont classés en EMF
+de première (90%), deuxième (9%) et troisième (1%) catégorie. Au 31 décembre 2017, le
+secteur de la microfinance a totalisé 857 établissements ayant reçu l’avis conforme de la
+COBAC.
+En ce qui concerne le secteur des assurances, avec 58 compagnies supervisées par la
+Conférence Inter-africaine des Marchés d’Assurances (CIMA), il est encore sous déve-
+loppé3 dans la CEMAC. En effet, les compagnies d’assurance y offrent principalement la
+propriété, l’automobile, la santé, la vie et l’accident. Toutefois, dans la plupart des pays,
+le secteur de l’assurance automobile domine en terme de part de marché (Allen et al.,
+2011)[1].
+Quantauxorganismesdeprévoyancesociale,huitsontenactivitésouslecontrôledela
+Conférence Inter-africaine de la Prévoyance Sociale (CIPRES), en raison d’un organisme
+par pays à l’exception du Gabon qui en compte trois. Elles détiennent 9,2% des actifs du
+système. Le volume du portefeuille des placements des organismes de prévoyance sociale
+s’est établi à 297 milliards de FCFA à fin 2017.
+S’agissant des marchés de capitaux dans la CEMAC, on distingue le marché monétaire
+2. Moins de 700 effectivement en activité.
+3. Le secteur des assurances détient 3% des actifs du système financier, soit 3,1% du PIB en 2017. Le
+volume des investissements du secteur est de 588,6 milliards.
+6
+
+--- Page 10 ---
+(compartiment interbancaire, compartiment des interventions de la BEAC, marché titres
+publics émis par adjudication et le marché des titres de créances négociables) et deux mar-
+chés financiers (Bourse des Valeurs Mobilières d’Afrique Centrale (BVMAC) et Douala
+Stock Exchange (DSX)). Ces marchés financiers sont embryonnaires avec seulement trois
+entreprises cotées à la DSX et aucune à la BVMAC. A la suite de la décision des Chefs
+d’Etat de la CEMAC en 2017 pour accélérer l’intégration financière dans la CEMAC, le
+processus de fusion de ces deux marchés est en cours et devrait aboutir au plus tard en
+2020.
+Enfin, les infrastructures de marché sont réparties en deux composantes : un système
+derèglementbrutentempsréel(RTGS)dénomméSystèmedeGrosMontantsAutomatisé
+(SYGMA), un Système de télé-compensation dénommé Système de Télécompensation en
+Afrique Centrale (SYSTAC), un système de Monétique Interbancaire (SMI) et la monnaie
+électronique. SYGMA permet d’exécuter les règlements des opérations supérieures à 100
+millions de F CFA ou celles à caractère urgent. Par contre, SYSTAC est un système
+net, sécurisé, automatisé et dématérialisé qui traite des opérations dont le montant est
+strictement inférieur à 100 millions de francs CFA et celles ne présentant pas un caractère
+d’urgence. Le SMI auquel 53 établissements de crédit et deux EMF ont adhéré assure
+l’opérationnalisation des services interbancaires de retrait GAB et de paiement sur PTE
+ainsi que l’interopérabilité des systèmes en vue de fédérer l’ensemble des Mobile Money.
+1.2 Analyse de l’activité du secteur bancaire de la CEMAC
+Dans le cadre de cette étude, le secteur bancaire de la CEMAC est analysé à travers
+trois indicateurs, à savoir : crédits à l’économie, créances en souffrances et liquidité ban-
+caire.
+Après la crise des années quatre-vingt-dix, les banques ont limité leur offre de crédit
+malgré les besoins croissants des agents économiques et principalement des PME/PMI qui
+dépendent du crédit bancaire (Bikai et Kenkouo, 2015[4] et 2019[3]). Malgré une tendance
+haussière, du ratio crédits à l’économie sur PIB dans tous les pays depuis 2000, la contri-
+bution du secteur bancaire au financement de l’activité économique reste faible dans la
+CEMAC . En effet, sur la période 2000-2009, les ratios des crédits à l’économie sur le PIB
+se sont situés en moyenne entre 4,3% et 17,3% dans les pays de la CEMAC,alors qu’en
+2017, ce ratio s’est établi 32% pour l’Afrique Subsaharienne, 63,3% au Maroc, 65,6% en
+Afrique du Sud et 31% au Kenya. Il convient de relever une hausse de l’encours des crédits
+à l’économie dans les pays de la CEMAC en 2008 et une chute l’année suivante, justifiant
+7
+
+--- Page 11 ---
+les résultats de Reinhart et Rogoff (2009)[41] qui stipulent qu’en période de crise des
+booms de crédit s’enregistrent. Cependant, dans le cas des pays de la CEMAC, le crédit
+apparait comme une conséquence de la crise et non une cause. En effet, les difficultés
+rencontrées par certains agents du secteur non financier au début de la crise financière de
+2008 ont conduit ceux-ci à largement s’endetter pour faire face à leurs besoins de fonction-
+nement. Toutefois, l’incertitude créée par cette crise aurait amené les banques à réduire
+leur offre de crédit, entrainant la compensation rapide des volumes de crédits observés
+en 2009 et 2010. Après cet épisode de crise, le niveau des crédits à l’économie a repris
+son sentier d’expansion. A partir de 2015, en lien avec le niveau des cours du pétrole sur
+les marchés internationaux, le volume du financement accordé à l’économie a stagné pour
+ensuite diminué jusqu’en 2017.
+Un portefeuille de qualité constitue un élément fondamental de la stabilité financière
+et participe à la bonne transmission des signaux de la politique monétaire à travers le
+canal du crédit. A contrario, une dégradation du portefeuille fragilise le système bancaire.
+En effet, la constitution des provisions pour les créances en souffrance réduit la capacité
+des banques à accorder du crédit et affecte la rentabilité ainsi que la solvabilité de celles-ci.
+Estimé à 14% en 2000, le taux des crédits non-performants s’est beaucoup amélioré dans
+la CEMAC avec la poursuite de l’assainissement du secteur bancaire et la mise en œuvre
+des programmes économiques avec le FMI dans le cadre de l’initiative PPTE. A la suite de
+la crise financière de 2008, la hausse du volume des créances en souffrance a été compensée
+par la forte distribution du crédit à l’économie au cours de la même année. Une analyse
+de la dégradation du portefeuille entre les différents pays, laisse apparaitre que celle-ci est
+plus faible en RCA. Aussi, deux pays ont vu la qualité de l’actif se détériorer malgré une
+conjoncture économique favorable (Congo et Guinée Équatoriale). Ainsi, à l’exception de
+la RCA, le taux de dégradation du portefeuille est beaucoup plus important et surtout
+plus volatile au Tchad et en Guinée Équatoriale. Par contre au Cameroun et au Gabon,
+le niveau de dégradation du portefeuille est beaucoup plus maîtrisée (Graphiques 6 et
+8). Il convient de relever que les défauts de remboursement de crédits exercent un effet
+d’éviction sur le financement des investissements, ce qui peut entraîner un repli des acti-
+vités économiques qui, à son tour, détériore la rentabilité des entreprises emprunteuses.
+Ce processus pourrait ainsi générer un mécanisme d’accélérateur financier synonyme de
+crises bancaire et économique.
+La liquidité bancaire renvoie à la capacité pour une banque, à un instant donné de
+faire face à un passif qui peut lui être exigible. La crise financière de 2008 comme en
+8
+
+--- Page 12 ---
+témoigne le graphique 9 a certes altéré le volume des avoirs extérieurs détenus par les
+banques et aussi le niveau des crédits, mais n’a pas significativement compromis la liqui-
+dité des banques. Par contre, à partir de 2014, avec l’effondrement des cours du pétrole
+et un recours accru des États au système bancaire pour faire face à leur besoins de finan-
+cement, la liquidité bancaire a progressivement diminué. Toutefois, depuis 2017, avec les
+appuis budgétaires reçus dans le cadre des programmes économiques avec le FMI et un
+léger relèvement des cours du pétrole, cette situation s’améliore progressivement, mais le
+niveau des réserves reste toujours faible en comparaison avec celui des dépôts. En 2010,
+le taux d’adéquation des réserves par rapport aux dépôts est d’environ 40% dans tous les
+États de la CEMAC, exception faite de la RCA où il se situe à 30%. En 2017, le même
+taux est à 21% au Cameroun, 15% au Congo, 19% au Gabon et 12% au Tchad. En Guinée
+Équatoriale, l’adéquation des réserves se dégrade moins fortement (36% en 2017).
+Il ressort de cette analyse que plusieurs indicateurs de solidité du système bancaire
+dans la CEMAC se sont améliorés depuis 2000. Toutefois, à chaque fois que l’environ-
+nement économique et financier international s’est dégradé, les indicateurs analysés ont
+été impactés négativement. En effet, la crise financière de 2008 et la chute des cours du
+pétrole à partir du second semestre 2014 ont soit affecté la distribution du crédit bancaire
+dans la CEMAC ou contribué à la dégradation du portefeuille de crédit ou encore ré-
+duire la liquidité du système bancaire en fragilisant plusieurs banque sur le plan liquidité.
+Ainsi, même s’il n’y a pas eu de crise bancaire dans la CEMAC depuis celle des années
+90, les épisodes de stress du système bancaire de la Zone ont toujours coïncidé avec les
+périodes de dégradation de la conjoncture internationale. Ce constat justifie bien la né-
+cessité d’examiner les principales sources de vulnérabilité extérieure du système bancaire
+de la CEMAC.
+2 Sources de vulnérabilités du système financier : re-
+vue de littérature
+Depuis la crise financière en asiatique, la littérature économique sur l’analyse des
+sources de vulnérabilité devient de plus en plus abondante. Plus généralement, la vulné-
+rabilité peut être définie comme la probabilité qu’un système soit affecté négativement par
+une perturbation ou un « choc » soudain allant au-delà de la plage normale de variabilité
+(Essers, 2013)[15]. Allen et Wood[2] (2006) considèrent que la vulnérabilité financière est
+une variable continue avec un éventail de valeurs possibles et dont les points extrêmes
+reflètent des situations de crises. Ils affirment, par ailleurs, que la vulnérabilité est le pro-
+9
+
+--- Page 13 ---
+duit de la faiblesse des structures et de l’émergence de chocs exogènes.
+La littérature économique met en exergue trois grandes vulnérabilités des systèmes
+financiers, à savoir : (i) les interconnexions, renvoyant aux liens directs et indirects entre
+les entités et activités du système financier; (ii) la complexité, désignant l’imbrication
+des modèles d’activité, des structures organisationnelles, des systèmes techniques, des
+produits financiers ou des relations financières; et (iii) l’exposition à la conjoncture étran-
+gère, révélant la tendance des composantes du système financier à subir l’influence d’un
+évènement ou d’une situation survenus hors de frontières. En effet, les systèmes financiers
+modernes sont généralement complexes et inter-connectés. Ces caractéristiques, souvent
+présentés comme facteurs de résilience, peuvent devenir, en période de turbulence, des
+vecteurs de propagation des chocs.
+2.1 Sources d’instabilité financière
+Après la crise financière de 2008, les autorités de régulation ont pris conscience de
+la nécessité de disposer d’un cadre réglementaire et analytique à même de contribuer au
+maintien de la stabilité financière. Par conséquent, la recherche d’une définition claire de
+la stabilité financière est indispensable afin de mieux fixer les objectifs et orienter les poli-
+tiques en la matière. A cet effet, les définitions proposées pour la stabilité financière sont
+(i) en rapport avec l’impact de l’instabilité financière sur l’économie réelle, (ii) en fonction
+delacapacitédesinstitutionsfinancièresàassurerl’allocationoptimaledesressourcesetà
+fournir les services habituels sans une forme d’assistance particulière, ou encore (iii) en re-
+lation avec la capacité de résilience des systèmes financiers aux chocs. Bien que les travaux
+visant à définir le concept de stabilité financière soient relativement récents, les débats
+portant sur les facteurs à l’origine de l’instabilité ont été entamés depuis plusieurs décen-
+nies. Ainsi, Fisher (1933)[16], Kindlerberger[29] (1978) et Minsky[32] (1982) expliquent
+l’instabilité financière en se référant aux interactions entre les sphères financière et réelle.
+A cet effet, ils la relient au retournement du cycle économique. Par contre, d’autres au-
+teurs (Mishkin[31], 1991; Guttentag et Herring[23], 1986; Diamond et Dybvig[14], 1983)
+justifient l’instabilité plutôt par des dysfonctionnements au niveau des marchés financiers.
+Dans sa théorie « debt-deflation », Fisher[16] (1933) considère que les phénomènes
+d’instabilité financière sont provoqués par le surendettement des agents économiques et
+les mouvements extrêmes des prix. Selon cette approche, l’endettement des agents durant
+les phases d’expansion du cycle économique est à l’origine du processus déflationniste du-
+rant les phases de récession. En période de forte expansion, les investisseurs accroissent
+10
+
+--- Page 14 ---
+leur niveau d’emprunt pour financer leurs projets. Ce processus d’endettement induit une
+hausse des prix, réduisant la valeur réelle de la dette, et favorise davantage une situation
+de surendettement. Le changement de la perception du risque de la part des investisseurs
+les incite à vendre massivement leurs actifs afin de rembourser les dettes contractées, in-
+duisant une baisse de leurs prix, et provoque une appréciation de la valeur réelle de la
+dette qui nécessite de nouvelles ventes d’actifs. Ainsi, par le mécanisme de déflation par
+la dette, la baisse des prix devient encore plus exacerbée entraînant une situation de crise
+marquée par une contraction de l’activité économique.
+Le mécanisme déclenchant une instabilité ou une crise financière tel qu’il est présenté
+par Kindleberger[29] (1978) s’apparente à celui de Fisher[16] (1933). Ce dernier considère
+que même si les phénomènes d’instabilité financière n’ont pas les mêmes amplitudes et
+les mêmes effets ex-post, ils sont caractérisés par un enchaînement similaire d’étapes. En
+effet, les crises financières sont précédées de trois phases. Une première étape consiste en
+la sortie d’une période de récession à une phase de croissance alimentée par un boom des
+crédits et un achat massif d’actifs financiers en lien avec des anticipations optimistes des
+agents économiques. Cette situation engendre une hausse des prix des actifs qui s’écartent
+de leurs valeurs fondamentales. La deuxième phase débute dès que les bilans des agents
+enregistrent des taux d’endettement élevés et se caractérise par un renversement de la
+confiance des agents économiques et un changement dans la perception du risque. Ainsi,
+des baisses commencent à être enregistrées au niveau des prix des actifs entraînant une
+baisse des garanties détenues par les firmes financières. La réponse rationnelle des agents
+est de chercher davantage de liquidité en précipitant les opérations de ventes tout en
+acceptant des pertes importantes. Cette situation entraîne dans une dernière étape une
+déflation qui accroît le niveau des dettes réelles des agents et provoque en général une
+crise financière.
+L’approche de Minsky[32] (1982) intitulée « hypothèse d’instabilité financière » asso-
+cie la fragilité financière des économies capitalistes au retournement du cycle des affaires.
+Durant les premières phases du cycle économique, les entreprises recourent de plus en plus
+à l’endettement pour soutenir leurs projets d’investissement. L’accélération du processus
+d’endettement crée une mutation au niveau de la structure financière des agents écono-
+miques qui passe d’une structure robuste à une structure fragilisée par le surendettement
+et la spéculation. Ainsi, en période de boom de crédit, la hausse des taux d’intérêt met les
+entreprises sur-endettées en situation difficile, incitant celles-ci à liquider leurs actifs qui
+ne suffisent plus pour régler les intérêts et les dettes contractées. Cette situation induit un
+11
+
+--- Page 15 ---
+effondrement des prix des actifs financiers qui annonce à son tour l’entrée de l’économie
+dans une phase d’instabilité financière.
+Sur un autre registre, Mishkin[31] (1991) explique l’instabilité financière par les im-
+perfections des marchés financiers. Ces dernières se manifestent sous la forme d’asymétrie
+d’information entre prêteurs et emprunteurs et génèrent une discontinuité de l’activité
+d’intermédiation. Il estime que l’instabilité financière survient lorsque des chocs affectant
+le système financier aggravent considérablement les problèmes d’asymétrie information-
+nelle et empêchent le système financier de réaliser sa fonction principale de canalisation
+de l’épargne vers l’investissement.
+12
+
+--- Page 16 ---
+Un autre mécanisme, décrit initialement par Diamond et Dybvig[14] (1983), explique
+l’instabilité financière par la nature de l’activité d’intermédiation. En effet, la survenance
+d’un événement qui fragilise la confiance dans les institutions financières accélère les re-
+traits des déposants et oblige l’intermédiaire financier à liquider ses positions sur d’autres
+actifs en acceptant de grandes pertes en capital. Cette vente en chaîne se traduit gé-
+néralement par une baisse des prix des actifs et une forte détérioration de l’image des
+intermédiaires financiers. En réponse, les déposants se précipitent pour retirer leurs fonds
+et ébranlent ainsi la confiance des marchés ce qui entraîne une panique bancaire.
+Par ailleurs, plusieurs études ont remis en cause l’hypothèse de rationalité des agents
+afin d’expliquer la dynamique des cycles financiers et comprendre l’origine des crises fi-
+nancières. Dans ce sens, Guttentag et Herring[23] (1986) ont mis en exergue «l’hypothèse
+de myopie au désastre». Ce facteur d’instabilité endogène à la sphère financière reflète
+le manque d’objectivité des intermédiaires financiers dans l’évaluation des risques. Par
+exemple, les banques sous-estiment l’existence de risques et surestiment les perspectives
+de croissance de l’économie. En période d’euphorie, les banques ont tendance à assouplir
+leurs critères de sélection et à accorder davantage de crédits. L’emballement excessif des
+crédits combiné à une faible prime de risque fragilisent les bilans bancaires. Ainsi, les
+banques commencent à enregistrer des défauts de paiement qui les obligent à rationner
+leurs crédits précipitant ainsi une situation d’instabilité.
+Au-delà de ces approches, plusieurs recherches attribuent l’instabilité financière à l’en-
+vironnement financier qui a connu de profondes mutations au cours de la dernière décen-
+nie, dont notamment l’accélération de la déréglementation et la libéralisation des marchés
+financiers (Ülgen[46], 2012). Ces mutations ont particulièrement été marquées par une
+transformation fondamentale de l’intermédiation financière et un recours accru à de nou-
+veaux instruments financiers. Certes, ces innovations financières, telles que les contrats à
+terme, les options et les swaps ont permis d’améliorer la gestion des risques, néanmoins,
+en l’absence d’une régulation sur leur utilisation, ces produits financiers ont accentué la
+spéculation sur les marchés induisant une prise de risque excessive. D’ailleurs, la crise des
+« Subprimes » fournit une illustration des répercussions des innovations financières sur
+les marchés financiers.
+13
+
+--- Page 17 ---
+Cette littérature sur les sources d’instabilité financière s’appesantit sur la nature endo-
+gène des chocs pouvant affecter le système financier. Or, l’internationalisation des crises
+est révélatrice d’une certaine interdépendance croissante entre les économies nationales.
+Ainsi, s’intéressant aux sources de vulnérabilités exogènes des systèmes financiers, plu-
+sieurs études analysent les canaux et mécanismes de propagation des chocs financiers
+internationaux.
+2.2 Exposition du système financier à la conjoncture étrangère
+Les interdépendances des économies nationales peuvent être liées à l’interconnexion
+des marchés financiers, au développement du commerce international et de la forte in-
+tégration de l’économie mondiale. La littérature économique distingue les canaux direct
+et indirect de transmission des crises financières internationales. Les canaux directs sont
+généralement liés à l’interconnexion des marchés financiers ou des systèmes bancaires.
+Par contre, les canaux indirects sont le plus souvent en relation avec les flux financiers
+(investissements directs étrangers, aide publique au développement et les transferts des
+migrants) et le commerce international.
+En effet, avec le mouvement de la globalisation financière, les principaux marchés
+financiers sont inter-connectés et les fonds peuvent facilement se déplacer d’une place
+financièreàuneautre.Acesujet,ComertetColak[9](2014)estimentquelacrisefinancière
+de 2008 s’est propagée dans les pays émergents à travers l’exploitation par certaines
+banques des mêmes actifs toxiques qui ont troublé le bilan des banques occidentales et les
+investissements dans les institutions financières qui ont détenu ces actifs.
+2.2.1 Canaux directs de propagation des chocs financiers internationaux
+La littérature économique distingue généralement deux principaux canaux de trans-
+mission d’un choc financier international aux autres économies. Il s’agit du canal du crédit
+bancaire et celui lié à l’interconnexion des marchés financiers.
+S’agissant du canal lié à l’interconnexion des marchés financiers, Allen et al. (2011)[1]
+estiment que la profondeur limitée et la faible intégration des systèmes financiers afri-
+cains avec les marchés des capitaux américains et européens semblent les abriter d’une
+transmission directe de la crise. Ainsi, compte tenu de l’état embryonnaire des marchés
+financiers dans la CEMAC et de leur faible intégration aux marchés internationaux, nous
+nous appesantissons sur la revue de littérature consacrée au canal du crédit bancaire.
+14
+
+--- Page 18 ---
+En effet, l’intégration croissante de l’industrie bancaire offre la perspective de gains
+importants en termes d’efficacité et de la diversification, mais elle crée aussi des risques
+potentiels. D’un côté, les groupes bancaires internationaux, àn travers leurs filiales ou suc-
+cursales, contribuent à l’accroissement de l’efficacité, de la compétitivité et de la stabilité
+des systèmes bancaires dans les pays d’accueil (McCauley et al.[30], 2010; Jeon et al.[26],
+2011). D’autre part, ces multinationales peuvent agir comme une source de contagion en
+transmettant des chocs défavorables d’un pays à l’autre, en particulier lorsqu’il y a une
+crise bancaire dans où est implantée la maison-mère (Roubini et Mihm[40], 2010; Popov
+et Udell[38], 2012; De Haas et Van Horen[13], 2012; Giannetti et Laeven[21], 2012). La
+récente crise financière mondiale de 2008 montre encore que les banques sont des véhicules
+potentiels pour la diffusion de chocs financiers des États-Unis vers les pays émergents et
+les économies en développement.
+Le canal du crédit bancaire a été largement étudié et son efficacité dépend du degré
+de mobilité des capitaux et de la forte utilisation par les filiales des banques multinatio-
+nales des prêts intra-groupes pour amortir les chocs domestiques de liquidité (Jeon et Wu,
+2013)[27]. A cet effet, analysant les conséquences de l’effondrement des prix des actifs au
+Japon au début de 1990 sur l’activité de crédit dans les filiales de banques japonaises à
+l’étranger, Peek et Rosengren (1997)[36] montrent que la contraction du crédit bancaire
+au Japon, causée par la baisse des valeurs boursières japonaises, a entrainé une réduction
+de l’offre de crédit dans les filiales de ces banques aux USA. Dans le même ordre d’idée,
+Schnabl (2012)[44] a mis en évidence les effets négatifs de la crise russe de 1998 respecti-
+vement sur les offres de crédits bancaires aux USA en Pérou.
+Cetorelli et Goldberg (2011)[7] montrent également que l’existence des lignes de crédit
+entre la maison-mère et les filiales de banques étrangères contribue à une propagation
+internationale des chocs financiers. En effet, ils analysent la transmission des chocs de
+liquidité défavorables dans le système bancaire des pays développés vers les marchés émer-
+gents à travers l’Europe, l’Asie, et en Amérique latine, en isolant les chocs d’offre et de
+demande de prêts bancaires. Ils trouvent que l’offre de crédit dans les pays émergents est
+affectée à travers trois canaux séparés : une contraction directe des prêts transfrontaliers
+consentis par les banques étrangères; une contraction des prêts locaux des filiales des
+banques étrangères dans les pays émergents; et une contraction des offres de prêts par les
+banques nationales à la suite du choc de financement de leur bilan induit par la baisse
+des prêts interbancaires et transfrontaliers.
+15
+
+--- Page 19 ---
+Enfin, Popov et Udell (2012)[38], étudiant la sensibilité de l’offre de crédit des filiales
+de groupes bancaires aux conditions financières dans les maisons-mères, montrent que
+les changements dans les conditions financières des banques en Europe ont affectés le
+financement des entreprises dans les pays émergents. Ainsi, l’accès au crédit auprès des
+filiales des banques européennes reflète les conditions financières dans les maisons-mères.
+2.2.2 Canaux indirects de propagation des chocs financiers internationaux
+Deux principaux mécanismes de propagation internationale des crises financières sont
+généralementmisenexergue,àsavoir:lecanalducommerceetlecanaldesfluxfinanciers.
+Les principaux flux financiers qui peuvent affecter la stabilité financière sont : les In-
+vestissements Directs Étrangers (IDE), les Aides Publiques au Développement (APD) et
+les transferts de fonds des migrants. A cet effet, Allen et al. (2011)[1] analysent les canaux
+par lesquels la crise économique et financière de 2008-2009 a été transmise à l’Afrique
+subsaharienne, en mettant l’accent sur les pays en situation de fragilité. Ils montrent que
+les envois de fonds de migrants ont joué un rôle pertinent. Dans le même ordre d’idée,
+Cabral (2015)[5] analyse les structures de dépendance de l’économie sénégalaise aux chocs
+extérieurs, en s’intéressant aux effets de la crise économique mondiale de 2008-2009 sur
+l’économie sénégalaise. Il montre que la baisse des transferts des migrants lors de la crise
+financière de 2008 a facilité la transmission du choc à l’économie sénégalaise. En effet,
+cette baisse a contribué à déprimer l’activité économique et, en conséquence, favorisé une
+détérioration des principaux agrégats macroéconomiques.
+Garnaut et al. (2009)[20] estiment que l’aide publique au développement est égale-
+ment un des canaux privilégiés par lesquels la crise financière pourrait se transmettre ses
+effets aux pays en développement. Les effets de la baisse du volume de l’APD peuvent
+être d’autant plus graves si l’on se trouve au lancement des grands travaux d’infrastruc-
+tures publics. Par contre, pour Allen et al. (2011)[1], la réduction des flux d’aide en tant
+que canal de transmission de crise n’a pas pu être confirmée. Toutefois, les estimations
+préliminaires ont suggéré que, au moins à moyen terme, si les pays de l’OCDE abaissent
+leur aide, cela pourrait avoir des effets potentiellement très dommageables sur les pays en
+développement.
+Le commerce reste un facteur important de croissance dans les pays en développe-
+ment. Il est également reconnu comme le principal canal de propagation des crises aux
+économies émergentes. En effet, l’augmentation régulière de l’élasticité du commerce mon-
+16
+
+--- Page 20 ---
+dial au revenu (Freund, 2009)[19] amplifie l’impact des récessions observées dans les pays
+développés à travers les flux commerciaux. A titre d’illustration, la crise financière de
+2008 est survenue à une période de volatilité des prix des matières premières, ce qui a
+accru l’incertitude et renforcé un cercle vicieux de la chute des flux commerciaux et des
+investissements.
+Selon Allen et al. (2011)[1], lorsque la crise financière a éclaté au cours de l’été 2007,
+il a été largement perçu que l’Afrique subsaharienne n’allait être affectée que dans une
+mesure limitée compte tenu de la profondeur limitée et la faible intégration de leurs sys-
+tèmes financiers avec les marchés des capitaux américains et européens. Cependant, ces
+pays n’ont pas été épargnés par cette crise. Allen et al. (2011)[1] estiment que les liens
+commerciaux et la perturbation du financement du commerce accompagnant la crise ont
+amplifiéleseffetsnéfastesdecettecrisesurlespaysafricains.Eneffet,Kalietal.(2007)[28]
+montrent que la transmission des crises s’amplifie avec la forte intégration des pays dans
+le commerce international. A l’aide d’une approche en réseau, ils expliquent pourquoi les
+crises financières mexicaines, asiatiques et russes ont été plus contagieuses.
+Cabral (2015)[5] analyse les structures de dépendance de l’économie sénégalaise aux
+chocs extérieurs, en s’intéressant aux effets de la crise économique mondiale de 2008-2009
+sur l’économie sénégalaise. A cet effet, il met en exergue quelques canaux-clés par lesquels
+cette crise a pu se transmettre à l’économie, à savoir : la demande à l’exportation, les
+transferts des migrants, l’aide publique au développement. Il montre que la baisse de la
+demande mondiale à l’exportation et celle des transferts des migrants se révèlent être les
+canaux qui ont le plus facilité la transmission du choc à l’économie sénégalaise. En effet,
+celles-ci ont le plus contribué à déprimer l’activité économique et, en conséquence, favorisé
+une détérioration des principaux agrégats macroéconomiques.
+Ocampo (2009)[33], s’intéressant aux effets de la crise sur l’économie de l’Amérique
+latine, monter que la contraction des volumes du commerce mondial a été le principal ca-
+nal de transmission de la crise vers les pays latino-américains spécialisés dans les produits
+manufacturés et les services, en particulier le Mexique, la République dominicaine et les
+pays d’Amérique centrale.
+L’analyse du système financier de la CEMAC révèle que celui-ci reste très peu déve-
+loppement et faiblement intégré aux marchés financiers internationaux. Malgré la prédo-
+minance d’un système bancaire dominé par les groupes bancaires étrangers, l’activité de
+17
+
+--- Page 21 ---
+crédit entre ces filiales et maisons-mères est quasi-inexistante. Le marché interbancaire
+est atone et les filiales des groupes bancaires qui y sont présents obtiennent très peu les
+financements des maisons-mères. Ainsi, la vulnérabilité extérieure la plus plausible du sys-
+tème financier de la CEMAC serait l’exposition à la conjoncture internationale à travers
+le canal du commerce.
+En effet, la contagion directe (interconnexion des marchés financiers et canal bancaire)
+est limitée dans la plupart des pays en développement, en raison de la faible pénétration
+des banques étrangères et de la faiblesse du secteur financier (Essers, 2013)[15]. C’est
+également le cas des pays de la CEMAC. Par ailleurs, le faible volume des aides publiques
+au développement, des investissements directs étrangers et des transferts des migrants
+affaiblirait le canal indirect relatif aux flux financiers. Par contre, avec une économie
+fortement dépendant des exportations des produits de base, le commerce pourrait être le
+principal canal de transmission des chocs extérieurs aux économies de la CEMAC.
+3 Approche méthodologique
+Dans le cadre de cette étude, un indice composite de solidité du système financier est
+élaboré à partir d’une analyse en composante principale normée. Par la suite, un modèle
+SVAR est estimé sur données de panel pour apprécier l’impact des chocs extérieurs sur
+la stabilité du système bancaire de la Zone.
+3.1 Élaboration d’un indicateur de solidité du système bancaire
+Laquestiondelavulnérabilitédusystèmebancaireafaitl’objetdeplusieursétudesces
+vingt dernières années. Cependant, les indicateurs adoptés pour décrire l’état du secteur
+bancaire sont souvent des variables binaires reflétant, à un moment donné, la situation
+dans laquelle se trouve le secteur en question (crise-solidité). Si cette simple dichotomie
+est probablement justifiée pour les pays en développement et/ou émergents, l’absence
+ou la rareté des crises financières dans les pays industrialisés rend l’adoption d’une telle
+approche très discutable. Cela étant, l’absence de crise financière dans ces pays n’est nul-
+lement synonyme ni de stabilité ni d’une solidité de leurs systèmes bancaires. Compte
+tenu du caractère conjoncturel de l’activité bancaire, les banques sont susceptibles de tra-
+verser des périodes difficiles, qui auraient pour effet un accroissement de leur vulnérabilité
+financière. Dans ce contexte, la construction d’une mesure évolutive de stress serait plus
+appropriée pour quantifier le degré de la vulnérabilité et pour identifier les épisodes de
+fragilité des systèmes bancaires des pays industrialisés (Hanschel et Monnin, 2005)[24].
+18
+
+--- Page 22 ---
+D’une façon générale, deux types de travaux se distinguent dans les études sur la so-
+lidité du système bancaire et les facteurs qui l’influencent : l’approche type stress test
+qui vise à construire un indice dit de stress à partir d’un éventail de composantes et les
+modélisations économétriques visant à ressortir les relations formelles qui existent entre
+les principaux agrégats monétaires et les facteurs dont ils peuvent dépendre.
+Les indicateurs de stress visent à traduire les effets d’un choc exogène sur la stabi-
+lité du système bancaire. Plusieurs études décrivent des indices pour mesurer le stress
+au sein du système financier dans son ensemble. Elles prennent en compte les différentes
+composantes du système financier et contiennent les informations sur les institutions, les
+marchés et les infrastructures financières. L’étude d’Illing et Liu (2003)[25] est souvent
+prise pour référence.
+A ce sujet, Van Den End (2006)[47] propose indice composite de stabilité financière.
+Il s’agit d’une extension d’un indice des conditions financières avec des informations sur
+les institutions financières. Son indicateur est une fonction linéaire du taux de change ef-
+fectif réel, du taux d’intérêt, des prix de l’immobilier et l’indice du prix sur le marché des
+actions. Pour chaque variable, il détermine le poids en construisant un modèle vectoriel
+autorégressif (VAR) à l’issu duquel le poids s’écrit comme la valeur absolue du coefficient
+de la variable rapportée à la somme de tous les coefficients. Chaque variable est bien
+entendu centrée et réduite préalablement.
+Pour la construction de l’indice composite, certaines études optent pour des moyennes
+simples (Rojas-Suarez, 2015)[42] et d’autres pour des fonctions de distribution cumula-
+tive empiriques (Illing et Liu, 2003)[25]. Dans le cadre de cette étude, l’indicateur des
+conditions financières est calculé par agrégation des variables à l’aide de la méthode de
+l’analyse en composantes principales (ACP) normée. L’avantage d’une méthode d’analyse
+factorielle est qu’elle choisit les poids de façon à privilégier les variables qui fluctuent le
+plus. Ainsi, le concept même de stabilité se vérifie dans la mesure où les variables les plus
+stables contribuent moins à l’indice final et les moins stables beaucoup plus. A cet effet,
+les quatre variables suivantes ont été retenues pour élaborer l’indice de solidité du système
+bancaire.
+– levier de crédit, indiquant le taux de financement de l’économie. Il est calculé en
+rapportant le volume de crédit accordé à l’économie au PIB;
+19
+
+--- Page 23 ---
+– taux de dégradation du portefeuille de crédit, permettant d’apprécier le taux des
+prêts non performants. Indicateur indispensable dans la mesure de la performance
+du système bancaire, il est obtenu en rapportant le volume de créances en souffrance
+à l’encours global du crédit;
+– liquidité bancaire, mesurée à travers le ratio réserves totales (libres et obligatoires)
+sur total du bilan des banques;
+– taux d’adéquation des réserves, essentiel pour apprécier la résilience au risque de
+liquidité, il est calculé en rapportant les réserves sur l’encours des crédits octroyés.
+L’indicateur Composite de Stabilité Bancaire (ICSB) élaboré sera une moyenne pon-
+dérée de quatre variables comme suit :
+ICF= 0,619 *Liquidité+0,616*Adéquation réserves - 0,220 *Ratio
+crédit-0,434*Dégradation
+3.2 Présentation de la modélisation PSVAR
+La modélisation VAR est généralement utilisé pour analyser les relations entre les va-
+riables macroéconomiques. La particularité des modèles VAR structurels est qu’on impose
+des contraintes résultantes de la théorie économique au VAR considéré. Dans le cadre des
+Unions monétaires, une approche plus récente consiste à estimer les VAR en données de
+panel. Canova et Ciccarelli (2013)[6] en font un survey assez exhaustif.
+La modélisation économétrique sur données de panel apporte une information plus
+riche. En effet, elle prend une double dimension dans la constitution des données, ce
+qui la différence des méthodes utilisant des données en coupe instantanée ou des séries
+temporelles classiques. La disposition d’une information plus riche doit permet d’obtenir
+des résultats plus précis, des effets beaucoup mieux identifiés ou encore l’atténuation des
+problèmes engendrés par l’agrégation de comportements individuels hétérogènes (Pirotte,
+2011)[37].
+Dans cette étude, nous estimons un modèle PSVAR suivant l’approche de Pedroni
+(2013)[35]. Il s’agit d’une approche structurelle d’analyse des données en panel, qui prend
+en compte les réponses à des chocs structurels particuliers et communs, tout en permet-
+tant l’hétérogénéité de la dynamique de réponse. Il traite structurellement la dépendance
+transversale en imposant des restrictions sur les effets du temps identifiés comme chocs
+communs. En faisant la différence entre les chocs structurels idiosyncratiques et communs,
+et en permettant le changement des facteurs hétérogènes aux chocs structurels communs,
+20
+
+--- Page 24 ---
+cette approche permet de mieux expliquer la dynamique d’un groupe de pays hétérogènes
+comme ceux de la CEMAC. Ainsi, les modèles PSVAR permettent de relier les distribu-
+tions des paramètres aux caractéristiques régionales observées. Cette approche a déjà été
+utilisée par Bikai et Kenkouo (2015)[4] pour analyser les canaux de transmission de la
+politique monétaire dans la CEMAC.
+Les données utilisées sont doublement indicées et prennent en compte les dimensions
+individuelle (i) et temporelle (t). L’objectif est de modéliser de façon claire les différences
+de comportements entre les individus (les pays de la CEMAC) et leur évolution au cours
+du temps.
+La forme structurelle qui en découle est donc la suivante :
+B(L)Y = (cid:15) +c
+t t
+p
+avec B(L) = B −X B Lj, B non singulière et non identitaire et Y le vecteur des k
+0 j 0
+j=1
+variables endogènes. B est la matrice d’impact structurels. Les autres B (L) représentent
+0 i
+par conséquent les matrices blocs d’impact des vecteurs retardés Y , p est le nombre de
+tj
+retard maximal et c le vecteur des constantes.
+La forme réduite s’écrit :
+p
+Y = B−1X B Y +u
+t 0 j t−j j
+j=1
+Le modèle de Pedroni (2013)[35] s’écrit :
+p
+y = α +X A y +(cid:15) avec (cid:15) t = Λ (cid:15)¯ +(cid:15)˜
+it it ij it−j it i i t it
+j=1
+La structure de ce modèle est contenue dans le terme d’erreur. Celui-ci est une com-
+binaison d’un choc commun et d’un choc spécifique à chaque membre du panel. Afin de
+se passer des effets fixes par pays, on centre les données :
+y∗ = y −y¯ où y¯ =
+T−1XTi
+y , ∀i
+i,t it i i i ij
+t=1
+La dynamique économique pourrait varier d’un pays à l’autre. Cependant, malgré
+cette probable hétérogénéité, le PSVAR de Pedroni (2013)[35] dégage l’hypothèse d’une
+dynamique homogène entre les N pays du panel.
+Dans notre cas, et pour chacun des 6 pays de la CEMAC (i = 1,...,6) le terme Y
+représente un vecteur de variables constitué de :
+21
+
+--- Page 25 ---
+– indicateur composite de stabilité bancaire (index);
+– taux de change USA/XAF (dollar);
+– taux de change effectif réel (tcer);
+– volatilité des cours du baril de pétrole (dlnbaril);
+– taux d’endettement public extérieur (dette);
+– indicateur de demande extérieure (France, Chine, USA, Nigéria).
+Dans les estimations, certaines variables sont utilisées comme instrument. En effet,
+mettre simultanément dans le vecteur des exogènes deux variables fortement corrélées
+peut avoir des effets néfastes sur les estimations. La redondance de l’information apportée
+rendrait les matrices non inversibles ou alors les résultats des tests non significatifs.
+4 Résultats et interprétations
+4.1 Analyse descriptive de l’ICSB de la CEMAC
+L’ICSB de la CEMAC élaboré varie entre -12 et 16, avec une moyenne de 7 en Guinée
+Equatoriale, 5 au Congo, 0 au Cameroun, -1 au Gabon, -2 au Tchad et -8 en RCA. En
+termes de variabilité, le Cameroun et le Gabon apparaissent comme des pays pour lesquels
+l’indicateur enregistre des fluctuations assez modérées, alors que la volatilité est plus forte
+au Congo et en Guinée Équatoriale (Graphique ??).
+En rapprochant les évolutions de l’inflation et de l’ICSB élaboré, il en ressort une
+bonne adéquation des deux variables dans tous les pays de la CEMAC, mais souvent avec
+des légers décalages temporels, à l’exception de la RCA où aucune corrélation ne semble
+apparaître. Plus particulièrement, dans le cas de la Guinée Équatoriale, l’évolution de
+l’indicateur ne rend pas compte des fortes fluctuations annuelles du niveau des prix. De
+manière globale, la stabilité de prix renforcerait la résilience du système bancaire de la
+CEMAC alors qu’une forte volatilité des prix fragiliserait les banques.
+S’agissant de l’activité économique, l’évolution de l’ICSB, dans quasiment tous les
+pays de la CEMAC, suit le même cycle que la croissance : il s’améliore dans les phases
+de croissance et se détériore en cas de récession. Toutefois, il oscille beaucoup moins que
+le taux de croissance. En effet, la forte croissance du début des années 2000 en Guinée
+Équatoriale ou encore la récession de 2013 en RCA due à l’instabilité politique se lisent
+sur l’indicateur mais dans des proportions plus amoindries. Cette corrélation se confirme
+avec les tests non paramétriques de Spearman et de Kendall (Graphique 5). En effet, la
+22
+
+--- Page 26 ---
+bonne santé du système bancaire est essentielle pour la croissance, parce qu’elle favorise
+l’accès au crédit pour les entreprises et assure la confiance des différentes entités écono-
+miques dans le système financier (emprunteurs et épargnants).
+Compte tenu de l’importance du pétrole dans la CEMAC, la dynamique de l’ICSB est
+analysée conjointement avec l’évolution du cours du baril de pétrole. Il en ressort que l’in-
+dicateur et les cours du pétrole suivent la même dynamique, à l’exception de la RCA, pays
+non producteur de pétrole et marqué par une forte instabilité politique au cours des der-
+nières années, où le cycle de l’indice s’écarte significativement de celui des prix du pétrole.
+A la lumière de cette analyse descriptive, la cohérence entre l’évolution de l’ICSB, de
+l’inflation et du taux de croissance rassure sur la pertinence de l’indicateur dans l’appré-
+ciation de la solidité du système bancaire de la CEMAC.
+4.2 Vérification des conditions de modélisation
+L’analyse de la stationnarité des variables est effectuée à l’aide des tests de Livin-
+Lin-Chu et Im-Pesaran-Shin. Le premier spécifie la prise en compte des hétérogénéités
+sous l’hypothèses nulle d’absence de racine unitaire alors que le second retient plutôt une
+homogénéité du panel sous l’hypothèse alternative. Les résultats de ces tests, présentés
+dans le tableau 2, montrent que toutes les variables sont stationnaires au seuil de 5%.
+Tableau 2 – Tests de stationnarité
+Levin, Lin et Chu Im Pesaran et Shin
+t-stat p-value t-stat p-value
+TCER -2,47444 0,0067 -2,33732 0,0097
+Dollar -2,89398 0,0019 -4,24168 0,0000
+Terme Echange -1,22170 0,1109 -2,37451 0,0088
+Dlnbaril -6,82472 0,0000 -2,77023 0,0028
+Dette -2,72033 0,0033 -0,60960 0,2711
+Index -2,28691 0,0111 1,42549 0,9230
+Source : Calculs de l’auteur
+En ce qui concerne le nombre de retards à considérer, le critère de Schwartz permet
+de retenir un seul retard dans l’estimation du modèle.
+S’agissantdulienentrelesvariables,lestestsmontrentqueletauxdechangeUSD/XAF
+et la volatilité des prix du pétrole causent l’ICSB, au sens de Granger, au seuil de 5% .
+23
+
+--- Page 27 ---
+4.3 Analyse de l’impact des chocs exogènes sur la solidité du
+système bancaire
+L’analyse des fonctions de réponse impulsionnelle permet de conclure à la vulnérabi-
+lité du système bancaire de la CEMAC aux chocs sur le taux de change USD/XAF, la
+volatilité du prix du pétrole et la demande extérieure.
+En effet, un choc positif sur le taux de change USD/XAF, assimilable à une déva-
+luation du franc CFA, dégrade l’ICSB. Les effets apparaissent dès la première année et
+commencent à s’estomper après la troisième année. Ce résultat se justifierait par le fait
+que l’alourdissement possible des charges d’exploitation des entreprises à la suite d’une
+dévaluation du franc CFA, peut compromettre la capacité de celles-ci à honorer à leurs
+engagementsvis-à-visdesbanques.IlyalieuiciderappelerquelesbanquesdelaCEMAC
+accordent généralement les prêts à un nombre limité d’acteurs, notamment les grandes
+entreprises dont les intrants de l’activité de production sont importés.
+En ce qui concerne le pétrole, une forte volatilité des cours mondiaux contribuerait à
+la fragilisation du système bancaire de la CEMAC. Ce résultat se justifierait par la forte
+dépendance des pays de la CEMAC, à l’exception de la RCA qui ne produit pas le pétrole,
+des recettes d’exportation du pétrole. Ainsi, une forte volatilité des cours mondiaux, no-
+tamment une forte baisse à l’instar de celle enregistrée à partir du second semestre 2014,
+en dégradant la situation des finances publiques, affecte la capacité des pays producteurs
+du pétrole à honorer à leurs engagements vis-à-vis du système bancaire et des prestataires
+des États, tous créanciers des banques. L’impact de cette baisse sur la solidité du sys-
+tème bancaire et les indicateurs macroéconomiques en général est d’autant plus forte dans
+les économies très peu diversifiées et dépendant essentiellement de la commande publique.
+Lesestimationsmontrentégalementqu’unchocpositifsurladetteextérieuredesÉtats
+renforce la solidité du système bancaire. Ce résultat s’expliquerait par le fait que le re-
+cours aux emprunts extérieurs réduit l’effet d’éviction des autres acteurs sur le marché du
+crédit national et renforce la résilience du système bancaire. En effet, depuis 2011, avec le
+démarrage du marché des titres publics à souscription libre, les pays de la CEMAC font
+de plus en plus recours aux émissions des titres publics (Bons et Obligations de Trésor)
+pour mobiliser les ressources financières. Bien que ce mécanisme ait permis de stériliser
+une partie de la liquidité excédentaire du système bancaire, à la suite de la baisse des
+cours du pétrole à partir du second semestre 2014, les difficultés financières des États ont
+24
+
+--- Page 28 ---
+fragilisé la situation de trésorerie de plusieurs banques détenant des volumes importants
+de ces titres émis. Dans cette situation, une meilleure diversification des sources de fi-
+nancement des États (extérieur et intérieur) aurait certainement atténué la transmission
+leurs difficultés financières aux banques, renforçant ainsi la résilience du système bancaire.
+S’agissant de la demande extérieure, afin de mieux apprécier les sources de vulnéra-
+bilité du système bancaire de la CEMAC en lien avec le canal du commerce, cette étude
+privilégie d’analyser successivement l’effet des chocs sur la demande chez les principaux
+partenaires commerciaux de la CEMAC. Cette approche se justifie par le faible niveau de
+diversification des produits exportés et des partenaires commerciaux des pays de la CE-
+MAC. En effet, ces pays commercent principalement avec la Chine, la France, le Nigeria
+et les États-Unis. Suivant la procédure d’estimation du PSVAR, les taux de croissances
+de ces quatre pays ont été successivement ajoutés au modèle. A chaque étape, la variable
+taux de croissance des pays de la CEMAC a été utilisée comme variable instrumentale,
+afin d’isoler les effets spécifiques à l’amélioration de la production de l’économie locale.
+Il ressort des estimations qu’un choc positif sur la croissance en Chine, au Nigeria et
+aux USA renforce la solidité du système bancaire de la CEMAC, avec un impact plus
+perceptible pour la Chine, tandis qu’un choc sur la croissance en France n’a aucun im-
+pact. En effet, depuis une dizaine d’années, la Chine est devenue le principal partenaire
+commercial de plusieurs pays de la CEMAC alors que dans le même temps la France
+a progressivement perdu des parts de marché. Par ailleurs, le Nigeria qui constitue un
+vaste marché en plein essor aux portes de la CEMAC commerce principalement avec le
+Cameroun et le Tchad. Ainsi, une amélioration de la croissance en Chine et au Nigeria
+se traduirait par une augmentation de la demande des produits exportés par les pays de
+la CEMAC vers ceux-ci, avec des effets positifs sur les recettes d’exportation, la situa-
+tion des finances publiques et la performance financière des entreprises exportatrices. Les
+revenus issus des exportations permettraient aux États d’honorer à leurs engagements vis-
+à-vis des banques et de ses fournisseurs afin de limiter le taux des prêts non performants.
+Toutes ces externalités positives d’un raffermissement de la croissance dans les pays parte-
+naires de la CEMAC contribueraient au renforcement de la résilience du système bancaire.
+25
+
+--- Page 29 ---
+Conclusions et implications de politique économique
+Les crises financières constituent une source de préoccupation majeure dès lors qu’elles
+perturbent le fonctionnement du système financier dans son ensemble et affectent signi-
+ficativement la croissance économique et le bien-être social. Leur prévention nécessite la
+mise en place de modèles mathématiques capables de détecter, de mesurer et de suivre
+l’évolution du risque systémique auquel est exposé un secteur financier.
+Le système bancaire représente plus des quatre cinquièmes des actifs de l’ensemble
+du système financier des pays de la CEMAC. Ce dernier est sous-développé, ce qui di-
+minue son exposition aux risques inhérents au développement de produits financiers non
+conventionnels. Toutefois, l’internationalisation des crises est révélatrice d’une certaine
+dépendance croissante entre les économies en générale et les systèmes financiers en parti-
+culier. Dès lors, la vulnérabilité du système bancaire de la Zone est fortement tributaire
+de la conjoncture économique internationale.
+Cette étude s’est fixée pour objectif d’analyser les effets des chocs extérieurs sur la
+solidité du système de la CEMAC. Pour cela, à l’aide d’une ACP normée, un indicateur
+composite de solidité du système bancaire a été élaboré. L’analyse descriptive de cette
+variable a montré que l’indicateur élaboré rend compte des périodes de résilience ou de
+fragilité du système bancaire de la Zone.
+Le recours à une modélisation PSVAR montre que les chocs sur le change USD/XAF,
+la volatilité des prix du pétrole brut et la demande chez certains partenaires commerciaux
+(Chine, Nigeria et USA) rendent compte des vulnérabilités du système bancaire de la
+CEMAC à la conjoncture économique internationale. A cet effet, la résilience du système
+bancaire se renforcerait en cas d’un choc positif sur la croissance en Chine, au Nigeria
+et aux USA. Par contre, les fortes fluctuations des cours mondiaux du pétrole (en l’oc-
+currence à la baisse) et du taux de change USD/XAF fragiliserait davantage le système
+bancaire de la Zone.
+Toutefois, la résilience économique et financière d’un pays aux chocs externes est ca-
+ractérisée à la fois par deux dimensions : sa capacité à résister aux chocs extérieurs défa-
+vorables et sa capacité à mettre rapidement en œuvre des politiques visant à contrecarrer
+les effets de ces chocs. Cette deuxième dimension n’est pas prise en compte dans ce travail
+et constitue un levier important sur lequel peuvent s’appuyer les autorités publiques com-
+26
+
+--- Page 30 ---
+pétentes en la matière pour limiter les risques de nuisance de l’environnement extérieur
+sur la stabilité financière.
+A cet effet, à la lumière des résultats de cette étude, le cadre de surveillance macro-
+prudentielle mis en place dans la CEMAC pour prévenir les risques d’instabilité financière
+devraitdonneruneplacemajeureàl’évolutiondestauxdechangesdedevises,notamment
+avec les principaux partenaires commerciaux. Par ailleurs, un financement extérieur de
+grands projets gouvernementaux s’avère préférable à un endettement intérieur, car cette
+dernière détourne l’épargne initialement mobilisable par des agents privés à besoin de fi-
+nancement (vers une immobilisation en titre publics par exemple et qui apporte moins de
+croissance). Enfin, un effort de diversification des partenaires commerciaux des États de
+la sous-région, et une politique d’intensification des échanges commerciaux intra-CEMAC
+visant à réduire la sensibilité des pays de la sous-région aux fluctuations commerciales
+liées au récession qui pourrait se produire à l’extérieur réduiraient les vulnérabilités struc-
+turelles du système financier de la CEMAC.
+27
+
+--- Page 31 ---
+Références bibligraphiques
+[1] Allen, David, et Robert Powell. (2011) : "Credit risk measurement meth",
+Edith Cowan University Publications, 1464-70.
+[2] Allen, W. A., et Wood, G. (2006) : "Defining and Achieving Financial Stability
+", Journal of Financial Stability, 2, 152-172.
+[3] Bikai J. L. et Kenkouo G. A. (2014), « Analyse et évaluation des canaux de transmis-
+sion de la politique monétaire dans la CEMAC : une approche SPVAR-X », Mondes
+en Développement, n°185, pp.109-132, 2019.
+[4] Bikai J. L. et Kenkouo G. A. (2015), « Analyse et évaluation des canaux de transmis-
+sion de la politique monétaire dans la CEMAC : une approche SVAR et SPVAR »,
+BEAC Working Paper, BWP N° 02/15.
+[5] Cabral, François Joseph (2015) : "Analyse des canaux-clés de transmission des
+effetsdelacriseéconomiquemondialede2008-2009surl’économiesénégalaise",Revue
+des mutations en Afrique, No1, pp. 63–83.
+[6] Canova, Fabio et Ciccarelli, Matteo (2013) : "Panel Vector Autoregressive
+Models : A survey ", ECB Working paper, No 150.
+[7] Cetorelli, N. et Goldberg, L.S. (2011) : "Liquidity Management of US Global
+Banks : Internal Capital Markets in the Great Recession ", Federal Reserve Bank of
+New York, Staff Reports, No. 511.
+[8] Chauvin, S. et Geis, A. (2011) : "Who has Been Affected, How and Why? The
+Spillvoer of the Global Financial Crisis to Sub-Saharan Africa and Way to Recovery
+", Federal Banque Centrale Européenne, ECB Occasional Paper, n° 124, Mars.
+[9] Comert, H. et Colak, M.S.(2014) : "Can financial stability be maintained in
+developing countries after the global crisis : the role of external financial shocks? ",
+Economic Research Center, Working papers in Economics n°14/11, Septembre.
+[10] Hoffmaister A. W. et Roldos J. E.(1996) : "The sources of macroeconomic
+fluctuations in developing countries : Brazil and Korea", IMF Working Paper, 96/20,
+IMF.
+[11] Cömert, Hasan et Mehmet Selman Colak (2014) : "Can Financial Stability
+be Maintained in Developing Countries after the Global Crisis : The Role of External
+Financial Shocks? ", Economic Research Center Working Papers, No11.
+[12] Crockett, A. (1997) : "Why is Financial Stability a Goal of Public Policy? ",
+Federal Reserve Bank of Kansas City Economic Review,Vol. 82, No. 4.
+28
+
+--- Page 32 ---
+[13] De Haas, R., Van Horen, N., (2012) : "International shock transmission after the
+Lehman Brothers collapse : evidence from syndicated lending ", American Economic
+Review Papers & Proceedings, 102 (3), 231–237.
+[14] Diamond, D., et Dybvig, P. (1983) : "Bank Runs, Deposit Insurance, and Liqui-
+dity ", The Journal of Political Economy, 91, 401-419.
+[15] Essers, D.(2013) : "Developing country vulnerability in light of the global financial
+crisis : Shock therapy? ", Review of Development Finance, 3 : 61–83.
+[16] Fisher, I.(1933) : "The Debt-Deflation Theory of Great Depressions ", Journal of
+the Econometric Society, 1, 337-357.
+[17] Ferguson, R. (2002) : "Should Financial Stability Be an Explicit Central Bank
+Objective?", Delivered at the IMF conference : Challenges to Central Banking from
+Globalized Financial Systems,Federal Reserve Board,Washington DC.
+[18] Fisher, I. (1933) : "The Debt-Deflation Theory of Great Depressions ", Journal of
+the Econometric Society, 1, 337-357.
+[19] Freund, Caroline. (2009) : "The trade response to global downturns? : historical
+evidence", Policy Ressearch Working Paper, 5015, 2009, Banque Mondiale édition.
+[20] Garnaut, R., O. Bardiane, J. Lin, et S Fan. (2009) : "The financial and
+economiccrashof2008anditsimpactonfoodandagricultureindevelopingcountries",
+IFPRI., https://www.ifpri.org.
+[21] Giannetti, M., Laeven, L., (2012) : "The flight home effect : evidence from the
+syndicated loan market during financial crises", Journal of Financial Economics, 104
+(1), 23–43.
+[22] Raddatz C.(2008) : "Have external shocks become more important for output fluc-
+tuations in Africa countries?", The World Bank.
+[23] Guttentag, J.M., et Herring, R. (1986) : "Disaster Myopia in International
+Banking ", Essays in International Finance, International Finance Section, Depart-
+ment of Economics, Princeton University, No164.
+[24] Hanschel, Elke, et Pierre Monnin (2005):"Measuringandforecastingstressin
+the banking sector : evidence from Switzerland ", BIS Papers. Bank for International
+Settlements, https://econpapers.repec.org/bookchap/bisbisbpc/22-22.htm
+[25] Illing, Mark, et Ying Liu (2003) : "An index of Financial Stress for Canada ",
+Bank of Canada Working Paper, No2003/14.
+[26] Jeon, B.N., Olivero, M., Wu, J. (2011) : "Do foreign banks increase competi-
+tion? Evidence from emerging Asian and Latin American banking markets ", Journal
+of Banking and Finance,35 (4), 856–875.
+29
+
+--- Page 33 ---
+[27] Jeon, B.N., Olivero, M., Wu, J. (2013) : "Multinational banking and the inter-
+national transmission of financial shocks : Evidence from foreign bank subsidiaries",
+Journal of Banking and Finance, 37, 952–972.
+[28] Kali, R. et Mendez , F. et Reyes, J. (2007) : "Trade structure and economic
+growth ", Journal of international Trade and Economic Development, juin 2007.
+[29] Kindleberger, C. P. (1978):"Manias,PanicsandCrashes,AHistoryOfFinancial
+Crises ", Basic Books, New York.
+[30] McCauley, R., McGuire, P., von Peter, G. (2010) : "The architecture of
+global banking : from international to multinational?", BIS Quarterly Review, March,
+25–37.
+[31] Mishkin, F. S. (1991) : " Asymmetric Information and Financial Crises : A Histo-
+rical Perspective Financial Markets and Financial Crises ", Hubbard R G, University
+Of Chicago Press.
+[32] Minsky, H. (1982) : " Can” it” Happen Again? : Essays on Instability and Finance
+", ME Sharpe Armonk, New York.
+[33] Ocampo, José Antonio (2009) : "Latin America and the Global Financial Crisis ",
+Cambridge Journal of Economics, 33 (4) : 703?24 .https://doi.org/10.1093/cje/
+bep030.
+[34] Padoa-Schioppa, T. (2002) : "Central Banks and Financial Stability : Exploring a
+Land in Between ", Paper Delivered at the Second ECB Central Banking Conference :
+The Transformation of the European Financial System, Frankfurt.
+[35] Pedroni, Peter (2013) : "Structural panel VARs", Econometrics, 1 (septembre) :
+180?206.https://doi.org/10.3390/econometrics1020180.
+[36] Peek, J., Rosengren, E.S. (1997) : "The international transmission of financial
+shocks : the case of Japan ", American Economic Review, 87 (4), 495–505.
+[37] Pirotte, Alain. (2011) : "Econométrie des données de panel - Théories et appli-
+cations ", CorpusEconomie, Economica. France.
+[38] Popov, A., Udell, G. (2012) : "Cross-border banking and the international trans-
+mission of financial distress during the crisis of 2007–2008 ", Journal of International
+Economics, 87 (1), 147–161.
+[39] Rasaki M.,G. et Malikane C.(2015) : "Macroeconomic shocks and fluctuations
+in African economies", Economic Systems, 39, pp.553-696, Décembre 2015.
+[40] Roubini, N., Mihm, S. (2010) : "Crisis Economics : A Crash Course in the Future
+of Finance ", Penguin Press, New York, NY.
+30
+
+--- Page 34 ---
+[41] Reinhart, Carmen M., et Kenneth S. Rogoff (2009) : "The Aftermath of
+Financial Crises ", Working Paper 14656, National Bureau of Economic Research,
+https://doi.org/10.3386/w14656.
+[42] Rojas-Suarez, Liliana (2015) : "Emerging Market Macroecono-
+mic Resilience to External Shocks : Today versus Pre–Global Crisis ",
+Center For Global Development. https://www.cgdev.org/publication/
+emerging-market-resilience-external-shocks-today-versus-pre-global-crisis.
+[43] Schinasi, G. J. (2004) : "Defining Financial Stability ", IMF Working Papers,
+No187.
+[44] Schnabl, P. (2012) : "The international transmission of bank liquidity shocks :
+Evidence from an Emerging Market ", The Journal of Finance, n°67(3), pp.897-932.
+[45] Sissoko Y. et Dibooglu S.(2006):"Theexchangeratesystemandmacroeconomic
+fluctuations in Sub-Saharan Africa", Ecconomic Systems, volume 30, pp.141-156.
+[46] Ülgen, F. (2012):"LesInnovationsFinancièress’Inscrivent-EllesdansunProcessus
+Schumpeterien de Destruction Créatrice? ", Revue Interventions économiques, No. 46.
+[47] Van Den End, Jan Willem (2006):"Indicatorandboundariesoffinancialstability
+", De Nederlasndsche Bank Working Paper,No097/2006 (mars).
+[48] Van Rijckeghem, Caroline, et Beatrice Weder.(2001) : "Sources of conta-
+gion : is it finance or trade? ", Journal of International Economics, 54 (2) : 293-308.
+31
+
+--- Page 35 ---
+Annexe
+Graphique 2 – Structure des investissements des OPS de la CEMAC par pays en 2015
+Source :CIPRES, Auteur
+Graphique 3 – Evolution de la structure du PIB réel de la CEMAC entre 2000 et 2017
+(en %)
+Source :BEAC
+Tableau 3 – Distribution de la variance suivant les différents axes de l’analyse factorielle
+Source : BEAC
+32
+
+--- Page 36 ---
+Tableau 4 – Corrélations entre variables et principal axe factoriel
+Ratio Crédit Adéquation réserves Dégradation Liquidité
+AXE-1-ACP Corrélation de Pearson -0,3358 0,9417 -0,6636 0,9450
+p-value 0,0004 0,0000 0,0000 0,0000
+Graphique 4 – Représentation de la situation bancaire des pays suivant les principaux
+axes factoriels de l’ACP
+Source :Logiciel SPAD
+Graphique 5 – Evolution des crédits à l’économie de 2000 à 2017 dans la CEMAC
+Source : BEAC
+Graphique 6 – Evolution du taux de dégradation du portefeuille de crédit de chaque pays
+de la CEMAC entre 2000 et 2017
+Source : BEAC
+33
+
+--- Page 37 ---
+Graphique 7 – Evolution des créances en souffrance dans la CEMAC de 2000 à 2017
+Source : BEAC
+Graphique 8 – Variation du taux de dégradation du portefeuille de crédit par pays entre
+2000 et 2017 (en %)
+Source : BEAC
+Graphique 9 – Évolution de la liquidité bancaire dans les banques de la CEMAC entre
+2000 et 2017
+Source : BEAC
+34
+
+--- Page 38 ---
+Graphique 10 – Évolution des réserves du système bancaire des pays de la CEMAC entre
+2000 et 2017
+Source : BEAC
+Graphique 11 – Variation de l’indice composite de solidité bancaire par pays entre 2000
+et 2017
+Source : BEAC
+35
+
+--- Page 39 ---
+Graphique 12 – Evolution de l’indice composite de solidité bancaire et de l’inflation dans
+les pays de la CEMAC de 2000 à 2018
+Source : BEAC
+Graphique 13 – Evolution de l’indice composite de solidité bancaire et de la croissance
+dans les pays de la CEMAC entre 2000 et 2017
+Source : BEAC
+Graphique 14 – Evolution des cours du baril de pétrole et de l’indice composite de solidité
+bancaire dans les pays de la CEMAC entre 2000 et 2017
+Source : BEAC
+36
+
+--- Page 40 ---
+Tableau 5 – Résultats des tests de corrélation entre l’indice et la croissance économique
+dans la CEMAC
+Kendall Spearman Pearson
+Statistique 0,240568 0,352539 0,117591
+p-value 0,0002 0,0002 0,2255
+Tableau 6 – Résultats du test de causalité de Granger sur le modèle
+Source : Nos estimations
+Graphique 15 – Réponse de l’indice composite de solidité bancaire face à un choc sur le
+taux de change du dollar
+Source : Nos calculs
+37
+
+--- Page 41 ---
+Graphique 16 – Réponse de l’indice composite de solidité bancaire face à un choc sur la
+volatilité du baril de pétrole
+Source : Nos calculs
+Graphique 17 – Réponse de l’indice composite de solidité bancaire face à un choc sur la
+dette extérieure des Etats
+Source : Nos calculs
+38
+
+--- Page 42 ---
+Graphique 18 – Réponse de l’indice composite de solidité bancaire face à un choc sur la
+croissance extérieure
+Source : Nos calculs
+39

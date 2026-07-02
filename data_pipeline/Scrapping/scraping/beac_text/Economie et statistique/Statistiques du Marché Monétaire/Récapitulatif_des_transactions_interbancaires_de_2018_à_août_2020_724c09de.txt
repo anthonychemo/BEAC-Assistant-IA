@@ -1,0 +1,7 @@
+Source PDF : Récapitulatif_des_transactions_interbancaires_de_2018_à_août_2020_724c09de.xlsx
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques du Marché Monétaire\Récapitulatif_des_transactions_interbancaires_de_2018_à_août_2020_724c09de.xlsx
+Date extraction : 15/06/2026 20:44:02
+======================================================================
+
+[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
+Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

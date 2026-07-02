@@ -1,0 +1,1261 @@
+Source PDF : BEAC_Working_Paper_N°03_18_Caractérisation_et_datation_des_cycles_économiques_des_pays_d_72477edc.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°03_18_Caractérisation_et_datation_des_cycles_économiques_des_pays_d_72477edc.pdf
+Date extraction : 15/06/2026 21:24:21
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 03/18 -
+Caractérisation et datation des cycles économiques des pays de la
+CEEAC : une approche non paramétrique
+MPABE BODJONGO Juliot B I K A I J . L a n dry
+Docteur en sciences économiques Docteur en sciences économiques
+Et
+Université de Yaoundé 2 / ISSEA Direction des Etudes, de la Recherche
+mpabebodjongo@yahoo.fr et des Statistiques
+bikai@beac.int
+B ANQ U E D E S E T A T S D E
+Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE
+travail sont propres à leur (s) auteur (s) et ne
+7 36, Av e n ue M on s e i g n e ur
+représentent pas nécessairement la position de la
+V og t B P:1 9 1 7 Y a o un d é
+Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+2 2 2 34 060 paper are those of the author (s) and don’t
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9
+of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E S E T U D E S, D E L A R E CH E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+Caractérisation et datation des cycles économiques des pays de
+la CEEAC : une approche non paramétrique
+Mpabe Bodjongo M. Juliot∗ & Bikai J. Landry∗∗
+Juillet 2018
+Résumé
+L’objectif de cet article est de caractériser et de dater les cycles économiques des pays de la
+CEEAC. Pour ce faire, à l’aide des données de la Banque Mondiale (1986-2015), nous avons
+fait recours à une approche non paramétrique avec l’utilisation de l’algorithme de Bry & Bo-
+schan (1971) et des règles de censure de Majetti (2012). On constate pour un même pays des
+divergences de datation entre cycles classiques, cycles d’accélération et cycles de croissance. Ces
+cycles économiques s’apparentent le plus souvent à des cycles courts. Par ailleurs, le nombre
+de cycles et la durée moyenne des cycles varient d’un pays à un autre. La durée moyenne des
+phasesascendantesestparfoiségale,inférieureousupérieureàcelledesphasesdescendantes.En
+respectant les règles de censure de Majetti (2012), aucun cycle de croissance n’a été observé au
+Burundi,auCameroun,auCongo,auGabon,enRCAetauTchad.Lescreuxlesplusimposants
+dans les pays de la CEMAC sont souvent survenus entre 1990 et 1994. C’est également au cours
+de cette période que la sévérité de la récession a été la plus importante.
+Mots-clés : cycles des affaires, cycles d’accélération, cycles de croissance, CEEAC.
+Codes JEL : C00, C24, E32, E39, N17.
+Business cycles characterization and dating of ECCAS
+countries : a non-parametric approach
+Abstract
+This paper main objective is to characterize and date economic cycles of CEEAC countries.
+Using data from the World Bank (1986-2015), a non-parametric approach, the Bry & Boschan
+algorithm (1971) and Majetti’s ( 2012) censorship rules, we found that, for a particular coun-
+try, there are differences in dating between conventional cycles, acceleration cycles and growth
+cycles. Economic cycles are mostly similar to short cycles. In addition, the number of cycles
+and the average duration of cycles vary from one country to another. The average duration of
+the ascending phases is sometimes equal to, lower than or greater than that of the descending
+phases. Following Majetti’s (2012) censorship rules, no growth cycle was observed in Burundi,
+Cameroon, Congo, Gabon, CAR and Chad. The largest troughs in the CEMAC countries were
+often between 1990 and 1994. This period is also the one were the severity of the recession was
+greatest.
+Keywords : business cycles, accélération cycles, growth cycles, ECCAS.
+JEL Classification : C00, C24, E32, E39, N17.
+∗. Docteur en économie / Centre des Etudes et de Recherche en Economie et Gestion de l’Université
+de Yaoundé 2 / Institut Sous-regional des Statistiques et de l’Economie Appliquée.
+∗∗. Docteur en économie et Cadre à la Direction de la Recherche de la Banque des Etats de l’Afrique
+Centrale (BEAC).
+LesauteursremercientlescadresdelaBEACpourleursobservationsetcommentaires,leséventuelles
+erreurs et omissions contenues dans cette étude sont du seul fait de ceux-ci.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 5
+1 Cycles économiques : que dit la littérature? 6
+1.1 Cycle des affaires . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+1.2 Cycle d’accélération . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+1.3 Cycle de croissance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2 Méthodologie de caractérisation et de datation des cycles économiques 8
+3 Mise en évidence des cycles économiques dans les pays de la CEEAC 10
+3.1 Diagnostic des cycles des affaires (cf annexes pour les tableaux récapitulatifs) . . 10
+3.2 Analyse des cycles d’accélération . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+3.3 Examen des cycles de croissance . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Conclusion 21
+Bibliographie 23
+Annexe 26
+2
+
+--- Page 4 ---
+Résumé non technique
+Les cycles économiques sont des fluctuations de l’activité économique marquées par des
+successions des phases d’expansion et de récession (Samuelson & Nordhaus, 1995). Eu égard à
+leur périodicité, on distingue dans la littérature économique : le cycle de Kitchin (3 à 4 ans); le
+cycle de Juglar (8 à 10 ans); le cycle de Kuznets (15 à 25 ans) et le cycle de Kondratiev (40 à
+60 ans).
+Lacaractérisationetladatationdescycleséconomiquesoffrentunemeilleurecompréhension
+de l’état de l’économie et permet d’améliorer la formulation des politiques économiques, notam-
+ment la gestion à moyen terme des finances publiques et la conduite de la politique monétaire
+(Fathi, 2007a, Damette & Rabah, 2009).
+Plusieurs facteurs exogènes et endogènes peuvent être à l’origine des cycles tels que : (i)
+des phénomènes naturels (le changement climatique), humains (la croissance démographique),
+politiques (les conflits armés ou instabilité politique), (ii) la variation des prix des produits agri-
+coles sur les marchés internationaux, (iii) les effets dominos (un ralentissement de l’activité chez
+les principaux partenaires économiques d’un pays risque d’influencer négativement sa croissance
+économique), (iv) les modifications des conditions de crédit, etc.
+L’objectif de cet article est d’identifier et d’examiner les points de retournement des cycles
+des affaires, des cycles d’accélération et des cycles de croissance des pays de la CEEAC. L’étude
+permet entre autres d’évaluer les chances de réussite d’une union monétaire élargie aux pays
+non membres de la Communauté Economique et Monétaire de l’Afrique Centrale (CEMAC). A
+l’aide d’un modèle non paramétrique, nous trouvons cinq principaux résultats :
+— le nombre de cycles et la durée moyenne des cycles varient souvent d’un pays à un autre;
+— les cycles économiques des pays de la CEEAC sont globalement des cycles courts;
+— la durée moyenne des phases ascendantes est parfois égale, inférieure ou supérieure à
+celle des phases descendantes;
+— en respectant les règles de censure de Majetti (2012), aucun cycle de croissance n’a été
+observé au Burundi, au Cameroun, au Congo, au Gabon, en RCA et au Tchad;
+— les creux les plus imposants dans les pays de la CEMAC sont souvent survenus entre
+1990 et 1994. C’est également au cours de cette période que la sévérité de la récession a
+été la plus importante.
+L’analysedesrésultatsnousaamenéàreleverquelescausesdescycleséconomiquespeuvent
+être endogènes ou exogènes. Comme causes exogènes, la chute des cours des matières premières
+et de nombreuses crises institutionnelles (coups d’Etat, guerres civiles) ont marqué l’histoire de
+cespays.Commefacteursendogènes,l’insuffisancedesfinancements,l’insoutenabilitédeladette
+publique, la contraction des investissements et l’aggravation du déficit budgétaire ont souvent
+expliqué la forte sévérité des récessions.
+Dans un tel contexte, seules les politiques budgétaires contracycliques pourraient permettre
+unemeilleureefficacitédelapolitiquemonétaire.Toutefois,ilsembleopportun(i)defairepreuve
+d’une plus grande prudence pendant les phases de reprise et (ii) se montrer capable de créer
+3
+
+--- Page 5 ---
+des marges de sécurité plus amples pouvant permettre de réagir à des chocs négatifs prononcés.
+D’un autre côté, il serait souhaitable que la datation des cycles économique en zone CEEAC
+soit « officielle ». A cet effet, un organe qui en aura la charge pourrait être créé en son sein afin
+d’analyser l’évolution de la convergence des économies de la CEEAC.
+4
+
+--- Page 6 ---
+Introduction
+La croissance économique est généralement affectée par des chocs divers dus à des facteurs
+endogènes ou exogènes donnant ainsi lieu à une alternance des phases ascendantes et descen-
+dantes de l’activité. Les cycles économiques sont donc des fluctuations de l’activité économique
+marquées par des successions des phases d’expansion et de récession (Samuelson & Nordhaus,
+1995). Eu égard à leur périodicité, on distingue dans la littérature les cycles de Kitchin (3 à
+4 ans), les cycles de Juglar (8 à 10 ans), les cycles de Kuznets (15 à 25 ans) et les cycles de
+Kondratieff (40 à 60 ans).
+Les causes exogènes des fluctuations économiques sont généralement (i) des phénomènes na-
+turels(lechangementclimatique),humains(lacroissancedémographique),politiques(lesconflits
+armés ou instabilité politique), (ii) la variation des prix des produits agricoles sur les marchés
+internationaux et (iii) les effets dominos (un ralentissement de l’activité chez les principaux par-
+tenaires économiques d’un pays risque d’influencer négativement sa croissance économique). Ces
+facteurs sont généralement indépendants de la sphère économique étudiée. Les facteurs endo-
+gènes quant à eux sont de nature internes au système économique analysé. Pour certains auteurs
+comme Karl Marx, John Stuart Mill, Juglar1, les modifications des conditions du crédit sont
+considérées comme des causes endogènes des cycles.
+Lacaractérisationetladatationdescycleséconomiquesoffrentunemeilleurecompréhension
+de l’état de l’économie et permet d’améliorer la formulation des politiques économiques, notam-
+ment la gestion à moyen terme des finances publiques et la conduite de la politique monétaire
+(Fathi, 2007a, Damette & Rabah, 2009).
+D’un point de vue historique, il semble vital de disposer d’une chronologie de référence
+des dates de récession et d’expansion même si la mise en évidence d’une récession n’est pas
+aisée (Ferrara, 2008). La datation des cycles économiques permet, entre autres, (i) d’analyser la
+variabilité de la croissance, (ii) de détecter en temps réel et d’anticiper autant que possible les
+fluctuations économiques en accordant une attention particulière aux points de retournement,
+(iii)decomprendrel’originedescriseséconomiquespourmettreenplacedesmoyenspourréduire
+leurs effets négatifs et (iv) d’établir les comparaisons internationales de cycles. Sur ce dernier
+point, une analyse des cycles des pays de la Communauté Economique des Etats de l’Afrique
+Centrale (CEEAC) permet entre autres d’évaluer les chances de réussite d’une union monétaire
+élargieauxpaysnonmembresdelaCommunautéEconomiqueetMonétairedel’AfriqueCentrale
+(CEMAC).
+La datation des cycles économiques dans les pays développés est effectuée tant par les or-
+ganismes publiques (c’est le cas des USA, du Japon et de l’Italie avec les institutions telles que
+le NBER2 et l’ESRI3) que par les chercheurs universitaires. Par contre, dans les pays de la
+CEEAC, il n’existe pas encore d’organe public en charge de la datation « officielle » des cycles.
+Par ailleurs, si quelques études se sont penchées sur la datation et la synchronisation du cycle
+classiqueauseindespaysmembresdelaCEEAC(Odia,2006;Carmignani,2010;Mezui-Mbeng,
+2013, Mbou, 2015), aucune étude à ce jour n’a fait cas du cycle d’accélération et du cycle de
+croissance dans les pays de la CEEAC.
+1. Lire Aimar & al (2009)
+2. NBER : National Bureau of Economic Research
+3. ESRI : Economic and Social Research Institute
+5
+
+--- Page 7 ---
+La CEEAC est une zone économique constituée de 11 Etats membres4. Ces économies, très
+peu diversifiées, dépendent fortement des cours des matières premières sur le marché mondial,
+notamment le pétrole, le cacao, le thé et le café. L’expérience de l’intégration de ces pays est
+cependant très timide en comparaison à la CEDEAO (Communauté Economique des Etats
+de l’Afrique de l’Ouest). A titre d’exemple, les pays de la CEDEAO ont adopté un agenda
+d’intégration et d’union monétaire qui devrait aboutir à l’adoption d’une monnaie unique dans
+tout l’espace ouest africain en 20205 .
+Du côté de l’Afrique Centrale par contre, aucune véritable réflexion n’a été menée sur un tel
+projet. Plus encore, l’Union Africaine recommande l’extension des Communautés Economiques
+Régionales (CER) afin d’aboutir à une union régionale réussie. L’analyse des cycles dans la
+CEEAC est donc un début de réflexion sur la possibilité de création d’un espace monétaire plus
+élargi. La maitrise des cycles dans un espace monétaire est primordiale car, si les pays sont en
+moyennesurlamêmephasedecycle,alorslapolitiquemonétaireauradeseffetsplussignificatifs
+sur l’activité économique. A contrario, lorsque les pays ont des cycles des affaires divergents, la
+politique monétaire unique favorise assurément l’un au détriment de l’autre.
+L’objectif de cet article est d’identifier et d’examiner les points de retournement des cycles
+des affaires, des cycles d’accélération et des cycles de croissance des pays de la CEEAC. Pour
+atteindrecetobjectif,notrepapierfaitrecoursauxméthodesnonparamétriques.Notreétudeest
+la première à faire une datation historique et comparative des cycles des affaires, d’accélération
+et de croissance dans les pays de la CEEAC.
+Dans la suite de l’article, la section 1 est consacrée à la revue de la littérature des cycles
+économiques. La méthodologie de caractérisation et de datation des cycles économiques est
+décrite en section 2. Enfin, la section 3 présente et analyse les résultats obtenus.
+1 Cycles économiques : que dit la littérature ?
+1.1 Cycle des affaires
+Le cycle des affaires se repère dans le niveau de l’activité économique agrégée d’un pays
+(Burns & Mitchell, 1946; Harding & Pagan, 1999, 2002; Majetti, 2012). Il se caractérise par
+une alternance de phases de croissance positive (expansion) et de phases de croissance négative
+(récession). Les pics (points de retournement haut) et les creux (points de retournement bas)
+signalent respectivement des entrées et sorties de récession (Ferrara, 2009; Harding & Pagan,
+2002;Majetti,2012).Lespointsderetournementcorrespondentàdessituationsoùlacroissance
+économique du pays est nulle (Majetti, 2012). Il existe dans la littérature plusieurs caractéris-
+tiques des phases d’un cycle économique (Banerji, 1999; Harding & Pagan, 1999, 2002) mais les
+plus usitées sont la durée, l’amplitude et la sévérité.
+La durée d’une phase d’expansion correspond au temps entre le creux et le pic de l’activité
+alorsqueladuréed’unephasederécessionéquivautautempsentrelepicetlecreuxdel’activité.
+Elle est notée D . Suivant l’algorithme de Bry & Boschan (1971), la durée minimale d’une phase
+i
+4. Cameroun, RCA, Tchad, République du Congo, République Démocratique du Congo, Gabon, Gui-
+née Equatoriale, Rwanda, Burundi, l’Angola, Sao Tomé et Principe
+5. Cette date a été reportée à une période ultérieure.
+6
+
+--- Page 8 ---
+est de 2 trimestres6 tandis que la durée minimale d’un cycle complet est de 4 trimestres.
+L’amplitude ou profondeur d’une phase d’expansion (respectivement phase de récession)
+correspond à l’écart entre la valeur de la grandeur économique au point de retournement bas
+(respectivement pic) et celle au point de retournement haut (respectivement creux)7. Elle est
+notée A . Pour être reconnue comme telle, « une phase de récession doit avoir une amplitude
+i
+suffisante, mais, là encore, il n’existe pas de valeur minimale théorique » (Ferrara, 2009).
+La sévérité d’une récession, notée S , mesure « la perte totale en supposant que cette phase
+i
+est décrite par un triangle rectangle dont la base est la durée et la hauteur l’amplitude; la perte
+est ainsi l’aire de ce triangle » (Ferrara, 2009). On admet que :
+S = 0,5∗A ∗D (1)
+i i i
+Plusieurs études empiriques ont mis en évidence les cycles des affaires dans les pays en
+développement,notammentGammadigbé(2012)etElalaoui(2014).PourlespaysdelaCEMAC,
+on peut citer Odia (2006), Carmignani (2010), Mezui-Mbeng (2013) et Mbou (2015).
+1.2 Cycle d’accélération
+Le cycle d’accélération est encore appelé le cycle du taux de croissance (Anas & Ferrara,
+2007).Ilestconstituédesphasesdehausse(phasesd’accélération)etdesphasesdebaisse(phases
+de décélération) du taux de croissance économique (Ferrara, 2009; Majetti, 2012). Le point de
+retournement haut de ce cycle représente le maximum local atteint par le taux de croissance;
+il indique la fin d’une phase d’accélération. Le point de retournement bas est le minimum local
+du taux de croissance économique, il signale la fin d’une phase de décélération.
+Le cycle d’accélération est doté d’une fréquence supérieure à celle du cycle des affaires et
+du cycle de croissance (Majetti, 2012). Par conséquent, ce cycle est relativement plus volatil
+que les autres cycles (ses points de retournement sont plus nombreux et se reproduisent dans
+un laps de temps plus court). Il semble plus difficile à dater et à suivre en temps réel (Ferrara,
+2009; Majetti, 2012). Par ailleurs, ce cycle n’est pas forcément interprétable du point de vue de
+l’analyse économique à moyen-terme.
+Dans la même veine, Anas & Ferrara (2007) soutiennent qu’« il est en tout cas périlleux de
+parler de ralentissement lorsque le taux de croissance franchit un pic. Par exemple, lorsque la
+croissance trimestrielle du PIB passe de 4 % l’an à 3 %, on ne peut parler de ralentissement
+conjoncturel car le PIB continue de croître à un rythme se situant au-dessus de sa croissance
+tendancielle. Il est aussi contestable de parler de reprise conjoncturelle lorsque la croissance
+passe de -2 % l’an à -1 % : même si le taux augmente, il reste négatif, ce qui correspond à
+une baisse d’activité, donc à une période récessive ». Toutefois, le cycle d’accélération séduit les
+conjoncturistes en zone Euro dans la mesure où le cycle de croissance de l’union monétaire a
+connu une réduction de sa variance depuis son creux de la mi-2003.
+6. Pour Majetti (2012) « dans nombre de travaux empiriques, une récession ne sera reconnue comme
+telle que si la croissance du produit intérieur brut (PIB) est négative sur au moins deux trimestres »
+7. Ferrara (2009) et Majetti (2012)
+7
+
+--- Page 9 ---
+1.3 Cycle de croissance
+Le cycle de croissance s’apparente à l’écart entre la série du PIB et sa tendance à long terme.
+Cette tendance de long terme peut être assimilée à la croissance tendancielle ou potentielle. Le
+point de retournement haut de ce cycle intervient au moment où le taux de croissance repasse
+en dessous du taux de croissance tendancielle. Le point de retournement haut survient quand
+le taux de croissance passe au-dessus du taux de croissance potentielle. Ce cycle se caractérise
+donc par une alternance de périodes où la croissance économique est supérieure à la croissance
+tendancielle et de celles où elle ne l’est pas.
+La datation du cycle de croissance nécessite au préalable une décomposition tendance-cycle
+de la série représentant l’activité économique agrégée consistant à l’extraction de la composante
+structurelle de long terme (la tendance) et de la composante conjoncturelle de court-terme (le
+cycle de croissance). Cette décomposition sur le plan empirique présente des inconvénients (Ma-
+jetti, 2012), notamment la multiplicité des méthodes de décomposition tendance-cycle pouvant
+conduire à des valeurs variables du cycle de croissance. Toutefois, « le diagnostic conjoncturel
+établi à partir du cycle de croissance présente un intérêt certain pour la conduite de la poli-
+tique monétaire, ainsi que pour les décideurs politiques en matière d’ajustements des déficits
+budgétaires » (Majetti, 2012).
+2 Méthodologie de caractérisation et de datation des
+cycles économiques
+L’analyseempiriquesebasesurlessériestemporellesduPIBréel(pourlescyclesdesaffaires)
+et de son taux de croissance (pour les cycles d’accélération), extraites de la base de données de
+laBanqueMondiale(WorldDevelopmentIndicators).Notrebasededonnéescouvreunepériode
+annuelle allant de 1986 à 2015. Ces données ont été « trimestrialisées » à l’aide de la technique
+de Goldstein & Kahn, puis désaisonnalisées. Il existe dans la littérature d’autres méthodes de
+« trimestrialisation » des données annuelles, notamment la méthode « Phase Average Trend »,
+les modèles à composantes inobservables de Harvey, les filtres de Baxter & King, de Christiano
+& Fitzgerald, de Hodrick & Prescott, et de Hamilton. L’implémentation des autres méthodes
+nécessite parfois d’obtenir des données trimestrielles d’autres variables liées au PIB réel, ce qui
+n’apasétépossiblepourl’ensembledespaysdenotreéchantillon.Enraisondelal’indisponibilité
+de certaines données sur la période sus-indiquée, les économies de la CEEAC étudiées couvrent
+unéchantillonde10pays,enl’occurrencel’Angola,leBurundi,leCameroun,leCongo,leGabon,
+la Guinée Equatoriale, la RCA, la RDC, le Rwanda et le Tchad.
+LasérietrimestrielleduPIBréelcorrigéedesvariationssaisonnières,notéeY ,estl’indicateur
+t
+utilisé pour mesurer l’activité économique agrégée (Harding & Pagan, 2002; Majetti, 2012).
+Néanmoins,lelogarithmedelaproductionindustrielleluiestsouventpréféréparcertainsauteurs
+(Artis&al,1997).Suivantletypedecyclesquel’onsouhaitemodéliser,certainestransformations
+peuvent être effectuées comme suit :
+— appliquer le logarithme à la série trimestrielle du PIB réel corrigée des variations saison-
+nières dans le cas du cycle des affaires;
+— utiliser le filtre de Hodrick & Prescott pour déterminer le cycle de croissance. Malgré la
+multituded’outilsdisponiblespourfiltreruneserie,Majetti(2012)rappellequ’aucunede
+8
+
+--- Page 10 ---
+ces méthodes de décomposition ne semblent s’imposer comme étant la meilleure. Anas &
+al (2007) et Ferrara & Vigna (2009) ont ainsi fait recours au filtre de Hodrick & Prescott
+pour les pays de la Zone Euro alors que Cashin & Ouliaris (2004) l’appliquent au cas de
+l’Australie;
+— transformer la série trimestrielle du PIB réel corrigée des variations saisonnières en taux
+de croissance dans le cas du cycle d’accélération. Dans la perspective d’avoir un taux
+de croissance lissé, noté g , on s’inspire des travaux de Majetti (2012) qui applique la
+t
+technique employée à l’ECRI.
+!1,6
+Y
+g = 100∗ t −100 (2)
+t P4 Y /4
+j=1 t−j
+Pour effectuer la caractérisation et la datation des cycles des affaires des pays de la CEEAC,
+nous faisons recours à l’algorithme non paramétrique proposé par Bry & Boschan (1971) repris
+par Anas & al (2003). Cet algorithme se formule ainsi qu’il suit :
+Cycle des affaires Cycle de croissance Cycle d’accélération
+Pic Y > Y ,Y > Y C > C ,C > C g > g ,g > g
+t t−k t t+k t t−k t t+k t t−k t t+k
+Creux Y < Y ,Y < Y C < C ,C < C g < g ,g < g
+t t−k t t+k t t−k t t+k t t−k t t+k
+Il existe d’autres méthodes non paramétriques pour détecter les points de retournement des
+cycles,notammentcelled’Artis&al(2004,2005).Aprèsladétectiondespointsderetournement
+potentiels, il faut s’assurer de l’alternance entre les pics et les creux. Pour ce faire, il faut sélec-
+tionnerparmiplusieurscreuxconsécutifs,lecreuxleplusbasetparmiplusieurspicsconsécutifs,
+lepicleplushaut.Parlasuite,ilfautveilleraurespectdesrèglesdecensuredéfiniesparMajetti
+(2012) ainsi qu’il suit :
+— la durée minimale d’un cycle (de pic à pic ou de creux à creux) doit être de 5 trimestres;
+— la durée minimale d’une phase doit être de 2 trimestres;
+— l’amplitude minimale d’une phase doit être au moins égale à 0.5 dans le cas d’un cycle
+de croissance;
+— pour toute phase, on doit s’assurer que la valeur de pic est strictement supérieure à celle
+du creux;
+— si le premier point de retournement est un creux (un pic), on doit s’assurer que sa valeur
+est inférieure (supérieure) à la valeur initiale de la série;
+— si le dernier point de retournement est un creux (un pic), on doit s’assurer que sa valeur
+est inférieure (supérieure) à la valeur terminale de la série.
+Outre, les méthodes non paramétriques, il existe dans la littérature des méthodes para-
+métriques de détection des cycles, notamment les modèles à changement de régime markovien
+(Chauvet, 1998; Harding & Pagan, 2002; Chauvet & Hamilton, 2006; Massmann & al, 2003;
+Damette & Rabah, 2009). Harding & Pagan (2002) soutiennent que les méthodes non paramé-
+triques de détection des cycles sont meilleures du fait de leur robustesse et de leur transparence
+en comparaison aux modèles à changement de régime markovien.
+9
+
+--- Page 11 ---
+3 Mise en évidence des cycles économiques dans les
+pays de la CEEAC
+3.1 Diagnostic des cycles des affaires (cf annexes pour les ta-
+bleaux récapitulatifs)
+Cycles des affaires et leur durée
+Partant d’un creux au creux suivant, nos résultats indiquent qu’il existe :
+— 3 cycles des affaires au Cameroun et au Rwanda;
+— 4 cycles classiques au Burundi, au Congo, au Gabon, en Guinée Equatoriale, en RDC et
+au Tchad;
+— 5 cycles des affaires en RCA et en Angola. En Angola, le cycle couvrant la période allant
+du 1er trimestre de l’année 2001 au 3e trimestre de l’année 2009 est le plus long avec
+des phases ascendante et descendante qui durent respectivement 30 et 4 trimestres. Au
+Burundi,lecycleclassiquecouvrantlapériodeallantdu3etrimestre1988au4etrimestre
+1993estlepluslongavecdesphasesascendanteetdescendantequidurentrespectivement
+11 et 10 trimestres.
+De manière spécifique, au Cameroun, les cycles couvrant les périodes 1992T1-1994T4 et
+1998T1-2000T1 sont les plus longs avec des phases ascendante et descendante qui durent res-
+pectivement 5 et 6 trimestres. Au Congo, le cycle des affaires couvrant la période allant du 4e
+trimestre 1993 au 2e trimestre 1998 est le plus long avec des phases ascendante et descendante
+qui durent respectivement 11 et 7 trimestres. Au Gabon, le cycle classique couvrant la période
+allant du 1er trimestre 1994 au 4e trimestre 1998 est le plus long. En Guinée Equatoriale, le
+cycledesaffairescouvrantlapériodeallantdu1ertrimestre1998au4etrimestre2009estleplus
+long avec des phases ascendante et descendante qui durent respectivement 42 et 5 trimestres.
+En RCA, les cycles des affaires couvrant les périodes (1994T3-1997T4 et 2010T2-2013T3)
+sont les plus longs. En RDC, le cycle des affaires couvrant la période allant du 3e trimestre
+1989 au 4e trimestre 1994 est le plus long avec des phases ascendante et descendante qui durent
+respectivement 19 et 2 trimestres. Le cycle classique couvrant la période allant du 1er trimestre
+1996 au 1er trimestre 2002 est le plus long avec des phases ascendante et descendante qui
+durent respectivement 9 et 15 trimestres au Rwanda. Au Tchad, le cycle des affaires couvrant
+la période allant du 2e trimestre 2000 au 2e trimestre 2009 est le plus long avec des phases
+ascendante et descendante qui durent respectivement 33 et 3 trimestres.
+Avec une durée de 5 trimestres, le cycle le plus court couvre la période allant (i) du 2e
+trimestre 2012 au 3e trimestre 2013 en Guinée Equatoriale et (ii) du 1er trimestre 2009 au 2e
+trimestre 2010 en RCA. Le cycle le plus court dure 6 trimestres en Angola (périodes 1995T2-
+1999T1 et 1999T1-2001T1), 7 trimestres au Gabon (période 1987T2-1989T1) et en RDC (pé-
+riode 1994T4-1996T3), 8 trimestres en Angola (période 1999T1-2001T1) et au Cameroun
+(période 1990T1-1992T1), 9 trimestres au Congo (période 1993T4-1998T2), 11 trimestres au
+10
+
+--- Page 12 ---
+Burundi (période 1993T4-1996T3), au Rwanda (périodes 1989T1-1991T4 et 1991T4-1994T3)
+et au Tchad (période 1994T3-1997T2).
+Au total, on observe une asymétrie importante entre les durées des cycles dans les pays de
+la CEEAC. La durée moyenne d’un cycle complet est de 20 trimestres au Tchad, 19 trimestres
+en Guinée Equatoriale, 17 trimestres en Angola, 15 trimestres au Burundi et au Rwanda, 13
+trimestresauCongo,enRDCetauGabon,11trimestresenRCAet10trimestresauCameroun.
+Ainsi, ces cycles sont courts puisque leurs durées sont toutes inférieures à 10 ans, à l’exception
+de celui qui s’étale sur la période allant du 1er trimestre 1998 au 4e trimestre 2009 en Guinée
+Equatoriale.
+Les phases ascendantes durent en moyenne plus que les phases descendantes en Angola, au
+Congo, au Gabon, en Guinée Equatoriale et au Tchad (12 contre 5 trimestres en Angola, 8
+contre 5 trimestres au Congo et au Gabon, 15 contre 4 trimestres en Guinée Equatoriale et 14
+trimestres contre 6 trimestres au Tchad). Le contraire est observé en RDC, en RCA, au Burundi
+et au Rwanda puisque dans ces cas, la durée moyenne des phases ascendantes est inférieure à
+celle des phases descendantes (5 contre 8 trimestres en RDC, 5 contre 6 trimestres en RCA,
+6 contre 8 trimestres au Burundi, 6 contre 9 trimestres au Rwanda). Au Cameroun, la durée
+moyenne des phases ascendantes équivaut à celle des phases descendantes. Ce résultat n’est
+pas en adéquation parfaite avec la littérature économique qui révèle que les phases montantes
+des cycles économiques depuis la seconde guerre mondiale sont en moyenne plus longues que les
+phasesdescendantes(Zarnowitz,1991;Ferrara,2009).Auregarddesrésultatsdesétudesmenées
+dans la zone Euro (Ferrara, 2009), la durée moyenne depuis 1970 d’une phase de récession est
+d’un an alors que celle d’une phase d’expansion varie entre 8 et 11 ans (soit 32 et 44 trimestres).
+Analyse de la sévérité des cycles
+Le cycle classique de l’Angola montre le creux le plus important au 2e trimestre 1995. La
+sévéritédelarécessionaétéplusimportanteentrele2etrimestre1990etle2etrimestre1995.Au
+cours de cette période ce pays est resté plongé dans une guerre civile, opposant le gouvernement
+marxiste du MPLA8 et l’UNITA9 qui a débuté en 1975. Par ailleurs, les prix du brent chutent
+tendanciellement passant de 19,25 à 16,75 dollars entre 1992 et 1995.
+Au Burundi, le cycle classique montre le creux le plus important au 1er trimestre 2003. La
+sévérité de la récession a été plus substantielle au cours de la période allant du 3e trimestre 1988
+au 4e trimestre 1993. La perte totale de l’économie burundaise a été plus relevée au cours de
+cette période en raison de l’instabilité politique (la guerre civile burundaise de 1993) et de la
+volatilité des cours du café sur le marché international.
+En RDC, le cycle des affaires présente le creux le plus notable au 1er trimestre 2000. La
+sévérité de la récession a été plus importante au cours de la période allant du 3e trimestre 1989
+au 4e trimestre 1994. En effet, après la chute du Mur de Berlin en 1989, le régime de Mobutu
+perd la plupart de ses soutiens occidentaux. De nombreuses manifestations et protestations qui
+en ont découlé vont créer une instabilité politique. Dans les années 1990, ce pays n’arrive plus
+à assumer le service de la dette, les services publics s’effondrent et l’inflation galopante ruine le
+pouvoir d’achat. Par ailleurs, on assiste à des scènes de pillage des magasins et de massacres des
+populations.
+8. Mouvement Populaire de Libération de l’Angola
+9. Union Nationale pour l’Indépendance Totale de l’Angola
+11
+
+--- Page 13 ---
+Lecycleclassiquerwandaisaffichelecreuxleplusmarquantau3etrimestre1994.Lasévérité
+de la récession a été plus substantielle au cours de la période allant du 4e trimestre 1991 au 3e
+trimestre 1994. Au cours de cette période, ce pays a été marqué par un génocide qui a détruit
+les bases déjà fragiles de l’économie rwandaise et érodé la confiance des investisseurs étrangers.
+A titre d’illustration, les investissements directs étrangers en pourcentage du PIB sont passés de
+0,293 en 1991 à 0,0001 en 1994 au Rwanda (Banque Mondiale, 2017). Durant cette période, on
+a également assisté à une guerre civile rwandaise de 1990-1993 entrainant ainsi une dégradation
+de la richesse du pays et des grands équilibres macroéconomiques.
+Pour ce qui est des pays de la Zone CEMAC, le cycle classique affiche le creux le plus grave
+au 2e trimestre 1987 au Gabon, au 2e trimestre 1989 en Guinée Equatoriale, au 3e trimestre
+1994 en RCA, au 4e trimestre 1993 au Congo, 3e trimestre 1994 au Tchad et au 4e trimestre
+1994 au Cameroun. La sévérité de la récession a été plus importante au cours de la période
+allant (i) du 1er trimestre 1992 au 4e trimestre 1994 au Cameroun, (ii) 1er trimestre 1991 au
+4e trimestre 1993 au Congo, (iii) du 1er trimestre 1994 au 4e trimestre 1998 au Gabon, (iv) du
+1er trimestre 1991 au 2e trimestre 1994 en Guinée Equatoriale, (v) du 2e trimestre 2010 au 3e
+trimestre 2013 en RCA, (vi) du 1er trimestre 1989 au 3e trimestre 1994 au Tchad.
+Dans l’ensemble, on observe une cohérence dans la sévérité des pays de la CEMAC entre
+1989 et 1994. En effet, durant cette période, les pays de la CEMAC ont connu une importante
+criseinduiteparlachutedescoursdesmatièrespremièresetquis’estmuéeenunecrisebancaire
+matérialisée par la dégradation rapide et brutale du portefeuille des banques (Avom & Eyeffa,
+2007;Nembot&Ningaye,2011).Lescréditsàl’économieontreculédemanièreprogressiveentre
+1990 et 1995 (Touna, 2008). La dépréciation des cours des matières premières au cours de cette
+période et la détérioration des termes de l’échange ont eu des effets néfastes sur les économies de
+la CEMAC, notamment la forte contraction des recettes à l’exportation qui a induit une baisse
+des recettes budgétaires et un épuisement des réserves de change. C’est dans la perspective
+d’améliorer leurs performances économiques que la dévaluation du FCFA est survenue en 1994.
+En somme, nos résultats sont différents de ceux obtenus par Odia (2006), Carmignani (2010)
+etMezui-Mbeng(2013).Commenous,Odia(2006)utilisel’algorithmedeBry&Boschan(1971),
+maisilobtientdesrésultatsdifférentsauxnôtrespourlecasduCamerounaucoursdelapériode
+1960-2002.Carmignani(2010),enempruntantlaméthoded’Artis&al(2004,2005)aboutitaussi
+à des résultats différents pour une étude couvrant la période 1960-2007. Les cycles des affaires
+des pays de la CEMAC déterminés par Mezui-Mbeng (2013a,b) sont estimés à l’aide d’un filtre
+passe-bande, puis caractérisés, sur la période 1960-2008, selon l’algorithme de Bry et Boshan.
+Ces résultats peuvent simplement mettre en lumière le caractère dynamique des cycles dans les
+pays en développement d’où la nécessité de les suivre minutieusement.
+12
+
+--- Page 14 ---
+Graphique 1 – Cycles classiques des pays de la CEEAC
+13
+
+--- Page 15 ---
+3.2 Analyse des cycles d’accélération
+Cycles d’accélération et leur durée
+Partant d’un point de retournement bas au point de retournement bas suivant, on décèle 7
+cycles d’accélération en Angola, au Burundi, au Cameroun, en RCA, 8 au Gabon, en RDC et
+en Guinée Equatoriale, 9 au Congo et au Tchad, 10 au Rwanda.
+Les cycles les plus long s’étendent sur une durée de 12 trimestres au Tchad, 13 trimestres
+au Burundi et au Congo, 15 trimestres au Rwanda, 16 trimestres en Angola, en RDC et en
+Guinée Equatoriale, 19 trimestres au Gabon, 21 trimestres au Cameroun et en RCA. Les cycles
+les plus courts durent 5 trimestres en RDC, 6 trimestres au Congo, en Guinée Equatoriale et au
+Rwanda,7trimestresenRCAetauTchad,8trimestresenAngola,auBurundi,auCamerounet
+au Gabon. Il y a une asymétrie entre les durées des cycles. La durée moyenne d’un cycle complet
+est de 8 trimestres en RDC, 9 trimestres au Congo, 10 trimestres au Tchad et au Rwanda,
+11 trimestres en Angola, au Burundi, 11,5 trimestres en Guinée Equatoriale, 12 trimestres au
+Cameroun et au Gabon, et 13 trimestres en RCA. Tous ces cycles sont courts avec des durées
+inférieures à 10 ans. La durée moyenne des phases ascendantes est sensiblement égale à celle
+des phases descendantes au Burundi, en RDC, Rwanda. En Angola, au Cameroun, au Gabon,
+au Congo, en Guinée Equatoriale et en RCA, les phases ascendantes durent légèrement plus en
+moyenne que les phases descendantes. La durée moyenne des phases ascendantes est inférieure
+à celle des phases descendantes au Tchad.
+L’allure des cycles d’accélération est marquée par :
+— 6 périodes de récession au Tchad (1989T1-1989T3, 1992T3-1994T4, 1997T1-1997T3,
+1999T1-2000T3, 2009T1-2009T4 et 2014T4);
+— 7périodesderécessionenRCA(1989T1-1989T3,1991T1-1991T4,1992T4-1994T4,1996T1-
+1997T4, 1999T4-2000T4, 2009T1-2010T2 et 2012T3-2013T4), en Guinée Equatoriale
+(1988T4-1989T3,1991T1-1991T3,1993T3-1994T4,1998T1-1998T3,2009T1-2009T4,2013T1-
+2013T4 et 2014T3-2014T4) et au Cameroun (1988T3-1990T1, 1992T1-1992T3, 1993T4-
+1995T2, 1997T3-1998T3, 2000T1-2000T4, 2009T2-2010T1 et 2012T1-2012T2);
+— 8 périodes de récession au Gabon (1987T1-1987T3, 1991T1-1991T4, 1992T4-1994T2,
+1997T1-1998T4, 2001T1-2001T3, 2009T1-2009T4, 2012T1-2012T4 et 2014T3-2014T3);
+— 9 périodes de récession au Congo (1988T1-1988T3, 1991T1-1991T3, 1992T4-1994T2,
+1997T1-1998T4, 2001T1-2001T4, 2007T1, 2009T1-2009T4, 2012T1-2012T4 et 2014T3-
+2014T4).
+Pour chaque pays de la CEMAC, l’observation de l’évolution cyclique révèle que le creux le
+plus imposant est apparu au 2e trimestre 1993 au Congo, au 1er trimestre 1994 au Tchad, en
+Guinée Equatoriale et en RCA, au 2e trimestre 1994 au Cameroun et au 1er trimestre 2009 au
+Gabon.
+14
+
+--- Page 16 ---
+Sévérité des cycles d’accélération
+La sévérité de la récession a été plus importante au cours de la période allant (i) du 1er
+trimestre 1992 au 2e trimestre 1994 au Cameroun, (ii) du 1er trimestre 2010 au 1er trimestre
+2013 en RCA, (iii) du 1er trimestre 1998 au 2e trimestre 2001 au Congo, (iv) du 1er trimestre
+1989 au 2e trimestre 1991 au Gabon, (v) du 1er trimestre 1996 au 1er trimestre 1998 en Guinée
+Equatoriale et (vi) du 1er trimestre 1997 au 1er trimestre 2000 au Tchad.
+Concernant la RCA, la période 2011-2013 est marquée par une forte crise institutionnelle et
+sécuritaire ayant abouti à un coup d’Etat déstabilisant ainsi une bonne partie du pays.
+La période 1997-2000 a été marquée au Tchad par (i) la dégradation du solde de la balance
+commerce (le solde moyen de la balance commerciale au cours de la période sus-indiquée s’est
+détérioré de 3,6 % par rapport à la période 1993-199610 ), (ii) la diminution du financement de
+l’économie (les crédits domestiques octroyés au secteur privé en pourcentage du PIB au cours de
+la période susmentionnée ont reculé de 0,64 point par rapport à la période 1993-1996 et sont en
+baisse de 0,57 points relativement à la période 2001-200411) et (iii) l’accroissement du service
+de la dette (la valeur moyenne du service de la dette extérieure au cours de la période susvisée
+a progressé de 61 % par rapport à celle de la période 1993-1996). L’exploitation du pétrole qui
+a démarré au début des années 2000 a permis au pays de renouer avec la croissance.
+La forte sévérité de la récession observée au Cameroun et au Gabon entre la fin des années
+80 et le milieu des années 90 peut être expliquée, notamment par (i) la crise bancaire, (ii) la
+baisse des cours des matières premières sur le marché mondial, (iii) la crise d’endettement et
+(iv) l’aggravation du déficit budgétaire.
+La sévérité de la crise observée au Congo entre 1998 et 2001 fait suite aux troubles politiques
+de1997ponctuéesparlecoupd’étatmilitairequiaportéleprésidentSassouNguessoaupouvoir.
+En décembre 1998, de nouvelles luttes armées entre forces régulières et milices rebelles, ont eu
+lieuentrainantainsiunedégradationdesgrandséquilibresmacroéconomiquesdupays.Dufaitde
+la chute des prix du pétrole sur le marché mondial en 1998 et aux opérations de démobilisations
+des miliciens organisées en 2000, le gouvernement congolais va reprendre des négociations avec
+le FMI et la Banque Mondiale pour un nouveau programme d’assistance post-conflit.
+En Guinée Equatoriale, la forte sévérité de la récession observée entre 1996 et 1998 peut être
+expliquée, notamment par (i) l’aggravation du déficit commercial (le déficit moyen de la balance
+commerciale enregistré au cours de la période susvisée est 5,5 fois supérieur à celui de la période
+1993-199512 )et(ii)lereculdufinancementdel’économie(lavaleurmoyennedescréditsalloués
+au secteur privé en pourcentage du PIB au cours de la période susmentionnée a diminué de 0,78
+point par rapport à la période 1993-1995). L’exploitation du pétrole vers la fin des années 90 a
+apporté au pays une bouffée d’oxygène marquée par une relative longue période de croissance.
+En RDC, la sévérité de la récession a été plus importante au 1er trimestre 2000 et au 2e
+trimestre 2002. Le comportement de ce cycle est marqué par 6 périodes de récession (1989T3-
+1989T4, 1990T2-1996T4, 1993T3-2000T2, 2002T1-2002T4, 2004T1-2004T2 et 2010T1-2010T3).
+La période 2000-2002 est marquée par l’assassinat du président Laurent Désiré Kabila en 2001,
+marquantainsilepointculminantdelacriseinstitutionnellequibouleverselaRDCdepuis1998.
+10. Calcul effectué par les auteurs à partir des statistiques de la Banque Mondiale (2017)
+11. Estimations effectuées par les auteurs à partir des statistiques de la Banque Mondiale (2017)
+12. Estimations effectuées par les auteurs à partir des statistiques de la Banque Mondiale (2017)
+15
+
+--- Page 17 ---
+En effet, avant cet acte, « de nombreuses tentatives d’attentat, déjouées jusque-là, avaient déjà
+étéengagéesparles3mouvementsrebelles13,présentssurplusdelamoitiéduterritoirenational.
+La situation socio-économique se caractérise au cours de cette période par (i) des pénuries de
+carburant, (ii) une répression financière et (iii) une catastrophe humanitaire marquée par le
+décès et le déplacement de millions de congolais vers les pays limitrophes.
+Lecomportementducycled’accélérationauBurundiestfortementmarquépar5périodesde
+récession(1987T1-1988T4,1991T4-1994T2,1995T4-1996T4,1998T1-1999T4et2001T3-2003T3).
+Le creux le plus important apparait au 1er trimestre 1991 et la sévérité de la récession a été plus
+importante au cours de la période allant du 1er trimestre 1996 au 1er trimestre 1999.
+Cette situation peut être expliquée, entre autres, par (i) la contraction des recettes d’expor-
+tation (la valeur moyenne des recettes d’exportation a reculé de 31,3 % au cours de la période
+1996-1999 par rapport à la période 1992-1995) et (ii) la hausse de la dette publique (la moyenne
+du ratio dette extérieure/exportation évaluée à 1627 % au cours de la période 1996-1999 est en
+hausse de 65,7 % par rapport à celle de la période 1992-1995).
+Au Rwanda, le cycle d’accélération affiche le creux le plus substantiel au 2e trimestre 1994
+et la sévérité de la récession a été plus importante au cours de la période allant du 1er trimestre
+1991 au 2e trimestre 1994. Cette crise économique peut trouver une explication dans la crise
+politique et sécuritaire (notamment le génocide rwandais) qu’a traversée ce pays au cours de
+cette période. A l’instar du Burundi, la configuration du cycle d’accélération du Rwanda est
+fortement caractérisée par 5 périodes de récession (1989T1-1989T2, 1990T4-1991T4, 1993T3-
+1994T4, 1996T1-1996T2 et 1998T4-2002T1).
+En Angola, l’allure du cycle est fortement marquée par 6 périodes de récession (1987T3-
+1988T1, 1990T1-1990T4, 1993T3-1995T3, 1997T3-1999T1, 2001T1-2001T2 et 2009T1-2009T4).
+Le creux le plus imposant est survenu au 2e trimestre 1994 et la sévérité de la récession a été
+plus importante au cours de la période allant du 2e trimestre 1994 au 2e trimestre 1998. Cette
+période a été marquée par une crise institutionnelle et sécuritaire.
+13. Il s’agit du RCD-Goma de son aile dissidente dirigée par le professeur Wamba di Wamba et du
+Mouvement pour la libération du Congo, avec à sa tête Jean-Pierre Bemba.
+16
+
+--- Page 18 ---
+Graphique 2 – Les cycles d’accélération des pays de la CEEAC
+17
+
+--- Page 19 ---
+3.3 Examen des cycles de croissance
+Cycles de croissance et leur durée
+Partant d’un point de retournement bas au point de retournement bas suivant, on décèle 4
+cycles de croissance en RDC, 6 en Angola, au Rwanda et en Guinée Equatoriale, 7 au Burundi,
+au Cameroun et au Gabon, 8 au Congo, au Tchad et en RCA.
+Les cycles de croissance les plus longs s’étendent sur une durée de 11 trimestres en RDC, 17
+trimestres en RCA, 18 trimestres en Guinée Equatoriale, 19 trimestres au Congo et au Gabon,
+20 trimestres au Tchad, 22 trimestres au Burundi et au Cameroun, 25 trimestres en Angola, 27
+trimestres au Rwanda. Les cycles de croissance les plus courts durent 5 trimestres en RCA, au
+Congo, au Rwanda et au Gabon, 6 trimestres en RDC et au Tchad, 8 trimestres au Burundi
+et au Cameroun, 9 trimestres en Angola et 7 trimestres en Guinée Equatoriale. On observe
+globalement une asymétrie entre les durées des cycles. La durée moyenne d’un cycle complet est
+de 9 trimestres en RDC, 12 trimestres au Congo et en RCA, 13 trimestres au Cameroun, au
+Gabon et au Tchad, 13,5 trimestres au Rwanda, 14 trimestres au Burundi, 14,5 trimestres en
+Angola et 15 trimestres en Guinée Equatoriale.
+Tous ces cycles de croissance sont courts avec des durées inférieures à 10 ans. La durée
+moyennedesphasesascendantesestsensiblementégaleàcelledesphasesdescendantesenRCAet
+auBurundi.EnAngola,auCameroun,auCongo,enGuinéeEquatoriale,auTchadetauGabon,
+les phases ascendantes durent légèrement plus en moyenne que les phases descendantes. En
+revanche,laduréemoyennedesphasesascendantesestinférieureàcelledesphasesdescendantes
+en RDC et au Rwanda.
+La configuration des cycles de croissance est caractérisée par :
+— 7périodesderécession(1986T1-1987T4,1989T1-1989T4,1993T2-1995T2,1999T3-2003T4,
+2009T1-2010T4, 2012T1-2013T4 et 2014T3-2014T4) au Tchad;
+— 9 périodes de récession au Cameroun (1986T1-1986T4, 1989T1-1990T4, 1992T1-1992T3,
+1994T1-1996T1, 2000T1-2002T4, 2005T3-2007T1, 2009T3-2010T4, 2012T1-2013T2 et
+2014T4), au Congo (1986T1-1986T4, 1988T1-1989T3, 1993T1-1995T2, 1997T4-1999T3,
+2001T2-2004T3, 2007T1-2007T3, 2009T1-2010T3, 2012T2-2013T4 et 2014T3-2014T4),
+au Gabon (1986T4-1989T4, 1993T1-1995T2, 1998T1-1999T4, 2001T1-2003T3, 2004T1,
+2006T1-2006T4, 2009T1-2010T3, 2012T3-2013T4 et 2014T3-2014T4), en RCA (1986T1-
+1986T3,1987T1-1987T4,1988T3-1989T4,1994T1-1994T4,1996T4-1997T4,2000T1-2002T4,
+2005T1-2007T2, 2009T3-2010T3, 2013T1-2014T2);
+— 10périodesderécessionenGuinéeEquatoriale(1986T1-1986T4,1989T1-1989T4,1991T1-
+1991T2,1993T4-1996T2,1998T1-1999T3,2002T1-2004T3,2007T1,2009T2-2010T4,2013T2-
+2013T4 et 2014T2-2014T4).
+Par ailleurs, à l’observation de l’évolution cyclique, il ressort que le creux le plus notable
+est survenu (i) au 4e trimestre 1993 au Congo, (ii) au 2e trimestre 1994 au Tchad, (iii) au 3e
+trimestre 1994 en RCA et en Guinée Equatoriale, (iv) au 4e trimestre 1994 au Cameroun et (v)
+au 1er trimestre 1994 et au 3e trimestre 2009 au Gabon.
+18
+
+--- Page 20 ---
+Cycles de croissance et leur sévérité
+De façon globale, la sévérité de la récession a été la plus substantielle au cours de la période
+allant de 1989 à 1994. De manière précise, la sévérité de la récession a été plus marquée au
+cours de la période allant (i) du 2e trimestre 1989 au 2e trimestre 1994 au Tchad, (ii) du 1er
+trimestre 1991 au 4e trimestre 1993au Congo, (iii) du 1er trimestre 1991 au 3e trimestre 1994
+en Guinée Equatoriale et en RCA, (iv) du 1er trimestre 1992 au 4e trimestre 1994 au Cameroun
+et (v) du 1er trimestre 1994 au 4e trimestre 1998 au Gabon. Tel qu’indiqué à la sous-section
+précédente, les pays de la CEMAC ont été marqués au cours de cette période par (i) la crise
+bancaire, (i) la baisse des cours des matières premières sur le marché mondial qui a réduit les
+recettes d’exportation, (iii) la crise d’endettement et (iv) l’aggravation du déficit budgétaire.
+Le comportement des cycles de croissance en RDC est marqué par 7 périodes de récession
+(1986T1-1987T4, 1993T4-1997T4, 1998T4, 1999T2-2000T3, 2002T2-2006T3, 2010T1-2012T3 et
+2014T3-2014T4). La sévérité de la récession a été plus importante au cours de la période allant
+du 1er trimestre 2000 au 4e trimestre 2002 et le creux le plus imposant est survenu au 1er
+trimestre 2000. La période 2000-2002, comme il a été indiqué dans la sous-section précédente,
+est marquée par une crise institutionnelle (dont le point culminant est l’assassinat du président
+delarépubliquedeRDC),(ii)lesdifficultésd’accèsaucarburantet(ii)unerépressionfinancière.
+EnAngola,l’alluredececycledecroissanceestfortementmarquéepar7périodesderécession
+(1986T4-1988T4, 1994T1-1995T4, 1998T2-1999T4, 2001T1-2001T4, 2003T1-2005T4, 2009T2-
+2011T1 et 2014T2-2014T4). La sévérité de la récession a été plus importante au cours de la
+période allant du 4e trimestre 1990 au 1er trimestre 1995 et le creux le plus imposant survient
+au 1er trimestre 1995. Il faut rappeler qu’à l’issue de la proclamation des résultats du premier
+scrutin présidentiel, démocratique et pluripartite, de 1992, remportées par le MPLA de Jose
+Eduardo Dos Santos, le principal parti d’opposition (l’UNITA de Jonas Savimbi) ne reconnait
+pas sa défaite. Par conséquent, malgré la défection de ses soutiens à l’échelle internationale,
+l’UNITA refuse de participer au second tour de cette élection et reprend la guérilla. L’accord de
+paix, prévoyant l’intégration des forces de l’UNITA dans l’armée régulière, qui est paraphé en
+novembre1994enZambie,estrompuen1995.Parailleurs,leratiodetteextérieure/exportations
+était insoutenable au cours de cette période; il affichait une valeur moyenne de 286,5 % entre
+1990 et 1995 contre 215,5% entre 1996 et 200114.
+Le comportement du cycle de croissance du Burundi est fortement marqué par 9 périodes de
+récession (1987T1-1989T3, 1993T1-1994T4, 1996T1-1996T4, 1998T4-1999T4, 2002T2-2004T4,
+2007T1-2007T4,2009T1-2010T1,2012T1-2013T4et2014T4).Lescreuxlesplusimportantssont
+survenus au 4e trimestre 1993 et au 3e trimestre 2003. Par ailleurs, la sévérité de la récession a
+été plus importante au cours de la période allant du 2e trimestre 1999 au 3e trimestre 2003. Au
+cours de cette période, les recettes d’exportation ont fortement reculé (la valeur moyenne des
+recettes d’exportations du Burundi au cours de la période 2000-2003 a reculé de 54 % et 32,8
+% respectivement par rapport à celle des périodes 1992-1995 et 1996-1999) et la dette publique
+s’est accrue (la moyenne du ratio dette extérieur/exportation évaluée à 2612 % au cours de la
+période 2000-2003 est 1,6 fois et 2,65 fois supérieure à celle des périodes 1992-1995 et 2000-2003
+respectivement).
+Au Rwanda, la sévérité de la récession a été plus importante au cours des périodes allant (i)
+du3etrimestre1991au3etrimestre1994et(ii)du1ertrimestre1996au4etrimestre2002.Dans
+ce pays, le cycle d’accélération affiche le creux le plus substantiel au 3e trimestre 1994. Cette
+14. Calcul effectué à partir des données de la Banque Mondiale (2017)
+19
+
+--- Page 21 ---
+situation peut être aussi expliquée, notamment par (i) la crise institutionnelle et sécuritaire (le
+génocide rwandais) et (ii) l’insoutenabilité de la dette publique. Par ailleurs, la configuration
+du cycle rwandais de croissance est fortement caractérisée par 7 périodes de récession (1986T1-
+1987T4, 1991T1-1991T4, 1994T1-1995T3, 1996T1-1996T3, 2000T4-2005T2, 2010T1-2011T3 et
+2013T1-2014T4).
+Graphique 3 – Cycles de croissance des pays de la CEEAC
+20
+
+--- Page 22 ---
+Cependant, on constate que les 10 pays de notre échantillon présentent très peu de cycles
+dont la valeur de l’amplitude est au moins égale à 0.5. De manière précise, au regard des règles
+de censure de Majetti (2012), on trouve que certains pays admettent :
+— 1 cycle de croissance, en l’occurrence l’Angola (1990T4-1995T1) et le Rwanda (1991T3-
+1994T3);
+— 2 cycles de croissance en l’instar de la RDC (1998T3-2000T1 et 2000T1-2002T4);
+— 3 cycles de croissance, en l’occurrence la Guinée Equatoriale (1991T1-1994T3, 1994T3-
+1998T3 et 2007T1-2009T4);
+— aucun cycle de croissance, en l’occurrence le Burundi, le Cameroun, le Congo, le Gabon,
+la RCA et le Tchad.
+Conclusion
+L’objectif de cette étude était de caractériser et de dater les cycles des affaires, les cycles
+d’accélérationetlescyclesdecroissancedespaysdelaCEEACentre1986et2015.Al’exception
+de Sao Tomé et Principe, tous les pays de la CEEAC font partie de l’échantillon. En adoptant,
+la méthode de Bry-Boschan (1971), la technique de trimestrialisation des données de Golstein
+et Kahn, le filtre de Hodrick & Prescott et les règles de censure de Majetti (2012), les résultats
+révèlent que :
+— le nombre de cycles et la durée moyenne des cycles varient souvent d’un pays à un autre;
+— les cycles économiques des pays de la CEEAC sont globalement des cycles courts;
+— la durée moyenne des phases ascendantes est parfois égale, inférieure ou supérieure à
+celle des phases descendantes;
+— en respectant les règles de censure de Majetti (2012), aucun cycle de croissance n’a été
+observé au Burundi, au Cameroun, au Congo, au Gabon, en RCA et au Tchad;
+— les creux les plus imposants dans les pays de la CEMAC sont souvent survenus entre
+1990 et 1994. C’est également au cours de cette période que la sévérité de la récession a
+été la plus importante.
+L’analysedesrésultatsnousaamenéàreleverquelescausesdescycleséconomiquespeuvent
+être endogènes ou exogènes. Comme causes exogènes, la chute des cours des matières premières
+et de nombreuses crises institutionnelles (coups d’Etat, guerres civiles) ont marqué l’histoire de
+cespays.Commefacteursendogènes,l’insuffisancedesfinancements,l’insoutenabilitédeladette
+publique, la contraction des investissements et l’aggravation du déficit budgétaire ont souvent
+expliqué la forte sévérité des récessions.
+Dans un tel contexte, seules les politiques budgétaires contracycliques pourraient permettre
+unemeilleureefficacitédelapolitiquemonétaire.Toutefois,ilsembleopportun(i)defairepreuve
+d’une plus grande prudence pendant les phases de reprise et (ii) se montrer capable de créer
+des marges de sécurité plus amples pouvant permettre de réagir à des chocs négatifs prononcés.
+21
+
+--- Page 23 ---
+D’un autre côté, il serait souhaitable que la datation des cycles économique en zone CEEAC
+soit « officielle ». A cet effet, un organe qui en aura la charge pourrait être créé en son sein afin
+d’analyser l’évolution de la convergence des économies de la CEEAC. Par ailleurs, il serait utile
+que les travaux futurs (i) examinent la synchronisation des cycles des pays de la CEEAC, (ii)
+analysent les effets des fluctuations économiques des pays de l’Union Européenne et de la Chine
+sur les cycles de pays de la CEEAC, (iii) étudient empiriquement les facteurs explicatifs de la
+durée des phases de récession des cycles économiques des pays de la CEEAC.
+22
+
+--- Page 24 ---
+Bibliographie
+[ 1 ] Aimar, T., Bismans, F., & Diebolt, C., (2009) : « Le cycle économique : une synthèse
+», Revue française d’économie, N° 4, Vol XXIV, pp 3-65.
+[ 2 ]Anas,J.,Billio,M.,Ferrara,L.,&LoDuca,M.,(2007):«ATurningPointChronology
+for the Euro-zone », University of Venice, Working Paper n° 33.
+[ 3 ]Anas,J.,&Ferrara,L.,(2007):«Positionnementcycliquedeséconomies»,Diagnostics,
+2, pp. 9-23.
+[ 4 ] Artis, M., J., Kontolemis, Z., G., & Osborn, D., R., (1997) : « Business Cycles for G7
+and European Countries », The Journal of Business, Vol 70, No 2, pp 249-279.
+[ 5 ] Artis, M., Marcellino, M., & Proietti, T., (2004) : « Dating the Euro-Area Business
+Cycle », Oxford Bullettin of Economics and Statistics, vol 66, pp 537-565.
+[ 6 ] Artis, M., Marcellino, M., & Proietti, T., (2005) : « Characterizing Business Cycles for
+Accession Countries», Journal of Business Cycle Measurement and Analysis, vol 2, pp
+7-41.
+[ 7 ] Avom, D., Eyeffa, E., S., M., L., (2007) : « Quinze ans de restructuration bancaire
+dans la CEMAC : qu’avons-nous appris? ». In : Revue d’économie financière, n°89, pp
+183-205.
+[ 8 ] Banerji, A., (1999), « The Three P’s : Simple Tools for Monitoring Economic Cycles »,
+Business Economics, N° 34, pp 72-76.
+[ 9 ]Bry,G.,&Boschan,C.,(1971):«CyclicalAnalysisofTimeSeries:SelectedProcedures
+and Computer Programs », NBER Technical, Paper, n° 20.
+[ 10 ] Burns, A., F., & Mitchell, W., C., (1946) : « Measuring Business Cycles ». NBER,
+Columbia University Press
+[ 11 ] Cashin, P., & Ouliaris, S., (2004) : « Key features of Australian business cycles »,
+Australian Economic Papers, pp 39-58
+[ 12 ]Carmigni,F.,(2010):«EndogenousoptimalCurrencyAreas:theCaseoftheCentral
+African Economic and Monetary Communauty », Journal of African Economies, vol 19,
+N° 1, pp 25-51.
+[ 13 ] Chauvet, M., (1998) : « An econometric characterization of business cycle dynamics
+with factor structure and regime switching », International Economic Review, 39, 969-
+996.
+[ 14 ] Chauvet, M., & Hamilton, J. D. (2006) : « Dating business cycle turning points », In
+Costas Milas, P., R., & van Dijk, D., (Eds.), Nonlinear time series analysis of business
+cycles, pp. 1-53. North Holland : Elsevier
+[ 15 ] Damette, O., & Rabah, Z., (2009) : « La datation du cycle français : une approche
+probabiliste», Revue française d’économie, vol xxiv, No. 4, 2009, pp 135-163.
+23
+
+--- Page 25 ---
+[ 16 ] Elalaoui, A., (2014) : « Identifying and characterizing the business cycle : the case of
+Morocco », MPRA Working Paper, N° 56811, 21p.
+[ 17 ] Fathi, E., (2007) : « Les cycles économiques en Tunisie : identification, caractérisation
+et comparaison internationale », Economie internationale, vol 2, No 110, pp 31-61.
+[ 18 ] Fathi, E., (2007) : «Une analyse historiographique des causes du cycle économique en
+Tunisie », L’actualité economique, vol 83, No 3, pp 359-397.
+[ 19 ] Ferrara, L., (2009) : «L’apport des indicateurs de retournement cyclique à l’analyse
+conjoncturelle », Bulletin de la Banque de France, N° 171, 9p.
+[ 20 ] Ferrara, L., (2009) : « Caractérisation et datation des cycles économiques en zone
+Euro », Revue économique, Vol. 60, N° 3, pp 703-712.
+[ 21 ] Ferrara, L., & Vigna, O., (2009) : « Cyclical Relationships between GDP and Housing
+Market in France : Facts and Factors at Play », Banque de France, Working Paper, N°
+268.
+[ 22 ] Gammadigbé, V., (2012) : « Business cycles of the WAEMU countries : synchronous
+or disconnected?». MPRA Working Paper, N° 39424, 28p
+[ 23 ] Harding, D., & Pagan, A., (1999) : « Dissecting the cycle », Melbourne Institute
+Working Paper, No 13/99, 34p.
+[ 24 ] Harding, D., & Pagan, A., (2002) : « A comparison of two business cycle dating
+methods », Journal of Economic Dynamics & Control, Vol 27, pp 1681-1690.
+[ 25 ] Majetti, R., (2012) : « Caractérisation et datation des cycles économiques : le cas
+français », Revue d’Economie Politique, Vol 122, N° 3, pp 365-403.
+[ 26 ] Massmann, M., Mitchell, J., Weale, M., (2003) : « Business cycles and turning points :
+a survey of statistical techniques », National Institute Economic Review, No. 183, pp 90-
+106.
+[ 27 ] Mbou, L., G., S., (2015) : « Cycles économiques dans la zone CEMAC », Journal of
+Economics and Development Studies, Vol 3, N° 3, pp 169-184
+[ 28 ] Mezui-Mbeng, P., (2013) : « Business and credit cycles in CAMEU economies »,
+European Economic Letters, European Economics Letters Group, vol 2, No 1, pp 1-6.
+[ 29 ]Nembot,N.,L.,&Ningaye,P.,(2011):«Réformesfinancièresetrentabilitédusystème
+bancairedesÉtatsdelaCEMAC»,Mondesendéveloppement,vol155,N°3,pp111-124.
+[ 30 ] Odia, N., Y., F., (2006) : « Datation du cycle du PIB camerounais entre 1960 et 2003
+», Munich Personal REPEC Archive, N° 1308, 31p.
+[ 31 ] Samuelson, P., A., & Nordhaus, W., D., (1995) : Macroéconomie, Les éditions D’Or-
+ganisations, 1055p
+[ 32 ] Touna, M., (2008) : L’Economie Camerounaise : Pour Un Nouveau Départ. Africaine
+d’Edition.
+24
+
+--- Page 26 ---
+[ 33 ] Union Africaine, Banque Africaine de Développement et Commission Economique
+pour l’Afrique (2016). Indice de l’intégration régionale en Afrique. Rapport 2016. Docu-
+ment de travail, 52p.
+[ 34 ] Zarnowitz, V., (1991) : « What is a Business Cycle? », NBER Working Paper, N°
+3863, 95p.
+25
+
+--- Page 27 ---
+Annexe
+Annexe 1 : Cycles des affaires des pays de la CEEAC
+Tableau 1 – Chronologie des cycles des affaires de l’Angola
+Durée
+Cycles Amplitude Sévérité
+Totale Phase d’expansion Phase de récession
+1988T1-1990T2 9 7 2 0.051 0.051
+1990T2-1995T2 20 11 9 1.000 4.502
+1995T2-1999T1 15 6 9 0.314 1.413
+1999T1-2001T1 8 6 2 0.099 0.099
+2001T1-2009T3 34 30 4 0.139 0.279
+Moyenne 17,2 12 5,2
+Ecart-type 9.45 9.18 3.18
+Tableau 2 – Chronologie des cycles des affaires du Burundi
+Durée
+Cycle
+Totale Phases d’expansion Phases de récession Amplitude Sévérité
+1988T3-1993T4 21 11 10 0.251 1.255
+1993T4-1996T3 11 6 5 0.161 0.403
+1996T3-1999T3 12 4 8 0.200 0.802
+1999T3-2003T1 14 6 8 0.134 0.539
+Moyenne 14.5 6.75 7.75
+Ecart-type 3.905 2.586 1.785
+26
+
+--- Page 28 ---
+Tableau 3 – Chronologie des cycles des affaires du Cameroun
+Durée
+Cycle
+Totale Phases d’expansion Phases de récession Amplitude Sévérité
+1990T1-1992T1 8 6 2 0.109 0.109
+1992T1-1994T4 11 5 6 0.493 1.480
+1998T1-2000T4 11 5 6 0.143 0.429
+Moyenne 10 5,33 4,66
+Ecart-type 1,41 0,47 1,88
+Tableau 4 – Chronologie des cycles des affaires du Congo
+Durée
+Cycles
+Totale Phases d’expansion Phases de récession Amplitude Sévérité
+1991T1-1993T4 11 4 7 0.556 1.946
+1993T4-1998T2 18 11 7 0.290 1.018
+1998T2-2001T3 13 9 4 0.174 0.348
+2007T1-2009T2 9 6 3 0.250 0.376
+Moyenne 12.75 7,5 5,25
+Ecart-type 3,34 2,69 1,78
+Tableau 5 – Chronologie des cycles des affaires du Gabon
+Durée
+Cycle Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1987T2-1989T1 7 5 2 0.012 0.012
+1989T1-1991T4 11 6 5 0.133 0.334
+1994T1-1998T4 19 10 9 0.267 1.202
+2006T1-2009T3 14 9 5 0.286 0.715
+Moyenne 12.75 7.5 5.25
+Ecart-type 4.38 2.06 2.48
+Tableau 6 – Chronologie des cycles des affaires de la Guinée Equatoriale
+Durée
+Cycle Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1991T1-1994T2 13 8 5 0.359 0.899
+1998T1-2009T4 47 42 5 0.331 0.827
+2009T4-2012T2 10 8 2 0.002 0.002
+2012T2-2013T3 5 2 3 0.031 0.047
+Moyenne 18,75 15 3.75
+Ecart-type 16,55 15,77 1.29
+27
+
+--- Page 29 ---
+Tableau 7 – Chronologie des cycles des affaires de la RCA
+Durée
+Cycle
+Totale Phases d’expansion Phases de récession Amplitude Sévérité
+1989T1-1991T4 11 6 5 0.064 0.160
+1994T3-1997T4 13 4 9 0.199 0.896
+1997T4-2000T4 12 5 7 0.107 0.375
+2009T1-2010T2 5 3 2 0.012 0.012
+2010T2- 2013T3 14 7 6 0.444 1.333
+Moyenne 11 5 5.8
+Ecart-type 3.16 1.41 2.31
+Tableau 8 – Chronologie des cycles des affaires de la RDC
+Durée
+Cycle Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1989T3-1994T4 21 2 19 0.461 4.386
+1994T4-1996T3 7 2 5 0.047 0.119
+1996T3-2000T1 14 10 4 0.835 1.670
+2000T1-2002T4 11 6 5 1.221 3.054
+Moyenne 13.25 5 8.25
+Ecart-type 5.11 3.31 6.21
+Tableau 9 – Chronologie des cycles des affaires du Rwanda
+Durée
+Cycle Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1989T1-1991T4 11 5 6 0.349 1.047
+1991T4-1994T3 11 5 6 1.181 3.544
+1996T1-2002T1 24 9 15 0.195 1.462
+Moyenne 15.33 6.33 9
+Ecart-type 6.12 1.88 4.24
+28
+
+--- Page 30 ---
+Tableau 10 – Chronologie des cycles des affaires du Tchad
+Durée
+Cycle Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1989T1-1994T3 22 12 10 0.515 2.575
+1994T3-1997T2 11 8 3 0.058 0.087
+1997T2-2000T2 12 4 8 0.256 1.027
+2000T2-2009T2 36 33 3 0.135 0.203
+Moyenne 18.2 13 5.2
+Ecart-type 9.36 10.25 3.18
+Annexe 2 : Cycles d’accélération
+Tableau 11 – Cycle d’accélération en Angola
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1988T1-1990T2 9 4 5 73.53 183.82
+1990T2-1992T4 10 8 2 0.24 0.24
+1994T2-1998T2 16 7 9 93.87 422.40
+1998T2-2001T1 11 7 4 81.35 162.70
+2001T1-2003T1 8 4 4 43.81 87.62
+2005T1-2007T4 11 5 6 6.02 18.06
+2009T2-2012T3 13 7 6 20.67 62.02
+Moyenne 9.8 5.2 4.6
+Ecart-type 2.95 2.03 1.95
+29
+
+--- Page 31 ---
+Tableau 12 – Les cycles d’accélération au Burundi
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1987T3-1990T2 11 7 4 2.27 4.55
+1990T2-1993T1 11 3 8 21.76 87.03
+1993T1-1996T1 12 8 4 32.46 64.92
+1996T1-1999T1 12 4 8 31.19 124.76
+1999T1-2002T2 13 5 8 16.54 66.15
+2007T1-2009T1 8 4 4 16.37 32.74
+2009T1-2012T1 12 8 4 12.77 25.55
+Moyenne 11.28 5.57 5.71
+Ecart-type 1.48 1.91 1.97
+Tableau 13 – Cycles d’accélération du Cameroun
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1989T1-1992T1 12 8 4 31.97 63.94
+1992T1-1994T2 9 4 5 70.93 177.33
+1994T2-1998T1 15 8 7 19.40 67.91
+1998T1-2000T1 8 4 4 29.24 58.47
+2000T1-2005T2 21 12 9 23.79 107.07
+2005T2-2007T4 10 8 2 0.18 0.18
+2010T1-2012T1 8 4 4 19.99 39.98
+Moyenne 11.85 6.85 5
+Ecart-type 4.38 2.79 2.13
+30
+
+--- Page 32 ---
+Tableau 14 – Cycles d’accélération du Congo
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1988T1-1991T1 12 8 4 28.04 56.07
+1991T1-1993T2 9 4 5 58.59 146.47
+1993T2-1995T4 10 8 2 0,028 0,028
+1998T1-2001T2 13 8 5 73.17 182.92
+2001T2-2003T1 7 5 2 1.95 1.95
+2003T1-2005T3 10 5 5 4.25 10.63
+2005T3-2007T1 6 2 4 33.30 66.60
+2007T1-2009T1 8 4 4 90.73 181.47
+2009T1-2012T1 12 5 7 38.96 136.35
+Moyenne 9.66 5.44 4.22
+Ecart-type 2.26 2.00 1.47
+Tableau 15 – Cycles d’accélération du Gabon
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1989T1-1991T2 9 4 5 75.91 189.78
+1991T2-1993T2 8 3 5 35.60 88.99
+1993T2-1998T1 19 11 8 40.72 162.89
+1998T1-2001T1 12 8 4 13.86 27.72
+2001T1-2004T1 12 9 3 6.10 9.15
+2004T1-2006T1 8 4 4 23.31 46.63
+2006T1-2009T1 12 8 4 68.77 137.54
+2009T1-2012T1 12 8 4 43.88 87.76
+Moyenne 11.5 6.875 4.625
+Ecart-type 3.316 2.666 1.408
+31
+
+--- Page 33 ---
+Tableau 16 – Cycle d’accélération de la Guinée Equatoriale
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1989T1-1991T1 8 4 4 42.60 85.19
+1991T1-1994T1 12 4 8 64.72 258.86
+1994T1-1996T1 8 6 2 9.15 9.15
+1996T1-1998T1 8 4 4 175.52 351.05
+1998T1-2002T1 16 8 8 57.63 230.53
+2003T1-2006T2 13 8 5 96.56 241.39
+2006T2-2009T2 12 7 5 113.11 282.77
+2009T2-2013T1 15 7 8 41.14 164.56
+Moyenne 11.5 6 5.5
+Ecart-type 3 1.65 2.12
+Tableau 17 – Cycles d’accélération de la RCA
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1989T1-1991T2 9 4 5 30.73 76.82
+1991T2-1994T1 11 3 8 48.82 195.30
+1994T1-1996T2 9 4 5 58.71 146.77
+1996T2-1998T4 10 8 2 0,35 0,35
+2000T1-2005T2 21 13 8 10.13 40.54
+2006T1-2009T2 13 8 5 23.08 57.71
+2010T1-2013T1 15 7 8 51.71 206.85
+Moyenne 12.57 6.71 5.85
+Ecart-type 3.99 3.19 2.09
+32
+
+--- Page 34 ---
+Tableau 18 – Cycles d’accélération de la RDC
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1994T1-1996T1 8 4 4 0.66 1.32
+1996T1-1997T3 6 4 2 0.62 0.62
+1997T3-1998T4 5 2 3 4.43 6.64
+2000T1-2002T2 9 4 5 818.84 2047.09
+2002T2-2004T1 7 4 3 38.07 57.10
+2006T1-2008T1 8 4 4 7.93 15.87
+2008T1-2010T1 8 4 4 33.06 66.12
+2010T1-2014T1 16 9 7 7.72 27.02
+Moyenne 8.375 4.375 4
+Ecart-type 3.11 1.86 1.41
+Tableau 19 – Cycles d’accélération du Rwanda
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1987T3-1989T1 6 2 4 15.09 30.18
+1989T1-1991T1 8 4 4 44.64 89.29
+1991T1-1994T2 13 5 8 83.70 334.79
+1994T2-1996T1 7 4 3 112.02 168.03
+1996T1-1999T2 13 4 9 51.38 231.22
+1999T2-2001T1 7 5 2 0.65 0.65
+2001T1-2004T1 12 10 2 0.74 0.74
+2004T1-2006T2 9 4 5 5.39 13.46
+2007T1-2010T1 15 4 8 25.89 103.55
+2010T1-2011T4 7 5 2 0.23 0.23
+Moyenne 9.7 4.7 4.7
+Ecart-type 3.06 1.95 2.57
+33
+
+--- Page 35 ---
+Tableau 20 – Cycles d’accélération du Tchad
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1989T1-1991T3 10 4 6 19.14 57.41
+1991T3-1994T1 10 2 8 32.62 130.50
+1994T1-1997T1 12 5 7 34.41 120.44
+1997T1-2000T1 12 4 8 37.82 151.26
+2000T1-2002T1 8 4 4 15.94 31.89
+2002T1-2004T3 10 8 2 5.42 5.42
+2004T3-2006T2 7 2 5 56.92 142.29
+2006T2-2009T1 11 7 4 45.42 90.84
+2009T1-2012T1 12 6 6 17.26 51.77
+Moyenne 10.222 4.666 5.555
+Ecart-type 1.685 1.943 1.892
+Tableau 21 – Cycles de croissance de l’Angola
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1988T2-1990T4 10 5 5 0.105 0.264
+1990T4-1995T1 17 10 7 0.757 2,652
+1995T1-1999T2 17 7 10 0.371 1,859
+1999T2-2001T3 9 5 4 0.217 0.434
+2001T3-2003T4 9 2 7 0.160 0.560
+2003T4-2010T1 25 17 8 0.377 1.511
+Moyenne 14.5 7.66 6.8
+Ecart-type 5.82 4.81 1.95
+Tableau 22 – Cycles de croissance du Burundi
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1988T2-1993T4 22 13 9 0,161 0,726
+1993T4-1996T2 10 6 4 0,131 0.262
+1996T2-1999T2 12 5 7 0,15 0.527
+1999T2-2003T3 17 7 10 0,184 0.920
+2003T3-2007T3 16 9 7 0,078 0.275
+2007T3-2009T3 8 3 5 0,056 0.140
+2009T3-2013T1 14 7 7 0,08 0.280
+Moyenne 14.142 7.142 7
+Ecart-type 4.356 2.948 1.927
+34
+
+--- Page 36 ---
+Tableau 23 – Cycles de croissance du Cameroun
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1989T4-1992T1 9 7 2 0.098 0.098
+1992T1-1994T4 11 5 6 0.409 1.227
+1994T4-1998T1 13 8 5 0.038 0.096
+1998T1-2000T4 11 5 6 0.194 0.583
+2000T4-2006T2 22 13 9 0.101 0.458
+2006T2-2010T2 16 8 8 0.120 0.481
+2010T2-2012T2 8 5 3 0.070 0.105
+Moyenne 12.857 7.285 5.571
+Ecart-type 4.453 2.657 2.321
+Tableau 24 – Cycles de croissance du Congo
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1986T3-1989T1 10 4 6 0.128 0.386
+1991T1-1993T4 11 5 6 0.464 1.393
+1993T4-1998T3 19 11 8 0.347 1.388
+1998T3-2001T4 13 7 6 0.308 0.925
+2001T4-2003T1 5 2 3 0.038 0.057
+2003T1-2007T1 16 13 3 0.136 0.204
+2007T1-2009T3 10 5 5 0.377 0.944
+2009T3-2013T1 14 8 6 0.125 0.377
+Moyenne 11.77 6.77 5
+Ecart-type 3.99 3.25 1.82
+Tableau 25 – Cycles de croissance du Gabon
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1987T4-1989T1 5 3 2 0.065 0.065
+1989T1-1991T4 11 6 5 0.174 0.435
+1994T1-1998T4 19 11 8 0.244 0.977
+1998T4-2002T1 13 6 7 0.120 0.420
+2002T1-2006T2 17 13 4 0.089 0.178
+2006T2-2009T3 13 8 5 0.386 0.967
+2009T3-2013T1 14 8 6 0.146 0.440
+Moyenne 13.14 7.85 5.28
+Ecart-type 4.15 3.09 1.82
+35
+
+--- Page 37 ---
+Tableau 26 – Cycles de croissance de la Guinée Equatoriale
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1991T1-1994T3 14 6 8 0.527 2.109
+1994T3-1998T3 16 11 5 0.606 1.516
+1998T3-2003T1 18 8 10 0.353 1.768
+2003T1-2007T1 16 9 7 0.208 0.730
+2007T1-2009T4 11 5 6 0.500 1.500
+2009T4-2013T4 16 8 8 0.090 0.363
+Moyenne 15.16 7.83 7.33
+Ecart-type 2.19 1.95 1.59
+Tableau 27 – Cycles de croissance de la RCA
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1989T2-1991T3 9 5 4 0.047 0.094
+1991T3-1994T3 12 6 6 0.413 1.240
+1994T3-1997T2 11 5 6 0.131 0.395
+1997T2-2000T4 14 7 7 0.122 0.428
+2000T4-2002T2 5 4 2 0.001 0.001
+2002T2-2006T2 17 7 9 0.081 0.365
+2006T2-2010T1 15 8 7 0.111 0.389
+2010T1-2013T3 14 8 6 0.352 1.056
+Moyenne 12.12 6.25 5.875
+Ecart-type 3.55 1.39 1.96
+Tableau 28 – Cycles de croissance de la RDC
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1998T3-2000T1 6 2 4 0.929 1.859
+2000T1-2002T4 11 5 6 1.318 3.954
+2002T4-2004T2 6 4 2 0.929 1.859
+2008T1-2010T4 11 4 7 0.184 0.647
+Moyenne 8.5 3.75 4.75
+Ecart-type 2.5 1.08 1.92
+36
+
+--- Page 38 ---
+Tableau 29 – Cycles de croissance de Rwanda
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1989T1-1991T3 10 5 5 0.226 0.566
+1991T3-1994T3 12 7 5 1.026 2.566
+1996T1-2002T4 27 7 20 0.284 2.845
+2002T4-2004T1 5 3 2 0.009 0.009
+2004T1-2006T2 9 7 2 0.0006 0.0006
+2006T2-2010T4 18 8 10 0.108 0.542
+Moyenne 13.5 6.16 7.33
+Ecart-type 7.18 1.67 6.26
+Tableau 30 – Cycles de croissance du Tchad
+Durée
+Cycles Amplitude Sévérité
+Totale Phases d’expansion Phases de récession
+1987T1-1989T2 9 5 4 0.145 0.290
+1989T2-1994T2 20 11 9 0.414 1.866
+1994T2-1997T2 12 9 3 0.063 0.094
+1997T2-2000T4 14 4 10 0.344 1.721
+2000T4-2002T2 6 3 3 0.067 0.101
+2002T2-2007T2 20 12 8 0.177 0.711
+2007T2-2009T3 9 3 6 0.240 0.721
+2009T3-2013T1 14 9 5 0.056 0.140
+Moyenne 13 7 6
+Ecart-type 4.769 3.427 2.549
+37

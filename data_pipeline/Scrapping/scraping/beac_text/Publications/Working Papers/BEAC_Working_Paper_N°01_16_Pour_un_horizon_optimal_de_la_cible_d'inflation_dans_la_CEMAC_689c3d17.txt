@@ -1,0 +1,1085 @@
+Source PDF : BEAC_Working_Paper_N°01_16_Pour_un_horizon_optimal_de_la_cible_d'inflation_dans_la_CEMAC_689c3d17.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°01_16_Pour_un_horizon_optimal_de_la_cible_d'inflation_dans_la_CEMAC_689c3d17.pdf
+Date extraction : 15/06/2026 21:27:58
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s E t a t s d e
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 01/16 -
+Pour un horizon optimal de la cible d’inflation dans la CEMAC
+MVONDO Emile Thierry
+Docteur en sciences économiques
+Directi on de la F ormation
+mvondot@beac.int
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+DIRECTION DE LA RECHERCHE
+
+--- Page 2 ---
+Pour un horizon optimal de la cible d’inflation dans la CEMAC
+Thierry MVONDO ∗
+Septembre 2016
+Résumé
+Nous nous intéressons à l’horizon optimal de la cible d’inflation dans la CEMAC. Son annonce et son
+respect contribuent à l’ancrage des anticipations et en définitive à la crédibilité de la politique moné-
+taire. Pour cela, nous estimons un VAR en panel (PVAR) sur données des six économies de la zone.
+Les variables d’intérêt sont le taux d’intérêt directeur, l’inflation et l’écart de production. Les résultats
+montrent que le temps nécessaire pour que la politique monétaire ramène l’inflation observée au niveau
+de sa cible est de 2 ans. Cette politique contribuerait à 48% à la dynamique de l’écart de l’inflation,
+son inertie s’élevant à 51%. Ces résultats semblent cohérents avec le contexte et l’environnement de la
+politique monétaire de la BEAC qui imposent un horizon optimal de moyen terme.
+Mots clés : Horizon optimal - Cible d’inflation - PVAR.
+Classification JEL : E52, E58
+Abstract
+The concern of this paper is the optimal horizon of inflation target in CEMAC. His announcement and
+respect contribute to the anchoring of expectations and ultimately, the credibility of monetary policy.
+For this, we estimate a Panel VAR (PVAR) on data from the six economies the area. The variables of
+interest are the key interest rate, inflation and the output gap. The results show that the time required
+formonetarypolicytoadjusttheobservedinflationtohistargetis2years.Thismonetarypolicycontri-
+bution to the dynamics of the deviation of inflation is around 48%, with an inertia amounting to 51%.
+These results seem consistent with the context and environment of the monetary policy of BEAC that
+require a medium term optimal horizon.
+Keys words : Inflation target - Optimal horizon - PVAR.
+JEL Code : E52, E58
+∗CadreàlaDirectiondelaFormationdelaBEAC.Ilresteentenduquetouteserreursouomissionsdansledocument
+demeurentmiennes.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non-technique 4
+Introduction 5
+1 Horizon de la cible d’inflation et environnement de la politique moné-
+taire de la BEAC 6
+1.1 Caractéristiquesstructurelles,faiblessedesimpulsionsmonétairesetallongement
+potentiel de l’horizon optimal de la cible dans la CEMAC . . . . . . . . . . . 7
+1.2 Stratégie de politique monétaire et emphase sur un horizon optimal de moyen
+terme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+2 Les approches de l’horizon de la cible d’inflation 11
+2.1 Approche DSGE et détermination de l’horizon de la cible d’inflation . . . . . . 11
+2.2 Modélisation VAR et détermination de l’horizon de la cible d’inflation . . . . . 12
+3 Le modèle et son estimation 14
+3.1 Présentation du modèle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+3.2 Estimation du modèle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+4 Présentation des résultats 20
+4.1 Construction des variables et examen de leurs propriétés statistiques . . . . . 20
+4.2 Test de causalité/exogénéité et ordre des variables dans le VAR en panel . . . 21
+4.3 Les fonctions de réaction et la longueur des délais d’action de la monnaie sur
+l’écart de l’inflation à sa cible . . . . . . . . . . . . . . . . . . . . . . . . . 23
+4.4 La décomposition de la variance et la contribution de la politique monétaire à
+la dynamique de l’écart de l’inflation à sa cible . . . . . . . . . . . . . . . . . 25
+Conclusion 26
+Références bibliographiques 27
+Annexes 29
+2
+
+--- Page 4 ---
+Résumé non-technique
+CepapierfaitsuiteauxtravauxdeMvondo(2015)surl’existenceetl’unicitéd’unecibled’inflationdans
+la CEMAC, union monétaire et économique exhibant des hétérogénéités pays. L’auteur rappelle à cet
+effet que le choix d’un objectif d’inflation pour une banque centrale s’accompagne de la définition d’une
+cible à moyen terme sur laquelle, cette institution peut considérer qu’en y situant l’inflation observée
+par ses mesures de politique monétaire, elle ne déstabilise ni n’accompagne l’évolution de l’activité
+économique dans le cycle. Il montre en outre que cette cible dépendrait des fondamentaux de l’économie
+par ailleurs variant dans le temps; d’où la trajectoire qu’il détermine, comportant un effet temporel
+l’ayant maintenu en deçà du critère de convergence sous régional (3%) avant la dévaluation de 1994 et
+l’ayantsignificativementélevéau-dessusdecelui-ciaprès.Sonimplémentationparlapolitiquemonétaire
+poursuit-il, consisterait à se doter d’une prévision de l’écart entre l’inflation observée et celle-ci, sur un
+horizonoùellepeutêtreconsidéréecommeconstante.Parlasuite,lesinstrumentsdepolitiquemonétaire
+seraient ajustés en vue d’impacter l’objectif intermédiaire, l’agrégat de monnaie, dont la corrélation à
+moyen terme avec l’inflation observée permet de réduire l’écart ci-dessus.
+C’estjustementdeladéterminationdecethorizonqu’ilestquestiondanscepapier.Colettietali.(2006)
+ledéfinissentcommeletempsnécessaireetrecommandépourquelapolitiquemonétaireramènel’inflation
+observéeauniveaudesacible.Suivantcettelogique,ilnedoitêtrenitrèscourtpouréviterdedéstabiliser
+l’économie,nitroplongpourentrainerunepertedecrédibilitéauprèsdesagentséconomiques.L’analyse
+de l’économie de la zone sur les plans structurel et institutionnel a conduit à opter pour une cible de
+moyen terme. En effet, de nombreuses rigidités limiteraient les effets de la politique monétaire, aussi
+biendansletempsqueparrapportàleuramplitude.Demême,ledispositifinstitutionnelquiretientun
+agrégat de monnaie comme objectif intermédiaire implique, en droite ligne avec la théorie quantitative,
+une corrélation à moyen terme entre monnaie et prix.
+Les résultats obtenus montrent que lorsque l’inflation s’écarte de sa cible avec en prime une nécessité de
+corriger cet écart, les autorités monétaires disposent de deux années pour leur action contracyclique. En
+outre, trois faits important sont à noter : (i) la politique monétaire contribue à l’explication de 48% de
+ladynamiquedel’écartdel’inflationàsacible;(ii) ladynamiqueintrinsèquedecetécartestde51%et;
+(iii) la dynamique du TIAO, principal instrument de politique monétaire de la BEAC révèle un grand
+souci de lissage de la part des autorités monétaires.
+3
+
+--- Page 5 ---
+Introduction
+L’horizon de la cible d’inflation est défini suivant Coletti et ali. (2006) comme le temps
+nécessaire et recommandé pour que la politique monétaire ramène l’inflation observée au
+niveau de sa cible. Son annonce et son respect contribueraient à ancrer les anticipations
+des agents économiques. Sa donnée permet, associée aux frictions réelles et nominales
+mises en exergue par la Nouvelle Economie Keynésienne, d’affiner la régulation conjonc-
+turelle.Toutefois,ilfautnoterquelechoixd’unhorizonarbitraireestsourcedenombreux
+écueils. Ainsi, un horizon très court pose des problèmes : (i) de "contrôlabilité" et donc
+de "ratage" de la cible; (ii) d’instabilité possible des instruments de politique monétaire,
+par opposition au principe de lissage des taux et; (iii) de faible importance des fluc-
+tuations du produit dans la fonction de perte des autorités monétaires. A contrario, un
+horizon trop long peut traduire un refus d’intervention des autorités : d’où une perte de
+crédibilité.
+Pour la politique monétaire de la BEAC dont l’objectif est la stabilité monétaire1, la
+maîtrise de cet horizon comporte un double avantage. Elle permettrait non seulement de
+ne pas se soucier d’éliminer instantanément l’écart de l’inflation à sa cible2 et corrélative-
+ment le différentiel d’inflation avec la monnaie d’ancrage, mais également, d’accorder plus
+d’attention à la volatilité du produit. En effet, un écart durable impacte négativement la
+croissance et la stabilité macroéconomique et, l’accroissement du différentiel d’inflation
+avec la monnaie d’ancrage génère des craintes d’instabilité financière en rapport avec les
+mouvements de capitaux dans la zone. Sur le plan réel, elle peut également entraîner une
+perte de compétitivité et dont de bien-être interne. Il est alors logique de voir l’autorité
+monétaire intervenir instantanément en vue d’endiguer cette situation mais, ce faisant,
+elle pourrait l’empirer parce qu’induisant une instabilité de ses instruments et en défini-
+tive celle des anticipations des agents économiques : d’où la nécessité de déterminer un
+horizon optimal de la cible d’inflation dans la CEMAC.
+La détermination de cet horizon se fait généralement avec le souci de contrebalancer
+les coûts de la volatilité du produit et des taux d’intérêt aux gains liés à l’égalisation
+de l’inflation à sa cible. Deux grandes approches sont alors adoptées (Batini et Nelson,
+2000). Selon la première, l’horizon de la cible d’inflation est la résultante de l’interac-
+1. Cet objectif se traduit sur le plan interne par la recherche d’un taux d’inflation faible et, sur le
+plan externe, par la poursuite d’un taux de couverture extérieure de la monnaie suffisant. La deuxième
+partie de l’article premier relatif à cet objectif prévoie par ailleurs la possibilité lorsque les conditions
+économiques et monétaires l’autorisent, de soutenir l’activité économique; ce qui justifie l’introduction
+de l’écart de production dans sa fonction de perte.
+2. Mvondo(2015)montrequelacibled’inflationdanslaCEMACsuitunetrajectoirequicomporteun
+effettemporell’ayantmaintenuendeçàducritèredeconvergencesousrégional(3%)avantladévaluation
+de 1994 et l’ayant significativement élevé après.
+4
+
+--- Page 6 ---
+tion des comportements des agents économiques suivant une logique d’équilibre général
+dynamique stochastique (Canova et Cicarelli, 2013). La deuxième quant à elle repose
+sur l’économétrie des séries temporelles notamment le point où s’annulent les fonctions
+de réponses impulsionnelles. La principale différence entre les deux réside dans l’impor-
+tance accordée par la première aux comportements tournés vers le futur. Toutefois par
+construction, les modèles qui en résultent imposent de nombreuses restrictions qui ne sont
+pas toujours compatibles avec les propriétés statistiques des données. Cette difficulté à
+laquelle s’ajoutent celles liées au calibrage et/ou à leur estimation ramène à l’économétrie
+des séries temporelles.
+Le VAR en panel que nous avons construit à ce propos offre la possibilité de considérer la
+sous-région dans son ensemble. La procédure d’estimation a mis en relation trois variables
+dont l’écart de l’inflation à sa cible, l’écart de production et le principal instrument de
+politique monétaire dans la zone. L’ordre d’entrée des variables a été retenu à l’aide
+du test d’exogénéité/causalité de Granger. Les résultats obtenus montrent qu’à la suite
+d’un choc (offre ou demande) ayant écarté l’inflation de sa cible, les autorités monétaires
+disposentdedeuxannéespourannulercetécart.Enoutre,ladécompositiondelavariance
+de l’erreur de prévision effectuée nous a révélé trois faits : (i) la politique monétaire
+contribue à l’explication de 48% de la dynamique de l’écart de l’inflation à sa cible;
+(ii) la persistance de cet écart s’élève à 51% et; (iii) le TIAO, principal instrument de
+politique monétaire de la BEAC comporte beaucoup d’inertie.
+Les résultats ci-dessus ont été obtenus à travers une analyse en quatre points. Dans
+un premier point, nous avons montré que le contexte et l’environnement spécifiques de la
+politiquemonétairedelaBEACimposentunhorizondemoyenterme.Dansundeuxième,
+nous avons effectué une revue de la littérature théorique et empirique sur les approches de
+l’horizon de la cible d’inflation. Le troisième point nous a permis de présenter le modèle
+et la technique d’estimation retenus. Dans le quatrième enfin, nous avons discuté nos
+résultats.
+1
+Horizon de la cible d’inflation et environnement de la politique monétaire
+de la BEAC
+Cette section s’attèle à montrer l’horizon de la cible d’inflation dans la CEMAC se trou-
+verait allongé du fait de l’environnement de ladite politique, caractérisé d’une part par
+des rigidités structurelles (1.1) et, d’autre part par une stratégie de politique monétaire
+d’obédience monétariste (1.2).
+5
+
+--- Page 7 ---
+1.1 Caractéristiques structurelles, faiblesse des impulsions monétaires et allon-
+gement potentiel de l’horizon optimal de la cible dans la CEMAC
+L’environnement financier dans la CEMAC est caractérisé d’une part par une surliquidité
+bancaire et d’autre part par un faible développement du système financier. Ces deux faits
+ont respectivement pour conséquence d’affaiblir le canal du taux d’intérêt d’une part et,
+d’autre part, de pénaliser les canaux du crédit et des prix des actifs. Ce faisant, l’on est
+en droit d’escompter un allongement des délais avec lesquels la politique monétaire peut
+ramener l’inflation observée au niveau de sa cible.
+- Surliquidité bancaire, altération du canal des taux d’intérêt et allongement
+de l’horizon de la cible d’inflation
+Dans la zone, la surliquidité bancaire est appréhendée suivant son optique macroécono-
+mique3 qui implique de se focaliser sur l’évolution des réserves de l’ensemble des banques
+du système à la banque centrale. Ces réserves comprennent dans le cas de le CEMAC,
+les réserves obligatoires, les placements au titre des appels d’offre, les dépôts en comptes
+courants et les encaisses. La surliquidité ou les réserves libres ou non rémunérés ou en-
+core la liquidité excédentaire est ainsi la somme des dépôts en compte courant et des
+encaisses. Sur la période qui va d’octobre 2001 à août 2013, elle est passée de 500 millions
+à 3,5 milliards : soit 200% des réserves obligatoires. Cette évolution s’explique essentiel-
+lement par la flambée des cours du baril de pétrole, les dispositions statutaires relatives
+au financement des déficits publics, les défauts de garanties, la faiblesse des emplois ban-
+cables, la frilosité des établissements de crédit ainsi que la faible division des risques et
+transformation des échéances qui en découle.
+De tout ce qui précède, la surliquidité bancaire dans la CEMAC est structurelle et, du
+fait de son caractère non volontaire, affecte la robustesse du lien entre les taux d’intérêt
+et donc le canal de ce dernier (Saxegaard, 2006). En effet, dans un contexte paradoxal
+comme celui de la zone où coexistent une abondance de liquidité d’une part et, d’autre
+part, des besoins de financement énormes et un niveau de financement faible, toute ac-
+tion de relance de l’autorité monétaire est partiellement ou totalement annihilée. La
+modification du taux directeur par la banque centrale n’est pas répercutée sur le marché
+monétaire, du fait des excédents de trésorerie dont disposent les banques. Mieux encore,
+en permettant à celles qui se retrouvent en difficulté de se refinancer auprès d’elle, la
+banque centrale altère définitivement le peu de mécanismes de marché qui subsistent. Les
+banques primaires Ne pouvant ressentir de contraction ou d’assouplissement sur ce mar-
+ché ne peuvent alors qu’être poussée à maintenir les conditions monétaires antérieures là
+3. Par opposition à son approche microéconomique qui s’intéresse à la capacité de financement d’une
+banque.
+6
+
+--- Page 8 ---
+où l’analyse prospective de la banque centrale prône un assouplissement. Du fait de cette
+altération des canaux de transmission, il s’en suit un allongement des délais avec lesquels
+la politique monétaire peut ramener l’inflation observée à sa cible.
+- Sous-développement du système financier, affaiblissement des canaux de
+crédit et des prix des actifs et allongement de l’horizon de la cible
+L’incidence du sous-développement du système financier sur les canaux du crédit et des
+prix des actifs dans la CEMAC peut s’analyser à partir des trois dimensions du dévelop-
+pement financier que sont : (i) la diversification des produits financiers; (ii) l’approfon-
+dissement financière et; (iii) la diversité des agents économiques impliqués. A celles-ci,
+s’ajoutent l’asymétrie et le manque d’information financière ainsi que de nombreuses in-
+suffisancessurleurcadrejuridique.Ladiversificationdesproduitsfinanciersestlepremier
+axedudéveloppementfinancier.Cetteextensiondesdomainesd’intermédiationfinancière
+s’appréhende par le nombre de catégories de capital faisant l’objet de transactions finan-
+cières : de la dette publique au financement des innovations les plus risquées. Force est
+alors de constater dans la CEMAC d’une part qu’au-delà de la dette publique, la diver-
+sification du capital est très peu prononcée et, d’autre part, que la dette privée n’a que
+peu de poids dans la structure d’endettement de certains pays, en partie du fait du faible
+dynamisme des bourses de valeurs de Douala (DSE) et de Libreville (BVMAC). De tout
+ce qui précède, il apparaît que la faible diversification du capital induit une faible diversi-
+fication de portefeuille et une aversion au risque; se trouve alors partiellement expliqué la
+faiblesse de l’investissement privé et partant des réalisations de la croissance inférieures
+aux objectifs du millénaire.
+L’approfondissement financier et la diversité des agents économiques impliqués consti-
+tuent les deux autres axes. Par approfondissement financier, il faut entendre pour chaque
+domaine l’étendue des instruments utilisés. Ceux-ci vont des dettes bancaires à court
+terme aux produits dérivés les plus sophistiqués. Les instruments de paiement lié à la
+monétique étant en cours de développement d’une part et, la redynamisation du marché
+monétaire et de celui des titres de créances négociables étant en cours, point n’est besoin
+de s’interroger sur leur étendue. Une évolution de l’approfondissement financier dans la
+zone est donnée par le graphique ci-dessous, mesuré par le ratio crédit au secteur privé
+sur PIB. Sa tendance corrobore le faible niveau de l’indicateur relatif au total des bilans
+des banques sur le PIB, soit 22,5%.
+7
+
+--- Page 9 ---
+Graphique 1 – Evolution du ratio crédit à l’économie sur PIB
+Source:AuteuraveclesdonnéesdelaBEAC.
+Parallèlement, la diversité d’agents économiques impliqués dans un système financier va
+de la banque centrale aux ménages en passant par les banques primaires, les autres ins-
+titutions financières, les investisseurs étrangers, l’Etat et les firmes. La problématique
+de l’inclusion financière dans la CEMAC trouve toute sa justification dans la faiblesse
+de cet axe. L’accès aux services financiers des couches les plus vulnérables et des petites
+entreprises demeure très limité. Une enquête réalisée par la COBAC en 2013 révèle que la
+couverture géographique par les banques de la zone (nombre d’agences au Km2) s’élève
+à 0,0001288, soit en moyenne une agence pour 64 319 habitants, localisée le plus sou-
+vent dans les principales villes de chaque pays. Par ailleurs, 592 guichets automatiques de
+billetssontdisponiblespour25,02millionsd’habitantsdont3,3%disposentdecartesban-
+caires. Parallèlement, l’enquête ci-dessus souligne que les principales barrières rencontrées
+pour l’accès aux services financiers sont la dureté des conditions d’ouverture de comptes,
+une facturation exagérée et la caducité de l’information; d’où des pointes d’autofinance-
+ment allant au-delà de 70% comme le souligne la Banque mondiale (2004). En vue de se
+départir de l’exclusion financière telle que présentée et permettre à la politique monétaire
+d’atteindretoutelescouchessociales,leFMI(2014)préconisedesréformesréglementaires
+et le développement de l’infrastructure financière; ce qui pourrait en définitive réduire
+l’horizon de la cible d’inflation.
+8
+
+--- Page 10 ---
+1.2 Stratégie de politique monétaire et emphase sur un horizon optimal de moyen
+terme
+- Un objectif intermédiaire d’agrégat monétaire dont la corrélation avec les
+prix n’est parfaite qu’à moyen terme
+Commerappeléci-dessus,l’objectiffinaldepolitiquemonétairedelaBEACestlastabilité
+monétaire. Toutefois, la Banque Centrale ne peut viser directement cet objectif, car son
+contrôle sur ce dernier n’est qu’indirect. Elle recourt alors à un objectif intermédiaire
+et à un objectif opérationnel. L’objectif intermédiaire ici est la masse monétaire (M2)
+dont le contenu informationnel et la corrélation avec les prix demeurent valables dans la
+zone. Quant à l’objectif opérationnel, il s’agit de l’objectif de refinancement : la limite
+maximale des avances que la BEAC est disposée à accorder aux établissements éligibles
+au niveau 2 du marché monétaire. Celui-ci dépend directement de son action et permet
+de mieux encadrer la croissance de l’agrégat monétaire M2. Nonobstant cet enchaînement
+allant des instruments à l’objectif final en passant par l’objectif opérationnel et l’objectif
+intermédiaire, des décalages assez longs demeurent suite à des impulsions monétaires.
+En général dans la zone, les effets de la politique monétaire par ailleurs faibles sont obser-
+vés avec un retard important et une périodicité assez espacée (Bikaï et Kenkouo, 2015).
+Ce constat qui fait corps avec la théorie quantitative sous-jacente impose de rechercher
+l’horizon optimal de la cible d’inflation dans la zone sur le moyen terme. En effet, une
+bonne part des impulsions monétaires peut se solder en effets réels sur le court terme. A
+long terme toutefois, celle-ci se traduisent totalement en augmentation du niveau général
+des prix. L’action sur les prix doit par conséquent prendre en compte cette donnée et po-
+sitionner l’horizon de la cible sur cette durée temporelle. Dans le cas contraire c’est-à-dire
+avant le moyen terme, les effets de l’impulsion monétaire ne se seraient pas complètement
+fait ressentir et l’autorité pourrait donner une nouvelle impulsion conduisant à des effets
+disproportionnés au terme de l’horizon optimal.
+- Des réformes monétaires ayant mis en avant des instruments indirects dont
+les effets sont souvent différés dans le temps La BEAC a utilisé des instruments
+de politique monétaire directs jusqu’à la fin des années 90, avec notamment des taux
+administrés et des plafonds globaux de réescompte par Etat et par banque. Ce dispositif
+s’estavérélimitéaveclacriseéconomiquedeladeuxièmemoitiédesannées80.L’onaainsi
+noté une très grande rigidité des taux administrés par rapport à une conjoncture interne
+et externe fluctuante. En outre, la sélectivité des crédits s’est soldée par des distorsions
+au niveau de l’allocation des ressources et un gaspillage de celles-ci par les secteurs public
+et parapublic. Enfin, la technique des plafonds globaux de refinancement s’est révélée
+partielle et statique, enclavant par ailleurs la concurrence interbancaire. Pour toutes ces
+9
+
+--- Page 11 ---
+raisons, la BEAC a opté pour : (i) l’usage des instruments indirects avec l’introduction
+de la programmation monétaire pour définir les objectifs de monnaie et de crédit; (ii) la
+libéralisation des taux et; (iii) l’instauration du marché monétaire le 1er juillet 1994.
+Dans leur conception, les instruments indirects cherchent à susciter sur le marché, un
+comportement qui facilite la réalisation des objectifs. Il est ainsi question de modifier
+l’offreetlademandedemonnaiecentrale,defaçonàatteindredesobjectifsintermédiaires
+en matière d’agrégats monétaires. Ce faisant, un tel objectif n’est réalisation que si d’une
+part les comportements en jeu sont stables et, d’autres part, si le marché monétaire est
+dynamique. Les travaux portant sur les économies de la zone ont validé l’hypothèse de
+stabilité des comportements de demande de monnaie [Koulet (2002), Mialou (2009) et
+Mounkala (2015)]. Le dynamisme du marché interbancaire n’est toutefois pas établi. L’on
+note ainsi un cloisonnement de ce marché en deux compartiments dont les banques à
+capitaux domestiques et les banques à capitaux étrangers qui ne se prêtent qu’entre-elles.
+Dans le premier groupe, l’incidence de la politique monétaire est effective alors que dans
+le deuxième, du fait de la dépendance de maison-mère, ces effets peuvent être annulés.
+Par conséquent, la célérité de la BEAC à ramener l’inflation au niveau de sa cible sera
+négativement corrélée à la proportion des banques à capitaux étrangers (51% dans notre
+cas) : d’où la nécessité d’un horizon optimal de moyen terme.
+2
+Les approches de l’horizon de la cible d’inflation
+2.1 Approche DSGE et détermination de l’horizon de la cible d’inflation
+Le travail pionnier sur la détermination en équilibre général dynamique stochastique de
+l’horizon de la cible d’inflation est l’œuvre de Batini et Nelson (2000) sur l’économie ca-
+nadienne. Ces auteurs se sont appuyés pour cela sur des éléments empruntés aux petits
+modèles en économie ouverte construits par Ball (1999), Batini et Haldane (1999) puis
+McCallum et Nelson (1999). Une application ultérieure a été faite à nouveau sur l’éco-
+nomie canadienne par Coletti et alii (2006), à partir des modèles construits par Cayen,
+Corbett et Perrier (2006) puis Basant-Roi et Mendes (2006). L’économie est ici appré-
+hendée sous sa forme multisectorielle, multi-marché et parfois multi-pays. Les agents sont
+alors supposés optimisateurs, leurs préférences et, la technologie ainsi que les contraintes
+sont complètement spécifiées (Canova et Cicarelli, 2013). Le modèle est dans sa réso-
+lution, linéariser au voisinage de l’état stationnaire : celui-ci étant pour l’inflation, sa
+cible. Son horizon se lit par conséquent sur le nombre de périodes que prend la variable
+linéarisée pour s’annuler après un choc de politique monétaire.
+Dans le modèle de Batini et Nelson (2000), l’économie est appréhendée par trois relations
+structurelles dont une courbe IS, une courbe de Phillips et une règle monétaire. Les
+10
+
+--- Page 12 ---
+auteurs définissent par la suite deux concepts d’horizon optimal. Le premier suppose
+que le ciblage de l’inflation s’effectue dans le cadre d’une politique optimal, obtenue par
+minimisation de la fonction de perte des autorités autour de l’écart de l’inflation à sa
+cible, du lissage des taux et de l’écart de production. Comme résultat, ils trouvent que la
+politique monétaire dispose de huit (08) à dix-neuf (19) trimestres pour annuler l’écart
+de l’inflation à sa cible. Le deuxième concept quant lui lie l’horizon optimal à une règle
+à rétroaction et suppose que le ciblage de l’inflation est mieux appréhendé par une règle
+simple tournée vers le futur. Comme résultat, ils trouvent que l’horizon de la cible dépend
+largement de la structure des anticipations des agents. Lorsque les agents n’anticipent pas
+le futur, l’on se retrouve dans le cadre d’un modèle VAR et l’horizon de la cible apparaît
+plus court.
+Coletti et alii (2006) soumettent l’économie canadienne à une série de chocs similaires à
+ceux auxquels a fait face ce pays au cours des 25 dernières années ayant précédées leur
+étude. L’horizon optimal de la cible d’inflation est établi en incorporant à ces modèles
+une mesure quantitative de la perte que peut entraîner pour l’économie, la volatilité de la
+production, de l’inflation et des taux d’intérêt si la règle de politique monétaire appliquée
+ramène l’inflation au taux visé trop rapidement ou trop lentement. Les résultats obtenus
+étayent la thèse selon laquelle des chocs différents sont associés à des horizons différents,
+ce qui laisse croire que l’horizon optimal varie dans le temps et en fonction des chocs
+touchant l’économie. Néanmoins, ces résultats valident le fait que la politique appliquée
+par la Banque du Canada depuis 1991, à savoir chercher à ramener l’inflation au taux fixé
+dans un délai de six à huit trimestres, demeure appropriée face à la plupart des chocs.
+Dans les rares occasions où un choc important et persistant déclenche un mécanisme
+d’accélérateur financier, un horizon plus long pourrait être plus approprié.
+2.2 Modélisation VAR et détermination de l’horizon de la cible d’inflation
+La modélisation VAR notamment structurelle offre un cadre cohérent et crédible permet-
+tant de décrire les données, d’effectuer de la prévision et d’analyser la politique écono-
+mique.Moyennantdescontraintesinhérentesàlathéorieéconomiquequiysontimposées,
+la réaction d’une variable suite aux innovations de l’autre peut être examinée (fonctions
+de réponse impulsionnelle), ainsi que la contribution de la seconde variable à la prévision
+de la première (décomposition de la variance). C’est justement à partir de la réponse im-
+pulsionnelle de l’écart de l’inflation à sa cible suite à un choc sur le taux directeur que se
+détermine l’horizon de la cible : le temps nécessaire pour que les effets de cette impulsion
+s’annulent. Sur la base de cette méthodologie, Batini et Nelson (2000) estiment pour le
+Royaume-Uni, un VAR à un retard avec trend linéaire sur la période 1981Q1 - 1998Q1.
+Quatre variables sont mises en relation dont une mesure de l’écart de production, l’écart
+11
+
+--- Page 13 ---
+de l’inflation à sa cible, le logarithme de la variation du taux de change effectif nominal
+et le taux d’intérêt nominal. Les résultats obtenus confirment ceux ci-dessus à savoir un
+horizon de 8 à 19 trimestres.
+Cette approche est susceptible d’amendements avec la construction de VAR multi-pays
+encoreappelésVARenpanel(Holz-Eakinetal,1988).Cesontdesmodèlesquireprennent
+une bonne partie des microfondements présents dans les modèles DSGE selon Canova et
+Cicarelli (2013). En outre, à l’instar des modèles VAR structurels, ils permettent de saisir
+les interdépendances dynamiques entre les données à partir d’un ensemble de restrictions
+minimales. Plus précisément, ils sont révélateurs de trois caractéristiques principales de
+l’interdépendance entre " individus " de l’échantillon à savoir :
+1. l’incidencedesvariablesendogènesretardéesdespaysdanslemodèledupays(j) :
+j(cid:54)=i
+les interdépendances dynamiques;
+2. la corrélation entre pays des termes d’erreurs : les interdépendances statiques et;
+3. la spécificité pays du vecteur des ordonnées à l’origine, de celui des coefficients de
+pente et de la variance des chocs.
+Ces trois caractéristiques, soulignent Canova et Ciccarelli (2013), ne sont pas nécessaires
+dans tous les travaux empiriques. Pour l’analyse de la transmission des chocs entre mar-
+chés financiers de différents pays, les interdépendances statiques sont suffisantes lorsque
+les variables sont de dimension infra annuelle. Par contre, l’analyse de pays au sein d’une
+unionmonétairepourraitinduireunehétérogénéitédepenteetnondevariance.Demême,
+la prise en compte des différences individuelles dynamiques est nécessaire lorsque le panel
+portesurdespaysdéveloppésetendéveloppementoulorsquesontconsidérésdesmarchés
+avec des volumes de transactions et des coûts de transactions différents.
+La nécessité de prendre en compte l’hétérogénéité ci-dessus accroît indubitablement le
+nombre de coefficients à estimer; d’où une perte importante de degré de liberté voire
+une impossibilité de faire usage des méthodes d’estimation standards (MCO, GMM,...).
+Canova et Ciccarelli (2006) puis Ciccarelli et Ortega (2012) proposent alors de recourir
+à une approche bayésienne flexible où le vecteur des coefficients est faiblement restreint,
+de manière à ce qu’il dépende d’un vecteur de facteurs temporels variables de faible di-
+mension. Toutefois, le problème de l’orthogonalisation des résidus se pose sur une autre
+dimension ici. En effet, il est commode de supposer que les chocs sont en réalité une
+combinaison linéaire de deux composantes : une composante idiosyncratique et une com-
+posante commune. En définitive, une procédure d’orthogonalisation qui ne prend pas en
+compte cette situation ne permettrait pas d’isoler les politiques économiques spécifiques
+(choc idiosyncratique) au pays des politiques régionales (chocs communs). En guise de
+solution à ce problème d’orthogonalisation, Pedroni (2013) propose l’estimation d’une
+matrice de passage permettant une décomposition des deux chocs.
+12
+
+--- Page 14 ---
+3
+Le modèle et son estimation
+La trajectoire de la cible d’inflation étant une dans la CEMAC (Mvondo, 2015), il y a lieu
+de déterminer pour celle-ci, un horizon unique. A cet effet, nous avons recours suivant
+notre revue de la littérature à un VAR multi-pays encore qualifié de VAR en panel. C’est
+un modèle qui présente la même structure qu’un modèle VAR " ordinaire " (standard
+ou structurel); toutes les variables sont supposées endogènes et interdépendantes mais
+il comporte toutefois une dimension individuelle à l’instar des approches en données de
+panel. C’est notamment par rapport à cette dimension individuelle que se trouve modifiée
+sa présentation (3.1) et sa méthode d’estimation (3.2).
+3.1 Présentation du modèle
+Le modèle consiste en deux relations à savoir la fonction de perte des autorités monétaires
+à minimiser et l’activité économique qui lui sert de contrainte, La modélisation VAR
+structurel permet à travers l’examen des fonctions de réaction, de déterminer le temps
+nécessaire pour que les impulsions sur une variable s’exercent complètement sur l’autre.
+A cet effet, nous partons de la relation entre écart de l’inflation à sa cible et écart de
+production. A celle-ci, nous associons le principal instrument de politique monétaire dans
+la zone.
+La forme structurelle qui en découle est la suivante :
+B y = C (t)+C (l)Y +ε (1)
+t it 0i 1l t−1 it
+B est la matrice d’impacts structurels pour le pays (i). Elle est de format (3,3), en
+i
+rapport avec nos trois variables d’intérêt. y est le vecteur de ces variables endogènes,
+it
+de format (3,3) pour un pays. L’empilement sur les six pays de la CEMAC des variables
+endogènes ci-dessus nous donne le vecteur bloc Y = (y(cid:48) ,y(cid:48) ,...,y(cid:48) )(cid:48). C représente par
+t 1t 2t 6t 1l
+conséquent les matrices blocs d’impact des vecteurs retardés Y , de format (3,3x6) et
+t−1−l
+C (t) le vecteur des constants et effets fixes individuels de format (3,1).
+0i
+Les expressions explicites des matrices ci-dessus sont les suivantes :
+     
+bi bi bi c1(t) c11 c12 c13
+11 12 13 0 ij ij ij
+B =  bi bi bi ; C (t) =  c2(t) ; Ckn =  c21 c22 c23  ;
+i  21 22 23  0i  0  ij  ij ij ij 
+bi bi bi c3(t) c31 c32 c33
+31 32 33 0 ij ij ij (i(cid:54)=j)
+13
+
+--- Page 15 ---
+   
+c11 c12 ... ... ... c16 y
+ij ij ij 1t−1
+ c21 c22 ... ... ... ...   y 
+ ij ij   2t−1 
+   
+ ... ... c33 ... ... ...   y 
+C =  ij  et Y =  3t−1 
+1l  ... ... ... c44 ... ...  t−1  y 
+ ij   4t−1 
+   
+ ... ... ... ... c55 ...   y 
+ ij   5t−1 
+c61 ... ... ... ... c66 y
+ij ij 6t−1
+3.2 Estimation du modèle
+A l’instar des VAR structurels, les VAR structurels en panel souffrent d’un problème
+d’endogénéité dû à la non-nullité des coefficients bi de la matrice B . En vue d’éviter
+i
+le biais d’endogénéité qui en découle, l’on recourt à la forme réduite qui permet une
+estimation équation par équation par une technique spécifique (3.2.1). L’on peut alors,
+moyennant une procédure d’identification adéquate, revenir sur la forme structurelle où
+s’opère l’analyse impulsionnelle (3.2.2).
+Notre étude part des travaux en données de panel de Mvondo (2015) sur la trajectoire
+de la cible d’inflation dans la CEMAC. Il y est montré que la relation entre inflation
+et écart de production n’admet qu’un effet fixe temporel. L’absence d’effets individuels
+ci-dessus implique alors l’absence d’interdépendances dynamiques dans le modèle : les
+coefficients de pente sont identiques pour tous les pays. Mieux encore, la construction des
+variables notamment l’écart de l’inflation à sa cible et la transformation de Helmert qui
+est appliquée à ces variables permet de supposer que notre VAR en panel ne validera pas
+l’existence d’une constante.
+3.2.1 La technique d’estimation
+La forme réduite du SPVAR(l) fournie par la relation 1 est obtenue en pré multipliant
+ladite relation par l’inverse de la matrice bloc B . Elle est présentée ci-dessous :
+i
+y = A (t)+A (l)Y +µ (2)
+it 0i 1 t−1 it
+Avec i = 1,...,6 et t = 1990,...,2012.
+Dans cette écriture similaire à celle des travaux de Canova et al (2007), Canova et Cicca-
+relli (2009) puis Ciccarelli et al (2012), les matrices de coefficients A (t) sont spécifiques
+0i
+à un pays (i), elles captent les effets fixes et aléatoires propres à l’analyse en données de
+panel. La matrice A (l) prend en compte aussi bien les effets des endogènes retardées d’un
+1
+pays que celles des autres pays sur la dynamique courante de ses trois variables d’intérêt.
+Nonobstant cette expression des variables endogènes en fonction des prédéterminés, il
+14
+
+--- Page 16 ---
+subsiste un problème lié à la présence des effets fixes dans le modèle. C’est l’objet de la
+transformation d’Helmer permettant d’éliminer ces effets.
+Par la suite, la technique d’estimation utilisée est celle des moments généralisés (GMM),
+proposée par Arellano et Bond (1991) afin de se départir du biais lié à la fixité de la
+taille de l’échantillon dans les régressions empilées (Canova et Cicarelli, 2013). A cet
+effet, contrairement à l’exigence de Inessa (2000) de recourir à des données en écart à leur
+moyenne, Decker (2012) montre que la méthode produit des résultats similaires lorsque
+les données sont à niveau4 .
+Ainsi, suivant Arellano et Bonds (1991), l’exploitation de la condition d’orthogonalité
+entre variables endogènes retardées et termes d’erreurs offre des instruments additionnel
+permettantdesedépartirdedeuxproblèmesdont:(i) l’incapacitédecertainsestimateurs
+(Anderson et Hsiao, 1981) à utiliser toute les conditions liées aux moments et; (ii) la non
+prise en compte de la structure en différences premières des résidus.
+Le modèle transformé se présente sous la forme :
+yH = B (l)YH +ν (3)
+it i t−1 it
+Dans cette expression, l’exposant (H) sur une variable (x ) indique que celle-ci a subi la
+it
+(cid:113) T
+transformation d’Helmer suivant la relation : xH = T−t (x − 1 (cid:80) x ).
+it T−t−1 it T−t in
+n=t+1
+C’est donc l’observation à la date (t) moins la moyenne des observations (t+1) périodes
+jusqu’à (T). Le terme constant disparaît de la relation 3 du fait justement de cette
+transformation qui est équivalente (voir annexes 1) à présenter les données en écarts à
+la moyenne. L’écriture explicite de la variable YH est pour un pays (i) est donnée par :
+t−1
+YH = (y(cid:48)H,y(cid:48) ).
+t−1 it i(cid:54)=jt
+Suivant Arellano et Bond (1991), l’estimation de la relation 3 se fait en utilisant comme
+instruments, les variables à niveau, introduites pour un individu (i) dans la matrice des
+instruments W telle que :
+ 
+[y ] 0 ... 0
+il
+ . 
+.
+ 0 [y ,y ] ... . 
+W =  il i2 .
+i 
+
+. .
+. 0
+...
+0
+
+
+ 
+0 0 ... [y ,...,(y ,T −2)]
+il i
+(cid:113) T
+Le terme d’erreur de la relation 3 est donnée par : νH = T−t (µ − 1 (cid:80) µ ).
+it T−t−1 it T−t itin
+n=t+1
+Il est également une expression en différences et sa matrice de variances-covariances est
+donnée par E[∆v ∆v(cid:48)] = σ2(I (cid:78) G), avec :
+i i v N
+4. Voir démonstration en annexes.
+15
+
+--- Page 17 ---
+ 
+2 −1 0 ... 0
+ 
+ −1 2 −1 ... 0 
+G =   . . . −1 ... ... 0  .
+ 
+ 
+ 0 ... −1 2 −1 
+ 
+0 ... 0 −1 2
+L’orthogonalité entre les instruments et les erreurs permet d’écrire : E[W(cid:48)∆v ] = 0.
+i
+L’estimateur GMM est alors tel que :
+B(cid:98) = [(yH )(cid:48)W(W(cid:48)(v )(v(cid:48))W )W(cid:48)(yH )]−1 ∗[(yH )(cid:48)W(W(cid:48)(v )(v(cid:48))W )W(cid:48)(yH)]−1 (4)
+it−1 i i i i it−1 it−1 i i i i it
+3.2.2 Chocs, réponses impulsionnelles et décomposition de la variance
+L’examen des fonctions de réponses impulsionnelles s’effectue sur la forme structurelle
+du PVAR dont les résidus sont orthogonaux. Celle-ci n’est toutefois pas estimable du
+fait de la simultanéité des éléments du vecteur (y t) . Il est alors question de remonter
+i
+de la forme réduite qui a été estimée à la forme structurelle. Cette procédure connue
+sous le pseudonyme d’"identification" comporte toutefois une difficulté liée au nombre de
+coefficients de chacune des formes. L’on veut en effet retrouver les 2n2 coefficients de la
+forme structurelle à partir des (n2+[n(n+1)/2]) coefficients de la forme réduite : ce qui
+est impossible, à moins de connaître 2n2 −(n2 +[n(n+1)/2]) = n(n−1)/2 coefficients
+de manière indépendante.
+Deux solutions permettant de retrouver les coefficients manquant sont proposées dans la
+littérature :
+1. Le recours à la décomposition de Cholesky qui admet que les relations instantanées
+sont comprises dans la matrice des variances-covariances du court terme. Sa facto-
+risation et son application à la forme réduite permet de retrouver un pseudo PVAR
+structurel de matrice des variances covariances diagonale5.
+Toutefois,ilfautnoterlasensibilitédumodèleàcetyped’orthogonalisation,notam-
+ment pour ce qui est de l’ordre d’entrée des variables. Cette sensibilité du modèle
+peut être vérifiée soit en estimant le modèle pour différents ordre des variables, soit
+alors en s’assurant que la matrice des variances covariances de la forme réduite est
+5. La décomposition de Cholesky consiste en la factorisation de la matrice des variances covariances
+delaformeréduite(Ω),defaçonàpouvoirl’écrirecommeleproduitd’unematricetriangulaireinférieure
+(T), d’une matrice diagonale et de la transposé de (T). Il faut noter ici que la matrice (T), composée
+d’éléments non négatifs possède des (1) sur sa diagonale principale.
+16
+
+--- Page 18 ---
+diagonale, ce à travers un test du multiplicateur de Lagrange (Greene, 2000) donné
+par : LM = nρ2 =⇒ χ2(1) avec ρ2 = ω (cid:98)12 2 .
+(cid:98) (cid:98) ω2ω2
+(cid:98)1(cid:98)2
+Sous l’hypothèse nulle, la matrice des variances covariances est diagonale et (n)
+représente la taille de l’échantillon.
+Compte tenu de tout ce qui précède, Inessa (2006) et Decker (2012) insistent sur
+l’ordre d’entrée des variables dans le modèle. Cet ordre doit se faire de la plus
+exogène à la moins exogène : d’où le test de causalité de Granger que nous menons
+entre nos variables d’intérêt.
+2. PartantdufaitqueladécompositiondeCholeskyimposearbitrairementdescontraintes
+auniveaudelamatricedescoefficientsdesvariablesendogènesquiannulentcertains
+de ceux-ci, l’idée ici est d’obtenir des contraintes économiques au départ qui jouent
+le même rôle. Ces contraintes sont liées à des phénomènes d’ajustement lents tels
+que la diffusion progressive de l’information, les rigidités nominales ou l’existence
+de délais de réaction.
+Les fonctions de réponses impulsionnelles (IRF) résument l’impact à la date (t+s)
+sur une variable endogène d’un choc structurel unitaire à la date (t). C’est le graphe des
+θ(s) parrapportà(s).Cegrapherésumel’effetdelavariationunitaired’unchocstructurel
+ij
+à la période (t) sur le niveau de y, (t+s) périodes plus tard pour différentes valeurs de
+(s). En partant de la forme structurelle moyenne mobile (SMA) de notre modèle à la
+période (t+s) :
+     
+y ε ε
+1t+s  θ(0) θ(0) θ(0)  1t+s  θ(1) θ(1) θ(1)  1t
+ y  11 12 13  ε  11 12 13  ε 
+  2t .+s   =  θ(0) θ(0) θ(0)   2t .+s  + θ(1) θ(1) θ(1)   .2t  +...
+ . .   21 22 23   . .   21 22 23   . . 
+  θ(0) θ(0) θ(0)   θ(1) θ(1) θ(1)  
+31 32 33 31 32 33
+y ε ε
+6t+s 6t+s 6t
+Nous obtenons les multiplicateurs dynamiques structurels suivant, par dérivation des
+SMA par rapport au terme d’erreurs de chaque équation :
+∂y1t+s = θ(s), ∂y1t+s = θ(s), ∂y1t+s = θ(s)
+∂ε1t 11 ∂ε2t 12 ∂ε3t 13
+∂y2t+s = θ(s), ∂y2t+s = θ(s), ∂y2t+s = θ(s)
+∂ε1t 21 ∂ε2t 22 ∂ε3t 13
+∂y3t+s = θ(s), ∂y3t+s = θ(s), ∂y3t+s = θ(s)
+∂ε1t 31 ∂ε2t 32 ∂ε3t 33
+La variance de l’erreur de prévision traduit quant à elle le souci de déterminer la pro-
+portion de la variabilité de cette erreur dans la prévision d’une variable, sur la base de
+l’information disponible à la période (t) due (la proportion) à la variabilité des chocs
+17
+
+--- Page 19 ---
+structurels dans l’intervalle de temps [t,t+s]. En d’autres termes, c’est la part de l’erreur
+commise en prévoyant par exemple y qui est due à y .
+1t 2t
+Pourcela,supposonslareprésentationdeWoldsuivantepouruneprévisiondey à(t+s):
+t
+y = µ+µ +Ψ µ +Ψ µ +...+Ψ µ +Ψ µ +Ψ µ +...
+t+s t+s 1 t+s−1 2 t+s−2 s−1 t+1 s t s+1 t−1
+La meilleure prévision linéaire de y à (t + s), sur la base de l’information disponible à
+t
+(t) est donnée par :
+y = µ+Ψ µ +Ψ µ +...
+(cid:98)t+s/t s t s+1 t−1
+Par conséquent, l’erreur de prévision est donnée par :
+y −y = µ +Ψ µ +Ψ µ +...+Ψ µ
+t+s (cid:98)t+s/t t+s 1 t+s−1 2 t+s−2 s−1 t+1
+En faisant usage de la relation entre les erreurs de la forme structurelle et de ceux de
+la forme réduite, nous pouvons réécrire l’erreur de prévision en termes des innovations
+structurelles telle que :
+y −y = B−1ε +Ψ B−1ε +...+Ψ B−1ε = Θ ε +Θ ε +...+Θ ε
+t+s (cid:98)t+s/t t+s 1 t+s−1 s−1 t+1 0 t+s 1 t+s−1 s−1 t+1
+Equation par équation, nous pouvons alors réécrire notre erreur prévisionnelle :
+(cid:34) (cid:35) (cid:34) (cid:35)(cid:34) (cid:35) (cid:34) (cid:35)(cid:34) (cid:35)
+y −y θ(0) θ(0) ε θ(s−1) θ(s−1) ε
+1t+s (cid:98)1t+s/t = 11 12 1t+s +...+ 11 12 1t+1
+y −y θ(0) θ(0) ε θ(s−1) θ(s−1) ε
+2t+s (cid:98)2t+s/t 21 22 2t+s 21 22 2t+1
+En considérant la première équation, nous obtenons :
+y −y = θ(0)ε +...+θ(s−1)ε +θ(0)ε +...+θ(s−1)ε
+1t+s (cid:98)1t+s/t 11 1t+s 11 1t+1 12 2t+s 12 2t+1
+Puisque nous avons admis au départ que les termes d’erreurs du VAR structurel étaient
+des bruits blancs gaussiens de matrice de covariances diagonales, la variance de l’erreur
+de prévision peut s’écrire :
+Var(y −y ) = σ2[(θ(0))2 +...+(θ(s−1))2]+σ2[(θ(0))2 +...+(θ(s−1))2]
+1t+s (cid:98)1t+s/t 1 11 11 2 12 12
+La proportion de σ2(s) due au choc sur l’innovation de l’équation du TIAO est :
+1
+σ2[(θ(0))2 +...+(θ(s−1))2]
+ρ (s) = 1 11 11
+1,1 σ2(s)
+1
+18
+
+--- Page 20 ---
+Par rapport au choc sur l’innovation de l’équation de l’inflation :
+σ2[(θ(0))2 +...+(θ(s−1))2]
+ρ (s) = 2 12 12
+1,2 σ2(s)
+1
+De la même manière, l’on peut obtenir la variance de l’erreur de prévision pour les deux
+autres variables.
+4
+Présentation des résultats
+4.1 Construction des variables et examen de leurs propriétés statistiques
+Le modèle portant sur données de panel, tous les traitements à opérer sur les séries sont
+par pays avant leur empilement. Pour ce qui est de l’écart de production, nous retenons
+celle construite par Mvondo (2013) et rappelons simplement la méthodologie adoptée.
+Les propriétés statistiques des séries notamment leur stationnarité est évaluée à l’aide de
+tests disponibles en données de panel.
+4.1.1 Estimation de l’écart de production
+Dans son étude Mvondo (2015) part du constat selon lequel les méthodes d’estimation
+du PIB potentiel et donc de l’écart de production peuvent être sériées en trois groupes
+(Citu et Twaddle 2003) :
+– le premier groupe s’inspire des techniques des séries temporelles en vue d’en extraire
+la tendance;
+– le deuxième se propose d’isoler l’influence des effets structurels et cycliques sur le PIB
+à partir de la théorie économique et;
+– le troisième groupe, fait usage des données d’enquête en vue d’une inférence sur un
+excès de demande ou d’offre dans l’économie.
+L’approche la plus utilisée dans les travaux selon lui demeure celle des techniques de
+séries temporelles notamment les filtres HP et de Kalman, du fait de l’indisponibilité des
+données d’enquête ou de données relatives aux variables de la fonction de production. Sur
+cette base et compte tenu des difficultés à implémenter le filtre de Kalman, il retient le
+filtreHPaprèscorrectionsdubiaisdeboutd’échantillonnagequiyapparaîtgénéralement.
+Cette correction repose sur une prévision de la série à l’aide de l’équation ADF en vue
+d’allonger l’échantillon et élimine les bouts d’échantillon après application du filtre.
+19
+
+--- Page 21 ---
+4.1.2 Estimation de l’écart de l’inflation à sa cible
+En partant à nouveau de l’étude ci-dessus, nous construisons la série " écart de l’inflation
+à sa cible " en ôtant de la série à niveau de l’inflation, l’évolution de la trajectoire de la
+cible qui a été estimée.
+4.1.3 Examen de la stationnarité des variables du modèle
+Le tableau ci-dessous fait un résumé des résultats des différents tests et révèle principa-
+lement que ces variables sont stationnaires à niveau.
+Tableau 1 – Test de racine unitaire sur les variables du modèle
+Variables Typedetest Levin, Lin Breitung Im, Pesaran ADF PP Décision
+&Chu &Shin
+Ecart de Statistique -7,936 -6,32 -6,3943 56,70 50,74 Stationnaire
+l’inflation à niveau
+à sa cible
+Probabilité 0,0000 0,0000 0,0000 0,0000 0,0000 Stationnaire
+à niveau
+Ecart de Statistique -3,44 -2,415 -4,266 38,78 33,95 Stationnaire
+production à niveau
+Probabilité 0,0003 0,0078 0,0000 0,0001 0,0007 Stationnaire
+à niveau
+TIAO Statistique 4,71736 -3,15666 -6,30716 59,4047 24,1035 Stationnaire
+à niveau
+Probabilité 1,0000 0,0008 0,0000 0,0000 0,0197 Stationnaire
+à niveau
+Source:Elaboréparl’auteur.
+A titre de rappel, les tests de Levin, Lin et Chu puis Breitung supposent une racine
+unitaire commune à tous les individus du panel, alors que les tests Im, Pesaran et Shin
+puis ADF et PP supposent une racine unitaire par individu. Tous ces tests ont conclu à
+l’absence de racine unitaire.
+4.2 Test de causalité/exogénéité et ordre des variables dans le VAR en panel
+Reprenant Gouriéroux et Monford (1995) sur le concept d’exogénéité, Lardic et Mignon
+(2002)soulignentdanslecadred’unVAR(p)queleblocdevariables(X ,X ,...,X )
+t−1 t−2 t−P
+est exogène par rapport au bloc de variables (Y ,Y ,...,Y ) si le fait de rajouter
+t−1 t−2 t−P
+le bloc X n’améliore pas significativement la détermination des variables Y . Il est alors
+t t
+question d’effectuer un test de restrictions sur les coefficients des variables X de la repré-
+t
+sentation VAR. Cette exogénéité devient stricte suivant Engle, Hendry et Richard (1983)
+si les valeurs à chaque période de la chronique X sont indépendantes des valeurs des
+t
+20
+
+--- Page 22 ---
+perturbations aléatoires de toutes les périodes : le concept de stricte exogénéité apparaît
+ainsiliéauconceptdecausalitéàlaGranger(1989)6.D’oùsonapplicationànosvariables
+d’intérêt en vue de déterminer leur ordre d’entrée dans le PVAR.
+Le tableau ci-dessous fourni les résultats du test de causalité entre nos variables d’inté-
+rêt. Ce test est destiné à donner un "sens économique" à l’identification opérée par la
+technique du Cholesky.
+Les résultats du test sont les suivants :
+Tableau 2 – Résultats du test de causalité entre les trois variables du modèle
+Hypothèse nulle Nombre d’observations Statistique de Fisher Probabilité
+ECARTINF ne cause pas TIAO 156 1,24824 0,2656
+TIAO ne cause pas ECARTINF 3,60317 0,0596
+ECARTPROD ne cause pas TIAO 156 0,03094 0,8606
+TIAO ne cause pas ECARTPROD 3,76458 0,0542
+ECARTINF ne cause pas ECARTPROD 156 5,60809 0,0191
+ECART PROD ne cause pas ECARTINF 0,00444 0,9470
+Source:Elaboréparl’auteur.
+L’examen du tableau 2 ci-dessus montre que la variable la plus exogène est le TIAO. A
+6%, l’hypothèse nulle d’absence de causalité est rejetée, aussi bien pour ce qui est de sa
+relation avec l’écart de l’inflation à sa cible qu’avec l’écart de production. L’examen de
+la causalité entre l’écart de l’inflation à sa cible et l’écart de production révèle que c’est
+cette dernière qui cause la première à 5%.
+Fort des conclusions des tests ci-dessus, l’ordre d’entrée des variables dans le
+modèle est le suivant : TIAO ⇒ ECARTINF ⇒ ECARTPROD.
+Cet ordre d’entrée des variables nous permet de nous départir de la critique de Pedroni
+(2013) relative à la structure composite des innovations. En effet, la politique monétaire
+étant commune dans la zone, les innovations qui en découlent ne peuvent être alors que
+communes.
+6. X cause Y si la prévision de Y fondée sur la connaissance des passées conjoints de ces deux
+variables (X et Y ) est meilleure que la prévision fondée sur la seule connaissance du passée de Y.
+t−1 t−1
+Formellement :
+– X cause Y à la date t si : E[Y |Y ,X ](cid:54)=E[Y |Y ];
+t t−1 t−1 t t−1
+– X cause instantanément Y à la date t si : E[Y |Y ,X ](cid:54)=E[Y |Y ,X ];
+t t−1 t t t−1 t−1
+– X ne cause pas Y à la date t si : V [Y |Y ,X ]=V [Y |Y ].
+ε t t−1 t−1 ε t t−1
+V désigne la matrice des variances-covariances de l’erreur de prévision.
+ε
+21
+
+--- Page 23 ---
+4.3 Les fonctions de réaction et la longueur des délais d’action de la monnaie sur
+l’écart de l’inflation à sa cible
+Comme annoncé ci-dessus, l’horizon optimal de la cible d’inflation est évalué par le temps
+nécessaire à la politique monétaire pour annuler l’écart de l’inflation à cette cible. D’où
+l’examen de la réaction de l’écart de l’inflation à sa cible au taux directeur de la BEAC
+ci-dessous :
+Graphique 2 – Réaction de l’écart de l’inflation à sa cible à un choc sur le TIAO
+Source:AuteuraveclesdonnéesdelaBEAC.
+L’observation du graphique 2 ci-dessus montre, sous réserve de la validité de la procédure
+d’estimation, que l’horizon optimal de la cible d’inflation est de deux (02) ans. Ainsi, à
+la suite d’un choc (offre ou demande) ayant écarté l’inflation de sa cible, les autorités
+monétaires disposent de deux années pour annuler cet écart. Des délais plus courts pour-
+raient se traduiraient par une décélération de l’activité économique et, des délais plus
+long par une déstabilisation du secteur financier. Ces effets seraient la résultante d’une
+politique de communication non respectée autour de la cible d’inflation et son horizon;
+les anticipations d’inflation des opérateurs économiques et financiers se trouvant biaisées.
+Mishkin (2000) propose alors d’établir des cibles d’inflation deux ans à l’avance : ce
+qui implique que la cible de l’année en cours aurait été arrêtée deux ans auparavant et
+coexisterait avec celle de l’année à venir, définie elle aussi deux ans à l’avance. Dans un
+tel contexte poursuit-il, les autorités pourraient faire varier la cible d’une année à l’autre,
+22
+
+--- Page 24 ---
+pour éviter que les chocs subis par l’économie, spécialement les chocs d’offre, n’entrainent
+des fluctuations excessives de la production. Ce système de cibles pluriannuelles introduit
+en définitive une approche gradualiste de la cible d’inflation à long terme notamment
+lorsque les chocs que subit l’économie portent le taux d’inflation à s’écarter de celle-ci.
+Par ailleurs, sous réserve de la validité de la procédure d’identification adoptée, nous
+pouvons examiner les principales fonctions de réaction du modèle.
+Graphique 3 – Examen de la réaction des variables aux principaux chocs
+Source:AuteuraveclesdonnéesdelaBEAC.
+Del’examendesfonctionsderéactionci-dessus,ilapparaîtquel’écartdeproductionréagi
+plus amplement à un choc sur l’écart de l’inflation que la réciproque. De même, l’écart
+de production réagi aux chocs sur le TIAO, redonnant ainsi une place aux impulsions
+monétaire dans le lissage de la conjoncture.
+Enfin, la persistance de l’écart de l’inflation à sa cible peut être examinée à partir du
+graphique ci-dessous, représentant la réaction de l’écart de l’inflation à sa cible.
+23
+
+--- Page 25 ---
+Graphique 4 – Examen de la persistance de l’écart de l’inflation à sa cible
+Source:AuteuraveclesdonnéesdelaBEAC.
+L’examen du graphique 4 ci-dessus montre qu’à la suite d’un choc endogène, l’écart de
+l’inflation exhibe une persistance à même d’atténuer les effets de la politique monétaire.
+Ainsi, le degré et l’amplitude de la persistance révèlent une inertie (3 ans) se situant
+au-delà des délais d’action de la politique monétaire (2 ans). Il apparaît alors nécessaire
+d’examiner le pourcentage de variation de l’écart de l’inflation attribuable à la politique
+monétaire.
+4.4 La décomposition de la variance et la contribution de la politique monétaire
+à la dynamique de l’écart de l’inflation à sa cible
+Le tableau ci-dessous fournie la décomposition historique de la variance des variables.
+Suivant les sorties de régression obtenues, c’est le pourcentage de variation de la variable
+en ligne expliqué par la variable en colonne. Les résultats sont donnés sur dix puis vingt
+périodes en vue des comparaisons.
+24
+
+--- Page 26 ---
+Tableau 3 – Décomposition historique de la variance des variables
+Nombre de périodes TIAO ECARTINF ECARTPROD
+TIAO 10 0,99263014 0,00681151 0,00055835
+ECARTINF 10 0,48506498 0, 51339043 0,00154459
+ECARTPROD 10 0,03448183 0, 02935714 0,93616103
+TIAO 20 0,99199737 0,00739138 0,00061126
+ECARTINF 20 0,4859323 0,51252459 0,00154311
+ECARTPROD 20 0,05374641 0, 02893124 0,91732236
+Source:Elaboréparl’auteur.
+L’examen du tableau 3 ci-dessus nous révèle trois faits, aussi bien à dix qu’à vingt pé-
+riodes :
+– la politique monétaire contribue à l’explication de 48% de la dynamique de l’écart de
+l’inflation à sa cible. Ainsi, à la suite d’une innovation d’un écart-type sur le TIAO,
+l’on doit s’attendre à une contraction de l’écart de l’inflation à sa cible de la moitié du
+niveau constaté;
+– La persistance de l’inflation s’élève à 51% de sa dynamique. Comme résultante, l’écart
+de production ne contribue qu’à 1% à la dynamique de l’inflation;
+– Le TIAO, principal instrument de politique monétaire de la BEAC comporte beaucoup
+d’inertie, soit 99%. Ainsi, par identification à une règle de Taylor, l’ajustement optimal
+et donc le pouvoir contracyclique se situerait à 1%.
+Conclusion
+En vue de contribuer à l’ancrage des anticipations et en définitive à la crédibilité de la
+politique monétaire dans la CEMAC, ce papier s’est proposé de déterminer un horizon
+optimal de la cible d’inflation. Le VAR en panel qui a été estimé sur données des six
+économies de la zone a montré que le temps nécessaire pour que la politique monétaire
+ramène l’inflation observée au niveau de sa cible est de 2 ans. Cette dernière contribuerait
+à 48% à la dynamique de l’inflation, son inertie s’élevant à 51%.
+25
+
+--- Page 27 ---
+Références
+[1] Anderson T. W., C. Hsiao (1981) : "Estimation of Dynamic Models with Error
+Components", Journal of American Statistical Association, 76, pp. 598-606.
+[2] Arellano M., S. Bond(1991):"SomeTestsofSpecificationforPanelData:Monte
+Carlo Evidence and an Application to Employment Equations", Review of Economic
+Studies.
+[3] Basant-Roi M., R. Mendes (2006) : "Should Central Banks Adjust Their Target
+Horizons in Response to Housing-Price Bubbles?", document de travail, Banque du
+Canada.
+[4] Batini N., E. Nelson (2000) : "Optimal horizons for inflation targeting", Working
+Papers, Bank of England.
+[5] Batini, N., A. G. Haldane (1999) : "Forward-looking rules for monetary policy",
+inTaylor,JB(ed),MonetaryPolicyRules,University of Chicago Press,pages157-92.
+[6] Bikaï J. L., G. A. Kenkouo (2015) : "Analyse et évaluation des canaux de trans-
+mission de la politique monétaire dans la CEMAC : une approche SVAR et SPVAR",
+BEAC Working Paper 02/15.
+[7] Canova F., M. Cicarelli (2006) : "Estimating Multi-Country VAR Models", Wor-
+king Paper Series, n˚603, European Central Bank.
+[8] Canova F., M. Cicarelli (2013) : "Panel Vector Autoregressive Models : A Sur-
+vey", Working Paper Series, European Central Bank.
+[9] Cayen J.-P., Corbett A., P. Perrier (2006) : "An Optimized Monetary Policy
+Rule for TOTEM", Document de Travail, Banque du Canada.
+[10] Ciccarelli M., Ortega E., M. T. Valderrama (2012) : "Heterogeneity and
+Cross-Country Spillovers in Macroeconomic-Financial Linkage", Paper in Progress,
+European Central Bank.
+[11] Citu F., J. Twaddle (2003) : "The Output Gap and it Role in Monetary Policy
+Decision-making", Reserve Bank of New Zealand Bulletin, vol. 66, n˚1.
+[12] Coletti D., Selody J., C. Wilkins (2006) : "Une nouvelle analyse de l’horizon
+de la cible d’inflation", Revue de la Banque du Canada.
+[13] Decker R. (2012) : "A Note on the Helmer Transformation", Miméo.
+[14] Decker R. (2012) : "pvar2.ado - package for estimating panel VAR (panel vector
+auto-regressions)", A Modified Version of Inessa and Zicchino .ado file.
+[15] Engle R. F., Hendry D. F., J. F. Richard(1983):"Exogeneity",Econometrica,
+51, 277-304.
+[16] Gouriéroux C., A. Monford (1995) : Séries temporelles et modèles dynamiques,
+Economica.
+26
+
+--- Page 28 ---
+[17] Granger C. W. J.(1969):"InvestigatingCausalRelationsbyEconometricModels
+and Cross-Spectral Methods", Econometrica, 36, 424-438.
+[18] Holz-Eakin D., Newey W., H. Rozen (1988) : "Estimating Vector Auto Re-
+gressions with Panel Data", Econometrica, 56, 1371-95.
+[19] Inessa L., L. Zicchino (2006) : "Financial Development and Dynamic Investment
+Behavior : Evidence from Panel Vector", The Quaterly Review of Economics and
+Finance.
+[20] Koulet-Vickot M. (2002) : "Analyse d’une relation cointégrante de demande de
+monnaie de la CEMAC", BEAC, Note d’Etudes et de REcherche, n˚2.
+[21] Lardic S., V. Mignon (2002) : Econométrie des séries temporelles macroécono-
+miques et financières, Economica.
+[22] McCallum B., T. E. Nelson (1999) : "Nominal income targeting in an open-
+economy optimising model", Journal of Monetary Economics, vol 43(3), pages 553-78.
+[23] Mialou A. (2009) : "Existe-t-il une demande de monnaie de type monétariste dans
+les pays de la zone CEMAC?", BEAC Note d’Etudes et de Recherche, n˚1.
+[24] Mishkin F. (2000) : "Réflexions sur la poursuite des cibles en matière d’inflation",
+Fonds Monétaire International.
+[25] Mounkala U. E.(2015):"Estimationd’unefunctiondedemandedemonnaiedans
+la CEMAC", BEAC Working Paper, n˚01/15.
+[26] Mvondo E. T. (2015) : "De la pertinence d’une cible d’inflation dans la CEMAC",
+BEAC Working Paper, n˚05/15.
+[27] Pedroni P. (2013) : "Structural Panel VARs", Econometrics, 2, 180-206.
+[28] Saxegaard M. (2006) : "Excess Liquidity and Effectiveness of Monetary Policy :
+Evidence from Sub-saharan Africa", Working Paper, n˚115, IMF, pp 1-52.
+27
+
+--- Page 29 ---
+Annexes
+Annexe 1 : De l’équivalence entre transformation d’Helmer sur données à
+niveau et sur données en écart à la moyenne
+La transformation d’Helmer est une similitude permettant de passer d’un système de
+coordonnées à un autre, en minimisant l’écart quadratique moyen entre les positions des
+points connus dans le système cible et leurs transformées depuis le système source. Elle
+nécessite donc de disposer d’un nombre suffisant de points connus dans les deux systèmes.
+Cette transformation peut s’analyser comme la succession de trois transformations : une
+rotation, une translation, et une homothétie (dont le rapport peut s’interpréter comme
+une variation d’échelle).
+Par opposition aux transformations affines, une transformation d’Helmert conserve les
+propriétés géométriques d’un nuage de points. Une notion qui est classiquement démon-
+trée par le fait que la transformée du barycentre d’un nuage de point est le barycentre des
+points transformés. C’est ce qui justifie son utilisation en vue d’éliminer les effets fixes
+dans la procédure d’estimation du VAR en panel.
+Le calcul des composantes de la rotation se fait en recherchant les angles qui minimisent
+danslesystèmeciblelasommedescarrésdesdistancesentrelespointsconnusetleursho-
+mologues issus de la transformation; de ce fait, elle peut être vu comme un cas particulier
+de la méthode des moindres carrés.
+Pour son application en données de panel, l’on considère un échantillon de variables x
+it
+où (i) représente les individus et (t) le temps, avec t ε{1,2,...,T}. L’on définit en outre
+T
+la moyenne sur temps par individu telle que : x = 1 (cid:80) xit. La transformation d’Helmer
+i T
+t=1
+(cid:113) T
+de variable x est fournie par : xH = T−t (x − 1 (cid:80) x )
+it it T−t−1 it T−t it
+n=t+1
+Si par contre l’on retranche à la variable x sa moyenne comme le conseille Inessa (2001)
+it
+avant application de la transformation d’Helmer, la nouvelle valeur obtenue est : x˜ =
+it
+x −x . Decker (2012) applique à cette nouvelle variable la transformation ci-dessus et
+it i
+obtient :
+28
+
+--- Page 30 ---
+(cid:113) T
+xH = T−t (x˜ − 1 (cid:80) x˜ )
+it T−t−1 it T−t in
+n=t+1
+(cid:113) T
+= T−t (x −x − 1 (cid:80) (x −x ))
+T−t−1 it i T−t in i
+n=t+1
+(cid:113) T T
+= T−t (x −x − 1 (cid:80) x + 1 (cid:80) x )
+T−t−1 it i T−t in T−t i
+n=t+1 n=t+1
+(cid:113) T
+= T−t (x −x − 1 (cid:80) x + 1 (T −t)x )
+T−t−1 it i T−t in T−t i
+n=t+1
+(cid:113) T
+= T−t (x − 1 (cid:80) x )
+T−t−1 it T−t in
+n=t+1
+xH ⇒ x˜H
+it it
+Annexe 2 : Résultats de l’estimation de la forme réduite du modèle par les
+GMM
+Systèmeexactementidentifié
+29
+
+--- Page 31 ---
+Annexe 3 : Les fonctions de réponses impulsionnelles du modèle
+30

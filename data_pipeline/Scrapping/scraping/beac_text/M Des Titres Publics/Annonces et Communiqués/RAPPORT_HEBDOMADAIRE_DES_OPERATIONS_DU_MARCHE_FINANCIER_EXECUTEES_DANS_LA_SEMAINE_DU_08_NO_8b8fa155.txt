@@ -1,0 +1,7 @@
+Source PDF : RAPPORT_HEBDOMADAIRE_DES_OPERATIONS_DU_MARCHE_FINANCIER_EXECUTEES_DANS_LA_SEMAINE_DU_08_NO_8b8fa155.pdf
+Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\RAPPORT_HEBDOMADAIRE_DES_OPERATIONS_DU_MARCHE_FINANCIER_EXECUTEES_DANS_LA_SEMAINE_DU_08_NO_8b8fa155.pdf
+Date extraction : 15/06/2026 20:05:57
+======================================================================
+
+[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
+Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

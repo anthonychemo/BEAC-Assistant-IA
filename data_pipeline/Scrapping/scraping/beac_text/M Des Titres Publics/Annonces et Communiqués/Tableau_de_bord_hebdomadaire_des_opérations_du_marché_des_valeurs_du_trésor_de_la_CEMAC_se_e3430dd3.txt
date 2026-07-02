@@ -1,0 +1,7 @@
+Source PDF : Tableau_de_bord_hebdomadaire_des_opérations_du_marché_des_valeurs_du_trésor_de_la_CEMAC_se_e3430dd3.pdf
+Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\Tableau_de_bord_hebdomadaire_des_opérations_du_marché_des_valeurs_du_trésor_de_la_CEMAC_se_e3430dd3.pdf
+Date extraction : 15/06/2026 20:03:39
+======================================================================
+
+[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
+Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

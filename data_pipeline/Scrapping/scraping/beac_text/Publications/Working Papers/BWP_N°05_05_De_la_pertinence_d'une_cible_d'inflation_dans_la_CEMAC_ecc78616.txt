@@ -1,0 +1,1055 @@
+Source PDF : BWP_N°05_05_De_la_pertinence_d'une_cible_d'inflation_dans_la_CEMAC_ecc78616.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BWP_N°05_05_De_la_pertinence_d'une_cible_d'inflation_dans_la_CEMAC_ecc78616.pdf
+Date extraction : 15/06/2026 21:28:29
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s E t a t s d e
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 05/15 -
+De la pertinence d’une cible d’inflation dans la CEMAC
+MVONDO Emile Thierry
+Docteur en sciences économiques
+Directi on de la F ormation
+mvondot@beac.int
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+DIRECTION DE LA RECHERCHE
+
+--- Page 2 ---
+De la pertinence d’une cible d’inflation dans la CEMAC
+Thierry MVONDO ∗
+Février 2015
+Résumé
+Ce papier part de la dépendance de la cible d’inflation des fondamentaux de l’économie qui varient dans
+le temps et dérive sa trajectoire de la minimisation d’une fonction de perte des autorités monétaires
+sous contrainte de l’activité économique. Cette trajectoire évolue en fonction de l’écart entre l’inflation
+observée et l’output gap. L’estimation par un modèle de panel à coefficients variables montre qu’elle
+comporte un effet temporel l’ayant maintenu en deçà du critère de convergence sous régional (3%) avant
+la dévaluation de 1994 et l’ayant élevé au-dessus de celui-ci après. Cette évolution n’étant pas différente
+entrelespays,unetrajectoireuniquepourraitêtresuivie.Sonimplémentationparlapolitiquemonétaire
+consisterait à se doter d’une prévision de l’écart entre l’inflation observée et celle-ci, sur un horizon où
+elle peut être considérée comme constante. Sur cet horizon, les autorités monétaires ajusteraient leurs
+instrumentsdemanièreàinfléchirlacroissancemonétairequiendéfinitivevaimpacterl’écartprévision-
+nel entre l’inflation observée et le point ciblé.
+Mots clés : Cible d’inflation-ancrage des anticipations-crédibilité-stabilité des prix.
+Classification JEL : E52, E58
+Abstract
+Duetothedependenceofinflationtargetsontime-varyingmacroeconomicfundamentals,wehavederived
+itsdynamicinthispaperbyminimizingthemonetaryauthoritieslossfunctionsubjecttoeconomicacti-
+vity. The results obtained with a time varying panel data estimation show a dependence of the inflation
+target trajectory to a time effect which hept it under the sub regional convergence criterion (3%) before
+the CFA devaluation and significantly increase it above this criterion thereafter. The similarity of this
+dynamic for all CEMAC countries allows for the implementation of a unique inflation target trajectory.
+This could be done by considering a forecast of the gap between current and targeted inflation. Giving
+this gap, monetary policy instruments may be adjusted for its reduction via their correlation with the
+actual intermediate target : the monetary aggregate.
+Keys words : Inflation targets-expectations anchoring-credibility-price stability.
+JEL Code : E52, E58
+∗Cadre à la Direction de la Formation de la BEAC. Je tiens à remercier Avom Désiré, De Vrijer Erik, Diffo Georges,
+KobouGeorges,MounkalaEvrard,OndoOssaettouslesparticipantsauxpremiersateliersdesannées2013et2014dela
+DirectiondelaRecherchepourleurscommentairesetsuggestionssurlesversionsantérieuresdecepapier.Ilresteentendu
+quetouteserreursouomissionsdansledocumentdemeurentmiennes.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non-technique 2
+Introduction 4
+1 Revue de la littérature 5
+1.1 Les fondements économiques de la cible d’inflation . . . . . . . . . . . . . . . 6
+1.2 La détermination de la trajectoire de la cible d’inflation . . . . . . . . . . . . 7
+2 Le modèle et sa solution 9
+2.1 Présentation du modèle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.2 Résolution du modèle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3 Estimation de l’écart de production et de la trajectoire de la cible d’in-
+flation 14
+3.1 Estimation de l’écart de production . . . . . . . . . . . . . . . . . . . . . . 14
+3.2 Estimation de la trajectoire de la cible d’inflation . . . . . . . . . . . . . . . 14
+3.3 Interprétation des résultats . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Conclusion 20
+Références bibliographiques 22
+Annexes 25
+2
+
+--- Page 4 ---
+Résumé non-technique
+La conduite de la politique monétaire est tributaire de la maîtrise d’un certain nombre d’indicateurs
+jouant un rôle similaire à celui des panneaux de signalisation sur les autoroutes. Parmi ces "panneaux",
+figure la cible d’inflation, vue comme le niveau d’inflation pour lequel, les autorités monétaires en y
+situant l’inflation observée, ne déstabilisent ni n’accompagnent l’évolution de l’activité économique dans
+lecycle.Lorsquecettecibleestconnueetaffichée,sonatteintepermetdecrédibiliserlapolitiquemenée,
+d’orienter les prévisions et les décisions que prennent les agents vis-à-vis du futur, et partant, de lisser
+la conjoncture économique au regard de la stabilité des prix lorsque ces autorités disposent d’une marge
+de manœuvre.
+C’est justement vers la quête de cette marge de manœuvre additionnelle que s’oriente la réforme de la
+politiquemonétairedelaBEAC.Acetitre,ilyalieudedotersoncadred’élaborationd’unindicateurtel
+quelacibled’inflation.Toutefois,ladépendancedecettecibledesfondamentauxdel’économietelquela
+production potentielle font qu’il soit difficile de cibler unilatéralement et définitivement une valeur fixe :
+du fait de l’évolution de ces fondamentaux. La cible d’inflation devient par conséquent une trajectoire à
+déterminer, dont l’unicité doit être établie dans une union monétaire hétérogène à l’instar de l’UMAC
+(Banque de France, 2011)1, du fait d’une politique monétaire unique. La trajectoire et l’unicité de la
+cible d’inflation dans la CEMAC sont ainsi le fil conducteur de ce papier. Pour cela, nous avons dérivé
+celle-ci de la minimisation d’une fonction de perte des autorités monétaires sous contrainte de l’activité
+économique. Il a été établi qu’elle évolue en fonction de l’écart entre l’inflation courante et l’output gap.
+Les travaux d’estimation effectués montrent que cette trajectoire comporte un effet temporel l’ayant
+maintenu en deçà du critère de convergence sous régional (3%) avant la dévaluation de 1994 et l’ayant
+significativementélevéau-dessusdecelui-ciaprès.Endéfinitive,lesrésultatsobtenusn’étantpassignifi-
+cativementdifférentsentrelespaysdelazoneetnonobstantl’hétérogénéitésupposéedeséconomies,une
+trajectoire unique de la cible d’inflation peut être adoptée, car exempte de l’influence des spécificités de
+cespays.Atitred’illustration,elleaétéinférieureà3%entre1986et1993(cequisupposeenadmettant
+des origines monétaires de l’inflation) que la banque centrale induisait de la surchauffe du fait des taux
+d’inflationsupérieursouégauxàcettevaleur).Parlasuite,elleaconnudesvaleursau-dessusde3%entre
+1994 et 1997 ainsi qu’entre 2005 et 2009 (effet contraire de l’action de la Banque Centrale). Toutefois,
+il faut noter qu’elle a été identique au critère de convergence sous régional en 1998, 2002, 2003 puis de
+2010 à 2012.
+La politique monétaire étant par nature essentiellement tournée vers le futur, l’implémentation de cette
+trajectoire dans son cadre d’élaboration dans la zone consisterait dans un premier temps à se doter
+d’une prévision de cette cible sur un horizon où elle peut être considérée comme constante et de celle de
+l’inflationobservée.Surcethorizon,lesautoritésmonétairesajusteraientleursinstrumentsdemanièreà
+infléchirlacroissancemonétairequiendéfinitivevaimpacterl’écartprévisionnelentrel’inflationobservée
+etlepointciblé.Cetajustementdoitégalementprendreencompteladynamiquedesindicateursreflétant
+la position de l’économie dans le cycle et la conjoncture internationale. De ce qui précède, il devient
+impérieux de compléter la présente étude par une autre, relative à la détermination de l’horizon de la
+cible d’inflation dans la CEMAC.
+1. Banque de France (2011) : Rapport annuel de la Zone franc
+3
+
+--- Page 5 ---
+Introduction
+Le choix d’un objectif d’inflation pour une banque centrale s’accompagne de la définition
+d’une cible à moyen terme sur laquelle, cette institution peut considérer qu’en y situant
+l’inflation observée par ses mesures de politique monétaire, elle ne déstabilise ni n’ac-
+compagne l’évolution de l’activité économique dans le cycle2. Suivant Gosselin (2008), sa
+définition explicite dans les Statuts de la Banque des Etats de l’Afrique Centrale (BEAC)
+devrait se traduire à l’instar des institutions y faisant recours, par un double effet sur
+l’efficacité de sa politique monétaire. De manière directe, elle fournirait une référence au-
+tour de laquelle les autorités monétaires pourront, tout en préservant la stabilité des prix,
+s’octroyer une marge de manœuvre en vue de lisser la conjoncture. De manière indirecte,
+en imposant une transparence des décisions de politique monétaire, elle contribuerait à
+ancrer les anticipations, et améliorerait ainsi les performances de cette politique par deux
+canaux dont la qualité de l’information transmise aux agents privés ainsi qu’aux marchés,
+et la crédibilité qui en résulterait dans l’union monétaire.
+La CEMAC est une union composée de six Etats3 dont la conduite de la politique mo-
+nétaire est dévolue à une banque centrale4. Sa monnaie, le Franc CFA, est rattachée à
+l’Euro par une parité fixe. Sa politique monétaire a pour objectif la stabilité monétaire
+qui signifie sur le plan interne, un taux d’inflation faible et sur le plan externe, un taux
+de couverture extérieure de la monnaie suffisant. L’ancrage nominal au Franc Français
+puis à l’Euro depuis 1999 résulte d’une part, du souci de protéger ses économies des chocs
+externes et, d’autre part, de la nécessité de bénéficier de la discipline inflationniste de la
+monnaie d’ancrage à travers le suivi du différentiel d’inflation. Ce différentiel pourrait
+toutefois être variable entre pays, du fait de la divergence de leurs performances écono-
+miquesquiendéfinitiveimpliqueraitunemultiplicitédeciblesd’inflation.Parconséquent,
+à l’instar de la monnaie de référence, une cible d’inflation, reflet de l’équilibre macroéco-
+nomique à moyen terme doit être définie et la pertinence de son unicité appréciée dans
+la zone.
+En rapport avec son niveau, une banque centrale devrait cibler un taux d’inflation nul,
+de manière à préserver le pouvoir d’achat des agents économiques. Toutefois, trois séries
+d’arguments justifient selon Mishkin (2002) le choix d’une cible non nulle. Le premier
+argument a trait aux erreurs de mesure qui surévaluent le niveau de l’inflation; cibler un
+niveau nul serait alors équivalent à une politique de désinflation. Le deuxième est relatif
+2. A cette cible, l’on associe de plus en plus en vue d’affiner la régulation conjoncturelle, un seuil qui
+est le niveau à partir duquel les effets de l’inflation sur l’activité deviennent négatifs.
+3. Cameroun, RCA, Congo, Gabon, Guinée Équatoriale et Tchad.
+4. La Banque des Etats de l’Afrique Centrale (BEAC).
+4
+
+--- Page 6 ---
+à l’impossibilité pour les banques centrales de mener des politiques de stabilisation en
+présence de faibles niveaux de cibles d’inflation. Le troisième quant à lui est lié à l’ef-
+fet Samuelson-Balassa qui justifie l’hétérogénéité des performances inflationnistes au sein
+d’une zone monétaire par le rattrapage en termes de productivité. Fort de ces arguments
+l’on pourrait avec Aubert (2001) suggérer dans une union monétaire hétérogène, de ci-
+bler un taux égal à l’écart entre l’inflation agrégée de la zone et celle du pays le moins
+inflationniste.
+Cette approche suppose que la non-nullité de la cible soit essentiellement imputable aux
+écarts de productivité. Elle met de côté les deux premiers arguments et ignore les poten-
+tiels effets des rigidités telles que postulées par la Nouvelle Economie Keynésienne. En
+s’intéressant essentiellement à l’inflation, elle ignore l’importance des fondamentaux de
+l’économie tels que l’écart de production (Orphanides, 2004) et les effets incomplets du
+taux de change (Monacelli, 2005). Dans cette logique, Giannoni et Woodford (2004) éta-
+blissent une relation négative entre l’écart de l’inflation à sa cible et l’écart de production.
+Mieux encore, ils montrent que cette cible ne saurait être un point fixe, car dépendant
+des fondamentaux de l’économie qui évoluent dans le temps. Fort de cette relation, nous
+proposons une réponse à la question primordiale de son opportunité dans la CEMAC
+à savoir : est-il pertinent d’y adopter une cible d’inflation unique et fixe du fait de la
+diversité de performances économiques que l’on y rencontre?
+Pour répondre à cette question, nous effectuons dans un premier temps un survol théo-
+rique sur les fondements économiques des cibles d’inflation. Par la suite, nous présentons
+les relations du modèle retenu et dérivons sa solution. L’estimation de sa trajectoire est
+faite en deux temps par un modèle de panel à coefficients variables. Dans un premier
+temps, nous jugeons de la validité des effets fixes adoptés. Dans un deuxième temps, l’ab-
+sence d’effets fixes individuels nous permet d’affiner la technique d’estimation ci-dessus
+par l’usage des effets temporels. Nous concluons enfin sur son implémentation par la
+politique monétaire de la BEAC.
+1
+Revue de la littérature
+La mise en place d’une banque centrale s’accompagne de l’assignation à celle-ci d’un ob-
+jectifdepolitiquemonétaire.Dotéedecetobjectif,illuiappartientdedéfinirunestratégie
+lui permettant de l’atteindre. Pendant les trente glorieuses des politiques keynésiennes,
+cet objectif s’est confondu à celui de la politique économique. L’on a ainsi parlé du carré
+magique de Kaldor (croissance, plein-emploi, stabilité des prix et équilibre extérieur).
+Avec la stagflation des années 70, ces banques ont été incapables d’atteindre cet objectif,
+5
+
+--- Page 7 ---
+ce qui a conduit à son recentrage en termes de stabilité des prix à moyen terme5, souvent
+matérialisé par la poursuite d’une cible d’inflation. Dans un premier temps, les stratégies
+adoptées ont consisté à cibler des agrégats de monnaie, du fait de leur corrélation avec
+les prix. Par la suite, cette corrélation étant devenue faible notamment dans les pays
+développés, leur utilisation a été progressivement abandonnée pour un ciblage direct de
+l’inflation. Ainsi, quel que soit la stratégie adoptée, l’objectif de stabilité des prix est
+quantifié par une cible d’inflation dont les fondements économiques se retrouvent dans la
+conjonction de la neutralité monétaire à long terme à la règle d’or d’accumulation (2.1).
+Les fondements économiques sur lesquels elle repose étant variables, il devient opportun
+de l’exprimer par une trajectoire (2.2).
+1.1 Les fondements économiques de la cible d’inflation
+La nouvelle synthèse néoclassique a sérié les effets de la monnaie sur l’activité économique
+en distinguant le court et le moyen ou long terme. A court terme, les imperfections de
+marché, les défauts de coordination ainsi que les rigidités nominales et réelles [Gordon
+(1980), Akerlof et Yellen (1977), Mankiw (1989)] confèrent à la monnaie la capacité de
+retarder l’entrée en cycle ou d’accélérer la sortie, à condition que soient maîtrisé le che-
+minement des impulsions monétaires vers la sphère réelle. A moyen et long terme, les
+conclusions monétaristes sur la neutralité monétaire demeurent, justifiant la nécessité sur
+cet horizon de cibler un taux d’inflation compatible avec le taux de chômage naturel
+[Friedman (1968) et Phelps (1968)]6. Cette recommandation issue du débat autour de la
+courbe de Phillips, relation fondamentale des modèles macroéconomiques suppose pour
+un équilibre compatible avec le plein-emploi, que la cible d’inflation corresponde à l’inter-
+section des courbes de Phillips du court et du long terme : " un taux naturel d’inflation
+". Elle conduit surtout à une question importante : pourquoi le taux de chômage naturel,
+grandeur caractéristique de l’équilibre de long terme?
+La réponse à cette question se retrouve dans les conclusions de la théorie économique à
+long terme, notamment les modèles de croissance néoclassique. La problématique posée
+par ces modèles lorsque l’économie est sur son sentier de long terme, est de déterminer le
+5. Ce choix est imputable d’une part à la nécessité de préserver le pouvoir d’achat des agents écono-
+miques, et d’autre part, à la possibilité de créer des conditions de croissance idoines et donc de baliser le
+sentier vers le plein-emploi.
+6. PourFriedman(1968),letauxdechômagenaturelestletauxquidécouleraitdusystèmewalrasien
+d’équilibre général, avec intégration des caractéristiques structurelles et réelles des marchés des biens et
+services et du travail telles que les imperfections des marchés, la variabilité aléatoire des offres et des
+demandes, le coût de collecte des informations sur les emplois vacants, les coûts de mobilité, etc. Il est
+supposéstableetuniquepourunpaysdonnéetletauxdechômageeffectifgraviteautourdutauxdechô-
+magenaturel.Cetauxdechômagenaturelestessentiellementstructurel,enraisond’inadéquationsentre
+offre et demande de travail, mais aussi frictionnel, en raison de comportements pas toujours rationnels
+des chômeurs à la recherche d’un emploi.
+6
+
+--- Page 8 ---
+taux d’épargne associé au capital par tête qui permet la plus grande consommation par
+tête à chaque instant. En effet, si l’épargne est nulle, il n’y a pas d’investissement et le
+capital usé ou obsolète n’est pas remplacé. A contrario, si tous les revenus sont épargnés,
+laconsommationestnulleetiln’yapasd’incitationàinvestir.Entrecesdeuxextrêmes,il
+existe selon Phelps (1961), un niveau d’épargne qui maximise le niveau de consommation
+et donc le bien-être social. Ce niveau est tel que, la productivité marginale du capital
+par tête égalise les taux de croissance démographique et économique. Ce principe connu
+sous l’appellation de règle d’or d’accumulation suppose une rémunération des facteurs à
+leur productivité marginale : le taux d’intérêt réel ou encore le coût du capital est donné
+par la productivité marginale de ce dernier. En d’autres termes, le taux d’intérêt réel
+doit égaliser le taux de croissance de l’économie à long terme, c’est-à-dire la croissance
+potentielle à laquelle correspond le taux de chômage naturel.
+C’est justement le taux que préconisent de cibler à long terme Friedman (1968, 1977) et
+Phelps (1968). Sur cet horizon, la substitution entre inflation et chômage induite par la
+courbe de Phillips est rompue, du fait de la dépendance de ce taux des facteurs structu-
+rels difficilement influençables par la monnaie. Par conséquent, il devient vain d’accroître
+l’inflation courante au-dessus de ce taux de chômage en escomptant réduire ce dernier
+à travers un supplément d’inflation. Cette impossibilité est expliquée par la Nouvelle
+Economie Keynésienne. A court terme, les rigidités nominales et réelles empêchent tout
+ajustementautomatiquedesprix,laissantainsiuneplaceàuneincidenceréelledesimpul-
+sionsmonétaires.Alongterme,l’économieretrouvelemodedefonctionnementwalrasien.
+A un niveau d’inflation cible extrait du niveau courant, correspond une croissance poten-
+tielle extraite de la croissance réelle; ce qui fonde les approches de la cible basées sur la
+mise en relation de ces deux indicateurs.
+1.2 La détermination de la trajectoire de la cible d’inflation
+Depuis l’abandon de l’hypothèse de constance de la cible d’inflation (Leigh, 2005), la
+trajectoire de celle-ci est déterminée suivant deux cas. Le premier cas s’intéresse à sa
+dynamique et recherche un découpage temporel de celle-ci, alors que le deuxième analyse
+l’incidence de ses changements de niveau sur les autres agrégats macroéconomiques. Sa
+trajectoire est alors déduite parallèlement à l’examen des chocs d’offre susceptibles de
+l’influencer. Les travaux sur le premier cas partent généralement d’une règle de Taylor
+(1993) et supposent que la cible d’inflation suit une marche aléatoire. L’estimation du
+modèle espace-état obtenu est faite par le Maximum de Vraisemblance et le Filtre de
+Kalman. Toutefois, le caractère purement statistique de la spécification de type marche
+aléatoire et l’impossibilité d’expliquer la dynamique de la cible ont poussé de nombreux
+7
+
+--- Page 9 ---
+auteurs7 à y incorporer d’autres variables explicatives. Abandonnant l’approche espace-
+état, Kozicky et Tinsley (1998 et 2003) fournissent une approche alternative basée sur
+la modélisation VAR structurelle avec points finaux variables MEP-VAR8. En rapport
+avec le deuxième cas, il est question de construire une maquette de l’économie étudiée,
+permettant de simuler différents chocs d’offre voire de demande. Les principaux travaux
+empiriques sont ceux de Leigh (2005), Ireland (2007) puis Fève, Matheron et Sahuc (2009
+et 2010).
+Leigh (2005) part de l’estimation d’une règle de Taylor dans laquelle la cible implicite
+d’inflation suit une marche aléatoire. Il s’appuie pour cela sur le constat empirique selon
+lequel, sur les 25 dernières années, l’inflation a décru aux Etats-Unis, passant des valeurs
+à deux chiffres dans les années 1970 à 1% en 2000. Sur cette base, ni la cible d’inflation,
+ni le taux d’intérêt naturel ne peuvent demeurer constant, car la baisse continue du
+taux d’inflation implique celle de la cible et donc du taux d’intérêt naturel. Ses résultats
+montrent une variation considérable de la cible et du taux naturel. Il en déduit une
+confirmation de l’hypothèse de désinflation opportuniste aux Etats-Unis, hypothèse que
+confirme Ireland (2007). Celui-ci se propose de déterminer la trajectoire, les causes et les
+conséquences d’un changement de la cible d’inflation de la Réserve fédérale américaine. Il
+fonde la variation de la cible du constat de Boomfin et Rudebusch (2000) puis Orphanides
+et Wilcox (2002) selon lequel, la période antérieure à 1980 a vu la Réserve fédéral tirer
+avantage des chocs d’offre positifs pour implémenter des politiques de décélération de
+l’inflation. Comme suite à ces hypothèses, Ireland (2007) montre que la cible implicite
+d’inflation de la Réserve Fédérale est passée de 0,25% en 1959 à 8% à la deuxième moitié
+des années 1970. Par la suite, elle s’est abaissée entre 0,5% et 1% en 2004.
+S’appuyant sur les travaux d’Ireland (2007), Fève, Matheron et Sahuc (2010) spécifient
+un modèle dynamique d’équilibre général stochastique pour la Zone Euro, en vue d’ana-
+lyser l’incidence des changements permanents et graduels de politique monétaire sur la
+tendance baissière prononcée de l’inflation au cours des décennies antérieures et, conco-
+mitamment, la contraction prolongée du niveau d’activité. A cet effet, la cible d’inflation
+est modélisée comme comportant des changements autocorrélés et le modèle est estimé
+par la méthode bayésienne. Les simulations effectuées valident l’incidence de la politique
+monétaire et montrent que la zone aurait connu une croissance plus dynamique si l’ob-
+jectif d’inflation avait été mis en œuvre plus rapidement. Préalablement à ces travaux,
+ces auteurs9 déterminent l’évolution de la cible d’inflation dans le cadre d’une petite ma-
+7. Heyer et Timbeau (2002), Slacalek (2003), Logeay et Tober (2003) sont les pionniers dans le cadre
+de l’estimation du taux de chômage d’équilibre suivant la même méthode.
+8. LaméthodeconsisteàestimerunVARavecvariablesendéviationàl’étatstationnaire,demanière
+à imputer toute non-stationnarité à l’écart à cet état. Kozicky et Tinsley (2003) supposent alors que
+seule l’inflation en déviation à l’état stationnaire exhibe une non-stationnarité.
+9. Fève, Matheron et Sahuc (2009).
+8
+
+--- Page 10 ---
+quette empirique de la Zone Euro, inspirée des travaux de Rudbusch et Svensson (1999)
+puis Gerlach et Smet (1999). L’objet principal ici est de modéliser la mise en œuvre com-
+plexe et hétérogène de la politique monétaire dans la zone. L’estimation Bayésienne de
+ladite maquette a permis au-delà de l’évolution de la cible sur la période d’estimation,
+de déterminer les effets sur le produit, l’inflation et le taux d’intérêt, d’un choc négatif
+sur la cible d’inflation, ainsi que la contribution de ce choc aux fluctuations agrégées de
+la Zone Euro.
+Sans se départir de l’approche microfondée, Giannoni et Woodford (2004) montrent que
+cette cible peut être obtenue en minimisant la fonction de perte des autorités monétaires
+sous contrainte de l’activité économique, représentée par la courbe de Phillips. En effet,
+dans la philosophie de la nouvelle synthèse néoclassique, l’activité économique est la
+résultante de l’interaction entre deux types d’agents : les producteurs d’une part et les
+consommateurs d’autre part. Deux types de relations matérialisent cette interaction à
+savoir la courbe IS pour les consommateurs et la courbe de Phillips pour les producteurs.
+Toutefois, le taux d’intérêt n’entrant pas dans les objectifs finals des autorités monétaires,
+l’on suppose alors qu’elles contrôlent directement le taux d’inflation; d’où la mise de côté
+de la courbe IS. Le cadre théorique retenu en vue de la construction de cette courbe
+de Phillips est celui découlant des travaux de Dixit et Stiglitz (1977) sur la concurrence
+monopolistique, auquel est associé depuis Monacelli (2005), la contrainte de l’ouverture
+des économies : les effets incomplets du taux de change.
+2
+Le modèle et sa solution
+Le modèle construit se propose de déterminer une trajectoire de la cible d’inflation implé-
+mentable par les autorités monétaires dans la CEMAC. Pour cela, il s’inspire des travaux
+de Giannoni et Woodford (2004) suivant lesquels, la cible d’inflation s’obtient par mi-
+nimisation d’une fonction de perte des autorités monétaires sous contrainte de l’activité
+économique. Cette fonction de perte comporte deux arguments depuis Barro et Gordon
+(1983) à savoir : l’écart de l’inflation à sa cible et l’écart de production. Nous présen-
+tons dans un premier temps le modèle, puis fournissons sa solution en rapport avec la
+trajectoire de la cible.
+2.1 Présentation du modèle
+Le modèle consiste en deux relations à savoir la fonction de perte des autorités monétaires
+à minimiser et l’activité économique qui lui sert de contrainte, représentée par une courbe
+de Phillips néokeynésienne.
+9
+
+--- Page 11 ---
+2.1.1 La fonction de perte des autorités : le trade-off sur la stabilisation inflation-
+activité
+Sous l’hypothèse de maximisation du bien-être des agents économiques, le critère souvent
+retenu pour les autorités monétaires est le niveau d’utilité espéré dont l’expression algé-
+∞
+brique est (MaxE {(cid:80) βtU }). Dans cette expression, l’utilité à l’instant (t) est conforme
+0 t
+t=0
+aux hypothèses néoclassiques10 et donnée par :
+(cid:90) 1
+U = u(Y ;ξ )− v(h (i)ξ )di (1)
+t t t t t
+0
+Y est un indice de production du bien différencié (i) et h (i) est la quantité de travail
+t t
+offerte pour produire ce bien. La fonction v(h (i);ξ )di est la désutilité liée à l’offre de
+t t
+travail par le ménage représentatif et les chocs de préférence sont mesurés par ξ .
+t
+En vue de déterminer la fonction de perte équivalente, Woodford (2003)11 passe par
+l’approximation de Taylor à l’ordre 2 de la relation 1 ci-dessus et obtient pour la première
+expression :
+1 2
+u(Y ;ξ ) = Yu {Y(cid:98) + (1−σ−1)Y(cid:98) +σ−1g Y(cid:98)}+t.i.p.+O((cid:107)ξ(cid:107)3) (2)
+t t c t t t t
+2
+De manière similaire, il obtient pour la deuxième expression de ladite relation :
+(cid:90) 1 1 2 1
+v(y(i);ξ )di = Yu {(1−Φ)Y(cid:98)+ (1−ω)Y(cid:98) −ωq Y(cid:98)+ (θ−1+ω)var y (i)}+t.i.p.+O((cid:107)ξ(cid:107)3)
+(cid:101) t c t t t t t(cid:98)t
+2 2
+0
+(3)
+La combinaison des relations 2 et 3 fournie en posant par ailleurs x = Y(cid:98) − Y(cid:98)n l’écart
+t t t
+de production et Y(cid:98)n ≡ σ−1gt+ωqt le logarithme du produit potentiel sous l’hypothèse de
+t σ−1+ω
+flexibilité parfaite et pour une fonction de préférence CES :
+Yu
+U = − c {(σ−1 +ω)(x −x∗)+θ(1+ωθ)var logp (i)}+t.i.p.+O((cid:107)ξ(cid:107)3) (4)
+t t i t
+2
+Ainsi, en plus de se soucier de la stabilisation de l’écart de production, il est nécessaire
+de contrôler la dispersion des prix à travers la stabilisation de son niveau général dont
+la relation doit toutefois être spécifiée. Pour cela, l’auteur part d’une courbe de Phillips
+issue de la nouvelle synthèse néoclassique, s’exprimant tel que : π = kx +E π avec
+t t t t+1
+k ≡
+(1−α)(1−αβ)(σ−1+ω)
+(cid:31) 0
+α(1+ωθ)
+10. Concave et strictement croissante en chacun de ses arguments.
+11. La démonstration est reprise en annexes.
+10
+
+--- Page 12 ---
+La manipulation algébrique de l’expression var logp (i) permet d’obtenir12 :
+t t
+∆ = α∆ + α π2+O((cid:107)ξ(cid:107)3), une marche aléatoire des prix. Il apparaît en outre que la
+t t−1 1−α t
+dispersion des prix est une fonction du degré d’instabilité du niveau général des prix. De
+même, aussi bien la composante anticipée que la composante non anticipée de l’inflation
+contribuent à accroître la dispersion des prix.
+Enintégrantcetteexpressionverslefutur,l’onobtient:∆ = αt+1∆ +(cid:80)t αt−s α π2+
+t −1 s=0 1−α s
+O((cid:107)ξ(cid:107)3).
+Le premier terme est indépendant de la politique choisie, son actualisation sur toutes les
+périodes donne : (cid:80)∞ βt∆ = α (cid:80)∞ βtπ2 +t.i.p.+O((cid:107)ξ(cid:107)3)
+t=0 t (1−α)(1−αβ) t=0 t
+En substituant ce résultant dans la fonction d’utilité, l’on obtient :
+(cid:80)∞ βtU = −Ω(cid:80) βtL +t.i.p.+O((cid:107)ξ(cid:107)3).
+t=0 t t
+Avec la fonction de perte quadratique normalisée :L = (π −π∗)2 +λ(x −x∗)2.
+t t t t t
+Le poids relatif de la stabilisation est λ = κ, il est tributaire de la pente de la courbe de
+θ
+Phillips de court terme adoptée (κ) et de l’élasticité de substitution entre deux biens (θ).
+Ainsi, seuls l’écart de production et la composante non anticipée de l’inflation détériorent
+le bien-être.
+2.1.2 La contrainte liée à l’activité économique : la courbe de Phillips en économie
+ouverte
+Elle est obtenue en supposant que l’offre globale comprend deux composantes dont une
+composante domestique et une composante importée pour la revente. De même, aussi
+bien pour la production domestique que pour l’importation pour la revente, la règle de
+fixation des prix retenue est de type Calvo (1983), avec toutefois la prise en compte
+de phénomènes d’indexation à l’inflation comme postulé par Christiano, Eichenbaum et
+Evans (2005). Aussi bien pour les prix domestiques que pour ceux issus de l’importation,
+une fraction 1−θ de firmes fixe de manière optimale ses prix alors qu’une fraction les
+D
+indexe sur le niveau antérieur. La résolution des deux programmes d’optimisation qui en
+découlent fournie :
+1. Inflation domestiques :
+π −δπ = θ−1(1−θ )(1−βθ )mc +βE (π −δπ ) (5)
+D,t D,t−1 D D D t t D,t+1 D,t
+12. L’onposeenfait:P ≡E logp (i)etdoncP −P =E [logp (i)−P ]=(1−α)(logp∗−P ).
+t t t t t−1 t t t−1 t t−1
+De même, ∆ ≡var logp (i) et donc ∆ =var [logp (i)−P ]=α∆ + α (P −P )2.
+t t t t t t t−1 t−1 1−α t t−1
+11
+
+--- Page 13 ---
+2. Inflation importée :
+π −δπ = θ−1(1−θ )(1−βθ )ψ +βE (π −δπ ) (6)
+E,t E,t−1 E E E E,t t E,t+1 E,t
+Pour exprimer la courbe de Phillips en fonction du taux d’inflation calculé sur l’indice
+des prix à la consommation13 il convient de partir d’une log-linéarisation de la relation
+entre indice des prix à la consommation, indice des prix domestiques et indice des prix
+du bien importé suivante P C,t = [(1−γ)(P D,t)1−θ +γ(P E,t)1−θ]1−1 θ exprimée sous forme
+de taux d’inflation telle que :
+π = (1−γ)π +γπ (7)
+t D,t E,t
+EncombinantcetterelationaveclacourbedePhillipsobtenueduprogrammedesproduc-
+teurs domestiques et celle résultant du programme des firmes tournées vers l’importation,
+nous obtenons la relation ci-dessous :
+π = Θ E π +Θ mc +Θ ψ +Θ π (8)
+t π t t+1 mc t ψ E,t π−1 t−1
+Le coût marginal n’étant pas disponible, nous l’approximerons suivant Monacelli (2005)
+à partir du lien de proportionnalité établi avec l’output gap et les déviations à court
+terme de la loi du prix unique, ce qui permet de prendre en compte une éventuelle
+transmissionincomplètedeseffetsdutauxdechange,dufaitdel’ouverturedel’économie.
+D’où l’expression mc = λ y +λ ψ .
+t λ(cid:101)(cid:101)t ψ E,t
+Notre courbe de Phillips peut donc se réécrire :
+π = Θ(cid:48) E π +Θ y +Θ(cid:48) ψ +Θ(cid:48) π (9)
+t π t t+1 y (cid:101)(cid:101)t ψ E,t π−1 t−1
+Où Θ(cid:48) = β et κ = Θ(cid:48) = (1−γ)θ D−1(1−θD)(1−βθD)λ y(cid:101)
+ψ 1+βδ y (cid:101) 1+βδ
+Avec Θ(cid:48) = (1−γ)θ D−1(1−θD)(1−βθD)λ ψ+γθ E−1(1−θE)(1−βθE) et Θ(cid:48) = δ
+ψ 1+βδ π−1 1+βδ
+2.2 Résolution du modèle
+Le programme résultant des deux relations ci-dessus peut dès lors s’écrire :
+∞
+1 (cid:88)
+(MinE {− βt((π −π∗)2 +λ(x −x∗)2)})
+0 2 t t t t
+t=0
+13. Grandeur suivie par la politique monétaire de la BEAC.
+12
+
+--- Page 14 ---
+s/c : π = Θ(cid:48) E π +Θ y +Θ(cid:48) ψ +Θ(cid:48) π
+t π t t+1 y (cid:101)(cid:101)t ψ E,t π−1 t−1
+Ce programme suppose que les autorités monétaires s’engagent une fois pour toute sur les
+valeurs futures de l’inflation et du produit et, par là même, contrôlent les anticipations
+des agents privés. Toutefois, l’on devrait conférer à ces autorités un peu de discrétion,
+de manière à pouvoir intervenir dans les cycles économiques de la zone. Guillard (2000)
+montre alors que lorsque dans ce cas les anticipations sont considérées comme données,
+le programme de minimisation des autorités monétaires peut se réduire à :
+Min (π −π∗)2 +λ(x −x∗)2) s/c :
+(π (cid:101)t,y (cid:101)t) t t t t
+π = Θ(cid:48) E π +Θ y +Θ(cid:48) ψ +Θ(cid:48) π (10)
+t π t t+1 y (cid:101)(cid:101)t ψ E,t π−1 t−1
+En posant y2 = (x −x∗)2, le Lagrangin de ce programme est :
+(cid:101)t t t
+L(π ,y ,∧) = {π2 +λy2}−(π −Θ(cid:48) E π −Θ y −Θ(cid:48) ψ −Θ(cid:48) π )
+(cid:101)t (cid:101)t (cid:98)t (cid:101)t t π t t+1 y (cid:101)(cid:101)t ψ E,t π−1 t−1
+D’où les conditions de premier ordre : ∂L = 2π − ∧ = 0, ∂L = 2λy − ∧α = 0 et
+∂π (cid:98)t (cid:98)t ∂y (cid:101)t (cid:101)t
+∂L = π −Θ(cid:48) E π −Θ y −Θ(cid:48) ψ −Θ(cid:48) π = 0
+∂∧t t π t t+1 y (cid:101)(cid:101)t ψ E,t π−1 t−1
+Soit en définitive :
+κ
+y = − (π −π∗) (11)
+(cid:101)t λ t t
+Suivant Walsh (2002), cette relation n’est pas exacte. En effet, les autorités monétaires
+n’ont pas un contrôle parfait de l’écart de production14, de manière à procéder à un
+arbitrage exacte entre gains de la réduction des fluctuations du revenu (λy ∆y ) et coûts
+(cid:101)t (cid:101)t
+résultant de l’augmentation conséquente de l’inflation [κ(π − π∗)∆y ]. Il y a selon lui
+t t (cid:101)t
+d’autres facteurs que la politique monétaire qui influencent la demande et le produit.
+De même, les autorités monétaires peuvent avoir d’autres objectifs que la stabilisation de
+l’inflation et de l’écart de production à l’instar de la stabilité financière. En supposant que
+l’impact net de ces facteurs additionnels sur le revenu et donc l’écart de production est
+(u ), la relation 11 peut se réécrire : y = −κ(π −π∗)+u , soit encore π = π∗−λ(y −u )
+t (cid:101)t λ t t t t t κ (cid:101)t t
+et en définitive :
+λ
+π = π∗ − y +ε (12)
+t t κ(cid:101)t t
+14. D’abord parce que c’est une grandeur inobservable, ensuite parce que ses méthodes d’estimation
+sont sujettes à débats.
+13
+
+--- Page 15 ---
+3
+Estimation de l’écart de production et de la trajectoire de la cible d’in-
+flation
+3.1 Estimation de l’écart de production
+Les méthodes d’estimation du PIB potentiel et donc de l’écart de production peuvent
+être sériées en trois groupes (Citu et Twaddle 2003). Le premier groupe s’inspire des
+techniques des séries temporelles en vue d’en extraire la tendance alors que le deuxième
+se propose d’isoler l’influence des effets structurels et cycliques sur le PIB à partir de la
+théorie économique. Quant au troisième groupe, il recourt à des données d’enquête en vue
+d’une inférence sur un excès de demande ou d’offre dans l’économie. L’approche la plus
+utiliséedanslestravauxdemeurecelledestechniquesdessériestemporellesnotammentles
+filtres HP et de Kalman, du fait de l’indisponibilité des données d’enquête ou de données
+relatives aux variables de la fonction de production. Sur cette base et compte tenu des
+difficultésàimplémenterlefiltredeKalman,nousrecouronsaufiltreHPaprèscorrections
+du biais de bout d’échantillonnage qui y apparaît généralement. Cette correction effectue
+une prévision à l’aide de l’équation ADF en vue d’allonger l’échantillon et élimine les
+bouts d’échantillon après application du filtre.
+3.2 Estimation de la trajectoire de la cible d’inflation
+La CEMAC est une zone monétaire composée de six Etats ayant une politique moné-
+taire commune. Cette politique qui vise le comportement médian comporte toutefois des
+nuances en vue de prendre en compte l’hétérogénéité des pays; c’est l’intérêt de l’instau-
+ration des coefficients de réserves obligatoires différenciés dans la zone. Le comportement
+médian et donc les hétérogénéités ci-dessus pourraient être approché par un modèle de
+panel, à condition de sérier entre ses quatre types. Le choix d’un type particulier repose
+selon Sevestre (2002) sur deux conditions à savoir la prédiction des comportements de
+l’échantillon (effets fixes ou coefficients composés) et la prédiction des comportements de
+la population (erreurs composées ou coefficients aléatoires). Suivant la deuxième condi-
+tion dite du principe de parcimonie, il est préférable, du fait de la difficulté à estimer et
+à interpréter un modèle comportant un très grand nombre de paramètres, d’opter pour
+un modèle mixte à coefficients variables et à erreurs composées ou à effets fixes dans les
+situations où prévaut une assez forte hétérogénéité de comportements.
+Fort de ce principe et conscient de la nécessité d’une trajectoire de la cible d’inflation,
+nous optons pour un modèle à effets fixes variables dans le temps (lorsqu’il s’agit des
+effets fixes individuels) ou entre individus (lorsqu’il s’agit des effets fixes temporels). La
+procédure d’estimation retenue nous permet par la suite de trancher sur la nature de la
+14
+
+--- Page 16 ---
+fixité des effets (spécifiques ou temporels). Le modèle à estimer qui obéit par ailleurs à
+une représentation espace-état est un "Time-Varying" Panel15. Il se justifie dans notre
+cas par l’éventuelle occurrence et donc l’incidence de chocs asymétrique d’offre et de
+demande sur la cible d’inflation, conduisant à définir non plus un point fixe, mais des
+trajectoires.
+Son expression en rapport avec nos travaux est par conséquent donnée par :
+λ
+π = π∗ − y +ε (13)
+it t κ(cid:101)it it
+Dans cette expression, l’influence de l’écart de production sur l’inflation courante (λ)
+κ
+est supposée identique pour les six Etats de la zone. Par contre, la dynamique de la
+cible varie à la fois par Etat et dans le temps. Elle admet de ce fait la décomposition :
+π∗ = π∗ + δ + γ . δ et γ représentent respectivement l’effet fixe individuel variable
+t it it it it
+dans le temps et l’effet fixe temporel, variable par individu. La relation 13 peut alors être
+réécrite telle que :
+λ
+π = π∗ +δ +γ − y +ε (14)
+it it it (cid:101)it it
+κ
+La procédure d’estimation est faite en deux temps. Dans un premier temps et après
+examen de la stationnarité des séries, nous testons la significativité de la spécification
+retenue. La validation ou non des effets individuels nous conduit à deux cas : (i) les effets
+individuels sont validés et la relation 14 ci-dessus est retenue ou; (ii) les effets individuels
+ne sont pas validés et nous admettons que les effets temporels ne diffèrent pas entre les
+pays. La spécification 14 ci-dessus devient par conséquent :
+λ
+π = π∗ +γ − y +ε (15)
+it t (cid:101)it it
+κ
+Dans un deuxième temps, la représentation espace-état de la relation retenue est estimée
+par le maximum de vraisemblance associé au filtre de Kalman en vue d’obtenir la trajec-
+toire de la cible. Lorsque les effets individuels ne sont pas validés, il devient équivalent
+d’estimer la relation 15 ci-dessus par le maximum de vraisemblance associé au filtre de
+Kalman ou par un estimateur Within ou LSDV. En effet, même l’effet fixe temporel ne
+varie plus par individu et la spécification devient celle d’un panel standard. Partant de
+15. De nombreuses études se sont intéressées à la spécification puis à l’inférence de modèle de panel à
+coefficients variables dans le temps dont celles de Schmidt et alii (2013), Lui (2012) puis Rodrigez et alii
+(2007).
+15
+
+--- Page 17 ---
+la forme général 14, nous spécifions les effets individuels et temporels variables tels que :
+α = π +δ +γ
+it it it
+δ = δ +µ
+it it−1 it
+γ = γ +ν
+it it−1 it
+π = α +−λy +ε
+it t κ(cid:101)it it
+µ ∼ N(0,σ2 );ν ∼ N(0,σ2 );Cov(µ ,ν ) = 0;Cov(µ ,ε ) = 0;Cov(ν ,ε ) = 0
+it µi it νi i i i i i i
+Son estimation par le maximum de vraisemblance associé au filtre de Kalman comporte
+selon Lemoine et Pelgrin (2004), des avantages liés à la contingence de l’analyse préalable
+de la stationnarité ou de la racine unitaire des variables. De même, il n’est pas nécessaire
+que les bruits soient gaussiens. Enfin, l’estimateur optimal prend en compte l’information
+disponible à partir de la date initiale (t = 0), par opposition aux estimateurs optimaux
+du type ARMA(t = −∞) qui sont tronqués à partir de la première date connue.
+3.3 Interprétation des résultats
+L’échantillon porte sur les six pays de la CEMAC et couvre la période 1986-2012. Les
+variables retenues notamment le PIB ayant permis le calcul de l’écart de production sont
+issues de la base de données WDI de la Banque Mondiale. Dans un premier temps, nous
+examinons la stationnarité de celles-ci puis, procédons au test de significativité des effets.
+Les résultats du modèle à effets fixes temporels retenu sont enfin présentés.
+3.3.1 Traitement des données
+Le premier élément de résultat est l’évolution de l’écart de production, obtenue après
+applicationdufiltreHPauxsériesduPIBréelparpays.Sonévolutionetcelledel’inflation
+par pays sont fournies en annexe 2. Suivant le graphique obtenu, la corrélation entre les
+deux grandeurs peut sembler significative dans la majorité des pays dont le Cameroun, le
+Congo, le Gabon et le Tchad. Celle-ci demeure toutefois faible sinon absente en Guinée
+équatoriale. Les propriétés statistiques notamment la stationnarité des deux séries en
+données de panel sont ensuite évaluées. Le tableau ci-dessous fait un résumé des résultats
+des différents tests et révèle principalement que ces variables sont stationnaires à niveau.
+16
+
+--- Page 18 ---
+Table 1 – Test de racine unitaire sur les variables du modèle
+Variables Typedetest Levin, Lin Breitung Im, Pesaran ADF PP Décision
+&Chu &Shin
+Inflation Statistique -7,936 -6,32 -6,3943 56,70 50,74 Stationnaire
+à niveau
+Probabilité 0,0000 0,0000 0,0000 0,0000 0,0000 Stationnaire
+à niveau
+Ecart de Statistique -3,44 -2,415 -4,266 38,78 33,95 Stationnaire
+production à niveau
+Probabilité 0,0003 0,0078 0,0000 0,0001 0,0007 Stationnaire
+à niveau
+A titre de rappel, les tests de Levin, Lin et Chu puis Breitung supposent une racine
+unitaire commune à tous les individus du panel, alors que les tests Im, Pesaran et Shin
+puis ADF et PP supposent une racine unitaire par individu. Tous ces tests ont conclu à
+l’absence de racine unitaire.
+3.3.2 Résultats du test de significativité des effets fixes (spécifiques ou temporels)
+Le test de significativité effectué nous a permis de comparer trois types de modèles à un
+modèles standard sans effets (ordonnée et coefficient de pente uniques) : (i) le modèle
+avec effets individuels; (ii) le modèle avec effets temporels et; (iii) le modèle avec effets
+individuels et temporels. A cet effet, les statistiques de Fisher (F) et du Chi deux ont été
+utilisées. Les résultats sont présentés dans le tableau ci-dessous :
+Table 2 – Test de significativité des effets fixes
+Typed’effets Naturedela Valeur de la d.f. Probabilité Décision
+fixes statistique statistique
+Individuels Fisher 1,2367 (5,129) 0,2957 Spécification rejetée
+Chideux 7,5854 5 0,1806
+Temporels Fisher 13,2625 (26,129) 0,0000 Spécification acceptée
+Chi deux 210,7663 26 0,0000
+Individuels Fisher 11,307837 (31,129) 0,0000 Spécificationrejetéepourfaible
+et temporels significativité du modèle
+Chi deux 212,7094 31 0,0000
+Fort des résultats ci-dessus, nous retenons la spécification avec effets temporels pour
+deux raisons. La première raison est liée au rejet de la spécification avec effets individuels
+par le test et la deuxième pour la faible significativité du modèle avec les deux effets
+(R2 = 0,008).
+17
+
+--- Page 19 ---
+3.3.3 Résultats de l’estimation du modèle avec effets fixes temporels
+Les résultats de l’estimation nous ont permis de juger de la valeur moyenne de la cible sur
+la période d’analyse. Celle-ci s’élève à 3,6%, avec un écart type de 0,41; soit un intervalle
+deconfianceàdeuxécartstypede[2,78-4,42].Letableauci-dessousprésentelesrésultats
+de l’estimation du modèle avec effets fixes temporels.
+Table 3 – Estimation du modèle à effets fixes temporels et évolution de la cible
+Variable Coefficients Ecart type Student Probabilité
+Ecart de production -0,007516 0,00139 -5,408619 0,0000
+R2 =0,72
+R2 =0,65
+Ajust
+DW =1,716
+Toutefois, la validation de la spécification avec effets temporels nous amène à nous in-
+terroger sur la soutenabilité ou non de la valeur trouvée (3,6%) dans le temps, d’où la
+détermination de la trajectoire de la cible par la prise en compte desdits effets tempo-
+rels, illustrée par le graphique 1. Ses réalisations sont ainsi confrontées à l’évolution de
+l’inflation courante par pays (Graphique 2) sur la période d’estimation ainsi qu’à celle de
+l’inflation de la zone (Graphique 3).
+Figure 1 – Evolution de la cible d’inflation dans la CEMAC (1986-2012)
+A l’exception des années 1994 et 1995, l’on note deux phases dans la dynamique de la
+cible d’inflation dans la CEMAC. La première se situe avant la dévaluation et dénote de
+18
+
+--- Page 20 ---
+faibles valeurs de la cible; généralement inférieures à 2%. La deuxième quant à elle va de
+1996 à 2012. Sur celle-ci, la cible d’inflation a eu des valeurs statistiquement au-dessus du
+critère de convergence sous régional (3%). Cette évolution à la hausse reflète en définitive
+l’amélioration des performances économiques dans la zone.
+Figure 2 – Dynamique de la cible et de l’inflation courante par pays (1986 - 2012)
+19
+
+--- Page 21 ---
+Figure 3 – Dynamique de la cible et de l’inflation courante de la CEMAC (1991 - 2012)
+L’observation des graphiques ci-dessus confirme la possibilité de poursuivre une cible
+d’inflationuniquepourlespaysdelazone,dufaitnotammentdesonadéquationaussibien
+en données pays qu’en données agrégées. A titre d’illustration, elle a été inférieure à 3%
+entre 1986 et 1993 (ce qui suppose en admettant des origines monétaires de l’inflation?)
+que la banque centrale induisait de la surchauffe du fait des taux d’inflation supérieurs
+ou égaux à cette valeur). Par la suite, elle a connu des valeurs au-dessus de 3% entre 1994
+et 1997 ainsi qu’entre 2005 et 2009 (effet contraire de l’action de BC). Toutefois, il faut
+noter qu’elle a été identique au critère de convergence sous régional en 1998, 2002, 2003
+puis de 2010 à 2012.
+20
+
+--- Page 22 ---
+Conclusion
+Notre étude se proposait de juger de la pertinence d’une cible d’inflation dans la CEMAC.
+Pour cela, sa trajectoire a été déduite de la minimisation de la fonction de perte des
+autorités monétaires sous contrainte de l’activité économique. Il est apparu que cette
+cible évolue en fonction de l’écart entre l’inflation courante et l’output gap. L’estimation
+par un modèle de panel à coefficients variables dans le temps montre que nonobstant
+une valeur moyenne de 3,6 % et un écart type de 0,41 sur l’ensemble de l’échantillon,
+celle-ci comporte un effet temporel ayant maintenu sa trajectoire en deçà du critère de
+convergence sous régional (3%) et l’ayant élevé significativement après la dévaluation de
+1994. En définitive, ces résultats montrent qu’en dépit de l’hétérogénéité supposée des
+économies de la zone16, une trajectoire unique de la cible d’inflation peut être adoptée
+car, exempte de toute influence pays. Pour cela il faudrait toutefois compléter la présente
+étude par une autre, relative à la détermination de l’horizon de ladite cible. Ce qui
+permettrait alors, moyennant une projection de l’inflation courante et de cette cible sur
+son horizon, de faire usage des instruments de politique monétaire dont la corrélation
+avec la cible intermédiaire (M2) permettrait de réduire l’écart constaté entre inflation
+courante et cible d’inflation dans la zone.
+16. Laffiteau et Edi (2014) introduisent toutefois une nuance en distinguant la dimension nominale de
+la dimension réelle. Ainsi, l’hétérogènéité serait davantage notable sur la dimension réelle.
+21
+
+--- Page 23 ---
+Références
+[1] AHN S. C, Y. H. LEE et P. SCHMIDT(2003) : "Panel Data Models with Time-
+Varying Individual Effets", Journal of Econometrics, 17 4(2013) 1-14.
+[2] AKERLOF, G. A. ET YELLEN, J. L.(1985a) : "A Near-Rational Model of the
+Business Cycle, with Wage and Price Inertia", Quarterly Journal of Economics, sup-
+plement.
+[3] ALBAGLI E., K. SCHMIDT-HEBBEL(2004) : "By How Much and Why Do In-
+flation Targeters Miss Their Targets?", Federal Reserve Bank, Atlanta.
+[4] AUBERT L.(2001) : La politique monétaire : éléments de théorie et pratique des
+banques centrales, Institut de Recherches Economique et Sociales.
+[5] Banque de France(2011) : Rapport annuel de la Zone Franc.
+[6] BARRO R. J., D., B. GORDON (1983) : "Rules, Discretion and Reputation in a
+Model of Monetary Policy", NBER Working Paper, n˚1079.
+[7] BOOMFIN A. N., G. D. RUDEBUSCH (2000) : "Opportunistic and Deliberate
+Disinflation Under Imperfect Credibility", Journal of Money, Credit and Banking, 32,
+707-721.
+[8] CALVO G. A. (1983) : "Staggered Prices in a Utility Maximizing Framework",
+C.E.M.A and Columbia University, New York, NY 10027, U.S.A.
+[9] CALZA A. D., GEDERSMEIR, J. LEVY (2001) : "Euro Area money Demand :
+MeasuringtheOpportunityCostsAppropriately",International Monetary Fund Wor-
+king Paper, 01/179.
+[10] CHRISTIANO L., EICHENBAUM, M., EVANS, C. (2005) : "Nominal Rigidi-
+ties and the Dynamic Effects of a Shock to Monetary Policy", Journal of Political
+Economy, Vol. 113(1), pp. 1-46.
+[11] CITU F., J., TWADDLE (2003) : "The Output Gap and it Role in Monetary
+Policy Decision-making", Reserve Bank of New Zealand Bulletin, vol. 66, n˚1.
+[12] DIXIT A. K. ET J. E. STIGLITZ (1977) : "Monopolistic Competition and Op-
+timum Product Diversity", American Economic Review, 67, p. 134-160.
+[13] FEVE P., J. MATHERON J-G. SAHUC (2009) : "Une estimation de la cible
+implicite d’inflation dans la zone euro", Revue française d’économie, n˚2, vol. XXIV.
+[14] FEVE P., J. MATHERON J-G. SAHUC (2010) : "Inflation Target Shocks and
+Monetary Policy Inertia in the Euro Area", The Economic Journal, vol. 120, pp 110-
+1124.
+[15] FRIEDMAN, M. (1968) : "The Role of Monetary Policy", American Economic
+Review, 58.
+22
+
+--- Page 24 ---
+[16] GERLACH S., F. SMETZ(1999):"OutputGapandMonetaryPolicyintheEMU
+Area", European Economic Review, 47-71.
+[17] GIANNONI M., M. WOODFORD (2004) : "Optimal Inflation Targeting Rules",
+In The Inflation-Targeting Debate, NBER.
+[18] GORDON, R. J. (1981) : "Output fluctuations and gradual price adjustment",
+Journal of Economic Literature, June.
+[19] GOSSELIN M. A. (2008) : "Les performances des banques centrales en régime de
+cibles d’inflation", Revue de la Banque du Canada.
+[20] GUILLARD M. (2000) : "Nouvelle synthèse et politique monétaire", Document de
+recherche EPEE, N˚. 00-07.
+[21] HEYER E., X. TIMBEAU (2002) : "Le chômage structurel à 5% en France?",
+Revue de l’OFCE, n˚80, Janvier.
+[22] IRELAND P. N. (2007) : "Changes in the Federal Reserve’s Inflation Target :
+Causes and Consequences", Journal of Money, Credit and Banking, 39, 1851-1882.
+[23] KOZICKY A., P. S. TINSLEY (1998) : "Moving Endpoints and the Internal
+Consistency of Agents Ex Ante Forecast", Computational Economics, 11 (1-2) : 21-
+40.
+[24] KOZICKY A., P. S. TINSLEY (2003) : "Alternative Sources of the Lag Dyna-
+mics of Inflation", In Price Adjustment and Monetary Policy, 3-47. Proceedings of a
+Conference held by the Bank of Canada, November 2002. Ottawa : Bank of Canada.
+[25] Laffiteau E. et Edi S. J. (2014) : "Les pays de la CEMAC convergent-ils?",
+STATECO, N˚108.
+[26] LEIGH, D. (2005) : "Estimating the Implicit Inflation Target : An Application to
+US Monetary Policy", IMF Working Paper.
+[27] LOGEAY C. ET S. TOBER (2003) : " Time-Varying NAIRU and Real Interest
+Rate in Euro Area", Discussion Papers du DIW, n˚350.
+[28] LUI J.(2012):"APanelDataModelwithNonparametricTimeEffects:ABayesian
+Analysis with Application to the Translog Distance Function", Working Paper, Rice
+University.
+[29] MANKIW, N. G. (1989) : "Real Business Cycles : A New Keynesian Perspective",
+The Journal of Economic Perspectives.
+[30] MARIEL P., S. ORBE et C. RODRIGEZ (2007) : "A Time Varying Coefficient
+Model for Panel Data : Foreign Investment in European OECD Countries", Docu-
+mento de Trabajo, Universidad del pais Basco.
+[31] MISHKIN F. (2002) : "Réflexions sur la poursuite de cibles en matière d’inflation",
+in La stabilité des prix et la cible à long terme de la politique monétaire, Banque du
+Canada.
+23
+
+--- Page 25 ---
+[32] MONACELLI T. (2005) : "Monetary Policy in a Low Pass-Through Environment",
+Journal of Money, Credit and Banking, vol., n˚6, December.
+[33] ORPHANIDES A. (2004) : "The Reliability of Inflation Forecasts Based on Output
+Gap Estimate in Real Time", Finance and Economics.
+[34] ORPHANIDES A., ET D. WILCOX (2002) : "Opportunistic Approach to Disin-
+flation", International Finance 5, 47-71.
+[35] PHELPS E. S. (1961) : "The Golden Rule of Accumulation : A Fable for Growth
+men", American Economic Review, Vol. 51, 638-643
+[36] PHELPS E. S. (1968a) : "Money-Wage Dynamics and Labor-Market Equilibrium",
+Journal of Political Economy, Vol. 76, 678-711
+[37] POLLIN P. (2002) : "Pour une stratégie de ciblage de l’inflation en zone Euro",
+Revue d’Economie Financière, n˚65, pp 39-68.
+[38] ROGER, STONE (2005) : "On Targets? The International Experience with Achie-
+ving Inflation Targets", Document de Travail, Fonds Monétaire International.
+[39] RUDBUSCH G. D., ET L. E. O. SVENSSON (1999) : "Policy Rules of Inflation
+Targeting", In Taylor (G. B.) ed., Monetary Policy Rules, pp. 203-246, The University
+of Chicago Press.
+[40] SEVESTRE P. (2002) : Econométrie des données de panel, Dunod.
+[41] SLACALEK J. (2003) : "Productivity and Natural Rate Unemployment", Docu-
+ment de Travail, www.econ.jhu.edu.
+[42] TAYLOR J. B. (1993) : "Discretion Versus Policy Roles in Practice", Carnegie-
+Rochester Conference Series on Public Policies, 39, December : 195-214.
+[43] WALSH C. E. (2002) : "Teaching Inflation Targeting : An Analysis for Intermediate
+Macro", Journal of Economic Education.
+[44] WOODFORD M. (2003) : Money, Interest and Prices : Foundations of a Theory
+of Monetary Policy, Princeton University Press.
+24
+
+--- Page 26 ---
+Annexes
+Annexe A : Dérivation de la fonction de perte des autorités monétaires
+Sous l’hypothèse de maximisation du bien-être des agents économiques, le critère souvent
+retenu pour les autorités monétaires est le niveau d’utilité espéré dont l’expression algé-
+∞
+brique est (MaxE {(cid:80) βtU }). Dans cette expression, l’utilité à l’instant (t) est conforme
+0 t
+t=0
+aux hypothèses néoclassiques17 et donnée par :
+(cid:90) 1
+U = u(Y ;ξ )− v(h (i)ξ )di (16)
+t t t t t
+0
+Y est un indice de production du bien différencié (i) et h (i) est la quantité de travail
+t t
+offerte pour produire ce bien. La fonction v(h (i);ξ )di est la désutilité liée à l’offre de
+t t
+travail par le ménage représentatif et les chocs de préférence sont mesurés par ξ .
+t
+En vue de déterminer la fonction de perte équivalente, l’on peut à l’instar de de Woodford
+(2003) passer par l’approximation de Taylor à l’ordre 2 de la relation 16 ci-dessus. Ainsi,
+la première expression de cette relation s’écrit en supposant u ≡ U(Y;0) et Y(cid:101) ≡ Y −Y.
+t
+La fluctuation de Y(cid:101) étant de l’ordre de O((cid:107)ξ(cid:107)3), on a :
+u(Y ;ξ ) = u+u Y(cid:101) +u ξ + 1u Y(cid:101)2 +u ξ Y(cid:101) + 1ξ(cid:48)u ξ +O((cid:107)ξ(cid:107)3)
+t t c t ξ t 2 cc t cξ t t 2 t ξξ t
+Si l’on substitue Y(cid:101) par Y(cid:98) = log(Yt), l’on peut écrire par l’approximation de Taylor :
+t t
+Y
+Yt = 1+Y(cid:98) + 1Y(cid:98)2 +O((cid:107)ξ(cid:107)3), l’on obtient :
+Y t 2 t
+u(Y ;ξ ) = u+Yu (Y(cid:98) + 1Y(cid:98)2)+u ξ + 1Y2 u Y(cid:98)2 +Yu ξ Y(cid:98) + 1ξ(cid:48)u ξ +O((cid:107)ξ(cid:107)3)
+t t c t 2 t ξ t 2 cc t cξ t t 2 t ξξ t
+En regroupant dans l’expression t.i.p. tous les éléments indépendants de la politique
+économique (exogènes ou constantes), et en faisant usage de la relation18 g = −u cξξt,
+t
+Yucc
+l’on obtient :
+1
+u(Y ;ξ ) = Yu {Y(cid:98) + (1−σ−1)Y(cid:98)2)+σ−1g Y(cid:98)}+t.i.p+O((cid:107)ξ(cid:107)3) (17)
+t t c t 2 t t t
+De manière similaire, l’on peut obtenir un développement de Taylor à l’ordre 2 de la
+deuxième expression de la relation 16, soit :
+v(y(i);ξ ) = Yv {y (i)+ 1(1+ω)y2(i)−ωq y (i)}+t.i.p+O((cid:107)ξ(cid:107)3)
+(cid:101) t (cid:101)c (cid:98)t 2 (cid:98)t t(cid:98)t
+Dans cette expression, y (i) ≡ log(yt(i)) et ω est l’élasticité du coût marginal réel au
+(cid:98)t
+Y
+produit. De même, q ≡
+−v (cid:101)yξξt
+est la variation en pourcentage du produit nécessaire pour
+t
+Yv (cid:101)yy
+17. Concave et strictement croissante en chacun de ses arguments.
+18. Variation en pourcentage du produit permettant de maintenir l’utilité marginale des dépenses à
+son état stationnaire à la suite d’un choc de préférence.
+25
+
+--- Page 27 ---
+maintenir la désutilité marginal de l’offre v à son niveau stationnaire à la suite d’un choc
+(cid:101)y
+de préférence.
+En faisant usage de la relation du coût marginal réel s(y,Y;ξ(cid:101)) = v (cid:101)y(y;ξ(cid:101)) et de celle du pro-
+uc(Y;ξ)
+duit à l’état stationnaire avec une inflation nulle et sans chocs s(Y,Y;0) = 1−τ ≡ 1−Φ,
+µ
+l’on obtient :
+v(y(i);ξ ) = Yu {(1−Φ)y (i)+ 1(1+ω)y2(i)−ωq y (i)}+t.i.p+O((cid:107)ξ(cid:107)3)
+(cid:101) t c (cid:98)t 2 (cid:98)t t(cid:98)t
+En intégrant cette expression sur les biens différenciés (i), l’on obtient :
+(cid:82)1
+v(y(i);ξ )di = Yu {(1 − Φ)E y (i) + 1(1 + ω)[(E y (i))2 + var y (i)] − ωq E y (i)} +
+0 (cid:101) t c t(cid:98)t 2 t(cid:98)t i(cid:98)t t t(cid:98)t
+t.i.p.+O((cid:107)ξ(cid:107)3)
+Or l’approximation de Taylor de l’indice agrégé de production est fournie par :
+Y(cid:98) = E y (i) + 1(1 − θ−1)var y (i) + O((cid:107)ξ(cid:107)3), ce qui nous permet d’éliminer E y (i) et
+t t(cid:98)t 2 i(cid:98)t t(cid:98)t
+donc :
+(cid:90) 1 1 2 1
+v(y(i);ξ )di = Yu {(1−Φ)Y(cid:98)+ (1+ω)Y(cid:98) −ωq Y(cid:98)+ (θ−1+ω)var y (i)}+t.i.p.+O((cid:107)ξ(cid:107)3
+(cid:101) t c t t t t i(cid:98)t
+2 2
+0
+(18)
+La combinaison des relations 17 et 18 fournie alors :
+U = Yu {ΦY(cid:98) − 1(σ−1+ω)Y(cid:98)2+(σ−1g +ωq )Y(cid:98) − 1(θ−1+ω)var y (i)}+t.i.p+O((cid:107)ξ(cid:107)3)
+t c t 2 t t t t 2 i(cid:98)t
+En posant x = Y(cid:98) −Y(cid:98)n l’écart de production et Y(cid:98)n ≡ σ−1gt+ωqt le logarithme du produit
+t t t t σ−1+ω
+potentiel sous l’hypothèse de flexibilité parfaite, l’on a :
+U = −Yuc{(σ−1 +ω)(x −x∗)2 +(θ−1 +ω)var y (i)}+t.i.p.+O((cid:107)ξ(cid:107)3)
+t 2 t i(cid:98)t
+Pour une fonction de préférence CES entre les biens différenciés, la demande s’exprime
+telle que :logy (i) = logY −θ(log(p (i))−logP ) et donc var y (i) = θ2var logp (i) puis
+t t t t i t i t
+finalement :
+Yu
+U = − c {(σ−1 +ω)(x −x∗)2 +θ(1+ωθ)var logp (i)}+t.i.p.+O((cid:107)ξ(cid:107)3) (19)
+t t t t
+2
+Ainsi, en plus de se soucier de la stabilisation de l’écart de production, il est nécessaire
+de contrôler la dispersion des prix. Cela peut être obtenu par la stabilisation du niveau
+général des prix dont la relation doit toutefois être spécifiée.
+Pour cela, supposons une courbe de Phillips issue de la nouvelle synthèse néoclassique,
+s’exprimant tel que : π = κx +E π avec k ≡
+(1−α)(1−αβ)(σ−1+ω)
+(cid:31) 0
+t t t t+1 α(1+ωθ)
+Posons P ≡ E log(p (i)) et ∆ ≡ var log(p (i)). L’on arrive pour P −P à :
+t t t t t t t t−1
+26
+
+--- Page 28 ---
+P −P = E [log(p (i))−P ]
+t t−1 t t t−1
+=αE [log(p (i))−P ]+(1−α)(log(p∗)−P )
+t t−1 t−1 t t
+=(1−α)(log(p∗)−P )
+t t−1
+De manière similaire pour ∆
+t
+∆ = var [log(p (i))−P ]
+t i t t−1
+=E {(log(p (i))−P )2}−(E (log(p (i))−P ))2
+i t−1 t−1 i t−1 t−1
+=αE {[log(p (i))−P ]2}+(1−α)(log(p∗)−P )2 −(P −P )
+i t−1 t−1 t t−1 t t−1
+=∆ + α (P −P )2
+t−1 1−α t t−1
+En substituant l’approximation linéaire P = log(P )−O((cid:107)ξ(cid:107)2), l’on obtient :
+t t
+∆ = α∆ + α π2+O((cid:107)ξ(cid:107)3), une marche aléatoire des prix. Il apparaît en outre que la
+t t−1 1−α t
+dispersion des prix est une fonction du degré d’instabilité du niveau général des prix. De
+même, aussi bien la composante anticipée que la composante non anticipée de l’inflation
+contribuent à accroître la dispersion des prix.
+En intégrant vers le futur cette expression, l’on obtient :
+∆ = αt+1∆ +(cid:80)t αt−s α π2 +O((cid:107)ξ(cid:107)3).
+t −1 s=0 1−α s
+Le premier terme est indépendant de la politique choisie, son actualisation sur toutes les
+périodes donne : (cid:80)∞ βt∆ = α (cid:80)∞ βtπ2 +t.i.p.+O((cid:107)ξ(cid:107)3)
+t=0 t (1−α)(1−αβ) t=0 t
+En substituant ce résultant dans la fonction d’utilité, l’on obtient :
+(cid:80)∞ βtU = −Ω(cid:80) βtL +t.i.p.+O((cid:107)ξ(cid:107)3).
+t=0 t t
+Avec la fonction de perte quadratique normalisée :L = (π −π∗)2 +λ(x −x∗)2.
+t t t t t
+27
+
+--- Page 29 ---
+Annexe B : Evolution de l’écart de production et de l’inflation par pays
+Cameroun Centrafrique
+Congo Gabon
+Guinée Equatoriale Tchad
+28
+
+--- Page 30 ---
+Annexe C : Evolution annuelle des effets fixes temporels
+Table 4 – Test de racine unitaire sur les variables du modèle
+Années Effetsfixestemporels Années Effetsfixestemporels
+1986 -5,364 2000 -1,56
+1987 -5,841 2001 1,59
+1988 -2,021 2002 -0,09
+1989 -2,847 2003 -1,22
+1990 -1,882 2004 -3,95
+1991 -6,366 2005 0,32
+1992 -7,460 2006 1,28
+1993 -4,363 2007 -3,06
+1994 31,540 2008 3,71
+1995 8,967 2009 1,10
+1996 1,777 2010 0,17
+1997 0,850 2011 -0,98
+1998 -0,029 2012 0,19
+1999 -4,486
+29

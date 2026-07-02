@@ -17,13 +17,8 @@ import torch
 
 # Desactive les gradients (inutile en inference) et maximise les threads CPU.
 torch.set_grad_enabled(False)
-#torch.set_num_threads(int(os.environ.get("OMP_NUM_THREADS", os.cpu_count() or 4)))
-
-torch.set_num_threads(int(os.environ.get("OMP_NUM_THREADS", 8)))
-# Force 8 threads (4 cores × 2 HT) — os.cpu_count() peut retourner 6 selon Windows
-
-# Ajouter après :
-torch.set_num_interop_threads(2)   # threads pour les ops parallèles inter-opérations
+torch.set_num_threads(int(os.environ.get("OMP_NUM_THREADS", 6)))
+torch.set_num_interop_threads(2)
 
 
 from functools import lru_cache

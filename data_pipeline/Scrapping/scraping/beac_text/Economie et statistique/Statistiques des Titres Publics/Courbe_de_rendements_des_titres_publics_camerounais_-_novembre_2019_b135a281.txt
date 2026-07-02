@@ -1,0 +1,56 @@
+Source PDF : Courbe_de_rendements_des_titres_publics_camerounais_-_novembre_2019_b135a281.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbe_de_rendements_des_titres_publics_camerounais_-_novembre_2019_b135a281.pdf
+Date extraction : 15/06/2026 20:24:11
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS
+Courbe de rendements des titres publics du Cameroun
+DE '
+L'AFRIQUE CENTRA LE
+~.-~
+,
+--Novembre 2019
+,
+8,00
+6,75 6,83 6,90
+7,00 6,65
+6,51
+6,31
+6,00
+';::'(
+0 5,00
+-~c:
+ell
+c:
+~
+4,00
+E
+~
+"0
+c:
+~
+c:::
+3,00
+2,00
+1,00
+0,00
+3mois 6 mois 1an 1,5ans 2ans 3ans 3,5A 4 ans 5ans 6 ans 7ans 8ans 9ans 10ans
+Maturites
+
+--- Page 2 ---
+Maturite Rendement (en 0/0)
+3 mois 2,63
+6 mois 2,41
+1an 3,08
+1,5 an 3,96
+2 ans 4,66
+3 ans 5,54
+3,5 ans 5,81
+4 ans 6,02
+5 ans 6,31
+6 ans 6,51
+7 ans 6,65
+8 ans 6,75
+9 ans 6,83
+10 ans 6,90

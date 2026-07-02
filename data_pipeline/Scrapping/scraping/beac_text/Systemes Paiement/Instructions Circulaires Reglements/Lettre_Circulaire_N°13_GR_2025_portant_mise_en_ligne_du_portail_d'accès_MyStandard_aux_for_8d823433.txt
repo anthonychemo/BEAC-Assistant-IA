@@ -1,0 +1,160 @@
+Source PDF : Lettre_Circulaire_N°13_GR_2025_portant_mise_en_ligne_du_portail_d'accès_MyStandard_aux_for_8d823433.pdf
+Chemin original : scraping\beac_data\Systemes Paiement\Instructions Circulaires Reglements\Lettre_Circulaire_N°13_GR_2025_portant_mise_en_ligne_du_portail_d'accès_MyStandard_aux_for_8d823433.pdf
+Date extraction : 15/06/2026 19:27:01
+======================================================================
+
+--- Page 1 ---
+BEAC
+-4 %or*r,r*ron
+BANQUE DES EIATS DE
+I]AFRIQUE CENTRALE
+le I
+Yaoundé, 'l NOV 2025
+NO
+LETTRE CIRCULAIRE IGF(I2O25
+Portant mise en ligne du portail d'accès r< MyStandard »>
+auxformats ISO 20022 de la BEAC
+Dans le cadre de la migration de la Communauté Financière Internationale vers la norme
+N"
+ISO 20022, par Instruction 00VGV2025 du 17 novembre 2025,Ia Banque des États de
+l'Afrique Centrale (BEAC) a entrepris la modernisation de son environnement domestique à
+travers I'adoption et l'implémentation de cette norne internationale dans le système de
+règlement brut en temps réel RTGS SYGMA.
+La version 10 de SYGMA, actuellement en cours de déploiement, introduit un format
+propriétaire conforme à ISO 20022, auquel les systèmes d'information des participants doivent
+s'adapter afin de garantir la compatibilité des échanges.
+Afin de faciliter l'implémentation de la norrne et d'assurer une mise en conformité
+harmonieuse, la BEAC met à la disposition des participants les spécifications de messages
+chargés sur le portail SWIFT MyStandard.
+1) Description du portail
+Le portail MyStandard est une plateforme Web collaborative développée par SWIFT,
+permettant aux régulateurs ou gestionnaires des systèmes de paiement de créer, publier et
+partager les spécifications des messages au format ISO 20022.
+La BEAC y a créé une communauté fermée dénommée « CEMAC-BANK >>, dont l'accès
+doit faire l'objet d'une demande préalable et être approuvé par les administrateurs du portail.
+Une fois l'accès validé, les utilisateurs peuvent
+:
+-
+consulter la structure et les règles d'élaboration des messages ISO 20022 de la BEAC ;
+-
+accéder aux exemples de messages disponibles
+;
+-
+charger et tester les fichiers générés par leurs systèmes internes
+;
+-
+vérifier leur conformité au standard BEAC.
+e}.Wl1,/*zt
+N":S
+.f
+Banquc dcc Etatr dc l'Afriquc Ccntrale - Serviccs Centrau:ç
+736 Ave Monseigneur Vogt - B.P.'l 91 7 Yaoundé (Cameroun) -Têl (237) 222 23 40 30 - www.beac.int - beac@beac.int
+
+--- Page 2 ---
+2) Contenu du portail et modalités d'usage
+La collection de messages publiée par la BEAC, intitulée BEAC_SYGMA ISO20022,
+comprend 29 messages répartis en trois catégories
+:
+a) messages administratifs (ADMI) :Admi.002, Admi.004.
+b)
+messages de paiement, compensation et règlement (PACS) : Pacs.002, Pacs.004,
+Pacs.008, Pacs.009, Pacs.O10, Pacs.O28.
+c) messages de gestion de trésorerie (CAMT) : Camt.0 07 , 009,010, 0l l, 0l 8, 019, 025,
+l,
+029, 033, 034, 046, 047, 048, 050, 05 052, 053, 054, 056, 060, 998.
+Un tableau récapitulatif détaillant l'équivalence entre les nouveaux formats de messages
+et les anciens formats MT est annexé à la présente circulaire. En outre, la documentation de
+l'éditeur CMA sur les formats détaille davantage les cas d'usage.
+3) Modalités d'accès au portail
+L'accès au portail s'effectue via MyStandards à l'adresse suivante
+*
+https ://www2. swift .com/mystandards/.
+La connexion nécessite un compte utilisateur SWIFT.com. Une fois connecté, une
+recherche de la communauté "CEMAC-BANK" dans l'onglet "Communities" doit être
+effectuée, puis une demande d'accès sollicitée en cliquant sur le bouton "Request Access". La
+demande sera ensuite examinée et validée par les administrateurs de la BEAC, sous réserve de
+la reconnaissance du domaine institutionnel du demandeur, et éventuellement à l'argumentaire
+associée à la demande.
+Après validation, les participants pourront accéder à
+:
+o
+la collection BEAC_SYGMA_ISO20O22 contenant l'ensemble des messages MX
+attendus dans SYGMA;
+o
+les commentaires et règles applicables à chaque message
+;
+o
+les exemples de messages
+;
+o
+les outils de test de conformité intégrés au portail.
+Tous les participants aux systèmes de paiement de la BEAC sont invités à intégrer la
+communauté "CEMAC-BANK" dans un délai maximum d'un (1) mois à compter de l'entrée en
+vigueur de la présente note.
+La présente Lettre circulaire prend effet à compter de sa date de signature. /-
+Étalsde
++
+æ'
+4.
+É"Adly'Jold +
+No:S
+2 A G
+Ya
+EJ.0t
+Banquc des Etats dc l'Afriquc Ccntralc - Scrviccs Ccntrau& 2
+736 Ave Monseioneur Voot - 8.P.191 7 Yaoundé (Cameroun) -1él ,237\ 222 23 40 30 - www.beac.int - beac@beac.int
+
+--- Page 3 ---
+Tableau récapitulatif détaillant I'équivalence entre les nouveaux formats de messages et
+les anciens formats MT
+MT ISO Nom
+MT996ÆRRC Admi.002 Message de refus
+Notification de l'expiration future du
+MT999/PAS SWORDEXPIRATION Admi.004
+mot de passe
+MTn96/STAT pacs.002 Message d'état du transfert
+MT2O2 RETURN pacs.004 Retour de paiement
+MTI03 pacs.008 Virement à un client
+Virement vers une institution financière
+MT2O2 pacs.009
+générale
+Message de prélèvement automatique
+l/4T204 pacs.010
+pour les marchés financiers
+MTn95/STAT pacs.028 Message de demande d'état de transfert
+MTn95ÆRTY camt.007 Demande de changement de priorité
+Obtenir une demande de seuil de
+MT999IGETOVERDRAFT camt.009
+découvert
+Notification sur le seuil de découvert
+MT999/RETOVERDRAFT camt.010
+actuel
+MT999/SETOVERDRAFT camt.Ol l Définir le seuil de découvert
+Demande d'horaire de la journée
+MT999/GETBUS INE S SDAYPERIOD camt.O18
+d'échange
+Notification du calendrier des jours
+MT999/BUSINE S SDAYPERIOD camt.O19
+ouvrables
+18.4 Notification de changement de mot de
+camt.025
+MT9gg/CHANGEPAS WORD/OK passe réussi
+S
+MTn96/CANC camt.029 Message de réponse à I'annulation
+MTn95/DUPL camt.033 Demande de copie du transfert
+MTn96/DUPL camt.034 Copie du transfert
+MT999/GETACC OUNTLIMIT camt.046 Obtenir une réservation
+MT999/RETAC C OUNTLIMIT camt.047 Réservation de retour
+MT9 99lS ETAC C OLINTL IMI T camt.048 Définir la réservation
+MT2O2 RESCREDI camt.050 Augmenter la réservation
+MT2O2 RESDEBIT camt.05l Diminuer la réservation
+MT941 camt.052 Rapport de solde Message
+MT95O camt.053 Message de relevé de compte
+MT900/910 camt.054 Confirmation Débit/Crédit
+MTn92 camt.056 Demande d'annulation
+}/4T920l94t camt.060 Message de demande de solde
+MT9gg/TEXTMESSAGE camt.998 Message libre
+ot4/ar
+N':SHQ. I
+Banquc des Etets dc l'Afriquc Ccntralc - Scrviccs Ccntrau&
+736 Ave Monseioneur Voot - B.P.191 7 Yaoundé (Cameroun) -Iél Q37\ 222 23 40 30 - www.beac.int - beac@beac.int

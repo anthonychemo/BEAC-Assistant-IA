@@ -1,0 +1,2098 @@
+Source PDF : Bulletin_n°9_(juin_2007)_cf4fd6f3.pdf
+Chemin original : scraping\beac_data\Supervision bancaire\Publications\Bulletin_n°9_(juin_2007)_cf4fd6f3.pdf
+Date extraction : 15/06/2026 20:13:33
+======================================================================
+
+--- Page 1 ---
+Bulletin
+de la Commission Bancaire
+de l'Afrique Centrale
+NN°° 99
+JJuuiinn
+22000077
+• Secrétariat Général de la COBAC • B.P.: 1917 Yaoundé - Cameroun • Tél.: (237) 22 23 40 60 • Fax : (237) 22 23 82 16
+
+--- Page 2 ---
+Sommaire
+Avant propos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+I.Réglementation comptable et prudentielle. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+4èmeREUNION DU GROUPE DES SUPERVISEURS BANCAIRES FRANCOPHONES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+1.Organisation et renforcement de l’action préventive. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2..Normes comptables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+3.Plans de continuité d’activité. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+4.Suivi des principaux thèmes abordés à MERIDA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+5.Recommandations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+2.Situation du système bancaire de la CEMAC au 30 juin 2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.SITUATION D'ENSEMBLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.1.Evolution de la situation bilantielle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.2.Respect des normes prudentielles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+1.3.Résultats de la cotation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+II.SITUATION PAR PAYS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+2.1.Le système bancaire camerounais. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+2.2.Le système bancaire centrafricain. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+2.3.Le système bancaire congolais. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+2.4.Le système bancaire gabonais. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+2.5.Le système bancaire équato-guinéen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+2.6.Le système bancaire tchadien. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+ANNEXE :STATISTIQUES DU SYSTEME BANCAIRE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+III.ETUDE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+LA CONCURRENCE DANS LE SECTEUR BANCAIRE DE LA CEMAC. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+Annexes de l’étude. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+--- Page 3 ---
+Avant-propos
+Le bulletin n° 9 de la Commission Bancaire de l’Afrique Centrale (COBAC) est subdivisé
+en trois axes majeurs.Le premier fait le point de la 4ème réunion du Groupe des Superviseurs
+Bancaires Francophones. Le second présente la situation du système bancaire de la
+Communauté Economique et Monétaire de l’Afrique Centrale (CEMAC) au 30 juin 2007.Le
+troisième quant à lui est une étude sur l’évaluation du niveau de concurrence dans le secteur
+bancaire de la CEMAC.
+La situation du système bancaire s’appuie sur les données arrêtées à fin juin 2007. Les
+principaux agrégats ont enregistré de bonnes évolutions comparativement à la situation qui
+prévalait un an plus tôt. Le total de bilan du système bancaire a progressé de 11,7 % ; les
+dépôts collectés se sont accrus de 10,25 % et les crédits distribués ont progressé de 16,0 %.
+L’excédent de trésorerie dégagé s’est maintenu au même niveau que celui atteint en 2006.
+Sur le plan du respect de la Réglementation prudentielle,la situation du système bancaire
+de la CEMAC apparaît globalement satisfaisante.
+Enfin, le lecteur trouvera dans ce bulletin une étude présentant les différentes approches
+couramment utilisées dans la littérature pour évaluer le niveau de concurrence avec une
+illustration pour le secteur bancaire de la sous-région sur la période allant de 2001 à 2007.
+MAHAMAT MUSTAPHA
+Secrétaire Général de la COBAC
+5
+
+--- Page 4 ---
+I. Réglementation comptable et prudentielle
+4ÈME RÉUNION DU GROUPE DES SUPERVISEURS BANCAIRES FRANCOPHONES
+La Commission Bancaire de l’Afrique Centrale (COBAC) a accueilli, le 19 mars 2007 à
+Yaoundé au Cameroun, la 4ème réunion du Groupe des Superviseurs Bancaires
+Francophones (GSBF).
+Cette réunion a connu la participation des délégations venues de Belgique,du Burundi,du
+Canada,des Comores,du Congo (RDC),de la France,de la Guinée,de Haïti,de Madagascar,
+du Maroc, de la Roumanie, du Rwanda, de l’Union Monétaire Ouest-Africaine et de la
+CEMAC.
+Les travaux,présidés par Monsieur Rigobert Rogert Andely,Vice-Gouverneur de la BEAC
+et Président suppléant de la COBAC,ont porté sur quatre points principaux :l’organisation
+et le renforcement de l’action préventive, les normes comptables, les plans de continuité
+d’activité et le suivi des principaux thèmes abordés à Merida au Mexique (Mise en œuvre de
+Bâle II,Microfinance,et Mise en œuvre des BCP révisés).Ils ont donné lieu à des recomman-
+dations qui seront soumises à l’appréciation des Gouverneurs Francophones lors de leur
+prochaine réunion.
+1. Organisation et renforcement de l’action préventive
+Après une présentation de la note sous dossier par le Secrétaire Général du Groupe,les
+différentes délégations ont exposé leurs expériences respectives et les outils élaborés dans le
+cadre de l’organisation et du renforcement de l’action préventive du superviseur.
+Au terme de cet échange,six points de réflexion ont été mis en exergue :
+- comment faire évoluer les outils existants vers le pilier 2 de Bâle II ;
+- le problème de la qualité de l’information ;
+- la pondération des éléments pris en compte pour l’évaluation des établissements de
+crédit ;
+- la prise en charge des banques en difficulté ;
+- la problématique de la publication des informations et des cotations issues des
+évaluations ;
+- l’harmonisation des pratiques et règles.
+7
+
+--- Page 5 ---
+a) L’évolution des outils existants vers le pilier 2 de Bâle II
+Les participants ont relevé le caractère récent des différents outils dans la plupart des
+juridictions présentes.La majorité de ces outils fonctionne sous les principes de Bâle I.
+b) Le problème de la qualité de l’information
+Il est ressorti des échanges que bon nombre de superviseurs s’appuient sur les auditeurs
+externes et internes pour se faire une opinion sur l’information financière reçue des
+établissements de crédit assujettis. Les contrôles permettent souvent de relever des
+insuffisances graves remettant en cause la qualité des informations fournies.
+c) La pondération des éléments pris en compte pour l’évaluation des établissements de
+crédit
+De l’expérience des différents superviseurs, il apparaît que les éléments pris en compte
+dans la notation des établissements de crédit (solvabilité, liquidité, qualité du portefeuille,
+rentabilité, qualité du management) sont globalement similaires. Les choix en matière de
+pondération sont relativement divergents. Même si l’objectif n’est pas de parvenir à une
+harmonisation,la nécessité des pondérations a été relevée par l’ensemble des participants.
+d) La prise en charge des banques en difficulté
+Les débats ont porté principalement sur les pouvoirs reconnus par la loi au superviseur et
+son implication dans le suivi des banques en difficulté. Dans certains pays,la désignation des
+administrateurs provisoires est du ressort des superviseurs ; dans d’autres cependant, ce
+pouvoir revient au juge ou à l’Autorité monétaire.L’administrateur provisoire peut être choisi
+parmi le personnel de l’organe de supervision ou provenir de l’extérieur.
+e) La problématique de la publication des informations et des cotations issues des
+évaluations
+Le tour de table a permis de constater que la plupart des superviseurs demeurent pru-
+dents quant à une large diffusion des informations et des cotations issues des outils dévelop-
+pés.Certains ont opté pour la communication de la notation aux établissements concernés,
+sur une base individuelle. D’autres utilisent les moyens modernes de communication (inter-
+net) pour publier certaines informations financières (ratio de fonds propres par exemple)
+relatives aux banques de leur ressort et suivant une périodicité bien établie.
+Il a aussi été relevé que certains établissements de crédit utilisent la notation obtenue du
+superviseur à des fins commerciales. Seulement, aucune disposition réglementaire n’existe
+pour les en empêcher.
+8
+
+--- Page 6 ---
+f) L’harmonisation des pratiques et règles
+A ce stade,les participants ont jugé prématuré le traitement de la question de l’harmoni-
+sation des pratiques et des règles.
+2. Normes comptables
+Un point d’étape des travaux du Sous-groupe constitué pour traiter de cette question a
+été présenté.Un questionnaire portant sur le degré de mise en œuvre (ou de préparation à
+la mise en œuvre) par les superviseurs des filtres prudentiels est en cours de finalisation et
+sera transmis aux différents membres d’ici à la fin du mois de mars.Une synthèse des répon-
+ses devrait être présentée au GSBF avant fin septembre 2007.
+Le sous-groupe prévoit en outre d’organiser, à la rentrée 2007 à Paris, un séminaire
+d’information sur la mise en œuvre des filtres prudentiels et des recommandations du
+Comité de Bâle en matière comptable.
+3. Plans de continuité d’activité
+Pour ce qui concerne les plans de continuité d’activité (PCA), le Secrétaire Général du
+Groupe a présenté l’intérêt que revêt la continuité d’activité, ainsi que les coordinations
+internationales qui ont été mises en place pour traiter de la question.
+Les sept principes directeurs en matière de continuité d’activité élaborés par le Forum
+Tripartite ont ensuite été présentés.
+Les échanges entre les participants ont tourné autour des deux interrogations suivantes :
+«les membres ont-ils conscience des recommandations du Comité de Bâle en matière de
+continuité d’activité ?» ;«comment peuvent-ils les mettre en œuvre ?»
+Il en est ressorti que la prise de conscience est générale.Certains pays membres sont déjà
+à un stade opérationnel.D’autres ne sont qu’au stade des réflexions sur la mise en œuvre des
+principes.Les PCA ne concernent pas uniquement les banques,ils concernent également les
+organes de supervision.
+4. Suivi des principaux thèmes abordés à MERIDA
+Les principaux thèmes abordés par le GSBF lors de la rencontre de Mérida en octobre
+2006 ont été passés en revue.
+9
+
+--- Page 7 ---
+g) Mise en œuvre de Bâle II
+Les participants ont apporté des compléments sur la mise en œuvre de Bâle II dans leurs
+juridictions.Certains organes de supervision ont déjà arrêté une date d’entrée en vigueur du
+Nouvel Accord de Bâle dans leurs juridictions, ainsi que les formes et contenus des relevés
+périodiques.
+h) Microfinance
+Plusieurs pays membres ont présenté les difficultés auxquelles ils font face pour ce qui
+concerne la supervision du secteur de la microfinance.
+Le Comité de Bâle qui s’est approprié le dossier de la microfinance doit pouvoir prêter une
+oreille attentive aux points de vue des experts des pays en développement. Pour cela, les
+comités de réflexion qui seront mis en place pour réfléchir sur le sujet doivent être constitués
+d’une bonne dose d’experts d’Asie,d’Afrique et d’Amérique du Sud.
+A la question de savoir qui va contrôler le secteur de la microfinance, il a été retenu
+d’appliquer une « stratégie de groupe » : une réglementation mise en place par la Banque
+Centrale, un contrôle assuré par l’organe de supervision, en associant les Ministères des
+Finances et la profession (auto-régulation).
+i) Mise en œuvre des BCP révisés
+Sur ce point,le Secrétariat Général du GSBF a invité les membres à identifier d’éventuels
+problèmes de compréhension et d’interprétation.
+5. Recommandations
+Au terme de leurs débats,les participants ont fait les recommandations suivantes :
+Sur l’organisation et le renforcement de l’action préventive, les pays membres du GSBF
+doivent adopter une démarche pragmatique pour la mise en œuvre du pilier 2 de Bâle II et
+les outils développés dans le cadre du renforcement de l’action préventive du superviseur
+doivent évoluer en conséquence.Toutefois, certains de ces outils nécessitent encore un peu
+de temps pour asseoir leur crédibilité.
+Les pays membres doivent mettre l’accent sur la qualité de l’information.La crédibilité de
+la plupart des outils développés reste tributaire de la qualité de l’information fournie.Au-delà
+de la qualité de l’information,tout doit aussi être mis en œuvre pour raccourcir les délais de
+disponibilité de cette information.
+10
+
+--- Page 8 ---
+Sur la prise en charge des banques en difficulté,un suivi convenable des établissements en
+difficulté doit être fait, en vue de garantir la sécurité des dépôts et la crédibilité du système
+bancaire.Toutefois,les dispositions doivent être prises pour préserver l’organe de supervision
+et limiter sa responsabilité.
+S’agissant de la problématique de la publication des informations et des cotations issues
+des évaluations, les superviseurs doivent s’en tenir à ce qui est recommandé par le Comité
+de Bâle en matière de communication de l’information financière afin d’éviter les effets
+dévastateurs d’une publication mal maîtrisée et inappropriée.
+Sur le plan de continuité d’activité, les pays membres doivent s’engager résolument dans
+l’application de ces principes directeurs non seulement par l’industrie,mais également par les
+organes de supervision. Les pays membres du Joint Forum sont invités à apporter leur
+appui aux pays en développement dans la mise en place des PCA,car c’est une initiative très
+coûteuse.
+Sur la mise en œuvre de Bâle II, les participants ont relevé la nécessité d’aller vers le
+Nouvel Accord. L’approche pragmatique adoptée par certains organes de supervision
+semble tout indiquée pour les pays en développement.
+Sur la microfinance,les pays membres remercient la Coopération Française pour son appui
+à la microfinance manifesté dans plusieurs pays. Des efforts doivent être menés en matière
+de recensement des institutions existantes et de mise en place d’une réglementation
+appropriée.
+11
+
+--- Page 9 ---
+2. Situation du système bancaire
+de la CEMAC au 30 juin 2007
+Au 30 juin 2007, le système bancaire de la Communauté Economique et Monétaire de
+l'Afrique Centrale (CEMAC) compte 38 banques en activité. Elles sont réparties au
+Cameroun (12 banques),en Centrafrique (3 banques),au Congo (5 banques),au Gabon (7
+banques),en Guinée Equatoriale (4 banques) et au Tchad (7 banques).
+Cependant,la situation présentée dans ce bulletin ne concerne pas United Bank For Africa
+Cameroon (UBA) et Ecobank Congo (Ecobank Congo) qui n’ont pas encore démarré leur
+activité.
+1.SITUATION D'ENSEMBLE
+1.1.Evolution de la situation bilantielle
+1.1.1.Evolution des principaux agrégats
+L’activité bancaire à fin juin 2007a poursuivi sa tendance haussière,comme l’atteste le total
+agrégé des bilans qui s'est établi à 4 244 Mds FCFA,en progression de 11,7 % par rapport au
+30 juin 2006.Les dépôts collectés se sont élevés à 3675 Mds FCFA et ont représenté 86,6 %
+du total agrégé des bilans. Ils se sont accrus de 10,25 % en variation annuelle. Quant aux
+crédits bruts à la clientèle,ils se sont situés à 2 202 Mds FCFA.Ils ont progressé de 16,0 %
+en comparaison avec leur niveau de juin 2006.
+Dépôts, crédits nets et total cumulé des bilans -
+Ensemble des banques
+4244
+3799
+4500 2980
+4000 3675
+3333
+3500 2570
+3000
+2500
+2000 2201
+1898
+1500 1517
+1000
+500
+0
+30.06.2005 30.06.2006 30.06.2007
+Dépôts clientèle Crédits nets Total du bilan
+13
+AFCF
+ed
+sdraillim
+ne
+
+--- Page 10 ---
+Les provisions pour dépréciation des comptes clientèle sont en baisse de 1,6 % par
+rapport au niveau atteint l'année précédente à la même date et ont atteint 208 Mds FCFA.
+Les crédits nets ont ainsi progressé de 18,2 % et se sont fixés à 1 994 Mds FCFA,soit 47,0 %
+du total agrégé des bilans.
+Dépôts et crédits nets rapportés au total cumulé des bilans - Ensemble des
+banques
+100,0
+90,0 86,2 87,7
+86,6
+80,0
+70,0
+60,0
+50,9
+50,0 47,0
+40,0
+44,4
+30,0
+20,0
+10,0
+0,0
+30/06/05 30/06/06 30/06/07
+Dépôts Crédits nets
+En ce qui concerne la qualité du portefeuille des crédits, les créances en souffrance de
+l’ensemble des banques de la CEMAC se sont élevées à 250 Mds FCFA, soit 11,3 % des
+crédits bruts. Le taux de créances en souffrance a ainsi chuté de 2 points comparé à la
+situation prévalant à fin juin 2006 (13,4 %).
+14
+%
+ne
+Crédits bruts, créances en souffrance (en milliards de FCFA) et taux de créances
+en souffrance (en %) - Ensemble des banques
+2500 100,0
+2202
+1898
+2000 80,0
+1717
+1500 60,0
+1000 40,0
+15,3 13,4 11,4
+500 262 255 250 20,0
+0 0,0
+30/06/05 30/06/06 30/06/07
+Crédits bruts Créances en souffrance Taux de créances en souffrance
+AFCF
+ed
+sdraillim
+ne
+%
+ne
+
+--- Page 11 ---
+Ces créances en souffrance sont couvertes par les provisions à hauteur de 83,2 %,contre
+82,9 % en juin 2006.Les déclarations des banques et les résultats des dernières vérifications
+font ressortir un besoin de provisions complémentaires de 22 Mds FCFA. Ce besoin était
+estimé à 19 Mds FCFA l'année précédente à la même date.
+Les banques de la CEMAC ont dégagé un excédent des capitaux permanents de 105 Mds
+FCFA par rapport aux valeurs immobilisées. A fin juin 2006, il s'élevait à 79 Mds FCFA.
+L'excédent de trésorerie s’est situé à 1 854 Mds FCFA et a représenté 437,7% du total
+agrégé des bilans. Il est en hausse de 5,8% par rapport à la situation prévalant douze mois
+plus tôt.
+Capitaux permanents, ressources et emplois de trésorerie rapportés au total
+cumulé des bilans - Ensemble des banques
+100,0
+90,0
+80,0
+70,0
+60,0
+52,5
+50,0 44,3 50,6
+40,0
+30,0
+20,0 11,8
+1 00 ,, 00 13, 63 ,6 11 6,6 ,4 7,0
+30.06.2005 30.06.2006 30.06.2007
+Capitaux permanents Ressources de trésorerie Emplois de trésorerie
+15
+%
+ne
+
+--- Page 12 ---
+1.1.2.Evolution des opérations avec la clientèle
+1.1.2.1.Les ressources collectées
+Les ressources à vue (y compris les comptes d'épargne sur livrets) sont en augmentation
+de 14,5 % par rapport à juin 2006. Elles s'établissent à 2 815 Mds FCFA, soit 76,6 % des
+dépôts collectés,contre 73,7 % douze mois plus tôt.
+Les ressources à terme collectées auprès de la clientèle,constituées des comptes à terme
+et des comptes de dépôts à régime spécial (bons de caisse notamment), se sont situées à
+711 Mds FCFA, représentent 19,4 % du total des dépôts, contre 22 % à fin juin 2006.
+Elles sont toutefois en hausse de 3,1 % par rapport au niveau atteint l’année précédente à la
+même date.
+Structure des dépôts par type de comptes - Ensemble des banques
+3,5 3,8 3,7
+100%
+7,6 6,9 6,2
+16,1 15,2 13,3
+80%
+60%
+40% 72,7 74,1 76,9
+20%
+0%
+30.06.2005 30.06.2006 30.06.2007
+Comptes à vue Comptes à terme Comptes de dépôts à régime spécial Autres
+L’analyse des ressources collectées auprès de la clientèle, suivant les types de déposants,
+laisse apparaître une prédominance des dépôts du secteur privé.Ces derniers ont représenté
+73,9 % du total des dépôts,contre 70,6 % douze mois plus tôt.En valeur absolue,ils se sont
+situés à 2 717 Mds FCFA,soit une expansion de 15,4 % comparés à leur niveau de juin 2006.
+Les dépôts des administrations publiques, en hausse de 7,6% par rapport à fin juin 2006,
+s'élèvent à 549 Mds FCFA, soit une proportion de 14,9 % du total des dépôts collectés,
+contre 15,3 % en juin 2006. De leur côté, les dépôts des entreprises publiques se fixent à
+145 Mds FCFA,ce qui représente 4,0 % de l’ensemble des dépôts (contre 7,3 % douze mois
+plus tôt).En comparaison avec leur niveau de juin 2006,les dépôts des entreprises publiques
+accusent une baisse de 40,4 %.
+16
+
+--- Page 13 ---
+Structure des dépôts par type de déposants - Ensemble des banques
+120,0
+7,1 6,8 7,2
+100,0
+80,0
+60,0 76,0 70,6 73,9
+40,0
+20,0 4,0 7,3 4,0
+12,9 15,3 14,9
+0,0
+30.06.2005 30.06.2006 30.06.2007
+Dépôts de l'Etat Dépôts entreprises publiques Dépôts privés Autres
+1.1.2.2.Les crédits distribués
+Pour ce qui est de la distribution des crédits à la clientèle,les administrations publiques ont
+reçu 80 Mds FCFA de l’ensemble des banques, soit 3,6 % du total des crédits bruts, contre
+4,0 % en juin 2006.En valeur absolue,les crédits aux administrations publiques sont en expan-
+sion de 5,4 % par rapport à leur niveau de juin 2006. Les crédits aux
+entreprises publiques, qui s'établissent à 146 Mds FCFA, représentent 6,6 % du total des
+crédits bruts distribués (contre 6,4 % douze mois plus tôt) et sont en hausse de 19,9 %
+par rapport à juin 2006.
+Quant aux crédits au secteur privé,ils s'élèvent à 1 828 Mds FCFA,ce qui constitue 83,0
+% du total des crédits bruts,contre 84,2 % douze mois plus tôt.Ils connaissent une augmen-
+tation de 14,4 % par rapport à leur niveau de juin 2006.
+17
+%
+ne
+
+--- Page 14 ---
+Structure des crédits bruts par type de bénéficiaires - Ensemble des banques
+120,0
+100,0 4,5 5,3 6,7
+80,0
+60,0
+82,1 84,2 83,0
+40,0
+20,0
+8,6 6,4 6,6
+0,0 4,8 4,0 3,6
+30.06.2005 30.06.2006 30.06.2007
+Crédits à l'Etat Crédits aux entreprises publiques Crédits au secteur privé Autres
+1.1.3.Evolution des opérations de trésorerie
+Les ressources de trésorerie de l’ensemble des banques se fixent à 295 Mds FCFA,
+contre 242 Mds FCFA douze mois auparavant.Elles sont constituées de ressources à terme
+à concurrence de 43,1 % et de ressources à vue à hauteur de 56,6 %.A fin juin 2006, les
+ressources à terme et celles à vue représentaient respectivement 46,5 % et 53,1 % du total
+des ressources de trésorerie.
+18
+%
+ne
+Structure des ressources de trésorerie - Ensemble des banques
+120,0
+0,3 0,4 0,3
+100,0
+80,0 55,6 46,5 43,1
+60,0
+40,0
+56,6
+20,0 44,1 53,1
+0,0
+30/06/05 30/06/06 30/06/07
+Opérations à vue Opérations au jour le jour et à terme Dettes rattachées
+%
+ne
+
+--- Page 15 ---
+Ajoutées à l'excédent des ressources clientèle, elles alimentent les emplois de trésorerie
+qui s'élèvent à 2 149 Mds FCFA, dont 41,2 % d'emplois à terme et 56,8 % d'emplois à vue
+(y compris l'encaisse).A fin juin 2006,les emplois de trésorerie se fixaient à 1994 Mds FCFA,
+répartis entre 32,04 % d'opérations à terme et 66,1% d'opérations à vue.
+Structure des emplois de trésorerie - Ensemble des banques
+120,0
+2,5 2,0 1,9
+100,0
+80,0 32,8 32,0 41,2
+60,0
+56,4
+40,0 59,7 50,9
+20,0
+8,4 6,4 5,9
+0,0
+30/06/05 30/06/06 30/06/07
+Caisse Opérations à vue Opérations au jour le jour et à terme Autres
+Pour ce qui est des opérations avec la Banque des Etats de l'Afrique Centrale (BEAC),
+elles se caractérisent par un placement net des banques primaires de 564 Mds FCFA.Le solde
+de ces opérations s'est accru de 32,8 % par rapport au niveau atteint l'année précédente à
+la même date.
+Quant aux opérations avec les correspondants associés (autres établissements de crédit
+implantés dans la CEMAC ou correspondants extérieurs appartenant, dans les deux cas, au
+même réseau),elles se traduisent par un placement net de 1 232 Mds FCFA,solde en hausse
+de 44,4 % par rapport à fin juin 2006.
+1.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle, sur les 36 banques figurant dans le champ d'analyse
+(contre 34 banques l'année précédente à la même date) :
+- 34 sont en conformité avec les dispositions relatives à la représentation du capital
+minimum (comme un an auparavant) ;
+- 29 présentent un ratio de couverture des risques pondérés par les fonds propres nets
+supérieur ou égal au minimum de 8%,contre 26 banques l'année précédente à la même
+date ;
+%
+ne
+19
+
+--- Page 16 ---
+- 29 parviennent à respecter,dans le cadre des normes de division des risques,la limite
+globale1 (contre 28 un an auparavant) et seulement 15 banques se conforment à la
+limite individuelle2 (contre 10 l’année précédente à la même date) ;
+- 25 présentent un ratio de couverture des immobilisations par les ressources permanentes
+supérieur ou égal au minimum de 100 % (comme l'année précédente à la même date);
+Pourcentage de banques de la CEMAC respectant les normes prudentielles
+90,0 82,4
+80,0 76,5 80,6 76,5 80,6 73,5 76,5
+69,4
+67,6
+70,0
+60,0
+50,0 41,7
+40,0
+29,4 29,4
+30,0
+20,0
+10,0
+0,0
+Couverture des risques Plafond global des risques Plafond individuel des Couverture des
+risques immobilisations
+30/06/05 30/06/06 30/06/07
+20
+%
+ne
+- 36 respectent la norme de liquidité,qui exigent que les disponibilités à vue ou à moins d'un
+mois soient supérieures ou égales à leurs exigibilités de même terme ;
+- 30 parviennent,pour ce qui est du coefficient de transformation à long terme,à financer à
+hauteur de 50 % au moins (minimum réglementaire) leurs emplois à plus de cinq ans de
+durée résiduelle par des ressources permanentes (le nombre de banques en conformité
+était de 27 l'année précédente à la même date) ;
+_____________________________
+1
+La limite globale impose à chaque établissement de crédit de respecter en permanence un rapport maximum de 800% entre la somme des
+grands risques qu’il encourt et le montant de ses fonds propres nets.Par grand risque,on entend l’ensemble des risques encourus sur un même
+bénéficiaire et excédant 15% des fonds propres nets de la banque.
+2
+La limite individuelle impose à chaque établissement de crédit de respecter en permanence un rapport maximum de 45% entre l’ensemble des
+risques qu’il encourt du fait de ses opérations avec un même bénéficiaire et le montant de ses fonds propres nets.
+
+--- Page 17 ---
+Pourcentage de banques de la CEMAC respectant les normes prudentielles
+120,0
+100,0
+100,0 94,4 94,1
+80,0 82,4 85,3 85,3 76,5 79,4 83,3 76,5 73,5 75,0
+60,0
+40,0
+20,0
+0,0
+Rapport de liquidité Coefficient de Engagements sur les Capital minimum
+transformation apparentés
+30/06/05 30/06/06 30/06/07
+21
+%
+ne
+- enfin, 27 maintiennent la somme des engagements sur les actionnaires, administrateurs et
+dirigeants ainsi que sur le personnel en dessous du plafond réglementaire de 15 % des fonds
+propres nets (le nombre de banques en conformité était de 25 l'année précédente à la
+même date).
+Au total, 17 banques seulement disposent de fonds propres nets suffisants pour honorer
+l'ensemble des normes prudentielles assises sur cet agrégat (contre 8 banques l'année
+précédente à la même date).
+1.3. Résultats de la cotation
+Sur les 36 banques en activité dans la CEMAC, 2 banques de création récente n'ont pas
+été cotées en raison de l'absence de données relatives à la rentabilité et/ou à la qualité du
+management.La situation des 36 banques analysées à travers le système de cotation (SYSCO)
+de la Commission Bancaire se présente comme suit :
+- 3 banques présentent une situation financière solide (cote 1) ; au 30 juin 2006, cet
+effectif était de 7 banques ;
+- 23 banques sont classées en cote 2 (bonne situation financière) ; au 30 juin 2006, cet
+effectif était de 16 banques ;
+
+--- Page 18 ---
+- 9 banques figurent en cote 3 (situation financière fragile), contre 6 banques à fin
+juin 2006 ;
+- la situation financière est critique (cote 4) pour une banque ; au 30 juin 2006, cet
+effectif était également de 2 banques.
+22
+
+--- Page 19 ---
+II. SITUATION PAR PAYS
+2.1.Le système bancaire camerounais
+Le système bancaire camerounais compte 12 banques en activité au 30 juin 2007.Il s'agit
+de :Afriland First Bank (First Bank),Amity Bank Cameroun (Amity),Banque Internationale du
+Cameroun pour l'Epargne et le Crédit (BICEC), Citibank Cameroon (CITI-C), Commercial
+Bank of Cameroon (CBC), Ecobank Cameroun (ECOBANK), National Financial Credit
+(NFC), Société Commerciale de Banque Cameroun (CA-SCB (ex-SCB)), Société Générale
+de Banques au Cameroun (SGBC),Standard Chartered Bank Cameroun (SCBC),Union Bank
+of Cameroon Limited (UBC) et United Bank For Africa Cameroon (UBA).
+UBA, qui ne se conforme pas aux dispositions du système CERBER, est exclu du champ
+de la présente analyse.
+2.1.1.Evolution de la situation bilantielle
+Le total agrégé des bilans des banques camerounaises s'établit à 1 841 Mds FCFA.Il est en
+augmentation de 12,0 % par rapport à juin 2006.Les dépôts collectés s'élèvent à 1 634 Mds
+FCFA et représentent 88,7 % du total agrégé des bilans.Par rapport à juin 2006,ils sont en
+augmentation de 12,3 %.Les crédits bruts à la clientèle sont de 986 Mds FCFA,en hausse de
+2,5 % en comparaison avec leur niveau de juin 2006.
+1 644 1 664 1 841
+1 455
+1 416
+2 000 1 260
+1 500
+1 000 816 855 873
+500
+0
+30.06.2005 30.06.2006 30.06.2007
+Dépôts de la clientèle Crédits nets Total du bilan
+AFCF
+ed
+sdraillim
+ne
+Dépôts, crédits nets et total cumulé des bilans des banques du Cameroun
+1 634
+23
+
+--- Page 20 ---
+Les créances en souffrance s'élèvent à 131 Mds FCFA. Elles représentent 13,3 % des
+crédits bruts, contre 12,3 % douze mois auparavant. La qualité apparente du portefeuille de
+crédits s'est ainsi légèrement dégradée par rapport à la situation qui prévalait à fin juin 2006.
+Crédits bruts, créances en souffrance (en milliards de FCFA) et taux de créances en
+souffrance (en %) - Banques du Cameroun
+1 200 100,0
+916 962 986 90,0
+1 000
+80,0
+800 70,0
+60,0 %
+600 50,0 n e
+40,0
+400
+118 131 30,0
+200 13,0 119 12,3 13,3 20,0
+10,0
+0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Crédits bruts Créances en souffrance Taux de créances en souffrance
+Les provisions pour dépréciation des comptes clientèle se sont accrues de 5,8 % par
+rapport au niveau atteint l'année précédente à la même date pour s'établir à 113 Mds FCFA.
+En conséquence,les crédits nets se fixent à 873 Mds FCFA (47,4 % du total du bilan),soit une
+variation annuelle de + 2,1 %. Le taux de couverture des créances en souffrance par les
+provisions se situe à 86,3 %,contre 90,6 % en juin 2006.Les déclarations des banques et les
+résultats des dernières vérifications font ressortir un besoin de provisions complémentaires de
+12 Mds FCFA,Ce besoin était estimé à 16 Mds FCFA il y a 12 mois.
+24
+AFCF
+ed
+sdraillim
+ne
+Créances en souffrance, provisions (en milliards de FCFA) et taux de provision
+(en %) - Banques du Cameroun
+140 119 131 100,0
+120 84,0 118 90,7 86,3
+80,0
+100
+%
+80 60,0
+n
+60 100 107 113 40,0 e
+40
+20,0
+20
+0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Créances en souffrance Provisions Taux de provision
+AFCF
+ed
+sdraillim
+ne
+
+--- Page 21 ---
+La couverture des crédits par les dépôts s'établit à 187,2 % (contre 193,0 % un mois plus
+tôt et 170,3 % en juin 2006).Ainsi,les opérations avec la clientèle dégagent un excédent de
+ressources de 761 Mds FCFA.On relevait un excédent de 601 Mds FCFA en juin 2006.
+Les banques camerounaises dégagent un déficit des capitaux permanents d'un milliard
+FCFA par rapport aux valeurs immobilisées. Le déficit observé était de 12 Mds FCFA
+à fin juin 2006.
+L'excédent de trésorerie se situe à 789 Mds FCFA (42,8 % du total du bilan).Il a enregis-
+tré des fluctuations de + 30,7 %,par rapport à la situation prévalant douze mois plus tôt.
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 31/12/2006 31/03/2007 31/05/2007 30/06/2007
+DEPOTS DE LA CLIENTELE 1 260 223 1 455 145 1 549 549 1 563 264 1 618 777 1 633 775
+Crédits bruts 916 227 961 720 1 005 154 975 516 949 948 985 852
+Créances en souffrance 118 589 118 161 123 137 130 552 131 357 131 250
+Provisions pour dépréciation des comptes de la
+clientèle 100 428 107 099 110 234 110 438 111 269 113 277
+CREDITS NETS 815 799 854 621 894 920 865 078 838 679 872 575
+CAPITAUX PERMANENTS 154 795 173 312 180 610 184 469 187 615 179 293
+VALEURS IMMOBILISEES 180 494 185 786 183 510 181 249 179 299 179 916
+AUTRES POSTES NETS 668 15 185 20 634 - 2 527 3 905 28 049
+EXCEDENT / DEFICIT DE TRESORERIE 419 393 603 235 672 363 698 879 792 319 788 626
+TOTAL DU BILAN 1 415 686 1 643 642 1 750 793 1 747 733 1 810 297 1 841 117
+2.1.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle,sur les 11 banques figurant dans le champ d'analyse (sans
+changement à l'année précédente à la même date) :
+- 9 banques sont en conformité avec les dispositions relatives à la représentation du
+capital minimum (comme un an auparavant) ;
+25
+
+--- Page 22 ---
+- en matière de solvabilité, 8 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 %,comme un
+an auparavant ;
+- dans le cadre des normes de division des risques,8 banques parviennent à respecter la
+limite globale en maintenant en dessous de l'octuple des fonds propres nets la somme
+des risques pondérés supérieurs à 15 % desdits fonds propres comme le mois précé-
+dent) et 7 banques se conforment à la limite individuelle, en n'entretenant pas de
+risques pondérés encourus sur un même bénéficiaire excédant 45 % des fonds propres
+nets contre 7 banques l'année précédente à la même date ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes,6 ban-
+ques réalisent un ratio supérieur ou égal au minimum de 100 % (comme un an aupa-
+ravant) ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un
+mois sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités
+de même terme pour 11 banques (comme un an auparavant) ;
+- quant au respect du coefficient de transformation à long terme,9 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois ayant
+plus de cinq ans de durée résiduelle par des ressources permanentes (nombre identi-
+que à celui de l'année précédente à la même date) ;
+- enfin, 8 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond
+réglementaire de 15 % des fonds propres nets (nombre identique à celui de l'année
+précédente à la même date).
+Au total, 7 banques disposent de fonds propres nets suffisants pour honorer l'ensemble
+des normes prudentielles assises sur cet agrégat (comme douze mois auparavant).
+2.1.3.Résultats de la cotation
+La situation du système bancaire camerounais apparaît, dans l'ensemble, satisfaisante au
+regard du système de cotation (SYSCO) de la Commission Bancaire.Toutes les banques
+figurant dans le champ d'analyse ont été cotées. Une banque figure dans la zone critique. En
+définitive,la répartition entre les différentes cotes se présente comme suit :
+26
+
+--- Page 23 ---
+- 3 banques présentent une situation financière solide (cote 1) ;au 30 juin 2006,cet effec-
+tif était de 4 banques ;
+- 5 banques sont classées en cote 2 (bonne situation financière) ; au 30 juin 2006, cet
+effectif était de 3 banques ;
+- 2 banques figurent en cote 3 (situation financière fragile) ;au 30 juin 2006,cet effectif
+était également de 2 banques ;
+- la situation financière est critique (cote 4) pour une banque ;au 30 juin 2006,cet effec-
+tif était également d'une banque.
+2.2.Le système bancaire centrafricain
+Le système bancaire centrafricain compte 3 banques en activité au 30 juin 2007. Il s'agit de :
+Banque Internationale pour le Centrafrique (BICA),Banque Populaire Maroco-Centrafricaine
+(BPMC) et Commercial Bank Centrafrique (CBCA).
+2.2.1.Evolution de la situation bilantielle
+Le total agrégé des bilans des banques centrafricaines s'établit à 71 Mds FCFA. Il a
+progressé de 24,4 % par rapport au 30 juin 2006. Les dépôts collectés s'élèvent à 55 Mds
+FCFA (77,2 % du total du bilan). Ils sont en hausse de 20,0 % en variation annuelle. Quant
+aux crédits bruts à la clientèle,ils sont de 75 Mds FCFA,en hausse de 11,7 % par rapport à
+leur niveau de juin 2006.
+Dépôts, crédits nets et total de bilan des banques de la RCA
+71
+80 57
+50 55 56
+46 46
+40
+60 36
+40
+20
+0
+30.06.2005 30.06.2006 30.06.2007
+Dépôts de la clientèle Crédits nets Total du bilan
+27
+AFCF
+ed
+sdraillim
+ne
+
+--- Page 24 ---
+Les provisions pour dépréciation des comptes clientèle augmentent de 13,7 % par rapport
+au niveau atteint l'année précédente à la même date. Elles s'établissent à 19 Mds FCFA. En
+conséquence, les crédits nets se fixent à 56 Mds FCFA (78,5 % du total du bilan), soit une
+variation annuelle de + 0,2 %.
+Les créances en souffrance s'élèvent à 23 Mds FCFA.Elles représentent 30,2 % des crédits
+bruts, contre 32,5 % douze mois auparavant.Ainsi, la qualité apparente du portefeuille s'est
+améliorée par rapport à la situation qui prévalait à fin juin 2006.
+Crédits bruts, créances en souffrance (en milliards de FCFA) et taux de créances en
+souffrance (en %) - Banques de la RCA
+80 75 100,0
+67
+70 90,0
+55 80,0
+60
+70,0
+50 60,0 %
+40 50,0 en 30 34,5 22 23 40,0
+19 32,8 30,7 30,0
+20
+20,0
+10 10,0
+0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Crédits bruts Créances en souffrance Taux de créances en souffrance
+28
+AFCF
+ed
+sdraillim
+ne
+Créances en souffrance, provisions (en milliards de FCFA) et taux de provision
+(en %) - Banques de la RCA
+25 22 23 100,0
+19 78,9 19
+20 17 80,0
+15 15 77,3 82,6 60,0 %
+n
+e
+10 40,0
+5 20,0
+0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Créances en souffrance Provisions Taux de provision
+AFCF
+ed
+sdraillim
+ne
+La couverture des crédits par les dépôts s'établit à 98,3 % (contre 91,0 % en juin 2006).
+Ainsi,les opérations avec la clientèle dégagent un déficit de ressources de 1 Md contre 5 Mds
+en juin 2006.
+
+--- Page 25 ---
+Les banques centrafricaines dégagent un excédent des capitaux permanents de 8 Mds
+FCFA par rapport aux valeurs immobilisées. A fin juin 2006,il s'élevait à 8 Mds FCFA.
+L'excédent de trésorerie se situe à 10 Mds FCFA (13,6 % du total du bilan).Il a enregistré
+des fluctuations de 228,3 % par rapport à la situation prévalant douze mois plus tôt.
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 31/12/2006 31/03/2007 31/05/2007 30/06/2007
+DEPOTS DE LA CLIENTELE 35 571 45 727 49 735 51 108 56 131 54 863
+Crédits bruts 55 427 66 770 69 433 70 123 72 540 74 593
+Créances en souffrance 19 147 21 676 22 815 22 403 22 618 22 520
+Provisions pour dépréciation des comptes de la
+clientèle 15 076 16 540 17 337 17 696 18 182 18 803
+CREDITS NETS 40 351 50 230 52 096 52 427 54 358 55 790
+CAPITAUX PERMANENTS 9 991 11 370 13 171 15 304 14 240 13 943
+VALEURS IMMOBILISEES 3 791 3 863 3 813 5 521 5 523 5 564
+AUTRES POSTES NETS 187 - 56 - 1 292 - 714 387 2 227
+EXCEDENT / DEFICIT DE TRESORERIE 1 607 2 948 5 705 7 750 10 877 9 679
+TOTAL DU BILAN 45 749 57 097 62 906 66 412 70 758 71 033
+2.2.2.Respect des normes prudentielles
+De l'analyse prudentielle,il ressort que :
+- 3 banques sont en conformité avec les dispositions relatives à la représentation du
+capital minimum (comme un an auparavant) ;
+- en matière de solvabilité, 2 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 %,comme un
+an auparavant ;
+- dans le cadre des normes de division des risques, 3 banques parviennent à respecter
+la limite globale en maintenant en dessous de l'octuple des fonds propres nets la
+somme des risques pondérés supérieurs à 15 % desdits fonds propres (comme un an
+auparavant) et aucune banque ne se conforme à la limite individuelle,en n'entretenant
+29
+
+--- Page 26 ---
+pas de risques pondérés encourus sur un même bénéficiaire excédant 45% des fonds
+propres nets,comme un an auparavant ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes, une
+banques réalisent un ratio supérieur ou égal au minimum de 100 % (comme un an
+auparavant) ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 3 banques (comme un an auparavant) ;
+- quant au respect du coefficient de transformation à long terme,3 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois ayant
+plus de cinq ans de durée résiduelle par des ressources permanentes, comme un an
+auparavant.
+- enfin, 3 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond réglemen-
+taire de 15 % des fonds propres nets (nombre identique à celui de l'année précédente
+à la même date).
+Au total,parmi les banques analysées,un seul établissement dispose de fonds propres nets
+suffisants pour honorer l'ensemble des normes prudentielles assises sur cet agrégat (sans
+changement par rapport à l'année précédente à la même date).
+Les normes prudentielles respectées par le plus grand nombre d'établissements sont cel-
+les se rapportant aux engagements sur les apparentés, au coefficient de transformation, à la
+couverture des immobilisations par les ressources permanentes, à la limitation de la somme
+des grands risques,à la couverture des risques par les fonds propres nets et à la représenta-
+tion du capital minimum.Les normes relatives au rapport de liquidité et à la limitation des ris-
+ques encourus sur un même bénéficiaire constituent celles à l'égard desquelles on observe le
+plus grand nombre de banques en infraction.
+2.2.3.Résultats de la cotation
+Au regard du système de cotation (SYSCO) de la Commission Bancaire, la situation du
+système bancaire centrafricain apparaît, dans l'ensemble, satisfaisante .Toutes les banques
+figurant dans le champ d'analyse ont été cotées. Aucune banque ne figure dans la zone criti-
+que.En définitive,la répartition entre les différentes cotes se présente comme suit :
+30
+
+--- Page 27 ---
+- aucune banque n'affiche une situation financière solide (cote 1) ; au 30 juin 2006, cet
+effectif était d'une banque ;
+- 2 banques sont classées en cote 2 (bonne situation financière) ; au 30 juin 2006, cet
+effectif était d'une banque ;
+- une banque figure en cote 3 (situation financière fragile) ; au 30 juin 2006, cet effectif
+était nul ;
+- aucune banque ne se trouve dans la zone critique (cote 4) ; au 30 juin 2006, cet
+effectif était d'une banque.
+2.3.Le système bancaire congolais
+Le système bancaire congolais compte 5 banques en activité au 30 juin 2007.Il s'agit de :
+Banque Commerciale Internationale (BCI), BGFIBANK Congo (BGFI-Congo), Crédit du
+Congo (Crédit du Congo), Ecobank Congo (Ecobank Congo) et La Congolaise de Banque
+(LCB).
+Ecobank Congo, qui ne se conforme pas aux dispositions du système CERBER, est exclu
+du champ de la présente analyse.
+2.3.1.Evolution de la situation bilantielle
+Le total agrégé des bilans des banques congolaises s'établit à 494 Mds FCFA.Il a progressé
+de 2,3 % par rapport au 30 juin 2006.Les dépôts collectés s'élèvent à 443 Mds FCFA (89,8
+% du total du bilan).Ils se sont accrus de de 2,5 % en variation annuelle.
+Dépôts, crédits nets et total cumulé des bilans des banques du Congo
+483 494
+455 443
+500
+400 264 245
+300
+200
+106 100 88 83
+0
+30.06.2005 30.06.2006 30.06.2007
+Dépôts de la clientèle Crédits nets Total du bilan
+31
+AFCF
+ed
+sdraillim
+ne
+
+--- Page 28 ---
+Les crédits bruts à la clientèle sont de 108 Mds FCFA.Ils sont en expansion de 26,3 % par
+rapport à leur niveau de juin 2006. Les provisions pour dépréciation des comptes clientèle
+sont en baisse de 19,5 % par rapport au niveau atteint l'année précédente à la même date
+pour s’établir à 2 Mds FCFA.En conséquence,les crédits nets se fixent à 106 Mds FCFA (33,2
+% du total du bilan),soit une variation annuelle de 27,7 %.
+Crédits bruts, créances en souffrance (en milliards de FCFA) et taux de créances
+en souffrance (en %) - Banques du Congo
+120 100,0
+108
+100 90 85 80,0
+80
+60,0
+60
+40,0
+40
+20 11 43 ,4 3,5 3 7 20,0
+6,5 0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Les créances en souffrance s'élèvent à 7 Mds FCFA. Elles représentent 6,3 % des crédits
+bruts, contre 3,8 % douze mois auparavant. Ainsi, la qualité apparente du portefeuille s'est
+dégradée par rapport à la situation qui prévalait à fin juin 2006. Le taux de couverture des
+créances en souffrance par les provisions se situe à 31,1 %,contre 80,8 % en juin 2006.
+32
+%
+ne
+Crédits bruts Créances en souffrance Taux de créances en souffrance
+AFCF
+ed
+sdraillim
+ne
+Créances en souffrance, provisions (en milliards de FCFA) et taux de provision
+(en %) - Banques du Congo
+14 13 100,0
+12 86,7
+80,0
+10
+7 60,0
+8 %
+46
+3 3 28,6
+40,0 en
+2 2
+15,4 20,0
+2
+0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Créances en souffrance Provisions Taux de provision
+AFCF
+ed
+sdraillim
+ne
+
+--- Page 29 ---
+La couverture des crédits par les dépôts s'établit à 420,1 % (contre 550,3 % en juin 2006).
+Ainsi,les opérations avec la clientèle dégagent un excédent de ressources de 338 Mds FCFA.
+On relevait un excédent de 372 Mds FCFA en juin 2006.
+Les banques congolaises dégagent un déficit des capitaux permanents 7 Mds de FCFA par
+rapport aux valeurs immobilisées,contre un déficit de 12 Mds FCFA en juin 2006.
+L'excédent de trésorerie se situe à 359 Mds FCFA (72,7 % du total du bilan). Il a
+enregistré des fluctuations de - 4,7 % par rapport à la situation prévalant douze mois plus tôt.
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 31/12/2006 31/03/2007 31/05/2007 30/06/2007
+DEPOTS DE LA CLIENTELE 245 492 454 692 372 923 436 849 453 914 443 387
+Crédits bruts 90 104 85 238 102 216 112 272 105 316 107 642
+Créances en souffrance 13 385 3 235 1 417 2 480 2 456 6 758
+Provisions pour dépréciation des comptes de la
+clientèle 2 442 2 614 943 1 755 2 021 2 104
+CREDITS NETS 87 662 82 624 101 273 110 517 103 295 105 538
+CAPITAUX PERMANENTS 18 322 28 097 33 583 36 626 35 953 36 089
+VALEURS IMMOBILISEES 18 950 16 439 30 221 30 275 29 933 29 143
+AUTRES POSTES NETS - 4 728 - 6 818 2 133 5 928 13 905 14 492
+EXCEDENT / DEFICIT DE TRESORERIE 152 474 376 908 277 145 338 611 370 544 359 287
+TOTAL DU BILAN 263 814 482 789 408 639 479 403 503 772 493 968
+2.3.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle,il ressort que :
+- 4 banques sont en conformité avec les dispositions relatives à la représentation du
+capital minimum (comme un an auparavant) ;
+- en matière de solvabilité, 3 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 %, comme
+l'année précédente à la même date ;
+33
+
+--- Page 30 ---
+- dans le cadre des normes de division des risques,3 banques parviennent à respecter la
+limite globale en maintenant en dessous de l'octuple des fonds propres nets la somme
+des risques pondérés supérieurs à 15 % desdits fonds propres (comme un an
+auparavant) et aucune banque ne se conforme à la limite individuelle de 45 % des fonds
+propres nets pour les engagements pondérés portés sur un même bénéficiaire (comme
+un an auparavant) ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes,3 ban-
+ques réalisent un ratio supérieur ou égal au minimum de 100 % (comme un an aupa-
+ravant) ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 4 banques (comme un an auparavant) ;
+- quant au respect du coefficient de transformation à long terme,2 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois ayant
+plus de cinq ans de durée résiduelle par des ressources permanentes (nombre identi-
+que à celui de l'année précédente à la même date) ;
+- enfin, 3 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond régle-
+mentaire de 15 % des fonds propres nets (nombre identique à celui de l'année précé-
+dente à la même date).
+Au final, aucune des banques analysées ne dispose de fonds propres nets suffisants pour
+honorer l'ensemble des normes prudentielles assises sur cet agrégat (comme douze
+mois auparavant).
+La norme prudentielle respectée par le plus grand nombre d'établissements est celle se
+rapportant au rapport de liquidité.La norme relative à la limitation des risques encourus sur
+un même bénéficiaire constitue celle à l'égard de laquelle on observe le plus grand nombre
+de banques en infraction.
+2.3.3.Résultats de la cotation
+La situation du système bancaire congolais apparaît,dans l'ensemble,satisfaisante au regard
+du système de cotation (SYSCO) de la Commission Bancaire. En raison de l'absence de
+données relatives à la rentabilité et/ou à la qualité du management,une banque de création
+récente,figurant dans le champ d'analyse,n'a pas été cotée.
+34
+
+--- Page 31 ---
+En définitive,la répartition entre les différentes cotes se présente comme suit :
+- aucune banque n'affiche une situation financière solide (cote 1) ; au 30 juin 2006, cet
+effectif était également nul ;
+- 3 banques sont classées en cote 2 (bonne situation financière) ; au 30 juin 2006, cet
+effectif était également de 3 banques ;
+- aucune banque ne figure en cote 3 (situation financière fragile) ; au 30 juin 2006, cet
+effectif était également nul ;
+- aucune banque ne se trouve dans la zone critique (cote 4) ; comme au 30 juin 2006,
+cet effectif était également nul.
+2.4.Le système bancaire gabonais
+Le système bancaire gabonais compte 7 banques en activité au 30 juin 2007.Il s'agit de :
+Banque de l'Habitat du Gabon (BHG),Banque Gabonaise de Développement (BGD),Banque
+Internationale pour le Commerce et l'Industrie du Gabon (BICIG),BGFIBANK (BGFI-Gabon),
+Citibank,N.A.(CITI-G),Financial Bank Gabon (FBG) et Union Gabonaise de Banque (UGB).
+2.4.1.Evolution de la situation bilantielle
+Le total agrégé des bilans des banques gabonaises s'établit à 1 117 Mds FCFA. Il est en
+progression de 7,9 % par rapport au 30 juin 2006.Les dépôts collectés s'élèvent à 904 Mds
+FCFA (81 % du total du bilan).Ils sont en hausse de 5,8 % en variation annuelle.
+Dépôts, crédits nets et total cumulé des bilans des banques du Gabon
+1 117
+1 035
+1 500 904
+806 855
+1 000 634
+636
+448
+500 379
+0
+30.06.2005 30.06.2006 30.06.2007
+Dépôts de la clientèle Crédits nets Total du bilan
+35
+AFCF
+ed
+sdraillim
+ne
+
+--- Page 32 ---
+Les crédits bruts à la clientèle sont de 674 Mds FCFA,en expansion de 34,5 % par rapport
+à leur niveau de juin 2006.Les provisions pour dépréciation des comptes clientèle baissent de
+28,7 % par rapport au niveau atteint l'année précédente à la même date.Elles s'établissent à
+38 Mds FCFA. En conséquence, les crédits nets se fixent à 636 Mds FCFA (57,0 % du
+total du bilan).
+Crédits bruts, créances en souffrance (en milliards de FCFA) et taux de créances
+en souffrance (en %) - Banques du Gabon
+800 100,0
+674 90,0 700
+80,0
+600
+501 70,0
+500 434 60,0
+%
+400 50,0 n
+e
+40,0
+300
+30,0
+200
+16,8 73 14,0 70 48 20,0
+100 10,0
+7,1
+0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Crédits bruts Créances en souffrance Taux de créances en souffrance
+36
+AFCF
+ed
+sdraillim
+ne
+Créances en souffrance, provisions (en milliards de FCFA) et taux de provision
+(en %) - Banques du Gabon
+80 73 100,0
+70
+70 76,7 74,3 90,0
+79,2 80,0
+60 52
+56 48 70,0
+50 60,0
+38 %
+40 50,0 n
+e
+30 40,0
+30,0
+20
+20,0
+10 10,0
+0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Créances en souffrance Provisions Taux de provision
+AFCF
+ed
+sdraillim
+ne
+Les créances en souffrance s'élèvent à 48 Mds FCFA.Elles représentent 7,2 % des crédits
+bruts, contre 14,0 % douze mois auparavant.Ainsi, la qualité apparente du portefeuille s'est
+améliorée par rapport à la situation prévalant en juin 2006. Le taux de couverture des
+créances en souffrance par les provisions se situe à 77,6 %, contre 74,9 % en juin 2006. Les
+déclarations des banques et les résultats des dernières vérifications font ressortir un besoin de
+provisions complémentaires de 7 milliards FCFA,contre 2 l'année précédente à la même date.
+
+--- Page 33 ---
+La couverture des crédits par les dépôts s'établit à 142,0 % (contre 150,7 % un mois plus
+tôt et 190,7 % en juin 2006).Ainsi,les opérations avec la clientèle dégagent un excédent de
+ressources de 268 Mds FCFA.On relevait un excédent de 406 Mds FCFA en juin 2006.
+Les banques gabonaises dégagent un excédent des capitaux permanents de 53 Mds FCFA
+par bilan), soit une variation annuelle de + 42,0 % par rapport aux valeurs immobilisées. A
+fin juin 2006,il s'élevait à 45 Mds FCFA.
+L'excédent de trésorerie se situe à 336 Mds FCFA (30,1 % du total du bilan). Il a
+enregistré une fluctuation de -27,6 %,par rapport à la situation prévalant douze mois plus tôt.
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 31/12/2006 31/03/2007 31/05/2007 30/06/2007
+DEPOTS DE LA CLIENTELE 633 927 854 651 842 912 879 901 937 514 903 958
+Crédits bruts 435 706 500 873 557 535 603 933 664 659 673 911
+Créances en souffrance 73 241 70 222 61 792 55 120 56 059 48 348
+Provisions pour dépréciation des comptes de la
+clientèle 56 224 52 603 52238 43 037 42 740 37 518
+CREDITS NETS 379 482 448 270 505 297 560 896 621 919 636 393
+CAPITAUX PERMANENTS 161 660 167 676 178 875 195 658 198 611 197 159
+VALEURS IMMOBILISEES 110 860 123 064 138 162 142 873 141 284 144 197
+AUTRES POSTES NETS 10 423 12 786 23 524 15 786 631 15 445
+EXCEDENT / DEFICIT DE TRESORERIE 315 668 463 779 401 852 387 576 373 553 335 972
+TOTAL DU BILAN 806 010 1 035 113 1 045 311 1 091 345 1 136 756 1 116 562
+2.4.2. Respect des normes prudentielles
+Au plan de l'analyse prudentielle,il ressort que :
+- 7 banques sont en conformité avec les dispositions relatives à la représentation du
+capital minimum (comme un an auparavant) ;
+37
+
+--- Page 34 ---
+- en matière de solvabilité, 7 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 %,comme un
+an auparavant ;
+- dans le cadre des normes de division des risques,7 banques parviennent à respecter la
+limite globale en maintenant en dessous de l'octuple des fonds propres nets la somme
+des risques pondérés supérieurs à 15 % desdits fonds propres (comme un an aupara-
+vant) et 5 banques se conforment à la limite individuelle, en n'entretenant pas de ris-
+ques pondérés encourus sur un même bénéficiaire excédant 45% des fonds propres
+nets,comme l'année précédente à la même date ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes,7 ban-
+ques réalisent un ratio supérieur ou égal au minimum de 100 % (comme un an aupara-
+vant) ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 7 banques (comme un an auparavant) ;
+- quant au respect du coefficient de transformation à long terme,7 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois ayant
+plus de cinq ans de durée résiduelle par des ressources permanentes (nombre identi-
+que à celui de l'année précédente à la même date) ;
+- enfin, 7 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond réglemen-
+taire de 15 % des fonds propres nets (nombre identique à celui de l'année précédente
+à la même date).
+Au total, 6 banques seulement disposent de fonds propres nets suffisants pour honorer
+l'ensemble des normes prudentielles assises sur cet agrégat. Les normes prudentielles
+respectées par le plus grand nombre d'établissements sont celles se rapportant aux engage-
+ments sur les apparentés,au coefficient de transformation,au rapport de liquidité,à la couver-
+ture des immobilisations par les ressources permanentes, à la limitation de la somme des
+grands risques et à la couverture des risques par les fonds propres nets.La norme relative à
+la limitation des risques encourus sur un même bénéficiaire constitue celle à l'égard de laquelle
+on observe le plus grand nombre de banques en infraction.
+38
+
+--- Page 35 ---
+2.4.3.Résultats de la cotation
+En dépit de quelques évolutions défavorables, la situation du système bancaire gabonais
+apparaît, dans l'ensemble, satisfaisante au regard du système de cotation (SYSCO) de la
+Commission Bancaire. En raison de l'absence de données relatives à la rentabilité et/ou à la
+qualité du management,une banque de création récente,figurant dans le champ d'analyse,n'a
+pas été cotée.Au 30 juin 2007, le nombre de banques présentant une situation financière
+excellente ou bonne a diminué d'une unité. On compte une banque de plus parmi les ban-
+ques présentant une situation financière fragile.Aucune banque ne figure dans la zone criti-
+que.
+En définitive,la répartition entre les différentes cotes se présente comme suit :
+- aucune banque n'affiche une situation financière solide (cote 1) ; au 30 juin 2006, cet
+effectif était de 2 banques ;
+- 5 banques sont classées en cote 2 (bonne situation financière) ; contre 4 banques au
+30 juin 2006 ;
+- une banque figure en cote 3 (situation financière fragile), comme au 30 juin 2006, cet
+effectif était nul ;
+- aucune banque ne se trouve dans la zone critique (cote 4) ; comme au 30 juin 2006,
+cet effectif était également nul.
+2.5.Le système bancaire équato-guinéen
+Le système bancaire équato-guinéen compte 4 banques en activité au 30 juin 2007.Il s'agit
+de : Banco Nacional de Guinea Ecuatorial (BANGE), BGFIBANK Guinée Equatoriale
+(BGFIGE), CCEI BANK GE (CCEI GE) et Société Générale de Banques en Guinée
+Equatoriale (SGBGE).
+2.5.1.Evolution de la situation bilantielle
+Le total agrégé des bilans des banques équato-guinéennes s'établit à 483 Mds FCFA. Il a
+progressé de 15,2 % par rapport au 30 juin 2006.
+Les dépôts collectés s'élèvent à 437 Mds FCFA (90,5 % du total du bilan).Ils se sont accrus
+de 13,7 % en variation annuelle.
+39
+
+--- Page 36 ---
+483
+437
+419
+384
+500 291
+261
+400
+300
+200 172
+113
+87
+100
+0
+30.06.2005 30.06.2006 30.06.2007
+Dépôts de la clientèle Crédits nets Total du bilan
+Les crédits bruts à la clientèle sont de 194 Mds FCFA. Ils sont en expansion de 50,5 %
+par rapport à juin 2006. Les provisions pour dépréciation des comptes clientèle sont en
+augmentation de 31,8 % par rapport au niveau atteint l'année précédente à la même date.
+Elles s'établissent à 21 Mds FCFA.En conséquence,les crédits nets se fixent à 172 Mds FCFA
+(35,7 % du total du bilan),soit une variation annuelle de + 53,1 %.
+Les créances en souffrance s'élèvent à 23 Mds FCFA.Elles représentent 12,0 % des crédits
+bruts, contre 17,2 % douze mois auparavant.Ainsi, la qualité apparente du portefeuille s'est
+améliorée par rapport à la situation qui prévalait à fin juin 2006. Le taux de couverture des
+créances en souffrance par les provisions se situe à 90,5 % contre 72,0 % en juin 2006. Les
+déclarations des banques et les résultats des dernières vérifications ne font ressortir aucun
+besoin de provisions complémentaires comme l'année précédente à la même date.
+40
+AFCF
+ed
+sdraillim
+ne
+Dépôts, crédits nets et total cumulé des bilans des banques de la Guinée Equatoriale
+Crédits bruts, créances en souffrance (en milliards de FCFA) et taux de créances
+en souffrance (en %) - Banques de la Guinée Equatoriale
+250 100,0
+194
+200 80,0
+150 129 60,0
+%
+97 n
+e 100 40,0
+15,5 17,1 11,9
+50 15 22 23 20,0
+0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Crédits bruts Créances en souffrance Taux de créances en souffrance
+AFCF
+ed
+sdraillim
+ne
+
+--- Page 37 ---
+Créances en souffrance, provisions (en milliards de FCFA) et taux de provision
+(en %) - Banques de la Guinée Equatoriale
+25 22 23 100,0
+21
+20 91,3 80,0
+16
+15
+15 60,0 72,7 60,0
+%
+n
+9 e
+10 40,0
+5 20,0
+0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Créances en souffrance Provisions Taux de provision
+La couverture des crédits par les dépôts s'établit à 253,2 % (341,1 % en juin 2006).Ainsi,
+les opérations avec la clientèle dégagent un excédent de ressources de 264 Mds FCFA.On
+relevait un excédent de 272 Mds FCFA en juin 2006.
+Les banques équato-guinéennes dégagent un excédent des capitaux permanents de 23
+Mds FCFA par rapport aux valeurs immobilisées. Il était de 20 Mds juin 2006.L'excédent de
+trésorerie se situe à 294 Mds FCFA (60,9 % du total du bilan).Il a enregistré des fluctuations
+de - 0,5 % par rapport à la situation prévalant douze mois plus tôt.
+41
+AFCF
+ed
+sdraillim
+ne
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 31/12/2006 31/03/2007 31/05/2007 30/06/2007
+DEPOTS DE LA CLIENTELE 261 166 384 281 375 983 461 275 465 087 436 785
+Crédits bruts 96 984 128 623 154 453 138 335 171 941 193 517
+Créances en souffrance 14 724 22 150 22 060 22 531 23 610 23 247
+Provisions pour dépréciation des comptes de la
+clientèle 9 491 15 959 18698 19 318 20 804 21 040
+CREDITS NETS 87 493 112 664 135 755 119 017 151 137 172 477
+CAPITAUX PERMANENTS 24 485 30 600 38 372 37 193 34 946 39 626
+VALEURS IMMOBILISEES 10 349 11 086 15 375 15 911 16 325 16 309
+AUTRES POSTES NETS 5 724 4 283 4 326 4 843 -6 896 6 403
+EXCEDENT / DEFICIT DE TRESORERIE 193 533 295 414 267 551 368 383 325 675 294 028
+TOTAL DU BILAN 291 375 419 164 418 681 503 311 500 033 482 814
+
+--- Page 38 ---
+2.5.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle,il ressort que :
+- 4 banques sont en conformité avec les dispositions relatives à la représentation du
+capital minimum (comme un an auparavant) ;
+- en matière de solvabilité, 3 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 %,comme un
+an auparavant ;
+- dans le cadre des normes de division des risques,3 banques parviennent à respecter la
+limite globale en maintenant en dessous de l'octuple des fonds propres nets la somme
+des risques pondérés supérieurs à 15 % desdits fonds propres (comme un an
+auparavant) et 2 banques se conforment à la limite individuelle n'entretenant pas de ris-
+ques pondérés encourus sur un même bénéficiaire excédant 45 % des fonds propres
+nets,comme l'année précédente à la même date ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes,3 ban-
+ques réalisent un ratio supérieur ou égal au minimum de 100 %,comme un an aupara-
+vant ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 4 banques (comme un an auparavant) ;
+- quant au respect du coefficient de transformation à long terme,3 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois ayant
+plus de cinq ans de durée résiduelle par des ressources permanentes ;
+- enfin, 2 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond réglemen-
+taire de 15 % des fonds propres nets (le nombre de banques en conformité était de 3
+l'année précédente à la même date).
+Au total, 2 banques disposent de fonds propres nets suffisants pour honorer l'ensemble
+des normes prudentielles assises sur cet agrégat (comme douze mois auparavant). Les nor-
+mes prudentielles respectées par le plus grand nombre d'établissements sont celles se rap-
+portant aux engagements sur les apparentés,au coefficient de transformation,à la couverture
+des immobilisations par les ressources permanentes, à la limitation de la somme des grands
+42
+
+--- Page 39 ---
+risques et à la représentation du capital minimum. Les normes relatives au rapport de liqui-
+dité,à la limitation des risques encourus sur un même bénéficiaire et à la couverture des ris-
+ques par les fonds propres nets constituent celles à l'égard desquelles on observe le plus nom-
+bre de banques en infraction.
+2.5.3.Résultats de la cotation
+La situation du système bancaire équato-guinéen apparaît,dans l'ensemble,satisfaisante au
+regard du système de cotation (SYSCO) de la Commission Bancaire.En raison de l'absence
+de données relatives à la rentabilité et/ou à la qualité du management, une banque de
+création récente,figurant dans le champ d'analyse,n'a pas été cotée .La répartition entre les
+différentes cotes se présente comme suit :
+- aucune banque n'affiche une situation financière solide (cote 1) ; au 30 juin 2006, cet
+effectif était également nul ;
+- 3 banques sont classées en cote 2 (bonne situation financière) ; comme au 30
+juin 2006 ;
+- une banque figure en cote 3 (situation financière fragile) ; au 30 juin 2006, cet effectif
+était nul ;
+- aucune banque ne se trouve dans la zone critique (cote 4),comme au 30 juin 2006.
+2.6.Le système bancaire tchadien
+Le système bancaire tchadien compte 7 banques en activité au 30 juin 2007.Il s'agit de :
+Banque Agricole et Commerciale (BAC (ex-BAST)), Banque Commerciale du Chari (BCC),
+Banque Sahélo-Saharienne pour l'Investissement et le Commerce (BSIC), Commercial Bank
+Tchad (CBT), ECOBANK TCHAD (ECOBANK ex-BIAT), Financial Bank Tchad (FBT) et
+Société Générale Tchadienne de Banque (SGTB).
+2.6.1.Evolution de la situation bilantielle
+Le total agrégé des bilans des banques tchadiennes s'établit à 238 Mds FCFA. Il a
+progressé de 41,9 % par rapport au 30 juin 2006. Les dépôts collectés s'élèvent à 202 Mds
+FCFA (84,8 % du total du bilan).Ils se sont accrus de 45,8 % en variation annuelle.
+43
+
+--- Page 40 ---
+Dépôts, crédits nets et total cumulé des bilans des
+banques du Tchad
+238
+202
+250 162 168
+134 138
+200
+152
+150 138
+106
+100
+50
+0
+30.06.2005 30.06.2006 30.06.2007
+Dépôts de la clientèle Crédits nets Total du bilan
+Les crédits bruts à la clientèle sont de 166 Mds FCFA. Ils sont en hausse de 7,6 % en
+comparaison avec leur niveau de juin 2006. Les provisions pour dépréciation des comptes
+clientèle sont en baisse de 8,4 % par rapport au niveau atteint l'année précédente à la même
+date.Elles s'établissent à 15 Mds FCFA.En conséquence,les crédits nets se fixent à 152 Mds
+FCFA (63,7 % du total du bilan),soit une variation annuelle de + 9,5 %.
+44
+AFCF
+ed
+sdraillim
+ne
+Crédits bruts, créances en souffrance (en milliards de FCFA) et taux de créances en
+souffrance (en %) - Banques du Tchad
+250 100,0
+202
+200 80,0
+150 134 138 60,0
+%
+100 40,0 en
+13,8
+50
+1273,2
+19 17 20,0
+8,4
+0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Crédits bruts Créances en souffrance Taux de créances en souffrance
+AFCF
+ed
+sdraillim
+ne
+
+--- Page 41 ---
+Les créances en souffrance s'élèvent à 17 Mds FCFA.Elles représentent 10,5 % des crédits
+bruts, contre 12,4 % douze mois auparavant.Ainsi, la qualité apparente du portefeuille s'est
+améliorée, comparée à la situation qui prévalait en juin 2006. Le taux de couverture des
+créances en souffrance par les provisions se situe à 85,0 %, contre 84,2 % en juin 2006. Les
+déclarations des banques et les résultats des dernières vérifications font ressortir un besoin
+de provisions complémentaires de 3 milliards FCFA, contre un besoin d’un milliard l'année
+précédente à la même date.
+Créances en souffrance, provisions (en milliards de FCFA) et taux de provision (en
+%) - Banques du Tchad
+25 23 100,0
+20 69,6 19 84,2 17 82,4 80,0 16 16
+14
+15 60,0
+%
+n
+e
+10 40,0
+5 20,0
+0 0,0
+30.06.2005 30.06.2006 30.06.2007
+Créances en souffrance Provisions Taux de provision
+La couverture des crédits par les dépôts s'établit à 133,1 % (contre 100,0 % en juin 2006).
+Ainsi,les opérations avec la clientèle dégagent un excédent de ressources de 50 Mds FCFA.
+On relevait un solde nul en juin 2006.
+Les banques tchadiennes dégagent un excédent des capitaux permanents de 14 Mds FCFA
+par rapport aux valeurs immobilisées. Un excédent de 9 Mds FCFA était observé à fin juin
+2006.
+L'excédent de trésorerie se situe à 66 Mds FCFA (27,8 % du total du bilan).Il a enregistré
+des fluctuations de + 586,8 % par rapport à la situation prévalant douze mois plus tôt.
+45
+AFCF
+ed
+sdraillim
+ne
+
+--- Page 42 ---
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 31/12/2006 31/03/2007 31/05/2007 30/06/2007
+DEPOTS DE LA CLIENTELE 134 117 138 443 208 738 185 483 195 373 201 788
+Crédits bruts 122 203 154 580 160 009 173 470 168 016 166 378
+Créances en souffrance 22 736 19 229 19 809 18 745 18 081 17 439
+Provisions pour dépréciation des comptes de la
+clientèle 16 163 16 190 16212 16 163 15 615 14 824
+CREDITS NETS 106 040 138 390 143 797 157 307 152 401 151 554
+CAPITAUX PERMANENTS 25 926 28 362 30 297 32 166 34 371 34 041
+VALEURS IMMOBILISEES 17 023 19 705 19 728 20 082 20 214 20 260
+AUTRES POSTES NETS 2 360 934 99 -54 867 2 224
+EXCEDENT / DEFICIT DE TRESORERIE 39 340 9 644 75 609 40 206 57 996 66 239
+TOTAL DU BILAN 162 403 167 739 239 134 217 649 230 611 238 053
+2.6.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle,il ressort ce qui suit :
+- 7 banques sont en conformité avec les dispositions relatives à la représentation du
+capital minimum (comme un an auparavant) ;
+- en matière de solvabilité, 6 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 %,comme un
+an auparavant ;
+- dans le cadre des normes de division des risques, 5 banques parviennent à respecter
+la limite globale en maintenant en dessous de l'octuple des fonds propres nets la
+somme des risques pondérés supérieurs à 15 % desdits fonds propres (comme un an
+auparavant) et seulement une banque se conforme à la limite individuelle, en
+n'entretenant pas de risques pondérés encourus sur un même bénéficiaire excédant
+45 % des fonds propres nets,comme un an auparavant ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes,
+5 banques réalisent un ratio supérieur ou égal au minimum de 100 % (comme l'année
+précédente à la même date) ;
+46
+
+--- Page 43 ---
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 7 banques (comme un an auparavant) ;
+- quant au respect du coefficient de transformation à long terme,6 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois ayant
+plus de cinq ans de durée résiduelle par des ressources permanentes (nombre identi-
+que à celui de l'année précédente à la même date) ;
+- enfin, 4 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond réglemen-
+taire de 15 % des fonds propres nets (nombre identique à celui de l'année précédente
+à la même date).
+Au total,parmi les banques analysées,un seul établissement dispose de fonds propres nets
+suffisants pour honorer l'ensemble des normes prudentielles assises sur cet agrégat
+(sans changement par rapport à l'année précédente à la même date).La norme prudentielle
+respectée par le plus grand nombre d'établissements est celle se rapportant au rapport de
+liquidité. La norme relative à la limitation des risques encourus sur un même bénéficiaire
+constitue celle à l'égard de laquelle on observe le plus grand nombre de
+banques en infraction.
+2.6.3.Résultats de la cotation
+Au regard du système de cotation (SYSCO) de la Commission Bancaire,la situation du sys-
+tème bancaire Tchadien est globalement satisfaisante.En raison de l'absence de données rela-
+tives à la rentabilité et/ou à la qualité du management,une banque de création récente,figu-
+rant dans le champ d'analyse, n'a pas été cotée. La répartition entre les différentes cotes se
+présente comme suit :
+- aucune banque n'affiche une situation financière solide (cote 1) ; au 30 juin 2006, cet
+effectif était également nul ;
+- 5 banques sont classées en cote 2 (bonne situation financière) ; au 30 juin 2006, cet
+effectif était de 3 banques ;
+- une banques figure en cote 3 (situation financière fragile) ; contre 2 banques au
+30 juin 2006 ;
+- aucune banque ne se trouve dans la zone critique (cote 4) ; au 30 juin 2006, cet
+effectif était également nul.
+47
+
+--- Page 44 ---
+ANNEXE : STATISTIQUES DU SYSTEME BANCAIRE
+CEMAC
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
+DEPOTS DE LA CLIENTELE 2 570 496 3 332 939 3 674 556
+Crédits bruts 1 716 651 1 897 804 2 201 893
+Créances en souffrance 261 822 254 673 249 562
+Provisions pour dépréciation des comptes
+de la clientèle 199 824 211 005 207 566
+CREDITS NETS 1 516 827 1 686 799 1 994 327
+CAPITAUX PERMANENTS 395 179 439 417 500 151
+VALEURS IMMOBILISEES 341 467 359 943 395 389
+AUTRES POSTES NETS 14 634 26 314 68 840
+EXCEDENT / DEFICIT DE TRESORERIE 1 122 015 1 751 928 1 853 831
+TOTAL DU BILAN 2 980 309 3 798 670 4 243 547
+Evolution des dépôts de la clientèle par type de comptes (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
+Comptes à vue 1 858 847 2 457 543 2 815 107
+Comptes à terme 412 421 503 883 485 768
+Comptes de dépôts à régime spécial 195 012 230 312 225 531
+Autres comptes 90 724 126 313 134 329
+Dettes rattachées 13 492 14 888 13 821
+TOTAL DES DEPOTS 2 570 496 3 332 939 3 674 556
+49
+
+--- Page 45 ---
+Evolution des dépôts de la clientèle par type de déposants (en millions de FCFA)
+30/06/2005 30/06/2006 30/06/2007
+Dépôts publics 332 279 509 686 548 607
+Dépôts des entreprises publiques 102 896 243 727 145 217
+Dépôts privés 1 953 368 2 353 285 2 716 782
+Dépôts des non résidents 77 735 85 037 115 798
+Dépôts non ventilés 104 216 141 201 148 150
+TOTAL DES DEPOTS 2 570 496 3 332 939 3 674 556
+Evolution des crédits bruts par type de bénéficiaires (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
+Crédits à l'Etat 82 430 76 214 80 310
+Crédits aux entreprises publiques 147 609 122 113 146 365
+Crédits au secteur privé 1 408 712 1 598 206 1 828 354
+Crédits aux non résidents 54 942 74 052 97 312
+Encours financier des opérations de crédit-bail 7 018 9 402 15 739
+Autres créances (valeurs non imputées et
+créances 15 941 17 810 33 812
+TOTAL CREDITS BRUTS 1 716 651 1 897 804 2 201 893
+50
+
+--- Page 46 ---
+Evolution des opérations de trésorerie (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
+Caisse 110 484 126 657 127 402
+Opérations à vue 744 073 1 190 397 1 094 138
+Opérations au jour le jour et à terme 433 324 637 096 885 837
+Titres de placement et de transaction 20 655 26 719 28 926
+Créances en souffrance nettes 8 998 9 297 8 837
+Créances rattachées 2 864 3 756 3 664
+Emplois de trésorerie 1 320 398 1 993 922 2 148 804
+Opérations à vue 87 469 128 510 166 978
+Opérations au jour le jour et à terme 110 265 112 582 127 146
+Dettes rattachées 649 902 849
+Ressources de trésorerie 198 383 241 994 294 973
+EXCEDENT / DEFICIT DE TRESORERIE 1 122 015 1 751 928 1 853 831
+Evolution des opérations avec la BEAC (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
++ Comptes à vue débiteurs 427 919 660 324 641 847
++ Prêts et comptes à terme 148 409 215 353 619 547
+- Comptes à vue créditeurs 1 118 217 24 935
+- Emprunts et comptes à terme 11 586 22 190 4 000
+SOLDE OPERATION AVEC LA BEAC 563 624 853 270 1 232 459
+Evolution des opérations avec les correspondants associés (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
++ Comptes à vue débiteurs 196 783 196 888 234 945
++ Prêts et comptes à terme 133 900 219 103 125 785
+- Comptes à vue créditeurs 34 823 51 403 57 475
+- Emprunts et comptes à terme 17 240 15 172 40 017
+SOLDE CORRESPONDANTS ASSOCIES 278 620 349 416 263 238
+51
+
+--- Page 47 ---
+Nombre de banques en conformité avec les normes prudentielles
+Norme prudentielle 30/06/2005 30/06/2006 30/06/2007
+Capital minimum 28 29 34
+Couverture des risques 23 26 29
+Plafond global des risques 26 28 29
+Plafond individuel des risques 10 10 15
+Couverture des immobilisations 25 26 25
+Rapport de liquidité 29 32 36
+Coefficient de transformation 26 27 30
+Engagements sur les apparentés 26 25 27
+Adéquation des fonds propres 9 8 17
+Nombre total de banques 34 34 36
+Evolution de la cotation SYSCO
+Nombre de banques ayant obtenu la Cote 30/06/2005 30/06/2006 30/06/2007
+1 - Situation financière solide 2 7 3
+2 - Situation financière bonne 17 16 23
+3A - Situation financière légèrement fragile 1 2 3
+3B - Situation financière moyennement fragile 5 2 1
+3C - Situation financière très fragile 3 2 1
+4A - Situation financière critique 0 0 0
+4B - Situation financière très critique 2 2 1
+Non cotées 3 2 4
+Nombre total des banques 33 33 36
+COTE MOYENNE 2 2 2
+52
+
+--- Page 48 ---
+CAMEROUN
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
+DEPOTS DE LA CLIENTELE 1 260 223 1 455 145 1 633 775
+Crédits bruts 916 227 961 720 985 852
+Créances en souffrance 118 589 118 161 131 250
+Provisions pour dépréciation des comptes
+de la clientèle 100 428 107 099 113 277
+CREDITS NETS 815 799 854 621 872 575
+CAPITAUX PERMANENTS 154 795 173 312 179 293
+VALEURS IMMOBILISEES 180 494 185 786 179 916
+AUTRES POSTES NETS 668 15 185 28 049
+EXCEDENT / DEFICIT DE TRESORERIE 419 393 603 235 788 626
+TOTAL DU BILAN 1 415 686 1 643 642 1 841 117
+RCA
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
+DEPOTS DE LA CLIENTELE 35 571 45 727 54 863
+Crédits bruts 55 427 66 770 74 593
+Créances en souffrance 19 147 21 676 22 520
+Provisions pour dépréciation des comptes
+de la clientèle 15 076 16 540 18 803
+CREDITS NETS 40 351 50 230 55 790
+CAPITAUX PERMANENTS 9 991 11 370 13 943
+VALEURS IMMOBILISEES 3 791 3 863 5 564
+AUTRES POSTES NETS 187 - 56 2 227
+EXCEDENT / DEFICIT DE TRESORERIE 1 607 2 948 9 679
+TOTAL DU BILAN 45 749 57 097 71 033
+53
+
+--- Page 49 ---
+CONGO
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
+DEPOTS DE LA CLIENTELE 245 492 454 692 443 387
+Crédits bruts 90 104 85 238 107 642
+Créances en souffrance 13 385 3 235 6 758
+Provisions pour dépréciation des comptes
+de la clientèle 2 442 2 614 2 104
+CREDITS NETS 87 662 82 624 105 538
+CAPITAUX PERMANENTS 18 322 28 097 36 089
+VALEURS IMMOBILISEES 18 950 16 439 29 143
+AUTRES POSTES NETS - 4 728 - 6 818 14 492
+EXCEDENT / DEFICIT DE TRESORERIE 152 474 376 908 359 287
+TOTAL DU BILAN 263 814 482 789 493 968
+GABON
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
+DEPOTS DE LA CLIENTELE 633 927 854 651 903 958
+Crédits bruts 435 706 500 873 673 911
+Créances en souffrance 73 241 70 222 48 348
+Provisions pour dépréciation des comptes
+de la clientèle 56 224 52 603 37 518
+CREDITS NETS 379 482 448 270 636 393
+CAPITAUX PERMANENTS 161 660 167 676 197 159
+VALEURS IMMOBILISEES 110 860 123 064 144 197
+AUTRES POSTES NETS 10 423 12 786 15 445
+EXCEDENT / DEFICIT DE TRESORERIE 315 668 463 779 335 972
+TOTAL DU BILAN 806 010 1 035 113 1 116 562
+54
+
+--- Page 50 ---
+GUINEE EQUATORIALE
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
+DEPOTS DE LA CLIENTELE 261 166 384 281 436 785
+Crédits bruts 96 984 128 623 193 517
+Créances en souffrance 14 724 22 150 23 247
+Provisions pour dépréciation des comptes
+de la clientèle 9 491 15 959 21 040
+CREDITS NETS 87 493 112 664 172 477
+CAPITAUX PERMANENTS 24 485 30 600 39 626
+VALEURS IMMOBILISEES 10 349 11 086 16 309
+AUTRES POSTES NETS 5 724 4 283 6 403
+EXCEDENT / DEFICIT DE TRESORERIE 193 533 295 414 294 028
+TOTAL DU BILAN 291 375 419 164 482 814
+TCHAD
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2005 30/06/2006 30/06/2007
+DEPOTS DE LA CLIENTELE 134 117 138 443 201 788
+Crédits bruts 122 203 154 580 166 378
+Créances en souffrance 22 736 19 229 17 439
+Provisions pour dépréciation des comptes
+de la clientèle 16 163 16 190 14 824
+CREDITS NETS 106 040 138 390 151 554
+CAPITAUX PERMANENTS 25 926 28 362 34 041
+VALEURS IMMOBILISEES 17 023 19 705 20 260
+AUTRES POSTES NETS 2 360 934 2 224
+EXCEDENT / DEFICIT DE TRESORERIE 39 340 9 644 66 239
+TOTAL DU BILAN 162 403 167 739 238 053
+55
+
+--- Page 51 ---
+III. ETUDE
+LA CONCURRENCE DANS LE SECTEUR BANCAIRE DE LA CEMAC
+Justin BEM3
+1.Introduction
+La concurrence en économie désigne une situation où plusieurs agents proposent des
+services ou produits équivalents,de telle sorte que les clients peuvent choisir librement. En
+1921,F.Knight explicite les cinq conditions que doit satisfaire un marché de concurrence pure
+et parfaite.La première est l’atomicité qui traduit le fait que dans le marché on retrouve un
+très grand nombre d’acheteurs et de vendeurs de telle sorte qu’aucun ne peut de façon
+indépendante influencer le prix.La seconde est l’homogénéité des produits qui stipule que les
+biens échangés sont semblables en qualité et en caractéristiques, et donc substituables. La
+troisième est la transparence de l’information. L’information parfaite de tous les agents sur
+tous les autres et sur le bien échangé suppose une information gratuite et immédiate.Il faut
+y ajouter la libre entrée et sortie sur le marché et la libre circulation des facteurs de produc-
+tion (le capital et le travail).
+De telles exigences ne sont jamais remplies dans la réalité, il s’agit d’un repère
+éventuellement utile. Aujourd’hui dans les pays développés, sont généralement mises en
+œuvre des politiques de la concurrence qui visent à éliminer ou du moins à restreindre les
+comportements publics ou privés visant à limiter la concurrence. Elles cherchent à favoriser
+la croissance et le bien-être des citoyens. Il ne faut cependant pas perdre de vue que la
+concurrence n’est pas une panacée et les domaines dans lesquels la coopération conduit à
+des résultats socialement plus avantageux que la concurrence pure sont nombreux (Encaoua
+et Guesnerie,2006).
+Dans les Etats membres de la CEMAC, il existe une réglementation visant à limiter les
+comportements anticoncurrentiels.Il s’agit du règlement 1/99/UEAC/CM-639 du 25 juin 1999
+portant réglementation des pratiques commerciales anticoncurrentielles. En son article 2,ce
+règlement interdit toute pratique de nature à faire obstacle au libre jeu de la concurrence.En
+son article 17,il est crée l’organe de surveillance de la concurrence (OSC) chargé d’assurer
+le contrôle d’application des règles communes de concurrence.
+_____________________________
+3
+Service des Etudes et Statistiques Bancaires du Département de la Réglementation et des Etudes du Secrétariat de la COBAC
+57
+
+--- Page 52 ---
+Dans le secteur bancaire, les effets bénéfiques de la concurrence sont généralement mis
+en exergue. Notamment, Jean-François Pons de la Commission Européenne au congrès de
+SANGUINETTI (Belgique) en 1998, affirmait qu’une concurrence saine entre les banques
+était à moyen terme la meilleure solution de limiter les crises bancaires. Mais, de part les
+spécificités du secteur, certaines restrictions à l’entrée peuvent se justifier pour rendre ce
+secteur moins concurrentiel que les autres. En effet, le secteur bancaire est par le jeu des
+prêts entre établissements,celui où la faillite d’un seul d’entre eux peut entrainer de sérieu-
+ses difficultés aux autres. En situation de concurrence, face à l’étroitesse des marges, les
+banques sont souvent tentées d’étendre de manière inconsidérée leurs engagements sur la
+clientèle.Cela peut mettre en péril la stabilité financière,Hellmann et al,(2000).Un renforce-
+ment de la surveillance du secteur bancaire combiné au renforcement des normes pruden-
+tielles4 est alors préconisé.Implicitement,cela signifie que les ressources allouées à la super-
+vision bancaire doivent évoluer au rythme du niveau de concurrence du secteur.
+La Commission Bancaire de l’Afrique Centrale (COBAC) a introduit depuis 2005 dans
+son rapport d’activité le calcul des mesures de concentration dans le secteur bancaire. Les
+motivations de l’intérêt de la mesure de la concentration n’y ont pas été présentées, tout
+comme le lien avec la mesure de la concurrence et celui avec le cadre général de la
+supervision bancaire.
+L’objectif de cette étude est de procéder à une évaluation du degré de concurrence
+dans le secteur bancaire de la CEMAC.Cette évaluation est susceptible d’induire au sein de
+l’organe de supervision sous-régional un renforcement des pratiques concourant au
+renforcement de la stabilité financière. Nous discuterons des approches utilisées dans la
+mesure de la concurrence dans la section 1,et dans la seconde section,nous illustrerons ces
+approches à partir des données de la sous-région au 30 juin 2007.
+2.Les approches de mesure de la concurrence
+Il existe dans la littérature économique deux approches de mesure de la concurrence.Une
+approche dite structurelle qui fait intervenir les mesures de concentration et une autre dite
+non-structurelle.
+Selon la première approche, le lien entre le niveau de concurrence et la concentration
+peut être dérivé de deux manières : formellement ou non. Par l’approche formelle, il est
+_____________________________
+4
+L’exigence en capital au titre de la couverture des risques doit être complétée par une régulation sur les dépôts (Hellmann et al 2000).
+58
+
+--- Page 53 ---
+facile au prix de quelques développements analytiques d’établir sous certaines hypothèses
+simplificatrices le lien entre le pouvoir de marché et les indices de concentration (Bikker et
+al., 2000). Par l’approche non formelle, le niveau de concurrence peut être induit par les
+caractéristiques de performance et d’efficacité du marché. Si pour obtenir un niveau de
+performance élevé,il faut produire à une grande échelle,le marché sera alors plus concentré.
+La concurrence peut se mesurer alors par le degré de concentration. Avant de pouvoir
+interpréter les mesures de concentration comme mesure de la concurrence, de manière
+empirique,on teste une relation de la forme :
+Avec :
+- est l’indicateur de performance :profit,rentabilité,efficacité,…
+- C est la mesure de la concentration
+- X représente les variables de contrôles (taille de la structure, structure de
+l’actionnariat,…)
+- et mesure l’effet de la concurrence et des variables de contrôle sur l’indicateur de
+performance.
+- est la constante.
+L’utilisation des indices de concentration comme mesure de la concurrence est alors
+valable lorsque5 (Bikker et al,2000).
+Ce qui revient tout simplement à dire que concentration ne signifie pas forcement
+absence de concurrence. En effet, dans un environnement concurrentiel, il peut arriver que
+les firmes les moins performantes disparaissent ou soient racheter par les plus performantes.
+Cela peut renforcer la concurrence et augmenter la concentration.
+L’approche non-structurelle quant à elle ne fait pas intervenir les mesures de concentra-
+tion.Il existe plusieurs modèles,mais nous insisterons sur celui de Panzar-Rosse (1987).
+Après avoir présenté les mesures de la concentration utile à la mesure structurelle, nous
+allons succinctement aborder le modèle de Panzar-Rosse qui fournit une mesure non struc-
+_____________________________
+5
+Dans une étude à paraître, Kouezo et Bem observent un coefficient positif de la concentration avec l’efficacité de production, justifiant
+ainsi l’utilisation de l’approche structurelle.
+59
+
+--- Page 54 ---
+2.1 Les principaux indicateurs de concentration
+Sur un marché donné, la concentration est la mesure dans laquelle un petit nombre
+d’entreprises (ou d’agents) représente une grande partie de la production (ou de la
+consommation). Si nous désignons par un indice de concentration, sa forme générale est
+donnée par la relation ci-après :
+Où est la part de marché de l’établissement pour l’actif considéré, et est le poids
+S i w
+i i
+accordé à l’établissement dans le calcul de l’indice.A partir de cette définition,sont bâtis tous
+les autres indices :le poids des premières banques ( ),l’indice de Herfindal-Hirschman
+k CR
+k
+(IHH), l’indice de Hall-Tidemen (IHT), l’indice de Rosenbluth (IR), l’indice de Hannay et Kay
+( I H K ) ,
+l’indice U (U), l’indice multiplicatif de Hause (IMH), l’indice additif de Hause (IAH) et les
+mesures d’entropie (E).
+a) Le poids de k-premières banques (CRk)
+Il est défini comme la part de marché détenue par les kk premiers établissements.Avec la
+définition générale ci-dessus, si nous désignons par la valeur de l’actif pour lequel on éva-
+x
+i
+lue la concentration,par la k-ième plus grande valeur de l’actif,alors on a :
+Ici, la fonction I est définie comme la fonction indicatrice. Elle vaut 0 pour les valeurs
+inférieures à la k-ième plus grande valeur de l’actif.
+b) L’indice de Herfindahl-Hirschman (IHH)
+Il est l’indice de concentration le plus utilisé.Aux Etats-Unis,il joue un rôle très important
+dans le renforcement du processus anti-trust dans le secteur bancaire. Pour son
+calcul, = .Il se présente comme suit :
+w S
+i i
+60
+
+--- Page 55 ---
+Plus l’IHH d’un marché donné est élevé, plus la production est concentrée entre un
+petit nombre d’entreprises. D’une manière générale, lorsque l’IHH est inférieur à 0,1 la
+concentration du marché est considérée comme faible.Lorsqu’il est compris entre 0,1 et 0,18
+elle est considérée comme moyenne et lorsqu’il est supérieur à 0,18, elle est considérée
+comme élevée.
+Par un développement analytique, il est aisé de montrer que cet indice peut s’écrire
+comme :
+Ici est le coefficient de variation de l’actif.Cette relation montre que l’IHH est fonc-
+tion du nombre d’établissements et de la dispersion de l’actif dans la population des banques.
+c) Les autres indices
+L’indice de Rosenbluth est défini comme :
+Où est l’indice de Gini,couramment utilisé dans la mesure des inégalités sociales.
+L’indice de Hall-Tideman est défini comme :
+L’indice de Hannah et Kay est définit comme :
+Les mesures d’entropie prennent la forme :
+61
+
+--- Page 56 ---
+2.2 Le modèle de Panzar-Rosse
+L’idée de Panzar et Rosse (1987) est d’analyser l’impact d’une modification des
+coûts de production sur les revenus d’une firme donnée. En effet, selon les caractéristiques
+concurrentielles du marché,on peut avoir une idée sur cet impact.Ils définissent donc l’indice
+qui permet de mesurer l’impact de la modification du coût des inputs sur le revenu comme
+H
+suit :
+désigne le revenu à l’équilibre, désigne le nombre d’inputs, la firme.En situation de
+R* m i
+concurrence,le profit est nul.Il y a égalité entre la recette et le coût.Toute augmentation des
+coûts se répercute, toutes choses égales par ailleurs, sur les prix des produits de la firme ;
+donc doit valoir . En situation de monopole, une augmentation du coût marginal se tra-
+H 1
+duit par une diminution de la marge du monopoleur compte tenu de l’élasticité de la
+demande du
+produit de la firme donc doit être inférieur à .Dans le cas où l’indice varie entre et ,
+H 0 0 1
+on est dans une situation d’oligopole.
+Pour évaluer ,on estime une régression de la forme :
+H
+où est le revenu (profit, bénéfice, …), le coût du k-ième input, d’autres
+R wk X
+caractéristiques pertinentes permettant d’expliquer le revenu.A partir de cette équation,on
+estime par :
+H
+3.Résultats de la mesure de la concurrence
+Nous allons illustrer les méthodes présentées plus haut avec les données de la CEMAC de
+la période 2001 à 2007.Les deux approches nous sont apparues complémentaires. En effet,
+compte tenu du faible degré d’intégration économique entre les Etats de la CEMAC,les ban-
+ques en concurrence sont forcément celles d’un même territoire économique. Ainsi
+l’utilisation de cette approche pour évaluer le niveau de concurrence dans la CEMAC n’est
+pas pertinente. Le modèle de Panzar-Rosse permet de remédier à cette insuffisance.
+Cependant,compte tenu du nombre assez faible de banques dans les différents pays,il n’apparaît
+62
+
+--- Page 57 ---
+pas robuste (ou pertinent) d’estimer le modèle de Panzar-Rosse pour chaque pays pris sépa-
+rément.
+3.1 Approche structurelle
+Les mesures des indicateurs de concentration au sein des banques de la CEMAC sont
+présentées ici. Elles sont évaluées sur la période de 2001 à 2007 sur le total de bilan.Il faut
+noter que l’évaluation a été faite aussi sur les dépôts et les crédits.Les résultats étant très pro-
+ches,nous avons retenu seulement ceux portant sur le total du bilan.
+Figure 1 :Evolution du poids des deux premières banques
+Selon cet indice, le Cameroun et le Tchad ont des tendances voisines avec les marchés
+bancaires les moins concentrés. Le degré de concentration au Gabon est voisin de celui au
+Congo,c’est le niveau intermédiaire de la zone.Enfin,la RCA et la Guinée Equatoriale ont les
+niveaux les plus élevés de la zone. En s’en tenant à l’article 15 du règlement sur la concur-
+rence mentionné en introduction, le Gabon, la Centrafrique et la Guinée-Equatoriale sont
+caractérisés par des positions dominantes (banque détenant plus de 30% des parts).
+63
+
+--- Page 58 ---
+Figure 2 :Evolution de l’Indice Herfindahl-Hirscham
+La configuration par pays ne varie guère par rapport à celle fournie par le poids des deux
+premières banques.Nous avons souligné que par rapport à cet indice,une valeur inférieure à
+0,1 traduisait une concentration faible, entre 0,1 et 0,18 une concentration moyenne. Le
+Cameroun et le Tchad tendent vers un niveau de concentration moyen,tandis que le niveau
+de concentration est élevé dans les autres pays de la CEMAC.
+Les indices de Hannah-Kay et de Rosenbluth conduisent aux mêmes conclusions.
+Cependant,il faut noter que les indices de Hall-Tideman et l’indice de Theil conduisent à des
+résultats différents.
+Figure 3 :L’indice de Hall-Tideman
+64
+
+--- Page 59 ---
+Cet indice tend à conduire vers une partition en deux groupes :un groupe avec un niveau
+de concentration moins important formé du Cameroun,du Gabon et du Tchad,et un second
+composé de la Guinée Equatoriale, du Congo et de la RCA. Contrairement aux indices
+précédents, la Guinée Equatoriale n’a plus le niveau de concentration le plus élevé. L’écart
+entre le Gabon et le Tchad est très faible.La rupture avec les premiers indices est encore plus
+brusque si on considère l’indice de Theil.
+Tout d’abord, la valeur de l’indice est inversement proportionnelle au degré de
+concurrence, sa valeur n’est pas bornée entre 0 et 1, mais entre 0 (situation de monopole)
+et (situation de parts égales entre les entreprises).D’après la figure ci-après,la situation du
+Congo et de la RCA n’est pas loin du monopole, le Cameroun, le Gabon et la Guinée
+Equatoriale sont les pays les moins concentrés,le Tchad est dans une situation intermédiaire.
+Les valeurs obtenues de l’indice de Theil compte tenu de la plage de variation,traduisent
+une forte concentration dans l’ensemble des pays.
+Figure 4 :Evolution de l’indice de Theil
+3.2 Approche de Panzar-Rosse
+Nous avons estimé une équation de profit des banques de la CEMAC en fonction du
+coût des inputs à savoir les frais généraux (salaires et autres frais généraux) et les intérêts.La
+période d’étude couvre 2001 à 2007. Le H ainsi calculé est une mesure globale pour la
+CEMAC,sur toute la période,et constitue mesure agrégée dans l’espace et le temps.
+65
+
+--- Page 60 ---
+Afin d’estimer l’équation,nous avons ajouté comme variable de contrôle les fonds propres,
+la nature de l’actionnariat, et le niveau de l’inflation. Ces variables se sont révélées toutes
+significatives. Nous avons considéré les banques avec un résultat positif, ce qui a conduit à
+exclure 2 banques de l’échantillon initial.Sur le plan méthodologique,cette sélection aléatoire
+dans l’échantillon est parfois de nature à induire un biais de sélectivité6 ; compte tenu du
+faible nombre d’observations supprimées nous avons négligé ce biais.
+Nous avons choisi d’utiliser le modèle à effet aléatoire.Ce choix est justifié par le fait qu’il
+n’y a pas, à proprement parler de spécialisations particulières parmi les banques. Elles sont
+pour la plupart du même type,mènent les mêmes activités.Tout écart devrait être représenté
+par un effet aléatoire7.
+Les résultats du modèle sont présentés en annexe.Le H calculer vaut :
+Cette valeur est comprise pour la zone entre 0 et 1. Elle résume bien la situation
+oligopolistique du secteur bancaire de la CEMAC et son éloignement de 1 traduit une faible
+concurrence sur la période 2001-2007.
+_____________________________
+6
+Ce problème disparaît en utilisant le Produit Net Bancaire à la place du résultat. Nous avons utilisé le résultat net pour modéliser les
+banques rentables.
+7
+A ce niveau,la qualité du management peut-être évoquée comme facteur déterminant.S’agissant d’un facteur inobservé,si on le suppose
+relativement stable dans le temps,son omission ne biaise pas les paramètres estimés sur des données de panel.
+66
+
+--- Page 61 ---
+CONCLUSION
+Dans le cadre de cette étude, nous avons présenté les approches de mesure de la
+concurrence couramment utilisées dans la littérature économique. Nous avons illustré ces
+approches avec les données de la CEMAC sur la période allant de 2001 à 2007.Les résultats
+obtenus montrent un marché bancaire assez concentré dans la sous-région selon l’approche
+structurelle. Les résultats du modèle de Panzar-Rosse confirment le fait que cette
+concentration traduit un manque de concurrence.Les établissements de microfinance ont été
+exclus du champ de cette étude.Cependant,leur présence contribue à renforcer la concur-
+rence,s’ils avaient été pris en compte,les résultats auraient pu changer significativement.
+Au sein du Secrétariat Général de la COBAC, un certain nombre de demandes d’avis
+conforme pour l’ouverture des banques sont en instruction, nul doute que le niveau de
+concentration est amené à diminuer au fil du temps.Cela augmentera la capacité du système
+bancaire à financer l’économie qui exigera une surveillance plus étroite avec comme
+corollaire pour la COBAC, la nécessité de disposer de plus de ressources matérielles et
+humaines ainsi qu’un renforcement des normes prudentielles.
+Pour la Commission Bancaire,il apparaît judicieux de s’assurer que les nouvelles banques
+agréées seront aptes à jouer efficacement leur rôle.La première exigence pour ces dernières
+serait un niveau assez conséquent de fonds propres.
+67
+
+--- Page 62 ---
+RÉFÉRENCES BIBLIOGRAPHIQUES
+Bem, J. et Kouezo, (2008), Les déterminants de l’efficacité des banques de la CEMAC,
+Document de Travail de la COBAC,DT 08/02,à paraître.
+Bikker J.A and Haaf K.(2000), Measures of competition and concentration in the banking
+industry: a review of the literature, De Nederlandsche Bank Research Series Supervision
+no.27.
+Binder,D.A.et Kova_evi_ M.(1993),Estimating some measures of income inequality from
+survey data : An application of estimating equation approach », Proceedings of the ASA
+Survey Research Methods,pages 550-555.
+Commission Bancaire de l’Afrique Centrale (2006),Rapport d’activité.Yaoundé.Service de
+reprographie de la Banque des Etats de l’Afrique Centrale.
+Enacoua D. et Guesnerie R.(2006),Les politiques de la concurrence,Rapport du Conseil
+d’Analyse Economique.
+Hellmann T.F,Murdock K.C.and Stiglitz J.E (2000),Liberalization,Moral Hazard in Banking,
+and Prudential Regulation : Are Capital Requierement Enough ? The American Economic
+Review,Vol.90 No.1,147-165.
+Panzar, J.C. and Rosse J.N. (1987),Testing for ‘Monopoly’ Equilibrium, Journal of Industrial
+Economics 35,443-456.
+Pinheiro J. C and Bates D. M (2004), Mixed-Effects Models in S and S-PLUS. New York,
+Springer.
+Jose Pinheiro, Douglas Bates, Saikat DebRoy, Deepayan Sarkar and the R Core team
+(2008).nlme:Linear and Nonlinear Mixed Effects Models.R package version 3.1-89.
+R Development Core Team (2006), R : A language and environment for statistical
+computing R Foundation for Statistical Computing,Vienna,Austria.ISBN 3-900051-07-0,URL
+http ://www.R-project.org.
+69
+
+--- Page 63 ---
+Annexes de l’étude
+Tableau 1: Le poids des deux premières banques dans l’actif
+Pays 2001 2002 2003 2004 2005 2006 2007
+Cameroun 0.460 0.426 0.421 0.416 0.396 0.403 0.396
+Centrafrique 0.755 0.800 0.756 0.707 0.707 0.717 0.772
+Congo 1.000 0.697 0.591 0.602 0.627 0.603 0.638
+Gabon 0.649 0.669 0.639 0.645 0.676 0.661 0.645
+Guinée Equatoriale 1.000 0.926 0.937 0.889 0.841 0.918 0.894
+Tchad 0.574 0.522 0.472 0.489 0.501 0.518 0.425
+Tableau 2: L’indice de Herfindahl Hirschman
+Pays 2001 2002 2003 2004 2005 2006 2007
+Cameroun 0.174 0.160 0.153 0.148 0.140 0.141 0.142
+Centrafrique 0.345 0.367 0.348 0.339 0.342 0.340 0.352
+Congo 0.594 0.310 0.258 0.261 0.269 0.270 0.285
+Gabon 0.259 0.272 0.262 0.260 0.273 0.272 0.259
+Guinée Equatoriale 0.500 0.435 0.444 0.412 0.383 0.430 0.433
+Tchad 0.229 0.215 0.208 0.194 0.193 0.200 0.181
+Tableau 3: L’indice Hannah-Kay
+Pays 2001 2002 2003 2004 2005 2006 2007
+Cameroun 5.738 6.240 6.546 6.740 7.166 7.087 7.056
+Centrafrique 2.897 2.723 2.870 2.946 2.923 2.944 2.842
+Congo 1.684 3.228 3.869 3.839 3.719 3.698 3.512
+Gabon 3.858 3.683 3.821 3.851 3.657 3.683 3.863
+Guinée Equatoriale 1.999 2.301 2.253 2.429 2.609 2.327 2.307
+Tchad 4.366 4.644 4.816 5.152 5.173 4.995 5.533
+Tableau 4: L’indice de Rosenbluth
+Pays 2001 2002 2003 2004 2005 2006 2007
+Cameroun 0.191 0.177 0.170 0.163 0.155 0.156 0.156
+Centrafrique 0.368 0.403 0.377 0.358 0.361 0.360 0.381
+Congo 0.638 0.336 0.277 0.280 0.294 0.295 0.312
+Gabon 0.285 0.298 0.287 0.285 0.300 0.296 0.283
+Guinée Equatoriale 0.505 0.456 0.466 0.446 0.419 0.457 0.465
+Tchad 0.251 0.236 0.224 0.214 0.216 0.221 0.198
+Tableau 5: L’indice de Hall Tideman
+Pays 2001 2002 2003 2004 2005 2006 2007
+Cameroun 0.068 0.070 0.083 0.063 0.064 0.064 0.057
+Centrafrique 0.305 0.284 0.299 0.312 0.309 0.310 0.296
+Congo 0.411 0.199 0.228 0.226 0.218 0.217 0.209
+Gabon 0.118 0.116 0.117 0.118 0.115 0.116 0.096
+Guinée Equatoriale 0.495 0.263 0.260 0.266 0.277 0.172 0.171
+Tchad 0.166 0.174 0.181 0.107 0.107 0.105 0.112
+70
+
+--- Page 64 ---
+Tableau 6: L’indice d’entropie de Theil
+Pays 2001 2002 2003 2004 2005 2006 2007
+Cameroun 0.406 0.330 0.200 0.337 0.289 0.290 0.387
+Centrafrique 0.019 0.053 0.023 0.009 0.013 0.009 0.029
+Congo 0.097 0.111 0.017 0.021 0.040 0.041 0.068
+Gabon 0.316 0.352 0.339 0.324 0.349 0.333 0.465
+Guinée Equatoriale 0.000 0.193 0.215 0.139 0.083 0.443 0.393
+Tchad 0.069 0.037 0.020 0.222 0.203 0.225 0.175
+Calcul des élasticités coût-revenu
+71
+
+--- Page 65 ---
+COMMISSION BANCAIRE DE L’AFRIQUE CENTRALE
+Secrétariat Général
+B.P.:1917 Yaoundé - Cameroun
+Tél.:(237) 22 23 40 30 / 22 23 40 60 - Fax :(237) 22 23 82 16 / 22 23 82 56
+Télex :8343 KN / 8505 KN - Site internet :www.beac.int

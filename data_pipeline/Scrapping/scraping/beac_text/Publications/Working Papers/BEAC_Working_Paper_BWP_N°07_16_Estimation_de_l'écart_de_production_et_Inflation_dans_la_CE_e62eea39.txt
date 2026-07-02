@@ -1,0 +1,907 @@
+Source PDF : BEAC_Working_Paper_BWP_N°07_16_Estimation_de_l'écart_de_production_et_Inflation_dans_la_CE_e62eea39.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_BWP_N°07_16_Estimation_de_l'écart_de_production_et_Inflation_dans_la_CE_e62eea39.pdf
+Date extraction : 15/06/2026 21:27:00
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 07/16 -
+Estimation de l’écart de production et Inflation dans la CEMAC
+NAFE DABA KEUNGNE K. Léo-Spencer M O U NKALA E. Ulrich
+Economiste Statisticien - Economiste Economiste -Statisticien-
+Direction de la Recherche Direction de la Recherche Direction de la Recherche
+nafe@beac.int keungne@beac.int mounkala@beac.int
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE
+travail sont propres à leur (s) auteur (s) et ne
+7 36, Av e n ue M on s e i g n e ur représentent pas nécessairement la position de la
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+DIRECTION DE LA RECHERCHE
+
+--- Page 2 ---
+ESTIMATION DE L’ECART DE PRODUCTION ET
+INFLATION DANS LA CEMAC
+Nafe DABA∗
+Leo Spencer KEUNGNE KOUOTANG†
+Evrard Ulrich H. MOUNKALA‡
+Novembre 2016
+Résumé
+Cepapierestimel’écartdeproductiondelaCommunautéEconomiqueetMonétairedel’AfriqueCentrale
+et de ses Etats membres en utilisant trois techniques : le filtre HP, un modèle à composantes inobservées
+et un modèle VAR structurel. Les estimations effectuées sont ensuite utilisées pour analyser la synchro-
+nisation des cycles économiques d’une part, et analyser la causalité entre inflation et écart de production
+dans la CEMAC d’autre part. Les résultats obtenus suggèrent une corrélation positive entre les cycles
+d’activités du Cameroun et de la Guinée Equatoriale. Aussi, l’écart de production a une incidence très
+faible sur l’inflation dans la CEMAC./-
+Mots clés : PIB potentiel, Ecart de production.
+Classification JEL : C51, E31, E52.
+Abstract
+This paper estimates output gap of the Economic and Monetary Commission of the Central African
+States(EMCCAS)andofitsmemberstatesusingthreeestimationtechniques:HPFilter,anUnobserved
+Component Model and a Structural Vector Autoregressive Model. Ouput gap estimates are then used
+to examine economic cycle synchronization between states of the EMCCAS and the causality between
+inflationandoutputgap.OurresultssuggestapositivecorrelationbetweeneconomiccyclesinCameroon
+and Equatorial Guinea. Moreover, there is no empirical evidence suggesting that output gap influence
+inflation in the EMCCAS./-
+Key words : Potential GDP, Output gap.
+JEL codes : C51, E31, E52.
+∗Direction de la Recherche de la BEAC
+†Direction de la Recherche de la BEAC
+‡Direction de la Recherche de la BEAC
+Les auteurs tiennent à remercier M. Georges Diffo pour ses observations en tant que referee.
+Les opinions et avis exprimés dans ce papier n’engagent pas la Banque des Etats de l’Afrique Centrale.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 4
+1 Importance de l’écart de production pour la conduite des politiques économiques 6
+1.1 Ecart de production et analyse économique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+1.1.1 Ecart de production et dynamique de l’inflation. . . . . . . . . . . . . . . . . . . . . . . . 6
+1.1.2 Ecart de production et retournement des cycles . . . . . . . . . . . . . . . . . . . . . . . . 7
+1.1.3 Ecart de production et évaluation du déficit budgétaire structurel. . . . . . . . . . . . . . 8
+1.2 Ecart de production et conduite de la politique monétaire . . . . . . . . . . . . . . . . . . . . . . 8
+2 Revue des techniques d’estimation de l’écart de production 9
+2.1 Classification des méthodes d’estimation de l’écart de production . . . . . . . . . . . . . . . . . . 9
+2.2 Modèles d’estimation de l’écart de production utilisés . . . . . . . . . . . . . . . . . . . . . . . . 11
+2.2.1 Le Filtre de Hodrick Prescott . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+2.2.2 Le modèle linéaire à composantes inobservables . . . . . . . . . . . . . . . . . . . . . . . . 11
+2.2.3 Le modèle VAR Structurel (SVAR) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3 Données et analyse des résultats 14
+3.1 Données utilisées . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+3.2 Analyse des résultats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+3.2.1 Evolution de l’écart de production dans la CEMAC . . . . . . . . . . . . . . . . . . . . . 15
+3.2.2 Analyse de la synchronisation des cycles économiques dans la CEMAC . . . . . . . . . . . 18
+3.2.3 Analyse de la causalité entre inflation et écart de production . . . . . . . . . . . . . . . . 19
+Conclusion 26
+2
+
+--- Page 4 ---
+Résumé non technique
+Cepapierestimel’écartdeproductiondelaCommunautéEconomiqueetMonétairedel’Afrique
+Centrale et de ses Etats membres en utilisant trois techniques : le filtre HP, un modèle à compo-
+santes inobservées et un modèle VAR structurel. Les estimations effectuées sont ensuite utilisées
+pouranalyserlasynchronisationdescycleséconomiquesd’unepart,etlacausalitéentreinflation
+et écart de production dans la CEMAC d’autre part.
+L’étude de la synchronisation des cycles économiques dans la CEMAC a consisté en une analyse
+des corrélations entre l’écart de production du Cameroun et celui des autres Etats membres
+de la CEMAC d’une part, et des corrélations entre les indicatrices de la position de l’économie
+camerounaise dans le cycle avec celle des autres économies de la CEMAC d’autre part. Les
+évidences empiriques obtenues suggèrent une corrélation positive entre les cycles d’activité du
+Cameroun et de la Guinée Equatoriale et ne permettent pas de conclure sur la synchronisation
+du cycle camerounais avec celui des autres pays .
+La causalité entre inflation et écart de production a été examinée en analysant : (i) les autocor-
+rélations entre écart de production et les séries d’inflation avancée et retardée, (ii) les résultats
+des tests de causalité de Granger entre inflation et écart de production, et (iii) les fonctions de
+réponse impulsionnelle de l’inflation suite à un choc sur l’écart de production. Globalement, il
+ressort de ces analyses que l’écart de production n’a pas d’incidence statistiquement significa-
+tive sur la dynamique des prix d’une part, et que l’inflation n’a pas d’incidence statistiquement
+significative sur l’écart de production.
+Les résultats auxquels aboutit cette étude pourraient suggérer des implications pour l’analyse
+conjoncturelle , la conduite de la politique monétaire et pour les réformes structurelles dans
+la CEMAC. Concernant la conduite de la politique monétaire, il est essentiel d’investiguer de
+façon plus approfondie l’incidence d’une hausse de la demande à court terme sur la hausse des
+importations. En effet, si celle-ci est statistiquement significative, il est essentiel pour la BEAC
+de supprimer les avances statutaires aux Etats en vue du financement des dépenses courantes.
+Par ailleurs, elle inviterait également les Etats de la CEMAC à des réformes structurelles en vue
+de réduire sensiblement les sorties de devises et accroitre l’entrée de celles-ci en vue de garantir
+à long terme la stabilité externe du Franc de la Coopération Monétaire en Afrique Centrale
+(FCFA). Pour finir, l’analyse de la synchronisation des cycles suggère une association positive
+entre l’activité au Cameroun et en Guinée Equatoriale.
+3
+
+--- Page 5 ---
+Introduction
+L’objectif final de la politique monétaire de la Banque des Etats de l’Afrique Centrale (BEAC)
+est la stabilité monétaire.1 Elle se décline en deux volets : l’un interne, consistant en la stabilité
+des prix à moyen terme, et l’autre externe, se déclinant par un taux de couverture suffisant de
+ses engagements à vue par ses avoirs extérieurs. S’agissant particulièrement du premier volet,
+la BEAC, à l’image de plusieurs autres banques centrales, vise à contrôler l’évolution du niveau
+général des prix dans sa zone d’émission, à travers les mouvements de son taux directeur et
+le contrôle de l’accroissement des agrégats de monnaie et de crédit. L’indicateur retenu pour
+apprécier la stabilité des prix est le taux d’inflation, calculé comme la variation en moyenne
+annuelle de l’indice mensuel des prix à la consommation des ménages.
+Il convient de noter que le choix du taux d’intérêt comme principal instrument de politique
+monétaire impose de prendre en considération les délais d’impact des impulsions monétaires sur
+l’activité et les prix. Gruen et al. (1997) relèvent d’ailleurs à ce propos que les délais d’impact
+des impulsions monétaires sur l’activité et les prix sont le reflet des décalages enregistrés dans la
+transmission des impulsions de politique monétaire aux taux d’intérêt des intermédiaires finan-
+ciers (i), des réponses graduelles des investissements et des prix des autres actifs aux variations
+des taux d’intérêt (ii), et des interrelations entre les secteurs d’activité (iii). L’existence de ces
+délais impose alors aux banques centrales ayant la stabilité des prix pour objectif à moyen terme
+d’avoir une démarche prospective dans le suivi de la dynamique des prix, en disposant notam-
+ment de bons outils de prévision de l’inflation. Au nombre de ces outils, l’écart de production,
+encore appelé output gap, est l’un des plus usités dans la théorie économique et la littérature
+empirique.
+Par définition, l’output gap est la différence relative entre la production observée dans une éco-
+nomie et sa production potentielle au cours d’une période donnée. La production potentielle
+désigne le niveau maximal de production qu’atteindrait l’économie lorsqu’elle fonctionne de fa-
+çon efficiente, c’est-à-dire lorsque ses agents agissent de façon optimale. Une telle situation est
+caractérisée par une absence de déséquilibres sur les marchés des biens et du travail, et donc
+un écart de production nul. Ainsi, un écart de production non nul correspond à une utilisation
+inefficiente des ressources (force de travail, équipements, savoir-faire organisationnel et technolo-
+gique). S’il est négatif, cela traduit l’existence de ressources oisives dans l’économie, tandis que
+sa positivité signifie que l’économie surutilise ses capacités de production.
+1. La BEAC est la banque centrale commune à six pays : le Cameroun, le Centrafrique, le Congo, le Gabon,
+la Guinée Equatoriale et le Tchad qui constituent la Communauté Economique, Monétaire et Financières des
+Etats de l’Afrique Centrale
+4
+
+--- Page 6 ---
+Aucune économie ne pouvant être caractérisée d’efficiente, la production potentielle et incidem-
+ment l’écart de production sont des indicateurs inobservables. L’estimation de ces grandeurs
+repose donc sur des hypothèses de modélisation reflétant les caractéristiques théoriques ou em-
+piriques désirables de l’écart de production ou de la production potentielle. Plusieurs méthodes
+d’estimation de l’écart de production et de la production potentielle sont recensées dans la lit-
+térature empirique. En dépit de la diversité des approches empiriques d’estimation de l’écart de
+production, les estimations de l’écart de production font partie aujourd’hui de la boite à outils
+d’analyse économique de la plupart des banquiers centraux pour la conduite de la politique
+monétaire.
+L’écart de production est en effet utilisé pour l’analyse conjoncturelle et le pilotage des instru-
+ments de politique monétaire. Au titre de l’analyse conjoncturelle, plusieurs travaux empiriques
+ont montré que les indicateurs d’écart de production estimés sont souvent de bons indicateurs
+avancés de l’inflation, utile pour la détermination de la position d’une économie dans le cycle
+d’activités,etincidemmentàl’analysedelasynchronisationdescyclesd’activitédansdesunions
+monétaires. Quant au pilotage des instruments de politique monétaire, le modèle de la nouvelle
+synthèse classico-keynésienne accorde une place importante à l’écart de production dans la dé-
+termination de la dynamique des prix à travers la courbe de Phillips et du pilotage du taux
+directeur de la Banque centrale en vue de la stabilisation de l’activité autour de son niveau
+potentiel et de la stabilité des prix autour d’une cible d’inflation.
+Pour la BEAC, avec la stabilité des prix comme objectif final de sa politique monétaire, bénéfi-
+ciant d’un ancrage de sa monnaie par rapport à l’euro et d’un contrôle de change, il existe une
+marge de manœuvre pour la conduite d’une politique monétaire "relativement" autonome en
+vue d’atteindre l’objectif final de sa politique monétaire. Pour le faire, son dispositif analytique
+devrait comporter suffisament d’indicateurs susceptibles de lui permettre de mieux orienter et
+piloter ses instruments. Or, en dépit de l’importance avérée des estimations de l’écart de pro-
+duction pour l’analyse économique et la conduite de la politique monétaire, très peu de travaux
+empiriquesontétéconsacrésauxestimationsdecetindicateurdanslespaysrégisparlapolitique
+monétaire de la BEAC.
+Très peu d’évidences empiriques sont établies à ce jour sur l’incidence de l’écart de production
+sur la dynamique des prix et sur la synchronisation des cycles d’activités dans la CEMAC. En
+effet, une incidence avérée des estimations de l’écart de production sur la dynamique des prix
+permettra d’enrichir la boite à outils des indicateurs avancés de l’inflation dans la BEAC. Par
+ailleurs, une synchronisation des cycles d’activités entre deux pays de la CEMAC permettra de
+5
+
+--- Page 7 ---
+mieux prévoir l’incidence d’un choc économique affectant le premier sur le second. Pour finir,
+les estimations de l’écart de production pourront être utiliser pour les travaux d’évaluation
+empirique de la trajectoire optimale de politique monétaire de la BEAC. Cette étude vient
+combler ce vide en proposant des estimations de l’écart de production et de l’inflation dans la
+CEMAC et ses Etats membres d’une part, et en utilisant les estimations obtenues pour évaluer
+la synchronisation des cycles économiques entre Etats membres et les interrelations entre écart
+de production et inflation d’autre part.
+La suite de ce papier est organisée comme suit. La première section présente l’importance de
+l’output gap dans la conduite des politiques économiques; la deuxième passe en revue les tech-
+niques d’estimation de l’output gap et décrit les modèles utilisés pour l’estimation dans cette
+étude; et la troisième présente les données utilisées et analyse les résultats obtenus. Le papier
+s’achève par une conclusion.
+1 Importance de l’écart de production pour la conduite des po-
+litiques économiques
+DepuissonintroductiondanslalittératureparOkun(1962)l’écartdeproductionaprisaufildu
+temps une place de plus en plus importante dans l’analyse et la conduite des politiques écono-
+miques. S’agissant de l’analyse économique, l’écart de production occupe une place importante
+dans l’analyse de la dynamique de l’inflation , l’étude des points de retournement des cycles
+d’activité et l’évaluation du déficit budgétaire structurel. Pour ce qui est de la conduite de la
+politique monétaire, c’est un indicateur utilisé pour le calibrage du taux d’intérêt directeur des
+Banques centrales et l’analyse de l’optimalité des politiques monétaires.
+1.1 Ecart de production et analyse économique
+1.1.1 Ecart de production et dynamique de l’inflation
+Pour appréhender l’intérêt de l’écart de production dans une approche prospective de suivi de
+la hausse cumulative et auto entretenue du niveau général des prix, il est opportun de repartir
+à ses origines dans la théorie économique. En effet, comme l’indique Hauptmeier et al. (2009),
+le concept de production potentielle a été introduit par Okun (1962), qui l’assimile au niveau
+de production qu’une économie est capable d’atteindre sans induire des tensions inflationnistes.
+D’unpointdevueopérationnel,Okunidentifielaproductionpotentielleauniveaudeproduction
+6
+
+--- Page 8 ---
+atteintlorsqueletauxdechômagesesitueàunniveaucorrespondantàuneinflationnulle.Dans
+ces conditions alors, l’output gap correspond à un déséquilibre entre la demande et les capacités
+de production disponibles dans l’économie.
+Par la suite, la relation entre l’inflation et l’output gap a été rigoureusement formalisée dans
+les travaux de Calvo (1983) dans le cadre du modèle néoclassique avec prise en compte de
+rigidités réelles et nominales, à travers la courbe de Phillips forward looking. A sa suite, pour
+mieux capter la persistance observée dans l’évolution du taux d’inflation, Gali et Gertler (1999)
+ont dérivé une courbe de Phillips à la fois forward looking et backward looking. Désormais, la
+courbe de Phillips néo-keynésienne (NKPC) s’est imposée comme le cadre théorique dans lequel
+l’output gap est l’un des déterminants majeurs de l’inflation. A titre d’exemple, d’un point
+de vue empirique, aux fins de prévision, Mustapha et Fraisse (2002) observent, sur données
+trimestrielles françaises de la période 1987T1-2001T2, que les indicateurs d’écart de production
+qu’ils estiment, améliorent sensiblement la prévision de l’inflation hors énergie en France. En
+revanche, sur données trimestrielles des Etats-Unis de 1965T3-2003T3, Orphanides et Norden
+(2004) constatent que les indicateurs de l’écart de production n’y améliorent pas les prévisions
+de l’inflation.
+IlpeutêtreaussirelevéquelacourbeISintertemporelledanslemodèlecanoniquedelaNouvelle
+Synthèse est également une autre relation économique mettant aux prises l’output gap et le
+taux d’inflation dans un sens de causalité inversé, de l’inflation comme déterminant de l’output
+gap. Il existe par conséquent une relation bidirectionnelle (à effet feedback) entre ces deux
+variables importantes de l’analyse économique, dans laquelle les marchés seraient caractérisés
+par une concurrence imparfaite, des rigidités nominales et/ou réelles des prix et certains agents
+économiques formulant des anticipations rationnelles et d’autres des anticipations adaptatives;
+l’économie étant par ailleurs affectée par des chocs idiosyncrasiques de diverses natures (offre,
+demande, extérieur...).
+1.1.2 Ecart de production et retournement des cycles
+Un autre pan important de la théorie économique dans lequel l’output gap joue un rôle majeur
+est l’analyse des cycles de croissance dans laquelle il permet notamment la détermination des
+dates de retournement des cycles et, partant, la longueur de ceux-ci. Dans ce schéma, les pics et
+les creux correspondent aux maxima et minima respectifs atteints par l’output gap. La décom-
+position de la production en composantes tendancielle (PIB potentiel) et cyclique (output gap),
+utilisée dans la distinction des cycles économiques fournit une information utile dans l’apprécia-
+7
+
+--- Page 9 ---
+tion du caractère prédictif, avancé, coïncident ou retardé, de l’output gap dans la prévision du
+cycle économique (Bonnet et al., 1995).
+1.1.3 Ecart de production et évaluation du déficit budgétaire structurel
+Du point de vue des finances publiques par exemple, Bonnet et al. (1995) soulignent que dans
+une situation où la conjoncture serait de nature à affecter les déficits budgétaires, la mesure
+de l’output gap peut permettre de distinguer ses éléments permanents ou structurels de ceux
+qui seraient purement transitoires. En effet, la majorité des recettes a un caractère procyclique,
+tandis que certaines dépenses sont contracycliques. Par conséquent, il est essentiel de dissocier
+lesélémentsconjoncturelsdestendancespermanentesdudéficitbudgétaireafindepouvoirlisser
+les ajustements de dépenses dans le temps, et partant éviter des ajustements bruts des dépenses
+budgétaires aux conséquences sociales souvent préjudiciables. L’écart de production peut ainsi
+aider à calculer le solde structurel étant donné qu’il permettrait l’identification des composantes
+cycliques du budget, relèvent Giorno et al. (1995).
+1.2 Ecart de production et conduite de la politique monétaire
+L’écart de production est une variable centrale dans les analyses de politique monétaire. Dans
+la littérature économique, plusieurs cadres théoriques de conduite de la politique monétaire
+tiennent compte de l’écart de production dans le pilotage des taux d’intérêt. Dans ceux-ci, est
+généralement opéré un arbitrage entre la stabilisation de l’inflation et celle des fluctuations de
+l’activité; lequel arbitrage est souvent effectué en optimisant une fonction de perte des autorités
+monétaires ou en adoptant une règle ad hoc de politique monétaire. C’est le cas notamment de
+la règle de Taylor et de la majorité des règles de politique monétaire qui effectuent un arbitrage
+entre la stabilisation de l’activité autour de son niveau potentiel et de celle de l’inflation autour
+desacible,avecéventuellementd’autresvariables,dansladéterminationdutauxd’intérêtutilisé
+par l’autorité monétaire pour assurer sa/ses mission(s) de définition et de mise en œuvre de la
+politique monétaire.
+Par exemple, la règle de Taylor, dite activiste (par opposition à la règle non activiste développée
+par Friedman), définit une ligne de conduite qui s’impose aux autorités monétaires. En ce sens,
+elle se fonde sur le calcul d’un taux d’intérêt de court terme, supposé optimal et compatible avec
+l’objectif d’inflation de la banque centrale. Le taux de Taylor ainsi calculé est comparé au taux
+d’intérêtàcourttermeobservépourjugerdel’adéquationdelapolitiquemonétaireauxdonnées
+8
+
+--- Page 10 ---
+économiques fondamentales. Dans ce type d’analyses ainsi que le remarquent Jahan et Mahmud
+(2013),entreautres,l’outputgaprendégalementpossibleladétectiondespériodesdesurchauffe
+(lorsqu’il est positif), suggérant un resserrement des conditions monétaires, et des périodes de
+récession (lorsqu’il est plutôt négatif), requérant un assouplissement de ces conditions.
+Il y a lieu de noter que si l’importance de l’output gap est avérée à la lecture de tout ce
+qui précède, il n’en demeure pas moins que sa mesure soulève des difficultés techniques, car
+reposant sur des méthodes d’extraction de signal pour déterminer la production potentielle,
+qui au demeurant est inobservable. En effet, la production potentielle ne désigne pas le niveau
+maximaldeproductionréalisable,maisunniveausoutenable,sansaccélérationdel’inflation,sur
+une longue période. Dès lors, l’output gap est également une variable inobservable, ce qui rend
+difficile l’appréciation de son adéquation aux phénomènes économiques dont il est sensé rendre
+compte. Bien qu’une méprise dans l’évaluation de cet indicateur pourrait induire des décisions
+de politique économique inappropriées, il faut néanmoins souligner qu’au plan statistique, il
+existe des critères d’évaluation de la pertinence des extractions de signal effectuées, permettant
+de minimiser ce risque. A ce titre, il peut être cité, à titre d’exemple, Odile et Dopke (2001)
+qui mentionnent la nécessaire évaluation du contenu informationnel des indicateurs d’écart de
+production selon qu’ils améliorent ou non les prévisions de l’inflation.
+2 Revue des techniques d’estimation de l’écart de production
+2.1 Classification des méthodes d’estimation de l’écart de production
+Dans la littérature, les méthodes de détermination de l’output gap sont à ranger dans la classe
+des techniques d’extraction du signal. Celles-ci, dans leur principe général, permettent notam-
+ment de séparer la composante permanente ou tendancielle d’avec la composante cyclique ou
+transitoire.Danscettedécomposition,laproductionpotentiellecorrespondalorsàlacomposante
+tendancielle tandis que l’output gap est la composante cyclique.
+A l’instar de Gerlach et Yiu (2004) qui rangent les techniques utilisées aux fins susmentionnées,
+à savoir les approches a-théoriques ou statistiques, les approches structurelles ou fondées sur la
+théorie économique, et les approches mixtes combinant les méthodes issues des deux classes pré-
+cédentes, Mishkin (2007) regroupe également ces techniques en trois grandes catégories, à savoir
+les approches agrégées, les approches comptables de la croissance et les approches d’équilibre
+général dynamique stochastique (DSGE).
+9
+
+--- Page 11 ---
+Enpartantdecesdifférentesclassifications,danscepapierilestproposéleregroupemententrois
+classes certes, mais avec les appellations suivantes, davantage proches de la distinction proposée
+par Gerlach et Yiu (2004) : (i) les filtres statistiques, (ii) les techniques semi-structurelles, et
+(iii) les approches structurelles.
+La classe des filtres statistiques utilise la théorie d’extraction du signal pour décomposer la série
+du logarithme du PIB réel en deux composantes : une composante permanente assimilée à la
+production potentielle et une composante cyclique considérée comme l’écart de production. Ces
+méthodesprésententl’avantaged’êtreaisémentimplémentablesetnerequièrenttrèssouventque
+la série du PIB réel pour leur mise en œuvre. Toutefois, elles sont critiquées pour l’absence de
+fondements théoriques dans l’estimation des séries d’écart de production. Parmi ces méthodes,
+les plus usitées dans la littérature sont le filtre de Hodrick-Prescott (HP), le filtre de la bande-
+passante de King-Baxter et le filtre de Kalman.
+S’agissant de la classe des techniques semi-structurelles, elles consistent à décomposer la série
+du logarithme du PIB réel en utilisant outre celle-ci, d’autres séries macroéconomiques, et en
+spécifiant des relations de comportement entre l’écart de production et d’autres indicateurs ma-
+croéconomiquesfondéessurlathéorieéconomique.Lesversionsmultivariéesdesfiltresprécédents
+et les modèles vectoriels autorégressifs structurels (SVAR) sont rangés dans cette catégorie. Ces
+méthodes permettent par construction d’obtenir des indicateurs d’écart de production ayant
+un pouvoir explicatif sur l’inflation. Toutefois, leur mise en œuvre peut parfois nécessiter un
+nombre important de séries de données, et elles sont aussi critiquées pour le caractère ad-hoc
+des relations entre l’écart de production et les autres indicateurs macroéconomiques.
+Pour finir, les méthodes structurelles consistent à dériver la production potentielle et l’écart de
+production à l’aide de modèles microfondés comportant une fonction de production , et éven-
+tuellement une définition rigoureuse des niveaux d’équilibre des facteurs de production. Elles
+présentent l’avantage d’offrir une grille d’analyse des facteurs explicatifs de la dynamique des
+estimations de l’écart de production obtenues mais requièrent souvent un nombre important de
+séries de données pas toujours disponibles. Dans la pratique, elles sont souvent critiquées prati-
+quementpourlerecoursauxfiltresstatistiquesdansladéterminationdestrajectoiresd’équilibre
+des facteurs de production.
+Dans ce papier, il a été choisi de retenir trois techniques d’extraction du signal visant à dé-
+composer le PIB réel en ses deux composantes permanente et cyclique, à savoir (i) le filtre HP
+univarié, (ii) un modèle linéaire à composante inobservable, et (iii) un modèle SVAR, compte
+tenu des données pertinentes disponibles sur les économies de la CEMAC.
+10
+
+--- Page 12 ---
+2.2 Modèles d’estimation de l’écart de production utilisés
+2.2.1 Le Filtre de Hodrick Prescott
+L’estimation de l’output gap par le filtre HP univarié consiste à extraire la composante ten-
+dancielle de la série dulogarithme du PIB réel par minimisation d’une moyenne pondérée de la
+distance entre la chronique et la tendance recherchée d’une part, et de la somme des carrés des
+variations des taux de croissance de la tendance à un paramètre de lissage près d’autre part.
+En désignant par Y la série du logarithme PIB réel et par {Y∗} sa composante permanente
+tt≥1 t
+(inobservable), le problème du lissage par le filtre HP s’écrit algébriquement :
+T T−1
+Min (cid:88) (Y −Y∗)2+λ(cid:88)(cid:0)(cid:0) Y∗ −Y∗(cid:1) −(cid:0) Y∗−Y∗ (cid:1)(cid:1)2 (1)
+{Y∗} t t t+1 t t t−1
+t t=1,...,T
+t=1 t=2
+Dans ce problème d’optimisation, λ est la constante de lissage. Dans la plupart des travaux
+empiriques, sa valeur est fixée à 1600 pour des séries trimestrielles et à 100 pour des séries
+annuelles.Laséried’écartdeproductionestdérivéeencalculantledifférentielentrelelogarithme
+du PIB réel de sa tendance.
+Il y a lieu de souligner que malgré sa large utilisation dans les études empiriques d’extraction
+de signal, le filtre de Hodrick Prescott souffre d’un biais de queue d’échantillon, dans la mesure
+où, n’y étant pas symétrique, les valeurs estimées de la tendance restent sensibles aux variations
+des valeurs de la série en fin d’échantillon. Pour réduire ce biais, une solution fréquemment
+utilisée consiste à rallonger suffisamment la série de quelques observations projetées à l’aide
+d’une technique de prévision, de manière à réduire la sensibilité des estimations aux queues
+d’échantillon.
+2.2.2 Le modèle linéaire à composantes inobservables
+Relevant de la classe des approches semi-structurelles, les modèles linéaires à composantes inob-
+servables mettent en relations des variables observées et des variables inobservables, lesquelles
+relations, appelées équations de mesure, peuvent avoir un fondement théorique ou peuvent sim-
+plement être postulées de façon ad hoc. Les variables inobservables considérées sont à leur tour
+mise en relations dynamiques avec leurs retards supposés et des facteurs aléatoires à travers des
+processusmarkoviensappeléséquationsdetransition.Danslecasparticulieroùlesfacteursaléa-
+toires sont supposés gaussiens, le filtre de Kalman2 est alors utilisé pour estimer les paramètres
+2. Pour davantage de développements sur le filtre de Kalman, voir par exemple Hamilton (1994).
+11
+
+--- Page 13 ---
+du modèle et pour fournir les composantes permanente et transitoire des variables d’intérêt.
+Formellement, le problème à traiter pour le calcul de l’output gap dans ce papier se présente
+comme suit :
+y = y∗+gap (2)
+t t t
+y∗ = y∗ +εy∗ (3)
+t t−1 t
+gap = α×gap +εgap (4)
+t t−1 t
+π = β×π +γ ×gap +επ (5)
+t t−1 t t
+Avec y et y∗ désignant respectivement le logarithme du PIB réel et sa tendance inobservable;
+t t
+gap l’écarttdeproduction; etεy∗ ,εgap,etεπ sont deschocséconomiquessupposésnoncorrélés.
+t t t t
+Une fois les paramètres du modèle estimé, les composantes inobservées sont dérivées.
+Acestade,ilyalieudesoulignerquebienqu’ilsprésententcertesl’avantagedes’appuyersurdes
+relations inspirées de la théorie économique et offrent aussi la possibilité d’évaluer l’incertitude
+entourant les estimations de l’écart de production, les modèles à composantes inobservables sont
+souvent critiqués en raison du caractère ad hoc des relations postulées et de l’hypothèse de
+normalité des facteurs d’erreurs qui n’est pas toujours avérée.
+2.2.3 Le modèle VAR Structurel (SVAR)
+Comme technique d’extraction de signal, la modélisation SVAR est fondée sur les conclusions
+de la nouvelle synthèse qui identifie la production potentielle à la capacité d’offre de l’économie
+et l’écart de production aux chocs de demande (Valerie et Cerra (2000)). Plusieurs méthodes
+d’identification des chocs d’offre et de demande sont recensées dans la littérature. Blanchard &
+Quah(1999)identifientparexempleleschocsd’offreenpostulantqu’ilsontunimpactpermanent
+surlePIBréeltandisqueleschocsdedemanden’ontqu’unimpacttransitoiresurcetindicateur.
+D’autres études identifient les chocs de demande en formulant des hypothèses fondées sur leur
+impact instantané théorique, attendu sur des variables observables.
+Bien que l’approche par les SVAR demeure peu subjective comparée aux filtres statistiques pour
+ce qui est des paramètres de lissage, d’une part, et moins critiquable que les autres approches
+semi-structurellespourcequiestdelaspécificationdesrelationsentrelesvariableséconomiques,
+d’autre part, les SVAR sont aussi critiqués pour la subjectivité du choix des variables entrant
+12
+
+--- Page 14 ---
+dans la spécification du modèle, le nombre restreint de chocs identifiables qui doit nécessaire-
+ment être égal à celui du modèle VAR et l’impossibilité d’apprécier l’incertitude entourant les
+estimations de l’écart de production.
+Formellement, le modèle VAR structurel estimé dans ce papier s’inspire de celui utilisé par
+Valerie et Cerra (2000). Il modélise la dynamique de la variation du logarithme du PIB réel
+(∆y ) et celle du logarithme de l’indice des prix à la consommation ∆p sous la forme suivante :
+t t
+       
+∆y
+t
+(cid:88)p A1
+1,i
+A2
+1,i
+∆y
+t−i
+q 11 q 12 εy
+t
+  =   +   (6)
+∆p A1 A2 ∆p q1 q2 εp
+t i=1 2,i 2,i t−i 2 2 t
+Avec :
+– p : le nombre de retards du modèle;
+   
+A1 A2 q1 q2
+1,i 1,i 1 1
+– A i =   et Q =   des matrices carrées;
+A1 A2 q1 q2
+2,i 2,i 2 2
+– εy un choc d’offre;
+t
+– εp un choc de demande.
+t
+La matrice de variance covariance du vecteur des chocs est égale à l’identité. Le modèle peut se
+mettre sous forme vectorielle moyenne mobile infinie ainsi qu’il suit :
+    
+∆y
+t
+(cid:88)p C 11
+,i
+C 12
+,i
+εy
+t−i
+  =    (7)
+∆p C1 C2 εp
+t i=1 2,i 2,i t−i
+ 
+C1 C2
+1,i 1,i
+LesmatricesC i =  sontdéduitesparidentificationenutilisantlarelationcidessous
+C1 C2
+2,i 2,i
+dans laquelle L désigne l’opérateur retard :
++∞ (cid:32) +∞ (cid:33)
+(cid:88) (cid:88)
+C Li = I − A Li (8)
+i i
+i=0 i=0
+Il est donc important d’identifier la matrice Q pour dériver les chocs structurels à partir du
+modèle VAR réduit. La matrice de variance-covariance,Σ, des résidus du modèle de la forme
+réduite, u = Qε , peut être factorisée sous la forme :
+t t
+(cid:48)
+Σ = QQ (9)
+13
+
+--- Page 15 ---
+Toutefois, cette relation à elle seule ne permet pas d’identifier la matrice Q. Pour l’identifier,
+nous devons imposer une restriction supplémentaire. Nous choisissons d’imposer la restriction
+de long terme selon laquelle, les chocs de demande n’ont qu’un impact transitoire sur le niveau
+de production, ce qui, algébriquement s’écrit :
++∞
+(cid:88)
+C2 = 0 (10)
+1,i
+i=0
+En admettant que la croissance potentielle est déterminée par des chocs d’offre, l’écart de pro-
+duction est calculé ainsi qu’il suit :
++∞
+gap = (cid:88) C2 εp (11)
+t 1,i t−i
+i=0
+3 Données et analyse des résultats
+Cette section présente dans un premier temps les données utilisées dans cette étude pour
+estimer l’écart de production. La seconde présente les estimations de l’écart de production de la
+CEMAC et les utilisent afin d’apprécier dans la CEMAC la synchronisation des cycles écono-
+miques d’une part, et les interrelations entre écart de production et inflation.
+3.1 Données utilisées
+Les séries utilisées dans cette étude, à fréquence trimestrielle, pour la CEMAC et ses Etats
+membres, sont : (i) le PIB réel, (ii) les séries de l’indice des prix à la consommation, et (iii) le
+taux d’inflation calculé comme la variation en glissement annuel du niveau moyen de l’indice des
+prix au cours d’un trimestre.
+Les séries du PIB réel qui couvrent chacune, la période 2000T1-2014T4, ont été obtenues par
+trimestrialisation des séries annuelles du PIB à prix constants grâce à la technique de maximum
+de vraisemblance de Chow-Lin (1971). Cette technique requiert l’existence d’une ou plusieurs
+variables d’étalonnage disponible à fréquence trimestrielle et annuelle, et présentant une relation
+stableaveclasérieàtrimestrialisersurlapérioded’étude.LessériesduPIBàprixconstantsdans
+la CEMAC , produites par les Organismes en charge de la statistique dans les Etats membres3
+couvrentlapériode2000-2014.DanschaquepaysdelaCEMAC,lavariabled’étalonnageretenue
+3. INSauCameroun,ICASEESenRCA,INSauCongo,ANSDauGabon,INEGEenGuinéeEquatorialeet
+INSEED au Tchad
+14
+
+--- Page 16 ---
+a été les avoirs extérieurs nets de l’Etat disponible à fréquence trimestrielle à la BEAC. Le choix
+decetindicateuraétémotivéparl’observationd’unerelationgraphiqueentrelessériesannuelles
+du PIB à prix constants et des avoirs extérieurs nets des Etats de la CEMAC sur la période
+2000-2014 telle qu’illustrée par le graphique ci-apprès.
+Figure 1 – Avoirs extérieurs nets et PIB à prix constants dans la CEMAC de 2000 à 2014
+Source:Nostravaux.
+Lessériesdel’indicedesprixàlaconsommationdesEtatsmembrescouvrentchacunelapériode
+200T1-2014T4etsontproduitesparleursorganismesenchargedelastatistique.Quantàlasérie
+de l’indice des prix à la consommation de la CEMAC, elle est calculée par la BEAC à partir des
+séries d’indices des prix à la consommation des pays et couvre la même période.
+3.2 Analyse des résultats
+3.2.1 Evolution de l’écart de production dans la CEMAC
+Les estimations de l’écart de production à l’aide du filtre HP ont été effectuées en fixant la
+valeur de la constante de lissage à 1600. Cette valeur de la constante de lissage est souvent
+recommandée dans la littérature empirique de décomposition des séries macroéconomiques de
+fréquence trimestrielle en tendance et cycle. Quant aux estimations de l’écart de production à
+l’aide du modèle VAR structurel, elles ont été effectuées à partir du premier trimestre de l’année
+2008enraisondelanécessitédedisposerdesériesdedonnéessuffisammentlonguespourobtenir
+15
+
+--- Page 17 ---
+de meilleures approximations de l’indicateur d’écart de production.
+Les figures 2 et 3 ci-dessous présentent l’évolution des indicateurs d’écart de production de la
+CEMAC et de chacun de ses Etats sur la période 2008T1-2014T4.
+Figure 2 – Evolution des indicateurs d’écart de production de la CEMAC sur la période
+2008T1-2014T4
+Source:Nostravaux.
+16
+
+--- Page 18 ---
+Figure 3 – Evolution des indicateurs d’écart de production des pays de la CEMAC sur la
+période 2008T1-2014T4
+Source:Nostravaux.
+L’analyse de ces graphiques montre, pour la CEMAC et chacun de ses Etats membres, des
+comouvements entre les séries d’écart de production dérivées du filtre HP et du modèle à com-
+posantes inobservées. Ces comouvements ne sont toutefois pas observés avec les séries d’écart de
+production estimées à l’aide du modèle VAR Structurel dont l’évolution semble assez erratique.
+Onconstateenoutreuneamplituderelativementplusgrande,entermesabsolue,desestimations
+de l’écart de production obtenues avec le filtre HP.
+Les corrélations entre les séries d’écart de production dérivées à partir des différentes techniques
+d’estimationretenuesontpermisdemettreenévidencel’existencedefortescorrélationslinéaires
+entre les séries d’écart de production dérivées du filtre HP et du modèle à composantes inob-
+servées d’une part, et de très faibles corrélation linéaires entre les séries d’écart de production
+17
+
+--- Page 19 ---
+estimées à l’aide du modèle VAR structurel avec celles dérivées des deux autres techniques
+comme le suggère le tableau ci-dessous.
+Table 1 – Corrélation entre les estimations de l’écart de production dans la CEMAC
+Espace Géographique Modèle HP MCI VAR
+HP 1 0.78 -0.2
+CEMAC MCI 0.78 1 -0.2
+VAR -0.2 -0.2 1
+HP 1 0.95 0.00
+Cameroun MCI 0.95 1 0.20
+VAR 0.21 0.20 1
+HP 1 0.96 0.00
+Centrafrique MCI 0.96 1 0.04
+VAR 0.00 0.04 1
+HP 1 0.91 0.11
+Congo MCI 0.91 1 0.18
+VAR 0.11 0.18 1
+HP 1 0.93 0.22
+Gabon MCI 0.93 1 0.19
+VAR 0.22 0.19 1
+HP 1 0.84 0.14
+Guinée Equatoriale MCI 0.14 1 0.33
+VAR 0.22 0.19 1
+HP 1 0.96 0.00
+Tchad MCI 0.96 1 0.04
+VAR 0.00 0.04 1
+Source:Nostravaux.
+3.2.2 Analyse de la synchronisation des cycles économiques dans la CEMAC
+Cette analyse a été menée en considérant d’une part les corrélations instantanées, pour chaque
+technique d’estimation, de l’écart de production de chaque pays de la CEMAC avec celui du
+Cameroun, et d’autre part, la corrélation instantanée de l’indicatrice de la position de chaque
+économie dans le cycle avec celle du Cameroun.4 Le tableau ci-dessous récapitule les calculs
+effectués.
+Le tableau permet de dégager une synchronisation positive relativement importante entre les
+cyclesduCamerounetdelaGuinéeEquatoriale.Cerésultatestrobusteauchoixdelatechnique
+d’estimation (HP, Modèle à Composantes inobservées et VAR structurel) et à l’indicateur de
+position de l’économie dans le cycle (écart de production en niveau ou indicatrice de la position
+de l’économie dans le cycle). Par ailleurs, on relève une quasi absence de synchronisation des
+cycles entre le Cameroun et le Gabon. Pour ce qui est de la RCA, du Congo et du Tchad,
+4. L’indicatrice de la position de l’économie dans le cycle associée à une estimation de l’écart de production
+est une variable égale à 1 lorsque l’écart de production est positif et 0 le cas échéant.
+18
+
+--- Page 20 ---
+Table 2 – Corrélations entre les cycles des pays de la CEMAC et celui du Cameroun
+Pays Indicateur HP MCI VAR
+Indicatrice 0.25 -0.20 -0.16
+Centrafrique
+Ecart de Production 0.05 -0.14 -0.17
+Indicatrice 0.10 -0.39 -0.11
+Congo
+Ecart de Production -0.01 -0.26 -0.15
+Indicatrice -0.04 0.01 0.07
+Gabon
+Ecart de Production -0.09 0.04 0.14
+Indicatrice 0.05 0.28 0.18
+Guinée Equatoriale
+Ecart de Production 0.58 0.15 0.08
+Indicatrice -0.43 -0.12 0.41
+Tchad
+Ecart de Production -0.22 -0.08 0.18
+Source:Nostravaux.
+les évidences empiriques ne nous permettent pas d’avoir une opinion tranchée sur le sens et
+l’ampleur de la synchronisation des cycles économiques de ces pays avec celui du Cameroun.
+La faible synchronisation des cycles d’activité des économies de la CEMAC pourrait être sur-
+prenante eu égard au fait qu’à l’exception de la République centrafricaine, les autres pays de
+la CEMAC sont des exportateurs nets de pétrole d’une part, et que tous les pays de la CE-
+MAC sont des exportateurs de ressources naturelles. Il serait donc plausible de s’attendre à une
+forte corrélation des cycles d’activité dans la CEMAC. Ce résultat pourrait toutefois se justifier
+par la faible intégration commerciale des économies de la sous région et les hétérogénéités dans
+l’utilisation des recettes issues de l’exploitation des ressources naturelles.
+3.2.3 Analyse de la causalité entre inflation et écart de production
+Le tableau ci-dessous présente, pour chaque espace géographique et pour chaque méthode d’es-
+timation utilisée, la corrélation dynamique d’amplitude maximale entre l’écart de production et
+l’inflation avancée et le décalage au bout duquel cette amplitude maximale est observée.
+En Centrafrique et au Tchad, la corrélation d’amplitude maximale entre écart de production
+et inflation avancée est positive, indépendamment de la technique d’estimation retenue. Ceci
+suggère que dans ces pays, des tensions sur la demande sont associées à des hausses futures du
+niveaugénéraldesprix.PourcequiestdelaCEMACetdesesautresEtatsmembres,lescalculs
+effectués ne permettent pas de conclure à la robustesse d’une association positive entre écart
+de production et inflation. Les économies de la CEMAC étant essentiellement exportatrices
+de ressources naturelles et de produits de base d’une part, et importatrices des produits de
+consommation finale échangeables d’autre part, il peut être plausible d’envisager dans celles-
+ci une causalité inversée entre inflation et écart de production. En effet, une hausse des prix
+19
+
+--- Page 21 ---
+Table 3 – Corrélations entre écart de production et inflation avancée
+Méthode HP MCI VAR
+Pays Corrélation Nombre de Corrélation Nombre de Corrélation Nombre de
+d’amplitude trimestres d’amplitude trimestres d’amplitude trimestres
+maximale de maximale de décalage maximale de décalage
+décalages
+Cameroun -0.43 8 0.56 3 -0.27 5
+Centrafrique 0.91 8 0.91 8 0.26 3
+Congo 0.56 8 0.35 8 -0.15 6
+Gabon 0.34 2 0.49 2 -0.43 5
+Guinée 0.58 8 0.58 8 -0.25 6
+Equatoriale
+Tchad 0.84 7 0.79 7 0.42 3
+CEMAC 0.24 1 0.68 2 -0.54 5
+Source:Nostravaux.
+du pétrole pourrait se traduire par une hausse instantanée du prix des biens importés; les
+importateurs répercutant la hausse des coûts de transport sur les consommateurs finaux pour
+préserver leurs marges. Par ailleurs, cette hausse des cours du pétrole induira incidemment une
+hausse des recettes budgétaires dans la plupart des pays, des dépenses publiques, et partant de
+l’activitééconomique.Iln’estdoncpassurfaitd’envisageruneassociationentreinflationetécart
+de production avancé.
+Le tableau ci-dessous présente, pour chaque espace géographique et pour chaque méthode d’es-
+timation retenue, la corrélation dynamique d’amplitude maximale entre inflation et écart de
+production avancé et le décalage au bout duquel cette amplitude maximale est observée.
+Table 4 – Corrélations entre inflation et écart de production avancé
+Méthode HP MCI VAR
+Pays Corrélation Nombre de Corrélation Nombre de Corrélation Nombre de
+d’amplitude trimestres d’amplitude trimestres d’amplitude trimestres
+maximale de maximale de décalage maximale de décalage
+décalages
+Cameroun -0.36 2 -0.34 3 0.30 2
+Centrafrique -0.42 4 -0.33 1 -0.27 1
+Congo -0.52 1 -0.47 2 0.17 1
+Gabon -0.75 6 -0.69 5 0.11 7
+Guinée 0.26 8 -0.13 5 0.19 8
+Equatoriale
+Tchad 0.66 6 0.68 6 -0.38 4
+CEMAC -0.49 4 -0.70 4 0.33 1
+Source:Nostravaux.
+A l’exception de la République Centrafricaine pour laquelle il est observé une association néga-
+tive entre inflation et écart de production avancé, les calculs effectués pour la CEMAC et ses
+20
+
+--- Page 22 ---
+autres pays membres ne permettent pas d’associer une inflation élevée à une hausse ou à une ac-
+centuation ou à un assouplissement des tensions sur la demande dans ces espaces géographiques.
+Toutefois, à l’exception de la Guinée-Equatoriale, on relève que le signe de la corrélation entre
+inflation et écart de production avancé est souvent identique pour le filtre HP et pour le modèle
+à composantes inobservées. L’association négative entre inflation et écart de production avancé
+en République Centrafricaine suggère que l’inflation dans ce pays pourrait être essentiellement
+d’origineimportée,etpartantseraitassociéeàunehaussesystématiquedescoûtsdeproduction.
+Lescorrélationsempiriquesentredesvariablesn’étantpassynonymesdecausalitéentrevariables,
+nous avons effectué des tests de causalité de Granger entre les indicateurs d’écart de production
+estimésetl’inflation.LetestdecausalitédeGrangervérifiesil’écartdeproduction(oul’inflation)
+cause l’inflation (ou l’écart de production) en examinant si les valeurs passées de la série d’écart
+de production (ou de l’inflation) permettent de mieux expliquer la dynamique de l’inflation (ou
+de l’écart de production) lorsqu’elles sont insérées dans un modèle explicatif autorégressif de
+l’inflation (ou de l’écart de production). Le tableau ci-dessous présente les résultats des tests de
+causalité de Granger entre inflation et écart de production estimés avec le filtre HP et le modèle
+à composantes inobservées. Les tests n’ont pas été implémentés pour les écarts de production
+estimés avec le modèle VAR en raison du nombre d’observations jugé insuffisant pour garantir
+la convergence asymptotique des statistiques de tests.
+Table 5 – Tests de causalité de Granger entre inflation et écart de production
+Espace Géographique Hypothèse nulle L’écart de production L’inflation ne cause
+ne cause pas l’inflation pas l’écart de
+production
+HP 1.12 0.22
+Cameroun
+MCI 0.25 3.91∗∗
+HP 2.87∗∗ 0.27
+Centrafrique
+MCI 3.60∗∗∗ 0.23
+HP 0.56 1.10
+Congo
+MCI 0.43 1.32
+HP 1.02 0.30
+Gabon
+MCI 0.35 1.12
+HP 2.40∗∗ 2.08∗
+Guinée Equatoriale
+MCI 1.77 1.02
+HP 4.72∗∗ 0.62
+Tchad
+MCI 3.17∗∗ 1.17
+HP 0.42 3.20∗∗
+CEMAC
+MCI 1.45 7.80∗∗∗
+∗∗∗ significatif à 1%, ∗∗ significatif à 5 %, et ∗ significatif à 10%
+Source:Nostravaux.
+Lestestsdecausalitéeffectuéssuggèrent:(i)unecausalitéunidirectionnelledel’écartdeproduc-
+21
+
+--- Page 23 ---
+tionversl’inflationenRépubliqueCentrafricaineetauTchad,(ii)unecausalitéunidirectionnelle
+del’inflationversl’écartdeproductiondanslaCEMAC,(iii)uneabsencedecausalitéentreécart
+de production et inflation au Congo et au Gabon, et (iv) une absence de causalité de l’écart de
+production vers l’inflation au Cameroun. Quant à la Guinée Equatoriale, les tests de causalité
+implémentés ne permettent pas de dégager une opinion tranchée sur le sens de la causalité entre
+écart de production et inflation.
+Afin d’étayer les résultats des tests de causalité, nous avons estimé, pour chaque espace géogra-
+phique, un modèle VAR structurel bivarié comportant deux variables : l’inflation mesurée par
+la variation du niveau trimestriel moyen de l’indice des prix à la consommation en glissement
+annueletunindicateurd’écartdeproduction.Descontraintesd’identificationdelongtermeàla
+Blanchard et Quah ont été imposées pour dériver les chocs structurels sur l’écart de production
+et sur l’inflation. L’hypothèse qui est postulée est qu’un choc inflationniste n’a qu’une incidence
+transitoire sur l’écart de production.
+Lesgraphiquesci-dessousprésententl’incidenced’unchocdel’écartdeproductionsurl’inflation
+assorti des intervalles de confiance de niveau 95 % dans la CEMAC et dans chacun de ses Etats
+membres.
+Figure 4 – Réponse de l’inflation de la CEMAC à un choc sur l’écart de production assorti
+d’un intervalle de confiance de niveau 95%
+Source:Nostravaux.
+22
+
+--- Page 24 ---
+Figure 5 – Réponse de l’inflation du Cameroun à un choc sur l’écart de production assorti
+d’un intervalle de confiance de niveau 95%
+Source:Nostravaux.
+Figure 6 – Réponse de l’inflation du Centrafrique à un choc sur l’écart de production assorti
+d’un intervalle de confiance de niveau 95%
+Source:Nostravaux.
+23
+
+--- Page 25 ---
+Figure 7 – Réponse de l’inflation du Congo à un choc sur l’écart de production assorti d’un
+intervalle de confiance de niveau 95%
+Source:Nostravaux.
+Figure 8 – Réponse de l’inflation du Gabon à un choc sur l’écart de production assorti d’un
+intervalle de confiance de niveau 95%
+Source:Nostravaux.
+24
+
+--- Page 26 ---
+Figure 9 – Réponsedel’inflationdelaGuinée-Equatorialeàunchocsurl’écartdeproduction
+assorti d’un intervalle de confiance de niveau 95%
+Source:Nostravaux.
+Figure 10 – Réponse de l’inflation du Tchad à un choc sur l’écart de production assorti d’un
+intervalle de confiance de niveau 95%
+Source:Nostravaux.
+25
+
+--- Page 27 ---
+L’analyse des fonctions de réponse impulsionnelle de l’inflation à un choc sur l’écart de produc-
+tion est sans équivoque : l’incidence d’un choc sur l’écart de production sur l’inflation n’est pas
+statistiquement significative dans la CEMAC et dans chacun de ses Etats membres, et ce, quel
+que soit l’horizon temporel retenu. L’absence d’incidence significative de l’écart de production
+surladynamiquedesprixpourraitêtredueaufaitquetoutaccroissementdelademandeagrégée
+se traduit inéluctablement par une hausse des importations qui, en raison de l’administration
+des prix de certains produits ne se traduit pas immédiatement par une hausse du niveau des
+prix.
+Conclusion
+Cetteétudeaestimél’écartdeproductiondanslaCEMACetdanschacundesesEtatsmembres
+àl’aidedetroistechniques:lefiltreHP,unmodèleàcomposantesinobservéesetunmodèleVAR
+structurel.Lesestimationseffectuéesontétéensuiteutiliséespourl’analysedelasynchronisation
+des cycles économiques dans la CEMAC d’une part, et de la causalité entre inflation et écart de
+production dans la CEMAC d’autre part.
+L’examen de la synchronisation des cycles a consisté en une analyse de la corrélation des séries
+d’écart de production estimées de chaque pays de la CEMAC avec celui du Cameroun d’une
+part, et de la corrélation entre les séries d’indicatrices de la position de l’économie dans le cycle
+du Cameroun et de celles des autres pays de la CEMAC d’autre part. Ces analyses ont permis
+de dégager une corrélation positive entre les cycles d’activité du Cameroun et de la Guinée
+Equatoriale. Les résultats obtenus n’ont toutefois pas permis de dégager un résultat robuste sur
+la synchronisation du cycle d’activités du Cameroun et celui des autres pays de la CEMAC.
+Ce résultat pourrait être imputable à la faible intégration commerciale des économies dans la
+CEMAC.
+Quant à l’analyse de la causalité entre l’écart de production et l’inflation dans la CEMAC,
+les analyses menées suggèrent : (i) une causalité unidirectionnelle de l’écart de production vers
+l’inflation en RCA et au Tchad, (ii) une causalité unidirectionnelle de l’inflation vers l’écart de
+production de la CEMAC, (iii) une absence de causalité entre inflation et écart de production
+au Gabon et au Congo, et (iv) une absence de causalité de l’écart de production vers l’inflation
+au Cameroun. Toutefois, l’analyse des fonctions de réponse impulsionnelle de l’inflation aux
+chocs sur l’écart de production suggère que l’incidence de l’écart de production sur l’inflation
+est négligeable dans la CEMAC. L’absence de l’incidence de l’écart de production sur l’inflation
+26
+
+--- Page 28 ---
+dans la CEMAC pourrait être due à deux facteurs : (i) le tissus productif embryonnaire des
+économies dans la CEMAC, et (ii) l’administration des prix à la consommation de certains biens
+dans la CEMAC. De façon incidente, tout accroissement de la demande agrégée se traduirait
+par une hausse des importations et une augmentation négligeable du niveau des prix.
+Les résultats auxquels aboutit cette étude pourraient suggérer des implications pour l’analyse
+conjoncturelle , la conduite de la politique monétaire et pour les réformes structurelles dans
+la CEMAC. Concernant la conduite de la politique monétaire, il est essentiel d’investiguer de
+façon plus approfondie l’incidence d’une hausse de la demande à court terme sur la hausse des
+importations. En effet, si celle-ci est statistiquement significative, il est essentiel pour la BEAC
+de supprimer les avances statutaires aux Etats en vue du financement des dépenses courantes.
+Par ailleurs, elle inviterait également les Etats de la CEMAC à des réformes structurelles en vue
+de réduire sensiblement les sorties de devises et accroitre l’entrée de celles-ci en vue de garantir
+à long terme la stabilité externe du Franc de la Coopération Monétaire en Afrique Centrale
+(FCFA). Pour finir, l’analyse de la synchronisation des cycles suggère une association positive
+entre l’activité au Cameroun et en Guinée Equatoriale.
+27
+
+--- Page 29 ---
+Références
+[1] Xavier Bonnet, Fabrice Lenglart, and Selma Mahfouz. Ecart d’activité ("output gap") et
+diagnostic conjoncturel. Note de conjoncture INSEE, 1995.
+[2]GuillermoA.Calvo. Staggeredpricesinautility-maximizingframework. JournalofMonetary
+Economics, 12(3) :383–398, 1983.
+[3] Jordi Gali et Mark Gertler. Inflation dynamics : A structural econometric analysis. Quaterly
+Journal of Economics, 1999.
+[4] S Gerlach et M. Yiu. Estimating output gaps in asia : A cross country study. Journal of the
+Japanese and International Economies, 18 :115–136, 2004.
+[5]ClaudeGiorno,PeteRichardson,DeborahRoseveare,etPaulvandenNoord. Estimatingpo-
+tentialoutput,outputgapandstructuralimbalances. OECD Economics Department Working
+papers, (152), 1995.
+[6] David Gruen, John Romalis, and Naveen Chandra. The lags of monetary policy. Reserve
+Bank of Australia Discussion Paper, 9702, 1997.
+[7] Sebastion Hauptmeier, Friedrich Heinemann, Marcus Kappler, Margit Krauss, Andreas
+Schrimpf, Hans-Michael Trautwein, et Qingwei Wang. Projecting Potential Output : Methods
+and Problems. ZEW, 2009.
+[8] Sarwat Jahan et Ahmed Saber Mahmud. What is output gap? Finance and Development,
+September 2013.
+[9] Frederic Mishkin. Estimating potential output. In Conference on price measurement for
+monetary policy. Federal Reserve Bank of Dallas, 2007.
+[10] Baghli Mustapha et Henri Fraisse. Ecart de production et inflation en france. Bulletin de
+la Banque de France, (103), Juillet 2002.
+[11] Chagny Odile et Jorg Dopke. Measures of the output gap in the euro zone : An empirical
+assessment of selected methods. Kiel Working Paper, (1053), 2001.
+[12] Arthur Okun. Potential gnp : Its measurement and significance. Cowles Foundation Paper,
+(190), 1962.
+[13] Athanasios Orphanides et Simon Van Norden. The reliability of inflation forecasts based on
+output gap estimates in real time. Finance and economics discussion series, FED, 2004.
+28
+
+--- Page 30 ---
+[15]SwetaChamanSaxenaetValerieCerra. Alternativesmethodsofestimatingpotentialoutput
+and output gap : an application to sweden. IMF Working Paper, 2000.
+29

@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { ChatMessage } from "../types";
-import { Send, Sparkles, Terminal, ShieldCheck, Database, HelpCircle, CornerDownLeft, Loader2, Info, Trash2 } from "lucide-react";
+import { Send, Sparkles, Terminal, ShieldCheck, Database, HelpCircle, CornerDownLeft, Loader2, Info, Trash2, FileText, ChevronDown, ChevronUp } from "lucide-react";
 import { motion } from "motion/react";
 
 interface IAAssistantProps {
@@ -21,6 +21,7 @@ export default function IAAssistant({
   setSuggestedPrompt,
 }: IAAssistantProps) {
   const [inputText, setInputText] = useState("");
+  const [expandedSources, setExpandedSources] = useState<Set<string>>(new Set());
   const feedEndRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -44,6 +45,14 @@ export default function IAAssistant({
 
   const handleTopicClick = (prompt: string) => {
     setInputText(prompt);
+  };
+
+  const toggleSources = (msgId: string) => {
+    setExpandedSources((prev) => {
+      const next = new Set(prev);
+      next.has(msgId) ? next.delete(msgId) : next.add(msgId);
+      return next;
+    });
   };
 
   // Safe custom simple markdown renderer for bold words (**word**) and bullet points (- point) and line breaks
@@ -234,6 +243,37 @@ export default function IAAssistant({
                     )}
                   </div>
                 </div>
+
+                {/* Sources panel (assistant only) */}
+                {!isUser && msg.sources && msg.sources.length > 0 && (
+                  <div className="mt-1.5 max-w-xl w-full">
+                    <button
+                      onClick={() => toggleSources(msg.id)}
+                      className="flex items-center gap-1.5 text-[10px] font-bold text-[#0D2D5E]/60 hover:text-[#C8971A] transition-colors"
+                    >
+                      <FileText className="w-3 h-3" />
+                      {msg.sources.length} source{msg.sources.length > 1 ? "s" : ""}
+                      {expandedSources.has(msg.id)
+                        ? <ChevronUp className="w-3 h-3" />
+                        : <ChevronDown className="w-3 h-3" />
+                      }
+                    </button>
+                    {expandedSources.has(msg.id) && (
+                      <div className="mt-1.5 space-y-1">
+                        {msg.sources.map((src, i) => (
+                          <div key={i} className="bg-[#f0f2f5] border border-[#c4c6d0]/30 rounded-lg px-3 py-2 text-[10px] text-[#0D2D5E]">
+                            <span className="font-bold">{src.source}</span>
+                            {src.year && <span className="ml-2 text-gray-500">({src.year})</span>}
+                            {src.category && <span className="ml-2 text-[#C8971A] font-semibold">{src.category}</span>}
+                            {src.score != null && (
+                              <span className="ml-2 text-gray-400">score: {src.score.toFixed(2)}</span>
+                            )}
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                )}
 
                 {/* User avatar */}
                 {isUser && (

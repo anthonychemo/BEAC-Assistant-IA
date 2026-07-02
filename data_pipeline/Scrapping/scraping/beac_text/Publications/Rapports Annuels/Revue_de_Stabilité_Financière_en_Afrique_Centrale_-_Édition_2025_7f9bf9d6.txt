@@ -1,0 +1,2991 @@
+Source PDF : Revue_de_Stabilité_Financière_en_Afrique_Centrale_-_Édition_2025_7f9bf9d6.pdf
+Chemin original : scraping\beac_data\Publications\Rapports Annuels\Revue_de_Stabilité_Financière_en_Afrique_Centrale_-_Édition_2025_7f9bf9d6.pdf
+Date extraction : 15/06/2026 21:54:25
+======================================================================
+
+--- Page 1 ---
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE
+Edition 2024
+Comité de Stabilité Financière
+en Afrique Centrale
+www.beac.int
+
+--- Page 3 ---
+SOMMAIRE
+LISTE DES TABLEAUX ,GRAPHIQUES ET ENCADRES ...................................................................2
+SIGLES ET ABREVIATIONS ............................................................................................................3
+AVANT-PROPOS ............................................................................................................................5
+RESUME ........................................................................................................................................6
+1. FRAGILITES INHERENTES AUX EVOLUTIONS MACROECONOMIQUES ..................................7
+1.1. Fragilités macroéconomiques internationales .......................................................................8
+1.1.1. Faiblesse de la croissance économique mondiale ...................................................................8
+1.1.2. Poussée de l’endettement ......................................................................................................8
+1.1.3. Relâchement des conditions monétaires et financières et risques de fragilisation du système
+bancaire ............................................................................................................................................8
+1.2. Fragilités macroéconomiques de la CEMAC ..........................................................................9
+1.2.1. Evolution du contexte macroéconomique sous régional ........................................................9
+1.2.2. Risques pesant sur la stabilité financière inhérents aux évolutions macroéconomiques .......10
+2. TENDANCE DES MARCHES DE CAPITAUX ............................................................................11
+2.1 Evolution des marchés des capitaux mondiaux ....................................................................12
+2.1.1. Performance des principales places boursières ....................................................................12
+2.1.2. Variation des cours des principales devises ..........................................................................13
+2.1.3. Dynamique des matières premières ......................................................................................13
+2.1.4. Orientation des politiques monétaires .................................................................................13
+2.2. Marchés des capitaux de la CEMAC ...................................................................................14
+2.2.1. Tendances du marché monétaire .........................................................................................14
+2.2.3. Marché financier sous régional .............................................................................................18
+2.2.4. Dépositaire central ...............................................................................................................19
+3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES ..............................21
+3.1. Solidité des institutions financières ....................................................................................22
+3.1.1. Expositions intersectorielles .................................................................................................23
+3.1.2. Établissements de crédit, établissements de microfinance
+et établissements de paiement .......................................................................................................24
+3.1.3. Sociétés d’assurances ...........................................................................................................35
+3.1.4. Organismes de prévoyance sociale .......................................................................................37
+3.2. Performance des infrastructures financières ......................................................................39
+3.2.1. Systèmes de paiement gérés par la banque centrale ............................................................39
+3.2.2. Monétique dans la CEMAC ...................................................................................................41
+4. ARTICLE THÉMATIQUE « EDITION SPÉCIALE » ......................................................................43
+1. Introduction ...........................................................................................................................44
+2. Revue de la littérature ...........................................................................................................46
+3. Données et méthodologie .....................................................................................................47
+3.1. Données mobilisées .................................................................................................................47
+3.2. Méthodologie ..........................................................................................................................48
+4. Analyse des résultats ..............................................................................................................49
+4.1. Analyse des principaux résultats .............................................................................................49
+4.2. Contrôle de robustesse ...........................................................................................................51
+5. Conclusion et implications de politique économique ..............................................................53
+6. Références bibliographiques ..................................................................................................54
+ANNEXE .....................................................................................................................................57
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 1
+Edition 2024
+
+--- Page 4 ---
+LISTE DES TABLEAUX, GRAPHIQUES ET ENCADRÉS
+Liste des tableaux
+Tableau 1 : Emission des titres publics sur la période 2022 à 2024 ........................................................17
+Tableau 3 : TIMP et rendement moyen sur les BTA et OTA (en %) .........................................................17
+Tableau 4 : Structure du secteur des institutions financières .................................................................23
+Tableau 5 : Principaux postes des bilans des banques (en millions FCFA) .............................................24
+Tableau 6 : Ventilation des dépôts par secteur institutionnel (en millions FCFA) ..................................24
+Tableau 7 : Principaux postes des bilans des banques (en millions FCFA) .............................................25
+Tableau 8 : Evolution des fonds propres nets par pays (en millions FCFA) ............................................27
+Tableau 9 : Nombre de banques en infraction par rapport aux normes prudentielles ..........................28
+Tableau 10 : Profil des indicateurs de rentabilité des banques (en millions FCFA) prudentielles ..........28
+Tableau 11 : Principaux postes des bilans des établissements financiers (en millions FCFA) ................29
+Tableau 12 : Indicateurs de rentabilité des établissements financiers (en millions FCFA) .....................30
+Tableau 13 : Situation des principaux agrégats bilanciels des établissements
+de paiement (en millions FCFA) .........................................................................................33
+Tableau 14 : Couverture des engagements règlementés (en millions FCFA) ........................................37
+Tableau 15 : Marge de solvabilité (en millions FCFA) .............................................................................37
+Tableau 16 : Evolutions du ratio de trésorerie immédiate des OPS .......................................................38
+Tableau 17 : Estimation de la relation ouverture-volatilité par la méthode des effets fixes ..................50
+Tableau 18 : estimation de la relation ouverture volatilité par la méthode IV .......................................52
+Liste des graphiques
+Graphique 1 : Evolution encours mensuel des opérations interbancaires (en millions FCFA) et TIMP ..15
+Graphique 2 : Evolution de l’encours des titres publics de la CEMAC en % du PIB nominal ...............16
+Graphique 3 : Tendance des activités sur le marché secondaire (en millions FCFA) .............................19
+Graphique 4 : Ventilation sectorielle des crédits bruts en 2024 (en %) .................................................25
+Graphique 5 : Evolution des déterminants de la trésorerie des banques (en millions FCFA) ................26
+Graphique 6 : Tendance des indicateurs de la qualité du portefeuille des crédits ................................27
+Graphique 7 : Evolution des principaux postes du bilan agrégé des EMF (en millions FCFA) ..............32
+Graphique 8 : Dynamique des fonds propres/patrimoniaux des EMF (en millions FCFA) ....................32
+Graphique 9 : Chiffre d’affaires en assurance non vie (en millions FCFA) ..............................................35
+Graphique 10 : Structure du portefeuille des placements en assurance non vie ..................................36
+Graphique 11 : Structure du portefeuille des placements en assurance vie et capitalisation ...............36
+Graphique 12 : Portefeuille des OPS de la CEMAC en 2024 (en millions FCFA) ...................................38
+Graphique 13 : Evolution du taux de redistribution et ratio charges administratives ...........................39
+Graphique 14 : Evolution des opérations en volume sur SYGMA et SYSTAC .......................................40
+Graphique 15 : Evolution des opérations en valeur sur SYGMA et SYSTAC (en millions FCFA) ...........40
+Liste des encadrés
+Encadré 1 : Avancées dans le processus de fusion des marchés financiers de la CEMAC ....................20
+Encadré 2 : Point sur le Fonds de Garantie des Dépôts en Afrique Centrale ........................................31
+Encadré 3 : Cadre règlementaire des établissements de paiement ......................................................34
+REVUE DE STABILITE FINANCIERE
+2 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 5 ---
+SIGLES ET ABREVIATIONS
+ANIF : Agence Nationale d'Investigation Financière
+BCE : Banque Centrale Européenne
+BCEAO : Banque Centrale des États de l'Afrique de l'Ouest
+BDEAC : Banque de Développement des États de l’Afrique Centrale
+BEAC : Banque des États de l’Afrique Centrale
+BOE : Bank of England
+BPoC : Banque Centrale de la République Populaire de Chine
+BTA : Bons du Trésor Assimilables
+BVMAC : Bourse des Valeurs Mobilières d’Afrique Centrale
+CCR : Centre de Compensation Régional
+CEMAC : Communauté Economique et Monétaire de l’Afrique Centrale
+CIMA : Conférence Interafricaine des Marchés d’Assurances
+CIPRES : Conférence Interafricaine de la Prévoyance Sociale
+COBAC : Commission Bancaire de l’Afrique Centrale
+COSUMAF : Commission de Surveillance du Marché Financier de l’Afrique Centrale
+CPM : Comité de Politique Monétaire
+CRCA : Commission Régionale de Contrôle des Assurances
+CRCT : Cellule de Règlement et de Conservation des Titres
+DCU : Dépositaire Central Unique
+DSFABFE : Direction de la Stabilité Financière, des Activités Bancaires et du
+Financement de l’Economie
+EMF : Établissements de Microfinance
+EP : Établissements de paiement
+FCFA : Franc de la Coopération Financière en Afrique centrale
+FCR Facilité de Crédit Rapide
+FEC : Facilité Elargie du Crédit
+FED : Reserve Fédérale
+FMI : Fonds monétaire international
+FOGADAC Fonds de Garantie des Dépôts en Afrique Centrale
+GABAC : Groupe d’Action contre le Blanchiment d’Argent en Afrique Centrale
+GAFI : Groupe d'Action Financière
+GIMAC : Groupement Interbancaire Monétique de l’Afrique Centrale
+IRPS : Inspection Régionale de la Prévoyance Social
+ITIE Initiative pour la Transparence dans les Industries Extractives
+LBC/FT : Lutte contre le Blanchiment de Capitaux et le Financement du Terrorisme
+NMP : Nouveaux Moyens de Paiement
+OCA-CEMAC Observatoire du Climat des Affaires dans la zone CEMAC
+OCDE : Organisation de Coopération et de Développement Economiques
+OMC : Organisation Mondiale du Commerce
+OPCVM : Organismes de Placement Collectifs en Valeurs Mobilières
+OPEP : Organisation des Pays Exportateurs de Pétrole
+OPS : Organismes de Prévoyance Sociale
+OTA : Obligations du Trésor Assimilables
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 3
+Edition 2024
+
+--- Page 6 ---
+SIGLES ET ABREVIATIONS
+PIB : Produit Intérieur Brut
+PSI : Prestataires de Services d’Investissement
+RCA : République Centrafricaine
+RBTR : Règlement Brut en Temps Réel
+SAFACAM : Société Africaine Forestière et Agricole du Cameroun
+SEMC : Société des Eaux Minérales du Cameroun
+SESAME : Système d’Evaluation et Supervision des Activités de Microfinance
+SMI : Système Monétaire International
+SOCAPALM : Société Camerounaise des Palmeraies
+SVT : Spécialistes en Valeurs du Trésor
+SWIFT : Society for Worldwide Interbank Financial Telecommunication
+SYGMA : Système de Gros Montants Automatisé
+SYSTAC : Système de Télécompensation en Afrique Centrale
+TIAO : Taux d'Intérêt des Appels d'Offres
+TIMP : Taux Interbancaire Moyen Pondéré
+UE : Union Européenne
+UEMOA : Union Economique et Monétaire Ouest Africaine
+UMAC : Union Monétaire de l'Afrique Centrale
+REVUE DE STABILITE FINANCIERE
+4 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 7 ---
+AVANT-PROPOS
+Les marchés des capitaux ont maintenu
+leur dynamisme mais cette tendance s’est
+accompagnée d’une hausse des coûts des
+émissions des valeurs du Trésor et d’une liquidité
+toujours limitée sur le marché financier. Par ailleurs,
+les systèmes de paiement et de règlement ont
+enregistré des améliorations encourageantes,
+notamment à travers une hausse du nombre
+d’incidents résolus.
+Dans le cadre de sa mission de préservation
+de la stabilité financière, le Comité de Stabilité
+Financière en Afrique Centrale (CSF-AC) a émis
+plusieurs recommandations à l’endroit de ses
+membres, lesquelles ont eu des effets positifs
+sur le système financier. Ces recommandations
+ont porté notamment sur le redressement
+et l’assainissement des finances publiques,
+l’amélioration progressive des dispositifs
+de reporting, ainsi que la poursuite de la
+année 2024 a été marquée, au sein de la
+L’ dynamisation du marché financier, illustrée par le
+Communauté Économique et Monétaire
+développement d’un indice boursier.
+de l’Afrique Centrale (CEMAC), par une
+atténuation des pressions pesant sur la stabilité
+Le CSF-AC a aussi invité ses membres à
+du système financier. Cette évolution favorable
+finaliser la fusion des marchés financiers, à mettre
+s’explique principalement par l’amélioration du
+en place effectivement l’Observatoire du climat
+niveau de l’activité économique, le recul des
+des affaires dans la CEMAC, et à automatiser les
+pressions inflationnistes, ainsi que la poursuite
+reportings de certaines institutions financières.
+de l’assainissement des finances publiques,
+soutenue en partie par les retombées positives
+Cette édition de la RSF-AC publie un article
+des programmes conclus avec le Fonds Monétaire
+qui examine les effets de l’ouverture commerciale
+International (FMI).
+et de la diversification sur la volatilité de la
+production dans la CEMAC. Il en ressort que la
+Toutefois, les tensions sur le système financier
+diversification des exportations importe dans
+sous-régional pourraient s’intensifier à court
+le conditionnement de l’effet de l’ouverture
+terme, en raison de la persistance de défis
+commerciale sur la volatilité de la production,
+extérieurs, notamment la crise en Ukraine, le conflit
+suggérant de promouvoir des institutions robustes
+au Moyen-Orient et les tensions commerciales
+et d’accélérer le processus de diversification pour
+entre les États-Unis et la Chine.
+stabiliser la production.
+L’évolution des composantes du système
+financier fait ressortir une poursuite de la
+croissance des activités des établissements de
+Le Président du Comité de Stabilité
+crédit, des établissements de microfinance (EMF),
+Financière en Afrique Centrale,
+des établissements de paiement et des sociétés
+d’assurances, en dépit de la dégradation de la
+qualité des portefeuilles de crédits des banques,
+des problèmes de gouvernance et de reporting
+au sein des EMF, ainsi qu’une insuffisance de
+liquidité des organismes de prévoyance sociale.
+Yvon SANA BANGUI
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 5
+Edition 2024
+
+--- Page 8 ---
+RESUME
+Léger recul de l’activité économique mondiale en 2024, en raison de la poussée de l’endettement
+public et de la cristallisation des tensions géopolitiques et commerciales …
+La croissance économique mondiale a conduit plusieurs banques centrales à maintenir
+légèrement fléchi, passant de 3,3 % en 2023 une orientation accommodante de leur politique
+à 3,2 % en 2024. Ce ralentissement s’explique monétaire.
+principalement par l’aggravation de l’endettement
+Les politiques monétaires menées par les
+public et la persistance des tensions géopolitiques
+banques centrales, combinées à la persistance
+et commerciales. Néanmoins, l’économie
+d’événements géostratégiques, notamment la
+mondiale a fait preuve de résilience, soutenue
+crise en Ukraine, le conflit au Moyen-Orient et
+par une désinflation progressive favorisée par
+les tensions commerciales entre les États-Unis et
+l’assouplissement des conditions financières.
+la Chine, ont considérablement accru le niveau
+Le ralentissement anticipé de l’activité d’incertitude, influençant les tendances des
+économique, conjugué à l’atténuation des marchés boursiers, les fluctuations des devises et
+pressions inflationnistes à l’échelle mondiale, a l’évolution des prix des matières premières.
+Une accélération des activités économiques entrainant une stabilité du risque macroéconomique
+au niveau sous régional …
+Les activités économiques ont connu une compris, de -0,6 % du PIB, après un excédent
+amélioration, avec un taux de croissance du de 0,7 % du PIB enregistré en 2023. Sur le plan
+PIB réel qui est passé de 1,9 % en 2023 à extérieur et monétaire, les positions se sont
+2,6 % en 2024. Cette progression s’explique consolidées : le solde des transactions courantes,
+principalement par la performance des industries y compris les dons officiels, s’est établi à -0,4 %
+extractives (notamment les hydrocarbures et le du PIB, tandis que la couverture extérieure de la
+manganèse), de l’agriculture de rente et, dans une monnaie a atteint 74,9 %.
+moindre mesure, du coton, du secteur des BTP, du
+Les fragilités macroéconomiques devraient
+commerce et des services marchands. Par ailleurs,
+légèrement s’accentuer en 2025, retrouvant leur
+les pressions inflationnistes se sont atténuées,
+niveau de 2023, en raison de la baisse attendue
+bien qu’elles restent élevées, le taux d’inflation
+des cours des principaux produits d’exportation,
+étant descendu à 4,4 % en décembre 2024, contre
+de la persistance des incertitudes géopolitiques
+4,8 % un an plus tôt.
+et du desserrement progressif des conditions
+En revanche, l’année 2024 s’est achevée monétaires dans certains pays avancés.
+avec un déficit du solde budgétaire global, dons
+… et une atténuation des pressions sur le système financier, malgré la persistance des tensions
+géopolitiques et commerciales.
+La performance des institutions financières volume des transactions interbancaires et des
+s’est traduite par la poursuite de la croissance échanges sur le marché financier sous-régional.
+des activités des établissements de crédit, des Cette progression s’est néanmoins effectuée
+établissements de microfinance (EMF), des dans un contexte de faible taux de couverture,
+établissements de paiement (EP) et des sociétés de hausse des coûts des émissions des valeurs du
+d’assurances. Cette dynamique s’est toutefois Trésor, et d’une liquidité toujours restreinte sur le
+accompagnée de la dégradation de la qualité du marché financier.
+portefeuille de crédits des banques, des problèmes
+Les systèmes de paiement et de règlement ont
+persistants de gouvernance et de reporting dans
+connu une hausse du volume des incidents résolus,
+les EMF, ainsi que de l’insuffisance de liquidité des
+malgré un taux de reporting encore relativement
+Organismes de Prévoyance Sociale (OPS).
+faible.
+Les marchés des capitaux sont restés
+dynamiques, comme l’illustre l’augmentation du
+REVUE DE STABILITE FINANCIERE
+6 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 9 ---
+1
+FRAGILITES INHERENTES
+AUX EVOLUTIONS MACROECONOMIQUES
+Les risques inhérents à l’évolution des conditions macroéconomiques se sont
+globalement inscrits en baisse en 2024, en rapport avec la bonne tenue de l’activité
+pétrolière, le relâchement continu des niveaux élevés des prix, la poursuite des
+programmes avec le FMI et la modernisation de l’administration fiscale.
+Cette partie analyse les sources de risque macroéconomique se rapportant à la
+conjoncture mondiale et ses répercussions sur la sous-région, tout en mettant en
+évidence les risques pesant sur la stabilité financière. Elle examine également les effets
+des évolutions macroéconomiques sur la stabilité financière dans la Communauté.
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 7
+Edition 2024
+
+--- Page 10 ---
+1. FRAGILITES INHERENTES AUX EVOLUTIONS MACROECONOMIQUES
+1.1. Fragilités macroéconomiques obligations émises sur ces marchés a dépassé
+3 000 milliards USD, portant ainsi l’encours de
+internationales
+la dette dans les marchés émergents à environ
+L’économie mondiale a été confrontée, 12 000 milliards USD en 2024.
+au cours de l’année 2024, à quelques chocs
+L’augmentation en volume des émissions s’est
+macroéconomiques et financiers qui ont perturbé
+accompagnée d’une hausse des rendements
+sa stabilité, en lien principalement avec la poussée
+moyens exigés sur les titres, en lien avec celle
+de l’endettement public et la cristallisation
+observée depuis 2022 au niveau des taux
+des tensions géopolitiques et commerciales.
+directeurs de plusieurs banques centrales dans le
+Toutefois, l’économie mondiale s’est montrée
+monde. Ainsi, le ratio des charges d’intérêts des
+résiliente grâce à la désinflation progressive.
+administrations publiques rapportées au PIB s’est
+globalement accru de 0,3 point de pourcentage,
+atteignant 3,3 % en 2024 dans près de deux tiers
+1.1.1. Faiblesse de la croissance
+des pays de l’OCDE.
+économique mondiale
+Selon les chiffres du Fonds monétaire
+international (FMI), la croissance mondiale a 1.1.3. Relâchement des conditions
+légèrement reculé, s’élevant à 3,2 % en 2024, monétaires et financières et risques de
+contre 3,3 % l’année précédente. De même, le fragilisation du système bancaire
+taux de croissance du commerce mondial est
+L’atténuation des pressions inflationnistes
+passé de 0,7 % en 2023 à 3,7 % en 2024, en raison
+observées au niveau international a motivé la
+de la bonne tenue des secteurs touristique et
+poursuite de l’orientation accommodante de la
+technologique.
+politique monétaire par la plupart des banques
+centrales des pays avancés et émergents en
+Le recul de l’activité a été observé dans les pays
+2024. Cette politique, justifiée en partie par le
+émergents et en développement, avec un taux de
+ralentissement attendu de l’activité économique
+croissance du PIB réel qui est revenu de 4,4 % à
+mondiale sur fond de guerre commerciale en
+4,2 % entre 2023 et 2024. En revanche, le taux
+Amérique et en Asie, pourrait avoir un impact
+de croissance s’est stabilisé autour de 1,7 % dans
+négatif sur la performance du système bancaire à
+les pays avancés. Quant à l’activité en Afrique
+moyen terme.
+subsaharienne, le taux de croissance du PIB est
+passé de 3,6 % à 3,8 %.
+En effet, la qualité du portefeuille de crédits
+des banques pourrait être compromise en raison
+de velléités de prise excessive de risques pour
+1.1.2. Poussée de l’endettement
+compenser la baisse des rendements, comme le
+Selon l’OCDE1, les États et les entreprises démontre le contexte de l’après crise financière
+ont levé à l’échelle mondiale 25 000 milliards mondiale. Ainsi, face à un environnement de
+de dollars sur le compartiment obligataire des financement favorable après 2008, les marchés
+marchés des capitaux, soit près de 300 % du niveau obligataires ont été ouverts à un éventail plus
+de 2007, portant ainsi l’encours total de la dette large d’émetteurs, notamment aux États et
+obligataire souveraine et d’entreprise à plus de aux entreprises moins bien notés, favorisant le
+100 000 milliards USD. Les émissions d’obligations développement de segments de marché plus
+souveraines dans les pays de l’OCDE se sont
+risqués2. De plus, les banques pourraient faire
+face, d’une part, à des pertes importantes dues
+hissées à 16 000 milliards de dollars en 2024, après
+à la revalorisation des actifs à taux fixe en cas de
+avoir atteint 14 000 milliards de dollars en 2023.
+remontée des taux d’intérêt, et, d’autre part, à des
+Les émetteurs souverains des marchés retraits importants des dépôts, les clients cherchant
+émergents ont également mobilisé des ressources à saisir des opportunités d’investissements
+à travers les emprunts obligataires. Le volume des alternatifs.
+1 Rapport sur la dette mondiale publié en mars 2025 par l’OCDE
+2 Rapport sur la dette mondiale de l’OCDE
+REVUE DE STABILITE FINANCIERE
+8 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 11 ---
+1.1.4. Poursuite des tensions géopolitiques Cette partie passe en revue l’évolution du
+et commerciales contexte macroéconomique dans la CEMAC avant
+de relever les risques et vulnérabilités y relatives.
+Les tensions géopolitiques internationales ont
+eu des impacts négatifs sur le commerce mondial
+en 2024. La crise en Ukraine continue de perturber
+les marchés des produits de base, notamment 1.2.1. Evolution du contexte
+l’énergie et l’alimentation ; tandis que les chaînes macroéconomique sous régional
+d’approvisionnement et les investissements
+L’évolution du contexte macroéconomique
+ont également pâti des retombées des frictions
+sous régional s’analyse à travers les principales
+commerciales entre la Chine et les Etats-Unis.
+tendances du secteur réel, les finances publiques,
+De même, les restrictions sur les exportations
+le secteur extérieur et monétaire.
+de technologies et les discussions autour du
+découplage3 ont maintenu un climat d’incertitude. 1.2.1.1. Amélioration de la croissance
+Par ailleurs, les incertitudes et les tensions économique
+persistantes continuent d’impacter les prix du
+Le secteur productif a continué son expansion,
+pétrole et de créer une instabilité qui peut affecter
+principalement en raison de la progression des
+les flux commerciaux et les investissements à
+activités des industries extractives (hydrocarbures
+l’échelle mondiale.
+et manganèse), de l’agriculture rentière, et, dans
+une moindre mesure, du coton, des BTP, du
+commerce et des services marchands. Le taux de
+1.2. Fragilités macroéconomiques de la croissance du PIB de la CEMAC est ainsi passé de
+CEMAC 1,9 % à 2,6 % entre 2023 et 2024.
+Les perturbations économiques mondiales,
+notamment la persistance des tensions
+géopolitiques, la crise russo-ukrainienne et le
+conflit dans la bande de Gaza entre le Hamas et
+Israël, ont, au cours de l’année 2024, influencé le
+cadre macroéconomique de la CEMAC.
+Tableau 1 : Taux de croissance réelle du produit intérieur brut (2019 – 2024)
+2019 2020 2021 2022 2023 2024
+Cameroun 3,5 0,3 3,3 3,7 3,2 3,6
+RCA 2,8 0,6 1,1 0,5 1,0 1,6
+Congo 1,0 -6,2 -0,6 0,3 1,4 0,9
+Gabon 3,9 -1,8 1,5 3,1 2,2 3,5
+Guinée Equatoriale -4,4 -4,6 1,8 3,6 -5,7 1,0
+Tchad 5,4 -0,4 0,3 4,1 4,0 1,1
+CEMAC 2,5 -1,5 1,9 3,2 1,9 2,6
+Sources : BEAC et Administrations nationales
+3 Séparation ou réduction significative de l’interdépendance économique et
+technologique entre les deux pays.
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 9
+Edition 2024
+
+--- Page 12 ---
+1. FRAGILITES INHERENTES AUX EVOLUTIONS MACROECONOMIQUES
+1.2.1.2. Légère dégradation des finances 1.2.1.3. Consolidation des positions
+publiques extérieure et monétaire
+Les finances publiques n’ont pas bénéficié Le déficit du solde des transactions courantes,
+véritablement des efforts de mobilisation des dons officiels inclus, de la CEMAC s’est contracté
+recettes fiscales entrepris par les États dans le en 2024 pour atteindre - 0,4 % du PIB, contre
+cadre des programmes avec le FMI. Le solde - 0,6 % un an auparavant, en raison de l’embellie
+budgétaire, base engagements, dons compris, des termes de l’échange, malgré la baisse des
+est ressorti déficitaire, atteignant - 0,6 % du PIB en exportations de pétrole et une hausse des
+2024, après un excédent de 0,7 % en 2023. importations de biens et services.
+La détérioration du déficit budgétaire est due Les avoirs extérieurs nets du système monétaire
+à la diminution des recettes pétrolières de 1,5 se sont accrus de 4,4 % en glissement annuel,
+point, essentiellement liée à la baisse des cours grâce à la poursuite des efforts de rapatriement
+du pétrole brut (75,7 dollars le baril en décembre des devises par les opérateurs économiques. Les
+2023, contre 72,3 dollars le baril en décembre réserves de change ont, quant à elles, représenté
+2024). Cette baisse n’a pas été compensée par environ 4,61 mois d’importations de biens et
+l’amélioration des recettes non pétrolières (+1,5 services à fin 2024, après 4,65 mois à fin 2023.
+points) et a été accentuée par l’augmentation Quant au taux de couverture extérieure de la
+des dépenses publiques (+6,4 %), en particulier monnaie, il s’est établi à 74,9 % au 31 décembre
+les dépenses en capital (+19,4 %). Cependant, le 2024, contre 71,9 % douze mois plus tôt.
+solde primaire hors dons a été excédentaire de
+2,4 % après charges d’intérêt.
+Le déficit budgétaire global de 840,5 milliards 1.2.2. Risques pesant sur la stabilité
+FCFA a été financé par des tirages extérieurs financière inhérents aux évolutions
+de 1 556,1 milliards FCFA, des tirages auprès macroéconomiques
+du système non bancaire de la CEMAC de 582
+Les risques pesant sur le contexte
+milliards FCFA, et des dons extérieurs estimés à
+macroéconomique sous régional ont globalement
+433,0 milliards FCFA. Ces ressources ont permis
+baissé en raison de la bonne tenue de l’activité
+d’amortir la dette extérieure pour un montant de
+pétrolière, du relâchement continu des niveaux
+2 354,8 milliards FCFA et de réduire l’exposition
+élevés des prix, de la poursuite des programmes
+envers le secteur bancaire à hauteur de 87,6
+avec le FMI et de la modernisation de
+milliards FCFA.
+l’administration fiscale.
+La situation des finances publiques a entrainé
+Les fragilités macroéconomiques devraient
+la détérioration globale des ratios de la dette
+toutefois augmenter en 2025 en raison de la
+publique. Le ratio du service de la dette extérieure
+baisse attendue des cours des principaux produits
+sur les recettes budgétaires est passé de 21,1 %
+d’exportation4 et de la poursuite des incertitudes
+en 2023 à 23,1 % en 2024. De plus, le ratio du
+géopolitiques.
+service de la dette publique sur les exportations
+de biens et services s’est établi à 13,6 %, contre
+13,4 % l’année précédente, tandis que l’encours
+de la dette globale par rapport au PIB a atteint
+46,8 %, après 51,2 % en 2023.
+4 Pétrole brut (- 11,4 % à 69,8 dollars USD/baril), le manganèse (- 4,8 %, à 135,7
+dollars USD/tonne), le bois en grumes (-1,9 % à 188,6 dollars/m3 après 192,2 dollars/
+m3 en 2024), le cacao (- 19,3 % à 5 918,4 dollars/tonne), le coton fibre (- 1,7 % à 85,8
+cents/livre contre 87,2 cents/livre en 2024)
+REVUE DE STABILITE FINANCIERE
+10 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 13 ---
+2
+TENDANCE DES MARCHES
+DE CAPITAUX
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 11
+Edition 2024
+
+--- Page 14 ---
+2. 2. TENDANCE DES MARCHES DE CAPITAUX
+2.1 Evolution des marchés des capitaux le niveau d’incertitude, inversant les tendances
+des places boursières et impactant les cours des
+mondiaux
+devises et les prix des matières premières.
+En 2024, les marchés des capitaux à travers
+le monde ont été influencés par les politiques
+anti-inflationnistes des banques centrales, la
+2.1.1. Performance des principales places
+croissance économique mitigée et les risques
+boursières
+de récession. Divers événements géopolitiques,
+tels que la prolongation du conflit en Ukraine, les Au cours de l’année 2024, il a été observé
+tensions persistantes au Moyen-Orient, ainsi que une évolution positive des principales places
+la guerre commerciale et technologique entre les financières du monde malgré un contexte
+États-Unis et la Chine, ont considérablement accru économique et géopolitique complexe.
+Indice 2023 2024
+CAC 40 (France) +16,5 % -2,15%
+Dow Jones (USA) +13,7 % +13 %
+S&P 500 (USA) +24 % +23 %
+NASDAQ Composite (USA) +43,42 % +30 %
+Nikkei 225 (Japon) +28,24 % +19 %
+FTSE 100 (Royaume-Uni) +5,7 % +5,7 %
+Shanghai Composite Index (Chine) -3,6 % +12,7 %
+Hang Seng Index (Hong kong) -13,8 % +17,7 %
+Après une année 2023 relativement volatile, sont ainsi passés de 712 milliards de dollars en
+les flux d’investissement vers les marchés des 2023 à 1 392 milliards de dollars en 2024, soit
+actions ont atteint des niveaux records en 2024, une progression de 95 %, traduisant un regain de
+notamment grâce aux fonds négociés en bourse confiance de la part des investisseurs5.
+(ETF). Les montants investis à travers ces fonds
+Indice (Rendement moyen) 2023 2024
+Bloomberg Global Aggregate Treasury Index
+3,70% 3,40%
+(USD marché mondial)
+J.P. Morgan GBI-EM Global Diversified
+4,80% -1,90%
+(USD-marchés émergents)
+Bloomberg Euro Aggregate Treasury Index
+3,90% 2,00%
+(EUR-État de la zone euro)
+Bloomberg US Treasury Index
+1,70% 0,70%
+(USD-bons du Trésor américain)
+FTSE UK Gilts All Stocks Index
+-1,70% 1,40%
+(GBP-obligations d'État britanniques)
+ChinaBond Government Bond Index
+2,50% 2,30%
+(CNY-obligations d'État chinoises)
+iBoxx HKD Government Bond Index
+1,40% 1,40%
+(HKD-État de Hong Kong)
+5 Source : ETF Europe ETF USA
+REVUE DE STABILITE FINANCIERE
+12 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 15 ---
+Sur les marchés obligataires, le ralentissement au niveau mondial. Les principales banques
+de l’inflation et de ses anticipations a induit une centrales ont maintenu leurs taux élevés, tout
+baisse des taux d’intérêt dans certaines zones, en se préparant à un éventuel assouplissement,
+notamment aux États-Unis, avec pour effet une et les premières baisses sont intervenues vers
+augmentation de la valeur des portefeuilles de fin 2024. Les perspectives devraient néanmoins
+titres obligataires. Les rendements moyens annuels rester dépendantes des données économiques,
+de quelques indices obligataires souverains de et l’orientation future des politiques monétaires
+référence sont illustrés sur le tableau ci-dessus. pourrait varier considérablement entre les
+différentes régions.
+Ainsi, au niveau de la BCE, un assouplissement
+2.1.2. Variation des cours des principales du taux de refinancement a été observé dès juin
+devises 2024, passant à 4,25 %, contre 4,5 % en janvier 2024.
+Au 31 décembre 2024, le taux directeur s’est élevé
+Sur les marchés obligataires, le ralentissement
+à 3,15 %, suivant la dynamique baissière amorcée.
+de l’inflation et de ses anticipations a entraîné une
+Par ailleurs, conformément aux dispositions du
+baisse des taux d’intérêt dans certaines zones,
+programme d’achats d’urgence face à la pandémie
+notamment aux États-Unis. Cette situation a eu
+(Pandemic Emergency Purchase Programme ou
+pour effet d’augmenter la valeur des portefeuilles
+PEPP), la BCE a poursuivi le réinvestissement des
+de titres obligataires. Les rendements moyens
+remboursements du principal des titres PEPP
+annuels de quelques indices obligataires
+arrivant à échéance tout au long de l’année 2024,
+souverains de référence sont illustrés dans le
+fournissant ainsi un soutien continu aux marchés
+tableau ci-dessus6.
+obligataires de la zone.
+Après des hausses en 2022 et 2023, la
+2.1.3. Dynamique des matières premières Reserve Fédérale (Fed) a marqué une pause dans
+l’augmentation des taux directeurs pendant une
+Les cours des matières premières en 2024
+partie de l’année 2024. La fourchette cible du
+ont été influencés par un ensemble de facteurs
+taux des Fonds fédéraux a amorcé une tendance
+macroéconomiques, géopolitiques et spécifiques
+baissière dès septembre 2024, se fixant à 4,75
+propres à chaque marché.
+% - 5,00 %, contre 5,25 % - 5,50 % au début de
+l’année. De même, la Fed a continué à réduire la
+Dans la zone CEMAC, les principales matières
+taille de son bilan en 2024. Cela a impliqué de
+premières exportées7 ont vu leurs cours mondiaux
+laisser plusieurs titres du Trésor arriver à échéance
+augmenter au quatrième trimestre, après un repli
+et des titres adossés à des créances hypothécaires
+observé au troisième trimestre 2024. Ainsi, l’indice
+sans les remplacer, ce qui équivaut à retirer des
+composite des cours des produits de base (ICCPB)
+liquidités du système financier.
+exportés par les pays de la CEMAC a progressé
+de 4,4 % en glissement trimestriel au quatrième
+Au début de l’année 2024, face à une inflation
+trimestre 2024, après un recul de 9,5 % le trimestre
+persistante, la Banque d’Angleterre a maintenu
+précédent. Cette hausse a été principalement
+ses taux directeurs à des niveaux élevés. À partir
+portée par l’augmentation des produits non
+d’août 2024, ceux-ci ont été abaissés de 5,25 % à
+énergétiques (+10,6 %). En revanche, les cours des
+5 %, et l’année 2024 s’est achevée avec un taux à
+produits énergétiques ont enregistré une baisse.
+4,75 %.
+La Banque centrale de Chine a continué à
+privilégier le soutien à la reprise économique
+2.1.4. Orientation des politiques monétaires
+chinoise, qui a montré des signes de fragilité et a été
+L’année 2024 a marqué un tournant important confrontée à des défis persistants dans le secteur
+dans la conduite de la politique monétaire immobilier ainsi qu’à une demande mondiale
+6 source: cours devises , cours naira
+7 Il s’agit notamment du pétrole brut, du Gaz naturel, du diamant, de l’or, du
+manganèse, du Cacao, du café, du Coton du bois et du caoutchouc naturel.
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 13
+Edition 2024
+
+--- Page 16 ---
+2. 2. TENDANCE DES MARCHES DE CAPITAUX
+modérée. Elle a ainsi utilisé l’outil de réduction du 2.2.1.1. Interventions de la BEAC et taux
+ratio des réserves obligatoires à plusieurs reprises pratiqués
+en 2024 afin de libérer des liquidités dans le
+Au cours de la période sous revue, le taux
+système bancaire. De plus, elle a maintenu ses taux
+d’intérêt des appels d’offres (TIAO) ainsi que le
+d’intérêt de référence, notamment le Loan Prime
+taux de la facilité de prêt marginal (TFPM) sont
+Rate (LPR), à des niveaux relativement bas, tout en
+restés inchangés. Ils se sont respectivement élevés
+effectuant des ajustements ciblés pour soutenir le
+à 6,75% et à 5% tout au long de l’année 2024.
+crédit et maîtriser les coûts de financement.
+Au 31 décembre 2024, le système bancaire,
+En revanche, la Banque centrale du Japon
+sans les interventions de la BEAC, est globalement
+a conservé l’orientation accommodante de
+en déficit de liquidités. En effet, la liquidité globale
+sa politique monétaire, maintenant des taux
+du système a fortement reculé au cours des douze
+directeurs proches de zéro. Elle a également
+derniers mois, passant d’un excédent structurel à
+poursuivi ses achats d’obligations d’État japonaises
+une situation déficitaire à partir de mars 2024. Cette
+(JGB) et d’autres actifs pour injecter des liquidités
+évolution contraste avec la surliquidité observée au
+dans le système financier.
+moment de l’entrée en vigueur du nouveau cadre
+En Afrique subsaharienne, en réponse à une opérationnel de politique monétaire de la BEAC
+inflation persistante, la majorité des banques en juin 2018. Pour combler ce déficit, la Banque
+centrales ont maintenu, voire augmenté, leurs taux Centrale a repris, depuis juin 2024, les injections
+directeurs en 2024. La BCEAO a ainsi conservé actives au titre de son opération principale.
+son taux directeur à 5,5 % tout au long de l’année
+S’agissant de la facilité de prêt marginal, le
+2024.
+volume moyen des avances de la BEAC s’est
+accru en 2024. Un pic de 943,5 milliards FCFA a
+été atteint en novembre 2024. Cette évolution
+2.2. Marchés des capitaux de la CEMAC est en cohérence avec l’assèchement de liquidité
+observée dans le système bancaire de la CEMAC
+Les marchés de capitaux de la CEMAC
+à partir de mars 2024 dans un contexte de fortes
+comprennent (i) le marché monétaire, décomposé
+tensions de trésorerie des Etats.
+en compartiment des interventions de la BEAC,
+en compartiment interbancaire, et en marché des Sur le guichet spécial de refinancement,
+titres et créances négociables, (ii) le marché des l’encours moyen des avances accordées s’est, par
+valeurs du trésor animé par la Banque centrale et contre, inscrit en baisse en raison principalement
+(iii) le marché financier sous régional dénommé des différentes tombées d’échéance survenues au
+Bourse des valeurs mobilières de l’Afrique cours de la période.
+Centrale (BVMAC).
+Au final, le volume moyen des injections nettes
+de la Banque Centrale sur le marché monétaire
+affiche une progression en 2024. Cette hausse
+2.2.1. Tendances du marché monétaire
+est principalement imputable à l’accroissement
+De décembre 2023 à décembre 2024, l’activité des volumes de liquidités sollicités par le système
+sur le marché monétaire a été marquée par (i) la bancaire à travers l’opération principale d’injection
+stabilité des principaux taux d’intervention de la de liquidité (OPIL) et la facilité de prêt marginal.
+BEAC sur le marché monétaire notamment le taux
+Pour ce qui est des ponctions de liquidités, leur
+d’intérêt des appels d’offres et le taux de la facilité
+arrêt a été acté en juin 2024. Par la suite, le Comité
+de prêt marginal (ii) les émissions des Bons BEAC
+du Marché Monétaire a confirmé la suspension des
+entre février et août 2024 (iii) l’arrêt des ponctions
+opérations de reprise de liquidités par émission de
+au titre de l’opération principale hebdomadaire
+bons BEAC.
+(iv) la reprise des injections actives au titre de
+l’opération principale et (v) la hausse du volume
+des transactions interbancaires.
+REVUE DE STABILITE FINANCIERE
+14 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 17 ---
+Parlant du cout de ces ressources, en 2024, 92,15 % en décembre 2024). Par ailleurs, l’encours
+le taux moyen pondéré et le taux marginal moyen des transactions interbancaires a connu un
+des montants adjugés à l’OPIL se sont situés accroissement de 38,46 %, pour se situer à 618,6
+respectivement à 6,51 % et à 5,55 %. Il convient de milliards FCFA en décembre 2024, contre 446,8
+rappeler que les taux de rémunération des Bons milliards FCFA un an auparavant. Cet encours est
+BEAC étaient fixés à 2,50 % pour une maturité de composé des opérations de pension-livrée et des
+14 jours et à 3,50 % pour ceux d’une maturité de transactions en blanc.
+28 jours.
+S’agissant du coût de la monnaie centrale sur
+le segment interbancaire, le taux interbancaire
+moyen pondéré de référence (TIMP des opérations
+2.2.1.2. Compartiment interbancaire
+à 7 jours) des prêts en blanc est ressorti, en
+moyenne mensuelle, à 5,66 %, contre 6,86 % un an
+Le volume des transactions interbancaires
+plus tôt et celui des opérations de pension-livrée
+a progressé de 20,89 %, à 1 452,0 milliards
+s’est situé à 6,20 % en décembre 2024, contre 5,66
+FCFA en décembre 2024. Ces opérations
+% l’année précédente.
+sont principalement constituées d’échanges
+intergroupes (85,20 % en décembre 2023 et
+Graphique 1 : Evolution encours mensuel des opérations interbancaires (en millions FCFA) et TIMP
+Sources : BEAC
+2.2.1.3. Risques et vulnérabilités pesant sur le L’assèchement de la liquidité du système
+marché monétaire sous régional bancaire perceptible depuis mars 2024 en plus
+du maintien du niveau des taux d’intervention
+Les risques et vulnérabilités pesant sur le
+de la BEAC sur le marché monétaire ont
+marché monétaire peuvent se décliner comme
+contribué au renchérissement des coûts aussi
+suit :
+bien sur le marché interbancaire que sur le
+marché bancaire, avec des répercussions sur
+• le maintien des taux d’intervention de la
+le financement de l’économie ;
+Banque Centrale sur le marché monétaire.
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 15
+Edition 2024
+
+--- Page 18 ---
+2. 2. TENDANCE DES MARCHES DE CAPITAUX
+• la dépendance des contreparties au 2.2.2. Marché des valeurs du Trésor de la
+refinancement de la Banque Centrale. CEMAC
+Plusieurs établissements de crédit qui
+Entre décembre 2023 et décembre 2024, le
+recourent régulièrement aux avances de la
+marché des valeurs du Trésor s’est caractérisé
+Banque Centrale, notamment au guichet de
+par (i) une hausse du volume des opérations sur
+la facilité de prêt marginal, rencontrent des
+le marché primaire ; ii) une baisse des taux de
+difficultés à respecter le niveau de réserves
+couverture des émissions et (iii) une augmentation
+obligatoires requis. Cette situation peut
+des coûts d’émission.
+constituer un risque de liquidité susceptible
+de perturber le bon fonctionnement du
+système financier de la CEMAC. En effet, les
+ressources mobilisées par les banques en 2.2.2.1. Evolution du marché primaire
+situation de dépendance au refinancement
+L’encours des valeurs du Trésor a augmenté
+de la BEAC sont utilisées pour couvrir des
+de 16,0 %, passant de 6 413,1 milliards FCFA en
+déficits de trésorerie structurels résultant
+décembre 2023 à 7 437,3 milliards FCFA douze
+principalement de leur surexposition sur les
+mois plus tard, soit 10,9 % du PIB de la CEMAC. Les
+Etats de la CEMAC (valeurs du Trésor et prêts
+montants levés au cours de cette période par les
+directs à l’Etat et ses démembrements). Ces
+Trésors nationaux se sont situés à 5 079,3 milliards
+ressources contribuent peu au financement
+FCFA entre décembre 2023 et décembre 2024,
+du secteur privé.
+contre 4 336,3 milliards FCFA entre décembre
+2022 et décembre 2023.
+Graphique 2 : Evolution de l’encours des titres publics de la CEMAC en % du PIB nominal
+Sources : BEAC
+Par instrument, les Trésors publics ont émis 378 (1 633,0 milliards FCFA), du Cameroun (1317,7
+titres, dont 275 BTA pour une valeur de 3 068 ,890 milliards FCFA), du Gabon (1116,3 milliards FCFA)
+milliards FCFA, et 181 OTA d’un montant total et du Tchad (655,1 milliards FCFA).
+de 2 010, 381milliards FCFA. Ces ressources ont
+essentiellement bénéficié aux Trésors du Congo
+REVUE DE STABILITE FINANCIERE
+16 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 19 ---
+Tableau 1 : Emission des titres publics sur la période 2022 à 2024
+déc 2022-déc 2023 déc 2023-déc 2024
+Instruments Nombre Montants Nombre Montants
+d'adjudications levés d'adjudications levés
+BTA 243 2 435 281 275 3 068 890
+Cameroun 41 761 804 55 1 036 707
+Rép. Centrafricaine 4 17 675 5 19 309
+Congo 94 787 671 114 1 189 303
+Gabon 60 491 088 62 473 300
+Guinée Equatoriale 14 95 168 16 186 546
+Tchad 30 281 875 23 163 725
+OTA 135 1 901 032 181 2 010 381
+Cameroun 8 106 560 16 281 023
+Rép. Centrafricaine 15 104 983 18 151 259
+Congo 60 1 022 613 51 443 705
+Gabon 35 494 507 51 643 053
+Guinée Equatoriale
+Tchad 17 172 370 45 491 342
+Total 378 4 336 313 456 5 079 271
+Sources : BEAC
+2.2.2.2 Coût des ressources levées rendement moyen des OTA est revenu à
+9,07 % pour les émissions réalisées entre
+Sur la période sous revue, les coûts des
+décembre 2023 et décembre 2024, contre
+émissions ont évolué de manière disparate
+9,16 %, un an auparavant. En dépit de
+en fonction du type d’instrument. Le taux
+ces tendances globales, d’importantes
+moyen pondéré des BTA s’est élevé à
+disparités existent entre les Trésors publics,
+6,71 %, contre 6,23 % entre décembre 2022
+reflétant l’hétérogénéité dans la perception
+et décembre 2023. A l’inverse, le taux de
+du risque souverain par les investisseurs.
+Tableau 3 : TIMP et rendement moyen sur les BTA et OTA (en %)
+Déc.2022-déc.2023 Déc.2023déc.2024
+BTA (TIMP moyen) 6,23 6,71
+Cameroun 5,40 6,68
+RCA 8,00 7,67
+Congo 6,59 6,67
+Gabon 6,22 6,59
+Guinée Equatoriale 7,02 6,99
+Tchad 6,88 6,99
+OTA (Rendement moyen) 9,16 9,07
+Cameroun 6,72 7,21
+RCA 10,09 9,93
+Congo 9,21 8,98
+Gabon 9,03 8,71
+Guinée Equatoriale
+Tchad 10,20 10,42
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 17
+Edition 2024
+
+--- Page 20 ---
+2. 2. TENDANCE DES MARCHES DE CAPITAUX
+2.2.2.2. Evolution du marché secondaire 2.2.2.3.2. Cote de crédit
+Le marché secondaire des titres publics a Les agences au niveau international procèdent
+poursuivi son essor au cours de la période sous régulièrement à la notation des signatures
+revue. En effet, 1961 opérations d’achat ventes souveraines pour apprécier la capacité des
+de titres ont été enregistrées pour une valeur Etats à lever des ressources et honorer leurs
+nominale de 4696,5 milliards FCFA, contre 1580 engagements vis-à-vis des investisseurs. Ces
+opérations d’une valeur de 3791,4 milliards FCFA notations renseignent sur la perception de la
+un an auparavant. solidité économique de ces États, ainsi que sur leur
+capacité à honorer leurs engagements financiers.
+De même, 3057 opérations de pension-livrée
+interbancaires ont été effectuées pour un montant Sur cette base Moody’s, S&P et Fitch ont
+cumulé de 9121,4 milliards FCFA, en hausse relevé des perspectives macroéconomiques
+substantielle par rapport à l’année précédente fragiles dans certains pays de la CEMAC en raison
+où 1755 opérations avaient été réalisées sur des essentiellement de la hausse de l’endettement et
+titres pour un montant cumulé d’environ 5 263,4 de la dépendance aux matières premières.
+milliards FCFA.
+Le nombre d’opérations de transferts en blanc
+de titres a également augmenté sur la période 2.2.3. Marché financier sous régional
+sous-revue. Ainsi, 5548 opérations d’une valeur
+Le marché financier sous régional a été
+nominale de 7 660 milliards FCFA ont été réalisées
+caractérisé en 2024 par un recul du volume global
+entre décembre 2023 et décembre 2024, contre
+des ressources levées et la faiblesse des échanges
+4396 opérations d’une valeur nominale de 5
+sur le marché secondaire. Cependant, les réformes
+952,7milliards FCFA, entre décembre 2022 et
+en cours dans le cadre de la fusion des marchés
+décembre 2023.
+financiers de la CEMAC pourront contribuer à
+booster le potentiel de ce marché.
+2.2.2.3. Risques inhérents au marché des
+valeurs du Trésor
+2.2.3.1. Evolution des activités sur le marché
+primaire
+2.2.2.3.1. Liquidité des titres en circulation
+Au 31 décembre 2024, le marché primaire a
+Au 31 décembre 2024, les valeurs du Trésor
+enregistré quatre opérations de levée de fonds
+restent essentiellement concentrées dans le
+pour un montant total de 291,0 milliards FCFA,
+portefeuille des banques (SVT et non SVT), soit
+réparties entre les émissions d’États (237,0 milliards
+62,2 % des actifs, les investisseurs institutionnels
+FCFA, soit 81,4 % du total) et les placements privés
+(sociétés d’assurance, fonds de pensions, etc.)
+(54,0 milliards FCFA, soit 18,6 %). Ces opérations
+occupent la deuxième place avec 19,4 % des
+portent à 2 072,0 milliards FCFA le volume cumulé
+titres suivis des établissements de crédit non
+des ressources levées depuis la fusion effective
+SVT et des personnes physiques qui détiennent
+des marchés financiers de la CEMAC en 2019.
+respectivement 13,1 % et 3,1 % de l’encours des
+titres publics.
+Par ailleurs, aucune levée de fonds par émission
+d’actions n’a été réalisée en 2024.
+Cette situation est induite par (i) la non-
+observation de la règle de ségrégation des titres
+2.2.3.2. Evolution des activités sur le
+par certains SVT qui n’enregistrent pas toujours
+compartiment secondaire
+les titres acquis pour la clientèle dans les comptes
+dédiés ; (ii) les niveaux de rendement des titres La capitalisation boursière a reculé de 1,6 % pour
+jugés encore faibles par certains investisseurs s’établir à 442,9 milliards FCFA au 31 décembre
+institutionnels, ce qui limite leur incitation à y 2024, en lien avec la baisse du cours de l’action
+souscrire ; (iii) la faible culture financière des d’une société cotée à la BVMAC. Sur la période,
+agents économiques (investisseurs institutionnels le volume des actions échangées a atteint 13 686
+et physiques). actions (540 millions FCFA), contre 22 136 actions
+REVUE DE STABILITE FINANCIERE
+18 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 21 ---
+(4,0 milliards FCFA) un an auparavant, reflétant de 3,4 %. Cet encours est constitué de dettes
+une faible liquidité du compartiment des actions8. souveraines à hauteur de 74 %. 1 624 489 titres
+ont été transigés sur ce compartiment (soit15,1
+L’encours de la dette sur le compartiment des
+milliards FCFA), contre 844 749 titres (soit 8,4
+obligations est passé de 1 279,1 milliards FCFA
+milliards FCFA).
+en 2023 à 1 235,2 milliards FCFA, soit une baisse
+Graphique 3 : Tendance des activités sur le marché secondaire (en millions FCFA)
+Sources : COSUMAF
+2.2.3.3. Activités des intermédiaires du marché 31 décembre 2024 après 1 568,7 milliards FCFA
+au 31 décembre 2023. Les banques restent les
+Le nombre d’intermédiaires agréés sur le
+investisseurs les plus exposés avec 62,5 % des
+marché financier sous régional est passé d’une
+avoirs, soit 1 212, 2 milliards FCFA.
+vingtaine sur les deux marchés avant la fusion à plus
+de quatre-vingt acteurs après la fusion effective.
+A fin 2024, ils sont composés d’un dépositaire
+central unique, de 24 sociétés de bourse, de 2.2.4. Dépositaire central
+15 sociétés de gestion de portefeuille, de 10
+Les titres conservés par le dépositaire central
+dépositaires d’organisme de placement collectif,
+sont passés de 164 145 878 (soit 1 562 milliards
+de 18 conseillers en investissement financier, de 2
+FCFA) à fin 2023 à 190 523 953 (soit 1 734 milliards
+banques teneurs de compte, de 13 commissaires
+FCFA) à fin 2024. Les obligations représentent
+aux comptes et de 2 organismes de garantie.
+97% des instruments financiers en conservation
+chez le dépositaire, contre 3 % pour les actions.
+Le portefeuille global géré par les sociétés de
+bourse correspond à 2 041,9 milliards FCFA au
+8 Le ratio de liquidité générale des titres s’est établi à 0,12 % en 2024, contre un
+ratio de 0,88 % en 2023
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 19
+Edition 2024
+
+--- Page 22 ---
+2. 2. TENDANCE DES MARCHES DE CAPITAUX
+Encadré 1 : Avancées dans le processus de fusion des marchés financiers de la CEMAC
+La première phase du projet de fusion s’est DCU. Les options concernent la forme juridique,
+achevée en 2019 avec la fusion physique et le siège social, la répartition de l’actionnariat,
+institutionnelle des structures du marché financier, le capital social minimum et la valeur nominale
+notamment les deux Régulateurs (COSUMAF et des actions. Le pacte d’actionnaires, les accords
+CMF), les deux bourses des valeurs mobilières de siège, la convention de portage d’actions, le
+(BVMAC et DSX) et les dépositaires, fonction projet de procès-verbal de l’Assemblée Générale
+confiée à titre transitoire à la BEAC (via la CRCT), constitutive, le projet de procès-verbal du premier
+qui assure le rôle de banque de règlement (à Conseil d’Administration et les propositions de
+travers la DSMP). Les travaux de la seconde charte graphique sont les livrables produits dans
+phase se poursuivent et visent à réformer le cadre le cadre de la constitution du DCU.
+réglementaire du marché financier, à viabiliser les
+nouvelles structures de marché et à dynamiser le 3. Développement et dynamisation du
+marché financier unifié. marché financier unifié
+Les actions relatives à ce volet ont trait
+1. Refonte du cadre règlementaire
+à l’introduction en bourse des entreprises
+Elle s’est traduite par l’adoption du Règlement du portefeuille public, la promotion de la
+N°01/22/CEMAC/UMAC/CM/COSUMAF transparence financière et le renforcement
+portant organisation et fonctionnement du de la collaboration avec les partenaires au
+marché financier de l’Afrique Centrale, puis développement du marché.
+par l’adoption en 2023 du Règlement général
+Au 31 décembre 2024, cinq pays sur six ont
+de la COSUMAF. Le Collège de la COSUMAF
+communiqué à la BEAC une liste de dix-sept
+a adopté en 2024 dix Instructions visant à
+entreprises du portefeuille public à coter à la
+préciser les modalités d’application de ces
+BVMAC. Deux entreprises ont effectivement
+deux Règlements. Elles concernent l’agrément
+finalisé leurs introductions en bourse, portant à
+des intermédiaires de marché, le contenu et
+six le nombre de sociétés cotées à la BVMAC. Il
+le format des informations adressées par les
+est envisagé dans le cadre de la promotion de
+intermédiaires de marché à leur clientèle,
+la transparence financière, l’organisation d’un
+l’agrément des agences de notation ou encore
+forum régional par la BEAC avec la contribution
+les modalités de dépôt et le contenu du dossier
+des régulateurs, des agences de notation, des
+d’appel public à l’épargne. De même, la nouvelle
+partenaires, des investisseurs institutionnels
+tarification de la COSUMAF a été validée par le
+et du patronat. De même, le processus de
+Comité Ministériel de l’UMAC en juillet 2024.
+notation financière en monnaie locale de la
+2. Viabilisation des structures du marché République Centrafricaine a été bouclé en avril
+financier unifié 2024. Le Ministre des Finances du Cameroun
+est également en train procéder à la notation
+Les structures à viabiliser sont composées
+financière du pays en monnaie locale. Au titre
+de la Commission de Surveillance du Marché
+de la collaboration avec les partenaires, la BEAC
+Financier de l’Afrique Centrale, de la Bourse
+bénéficie des appuis de la BAD et de la Banque
+des Valeurs Mobilières de l’Afrique Centrale et
+Mondiale. Ces partenaires la soutiennent dans les
+du Dépositaire Central Unique (DCU). L’audit
+aspects de création du DCU, de restructuration
+institutionnel, organisationnel et opérationnel de
+de la BVMAC et de la COSUMAF, de refonte du
+la COSUMAF a été finalisé, alors que le business
+corpus juridique régissant le marché financier
+plan de la restructuration de la BVMAC a été
+unifié, d’élaboration d’un plan régional
+réalisé. Validé par l’Assemblée Générale puis
+d’activation de l’épargne domestique, de mise
+adopté par le COPIL du PREF-CEMAC, le plan
+en place d’un dispositif fiscal harmonisé, clair
+de restructuration de la BVMAC comporte onze
+et incitatif à l’échelle régionale et d’acquisition
+actions à mettre en œuvre jusqu’en décembre
+d’une plateforme informatique complète pour
+2026. Le COPIL du PREF-CEMAC a également
+les activités de marché dans la CEMAC.
+adopté en 2022 le calendrier et les options en vue
+de la création et du démarrage des activités du
+REVUE DE STABILITE FINANCIERE
+20 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 23 ---
+3
+DYNAMIQUE DES INSTITUTIONS
+ET INFRASTRUCTURES FINANCIERES
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 21
+Edition 2024
+
+--- Page 24 ---
+2. 3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES
+Les institutions financières implantées dans Mastercard, Union Pay International participent à
+la CEMAC sont essentiellement constituées l’interopérabilité entre les banques de la CEMAC.
+d’établissements de crédit (banques et
+Les prestataires de services de paiement (PSP)
+établissements financiers), d’établissements
+de la CEMAC gèrent pour leur propre compte des
+de microfinance (EMF) et d’établissements de
+plateformes de traitement des transactions. Il est
+paiement. Elles sont supervisées par la Commission
+à noter que les plateformes utilisées sont, pour la
+Bancaire de l’Afrique Centrale (COBAC). Les
+plupart, installées sur les serveurs situés hors de
+premiers établissements de paiement de la
+la CEMAC, dans des centres de mutualisation des
+CEMAC ont reçu leur agrément en 2022.
+ressources informatiques.
+Les institutions financières regroupent aussi
+Les centres de traitement informatique sont
+les sociétés d’assurances et les organismes de
+une composante essentielle de l’écosystème de
+prévoyance sociale qui sont placés respectivement
+paiement de la CEMAC. Ils traitent et conservent
+sous la supervision de la Conférence Interafricaine
+les données sur les opérations financières des
+des Marchés d’Assurances (CIMA) et de la
+clients des services bancaires. A fin 2024, les
+Conférence Interafricaine de la Prévoyance Sociale
+centres de traitement monétiques installés dans
+(CIPRES).
+la CEMAC se déclinaient comme suit : GIE CB
+Les infrastructures financières couvrent les (groupe Commercial Bank), OMOA (Opérateur
+systèmes gérés et exploités par la BEAC et les Monétique Ouest Africain), BGFI Services (Groupe
+systèmes sous contrôle d’autres institutions BGFIBank) et Intelligentsia (Groupe First Bank). Le
+financières. Les systèmes exploités par la BEAC GIMAC, par son mode délégataire, propose aussi
+sont composés du Système de Télécompensation l’hébergement des solutions monétiques à ses
+en Afrique Centrale (SYSTAC), du Système des membres. La CAMPOST, à travers sa Plateforme
+Gros Montants Automatisé (SYGMA), du Système Nationale d’Agrégation des Paiements (NPSI),
+SWIFT (Society for Worldwide Interbank Financial peut héberger ou traiter pour le compte des tiers,
+Télécommunication), de la Centrale des Incidents des systèmes de paiement électroniques.
+de Paiement (CIP), du système de règlement/
+livraison des titres publics à souscription libre dont
+la gestion est assurée par la Cellule de Règlement
+3.1. Solidité des institutions financières
+et de Conservation des Titres (CRCT) ainsi que d’un
+système de règlement, de compensation et de L’activité des institutions financières a contribué
+gestion des garanties des opérations monétaires. à 44,9 % dans la formation du produit intérieur brut
+de la sous-région en 2024, contre une contribution
+Les systèmes sous contrôle d’autres institutions
+de 42,7 % en 2023.
+financières sont constitués d’un système de cotation
+des opérations boursières géré par la Bourse des La composition du système financier sous
+Valeurs Mobilières de l’Afrique Centrale (BVMAC) régional a peu évolué, avec toujours une
+dont les fonctions du Dépositaire Central Unique prédominance du secteur bancaire (79,9 % du
+et de la Banque de Règlement sont assurées par total bilan), suivi par le secteur des organismes
+la BEAC et d’un Système Monétique GIMACPAY de prévoyance sociale (6,8 % du total bilan) et le
+exploité par le Groupement Interbancaire secteur de la microfinance (6,6 % du total bilan). Les
+Monétique de l’Afrique Centrale (GIMAC), établissements de paiement et les établissements
+grâce à une plateforme convergente permettant financiers ont faiblement contribué dans le total
+l’interopérabilité des transactions monétiques. Les bilan des institutions financières (2,1 % et 1,7 %
+réseaux monétiques internationaux tels que Visa, respectivement).
+REVUE DE STABILITE FINANCIERE
+22 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 25 ---
+Tableau 4 : Structure du secteur des institutions financières
+2023 2024
+Total bilan Total bilan
+Nombre Nombre
+en % du en % du en % du en %
+total PIB total du PIB
+Banques 54 79,4 33,8 56* 79,9 35,9
+Organismes de prévoyance
+7 7,2 3,1 7 6,8 3,0
+sociale
+Établissements de micro
+445 6,9 2,9 521** 6,6 3,0
+finance
+Sociétés d’assurances 55 3,0 1,3 50 2,9 1,3
+Établissements de paiement 7 1,8 0,8 7 2,1 0,9
+Établissements financiers 9 1,7 0,8 8*** 1,7 0,8
+Total 609 100 42,7 570 100 44,9
+*55 banques ont procédé au reporting CERBER
+*** EMF agréés et en activité
+***6 établissements financiers ont procédé au reporting CERBER.
+Sources : BEAC, SG-CIMA, SE-CIPRES, SG-COBAC
+Le système financier sous régional a été marqué 3.1.1. Expositions intersectorielles
+par la progression de l’activité des banques, des
+Les dépôts des compagnies d’assurances
+établissements financiers, des établissements
+dans les établissements de crédit ont progressé
+de microfinance et des établissements de
+de 2,4 % passant de 281,5 milliards FCFA à 288,3
+paiement, malgré la persistance de la faiblesse
+milliards FCFA entre 2023 et 2024, représentant
+des dispositifs de gouvernance et de contrôle
+respectivement 1,7 % et 1,6 % des dépôts bruts
+interne ainsi que quelques insuffisances liées au
+de ces établissements.
+reporting réglementaire.
+Sur un montant global de 893,5 milliards FCFA
+Le secteur des assurances a maintenu sa
+des placements du marché des assurances de la
+progression. A fin 2024, le taux de couverture
+CEMAC à fin 2024, les dépôts bancaires occupent
+des engagements réglementés s’est établi à
+la deuxième place après les valeurs mobilières
+110,4 % pour les sociétés d’assurances non vie
+avec 32,3 % de parts de marché. Cette tendance
+et à 110,0 % pour les sociétés d’assurances vie
+reflète la situation des assurances non vie et des
+et capitalisation, pour un minimum réglementaire
+assurances vie et capitalisation pour lesquelles les
+de 100 %. De même, l’excédent de marge
+dépôts bancaires ont représenté respectivement
+de solvabilité a atteint respectivement 102,1
+29,8 % et 33,8 % des placements en 2024.
+milliards FCFA et 31,7 milliards FCFA. L’activité
+des organismes de prévoyance sociale (OPS) de
+Les dépôts à terme et les comptes courants
+la CEMAC a continué de progresser, bien que
+des organismes de prévoyance sociale dans les
+les OPS soient confrontés à la faiblesse de leur
+banques ont représenté 18,1 % du volume total
+trésorerie et à l’insuffisance des opportunités de
+de leurs placements et 9,6 % du total de leur
+placement sur les marchés des capitaux. Ainsi, le
+actif 9. Le portefeuille de placements des OPS de
+total des bilans de ces organismes a augmenté
+la CEMAC est prédominé par les prêts consentis
+de 4,2 % pour s’élever à 2 120,2 milliards FCFA
+aux Etats et aux entreprises (20,4 %).
+à fin 2024.
+9 Source : CIPRES
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 23
+Edition 2024
+
+--- Page 26 ---
+2. 3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES
+3.1.2. Établissements de crédit, activité reparties au Cameroun (19 banques), en
+établissements de microfinance et République Centrafricaine (4 banques), au Congo
+établissements de paiement (10 banques), au Gabon (8 banques), en Guinée
+Equatoriale (5 banques) et au Tchad (10 banques).
+Cette partie analyse l’évolution de l’activité des
+établissements de crédit et des établissements de 3.1.2.1.1. Appréciation de l’intermédiation
+microfinance ainsi que des risques pesant sur ces bancaire
+secteurs.
+Le total agrégé des bilans des banques s’est
+3.1.2.1. Institutions bancaires accru de 11,5 %, à 24 966,9 milliards FCFA. Cette
+croissance a été enregistrée dans tous les pays
+Au 31 décembre 2024, le système bancaire de
+membres.
+la CEMAC compte entre autres 56 banques en
+Tableau 5 : Principaux postes des bilans des banques (en millions FCFA)
+2021 2022 2023 2024
+Dépôts de la clientèle 12 770 358 14 970 651 16 631 080 17 995 150
+Crédits bruts 9 955 932 10 624 309 11 742 297 12 501 445
+Créances en souffrance 1 935 881 1 967 302 1 879 413 2 023 943
+Provisions constituées 1 231 116 1 232 414 1 398 216 1 464 056
+Crédits nets 8 724 816 9 391 895 10 344 081 11 037 389
+Capitaux permanents 1 917 013 2 192 387 2 369 232 2 595 392
+Valeurs immobilisées 1 656 797 1 724 450 1 815 810 2 111 586
+Excédent / déficit de trésorerie 4 801 360 6 819 269 7 480 717 8 245 853
+Total bilan 18 179 749 20 104 204 22 401 176 24 966 866
+Sources : SPECTRA
+Les dépôts collectés auprès de la clientèle ont Par secteur, les ressources collectées par
+progressé de 8,2 %, atteignant 17 995 milliards les banques proviennent principalement de
+FCFA, et représentant 72,1 % du total du bilan.
+la clientèle privée (72,0 %), suivie du secteur
+Par échéance, les dépôts à vue (y compris les
+public (16,9 %) et des non-résidents (6,3 %).
+comptes sur livret) se sont accrus de 12,8 %, pour
+Une répartition par pays a révélé que, par
+atteindre 14 267 milliards FCFA, soit 79,3 % des
+ordre de grandeur, 46,5 % des dépôts sont
+dépôts collectés, contre 76,0 % un an plus tôt. Les
+ressources à terme collectées ont enregistré une collectés au Cameroun, 16,8 % au Gabon,
+hausse de 9,0 %, s'établissant à 2 989 milliards 15,1 % au Congo, 10,5 % au Tchad, 9,4 % en
+FCFA, représentant 16,1 % du total des dépôts. Guinée Équatoriale et 1,8 % en Centrafrique.
+Tableau 6 : Ventilation des dépôts par secteur institutionnel (en millions FCFA)
+2021 2022 2023 2024
+Privés 8 724 330 9 494 558 11 946 529 12 962 376
+Publics 1 167 529 1 279 179 1 926 909 2 091 677
+Entreprises publiques 621 462 808 060 926 206 960 373
+Non-résidents 304 520 431 163 1 018 705 1 141 628
+662 004 757 398 812 732
+Autres 839 096
+Total 11 479 845 12 770 358 16 631 081 17 995 150
+Sources : SPECTRA
+REVUE DE STABILITE FINANCIERE
+24 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 27 ---
+Les concours au secteur privé sont ressortis à légère reprise économique dans la zone CEMAC.
+9 710,4 milliards FCFA, représentant 77,7 % du Les crédits aux administrations et entreprises
+total des crédits bruts, contre 74,1 % douze mois publiques se sont établis à 2 025,1 milliards FCFA,
+plus tôt (8 704,9 milliards FCFA), confirmant la soit 16,2 % du total des crédits bruts.
+Tableau 7 : Principaux postes des bilans des banques (en millions FCFA)
+2021 2022 2023 2024
+Secteur privé 7 450 376 8 150 734 8 704 873 9 710 378
+Etat 1 091 506 995 889 1 104 117 1 020 440
+Entreprises publiques 639 473 703 640 1 002 234 1 004 707
+Non-résidents 563 458 518 954 622 559 461 649
+Encours financiers des
+102 425 139 369 159 028 139 056
+opérations de crédit-bail
+Autres créances 108 700 115 723 149 489 165 215
+Total 9 955 938 10 624 309 11 742 300 12 501 445
+Sources : SPECTRA
+Les crédits octroyés par les banques ont profité d’eau (4%) sont les secteurs les moins servis par les
+aux secteurs ci-après : électricité et gaz (12,9 %), banques durant l’année 2024.
+commerce de gros et de détail (12,4 %), activités
+Traduisant l’évolution de ses composantes, le
+de fabrication (6,8 %). L’agriculture, la sylviculture
+ratio crédits bruts/dépôts de la clientèle suit une
+et la pêche (6,4 %), le transport et l’entreposage
+tendance baissière depuis 2019 pour se fixer à
+(4,3%) ainsi que la production et la distribution
+69 %.
+Graphique 4 : Ventilation sectorielle des crédits bruts en 2024 (en %)
+Sources : Réalisé à partir des données du SPECTRA
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 25
+Edition 2024
+
+--- Page 28 ---
+2. 3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES
+Les provisions constituées se sont établies 3.1.2.1.2. Trésorerie des banques
+à 1 464,1 milliards FCFA en décembre 2024,
+En 2024, la trésorerie nette des banques de la
+en progression de 4,7 % par rapport à l’année
+CEMAC est ressortie excédentaire de 8 245,8
+antérieure où elles s’étaient élevées à 1 398,2
+milliards FCFA (33 % du total du bilan). Elle est en
+milliards FCFA. En conséquence, les crédits nets
+hausse de 10,2 %, à 765 milliards FCFA, favorisée
+ont atteint 11 037,4 milliards FCFA (44,2 % du total
+par la hausse des dépôts non réemployés
+bilan), soit une hausse de 6,7 %.
+conjuguée à une hausse moins proportionnelle
+des crédits distribués.
+Graphique 5 : Evolution des déterminants de la trésorerie des banques (en millions FCFA)
+Sources : Réalisé à partir des données de SPECTRA
+Les ressources de trésorerie se sont fixées Par ailleurs, l’endettement auprès des
+à 2 684 milliards FCFA au 31 décembre correspondants associés et non associés
+2024, contre 2 184 milliards FCFA un an s’est élevé à 153 milliards FCFA, contre un
+auparavant, soit une progression de 23 %. endettement de 297 milliards FCFA, un
+Elles sont constituées de ressources à terme an auparavant, soit une diminution de 144
+(70 %) et de ressources à vue (30 %). milliards FCFA (-48,4 %).
+Les emplois de trésorerie se sont élevés
+à 11 761 milliards FCFA au 31 décembre
+3.1.2.1.3. Evolution de la qualité du portefeuille
+2024, contre 9 665 milliards FCFA un an plus
+de crédits des banques
+tôt. En hausse de 21,7 %, ils sont composés
+de titres de placement et de transaction Au 31 décembre 2024, l’encours des
+(48,8 %), d’opérations à terme (7 %) et créances en souffrance des banques s’est
+d’opérations à vue (32 %). Les emplois de élevé à 2 024 milliards FCFA, en hausse de
+trésorerie ont augmenté sur toutes les 2,3 % par rapport à 2023, et représente 16,2
+places bancaires, à savoir 60 % au Tchad, 39 % des crédits bruts. Les créances douteuses
+% en Centrafrique, 21 % au Congo, 18 % constituent l’essentiel des créances en
+en Guinée Equatoriale, 4 % au Cameroun et souffrance.
+environ 1 % au Gabon.
+REVUE DE STABILITE FINANCIERE
+26 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 29 ---
+Comme le démontre le graphique ci- en lien essentiellement avec la reprise de la
+dessous, la qualité du portefeuille de croissance économique en dépit des effets
+crédits des banques s’est globalement de la crise liée à la pandémie de Covid-19
+améliorée sur les quatre dernières années, observée en 2020.
+Graphique 6 : Tendance des indicateurs de la qualité du portefeuille des crédits
+Sources :Construction à partir des données fournies par le Secrétariat Général de la COBAC
+3.1.2.1.4. Adéquation des fonds propres et supplémentaires en fonds propres s’élevant à
+conformité aux normes prudentielles 247,3 milliards FCFA au titre de la norme de
+couverture du risque de crédit. Ces besoins sont
+Au 31 décembre 2024, les fonds propres nets
+répartis comme suit : 11,6 % au Cameroun, 2,2 %
+agrégés des banques, déterminés sur la base du
+au Gabon, 11,5 % en Guinée Équatoriale et 74,7 %
+règlement COBAC R-2016/03 relatif aux fonds
+au Tchad. Les banques implantées en République
+propres nets, ont progressé de 40,8 % pour se
+Centrafricaine n’ont extériorisé aucune exigence
+hisser à 1 888,7 milliards FCFA
+en fonds propres au titre de la couverture du
+risque de crédit.
+Sur les 54 banques qui ont procédé au reporting
+réglementaire en 2024, 10 ont déclaré des besoins
+Tableau 8 : Evolution des fonds propres nets par pays (en millions FCFA)
+22002211 22002222 22002233 22002244
+CCaammeerroouunn 550011 999955 662200 333300 777755 338800 992255 335544
+CCeennttrraaffrriiqquuee 4477 881166 5544 555522 4466 668877 5577 990088
+CCoonnggoo 228822 661155 332288 889955 333344 448822 335566 008877
+GGaabboonn 331166 556677 334488 447766 337722 880044 445511 229955
+GGuuiinnééee EEqquuaattoorriiaallee --119911 669922 --115511 773388 --115555 333355 8866 003333
+TTcchhaadd 6622881188 4499 446655 --3322 446622 1122 003322
+CEMAC 1 020 119 1 249 981 1 341 556 1 888 709
+Sources : Reporting SPECTRA
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 27
+Edition 2024
+
+--- Page 30 ---
+2. 3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES
+En ce qui concerne les autres normes division des risques, la couverture des risques, la
+prudentielles, le rapport de liquidité et le plafond couverture des immobilisations, le coefficient de
+global des risques sont les normes les plus transformation, le ratio de fonds propres de base
+respectées. En revanche, les normes les moins et la représentation du capital minimum.
+respectées concernent la limite individuelle de
+Tableau 9 : Nombre de banques en infraction par rapport aux normes prudentielles
+Norme prudentielle 2018 2019 2020 2021 2022 2023 2024
+Représentation capital minimum 15 16 17 17 16 17 14
+Ratio de capitaux propres 08 06 06 12 10 6
+Ratio de fonds propres de base 17 14 15 17 18 9
+Ratio de couverture des risques 08 16 12 12 15 13 9
+Plafond global des risques 07 09 09 09 8 8 4
+Plafond individuel des risques 20 23 20 25 24 22 18
+Couverture des immobilisations 15 16 14 17 15 15 14
+Rapport de liquidité 06 05 05 08 7 12 6
+Coefficient de transformation 13 17 16 14 13 18 14
+Engagements sur les apparentés 13 12 16 14 14 14 9
+Adéquation des fonds propres 23 14 17 39 37 31 22
+Nombre total de banques 51 50 50 51 53 54 55
+Sources : Reporting SPECTRA
+3.1.2.1.5. Rentabilité des banques La progression du PNB a résulté de
+l’accroissement des marges sur les opérations
+La rentabilité est abordée à travers
+financières (26,6 %, à 429,9 milliards FCFA), les
+les soldes intermédiaires de gestion,
+opérations diverses (8,1 %, à 442,3 milliards
+notamment le produit net bancaire (PNB)
+FCFA) et les opérations avec la clientèle (2,9
+et le résultat net. A fin 2024, le PNB agrégé
+% à 674,3 milliards FCFA). En revanche, la
+des banques de la CEMAC s’est accru de 7,2
+marge sur opérations de trésorerie s’est
+% pour s’établir à 1 500,9 milliards FCFA.
+détériorée passant de -22,9 milliards FCFA
+Cette progression est observée sur presque
+à -55,7 milliards FCFA. Les frais généraux
+toutes les places bancaires. Les opérations
+ont atteint 710,8 milliards FCFA, après 692,0
+avec la clientèle, les opérations financières
+milliards FCFA un an plus tôt. Le coefficient
+et les opérations diverses ont représenté
+net d’exploitation s’est élevé à 47,4 % à fin
+respectivement 44,9 %, 28,6 % et 29,5 % du
+2024 contre 49,4 % à fin 2023.
+PNB, contre 46,8 %, 24,3 % et 29,2 % douze
+mois auparavant.
+Tableau 10 : Profil des indicateurs de rentabilité des banques (en millions FCFA) prudentielles
+CEMAC 2023 % PNB 2024 % PNB Variation (%)
+Marge sur opérations de trésorerie -22 916 -1,6 -55 762 -3,7 143,4
+Marge sur opérations financières 339 712 24,3 429 915 28,6 26,6
+Marge sur opérations avec la clientèle 655 262 46,8 674 325 44,9 2,9
+Marge sur opérations diverses 408 960 29,2 442 263 9,5 8,1
+Marge sur opérations de crédit-bail 19 441 1,4 10 189 0,7 -47,6
+Produit net bancaire 1 400 459 1 500 929 7,2
+Frais généraux 692 054 710 817 2,7
+Résultat brut d’exploitation 667 807 702 125 5,1
+Résultat courant 519 932 592 632 14,0
+Résultat exceptionnel 16 163 -60 394 -473,7
+Impôt sur le résultat 136 581 97 716 -28,5
+Résultat net 399 514 434 563 8,8
+Coefficient net d’exploitation 49,4 % 47,4 %
+Rendement des actifs (ROA) 1,8 % 1,7 %
+Rentabilité des capitaux investis (ROE) 27,1 % 23,0 %
+Sources : SG-COBAC
+REVUE DE STABILITE FINANCIERE
+28 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 31 ---
+Le résultat net des banques de la CEMAC est dont sept au Cameroun et un en République
+ressorti excédentaire de 434,6 milliards FCFA, Gabonaise. Seuls six établissements ont procédé
+contre 399,5 milliards FCFA une année auparavant, régulièrement aux déclarations réglementaires.
+en hausse de 8,8 %, principalement tirée par la
+hausse du PNB. Cependant, treize banques ont
+extériorisé un résultat net déficitaire cumulé de
+3.1.2.2.1. Evolution de l’intermédiation financière
+-35,9 milliards en 2024.
+Le total agrégé des bilans des établissements
+financiers est passé de 498,5 milliards FCFA à
+537,7 milliards FCFA entre 2023 et 2024, soit une
+3.1.2.2. Etablissements financiers
+progression de 7,8 %.
+Le nombre d’établissements financiers
+implantés dans la sous-région s’élève à huit,
+Tableau 11 : Principaux postes des bilans des établissements financiers (en millions FCFA)
+2021 2022 2023 2024
+Dépôts de garantie10 58 180 62 313 62 920 78 629
+Crédits bruts 318 584 321 810 309 967 350 529
+Créances en souffrance 151 016 147 295 136 730 139 893
+Provisions à constituer 99 474 99 175 97 304 172 868
+Crédits nets 219 110 222 635 212 672 177 661
+Valeurs immobilisées 83 427 83 260 83 427 99 897
+Excédent / déficit
+175 438 194 677 189 546 210 864
+de trésorerie
+Total bilan 492 908 520 198 498 517 537 668
+Sources : Reporting SPECTRA
+Les dépôts collectés se sont élevés à 78,6 COBAC R-2016/03, trois établissements financiers
+milliards FCFA à fin 2024, soit 14,6 % du total ont disposé d’un niveau de fonds propres suffisant
+bilan. Cette hausse est essentiellement observée permettant de respecter l'ensemble des normes
+sur la place bancaire Camerounaise. prudentielles assises sur cet agrégat.
+Les crédits bruts se sont accrus de 13,1 %, de
+320,4 milliards FCFA en 2023 à 350,5 milliards
+3.1.3.2. Rentabilité des établissements financiers
+FCFA en 2024.
+Le produit net bancaire des établissements
+financiers est passé de 9,4 milliards FCFA en
+3.1.2.2.2. Respect des normes prudentielles 2023 à 15,2 milliards FCFA en 2024, en hausse de
+62,6 %.
+Au 31 décembre 2024, sur la base des fonds
+propres déterminés conformément au règlement
+10 Les établissements financiers ne peuvent recevoir des fonds du public à vue et à moins de deux ans de terme (article 11 du
+règlement COBAC R-2009/02/ portant fixation des catégories des établissements de crédit, de leur forme juridique et des
+activités autorisées).
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 29
+Edition 2024
+
+--- Page 32 ---
+2. 3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES
+Tableau 12 : Indicateurs de rentabilité des établissements financiers
+(en millions FCFA)
+Variation
+CEMAC 2023 % PNB 2024 % PNB
+(en %)
+Marge sur opérations de trésorerie -2 377 -25,4 -941 -6,2 -60,4
+Marge sur opérations financières -1 439 -15,4 -1 069 -7,0 -25,7
+Marge sur opérations avec la clientèle 4 291 45,8 7 605 49,9 77,2
+Marge sur opérations diverses 2 432 26,0 2 787 18,3 14,6
+Marge sur opérations de crédit-bail 6 455 68,9 6 844 44,9 6,2
+Produit net bancaire 9 362 15 226 62,6
+Frais généraux 7 934 4 711 -40,6
+Résultat brut d’exploitation 1 437 8 059 -33,7
+Résultat courant -605 7 863 460,8
+Résultat exceptionnel -615 -1 981 -222,0
+Impôt sur le résultat 931 1 173 26,0
+Résultat net -2 151 4 709 318,9
+Fonds propres comptables 301 130 305 152
+Coefficient net d’exploitation 84,7 % 30,9 %
+Rendement des actifs -0,4 % 0,9 %
+Rentabilité des capitaux investis -0,7 % 1,5 %
+Sources : SG-COBAC
+Les marges sur opérations avec la clientèle (7,6 Les frais généraux se sont situés à 4,7 milliards
+milliards FCFA, soit +77,2 %) et sur opérations FCFA, en baisse de 40,6 %, et se sont maintenus à
+diverses (2,9 milliards FCFA, soit +14,6 %) ont un niveau permettant aux établissements financiers
+significativement contribué à la formation du PNB d’extérioriser un résultat brut d’exploitation positif
+des établissements financiers de la CEMAC en de 8,0 milliards FCFA. Eu égard à ces évolutions,
+2024. le résultat net s’est accru de plus de 300 % à 4,7
+milliards FCFA.
+REVUE DE STABILITE FINANCIERE
+30 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 33 ---
+Encadré 2 : Point sur le Fonds de Garantie des Dépôts en Afrique Centrale
+Le Fonds de Garantie des Dépôts en Afrique Risques encourus par le FOGADAC
+Centrale (FOGADAC) a été créé par règlement
+Dans l’accomplissement de ses missions, le
+CEMAC n°01/09/CEMAC/UMAC/COBAC du
+FOGADAC demeure exposé aux risques (i) de
+20 avril 2009. Il a pour mission d’indemniser
+faillite des établissements de crédit en difficulté ;
+les épargnants en cas d’indisponibilité de
+(ii) d’insuffisance de la réserve d’intervention ;
+leurs dépôts et d’apporter son concours à
+(iii) de dépassement du délai règlementaire
+un établissement de crédit dont la situation
+d’indemnisation des clients des banques ;
+laisse craindre à très brève échéance une
+(iv) de retard de paiement des cotisations
+indisponibilité totale ou partielle des dépôts.
+par les établissements de crédit et (v) de non
+Ainsi, le FOGADAC rembourse les avoirs
+remboursement des placements financiers des
+éligibles au titre de la protection des dépôts à
+ressources du fonds.
+hauteur de 5 millions FCFA par ayant droit et par
+établissement de crédit.
+Réformes engagées
+L’adhésion au fonds est obligatoire pour
+Le Secrétariat Permanent du FOGADAC a
+tous les établissements de crédit installés
+conduit une étude pour déterminer la taille cible
+dans la CEMAC et les ressources proviennent
+du Fonds et le niveau de la provision technique
+principalement des contributions de ces
+ainsi que pour réviser le système de tarification et
+derniers. Le FOGADAC est constitué d’un
+de plafond d’indemnisation des déposants.
+organe délibérant, le Comité de Direction, et
+d’un organe exécutif, le Secrétariat Permanent. Sur la base des résultats de cette étude, le
+Comité de Direction a fixé la taille cible du Fonds
+1. Etat des lieux des contributions et à 6 % des dépôts à atteindre dans un horizon de
+indemnisations 10 ans et le niveau de la provision technique à
+40 % de la réserve d’intervention. Le modèle de
+Les réserves d’intervention du fonds ont
+tarification différentielle a été retenu et il consiste
+atteint 289,6 milliards FCFA au 31 décembre
+à associer un malus en fonction du profil de
+2024. La situation des indemnisations du Fonds
+risque de chaque adhérent avec un taux de base
+n’a pas évolué. Il convient de rappeler que les
+fixé à 0,12 % pour tous les adhérents. Ce profil
+ressources du fonds ont été mobilisées pour
+de risque est basé sur trois indicateurs, le ratio de
+indemniser les clients de la Banque de l’Habitat
+couverture des risques, le ratio de transformation
+du Gabon (BHG) et les clients de la Banque
+ainsi que le ratio de division des risques.
+Gabonaise de Développement (BGD) dont
+l’opération a été clôturée en 2023.
+3.1.2.3. Secteur de la microfinance pour atteindre 1 515,5 milliards FCFA, représentant
+74 % du total des passifs des bilans agrégés à fin
+Au 31 décembre 2024, le secteur de
+décembre 2024. Dix EMF en réseau et de deuxième
+la microfinance de la CEMAC totalise 521
+catégorie détiennent plus de la moitié des dépôts,
+établissements en activité, répartis entre le
+soit 69,1 %. Le Tchad, le Gabon et le Congo ont
+Cameroun (384), la Centrafrique (12), le Congo
+enregistré une croissance relativement élevée des
+(46), le Gabon (18), la Guinée Equatoriale (2) et le
+dépôts collectés (respectivement de 51 %, 21 % et
+Tchad (59).
+2,6 %), tandis que le Cameroun, la Centrafrique et la
+Guinée Équatoriale ont extériorisé une baisse des
+3.1.2.3.1. Evolution de l’intermédiation
+dépôts (respectivement de 1,2 %, 12 % et 24 %).
+Le total agrégé des bilans des établissements
+Les ressources à vue ont atteint 1 318,0
+de microfinance (EMF) s’est établi à 2 061,4
+milliards FCFA, représentant 87 % des dépôts
+milliards FCFA au 31 décembre 2024, contre
+collectés, tandis que les ressources à terme se sont
+1 946,0 milliards FCFA au 31 décembre 2023, soit
+établies à 109 milliards FCFA à fin décembre 2024,
+une progression de 5,9 %.
+représentant 7 % du total des dépôts collectés sur
+Les dépôts collectés se sont accrus de 1,8 % la même période.
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 31
+Edition 2024
+
+--- Page 34 ---
+2. 3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES
+Graphique 7 : Evolution des principaux postes du bilan agrégé des EMF (en millions FCFA)
+Sources : Réalisé à partir des données du SG-COBAC
+En revanche, les crédits bruts se sont élevés rapport à la même période l’année précédente.
+à 1 039 milliards FCFA à fin décembre 2024, Les emplois de trésorerie sont principalement
+représentant 50,4 % du total des bilans, en constitués de comptes à vue et à terme auprès
+amélioration de 9 % par rapport au niveau atteint des correspondants (87 %) ainsi que des avoirs
+en 2023. Les créances en souffrance, en hausse de en caisse (11 %). Les ressources de trésorerie sont
+8,9 %, se sont établies à 178 milliards FCFA à fin essentiellement composées de dépôts à vue et à
+décembre 2024. terme auprès des établissements de crédit.
+Le ratio crédits/dépôts s’est fixé à 50,4 %
+3.1.2.3.2. Evolution de la situation prudentielle
+à fin 2024. Les provisions pour dépréciation,
+constituées au 31 décembre 2024, couvrent Les fonds propres/patrimoniaux nets agrégés
+63 % des créances douteuses. En conséquence, des EMF ont augmenté de 11 % pour atteindre
+les crédits nets représentent 46,4 % du total des 281,4 milliards FCFA en décembre 2024. Toutefois,
+bilans agrégés. ce niveau de fonds propres/patrimoniaux nets ne
+permet pas à la grande majorité des établissements
+À fin 2024, l’excédent de trésorerie a atteint
+de respecter les normes prudentielles assises sur
+743 milliards FCFA, en augmentation de 8 % par
+cet agrégat.
+Graphique 8 : Dynamique des fonds propres/patrimoniaux des EMF (en millions FCFA)
+Sources : Réalisé à partir des données du SG-COBAC
+REVUE DE STABILITE FINANCIERE
+32 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 35 ---
+3.1.2.3.3. Principaux risques du secteur logicielles souvent inadaptées aux activités des
+EMF compromettent le suivi opérationnel et la
+Le secteur de la microfinance est confronté
+fiabilité des informations financières produites. La
+à des défis majeurs liés à la gouvernance, au
+mise en œuvre du règlement COBAC sur la gestion
+contrôle interne, aux systèmes d’information, et
+des risques informatiques devrait renforcer la
+au reporting réglementaire.
+maîtrise de ces risques.
+S’agissant de la gouvernance, les risques y
+relatifs concernent les apparentés (administrateurs,
+actionnaires, dirigeants) qui portent des créances 3.1.2.4. Situation des établissements de
+devenues douteuses sur le secteur, l’absence paiement
+d’administrateurs indépendants et les conflits
+3.1.2.4.1. Evolution de l’activité
+d’intérêts. Ces insuffisances sont aggravées par
+des modalités de désignation des administrateurs
+La Communauté Economique et Monétaire
+qui ne respectent pas le processus d’approbation,
+de l’Afrique Centrale (CEMAC) compte sept
+ainsi que des défaillances dans le fonctionnement
+établissements de paiement agréés : Orange
+des comités spécialisés.
+Money Cameroun (OMCM) ; Mobile Money
+Corporation Cameroon SA (MMC Cameroon),
+Le non-respect des exigences en matière de
+Mobile Money Congo SA (MMC), Mobile
+contrôle interne expose les EMF à des risques
+Commerce Congo (MCC) S.A, Airtel Money
+opérationnels. Les carences dans ce domaine
+Gabon, Airtel Mobile Commerce Tchad (AMCT) et
+se traduisent par l’absence de procédures, la
+Clikpay Gabon.
+confusion entre les fonctions opérationnelles et
+de contrôle interne, ainsi qu’à ‘un manque de
+Six établissements sont des filiales des sociétés
+ressources adéquates. L’inefficacité des contrôles
+de téléphonie mobile qui ont procédé à une
+augmente la vulnérabilité des établissements.
+séparation des activités du GSM avec les services
+de paiement, telle qu’exigée par la réglementation
+La qualité des systèmes d’information constitue
+en vigueur.
+aussi une source importante de risques, notamment
+en matière de sécurité. Les EMF subissent des
+Au 31 décembre 2024, le total des bilans des
+fraudes internes et externes dues à des lacunes
+établissements de paiement s’est établi à 693,0
+dans leurs systèmes, qui les exposent également
+milliards FCFA, contre 500,7 milliards FCFA en
+à des cyberattaques. De plus, des solutions
+2023, soit une croissance de 30,4 %.
+Tableau 13 : Situation des principaux agrégats bilanciels des établissements
+de paiement (en millions FCFA)
+Rubrique 2022 2023 2024
+Capitaux permanents 15 908 74 195 74 195
+Autres comptes créditeurs de la clientèle 46 286 453 851 453 851
+Opérations diverses - Passif 10 224 75 069 123 957
+Passif Découverts bancaires 0 336 968
+Total passif - bilan 72 418 500 688 652 971
+Valeurs immobilisées 4 548 11 495 14 021
+Crédits à court terme 0 68 123
+Créances en souffrance 0 0 0
+Opérations Diverses - Actif 15 088 41 126 62 216
+Actif
+Titres de placement et de transaction 0 0 3 000
+Comptes à vue auprès des correspondants bancaires 52 447 936 573 455
+Total actif - bilan 72 418 500 688 652 971
+Sources : SG-COBAC
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 33
+Edition 2024
+
+--- Page 36 ---
+2. 3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES
+3.1.2.4.2. Rentabilité du secteur Les frais généraux ont atteint 64,7 milliards
+FCFA, en hausse de 43,1 %, et se sont maintenus
+Les établissements de paiement ont dégagé
+à un niveau permettant aux établissements
+un produit net bancaire de 114,3 milliards
+d’extérioriser un résultat brut d’exploitation positif
+FCFA au 31 décembre 2024, en hausse de 40,6
+(56,5 milliards FCFA) et en amélioration (71,1 %).
+comparativement à l’exercice précédent. La
+En conséquence, le résultat net a progressé de
+hausse du PNB a été favorisée par les marges sur
+87,2 % à 14,6 milliards FCFA.
+opérations de trésorerie (19,6 milliards FCFA, soit
++148,6 %) et sur opérations diverses (94,7 milliards
+FCFA, soit +28,9 %). Les marges sur les opérations
+financières et les opérations avec la clientèle ont
+contribué à réduire le PNB de 100 % et de 70,2 %
+respectivement.
+Encadré 3 : Cadre règlementaire des établissements de paiement
+L’activité des établissements de paiement à titre de profession habituelle, fournissent
+est régie par le règlement n°04/18/CEMAC/ exclusivement des services de paiement et des
+UMAC/COBAC du 21 décembre 2018, fixant services connexes » (cf. article 6 du règlement
+le cadre général des services de paiement COBAC R-2019/02).
+dans la CEMAC, complété par les règlements
+COBAC R-2019/01 relatif à l’agrément et aux A ce titre, les établissements de paiement
+modifications de situation des prestataires de tiennent des comptes de paiement qui sont
+services de paiement et le règlement COBAC utilisés exclusivement pour les opérations
+R-2019/02 relatif aux normes prudentielles de paiement. Ils n’exercent pas d’activité de
+applicables aux établissements de paiement. collecte des dépôts. Les fonds reçus par les
+établissements de paiement de la part de
+Au sens de l’article 2 du règlement n° 04/18/ clients restent la propriété de ces derniers et ne
+CEMAC/UMAC/COBAC, est qualifié de services constituent pas des dépôts au sens des articles
+de paiement, « l’émission, la mise à disposition 5 de l’annexe à la Convention du 17 janvier 1992
+ou la gestion d’instruments ou moyens de et 21 du règlement n° 01/17/CEMAC/UMAC/
+paiement ou l’exécution d’ordre de paiement ». COBAC.
+L’article 5 du même règlement habilite les En outre, les établissements de paiement ne
+établissements de crédit, les établissements de sont pas autorisés à consentir des crédits, à
+microfinance et les établissements de paiement l’exception des débits différés (sur un mois) et
+à exercer en qualité de prestataires de services des microcrédits pour l’acquisition des biens
+de paiement. A la différence des établissements et services (n’excédant pas un montant de 100
+de crédit et de microfinance, « les établissements 000 FCFA et remboursables sur une période
+de paiement sont des établissements qui, maximale de trois mois).
+REVUE DE STABILITE FINANCIERE
+34 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 37 ---
+3.1.3. Sociétés d’assurances 3.1.3.1. Exploitation des assurances non-vie
+Les sociétés d’assurances et les organismes de La production non vie (primes émises ou chiffre
+prévoyance sociale (OPS) ont totalisé environ 10 d’affaires) dans la CEMAC est ressortie à 367,5
+% des actifs du système financier sous régional. milliards FCFA en 2024, en hausse de 0,7 %.
+Cependant, leur contribution à la création de
+Les branches « automobile » (25,8 %) »,
+valeur ajoutée demeure faible (moins de 5 % du
+« accidents corporels et maladie » (26,2 %)
+PIB de la CEMAC en 2024).
+et « incendies et autres dommages aux biens »
+L’activité dans le secteur des assurances est (20,4 %) cumulent l’essentiel de la production
+en progression dans la CEMAC en lien avec la non vie. A l’exception de la branche « incendie et
+hausse de 1,7 % du chiffre d’affaires, malgré autres dommages aux biens » qui a enregistré un
+un accroissement des arriérés de prime de trend haussier au cours des trois dernières années,
+61,6 %. L’activité reste dominée par les sociétés les autres branches ont connu une évolution
+d’assurances non vie qui ont généré plus de 70 % erratique au fil des années comme en témoigne le
+du chiffre d’affaires du secteur. graphique ci-dessous.
+Graphique 9 : Chiffre d’affaires en assurance non vie (en millions FCFA)
+Sources : Secrétariat Général de la CIMA
+Les arriérés de primes ont augmenté de 61,6 % 3.1.3.1.1. Exploitation des assurances vie et
+en 2024, traduisant une altération du respect des capitalisation
+dispositions de l’article 13 du code des assurances
+Dans le secteur de l’assurance vie, la production
+et des circulaires rattachées dans un des marchés
+a augmenté de 1,8 % en 2024. Au même moment,
+de la CEMAC. Ces arriérés représentent 27 %
+les arriérés de primes ont baissé de 17,5 %. Par
+des primes émises, ce qui suggère qu’une part
+type de souscription, les assurances collectives
+importante du chiffre d’affaires théorique du
+ont atteint 58,3 % des émissions, contre 41,2 %
+secteur n’a pas été encaissée dans les délais.
+pour les assurances individuelles. Le portefeuille
+Les charges de sinistre sont en amélioration de des assurances individuelles reste dominé par les
+4,3 %, induisant une sinistralité de 36,6 % dans sous-catégories « mixtes » (49,7 %) et « épargne »
+l’ensemble de la CEMAC. Comparée aux marchés (34,1 %). Les assurances collectives ont été
+plus matures, cette faible sinistralité pourrait essentiellement composées des sous-catégories
+s’expliquer par une bonne sélection des risques, « épargne » (60,5 %) et « contrat en cas de décès »
+mais elle reflète surtout un faible retour aux assurés (37,2 %).
+et bénéficiaires de contrats.
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 35
+Edition 2024
+
+--- Page 38 ---
+2. 3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES
+Les charges de prestation et de provision Les commissions se sont accrues de 4,9 % à
+sont passées à 102,2 milliards FCFA à fin 2024, 46,4 milliards FCFA en 2024, alors que les autres
+impliquant une sinistralité de 75,5 %. charges nettes ont baissé de 0,3 %, à 83,9 milliards
+FCFA.
+Avec des charges de gestion qui se sont établies
+3.1.3.1.2. Rentabilité du secteur
+à 130,4 milliards FCFA en 2024 (soit 35,5% des
+primes émises), les assureurs non-vie ont dégagé
+Les placements des sociétés non vie ont atteint
+un résultat net d’exploitation de 17,5 milliards
+340,1 milliards FCFA en 2024. En hausse de 1,3 %,
+FCFA (soit 4,8 % du chiffre d’affaires), contre 7,8
+ils sont constitués en majorité de dépôts bancaires
+milliards FCFA en 2023.
+(29,8 %) et des actifs immobiliers (28,7 %). Ces
+placements ont généré des produits financiers
+nets de 12,8 milliards FCFA (+45,7 %).
+Graphique 10 : Structure du portefeuille des placements en assurance non vie
+Sources : Secrétariat Général de la CIMA
+Les placements des sociétés vie et capitalisation, Les commissions payées en assurance vie et
+d’un montant global de 552,9 milliards FCFA, ont capitalisation ont reculé de 4,5 % pour atteindre
+généré 19,2 milliards FCFA de produits financiers 7,7 milliards FCFA en 2024. De même, les autres
+nets en 2024, en hausse de 13,2 % par rapport charges nettes ont régressé de 0,7 %, représentant
+à 2023, essentiellement sous forme d’obligations 20,5 % du chiffre d’affaires en 2024.
+(41,4 %) et de dépôts bancaires (33,8 %).
+Graphique 11 : Structure du portefeuille des placements en assurance vie et capitalisation
+Sources : Secrétariat Général de la CIMA
+REVUE DE STABILITE FINANCIERE
+36 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 39 ---
+L’augmentation des charges d’exploitation 3.1.3.1.3. Situation prudentielle
+a motivé l’autorité de régulation à mener une
+Pour une norme minimum de 100 %, le taux
+réflexion et une série de discussions avec la
+de couverture des engagements réglementés
+profession afin de réduire l’impact du niveau
+par les actifs admis s’est fixé à 110,0 % en 2024.
+des frais généraux sur la rentabilité des contrats
+Par type de production, le taux de couverture des
+d’assurance vie. Cette réflexion a abouti, dans
+engagements réglementés non vie a reculé en
+un premier temps, à la mise en place d’un cadre
+2024 à 110,4 %, tandis qu’il s’est amélioré en vie
+réglementaire sur la provision de gestion qui est
+et capitalisation (soit 110,0 %).
+toutefois en cours de révision.
+Le résultat net d’exploitation des sociétés
+d’assurances vie et capitalisation s’est élevé à 14,4
+milliards FCFA, soit 10,6 % du chiffre d’affaires, en
+augmentation de 20,6 % par rapport à 2023.
+Tableau 14 : Couverture des engagements règlementés (en millions FCFA)
+Engagements Actifs Taux Engagements Actifs Taux
+Couverture Couverture
+réglementés admis couverture réglementés admis couverture
+Non vie 304 917 349 812 44 895 114,7 319 233 352 320 33 086 110,4
+Vie et
+482 068 520 891 38 824 108,1 513 237 564 721 51 484 110,0
+capitalisation
+Total 786 985 870 703 83 719 110,6 832 470 917 041 84 570 110,2
+Sources : Données du Secrétariat Général de la CIMA
+Les sociétés d’assurance ont enregistré un de cette marge est passé de 255,6 % en 2023 à
+excédent de marge de solvabilité de 133,8 314,9 % en 2024.
+milliards FCFA en 2024. Le taux de couverture
+Tableau 15 : Marge de solvabilité (en millions FCFA)
+2023 2024
+CEMAC Surplus/ Surplus/
+Marge Marge Taux Marge Marge Taux
+déficit de déficit de
+disponible réglementaire couverture disponible réglementaire couverture
+marge marge
+Non vie 150 289 58 210 92 079 258,2 159 022 56 901 102 121 279,5
+Vie et
+48 318 19 494 28 824 247,9 52 483 20 825 31 658 252,0
+capitalisation
+Total 198 607 77 704 120 903 255,6 244 779 77 726 133 779 314,9
+Sources : Données du Secrétariat Général de la CIMA
+3.1.4. Organismes de prévoyance sociale 3.1.4.1. Evolution des activités
+Sept organismes exercent l’activité de Le total des bilans des organismes de
+prévoyance sociale dans la sous-région, dont six prévoyance sociale (OPS) implantés dans la
+gèrent le régime général des travailleurs du secteur CEMAC a atteint 2 120,2 milliards FCFA au 31
+privé et assimilés, comprenant les branches des décembre 2024, contre 2 034,3 milliards FCFA au
+prestations familiales, des risques professionnels 31 décembre 2023, soit une hausse de 4,2 %. Les
+et d’assurance vieillesse-invalidité-décès, et un ressources issues des cotisations collectées se sont
+organisme spécialisé dans le régime de l’assurance accrues de 4,4 %, pour s’établir à 602,0 milliards
+maladie. FCFA à fin 2024. Les prestations servies ont, quant
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 37
+Edition 2024
+
+--- Page 40 ---
+2. 3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES
+à elles, baissé de 7,2 %, à 385,8 milliards FCFA et 3.1.4.2. Structure des investissements
+ont été essentiellement réalisées dans le cadre de
+Le portefeuille de placements des
+la pension vieillesse-invalidité-décès, d’accidents
+du travail et maladies professionnelles, de organismes de la CEMAC s’est établi à 1
+prestations familiales et d’assurance maladie. 122,6 milliards FCFA à fin 2024, avec une
+prédominance des obligations et bons du
+Le résultat net d’exploitation du secteur a
+Trésor (24,9 %), suivis des prêts à l’Etat et
+considérablement augmenté de 71,9 % à 51,9
+milliards FCFA à fin 2024. Ce qui implique un ratio aux entreprises (20,4 %), des placements
+de résultat net/ressources de cotisations de 8,6 %. immobiliers (19,1 %), des dépôts à terme
+Les réserves constituées ont également progressé dans les banques (14,2 %) ainsi que des
+de 21,2 %, à 875,0 milliards FCFA. actions (11,9 %).
+Graphique 12 : Portefeuille des OPS de la CEMAC en 2024 (en millions FCFA)
+Sources : Secrétariat Exécutif de la CIPRES
+3.1.4.3. Solidité des organismes de prévoyance moyenne de 54 % sur les cinq derniers exercices,
+sociale le ratio de trésorerie immédiate s’est situé à 62 %,
+contre 61 % un an auparavant. Ce niveau de liquidité
+Le secteur des OPS de la sous-région a été exposé
+est insuffisant pour honorer les engagements à court
+aux problèmes de liquidité et de gestion. Pour une
+terme.
+Tableau 16 : Evolutions du ratio de trésorerie immédiate des OPS
+Indicateur 2020 2021 2022 2023 2024 Moyenne
+Trésorerie du secteur de
+la prévoyance sociale /
+Dettes à court terme du 49 53 44 61 62 54
+secteur de la prévoyance
+sociale
+Sources : Secrétariat Exécutif de la CIPRES
+REVUE DE STABILITE FINANCIERE
+38 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 41 ---
+Pour un minimum de 65 % fixé par la gestion, se traduisant par le non-respect du ratio de
+Conférence Interafricaine de la Prévoyance charges administratives par rapport aux produits
+Sociale, le taux de redistribution, mesurant la techniques. La part des ressources consacrées au
+part des ressources allouées aux prestations financement des dépenses de fonctionnement est
+techniques, est globalement respecté par les OPS encore importante, ce qui influence négativement
+depuis l’année 2020. Cependant, les organismes la structure des fonds de réserves.
+demeurent confrontés à des problèmes de
+Graphique 13 : Evolution du taux de redistribution et ratio charges administratives
+Sources : Secrétariat Exécutif de la CIPRES
+3.2. Performance des infrastructures 3.2.1. Systèmes de paiement gérés par la
+financières banque centrale
+A fin 2024, la CEMAC compte 71 participants au
+Cette partie retrace l’évolution des systèmes
+Système de Gros Montants Automatisé (SYGMA)
+exploités par la Banque Centrale (SYGMA,
+et au Système de Télé compensation en Afrique
+SYSTAC et SWIFT), leur surveillance ainsi que les
+Centrale (SYSTAC). Ces participants comprennent
+activités de la monétique interbancaire. Ainsi,
+les établissements de crédit et les établissements
+l’année 2024 a été marquée par la révision des
+de microfinance, les Directions Nationales de la
+textes réglementaires des systèmes et moyens de
+BEAC, les six Trésors publics et les établissements
+paiement, avec des projets consensuels en attente
+postaux.
+de validation finale. La gestion des incidents sur les
+systèmes de paiement s’est de même améliorée.
+3.2.1.1. Evolution des opérations sur SYGMA,
+Cependant, le taux de reporting des participants
+SYSTAC et SWIFT
+demeure un défi majeur, soulignant la nécessité de
+la mise en production de l’application SANGHA. Les opérations en volume se sont accrues de
+Ainsi, la mise en place d’un cadre réglementaire 5,5 % sur les plateformes SYGMA et de 14,88 %
+pour le risque opérationnel et d’un dispositif de sur la plateforme SYSTAC, soit 453 634 opérations
+reporting effectif est en attente de finalisation. (430 098 en 2023) sur SYGMA et 19 347 482
+opérations sur SYSTAC (16 841 936 en 2023).
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 39
+Edition 2024
+
+--- Page 42 ---
+2. 3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES
+Graphique 14 : Evolution des opérations en volume sur SYGMA et SYSTAC
+Sources : BEAC
+De même, les opérations en valeur ont pour atteindre 20 675,9 milliards FCFA, chèques
+progressé de 28,3 % sur SYGMA, pour se hisser à et virements compris.
+547 989, 8 milliards FCFA, et de 7,1 % sur SYSTAC
+Graphique 15 : Evolution des opérations en valeur sur SYGMA et SYSTAC (en millions FCFA)
+Sources : BEAC
+Sur la période sous revue, SWIFT, réseau transferts, pour des montants de 13 172 milliards
+utilisé par la BEAC depuis 1998 pour exécuter (soit un recul de 5,74 % par rapport à 2023) et de 5
+les transferts hors de la CEMAC, a été utilisé 087,7 milliards (en baisse de 21,3 % par rapport à
+pour émettre 32 427 transferts et recevoir 21 569 2023), respectivement.
+REVUE DE STABILITE FINANCIERE
+40 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 43 ---
+3.2.1.2. Surveillance et conformité des résolution (8,54% en 2024, contre 9,93% en 2023)
+systèmes de paiement et sur les incidents non résolus (29% en 2024,
+après 36% en 2023), d’où des variations annuelles
+La surveillance des systèmes de paiement
+de -5,8 % des incidents en cours de résolution et
+vise principalement à s’assurer du respect, par
+de -10,8% des incidents non résolus.
+les assujettis, des normes techniques, juridiques
+et fonctionnelles définies par le Référentiel de Aucun contrôle sur place n’a été diligenté sur
+surveillance des systèmes de paiement. Elle vise les systèmes gérés par la BEAC au courant de
+ainsi à assurer le fonctionnement des systèmes l’année 2024. Cependant, la mise en production
+dans la CEMAC, à garantir leur conformité et leur de l’application SANGHA, recommandée par le
+sécurité. Comité Régional de Surveillance des Systèmes
+de Paiement (CRSSP), lors de sa réunion du 9 juin
+La surveillance porte sur les systèmes dont la
+2023, devrait contribuer à assurer la régularité,
+BEAC est gestionnaire (SYGMA et SYSTAC), sur
+la clarté et la qualité des reportings. En effet,
+les systèmes dont elle est participante (SWIFT)
+SANGHA est une solution automatisée qui permet
+et sur les infrastructures réseaux. Elle a trait pour
+un suivi rapproché des volumes de déclarations
+l’essentiel au contrôle sur pièces, consistant en
+de reporting et une meilleure appréciation des
+la réception des reporting d’incidents inhérents
+incidents constatés en temps réel.
+à l’exploitation desdits systèmes, et au contrôle
+sur place, orienté vers la vérification sur site de
+la conformité de ces systèmes au Référentiel de
+surveillance. 3.2.2. Monétique dans la CEMAC
+L’activité monétique continue de croitre en
+Les activités y relatives sont encadrées par (i)
+lien avec l’augmentation du nombre de cartes en
+l’Instruction du Gouverneur N° 01/
+circulation, d’automates (guichets automatiques
+GR/2014 du 17 mars 2014 relative à la surveillance
+de banques ou GAB et terminaux électroniques
+des systèmes de paiement dans la CEMAC qui
+de paiement ou TPE) ainsi que des transactions.
+fixe les règles de base de la surveillance des
+Aussi, le Groupement Interbancaire Monétique
+systèmes de paiement exploités dans la CEMAC,
+de l’Afrique Centrale (GIMAC) a, au cours de
+en vue d’en garantir l’efficacité, la sécurité et
+l’année 2024, lancé l’outil de gestion automatisé
+l’efficience ; (ii) le Référentiel de Surveillance
+des litiges (« GIMAC DISPUTES ») pour améliorer
+annexé à l’Instruction du Gouverneur qui recense
+l’expérience utilisateur, le service de remittance
+les données quantitatives et qualitatives, au
+sortante vers 22 destinations en Afrique et 17
+plan juridique, financier et opérationnel afin
+nouveaux services qui vise à enrichir l’écosystème
+de permettre à la BEAC d’assurer sa mission de
+GIMACPAY ainsi qu’il a adhéré à l’IAMTN11 afin de
+surveillance ; et (iii) la Charte de bonne conduite
+promouvoir la destination CEMAC auprès des «
+en matière d’exploitation des systèmes de
+transféreurs » d’argent.
+paiement, qui a pour objet de mettre en exergue
+les principaux droits et obligations des parties, en
+vue d’une exploitation efficiente et optimale des
+systèmes de paiement dans la CEMAC. 3.2.2.1. Monétique bancaire
+Concernant le contrôle sur pièces, sur les 3 794 Le nombre d’automates dans la CEMAC s’élève
+déclarations attendues en 2024, les assujettis ont à 2 036 GAB et 3 976 TPE. Les cartes bancaires et
+transmis 796 déclarations, soit un taux de 21,0 %. cartes prépayées en circulation ont atteint 3 205
+685. 33 millions de retraits GAB ont été opérés,
+Par ailleurs, 62,0 % des incidents identifiés
+pour une valeur cumulée de 3 841 milliards FCFA,
+en 2024 ont été résolus, contre un taux de
+tandis que 4,577 millions de paiements ont été
+résolution de 54,07 % en 2023, soit une variation
+effectués pour un montant total de 270 milliards
+en pourcentage de +16,6 % des incidents résolus.
+FCFA.
+Cette augmentation des incidents résolus a un
+impact appréciable sur les incidents en cours de
+11 Association internationale des réseaux de transfert d’argent
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 41
+Edition 2024
+
+--- Page 44 ---
+2. 3. DYNAMIQUE DES INSTITUTIONS ET INFRASTRUCTURES FINANCIERES
+3.2.2.2. Evolution des activités de monétique Ainsi, 14,47 millions de transactions ont été
+interopérable traitées sur la plateforme GIMACPAY en 2024
+pour un montant cumulé de 654 milliards. La
+Le Système Monétique interopérable géré
+plateforme GIMAC a traité plus de 2 262 275
+par le GIMAC compte 113 participants au 31
+transactions en interconnexion carte (demande
+décembre 2024, dont trois membres en cours
+de solde, retrait espèces et paiement), pour un
+de certification. Ce système est composé de 56
+montant de 186,5 milliards FCFA. Avec un total de
+banques, 16 établissements de microfinance, 12
+293 429 transactions, le paiement mobile occupe
+établissements de paiement/opérateurs mobile,
+la dernière place des services GIMACPAY.
+26 agrégateurs, la Banque Centrale, 2 Trésors
+Publics et une Administration postale.
+REVUE DE STABILITE FINANCIERE
+42 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 45 ---
+4
+ARTICLE THEMATIQUE « EDITION SPECIALE »
+Ouverture commerciale, diversification des exportations
+et volatilité de la production dans les pays de la CEMAC
+« La Banque des Etats de l’Afrique Centrale n’entend apporter aucune
+approbation ni improbation aux opinions émises dans ces articles ; elles
+doivent être considérées comme propres à leurs auteurs »
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 43
+Edition 2024
+
+--- Page 46 ---
+2. 4. ARTICLE THÉMATIQUE « EDITION SPÉCIALE »
+OUVERTURE COMMERCIALE, DIVERSIFICATION DES EXPORTATIONS ET VOLATILITÉ
+DE LA PRODUCTION DANS LES PAYS DE LA CEMAC12
+Désiré AVOM13
+Brice KAMGUIA14
+Résumé : Cet article poursuit deux objectifs complémentaires. Premièrement, il examine l’impact
+de l’ouverture commerciale sur la volatilité de la production, puis, deuxièmement, analyse le rôle de la
+diversification des exportations comme levier d’atténuation de celle-ci. Pour y parvenir, nous spécifions
+un modèle et mobilisons plusieurs indicateurs de mesure de la diversification des exportations que nous
+estimons sur un échantillon de 6 pays de la CEMAC observés au cours de la période 1996-2018. Nos
+résultats apportent des preuves empiriques solides selon lesquelles la diversification des exportations
+joue un rôle important dans le conditionnement de l’effet de l’ouverture commerciale sur la volatilité de la
+production. Plus spécifiquement, l’effet de l’ouverture commerciale sur la volatilité est négatif lorsque les
+pays ont des paniers d’exportation relativement diversifiés. De plus, la volatilité de l’inflation augmente
+celle de la production. Nous suggérons la promotion des meilleures institutions et l’accélération du
+processus de diversification pour stabiliser la production des pays de la CEMAC.
+Mots clés : Ouverture, Diversification, Volatilité.
+1. Introduction et Monétaire de l’Afrique Centrale (CEMAC),
+lesquels sont vulnérables aux chocs associés à
+La littérature économique soutient que l’évolution des prix des matières premières. Cette
+la stabilité macroéconomique est une des vulnérabilité s’explique par des raisons structurelles
+conditions préalables à la promotion d’une notamment la forte dépendance aux exportations
+croissance durable et inclusive (Kpodar et al., de matières premières, qui soumet les ressources
+2019 ; Avom et al., 2021). Parallèlement à ce budgétaires aux variations conjoncturelles.
+courant, il existe un débat animé sur les effets
+de l’ouverture commerciale sur l’instabilité Les économies d’Afrique en général et celles de
+macroéconomique. Certains auteurs mettent en la CEMAC en particulier ont connu une croissance
+avant son rôle stabilisateur qui est perceptible moyenne de plus de 4% entre la période 2000
+grâce à la diversification des risques, tandis que et 201115. Cette croissance est le résultat des
+d’autres soulignent son impact déstabilisateur réformes structurelles et les changements
+et amplificateur face aux chocs extérieurs (Cai institutionnels engagés avec l’appui des bailleurs
+et al., 2015 ; Allen, T., & Atkin, 2022 ; Dai et al., de fonds internationaux, les rendant plus
+2025). Les évaluations empiriques ont également résiliente dans l’absorption des chocs exogènes
+conduit à des résultats controversés. Cet article et endogènes. Dans la pratique, la plupart des
+contribue à cette double littérature en examinant gouvernements de la région ont été en mesure
+empiriquement l’effet de l’ouverture commerciale de mettre en œuvre avec succès des politiques
+sur la volatilité de la croissance économique. Plus contracycliques à la suite de la crise financière
+spécifiquement, il analyse dans quelle mesure la mondiale de 2008. Toutefois, cette croissance est
+diversification des exportations permet d’atténuer encore considérée comme insuffisante compte
+l’effet de l’ouverture commerciale sur la volatilité tenu des défis importants qui se posent à eux en
+de la croissance. Dans cette perspective, l’étude termes de réduction du chômage et d’emploi des
+revêt un enjeu particulièrement crucial pour les jeunes, y compris les diplômés.
+économies de la Communauté Economique
+12 Remerciements : Les auteurs tiennent à remercier chaleureusement les deux arbitres anonymes pour la qualité et la pertinence
+de leurs commentaires. Leurs suggestions constructives ont grandement contribué à améliorer la rigueur, la clarté et la portée de ce
+document. Toutefois, les erreurs ou imprécisions éventuelles qui subsistent demeurent de leur responsabilité.
+13 Centre d’Etude et de Recherche en Economie et Gestion (CEREG), FSEG-Université de Yaoundé II-Soa (davom99@gmail.com).
+14 Centre d’Etude et de Recherche en Economie et Gestion (CEREG), FSEG-Université de Yaoundé II-Soa (bricekamguiadj@yahoo.fr).
+15 Banque Mondiale, 2012.
+REVUE DE STABILITE FINANCIERE
+44 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 47 ---
+Cette relative lenteur du développement accrue. Toutefois, une plus grande diversification
+économique et social questionne de plus en productive et commerciale peut atténuer ces effets
+plus l’adéquation de l’appareil productif, la déstabilisateurs, en réduisant la dépendance à un
+structure des exportations de ces pays et surtout nombre restreint de secteurs ou de partenaires, et
+leur capacité à faire face à un environnement en amortissant les chocs sur l’activité et la liquidité.
+de plus en plus instable. Les travaux sur les
+Il n’existe actuellement aucun consensus, ni
+déterminants de la croissance économique dans
+empirique ni théorique, sur la nature de la relation
+les pays en développement ont attiré l’attention
+entre l’ouverture commerciale et la volatilité
+des chercheurs ces dernières années (Imam et
+macroéconomique. La question de l’impact de
+al. 2008 ; Gruss et al. 2020). Cependant, nous
+l’ouverture commerciale sur la volatilité de la
+en connaissons très peu sur ceux qui explique la
+croissance économique est fondamentale pour
+volatilité de la production. Ce papier contribue
+les débats politiques. L’ouverture augmente la
+à cette littérature en analysant les effets de la
+sensibilité d’une économie aux chocs extérieurs
+diversification et de l’ouverture commerciale sur
+et pourrait entraîner une plus grande volatilité des
+la volatilité de la production dans les pays de la
+flux commerciaux et de la croissance économique.
+CEMAC.
+Par conséquent, l’analyse des effets de l’ouverture
+L’instabilité macroéconomique constitue un commerciale ne devrait pas se limiter à son impact
+obstacle majeur au développement économique, sur la croissance économique, mais également
+dans la mesure où elle altère les incitations à prendre en compte sa contribution à la volatilité
+l’investissement de long terme, dégrade la de cette croissance. Alors que l’on soutient
+qualité des institutions économiques, et accroît généralement que l’ouverture commerciale
+l’incertitude sur les rendements futurs (Ramey est, dans des conditions appropriées, associée
+et Ramey, 1995). Par ailleurs, elle engendre des positivement aux résultats de la croissance
+déséquilibres financiers persistants en exposant (Frankel et Romer 1999), le lien entre l’ouverture
+les systèmes financiers à des chocs exogènes, et la volatilité de la croissance est moins bien
+augmentant ainsi les risques de solvabilité, de compris. À mesure que l’intégration commerciale
+liquidité et de crises systémiques. Le théorème s’approfondit, les économies sont naturellement
+de Modigliani et Miller (1958) postule que, dans plus exposées aux chocs extérieurs. Toutefois,
+un monde sans frictions, la structure financière cela implique-t-il automatiquement que les
+(entre dette et fonds propres) est sans effet sur économies plus ouvertes doivent connaître une
+la valeur de l’entreprise. Cependant, ce résultat plus grande volatilité de la croissance, ou existe-t-
+repose sur des hypothèses strictes telles que il des facteurs qui peuvent conditionner le fait que
+l’absence d’incertitude, de coûts de transaction, cette plus grande exposition se traduise par une
+ou d’asymétries d’information. Or, l’ouverture trajectoire de croissance plus volatile ?
+commerciale accroît souvent l’exposition des
+Une partie importante de la littérature soutient
+économies aux chocs extérieurs, ce qui est de
+que l’ouverture commerciale accroît la mobilité
+nature à amplifier la volatilité macroéconomique
+des capitaux et qu’elle est donc nécessaire pour
+(variabilité du PIB, des taux d’intérêt, des
+augmenter la croissance économique et le bien-
+termes de l’échange, etc.). Cette instabilité peut
+être (Abbas et al., 2024). D’autres font valoir
+exacerber les risques financiers, notamment à
+qu’une plus grande ouverture pourrait exacerber
+travers une allocation inefficiente du capital, une
+la réaction des économies à la vulnérabilité et
+plus grande vulnérabilité au surendettement ou
+aux chocs extérieurs (Haddad et al., 2013). Les
+des risques de liquidité (Aghion et al., 2004). Cela
+économies émergentes sont donc confrontées au
+soulève ainsi la question de savoir si la volatilité
+défi de trouver un équilibre entre les avantages et
+macroéconomique engendrée par l’ouverture au
+les risques de l’ouverture commerciale. En fait, de
+commerce compromet la neutralité théorique de
+nombreuses crises et instabilités observées dans
+la structure du capital selon Modigliani-Miller, en
+les pays en développement sont généralement
+rendant certaines configurations financières plus
+associées aux chocs du commerce international.
+risquées que d’autres en contexte d’instabilité
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 45
+Edition 2024
+
+--- Page 48 ---
+2. 4. ARTICLE THÉMATIQUE « EDITION SPÉCIALE »
+Cette thèse n’est pas dénuée de fondement, Cet article contribue également à la littérature
+dans la mesure où l’ouverture commerciale peut qui analyse les déterminants de volatilité de la
+favoriser un meilleur partage des risques ainsi production en spécifiant et estimant des modèles
+qu’une diversification accrue des portefeuilles de panel non seulement par les moindres carrés
+d’investissement. Ces deux mécanismes ordinaires (MCO) mais aussi par la méthode des
+apparaissent essentiels pour atténuer les chocs variables instrumentales. Cette dernière est
+économiques et soutenir la croissance et le particulièrement appropriée pour les modèles de
+développement (Bekaert et al., 2006). Ainsi, panel, car elle permet d’envisager la possibilité
+les pays dont l’ouverture commerciale est plus que l’ouverture soit potentiellement endogène
+importante sont moins sujets à la volatilité, en sans avoir recours à des instruments « externes ».
+partie en raison de la spécialisation sectorielle La potentielle endogénéité de l’ouverture peut
+accrue qui augmente le volume des échanges et être due au fait que l’ouverture et la volatilité
+réduit la volatilité de la production (Calderon et de la production sont toutes deux déterminées
+Hebbel, 2008 ; Haddad et al., 2013). Inversement, comme des aspects d’un processus de
+Srdelić et Dávila-Fernández (2024) montrent restructuration plus large en cours de transition.
+que l’ouverture commerciale peut avoir un Néanmoins, nous tenons compte de cette
+effet négatif sur la croissance économique en possibilité en utilisant l’estimateur des variables
+amplifiant les incertitudes sur les fondamentaux instrumentales. Dans l’ensemble, les résultats
+macroéconomiques. montrent que l’ouverture commerciale accroit
+l’instabilité macroéconomique d’une part, et que
+Les chocs externes prennent les formes de
+la diversification des exportations permet d’en
+base des chocs commerciaux et ceux des flux de
+atténuer les effets négatifs sur la volatilité de la
+capitaux internationaux. Le commerce devient un
+production d’autre part.
+important mécanisme de transmission des chocs
+externes dans l’ensemble de l’économie mondiale, Le reste de l’article est organisé de la manière
+en particulier dans les pays en développement. suivante. La première section présente une
+Ces pays concentrent généralement leurs revue sélective de la littérature. La deuxième est
+exportations dans un petit nombre de secteurs, consacrée aux données et à leur traitement, ainsi
+en particulier les secteurs volatils, ce qui les qu’à la description de la méthodologie mobilisée.
+expose à un risque et à des incertitudes plus La troisième quant à elle, analyse les résultats, et
+importantes. Une telle concentration les rend la dernière conclut tout en suggérant quelques
+plus vulnérables aux chocs extérieurs et induit recommandations de politique économique.
+donc une plus grande volatilité. Par conséquent,
+la diversification des exportations devrait atténuer
+les effets de volatilité des chocs extérieurs. Par
+2. Revue de la littérature
+ailleurs, les pays de la CEMAC se caractérisent
+par un faible développement de leurs marchés La littérature examinant en détail la relation
+financiers ainsi que par une politique monétaire entre ouverture et croissance est suffisamment
+et budgétaire relativement limitée, ce qui restreint documentée. Cependant, la relation entre
+leur capacité à se prémunir contre la volatilité ouverture commerciale et volatilité de la
+macroéconomique, contrairement aux économies croissance ne l’est pas (Haddad et al., 2013).
+avancées. Par conséquent, ils sont confrontés Des études examinant la relation entre ouverture
+à des conséquences économiques plus graves commerciale et volatilité (Easterly et al.2001 ;
+de la volatilité (Jansen et al., 2009). Toutefois, la Calderon et al., 2005 ; Cavallo, 2008 ; Jansen
+diversification de la composition sectorielle de et al., 2009 ; Malik et Temple, 2009 ; Haddad
+l’économie peut favoriser le développement des et al., 2013 ; Balavac et Pugh, 2016), il apparait
+marchés financiers et réduire l’incertitude dans que l’ouverture économique demeure l’un des
+l’économie. Ainsi, il est important de découvrir déterminants les plus controversés de la volatilité
+quelles mesures politiques devraient être utilisées macroéconomique. En effet, le commerce expose
+pour promouvoir la diversification et ainsi réduire les pays à des chocs externes (Jansen et al., 2009
+la volatilité. ; Di Giovanni et Levchenko, 2009) et qui sont une
+REVUE DE STABILITE FINANCIERE
+46 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 49 ---
+source de volatilité macroéconomique (Easterly et de cet article est d’évaluer l’impact de l’ouverture
+al., 2001). Cependant, une plus grande ouverture commerciale sur la volatilité de la production dans
+diminue la sensibilité aux chocs externes (tels les pays de la CEMAC ? Plus spécifiquement,
+que la pénurie de la demande intérieure), car les et secondairement, il s’agit de savoir si la
+secteurs plus ouverts sont moins corrélés avec le diversification permet d’atténuer les effets néfastes
+reste de l’économie nationale. de l’ouverture commerciale sur la volatilité de la
+production dans les pays de la CEMAC.
+La diversification est généralement considérée
+comme une stratégie de réduction de la volatilité.
+Elle offre une protection contre les chocs externes
+négatifs en permettant aux pays d’accéder à des 3. Données et méthodologie
+opportunités offertes avec la décomposition du
+Il est question ici de présenter les sources des
+cycle productif mondial avec le développement
+données mobilisées ainsi que les traitements qui
+des chaînes de valeur. Une stratégie de
+ont été apportés, d’une part, et de décliner la
+diversification des exportations est recommandée
+méthodologie, d’autre part.
+pour atténuer la volatilité de la production d’un
+pays, car elle réduit sa vulnérabilité aux chocs
+de la demande sur le marché mondial, tout en
+améliorant la performance de croissance à long 3.1. Données mobilisées
+terme (Lee et Zhang, 2022). Les économies plus
+Notre échantillon couvre les six 6 pays de
+diversifiées offrent une meilleure protection contre
+la CEMAC observés sur la période 1996-2018
+les chocs sectoriels spécifiques, notamment
+(moyenne annuelle). Toutes les mesures de volatilité
+aux premiers stades du développement. La
+sont calculées pour chaque pays en utilisant l’écart-
+question de la diversification des exportations est
+type pour chaque période successive de 4 ans des
+particulièrement intéressante pour les pays riches
+taux de croissance annuels (taux de croissance du
+en matières premières. La diversification des
+PIB par habitant) ou des niveaux annuels (termes
+exportations peut être souhaitable pour lisser les
+de l’échange). Il s’agit d’une procédure standard
+effets de la volatilité sur les recettes d’exportation
+de la littérature, en particulier lorsque les variables
+des produits de base, bien qu’à l’inverse elle puisse
+peuvent être soumises à des variations du cycle
+avoir un impact négatif sur les rentes de ressources
+économique comme c’est le cas pour les taux de
+dans le cas où elles sont transférées d’industries
+croissance par habitant (Haddad et al., 2013). Les
+plus rentables vers les moins rentables (Massol et
+données mobilisées dans cette étude proviennent
+Banal-Estañol, 2014 ; Zarach et Parteka, 2023).
+de trois principales sources. La Banque mondiale,
+Des études empiriques révèlent un effet négatif où sont extraites les données des indicateurs de
+mais pas toujours significatif de la diversification des développement et de gouvernance mondiale.
+exportations sur la volatilité. Par exemple, Cavalcanti La CNUCED (UNCTAD) fournit les indicateurs
+et al. (2012) ont constaté que la diversification des relatifs à la diversification économique. Le Fonds
+exportations exerce un effet tampon important monétaire international (FMI), via son portail de
+contre la volatilité des prix des matières premières données, duquel pour les différentes composantes
+dans les pays riches en ressources. De même, de l’indice de diversification ont été collectées.
+Haddad et al. (2013) ont montré que l’effet de
+La variable dépendante la volatilité des revenus
+l’ouverture sur la volatilité évolue avec le niveau
+est mesurée par l’écart-type du taux de croissance
+de diversification des exportations. Initialement
+du revenu réel ou du revenu par habitant. Plusieurs
+positif, il devient progressivement négatif à
+facteurs justifient la préférence de la croissance
+mesure que la diversification s’accroît. En outre, les
+de la production à la volatilité du niveau de la
+auteurs identifient un seuil en termes de mesure
+production. En effet, de nombreuses études (Malik
+de la diversification au-dessus duquel l’effet
+et Temple, 2009 ; Jansen et al., 2009 ; Balavac et
+change de sens. La plus grande diversification des
+Pugh, 2016 ; Avom et al., 2021) soutiennent que
+exportations devrait stabiliser la production, tandis
+le niveau de production détermine l’horizon de
+que des exportations plus concentrées devraient
+planification et qu’il est donc plus intéressant pour
+augmenter la volatilité de la production.
+les décideurs publics (Haddad et al., 2013). C’est
+A la suite de ce qui précède, l’objectif principal pour cette raison que cette variable a été retenue.
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 47
+Edition 2024
+
+--- Page 50 ---
+2. 4. ARTICLE THÉMATIQUE « EDITION SPÉCIALE »
+Les principales variables d’intérêt sont habitant pour pays i au cours de la période t.
+l’ouverture commerciale et la diversification des open est l’ouverture commerciale (somme des
+exportations. Plusieurs travaux captent l’ouverture exportations et des importations rapportées
+commerciale par la somme des exportations au PIB), div est la mesure de la diversification
+et des importations d’un pays, rapportée à son des exportations, (div*open) est l’interaction
+PIB (Easterly et al., 2001 ; Haddad et al., 2013). multiplicative entre l’ouverture commerciale et la
+La diversification des exportations quant à elle, diversification. X est un ensemble des variables de
+est principalement capturée dans différents contrôle comprenant l’investissement, la volatilité
+modèles par l’un des indicateurs de concentration des termes de l’échange, la volatilité de l’inflation
+suivants : indice Hirschman-Herfindahl ou indice et les indicateurs institutionnels.
+global Theil, et par les composantes de l’indice
+Comme signalé plus haut, nos variables d’intérêt
+Theil à travers les marges extensive et intensive.
+sont les variables d’ouverture commerciale et son
+La marge intensive de la diversification des
+interaction avec la diversification des exportations.
+exportations mesure l’inégalité entre les parts des
+Un coefficient négatif de la variable d’interaction
+branches d’exportation actives. Elle provoque une
+viendrait appuyer l’hypothèse selon laquelle la
+convergence des parts des branches déjà actives
+diversification agit comme un amortisseur de
+d’exportation sur une période, ce qui traduit une
+chocs, tandis qu’un signe positif indiquerait plutôt
+augmentation du volume mais pas du nombre
+qu’elle amplifie l’ouverture commerciale. Une
+de branches d’exportation. La marge extensive
+interprétation similaire s’applique à la variable
+de la diversification traduit une augmentation
+autonome de la diversification, mais à la différence
+du nombre de branches d’exportation ou
+que cet effet n’est pas conditionné à la nature du
+l’apparition de nouveaux marchés. Dans notre
+choc.
+échantillon, la marge intensive est également la
+composante prédominante de l’indice total de
+Pour les autres variables, et conformément aux
+Theil. Cette composante explique plus de 81% de
+conclusions précédentes de la littérature, nous
+l’indice total de Theil. Nous nous attendons à la
+nous attendons à ce que les chocs des termes de
+similitude des résultats de l’indice total de Theil
+l’échange soient positivement corrélés à la volatilité
+et de ceux obtenus par sa composante interne.
+de la croissance, en particulier dans les économies
+Les indicateurs de diversification des exportations
+de la CEMAC, où la diversification économique
+sont des données de commerce international
+est faible. De même, que la volatilité de l’inflation
+issues de la base de données US COMTRADE.
+et l’absence de stabilité politique devraient être
+Pour des raisons d’homogénéité entre les pays,
+positivement associés à une plus grande volatilité
+les données utilisées sont celles de la classification
+de la production, en partie en raison de leur
+SITC Rev 4, constituées de 772 produits.
+impact direct sur les activités économiques, mais
+aussi parce qu’ils sont susceptibles de perturber
+les décisions d’investissement et de créer des
+3.2. Méthodologie incertitudes économiques (Koren et Tenreyro,
+2007).
+Afin d’étudier l’effet de l’ouverture commerciale
+sur la volatilité de la production à différents
+niveaux de diversification des exportations, nous
+spécifions et estimons le modèle ci-après :
+L’estimation du modèle se fait à partir de
+Où la variable dépendante Vgrowth, est la
+deux estimateurs économétriques : l’estimateur
+variance du taux de croissance du PIB réel par
+REVUE DE STABILITE FINANCIERE
+48 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 51 ---
+à effet fixe16 et celui des variables instrumentales. (2019) qui ont examiné l’effet de la volatilité des
+L’estimateur à effet fixe permet la prise en compte termes de l’change dans les pays à faible revenu.
+des facteurs spécifiques à chaque pays, qui ne L’ouverture commerciale affecte positivement la
+varient pas dans le temps et qui peuvent affecter la volatilité de la production au seuil de 5%. Ce résultat
+volatilité de la croissance, et ainsi réduire le risque suggère qu’un accroissement de l’ouverture
+d’omission de variables. Toutefois, des problèmes commerciale contribue à atténuer la volatilité
+d’endogénéité peuvent se poser, notamment en de la croissance. Ce résultat est conforme aux
+raison de variables omises non capturées par les travaux d’Alimi et Aflouk (2017) qui ont également
+effets fixes pays, d’erreurs de mesure, ou encore trouvés une relation positive et significative
+de la causalité inverse. Par exemple, la volatilité entre l’ouverture commerciale dans les pays en
+de la production pourrait freiner la croissance du développement. En revanche, notre résultat
+PIB par habitant à long terme, comme soulignaient contraste avec ceux de Cavallo et Frankel (2008),
+Ramey et Ramey (1995). Pour adresser les qui montrent que l’ouverture commerciale réduit
+potentiels problèmes d’endogénéité, nous la vulnérabilité des pays développés aux arrêts
+utilisons l’estimateur des variables instrumentales soudains (“sudden stops”) des flux de capitaux.
+qui permet d’instrumenter les variables de droite Toutefois, cet effet s’inscrit dans un contexte
+avec les retards appropriés. particulier : les pays développés, notamment ceux
+de l’Union européenne, bénéficient d’une forte
+intégration régionale, laquelle contribue à amortir
+les chocs financiers.
+4. Analyse des résultats
+Le contrôle de la corruption est négativement et
+Cette section présente successivement les
+significativement lié à la volatilité de la croissance
+résultats de la relation entre ouverture commerciale,
+au seuil de 5%, traduisant qu’une amélioration
+diversification et volatilité de la croissance, puis les
+du contrôle de la corruption dans la CEMAC
+tests de robustesse.
+s’accompagne d’une baisse de la volatilité de la
+croissance. Ce résultat nous semble pertinent en
+4.1. Analyse des principaux résultats
+raison des niveaux élevés de corruption dans la
+Le tableau 17 présente les résultats des zone CEMAC (Haddad et al., 2013 ; Balavac et al.,
+estimations obtenus par la méthode des effets 2016). Ce qui implique qu’une meilleure maitrise
+fixes en utilisant la correction de Driscoll-Kraay de la corruption permettrait de mieux faire face à la
+sur les écart-types. Ce tableau nous montre une volatilité de la production. Ce résultat est le même
+relation positive et significative entre l’ouverture que ceux obtenus par Balavac et Pugh (2016) dans
+commerciale et la volatilité de la production le cadre des économies en transition. L’indice de
+quel que soit la spécification retenue. Ainsi, une diversification de Theil est négativement associé
+hausse de 1% de l’ouverture commerciale accroit à la volatilité. Ce qui implique qu’une amélioration
+la volatilité de la croissance d’environ 9 points de de la diversification dans la CEMAC permet
+pourcentage. La colonne (1) de ce tableau présente de réduire la volatilité. De plus, en croisant la
+les résultats obtenus lorsque nous utilisons l’indice diversification avec l’ouverture, son coefficient
+de Theil comme indicateur de la diversification. Il est négatif et significatif, impliquant qu’une plus
+apparait que la volatilité des termes de l’échange grande diversification associée à l’ouverture
+affecte positivement celle de la production. Il commerciale permet de réduire la volatilité de la
+montre spécifiquement qu’une hausse de 1% de production.
+la volatilité des termes de l’échange entraine une
+amélioration de la volatilité macroéconomique de
+près de 0,4 point de pourcentage. Ce résultat est
+bien conforme à celui obtenu par Kpodar et al.
+16 La principale raison du choix du modèle à effet fixe par opposition à L’estimateur à effet
+aléatoire est la structure de notre échantillon. L’estimation effet fixe répond à tous les
+doutes que nous pouvons avoir concernant la corrélation de nos variables indépendantes
+avec les effets spécifiques à chaque pays et donc par rapport à une source potentielle de
+biais d’endogénéité (variable omise).
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 49
+Edition 2024
+
+--- Page 52 ---
+2. 4. ARTICLE THÉMATIQUE « EDITION SPÉCIALE »
+Tableau 17 : Estimation de la relation ouverture-volatilité par la méthode des effets fixes
+VARIABLES (1) (2) (3) (4)
+Volatilité termes de l’échange 0,454** 0,266** 0,274 0,232*
+(0,0578) (0,0705) (0,131) (0,134)
+Ouverture 9,41** 3,018* 2,442** 3,730**
+(5,234) (1,134) (0,637) (1,074)
+Volatilité inflation 0,253 0,530* 0,388** 0,471*
+(0,226) (0,214) (0,0990) (0,195)
+Investissement -1,419 -1,876 -0,691 -1,146
+(0,818) (1,356) (0,757) (1,204)
+Control Corruption -2,779** -2,518** -5,301*** -4,692**
+(0,899) (0,828) (0,811) (1,253)
+Diversification -5,95**
+(3,753)
+Diversification*ouverture -3,407**
+(0,991)
+Concentration -0,932
+(15,51)
+Concentration*ouverture 0,747
+(3,375)
+Extensive -0,0375
+(0,507)
+Extensive*ouverture 0,280
+(0,208)
+Intensive -3,247**
+(0,770)
+Constant -8,34** -7,853 -13,15*** -11,13***
+(4,70) (3,843) (2,336) (2,028)
+Observations 28 28 28 28
+R2 0,595 0,447 0,555 0,496
+Nombre de groupes 5 5 5 5
+Ecart-type avec correction de Driscoll-Kraay entre parenthèse
+*** p<0,01, ** p<0,05, * p<0,1
+Source : Construction des auteurs
+La colonne (2) expose les résultats obtenus de diversification capté par la marge extensive
+en prenant l’indice de concentration comme n’est pas significatif. La colonne (4), quant à elle,
+indicateur de diversification. Nous relevons qu’une présente l’approximation de la diversification par
+volatilité de l’inflation accroit celle de la croissance. la marge intensive. Cet indicateur ressort négatif
+Le contrôle de la corruption permet de mieux et significatif au seuil de 5% ce qui traduit le fait
+gérer la volatilité. De plus, on constate que l’indice qu’une plus grande égalité dans les parts des
+de diversification est négatif et non significatif. Il branches d’exportation actives permet d’accroitre
+en est de même pour la colonne (3) où l’indicateur la résilience des économies de la CEMAC17.
+17 Le signe de ce coefficient est conforme car la marge intensive représente près de 80% de l’indice de diversification.
+REVUE DE STABILITE FINANCIERE
+50 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 53 ---
+4.2. Contrôle de robustesse sur une période allant jusqu'à 2 ans. La littérature
+existante sur les variables instrumentales montre
+Afin de traiter l’endogénéité potentielle
+que les différences retardées de la variable
+des variables, nous mobilisons la méthode des
+endogène présumée peuvent servir d'instruments
+variables instrumentales. En effet, l’endogénéité
+appropriés, à condition qu'elles passent les tests
+de l'ouverture pourrait exister dans une régression
+de pertinence, de faiblesse et de restrictions de
+de la volatilité si le gouvernement perçoit
+suridentification (Adam et al., 2023). En ce qui
+l'ouverture comme un mécanisme de transmission
+concerne la pertinence, nous soutenons que les
+de chocs qui provoque la volatilité et poursuit
+variations de l’ouverture commerciale au cours
+des politiques qui affectent le niveau d'ouverture
+des deux années précédentes sont susceptibles
+commerciale. De même, les décideurs politiques
+d'avoir un impact direct sur le niveau d’ouverture
+peuvent mener des politiques qui affectent
+de l'année en cours : une ouverture plus élevée
+simultanément la libéralisation du commerce et la
+aujourd'hui est plus susceptible de se traduire par
+volatilité de la production, comme la privatisation
+une ouverture plus élevée l'année suivante.
+et la libéralisation financière. De plus, les variables
+institutionnelles peuvent également être source Les résultats de ces estimations sont contenus
+d'endogénéité. La relation entre les institutions dans le tableau ci-après. Chaque colonne de ce
+et la volatilité peut être sujette à un biais de tableau présente les résultats lorsqu’un indicateur
+simultanéité, car il n'est pas évident de savoir si de la diversification est utilisé. Les résultats sont
+de meilleures institutions apportent la stabilité ou conformes à ceux obtenus précédemment avec
+si la stabilité améliore la qualité des institutions. quelques petites différences.
+Pour toutes ces raisons, nous recourons dans le
+Premièrement, les résultats confirment la
+cadre de cet article à la méthode des variables
+relation positive et significative entre l’ouverture
+instrumentales avec la correction de Newey-
+commerciale et la volatilité de la production
+West de l’autocorrélation et l’hétéroscédasticité
+dans les pays de la CEMAC. Deuxièmement,
+(Hoechle 2007) afin de corriger ces problèmes
+la marge extensive est significative et négative
+d’endogénéité. La littérature utilise une série
+au seuil de 5% (colonne 3). Ce résultat implique
+d'instruments pour la qualité institutionnelle
+qu’une augmentation du nombre de branches
+tels que la mortalité des colons, la densité de la
+d’exportation ou l’apparition de nouveaux marchés
+population et les langues européennes (Haddad
+pourrait entrainer une baisse de la volatilité. De
+et al. 2013)18 . La densité de population historique
+plus, lorsque l’on croise la marge extensive avec
+peut servir d’instrument valide pour les variables
+l’ouverture commerciale, son coefficient est
+institutionnelles, sous deux conditions clés.
+négatif et significatif au seuil de 5%. Une hausse de
+Premièrement, la densité influence bien la qualité
+1% de l’ouverture commerciale associée à un plus
+des institutions, comme le suggère la littérature
+grand nombre de branches d’exportation entraine
+(Acemoglu et Robinson, 2001), en favorisant des
+une réduction de la volatilité d’environ 2,4 points
+États plus centralisés et une meilleure reddition
+de pourcentage. Ce résultat est conforme à ceux
+des comptes. Deuxièmement, son exogénéité est
+obtenus par Haddad et al. (2013) qui analysent
+plausible, car la densité passée ne devrait affecter
+également la relation entre l’ouverture et la
+la volatilité macroéconomique contemporaine
+volatilité de la production.
+qu’indirectement, via les institutions.
+Pour instrumenter l’ouverture commerciale,
+nous utilisons les valeurs décalées et différenciées
+de la principale variable indépendante (Open)
+18 Dans le cadre de cette étude nous avons-nous avons utilisé la densité de population (voir Haddad et al., 2013)
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 51
+Edition 2024
+
+--- Page 54 ---
+2. 4. ARTICLE THÉMATIQUE « EDITION SPÉCIALE »
+Tableau 18 : estimation de la relation ouverture volatilité par la méthode IV
+VARIABLES (1) (2) (3) (4)
+Investissement -1,419 -3,185* 0,818 -1,401
+(1,193) (1,581) (1,173) (1,212)
+Control Corruption -2,779** -6,267** -2,537 -4,437**
+(0,985) (2,379) (1,933) (2,106)
+Ouverture 9,41* 3,486*** 5,012*** 3,610***
+(5,869) (0,923) (1,353) (1,089)
+Volatilité termes de l’échange 0,454*** 0,433** 0,165* -0,236
+(0,133) (0,198) (0,073) (0,201)
+Volatilité inflation 0,253 0,820** 0,310 0,500**
+(0,306) (0,290) (0,203) (0,222)
+Diversification 5,95**
+(2,581)
+Diversification*ouverture -3,407*
+(1,837)
+Concentration*ouverture 1,246
+(0,874)
+Extensive -5,07**
+(2,773)
+Extensive*ouverture -2,420**
+(1,157)
+Intensive -0,658*
+(0,411)
+Constant -8,34** -6,256* -25,58*** -11,30***
+(4,21) (3,384) (5,978) (3,718)
+Observations 28 28 28 28
+Ecart-type avec correction de Newey-West entre parenthèse
+*** p<0,01, ** p<0,05, * p<0,1
+Source : Construction des auteurs
+Le tableau A1 en annexe présente les résultats profond. Ce résultat est conforme à ceux obtenus
+avec intégration de nouvelles variables. Les par Kpodar et al. (2019). De plus, lorsque nous
+résultats obtenus confirment bien la relation introduisons les variables institutionnelles, nous
+positive et significative entre la volatilité de constatons que la stabilité politique permet de
+la production et l’ouverture commerciale. Les mieux gérer la volatilité de la production. Une
+colonnes 5-8 de ce tableau montrent la relation amélioration de la stabilité politique dans les
+négative et statistiquement significative entre le pays de la CEMAC leur permettrait d’améliorer
+développement financier capté ici par le crédit leur résilience à la volatilité de la production. Nos
+domestique accordé au secteur privé. Ainsi, une résultats suggèrent également que l’amélioration
+amélioration du développement financier entraine du cadre institutionnel permet de réduire la
+une baisse de la volatilité de la production. volatilité. Cependant, son effet est moins accentué
+Les pays qui parviennent à mieux faire face à la que l’amélioration de la stabilité politique.
+volatilité sont ceux ayant un système financier
+REVUE DE STABILITE FINANCIERE
+52 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 55 ---
+5. Conclusion et implications de l’analyse met en lumière le rôle significatif de la
+qualité des institutions dans la réduction de la
+politique économique
+volatilité de la production. En particulier, le déficit
+Cette étude s’est attachée à analyser les de droits politiques et les dysfonctionnements
+mécanismes par lesquels l’ouverture commerciale des systèmes politiques apparaissent comme des
+influe sur la volatilité de la production. Plus facteurs institutionnels majeurs de vulnérabilité au
+précisément, elle visait à déterminer si l’effet sein de la CEMAC.
+de l’ouverture varie en fonction du degré de
+Ces résultats nous permettent de suggérer
+diversification des exportations. L’analyse a
+quelques recommandations de politique
+porté sur les déterminants de la volatilité de
+économique, notamment le renforcement de la
+la production dans les six pays membres de la
+diversification des exportations. En effet, étant
+CEMAC sur la période 1996–2018. La revue de
+donné que la diversification atténue les effets de
+la littérature a permis de mettre en évidence une
+la volatilité induite par l’ouverture commerciale,
+possible endogénéité de l’ouverture commerciale,
+les pays de la CEMAC devraient mettre en œuvre
+ainsi que de la diversification. Pour en tenir
+des politiques industrielles actives visant à élargir
+compte, deux stratégies économétriques ont
+la base exportatrice au-delà des produits de base
+été mobilisées : l’estimation à effets fixes (EF) et
+traditionnels. Cela inclut le soutien aux secteurs
+l’estimation par variables instrumentales (IV). Les
+manufacturiers, à l’agriculture de transformation,
+résultats obtenus sont globalement conformes aux
+et aux services exportables. Pour y parvenir, il
+attentes en termes de signe et de significativité. Il
+convient d’adopter une approche sélective de
+ressort de l’analyse que la relation entre ouverture
+l’ouverture commerciale. Les résultats montrent
+commerciale et volatilité de la production
+que l’ouverture commerciale, en l’absence de
+dépend largement du degré de diversification
+diversification, peut accroître la volatilité. Il est
+des exportations. Plus précisément, l’ouverture
+donc recommandé de ne pas poursuivre une
+tend à accroître la volatilité dans les pays de la
+libéralisation commerciale indiscriminée, mais
+CEMAC, mais cet effet est modulé lorsque la base
+de l’accompagner de mesures d’appui à la
+exportatrice est suffisamment diversifiée.
+compétitivité des secteurs non traditionnels et
+Les résultats suggèrent ainsi que la diversification d’instruments de gestion des risques extérieurs. De
+des produits exportés constitue un mécanisme même, le renforcement de l’intégration régionale
+de protection efficace contre les chocs mondiaux dans la CEMAC devrait être une priorité. D’après
+spécifiques à certains secteurs. En revanche, les les études théoriques et empiriques inspirées de
+résultats relatifs à la diversification des marchés l’expérience de l’Union Européenne, une meilleure
+apparaissent plus nuancés. Par ailleurs, l’étude intégration commerciale et financière réduit la
+montre qu’une ouverture commerciale élevée, vulnérabilité aux chocs externes, à travers la libre
+combinée à une forte diversification, permet circulation des biens, des services, des capitaux
+d’atténuer les effets négatifs de la volatilité. Ces et des informations. Elle favorise la résilience
+conclusions se révèlent robustes à une série collective face à la volatilité.
+de tests, incluant l’introduction de variables
+de contrôle supplémentaires et l’utilisation de
+mesures alternatives des variables clés. Enfin,
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 53
+Edition 2024
+
+--- Page 56 ---
+2. 4. ARTICLE THÉMATIQUE « EDITION SPÉCIALE »
+6. Références bibliographiques
+[1] ACEMOGLU, D., & ROBINSON, J. A. (2013), « Economics versus politics: Pitfalls of pol-
+icy advice”, Journal of Economic perspectives, 27(2), 173-192.
+[2] ADAM, A., GARAS, A., KATSAITI, M. S., & LAPATINAS, A. (2023), « Economic complexity and jobs:
+an empirical analysis”, Economics of Innovation and New Technology, 32(1), 25-52.
+[3] AGHION, P., BACCHETTA, P., & BANERJEE, A. (2004), “Financial development and the instability of
+open economies”, Journal of monetary economics, 51(6), 1077-1106.
+[4] ALIMI, NABIL. (2016), “Volatility and Growth in Developing Countries: An Asymmetric Effect”, The
+Journal of Economic Asymmetries 14: 179–188.
+[5] ALLEN, T., & ATKIN, D. (2022), “Volatility and the Gains from Trade”, Econometrica, 90(5), 2053-
+2092.
+[6] ANDREWS, DAN, and DANIEL REES (2009), “Macroeconomic Volatility and terms of trade
+Shocks”, Technical report No. RDP 2009-05, Reserve Bank of Australia.
+[7] AVOM, D., KAMGUIA, B., NGAMENI, J. P., & NJANGANG, H. (2021), “How does terms of trade
+volatility affect macroeconomic volatility? The roles of financial development and institutions”, Interna-
+tional Economics, 168, 98-114.
+[8] BALAVAC, M., & PUGH, G. (2016), “The link between trade openness, export diversification, institu-
+tions and output volatility in transition countries”, Economic Systems, 40(2), 273-287.
+[9] BEJAN, M. (2006), “Trade Openness and Output Volatility”, MPRA Paper 2759, University Library
+of Munich, Germany.
+[10] BEKAERT, GEERT, CAMPBELL R. HARVEY, and CHRISTIAN LUNDBLAD (2006), “Growth Volatility
+and Financial Liberalization.”, Journal of International Money and Finance 25(3): 370–403.
+[10] CAI, W., RAVIKUMAR, B., & RIEZMAN, R. G. (2015), “The quantitative importance of openness in
+development”, Economic Inquiry, 53(4), 1839-1849.
+[11] CALDERÓN, C. and SCHMIDT-HEBBEL, K. (2008), “Openness and Growth Volatility”, Working
+Papers Central Bank of Chile No. 483, Central Bank of Chile.
+[12] CALDERÓN, C., LOAYZA, N. and SCHMIDT-HEBBEL, K. (2005), “Does openness imply greater ex-
+posure?”, Policy Research Working Paper Series 3733, The World Bank, Washington D.C.
+[13] CAVALCANTI, T.V.de V, MOHADDEA, K and RAISSI, M. (2012), “Commodity Price Volatility and
+the Sources of Growth”, IMF Working Papers 12/12, International Monetary Fund.
+[14] CAVALLO, E. A., & FRANKEL, J. A. (2008), “Does openness to trade make countries more vulner-
+able to sudden stops, or less? Using gravity to establish causality”, Journal of International Money and
+Finance, 27(8), 1430-1452.
+[15] CAVALLO, E.A. (2008), “Output Volatility and Openness to Trade: a Reassessment”, Economía,
+9(1): 105-152.
+[16] DAI, S., TANG, D., LI, Y., & LU, H. (2025), “Digital trade, trade openness, FDI, and green total fac-
+tor productivity”. International Review of Financial Analysis, 97, 103777.
+[17] DI GIOVANNI, J. and LEVCHENKO, A. A. (2009), “Trade Openness and Volatility”, The Re-
+view of Economics and Statistics, 91(3): 558-85.
+REVUE DE STABILITE FINANCIERE
+54 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 57 ---
+[18] DRISCOLL, J.C., and A.C. KRAAY. (1998), “Consistent covariance matrix estimation with spatially
+dependent panel data” Review of Economics and Statistics 80: 549–60.
+[19] EASTERLY, W.R., ISLAM, H. and STIGLITZ, J.E. (2001), “Explaining growth volatility, Annual World
+Bank Conference on Development Economics”, Washington. D.C.
+[20] FRANKEL, J A. and DAVID ROMER. (1999) “Does Trade Cause Growth?”, American Economic Re-
+view, 89 (3), 379–99.
+[21] GRUSS, B., NABAR, M., and POPLAWSKI-RIBEIRO, M. (2020), “Growth accelerations and reversals
+in emerging market and developing economies: External conditions and domestic amplifiers”, Open
+Economies Review.
+[22] HADDAD, M., LIM, J.J., PANCARO, C. and SABOROWSKI, C. (2013), “Trade openness reduces
+growth volatility when countries are well diversified”, Canadian Journal of Economics, 46(2): 765-790.
+[23] HOECHLE, D. (2007), “Robust standard errors for panel regressions with cross-sectional depen-
+dence”, The Stata Journal 7: 281–312.
+[24] IMAM, P. A., GRANZIERA, E., and FUNKE, M. N. (2008), Terms of trade shocks and economic re-
+covery” Number 8-36. International Monetary Fund.
+[25] JANSEN, M., BACCHETTA. M., LENNON, C. and PIERMARTINI, R. (2009), “Exposure to Exter-
+nal Country Specific Shocks and Income Volatility”, CEPR Discussion Papers 7123, Centre for Econom-
+ic Policy Research.
+[26] KOREN, M. and S. TENREYRO. (2007), “Volatility and Development,” The Quarterly Journal of
+Economics, Vol. 122, 243–87.
+[27] KPODAR K, LE GOFF, M and SINGH, R. (2019), “Financial Deepening, Terms of Trade Shocks, and
+Growth Volatility in Low-Income Countries”, IMF Working Papers.
+[28] KPODAR, K., Le Goff, M., & Singh, R. J. (2018), “Financial deepening, terms of trade shocks, and
+growth volatility in low-income countries”, Revue d’Economie du Développement, 26(4), 27-68.
+[29] LEE, D., & ZHANG, H. (2022), “Export diversification in low-income countries and small states: Do
+country size and income level matter?”, Structural Change and Economic Dynamics, 60, 250-265.
+[30] MALIK, A. and TEMPLE, J.R.W. (2009), “The geography of output volatility”, Journal of Develop-
+ment Economics, 90(2): 163-178.
+[31] MASSOL, O. and BANAL-ESTANOL, A. (2014), “Export diversification and resource-based indus-
+trialization: the case of natural gas”, European Journal of Operational Research, 237(3): 1067-1082.
+[32] MODIGLIANI, F., & MILLER, M. H. (1958), “The cost of capital, corporation finance and the theory
+of investment”, American economic review, 48(3), 261-297.
+[33] RAMEY, G. & RAMEY, V. A. (1995), “Cross-Country Evidence on the Link Between Volatility and
+Growth”, American Economic Review, 85(5), 1138–1151.
+[34] RAZIN, A., SADKA, E., and COURY, T. (2003), “Trade openness, investment instability and terms-
+of-trade volatility”, Journal of International Economics, 61(2), 285-306.
+[35] ZARACH, Z. H., & PARTEKA, A. (2023), “Export diversification and dependence on natural re-
+sources”, Economic Modelling, 126, 106436.
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 55
+Edition 2024
+
+--- Page 59 ---
+5
+ANNEXE
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE 57
+Edition 2024
+
+--- Page 60 ---
+5. ANNEXES
+A1 : Estimation des effets de l’ouverture sur la volatilité par les variables instrumentales
+Indicateurs de
+Div Theil Extensive Intense Concentration Div Theil Extensive Intense Concentration
+Diversification
+VARIABLES (1) (2) (3) (4) (5) (6) (7) (8)
+Vol terme ech -0.000320 0.007** 0.0006 0.0005* 0.0005 0.008* 0.006* 0.011**
+(0.000568) (0.0004) (0.0005) (0.0004) (0.0005) (0.00426) (0.004) (0.005)
+Ouverture 0.0643* 0.0403** -0.070 0.026* 0.169** 0.054*** 0.0761* 0.03*
+(0.043) (0.0244) (0.054) (0.02) (0.05) (0.01) (0.056) (0.02)
+Vol inflation 0.0116** 0.015*** 0.01*** 0.01*** 0.02*** 0.022*** 0.0166*** 0.2***
+(0.00507) (0.004) (0.003) (0.0) (0.003) (0.003) (0.004) (0.05)
+Dev Fin 0.0163 -0.09 -0.067 -0.094 -0.20*** -0.16* -0.071 -0.23**
+(0.117) (0.07) (0.08) (0.09) (0.06) (0.08) (0.113) (0.10)
+Diversification 6.625** 5.302 -10.0* 10.9 13.*** 10.1*** -10.61* 45.36
+(2.967) (5.508) (5.1) (28.0) (3.90) (3.367) (5.337) (36.62)
+Diversification*
+-1.019* -1.104 -2.1* -2.38 -2.6*** -2.3** -2.33* -9.37
+Ouverture
+(0.666) (1.39) (1.1) (6.41) (0.9) (0.8) (1.21) (8.19)
+Qual INST -0.958* -0.79 -1.32 -0.93
+(0.10) (1.61) (0.811) (0.98)
+Stab pol -1.42** -1.0** -0.07* 0.8
+(0.63) (0.4) (0.5) (0.7)
+Constant -15.55*** -2.473 9.004* -0.82 -16.5*** -1.4 10.** -0.2
+(5.306) (1.598) (4.980) (1.95) (5.45) (1.668) (4.68) (2.1)
+Observations 28 28 28 28 28 28 28 28
+Ecart-type entre parenthèse avec correction de Newey-West
+*** p<0.01, ** p<0.05, * p<0.1
+A2 : statistiques descriptives et sources des données
+Ecart
+Variable Obs moy Min Max Sources
+type
+Volatilité du PIB 42 6.827 10.553 .172 64.178 Calcul des auteurs
+Ouverture commerciale 39 79.79 34.479 33.454 141.229 WDI
+Diversification des export 42 5.203 .599 3.89 6.015 FMI
+Marge extensive 42 1.154 .931 .038 2.375 FMI
+Marge intensive 42 4.049 1.097 2.349 5.939 FMI
+Indice de concentration 42 .647 .175 .343 .894 CNUCED Stat
+Volatilité termes de l’échange 42 14.163 13.259 .226 54.863 Calcul des auteurs
+Volatilité de l’inflation 41 2.903 2.183 .462 10.271 Calcul des auteurs
+Investissement 39 25.411 12.23 7.595 72.422 WDI
+Développement financier 42 7.465 3.542 2.13 15.426 WDI
+Control de Corruption 42 -1.158 .214 -1.572 -.592 WGI
+Stabilité Politique 42 -.702 .752 -2.124 .64 WGI
+Qualité de la règlementation 42 -1.025 .425 -1.647 .235 WGI
+REVUE DE STABILITE FINANCIERE
+58 EN AFRIQUE CENTRALE
+Edition 2024
+
+--- Page 62 ---
+Conception, mise en page et impression :
+SERVICE DE L’IMPRIMERIE DE LA BEAC
+736 Avenue Monseigneur Vogt - B.P. 1917, Cameroun
+Téléphone : (237) 22 23 40 30/60
+Fax : (237) 22 23 33 29/50
+E-mail : beac@beac.int - Site web : www.beac.int
+kipeerF
+©
+sotohp
+stidérC
+REVUE DE STABILITE FINANCIERE
+EN AFRIQUE CENTRALE

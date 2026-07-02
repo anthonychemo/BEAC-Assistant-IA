@@ -1,0 +1,68 @@
+Source PDF : Courbe_Taux_Rendement_Titres_Publics_Cameroun_avril_et_mai_2017_d17facd4.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbe_Taux_Rendement_Titres_Publics_Cameroun_avril_et_mai_2017_d17facd4.pdf
+Date extraction : 15/06/2026 20:27:56
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS
+DE L’AFRIQUE CENTRALE
+Courbe des taux de rendement des titres publics camerounais
+avril 2017
+8,00
+7,00
+6,00
+5,52 5,52 5,52 5,52 5,52
+5,31
+%
+5,00
+n
+5,00
+e
+t
+n
+e
+m avr-17
+e
+d
+n 4,00
+e
+R
+3,52
+3,06
+3,00
+2,00
+1,00
+3M 6M 12M 18M 2A 3A 3,5A 4A 5A
+Maturité
+
+--- Page 2 ---
+BANQUE DES ETATS
+DE L’AFRIQUE CENTRALE
+Courbe des taux de rendement des titres publics camerounais
+mai 2017
+8,00
+7,34
+7,00
+6,33
+6,00
+5,85
+5,48
+%
+n
+5,00
+e 4,74
+t
+n
+e m 4,38 mai-17
+e
+d
+n 4,00 4,01
+e
+R
+3,59
+3,03
+3,00
+2,00
+1,00
+3M 6M 12M 18M 2A 3A 3,5A 4A 5A
+Maturité

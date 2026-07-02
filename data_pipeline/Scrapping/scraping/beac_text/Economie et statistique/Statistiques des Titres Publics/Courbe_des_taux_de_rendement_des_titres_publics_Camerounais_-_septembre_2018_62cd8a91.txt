@@ -1,0 +1,62 @@
+Source PDF : Courbe_des_taux_de_rendement_des_titres_publics_Camerounais_-_septembre_2018_62cd8a91.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbe_des_taux_de_rendement_des_titres_publics_Camerounais_-_septembre_2018_62cd8a91.pdf
+Date extraction : 15/06/2026 20:25:47
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS
+DE L’AFRIQUE CENTRALE
+Courbe des taux de rendement des titres publics camerounais
+septembre 2018
+8,00
+7,57
+7,00
+6,55
+6,00 6,03
+% 5,49
+N
+E 5,00 sept-18
+T
+N
+E
+4,41
+M
+E
+D 4,00
+N 3,87
+E
+R
+3,32
+3,00
+2,78
+2,59
+2,00
+1,00
+3M 6M 12M 18M 2A 3A 3,5A 4A 5A
+MATURITÉ
+
+--- Page 2 ---
+"
+Rendements par maturite (en %) des titres d'Etat camerounais
+3 mois 2,59
+6 mois 2,78
+1 an 3,32
+1,5 an 3,87
+2 ans 4,41
+3 ans 5,49
+3,5 ans 6,03
+4 ans 6,55
+5 ans 7,57
+Rendements par maturitc (en %) des titres d'Etat gabonais
+. . .
+'oh"{inll•••••I.IIl~
+3 mois 3,43
+6 mois 3,75
+1an 8,58
+1,5 an 6,79
+2 ans 5,01
+3 ans 17,09
+3,5 ans 14,57
+4 ans 12,05
+5 ans 7,00
+Source: BEAC

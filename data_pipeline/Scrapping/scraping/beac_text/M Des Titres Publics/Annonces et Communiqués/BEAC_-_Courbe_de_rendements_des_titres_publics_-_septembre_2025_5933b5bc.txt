@@ -1,0 +1,7 @@
+Source PDF : BEAC_-_Courbe_de_rendements_des_titres_publics_-_septembre_2025_5933b5bc.pdf
+Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\BEAC_-_Courbe_de_rendements_des_titres_publics_-_septembre_2025_5933b5bc.pdf
+Date extraction : 15/06/2026 19:36:46
+======================================================================
+
+[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
+Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

@@ -1,70 +1,61 @@
-# ============================================================
-# Configuration du pipeline BEAC RAG
-# Les secrets/chemins machine sont dans .env (voir .env.example)
-# ============================================================
-
 project:
   name: "BEAC RAG Chatbot"
-  language: "fr"   # langue principale des reponses
+  language: "fr"
 
-# ---- Ingestion ----
 ingestion:
-  # Extensions traitees
   pdf_extensions: [".pdf"]
   excel_extensions: [".xls", ".xlsx"]
-  # OCR : seuil de caracteres natifs en-dessous duquel on bascule en OCR
   ocr_text_threshold: 100
-  ocr_dpi: 200           # 200 DPI suffit et 2x plus rapide
-  ocr_workers: 4         # 0 = auto (cpu_count // 2). Parallelise l'OCR page par page.
-  image_extract_dir: "data/extracted_images"  # ou null pour desactiver
-  # Nombre de fichiers traites par lot (memoire)
+  ocr_dpi: 200
+  ocr_workers: 4
+  image_extract_dir: "data/extracted_images"
   batch_size: 10
 
-# ---- Chunking ----
 chunking:
-  chunk_size: 400       # tokens approx par chunk (moins de chunks)
+  chunk_size: 400
   chunk_overlap: 90
-  min_chunk_chars: 50    # ignore les chunks trop courts
+  min_chunk_chars: 50
 
-# ---- Embeddings ----
 embeddings:
   model: "BAAI/bge-m3"
   device: "cpu"
-  dimension: 1024        # dimension de bge-m3
-  batch_size: 16         # batch plus gros = meilleure saturation CPU
+  dimension: 1024
+  batch_size: 16
   normalize: true
 
-# ---- Vector store (pgvector) ----
 vector_store:
   table: "chunks"
-  index_type: "hnsw"     # hnsw (rapide) ou ivfflat
+  index_type: "hnsw"
   hnsw_m: 16
   hnsw_ef_construction: 64
-  distance: "cosine"     # cosine | l2 | ip
+  distance: "cosine"
 
 # ---- Retrieval ----
+# top_k reduit 8->5 : moins de chunks = embedding query + reranking plus rapide
 retrieval:
-  top_k: 8              # chunks vectoriels retournes
-  sql_max_rows: 50       # lignes max d'une requete SQL stats
-  min_similarity: 0.35    # seuil de pertinence
+  top_k: 7
+  sql_max_rows: 20
+  min_similarity: 0.35
 
 # ---- LLM ----
+# num_ctx 4096->2048 : divise la RAM utilisee et accelere de ~30%
+# max_tokens 1024->512 : reponses plus courtes, 2x plus rapides
+# num_thread 8 : utilise tous les coeurs logiques disponibles
 llm:
   provider: "ollama"
-  model: "llama3.1:8b-instruct-q4_K_M"   # modèle principal
-  fast_model: "qwen2.5:3b-instruct-q4_K_M"  # modèle rapide pour questions simples
+  model: "llama3.1:8b-instruct-q4_K_M"
+  fast_model: null
   temperature: 0.1
-  num_ctx: 4096
-  max_tokens: 1024
-  keep_alive: "1h"       # garde le modele en RAM
+  num_ctx: 3072
+  max_tokens: 512
+  num_thread: 8
+  keep_alive: "2h"
 
 cache:
-  max_size: 100
-  ttl_seconds: 3600   # 1h — adapter selon la fraîcheur des données BEAC
+  max_size: 200
+  ttl_seconds: 7200
 
-# ---- Query router ----
 router:
-  # Mots-cles qui suggerent une question "donnees chiffrees" (-> SQL)
   data_keywords:
     - taux
     - inflation

@@ -1,0 +1,837 @@
+Source PDF : BEAC_occasional_paper_N°02_20_-_Estimation_empirique_des_courbes_OG-DG_de_l'économie_camer_3ae40335.pdf
+Chemin original : scraping\beac_data\Publications\Occasional papers\BEAC_occasional_paper_N°02_20_-_Estimation_empirique_des_courbes_OG-DG_de_l'économie_camer_3ae40335.pdf
+Date extraction : 15/06/2026 21:24:56
+======================================================================
+
+--- Page 1 ---
+B E A C O C C A S I O N A L P A P E R
+Estimation empirique des courbes « OG-DG » de l’économie
+camerounaise depuis 2001
+Nelida A. CHUMO MATA et Evrard Ulrich MOUNKALA
+BOP N°02/20
+Les idées et opinions présentées dans cette étude sont celles des auteurs et ne reflètent pas nécessairement
+la position officielle de la Banque des Etats de l’Afrique Centrale (BEAC) ou de toute autre institution
+rattachée.
+DIRECTION DES ETUDES, DE LA RECHERCHE ET DES STATISTIQUES
+
+--- Page 2 ---
+Estimation empirique des courbes “OG-DG” de
+l’économie camerounaise depuis 2001
+NelidaA.ChumoMata,chumo@beac.int &EvrardUlrichH.Mounkala,mounkala@beac.int
+2019-09-24
+Résumé
+CepapierimplémentelaméthodologiedeGamber(1996)pourconstruireempiriquementunmodèle“OG-DG”
+destinéàl’analysedesfluctuationsmacroéconomiquesdecourttermeauCameroun,envuederenforcerledispositif
+analytiquedelapolitiquemonétairedelaBEAC.Lemodèleainsidérivémetenévidencedescourbes“OG”et“DG”
+avecrespectivementunepentepositiveetunepentenégativeconformémentàlathéorieéconomique.Deplus,ce
+modèlerépliquesuffisammentlestroisfaitsstylisésprécisésenéconomiepourleCameroun,àsavoirlapertinencedes
+chocsd’offredansl’explicationdesfluctuationsducycledesaffaires,etlescaractèresprocycliqueetcontracycliquedes
+mouvementsdesprixenréponserespectivementauxchocsdedemandeetauxchocsd’offre.
+Motsclés:Fluctuationsmacroéconomiques,offreglobale-demandeglobale,analyseconjoncturelle,VARstructurel.
+Abstract
+InthispaperweimplementGamber’s(1996)methodologytoconstructanempirical“OG-DG”modelforshort-
+termmacroeconomicfluctuationsanalysisinCameroon,inordertostrengthenBEAC’smonetarypolicyanalytical
+framework.Thederivedmodelshows“OG”and“DG”curveswithcoherentslopesasdescribedineconomictheory.
+Moreover,ourmodelsufficientlyreplicatesthethreestylizedfactsspecifiedineconomicsforCameroon,namelythe
+relevanceofsupplyshocksintheexplanationofshort-termfluctuationsoftherealbusinesscycle(RBC),andthe
+pro-cyclicalandcounter-cyclicalcharacteristicsofpricemovementsrespectivelyinducedinresponsetodemand
+shocksandsupplyshocks.
+Keywords:Macroeconomicfluctuations,aggregatesupply-aggregatedemand,businesscycleanalysis,structural
+VAR.
+ClassificationJEL:C32,E12,E32.
+MmeChumoMata, Auteur, est Adjointe au Directeur de la Stabilité Financière, des Activités Bancaires et du
+FinancementdesEconomies(DSFABFE)ausiègedelaBEAC.
+M.Mounkala,Auteurcorrespondant,estAdjointauDirecteurdesEtudes,delaRechercheetdesStatistiques(DERS)
+ausiègedelaBEAC.
+1
+
+--- Page 3 ---
+“Macroeconomicshasprogressedbeyondthestageofsearchingforatheorytothestageofderivingthe
+implicationsoftheory.Inthisway,macroeconomicshasbecomelikethenaturalsciences.Unlikethe
+naturalsciences,though,macroeconomicsinvolvespeoplemakingdecisionsbaseduponwhatthey
+thinkwillhappen,andwhatwillhappendependsuponwhatdecisionstheymake.Thismeansthatthe
+conceptofequilibriummustbedynamic,and-asweshallsee-thisdynamismisatthecoreofmodern
+macroeconomics.”
+EdwardC.Prescott,Prizelecture,December8,2004.
+1 Contexteetjustification
+Sil’analyseconjoncturelleestl’étudedesmouvementsdel’économiesurlecourtterme,samiseenœuvrerequiert
+desindicateursetoutilsassezpointus.L’und’eux,parmilesplusconnusdanslesmanuelsdemacroéconomie,
+estlemodèle“Offreglobale-Demandeglobale”(OG-DG).Auplanthéorique,cemodèleesttrèsbiendocumenté
+etexpliqué.Eneffet,mobilisantuneversionsimpledumodèleOG-DGdanslecourantNeokeynésien,Benigno
+(2015)relèvequecelui-ciestpertinentpourlesbanquescentralesmodernesquiciblentletauxd’intérêtnominal
+decourttermeaulieud’unagrégatdel’offredemonnaie,etpermetd’analyserl’impactéconomiquedeschocs
+deproductivitéetdemarkupnotamment.Auplanempiriqueenrevanche,sonélaborationn’estpasunetâche
+aisée,cequiapourconséquenceentreautressanonprésentationexpliciteparlesconjoncturistesdansleur
+analysestatistiquedesfluctuations,secontentantd’enmobiliseruniquementlesconclusionsthéoriques.Pourtant
+remarquePonty1,ensefondantsurlaconnaissancedessériestemporellesetleurtraitementpourl’économie,
+cettedernièreviseàendégagerlescomposantescycliqueettendancielled’unepart,etdequantifierl’importance
+relativedeschocsdecourtetdelongtermequil’affected’autrepart.Sorensen&Whitta-Jacobsen(2010)précisent
+àceproposquelemodèleOG-DGpermetd’investiguerlescausesdesfluctuationsdansl’activitééconomique,
+lesquellespeuventêtreàleurtourperçuescommelesréactionsdel’économieauxdifférentschocsquiaffectentles
+courbesd’offreetdedemandeagrégées.Danslamêmeveine,Bashar(2012)soulignelanécessitéd’identifierles
+différentschocsquiaffectentuneéconomieetd’enanalyserleseffets,afindebienélaboreretmettreenœuvredes
+politiquesmacroéconomiquesappropriées.
+Aumieuxdenotreconnaissance,ledeuxièmevoletdel’analysestatistiquedesfluctuationsdecourttermeàpartir
+del’identificationetlaquantificationdeschocsdecourttermen’estpasformellementimplémentéàlaBEAC
+pourl’analyseconjoncturelledeséconomiesdesesEtatsmembres.Or,celle-ciestfondamentalepourapprécier
+lesdifférentesphasesducycleéconomiquedansletemps.Bashar(2012)noteparexempleàceproposqu’une
+récessiontiregénéralementsesoriginesdansunchocadversededemandeagrégée,etsapersistancedépend
+fondamentalementdelamanièredontleschocsdedemandeaffectentl’économie.Larepriseéconomiquesera
+assezrapide,mêmeenl’absencedepolitiquemacroéconomiquedegestiondelademande,siquoiquen’affectant
+paslecôtéoffreagrégéedel’économie,lechocdedemandeglobaleimpactenéanmoinsdefaçontransitoire
+lesniveauxd’outputetdechomâge.Enfinconclut-il,leseffetsd’unerécessionpourraienttoutefoispersisterà
+longterme,sileschocsdedemandeinitialesepropagentetengendrentdesperturbationsaloéatoiresducôtéde
+l’offreglobaleetinfluencentalorsindirectementlacourbeOGdelongterme.Ainsi,danslechampdel’analyse
+conjoncturelle,l’objectifdecetarticleestdeproposercommecadreempiriqueformelàl’analysestatistiquedes
+fluctuationsdecourtterme,unmodèleOG-DGpourl’économieduCameroun2surlesdonnéestrimestriellesdela
+période2001Q1-2018Q2.Lechoixdecelle-citientaufaitqu’elleestlaplusdiversifiéedelaCEMAC,maisaussicelle
+ayantconnuleplusdestabilitérelativecomparativementauxautresEtatsmembres.Ilconvientdesoulignerque
+l’analysedumodèleOG-DGàcourttermemetenrelationl’outputetleniveaugénéraldesprix.Cependant,en
+accordavecVillieu(2004)quisoulignequ’ilparaîtpluspédagogiquedereprésenterl’équilibreOG-DGenfonction
+del’inflation,lepartiestprisdanscepapierdeproposerunmodèle“OG-DG”mettantauxpriseslestauxd’inflation
+etdecroissance.
+1. PontyNicolas,“Analyseconjoncturelleetanalysestatistiquedesfluctuations”,disponibleàl’adressewww.izf.net/upload/Institutions/
+Situation/zone_franc/Docs/Analyse_conjonct_stat_fluctu.PDF,consultéele12juin2019à16:46TU+1.
+2. CettedémarcheseraplustardétendueauxautresEtatsmembresdelaCEMACafind’étofferledispositifd’analyseconjoncturelledela
+BEACdansl’UnionMonétairedel’AfriqueCentrale.
+2
+
+--- Page 4 ---
+Pourcefaire,notredémarches’inspireessentiellementdel’approchedéveloppéeparGamber(1996)quiestimedes
+courbesd’offreetdedemandeagrégéesdecourttermepourl’économieaméricainedanslapérioded’aprèsGuerres,
+enutilisantunmodèleVARstuctureldanslalignéedeBlanchard&Quah(1989).Danssontravail,Gamberétendla
+contributiondeBlanchard&Quah3eninvestiguantlamesuredanslaquelleleschocsd’offreetdedemandedérivés
+suivantladécompositiondesauteurséponymescorrespondentauxchocsdemêmetypesobservéshistoriquement,
+puisentestantlastabilitédelapentedelacourbed’offreagrégéedecourtterme4.
+Lavalidationducadreempiriqueàdériverdanscetteétudepasseparl’analysedestroisfaitsstyliséspointéspar
+Gamber(1996),àsavoir:(i)lesprixsontacycliquesoucontracycliques,traduisantlefaitqueleschocsd’offre
+agrégéepeuventjouerunrôledanslesfluctuationsducycledesaffairesainsiquel’ontsoulignéKydland&Prescott
+(1990)etWolf(1991),(ii)lesmouvementsdesprixinduitsparlademandeagrégéesontprocycliques,alorsque(iii)
+lesmouvementsdesprixinduitsparl’offreagrégéesontplutôtcontracycliques.Atitrederappel,aprèsavoirsupposé
+queleschocsdedemandeagrégéen’ontpasd’impactàlongtermesurl’outputréel,Gambermetempiriquement
+enévidence,danslecasdel’économieaméricaine,quelemanquedecyclicitédansleniveaudesprixestlerésultat
+delagénérationdesfluctuationsducycledesaffairesparleschocsd’offreetdedemande.Iltrouveégalement
+quelapentedelacourbed’offreagrégéedecourttermen’estpasstablesurlapériodesousrevue.Danslamême
+veine,Sorensen&Whitta-Jacobsen(2010)notentqued’unpointdevueempiriquejustement,unmodèleOG-DG
+seraitjugésatisfaisantpourl’explicationducycledesaffairess’ilestcapablederépliquerlesfluctiationsrécurrentes
+observéesdansl’outputetl’inflation.Notretravailconsisteainsiàexaminerlavaliditédesfaitsstylisésévoqués
+supradanslecasdel’économiecamerounaiseaumoyend’unmodèleOG-DGempirique.
+Auxfinsdesinvestigationsàmenerdanscetteétude,lasuitedupapierprésentedanslapremièresectionunerevue
+succinctedelalittérature.Ladeuxièmesectiondécritladémarcheméthodologiqueutiliséepourladérivation
+des courbes OG et DG de court terme, alors que la troisième section est consacrée à l’examen des données,
+l’implémentationdestestsstatistiquesdenonvaliditédesfaitsstylisésàlalumièredeschocsayanthistoriquement
+affectél’économiecamerounaise.Ladernièresectionenfindresseunbilandesanalysesmenéesetconclutce
+papier.
+2 Revuesuccinctedelalittérature
+Audébutdesannées80,lalittératureéconomique5abordelaquestiondel’analysestatistiquedesfluctuations
+decourttermeaumoyendeladécompositiondessériestemporellesduPIBréelencomposantestendancielle
+déterministeetcycliqueaveclacontributionséminaledeBeveridge&Nelson(1981).Nepouvantsous-tendrela
+pertinenced’untrendlinéairedéterministedanslessériesmacroéconomiques,Nelson&Plosser(1982)ontplutôt
+relevélaprésenced’uneracineunitairedanslaplupartdecesséries,indiquantainsiquelacomposantetendancielle
+observéedanscelles-ciestuntrendstochastique,i.e.résultantdelasommecumuléedeplusieurschocsaléatoires
+dansleprocessusgénérateurdedonnéesdechaquesérie.Cetrendstochastiqueestmisenévidenceàpartirdetests
+deracineunitaire,etladécompositionestopéréeavecdestechniquesdemodélisationunivariéedetypesARIMA,
+desfiltresetdeslissages.Leprincipalinconvénientdecesapprochesunivariéesestl’impossibilitéd’identifier,
+dansl’accumulationdesfacteursaléatoires,lanaturedesdifférentschocs.Deplus,citantStock&Watson(1988),
+Gamber(1996)rapportequel’hypothèsedebasedecesapprochesconsidèrequeleschocspermanentsetles
+chocstransitoiressontsoitparfaitementcorrélés,c’estlecasavecladécompositiondeBeveridge&Nelson(1981),
+soitorthogonaux,ainsiquelepostuleWatson(1986),sanspourautantdémêlerceux-cidansleurscontributions
+respectivesauxfluctuationsdecourtterme.
+3. Aladifférencedecesauteurs,Gamber(1996)utiliselessériesdel’outputetdesprixaulieuduchômageetdesprix.
+4. Lathéorieéconomiquecontemporainesouligneévidemmentlaverticalitédelacourbed’offreagrégéedelongterme.
+5. Unedirectiondifférentedelalittératuredansl’analyseéconomiquedesfluctuationsaétéimpulséeparKydland&Prescott(1982)avec
+lathéoriedescyclesréels(RealBusinessCycleTheory),danslecourantdelaNouvelleEconomieClassique(NEC).Atraversleurmodèle,ils
+montrentquelesphasesd’expansionetderécessionéconomiquessontlerésultatdesréponsesdel’économieàdeschocspurementexogènes,
+etconcluentquelescycleséconomiquessontinduitspardesfluctuationsaléatoiresduniveaudeproductivitéoudeschocstechnologiques.
+Cettedirectiondelathéorienes’inscrivantpasdanslecadredel’exploitationexclusivedespropriétésdessériestemporelles,ellenefaitpas
+partiedel’analysestatistiquedesfluctuationséconomiquesdanslesensabordéparGamber(1996).Enconséquence,elleneserapasexplorée
+davantagedanscetteétude.
+3
+
+--- Page 5 ---
+Etantdonnéquel’analysestatistiquedesfluctuationsàpartird’unmodèle“OG-DG”danssaformestandardmeten
+relationl’outputréeletleniveaudesprix,lalittératureaétéétendueauxapprochesmultivariéespourdécomposer
+assez finement les chocs permanents et transitoires affectant l’économie et quantifier leur importance dans
+l’explicationdesfluctuationsdecourtterme.Cesalternativesauxapprochesunivariéestablentsurl’impositionde
+restrictionsidentifiantessurlesréponsesimpulsionnellesd’unmodèleVAR.C’estlecasnotammentdel’hypothèse
+delaverticalitédelacourbed’offredetravailàlongtermeavecShapiro&Watson(1988),d’absenced’impactàlong
+termedeschocsdedemandeagrégéesurlechômageavecBlanchard&Quah(1989),etl’outputréelplutôtavec
+Gamber(1996).Danslalittératureéconomiquecontemporaine,lemodèleNéo-Keynésiencanonique,quiporte
+essentiellementsuruneanalysedesvariablesmacroéconomiquesendéviationsparrapportàl’étatréguliersans
+choc(étatstationnaire)ouàl’équilibre,représente(i)l’offreglobaleparunecourbedePhillips(NKPC)exprimantle
+tauxd’inflationenfonctiondesesvaleursretardéeetanticipéeetdel’outputgap,et(ii)lademandeagrégéepardeux
+équationsàsavoirunecourbeISintertemporellemettantauxprisesl’outputgapenfonctiondesavaleurpasséeet
+letauxd’intérêtréel,etunerègledepolitiquemonétairedetype“Tayloraugmentée”ouunecourbeLMdécrivant
+l’égalitédel’offreetdelademanded’encaissessurlemarchédelamonnaie.Cetteformecanonique,quiconstituele
+cœurdeplusieursmodèlesd’analyseconjoncturelle,dontlesGPM(GlobalProjectionModels)etlesQPM(Quarterly
+ProjectionModels)qu’onretrouvedansnombredebanquescentrales6,correspondégalementàlaformeréduitede
+modèlespluscomplexesmicrofondés,àsavoirlesDSGE(DynamicStochasticGeneralEquilibriumModels).Cestypes
+demodèlessontplusgrosetplusgourmandsendonnéesaussibienmicroéconomiquesquemacroéconomiques.
+Deplus,ilsontbeaucoupdeparmètres,dechocsstructurelsetd’équationsplusoumoinscomplexes,etnécessitent
+souventdeséquipesmultidisciplinairesimportantesetexpérimentéesdansdiversdomaines7pourleurconception,
+leurimplémentationaumoyendetechniquesbayésiennesavecl’identificationméticuleusedesdistributionsa
+prioridesparamètresetdestermesd’erreurspertinentes,leurinterprétationetleurmaintenance.
+Souslaformecanoniquecependant,cestroistypesdemodèlessontmoinsgrosetmoinscomplexes,maisont
+pourprincipaleinsuffisance,l’impossibilitéd’enidentifierprécisémentlesparamètresestimésquieux-mêmes,la
+plupartdutemps,sontdesfonctionsnonlinéairesdesparamètresdumodèlestructureldebase.Néanmoins,sous
+cetteforme,lalittératureéconomiques’accordepoursoulignerqu’ilspeuventêtreexpriméssanspertedegénéralité
+commedesmodèlesVARstructurels(SVAR),permettantainsiauconjoncturiste,malgrél’impossibilitéinvoquée
+précédemment,demenerl’analysestatistiquedesfluctuationsdecourtterme.LesmodèlesSVARs’accommodent
+bienaveclaversionstochastiquedumodèleOG-DGoù,indiquentSorensen&Whitta-Jacobsen(2010),leschocs
+d’offreetdedemandeétantdesprocessusaléatoiresexogènes,l’analyseimpulsion-réponsepermetdevoirla
+mesuredanslaquellel’onestcapabledereproduirelesfaitsstyliséslesplusimportantsducycledesaffaires.Plus
+spécifiquementrenchérissent-ils,laflexibilitédecettemodélisationpermetaussid’explorerleparadigmedeFrisch-
+Slutzkyquidistinguel’impulsiondumécanismedepropagationduchoc.Danscetteoptique,l’impulsionestdéfinie
+commeunchoc,i.e.unchangementexogènesoudaindansl’unedesvariablesdéterminantlapositiondescourbes
+OG-DG(l’outputoul’inflation),quiinitieunmouvementdansl’activitééconomique,alorsquelemécanismede
+propagationestunprocessusendogènequitransmetlechocouimpulsionàtraverslesystèmeéconomiqueen
+unepersistancedesfluctuationsmacroéconomiquesdansletemps.End’autrestermes,ilreflètelastructurede
+l’économieetdéterminelamanièredont-elleréagitauxchocsetcombiendetempselleprendpours’ajusteràla
+suitede(s)laperturbation(s)causée(s)parlechoc.
+Autotal,fortducompromisretenudanslalittérature,etafindemeneràbiencetyped’analyseenAfriqueCentrale,
+carnepouvantpasaustadeactuelconsentirtousleseffortsdanslamiseenplacedesmodèlesGPM,QPMetDSGE,
+ilestfaitlechoixd’implémenterlamodélisationSVARavecunschémad’identificationàlaBlanchard&Quah(1989),
+pourconstruireuncadreempiriquedestinéàl’analysestatistiquedesfluctuationsdecourttermeauCameroun,à
+l’instardeGamber(1996)pourl’économieaméricained’aprèsGuerres.
+6. Pourdavantaged’éclairagessurcesmodèlesetlesbanquescentralesquilesontimplémentésetlesutilisentdéjà,voirparexemplelesite
+http://www.douglaslaxton.org/gpm.html.
+7. Macroéconomie,microéconomie,calculstochastique,analysefonctionnelle,optimisationdynamiquestochastique,statistiqueinférentielle
+etstatistiquebayésienne,programmation,économétriedessériestemporelles,informatique,calculnumérique,etc.
+4
+
+--- Page 6 ---
+3 Méthoded’identificationdeschocspermanentettransitoire
+Lepointdedépartdel’approcheproposéeparBlanchard&Quah(1989),aveclechoixopéréparGamber(1996)de
+prendrelelogdel’outputréelenlieuetplacedutauxdechômage,estunVARstructurelàdeuxvariables(τ ,π ),
+t t
+respectivementletauxdecroissanceduPIBréeletletauxd’inflation,dontlareprésentationdeWold,i.e.sous
+formemoyennemobilevectorielle(VMA)d’unVARstandardestdonnéetelleque:
+(cid:183)τ (cid:184) (cid:183)
+c (L) c
+(L)(cid:184)(cid:183)ετ(cid:184)
+πt = c11
+(L)
+c12
+(L)
+επt (1)
+t 21 22 t
+oùlesεdésignentlesinnovationsdemoyennesnullesetdematricedevariance-covarianceE(εε(cid:48) )=Ω=(cid:161)ω (cid:162)
+.
+ij 1≤i,j≤2
+Parconstruction,lamatricedesréponsesimpulsionnellescontemporaines,C(0),estlamatriceidéntité,I .
+2
+Cesystèmepeutêtreréécritsousformecompactetelleque:
+y =C(L)ε (2)
+t t
+avecy =(τ ,π )(cid:48) ,C(L)=(cid:163) c (L)(cid:164) etε =(cid:161)ετ ,επ(cid:162)(cid:48) .
+t t t ij 1≤i,j≤2 t t t
+3.1 Identificationdumodèlestructurel
+LesinnovationsdumodèleVARstandardn’étantpasdécorrélées,doncafortioricellesdelaformeVMA∞,les
+réponsesdesvariablesendogènesauximpulsionssurlesinnovationsnesontpasinterprétables,i.e.n’ontpas
+uneinterprétationéconomiquepertinente.Pourpaliercetteinsuffisance,onrechercheuneécriturealternative
+uniqueetéquivalentedusystèmedynamiquedans(1)pourlaquellelesfonctionsimpulsions-réponsesauxchocs
+structurelsserontinterprétablesausensdelathéorieéconomique.Acettefin,soitlareprésentationalternative
+suivantedenotresystème:
+(cid:183)τ (cid:184) (cid:183)
+a (L) a
+(L)(cid:184)(cid:183)ηo(cid:184)
+t = 11 12 t (3)
+π a (L) a (L) ηd
+t 21 22 t
+tellequelesinnovationsη
+=(cid:161)ηo,ηd(cid:162)(cid:48)
+sontorthogonalesdeuxàdeux,dematricedevariance-covariancediagonale,
+t t t
+Σ η=diag(σ2 ηo,σ2 ηd),etdéfiniespar:
+(cid:183)ηo(cid:184) (cid:183)
+a a
+(cid:184)−1(cid:183)ετ(cid:184)
+ηdt = a11 a12 επt (4)
+t 21 22 t
+Cequipeutêtreréécritsousformecompactetelleque:
+η =A(0)−1ε
+t t
+oùA(0)désignelamatricedeseffetscontemporainsentreletauxdecroissance(τ )etletauxd’inflation(π ).
+t t
+Demanièreanalogue,lesystèmedansl’équation(3)peutaussiêtremissouslaformecompactesuivante:
+y =A(L)η (5)
+t t
+Ainsi,ensubstituantl’expressiondeη dansl’équation(5),puisenl’identifiantmembreàmembreavecl’équation
+t
+(3),ilvientlesrelationssuivantesauxdifférentsretards:
+C(j)=A(j)A(0)−1 pour j=1,2,...
+oudefaçonéquivalente:
+A(j)=C(j)A(0) pour j=1,2,... (6)
+5
+
+--- Page 7 ---
+Lamiseenévidencedel’équivalenceentrecesdeuxsystèmespasseparladéterminationdesquatreélémentsde
+lamatriceA(0).OnremarquequelarelationentreA(0)etlesmatricesdevariance-covariancedesinnovations
+structurelles(η)etstandards(ε)estdonnéepar:
+Σ η=A(0)−1Ω(cid:163) A(0)−1(cid:164)(cid:48) ⇐⇒Ω=A(0)Σ ηA(0)(cid:48)
+Cequiexplicitementdonnelesystèmed’équationssuivant:
+(cid:161) a 12 1+a 12 2(cid:162)σ2 ηo = ω 11
+(cid:161) a2 +a2 (cid:162)σ2 = ω
+21 22 ηd 22
+(a a +a a )σ2 = ω
+11 21 12 22 ηd 22
+Cesystèmeàtrois(3)équationsetquatre(4)inconnuesàsavoira ,a ,a eta ,estsous-identifiéetadmetde
+11 12 21 22
+cefaituneinfinitédesolutions.Ainsi,pourquelareprésentationalternativedumodèleSVARsoitunique,ilfaut
+quecesystèmesoitjusteidentifié,etpourcefaire,ilfautimposeruneseulerestrictionidentifianteàsesparamètres.
+C’estafindefournircetteultimerestrictionquelatechniquedeBlanchard&Quah(1989)aétéutiliséeparGamber
+(1996).
+Endésignantparηo unchocstructureld’offreetηd unchocstructureldedemande,lesdeuxtypesdechocsqui
+affectentl’économie,lemodèleSVARdonnédanslareprésentationalternatives’écritàlongterme:
+(cid:183)τ (cid:184) (cid:183)
+a (1) a
+(1)(cid:184)(cid:183)ηo(cid:184)
+t = 11 12 t (7)
+π a (1) a (1) ηd
+t 21 22 t
+Gamber(1996)faitl’hypothèsesuivantesurlamatriceA(1)deseffetsàlongterme:«unchocdedemande(ηd)
+n’apasd’impactàlongtermesurl’outputréel(τ)»,laquellesetraduitformellementparlanullitéducoefficient
+correspondantdans(7),àsavoira (1)=0.
+12
+Enprenantl’équation(6),onaA(1)=C(1)A(0).Enconséquence,larestrictionfaiteparGamberfournitalorsla
+quatrièmeéquationidentifiantedusystèmealternatifdefaçonunique,àsavoir:
+a c (1)+a c (1)=0
+11 12 12 22
+3.2 Constructionempiriquedescourbes“OG”et“DG”decourtterme
+L’estimationdumodèlestandard(1)etlamiseenœuvreduschémad’identificationdeBlanchard&Quah(1989)
+fournissentlesmatricesestiméesCˆ(j), j≥0,Aˆ(0)etΩˆ,ainsiquelesrésidusd’estimationεˆ =(cid:161)εˆτ ,εˆπ(cid:162)(cid:48) .Apartirde
+t t t
+ceséléments,ondétermine:
+— lesmatricesAˆ(s)=(cid:161) aˆ (cid:162) (s), s≥1,tellesque:
+ij 1≤i,j≤2
+Aˆ(s)=Cˆ(s)Aˆ(0), s=1,2,...
+— lessériesdeschocsstructurelsd’offreetdedemandeηˆ =(ηˆo,ηˆd)(cid:48) ,tellesque:
+t t t
+ηˆ =Aˆ(0)−1εˆ , t=1,2,...
+t t
+— lessériesestiméesdestauxdecroissance(τˆoetτˆd)etd’inflation(πˆo,πˆd)dusrespectivementauxchocs
+t t t t
+structurelsd’offreetdedemande(ηˆo,ηˆd),pourt=1,2,...,tellesque:
+t t
+6
+
+--- Page 8 ---
+∞
+τˆo = (cid:88) aˆ (j)ηˆo
+t 11 t−j
+j=0
+∞
+πˆo = (cid:88) aˆ (j)ηˆo
+t 21 t−j
+j=0
+∞
+τˆd = (cid:88) aˆ (j)ηˆd
+t 12 t−j
+j=0
+∞
+πˆd = (cid:88) aˆ (j)ηˆd
+t 22 t−j
+j=0
+Lescourbesd’offreetdedemandeagrégéedecourttermesontalorsconstruitesempiriquementàpartirdes
+modèlesderégressionlinéairesuivants:
+— Courbe“OG”empiriquedecourtterme:
+πˆo=α+βτˆo+νo, β>0
+t t t
+— Courbe“DG”empiriquedecourtterme:
+πˆd=δ+κτˆd+νd, κ<0
+t t t
+oùν =(νo,νd)désignelestermesd’erreursdechacunedesrégressionsrespectivement.
+t t t
+Lacourbed’offreagrégéeseravalidéecommecorrespondanteffectivementàunecourbedecourttermesi,enplus
+d’êtrepositivementpentue,cettepenteestinstable,caràlongtermelacourbeestplutôtverticale.
+Laméthodologieci-dessus,inspiréedeGamber(1996),procureainsiàl’analysestatistiquedesfluctuationsde
+courttermedeschocsstructurelsavecunesignificationéconomiqueclairepermettantd’enquantifierl’importance
+relativedansletemps.C’estcequiestrecherchépourl’affinementdel’analyseconjoncturelleàlaBEACaumoyen
+del’outilempiriquequ’estlemodèle“OG-DG”.
+4 Miseenœuvre,résultatsetdiscussion
+4.1 DonnéesutiliséesetidentificationdesPGD8
+4.1.1 Lesdonnéesutilisées
+Afin de mettre en œuvre la méthodologie précédente de décomposition des chocs structurels pour l’analyse
+conjoncturelledel’économiecamerounaise,nousavonsretenulestauxdecroissanceduPIBréeletd’inflation
+trimestrielleenglissementannuelsurlapériode2001Q1-2018Q2.Lechoixdecettepérioded’analyseestguidé
+notammentparlebesoinderesterdanslamêmefenêtretemporellequecelledel’étuderéaliséeparKeungneetal.
+(2016)danslaCEMAC.
+Lafigure1présenteladispersiondestauxdecroissanceetd’inflationauCamerounaucoursdelapériodesous
+revue,avecuneapproximationdetypeLOESS(locallyestimatedscatterplotsmoothing)delarelationempirique
+quiexisteraitentrecesdeuxagrégatsmacroéconomiques,laquellerelationseraitnonlinéaire.Aucoursdecette
+période,l’économiecamerounaiseaenregistréuntauxdecroissancemoyende4.2%englissementannuel,pourun
+tauxd’inflationmoyende1%,dansdesamplitudesrespectivesde1.4%à7.9%pourlacroissanceréelle,et-0.4%à
+2.9%pourl’inflation.
+8. Processusgénérateursdedonnées.
+7
+
+--- Page 9 ---
+FIGURE1–Nuagedepointsdestauxdecroissanceetd’inflationauCameroun
+(a)(mars2001-juin2018)
+L’économiecamerounaiseestcertesunenvironnementd’inflationbasse,maiségalementunespacedecroissance
+assezfaiblevoiremolle,pourlequellesmédianesdestauxd’inflationetdecroissancetrimestriels,évaluéesen
+glissement annuels sont respectivement de 0.9% et 3.9%, ainsi que rapportés par la table 1, pour un taux de
+croissancedémographiqueannuellede2.7%9enmoyennesurlapériodesousrevue.
+TABLE1–Résumésstatistiquesdesvariablesd’intérêt
+Variable Min. 1stQu. Median Mean 3rdQu. Max. sd.
+tauxinflation -0.373 0.389 0.874 0.974 1.278 2.877 0.739
+tauxdecroissance 1.394 3.19 3.872 4.194 5.11 7.879 1.507
+4.1.2 Implémentationetrésultatsdestestsderacineunitaire
+L’implémentationdestestsdeDickey-Fulleraugmenté(ADF-Test)surcesdeuxséries,dansdesmodèlesderégres-
+sionavecconstanteetunseulretarddel’endogèneretardée,renvoitdesstatistiquesdetestsousl’hypothèsenulle
+deracineunitairede-3.81pourletauxd’inflationet-4.31pourletauxdecroissanceetuneprobabilitécritique
+équivalentede0.01,conduisantaurejetdecettehypothèsenulleauseuilcritiquede5%.Lesobservationsfaitessur
+lapériode2001Q1-2018Q2suffisentpourconsidérerquelesprocessusgénérateursdedonnéesdestauxd’inflation
+etdecroissanceauCamerounnesontpasaffectésdemarchealéatoire.
+9. Donnéesdisponiblesàl’adressehttps://knoema.fr/atlas/Cameroun/Accroissement-de-la-population,consultéele17juin2019à22:18
+TU+1.
+8
+
+--- Page 10 ---
+4.2 Résultatsd’estimationdumodèleSVAR
+PourlaspécificationdumodèleVAR,lenombreoptimalderetards,déteminéàpartirducritèred’Akaikeminimum
+(AIC),estp∗=4.Soussaformeréduitealors,lemodèleVAR(4)àestimer,pourlesdeuxvariablesendogènesque
+sontletauxdecroissanceduPIBréel(τ)etletauxd’inflation(π)surlapériode2001Q1-2018Q2,s’écrit:
+4 4
+τ
+t
+= τ 0+(cid:88)β 1iτ t−j+(cid:88)β 2iπ t−j+ετ
+t
+(1)
+j=0 j=0
+4 4
+π
+t
+= π 0+(cid:88)α 1iτ t−j+(cid:88)α 2iπ t−j+επ
+t
+(2)
+j=0 j=0
+Lesrésultatsd’estimationdumodèlesontreprisenannexe.Lamatricedevariance-covarianceestiméedesrésidus
+est:
+(cid:183) (cid:184)
+0.169 0.061
+Ωˆ =
+0.061 1.86
+LadécompositiondeBlanchard&Quah(1989)àl’aidedelabibliothèquevarsdeRproposéeparPfaff(2008b),
+fournitlesmatricesestiméesdeseffetscontemporainsAˆ(0)etdelongtermeAˆ(1)quipermettentdeconstruireles
+chocsstructurelsdusystèmesuivantlesrelationsdansl’équation(6).Cesmatricesestiméessont:
+(cid:183) (cid:184) (cid:183) (cid:184)
+0.38 0.13 0.97 0
+Aˆ(0)= et Aˆ(1)=
+−0.29 1.28 −1.24 2.34
+4.2.1 Fonctionsimpulsions-réponsesetmultiplicateursdynamiquescumulés
+Lafigure2présentelesfonctionsimpulsions-réponsesdestauxd’inflationetdecroissanceduCamerounaux
+chocsstructurelsdedemandeetd’offreagrégéesaucoursdutemps.Ainsiqueleprévoitlathéorieéconomique,il
+estobservéempiriquementpourl’économiecamerounaise,qu’àcourtterme,unchocdedemandeaunimpact
+positif10respectivementsurleniveaugénéraldesprixetsurlePIBréel,tandisqu’unchocd’offreaunimpactpositif
+surl’offreagrégéeetunimpactnégatifsurlademandeagrégée.
+L’impactàlongtermedonnéparlesmultiplicateursdynamiquescumulésestprésentésurlesgraphiquesdela
+figure3ci-après.Lesprofilsderéponsescumuléessontconformesàlathéorieéconomiqueàlongterme,avecbien
+entenduunimpactnulsurlacroissanceréelled’unchocdedemande,ainsiquevouluparlarestrictionimposée
+pourl’identificationdumodèlestructurel.Alongtermedonc,lesrésultatsobtenusrapportentqu’unchocd’offrea
+unimpactpositifpermanentsurl’offreagrégéeenraisond’uneffetinertiel,alorsquel’impactsurl’inflationdece
+chocestnégatif.Enfin,unchocdedemandeaégalementunimpactcumulépositifsurlademandeagrégée.
+10. Lecaractèreoscillatoireamortidesréponsesimpulsionnellesestdûàlaprésencederacinesnégativesdanslepolynômecaractéristiquede
+ladynamiquedusystème,ainsiquelerapportelamatriceΛ:
+(cid:183)0.7+0.46i 0.65+0.26i −0.39+0.56i −0.26+0.43i(cid:184)
+Λ=
+0.7−0.46i 0.65−0.26i −0.39−0.56i −0.26−0.43i
+Lesmodulesdecesracinesétanttousinférieursàl’unité,(0.8,0.8,0.7,0.7,0.7,0.7,0.5,0.5),leprocessusdynamiquecaractéristiquedusystèmeest
+stable.
+9
+
+--- Page 11 ---
+0.50
+0.25
+0.00
+0 10 20 30 40
+Horizon
+noitalfnI
+Réponse de l'inflation à un choc de demande
+0.2
+0.1
+0.0
+−0.1
+−0.2
+0 10 20 30 40
+Horizon
+ecnassiorC
+Réponse de la croissance à un choc de demande
+0.5
+0.0
+−0.5
+0 10 20 30 40
+Horizon
+noitalfnI
+Réponse de l'inflation à un choc d'offre
+1.5
+1.0
+0.5
+0.0
+0 10 20 30 40
+Horizon
+ecnassiorC
+Réponse de la croissance à un choc d'offre
+FIGURE2:Fonctionsimpulsions-réponsesdesvariablesd’intérêtauxchocsd’offreetdedemandeagrégées
+3
+2
+1
+0
+−1
+0 10 20 30 40
+Horizon
+noitalfnI
+CIRF de l'inflation à un choc de demande
+2
+1
+0
+−1
+−2
+0 10 20 30 40
+Horizon
+ecnassiorC
+CIRF de la croissance à un choc de demande
+2
+0
+−2
+−4
+0 10 20 30 40
+Horizon
+noitalfnI
+CIRF de l'inflation à un choc d'offre
+6
+4
+2
+0
+−2
+0 10 20 30 40
+Horizon
+ecnassiorC
+CIRF de la croissance à un choc d'offre
+FIGURE3:Réponsesimpulsionnellescumuléesdesvariablesd’intérêtauxchocsd’offreetdedemandeagrégées
+10
+
+--- Page 12 ---
+4.2.2 Analysedeladécompositiondelavariancetotaledel’erreurdeprévisiondesvariablesd’intérêt
+Letableau2ci-dessousfaitapparaîtrelacontributionàlavariancetotaledel’erreurdeprévisiondestauxd’inflation
+etdecroissanceliésauxinnovationsdedemandeetd’offre.Ilapparâitqu’àcourtterme,89%delavariabilitétotale
+del’inflationestdueauxchocsdedemandecontre11%seulementauxchocsd’offre,alorsqu’ellesatureautourde
+22.5%àlongterme,contre77.5%dufaitdeschocsdedemande.Pourletauxdecroissance,95%desavariablitéà
+courttermeestdueauxchocsd’offre,contre5%auxchocsdedemande,etàlongterme,lacontributiondeschocs
+d’offreàlacroissancesatureautourde84%contre16%pourleschocsdedemande.
+Tauxd’inflation Tauxdecroissance
+Horizon ηD ηO ηD ηO
+1 89.22 10.78 4.99 95.01
+2 89.22 10.78 7.98 92.02
+3 89.22 10.78 10.93 89.07
+4 89.22 10.78 13.53 86.47
+5 88.49 11.51 14.86 85.14
+6 85.38 14.62 15.20 84.80
+7 82.29 17.71 15.22 84.78
+8 79.72 20.28 15.28 84.72
+9 78.85 21.15 15.46 84.54
+10 78.82 21.18 15.62 84.38
+11 78.75 21.25 15.74 84.26
+12 78.39 21.61 15.77 84.23
+TABLE2–Résultatsdeladécompositiondelavariancetotaledel’erreurdeprévisiondueauxinnovations
+4.3 Dérivationempiriqueetanalysedescourbes“OG”et“DG”estimées
+4.3.1 Estimationempiriquedescourbes“OG”et“DG”
+L’estimationdescourbesd’offre(OG)etdedemande(DG)agrégéessuivantl’approcheméthodologiquedécrite
+précédemmentconduitauxrésultatssuivants:
+— EquationdelaCourbededemandeagrégée(DG)
+πˆd=3.263−0.561τˆd R2=0.309
+t t
+Conformémentàlathéorieéconomique,lapentedelacourbededemandeagrégée(DG)estiméeempiriquement
+pourl’économiecamerounaiseestnégative,i.e.unehaussedelademandeglobale,ceterisparibus,setraduitpar
+uneaugmentationduniveaugénéraldesprix.
+— Equationdelacourbed’offreagrégée(OG)
+πˆo=0.161τˆo R2=0.437
+t t
+Lapentedelacourbed’offreagrégéedecourtterme(OG)estpositiveconformémentàlathéorieéconomique.En
+d’autrestermes,enréponseàunehaussedel’offreglobale,ceterisparibus,leniveaugénéraldesprixbaisseàcourt
+terme.Enrevanche,cettethéorieenseignequelacourbed’offreagrégéedelongtermeestverticale.Parconséquent,
+l’ondoits’attendreauplanempiriqueàavoiruneinstabilitédelapentedecettecourbedansletemps.
+LesrésultatsdutestdeChowdestabilitédelapentedelacourbed’offreagrégéedecourttermeestiméepour
+l’économiecamerounaiseaucoursdelapériodesousrevueindiquentquelesobservationsfaitesnesuffisentpas
+11
+
+--- Page 13 ---
+àrejeterl’hypothèsenulledestabilitédecelle-ci,laprobabilitécritique(probabilitéderejetàtortdeH )dela
+O
+statistiquedetestétantstrictementsupérieureà5voire10%(P.value=0.337).Cerésultatestassezcontre-intuitif
+auregarddelathéorieéconomiequiretientplutôtsoninstabilitéaucoursdutemps.Deplus,ilestàl’opposéede
+celuiobtenuparGamber(1996)danslecasdel’économiedesEtats-Unisdanslapérioded’après-guerres,oùla
+pentedelacourbedel’offreagrégéeàcourtterme,bienquepositive,estinstableaucoursdutemps.
+— Diagramme“OG-DG”empirique
+Lescourbes“OG”et“DG”estiméespermettentlaconstructiondumodèle“OG-DG”empiriquecorrespondant,qui
+estl’outild’analyseconjoncturelledesfluctuationsdecourttermerecherchéedanscetteétude.Enprojetantces
+courbessurlesnuagesdepointsdestauxdecroissanceetd’inflationdusauxchocsd’offreetdedemandeagrégées
+respectivement,onconstruitlediagrammereprissurlafigure4.
+2222000000006666::::3333
+22000066::22
+E(4.53, 0.72)
+4
+22000088::44
+22000088::33
+22000088::22
+2
+OG: y=0.16p
+22001144::44
+22000044::33
+0 22001166::22
+22000077::22
+DG: y=3.26- 0.56p
+−2 22000077::33
+0 2 4 6 8
+Taux de croissance réel (%)
+)%(
+noitalfni'd
+xuaT
+Courbes de l'offre (OG) et de la demande (DG) agrégées de court terme
+Cameroun (2001:1 − 2018:2)
+lab
+DG
+OG
+FIGURE4:Diagrammeempirique“OG-DG”del’économiecamerounaise
+Alalecturedecediagramme,ilapparaîtquesurlapériodesousrevue,lestauxdecroissanceréeletd’inflation
+d’équilibredel’économiecamerounaisesontrespectivementde4.53%et0.72%,localisésaupointE.Globalement,
+lespériodesdeforteinflation(tauxd’inflationtrimestrielleenglissementannuelaudessusde3%)ontétéles
+trimestres2et3pourl’année2006et2à4pourl’année2008,desévolutionsattribuablesessentiellementaux
+chocsdedemande,donten200611 l’augmentationde25.8%desdépensesd’équipementdel’Etatàlafaveur
+des décaissements des fonds PPTE, et la hausse de la consommation globale consécutive à l’apurement des
+arriérésintérieursetlesrevalorisationssalarialespourcertainescatégoriesdefonctionnaires.Pourl’année2008,les
+principauxchocsdedemandeàl’originedel’évolutionobservéeontétéd’aprèslaBEAC12,l’élévationde26.9%des
+dépensescourantesprimairesimputableàlarevalorisationdesrémunérationsdesemployésdel’Etat,combinéeà
+lahaussedeseffectifsdel’administrationpublique,enréponseaux“émeutesdelafaim”defévrier2008.
+11. D’aprèsleRapportAnnuel2006delaBEAC,pp.59-60,disponibleàl’adressehttps://www.beac.int/wp-content/uploads/2016/10/rap2006.
+pdf,consultéele2juillet2019à09:52TU+1.
+12. https://www.beac.int/wp-content/uploads/2016/10/RA2008.pdf.
+12
+
+--- Page 14 ---
+Ducôtédel’offreagrégéeen2014,dansuncontextedefaibleinflation(moinsde1%partrimestre,englissement
+annuel)etdechutedescoursmondiauxdupétrolebrut,lacroissanceéconomiqueaétéparticulièrementtirée
+pardeschocsd’offreavecnotammentl’améliorationsensible(9.3%)delafournituredel’énergieélectrique,dans
+lesecteursecondaire,etlahaussedeplusde4.3%delaproductionagricoledeculturesvivrièresetdesproduits
+agricolesd’exportationainsiquedesproduitsdel’élevage.En2016,l’organisationdelaCouped’AfriquedesNations
+féminine(CAN)aétéleprincipalfacteurd’offreayantlepluscontribuéàlacroissanceréelledel’économie,selon
+l’INS-Cameroun13,dontl’impactaétél’embelliedel’activitédanslesecteurtertiaire,aveclesbranches“commerce,
+restaurantsethôtels”,“transports”et“informationettélécommunications”,entreautres.
+Ensomme,ilpeutêtrenotéquelediagramme“OG-DG”ci-dessusmontredescourbes“OG”et“DG”decourt
+termedepentesrespectivesconformesauxprédictionsthéoriques.Celles-citraduisentnotammentlefaitqueles
+chocsd’offreagrégéepeuventjouerunrôledansl’explicationdesfluctuationsducycledesaffairesdansl’économie
+camerounaise,ainsiquel’ontrappelé,pourl’économieaméricaine,Kydland&Prescott(1990).Cerésultatconfirme
+quelesobservationsfaitessontsuffisantespourrejeterl’hypothèsedelanonvaliditédufaitstyliséselonlequelles
+prixsontacycliquesoucontracycliquesauCameroun.
+D’unemanièregénérale,l’ons’aperçoitquedansl’économiecamerounaise,dupremiertrimestre2001audeuxième
+trimestre2018,lacroissanceréelleàcourttermeestfortementinfluencéeparleschocsd’offre,tandisquepour
+l’inflationcesontplutôtleschocsdedemandequisontlesplusimportants,ainsiqu’entémoignentleursdispersions
+respectiveslelongdesaxesdugraphique.Lesmêmesconstatsressortentdel’analysedeladécompositionhistorique
+destauxdecroissanceetd’inflationàlalumièredescontributionsrespectivesdeschocsd’offreetdedemandesur
+cettepériode.
+4.3.2 Analysedeladécompositionhistoriquedestauxdecroissanceetd’inflation
+2
+1
+0
+−1
+2005 2010 2015
+Période
+ecnatropmI
+Importance des chocs historiques d'offre et de demande sur l'inflation
+Cameroun (2001Q1 − 2018Q2)
+fill
+demande
+offre
+FIGURE5:Décompositionhistoriquedutauxd’inflationsuivantleschocsstructurels
+13. http://slmp-550-104.slc.westdc.net/~stat54/downloads/2017/Comptes_Nationaux_Annuels_2016.pdf.
+13
+
+--- Page 15 ---
+Ladécompositionhistoriquedutauxd’inflationduCamerounàlalumièredeschocsdedemandeetd’offreagrégées
+quiontaffectésonéconomieaucoursdelapériodesousrevuemontrelaprédominancedeschocsdedemande
+dansl’explicationdesonévolution.Laprincipaleconclusionàlaquellemènececonstatestlavalidité,pourcette
+économie,dudeuxièmefaitstylisépointéparGamber(1996)quisoulignequelesmouvementsdesprixinduitspar
+lademandeagrégéesontprocycliques.
+Surlemêmegraphiquel’onpeutaussiconstaterquemalgréleurimportancehistoriquefaiblecomparativement
+auxchocsdedemandeagrégée,leschocsd’offreagrégéeontuneinfluenceàl’opposédeschocsdedemandesur
+l’inflation.CerésultatvalideégalementletroisièmefaitstylisédeGamber(1996)suivantlequel,lesmouvements
+desprixinduitsparleschocsd’offreagrégéesontcontracycliques.
+4
+2
+0
+−2
+2005 2010 2015
+Période
+ecnatropmI
+Importance des chocs historiques d'offre et de demande sur la croissance économique
+Cameroun (2001Q1 − 2018Q2)
+fill
+demande
+offre
+FIGURE6:Décompositionhistoriquedutauxdecroissanceréelsuivantleschocsstructurels
+Lafigure6ci-dessusmetenévidencelaprépondérancehistoriquedeschocsd’offreagrégéesurleschocsde
+demandeagrégéedansl’explicationdelacroissanceéconomiqueauCamerounaucoursdelapériodesousrevue.
+Cerésultatadéjàétésoulignéàl’examendesréponsesimpulsionnellesdecedernierauxdifférentschocs,mais
+aussiàlalumièredeladécompositiondelavariancetotaledel’erreurdeprévisiondelacroissanceéconomique
+danscepays.
+Autotal,fortdesrésultatsobtenusdanscetteétudequicorroborentempiriquementlefaitquelecadred’analyse
+“OG-DG”proposérépliquelesfluctuationsrécurrentesobservéesàcourttermebiensûrdansl’outputetl’inflation,
+ilpeutêtrereconnuavecSorensen&Whitta-Jacobsen(2010),lavaliditéempiriquedumodèle“OG-DG”construitici
+pourl’économiecamerounaise,etdecefaitégalementsapertinencecommeoutilcomplémentairepourl’analyse
+conjoncturelledansledispositifd’aideàladécisiondelaBEACpourl’élaborationetlaconduitedesapolitique
+monétairedanssazoned’influence.
+14
+
+--- Page 16 ---
+5 Bilanetconclusion
+Danslechampd’investigationdel’analyseconjoncturelledesfluctuationséconomiquesdecourttermepour
+l’économiecamerounaise,l’objectifdecepapierétaitdeconstruireuncadreempiriqueadosséauxoutilsdela
+NouvelleSynthèsemacroéconomique,dontunmodèle“offreglobale-demandeglobale”,auxfinsd’enrichirlabase
+décisionnelledelaBEACpourlaconduiteetlamiseenœuvredesapolitiquemonétaire.Pourcefaire,l’approche
+proposéeparGamber(1996)pourl’économiedesEtats-Unissurlapérioded’aprèsguerresaétéappliquéeà
+l’économieduCameroundemars2001àjuillet2018.
+Commecadred’analyse,unmodèleVARstructureldetypeB-modelmettantenrelationlestauxd’inflationetde
+croissanceaétéspécifié.Etpourl’identificationdecelui-ci,unschémaàlaBlanchard&Quah(1989)imposantla
+restrictionqueleschocsdedemanden’ontpasd’impactàlongtermesurl’outputréelaétéimplanté.Surcette
+base,ilaalorsétéconstruitdescourbesempiriquesd’offreetdedemandeagrégéesdecourttermeavecdespentes
+respectivementpositivepourlacourbed’offreagrégéeetnégativepourlacourbededemandeagrégéeainsiquele
+préciselathéorieéconomique.Enrevanche,contrairementàcettethéoriequiprécisequ’àlongtermelacoubre
+d’offreagrégéeestverticale,impliquantainsiquelapentedesaversiondecourttermesoitinstable,lesobservations
+faitessurl’économiecamerounaisen’ontpasétésuffisantespourrejeterl’hypothèsenulledestabilitédelapente
+delacourbe“OG”decourttermedérivéedanscepapier.
+Parailleurs,lavaliditédecescourbesaététestéeàtraversleurcapacitéàrépliquerempiriquementlestroisfaits
+stylisésmentionnésnotammentparGamber,eninvoquantlathéorieéconomique.Nosrésultatsonteneffet
+indiquéquelesobservationsfaitessurl’économiecamerounaiseaucoursdelapériodesousrevuen’ontpaspermis
+d’invaliderlestroishypothèsessuivantes:(i)leschocsd’offreagrégéepeuventjouerunrôledansl’explicationdes
+fluctuationsàcourtterme,(ii)lesmouvementsdesprixinduitsparleschocsdedemandesontprocycliques,et(iii)
+lesmouvementsimpulsésparleschocsd’offresontcontracycliques.Lesanalysesdesfonctionsimpulsions-réponses
+destauxd’inflationetdecroissanceauxchocsd’offreetdedemanderespectivement,d’unepart,etl’analysedela
+décompositionhistoriquedecestauxdecroissanceetd’inflationobservésauCamerounàlalumièredeceschocs,
+d’autrepart,ontconfirmélesrésultatsobtenus.Ilestainsiressortique78.4%delavariabilitétotaledel’erreurde
+prévisionàlongtermedel’inflationauCamerounestimputableauxchocsdedemande,tandisque84.2%dela
+variabilitédel’erreurtotaledeprévisionàlongtermedelacroissanceyestimputableauxchocsd’offre.Exprimé
+autrement,ilpeutêtreretenuquel’inflationestessentiellementunphénomène“demanddriven”auCameroun
+alorsquelacroissanceyestfondamentalement“supplydriven”.
+Sommetoute,lecadreempiriqueainsiproposés’estavérévalidedanslaréplicationdesfaitsstylisés.Parconséquent,
+enréférenceàl’objectifdecetravail,notrecadrepeututilementêtreutiliséparlaBEACpourservirauxfinspour
+lesquellesilaétéconstruit,àsavoirsoninsertiondansledispositifanalytiquedelaBEACpourl’aideàladécision
+enmatièredepolitiquemonétairedanssazoned’émission.-
+15
+
+--- Page 17 ---
+ANNEXES
+Résultatsd’estimationdumodèleVAR(4)
+## VAR(y = don, p = 4, type = "const")
+— Equationestiméedaladynamiquedutauxd’inflation
+Estimate Std.Error tvalue Pr(>|t|)
+infl.l1 0.9641 0.1269 7.60 0.0000
+txcrois.l1 -0.0069 0.0398 -0.17 0.8632
+infl.l2 -0.2993 0.1742 -1.72 0.0912
+txcrois.l2 0.0117 0.0437 0.27 0.7905
+infl.l3 0.1384 0.1673 0.83 0.4115
+txcrois.l3 -0.0469 0.0436 -1.08 0.2867
+infl.l4 -0.2764 0.1200 -2.30 0.0250
+txcrois.l4 -0.0345 0.0386 -0.89 0.3750
+const 0.7613 0.2533 3.01 0.0039
+— Equationestiméedaladynamiquedutauxdecroissanceéconomique
+Estimate Std.Error tvalue Pr(>|t|)
+infl.l1 -0.2213 0.4148 -0.53 0.5958
+txcrois.l1 0.5300 0.1299 4.08 0.0001
+infl.l2 -0.3784 0.5694 -0.66 0.5091
+txcrois.l2 -0.1423 0.1428 -1.00 0.3235
+infl.l3 0.2040 0.5470 0.37 0.7105
+txcrois.l3 0.2891 0.1426 2.03 0.0474
+infl.l4 0.2539 0.3923 0.65 0.5201
+txcrois.l4 -0.2161 0.1262 -1.71 0.0923
+const 2.3739 0.8278 2.87 0.0058
+ListedesbibliothèquesdeRutiliséesetleur(s)auteur(s)
+— “bibtex”,Francois(2017)
+— “foreach”,Microsoft&Weston(2017)
+— “fUnitRoots”,Wuertzetal.(2017)
+— “gap”,Zhao(2007)
+— “ggforce”,Pedersen(2019)
+— “gridExtra”,Auguie2017
+— “kableExtra”,Zhu2019
+— “knitcitations”,Boettiger(2017)
+— “Matrix”,Bates&Maechler(2019)
+— “modelr”,Wickham(2019)
+— “openxlsx”,Walker(2019)
+— “Rsoftware”,RCoreTeam(2019)
+— “RDocumentation”,Cornelissen(2018)
+— “svars”,Langeetal.(2019)
+— “tables”,Murdoch(2019)
+— “tidyverse”,Wickham(2017)
+— “timetk”,Dancho&Vaughan(2018)
+— “vars”,Pfaff(2008a)
+— “xtable”,Dahletal.(2019)
+16
+
+--- Page 18 ---
+References
+Bashar,O.H.M.N.(2012).Thedynamicsofaggregatedemandandsupplyshocksinaseancountries.JournalofAsian
+Economics,23,507–518.
+Bates, D. & Maechler, M. (2019). Matrix : Sparse and dense matrix classes and methods. Retrieved from https:
+//CRAN.R-project.org/package=Matrix
+Benigno,P.(2015).New-keynesianeconomics:Anas-adview.ResearchinEconomics,69,503–524.Retrievedfrom
+https://EconPapers.repec.org/RePEc:eee:reecon:v:69:y:2015:i:4:p:503-524
+Beveridge,S.&Nelson,C.R.(1981).Anewapproachtodecompositionofeconomictimesseriesintopermanentand
+transitorycomponentswithparticularattentiontomeasurementof’businesscycle’.JournalofMonetaryEconomics,
+7,151–174,North–HollandPublishingCompany.
+Blanchard,O.J.&Quah,D.(1989).Thedynamiceffectsofaggregatedemandandsupplydisturbances.American
+EconomicReview,79,655–673,September.
+Boettiger,C.(2017).Knitcitations:Citationsforknitrmarkdownfiles.Retrievedfromhttps://CRAN.R-project.org/
+package=knitcitations
+Cornelissen,J.(2018).RDocumentation:Integraterwith’rdocumentation’.Retrievedfromhttps://CRAN.R-project.
+org/package=RDocumentation
+Dahl,D.B.,Scott,D.,Roosen,C.,Magnusson,A.&Swinton,J.(2019).Xtable:Exporttablestolatexorhtml.Retrieved
+fromhttps://CRAN.R-project.org/package=xtable
+Dancho,M.&Vaughan,D.(2018).Timetk:Atoolkitforworkingwithtimeseriesinr.Retrievedfromhttps://CRAN.
+R-project.org/package=timetk
+Francois,R.(2017).Bibtex:Bibtexparser.Retrievedfromhttps://CRAN.R-project.org/package=bibtex
+Gamber,E.N.(1996).Empiricalestimatesoftheshort-runaggregatesupplyanddemandcurvesforthepost-waru.s.
+Economy.SouthernEconomicAssociation,62,856–872.Retrievedfromhttps://www.jstor.org/stable/1060933
+Keungne,L.S.K.,Mounkala,E.U.&Mukam,A.M.(2016).Optimalitédelapolitiquemonétairedelabeacdepuis
+2001.BEACWorkingPapernum.03/16.
+Kydland,F.E.&Prescott,E.C.(1990).Businesscyclefactsandmonetarymyth.FederalReserveBankofMinneapolis
+QuarterlyReview,Spring,3–18.
+Kydland,F.E.&Prescott,E.C.(1982).Timetobuildandaggregatefluctuations.Econometrica,50,1345–1370.
+Lange,A.,Dalheimer,B.,Herwartz,H.&Maxand,S.(2019).Svars:Data-drivenidentificationofsvarmodels.Retrieved
+fromhttps://CRAN.R-project.org/package=svars
+Microsoft&Weston,S.(2017).Foreach:Providesforeachloopingconstructforr.Retrievedfromhttps://CRAN.
+R-project.org/package=foreach
+Murdoch,D.(2019).Tables:Formula-driventablegeneration.Retrievedfromhttps://CRAN.R-project.org/package=
+tables
+Nelson,C.E.&Plosser,C.I.(1982).Trendsandrandomwalksinmacroeconomictimeseries:Someevidenceand
+implications.JournalofMonetaryEconomics,139–162.
+Pedersen,T.L.(2019).Ggforce:Acceleratingggplot2.Retrievedfromhttps://CRAN.R-project.org/package=ggforce
+Pfaff,B.(2008a).Analysisofintegratedandcointegratedtimeserieswithr,SecondEdition.Springer,NewYork.
+Retrievedfromhttp://www.pfaffikus.de
+17
+
+--- Page 19 ---
+Pfaff,B.(2008b).VAR,svarandsvecmodels:ImplementationwithinRpackagevars.JournalofStatisticalSoftware,
+27.Retrievedfromhttp://www.jstatsoft.org/v27/i04/
+RCoreTeam.(2019).R:Alanguageandenvironmentforstatisticalcomputing.RFoundationforStatisticalCompu-
+ting,Vienna,Austria.Retrievedfromhttps://www.R-project.org/
+Shapiro,M.D.&Watson,M.W.(1988).Sourcesofbusinesscyclefluctuations.NBERmacroeconomicsannual(edsO.J.
+Blanchard&S.Fischer),pp.111–148.Cambridge,Massachussets:TheMITPress.
+Sorensen,P.B.&Whitta-Jacobsen,H.J.(2010).Introducingadvancedmacroeconomics:Growthandbusinesscycles,
+SecondEditionn.(M.-H.H.Education,Ed.).McGraw-HillCompanies.
+Stock, J.H. & Watson, M.W. (1988). Variable trends in economic time series. Journal of Economic Perspectives,
+Summer,147–174.
+Villieu,P.(2004).Unemacroéconomiesanslm?Unmodèledesynthèsepourl’analysedespolitiquesconjoncturelles.
+Revued’économiepolitique,114,289–322.
+Walker,A.(2019).Openxlsx:Read,writeandeditxlsxfiles.Retrievedfromhttps://CRAN.R-project.org/package=
+openxlsx
+Watson,M.D.(1986).Univariatedetrendingmethodswithstochastictrends.JournalofMonetaryEconomics,49–75.
+Wickham,H.(2019).Modelr:Modellingfunctionsthatworkwiththepipe.Retrievedfromhttps://CRAN.R-project.
+org/package=modelr
+Wickham,H.(2017).Tidyverse:Easilyinstallandloadthetidyverse.Retrievedfromhttps://CRAN.R-project.org/
+package=tidyverse
+Wolf,H.C.(1991).Procyclicalprices:Ademi-myth?FederalReserveBankofMinneapolisQuarterlyReview,Spring,
+25–28.
+Wuertz,D.,Setz,T.&Chalabi,Y.(2017).FUnitRoots:Rmetrics-modellingtrendsandunitroots.Retrievedfrom
+https://CRAN.R-project.org/package=fUnitRoots
+Zhao,J.H.(2007).Gap:Geneticanalysispackage.JournalofStatisticalSoftware,23,1–18.Retrievedfromhttp:
+//www.jstatsoft.org/v23/i08
+18

@@ -1,0 +1,790 @@
+Source PDF : Déterminants_de_l'efficacité_des_banques_commerciales_de_la_Communauté_Economique_et_Monét_3eba6e33.pdf
+Chemin original : scraping\beac_data\Supervision bancaire\Publications\Déterminants_de_l'efficacité_des_banques_commerciales_de_la_Communauté_Economique_et_Monét_3eba6e33.pdf
+Date extraction : 15/06/2026 20:15:25
+======================================================================
+
+--- Page 1 ---
+LES DETERMINANTS DE L’EFFICACITE DES
+BANQUES COMMERCIALES DE LA
+COMMUNAUTE ECONOMIQUE ET MONETAIRE
+DE L’AFRIQUE CENTRALE
+Résumé
+Ce document de travail étudie les déterminants de l’efficacité des banques commerciales de la
+Communauté Economique et Monétaire de l’Afrique Centrale (CEMAC). L’étude qui couvre toutes
+les banques en activité assujetties au contrôle de la Commission Bancaire de l’Afrique Centrale
+(COBAC) de 2001 à 2007 s’attache à montrer que le système bancaire de la CEMAC est inefficace
+selon l’optique intermédiation alors qu’il apparaît relativement efficace sous l’optique production.
+L’efficacité est mesurée en utilisant la méthode non paramétrique d’analyse d’enveloppement des
+données, en anglais « Data Envelopment Analysis (DEA) ». Du point de vue de l’optique production,
+le niveau d’inefficacité est moins important et est expliqué par la concentration et l’origine de
+l’actionnariat. En revanche, l’efficacité selon l’optique intermédiation est déterminée positivement par
+le niveau de la solvabilité, de la couverture des immobilisations et par la couverture géographique.
+Dans cette optique, les banques publiques paraissent plus efficaces que les banques privées. Les
+variables liées au respect des normes prudentielles sont statistiquement significatives dans les deux
+optiques. Toutes ces hypothèses ont été estimées à l’aide d’un modèle tobit à effets aléatoires.
+
+--- Page 2 ---
+Contexte
+Dans les débats sur les difficultés économiques qu’éprouvent les pays de la
+Communauté Economique et Monétaire de l’Afrique Centrale (CEMAC)1, rares
+sont les personnes qui ne cèdent pas à la tentation d’incriminer les banques qui
+se refusent d’offrir des services financiers aux populations. Que l’on soit
+décideur politique, expert financier ou simple citoyen, tous semblent s’accorder
+sur le fait que les banques de la CEMAC participent relativement peu au
+financement de l’économie. Elles n’offrent pas de services de qualité alors
+qu’elles perçoivent de leurs clients des commissions, agios et intérêts excessifs.
+Elles ne ressemblent même pas à des caisses d’épargne car elles n’assurent pas
+bien leur rôle de gardiennes des épargnes des populations surtout les plus
+vulnérables. Ces banques sont l’expression et le lieu où se manifeste la
+discrimination entre les riches et les pauvres dont l’accès est interdit à ces
+derniers. Bref, elles ne contribuent pas à la croissance économique des pays de
+la CEMAC (Hugon, 2007).
+A ces incriminations, les banques de la sous-région estiment être victimes d’un
+faux procès. Elles opposent les facteurs institutionnels qui limitent leurs
+activités. Elles citent l’environnement économique, juridique, institutionnel et
+réglementaire pour justifier leur forte aversion à la prise de risque. Sur le plan
+économique, elles relèvent que le revenu réel par tête d’habitant n’a pas
+augmenté quand il n’a pas reculé au cours des deux dernières décennies et les
+différentes localités du territoire de la CEMAC sont difficilement accessibles par
+manque d’infrastructures (routes, chemins de fer, transports aériens, téléphone,
+électricité, eau,….) (Hugon, 2007). L’environnement des affaires, malgré
+l’adhésion de l’ensemble des Etats de la CEMAC à l’Organisation pour
+l’Harmonisation en Afrique du Droit des Affaires (OHADA)2 brille par une
+insécurité juridique qui ne facilite pas le bon dénouement des contentieux. Les
+garanties sont difficilement réalisables et les supports ne sont pas protégés par
+des lois claires à l’instar de la loi foncière. Même lorsque les lois existent, elles
+ne sont pas à l’abri de manœuvres dilatoires dans leur application. En ce qui
+concerne l’environnement institutionnel, les banques estiment que la
+1 La Communauté Economique et Monétaire de l’Afrique Centrale comprend six pays : le Cameroun, la
+Centrafrique, le Congo‐Brazzaville, le Gabon, la Guinée Equatoriale et le Tchad.
+2 L'Organisation pour l'Harmonisation en Afrique du Droit des Affaires (OHADA) a été créée par le Traité relatif
+à l'Harmonisation du Droit des Affaires en Afrique signé le 17 octobre 1993 à Port‐Louis (Ile Maurice). L'OHADA
+regroupe aujourd'hui 16 pays (les 14 pays de la Zone franc CFA, plus les Comores et la Guinée Conakry) et elle
+reste ouverte à tout Etat du continent africain.
+1
+
+--- Page 3 ---
+restructuration du système financier n’est pas achevée dans la CEMAC dans la
+mesure où certaines institutions non-bancaires font encore défaut. Les marchés
+financiers sont faibles et les instruments financiers méconnus. Quant à la
+réglementation bancaire, elle est de plus en plus souvent accusée de freiner
+l’expansion du crédit dans la sous-région.
+Si tous ces griefs portés à l’endroit des banques et leurs répliques ne paraissent
+peut-être pas toutes infondées, il y a lieu de reconnaître qu’il se pose bien un
+problème d’évaluation de l’efficacité du système bancaire de la CEMAC des
+années après sa restructuration. La majorité des banques de la sous-région
+semblent solvables, rentables et liquides mais elles ne parviennent pas à
+satisfaire les énormes besoins de financement de l’économie et n’offrent pas
+tous les services financiers demandés par les populations. Dans un tel contexte,
+peut-on estimer efficace le système bancaire de la CEMAC nouvellement
+restructuré ? Pour répondre à cette interrogation, après avoir décrit les
+développements les plus récents du système bancaire de la CEMAC, il importera
+de définir ce que l’on entend sous le vocable « efficacité » et de procéder à une
+quantification. L’analyse des déterminants de l’efficacité des banques de la
+CEMAC permettra de mieux comprendre le phénomène et de proposer
+éventuellement les mesures correctrices adéquates pour améliorer leur
+contribution à la croissance économique à la lumière de la réglementation
+bancaire en vigueur.
+1. Le système bancaire de la CEMAC après la
+restructuration
+A la fin des années 80, le secteur bancaire de la CEMAC a été secoué par une
+crise sans précédent (Madji, 1997). Cette crise, qui a fait suite à une période
+d’euphorie économique favorisée par l’accroissement des recettes tirées des
+exportations des matières premières dont le pétrole brut, s’est soldée par
+l’ébranlement de l’ensemble du système bancaire de la Communauté. Pour y
+faire face, les Autorités de la CEMAC ont non seulement décidé de la création
+d’une Commission Bancaire régionale, la Commission Bancaire de l’Afrique
+Centrale (COBAC), dotée de pleins pouvoirs pour contrôler les banques mais
+ont également mis en place des plans de restructuration de leur système bancaire
+respectif. Dans le cadre de ces plans, les Etats qui avaient pris l’engagement de
+libéraliser le secteur bancaire ont cédé les actifs sains au secteur privé et mis en
+liquidation les banques jugées non viables. Si aujourd’hui, les banques de la
+CEMAC sont globalement solvables, liquides et rentables, il convient
+néanmoins de s’interroger sur la réalisation des objectifs contenus dans les plans
+de restructuration mis en œuvre dans les Etats entre 1985 et 2007. Pour ce faire,
+2
+
+--- Page 4 ---
+il importe de s’attarder tout d’abord sur l’évolution du cadre macroéconomique
+de la CEMAC au cours de cette période avant d’observer l’évolution du système
+bancaire de la région et de mesurer sa contribution au financement de
+l’économie.
+[JB1]
+1.1 Evolution macroéconomique
+Nous présentons ci-après les évolutions des quelques indicateurs
+macroéconomiques de la CEMAC entre 1985 et 2007.
+a) Croissance et inflation
+Globalement, le taux de croissance est resté négatif de 1990 à 1993 alors qu’il
+est positif et autour de 5% de 1994 à 2007. Même si la croissance a plongé en
+1999 en raison des effets de la crise asiatique, elle connaît au cours de cette
+période une montée en charge avec un pic en 2002 dû à l’augmentation
+simultanée de la production pétrolière et du cours du baril de pétrole brut.
+L’inflation se situe à un niveau modéré, en dessous de 5% durant toute la
+période excepté en 1994 où elle atteint un taux de 35% suite à la dévaluation du
+FCFA.
+Figure 1 : Evolution du taux de croissance et de l’inflation
+3
+
+--- Page 5 ---
+b) Balance des paiements
+Les comptes extérieurs reflètent les effets des évolutions des recettes
+d’exportation, de l’endettement extérieur excessif des Etats, de la spécialisation
+des pays dans l’exportation des matières premières à très faible valeur ajoutée et
+l’importation des produits manufacturés. Ainsi, le solde courant de la balance
+des paiements ressort structurellement négatif au cours de toute la période sous-
+revue. A partir de 2004, il se produit un retournement de tendance lorsque le
+solde courant devient positif. Cette tendance a été confirmée en 2005 et 2006,
+attestant ainsi les effets positifs des efforts consentis par les Etats pour
+l’assainissement des finances publiques et des allègements de la dette dont
+certains d’entre eux ont bénéficié ces dernières années. Le taux d’endettement
+qui avait dépassé le pic de 140% pour l’ensemble de la Communauté est revenu
+à des niveaux significativement acceptables, autour de 40% du PIB. Cependant,
+le solde courant est redevenu légèrement négatif en 2007, retrouvant ainsi sa
+tendance structurelle en raison du recul du solde de la balance commerciale,
+alors que le solde déficitaire de la balance des services et des revenus s’est
+encore creusé.
+Figure 2 : Evolution du solde budgétaire et solde du compte courant
+4
+
+--- Page 6 ---
+c) Finances publiques
+L’évolution des finances publiques des Etats de la CEMAC montre de 1993 à
+1999 un solde global négatif. Il apparaît positif entre 2000 et 2007, en relation
+avec l’accroissement significatif des recettes budgétaires, d’origine pétrolière
+notamment et d’une baisse continue des dépenses courantes couronnant ainsi les
+efforts d’assainissement consentis par les Etats de la CEMAC au cours des deux
+dernières décennies. Cette embellie dans les finances publiques s’est traduite par
+un désengagement des Etats vis-à-vis aussi bien du financement extérieur
+qu’intérieur, surtout du secteur bancaire.
+d) Monnaie et crédit
+Sur le plan monétaire, les différentes grandeurs décrivent une amélioration
+progressive et soutenue. Les avoirs extérieurs nets, négatifs au début de la
+période sous revue, se sont sensiblement accrus à compter de 2000 et ont
+poursuivi leur ascension jusqu’en 2007. Les crédits intérieurs nets ont fortement
+chuté à compter de 2005 en rapport avec l’amélioration de la position nette du
+gouvernement même si les crédits à l’économie ont repris leur croissance mais à
+un rythme moins soutenu. En effet, les Etats ont, dans leurs efforts
+d’assainissement, réduit à la fin de la période sous revue leur endettement vis-à-
+vis du système monétaire alors que les banques ont fait preuve de plus de
+vigilance dans l’octroi des crédits au secteur privé. En contrepartie, la masse
+monétaire qui elle aussi avait baissé en 1993 n’a cessé de progresser entre 1994
+et 2007. La couverture de la monnaie paraît bien assurée, se situant au dessus de
+80% en 2007 après être passée sous la barre de 20% de 1987 à 1993.
+5
+
+--- Page 7 ---
+Figure 3 : Evolution des crédits
+Cependant, si les efforts d’assainissement des comptes se sont traduits par une
+progression du taux des dépôts par rapport au PIB, la proportion des crédits à
+l’économie a plutôt brusquement chuté à partir de 2003, donnant ainsi des
+arguments à tous ceux qui relèvent la frilosité des banques de la Communauté
+dans le financement de l’économie.
+6
+
+--- Page 8 ---
+Figure 4 : crédits, dépôts, croissance et M2
+1.2 Incidences sur la situation financière des
+banques de la CEMAC
+Le système bancaire de la CEMAC est marqué par une amélioration de la
+situation financière et une consolidation continue de la rentabilité. Toutefois, il
+demeure très concentré et sous-capitalisé en dépit du renforcement de ses
+performances.
+[JB2]
+a) Situation financière
+La situation financière des banques de la CEMAC apparaît saine. Caractérisée
+par une baisse tendancielle du total du bilan, des crédits bruts et des dépôts de
+1987 à 1993, elle s’est relevée depuis 1994 et est plus manifeste à compter de
+2000 et se poursuit jusqu’en 2007. Le total de bilan cumulé de l’ensemble des
+banques de la sous région a fortement progressé grâce à la hausse des dépôts de
+la clientèle et dans une moindre mesure des crédits nets à la clientèle.
+7
+
+--- Page 9 ---
+Figure 5 : Evolution de la situation des banques
+Les créances douteuses sont restées tendanciellement stables mettant
+visiblement en lumière la question de la qualité du portefeuille et celle du
+déclassement volontaire des créances par les banques.
+Figure 6 : Evolution des crédits
+8
+
+--- Page 10 ---
+Cependant, les banques ont poursuivi tout au long de cette période leur politique
+de renforcement du provisionnement des créances douteuses.
+Les capitaux permanents se sont progressivement accrus et plus vite que les
+immobilisations nettes. Toutefois, ils ne sont parvenus à couvrir les valeurs
+immobilisées nettes que depuis 1996 dégageant ainsi un excédent positif sur le
+reste de la période.
+Figure 7 : Evolution des ressources propres
+Au regard des évolutions décrites ci-dessus, il ressort que les banques de la
+CEMAC extériorisent une capacité de financement alors qu’elles étaient
+pratiquement toutes en besoin de financement avant la mise en œuvre des plans
+de restructuration. En effet, longtemps en situation de besoin de financement,
+expression d’une trésorerie tendue, les banques de la Communauté n’ont cessé
+de consolider au fil des années leur capacité de financement. Le renforcement de
+la trésorerie bancaire s’est accéléré à compter de 2000 et se raffermit chaque
+année comme le montre le graphique ci-dessous. Cette trésorerie est placée
+essentiellement auprès de la banque centrale et des correspondants ou gardée
+sous forme d’encaisses oisives. On peut donc penser qu’à travers le
+renforcement de la trésorerie, l’un des objectifs de rétablir la liquidité du
+système a été atteint.
+9
+
+--- Page 11 ---
+Figure 8 : Evolution de la trésorerie
+Les banques de la CEMAC sont redevenues globalement liquides.
+b) Rentabilité
+Le compte des résultats fait apparaître une amélioration du Produit net bancaire
+alors qu’il a stagné jusqu’en 1994. Les opérations avec la clientèle et les
+opérations diverses contribuent essentiellement, à sa formation. Ces deux
+principales composantes du produit net bancaire sont relativement stables même
+si certaines banques réalisent des opérations diverses supérieures aux opérations
+avec la clientèle.
+Les frais généraux en revanche semblent contenus bien qu’ils soient en
+ascension à partir de 2002. En contrepartie, il se dégage un résultat brut positif et
+en ascension graduelle. Cette tendance haussière est la résultante de l’effet
+conjugué de l’augmentation des charges du personnel et des autres frais
+généraux.
+10
+
+--- Page 12 ---
+Figure 9 : Evolution du PNB
+En contrepartie, le résultat brut d’exploitation s’est renforcé au fil des années.
+Après déduction des comptes de prévoyance (dotations aux amortissements et
+provisions), il ressort un résultat net positif globalement et en augmentation.
+Figure 10 : Evolution de la Rentabilité
+Le coefficient net d’exploitation s’est fortement amélioré dévoilant ainsi un
+redressement de la gestion des établissements de crédit.
+11
+
+--- Page 13 ---
+Figure 11 : Ratios de rentabilité
+La rentabilité semble en apparence bonne dans le secteur après la restructuration
+du système.
+c) Respect des normes prudentielles
+Sur le plan du respect de la réglementation prudentielle, particulièrement celui
+des normes basées sur les fonds propres, les progrès sont sensiblement
+perceptibles depuis la création de la Commission Bancaire à qui incombe la
+charge de la surveillance du système bancaire dans les Etats de la CEMAC. Le
+nombre de banques en conformité avec la réglementation prudentielle s’est
+davantage conforté comparativement au début des années 90 où pratiquement
+aucune banque de la Communauté ne la respectait. En matière de solvabilité,
+81% des banques extériorisent un ratio de couverture des risques pondérés par
+les fonds propres nets supérieur ou égal au minimum de 8 %.
+Dans le cadre des normes de division des risques, 83% des banques parviennent
+à respecter la limite globale en maintenant en dessous de l'octuple des fonds
+propres nets la somme des risques pondérés supérieurs à 15 % desdits fonds
+propres mais seules 33% d’entre elles se conforment à la limite individuelle en
+n'entretenant pas de risques pondérés encourus sur un même bénéficiaire
+excédant 45 % des fonds propres nets (la norme édictée par le Comité de Bâle
+est fixée à 25%).
+12
+
+--- Page 14 ---
+S'agissant de la couverture des immobilisations par les ressources permanentes,
+69% des banques de la CEMAC réalisent un ratio supérieur ou égal au minimum
+de 100 %. Par ailleurs, 75% des banques sont en conformité avec la norme
+relative aux engagements sur les apparentés.
+Figure 12 : Respects des normes prudentielles
+En ce qui concerne le rapport de liquidité, les disponibilités à vue ou à moins
+d'un mois sont supérieures ou égales au minimum réglementaire de 100 % des
+exigibilités de même terme pour 97% d’entre elles. Quant au respect du
+coefficient de transformation à long terme, il est respecté par 83% des banques.
+Figure 13 : Respects des normes de liquidités
+13
+
+--- Page 15 ---
+Si les normes prudentielles semblent de plus en plus honorées par les banques de
+la CEMAC, il n’en demeure pas moins qu’elles soient encore vulnérables
+comme en témoignent l’insuffisance chronique en fonds propres consécutive à
+leur sous-capitalisation, le coût élevé des services bancaires et leur forte
+concentration. Seules 13% des banques ont des fonds propres suffisants pour le
+respect de l’ensemble des normes prudentielles assises sur les fonds propres.
+Figure 14 : Respect des normes sur les fonds propres
+A l’exception d’un ou de deux pays où la concurrence tend à s’accentuer, le
+système bancaire de la CEMAC demeure dans l’ensemble très concentré en
+termes de total de bilan, des dépôts et des crédits.
+Figure 15 : Evolution de la concentration
+14
+
+--- Page 16 ---
+En définitive, les banques de la CEMAC sont redevenues solvables, liquides et
+rentables. La réalisation de ces objectifs des plans de restructuration bancaire ne
+doit pas occulter les difficultés réelles des banques de la CEMAC à financer des
+économies très peu diversifiées. Les excédents de liquidités non utilisées, la
+forte concentration bancaire et le coût élevé des services bancaires révèlent à
+n’en point douter une absence d’efficacité du système.
+2. Cadre théorique
+Koopmans (1951) fut le premier à proposer une définition formelle de
+l’efficacité technique : « un producteur est techniquement efficace si
+l’augmentation de n’importe quel output requiert la diminution d’au moins un
+autre output ou l’accroissement d’au moins un input, et si une réduction de
+n’importe quel input requiert l’élévation d’au moins un autre input ou la
+réduction d’au moins un output. » Autrement dit, une entreprise techniquement
+efficace doit se situer à la frontière de son ensemble de production.
+Un programme de production ne doit pas néanmoins être retenu au seul motif
+qu’il est techniquement efficace. Rien ne garantit, en effet, que l’entreprise qui
+le met en œuvre assure un profit maximum. Le profit ne dépend pas uniquement
+des quantités de biens ou de services vendus ou achetés ; il dépend aussi des prix
+prévalant sur les marchés (des biens produits, des consommations intermédiaires
+et des facteurs de production). L’entreprise doit choisir en conséquence son
+programme de production.
+L’efficacité allocative traduit dans ces conditions, l’habileté des dirigeants à
+choisir parmi les programmes de production techniquement efficaces, celui qui
+lui assure le profit le plus élevé, ou si l’on préfère, l’habileté à choisir les inputs
+dans des proportions optimales. C’est à Farell (1957) que l’on doit cette
+distinction entre efficacité technique et efficacité allocative. En définitive,
+l’efficience implique à la fois l’efficacité technique et l’efficacité allocative.
+Il existe une abondante littérature consacrée à la mesure de l’efficacité des
+firmes (Ambapour, 2001). Il existe grosso modo deux grandes approches :
+l’approche paramétrique et l’approche non-paramétrique.
+2.1 Les méthodes paramétriques
+Elles reposent sur une spécification paramétrique de la fonction de production.
+Les spécifications usuelles sont translog et Cobb-douglas. Si nous désignons par
+y le niveau d’output réalisé, x le vecteur d’input et f la fonction de production,
+nous avons la relation :
+15
+
+--- Page 17 ---
+La fonction de production est en fait une frontière de possibilité (c’est-à-dire le
+niveau maximal d’output pouvant-être obtenu à un niveau donné d’input). u
+mesure l’écart entre l’output observé et l’output maximum réalisable. Il mesure
+l’inefficacité. La mesure de l’efficacité est le rapport :
+Où est un estimateur de , généralement estimé par maximum de
+vraisemblance. Cette forme est dite déterministe. On peut introduire un terme
+d’erreur stochastique pour tenir compte des chocs externes non observés. Dans
+ce cas, on parle de frontières stochastiques. Ce qui correspond à une mesure de
+la forme :
+2.2 Les méthodes non paramétriques
+Ces méthodes n’imposent aucune spécification de la fonction (ou frontière) de
+production. La méthode « Data Envelopment Analysis » est la plus utilisée.
+a) L’approche « Data Envelopment Analysis » (DEA)
+L’idée de la méthode est de déterminer les unités de production efficientes, de
+construire une frontière de production par interpolation à partir de celles-ci, et
+pour chaque unité de mesurer la distance à cette frontière. La caractérisation
+mathématique est donnée ci-après.
+Etant donné un échantillon de n firmes caractérisées par s inputs (x) et m outputs
+(y), l’efficacité de la firme 0 est obtenue en résolvant le programme linéaire ci-
+après (Charnes et al., 1978) :
+sous les contraintes :
+16
+
+--- Page 18 ---
+Il ne s’agit pas d’un programme linéaire. Il est non-linéaire, plus exactement
+fractionnaire. Charnes et Cooper (1962,1973) montrent comment de tels
+programmes peuvent être résolus par les outils de la programmation linéaire.
+Une fois transformée en programme linéaire, la résolution du programme primal
+ci-dessus peut s’avérer lourde si le nombre de firmes est assez élevé car on a
+autant de contraintes que de firmes. C’est pourquoi, il est fait recours au
+programme dual dont le nombre de contraintes ne dépend que du nombre
+d’inputs. Sous forme matricielle, le primal et le dual du programme à résoudre
+s’écrivent :
+Primal Dual
+Sous contraintes Sous contraintes
+Source : Ramanathan (2003)
+Le modèle DEA présenté ci-dessus est souvent désigné CCR (Charnes, Cooper
+et Rhodes) du nom de ses auteurs. Une de ces limites a été de ne pas prendre en
+compte l’échelle à laquelle l’unité opère. Cette lacune a été comblée en 1984 par
+Banker et al. (1984) : Dans le programme dual, les variables duales ( ) sont des
+pondérations optimales des inputs et outputs de toutes les unités dans le champ
+d’étude. Si on fait l’hypothèse que les firmes opèrent sous rendements d’échelle
+variables, la frontière est formée par combinaisons convexes. Il suffit donc
+d’ajouter au dual la contrainte suivante :
+(ou respectivement et selon que les rendements soient décroissants ou
+croissants) c’est le modèle BCC (Banker, Charnes et Cooper).
+3. Méthodologie
+3.1 Méthodologie de mesure de l’efficacité
+Les données utilisées sont extraites du système CERBER (Collecte, Exploitation
+et Restitution aux Banques et Établissements financiers des États
+Réglementaires) de la COBAC. Les données des bilans disponibles portent sur
+17
+
+--- Page 19 ---
+toutes les banques en activité de la CEMAC et couvrent la période de 2001 à
+2007, avec une fréquence mensuelle, alors que les comptes de résultats sont
+disponibles annuellement. Ainsi, l’étude sera réalisée sur une base annuelle : un
+score d’efficacité sera chaque année pour les banques considérées. Au final,
+nous disposerons d’un panel sur la période 2001 à 2007.
+Une des difficultés méthodologiques de la mesure de l’efficacité au sein des
+banques réside dans la mesure de leur activité. Freixas et al (1999) distingue
+trois approches de mesure : l’approche production, l’approche d’intermédiation
+et l’approche dite moderne.
+Selon l’approche production, le rôle des banques est de fournir des services à
+leur clientèle. L’output de la banque est le volume des services fournis aux
+épargnants et aux emprunteurs. Les inputs sont le capital physique et le travail.
+Dans l’approche d’intermédiation, le rôle de la banque est de collecter les fonds
+pour les transformer en crédits. Les inputs sont alors les dépôts collectés et les
+fonds empruntés, et le volume de crédits accordés constitue le principal output.
+Dans l’approche moderne, les théoriciens incorporent les éléments de la théorie
+de l’information dans l’activité des banques, la gestion des risques, ...
+C’est surtout l’efficacité dans le cadre de l’intermédiation financière qui est le
+plus souvent évaluée. Dans le cadre de cette étude, nous évaluerons l’efficacité
+selon les deux approches. Ce choix est guidé par la structure du compte des
+résultats des banques de la CEMAC : les poids des marges sur l’intermédiation
+et sur les autres services bancaires sont très proches. Il serait donc réducteur de
+limiter la mesure de l’efficacité uniquement à l’intermédiation, en ignorant
+l’efficacité de production plus proche de l’objectif poursuivi par les dirigeants et
+détenteurs des banques.
+Tableau 1 : Résultats des banques de la CEMAC (en millions)
+Exercice 2003 2004 2005 2006 2007
+Marge sur opérations de trésorerie 5 185 7 824 6 104 13 531 28 577
+Marge sur opérations financières 12 652 13 070 14 657 15 032 17 649
+Marge sur opérations de la clientèle 125 889 128 266 135 028 142 985 170 007
+Marge sur opérations diverses 100 018 107 858 127 530 141 376 160 689
+Marge sur opérations de crédit-bail 391 1 012 977 1 490 1 757
+Produit Net Bancaire 244 135 258 030 284 296 314 414 378 659
+Source : COBAC
+Dans ce tableau, les marges sur opérations diverses proviennent essentiellement
+des opérations de change. Les marges sur opérations de la clientèle comprennent
+les intérêts sur crédits et comptes débiteurs. Fort de tout ceci, nous retiendrons
+les variables récapitulées dans le tableau ci-après :
+18
+
+--- Page 20 ---
+Tableau 2 : Variables utilisées pour la mesure de l’efficacité
+Approche Production Intermédiation
+Outputs Produit d'exploitation bancaire Crédits brut à la clientèle
+Produits accessoires Titres de placement et de transaction
+Reprises de provisions
+Autres produits
+Inputs Charges d'exploitation bancaire Ressources de trésorerie
+Charges de personnel Dépôts de la clientèle
+Provisions et amortissements Fonds propres
+autres charges
+3.2 Méthodologie d’analyse des déterminants de
+l’efficacité
+Après avoir obtenu une mesure de l’efficacité de production des banques, nous
+allons essayer d’en élucider les facteurs déterminants. Nous recourrons à la
+modélisation en données de panel. Nous testerons les facteurs habituellement
+utilisés dans l’analyse des déterminants de la profitabilité des établissements
+financiers. La littérature économique identifie les facteurs externes et facteurs
+internes à la banque. Parmi les facteurs internes on retrouve, (le niveau de
+liquidité, la politique de provisionnement, l’adéquation du capital, la taille de la
+banque, ... Athanasoglou et al. 2006). Comme facteurs externes, sont identifiées
+les caractéristiques propres au secteur financier notamment la concurrence et les
+variables macroéconomiques qui reflètent l’environnement dans lequel les
+établissements opèrent.
+L’efficacité est bornée entre 0 et 1 dans l’optique de mesure de Farrell ou
+supérieur à 1 si on considère l’optique de Shepard, ll est alors approprié
+d’estimer un modèle tobit (Tobin, 1958). Celui-ci prend en compte la nature
+bornée de la variable explicative.
+Ce modèle s’écrit dans le cas des données de panel :
+Avec :
+le niveau d’efficience au sens de shepard de la banque i à la date t.
+la matrice des variables explicatives de la banque i à la date t.
+le vecteur des coefficients fixes,
+l’effet aléatoire qui prend en compte les facteurs non
+spécifié de la banque i.
+le résidu aléatoire du modèle.
+19
+
+--- Page 21 ---
+Une autre solution pour modéliser les variables limitées entre 0 et 1 est fournie
+par la betareg (Cribani-Neto et al, 2004). Nous retiendrons l’estimation d’un
+modèle tobit sur données de panel. Comme variables explicatives, nous
+retiendrons :
+Tableau 3 : Variables explicatives retenues
+Variables Mesure
+Facteurs internes Liquidité Ratio de liquidité
+Immobilisations Ratio de couverture des immobilisations
+Aversion au risque Ratio de couverture des risques
+Taille de la banque Logarithme de l’actif
+Structure de l’actionnariat Actionnaire majoritaire
+Facteurs sectoriels Concentration Indice de Herfindahl-Hirschman
+Facteurs Inflation Indice des prix à la consommation
+macroéconomiques Activité économique Croissance du PIB, PIB par tête
+4. Résultats
+4.1 Le niveau d'efficacité des banques de la
+CEMAC
+Dans cette section, nous présentons les résultats obtenus3. Les tableaux 4 et 5
+présentent les niveaux moyens d'efficacité estimés de 2001 à 2007. Le niveau
+moyen sur la période se situe à 0,86 suivant l'approche production.
+Tableau 4 : Mesure de l’efficacité (approche production)
+Moyenne écart-type Minimum
+2001 0,91 0,14 0,48
+2002 0,89 0,13 0,55
+2003 0,86 0,20 0,27
+2004 0,87 0,20 0,36
+2005 0,84 0,18 0,46
+2006 0,85 0,15 0,51
+2007 0,89 0,15 0,57
+Selon l'approche intermédiation, sur la période le niveau moyen d'efficacité se
+situe à 0,77.
+3 Nous avons utilisé le logiciel FEAR de Wilson (2006) pour réaliser nos calculs. Nous avons retenu les résultats
+du modèle de base CCR.
+20
+
+--- Page 22 ---
+Tableau 5 : Mesure de l’efficacité (approche intermédiation)
+Moyenne écart-type Minimum
+2001 0,86 0,20 0,25
+2002 0,82 0,18 0,32
+2003 0,72 0,22 0,30
+2004 0,75 0,22 0,26
+2005 0,81 0,23 0,18
+2006 0,78 0,22 0,18
+2007 0,77 0,25 0,10
+Nous constatons sur les graphiques ci-après que l’efficacité d’intermédiation n’a
+cessé de baisser sur la période tandis que l’efficacité de production, après une
+légère baisse de 2002 à 2005, a de nouveau progressé.
+Figure 16 : Efficacité de production et d’intermédiation
+2001 2002 2003 2004 2005 2006 2007
+21
+00.1
+59.0
+09.0
+58.0
+08.0
+57.0
+07.0
+Production
+années
+%
+2001 2002 2003 2004 2005 2006 2007
+00.1
+59.0
+09.0
+58.0
+08.0
+57.0
+07.0
+intermediation
+années
+%
+La variabilité de l’efficacité est assez importante avec des coefficients de
+variation supérieurs à 15% (figure 16). La variabilité est plus forte, et s’accentue
+en termes d’intermédiation. En termes de production, après une légère
+augmentation, les écarts entre les banques de la CEMAC ont reculé depuis 2004.
+Même si les banques tendent à avoir une convergence du point de vue de la
+production, elles divergent en termes d’intermédiation.
+
+--- Page 23 ---
+Figure 17 : Sygma Convergence de l’efficacité
+2001 2002 2003 2004 2005 2006
+22
+53
+03
+52
+02
+51
+01
+5
+0
+Production
+Intermédiation
+4.2 Les déterminants de l'efficacité
+Nous présentons ci-dessous les estimations réalisées à partir d'un modèle tobit à
+effet aléatoire. Nous avons estimé un modèle pour chacune des approches de
+mesure. Il ressort que les déterminants de l'efficacité varient selon les deux
+approches, certains jouant différemment selon l'approche retenue.
+Tableau 6 : Déterminants de l’efficacité optique production
+Coef. Std. Err. z P>z
+ratio de solvabilité 0.18 0.06 3.06 0.002
+ratio de limitation des grands risques -0.01 0.06 -1.61 0.107
+taille 0.01 0.01 1.06 0.287
+indice Hirschman Herfindahl 0.24 0.12 1.93 0.054
+actionnaire majoritaire: public Ref
+actionnaire majoritaire: privé étranger 0.05 0.05 1.02 0.31
+actionnaire majoritaire: privé national 0.14 0.06 2.16 0.031
+constante 0.55 0.16 3.40 0.001
+0.06 0.02 3.82 0.00
+0.15 0.01 18.35 0.00
+0.144 0.069
+S'agissant de l'approche production, la solvabilité joue positivement avec
+l'efficacité. Cet indicateur, à lui seul peut parfois très bien résumer la situation
+d'une banque. La taille de la banque joue aussi positivement, tout comme la
+concentration. Un niveau élevé de concentration traduit une situation d'oligopole
+(concurrence monopolistique) qui génère une plus forte rentabilité par rapport à
+la situation de concurrence pure et parfaite.
+
+--- Page 24 ---
+Un autre facteur important est la nature de l'actionnaire majoritaire. Il apparaît
+selon cette approche que les banques où l'Etat est l'actionnaire majoritaire sont
+les moins efficientes. Elles ont en moyenne 13 points d'efficacité en moins par
+rapport à celles détenues par les privés nationaux. L'écart entre les banques
+détenues par l'Etat et les privés étrangers n'est pas si important.
+L'effet pays a également été testé mais ne s'est pas avéré significatif dans cette
+approche.
+Nous avons aussi testé l'impact de la réglementation de la COBAC par
+l'introduction des écarts aux normes prudentielles. La solvabilité et la limitation
+des grands risques sont apparues significatives. Une meilleure couverture des
+risques renforce l’efficacité alors que la réglementation sur la division des
+risques joue négativement sur l’efficacité des banques de la CEMAC en raison
+de l’étroitesse du marché.
+Enfin, les variables de l'environnement macroéconomique ne sont pas apparues
+pertinentes dans cette approche.
+Selon l’approche intermédiation, la solvabilité joue toujours positivement avec
+l’efficacité. Selon cette approche, la liquidité joue négativement avec
+l’efficacité. Ce qui semble dénoter une certaine incapacité des banques à
+transformer les surplus de liquidités en actif rentable. Le ratio de couverture des
+immobilisations est aussi positivement corrélé avec l’efficacité. Ce qui indique
+que les banques efficaces sont celles qui n’utilisent pas les dépôts de la clientèle
+pour financer leurs immobilisations, mais les consacrent à l’octroi des crédits.
+La taille de la banque n’est plus pertinente. Cependant, le logarithme du nombre
+des guichets est pertinent et est un signe d’efficacité dans l’intermédiation
+bancaire.
+Tableau 7 : Déterminants de l’efficacité optique intermédiation
+Coef. Std. Err. z P>z
+ratio de solvabilité 0.119 0.071 1.69 0.09
+ratio de liquidité -0.075 0.015 -5.15 0.00
+ratio de couverture des immobilisations 0.002 0.001 -2.11 0.04
+taille -0.023 0.024 -0.95 0.34
+Nombre de guichets (log) 0.043 0.030 1.42 0.15
+indice Hirschman Herfindahl -0.163 0.198 -0.83 0.40
+croissance du PIB -0.240 0.146 -1.69 0.09
+Inflation 0.470 0.348 1.37 0.17
+actionnaire majoritaire : public ref
+actionnaire majoritaire : privé étranger -0.102 0.069 -1.47 0.14
+actionnaire majoritaire : privé national -0.035 0.086 -0.41 0.68
+Cameroun ref
+Centrafrique 0.186 0.092 2.03 0.04
+23
+
+--- Page 25 ---
+Congo -0.163 0.092 -1.80 0.07
+Gabon -0.121 0.066 -1.82 0.07
+Guinée Equatoriale 0.096 0.101 0.94 0.35
+Tchad 0.082 0.068 1.21 0.23
+Constante 1.252 0.263 4.75 0.00
+0.093 0.017 5.31 0.00
+0.143 0.008 18.19 0.00
+0.299 0.086
+La concentration n’est plus pertinente. L’inflation joue positivement. Elle est
+beaucoup plus une variable de contrôle dans cette approche que d’un facteur
+explicatif car l’octroi de crédit participe à la création monétaire. Nous constatons
+aussi que la croissance joue négativement avec l’efficacité dans l’intermédiation
+bancaire. Ceci pourrait s’expliquer par le fait que dans un environnement
+caractérisé par l’incertitude, les problèmes d’asymétrie d’information et d’aléa
+moral, les banques privilégient la liquidité à la rentabilité malgré le regain de
+croissance économique.
+La nature de l’actionnaire majoritaire n’est pas assez pertinente. Cependant, il y
+a présomption d’une efficacité plus forte dans les banques détenues par l’Etat.
+Les effets pays sont significatifs. En Centrafrique et dans une moindre mesure
+au Tchad et en Guinée Equatoriale, il y a présomption d’une plus forte efficacité
+par rapport au Cameroun. Les banques du Congo et du Gabon sont les moins
+efficaces selon cette approche. Le boom pétrolier peut justifier l’expansion au
+Tchad et en Guinée.
+24
+
+--- Page 26 ---
+Conclusion
+Cette étude a abordé le problème de l’efficacité des banques de la CEMAC
+après leur restructuration. Après avoir exposé le contexte post-restructuration
+actuel du système bancaire, nous avons présenté le concept complexe
+d’efficacité ainsi que sa mesure. Parmi les multiples techniques de mesure de
+l’efficacité, nous avons retenu la méthode non paramétrique DEA. Nous avons
+appliqué cette méthode aux banques de la CEMAC pour la période allant de
+2001 à 2007. Pour cela, nous avons distingué l’efficacité du point de vue de la
+production et du point de vue de l’intermédiation bancaire qui consiste en la
+mobilisation des ressources auprès des agents économiques en capacité de
+financement pour les orienter vers les agents en besoin de financement.
+Du point de vue de l’optique production le niveau d’inefficacité est moins
+important. Il se situe autour de 10%. Selon cette optique, la concentration et
+l’origine de l’actionnariat sont les facteurs qui apparaissent les plus pertinents
+parmi ceux retenus. Le dernier facteur est plus significatif pour les banques
+privées. Les variables macroéconomiques ne semblent pas jouer dans la
+détermination de l’efficacité des banques de la CEMAC. Les variables liées au
+respect des normes prudentielles sont statistiquement significatives. Ainsi, l’idée
+très répandue selon laquelle le respect de la réglementation est un frein à l’essor
+de l’activité bancaire n’est pas confirmée car la solvabilité détermine
+positivement l’efficacité des banques. Il faut cependant noter que la limitation
+des grands risques semble défavorable à l’efficacité des banques.
+En termes d’intermédiation, les banques de la CEMAC ne sont pas assez
+performantes avec un niveau d’inefficacité avoisinant les 30%. Il y a une forte
+disparité entre les banques de la CEMAC en termes d’efficacité d’intermédiation
+25
+
+--- Page 27 ---
+et ces disparités se sont accentuées ces dernières années. L’efficacité selon
+l’optique intermédiation est déterminée positivement par le niveau de
+solvabilité, de couverture des immobilisations et par la couverture géographique
+à travers le nombre de guichets. Une liquidité abondante est synonyme
+d’inefficacité selon cette approche. La croissance par contre intervient
+négativement sur la détermination de l’efficacité. Dans cette optique, les
+banques publiques paraissent plus efficaces que les banques privées. Les
+banques centrafricaines, tchadiennes et équato-guinéennes paraissent les plus
+performantes de la sous-région. Dans cette approche, la réglementation bancaire
+ne serait pas aussi un frein à l’efficacité.
+Si la solution au problème de l’inefficacité d’intermédiation des banques de la
+CEMAC ne consiste pas à relâcher la rigueur des normes prudentielles, le
+Superviseur ne saurait à terme faire l’économie d’une revue de la norme sur la
+division des risques.
+Quant aux banques, elles devront se doter d’outils efficaces pour transformer
+leurs liquidités abondantes en actifs rentables et étendre leur couverture
+géographique pour renforcer le niveau d’accessibilité des populations aux
+services financiers.
+Pour les Etats en revanche, même si les variables macroéconomiques ne sont pas
+ressorties corrélées étroitement à l’efficacité des banques, il n’en demeure pas
+moins qu’il faille de leur côté poursuivre les réformes macroéconomiques en
+vue d’une croissance durable et renforcer l’environnement juridique pour
+permettre aux banques d’accorder des crédits sans avoir à craindre l’insécurité
+juridique chronique.
+26
+
+--- Page 28 ---
+Références bibliographiques
+Ambapour S. (2001) « Estimation des frontières de production et mesures de
+l’efficacité technique », Bureau d’Application des Méthodes Statistiques et
+Informatiques (BAMSI), DT 02/2001.
+C. A. K. Lovell Aigner, D. J. and P.J. Schmidt (1997) Formulation and
+estimation of stochastic frontier production function models. Journal of
+Econometrics, (6) :21–37.
+N. Amara et Romain R. (2000), Mesure de l’efficacité technique : Revue de la
+littérature. Cahiers du CRÉA, (SR.00.07).
+Delis M. D. Athanasoglu, P. A. and C K. Staikouras (2006). Determinants of
+bank profitability in the south eastern european region. Bank of Greece, Working
+Paper, (47).
+W. W. Cooper, Charnes, A. and E. Rhodes (1978), Measuring the efficiency of
+decision making units. Eur. J. of Oper, (Res. 2) :429–444, 1978.
+Commission Bancaire de l’Afrique Centrale (2001-2007), Rapports d’activités
+annuels.
+Cribari-Neto, F., Ferrari, S.L.P.(2004), Beta regression for modeling rates and
+proportions. Journal of Applied Statistics, v. 31, n. 7, p. 799-815.
+Debreu, D.G. (1951), The coefficient of resource utilisation. Econometrica, 19
+:273–292.
+Farrell, M. J. (1957), The measurement of productive efficiency. Journal of
+Royal Statistics, Series A, 120, Part 3 :253–281, 1957.
+Farrell, M. J. and Fieldhouse, M. (1962), Estimating efficient production under
+increasing returns to scale. Journal of Royal Statistics, Series A, 125, Part 2
+:252–267.
+Hugon P. (2007) Rentabilité du secteur bancaire et défaillance du financement
+du développement. Le cas de la CEMAC. Revue Tiers Monde, n° 192, oct-déc.
+27
+
+--- Page 29 ---
+Koopman T. (1951), Analysis of Production as an Efficient Combination of
+Activities. Activity. In T.C. Koopmans, ed, Activity Analysis of Production and
+Allocation. Monograph n° 13. John Wiley and sons, Inc., New York.
+Madji, A. (1997), Le point sur la restructuration bancaire en Afrique Centrale,
+Bulletin de la Commission Bancaire de l’Afrique Centrale, 2, août 1997.
+Necat OREN M. and ALEMDAR T. (2006), Technical efficiency analysis of
+tobacco farming in southeastern anatolia. Turk J Agric For, (30) :165–172.
+R Development Core Team (2006) R : A Language and Environment for
+Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria,
+2006. ISBN 3-900051-07-0.
+Tobin, J. (1958) Estimation of Relationship for Limited Dependent Variables,
+Econometrica, 26, 24-36.
+Wilson P. W. (2006). FEAR: Frontier Efficiency Analysis with R. R
+package version 1.1.
+28
+
+--- Page 30 ---
+ANNEXES
+A1. Score moyen d’efficacité de production par pays
+Pays 2001 2002 2003 2004 2005 2006 2007
+Cameroun 0.91 0.85 0.93 0.91 0.86 0.81 0.84
+Centrafrique 0.88 1.00 0.77 0.82 0.77 0.78 0.91
+Congo 1.00 1.00 1.00 1.00 0.93 0.89 0.92
+Gabon 0.91 0.94 0.83 0.87 0.85 0.93 0.97
+Guinée Equatoriale 1.00 0.92 0.78 0.87 0.96 0.90 0.96
+Tchad 0.87 0.86 0.83 0.80 0.77 0.83 0.82
+CEMAC 0.91 0.89 0.86 0.87 0.84 0.85 0.89
+A2. Score moyen d’efficacité d’intermédiation par pays
+2001 2002 2003 2004 2005 2006 2007
+Cameroun 0.91 0.87 0.78 0.80 0.84 0.77 0.78
+Centrafrique 0.97 1.00 0.98 0.97 1.00 1.00 1.00
+Congo 0.67 0.47 0.34 0.47 0.59 0.42 0.55
+Gabon 0.74 0.84 0.64 0.61 0.60 0.63 0.66
+Guinée Equatoriale 0.77 0.68 0.55 0.82 0.95 0.74 0.54
+Tchad 0.92 0.83 0.71 0.77 0.88 0.98 0.95
+Total général 0.86 0.82 0.72 0.75 0.81 0.78 0.77
+29

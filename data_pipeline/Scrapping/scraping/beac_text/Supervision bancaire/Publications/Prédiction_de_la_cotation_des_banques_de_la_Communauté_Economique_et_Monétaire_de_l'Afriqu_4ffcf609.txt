@@ -1,0 +1,1339 @@
+Source PDF : Prédiction_de_la_cotation_des_banques_de_la_Communauté_Economique_et_Monétaire_de_l'Afriqu_4ffcf609.pdf
+Chemin original : scraping\beac_data\Supervision bancaire\Publications\Prédiction_de_la_cotation_des_banques_de_la_Communauté_Economique_et_Monétaire_de_l'Afriqu_4ffcf609.pdf
+Date extraction : 15/06/2026 20:15:48
+======================================================================
+
+--- Page 1 ---
+Prédiction de la cotation des banques de la
+Communauté Économique et Monétaire de
+l’Afrique Centrale
+Résumé
+Cette étude est une tentative de prévision de la cotation des banques de la Commu-
+nauté Économique et Monétaire de l’Afrique Centrale (CEMAC). Elle s’inspire des
+travaux réalisés dans ce sens dans les pays occidentaux notamment aux États-unis.
+Son originalité se situe dans la procédure d’estimation. En effet, nous utilisons un
+modèle de régression linéaire pour prédire la cote d’une banque comme Meyer et
+Pifer (1970), plutôt que d’utiliser les modèles classiques probit ou logit. Par rapport
+àlaterminologiesurles«EarlyWarningSystems»,ellerestedansl’approcherating
+estimation. Le modèle estimé s’avère satisfaisant du point de vue de sa capacité à
+prédire la situation des banques avec une erreur de type I de l’ordre de 14% et une
+erreur de type II de l’ordre de 7%.
+Mots-cles : Prévisions, modèle de prédiction de rating, données de panels.
+Classification JEL : C33, C53, G21
+
+--- Page 2 ---
+2
+1 Introduction
+Depuis plus d’une dizaine d’années, le secteur bancaire fait l’objet d’une surveillance
+étroite de la part des Autorités de Supervision de la Communauté Économique et Moné-
+taire de l’Afrique Centrale (CEMAC)1, du fait des coûts substantiels que sa défaillance
+dans les années 80 et 90 a engendrés pour toute la société dans son ensemble (déposants,
+actionnaires, trésors publics, employés, entreprises, etc.). A la fin des années 80, un grand
+nombre de défaillances bancaires a en effet, été enregistré dans la sous-région. En 1990,
+par exemple, 18 des 24 banques en activité étaient insolvables et 11 en liquidation.
+Ce désastre bancaire est dû, pour une large part, à des facteurs internes. D’après une
+étude de la COBAC -Commission Bancaire de l’Afrique Centrale - (Adam Madji, 1997),
+plus de 90% des faillites bancaires de la décennie sont liées à une mauvaise gestion se
+traduisant par l’inadéquation des ressources aux emplois. A cela, il faut ajouter la géné-
+ralisation des pratiques de maquillages ou falsifications comptables, les pressions de l’Etat
+sur la gestion et l’orientation de la politique de distribution de crédit, l’environnement
+juridique peu propice à la réalisation des garanties et le cadre laxiste de supervision. Les
+effets de ces déficiences internes ont été aggravés par la chute des cours mondiaux des
+produits de base qui a dégradé l’environnement économique et, partant, la solvabilité des
+principaux clients des banques, favorisant ainsi l’accumulation des créances douteuses
+dont le poids atteignait dans de nombreux cas plus de 50% des portefeuilles de crédits.
+C’est pour remédier à cette situation qu’une réforme du dispositif de supervision
+bancaire et un programme de restructuration furent engagés. Ainsi, en octobre 1990, la
+COBAC est instituée afin d’assurer la surveillance du système bancaire de la sous-région.
+Une Convention définissant les conditions d’exercice et de contrôle de l’activité bancaire
+fut adoptée en janvier 19922.
+Un des volets essentiels de la supervision bancaire est la collecte d’informations au-
+1La CEMAC comprend six États à savoir : le Cameroun, la Centrafrique, le Congo, le Gabon, la
+Guinée-équatoriale et le Tchad. Ils ont une banque centrale commune, la Banque des Etats de l’Afrique
+Centrale(BEAC)etunemonnaiecommuneleFrancCFA(FrancdelaCoopérationFinancièreenAfrique)
+2Simultanément à cette réforme du dispositif de supervision, un vaste programme de restructuration
+du système bancaire dont le coût est estimé en 1997 à 527 milliards de F.CFA, soit près de 30% des
+recettesbudgétairesdelaZone(AdamMadji,1997),futengagé,aboutissantàlaliquidationdesbanques
+présentant des situations irrémédiablement compromises et à la réhabilitation de celles offrant encore
+de réelles perspectives de redressement par le nettoyage de leurs bilans, des créances douteuses et leur
+recapitalisation. La diminution de la participation de l’Etat au capital des banques a constitué un volet
+essentiel de ce programme de réhabilitation.
+
+--- Page 3 ---
+3
+près des établissements de crédit assujettis au travers des inspections sur place et/ou du
+contrôle sur pièces. Les données ainsi collectées ont pour but de permettre d’évaluer la
+santé financière des établissements de crédit et d’anticiper les défaillances bancaires. Les
+organismes de supervision ont développé à cet effet, à travers le monde, des procédures
+d’alerte précoce « early warning system »(EWS). Ces procédures permettent d’identifier
+les établissements de crédit dont la situation apparaît préoccupante. On distingue à ce
+jour les systèmes d’alerte dits de première génération et ceux de seconde génération. Les
+premiers attribuent une note qui mesure la fragilité à partir des ratios financiers, les se-
+conds, quant à eux, sont des modèles statistiques qui estiment les probabilités de faillite,
+de dégradation des banques ou leur rating à un horizon donné.
+Dans le cas de la CEMAC, la COBAC a mis en œuvre un système d’alerte de première
+génération : Le SYSCO (Système de Cotation des Établissements de Crédit). Il résume
+l’analyse des ratios prudentiels. Ce système est proche des CAMELS3, mais il possède des
+spécificités qui l’éloigne de ceux-ci. Cependant, elle ne dispose pas encore d’un système
+d’alerte de seconde génération. Sahajwala (2000)4 reconnaît que ces systèmes d’alerte
+fonctionnentbiensurlesbanquesdepetitesoumoyennestaillesengagéesdanslesactivités
+bancaires traditionnelles. Ce qui n’est pas forcément le cas avec les grandes banques
+qui se lancent dans des domaines spécialisés ou qui opèrent à l’échelle internationale.
+Dans la mesure où l’on accepte que les banques de la CEMAC s’emploient aux fonctions
+traditionnelles et ne peuvent être assimilées à de très grandes banques, il peut être utile
+de disposer d’un système de seconde génération.
+L’objectif principal de cette étude est de chercher à prédire les cotes des banques de
+la CEMAC. Les résultats pourraient permettre au superviseur de disposer d’un outil de
+suivi « en continu », pour de mieux cibler ses interventions au sein des banques. Cet
+objectif n’est en somme pas si éloigné de celui de prédire la dégradation comme nous le
+verrons dans la suite.
+Pour y parvenir, l’étude passe en revue la littérature sur les modèles d’alerte précoce
+et présente le cadre analytique dans la section 2 avant de présenter « le modèle d’alerte
+rapide » estimé, sa validation et ses applications dans la section 3.
+3Acronyme des critères de notation des banques : solvabilité (Capital adequacy), qualité des actifs
+(Asset quality), qualité de la gestion (Management quality), aptitude à réaliser des profits (Earnings
+ability), trésorerie (Liquidity position) et sensibilité au risque de marché (Sensitivity to market risk).
+4«Supervision risk assessment and early warning system», Basel committee on banking supervision
+Working paper, No 4 December 2000
+
+--- Page 4 ---
+4
+2 Revue de la littérature et Cadre analytique
+2.1 Revue de la littérature
+Les premiers systèmes d’alerte de seconde génération sont apparus aux États-Unis à
+partir de 1970, avec les travaux de Meyer et Pifer (1970). Mais, ce n’est que récemment
+que leur utilisation a pris de l’ampleur dans le cadre de la supervision bancaire. L’aug-
+mentation des cas de défaillances bancaires aux États-unis est sans doute à l’origine de
+cette situation selon Sahajwala (2000). De nombreuses techniques d’estimation ont été
+utilisées pour construire ces systèmes : la régression linéaire, l’analyse discriminante, les
+modèles probit/logit, les méthodes d’analyse des données de survie, etc.
+D’après Sahajwala (2000), toutes ces techniques permettent d’identifier sous certaines
+hypothèses la nature des dépendances entre une variable dépendante donnée et des va-
+riables indépendantes. La variable dépendante peut être la survenue ou non de faillites
+bancaires, ou bien une classification selon un système de première génération (les plus
+courants étant les CAMELS), ou encore les pertes enregistrées de l’établissement de cré-
+dit. On distingue ainsi les modèles de prédiction de défaillance, les modèles d’estimation
+de rating ou de dégradation du rating et les modèles d’estimation de perte. Les premiers
+occupent une place de choix dans la littérature, de par le nombre élevé d’études dans
+cette optique, et le fait que les facteurs explicatifs sont les items utilisés dans la mise
+œuvre de CAMELS (voir tab 1).
+
+--- Page 5 ---
+2.1 Revue de la littérature 5
+Tab. 1 – Modèles de prévision de faillite aux États-unis
+Échantillon
+Source Méthode variables Coefficients Saines Nonsaines Période
+Martin Logit constante −5.3∗∗∗ 5642 58 1970-
+(1977) solvabilité 1976
+capitalbrut/actifsrisques −36.6∗∗∗
+Qualité des actifs détenus
+Qualité de la gestion
+Gestion des profits
+revenunet/actiftotal −120.8∗∗∗
+amortissementbrut/revenunet −2.2∗∗∗
+Liquidité
+prêtscommerciaux/totalprêts 7.9
+Hanweck Probit constante −4.1∗∗ 177 32 1973-
+(1977) solvabilité 1975
+prêts/fondspropres −0.3∗∗∗
+fondspropres/totalactif −14.8∗∗∗
+Qualité des actifs détenus
+Qualité de la gestion
+Gestion des profits
+revenunet/actiftotal −69.5∗∗∗
+variationrevenunet/actiftotal −0.01
+variationactiftotal −1.2
+Liquidité
+prêtscommerciaux/totalprêts 3.7∗∗∗
+Autres
+taille:log(actif) 0.02
+Pantalone Logit constante −0.01 226 113 1983-
+etplatt solvabilité 1984
+(1987) prêts/totalactif 7.7∗∗∗
+fondspropres/totalactif −11.8∗∗∗
+Qualité des actifs détenus
+Qualité de la gestion
+Gestion des profits
+revenunet/actiftotal −71.4∗∗∗
+Liquidité
+Autres
+conditionséconomiques 0.1
+Barretal. Probit constante 5.13∗∗∗ 445 294 1984-
+(1977) solvabilité 1989
+fondspropres/totalprêts −9.7∗∗∗
+Qualité des actifs détenus
+créancesdouteuses/totalactif 17.8∗∗∗
+Qualité de la gestion
+EfficiencetechniqueDEA −7.8∗∗∗
+Gestion des profits
+revenunet/actiftotal −22.1∗∗∗
+Liquidité
+dépôtsàlongterme/totalactif 5.9∗∗∗
+Autres
+conditionséconomiques −2.7∗∗∗
+Estrellaetal. Probit constante .05∗∗∗ 11431 42 1989-
+(2000) solvabilité 1993
+fondspropres/totalprêts 2.5
+fondspropres/revenubrut −7.9∗∗∗
+fondspropres/actiftotal −2.1
+
+--- Page 6 ---
+2.1 Revue de la littérature 6
+Les modèles d’estimation de rating ou de dégradation du rating ont pour but de pré-
+dire à un horizon donné le rating des banques ou la degradation de celui-ci. Le SEER
+(System of Estimating Exam Rating) de la Federal Reserve, est l’un des plus célèbres;
+il date de 1993. Initialement baptisé FIMS, (Cole et al. 1995) « Financial Institutions
+Monitoring System», il permet d’estimer le prochain CAMELS des banques à partir des
+données des deux trimestres précédents. Comme variables explicatives, la version initiale
+du FIMS combine des variables financières5 et certains indicateurs socioéconomiques.
+Un autre modèle similaire est le SCOR (Statistical CAMELS off-site Rating) du
+FDIC (Federal Deposit Insurance Corporation). Le SCOR utilise une régression logit
+ordinale. Le CAMELS prédit pour une banque est alors de la forme :
+5
+ˆ X
+C = kP(k)
+i
+k=1
+Où k est le niveau possible du CAMELS(1-5) et P(k) la probabilité que la banque ait le
+CAMELSk.Lasortiedumodèlepourunebanquedonnéeestuntableaudutypeci-après:
+Tab. 2 – Résultats du modèle SCOR (Collier, 2003)
+Rating Probabilité (%)
+1 3,2
+2 55,0
+3 36,5
+4 4,9
+5 0,4
+Probabilité de dégradation 41,8
+Rating estimé 2,44
+Ce tableau donne, pour une banque, la probabilité d’obtenir le rating i, de 1-5 et les
+probabilités associées. Une banque solide a la cote 1 ou 2. La probabilité que le rating
+de la banque se dégrade est le cumul des probabilités d’obtenir les ratings 3,4 et 5 (Soit
+36,5+4,9+0,4=41,8) . La cotation prédite de la banque calculée selon la formule ci-dessus
+est de 2,44. Par un simple calcul, à partir de la cotation estimée, on peut donc evaluer
+les probabilités de dégradation.
+5Prêts échus à 30-89 jours, Prêts échus à plus de 90 jours, prêts, biens immobiliers saisis, les fonds
+propres, le revenu net, valeurs de placement, réserves, bons de caisse de plus de 100000 USD, liquidité
+nette, les ratings de L’UBSS, les dépôts, les prêts aux apparentés, les dividendes, etc.
+
+--- Page 7 ---
+2.1 Revue de la littérature 7
+L’articledeR.AltonGilbert,AndrewP.Meyer,andMarkD.Vaughan(1999)présente
+uncertainnombredevariablescourammentretenuesdanslesétudesdesdéfautsbancaires
+oudanslecadredeladégradationbancaire.Demême,ilprésentelesensdel’effetattendu
+de ces variables sur la situation de la banque. Le tableau ci-après les reprend.
+Tab. 3 – Variables couramment utilisées dans les EWS
+Variables Effet attendu
+1 fonds propres rapportés au total du bilan +
+2 créances en souffrance rapportées au total de crédits -
+3 immobilisations corporelles rapportées au total crédits -
+4 crédits à la consommation rapportés au total du bilan -
+5 prêts aux apparentés rapportés au total des crédits -
+6 dépenses courantes rapportées au résultat net -
+7 dépenses de location rapportées au total bilan -
+8 résultat net rapporté au total bilan +
+10 intérêts non perçus rapportés au total des prêts -
+10 liquidité nette rapportée au total bilan +
+11 dépôts à LT rapportés au total bilan -
+12 dépôts à CT rapportés au total bilan +
+13 Logarithme de l’actif +
+14 bilan de la banque rapporté au total bilan des banques de la holding -
+La dernière variable vaut1 si la banque ne fait pas partie d’uneholding.Cettevariable
+est introduite selon les auteurs car, l’évidence des faits tend à montrer que les petites
+banques faisant partie de grandes holdings sont plus stables financièrement.
+La qualité des modèles estimés est évaluée en général par deux types d’erreur : l’erreur
+de type I, qui survient lorsqu’une banque fragile est identifiée comme solide, et celle de
+type II lorsqu’une banque solide est identifiée comme fragile. Bien entendu, l’erreur de
+typeIestlaplusimportantecar,danscecas,lesystèmed’alertedonneunmauvaissignal.
+S’agissant de l’horizon temporel, celui retenu est celui pour lequel les prédictions sont les
+plus fiables en général. Il n’excède pas trois ans.
+S’agissant des modèles d’estimation de perte, ils sont employés dans des pays n’ayant
+pas connu de massives ou d’importantes faillites bancaires. Le Modèle SAABA (Système
+d’Aide à l’Analyse Bancaire) de 1997 de la Commission Bancaire française est l’un des
+plus édifiant. Il a pour objectif d’étudier la solvabilité future de l’établissement de crédit
+sur la base des pertes estimées dans le futur.
+
+--- Page 8 ---
+2.2 Cadre analytique 8
+2.2 Cadre analytique
+2.2.1 Présentation des données et du système bancaire de la CEMAC
+Dans le cadre de cette étude, les données utilisées sont extraites du système CER-
+BER (Collecte, Exploitation et Restitution aux Banques et Établissements financiers
+des États Réglementaires) de la COBAC. Ce système permet, à l’issue du dépouillement
+des états financiers transmis par les établissements de crédit, de leur restituer leur situa-
+tion financière. A partir du CERBER, le rating SYSCO est évalué mensuellement6. Les
+données disponibles portent sur toutes les banques de la CEMAC et couvrent la période
+de 2003 à 2006, avec une périodicité mensuelle. Pour chaque établissement de crédit, un
+score est produit, et suivant la valeur de ce score, l’établissement est classé dans l’une des
+catégories ci-après :
+Tab. 4 – Echelles du rating SYSCO
+Cote Description Niveau du score
+1 Situation financière solide 69,8 à 100
+2 Situation financière bonne 39,1 à 69,7
+3A Situation financière légèrement fragile 34,2 à 39,0
+3B Situation financière moyennement fragile 8,8 à 34,3
+3C Situation financière très fragile -6,0 à 8,7
+4A Situation financière critique -16,6 à -6,1
+4B Situation financière très critique -56,4 à -16,7
+4C Situation financière irrémédiable -100 à -56,4
+Nous avons choisi pour décrire les données de nous concentrer sur la matrice des pro-
+babilités de transition. Cette matrice offre la possibilité d’avoir une vue statique (dernière
+ligne de la matrice) et une vue dynamique (cellules à l’intérieur du tableau) du phéno-
+mène etudié. Il faut garder à l’esprit que son estimation repose sur l’hypothèse très forte
+selon laquelle l’évolution de la cotation d’une banque est une chaîne de Markov7
+Sur la période considérée, bien que les données soient mensuelles, l’on a opté de
+6Une présentation des aspects fondamentaux du CERBER et du rating SYSCO est disponible dans
+le bulletin de la COBAC no 4 de 2001 [9]
+7De façon simple, un processus X est dit markovien si P(X = x /X = x ...X = x ) =
+n n+1 n+1 n n 0 0
+P(X = x )/X = x ) : On modélise le futur comme la projection du passé conditionnée par le
+n+1 n+1 n n
+présent. Si on considère deux dates t et s, la probabilité de transiter de la cote i à j aux dates t,s est
+
+--- Page 9 ---
+2.2 Cadre analytique 9
+travailler sur une base annuelle, pour nous permettre d’utiliser les variables du compte
+de résultats qui est annuel. La matrice de probabilités de transition annuelle estimée
+(tableau ci-après8) montre que les banques cotées 1 et 2, se stabilisent dans ces catégories.
+Les banques cotées 3A et 3B ont 2 chances sur 3 de se retrouver en cote 2. On peut parler
+d’effet d’inertie pour les banques des cotes 2 et 4. Cole et al. (1995) observe le même
+phénomène pour les banques américaines.
+Tab. 5 – Probabilités de transition trimestrielles
+Cote finale
+Cote initiale 1 2 3A 3B 3C 4A 4B Total
+1 77.78 22.22 0 0 0 0 0 100
+2 10.87 76.09 4.35 2.17 4.35 2.17 0 100
+3A 0 66.67 33.33 0 0 0 0 100
+3B 0 60 0 20 10 0 10 100
+3C 0 0 0 75 25 0 0 100
+4A 0 50 0 0 0 0 50 100
+4B 0 0 0 28.57 0 28.57 42.86 100
+Total 14.81 56.79 3.7 9.88 4.94 3.7 6.17 100
+S’agissant du système bancaire de la CEMAC, les résultats obtenus montrent à suf-
+fisance une consolidation de ces performances. Le total des bilans des 33 banques de la
+CEMAC a poursuivi sa hausse de 1993 à 2006, du fait principalement de l’augmentation
+des ressources collectées auprès de la clientèle. L’analyse financière des banques selon
+les grandes masses fait ressortir visiblement un rétablissement des grands équilibres. En
+besoin de financement jusqu’en 1993, les banques de la CEMAC extériorisent une forte
+capacité de financement en 2006, expression d’un renforcement de leur trésorerie. Le pro-
+duit net bancaire (PNB) n’a cessé de se consolider de 1993 à 2006 alors que les frais
+généraux ont été globalement contenus. En conséquence, le résultat brut d’exploitation
+s’est trouvé raffermi. Négatif en raison du poids excessif des comptes de prévoyance (do-
+p (t,s)=P(X(s)=j/X(t)=i). On considère la quantité :
+ij
+q (t)= lim p (t,t+∆t)/∆t
+ij ij
+∆t→0
+La matrice Q=(q (t)) est la matrice d’intensité de transition ou simplement de transition.
+ij
+8ObtenuencroisantsimplementdansuntableaulacoteC àladatet,etC àt−1etenconsidérant
+t t−1
+la répartition par ligne.
+
+--- Page 10 ---
+2.2 Cadre analytique 10
+tations aux amortissements et provisions sur créances douteuses) à la fin des années 80,
+le résultat net des banques de la CEMAC est redevenu positif à compter de 1996 et a
+poursuivi sa croissance jusqu’en 2006. Le coefficient net d’exploitation de l’ensemble des
+banques en activité de la CEMAC, bien qu’il ait atteint 84% en 1991, se situe autour
+de 54% en 2006. Sur le plan prudentiel, la situation a fondamentalement changé avec
+des résultats jugés globalement satisfaisants. En 2006, 29 sur 35 banques en activité res-
+pectent le ratio de couverture des risques, gage de leur solvabilité. Toutes les banques
+ont dans l’ensemble restauré leur liquidité à court terme en 2006 et des efforts ont été
+accomplis pour se conformer à la norme de couverture des immobilisations ainsi que celle
+de transformation. Les normes de division des risques demeurent à parfaire en raison
+non seulement de la forte concentration des crédits sur quelques grands clients et du
+comportement extrêmement prudent des banques de la CEMAC à l’égard de la prise de
+nouveaux risques, mais aussi de la faiblesse de leurs fonds propres.
+A titre d’illustration, le graphique 1 montre bien qu’après une période trouble, le
+secteur bancaire a retrouvé depuis son sentier d’expansion normal, avec un résultat net
+bancaire positif depuis 1996. De même, entre 1996 et 1997, on note le changement de
+rythme dans la croissance du produit net bancaire (changement de pente de la courbe du
+PNB). La gestion des établissements de crédit s’en est également trouvée améliorée. En
+effet, à partir de 1999, le niveau de dépôts excède celui des crédits.
+Cependant, si l’on peut se féliciter d’importants efforts accomplis pour remettre le
+système bancaire sur le sentier de la croissance, son maintien sur cette voie est loin d’être
+un acquis et il apparaît alors comme un défi majeur à relever.
+
+--- Page 11 ---
+2.2 Cadre analytique 11
+seriacnab
+ruetces
+ud
+sruetacidnI
+–
+1
+.giF
+03 52 02 51 01 5 0
+stidérC
+te
+stôpéD
+BIP ud %
+stôpéD stidérC
+5002
+3002
+1002
+9991
+7991
+5991
+3991
+00006 00002 0 00004−
+teN
+tatluséR
+AFCF snoillim
+6002
+3002
+0002
+7991
+4991
+1991
+8891
+5891
+000052 000051 00005
+eriacnab
+ten
+tiudorP
+AFCF snoillim
+6002
+3002
+0002
+7991
+4991
+1991
+8891
+5891
+60+e1 50+e5 00+e0
+tnemecnanif
+ed
+éticapac
+te
+serporp
+sdnoF
+AFCF snoillim
+tnemecnanif
+ed
+éticapaC
+serporp
+sdnoF
+5002
+3002
+1002
+9991
+7991
+5991
+3991
+0.1 8.0 6.0 4.0 2.0 0.0
+6002
+3002
+0002
+7991
+4991
+1991
+8891
+5891
+noitatiolpxe'd
+tneiciffeoC
+
+--- Page 12 ---
+2.2 Cadre analytique 12
+2.2.2 Stratégie de modélisation
+Les modèles présentés dans le cadre de l’estimation du rating utilisaient comme va-
+riable dépendante la cote de l’établissement de crédit selon les modalités similaires à
+celles du tableau 4, ou bien une variable traduisant la transition d’une situation saine
+vers une situation fragile, instable ou irrémédiable . Cette approche suppose qu’il existe
+une variable latente y∗ inobservée, qui induit le découpage selon la cote ou les transitions
+entre cotes saine et fragile y, et cette variable latente est reliée aux variables explicatives
+x par une relation linéaire :
+i
+y = k ⇔ y∗ ∈ [α ,α [,
+i i k−1 k
+y∗ = β0x +(cid:15)∗
+i i i
+Le modèle estimé est alors
+α −β0x α −β0x
+k i k−1
+P(y = k|x ) = F( )−F( )
+i i
+σ σ
+(cid:15) (cid:15)
+P(y = k|x ) est la probabilitéé d’avoir le rating k, F est la fonction de répartition de la
+i i
+loi logistique ou normale.
+Dans le cadre de l’approche SYSCO, il existe un score de la C = Pw S où w est
+i i i i
+le poids subjectif associé à chaque composante du S SYSCO. On recode alors ce score
+i
+pour obtenir la cote SYSCO. Le choix des seuils pour classer les banques selon les cotes
+conduit à obtenir des classes de cotations ayant de très petits effectifs. Par exemple, pour
+l’année 2006, avec les banques retenues on a :
+Tab. 6 – Répartition des banques selon la cote
+Cote Effectifs %
+1 5 18.5
+2 18 66.7
+3A 1 3.7
+3B 1 3.7
+4A 2 7.4
+Total 27 100.0
+De ce fait, on dispose d’effectifs très faibles pour certains types de banques (même en
+procédant à des regroupements), nous éloignant ici des hypothèses asymptotiques. Pour
+
+--- Page 13 ---
+2.2 Cadre analytique 13
+contourner cette difficulté, nous allons modéliser la note issue d’un système de notation
+et non la cote. Nous retombons dans le cadre des variables quantitatives. Dans ce cas, on
+peut recourir à la régression linéaire9.
+Siondésignepary lescoredel’établissementdecréditi,àladatet,plusieursfacteurs
+it
+sont alors susceptibles d’expliquer son évolution. le tableau 3 présente les facteurs les
+plus courants. Cole R. et al (1995) ont inclus les conditions économiques et la qualité du
+management dans le cadre du SEER. A cause de l’inertie observée quant aux transitions
+des cotes, ils ont introduit la cote de la période précédente. Dans leur approche, ils
+n’introduisent pas les variables en niveau dans le modèle, mais la variation rapportée à
+l’actif sur les deux trimestres précédents.
+Nous retenons à quelques exceptions près les facteurs explicatifs ci-dessus mention-
+nés. Mais au niveau de l’estimation, ne disposant pas de proxy du management, des
+variables de conditions économiques (comme le chômage dans les zones d’implantation
+des banques), nous optons pour l’utilisation de la structure de panel qui permet de tenir
+compte des variables omises et d’éliminer l’effet des facteurs hétérogènes inobservés10. On
+postule alors le modèle ci-dessous :
+y = αy +β0x +z +(cid:15) (1)
+it it−1 it i it
+avec (cid:15) → N(0,σ2).
+it
+C’est un modèle dynamique11 sur données de panel. x représente les variables expli-
+it
+catives du modèle et z représente les effets individuels. Les effets individuels prennent
+i
+en compte les caractéristiques inobservées propres à chaque banque comme la qualité du
+management, le comportement des apparentés, les interférences politiques, etc.
+Dans le cadre d’un modèle dynamique, c’est l’estimateur de la méthode des moments
+9Toutefois Gary King and Langche Zeng (1999) propose la procédure RELOGIT (rare events logit)
+dans le cas ou les hypothèses asymptotiques ne sont pas valides
+10En effet, si on suppose qu’ à la date 1, y =βx +α +(cid:15) et y =βx +α +(cid:15) à la date 2, en
+i1 i1 i i1 i2 i2 i i2
+passant aux différences premières, on a y −y =β(x −x )+((cid:15) −(cid:15) ) sous hypothèse de constance
+i2 i1 i2 i1 i2 i1
+dans le temps de l’effet inobservé.
+11Avec un probit ou un logit, on peut aussi utiliser un modèle autoregréssif de la forme précédente
+avec la variable latente (Autoregressive Ordered Probit Model AOP) :
+y∗ =αy∗ +β0 x +z +(cid:15)∗
+it it−1 it i it
+0
+P(y ≤k|x )=F(α +β x )
+i i k i
+sauf qu’ici l’estimation est plus complexe, il faut utiliser les méthodes d’estimation pour les variables
+latentes et leurs paramètres.
+
+--- Page 14 ---
+14
+généralisés appliqué aux différences premières (GMM-DP) d’Arellano Bond) ou l’es-
+timateur GMM-SYS de Blundell et Bond qui sont employés, tous les autres étant
+biaisés (estimateur des moindres carrés ordinaires MCO et des moindres carrés généra-
+lisés MCG). Son avantage par rapport aux estimateurs classiques est la prise en compte
+de l’endogenéité des variables. En effet, la cote du trimestre précédent est endogène, tout
+comme le niveau des dépôts. A partir du score prédit, on déterminera la cote prédite. On
+pourra ainsi évaluer les erreurs de type I et de type II.
+Siladémarchechoisieicinouspermetdedisposerd’estimateurs«statistiquement»plus
+corrects, on perd avec cette procédure en terme de contenu informationnel des résultats.
+En effet, on ne dispose plus des probabilités qu’une banque ait une cote donnée, et par-
+tant, on ne peut plus calculer la probabilité de défaut.
+3 Mise en œuvre du modèle
+Dans cette deuxième partie, nous allons présenter les résultats de l’estimation du mo-
+dèle. Nous avons choisi l’échantillon de manière à travailler sur un panel cylindré12. Il
+s’agit des données trimestrielles de mars 2003 à décembre 2006. L’on a procédé à une
+description des variables retenues pour le modèle :
+12Même nombre de périodes d’observations pour chaque banque
+
+--- Page 15 ---
+15
+Tab. 7 – Les variables du modèle
+Année Variables 1 2 3A 3B 3C 4A 4B Ensemble
+2003 Note de la banque 73.549 56.624 35.897 22.921 -14.356 -25.398 44.661
+Fonds propres 0.205 0.108 0.120 0.033 -0.042 -0.047 0.090
+Créances en souffrance 0.002 0.004 0.003 0.001 0.006 0.003 0.004
+Crédits nets 0.653 0.516 0.859 0.465 0.554 0.682 0.547
+Total des dépôts 0.548 0.714 0.549 0.586 0.748 0.871 0.694
+Prêts aux apparentés 0.012 0.007 0.004 0.005 0.000 0.001 0.006
+Bénéfice de l’exercice 0.035 0.019 0.006 0.018 0.000 0.000 0.018
+Charges de personnel 0.022 0.025 0.026 0.021 0.026 0.028 0.024
+Liquidité nettes 0.118 0.247 -0.190 0.073 0.144 0.044 0.183
+Capitaux nationaux 19.505 15.274 0.000 17.360 100.000 20.335 18.767
+2004 Note de la banque 73.192 55.740 34.829 26.021 -0.458 -16.436 -26.281 36.026
+Fonds propres 0.173 0.107 0.114 0.071 -0.017 -0.033 -0.117 0.066
+Créances en souffrance 0.001 0.001 0.004 0.000 0.002 0.007 0.005 0.002
+Crédits nets 0.640 0.495 0.828 0.612 0.584 0.617 0.545 0.547
+Total des dépôts 0.626 0.712 0.562 0.813 0.746 0.655 0.771 0.716
+Prêts aux apparentés 0.010 0.008 0.005 0.004 0.003 0.000 0.000 0.006
+Bénéfice de l’exercice 0.024 0.019 0.019 0.003 0.006 0.000 0.035 0.017
+Charges de personnel 0.012 0.022 0.024 0.009 0.022 0.048 0.032 0.022
+Liquidité nette 0.098 0.276 -0.162 0.222 0.176 0.032 0.123 0.206
+Capitaux nationaux 0.000 17.321 0.000 62.000 16.827 0.000 61.323 22.899
+2005 Note de la banque 73.614 56.058 35.329 28.146 -2.234 -19.771 45.597
+Fonds propres 0.117 0.106 0.062 0.022 -0.052 -0.102 0.070
+Créances en souffrance 0.001 0.001 0.000 0.001 0.006 0.005 0.001
+Crédits nets 0.512 0.444 0.737 0.387 0.594 0.660 0.479
+Total des dépôts 0.736 0.690 0.678 0.809 0.849 0.907 0.742
+Prêts aux apparentés 0.006 0.006 0.010 0.006 0.000 0.000 0.006
+Bénéfice de l’exercice 0.027 0.015 0.021 0.014 0.024 0.013 0.018
+Charges de personnel 0.015 0.022 0.021 0.012 0.024 0.033 0.020
+Liquidité nette 0.306 0.312 0.009 0.400 0.230 0.166 0.302
+Capitaux nationaux 13.206 13.611 23.840 29.486 31.080 70.335 21.703
+2006 Note de la banque 75.902 57.026 38.306 30.159 -11.925 53.726
+Fonds propres 0.120 0.086 0.106 0.011 -0.079 0.078
+Créances en souffrance 0.000 0.001 0.003 0.004 0.004 0.001
+Crédits nets 0.557 0.393 0.746 0.478 0.609 0.456
+Total des dépôts 0.697 0.756 0.616 0.891 0.813 0.749
+Prêts aux apparentés 0.006 0.007 0.007 0.005 0.000 0.006
+Bénéfice de l’exercice 0.042 0.014 0.005 0.039 0.003 0.019
+Charges de personnel 0.018 0.019 0.024 0.017 0.026 0.019
+Liquidité nette 0.264 0.408 -0.037 0.393 0.187 0.348
+Capitaux nationaux 13.206 19.345 0.000 31.080 70.335 21.703
+
+--- Page 16 ---
+16
+elèdom
+ud
+selbairav
+sed
+senneyom
+sed
+euqihparG
+–
+2
+.giF
+stôpéd
+sed
+latoT
+sten
+stidérC
+ecnarffuos
+ne
+secnaérC
+serporp
+sdnoF
+euqnab
+al
+ed
+etoN
+A4
+C3
+B3
+A3
+2
+1
+A4
+C3
+B3
+A3
+2
+1
+A4
+C3
+B3
+A3
+2
+1
+A4
+C3
+B3
+A3
+2
+1
+A4
+C3
+B3
+A3
+2
+1
+lanoitan
+latipac
+ud
+traP
+etten
+étidiuqiL
+lennosrep
+ed
+segrahC
+ecifénéB
+sétnerappa
+xua
+stêrP
+A4
+C3
+B3
+A3
+2
+1
+A4
+C3
+B3
+A3
+2
+1
+A4
+C3
+B3
+A3
+2
+1
+A4
+C3
+B3
+A3
+2
+1
+A4
+C3
+B3
+A3
+2
+1
+
+--- Page 17 ---
+3.1 Estimation du modèle 17
+Le graphique 2 permet d’identifier les facteurs positivement correlés à la notation
+SYSCO : fonds propres, bénéfice de l’exercice; et ceux négativement correlés : créances
+en souffrance, la part du capital détenue par les nationaux13; et ceux pour lesquelles l’on
+ne peut trancher : crédits net, total des dépôts, liquidité nette. Cette analyse est assez
+conforme aux signes du tableau 3. Il est à rappeler que dans ce tableau, il ne s’agit pas
+de variables en niveau mais des ratios présentés dans le tableau 3.
+3.1 Estimation du modèle
+Pour l’estimation du modèle, l’on a opté pour l’estimateur GMM-SYS de Blundell et
+Bond, en prenant soin de respecter les lignes directrices indiquées par David Roodman
+(2006). Les variables introduites dans le modèle sont la cote de l’année précédente, les
+variables financières. On a identifié un certain nombre de facteurs significatifs dans le
+modèle estimé. Il s’agit de la note du trimestre précédent, des fonds propres nets, des
+prêts aux apparentés, du résultat net, de la liquidité nette, du total des dépôts et de la
+part des capitaux détenus par les nationaux.
+L’estimation du modèle confirme bien l’analyse descriptive. Ainsi, les fonds propres, le
+bénéfice de l’exercice, le total des dépôts sont positivement corrélés, alors que les créances
+en souffrance, les crédits net, les prêts aux apparentés, et la part du capital détenue par
+les nationaux sont négativement corrélés à la note.
+13Cette variable est proxy de la gouvernance
+
+--- Page 18 ---
+3.2 Validation du modèle 18
+Tab. 8 – Modèle estimé
+Estimation du modèle de panel dynamique avec GMM
+Nombre d’observations =79
+Nombre de banques =27
+Nombre d’instruments =48
+F(10, 23) = 217.95 , Prob>F=0,000
+Coefficients Erreur Type z P>z [Intervalle de confiance 95%]
+Note année précédente 0.3 0.1 3.25 0.00 0.1 0.5
+Fonds propres 193.8 44.6 4.35 0.00 106.5 281.2
+Créances en souffrance 356.8 242.8 1.47 0.14 -119.2 832.7
+Crédits nets -128.8 42.4 -3.04 0.002 -211.9 -45.7
+Total des dépôts 76.0 38.4 1.98 0.048 0.7 151.3
+Prêts aux apparentés -310.7 132.5 -2.34 0.019 -570.5 -50.9
+Résultat net 144.3 122.0 1.18 0.237 -94.7 383.3
+Charges de personnel -503.8 235.5 -2.14 0.032 -965.3 -42.2
+Liquidité nette -70.8 37.4 -1.89 0.059 -144.1 2.6
+Part du capital national -13.7 7.5 -1.82 0.068 -28.5 1.0
+Constante 61.7 28.8 2.14 0.032 5.3 118.0
+Test d’Arellano-Bond de spécification AR(1) en différences premières : z = -0.20 Pr > z = 0.841
+Test d’Arellano-Bond de spécification AR(2) en différences premières : z = . Pr > z = .
+Test de Hansen de validité des conditions de moments : chi2(44) = 44,92 Prob > chi2 = 0,174
+3.2 Validation du modèle
+LavalidationdumodèlepasseparlecalculdeserreursdetypeIetII.Pourlescalculer,
+il faut prédire les cotes des banques avec le modèle. Le modèle étant linéaire, on prédit
+d’abord la note de la banque et on calcule la cote conformément aux modalités du tableau
+4. En croisant la cote effective et la cote prédite, l’on obtient les tableaux 9 et 10 ci-après.
+Le second est obtenu en considérant les cotes 1 et 2 comme solides et le reste comme
+fragile.
+Le taux de prédictions correctes est assez élevé. Toutefois, la statistique Kappa de
+Cohen reflète mieux le degré de concordance entre les prédictions et les valeurs effectives,
+car elle essaie de corriger cette statistique des classements corrects dûs au hasard. Plus sa
+valeurestgrande(prochede1),pluslesprédictionssontconcordantes.Leserreursdetype
+I et II obtenus sont respectivement de 14,28% et 8,62%. Ces valeurs sont comparables aux
+valeurs de Cole et al (1995) respectivement de 17,1% et 7,8%. Bien entendu, ces valeurs
+
+--- Page 19 ---
+3.2 Validation du modèle 19
+Tab. 9 – Qualité du modèle
+Cote prédite
+Cote effective 1 2 3A 3B 3C 4A 4B Total
+1 41.7 58.3 0.0 0.0 0.0 0.0 0.0 100.0
+2 15.2 73.9 8.7 2.2 0.0 0.0 0.0 100.0
+3A 0.0 0.0 0.0 100.0 0.0 0.0 0.0 100.0
+3B 0.0 28.6 0.0 71.4 0.0 0.0 0.0 100.0
+3C 0.0 25.0 0.0 75.0 0.0 0.0 0.0 100.0
+4A 0.0 0.0 0.0 33.3 33.3 0.0 33.3 100.0
+4B 0.0 0.0 0.0 0.0 0.0 75.0 25.0 100.0
+Total 15.2 55.7 5.1 16.5 1.3 3.8 2.5 100.0
+% Classements corrects= 56,96,4%; Statistique de Kappa = 0,3198
+Tab. 10 – Qualité du modèle (Bis)
+Cote prédite
+Cote effective Solide Fragile Total
+Solide 70,0 5,8 75,8
+Fragile 3,3 20,8 24,2
+Total 73,3 26,7 100,0
+% Classements corrects= 89,87
+Statistique de Kappa = 0,748242
+Erreurs : Type I=14,28% et Type II=8,62%
+dépendent des seuils retenus pour procéder au découpage de la note. En effet, les banques
+retenues comme solides sont celles pour lesquelles la note est supérieure à 39,114.
+En faisant varier ce seuil, on obtient le graphique ci-après, mettant en relation l’erreur
+de type I et celle de type II. Le modèle idéal, celui qui prédit avec exactitude, la courbe
+mettant en relation l’erreur de type I et celle de type II est representé par la courbe rouge.
+L’écart entre ces courbes traduit la qualité des prédictions dans l’échantillon par rapport
+aux variations des seuils qui servent à coter les banques.
+14Classification SYSCO de la COBAC
+
+--- Page 20 ---
+3.3 Simulations 20
+Fig. 3 – Erreurs du modèle
+0.0 0.2 0.4 0.6 0.8 1.0
+0.1
+8.0
+6.0
+4.0
+2.0
+0.0
+Erreur de type II
+I epyt
+ed
+ruerrE
+Modèle estimé
+Modèle idéal
+3.3 Simulations
+NousnoussommesinspirésdeladémarchedeMeyeretPifer(1970)quiontutilisépour
+prédire les variables financières x , une régression de la forme x = α +β t, t = 1,...,6
+j j j j
+pour chacune d’elles. Le graphique 5 en annexe présente l’évolution des fonds propres.
+Pour certaines banques, l’hypothèse d’une évolution linéaire est avérée, pour d’autres
+elle ne l’est pas. Nous avons opté pour deux approches : utiliser les moindres carrés
+ordinaires comme Meyer et Pifer, mais utiliser une méthode prenant en compte les formes
+polynomiales ou non linéaires (régression loess). Les résultats des prédictions obtenus par
+les deux méthodes sont assez proches.
+
+--- Page 21 ---
+3.3 Simulations 21
+Tab. 11 – Prédiction des cotes 2007
+cote 2006 Cote prédite 2007
+Méthode 1(MCO) Méthode 2(LOESS)
+1 2 1
+2 2 2
+1 1 2
+2 2 1
+2 2 2
+4A 4B 3C
+1 2 2
+2 2 2
+4A 3C 3C
+3A 3A 3B
+1 1 1
+2 1 1
+2 2 2
+2 3C 4C
+2 2 2
+2 2 2
+1 2 2
+2 2 3B
+2 1 1
+2 2 2
+2 2 2
+2 2 1
+2 3B 3A
+2 3A 2
+2 2 2
+2 2 2
+3B 3A 1
+
+--- Page 22 ---
+22
+4 Conclusion
+Les défaillances bancaires des années 90 ont conduit les autorités de la sous-région
+à mettre sur pied un organe de supervision bancaire et à engager la restructuration
+du secteur. Si la surveillance étroite et permanente des établissements de crédit via le
+respect de la conformité aux normes prudentielles apparaît essentielle, nul doute que
+prévoir l’évolution des établissements de crédit peut contribuer de manière significative
+à améliorer l’efficacité de la surveillance bancaire et par ricochet, la santé du système
+bancaire.
+Dans cet élan, force est de constater que les organes de supervision bancaire intègrent
+de plus en plus cet aspect à travers les modèles d’alerte précoce « Earling Warning Sys-
+tems », en l’occurrence ceux dits de deuxième génération qui permettent de se projeter
+sur la situation future des banques en identifiant leurs facteurs de vulnérabilité.
+L’objectif de cette étude, plutôt empirique que théorique car aucune théorie sur le
+développement et le déclin de la firme n’a été abordée, était d’essayer de prédire les cotes
+des banques afin d’améliorer la surveillance bancaire dans la CEMAC et de renforcer son
+efficacité. Cet objectif semble avoir été atteint dans la mesure où l’on a pu estimer un
+modèle de prédiction des cotations des banques de la CEMAC. Ce modèle s’est avéré
+performant pour prédire les cotations des banques de l’échantillon.
+Pour l’estimer, on a introduit des variables financières et quelques caractéristiques des
+banques. Ne disposant pas de proxy pour la qualité du management, l’on a opté pour
+l’utilisationdesmodèlesdedonnéesdepanelafindemaîtriserd’éventuelleshétérogéneités
+et la non prise en compte des variables de l’environnement économique. La structure
+dynamique du modèle, inspirée du FIMS (actuel SEER) de la Federal Reserve a amené à
+utiliserlaméthodedesmomentsgénéraliséspourl’estimation.Commefacteursexplicatifs,
+on a pu identifier les fonds propres nets, les prêts aux apparentés, le résultat net, les
+chargesdupersonnel,letotaldesdépôtsetlapartdescapitauxdétenusparlesnationaux.
+En fait, s’agissant de cette dernière variable, elle traduit l’écart organisationnel qui existe
+entre les banques nationales et les filiales des groupes bancaires étrangers qui héritent des
+capacités organisationnelles et de l’expérience de la maison mère.
+Il convient toutefois de relever que de nombreux facteurs pertinents n’ont pas été
+introduits. Il s’agit notamment des variables de l’environnement économique et des ca-
+ractéristiques non financières des banques (telles que l’âge de la banque, la typologie des
+banques, le nombre de guichets, ...). Bien entendu, la flexibilité de ce modèle permettra
+
+--- Page 23 ---
+23
+aisément l’intégration de ces éléments.
+Compte tenu du calibrage satisfaisant du modèle, les résultats de cette étude sont
+susceptibles d’être utilisés par les superviseurs bancaires des pays de la dimension de
+ceux de la sous-région afin de pouvoir monter un système d’alerte précoce de deuxième
+génération.
+
+--- Page 24 ---
+RÉFÉRENCES 24
+Références
+[1] S. Adedoyin, S.O Alashi, M.K Ahmad (2004), «A positive and normative analysis of
+bank supervision in Nigeria », African Economic Research Consortium, Nairobi
+[2] Altman E.I., Haldeman R.G. et Narayanan P. (1977) « Zeta analysis a new model
+to identify bankruptcy risk of corporations», Journal of Banking and Finance 1, pp.
+29-54
+[3] R. Alton Gilbert, Andrew, P. Meyer, and Mark D. Vaughan (1999), « The Role of
+SupervisoryScreensandEconometricModelsinOff-SiteSurveillance»Federal Reserve
+Bank of ST-LOUIS Review, December 1999
+[4] Baltagi B.H (2001) Econometric Analysis of Panel Data 2nd edition, John Wiley &
+Sons, LTD
+[5] Barr R.S. et Siems T.F. (1994) « Predicting bank failure using DEA to quantify
+management quality », Financial Industry Studies Working Paper, Federal Reserve
+Bank of Dallas
+[6] Barr R., Killgo K., Siems T., et Zimmel, (1999) «Evaluating the productive efficiency
+and performance of US commercial banks», Financial Industry Working Paper, 99-3,
+Federal Reserve Bank of Dallas, Dallas
+[7] Berger, A.N. et Humphrey, D.B. (1997) « Efficiency of financial institutions : inter-
+national survey and directions for future research», European Journal of Operational
+Research 98, 175-212
+[8] BONNET, N. et CLAVÉ, G. (2001) «Les systèmes d’alerte sont-ils efficaces pour pré-
+voirlesdéfaillancesbancaires?Uneapplicationauxcasfrançais,japonaisetdusud-est
+asiatique. », http ://sceco.univ-poitiers.fr/recherpubli/doctravail/M2001-05.pdf
+[9] COBAC (2001) « Modernisation de la surveillance sur pièces », Bulletin de la Com-
+mission Bancaire de l’Afrique Centrale, 4, octobre
+[10] Cole, R.A and Cornyn, B.G (1995), «FIMS : A New Monitoring System for Banking
+Institutions », The Federal Reserve Bulletin 81, Board of Governors of the Federal
+Reserve System, January 1995, pp. 1-15.
+[11] Charles Collier, Sean Forbush, Daniel A. Nuxoll, and John OŠKeefe, (2003) « The
+SCORSystemofOff-SiteMonitoring:ItsObjectives,Functioning,andPerformance»
+FDIC BANKING REVIEW, VOLUME 15, NO. 3
+[12] Demirgüc-Kunt, A. et Detragiarche, E. (2000) «Monitoring banking sector fragility :
+a multivariate logit approach », The World Bank Economic Review 14 (2), pp. 287-
+307
+
+--- Page 25 ---
+RÉFÉRENCES 25
+[13] Godlewski, C.J. (2003) « Excès de risque et défaillance bancaire : une appli-
+cation des modèles de prévision de défaut aux banques des pays émergeants »,
+http ://cournot2.u-strasbg.fr/users/large/papers
+[14] Gonzalez-Hermosillo B. (1999) « Determinants of ex-ante banking system distress :
+a Macro-Micro Empirical Exploration of Some Recent Episodes», Working Paper 33,
+International Monetary Fund
+[15] Honohan,P.(1997) «Bankingsystemfailuresindevelopingandtransitioncountries:
+diagnosis and predictions », BIS working Papers 39
+[16] Gary King and Langche Zeng (1999) « Logistic Regression in Rare Events Data, »,
+Department of Government, Harvard University, http ://GKing.Harvard.Edu
+[17] Madji, A. (1997), « Le point sur la restructuration bancaire en Afrique Centrale »,
+Bulletin de la Commission Bancaire de l’Afrique Centrale, 2, août 1997
+[18] Martin, D. (1977), « Early warning of bank failure : a logit regression approach »,
+Journal of Banking and Finance, 1, 249-276
+[19] Pantalone, C.C. Platt, M.B. (1987), « Predicting commercial bank failure since
+deregulation », New England Economic Review, Jul/Aug, 37-47
+[20] Paul, A. M. Pifer, H.W (1970), « Prediction of Bank Failures », The Journal of
+Finance, Vol. 25, No. 4. (Sep., 1970), pp. 853-868
+[21] Roodman, D. (2006), « How to Do xtabond2 : An Introduction to ’Difference’ and
+’System’ GMM in Stata », Center for Global Development, Working Paper 103, De-
+cember 2006.
+[22] Sahajwala, R Van den Bergh, P. (2000), « Supervision risk assessment and early
+warning system », Basel committee on banking supervision Working paper, No 4
+December 2000
+[23] Sinkey, J.F. Jr., (1975), «A multivariate statistical analysis of the characteristics of
+problem banks », The journal of Finance, 30,1,21-36.
+
+--- Page 26 ---
+ANNEXES
+
+--- Page 27 ---
+Encadré : la méthode des moments généralisés GMM, estimateur
+GMM-DP et GMM-SYS
+Le principe de la méthode des moments consiste à utiliser les conditions de
+moments qui servent à l’identification des paramètres du modèle pour les
+estimer. Par exemple, dans le cas du modèle de régression standard, on a
+E(Xu) = E(X(y − βX)) = 0. Si on a k paramètres à estimer, on a besoin de
+k conditions de moments si rang(X0X) = k, on a k conditions qui permettent
+d’estimer les paramètres. En cas d’endogenéité, E(Xu) 6= 0, on cherche des ins-
+truments Z qui sont correlés avec X, mais telles que E(Zu) = 0. On utilise alors
+comme conditions de moments E(Z(Y −βX) = 0. Si on dispose de k instruments,
+le système est juste identifié et on peut estimer les paramètres. L’estimateur
+de MCO et celui des variables instrumentales sont donc des estimateurs par la
+méthode des moments.
+Lorsque le nombre d’instruments est supérieur au nombre de variables (on peut
+avoir une infinité d’instruments), on parle de suridentification, l’utilisation de
+cette matrice d’instruments ne garantit pas E(Z(y − βX)) = 0. En effet, on
+a plus d’équations que de paramètres et les restrictions à imposer pour avoir
+ˆ
+un estimateur unique peuvent s’avérer irréalistes. On cherche alors β qui rend
+k1Z0(Y −βX)k minimal selon une métrique A. En appliquant quelques résultats
+N
+de la dérivation matricielle, on obtient βˆ = (X0ZAZ0X)−1X0ZAZ0Y. Le choix
+efficient de A est celui qui normalise toutes les variables. Les tests de Sargen ou
+Hansen permettent de vérifier l’exogéneité des instruments en testant la nullité
+de 1Z0(Y −βX).
+N
+Dans le cadre d’un modèle dynamique (équation 1), MCO, MCG sont biaisés à
+cause de l’introduction de la variable dépendante retardée qui est endogène. En
+différence première, elle s’écrit :
+∆y = α∆y +β0∆X +∆(cid:15) (2)
+it it−1 it−1 it
+Sous hypothèse d’exogenéité (ou faible exogéneité) des variables explicatives et
+d’absence d’autocorrélation des résidus, on a les conditions de moments ci-après :
+E(Y ∆(cid:15) ) = 0 Pour s ≥ 2,t ≥ 3 (3)
+t−s t
+E(X ∆(cid:15) ) = 0 Pour s ≥ 2,t ≥ 3 (4)
+t−s t
+
+--- Page 28 ---
+Leséquations3et4suggèrentd’utiliserlesvariablesenniveauretardéescommeins-
+truments. L’estimation avec ces instruments par la méthode des moments produit
+l’estimateur GMM-DP d’Arellano et Bond. Cet estimateur manque de précision,
+quand le nombre de périodes est faible, en raison du nombre limité d’instruments
+qu’on peut construire. Blundell et Bond proposent de considérer le système formé
+par l’équation en différence première et l’équation en niveau. Les deux équations
+sontsimultanémentestiméesparGMM,etdansl’équationenniveau,lesdifférences
+premières sont utilisées comme instruments : c’est l’estimateur GMM-SYS. Enfin
+Arellano et Bond ont mis en œuvre un test qui permet de vérifier la spécification
+AR(p), basé sur la nullité de la statistique (Y −βˆ X)0 (Y −βˆ X).
+−p
+
+--- Page 29 ---
+Tab. 12 – Évolution des indicateurs financiers
+Années Produit net bancaire Résultat net Coefficient d’exploitation Dépôts Crédits
+millions de FCFA % du PIB
+1985 28927 6513 0,51
+1986 30739 4229 0,54
+1987 94926 5522 0,75 15,16 27,98
+1988 93180 −6116 0,75 16,10 27,58
+1989 85926 −318 0,79 21,07 30,60
+1990 95658 −49918 0,79 15,25 23,83
+1991 73909 −4711 0,84 15,16 25,14
+1992 80148 2951 0,83 11,08 24,67
+1993 91499 3705 0,75 9,46 24,48
+1994 103916 −13355 0,74 11,37 26,10
+1995 112270 −45951 0,74 10,47 25,71
+1996 114968 6939 0,62 11,01 23,91
+1997 121923 26086 0,50 11,64 25,34
+1998 165873 41111 0,52 10,76 27,43
+1999 165849 36575 0,53 11,61 28,73
+2000 192552 50177 0,48 13,87 25,92
+2001 208906 41232 0,49 13,12 28,40
+2002 238216 39514 0,51 14,43 24,78
+2003 266601 40871 0,54 14,56 24,84
+2004 273371 51787 0,57 15,38 19,44
+2005 311594 58020 0,56 16,89 11,09
+2006 337371 76724 0,54
+Sources : Secrétariat Général COBAC, CERBER, Calculs des auteurs
+
+--- Page 30 ---
+Tab. 13 – Évolution des indicateurs financiers (bis) (en millions FCFA)
+Années Fonds propres Capacité (+) ou besoin (-) de financement
+1993 94994 −82868
+1994 192314 159026
+1995 135342 76267
+1996 149566 178657
+1997 194198 158814
+1998 194085 84876
+1999 262004 162728
+2000 216716 535812
+2001 208702 398994
+2002 252611 621093
+2003 280345 620490
+2004 383619 904673
+2005 414879 1362735
+2006 452557 1700225
+Sources : Secrétariat Général COBAC, CERBER, Calculs des auteurs
+
+--- Page 31 ---
+nollitnahcé’l
+rus
+seuqnab
+sed
+eton
+ed
+noitubirtsiD
+–
+4
+.giF
+001
+05
+0
+05−
+08
+06
+04
+02
+0
+04−
+08
+06
+04
+02
+0
+04−
+001
+05
+0
+05−
+4
+:3002
+3
+:3002
+2
+:3002
+1
+:3002
+001
+05
+0
+05−
+001
+05
+0
+05−
+001
+05
+0
+05−
+001
+05
+0
+05−
+4
+:4002
+3
+:4002
+2
+:4002
+1
+:4002
+001
+05
+0
+05−
+001
+05
+0
+05−
+001
+05
+0
+05−
+001
+05
+0
+05−
+4
+:5002
+3
+:5002
+2
+:5002
+1
+:5002
+001
+05
+0
+001
+05
+0
+05−
+001
+05
+0
+05−
+001
+05
+0
+05−
+4
+:6002
+3
+:6002
+2
+:6002
+1
+:6002
+
+--- Page 32 ---
+eduté’l
+ed
+edoirép
+al
+rus
+serporp
+sdnof
+sed
+noitulovÉ
+–
+5
+.giF
+7
+euqnaB
+6
+euqnaB
+5
+euqnaB
+4
+euqnaB
+3
+euqnaB
+2
+euqnaB
+1
+euqnaB
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+41
+euqnaB
+31
+euqnaB
+21
+euqnaB
+11
+euqnaB
+01
+euqnaB
+9
+euqnaB
+8
+euqnaB
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+12
+euqnaB
+02
+euqnaB
+91
+euqnaB
+81
+euqnaB
+71
+euqnaB
+61
+euqnaB
+51
+euqnaB
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+72
+euqnaB
+62
+euqnaB
+52
+euqnaB
+42
+euqnaB
+32
+euqnaB
+22
+euqnaB
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l

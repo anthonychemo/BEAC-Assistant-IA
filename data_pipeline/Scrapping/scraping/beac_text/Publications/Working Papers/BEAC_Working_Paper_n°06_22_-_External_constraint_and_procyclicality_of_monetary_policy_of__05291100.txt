@@ -1,0 +1,1154 @@
+Source PDF : BEAC_Working_Paper_n°06_22_-_External_constraint_and_procyclicality_of_monetary_policy_of__05291100.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_n°06_22_-_External_constraint_and_procyclicality_of_monetary_policy_of__05291100.pdf
+Date extraction : 15/06/2026 21:19:19
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 06/22 -
+External constraint and procyclicality of monetary policy of the
+Bank of Central African States
+NGOMBA BODI Francis
+Docteur en sciences économiques
+Banques des Etats de l’Afrique Centrale
+ngomba@beac.int
+B ANQ U E D E S E T A T S D E
+L’AF R IQ U E C E NT R ALE Les opinions émises dans ce document de
+travail sont propres à leur (s) auteur (s) et ne
+7 36, Av e n ue M on s e i g n e ur
+représentent pas nécessairement la position de la
+V og t B P:1 9 1 7 Y a o un d é
+Banque des Etats de l’Afrique Centrale.
+C a me roun
+T e l :(2 37 ) 2 2 2 34 0 30 / The opinions expressed in this working
+2 2 2 34 060 paper are those of the author (s) and don’t
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9
+of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E S E T U D E S, D E L A R E CH E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+External constraint and procyclicality of monetary policy of the Bank of Central
+African States (BEAC)∗
+Francis NGOMBA BODI, PhD ∗∗
+January 2023
+Résumé
+Ilestétabliquelespolitiquesmonétairessontprocycliquesdanslespaysendéveloppementetplusieursfacteursontété
+évoqués dans la littérature notamment : (i) la procyclicité des flux de capitaux dans les économies émergentes, et (ii)
+la faiblesse du cadre institutionnel dans les pays d’Afrique subsaharienne. Toutefois, les caractéristiques des économies
+de la CEMAC relatives à l’ancrage nominal de la politique monétaire (stock de réserves de changes à posséder) et à
+l’importance des chocs de termes de l’échange nous emmènent à reconsidérer ce débat et à explorer d’autres facteurs
+de procyclicité de la politique monétaire. Ce papier analyse ainsi le rôle de la contrainte extérieure (l’ancre nominale
+que constitue le ratio réserves de change en mois d’importations) dans la procyclicité de la politique monétaire de la
+BEAC.Aumoyend’unemodélisationenéquilibregénéralintégrantlescaractéristiquesstructurellesdeséconomiesdela
+CEMAC, nous montrons que : (i) un choc monétaire entraîne plus de volatilité réelle dans le cadre actuel de politique
+monétaire que dans un régime de ciblage d’inflation, (ii) le cadre actuel de politique monétaire suggère une hausse du
+tauxdirecteursuiteàunchocmacroéconomiquenégatif,(iii)laréactionrestrictiveretardéedelaBanquecentralesuiteà
+unchocpétroliernégatifinduitdescoûtsmacroéconomiquessupplémentaires. Cesrésultatssuggèrentainsideconsidérer
+la possibilité d’une autre ancre nominale qui combine la possibilité de garantir la stabilité externe de la monnaie et la
+contracyclicité de la politique monétaire.
+Keywords : procyclicité de la politique monétaire, contrainte extérieure, cycle conjoncturel, modèles DSGE, changes fixes
+Classification JEL :E32,E42,E52,E58
+Abstract
+Monetary policies are known as procyclical in developing countries. For instance, there exists a consensus on the
+main factors of this monetary policy procyclicality: (i) procyclicality of capital flows in emerging markets, and (ii)
+weak institutional framework in Sub-Saharan African countries. However, hard peg regime requirements (in terms
+of FX reserves level to possess) and the importance of terms of trade shocks in Franc Zone countries prompts us to
+reconsider this debate and to explore other factors, especially for central African countries. In this paper, we analyse
+the important role of external constraint (FX reserves to imports ratio, the de facto nominal anchor) in the BEAC’s
+monetary policy procyclicality. Using a general equilibrium model with some structural features of central African
+economies, we demonstrate that: (i) a monetary shock has a more volatile effects on real variables in the current
+monetary policy framework than in an Inflation Targeting (IT) regime, (ii) the current monetary policy framework in
+CentralAfricasuggestamonetarytighteningfollowinganegativemacroeconomicshock,and(iii)thedelayedrestrictive
+reaction of central bank following a negative oil shock induce additional macroeconomic costs. This results suggest to
+consider the possibility of another nominal anchor for BEAC’s monetary policy which combines the monetary policy’s
+countercyclicality and the possibility to defend the currency.
+Keywords: monetary policy procyclicality, external constraint, business cycles fluctuations, DSGE, hard peg regime
+JEL Classification: E32,E42,E52,E58
+∗Central Bank of six countries in Central Africa: Cameroon, Central African Republic, Chad, Congo, Gabon, Equa-
+torial Guinea
+∗∗E-mail: ngomba.bodi@gmail.com
+The views expressed here do not represent those of the Bank of Central African States.
+1
+
+--- Page 3 ---
+Résumé non technique
+Les politiques macroéconomiques doivent être contracycliques ou tout au moins acycliques afin de
+pouvoir lisser les fluctuations conjoncturelles. Dans les économies émergentes et en développement, ce
+mécanisme de régulation conjoncturelle ne joue pas pleinement du fait notamment : (i) la procyclicité
+des flux de capitaux dans les économies émergentes, et (ii) la faiblesse du cadre institutionnel dans les
+pays d’Afrique subsaharienne. En effet, en période de récession qui se traduit généralement par des
+sorties massives de capitaux, la banque centrale est obligée de restreindre les conditions monétaires
+afin de limiter la dépréciation de la monnaie (ou d’écarter le risque de sa dévaluation). Et ceci au
+risque d’accentuer un peu plus la récession initiale.
+S’agissant des pays de la CEMAC qui sont des économies à régime de changes fixes avec mobilité
+imparfaite des capitaux, les flux de capitaux sont maîtrisés tandis que la gouvernance institutionnelle
+delaBanqueCentrales’amélioresignificativement. Cequipousseàrechercherd’autrescausesdecette
+procyclicitédelapolitiquemonétaire. Cepapieranalyseainsilerôledelacontrainteextérieure(l’ancre
+nominale de la politique monétaire que constitue le ratio réserves de change en mois d’importations)
+dans la procyclicité de la politique monétaire de la BEAC. Notre intuition est que le niveau du ratio
+réserves de changes en mois d’importations contraint la possibilité de la banque centrale à opérer une
+régulation conjoncturelle. Notre analyse nous permet de déboucher sur les trois résultats suivants :
+• La modification du taux d’intérêt dans le cadre actuel de politique monétaire entraîne une
+réaction plus forte des variables réelles, comparativement à un régime de ciblage d’inflation,
+• Le cadre actuel de politique monétaire, caractérisé par cette ancre nominale que représente le
+ratio réserves de changes en mois d’importations, suggère une hausse du taux directeur suite à
+un choc macroéconomique négatif, afin de préserver la stabilité monétaire externe. Ainsi, cet
+arbitrage en faveur de l’atténuation de la contrainte extérieure explique d’une part le surcroît
+de volatilité réelle, et d’autre part la procyclicité de la politique monétaire.
+• Suite à une baisse inattendue des cours du pétrole susceptible d’affecter le ratio réserves de
+changes en mois d’importations, la réaction vraisemblable de la banque centrale serait de main-
+tenir le statu quo compte tenu du fait qu’elle ne sait si ce choc est transitoire ou durable.
+Toutefois, si ce choc est durable comme celui de 2014, cet attentisme augmente le coût réel (en
+termes de délai d’extinction des effets de ce choc) du relèvement tardif du taux directeur. Ce
+résultat milite ainsi pour une proactivité dans la réaction aux chocs de termes de l’échange.
+Ces résultats suggèrent d’examiner l’éventualité d’une autre ancre nominale qui combine, d’une
+part, la possibilité de garantir la stabilité externe de la monnaie, et d’autre part la contracyclicité de
+la politique monétaire.
+2
+
+--- Page 4 ---
+Introduction
+The main objective of any macroeconomic policy is to stabilize business cycles fluctuations. Keynes
+(1936) and the IS-LM model (Hicks (1937)) recommended that central banks should accommodate
+fiscal measures aimed at curbing deflationary pressures. Even in a rational expectations setting (with
+somerigidities),thecountercyclicalmonetarypolicyisoptimalinstabilizingbusinesscyclefluctuations
+[Phelps & Taylor (1977); Fischer (1977)]. Thus, stabilization policies, especially monetary and fiscal
+ones,shouldbecountercyclical,oratleast,acyclical. Regardingtothis,whentheeconomyexperiences
+an expansion phase with a positive output gap, this results in inflationary pressures which lead to a
+level of inflation above the central bank’s target. In that case, central bank must increase its policy
+rate. In parallel, when the economy is in the trough of the cycle with a negative output gap, the
+central bank must lower its interest rate in order to contain deflationary pressures.
+Insomesmallopenemerginganddevelopingeconomiesthataresubjectedtohighvolatilityincapital
+flows and credit constraints that prevent them from borrowing when the economy is in recession 1, the
+necessity to stabilize exchange rates modify this traditional regulation mechanism by central bank.
+When economy is downturn, capital leaves the economy and central banks are forced to increase its
+policyrateinordertomitigatetheexchangeratedepreciation(oranoutflowofinternationalreserves).
+The increase of policy rate in bad times impulses the procyclicality of monetary policy2. We define
+procyclicality of monetary policy as the fact that central bank implements expansionary measures in
+good times (for example when the output gap is positive) and restrictive measures in bad times (for
+example when the output gap is negative).
+Procyclical stabilization policies are ineffective because they tend to: (i) amplify business cycle
+fluctuations,(ii)exacerbatevolatility,(iii)fuelexpansionandinflationarypressuresand,(iv)stimulate
+recession. This can results in "lower rates of economic growth, higher rates of output volatility and
+higher rates of inflation" (McManus & Ozkan (2015)).
+Six central African countries3 are in a monetary union which has a pegged arrangement with euro,
+and the French government guaranteed this pegged exchange rate regime by requiring that the Bank
+of Central African States (BEAC) should maintain a minimum value of 20 % for the ratio of the
+foreign exchange reserves to short-term Central Bank liabilities4. In that regard, in order to reinforce
+the credibility of that fixed exchange rate regime, BEAC didn’t intervene in the forex, but has to
+maintain a strong level of international reserves to prevent an eventual currency devaluation. This
+monetary arrangements influence the achievement dynamics of the final objective of monetary policy
+of BEAC which is the monetary stability (according to the 1st Article of his Statutes). This monetary
+stability means, in the sense of BEAC5, (i) a lower inflation rate (around 3 %) and, (ii) a sufficient
+value of the ratio of the foreign exchange reserves to short-term central bank’s liabilities (not lower
+than 20 %). Only when this final objective is reached, BEAC can support the economy.
+In Central Africa, all economies, except Central Africa Republic, depend on oil revenues which are
+the principal source of international reserves. Therefore, external shocks, especially terms of trade
+shocks, represent the main source of business cycles fluctuations (Hoffmaister et al. (1998)). Thus,
+expansionary phases of business cycles are characterized by higher amount of international reserves,
+and low amount of international reserves occurs in recessionary phases. In the trough of the cycle,
+1See Gavin & Perotti (1997)
+2SeeDomacet al.(2019),Daglarogluet al.(2018),DuPlessiset al.(2007),Kasekendeet al.(2010),Kaminskyet al.
+(2004)
+3Cameroon, Central African Republic, Chad, Congo, Gabon, Equatorial Guinea
+4According to the 11th article of the Statutes of the Central Bank of Central African States
+5See www.beac.int/politique-monetaire/strategie-de-politique-monetaire/
+3
+
+--- Page 5 ---
+the low amount of international reserves (which represents a threat to the external stability of the
+money) made difficult to conduct a loose monetary policy because this will amplify the drop in
+international reserves. Since then, in a recession (often caused by drop in international prices of
+commodities, especially oil), BEAC is forced to increase policy rate in order to stop the increased
+outflow of international reserves. Thenceforth, the monetary policy of the BEAC can be procyclical.
+Similar to emerging economies, this monetary policy procyclicality results from the external con-
+straint, i.etheconstrainttopossesssufficientforeignexchangereservesinordertoguaranteemonetary
+stability. Two arguments illustrate the procyclicality of BEAC’s monetary policy.
+Firstly,figure1showsthecorrelationbetweenthecyclicalcomponentofnon-oilGDP6 andthepolicy
+rate of BEAC.
+Figure 1: Correlation between output gap and policy rate of BEAC
+Source: Construction of author on BEAC data (available at
+https://www.beac.int/economie-stats/statistiques-economiques/) and at
+https://www.beac.int/economie-stats/statistiques-marche-monetaire/
+We choose 1995 as starting period because it’s one year after the beginning of money market oper-
+ations; and 2015 as the ending year of the period because it’s the last year with available official data
+for GDP. We can distinguish two periods:
+• 1995-2005: characterized by a counter-cyclicality (positive correlation between activity and pol-
+icy rate)
+• 2005-2015: characterized by a higher procyclicality (negative correlation between activity and
+policy rate)
+The structural break in 2005, that took place at the beginning of oil production in Chad and
+Equatorial Guinea and the step up of oil production in Gabon and Congo, suggests a role for oil
+6oil GDP mostly depends on exploration and production capacities of oil companies and reserves in oil fields
+4
+
+--- Page 6 ---
+activity, and therefore a role for international reserves, in the development of that procyclicality in
+Central Africa.
+Secondly, since the creation of the money market in 1994, the BEAC’s policy rate had a downward
+trend, while output gap in this region was positive at least between 2000 and 2016. Notwithstanding,
+on the period 1995-2020, BEAC has raised its policy rate three times:
+• Firstly, on the fourth quarter of 2008, BEAC raised its policy rate in response to a 50 % drop in
+oil prices. That policy rate increase wasn’t lasted due to the beginning of the Great Financial
+Crisis,andthenecessitytoreducegapbetweenthepolicyrateofBEACandthatoftheEuropean
+Central Bank (the anchor currency area).
+• Secondly, on the first quarter of 2017, marking a reorientation of the monetary policy, in view
+of restoring a strong level of international reserves after the sudden and heavy drop in oil prices
+in autumn 2014.
+• Thirdly, on the fourth quarter of 2018, with the same reasons for the increase of march 2017.
+However, any drop of commodity prices didn’t always lead to a reorientation of the monetary policy
+stance because of the volatility of commodities prices: at any time after a significant oil prices drop,
+these prices can go up and curb the effects of the initial drop. Since then, the central bank is
+encouraged to wait and see if these terms of trade shocks are permanent or not. The common point
+of that three policy rate increases is the link with dynamics of oil prices, that is, the dynamics of
+international reserves. These three major interest rate hikes are driven by the need to halt the drain
+on international reserves due to the sharp drop in oil prices (figure 2).
+Figure 2: Oil prices dynamics and BEAC policy rate increases
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+-0.1
+-0.2
+-0.3
+1st policy rate 2nd policy
+increase rate increase
+-0.4
+3rd policy
+-0.5 rate increase
+1995Q1 1998Q2 2001Q3 2004Q4 2008Q1 2011Q2 2014Q3 2017Q4
+Source: IMF and BEAC
+Therefore, our research question is: does the de facto nominal anchor, namely the FX reserves
+to imports ratio, constitutes an important factor of monetary policy procyclicality ? The objective
+of our research is to identify the importance of international reserves as the principal factor of the
+procyclicalityoftheBEACmonetarypolicy. Thisresearchisimportantforfourmainreasons. Firstly,
+we identify an important factor of the procyclicality of the monetary policy of BEAC. Secondly,
+we participate in the current debate related to the new monetary arrangements in Franc Zone by
+identifying an essential point of that reform. Thirdly, we fill the gap of literature related to the
+5
+
+--- Page 7 ---
+procyclicality of monetary policy in Africa. Finally, we advocate for a modification of the BEAC’s
+nominal anchor.
+Therestofpaperisorganizedasfollows: inthefirstsection,wehighlightthefactorsandconsequences
+of procyclicality; in the second section we present the general equilibrium model; in the third section,
+we discuss the results obtained.
+1 Monetary policy procyclicality in literature
+1.1 Sources of monetary policy procyclicality
+Procyclicality of monetary policy have been evidenced for emerging and developing economies, "with
+macroeconomic policies amplifying economic upswings and deepening downturns". This procyclicality
+comes from the nature of exchange rate regime. Central banks in pegged exchange rate countries
+should defend their currencies, mostly in sudden-stop context or when there is a heavy outflow of FX
+reserves which tends to depreciate the currency. Floating exchange rate countries didn’t have to cope
+with this issue because exchange rate depreciation (or appreciation in case of heavy capital inflow)
+act as a buffer (Broda (2001)) and then central bank can focus on domestic macroeconomic issues
+(inflation and output gap).
+The main factor of this procyclicality in emerging and developing countries is the dynamic of capital
+flows (Kaminsky et al. (2004)): emerging markets experienced strong economic growth that attracts
+foreign investors (capital flows and business cycles are highly tied in emerging markets, Kaminsky
+et al. (2004)). This induces a currency appreciation. When a foreign shock occurs, for example an
+increase of Fed’s policy rate, investors repatriate funds, which lead to a currency depreciation. Then,
+central banks in emerging economies are forced to intervene, by increasing their policy rates, in order
+to stop the currency depreciation. But, by restricting monetary conditions, central banks negatively
+affect economic growth in a time when capital flight reduce real investment and potential GDP. Also,
+capitalflowsarehighlyvolatileinemergingmarkets, andthisvolatility, maintainedbyalowerinterest
+rates environment in developed countries, can represent a threat for financial stability because of the
+volatility of credit aggregates and stock exchange indexes. Therefore, central banks are encouraged
+to incorporate financial stability objective in their primary goals. According to Domac et al. (2019)
+and Daglaroglu et al. (2018), this led to the procyclicality of Central Bank of Turkey’s monetary
+policy. Other factors of this monetary policy procyclicality are the "fear of free floating" and "fear
+of free falling"7 which encourage central banks to strongly increase policy rate in case of a currency
+depreciation. The effects of currency depreciation on balance sheets of governments and banks also
+explain this fear of free falling.For instance, a domestic currency depreciation increases the burden of
+foreign currencies denominated debt(Calvo & Reinhart (2002)).
+Developing countries, especially Sub-Saharan ones, have weak institutional frameworks, especially
+a low level of financial sector development. In this context, countries have a higher shares of debt
+denominated in foreign currencies than debt denominated in domestic currencies because domestic
+financial sector cannot fill all the financing needs of economic agents. According to Coulibaly (2012),
+the development of financial sector, which increases the share of domestic currency debt, reduces the
+effectsofcapitaloutflows,andincreasestheincentivestoconductcountercyclicalpolicies. Empirically,
+Mondjeli & Mbassi (2018) found a negative sign for the output gap in an augmented Taylor rule for
+Sub-Saharan countries and concluded to the existence of procyclical monetary policy in Sub-Saharan
+7Vegh & Vuletin (2013)
+6
+
+--- Page 8 ---
+countries. This procyclicality is more or less pronounced depending on the level of development of
+financial sector.
+Fiscal policy could also constrain the monetary policy stance. For oil exporters countries, periods
+of high oil prices represent a rare opportunity for government to redistribute more largely this oil
+revenues to people, by expanding subsidies and by reducing tax pressures. This procyclical fiscal
+policy in good time, to be effective, need an accommodative monetary policy. In bad times, reduction
+of fiscal revenues (oil and tax revenues) imply the adoption by governments, in partnership with the
+International Monetary Fund, of an economic and financial reforms program which prompt central
+bank to comfort their tightened monetary policy. Thus, procyclicality of fiscal policy induce the
+monetary policy to be also procyclical.
+1.2 Procyclicality of monetary policy is not desirable for emerging and developing
+countries
+Since Central Banks in emerging and developing countries act as "amplifying economic upswings and
+deepening downturns", their actions imply an additional macroeconomic volatility. When an external
+shock hit a hard peg economy, it cannot adjust by handling exchange rate; and this implies price
+distortions (relative prices are no longer indicators of relative value of goods) and thus, misallocation
+ofresources. Sincethenominaladjustmentcannotbeimplemented(highlevelsofrealinterestrateare
+required to defend the pegged exchange rate), there will be a real adjustment which leads to a higher
+output volatility. There are empirical evidences supporting this view: Levi-Yeyati & Sturzenegger
+(2003), Broda (2001), Bastourre & Carrera (2004), among others. However, fixed exchange rates are
+associated to a lower level of inflation and their greater stability (Husain et al. (2005)).
+Obviously, increased real volatility environment has a negative effect on investment projects, as
+economic agents cannot envision the future. Hence, increased output volatility can lead to reduced
+real growth. Ramey & Ramey (1995) (and more recently Raju & Acharya (2020)) provided empirical
+evidences supporting the view that countries with higher output volatility have lower real growth.
+Following the recent 2008’s global financial crisis, Tsangarides (2012) shows that pegged economies
+perform differently than floated economies in terms of real growth, mostly during the recovery phase:
+pegs recover more slowly than floats.
+1.3 Coping with terms of trade shocks: nominal anchor of monetary policy in
+commodity-export countries
+Most of the developing countries, including those in the CEMAC region are highly dependent on
+commodity export revenues. Thus, business cycles in these countries are driven by terms-of-trade
+shocks (Broda (2004), Mendoza (1995), Hoffmaister et al. (1998)). Consequently, the CEMAC coun-
+tries have adopted fixed exchange rate that constraint their central banks to cope with terms-of-trade
+shocks in a procyclical manner because of the requirement to defend the peg. This leads to high
+volatility of GDP compared to countries with flexible exchange rate regimes (Broda (2001) and Broda
+(2004))whichcanbetterinsulatetheeconomyfromnegativeterms-of-tradeshockswithadepreciation
+of exchange rate.
+In order to "graduate from procyclicality to counter-cyclicality", McGettingan et al. (2013) suggest
+to change the monetary policy’s nominal anchor from exchange rate targeting to inflation targeting.
+However, as stated by Frankel (2011) inflation targeting (IT) is not suitable for countries for which
+7
+
+--- Page 9 ---
+terms-of-trade shocks are the main business cycles drivers. For oil exporters, IT monetary strategy
+(which targets the CPI inflation) suggests the central bank not to responds to fall in oil prices in
+dollar US, but to strongly responds to rise in the dollar price of imported foods. Since then, other
+nominal anchors have been proposed for these countries. Frankel (2011) examines three proposals :
+(i) targeting the export price of the most exported commodity, (ii) targeting the export price index,
+and (iii) targeting the product price index. Frankel (2018) proposes two anchors: (i) target the
+currency-plus-commodity basket, and (ii) targeting the nominal GDP.
+2 General equilibrium model hypothesis
+Thisgeneralequilibriummodelshouldallowustomarktheforeignexchangereservesastheprincipal
+factor of BEAC’s monetary policy procyclicality. We show this by simulating a business cycle starting
+with a negative oil price shock that reduce oil prices by 65 %. Relating to our research question, this
+modelfitseconomiesofcentralAfricainthreeways: (i)modellingchoices,withdistinctivefeaturesthat
+replicate relevant stylized facts, (ii) calibration of structural parameters, and (iii) values of some ratios
+at steady state (oil share in GDP, capital production ratio, investment to GDP ratio, consumption to
+GDP ratio, ...) that should match empirical averages.
+Our model takes into account five distinctive features compared to the canonical New-Keynesian
+model:
+• It accounts for the oil sector: the sources of economic fluctuations in Central Africa is mainly
+external with higher volatility of commodities prices.
+• Like in Berg et al. (2013), the economic effects of external shock (oil shock) materialize via
+the fiscal budget: public investment (which depends on oil price level), participates in the
+accumulation of public capital which is a production factor for domestic intermediate goods
+firms.
+• Central African economies highly depends on external trade: this model take into account open
+economy features (oil exports, consumption and investment goods imports).
+• The consumption persistence in this six central Africa countries led us to take into account the
+consumption habit hypothesis.
+• We replicate the final objective of BEAC’s monetary policy by augmenting Taylor rule with the
+foreign exchange reserves to imports ratio gap.
+2.1 Households
+We consider a representative household, who transfers their wealth in the future in order to smooth
+their consumption, and maximize their inter-temporal utility subject to their budgetary constraint:
+E
+X∞ βt( (C t−hC t−1)1−φ
+−θ
+L1 t+σL )
+(2.1)
+t L
+1−φ 1+σ
+t=0 L
+(1−τ )W L −(1+τ )α C +Div −B +(1+R )B = 0 (2.2)
+w t t c c,t t t t t−1 t−1
+Households revenues comprise of salary (W ), dividends from intermediate goods firms (Div ) and
+t t
+interest revenues from bonds (R ). Consumption (C ), taxes (τ and τ ) and government bond
+t−1 t w c
+8
+
+--- Page 10 ---
+purchases (B ) constitutes their expenses. Household’s consumption includes domestic (C ) and
+t d,t
+imported (C ) goods:
+m,t
+η
+c
+ 1 η c−1 1 η c−1 η c−1
+C t =  (1−ω c)η c(C d,t) η c +ω cη c(C m,t) η c   (2.3)
+ 
+Demandofdomesticconsumptiongoodsdependsondomesticgoodsinflation(π )andrelativeprices
+t
+of consumption goods (α ).
+c,t
+"
+π
+#−ηc
+t
+C = (1−ω ) C (2.4)
+dt c
+α
+t
+c,t
+Demand of imported consumption goods depends on relative price of imported consumption goods
+(α ) and relative prices of consumption goods (αc).
+mc,t t
+"
+α
+#−ηc
+mc,t
+C = ω C (2.5)
+m,t c t
+α
+c,t
+The relative prices of consumption goods aggregate the inflation of domestic goods prices and the
+relative prices of imported consumption goods.
+1
+h i
+α = (1−ω )(π )1−ηc +ω (α )1−ηc 1−η c (2.6)
+c,t c t c mc,t
+The Lagrangian can be written as follows:
+L = E
+X∞ βt"( (C t−hC t−1)1−φ
+−θ
+L1 t+σL )
++λ ((1−τ )W L −(1+τ )α C
+t L t w t t c c,t t
+1−φ 1+σ
+t=0 L
+(2.7)
+#
++Div −B +(1−R )B
+t t t−1 t−1
+This led to the following first order conditions:
+(C −hC )−φ1−τ
+θ LσL = t t−1 w W (2.8)
+L t α 1+τ t
+c,t c
+(C −hC )−φ C−φ
+− t t−1 +β t+1 (1+R ) = 0 (2.9)
+t+1
+(1+τ ) (1+τ )α
+c c c,t+1
+2.2 Imported goods firms
+The open economy hypothesis in our model is based on the strong dependence of Central Africa
+economies on external trade: the import share of consumption is high, and these economies export
+9
+
+--- Page 11 ---
+what they produce (mostly commodities). The representative importer buys foreign goods at price
+P and resell them in domestic market at price P for consumption goods and P for investment
+∗,t mc,t mi,t
+goods. The difference between foreign and domestic prices of imported goods (which implies an
+incomplete pass-through) come from the adjustment cost faced by the importer when he decided on
+their prices. Thus, the importer has to maximize their actual and expected sum of profits:
+Max E
+t{X∞
+(βΩ
+mx,t+k)k
+P mx∗,itX mi,t−P ∗,t(X m,it+Z tφ mc)−
+ψ
+pm
+P
+mx∗,it
+−1!2
+C
+m,it
+}
+Pmx∗,it
+k=0
+2 P mx,it−1
+subject to the demand addressed to imported goods firm:
+λ
+mx,t
+!−
+α λ
+mx,it mx,t−1
+X = (2.10)
+m,it
+α
+mx,t
+This optimizing problem led to the following optimality condition:
+!
+∂L λ λ α α
+mx,t mx,t mx∗,t mx∗,t
+= α − +α −ψ −1
+mx∗,t ∗,t pm
+∂P λ −1 λ −1 α α
+mx∗,it mx,t mx,t mx,t−1 mx,t−1
+(2.11)
+!2 ! !
+ψ λ α α α
+pm mx,t mx∗,t mx,t+1 mx,t+1
++ −1 +βΩ ψ −1 = 0
+mx,t+1 pm
+2 λ −1 α α α
+mx,t mx,t−1 mx∗,t mx∗,t
+With: P = P orP , λ = λ orλ , α = α orα , X = C orI .
+mx,it mc,it mi,it mx,t mc,t mi,t mx∗,t mc∗,t mi∗,t mi,t mi,t mi,t
+η
+i
+ 1 η i−1 1 η i−1 η i−1
+I t =   (1−ω i)η i(I d,t) η i +ω iη i(I m,t) η i  
+
+(2.12)
+Quantitiesofdomesticandimportedinvestmentgoodsdependonrelativepricesofinvestmentgoods:
+"
+π
+#−ηi
+t
+I = (1−ω ) I (2.13)
+d,t i t
+α
+i,t
+"
+α
+#−ηi
+mi,t
+I = ω I (2.14)
+m,t i t
+α
+i,t
+Relative price of investment goods (α ) is function of domestic and imported investment goods
+inv,t
+prices (α ):
+mi,t
+1
+h i
+α = (1−ω )(π )1−ηi +ω (α )1−ηi 1−η i (2.15)
+inv,t i t i mi,t
+10
+
+--- Page 12 ---
+2.3 Domestic producers of intermediate goods
+The intermediate goods firms combine labour (L ), private capital (K ) and public capital (K )
+t t g,t
+in order to produce domestic goods (Y ). Compared to the standard specification, we incorporate
+d,t
+the public capital factor, K ); in order to link oil activity with non-oil activity, knowing that public
+g,t
+investment is strongly linked to the level of oil prices8. A and Z are, respectively, the non stationary
+t t
+and stationary technological shocks.
+Y = A Z KαL1−α(K )αg (2.16)
+d,t t t t t g,t
+Theintermediategoodsfirmsresolvetwooptimizingproblems: theonedesignstodeterminethecosts
+oflabourandprivatecapital,andtheotherdeterminestheoptimalpriceofdomesticgoods. Relatively
+to the first optimizing problem, we can express labour and capital factors costs by minimizing total
+cost subject to the production function. The first-order condition of this optimization problem is:
+W 1−αK
+t t
+= (2.17)
+r˜ α L
+k,t t
+Expressing K et L in function of Y , and replacing this in the total cost function give us:
+t t d,t
+1 " (cid:18)K (cid:19)1−α (cid:18)K (cid:19)α#
+CT = Y r˜k t +W t (2.18)
+t d,t A tZ t(Kg,t)αg t L
+t
+t L
+t
+Deriving the previous equation with respect to Y give us the expression of marginal cost:
+d,t
+1 " (cid:18)K (cid:19)1−α (cid:18)K (cid:19)α#
+t t
+MC = r˜ +W (2.19)
+t A tZ t(K g,t)αg k,t L
+t
+t L
+t
+Thesecondoptimizingproblemissolvedbydomesticgoodsproducerwhowanttoadjusttheirprices
+(domesticgoodsmarketisamonopolisticmarket),takingintoaccountthattheyarefacingadjustment
+costs and they will cope with these costs in the future.
+Thus, domestic goods producer i wants to maximize its actual and expected profits:
+ 
+X∞  ψ
+P
+" P
+d∗,it
+#2 
+MaxE Ξ P Y −TC (Y )− −1 Y (2.20)
+0 t+k d∗,it d,it+k t+k d,it+k d,t+k
+2 P
+ d,it+k−1 
+k=0
+subject to the demand function faced by the producer i:
+!−ε
+P
+d,it
+Y = Y (2.21)
+d,it d,t
+P
+d,t
+With Ξ the discount factor of households who owns intermediate goods producers.
+t
+8See Berg et al. (2013)
+11
+
+--- Page 13 ---
+Deriving the first-order condition and rearranging terms give us the domestic goods price dynamics:
+!
+Y
+d,t+1
+Ξ (1−ε)+Ξ εMC −Ξ ψ π [π −π]+βΞ ψ π [π −π] = 0 (2.22)
+t t t t P t t t+1 P t+1 t+1
+Y
+d,t
+2.4 Oil sector
+The dynamics of oil prices and oil production are exogenous as the CEMAC’s economies cannot
+influence oil prices.
+Y (cid:18)Y (cid:19)ρ yoil
+oil,t oil,t−1
+= exp(ε ) (2.23)
+yoil,t
+Y Y
+oil oil
+α oil∗,t (cid:18)α oil,t−1(cid:19)ρ poil
+= exp(ε ) (2.24)
+poil,t
+α α
+oil∗ oil
+We postulate that dynamic of oil sector affects the rest of economy via demand factors (especially
+via fiscal balance and public investment). This hypothesis is based on the fact that central African
+economies are net-exporters of oil.
+2.5 Monetary and fiscal policies, and resource constraint
+The current monetary policy framework in Central Africa is taken into account by adding in the
+standard Taylor rule the ratio of foreign exchange reserves to imports. Thus, the central bank sets its
+policy rate in response to inflation gap, output gap and ratio of foreign exchange reserves to imports
+Res
+t
+gap (µ = )
+t αcmCm+α I
+t t im,t m,t
+(1+R t) = (1+R)(1−φR)(1+R t−1)φR(π t−π)φπ(1−φR)
+Y
+d,t
+!φy(1−φR)(cid:18)µ t(cid:19)φµ(st)(1−φR)
+(ε r,t)σ εr
+Y µ
+d,t−1
+(2.25)
+In the BEAC Statutes, the central bank has to maintain a value of the foreign assets to short-term
+Central Bank liabilities ratio higher than 20 %. However, it is difficult to define the target for that
+ratio because: (i) on the one hand, this ratio can have a value greater than 20 % but in the same
+time economy experiences a deep recession like in the period between 2014 and 2016, (ii) on the other
+hand, the range is too large between the lower bound, 20 %, and the higher bound, more than 100
+%. Thereby, the most used indicator of external stability9 is the foreign exchange reserves to imports
+ratio, for which the target set by BEAC is three months of imports in terms of foreign exchange
+reserves10.
+We consider the regime-switching dynamics for parameter φ (s ) which controls the importance of
+µ t
+foreignexchangereservestoimportsratioontheCentralBankbehaviour. Thisregime-switchingchar-
+acteristicsisbasedonthefactthatforeignexchangereservesconstraintsisbindingonlywhenoilprices
+9Also used by the International Monetary Fund in its discussions with Central African countries
+10See some Monetary Policy Reports, March 2020 Monetary Policy Report, P.48, November 2019 Monetary Policy
+Report, P.56
+12
+
+--- Page 14 ---
+andinternationalreservesareatalowerlevel. Then,wedefinetwostates,s ∈ {normalstate,crisisstate}:
+t
+(i) a crisis state (when oil prices are lower) and (ii) a normal state (when oil prices are higher). The
+value of parameter φ in crisis state should be higher than its value in normal state. The probability
+µ
+to switch from a state to another state depends on the value of the target of foreign exchange reserves
+to imports ratio µ . This target is fixed at three months of imports in terms of foreign exchange
+t
+reserves. Thus, when the foreign exchange reserves to imports ratio is above 3, we set the value of
+φ at 0.01; when the foreign exchange reserves to imports ratio is below 3, we set the value of φ at
+µ µ
+0.25. The transition probability from normal state to "crisis state" is much higher than the transition
+probability from crisis state to "normal state" because entering into a crisis leads to an increase in the
+outflow of foreign exchange reserves and forces BEAC to react promptly by increasing its policy rate.
+But, BEAC will wait longer after reaching and exceeding the value 3 for µ , to enter in the normal
+t
+state.
+The dynamics of foreign exchange reserves (Res ) depends on the trade balance:
+t
+Res = α Y −α C −α I +Res (2.26)
+t oil,t oil,t cm,t mt im,t m,t t−1
+In regards to the government sector, its revenues consist of: (i) oil revenues T = P Y ),
+oil,t oil∗,t oil,t
+(ii) Consumption taxes (τ α C ), (iii) Salaries taxes (τ W L ) and (iv) debt (B ). The government
+c c,t t w t t t
+spends these revenues to pay off its debt, and buy consumption (G ) and investment goods (G ).
+c,t i,t
+T +τ α C +τ W L +B −(1+R )B = G (2.27)
+oil,t c c,t t w t t t t−1 t−1 t
+Public investment contributes to the renewal of the public capital stock:
+K = (1−δ )K +G (2.28)
+g,t g g,t−1 i,t
+As shown in figure 3, there is a strong correlation between public investment and oil price dynamics.
+Figure 3: Oil price dynamics and Public investment in Central Africa
+Source: IMF and BEAC
+Thus, as in Berg et al. (2013), we modelled public investment as a function of the gap between
+current and steady state oil revenues:
+13
+
+--- Page 15 ---
+G = G +(T −T ) (2.29)
+it i oil,t oil
+Finally, we close the model with the following equation:
+Y +α C +α I = (1+α )C +α I +τ W L +τ α C
+d,t cm,t m,t im,t m,t c,t t inv,t t w t t c c,t t
+ψ P !2 ψ P !2 ψ P !2 (2.30)
+P d,t pm mc,t pm mi,t
++ Y −1 + C −1 + I −1
+d,t m,t m,t
+2 P 2 P 2 P
+d,t−1 mc,t−1 mi,t−1
+3 Calibration and Steady state
+3.1 Steady state of the model
+We determine the steady state values of some variables outside the model in order to match some
+stylized facts of central African economies: Z, π, λ , λ , (cid:15), α , α . Y represents 28 % of GDP.
+mc mi ∗ oil oil
+Steady state value of r˜ is set to induce a capital to production ratio of 2.5 as in Berg et al. (2013).
+k
+We further set the ratio of public capital to production at 0.4 as in Berg et al. (2013). Real marginal
+(cid:15)−1 α
+c
+costs value is determined as: MC = . Further, R = − 1, α = λ (1−α )λ −1,
+cm mc ∗ mc
+(cid:15) β
+α = λ (1−α )λ −1. α and α are set according to equations 2.6 and 2.15 respectively.
+im mi ∗ mi c inv
+Private capital K, consumption C and labour supply L are simultaneously determined as the solution
+of the system of three equations composed of 2.16, 2.30 and 2.19. Subsequently, domestic non oil
+Kr˜
+k
+production and private investment are determined respectively as Y = and I = δK. Imported
+d
+αMC
+and domestically produced investment goods, I and I , are determined according to equations 2.12,
+m d
+2.13 and 2.14. Public capital, K is determined on the basis of the public capital to production
+G
+ratio and equation 2.19; then, public investment is determined as G = δ K . We determine C
+i g G m
+and C with equations 2.3, 2.4 and 2.5. Public spending G are determined with equation 2.27, then
+d
+G = G−G .
+c i
+3.2 Calibration of structural parameters
+Thefollowingtableshowscalibrationofstructuralparametersofthemodel. Wecalibrateratherthan
+estimate because of the lack of quarterly data and their lower quality. The value of the coefficient
+of consumption habit in our model was chosen as in Mvondo (2016) that estimated his value for
+CEMAC economy. The value of discount factor is set to imply an interest rate of 5 %. We have also
+set our capital share in value added at 0.45 as in Berg et al. (2013) (we consider average between
+the values for traded goods sector, 0.35-0.4, and non-traded goods sector, 0.55-0.6). The elasticity of
+substitution between domestic and imported consumption goods is set at a lower level, 0.44, because
+of consumption habits. We set depreciation rate of private and public capital at a higher level, 0.3
+and 0.2 respectively [Berg et al. (2013) use a value of 10 %] because of corruption and lack of skilled
+workers. The public capital elasticity of production is set according to Berg et al. (2013). Coefficient
+values in Taylor rule are standard. We set elasticity of substitution of domestic goods at 1.075, which
+reflects low competition in CEMAC economies. We argue that oil shocks are relatively volatile and
+persistent, given the lasting effects of recent oil shock of 2014.
+14
+
+--- Page 16 ---
+Table 1: Calibration of parameters
+Label Values
+h Consumption habit 0.83
+σ L Frisch elasticity of labour supply 1
+θ L Coefficient on labour supply 1
+β Discount factor 0.9523
+ω c Import share of consumption 0.341
+η c Elasticity of substitution between domestic and imported consumption goods 0.44
+α Capital share in value added 0.45
+δ Depreciation rate of capital 0.3
+ψ p Quadratic adjustment coefficient of domestic goods price 10
+φ Relative risk aversion coefficient 1
+φ r Nominal interest rate persistence coefficient 0.9
+φ π Inflation coefficient in Taylor rule 1.5
+φ y Economic activity coefficient in Taylor rule 0.5
+ψ pm Quadratic adjustment coefficient of imported goods price 120
+α g Public capital elasticity of production 0.2
+τ c Tax rate on consumption goods 0.18
+ω i Import share in investment goods 0.2
+η i Elasticity of substitution between domestic and imported investment goods 1.66
+δ g Depreciation rate of public capital 0.2
+ε Elasticity of substitution between domestic goods 1.075
+π Inflation rate target 1.0075
+σ r St.d of monetary policy shock 0.12
+σ poil St.d of oil price shock 0.1
+ρ poil Oil price persistence parameter 0.9
+φ µ Coefficient of the ratio of foreign exchange reserves to imports 0.01 and 0.25
+Source: stylized facts, empirical averages and literature
+4 Simulations and Discussion of results
+We simulate a business cycle that begins with a negative oil shock which reduces oil price by 65 %
+for 8 periods. It’s only a lasting oil shock that can produce a significant effect on foreign exchange
+reserves to imports ratio. An oil shock that lasted three or four period must not have significant effect
+on the foreign exchange reserves to imports ratio due to the delay between the downward dynamics
+of oil prices and its impact on foreign exchange reserve. This delay can take up to one year because
+oil contracts are signed well in advance.
+We identify six central bank response options for dealing with this negative shock:
+• Simulation 1: Policy rate remains at its steady state level;
+• Simulation 2: Model-implied reaction of Central Bank (standard Taylor rule);
+• Simulation 3: Model-implied reaction of Central Bank (augmented Taylor rule);
+• Simulation 4: Central Bank raises its policy rate from the 4th period after the negative oil shock
+until the 10th period (augmented Taylor rule);
+• Simulation 5: Central Bank raises its policy rate from the 9th period after the negative oil shock
+until the 20th period (augmented Taylor rule);
+• Simulation 6: Central Bank reduces its policy rate from the 4th period after the negative oil
+15
+
+--- Page 17 ---
+shock until the 10th period (augmented Taylor rule).
+4.1 Result 1: the monetary shock has more volatile effects on real variables in
+the current monetary policy framework than in the inflation targeting (IT)
+regime
+We analyse the IRFs following monetary tightening from two models which differ by the form of
+Taylor rule. In one part, we have the main model that has a modified Taylor rule as explained
+previously. In the second model we have the standard Taylor rule with a Central Bank that targets
+only inflation and output gap. Simulations consist on a restrictive monetary policy shock that induce
+a raise of 10 % on short term nominal interest rate.
+IRFs on figure 4 show that macroeconomic responses to this shock are more amplified in the current
+monetary setting than in an IT regime. Several reasons can explain this finding. Firstly, the Central
+Bank has one more target and this target interact with the two other. Reaching these three targets
+(inflation, foreign exchange to imports ratio, output gap) can be difficult and conflictual and can lead
+to additional volatility. For example, when oil prices are low, the foreign reserves diminishes and
+Central Bank is forced to restrict its monetary policy. This can induce a greater volatility of GDP
+growth (in addition with the reduction of export revenues and government spending). Secondly, this
+target is more volatile because of the volatility of foreign reserves (that greatly depends on oil prices).
+Thirdly, a supplementary element appears in the transmission channel between interest rate and the
+other macroeconomic variables: a monetary tightening has a direct effect on demand, in particular on
+consumption (via Euler equation), government revenues (reduction of consumption taxes and interest
+on public debt) and investment (via the resources constraint of the economy). This dynamics should
+lower inflation and output gap, and increase the foreign exchange reserves to imports ratio. Then,
+the second round dynamics of interest rate should be downward, but with a higher amplitude because
+of the presence of a third term in Taylor rule. This result is in line with Levi-Yeyati & Sturzenegger
+(2003) and Bastourre & Carrera (2004) which showed that fixed exchange rate regimes are associated
+with greater output volatility.
+Figure 4 shows also that amplitude of reactions of consumption are globally similar in the two
+settings. This is due to the smoothing effects of consumption habits hypothesis in the model. The
+additional volatility in the current monetary settings (in comparison with an IT regime) comes from
+the great importance attached to the external stability. Several authors have demonstrated that
+external variables (especially terms of trade) are the main sources of macroeconomic fluctuations in
+Sub-Saharan countries. Thus, the fact that monetary instruments can respond to external variables
+(foreignexchangereservesinourcontext)ease, andamplify, thetransmissionofexternalshockseffects
+to domestic activity, resulting in a higher volatility.
+16
+
+--- Page 18 ---
+Figure 4: Responses to a 10 % increase of policy rate
+0.01 Non oil GDP 0.005 Investment 0.01 Consumption
+0 0 0
+-0.01 -0.005
+-0.01
+-0.02 Standard Taylor Rule -0.01
+-0.03 Augmented Taylor Rule -0.02
+-0.015
+-0.04 -0.03
+-0.02
+-0.05
+-0.04
+-0.06 -0.025
+-0.07 -0.03 -0.05
+-0.08 -0.035 -0.06
+0 6 12 18 24 30 36 0 6 12 18 24 30 36 0 6 12 18 24 30 36
+2#10-3 Inflation 0.12 Nominal interest rate 2#10-3 Public Spending
+0 0.1 0
+-2
+0.08 -2
+-4
+-6 0.06 -4
+-8 0.04 -6
+-10
+0.02 -8
+-12
+-14 0 -10
+-16 -0.02 -12
+0 6 12 18 24 30 36 0 6 12 18 24 30 36 0 6 12 18 24 30 36
+Source: Author’s simulations
+4.2 Result 2: the current monetary policy framework suggest a monetary tight-
+ening following a negative macroeconomic shock
+Hereweconsidersimulations2and3: weanalysemodel-impliedresponsesofshortterminterestrate
+path following a 65 % drop in oil prices. We see on figure 5 that, ceteris paribus, the current monetary
+setting (modified Taylor rule) suggests an increase of nominal interest rate, contrary to IT regime
+(standard Taylor rule). This result is not intuitive and are not in line with the countercyclical nature
+of monetary policy as stated by theory. When a negative shock hits the economy with potentially
+permanent effects, the Central Bank should mitigate it by reducing its policy rate. In Central Africa,
+BEACcannotreduceitspolicyrateinthatcontextbecauseoftheexternalconstraint: inthatcontext,
+BEACshouldincreasepolicyrateinordertolimitthebleedingofforeignexchangereserveandtighten
+monetaryconditions(asin2008,2017and2018inordertocurbnegativeoilpriceshockeffects). Thus,
+wecantellthatexternalconstraint, representedbyforeignexchangereservestoimportsratio, impulse
+the procyclicality of BEAC’s monetary policy.
+According to result 1, the difference between monetary policy recommendations in the IT regime
+and in the current one in Central Africa also lies on the amplitude of reaction of policy rate. The IT
+regime suggests a maximum reduction of 25 % of policy rate to curb the effects of 65 % fall in oil
+prices. In the current monetary policy framework, figure 5 shows that BEAC should increase short
+termnominalinterestrateby400%, whichintendtoraisevolatility. ThisresultcomplywithEdwards
+&Levy(2005)andBroda(2004)whoshowedtheamplifiedeffectsoftermsoftradeshocksincountries
+with hard peg regime.
+17
+
+--- Page 19 ---
+Figure 5: Standard vs Augmented Taylor rule implications following a 65 % drop in oil price
+Non oil GDP #10-3 0 Consumption 0 Investment 0
+elur
+rolyat
+detnem
+gua-------- 00000000
+-0
+........ 11110000
+.1
+86428642 -----05
+22115
+5050elur
+rolyat
+dradnats
+elur
+rolyat
+detnem
+gua-- 00
+-- 00
+.. 10
+.. 21
+55
+--------- 000000000 ......... 000000000 443322110 55555elur
+rolyat
+dradnatselur
+rolyat
+detnem
+gua---- 0000
+--- 000
+.... 3210
+... 321
+5555 ------- 0000000 ....... 0000000 3322110 5555elur
+rolyat
+dradnats
+2014Q 24 015Q 23 016Q 22 017Q 21 017Q 24 018Q 23 019Q2 2014Q 24 015Q 23 016Q 22 017Q 21 017Q 24 018Q 23 019Q2 2014Q 24 015Q 23 016Q 22 017Q 21 017Q 24 018Q 23 019Q2
+0 Public Spending 0 0.14 Inflation 0.03 0FX reserves to imports ratio 0
+elur
+rolyat
+detnem
+gua----- 00000 ..... 54321 ----- 00000 ..... 54321elur
+rolyat
+dradnats
+elur
+rolyat
+detnem
+gua00000
+0
+..... 00001
+. 01
+24682 000000 ..... 00000 01122 555elur
+rolyat
+dradnats
+elur
+rolyat
+detnem
+gua----- 10000
+-
+.....
+1
+28642
+--- 110 ..
+55elur
+rolyat
+dradnats
+2014Q 24 015Q 23 016Q 22 017Q 21 017Q 24 018Q 23 019Q2 2014Q 24 015Q 23 016Q 22 017Q 21 017Q 24 018Q 23 019Q2 2014Q 24 015Q 23 016Q 22 017Q 21 017Q 24 018Q 23 019Q2
+5 Nominal interest rate 0 0 Oil price 0
+elur rolyat
+detnem
+gua1234 ----- 00000 ..... 22110 555elur rolyat
+dradnats
+elur rolyat
+detnem
+gua------ 000000 ...... 654321 ------ 000000 ...... 654321elur rolyat
+dradnats
+A Su tag nm de an rdte Td
+a
+T ya loy rl o rur lr eule
+0
+2014Q 24 015Q 23 016Q 22 017Q 21 017Q 24 018Q 23 019Q2 2014Q 24 015Q 23 016Q 22 017Q 21 017Q 24 018Q 23 019Q2
+Source: Author’s simulations
+However,in addition with previous contributions in literature, we identify in figure 6 an hysteresis
+effect of that lasting oil shock on FX reserves to imports ratio. In the current monetary policy
+framework,whateverthehandlingofpolicyrate,FXreservestoimportsratiodidn’treturntoittarget,
+even when oil price shock extinguish. That is due to the fact that the Central Bank has to maintain a
+highernominalinterestrateinalongerperiodtocurbadverseeffectsofthatnegativeoilpriceshock(in
+figure 6, for the current monetary policy framework case, nominal interest rate didn’t return quickly
+to it steady state value). The negative oil price shock reduces oil revenues of governments which are
+forced to lower their public spending. This impacts directly the demand and trigger firms failures
+because they highly depend on public procurement. Hence, domestic investment and consumption
+are reduced, and therefore, domestic production. If the trough experienced by domestic supply and
+other macroeconomic aggregates (consumption and investment) can be attributable to the oil price
+shock, the long recovery period (as stated in figure 6) is attributable to higher level of the policy
+rate in a long period. The higher level of policy rate is justified by the need to stop the bleeding
+of FX reserves, and the Central Bank should maintain this higher level in a long period in order to
+accommodatethereconstitutionofFXreserves. Butthisimpliesadurablelowlevelofdomesticsupply,
+which stimulates imports because of the lack of solid industrial base in Central African countries; and
+thereforecontributestodurablylowerFXreservestoimportsratio. That’swhywehavethishysteresis
+effect, ceteris paribus, of a lasting negative oil price shock.
+4.3 Result 3: the delayed restrictive reaction of central bank following a negative
+oil shock induce additional macroeconomic costs
+We implement simulations 1, 4, 5 and 6 which results are plotted in figure 6. All these simulations
+are implemented with augmented Taylor rule model. When a negative heavy oil price shock hits the
+economy, BEAC didn’t know whether to act or to wait-and-see because of the uncertainty on the
+permanent or transitory nature of that shock. Because of the higher volatility of oil price, there exist
+18
+
+--- Page 20 ---
+a non zero probability that a positive oil price shock can follow this negative oil price shock. Thus,
+there is a higher probability that Central Bank will wait-and-see before intervening. For example,
+BEAC has increased its policy rate three years after the negative oil price shock of 2014. Therefore,
+the policy option labelled delayed restrictive CB reaction in figure 6 corresponds roughly to facts.
+Other policy options considered are hypothetical reactions of Central Bank.
+Figure 6: Diverse monetary policy’s options following a 65 % drop in oil price
+Non oil GDP 0 Consumption 0 Investment
+0
+-0.05 -0.1
+-0.1 -0.1
+-0.15 -0.2
+-0.2 -0.2 -0.3
+-0.3 -0 -0.2 .35 -0.4
+-0.4 -0.35 -0.5
+2014Q4 2015Q3 2016Q2 2017Q1 2017Q4 2018Q3 2019Q2 2014Q4 2015Q3 2016Q2 2017Q1 2017Q4 2018Q3 2019Q2 2014Q4 2015Q3 2016Q2 2017Q1 2017Q4 2018Q3 2019Q2
+0 Public Spending 0.12 Inflation 0 FX reserves to imports ratio
+-0.1 0.1 -0.2
+0.08 -0.4
+-0.2 0.06 -0.6
+-0.3 00 .. 00 24 -0.8
+-0.4 0 -1
+-0.5 -- 00 .. 00 42 -- 11 .. 42
+2014Q4 2015Q3 2016Q2 2017Q1 2017Q4 2018Q3 2019Q2 2014Q4 2015Q3 2016Q2 2017Q1 2017Q4 2018Q3 2019Q2 2014Q4 2015Q3 2016Q2 2017Q1 2017Q4 2018Q3 2019Q2
+Nominal interest rate Oil price
+0.4 0
+-0.1
+0.2
+-0.2 Prompt restrictive CB reaction
+0 -0.3 Delayed restrictive CB reaction
+-0.2 -0.4 Prompt loose CB reaction
+-0.5
+-0.4 -0.6 No CB reaction
+2014Q4 2015Q3 2016Q2 2017Q1 2017Q4 2018Q3 2019Q2 2014Q4 2015Q3 2016Q2 2017Q1 2017Q4 2018Q3 2019Q2
+Source: Author’s simulations
+Firstly, we see in figure 6 the hysteresis effect on FX reserves to imports ratio, in line with result
+2. Secondly, delayed restrictive Central Bank (CB) reaction implies a delayed recession, compared to
+the effects of prompt restrictive Central Bank reaction. A prompt restrictive CB reaction implies a
+trough attained three years after the shock by non oil GDP, consumption and investment (figure 6),
+unlike to a delayed CB reaction for which the trough is attained more later. Thus, the delayed CB
+reaction induce additional macroeconomic costs corresponding to the lasting recession compared to
+the prompt restrictive CB reaction policy option. This result is consistent with that of Tsangarides
+(2012) who find that hard pegs regime countries, compared to floating ones, had a slowly recovery
+following the global financial crisis of 2008. Thirdly, we also see that delayed CB reaction has similar
+effects compared to the absence of CB reaction. This result combined with the two other, tells us
+that in face of a negative heavy oil price shock, BEAC has two relevant options: do not react or react
+promptly. This result is consistent with that of Lahiri & Vegh (2007) which showed that optimal
+reaction of Central Bank in order to defend its currency is to increase policy rate before or at the
+moment of the crisis.
+Fourthly,whencomparingtheeffectsofprompt restrictive CB reaction andprompt loose CB reaction
+options in figure 6 on real variables, an expansionary monetary policy following a negative oil shock is
+not necessary optimal for macroeconomic stabilization. We see that a prompt restrictive CB reaction
+outperform a prompt loose CB reaction. After the significant drop in oil prices at the end of 2014,
+BEAC maintains an accommodating monetary policy (by lowering its policy rate from 2.95 % to
+2.45 % on July 2015) in order to ease fiscal adjustment and to impulse a rapid economic recovery11.
+Unfortunately, this policy didn’t give useful results (international reserves continued to decline and
+11See Governor Remarks in the Annual Report of BEAC 2015
+19
+
+--- Page 21 ---
+the downward trend in real growth has not abated) and, two years later, BEAC was forced to increase
+policy rate (on march 2017 from 2.45 % to 2.95 % and on October 2018 from 2.95 % to 3.5 %) and to
+restrict outgoing capital flows.
+Concluding Remarks
+This paper discusses the role of external constraint (the defacto nominal anchor which is the ratio
+of FX reserves to imports) in the procyclicality of BEAC’s monetary policy. Contrary to emerging
+economies where it’s the procyclicality of capital flows that explains procyclicality of macroeconomic
+policies, we argue that in Central Africa, it’s the procyclicality of commodity revenues that explains
+procyclicality of BEAC’s monetary policy. We have demonstrate that by developing a general equi-
+librium model that incorporate some of the structural features of Central African economies like (i)
+the dependence on commodity revenues and (ii) the hard peg requirements in terms of FX reserves
+(which need to modify the standard Taylor rule). Three main results are obtained: (i) a monetary
+shock has a more volatile effects in the current monetary policy framework than in an IT regime,
+(ii) the current monetary policy framework in Central Africa suggest a monetary tightening following
+a negative macroeconomic shock, and (iii) the delayed restrictive reaction of central bank following
+a negative oil shock induce additional macroeconomic costs. This results reveals that the external
+constraint induce more volatility and the procyclicality of BEAC’s monetary policy. Thus, there is a
+need for a novel nominal anchor for BEAC’s monetary policy that address these two shortcomings.
+Many options exist, but a first proposition is the PPI (Production Price Index) inflation targeting as
+proposed by Frankel (2011) which automatically accommodate terms of trade shocks.
+References
+Bastourre, D. & Carrera, J. (2004); “Could the exchange rate regime reduce macroeconomic volatility
+?”: Proceedings of the 32nd Brazilian Economics Meeting
+Berg, A., Portillo, R., Yang, S. & Zanna, L.-F. (2013); “Public investment in resource-abundant
+developing countries”: IMF Economic Review, 61(1), p. 92–129
+Broda, C. (2001); “Coping with terms-of-trade shocks: pegs versus floats”: The American Economic
+Review, 91(2), p. 376–380
+Broda, C. (2004); “Terms of trade and exchange rate regimes in developing countries”: Journal of
+International Economics, 63(1), p. 31–58
+Calvo, G. & Reinhart, C. (2002); “Fear of floating”: Quarterly Journal of Economics, 117(2), p.
+379–408
+Coulibaly, B. (2012); “Monetary policy in emerging market economies: What lessons from the global
+financial crisis?”: International Finance Discussion Papers 1042, Board of Governors of the Federal
+Reserve System, Washington
+Daglaroglu,T.,Demirel,B.&Mahmud,S.(2018); “Monetarypolicyimplicationsofshort-termcapital
+flows in turkey”: Empirica, 45, p. 747–763
+Domac, I., Isiklar, G. & Kandil, M. (2019); “On the potential and limitations of monetary policy in
+turkey”: Midde East Development Journal, 11(2), p. 220–235
+20
+
+--- Page 22 ---
+Du Plessis, S., Smit, B. & Sturzenegger, F. (2007); “The cyclicality of monetary and fiscal policy in
+south africa since 1994”: South African Journal of Economics, 75(3), p. 391–411
+Edwards, S. & Levy, E. (2005); “Flexible exchange rates as shock absorbers”: European Economic
+Review, 49, p. 2079–2105
+Fischer, S. (1977); “Long-term contracts, rational expectations, and the optimal money supply rule”:
+Journal of Political Economy, 85(1), p. 191–205
+Frankel, J. (2011); “A comparison of product price targeting and other monetary anchor options for
+commodity exporters in latin america”: Economia Journal, 12(1), p. 1–57
+Frankel, J. (2018); “Monetary regimes to cope with volatile commodity export prices: Two propos-
+als”: Dans Arezki, R., Boucekkine, R., Frankel, J., Laksaci, M. & Van der Ploeg, R. (Rédacteurs)
+Rethinking the macroeconomics of resource-rich countries, (p. 45–54), Center for Economic Policy
+Research Press
+Gavin, M.&Perotti, R.(1997); “Fiscalpolicyinlatinamerica”: Dans NBER Macroeconomics Annual
+1997, Volume 12, (p. 11–72), National Bureau of Economic Research, Inc
+Hicks, J. (1937); “Mr. keynes and the "classics": A suggested interpretation”: Econometrica, 5(2), p.
+147–159
+Hoffmaister, A., Roldos, J. & Wickham, P. (1998); “Macroeconomic fluctuations in sub-saharan
+africa”: IMF Staff Papers, 45(1)
+Husain, A., Mody, A. & Rogoff, K. (2005); “Exchange rate regime durability and performance in
+developing versus advanced economies”: Journal of Monetary Economics, 52, p. 35–64
+Kaminsky, G., Reinhart, M. & Vegh, C. (2004); “When it rains, it pours: Procyclical capital flows and
+macroeconomic policies”: NBER Macroeconomics Annual, 19, p. 11–53
+Kasekende, L., Brixova, Z.&Ndikumana, L.(2010); “Africa:Africa’scounter-cyclicalpolicyresponses
+to the crisis”: Journal of Globalization and Development, 1(1)
+Keynes, J. (1936); The general theory of employment, interest and money: Macmillan
+Lahiri, A. & Vegh, C. (2007); “Output costs, currency crises and interest rate defence of a peg”: The
+Economic Journal, 117(516), p. 216–239
+Levi-Yeyati, E. & Sturzenegger, F. (2003); “To float or to fix : Evidence on the impact of exchange
+rate regimes on growth”: American Economic Review, 93(4), p. 1173–1193
+McGettingan, D., Moriyama, K., Noah Ndela Ntsama, J., Painchaud, F., Qu, H. & Steinberg, C.
+(2013); “Monetary policy in emerging markets: Taming the cycle”: IMF Working Paper WP/13/96,
+International Monetary Fund, Washington
+McManus, R. & Ozkan, F. (2015); “On the consequences of pro-cyclical fiscal policy”: The Journal of
+Applied Public Economies, 36(1), p. 29–50
+Mendoza, E. (1995); “The terms of trade, the real exchange rate, and economic fluctuations”: Inter-
+national Economic Review, 36(1), p. 101–137
+Mondjeli, M. & Mbassi, C. (2018); “Does financial development explain the cyclicality of monetary
+policy in sub-saharan africa ?”: Journal of Economic Development, 43(4), p. 71–83
+Mvondo, E.(2016); “Formationdeshabitudesetconsommationagregeedanslacemac”: BEAC Work-
+ing Paper 06/16, BEAC
+21
+
+--- Page 23 ---
+Phelps, E. & Taylor, J. (1977); “Stabilizing powers of monetary policy under rational expectations”:
+Journal of Political Economy, 85(1), p. 163–190
+Raju, Y. & Acharya, D. (2020); “Revisiting the volatility-growth relationship: Some cross-country
+evidence 1978-2017”: Cogent Economics & Finance, 8(1)
+Ramey, G. & Ramey, V. (1995); “Cross-country evidence on the link between volatility and growth”:
+The American Economic Review, 85(5), p. 1138–1151
+Tsangarides, C. (2012); “Crisis and recovery: Role of the exchange rate regime in emerging market
+economies”: Journal of Macroeconomics, 34, p. 470–488
+Vegh, C. & Vuletin, G. (2013); “Overcoming the fear of free falling: monetary policy graduation in
+emerging markets”: Dans Evanoff, D., Holthausen, C., Kaufman, G. & Kremer, M. (Rédacteurs)
+The role of Central Banks in financial stability, (p. 105–129), Center for Economic Policy Research
+Press
+22

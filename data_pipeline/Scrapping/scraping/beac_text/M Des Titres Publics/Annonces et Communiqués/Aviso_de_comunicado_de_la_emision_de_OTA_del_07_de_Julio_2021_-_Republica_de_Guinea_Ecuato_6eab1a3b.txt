@@ -1,0 +1,7 @@
+Source PDF : Aviso_de_comunicado_de_la_emision_de_OTA_del_07_de_Julio_2021_-_Republica_de_Guinea_Ecuato_6eab1a3b.pdf
+Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\Aviso_de_comunicado_de_la_emision_de_OTA_del_07_de_Julio_2021_-_Republica_de_Guinea_Ecuato_6eab1a3b.pdf
+Date extraction : 15/06/2026 20:11:19
+======================================================================
+
+[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
+Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

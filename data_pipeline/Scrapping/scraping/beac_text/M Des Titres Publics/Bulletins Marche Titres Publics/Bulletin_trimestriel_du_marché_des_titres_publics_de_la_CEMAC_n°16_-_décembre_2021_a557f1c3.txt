@@ -1,0 +1,4163 @@
+Source PDF : Bulletin_trimestriel_du_marché_des_titres_publics_de_la_CEMAC_n°16_-_décembre_2021_a557f1c3.pdf
+Chemin original : scraping\beac_data\M Des Titres Publics\Bulletins Marche Titres Publics\Bulletin_trimestriel_du_marché_des_titres_publics_de_la_CEMAC_n°16_-_décembre_2021_a557f1c3.pdf
+Date extraction : 15/06/2026 22:22:36
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ÉTATS
+DE L’AFRIQUE CENTRALE
+Cellule de Règlement et de Conservation des Titres
+BULLETIN TRIMESTRIEL
+DU MARCHE DES TITRES
+PUBLICS DE LA CEMAC
+N°16 / DECEMBRE 2021
+N°6 / JUIN 2019
+www.beac.int
+Cameroun Centrafrique Congo Gabon Guinée Tchad 1
+N° 1 / mars 2018
+Equatoriale
+
+--- Page 2 ---
+SOMMAIRE
+LISTES DES TABLEAUX  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+LISTES DES GRAPHIQUES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+ÉDITORIAL  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+ACTUALITÉS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+CONTEXTE ECONOMIQUE GENERAL  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+A . BREF APERÇU DES ENVIRONNEMENTS INTERNATIONAL ET RÉGIONAL  . . . . . . . . . . . . . . . . 13
+A.1. Environnement économique et financier international .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+A.2. Perspectives macroéconomiques des pays de la CEMAC .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+B . MARCHÉ DES VALEURS DU TRÉSOR DE LA CEMAC AU 3EME TRIMESTRE 2021  . . . . . . . . . 17
+B.1. Dynamique du marché primaire  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+B.2. Situation des encours des valeurs du Trésor .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+B.3. Evolution du coût des ressources sur le marché des valeurs du Trésor  . . . . . . . . . . . . . . . . . . . . . . . 39
+B.4. Marché secondaire des valeurs du Trésor  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+B.4.1. Achat/vente de titres  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+B.4.2. Transfert Franco DVF « Delivery versus free » (Virement de titres financiers entre deux participants  .
+sans paiement espèces via la plateforme DEPO/X) .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+B.4.3. Transfert Franco DVF Forcé (Virement de titres financiers entre un participant et ses clients
+sans paiement espèces via la plateforme DEPO/X) .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+B.4.4. Opérations de pension - livrée interbancaire  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+2
+N°16 / decembre 2021
+
+--- Page 3 ---
+LISTE DES TABLEAUX
+Tableau 1: Émissions de BTA réalisées par les Trésors publics de la CEMAC
+au cours du quatrième trimestre 2021  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Tableau 2: Émissions d’OTA réalisées par les Trésors publics de la CEMAC
+au cours du quatrième trimestre 2021  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Tableau 3: Calendriers prévisionnels d’émission du quatrième
+trimestre 2021 annoncés par les Trésors publics  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Tableau 4: Structure des taux de couverture des émissions en fonction
+des maturités des titres émis (en % du montant mis en adjudication)  . . . . . . . . . . . . . . . . . . . . . . 24
+Tableau 5 : Lignes de titres remboursés au cours du quatrième trimestre 2021
+(montants en millions de FCFA) .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Tableau 6 : Situation des encours des valeurs du Trésor de la République Centrafricaine
+au 31 décembre 2021  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Tableau 7 : Situation des encours des valeurs du Trésor du Congo au 31 décembre 2021 .  . . . . . . . . . . . . 30
+Tableau 8 : Situation des encours des valeurs du Trésor du Gabon au 31 décembre 2021  . . . . . . . . . . . . 30
+Tableau 9: Situation des encours des valeurs du Trésor de la Guinée Equatoriale au 31 décembre 2021  . 31
+Tableau 10: Situation des encours des valeurs du Trésor du Tchad au 31 décembre 2021  . . . . . . . . . . . . . 33
+Tableau 11 :Structure des détenteurs des valeurs du Trésor ( BTA et OTA ) au 31 décembre 2021  . . . . . . 34
+Tableau 12: Encours des titres par pays de localisation du détenteur final (En milliards de FCFA) .  . . . . . . . 37
+Tableau 13: Evolution du coût moyen des ressources au cours des cinq derniers trimestres (en %)  . . . . . . 39
+Tableau 14: Liste des achats/ventes des titres enregistrés au quatrième trimestre 2021
+(montants en FCFA)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Tableau 15: Liste des opérations de transfert de titres sans contrepartie
+espèces réalisées au quatrième trimestre 2021 (montants en FCFA)  . . . . . . . . . . . . . . . . . . . . 42
+Tableau 16: Liste des opérations de transferts franco DVF forcé (montants en FCFA)  . . . . . . . . . . . . . . . . . 45
+Tableau 17: Liste des pensions livrées interbancaires enregistrées durant le quatrième trimestre 2021  . . . 51
+Tableau 18: Evolution des émissions des valeurs du Trésor depuis 2011(en millions de FCFA)  . . . . . . . . . . 57
+Tableau 19: Evolution des encours de BTA et d’OTA depuis 2011 (en millions de FCFA)  . . . . . . . . . . . . . . . 61
+Tableau 20: Evolution des moyennes des taux d’intérêt moyens pondérés des émissions depuis 2011
+(En %)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+Tableau 21: Évolution du taux de couverture moyen des montants mis
+en adjudication depuis 2011(En % du montant mis en adjudication)  . . . . . . . . . . . . . . . . . . . . . . 62
+Tableau 22: Parts souscrites par les Spécialistes en Valeurs du Trésor pour les émissions de BTA et
+OTA du Cameroun (en % du montant total émis) .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+Tableau 23: Parts souscrites par les Spécialistes en Valeur du Trésor pour les émissions de BTA et
+OTA de la République centrafricaine (en % du montant émis)  . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Tableau 24: Parts souscrites par les Spécialistes en Valeur du Trésor pour les émissions de BTA et
+OTA du Congo (en % du montant émis)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Tableau 25: Parts souscrites par les Spécialistes en Valeur du Trésor pour les émissions de BTA et
+OTA du Gabon (en % du montant émis)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+Tableau 26 : Parts souscrites par les Spécialistes en Valeur du Trésor pour les émissions de BTA et
+OTA de Guinée Equatoriale (en % du montant émis)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+Tableau 27 : Parts souscrites par les Spécialistes en Valeur du Trésor pour les émissions de BTA et
+OTA du Tchad (en % du montant émis)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+Tableau 28 : Liste des Spécialistes en valeurs du Trésor par réseau  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+3
+N°16 / decembre 2021
+
+--- Page 4 ---
+LISTE DES GRAPHIQUES
+Graphique 1 : Evolution trimestrielle des émissions de valeurs du Trésor (en millions de FCFA)  . . . . . . . . 17
+Graphique 2 : Couverture moyenne des émissions de BTA (en % du montant mis en adjudication) .  . . . . . 23
+Graphique 3 : Couverture moyenne des émissions d'OTA (en % du montant mis en adjudication)  . . . . . . . 23
+Graphique 4 : Répartition des montants des remboursements des titres au quatrième trimestre 2021
+(en milliards de FCFA)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Graphique 5 : Evolution des encours des valeurs du Trésor au cours des cinq derniers trimestres
+(montants en milliards de FCFA)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Graphique 6 : Evolution de la structure de l'encours des valeurs du Trésor de la CEMAC (en %) .  . . . . . . . 28
+Graphique 7 : Evolution de la part de l'encours des valeurs du Trésor sur le PIB de la CEMAC (en%) .  . . . 35
+Graphique 8 : Parts relatives des valeurs du Trésor détenues par les groupes bancaires dans la CEMAC (en %)  . . . . .38
+Graphique 9 : Courbes de rendement des titres du Cameroun d’octobre à décembre 2021  . . . . . . . . . . . . 40
+Graphique 10: Courbes de rendement des titres du Congo d’octobre à décembre 2021  . . . . . . . . . . . . . . . 40
+Graphique 11: Courbes de rendement des titres du Gabon d’octobre à décembre 2021  . . . . . . . . . . . . . . . 40
+Graphique 12: Dynamique des opérations d'achats-ventes de titres au cours des sept derniers trimestres 41
+
+--- Page 5 ---
+Editorial
+L’activité du marché des valeurs du Trésor de la CEMAC au quatrième trimestre 2021 s’est
+déroulée dans un contexte international et régional toujours marqué par la crise sanitaire de la
+COVID-19, précédée par la chute des cours du pétrole brut, principal produit d’exportation de
+la CEMAC, qui ont négativement impacté la situation macroéconomique des pays membres.
+Malgré la découverte de différents types de vaccin, une couverture vaccinale progressive
+au niveau mondial et le léger redressement des cours du pétrole, la reprise reste néanmoins
+confrontée à des facteurs de risque, notamment l’apparition de nouveaux variants de la
+COVID-19. Dans ce contexte, sur le marché des valeurs du Trésor de la CEMAC, la demande
+des ressources par les Etats est ressortie globalement en baisse sur la période observée.
+Au 31 décembre 2021, l’encours des valeurs du Trésor s’est établi à 4.650,1 milliards de
+FCFA, en hausse de 5,9 % par rapport à fin septembre 2021 et de 12,4 %, un an auparavant
+(3.225,2 milliards de FCFA à fin décembre 2020). Malgré une baisse de 30,8 % par rapport
+au montant enregistré au troisième trimestre 2021, le montant global levé par les Etats
+de la CEMAC sur le marché des valeurs du Trésor ressort à 707,06 milliards de FCFA au
+quatrième trimestre 2021. Par ailleurs, les taux moyens de couverture des émissions ont
+régressé respectivement de 330 et de 78 points de base pour les BTA et les OTA. S’agissant
+de la répartition des opérations par type d’instruments, celle-ci est légèrement favorable aux
+titres à long terme (OTA), soit 50,7 % contre 49,3 % pour les titres à court terme (BTA).
+Depuis janvier 2020, on note une recomposition de la structure du portefeuille des
+engagements financiers des États sur le marché domestique, désormais constitué
+majoritairement d’OTA, représentant 72,4 % du portefeuille global des titres. L’encours des
+OTA est en forte hausse, passant de 2.081 milliards de FCFA à fin décembre 2020 à 3.364,4
+milliards de FCFA au 31 décembre 2021. La modification de la structure de ces instruments
+est la conséquence d’un recours de plus en plus croissant des Trésors publics aux ressources
+longues, traduisant une consolidation progressive de la confiance des investisseurs aux
+signatures souveraines de la CEMAC. Sur le marché secondaire, le nombre et le volume des
+opérations d’achats/ventes de titres et de pension livrée sont également en hausse.
+Le Gouverneur de la BEAC,
+Président du Conseil de Surveillance de la CRCT,
+ABBAS MAHAMAT TOLLI
+5
+N°16 / decembre 2021
+
+--- Page 6 ---
+ACTUALITÉS
+1-COMMUNIQUE DE PRESSE DU CONSEIL DE SURVEILLANCE DE LA CRCT DU 10 Décembre 2021
+Le Conseil de Surveillance de la Cellule de Règlement et de Conservation des Titres (CRCT) a tenu le
+10 décembre 2021, par visioconférence, sa quatrième session ordinaire de l’année, sous la présidence de
+Monsieur ABBAS MAHAMAT TOLLI, Gouverneur de la BEAC, son Président statutaire.
+Au cours de cette séance, après avoir pris connaissance du contexte économique international et de celui
+de la sous-région, le Conseil a examiné les évolutions du marché des valeurs du Trésor de la CEMAC, sur la
+période allant du 1er octobre 2020 au 31 octobre 2021.
+Au niveau mondial, les perspectives macroéconomiques demeurent favorables avec un taux de croissance
+du PIB réel estimé par le FMI à 5,9 % pour 2021 et 4,9 % pour 2022, après s’être établi à - 3,1 % en
+2020. À l’échelle de la CEMAC, le Conseil a noté que la reprise se confirme, bien que fragile en raison
+de la combinaison des risques sécuritaire et sanitaire en lien avec la COVID-19 qui pourraient entraver sa
+dynamique. Les prévisions tablent sur : i) un taux de croissance du PIB réel autour de + 2,0 %, contre -1,7 %
+en 2020 ; ii) un relâchement des pressions inflationnistes à environ 2,0 % en 2021, contre 2,4 % un an plus
+tôt ; iii) une contraction du déficit du solde budgétaire base engagements, dons compris, de 2,0 % du PIB en
+2020 à 1,7 % du PIB en 2021 ; iv) une contraction du déficit du compte courant de 4,8 % du PIB en 2020 à
+3,6 % du PIB en 2021; et v) une légère remontée du taux de couverture extérieure de la monnaie, passant de
+63,6 % en 2020 à 64,8 % en 2021.
+Concernant les activités du marché primaire des valeurs du Trésor de la CEMAC, le Conseil a relevé que :
+i) la tendance haussière de l’encours des titres amorcée depuis quelques années s’est poursuivie au cours de
+la période sous revue, passant de 2 853,2 milliards de FCFA en octobre 2020 à 4 526,4 milliards de FCFA en
+octobre 2021, soit une augmentation de 58,6 % en glissement annuel ; ii) le taux de couverture des émissions
+s’est situé en moyenne à 99,68 % sur la période d’octobre 2020 à octobre 2021 contre 124,29 % entre octobre
+2019 et octobre 2020 ; iii) le coût moyen des émissions des OTA et des BTA s’est globalement orienté à la
+hausse, se situant respectivement à 8,82 % et à 5,48 % entre octobre 2020 et octobre 2021.
+S’agissant du marché secondaire des valeurs du Trésor, le Conseil a noté une hausse des transactions
+sur titres. Il s’est félicité la progression de la part des titres détenus par les investisseurs institutionnels et les
+particuliers, confirmant ainsi une appropriation continue de ce marché par les acteurs autres que les banques.
+Enfin, le Conseil a été informé de l’évolution des activités du Dépositaire Central Unique du marché
+financier régional unifié depuis le transfert de cette fonction à la BEAC en juillet 2019. Il a aussi apprécié les
+avancées déjà enregistrées dans la mise en œuvre de la deuxième phase de la fusion des marchés financiers
+de la CEMAC. /-
+6
+N°16 / decembre 2021
+
+--- Page 7 ---
+CONTEXTE ECONOMIQUE GENERAL
+Selon les Perspectives de l’économie mondiale, mises à jour en octobre 2021 par le FMI, la croissance
+repartirait à 5,9 % en 2021, après une récession de 3,1 % en 2020, pour revenir ensuite à 4,9 % en 2022.
+Le regain d’activités en 2021 s’expliquerait par : i) l’élargissement de la couverture vaccinale à l’échelle
+mondiale, ii) la consolidation des mesures de soutien budgétaire dans plusieurs pays, et iii) la prolongation
+des politiques monétaires accommodantes destinées à favoriser des conditions monétaires propices à la
+reprise de l’activité. Toutefois, l’apparition de plusieurs variants de la COVID-19 dans le monde pourrait
+compromettre ces perspectives .
+Par espace géographique, le taux de croissance réel de l’activité dans les économies avancées devrait
+rebondir à 5,2 % en 2021, après s’être contracté à - 4,5 % en 2020, et progresserait de 4,5 % en 2022. Dans
+les pays émergents et en développement, le taux de croissance du PIB réel se fixerait à 6,4 % en 2021 et
+à 5,1 % en 2022 contre à - 2,1 % en 2020. En Afrique subsaharienne, le taux de croissance du PIB réel
+remonterait à 3,7 % en 2021 et 3,8 % en 2022, contre - 1,7 % en 2020.
+Sur le compartiment interbancaire, le volume des opérations a globalement augmenté entre septembre
+et décembre 2021, avec une hausse plus importante des transactions collatéralisées, pouvant traduire
+l’évolution de la perception du risque par les banques dans le contexte de la crise liée à la COVID-19. En lien
+avec cette évolution, l’encours moyen mensuel des transactions interbancaires s’est établi à 324,7 milliards
+en décembre 2021 (dont 195,1 milliards d’opérations de pension-livrée et 129,5 milliards d’opérations en
+blanc) contre 248 milliards en septembre 2021 (dont 139,7 milliards d’opérations de pension-livrée et 108,4
+milliards d’opérations en blanc). En décembre 2020, l’encours moyen mensuel des opérations interbancaires
+s’élevait à 166,9 milliards (dont 121 milliards d’opérations de pension-livrée et 45,9 milliards d’opérations en
+blanc). En outre, L’activité du marché interbancaire entre septembre et décembre 2021 s’est caractérisée par
+une légère hausse des taux des opérations en blanc et une baisse des taux des opérations collatéralisées.
+En effet, le taux interbancaire moyen pondéré de référence (TIMP à 7 jours) des opérations en blanc s’est situé à
+5,78 % à fin décembre 2021 contre 5,75 % trois mois plus tôt, tandis que celui des opérations de pension-livrée
+est parti de 4,25 % à 4,23 %. A fin décembre 2020, le TIMP à 7 jours des opérations en blanc s’établissait à
+4,00 % alors que celui des opérations de pension-livrée ressortait à 4,50 %.
+Au niveau du marché des valeurs du Trésor de la CEMAC, le montant global levé au titre des émissions
+par adjudication organisées par la BEAC s’est établi à 707,06 milliards de FCFA au quatrième trimestre 2021,
+en baisse de 30,8 % par rapport au troisième trimestre 2021 (1 021,16 milliards de FCFA). Ce repli est lié à la
+baisse des taux de couverture des émissions couplée à la hausse du coût des ressources sur ce marché. En
+glissement annuel, le montant mobilisé s’élève à 950,2 milliards de FCFA, soit une augmentation de 25,6 %.
+ .
+7
+N°16 / decembre 2021
+
+--- Page 8 ---
+A. BREF APERÇU DES ENVIRONNEMENTS INTERNATIONAL ET RÉGIONAL
+A.1. Environnement économique international
+Le Fonds monétaire international (FMI), dans ses réduire le rythme mensuel de ses achats nets d’actifs
+prévisions de croissance de l’économiemondiale de 20 milliards USD pour les titres du Trésor et de 10
+(Perspectives Economiques Mondiales, mises à jour milliards USD pour les titres adossés à des créances
+d’octobre 2021), laisse entrevoirune croissance de hypothécaires d’agences, sur une enveloppe qui
+l’ordre de 5,9 % en 2021, après une récession de représente à ce jour 120 milliards USD. De même, le
+3,1 % en 2020, pour revenirensuite à 4,9 % en 2022. FOMC pourrait augmenter dès 2022 le taux directeur
+Le regain d’activités en 2021 s’expliquerait par : i) si l’inflation est supérieure à l’objectif visé sur une
+l’élargissement de lacouverture vaccinale à l’échelle période suffisamment longue et si l’objectif d’emploi
+mondiale, ii) la consolidation des mesures de soutien maximum est atteint.
+budgétairedans plusieurs pays, et iii) la prolongation
+des politiques monétaires accommodantes. Toutefois, A l’issue de sa réunion de politique monétaire du
+l’apparition de plusieurs variants de la COVID-19 dans 16 décembre 2021, la Banque d’Angleterre (Bank
+le monde, la forte reprise de la demande mondiale, of England ou BoE) a décidé de relever le taux
+la hausse du prix de l’énergie et celle des cours des d’escompte de 0,15 point de pourcentage à 0,25 %.
+produits alimentaires pourraient compromettre ces Par contre, la BoE a décidé de maintenir le montant
+perspectives . de ses achats d’actifs à 895 milliards BP. Par ailleurs,
+l’inflation au Royaume-Uni devrait s’approcher de
+Au niveau des conditions monétaires et 6,0 % en avril 2022 selon la banque centrale, en raison
+financières, afin de limiter les répercussionsnégatives principalement de la flambée des prix de l’énergie,
+de la pandémie de coronavirus, la plupart des avant de refluer juste en dessous de l’objectif cible
+banques centrales des pays avancés,émergents et de 2 % à partir du second semestre de l’année 2022.
+de l’Afrique subsaharienne ont poursuivi leur politique Enfin, la BoE a revu à la baisse ses prévisions de
+monétaire accommodantejusqu’à mi-décembre 2021. croissance du PIB réel au quatrième trimestre 2021
+Néanmoins, avec le retour anticipé de l’inflation, due à à 1,5 %, contre 2,0 % annoncées en novembre
+divers chocsd’offre et de demande, certaines banques 2021. Cette situation est à mettre en relation avec les
+centrales ont récemment entamé le resserrement perturbations dans les chaînes d'approvisionnement
+monétaire. et des pénuries de main d'œuvre, ainsi que l'impact
+de l’apparition d’une nouvelle variante de Covid-19.
+Le Comité de politique monétaire de la Fed A l’issue de sa réunion du 17 décembre2021, le Conseil
+(Federal Open Market Committee) a annoncé dans des Gouverneurs de la Banque Centrale Européenne
+son communiqué de presse du 15 décembre 2021, (BCE) a continué d’estimer que des conditions de
+au vu des progrès réalisés en matière de vaccination financement favorables peuvent être maintenues
+et d’un soutien politique fort, que les indicateurs de avec une réduction graduelle du rythme de ses
+l'activité et de l'emploi ont continué à se renforcer. achats nets d’actifs au titre du programme d’achats
+Cependant, les déséquilibres de l'offre et de la d’urgence face à la pandémie (pandemic emergency
+demande liés à la pandémie et à la réouverture de purchase programme, PEPP) au cours des trimestres
+l'économie ont continué de contribuer à des niveaux à venir. Le Conseil des gouverneurs a également
+élevés d'inflation. En conséquence, des risques confirmé ses autres mesures, à savoir le niveau des
+pesant sur les perspectives économiques demeurent taux directeurs de la BCE, ses indications sur leur
+car l’inflation devrait dépasser les 6 % et le taux de probable orientation future (forward guidance), ses
+chômage devrait s’établir à 3,5 %. Compte tenu de achats dans le cadre du programme d’achats d’actifs
+ce qui précède, à compter du 16 décembre 2021, le (asset purchase programme, APP), ses politiques de
+Federal Open Market Committee (FOMC) a décidé de réinvestissement et ses opérations de refinancement
+8
+N°16 / decembre 2021
+
+--- Page 9 ---
+à plus long terme. Ainsi, le taux de refinancement a ans, sur lesquels de nombreux prêteurs basent les
+été maintenu à 0 %, le taux de la facilité de dépôt à taux hypothécaires. Par ailleurs, la banque centrale
+- 0,5 % et le taux de facilité de prêt marginal à 0,25 %. chinoise n’a pas jugé opportun, pour le moment, de
+modifier l’orientation de sa politique monétaire.
+Le Comité de politique monétaire de la Banque
+Centrale du Japon (BoJ), réuni les 16 et 17 décembre En Afrique subsaharienne, la plupart des banques
+2021, a décidé de maintenir inchangé l’orientation de centrales ont poursuivi l’orientation accommodante de
+sa politique monétaire. Ainsi, il a décidé de garder leurs politiques monétaires, en prenant un ensemble
+son taux de dépôt à court terme à - 0,1 %. De plus, de mesures visant à soutenir l’activité économique
+la banque continuera d’acheter des obligations du et à limiter les effets potentiels de la crise sanitaire.
+gouvernement (JGB) afin de maintenir leur rendement La Banque Centrale du Congo (BCC) a maintenu
+à 10 ans autour de 0,00 %. Le Comité a assuré que ce inchangés les dispositifs de sa politique monétaire
+taux demeurera à ce niveau ou à un niveau inférieur, à depuis le 17 juin 2021, son taux directeur demeurant à
+court et à moyen termes. En ce qui concerne les achats 8,5 %. Les coefficients des réserves obligatoires sur les
+d'actifs autres que les achats de JGB, la Banque a dépôts en devises à vue et à terme ont été maintenus
+décidé de : i) la poursuite des achats d’obligations de respectivement à 13,0 % et 12,0 % et ceux des dépôts
+CP et de sociétés avec une limite supérieure d'environ en monnaie nationale à vue et à terme à 0 %.
+20 000 milliards de yens au total jusqu'à fin mars 2022
+; ii) la prorogation de la période spéciale (06 mois) des Le Comité de politique monétaire de la Banque
+opérations de fourniture de fonds négociés en bourse Centrale du Nigeria (BCN), réuni les 16 et 17
+(ETF) et des investissements immobiliers au Japon septembre 2021, a décidé de conserver son principal
+fiducies (J-REIT). taux directeur à 11,5 % et son coefficient des réserves
+obligatoires à 27,5 %.
+Le Comité de politique monétaire de la Banque du
+Canada (BdC), réuni le 08 décembre 2021, a décidé La Banque Centrale des États de l’Afrique de
+de maintenir son taux cible du financement à un l’Ouest (BCEAO), a décidé de maintenir inchangés
+jour à 0,25 %, soit sa valeur plancher, le taux officiel ses taux directeurs, au cours de la réunion de son
+d’escompte à 0,50 % et le taux de rémunération des comité de politique monétaire du 08 septembre 2021.
+dépôts à 0,25 %. La Banque s’attend encore à ce que Ainsi, le taux d'intérêt minimum de soumission aux
+l’inflation mesurée par l’IPC demeure élevée dans la opérations d'appels d'offres d'injection de liquidités
+première moitié de 2022 et redescende vers 2 % au est resté à 2,00 % et le taux d'intérêt du guichet de
+second semestre 2022. prêt marginal à 4,00 %. Lecoefficient des réserves
+obligatoires applicable aux banques de l'Union, est
+En Chine, la banque centrale a maintenu inchangée quant à lui demeuré à 3,00 %.
+sa politique monétaire sur les prêts, dans l’attente de
+meilleurs indicateurs de reprise économique dans le En Afrique du Sud, la South African Reserve Bank
+pays. En effet, la banque centrale de Chine a déclaré (SARB) a décidé le 23 septembre 2021, de maintenir
+dans un communiqué le 20 octobre 2021, qu'elle son taux directeur à 3,50 %, pour soutenir l’activité
+maintenait le taux directeur des prêts à 3,85 %, qui économique dans un contexte d’atténuation des
+demeure inchangé pour le 18ème mois consécutif. tensions inflationnistes. La politique monétaire reste
+Elle a également maintenu le taux d'intérêt de base accommodante et la SARB a maintenu les conditions
+inchangé à 4,65 %, pour les prêts de plus de cinq financières de soutien de la demande de crédit.
+9
+N°16 / decembre 2021
+
+--- Page 10 ---
+A.2. Perspectives macroéconomiques des pays de la CEMAC
+L’activité économique devrait poursuivre son Concernant les prévisions d’inflation, elles
+évolution favorable au quatrième trimestre 2021 indiquent une stabilité à fin décembre 2021 par rapport
+ainsi qu’au premier trimestre 2022. Les estimations à fin septembre 2021, bien qu’en décélération par
+pour le quatrième trimestre 2021, en glissement rapport à décembre 2020. En effet, le taux d’inflation
+annuel, tablent sur une hausse de l’ICAE de la se maintiendrait à 1,7 % en moyenne annuelle et
+CEMAC de 3,0 % (contre - 1,5 % un an plus tôt). progresserait à 2,3 % en glissement annuel.
+Cette dynamique devrait se maintenir au premier
+Par comparaison avec ses principaux partenaires,
+trimestre 2022, avec une variation de l’ICAE CEMAC
+la CEMAC a enregistré des différentiels d’inflation
+en glissement annuel de 4,4 % (contre 1,1 % un an
+globalement favorables vis-à-vis de la Zone Euro
+plus tôt).
+(- 1,4 point), de l’UEMOA (- 3,0 points), des Etats-
+Unis (- 3,4 points), de la France (- 0,2 point) et du
+Sur l’ensemble de l’année 2021, les services de
+Nigeria (- 14,7 points). A contrario, le différentiel
+la BEAC tablent sur : i) un taux de croissance du
+d’inflation a été défavorable par rapport à la Chine
+PIB réel de + 1,9 % contre - 1,7 % en 2020, porté
+(1,5 point).
+principalement par un rebond de la croissance
+non pétrolière, ii) un relâchement des pressions Les réserves de change de la BEAC devraient
+inflationnistes à 1,7 % en 2021, contre 2,6 % un an croître à moyen terme à 5,04 mois d’importations
+plus tôt, iii) un maintien du déficit du solde budgétaire des biens et services à la fin de l’année 2024,
+base engagements, dons compris, à 2,0 % du PIB après respectivement 4,33 et 4,67 en 2022 et 2023,
+en 2021, et un recul du solde du compte courant à contre 3,72 en 2021. Cela devrait se traduire par un
+- 3,0 % du PIB en 2021, contre - 4,3 % du PIB en taux de couverture extérieure de la monnaie assez
+2020. Sur le plan de la monnaie, la masse monétaire confortable à 73,1 % en 2022, 75,7 % en 2023 et
+croîtrait de 12,6 % tandis que les avoirs extérieurs 78,6 % en 2024, contre 68,4 % en 2021.
+nets chuteraient de 34,7 %.
+10
+N°16 / decembre 2021
+
+--- Page 11 ---
+B. MARCHÉ DES VALEURS DU TRÉSOR DE LA CEMAC AU 4ème TRIMESTRE 2021
+B.1. Dynamique du marché primaire
+• Au quatrième trimestre 2021, les émissions des valeurs du Trésor s’élèvent à 707,06 milliards de FCFA, en
+baisse de 30,8 % par rapport au montant enregistré au trimestre précédent. Les ressources mobilisées sur
+le marché au cours de la période sous revue ont été en-dessous du montant prévisionnel global de 959,5
+milliards de FCFA, communiqué par les Trésors publics à travers les calendriers prévisionnels d’émission.
+Contrairement à la période précédente, la répartition des montants levés par type d’instruments (BTA et
+OTA) au quatrième trimestre 2021, est légèrement favorable aux instruments de long terme qui représentent
+respectivement 49,3 % et 50,7 % du montant total levé. Ainsi, le montant des BTA se chiffre à 348,9 milliards
+de FCFA, en baisse de 209,2 milliards de FCFA par rapport au troisième trimestre 2021. Les émissions
+d’OTA, entre octobre 2021 et décembre 2021, ont également baissé, revenant à 358,1 milliards de FCFA,
+soit une diminution de 104,9 milliards de FCFA par rapport au trimestre précédent.
+• Au cours de la période de référence, les Trésors publics du Cameroun, du Gabon et du Congo ont été les
+plus actifs sur le marché, avec des émissions qui représentent respectivement 34,2 %, 28,9 % et 18,6 % du
+total des ressources levées sur ce marché (cf. graphique 1).
+Graphique 1: Evolution trimestrielle des émissions de valeurs du Trésor (en millions de FCFA)
+Source : CRCT/BEAC
+11
+N°16 / decembre 2021
+
+--- Page 12 ---
+12
+N°16 / decembre 2021
+1202
+ertsemirt
+emèirtauq
+ud
+sruoc
+ua
+CAMEC
+al
+ed
+scilbup
+srosérT
+sel
+rap
+seésilaér
+ATB
+sed
+snoissimÉ
+:1
+uaelbaT
+stnatnoM
+stnatnoM
+stircsuos
+rap
+stircsuos
+-suoS
+ed
+xuaT
+ne
+sim
+tnatnoM
+ével
+tnatnoM
+TVS
+sel
+rap
+sertua
+sel
+ud
+%
+ne(
+noitpirc
+-ruobmer
+ed
+etaD
+neyoM
+xuaT
+noitacidujda
+-elgèr
+ed
+etaD
+-idujda'd
+etaD
+snoillim
+ne(
+sétnalpmi
+noissimé
+edoC
+étirutaM
+syaP
+-ér
+ud
+TVS
+ne
+sim
+tnatnom
+tnemes
+)%
+ne(
+érédnoP
+ed
+snoillim
+ne(
+tnem
+noitac
+)AFCF
+ed
+el snad
+syap
+ud
+uaes
+)noitacidujda
+)AFCF
+-temé
+syap
+ruettemé
+ruet
+000
+02
+0
+000
+02
+00,231
+2202/40/10
+93,2
+000
+02
+1202/01/10
+1202/90/92
+5901000021MC
+seniames
+62
+nuoremaC
+026
+41
+0
+026
+41
+88,87
+2202/10/41
+53,2
+000
+52
+1202/01/51
+1202/01/31
+0980000011MC
+seniames
+31
+nuoremaC
+009
+91
+0002
+009
+71
+05,931
+2202/01/12
+90,3
+000
+02
+1202/01/22
+1202/01/02
+7650000031MC
+seniames
+25
+nuoremaC
+000
+01
+0803
+029
+6
+08,101
+2202/11/40
+51,3
+000
+01
+1202/11/50
+1202/11/30
+5750000031MC
+seniames
+25
+nuoremaC
+000
+71
+0
+000
+71
+04,86
+2202/20/11
+66,2
+000
+52
+1202/11/21
+1202/11/01
+8090000011MC
+seniames
+31
+nuoremaC
+000
+61
+0
+000
+61
+50,08
+2202/30/40
+86,2
+000
+02
+1202/21/30
+1202/21/10
+6190000011MC
+seniames
+31
+nuoremaC
+025
+79
+nuoremaC
+ud
+cilbup
+rosért
+el
+rap
+simé
+ATB
+sed
+latoT
+818
+2
+818
+2
+0
+42,92
+2202/90/03
+10,7
+000
+01
+1202/01/10
+1202/90/92
+44100000031GC
+seniames
+25
+ognoC
+000
+11
+000
+01
+000
+1
+50,001
+2202/40/80
+57,6
+000
+11
+1202/01/80
+1202/01/60
+33500000021GC
+seniames
+62
+ognoC
+008
+6
+005
+1
+003
+5
+41,79
+2202/10/41
+84,5
+000
+7
+1202/01/51
+1202/01/31
+NM/54200000011GC
+seniames
+31
+ognoC
+000
+7
+232
+6
+867
+47,491
+2202/40/51
+61,6
+000
+7
+1202/01/51
+1202/01/31
+14500000021GC
+seniames
+62
+ognoC
+242
+7
+241
+5
+001
+2
+53,06
+2202/40/92
+51,6
+000
+21
+1202/01/92
+1202/01/72
+85500000021GC
+seniames
+62
+ognoC
+485
+4
+485
+4
+0
+02,83
+2202/11/40
+78,6
+000
+21
+1202/11/50
+1202/11/30
+15100000031GC
+seniames
+25
+ognoC
+416
+01
+485
+8
+030
+2
+67,07
+2202/50/31
+47,6
+000
+51
+1202/11/21
+1202/11/01
+66500000021GC
+seniames
+62
+ognoC
+158
+5
+102
+056
+5
+15,85
+2202/20/81
+78,5
+000
+01
+1202/11/91
+1202/11/71
+NM/25200000011GC
+seniames
+31
+ognoC
+000
+5
+000
+5
+0
+80,211
+2202/50/31
+95,6
+000
+5
+1202/11/91
+1202/11/71
+1NM/66500000021GC
+seniames
+62
+ognoC
+011
+5
+011
+5
+0
+00,46
+2202/90/03
+86,6
+000
+8
+1202/21/30
+1202/21/10
+2NM/44100000031GC
+seniames
+25
+ognoC
+519
+5
+511
+5
+008
+51,95
+2202/60/01
+49,6
+000
+01
+1202/21/01
+1202/21/80
+NM/47500000021GC
+seniames
+62
+ognoC
+058
+01
+065
+7
+092
+3
+04,27
+2202/60/71
+73,6
+000
+51
+1202/21/71
+1202/21/51
+NM/28500000021GC
+seniames
+62
+ognoC
+487
+28
+ognoC
+ud
+cilbup
+rosérT
+el
+rap
+simé
+ATB
+sed
+latoT
+083
+5
+083
+4
+000
+1
+52,76
+1202/21/42
+11,6
+000
+8
+1202/01/10
+1202/90/92
+1NM/5341000011AG
+seniames
+31
+nobaG
+579
+31
+579
+31
+0
+03,39
+2202/40/80
+00,6
+000
+51
+1202/01/80
+1202/01/60
+0531000021AG
+seniames
+62
+nobaG
+000
+5
+001
+2
+009
+2
+00,202
+2202/30/81
+07,5
+000
+5
+1202/01/51
+1202/01/31
+2NM/3431000021AG
+seniames
+62
+nobaG
+015
+7
+015
+4
+000
+3
+70,05
+2202/10/41
+97,5
+000
+51
+1202/01/51
+1202/01/31
+NM/3441000011AG
+seniames
+31
+nobaG
+870
+01
+870
+01
+0
+28,48
+2202/40/22
+51,6
+000
+21
+1202/01/22
+1202/01/02
+8631000021AG
+seniames
+62
+nobaG
+510
+6
+000
+5
+510
+1
+69,24
+2202/40/92
+23,6
+000
+41
+1202/01/92
+1202/01/72
+6731000021AG
+seniames
+62
+nobaG
+
+--- Page 13 ---
+13
+N°16 / decembre 2021
+002
+6
+002
+6
+0
+00,36
+2202/11/40
+36,6
+000
+01
+1202/11/50
+1202/11/30
+2940000031AG
+seniames
+25
+nobaG
+0
+00,0
+2202/20/11
+000
+7
+1202/11/21
+1202/11/01
+1NM/3441000011AG
+seniames
+31
+nobaG
+000
+21
+730
+8
+3693
+11,871
+2202/50/31
+54,6
+000
+21
+1202/11/21
+1202/11/01
+4831000021AG
+seniames
+62
+nobaG
+275
+8
+270
+6
+005
+2
+12,75
+2202/50/72
+10,6
+000
+51
+1202/11/62
+1202/11/42
+2931000021AG
+seniames
+62
+nobaG
+947
+7
+996
+5
+050
+2
+54,07
+2202/60/30
+63,6
+000
+11
+1202/21/30
+1202/21/10
+0041000021AG
+seniames
+62
+nobaG
+0
+2202/20/11
+000
+8
+1202/21/30
+1202/21/10
+2NM/3441000011AG
+seniames
+31
+nobaG
+000
+3
+000
+2
+000
+1
+00,13
+2202/21/90
+05,6
+000
+01
+1202/21/01
+1202/21/80
+0050000031AG
+seniames
+25
+nobaG
+742
+8
+742
+7
+000
+1
+89,45
+2202/60/71
+94,6
+000
+51
+1202/21/71
+1202/21/51
+8141000021AG
+seniames
+62
+nobaG
+069
+01
+069
+01
+0
+02,37
+2202/60/42
+46,6
+000
+51
+1202/21/42
+1202/21/22
+6241000021AG
+seniames
+62
+nobaG
+686
+401
+nobaG
+ud
+cilbup
+rosért
+el
+rap
+simé
+ATB
+sed
+latoT
+-auqE
+eéniuG
+600
+7
+600
+7
+0
+20,82
+2202/01/70
+04,8
+000
+52
+1202/01/80
+1202/01/60
+7401000031QG
+seniames
+25
+elairot
+-auqE
+eéniuG
+632
+9
+632
+7
+000
+2
+65,49
+2202/01/82
+24,8
+000
+01
+1202/01/92
+1202/01/72
+2601000031QG
+seniames
+25
+elairot
+-auqE
+eéniuG
+878
+21
+878
+7
+000
+5
+25,68
+2202/11/11
+60,9
+000
+51
+1202/11/21
+1202/11/01
+0701000031QG
+seniames
+25
+elairot
+-auqE
+eéniuG
+778
+3
+773
+3
+005
+58,52
+2202/11/52
+01,8
+000
+51
+1202/11/62
+1202/11/42
+8801000031QG
+seniames
+25
+elairot
+-auqE
+eéniuG
+600
+6
+600
+6
+0
+40,04
+2202/21/90
+84,8
+000
+51
+1202/21/01
+1202/21/80
+6901000031QG
+seniames
+25
+elairot
+300
+93
+elairotauqE
+eéniuG
+al
+ed
+cilbup
+rosérT
+el
+rap
+simé
+ATB
+sed
+latoT
+015
+2
+010
+2
+005
+1,52
+2202/40/10
+8892,7
+000
+01
+1202/01/10
+1202/90/92
+8321000021DT
+seniames
+62
+dahcT
+908
+21
+0
+908
+21
+3393,58
+2202/40/51
+7435,6
+000
+51
+1202/01/51
+1202/01/31
+6421000021DT
+seniames
+62
+dahcT
+006
+9
+005
+9
+001
+46
+2202/40/92
+5,6
+000
+51
+1202/01/92
+1202/01/72
+3521000021DT
+seniames
+62
+dahcT
+919
+42
+dahcT
+ud
+cilbup
+rosérT
+el
+rap
+simé
+ATB
+sed
+latoT
+219
+843
+CAMEC
+al
+ed
+scilbup
+srosérT
+sel
+rap
+simé
+ATB
+sed
+latoT
+CAEB/TCRC
+:
+ecruoS
+
+--- Page 14 ---
+14
+N°16 / decembre 2021
+1202
+ertsemirt
+emèirtauq
+ud
+sruoc
+ua
+CAMEC
+al
+ed
+scilbup
+srosérT
+sel
+rap
+seésilaér
+ATO
+sed
+snoissimÉ
+:2
+uaelbaT
+ed xuaT
+stnatnoM
+stnatnoM
+noitpircsuoS
+sim
+tnatnoM
+ével
+tnatnoM
+rap
+stircsuos
+rap
+stircsuos
+neyoM
+xirP
+ud %
+ne(
+-mer
+ed
+etaD
+-acidujda
+ne
+ed
+snoillim
+ne(
+TVS
+sertua
+sel
+-mi TVS
+sel
+ne(
+érédnoP
+tnemelgèr
+ed
+etaD
+noitacidujda'd
+etaD
+noissimé
+edoC
+étirutaM
+syaP
+sim
+tnatnom
+tnemesruob
+snoillim(
+noit
+)AFCF
+ud
+uaesér
+ud
+el
+snad sétnalp
+)%
+-acidujda
+ne
+)AFCF
+ed
+ruettemé
+syap
+ruettemé
+syap
+)noit
+159
+65
+003
+7,05665
+8762,301
+6202/01/10
+16,89
+000
+06
+1202/01/10
+1202/90/92
+NM/78000000B2MC
+SNA
+5
+nuoremaC
+005
+03
+000
+01
+00502
+525,78
+4202/01/92
+18,89
+000
+04
+1202/01/92
+1202/01/72
+NM/36000000J2MC
+SNA
+3
+nuoremaC
+631
+23
+003
+9,53813
+8939,38
+7202/11/62
+93,89
+000
+04
+1202/11/62
+1202/11/42
+NM/63000000L2MC
+SNA
+6
+nuoremaC
+000
+52
+0
+00052
+261
+3202/21/01
+22,89
+000
+52
+1202/21/01
+1202/21/80
+NM/07000000A2MC
+SNA
+2
+nuoremaC
+785
+441
+nuoremaC
+ud
+cilbup
+rosérT
+el
+rap
+sesimé
+ATO
+latoT
+-upéR euqilb
+000
+6
+000
+6
+0
+3333,351
+4202/01/22
+09,78
+000
+51
+1202/01/22
+1202/01/02
+NM/43000000J2FC
+SNA
+3
+-irfartnec
+eniac
+000
+6
+eniacirfartneC
+euqilbupéR
+al
+ed
+cilbup
+rosérT
+el
+rap
+sesimé
+ATO
+latoT
+641
+8
+53,6414
+000
+4
+13,45
+3202/01/10
+40,09
+000
+51
+1202/01/10
+1202/90/92
+74200000A2GC
+SNA
+2
+ognoC
+070
+1
+079
+001
+22,7
+3202/01/22
+64,19
+000
+51
+1202/01/22
+1202/01/02
+45200000A2GC
+SNA
+2
+ognoC
+972
+6
+95,8204
+052
+2
+97,26
+3202/01/22
+84,09
+000
+01
+1202/01/92
+1202/01/72
+1NM/45200000A2GC
+SNA
+2
+ognoC
+740
+5
+7453
+005
+1
+74,05
+3202/01/22
+18,09
+000
+01
+1202/11/62
+1202/11/42
+2NM/45200000A2GC
+SNA
+2
+ognoC
+672
+02
+58,57241
+000
+6
+01,18
+5202/11/62
+62,98
+000
+52
+1202/11/62
+1202/11/42
+NM/45000000K2GC
+SNA
+4
+ognoC
+529
+4
+578
+4
+05
+26,42
+3202/21/01
+02,09
+000
+02
+1202/21/01
+1202/21/80
+NM/26200000A2GC
+SNA
+2
+ognoC
+903
+3
+903
+3
+0
+60,22
+3202/21/01
+02,09
+000
+51
+1202/21/71
+1202/21/51
+1NM/26200000A2GC
+SNA
+2
+ognoC
+250
+94
+ognoC
+ud
+cilbup
+rosérT
+el
+rap
+sesimé
+ATO
+latoT
+000
+02
+200
+21
+899
+7
+50,051
+3202/01/10
+47,39
+000
+02
+1202/01/10
+1202/90/92
+NM/95100000A2AG
+SNA
+2
+nobaG
+005
+11
+005
+7
+000
+4
+5,75
+4202/01/10
+31,98
+000
+02
+1202/01/10
+1202/90/92
+NM/81200000J2AG
+SNA
+3
+nobaG
+111
+11
+000
+8
+111
+3
+2170,73
+4202/01/22
+62,09
+000
+03
+1202/01/22
+1202/01/02
+NM/62200000J2AG
+SNA
+3
+nobaG
+000
+51
+593
+5
+506
+9
+8078,831
+4202/01/22
+64,29
+000
+51
+1202/11/91
+1202/11/71
+2NM/62200000J2AG
+SNA
+3
+nobaG
+002
+8
+007
+2
+005
+5
+7663,55
+4202/21/01
+73,09
+000
+51
+1202/21/01
+1202/21/80
+NM/43200000J2AG
+SNA
+3
+nobaG
+388
+41
+437
+7
+051
+7
+1940,58
+6202/80/31
+52,19
+005
+71
+1202/21/01
+1202/21/80
+4NM/38000000B2AG
+SNA
+5
+nobaG
+016
+91
+011
+31
+005
+6
+150,89
+4202/21/01
+32,09
+000
+02
+1202/21/42
+1202/21/22
+1NM/43200000J2AG
+SNA
+3
+nobaG
+
+--- Page 15 ---
+15
+N°16 / decembre 2021
+503
+001
+nobaG
+ud
+cilbup
+rosérT
+el
+rap
+sesimé
+ATO
+latoT
+000
+32
+000
+01
+00031
+7666,67
+4202/01/51
+93,19
+000
+03
+1202/01/51
+1202/01/31
+NM/85000000J2DT
+SNA
+3
+dahcT
+-suos
+stnatnoM
+-suos
+stnatnoM
+-suoS
+ed
+xuaT
+sim
+tnatnoM
+ével
+tnatnoM
+sel
+rap
+stirc
+sel
+rap
+stirc
+%
+ne(
+noitpirc
+-mer
+ed
+etaD
+neyoM
+xirP
+noitacidujda
+ne
+ed
+snoillim
+ne(
+ud
+TVS
+sertua
+sétnalpmi
+TVS
+tnatnom
+ud
+tnemelgèr
+ed
+etaD
+noitacidujda'd
+etaD
+noissimé
+edoC
+étirutaM
+syaP
+tnemesruob
+)%
+ne(
+érédnoP
+ed
+snoillim(
+)AFCF
+syap
+ud
+uaesér
+syap
+el
+snad
+-idujda
+ne
+sim
+)AFCF
+ruettemé
+ruettemé
+)noitac
+140
+7
+0
+61,1407
+5410,811
+4202/01/92
+00,001
+000
+8
+1202/01/92
+1202/01/72
+NM/66000000J2DT
+SNA
+3
+dahcT
+095
+0
+5,985
+1166,6
+6202/11/50
+00,001
+000
+9
+1202/11/50
+1202/11/30
+NM/89000000B2DT
+SNA
+5
+dahcT
+028
+11
+028
+11
+0
+4,93
+3202/11/21
+11,09
+000
+03
+1202/11/21
+1202/11/01
+NM/16400000A2DT
+SNA
+2
+dahcT
+000
+5
+0005
+7666,59
+4202/21/71
+05,59
+000
+03
+1202/21/71
+1202/21/51
+NM/47000000J2DT
+SNA
+3
+dahcT
+057
+01
+0
+05701
+5,63
+4202/21/42
+00,59
+000
+03
+1202/21/42
+1202/21/22
+NM/28000000J2DT
+SNA
+3
+dahcT
+102
+85
+dahcT
+ud
+cilbup
+rosérT
+el
+rap
+sesimé
+ATO
+latoT
+441
+853
+CAMEC
+al
+ed
+scilbup
+srosérT
+sel
+rap
+sesimé
+ATO
+latoT
+CAEB/TCRC
+:
+ecruoS
+
+--- Page 16 ---
+16
+N°16 / decembre 2021
+)AFCF
+ed
+snoillim
+ne
+stnatnom(
+scilbup
+srosérT
+sel
+rap
+sécnonna
+1202
+ertsemirt
+emèirtauq
+ud
+snoissimé
+sed
+reirdnelaC
+:3
+uaelbaT
+CAMEC
+dahcT
+elairotauqE
+eéniuG
+nobaG
+ognoC
+euqirfartneC
+nuoremaC
+ATO
+ATB
+ATO
+ATB
+ATO
+ATB
+ATO
+ATB
+ATO
+ATB
+ATO
+ATB
+ATO
+ATB
+000
+661
+000
+922
+000
+64
+000
+04
+000
+05
+0
+000
+05
+000
+51
+000
+44
+000
+51
+000
+09
+000
+54
+12-tco
+000
+411
+000
+231
+000
+93
+0
+000
+03
+0
+000
+73
+000
+53
+000
+03
+000
+04
+000
+53
+12-von
+000
+021
+005
+891
+000
+03
+000
+03
+000
+53
+0
+005
+35
+000
+56
+000
+04
+00052
+000
+04
+12-céd
+000
+004
+005
+955
+000
+511
+000
+07
+0
+000
+511
+0
+005
+041
+000
+511
+000
+411
+000
+51
+0
+000
+551
+000
+021
+latoT
+scilbup
+srosérT
+:
+ecruoS
+
+--- Page 17 ---
+• Au cours du quatrième trimestre 2021, la couverture des émissions des valeurs du Trésor a baissé.
+Le taux de couverture des émissions des BTA est revenu à 78,85 % contre 112,11 % au troisième trimestre
+2021. Celui des OTA passe de 76,28 % au troisième trimestre 2021 à 75,50 % au quatrième trimestre de
+l’année en cours (cf. graphiques 2 et 3).
+• Toutefois, l’analyse par pays montre une sursouscription tant pour les BTA que les OTA du Cameroun.
+De même, les émissions des OTA de la République centrafricaine ont été sursouscrites.
+Graphique 2 : Couverture moyenne des émissions de BTA (en % du montant mis en adjudication)
+Source : CRCT/BEAC
+Graphique 3 : Couverture moyenne des émissions d'OTA (en % du montant mis en adjudication)
+Source : CRCT/BEAC
+17
+N°16 / decembre 2021
+
+--- Page 18 ---
+• L’analyse par maturité des titres met globalement en exergue une relation inverse entre la maturité des
+titres émis et le taux de souscription (cf. Tableau 4). Ainsi, les instruments de court terme demeurent
+dans l’ensemble les plus sollicités par les Spécialistes en Valeurs du Trésor (SVT). Cette analyse permet
+également de mettre en évidence des maturités de référence (26 semaines pour les BTA et 2 ans pour
+les OTA).
+Tableau 4: Structure des taux de couverture des émissions en fonction des maturités
+des titres émis au cours du quatrième trimestre 2021 (en % du montant mis en adjudication)
+Pays émetteurs
+Instruments Moyenne CEMAC
+Cameroun Centrafrique Congo Gabon Guinée Equatoriale Tchad
+BTA 100,11 79,72 82,18 55,00 58,16 78,85
+13 semaines 75,78 77,83 58,66 71,47
+26 semaines 132,00 95,65 95,23 58,16 91,65
+52 semaines 120,65 43,81 47,00 55,00 61,81
+OTA 109 153,33 43,22 88,85 62,15 75,50
+2 ANS 162,00 36,91 150,05 39,40 63,66
+3 ANS 87,53 153,33 77,37 81,71 86,78
+4 ANS 81,10 81,10
+5 ANS 103,27 85,05 6,66 64,99
+6 ANS 83,94 83,94
+Source : CRCT/BEAC
+• Tous les remboursements prévus au quatrième trimestre 2021 ont été honorés par les Trésors publics
+émetteurs. Le montant global remboursé s’est élevé à 511,4 milliards de FCFA (cf. Graphique 4).
+Graphique 4 : Répartition des montants des remboursements des titres au quatrième trimestre 2021
+(en milliards de FCFA)
+Source : CRCT/BEAC
+Le tableau 5 ci-après présente les différentes lignes de titres échus et remboursés au cours du quatrième
+trimestre 2021 par les Trésors publics de la CEMAC
+18
+N°16 / decembre 2021
+
+--- Page 19 ---
+Tableau 5: Lignes de titres remboursés au cours du quatrième trimestre 2021
+(montants en millions de FCFA)
+Date de règle-
+Pays Instrument Maturité Code émission Date de remboursement Montant levé
+ment
+Cameroun 26 semaines CM1200001020 02/04/2021 01/10/2021 20 000
+Cameroun 26 semaines CM1200001038 14/05/2021 12/11/2021 25 000
+Cameroun 26 semaines CM1200001046 04/06/2021 03/12/2021 20 000
+Cameroun BTA 26 semaines CM1200001053 11/06/2021 10/12/2021 15 000
+Cameroun 13 semaines CM1100000866 16/07/2021 15/10/2021 25 000
+Cameroun 13 semaines CM1100000874 23/07/2021 22/10/2021 15 000
+Cameroun 13 semaines CM1100000882 06/08/2021 05/11/2021 10 000
+Cameroun OTA 2 ANS CM2A00000047 25/10/2019 25/10/2021 21 910
+Total des titres remboursés par le Cameroun 151 910
+Congo 26 semaines CG12000000459/MN 09/04/2021 08/10/2021 13 000
+Congo 26 semaines CG12000000467/MN 16/04/2021 15/10/2021 12 000
+Congo 26 semaines CG12000000475/MN 04/06/2021 03/12/2021 10 000
+BTA
+Congo 26 semaines CG12000000483/MN 18/06/2021 17/12/2021 7 256
+Congo 13 semaines CG11000000229/MN 13/08/2021 12/11/2021 8 879
+Congo 13 semaines CG11000000237/MN 17/09/2021 17/12/2021 9 420
+Congo 2 ANS CG2A00000049/MN 22/10/2019 22/11/2021 32 000
+OTA
+Congo 2 ANS CG2A00000056/MN 13/12/2019 13/12/2021 30 000
+Total des titres remboursés par le Congo 122 555
+Gabon 52 semaines GA1300000401/MN 09/10/2020 08/10/2021 12 700
+Gabon 52 semaines GA1300000419/MN 18/12/2020 17/12/2021 6 100
+Gabon 26 semaines GA1200001228/MN 23/04/2021 22/10/2021 12 000
+Gabon 26 semaines GA1200001236/MN 07/05/2021 05/11/2021 8 000
+Gabon 26 semaines GA1200001244/MN 14/05/2021 12/11/2021 12 500
+Gabon 26 semaines GA1200001251/MN 04/06/2021 03/12/2021 12 000
+BTA
+Gabon 26 semaines GA1200001269/MN 18/06/2021 17/12/2021 12 500
+Gabon 26 semaines GA1200001277/MN 02/07/2021 31/12/2021 10 000
+Gabon 13 semaines GA1100001401/MN 16/07/2021 15/10/2021 15 000
+Gabon 13 semaines GA1100001419/MN 30/07/2021 29/10/2021 14 000
+Gabon 13 semaines GA1100001427 27/08/2021 26/11/2021 15 000
+Gabon 13 semaines GA1100001435 24/09/2021 24/12/2021 15 885
+Total des titres remboursés par le Gabon 145 685
+Guinée Equatoriale 52 semaines GQ1300000874/MN 09/10/2020 08/10/2021 25 450
+Guinée Equatoriale 52 semaines GQ1300000882/MN 16/10/2020 15/10/2021 8 200
+Guinée Equatoriale 52 semaines GQ1300000890/MN 30/10/2020 29/10/2021 2 600
+BTA
+Guinée Equatoriale 52 semaines GQ1300000908/MN 13/11/2020 12/11/2021 11 191
+Guinée Equatoriale 52 semaines GQ1300000916/MN 27/11/2020 26/11/2021 9 228
+Guinée Equatoriale 52 semaines GQ1300000924/MN 11/12/2020 10/12/2021 9 809
+Total des titres remboursés par la Guinée Equatoriale 66 478
+Tchad 26 semaines TD1200001170 02/04/2021 01/10/2021 1 500
+Tchad BTA 26 semaines TD1200001188/MN 16/04/2021 15/10/2021 9 809
+Tchad 26 semaines TD1200001196/MN 30/04/2021 29/10/2021 13 500
+Total des titres remboursés par le Tchad 24 809
+Total des titres remboursés par les Trésors émetteurs dans CEMAC 511 437
+Source : CRCT/BEAC
+19
+N°16 / decembre 2021
+
+--- Page 20 ---
+B.2. Situation des encours des valeurs du Trésor
+• En lien avec l’accroissement des émissions de titres de longs termes (OTA), la progression de l’encours
+de la dette des États de la CEMAC sur le marché des valeurs du Trésor continue de croître au cours du
+quatrième trimestre 2021, s’élevant à 4 650,1 milliards de FCFA, en augmentation de 5,9 % par rapport à
+la situation à fin septembre 2021, et de 44,2 % comparativement à la même période un an auparavant (cf.
+graphique 5).
+• Depuis mars 2020, on note une recomposition de la structure du portefeuille de la dette des États sur le
+marché des valeurs du Trésor, désormais constitué majoritairement des titres longs (OTA), représentant au
+quatrième trimestre 2021, 72,4 % du portefeuille global de titres. En effet, l’encours des OTA a augmenté de
+61.7 % en un an, passant de 2 081 milliards de FCFA à fin décembre 2020 à 3 364,4 milliards de FCFA au
+31 décembre 2021. L’encours des BTA a progressé de 12,4 % en un an, passant de 1 144 milliards de FCFA
+à 1 285,7 milliards de FCFA sur la même période. La modification de la structure des instruments financiers
+est la conséquence d’un recours de plus en plus croissant des Trésors publics aux ressources plus stables.
+• L’analyse par Trésor émetteur montre qu’entre le troisième et le quatrième trimestre 2021, l’encours des
+valeurs du Trésor est en hausse pour l’ensemble des Trésors, à l’exception de la Guinée Equatoriale où on
+enregistre une baisse de l’encours à hauteur de 46,8 milliards de FCFA.
+Graphique 5 : Evolution des encours des valeurs du Trésor au cours des cinq derniers trimestres
+(montants en milliards de FCFA)
+Source : CRCT/BEAC
+20
+N°16 / decembre 2021
+
+--- Page 21 ---
+L’observation de l’évolution de la structure de l’encours des valeurs du Trésor de la CEMAC entre juin
+2018, au moment de la mise en œuvre du nouveau cadre de politique monétaire et de l’entrée en production
+de la nouvelle infrastructure de marché, et le quatrième trimestre 2021 permet de mettre en exergue les effets
+de ces réformes sur le marché des valeurs du Trésor, notamment avec une inversion des maturités des titres
+en circulation. Au 31 décembre 2021, les OTA et les BTA constituent respectivement 72,4 % et 27,6 % du
+portefeuille contre 26,6 % et 73,9 % respectivement au moment de l’implémentation des réformes monétaires
+en juin 2018.
+Graphique 6 : Evolution de la structure de l’encours des valeurs du Trésor de la CEMAC (en%)
+Source : CRCT/BEAC
+21
+N°16 / decembre 2021
+
+--- Page 22 ---
+Tableau 6 : Situation de l’encours des valeurs du Trésor du Cameroun au 31 décembre 2021
+Type Date Date Nombre de
+Pays Code Titre Maturité Valeur faciale Encours total
+d'instrument d'émission d'échéance titres
+Cameroun CM1300000526 27/01/2021 28/01/2022 52 semaines 15 000 1 000 000 15 000 000 000
+Cameroun CM1300000534 17/02/2021 18/02/2022 52 semaines 7 000 1 000 000 7 000 000 000
+Cameroun CM1300000542 07/04/2021 08/04/2022 52 semaines 10 000 1 000 000 10 000 000 000
+Cameroun CM1300000559 28/07/2021 29/07/2022 52 semaines 20 000 1 000 000 20 000 000 000
+Cameroun CM1200001061 11/08/2021 11/02/2022 26 semaines 15 000 1 000 000 15 000 000 000
+Cameroun CM1200001079 01/09/2021 04/03/2022 26 semaines 12 500 1 000 000 12 500 000 000
+Cameroun CM1200001087 22/09/2021 25/03/2022 26 semaines 14 000 1 000 000 14 000 000 000
+Cameroun CM1200001095 BTA 01/10/2021 01/04/2022 26 semaines 20 000 1 000 000 20 000 000 000
+Cameroun CM1100000890 15/10/2021 14/01/2022 13 semaines 14 620 1 000 000 14 620 000 000
+Cameroun CM1300000567 22/10/2021 21/10/2022 52 semaines 19 900 1 000 000 19 900 000 000
+Cameroun CM1300000575 05/11/2021 04/11/2022 52 semaines 10 000 1 000 000 10 000 000 000
+Cameroun CM1100000908 12/11/2021 11/02/2022 13 semaines 17 000 1 000 000 17 000 000 000
+Cameroun CM1100000916 03/12/2021 04/03/2022 13 semaines 16 000 1 000 000 16 000 000 000
+Cameroun CM1100000924 17/12/2021 18/03/2022 13 semaines 10 000 1 000 000 10 000 000 000
+Cameroun CM1200001103 17/12/2021 17/06/2022 26 semaines 40 000 1 000 000 40 000 000 000
+Sous - total BTA du Cameroun 241 020 000 000
+Cameroun CM2J00000014 30/04/2021 22/02/2022 3 ANS 1 477 000 10 000 14 770 000 000
+Cameroun CM2J00000022 18/06/2021 24/05/2022 3 ANS 7 254 000 10 000 83 040 000 000
+Cameroun CM2K00000011 24/02/2021 31/05/2023 5 ANS 4 848 200 10 000 48 482 000 000
+Cameroun CM2B00000020 10/03/2021 14/06/2024 5 ANS 5 358 510 10 000 72 003 100 000
+Cameroun CM2B00000038 20/11/2020 10/04/2025 5 ANS 7 163 780 10 000 106 637 800 000
+Cameroun CM2J00000030 22/02/2019 17/04/2023 3 ANS 3 500 000 10 000 35 000 000 000
+Cameroun CM2A00000054 24/05/2019 01/05/2022 2 ANS 3 334 600 10 000 33 346 000 000
+Cameroun CM2D00000028 17/04/2020 08/05/2030 10 ANS 2 500 000 10 000 25 000 000 000
+Cameroun CM2C00000037 14/06/2019 19/06/2027 7 ANS 1 772 900 10 000 17 729 000 000
+Cameroun CM2J00000055 29/05/2020 18/09/2023 3 ANS 3 000 000 10 000 30 000 000 000
+Cameroun CM2L00000010 11/12/2020 09/10/2026 6 ANS 3 500 000 10 000 35 000 000 000
+Cameroun CM2D00000036 31/05/2019 23/10/2030 10 ANS 2 000 000 10 000 20 000 000 000
+Cameroun CM2A00000062 OTA 19/06/2020 20/11/2022 2 ANS 2 800 000 10 000 28 000 000 000
+Cameroun CM2B00000046 08/05/2020 11/12/2025 5 ANS 3 000 000 10 000 30 000 000 000
+Cameroun CM2B00000053 23/10/2020 26/02/2026 5 ANS 5 000 000 10 000 50 000 000 000
+Cameroun CM2C00000052 10/03/2021 12/03/2028 7 ANS 3 500 000 10 000 35 000 000 000
+Cameroun CM2B00000061 24/03/2021 26/03/2026 5 ANS 4 154 330 10 000 41 543 300 000
+Cameroun CM2B00000079 28/04/2021 30/04/2026 5 ANS 3 000 000 10 000 30 000 000 000
+Cameroun CM2L00000028 16/06/2021 18/06/2027 6 ANS 3 486 950 10 000 34 869 500 000
+Cameroun CM2B00000087 01/10/2021 01/10/2026 5 ANS 5 695 070 10 000 56 950 700 000
+Cameroun CM2J00000063 29/10/2021 29/10/2024 3 ANS 3 050 000 10 000 30 500 000 000
+Cameroun CM2L00000036 26/11/2021 26/11/2027 6 ANS 3 213 590 10 000 32 135 900 000
+Cameroun CM2A00000070 10/12/2021 10/12/2023 2 ANS 2 500 000 10 000 25 000 000 000
+Cameroun CM2A00000088 17/12/2021 17/12/2023 2 ANS 2 000 000 10 000 20 000 000 000
+Sous - total OTA du Cameroun 935 007 300 000
+Total de l' encours des valeurs du Trésor du Cameroun 1 176 027 300 000
+Source : CRCT/BEAC
+22
+N°16 / decembre 2021
+
+--- Page 23 ---
+Tableau 7 : Situation de l’encours des valeurs du Trésor de la République Centrafricaine
+au 31 décembre 2021
+Type Date Date Nombre de Valeur Encours
+Pays Code Titre Maturité
+d'instrument d'émission d'échéance titres faciale total
+RCA CF1300000012 09/06/2021 10/06/2022 52 semaines 6 000 1 000 000 6 000 000 000
+BTA
+RCA CF1200000419/MN4 05/11/2021 04/03/2022 26 semaines 1 500 1 000 000 1 500 000 000
+Sous - total BTA République Centrafricaine 7 500 000 000
+RCA CF2J00000026 07/05/2021 07/05/2024 3 ANS 1 200 000 10 000 12 000 000 000
+RCA CF2A00000017 04/12/2020 04/12/2022 2 ANS 365 715 10 000 3 657 150 000
+RCA CF2J00000018 04/12/2020 04/12/2023 3 ANS 365 715 10 000 3 657 150 000
+RCA CF2K00000015 04/12/2020 04/12/2024 4 ANS 365 715 10 000 3 657 150 000
+OTA
+RCA CF2B00000016 04/12/2020 04/12/2025 5 ANS 365 716 10 000 3 657 160 000
+RCA CF2L00000014 04/12/2020 04/12/2026 6 ANS 117 960 10 000 1 179 600 000
+RCA CF2A00000025 18/08/2021 20/08/2023 2 ANS 1 527 500 10 000 15 275 000 000
+RCA CF2J00000034/MN 22/10/2021 22/10/2024 3 ANS 600 000 10 000 6 000 000 000
+Sous - total BTA République Centrafricaine 49 083 210 000
+Total de l'encours des valeurs du Trésor de la République Centrafricaine 56 583 210 000
+Source : CRCT/BEAC
+Tableau 8 : Situation de l’encours des valeurs du Trésor du congo
+au 31 décembre 2021
+Type Date Date Nombre de Valeur
+Pays Code Titre Maturité Encours total
+d'instrument d'émission d'échéance titres faciale
+Congo CG1200000491 09/07/2021 07/01/2022 26 semaines 14 700 1 000 000 14 700 000 000
+CG1100000245 15/10/2021 14/01/2022 13 semaines 6 800 1 000 000 6 800 000 000
+Congo CG13000000094 03/02/2021 04/02/2022 52 semaines 16 642 1 000 000 16 642 000 000
+Congo CG13000000102 24/02/2021 25/02/2022 52 semaines 10 645 1 000 000 10 645 000 000
+Congo CG13000000110 31/03/2021 01/04/2022 52 semaines 19 640 1 000 000 19 640 000 000
+Congo CG12000000509 11/08/2021 11/02/2022 26 semaines 9 368 1 000 000 9 368 000 000
+Congo CG13000000128 18/08/2021 19/08/2022 52 semaines 9 500 1 000 000 9 500 000 000
+Congo CG12000000517 25/08/2021 25/02/2022 26 semaines 13 965 1 000 000 13 965 000 000
+BTA
+Congo CG13000000136 15/09/2021 16/09/2022 52 semaines 14 124 1 000 000 14 124 000 000
+Congo CG12000000525 22/09/2021 25/03/2022 26 semaines 12 000 1 000 000 12 000 000 000
+Congo CG13000000151 05/11/2021 04/11/2022 52 semaines 4 584 1 000 000 4 584 000 000
+CG1200000533 08/10/2021 08/04/2022 26 semaines 11 000 1 000 000 11 000 000 000
+Congo CG12000000566 12/11/2021 13/05/2022 26 semaines 15 614 1 000 000 15 614 000 000
+Congo CG11000000252/MN 19/11/2021 18/02/2022 13 semaines 5 851 1 000 000 5 851 000 000
+Congo CG1200000541 15/10/2021 15/04/2022 26 semaines 7 000 1 000 000 7 000 000 000
+Congo CG13000000144/MN2 03/12/2021 30/09/2022 52 semaines 7 928 1 000 000 7 928 000 000
+Congo CG1200000558 29/10/2021 29/04/2022 26 semaines 7 242 1 000 000 7 242 000 000
+Congo CG12000000574/MN 10/12/2021 10/06/2022 26 semaines 5 915 1 000 000 5 915 000 000
+Congo CG12000000582/MN 17/12/2021 17/06/2022 26 semaines 10 850 1 000 000 10 850 000 000
+Congo CG13000000177/MN 31/12/2021 30/12/2022 52 semaines 2 520 1 000 000 2 520 000 000
+Sous -total BTA du Congo 205 888 000 000
+Source : CRCT/BEAC
+23
+N°16 / decembre 2021
+
+--- Page 24 ---
+Tableau 9 : Situation de l’encours des valeurs du Trésor du Gabon
+au 31 décembre 2021
+Type Date Date Nombre Valeur Encours
+Pays Code Titre Maturité
+d'instrument d'émission d'échéance de titres faciale total
+Gabon GA1200001285 07/07/2021 07/01/2022 26 semaines 12 000 1 000 000 12 000 000 000
+Gabon GA1200001293 21/07/2021 21/01/2022 26 semaines 14 000 1 000 000 14 000 000 000
+Gabon GA1200001301 04/08/2021 04/02/2022 26 semaines 11 000 1 000 000 11 000 000 000
+Gabon GA1200001319 11/08/2021 11/02/2022 26 semaines 12 500 1 000 000 12 500 000 000
+Gabon GA1300000484 18/08/2021 19/08/2022 52 semaines 4 500 1 000 000 4 500 000 000
+Gabon GA1200001327 01/09/2021 04/03/2022 26 semaines 12 000 1 000 000 12 000 000 000
+Gabon GA1200001335 08/09/2021 11/03/2022 26 semaines 10 150 1 000 000 10 150 000 000
+Gabon GA1200001343 15/09/2021 18/03/2022 26 semaines 13 825 1 000 000 13 825 000 000
+Gabon GA1300000443 02/04/2021 01/04/2022 52 semaines 12 400 1 000 000 12 400 000 000
+Gabon GA1300000450 16/04/2021 15/04/2022 52 semaines 10 000 1 000 000 10 000 000 000
+Gabon GA1300000476 11/06/2021 10/06/2022 52 semaines 12 500 1 000 000 12 500 000 000
+Gabon GA1300000427 24/02/2021 25/02/2022 52 semaines 13 815 1 000 000 13 815 000 000
+Gabon GA1300000435 BTA 24/03/2021 25/03/2022 52 semaines 10 000 1 000 000 10 000 000 000
+Gabon GA1200001350 08/10/2021 08/04/2022 26 semaines 13 975 1 000 000 13 975 000 000
+Gabon GA1100001443/MN 15/10/2021 14/01/2022 13 semaines 7 510 1 000 000 7 510 000 000
+Gabon GA1200001368 22/10/2021 22/04/2022 26 semaines 10 078 1 000 000 10 078 000 000
+Gabon GA1200001376 29/10/2021 29/04/2022 26 semaines 6 015 1 000 000 6 015 000 000
+Gabon GA1300000492 05/11/2021 04/11/2022 52 semaines 6 200 1 000 000 6 200 000 000
+Gabon GA1200001384 12/11/2021 13/05/2022 26 semaines 12 000 1 000 000 12 000 000 000
+Gabon GA1200001392 26/11/2021 27/05/2022 26 semaines 8 572 1 000 000 8 572 000 000
+Gabon GA1200001400 03/12/2021 03/06/2022 26 semaines 7 749 1 000 000 7 749 000 000
+Gabon GA1300000500 10/12/2021 09/12/2022 52 semaines 3 000 1 000 000 3 000 000 000
+Gabon GA1200001418 17/12/2021 17/06/2022 26 semaines 8 247 1 000 000 8 247 000 000
+Gabon GA1200001426 24/12/2021 24/06/2022 26 semaines 10 960 1 000 000 10 960 000 000
+Gabon GA1300000518 31/12/2021 30/12/2022 52 semaines 10 000 1 000 000 10 000 000 000
+Sous - total BTA du Gabon 252 996 000 000
+Source : CRCT/BEAC
+24
+N°16 / decembre 2021
+
+--- Page 25 ---
+Type Date Date Nombre de Valeur
+Pays Code Titre Maturité Encours total
+d'instrument d'émission d'échéance titres faciale
+Gabon GA2A00000100 02/04/2021 19/06/2022 5 ANS 750 000 10 000 30 000 000 000
+Gabon GA2B00000075 07/07/2021 09/07/2026 5 ANS 1 997 000 10 000 24 325 200 000
+Gabon GA2C00000025 07/07/2021 09/07/2028 7 ANS 244 200 10 000 12 817 000 000
+Gabon GA2J00000176 21/07/2021 30/04/2024 3 ANS 1 250 000 10 000 35 000 000 000
+Gabon GA2J00000192 04/08/2021 06/08/2024 3 ANS 2 500 000 10 000 31 850 000 000
+Gabon GA2B00000083 11/08/2021 13/08/2026 5 ANS 2 371 243 10 000 23 712 430 000
+Gabon GA2D00000024 11/08/2021 13/08/2031 10 ANS 441 000 10 000 8 525 000 000
+Gabon GA2J00000200 08/09/2021 10/09/2024 3 ANS 2 000 000 10 000 30 000 000 000
+Gabon GA2A00000142 22/09/2021 24/09/2023 2 ANS 2 500 000 10 000 25 000 000 000
+Gabon GA2J00000119 02/04/2021 22/05/2023 3 ANS 300 000 10 000 25 040 000 000
+Gabon GA2B00000067 30/04/2021 25/12/2025 5 ANS 1 500 000 10 000 33 750 000 000
+Gabon GA2B00000042 11/06/2021 25/09/2025 5 ANS 1 500 000 10 000 35 000 000 000
+Gabon GA2A00000134 11/06/2021 11/06/2023 2 ANS 2 500 000 10 000 25 000 000 000
+Gabon GA2J00000184 25/06/2021 25/06/2024 3 ANS 2 500 000 10 000 25 000 000 000
+Gabon GA2A00000126 20/01/2021 22/01/2023 2 ANS 1 500 000 10 000 32 551 000 000
+Gabon GA2J00000150 20/01/2021 22/01/2024 3 ANS 706 000 10 000 32 060 000 000
+Gabon GA2B00000059 24/02/2021 27/11/2025 5 ANS 291 000 10 000 32 910 000 000
+Gabon GA2J00000168 OTA 17/03/2021 19/03/2024 3 ANS 2 500 000 10 000 25 000 000 000
+Gabon GA2A00000084 31/01/2020 31/01/2022 2 ANS 3 293 000 10 000 32 930 000 000
+Gabon GA2A00000092 05/06/2020 22/05/2022 2 ANS 2 499 900 10 000 24 999 000 000
+Gabon GA2A00000118 27/11/2020 24/07/2022 2 ANS 2 684 000 10 000 26 840 000 000
+Gabon GA2B00000026 25/10/2019 03/08/2023 5 ANS 4 250 000 10 000 42 500 000 000
+Gabon GA2B00000034 21/08/2020 21/08/2025 5 ANS 2 500 000 10 000 25 000 000 000
+Gabon GA2J00000085 29/03/2019 29/03/2022 3 ANS 3 305 000 10 000 33 050 000 000
+Gabon GA2J00000093 25/10/2019 25/10/2022 3 ANS 3 623 112 10 000 36 231 120 000
+Gabon GA2J00000101 21/02/2020 21/02/2023 3 ANS 2 530 000 10 000 25 300 000 000
+Gabon GA2J00000127 21/08/2020 03/07/2023 3 ANS 2 650 500 10 000 26 505 000 000
+Gabon GA2J00000135 13/11/2020 16/10/2023 3 ANS 2 500 000 10 000 25 000 000 000
+Gabon GA2J00000143 25/12/2020 11/12/2023 3 ANS 2 543 550 10 000 25 435 500 000
+Gabon GA2K00000017 03/07/2020 20/03/2024 4 ANS 3 446 200 10 000 34 462 000 000
+Gabon GA2C00000017 25/12/2020 18/12/2027 7 ANS 4 000 000 10 000 40 000 000 000
+Gabon GA2A00000159/MN 01/10/2021 01/10/2023 2 ANS 2 000 000 10 000 20 000 000 000
+Gabon GA2J00000218/MN 01/10/2021 01/10/2024 3 ANS 1 150 000 10 000 11 500 000 000
+Gabon GA2J00000226/MN 22/10/2021 22/10/2024 3 ANS 2 611 136 10 000 26 111 360 000
+Gabon GA2J00000234/MN 10/12/2021 10/12/2024 3 ANS 2 781 020 10 000 27 810 200 000
+Sous - total OTA du Gabon 971 214 810 000
+Total de l'encours des valeurs du Trésor du Gabon 1 224 210 810 000
+Source : CRCT/BEAC
+25
+N°16 / decembre 2021
+
+--- Page 26 ---
+Tableau 10 : Situation de l’encours des valeurs du Trésor de la Guinée Equatoriale
+au 31 décembre 2021
+Type d'instru- Date d'émis- Date Nombre
+Pays Code Titre Maturité Valeur faciale Encours total
+ment sion d'échéance de titres
+Guinée Equatoriale GQ1300000973 02/04/2021 01/04/2022 52 semaines 13 435 1 000 000 13 435 000 000
+Guinée Equatoriale GQ1300000981 16/04/2021 15/04/2022 52 semaines 15 000 1 000 000 15 000 000 000
+Guinée Equatoriale GQ1300000999 23/04/2021 22/04/2022 52 semaines 15 000 1 000 000 15 000 000 000
+Guinée Equatoriale GQ1300001005 14/05/2021 13/05/2022 52 semaines 12 000 1 000 000 12 000 000 000
+Guinée Equatoriale GQ1300001013 11/06/2021 10/06/2022 52 semaines 10 621 1 000 000 10 621 000 000
+Guinée Equatoriale GQ1300000932 20/01/2021 21/01/2022 52 semaines 15 000 1 000 000 15 000 000 000
+Guinée Equatoriale GQ1300000940 03/02/2021 04/02/2022 52 semaines 15 000 1 000 000 15 000 000 000
+Guinée Equatoriale GQ1300000957 10/03/2021 11/03/2022 52 semaines 15 000 1 000 000 15 000 000 000
+BTA
+Guinée Equatoriale GQ1300000965 24/03/2021 25/03/2022 52 semaines 9 100 1 000 000 9 100 000 000
+Guinée Equatoriale GQ1300001021 30/06/2021 01/07/2022 52 semaines 20 000 1 000 000 20 000 000 000
+Guinée Equatoriale GQ1300001039 22/09/2021 23/09/2022 52 semaines 13 989 1 000 000 13 989 000 000
+Guinée Equatoriale GQ1300001047 08/10/2021 07/10/2022 52 semaines 7 006 1 000 000 7 006 000 000
+Guinée Equatoriale GQ1300001062 29/10/2021 28/10/2022 52 semaines 9 236 1 000 000 9 236 000 000
+Guinée Equatoriale GQ1300001070 12/11/2021 11/11/2022 52 semaines 12 878 1 000 000 12 878 000 000
+Guinée Equatoriale GQ1300001088 26/11/2021 25/11/2022 52 semaines 3 877 1 000 000 3 877 000 000
+Guinée Equatoriale GQ1300001096 10/12/2021 09/12/2022 52 semaines 6 006 1 000 000 6 006 000 000
+Sous - total BTA de la Guinée Equatoriale 193 148 000 000
+Guinée Equatoriale GQ2J00000024 07/07/2021 09/07/2024 3 ANS 5 500 000 10 000 55 000 000 000
+Guinée Equatoriale GQ2K00000021 28/07/2021 30/07/2025 4 ANS 5 000 000 10 000 50 000 000 000
+Guinée Equatoriale GQ2K00000039 25/08/2021 27/08/2025 4 ANS 2 116 300 10 000 21 163 000 000
+Guinée Equatoriale GQ2K00000047 01/09/2021 03/09/2025 4 ANS 3 173 200 10 000 31 732 000 000
+Guinée Equatoriale GQ2A00000023 31/12/2020 31/12/2022 2 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2J00000032 31/12/2020 31/12/2023 3 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2K00000054 31/12/2020 31/12/2024 4 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2B00000022 31/12/2020 31/12/2025 5 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2L00000020 31/12/2020 31/12/2026 6 ANS 1 940 452 10 000 19 404 520 000
+Date Date Nombre
+Pays Code Titre OTA Maturité Valeur faciale Encours total
+d'émission d'échéance de titres
+Guinée Equatoriale GQ2C00000021 31/12/2020 31/12/2027 7 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2M00000029 31/12/2020 31/12/2028 8 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2N00000028 31/12/2020 31/12/2029 9 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2D00000020 31/12/2020 31/12/2030 10 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2O00000019 31/12/2020 31/12/2031 11 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2P00000018 31/12/2020 31/12/2032 12 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2Q00000017 31/12/2020 31/12/2033 13 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2R00000016 31/12/2020 31/12/2034 14 ANS 1 940 452 10 000 19 404 520 000
+Guinée Equatoriale GQ2E00000011 31/12/2020 31/12/2035 15 ANS 1 940 453 10 000 19 404 530 000
+Sous - total OTA de la Guinée Equatoriale 429 558 290 000
+Total de l'encours des valeurs du Trésor de la Guinée Equatoriale 622 706 290 000
+Source : CRCT/BEAC
+26
+N°16 / decembre 2021
+
+--- Page 27 ---
+Tableau 11 : Situation des encours des valeurs du Trésor du Tchad
+au 31 décembre 2021
+Type Date Date Nombre Valeur Encours
+Pays Code Titre Maturité
+d'instrument d'émission d'échéance de titres faciale total
+Tchad TD1200001204 07/07/2021 07/01/2022 26 semaines 8 543 1 000 000 8 543 000 000
+Tchad TD1300000494 14/07/2021 15/07/2022 52 semaines 25 000 1 000 000 25 000 000 000
+Tchad TD1300000502 21/07/2021 22/07/2022 52 semaines 3 000 1 000 000 3 000 000 000
+Tchad TD1300000510 28/07/2021 29/07/2022 52 semaines 11 804 1 000 000 11 804 000 000
+Tchad TD1300000528 04/08/2021 05/08/2022 52 semaines 18 262 1 000 000 18 262 000 000
+Tchad TD1300000536 18/08/2021 19/08/2022 52 semaines 7 567 1 000 000 7 567 000 000
+Tchad TD1300000544 25/08/2021 26/08/2022 52 semaines 16 742 1 000 000 16 742 000 000
+Tchad TD1200001212 01/09/2021 04/03/2022 26 semaines 8 566 1 000 000 8 566 000 000
+Tchad TD1300000569 08/09/2021 09/09/2022 52 semaines 42 570 1 000 000 42 570 000 000
+Tchad TD1200001220 15/09/2021 18/03/2022 26 semaines 23 161 1 000 000 23 161 000 000
+BTA
+Tchad TD1300000411 26/03/2021 25/03/2022 52 semaines 21 250 1 000 000 21 250 000 000
+Tchad TD1300000437 14/05/2021 13/05/2022 52 semaines 30 278 1 000 000 30 278 000 000
+Tchad TD1300000445 21/05/2021 20/05/2022 52 semaines 25 452 1 000 000 25 452 000 000
+Tchad TD1300000452 04/06/2021 03/06/2022 52 semaines 35 022 1 000 000 35 022 000 000
+Tchad TD1300000460 11/06/2021 10/06/2022 52 semaines 20 000 1 000 000 20 000 000 000
+Tchad TD1300000478 18/06/2021 17/06/2022 52 semaines 42 742 1 000 000 42 742 000 000
+Tchad TD1300000486 25/06/2021 24/06/2022 52 semaines 20 260 1 000 000 20 260 000 000
+Tchad TD1200001238 01/10/2021 01/04/2022 26 semaines 2 510 1 000 000 2 510 000 000
+Tchad TD1200001246 15/10/2021 15/04/2022 26 semaines 12 809 1 000 000 12 809 000 000
+Tchad TD1200001253 29/10/2021 29/04/2022 26 semaines 9 600 1 000 000 9 600 000 000
+Sous - total BTA du Tchad 385 138 000 000
+Tchad TD2A00000446 30/06/2021 02/07/2023 2 ANS 1 250 000 10 000 12 500 000 000
+Tchad TD2A00000453 11/08/2021 13/08/2023 2 ANS 2 090 000 10 000 20 900 000 000
+Tchad TD2B00000080 02/04/2021 02/04/2026 5 ANS 5 000 000 10 000 50 000 000 000
+Tchad TD2A00000420 21/08/2020 21/08/2022 2 ANS 1 219 000 10 000 12 190 000 000
+Tchad TD2B00000072 21/08/2020 21/08/2025 5 ANS 959 075 10 000 9 590 750 000
+Tchad TD2J00000033 21/08/2020 21/08/2023 3 ANS 1 164 075 10 000 11 640 750 000
+Tchad TD2K00000022 OTA 21/08/2020 21/08/2024 4 ANS 959 075 10 000 9 590 750 000
+Tchad TD2J00000058 15/10/2021 15/10/2024 3 ANS 2 300 000 10 000 23 000 000 000
+Tchad TD2J00000066 29/10/2021 29/10/2024 3 ANS 704 116 10 000 7 041 160 000
+Tchad TD2B00000098 05/11/2021 05/11/2026 5 ANS 58 950 10 000 589 500 000
+Tchad TD2A00000479 12/11/2021 12/11/2023 2 ANS 1 182 000 10 000 11 820 000 000
+Tchad TD2J00000074 17/12/2021 17/12/2024 3 ANS 500 000 10 000 5 000 000 000
+Tchad TD2J00000082 24/12/2021 24/12/2024 3 ANS 1 075 000 10 000 10 750 000 000
+Sous - total OTA du Tchad 184 612 910 000
+Total de l'encours des valeurs du Trésor du Tchad 569 750 910 000
+Source : CRCT/BEAC
+27
+N°16 / decembre 2021
+
+--- Page 28 ---
+L’analyse de l’évolution de l’encours des valeurs du Trésor de la CEMAC par rapport au PIB montre que les
+Etats font de plus en plus recours au marché pour financer leurs besoins. Au 31 décembre 2021, l’encours des
+titres émis représente 8,3 % du PIB de la CEMAC contre 7,6 % à fin juin 2021 et 6,3 % en glissement annuel.
+Graphique 7 : Evolution de l’encours des valeurs du Trésor par rapport au PIB de la CEMAC (en %)
+Source : CRCT/BEAC
+28
+N°16 / decembre 2021
+
+--- Page 29 ---
+Tableau 12 : Structure des détenteurs des valeurs du Trésor (BTA et OTA) au 31 décembre 2021
+Types d'investisseurs Encours Titres ( FCFA) Part relative (en %)
+SVT et autres banques 3 750 430 480 000 80,65
+Afriland First Bank 357 811 510 000 7,69
+UBA - CAMEROUN 312 219 420 000 6,71
+SG Cameroun 274 128 010 000 5,90
+Ecobank Cameroun SA 238 685 310 000 5,13
+CCEIBANK Guinee Equatoriale 183 813 100 000 3,95
+UBA CONGO 172 061 330 000 3,70
+BICEC 168 090 270 000 3,61
+SCB CAMEROUN 147 206 680 000 3,17
+UGB 103 782 750 000 2,23
+BCC 97 000 000 000 2,09
+BAC 95 527 240 000 2,05
+Ecobank Tchad 92 194 730 000 1,98
+UBA TCHAD 90 104 000 000 1,94
+UBA GABON 86 481 000 000 1,86
+CREDIT du Congo 78 500 450 000 1,69
+BGFIBANK CAMEROUN 75 958 200 000 1,63
+CCA BANK 69 726 890 000 1,50
+Union Bank of Cameroon Plc 69 681 000 000 1,50
+BGFI Guinee Equatoriale 67 521 000 000 1,45
+ECOBANK GABON 67 050 000 000 1,44
+BICIG 65 374 800 000 1,41
+Standard Chartered Bank Cameroon 64 867 000 000 1,39
+BSCA 62 884 740 000 1,35
+ECOBANK CONGO 60 193 000 000 1,29
+BGFIBANK GABON 56 835 650 000 1,22
+BGFIBANK Congo 50 610 860 000 1,09
+BANGE G .E 48 500 000 000 1,04
+Orabank Tchad SA 48 224 000 000 1,04
+Société Générale Congo 47 079 590 000 1,01
+Ecobank CF 45 549 960 000 0,98
+Commercial Bank Tchad 42 876 390 000 0,92
+Ecobank Guinee EQ 38 221 620 000 0,82
+Societe Generale TchadTchad 36 362 000 000 0,78
+Commercial Bank of cameroon 34 789 930 000 0,75
+Citibank N.A. Cameroun 33 750 000 000 0,73
+ORABANK GABON 29 728 370 000 0,64
+BSIC 27 519 150 000 0,59
+NFC Bank Cameroun 22 421 670 000 0,48
+BPMC 20 638 340 000 0,44
+La Congolaise de Banque 12 659 170 000 0,27
+CITIBANK GABON 11 500 000 000 0,25
+SG Guinee Equatoriale 11 174 680 000 0,24
+BCI 10 255 000 000 0,22
+BSIC Centrafrique 8 185 160 000 0,18
+Commercial Bank Centrafrique 7 686 510 000 0,17
+CCA BANK 4 000 000 000 0,09
+Banque de l'Habitat du Tchad 1 000 000 000 0,02
+BEAC 430 279 650 000 9,25
+Investisseurs institutionnels 417 518 630 000 8,98
+Personnes Physiques 51 824 370 000 1,11
+Total général 4 650 053 130 000 100
+Source : CRCT/BEAC
+29
+N°16 / decembre 2021
+
+--- Page 30 ---
+• La répartition de l’encours des titres par nature de détenteurs finaux montre que 80.65 % des valeurs
+du Trésor en circulation sont détenues par les SVT et les autres banques n’ayant pas le statut de SVT. La
+BEAC, à travers son programme d’achat des titres publics, détient 9,25 % de l’encours. Les placements des
+investisseurs institutionnels (sociétés d’assurance, fonds de pension, etc.) et des personnes physiques restent
+minoritaires avec respectivement 8.98 % et 1.11% de l’encours des titres (Cf. tableau 13).
+• Nonobstant la prédominance des SVT et autres banques, la répartition des titres entre ces acteurs est très
+peu concentrée. En effet, l’indice de concentration Herfindhal-Hirshmann (HHI) , calculé sur la base des parts
+de titres détenus par les banques et SVT, ressort à 275,67 %, largement inférieur au seuil de 1 000.
+• Les groupes bancaires United Bank for Africa (UBA), Ecobank et Afriland First Bank sont les plus engagés
+sur le marché des valeurs du Trésor de la CEMAC, avec des parts globales représentant respectivement
+14,21 % ,11,65 % et 7,69 %.
+Graphique 8 : Parts relatives des valeurs du Trésor détenues par les groupes bancaires dans la CEMAC (en %)
+Source : CRCT/BEAC
+• Avec un peu plus de la moitié des valeurs du Trésor en circulation dans la CEMAC (50,5%), les investisseurs
+implantés au Cameroun sont les plus actifs sur ce marché. Le reste des titres est réparti entre les investisseurs
+basés au Congo (11,8 %), au Gabon (9,9 %), au Tchad (9,4 %), en Guinée Equatoriale (7,5) et en République
+Centrafricaine (1,8 %). Les titres émis par le Gabon et le Congo demeurent ceux qui s’exportent le mieux
+avec 74,72 % et 64,60 % des encours respectifs de ces titres détenus par des investisseurs implantés hors
+de ces pays respectifs. La plupart des titres en circulation émis par les Trésors du Cameroun (84,88 %), de la
+République centrafricaine (59,40 %), de la Guinée Equatoriale (50,76 %) et du Tchad (43,77 %) sont détenus
+par les investisseurs locaux.
+30
+N°16 / decembre 2021
+
+--- Page 31 ---
+Tableau 13 : Encours des titres par pays de localisation du détenteur final au 31 décembre 2021 (En
+milliards de FCFA)
+Pays de l'investisseur
+Pays émetteurs Total
+Guinée République
+Cameroun Congo Gabon Tchad BEAC
+Equatoriale Centrafricaine
+Cameroun 998,2 99,0 30,5 7,1 6 22,0 13,2 1176,0
+Congo 391,8 354,3 77,2 22 1 29,5 125,0 1000,8
+Gabon 595,2 71,6 309,5 4,00 37,1 106,9 100,0 1224,2
+Guinée Equatoriale 182,5 12,5 36,0 316,1 5,0 23,5 47,1 622,7
+République Centrafricaine 19 0 0 0 34 4,0 0 56,6
+Tchad 160,2 9,5 5,7 0 0 249 145,0 569,8
+Total général 2346,6 546,9 459,0 349,2 82,7 435,3 430,3 4650,1
+Source : CRCT/BEAC
+B.3. Evolution du coût des ressources sur le marché des valeurs du Trésor
+• Avec la hausse de la demande des ressources liées à la pandémie de la Covid -19, le taux moyen pondéré
+des émissions de BTA se situe en hausse par rapport au trimestre précédent, passant de 5,42 % à 6,10 %.
+Cette hausse du coût des BTA concerne l’ensemble des émetteurs. Par ailleurs, le rendement moyen exigé
+sur le marché de la CEMAC pour les émissions d’OTA a plutôt baissé au cours de la période de référence,
+s’établissant à 8,49 %, contre 9,39 % au troisième trimestre 2021 (Cf. tableau 15).
+Tableau 14 : Evolution du coût moyen des ressources au cours des cinq derniers trimestres (en %)
+BTA OTA
+Émetteur
+T4-2020 T1-2021 T2-2021 T3-2021 T4-2021 T4-2020 T1-2021 T2-2021 T3-2021 T3-2021
+Cameroun 2,14 2,22 2,15 2,23 2,72 4,55 6,17 5,94 0 5,13
+République Centra-
+5,25 5,59 5,88 5,92 - 2,95 9,55 14,32 -
+fricaine
+Congo 5,71 6,23 6,19 6,42 6,47 10,01 9,22 8,06 9,45 10,51
+Gabon 4,18 5,10 5,22 5,15 6,24 7,98 9,34 8,80 8,67 8,76
+Guinée Équatoriale 8,24 8,50 7,45 7,70 8,49 - - 0,00 10,47 11,10
+Tchad 6,36 6,41 6,45 6,58 6,78 - - 6,92 7,48 7,60
+Moyenne CEMAC 5,44 5,51 5,50 5,42 6,10 7,15 8,85 8,12 9,39 8,49
+Source : CRCT/BEAC
+• Les émissions du Cameroun demeurent celles qui ont des taux de sortie les plus faibles. La présence
+régulière de ce Trésor sur le marché et sa stratégie d’animation de son réseau de SVT constituent des facteurs
+déterminants quant à sa capacité à mobiliser des ressources à moindre coût sur ce marché, y compris à
+allonger les maturités des instruments.
+• Les graphiques 9, 10 et 11, ci-dessous, illustrent les dynamiques des courbes de rendement des titres du
+Cameroun, du Congo et du Gabon entre octobre et décembre 2021.
+31
+N°16 / decembre 2021
+
+--- Page 32 ---
+Graphique 9 : Courbes de rendement des titres du Cameroun d’octobre à décembre 2021
+Source : CRCT/BEAC
+Graphique 10 : Courbes de rendement des titres du Congo d’octobre à décembre 2021
+Source : CRCT/BEAC
+Graphique 11 : Courbes de rendement des titres du Gabon d’octobre à décembre 2021
+Source : CRCT/BEAC
+32
+N°16 / decembre 2021
+
+--- Page 33 ---
+B.4. Marché secondaire des valeurs du Trésor
+B.4.1. Achat/vente de titres
+Cent douze (112) opérations d’achats/ventes de titres ont été enregistrées au cours du quatrième trimestre
+2021, contre cent (100) opérations au trimestre précédent. Les titres échangés d’une valeur faciale globale
+de 319 408 410 000 FCFA, transigés à 318 578 597 499 FCFA, sont principalement des OTA et des BTA du
+Gabon.
+Ces opérations, essentiellement intergroupes ont concerné principalement les établissements de crédit du
+Cameroun, de la République Centrafricaine et du Gabon.
+Graphique 12 : Dynamique des opérations d'achats-ventes de titres au cours des sept derniers
+trimestres
+Source : CRCT/BEAC
+33
+N°16 / decembre 2021
+
+--- Page 34 ---
+Tableau 15 : Liste des achats/ventes des titres enregistrés au quatrième
+trimestre 2021 (montants en FCFA)
+Etablissement/ Pays de l'éta- Etablissement/ Pays de l'éta-
+Titres support de Montant de titre
+Date Investisseur blissement Investisseur blissement Montant espèce
+la transaction (Valeur faciale)
+Vendeur Vendeur Acheteur Acheteur
+01/10/2021 Ecobank Gabon Gabon Ecobank Tchad Tchad GA2J00000218 4 000 000 000 3 600 000 000
+République
+01/10/2021 BPMC BICEC Cameroun GA2A00000159 5 000 000 000 4 650 000 000
+Centrafricaine
+Orabank Tchad République
+01/10/2021 Tchad BPMC CF1300000012 2 000 000 000 1 916 000 000
+SA Centrafricaine
+Orabank Tchad République
+01/10/2021 Tchad BPMC GA2J00000119 1 200 000 000 1 223 868 493
+SA Centrafricaine
+Union Bank of
+01/10/2021 UBA Congo Congo Cameroun CG2A00000247 2 000 000 000 1 900 000 000
+Cameroon Plc
+01/10/2021 UGB Gabon SCB Cameroun Cameroun GA2A00000159 1 998 330 000 1 798 497 000
+01/10/2021 UBA Gabon Gabon UBA Congo Congo GA2A00000159 4 000 000 000 3 840 000 000
+ECOBANK Ga- Ecobank Guinee Guinée Equa-
+05/10/2021 Gabon GQ1300000890 1 000 000 000 995 000 000
+bon EQ toriale
+ECOBANK Ga- Ecobank Guinee Guinée Equa-
+05/10/2021 Gabon GQ1300000916 1 500 000 000 1 483 425 000
+bon EQ toriale
+08/10/2021 UBA Cameroun Cameroun UBA Gabon Gabon GQ1300001047 1 000 000 000 919 111 111
+08/10/2021 UBA Cameroun Cameroun UBA Gabon Gabon GA1200001350 1 000 000 000 972 194 444
+08/10/2021 UBA Cameroun Cameroun UBA Gabon Gabon CG1200000533 999 000 000 963 646 500
+Afriland First
+13/10/2021 Cameroun BICIG Gabon GA2C00000017 10 000 000 000 10 614 383 562
+Bank
+Afriland First
+13/10/2021 BICIG Gabon Cameroun GA2C00000017 10 000 000 000 10 614 383 562
+Bank
+Orabank Tchad République
+14/10/2021 Tchad BPMC CF2J00000026 2 000 000 000 2 052 356 164
+SA Centrafricaine
+15/10/2021 Ecobank Tchad Tchad BSIC Tchad TD2J00000058 2 000 000 000 1 910 000 000
+19/10/2021 UBA Cameroun Cameroun UBA Gabon Gabon TD2J00000058 1 000 000 000 955 000 000
+20/10/2021 UBA Cameroun Cameroun UBA Congo Congo TD2J00000058 2 000 000 000 1 910 000 000
+22/10/2021 BICEC Cameroun BCI Congo CM1300000567 500 000 000 484 327 778
+22/10/2021 BICEC Cameroun BCI Congo CM1300000567 500 000 000 483 822 222
+22/10/2021 BICEC Cameroun BCI Congo CM1300000567 500 000 000 483 316 667
+22/10/2021 UBA Congo Congo BSIC Tchad CF2J00000034 4 000 000 000 3 730 000 000
+22/10/2021 UBA Gabon Gabon UBA Congo Congo GA2J00000226 2 000 000 000 1 880 000 000
+Afriland First
+27/10/2021 Cameroun BICIG Gabon GA2B00000059 10 000 000 000 10 594 794 521
+Bank
+République Orabank Tchad
+28/10/2021 BPMC Tchad CF1300000012 2 000 000 000 1 925 000 000
+Centrafricaine SA
+République Orabank Tchad
+28/10/2021 BPMC Tchad CF2J00000026 2 000 000 000 2 061 972 603
+Centrafricaine SA
+République Orabank Tchad
+28/10/2021 BPMC Tchad GA2J00000119 1 200 000 000 1 228 750 685
+Centrafricaine SA
+CREDIT du
+28/10/2021 SCB Cameroun Cameroun Congo CM1100000890 4 000 000 000 3 982 666 667
+Congo
+Afriland First
+28/10/2021 BICIG Gabon Cameroun GA2B00000026 3 000 000 000 3 049 479 452
+Bank
+29/10/2021 UBA Cameroun Cameroun UBA Gabon Gabon CG1200000558 1 000 000 000 969 666 667
+29/10/2021 UBA Cameroun Cameroun UBA Gabon Gabon GQ1300001062 1 000 000 000 914 055 556
+29/10/2021 UBA Cameroun Cameroun UBA Gabon Gabon GA1200001376 1 500 000 000 1 454 500 000
+Afriland First
+29/10/2021 BICIG Gabon Cameroun GA2B00000059 7 000 000 000 7 421 342 466
+Bank
+29/10/2021 Ecobank Tchad Tchad BSIC Tchad TD2J00000066 419 150 000 419 150 000
+29/10/2021 UBA Congo Congo UBA Gabon Gabon CG2A00000254 750 000 000 720 000 000
+02/11/2021 UBA Congo Congo UBA Tchad Tchad CG2A00000254 750 000 000 720 000 000
+Orabank Tchad République
+02/11/2021 Tchad BPMC GA2J00000119 1 200 000 000 1 229 654 795
+SA Centrafricaine
+Orabank Tchad République
+04/11/2021 Tchad BPMC CF1300000012 2 000 000 000 1 926 666 667
+SA Centrafricaine
+Orabank Tchad République
+04/11/2021 Tchad BPMC CF2J00000026 2 000 000 000 2 063 753 425
+SA Centrafricaine
+08/11/2021 UBA Cameroun Cameroun UBA Gabon Gabon GA1300000492 1 500 000 000 1 401 416 667
+République République
+08/11/2021 BPMC Ecobank CF CF1300000012 2 000 000 000 1 916 777 778
+Centrafricaine Centrafricaine
+République République
+12/11/2021 Ecobank CF BPMC CF2J00000026 3 000 000 000 3 100 972 603
+Centrafricaine Centrafricaine
+34
+N°16 / decembre 2021
+
+--- Page 35 ---
+Etablissement/ Pays de l'éta- Etablissement/ Pays de l'éta-
+Titres support de Montant de titre
+Date Investisseur blissement Investisseur blissement Montant espèce
+la transaction (Valeur faciale)
+Vendeur Vendeur Acheteur Acheteur
+République République
+15/11/2021 BPMC Ecobank CF CF2J00000026 3 000 000 000 3 102 575 342
+Centrafricaine Centrafricaine
+19/11/2021 UGB Gabon SCB Cameroun Cameroun GA2J00000226 7 055 490 000 6 378 356 261
+19/11/2021 UBA Gabon Gabon UBA Congo Congo GA2J00000226 1 125 000 000 1 062 030 822
+ECOBANK Ecobank Came-
+24/11/2021 Congo Cameroun CM2J00000063 1 500 000 000 1 488 953 425
+Congo roun SA
+ECOBANK Ecobank Came-
+24/11/2021 Congo Cameroun GA2A00000118 1 840 000 000 1 842 331 507
+Congo roun SA
+Standard Charte-
+25/11/2021 BICEC Cameroun red Bank Came- Cameroun CM2A00000062 4 500 000 000 4 502 095 890
+roon
+Afriland First
+25/11/2021 SCB Cameroun Cameroun Cameroun CM1100000890 6 000 000 000 5 979 166 667
+Bank
+INVESTISSEUR
+26/11/2021 Siège BICEC Cameroun CG2K00000054 12 400 000 11 320 968
+BICEC NON SVT
+26/11/2021 UBA Cameroun Cameroun UBA Gabon Gabon GQ1300001088 1 000 000 000 924 166 667
+Afriland First
+29/11/2021 Cameroun BICIG Gabon GA2B00000026 3 000 000 000 3 066 739 726
+Bank
+Afriland First
+29/11/2021 Cameroun BICIG Gabon GA2B00000059 7 000 000 000 7 458 739 726
+Bank
+Afriland First
+29/11/2021 Cameroun SCB Cameroun Cameroun CM2L00000036 125 000 000 125 000 000
+Bank
+Afriland First
+29/11/2021 BICIG Gabon Cameroun GA2B00000026 3 000 000 000 3 067 890 411
+Bank
+Afriland First
+29/11/2021 BICIG Gabon Cameroun GA2B00000059 7 000 000 000 7 004 986 301
+Bank
+République Orabank Tchad
+29/11/2021 BPMC Tchad CF2J00000026 900 000 000 933 016 438
+Centrafricaine SA
+République Orabank Tchad
+29/11/2021 BPMC Tchad GA2J00000119 1 200 000 000 1 234 536 986
+Centrafricaine SA
+Afriland First
+30/11/2021 Cameroun BICEC Cameroun GQ1300001088 10 000 000 9 191 544
+Bank
+ORABANK Orabank Tchad
+30/11/2021 Gabon Tchad GA2J00000085 10 000 000 000 10 383 333 328
+Gabon SA
+CREDIT du
+01/12/2021 SCB Cameroun Cameroun Congo CM2J00000055 72 500 000 73 282 106
+Congo
+CREDIT du
+01/12/2021 SCB Cameroun Cameroun Congo CM2J00000055 72 500 000 73 282 106
+Congo
+Orabank Tchad République
+02/12/2021 Tchad BPMC GA2J00000119 1 200 000 000 1 235 079 452
+SA Centrafricaine
+Orabank Tchad République
+02/12/2021 Tchad BPMC CF2J00000026 900 000 000 933 497 260
+SA Centrafricaine
+République
+03/12/2021 BPMC DOF Cameroun GA2B00000059 2 500 000 000 2 501 335 616
+Centrafricaine
+République
+03/12/2021 BPMC BICEC Cameroun GA2J00000119 500 000 000 514 465 753
+Centrafricaine
+République
+03/12/2021 BICEC Cameroun BPMC GA2A00000159 5 000 000 000 5 039 041 096
+Centrafricaine
+République
+03/12/2021 BPMC BICEC Cameroun GA2B00000034 2 000 000 000 2 038 739 726
+Centrafricaine
+République
+07/12/2021 BPMC BICEC Cameroun GA2A00000159 5 000 000 000 5 043 595 890
+Centrafricaine
+République
+07/12/2021 BICEC Cameroun BPMC GA2B00000059 2 500 000 000 2 504 452 055
+Centrafricaine
+République
+07/12/2021 BICEC Cameroun BPMC GA2B00000034 2 000 000 000 2 041 424 658
+Centrafricaine
+République
+07/12/2021 BICEC Cameroun BPMC GA2J00000119 500 000 000 514 993 151
+Centrafricaine
+10/12/2021 UBA Gabon Gabon UBA Congo Congo GA2J00000234 1 000 000 000 920 000 000
+10/12/2021 UBA Gabon Gabon UBA Congo Congo GA2B00000083 2 999 760 000 2 703 913 807
+Union Bank of
+10/12/2021 UBA Congo Congo Cameroun GA2B00000083 2 999 760 000 2 757 909 487
+Cameroon Plc
+10/12/2021 UGB Gabon SCB Cameroun Cameroun GA2J00000234 3 000 000 000 2 700 000 000
+République Orabank Tchad
+15/12/2021 BPMC Tchad GA2B00000083 2 999 760 000 3 063 453 534
+Centrafricaine SA
+17/12/2021 ENEO Siège SG Cameroun Cameroun CM1100000924 7 230 000 000 7 175 172 500
+35
+N°16 / decembre 2021
+
+--- Page 36 ---
+Etablissement/ Pays de l'éta- Etablissement/ Pays de l'éta-
+Titres support de Montant de titre
+Date Investisseur blissement Investisseur blissement Montant espèce
+la transaction (Valeur faciale)
+Vendeur Vendeur Acheteur Acheteur
+17/12/2021 ENEO Siège SG Cameroun Cameroun CM1200001103 5 000 000 000 4 919 111 111
+17/12/2021 ENEO Siège SG Cameroun Cameroun CM2A00000088 7 600 000 000 7 372 000 000
+Standard Charte-
+17/12/2021 ENEO Siège red Bank Came- Cameroun CM1200001103 3 800 000 000 3 742 366 667
+roon
+17/12/2021 ENEO Siège BSCA Congo CM1100000924 100 000 000 99 241 667
+17/12/2021 ENEO Siège BSCA Congo CM1200001103 100 000 000 98 356 944
+17/12/2021 ENEO Siège BSCA Congo CM2A00000088 1 000 000 000 975 000 000
+17/12/2021 ENEO Siège SCB Cameroun Cameroun CM2A00000088 1 000 000 000 970 000 000
+Commercial
+17/12/2021 ENEO Siège Bank of came- Cameroun CM1200001103 1 600 000 000 1 575 733 333
+roon
+Commercial
+17/12/2021 ENEO Siège Bank of came- Cameroun CM2A00000088 3 400 000 000 3 298 000 000
+roon
+17/12/2021 ENEO Siège BICEC Cameroun CM1100000924 2 670 000 000 2 648 065 208
+17/12/2021 ENEO Siège BICEC Cameroun CM1200001103 7 330 000 000 7 209 564 028
+Ecobank Came-
+17/12/2021 ENEO Siège Cameroun CM1200001103 3 170 000 000 3 101 889 028
+roun SA
+Ecobank Came-
+17/12/2021 ENEO Siège Cameroun CM2A00000088 6 000 000 000 5 805 000 000
+roun SA
+17/12/2021 ENEO Siège UBA Cameroun Cameroun CM1200001103 4 000 000 000 3 939 333 333
+20/12/2021 UBA Cameroun Cameroun UBA Gabon Gabon CG1200000582 1 000 000 000 968 402 778
+Orabank Tchad République
+20/12/2021 Tchad BPMC GA2B00000083 2 999 760 000 3 064 480 849
+SA Centrafricaine
+Ecobank Came-
+21/12/2021 Cameroun DOF Cameroun CM2B00000087 1 000 000 000 1 010 205 479
+roun SA
+21/12/2021 UBA Cameroun Cameroun UBA Gabon Gabon CG2A00000262 1 000 000 000 921 006 849
+Ecobank Came-
+21/12/2021 ENEO Siège Cameroun CM1200001103 3 500 000 000 3 426 451 389
+roun SA
+République
+22/12/2021 BPMC DOF Cameroun CF2J00000026 900 000 000 934 002 740
+Centrafricaine
+République
+22/12/2021 BPMC DOF Cameroun GA2J00000119 1 200 000 000 1 235 095 890
+Centrafricaine
+Afriland First
+23/12/2021 SCB Cameroun Cameroun Cameroun GA2B00000034 5 000 000 000 5 118 904 110
+Bank
+SG Guinée Guinée Equa-
+23/12/2021 SG Cameoun Cameroun CM1100000924 2 230 000 000 2 213 089 167
+Equatoriale toriale
+Afriland First
+23/12/2021 SCB Cameroun Cameroun Cameroun GA2K00000017 10 300 000 000 10 809 920 548
+Bank
+24/12/2021 Ecobank Tchad Tchad UBA Tchad Tchad TD2J00000082 3 000 000 000 2 850 000 000
+Orabank Tchad
+24/12/2021 Tchad BCC Tchad TD2J00000082 1 750 000 000 1 662 500 000
+SA
+24/12/2021 UBA Gabon Gabon UBA Congo Congo GA2J00000234 1 500 000 000 1 383 020 548
+Afriland First
+29/12/2021 Cameroun BICEC Cameroun CM2L00000010 5 000 000 000 5 066 575 342
+Bank
+30/12/2021 UBA Cameroun Cameroun UBA Tchad Tchad GA2J00000234 2 000 000 000 1 844 027 397
+Afriland First
+30/12/2021 BICEC Cameroun Cameroun GA2B00000083 5 000 000 000 5 119 006 849
+Bank
+Afriland First
+31/12/2021 Cameroun BICEC Cameroun GA2B00000083 5 000 000 000 5 119 863 014
+Bank
+31/12/2021 SCB Cameroun Cameroun UGB Gabon GA1200001350 4 000 000 000 3 948 277 778
+31/12/2021 UGB Gabon SCB Cameroun Cameroun GA2A00000084 4 000 000 000 4 173 863 014
+Afriland First
+31/12/2021 BICEC Cameroun Cameroun CM2L00000010 5 000 000 000 5 068 219 178
+Bank
+Total 319 408 410 000 318 578 597 499
+Source : CRCT/BEAC
+36
+N°16 / decembre 2021
+
+--- Page 37 ---
+B.4.2. Transfert Franco DVF « Delivery versus free » (Virement de titres financiers entre deux
+participants sans paiement espèces via la plateforme DEPO/X)
+Au quatrième trimestre 2021, deux cent sept (207) transactions sans contrepartie espèces, pour une
+valeur nominale globale de 518 504 310 000 FCFA ont été réalisées. Ces opérations, qui ont permis aux SVT
+souscripteurs de transférer les titres de leurs comptes propres vers ceux des autres investisseurs (banques
+non-SVT et autres investisseurs institutionnels), sont en plus grand nombre, mais pour une valeur globale en
+baisse par rapport au trimestre précédent où cent soixante-six (166) transactions sans contrepartie espèces
+avaient été enregistrées entre les teneurs de comptes pour une valeur globale de 542 718 010 000 FCFA.
+Tableau 16 : Liste des opérations de transfert de titres sans contrepartie espèces réalisées au quat
+quatrième 2021 (montants en FCFA)
+Pays de l'établis-
+Etablissement Pays de l'établis- Titres support de Montant de titre
+Date Etablissement Vendeur sement
+Acheteur sement Acheteur la transaction (Valeur faciale)
+Vendeur
+01/10/2021 Afriland First Bank Cameroun BEAC Siège CG130000014 798 000 000
+01/10/2021 Afriland First Bank Cameroun BEAC Siège CG2A0000024 4 072 850 000
+Union Bank of Cameroon
+01/10/2021 Cameroun UBA Cameroun Cameroun GA2A00000159 3 000 000 000
+Plc
+01/10/2021 personnes physiques Siège LCB CAPITAL Siège GA2B00000075 100 000 000
+01/10/2021 personnes physiques Siège LCB CAPITAL Siège GA2B00000083 100 000 000
+Union Bank of Cameroon
+01/10/2021 Cameroun BGFIBANK Cameroun Cameroun GA2J00000218 3 000 000 000
+Plc
+04/10/2021 SG Cameroun Cameroun Société Générale Tchad Tchad CM2B00000087 8 200 000 000
+05/10/2021 UBA Congo Congo UBA Cameroun Cameroun CG2A00000247 2 000 000 000
+05/10/2021 SAAR ASSURANCES Siège SAAR VIE ASSURANCES Siège TD1300000445 600 000 000
+06/10/2021 ASCA Cameroun SCB Cameroun Cameroun CM2B00000020 400 000 000
+07/10/2021 Afriland First Bank Cameroun BAC Cameroun CM1200001095 5 000 000 000
+11/10/2021 Ecobank Cameroun SA Cameroun UGB Gabon GQ1300001047 280 000 000
+FPC HARVEST TRESO-
+13/10/2021 Siège BAC Cameroun CG2A00000080 342 910 000
+RERIE
+ATTIJARI SECURITIES
+13/10/2021 Afriland First Bank Cameroun Siège GQ1300001047 450 000 000
+CENTRAL AFRICA
+ALIOS FINANCE CAME- Commercial Bank of ca-
+14/10/2021 Cameroun Cameroun CG2J00000180 3 000 000
+ROUN meroon
+15/10/2021 SCB CAMEROUN Cameroun SCB Cameroun Cameroun GA2A00000126 50 000 000
+Union Bank of Cameroon
+15/10/2021 Cameroun SCB Cameroun Cameroun GA2J00000200 300 000 000
+Plc
+Union Bank of Cameroon
+15/10/2021 Cameroun SCB Cameroun Cameroun TD2J00000058 5 000 000 000
+Plc
+19/10/2021 Orabank Tchad SA Tchad BGFIBANK Cameroun Cameroun TD2J00000058 9 000 000 000
+19/10/2021 BGFIBANK Cameroun Cameroun UBA Cameroun Cameroun TD2J00000058 9 000 000 000
+21/10/2021 BICIG Gabon BCC Tchad GA2J00000085 3 000 000 000
+22/10/2021 Afriland First Bank Cameroun UBA Congo Congo CF2J00000034 6 000 000 000
+22/10/2021 BCC Tchad NFC Bank Cameroun Cameroun CG2A00000197 4 000 000 000
+22/10/2021 BCC Tchad Ecobank Tchad (Ex BIAT) Tchad TD2A00000453 3 500 000 000
+Union Bank of Cameroon
+25/10/2021 UBA Congo Congo Cameroun CF2J00000034 2 000 000 000
+Plc
+Union Bank of Cameroon
+25/10/2021 Cameroun NFC Bank Cameroun Cameroun CF2J00000034 2 000 000 000
+Plc
+37
+N°16 / decembre 2021
+
+--- Page 38 ---
+Pays de l'établis-
+Etablissement Pays de l'établis- Titres support de Montant de titre
+Date Etablissement Vendeur sement
+Acheteur sement Acheteur la transaction (Valeur faciale)
+Vendeur
+Union Bank of Cameroon
+25/10/2021 Cameroun UBA Cameroun Cameroun GA2J00000226 3 000 000 000
+Plc
+27/10/2021 CCA BANK Siège SCB Cameroun Cameroun CG2J00000164 6 000 000 000
+Union Bank of Cameroon
+27/10/2021 Cameroun UBA Tchad Tchad GA2J00000226 3 000 000 000
+Plc
+Commercial Bank of ca-
+01/11/2021 Cameroun UBA Cameroun Cameroun CG2A00000254 750 000 000
+meroon
+01/11/2021 personnes physiques Siège SCB Cameroun Cameroun CM2L00000010 100 000 000
+02/11/2021 Ecobank Cameroun SA Cameroun Ecobank Congo Congo CM2J00000063 1 500 000 000
+03/11/2021 UBA Congo Congo NFC Bank Cameroun Cameroun CG2K00000021 6 810 000 000
+05/11/2021 personnes physiques Siège CCA BANK Siège CG1300000094 1 000 000 000
+05/11/2021 personnes physiques Siège CCA BANK Siège GA1300000443 1 000 000 000
+05/11/2021 BGFIBANK Congo Congo BAC Cameroun GA2J00000127 42 860 000
+05/11/2021 personnes physiques Siège CCA BANK Siège GQ1300000999 1 000 000 000
+FCP EVEREST FINANCE
+08/11/2021 Siège BAC Cameroun CF2A00000025 570 000 000
+RENDEMENT
+08/11/2021 personnes physiques Siège BICIG Gabon GA2B00000026 2 000 000
+08/11/2021 personnes physiques Siège BICIG Gabon GA2B00000026 30 000 000
+08/11/2021 personnes physiques Siège BICIG Gabon GA2B00000026 3 000 000
+HARVEST ASSET MANA-
+08/11/2021 GEMENT (FCP ATLAN- Siège BICIG Gabon GA2B00000034 10 868 970 000
+TIQUE PERFORMANCE)
+08/11/2021 personnes physiques Siège BICIG Gabon GA2J00000085 20 000 000
+HARVEST ASSET MANA-
+08/11/2021 GEMENT (FCP ATLAN- Siège BICIG Gabon GA2J00000127 7 953 220 000
+TIQUE PERFORMANCE)
+10/11/2021 UBA Congo Congo NFC Bank Cameroun Cameroun CG2A00000197 6 000 000 000
+10/11/2021 BAC Cameroun BICIG Gabon GA2J00000150 10 000 000 000
+National Financial Credit
+11/11/2021 Cameroun UBA Congo Congo CG2A00000197 6 000 000 000
+Bank Cameroun
+11/11/2021 BICIG Gabon BAC Cameroun GA2J00000127 625 000 000
+Union Bank of Cameroon
+11/11/2021 Cameroun UBA Tchad Tchad GA2J00000218 2 000 000 000
+Plc
+11/11/2021 Ecobank Tchad Tchad UBA Tchad Tchad TD1200001246 3 448 000 000
+11/11/2021 Ecobank Tchad Tchad UBA Tchad Tchad TD2J00000058 2 000 000 000
+HARVEST ASSET MANA-
+12/11/2021 GEMENT (FCP ATLAN- Siège Personnes physiques Siège GA2B00000026 50 000 000
+TIQUE PERFORMANCE)
+12/11/2021 personnes physiques Siège BICIG Gabon GA2J00000085 50 000 000
+Union Bank of Cameroon
+12/11/2021 Cameroun UBA Cameroun Cameroun TD2A00000479 3 000 000 000
+Plc
+Commercial Bank of Ca-
+12/11/2021 Cameroun UBA Cameroun Cameroun TD2A00000479 3 000 000 000
+meroon
+15/11/2021 UBA Cameroun Cameroun UBA Congo Congo TD2A00000479 3 000 000 000
+18/11/2021 personnes physiques Siège SCB Cameroun Cameroun CM2B00000046 30 000 000
+18/11/2021 Ecobank Tchad Tchad BCC Tchad TD2J00000066 1 000 000 000
+Union Bank of Cameroon
+19/11/2021 Cameroun UBA Cameroun Cameroun CG1200000566 30 000 000
+Plc
+Union Bank of Cameroon
+19/11/2021 Cameroun UBA Cameroun Cameroun GA2J00000226 2 250 000 000
+Plc
+Union Bank of Cameroon
+19/11/2021 Cameroun UBA Cameroun Cameroun GA2J00000226 100 000 000
+Plc
+38
+N°16 / decembre 2021
+
+--- Page 39 ---
+Pays de l'établis-
+Etablissement Pays de l'établis- Titres support de Montant de titre
+Date Etablissement Vendeur sement
+Acheteur sement Acheteur la transaction (Valeur faciale)
+Vendeur
+Union Bank of Cameroon
+19/11/2021 Cameroun UBA Cameroun Cameroun GA2J00000226 20 000 000
+Plc
+22/11/2021 UBA Gabon Gabon UBA Congo Congo GA2A00000126 2 000 000 000
+22/11/2021 UBA Gabon Gabon UBA Congo Congo GA2A00000134 1 500 000 000
+Union Bank of Cameroon
+22/11/2021 Cameroun UBA Tchad Tchad TD2A00000479 3 000 000 000
+Plc
+22/11/2021 Afriland First Bank Cameroun UGB Gabon TD2A00000479 150 000 000
+24/11/2021 FCP AB CASH Siège UBA Cameroun Cameroun GA2J00000226 30 000 000
+25/11/2021 personnes physiques Siège Personnes physiques Siège GA2B00000026 30 000 000
+Union Bank of Cameroon
+25/11/2021 Cameroun BAC Cameroun TD2A00000479 500 000 000
+Plc
+Union Bank of Cameroon
+29/11/2021 Cameroun BAC Cameroun CG2K00000054 10 000 000 000
+Plc
+Union Bank of Cameroon
+29/11/2021 Cameroun BAC Cameroun CG2K00000054 1 500 000 000
+Plc
+29/11/2021 SCB Cameroun Cameroun BGFIBANK Cameroun Cameroun CG2K00000054 700 000 000
+Union Bank of Cameroon
+29/11/2021 Cameroun BICEC Cameroun CG2K00000054 500 000 000
+Plc
+Union Bank of Cameroon
+29/11/2021 Cameroun BAC Cameroun CM2L00000036 10 000 000 000
+Plc
+29/11/2021 SCB Cameroun Cameroun BGFIBANK Cameroun Cameroun CM2L00000036 350 000 000
+29/11/2021 SCB Cameroun Cameroun CNPS Siège CM2L00000036 900 000 000
+30/11/2021 UBA Cameroun Cameroun UBA Tchad Tchad GA2J00000226 1 125 000 000
+Guinée
+30/11/2021 BGFI Guinee Equatoriale BAC Cameroun GQ1300001088 200 000 000
+Equatoriale
+01/12/2021 UBA Congo Congo UBA Cameroun Cameroun CG2A00000254 500 000 000
+01/12/2021 UBA Congo Congo UBA Cameroun Cameroun CG2K00000054 2 000 000 000
+WAFA ASSURANCE VIE
+01/12/2021 Cameroun SCB Cameroun Cameroun CM2J00000055 72 500 000
+CAMEROUN
+01/12/2021 PRO ASSUR SA Siège SCB Cameroun Cameroun CM2J00000055 72 500 000
+AFRILAND BOURSE ET
+02/12/2021 Siège SAAR VIE ASSURANCES Siège CG2B00000030 500 000 000
+INVESTISSEMENT
+02/12/2021 Afriland First Bank Cameroun CCA BANK Siège CM1100000908 1 000 000 000
+02/12/2021 personnes physiques Siège SCB Cameroun Cameroun CM2L00000028 5 000 000
+République
+03/12/2021 BPMC BICEC Cameroun GA2B00000034 2 000 000 000
+Centrafricaine
+République Cen-
+03/12/2021 BICEC Cameroun BPMC GA2B00000034 2 000 000 000
+trafricaine
+06/12/2021 SCB Cameroun Cameroun BGFIBANK Cameroun Cameroun GA2J00000135 2 860 670 000
+06/12/2021 BGFIBANK Cameroun Cameroun SCB Cameroun Cameroun GA2J00000135 2 860 670 000
+HARVEST ASSET MANA-
+06/12/2021 GEMENT (FCP ATLAN- Siège BICIG Gabon GA2A00000092 9 800 000 000
+TIQUE PERFORMANCE)
+HARVEST ASSET MANA-
+06/12/2021 GEMENT (FCP ATLAN- Siège BICIG Gabon GA2B00000026 4 179 500 000
+TIQUE PERFORMANCE)
+HARVEST ASSET MANA-
+06/12/2021 GEMENT (FCP ATLAN- Siège BICIG Gabon GA2J00000085 4 825 000 000
+TIQUE PERFORMANCE)
+09/12/2021 BAC Cameroun BICIG Gabon GQ2K00000047 10 000 000 000
+09/12/2021 BICIG Gabon BCC Tchad GQ2K00000047 10 000 000 000
+10/12/2021 SCB CAMEROUN Cameroun BGFIBANK Cameroun Cameroun CG2A00000262 3 000 000 000
+10/12/2021 BGFIBANK Cameroun Cameroun UBA Cameroun Cameroun CG2A00000262 3 000 000 000
+10/12/2021 SG Cameroun Cameroun Société Générale Congo Congo CM2A00000070 3 979 590 000
+10/12/2021 BAC Cameroun UBA Cameroun Cameroun GA2B00000042 5 000 000 000
+Union Bank of Cameroon République Cen-
+10/12/2021 Cameroun BPMC GA2B00000083 2 999 760 000
+Plc trafricaine
+10/12/2021 BAC Cameroun UBA Cameroun Cameroun GA2J00000150 1 000 000 000
+39
+N°16 / decembre 2021
+
+--- Page 40 ---
+Pays de l'établis-
+Etablissement Pays de l'établis- Titres support de Montant de titre
+Date Etablissement Vendeur sement
+Acheteur sement Acheteur la transaction (Valeur faciale)
+Vendeur
+10/12/2021 BAC Cameroun UBA Cameroun Cameroun GQ2J00000024 4 000 000 000
+10/12/2021 BAC Cameroun UBA Cameroun Cameroun GQ2K00000021 10 000 000 000
+Union Bank of Cameroon
+13/12/2021 Cameroun BICEC Cameroun GA2B00000083 1 000 000 000
+Plc
+Union Bank of Cameroon
+13/12/2021 Cameroun BICEC Cameroun GA2B00000083 5 000 000 000
+Plc
+Union Bank of Cameroon
+13/12/2021 Cameroun UBA Cameroun Cameroun GA2J00000234 1 000 000 000
+Plc
+Union Bank of Cameroon
+14/12/2021 Cameroun UBA Tchad Tchad CG2A00000262 1 500 000 000
+Plc
+Union Bank of Cameroon
+14/12/2021 Cameroun UBA Tchad Tchad GA2J00000234 1 000 000 000
+Plc
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG1100000245 1 500 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG1200000483 2 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG1200000517 3 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG1200000525 829 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG1200000533 999 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG1300000094 2 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG1300000110 1 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG1300000128 2 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG1300000136 2 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG2A00000072 5 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG2A00000254 750 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG2J00000024 3 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG2J00000073 2 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon CG2J00000123 5 000 000 000
+Union Bank of Cameroon
+15/12/2021 Cameroun BAC Cameroun CM2A00000070 3 061 220 000
+Plc
+15/12/2021 UBA Gabon Gabon BICIG Gabon GA1300000443 2 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon GA1300000492 1 500 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon GA2A00000159 2 000 000 000
+Union Bank of Cameroon
+15/12/2021 Cameroun BAC Cameroun GA2B00000083 1 000 000 000
+Plc
+15/12/2021 UBA Gabon Gabon BICIG Gabon GA2J00000168 1 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon GA2J00000226 2 125 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon GA2J00000234 1 500 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon GQ1300001047 1 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon GQ1300001062 1 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon GQ1300001088 1 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon GQ2J00000024 1 000 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon TD1300000528 1 500 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon TD2A00000453 1 500 000 000
+15/12/2021 UBA Gabon Gabon BICIG Gabon TD2J00000058 1 000 000 000
+17/12/2021 BGFIBANK Cameroun Cameroun UBA Cameroun Cameroun CF2A00000025 400 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG1100000245 1 500 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG1200000517 3 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG1200000525 829 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG1200000533 999 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG1300000094 2 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG1300000110 1 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG1300000128 2 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG1300000136 2 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG2A00000072 5 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG2A00000254 750 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG2J00000024 3 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG2J00000073 2 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon CG2J00000123 5 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon GA1300000443 2 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon GA1300000492 1 500 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon GA2A00000159 2 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon GA2J00000168 1 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon GA2J00000226 2 125 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon GA2J00000234 1 500 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon GQ1300001047 1 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon GQ1300001062 1 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon GQ1300001088 1 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon GQ2J00000024 1 000 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon TD1300000528 1 500 000 000
+40
+N°16 / decembre 2021
+
+--- Page 41 ---
+Pays de l'établis-
+Etablissement Pays de l'établis- Titres support de Montant de titre
+Date Etablissement Vendeur sement
+Acheteur sement Acheteur la transaction (Valeur faciale)
+Vendeur
+17/12/2021 BICIG Gabon UBA Gabon Gabon TD2A00000453 1 500 000 000
+17/12/2021 BICIG Gabon UBA Gabon Gabon TD2J00000058 1 000 000 000
+Union Bank of Cameroon
+20/12/2021 Cameroun UBA Cameroun Cameroun CG2A00000262 2 000 000 000
+Plc
+20/12/2021 ENEO Siège Orabank Tchad SA Tchad CM2A00000088 1 000 000 000
+20/12/2021 SG Cameroun Cameroun Société Générale Congo Congo CM2A00000088 2 600 000 000
+20/12/2021 personnes physiques Siège BICIG Gabon GA2J00000085 30 000 000
+20/12/2021 Ecobank Tchad Tchad BSIC Tchad TD2J00000074 5 000 000 000
+SUNU ASSURANCE VIE République
+21/12/2021 Siège Ecobank CF CF1300000012 300 000 000
+Cameroun Centrafricaine
+Commercial
+21/12/2021 Cameroun SCB Cameroun Cameroun CG2J00000180 4 000 000 000
+Bank of cameroon
+22/12/2021 SCB Cameroun Cameroun BGFIBANK Cameroun Cameroun CG2A00000262 1 000 000 000
+22/12/2021 BGFIBANK Cameroun Cameroun UBA Cameroun Cameroun CG2A00000262 1 000 000 000
+22/12/2021 personnes physiques Siège BICEC Cameroun CM2B00000038 30 000 000
+22/12/2021 personnes physiques Siège BICEC Cameroun CM2J00000022 10 000 000
+22/12/2021 BGFIBANK Cameroun Cameroun UBA Cameroun Cameroun GA2B00000026 10 000 000 000
+22/12/2021 CCA BANK Siège SCB Cameroun Cameroun GA2B00000034 5 000 000 000
+22/12/2021 CCA BANK Siège SCB Cameroun Cameroun GA2K00000017 10 300 000 000
+23/12/2021 personnes physiques Siège BICEC Cameroun CM2B00000038 15 000 000
+23/12/2021 personnes physiques Siège BICEC Cameroun CM2B00000038 45 000 000
+UPLINE SECURITIES
+23/12/2021 Siège BICEC Cameroun CM2B00000046 4 000 000 000
+CENTRAL AFRICA
+23/12/2021 BGFIBANK Cameroun Cameroun UBA Cameroun Cameroun CM2J00000030 1 000 000 000
+23/12/2021 personnes physiques Siège BICEC Cameroun CM2L00000028 40 000 000
+23/12/2021 SANLAM ASSURANCE Siège BICEC Cameroun CM2L00000028 100 000 000
+23/12/2021 FCP AB INVEST Siège ORABANK Gabon Gabon GQ2K00000021 5 000 000 000
+24/12/2021 CNPS SA Siège BICEC Cameroun CM2L00000036 1 800 000 000
+HARVEST ASSET MANA-
+24/12/2021 GEMENT (FCP ATLAN- Siège BICIG Gabon GA2A00000092 9 800 000 000
+TIQUE PERFORMANCE)
+HARVEST ASSET MANA-
+24/12/2021 GEMENT (FCP ATLAN- Siège BICIG Gabon GA2B00000026 4 179 500 000
+TIQUE PERFORMANCE)
+HARVEST ASSET MANA-
+24/12/2021 GEMENT (FCP ATLAN- Siège BICIG Gabon GA2J00000085 4 825 000 000
+TIQUE PERFORMANCE)
+Union Bank of Cameroon
+24/12/2021 Cameroun ORABANK Gabon Gabon GA2J00000234 5 000 000 000
+Plc
+Union Bank of Cameroon
+24/12/2021 Cameroun UBA Cameroun Cameroun GA2J00000234 4 500 000 000
+Plc
+24/12/2021 Orabank Tchad SA Tchad UBA Cameroun Cameroun TD2J00000082 6 000 000 000
+24/12/2021 BCC Tchad Afriland First Bank Cameroun TD2J00000082 1 750 000 000
+27/12/2021 personnes physiques Siège BICEC Cameroun CG2K00000054 12 400 000
+27/12/2021 personnes physiques Siège BICEC Cameroun CM2B00000061 130 000 000
+Union Bank of Cameroon
+27/12/2021 Cameroun BAC Cameroun GA2J00000234 1 000 000 000
+Plc
+27/12/2021 FCP AB INVEST Siège ORABANK Gabon Gabon GQ2K00000021 4 860 190 000
+ORIENT PRODUCTION
+28/12/2021 AND INVESTMENT COR- Siège SCB Cameroun Cameroun GA2J00000200 300 000 000
+PORATION
+HARVEST ASSET MANA-
+31/12/2021 GEMENT (FCP ATLAN- Siège BICIG Gabon CG2A00000171 15 000 000
+TIQUE PERFORMANCE)
+41
+N°16 / decembre 2021
+
+--- Page 42 ---
+Pays de l'établis-
+Etablissement Pays de l'établis- Titres support de Montant de titre
+Date Etablissement Vendeur sement
+Acheteur sement Acheteur la transaction (Valeur faciale)
+Vendeur
+31/12/2021 personnes physiques Siège SAAR VIE ASSURANCES Siège CM2B00000038 820 000 000
+31/12/2021 Ecobank Cameroun SA Cameroun SCB Cameroun Cameroun CM2B00000061 5 000 000 000
+Union Bank of Cameroon
+31/12/2021 Union Bank of Cameroon Plc Cameroun Cameroun CM2D00000028 2 000 000 000
+Plc
+31/12/2021 Union Bank of Cameroon Plc Cameroun CNPS Siège CM2D00000028 2 000 000 000
+31/12/2021 personnes physiques Siège SCB Cameroun Cameroun CM2D00000036 5 000 000
+Union Bank of Cameroon
+31/12/2021 Cameroun CNPS Siège CM2L00000036 80 000 000
+Plc
+31/12/2021 ORABANK Gabon Gabon Orabank Tchad SA Tchad GA2B00000026 10 000 000 000
+31/12/2021 CCA BANK Siège Ecobank Cameroun SA Cameroun GA2J00000168 5 000 000 000
+31/12/2021 ORABANK Gabon Gabon Orabank Tchad SA Tchad GA2K00000017 10 000 000 000
+Total 518 504 310 000
+Source : CRCT/BEAC
+42
+N°16 / decembre 2021
+
+--- Page 43 ---
+B.4.3. Transfert Franco DVF Forcé (Virement de titres financiers entre un participant et ses
+clients sans paiement espèces via la plateforme DEPO/X)
+Au cours de la période sous revue, trois cent quatre-vingt-neuf (389) opérations de transfert de titres entre
+des teneurs de comptes et leurs clients ont été effectuées, pour un montant total de 598 339 170 000 FCFA.
+Tableau 17 : Liste des opérations de transferts franco DVF forcé (montants en FCFA)
+Pays de l'établisse-
+Etablissement Etablissement Pays de l'établis- Titres support de la Montant de titre
+Date ment
+Vendeur Acheteur sement Acheteur transaction (Valeur faciale)
+Vendeur
+02/07/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2B00000067 35 000 000
+07/07/2021 SCB Cameroun Cameroun ASCA Cameroun CG2B00000022 6 000 000 000
+07/07/2021 SCB Cameroun Cameroun ASCA Cameroun CM2L00000028 200 000 000
+07/07/2021 SCB Cameroun Cameroun ASCA Cameroun CM2L00000028 1 000 000 000
+07/07/2021 SCB Cameroun Cameroun ASCA Cameroun CM2L00000028 1 400 000 000
+07/07/2021 SCB Cameroun Cameroun ASCA Cameroun CM2L00000028 1 500 000 000
+07/07/2021 SCB Cameroun Cameroun ASCA Cameroun CM2L00000028 1 500 000 000
+07/07/2021 SCB Cameroun Cameroun ASCA Cameroun CM2L00000028 2 500 000 000
+07/07/2021 SCB Cameroun Cameroun CICA RE Siège CM2L00000028 200 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2B00000042 5 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2L00000028 5 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2L00000028 50 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2J00000143 50 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2L00000028 5 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2J00000143 30 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CG1300000094 25 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2B00000067 6 000 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2J00000143 5 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2L00000028 30 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2L00000028 6 000 000
+07/07/2021 SCB Cameroun Cameroun PRO ASSUR SA Siège CM2L00000028 400 000 000
+07/07/2021 SCB Cameroun Cameroun PRO ASSUR SA Siège CM2L00000028 300 000 000
+07/07/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2B00000067 3 350 000
+SISTERS SERVANTS OF
+07/07/2021 SCB Cameroun Cameroun MARY MINISTERS TO Siège CM2L00000028 100 000 000
+THE SICK
+WAFA ASSURANCE VIE
+07/07/2021 SCB Cameroun Cameroun Cameroun CM2B00000046 300 000 000
+CAMEROUN
+WAFA ASSURANCE VIE
+07/07/2021 SCB Cameroun Cameroun Cameroun CM2L00000028 550 000 000
+CAMEROUN
+09/07/2021 SCB Cameroun Cameroun BEAC Siège GA2B00000075 8 940 000 000
+09/07/2021 SCB Cameroun Cameroun BEAC Siège GA2C00000025 1 221 000 000
+09/07/2021 Afriland First Bank Cameroun BEAC Siège GQ2J00000024 10 560 000 000
+09/07/2021 UGB Gabon Personnes physiques Siège GA2B00000026 108 500 000
+12/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2L00000028 10 000 000
+12/07/2021 Afriland First Bank Cameroun Personnes physiques Siège CM2J00000030 108 000 000
+12/07/2021 Afriland First Bank Cameroun FOGADAC Siège CM2J00000030 4 147 290 000
+12/07/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2B00000067 5 000 000
+12/07/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2B00000042 20 000 000
+12/07/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2B00000067 30 000 000
+43
+N°16 / decembre 2021
+
+--- Page 44 ---
+Pays de
+Etablissement Etablissement Pays de l'établis- Titres support de la Montant de titre
+Date l'établissement
+Vendeur Acheteur sement Acheteur transaction (Valeur faciale)
+Vendeur
+12/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2L00000028 15 000 000
+12/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2B00000046 8 000 000
+13/07/2021 CREDIT du Congo Congo Personnes physiques Siège CG1200000491 100 000 000
+ATTIJARI SECURITIES
+13/07/2021 UGB Gabon Siège GA2B00000075 840 000 000
+CENTRAL AFRICA
+ATTIJARI SECURITIES
+13/07/2021 UGB Gabon Siège GA2C00000025 1 121 000 000
+CENTRAL AFRICA
+13/07/2021 CREDIT du Congo Congo Personnes physiques Siège GA2B00000075 100 000 000
+BGFIBANK Ca-
+14/07/2021 Cameroun Personnes physiques Siège GA2C00000025 100 000 000
+meroun
+BGFIBANK Ca- SUNU ASSURANCES VIE
+14/07/2021 Cameroun Siège CM2C00000037 1 196 000 000
+meroun CAMEROUN
+ATTIJARI SECURITIES
+15/07/2021 Afriland First Bank Cameroun Siège GQ1300001021 2 000 000 000
+CENTRAL AFRICA
+15/07/2021 Afriland First Bank Cameroun Personnes physiques Siège GQ1300001021 110 000 000
+15/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2L00000028 20 000 000
+15/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2L00000028 20 000 000
+15/07/2021 SCB Cameroun Cameroun TRANSVAL Siège GA2J00000143 175 000 000
+Ecobank Tchad (Ex
+16/07/2021 Tchad BEAC Siège TD1300000494 12 000 000 000
+BIAT)
+ATTIJARI SECURITIES
+23/07/2021 UGB Gabon Siège GA2B00000075 312 600 000
+CENTRAL AFRICA
+23/07/2021 UGB Gabon BEAC Siège GA2B00000075 2 177 600 000
+23/07/2021 UGB Gabon BEAC Siège GA2J00000176 2 500 000 000
+FIRST TRUST SAVINGS
+27/07/2021 Afriland First Bank Cameroun Siège CG2A00000098 951 930 000
+AN LOAN SA
+27/07/2021 Afriland First Bank Cameroun SAAR VIE ASSURANCES Siège CG2A00000163 500 000 000
+27/07/2021 Afriland First Bank Cameroun SAAR VIE ASSURANCES Siège CG2J00000073 500 000 000
+Personnes phy-
+27/07/2021 Siège SAAR VIE ASSURANCES Siège CM2C00000037 1 030 000 000
+siques
+30/07/2021 Afriland First Bank Cameroun BEAC Siège GQ2K00000021 10 065 000 000
+Ecobank Tchad (Ex
+30/07/2021 Tchad BEAC Siège TD1300000510 5 902 000 000
+BIAT)
+30/07/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2B00000079 6 500 000
+30/07/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2J00000143 100 000 000
+04/08/2021 Afriland First Bank Cameroun SAAR ASSURANCES Siège CG2A00000197 366 490 000
+04/08/2021 Afriland First Bank Cameroun SAAR ASSURANCES Siège CG2K00000047 500 000 000
+04/08/2021 Afriland First Bank Cameroun SAAR ASSURANCES Siège GA2B00000075 100 000 000
+ATTIJARI SECURITIES
+05/08/2021 Afriland First Bank Cameroun Siège GQ2K00000021 600 000 000
+CENTRAL AFRICA
+ATTIJARI SECURITIES
+06/08/2021 UGB Gabon Siège GA2C00000025 4 260 000 000
+CENTRAL AFRICA
+06/08/2021 SCB Cameroun Cameroun BEAC Siège GA2C00000025 4 480 000 000
+06/08/2021 SCB Cameroun Cameroun BEAC Siège GA2J00000192 2 965 000 000
+06/08/2021 Afriland First Bank Cameroun BEAC Siège TD1300000528 6 951 000 000
+10/08/2021 Afriland First Bank Cameroun SAAR VIE ASSURANCES Siège GA2B00000075 700 000 000
+AFRILAND BOURSE ET
+11/08/2021 Afriland First Bank Cameroun Siège CG2B00000030 500 000 000
+INVESTISSEMENT
+11/08/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2L00000028 3 000 000
+11/08/2021 Afriland First Bank Cameroun Personnes physiques Siège CG1200000467 1 900 000 000
+11/08/2021 Afriland First Bank Cameroun Personnes physiques Siège CG2J00000156 14 000 000
+11/08/2021 Afriland First Bank Cameroun Personnes physiques Siège CM1300000542 200 000 000
+11/08/2021 Afriland First Bank Cameroun Personnes physiques Siège CM2L00000028 50 000 000
+11/08/2021 Afriland First Bank Cameroun Personnes physiques Siège GA1200001244 1 853 000 000
+11/08/2021 Afriland First Bank Cameroun Personnes physiques Siège GA1200001244 3 000 000
+11/08/2021 Afriland First Bank Cameroun Personnes physiques Siège GA2C00000025 120 000 000
+11/08/2021 Afriland First Bank Cameroun Personnes physiques Siège GA2J00000192 10 000 000
+11/08/2021 Afriland First Bank Cameroun Personnes physiques Siège GQ2K00000021 250 000 000
+44
+N°16 / decembre 2021
+
+--- Page 45 ---
+Pays de l'établisse-
+Etablissement Etablissement Pays de l'établis- Titres support de la Montant de titre
+Date ment
+Vendeur Acheteur sement Acheteur transaction (Valeur faciale)
+Vendeur
+11/08/2021 Afriland First Bank Cameroun Personnes physiques Siège TD1300000445 1 852 000 000
+11/08/2021 Afriland First Bank Cameroun FOGADAC Siège GA1200001293 2 946 000 000
+11/08/2021 SCB Cameroun Cameroun Personnes physiques Siège CM2L00000028 20 000 000
+11/08/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2J00000143 10 000 000
+SAAR VIE
+11/08/2021 Afriland First Bank Cameroun Siège CG2J00000081 500 000 000
+ASSURANCES
+SAAR VIE
+11/08/2021 Afriland First Bank Cameroun Siège CG2J00000099 400 000 000
+ASSURANCES
+SAAR VIE
+11/08/2021 Afriland First Bank Cameroun Siège GA2J00000168 400 000 000
+ASSURANCES
+11/08/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2J00000143 87 000 000
+13/08/2021 CREDIT du Congo Congo Personnes physiques Siège CG1200000509 100 000 000
+13/08/2021 UGB Gabon Personnes physiques Siège GA2D00000024 7 000 000
+13/08/2021 CREDIT du Congo Congo Personnes physiques Siège CG1200000509 100 000 000
+13/08/2021 CREDIT du Congo Congo Personnes physiques Siège GA2B00000083 100 000 000
+13/08/2021 UGB Gabon Personnes physiques Siège GA2J00000085 486 200 000
+20/08/2021 Afriland First Bank Cameroun BEAC Siège CG1300000128 4 490 000 000
+20/08/2021 Afriland First Bank Cameroun BEAC Siège CG2A00000221 5 193 400 000
+20/08/2021 Afriland First Bank Cameroun BEAC Siège TD1300000536 147 000 000
+Ecobank Came-
+20/08/2021 Cameroun Personnes physiques Siège GQ1300001021 60 000 000
+roun SA
+Ecobank Came-
+20/08/2021 Cameroun Personnes physiques Siège GQ1300000999 100 000 000
+roun SA
+Ecobank
+20/08/2021 Cameroun Personnes physiques Siège GQ1300001021 300 000 000
+Cameroun SA
+Ecobank
+20/08/2021 Cameroun Personnes physiques Siège GQ1300001021 390 000 000
+Cameroun SA
+Ecobank
+20/08/2021 Cameroun Personnes physiques Siège GQ1300000999 150 000 000
+Cameroun SA
+20/08/2021 CREDIT du Congo Congo Personnes physiques Siège CG1200000475 100 000 000
+Ecobank Came-
+20/08/2021 Cameroun Personnes physiques Siège GQ1300000999 140 000 000
+roun SA
+Ecobank Came-
+20/08/2021 Cameroun Personnes physiques Siège GQ1300000957 100 000 000
+roun SA
+ATTIJARI SECURITIES
+24/08/2021 BPMC RCA Siège CF2A00000025 150 000 000
+CENTRAL AFRICA
+24/08/2021 ASCA Cameroun FCP CRBC PROSPERITE Siège GA2J00000093 4 157 380 000
+ATTIJARI SECURITIES
+26/08/2021 UGB Gabon Siège GA2B00000083 5 000 000
+CENTRAL AFRICA
+ATTIJARI SECURITIES
+26/08/2021 UGB Gabon Siège GA2D00000024 1 103 000 000
+CENTRAL AFRICA
+26/08/2021 UBA - Cameroun Cameroun FCP AB CASH Siège CG2J00000115 2 000 000
+26/08/2021 UBA - Cameroun Cameroun FCP AB INVEST Siège CG2J00000115 5 000 000
+Ecobank Came-
+27/08/2021 Cameroun BEAC Siège GQ2K00000039 10 581 500 000
+roun SA
+AFRILAND BOURSE ET
+30/08/2021 Afriland First Bank Cameroun Siège CG1100000229 50 000 000
+INVESTISSEMENT
+AFRILAND BOURSE ET
+30/08/2021 Afriland First Bank Cameroun Siège CG1200000509 50 000 000
+INVESTISSEMENT
+AFRILAND BOURSE ET
+30/08/2021 Afriland First Bank Cameroun Siège CG2J00000180 800 000 000
+INVESTISSEMENT
+30/08/2021 Afriland First Bank Cameroun Personnes physiques Siège CG1100000229 150 000 000
+30/08/2021 Afriland First Bank Cameroun Personnes physiques Siège CG1200000517 15 000 000
+30/08/2021 Afriland First Bank Cameroun Personnes physiques Siège CG2A00000221 52 000 000
+30/08/2021 Afriland First Bank Cameroun Personnes physiques Siège CG2J00000180 32 000 000
+30/08/2021 Afriland First Bank Cameroun Personnes physiques Siège GA1100001427 10 000 000
+30/08/2021 Afriland First Bank Cameroun Personnes physiques Siège GA2B00000083 100 000 000
+30/08/2021 Afriland First Bank Cameroun Personnes physiques Siège GQ2K00000039 1 013 500 000
+30/08/2021 Afriland First Bank Cameroun FINANCIA CAPITAL Siège CG2A00000221 4 600 000
+FIRST TRUST SAVINGS
+30/08/2021 Afriland First Bank Cameroun Siège GA2A00000134 1 000 000 000
+AN LOAN SA
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CG2A00000171 150 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000061 10 000 000
+ALLIANZ CAMEROUN
+01/09/2021 SG Cameroun Cameroun Siège CM2B00000038 3 000 000 000
+ASSURANCE
+45
+N°16 / decembre 2021
+
+--- Page 46 ---
+Pays de l'établisse-
+Etablissement Etablissement Pays de l'établis- Titres support de la Montant de titre
+Date ment
+Vendeur Acheteur sement Acheteur transaction (Valeur faciale)
+Vendeur
+01/09/2021 SG Cameroun Cameroun ALLIANZ VIE CAMEROUN Siège CM2B00000020 6 800 000 000
+01/09/2021 SG Cameroun Cameroun ALLIANZ VIE CAMEROUN Siège CM2B00000038 10 000 000 000
+01/09/2021 SG Cameroun Cameroun ALLIANZ VIE CAMEROUN Siège CM2B00000046 2 500 000 000
+01/09/2021 SG Cameroun Cameroun ALLIANZ VIE CAMEROUN Siège CM2C00000037 13 000 000 000
+01/09/2021 SG Cameroun Cameroun ALLIANZ VIE CAMEROUN Siège CM2C00000052 4 500 000 000
+01/09/2021 SG Cameroun Cameroun ALLIANZ VIE CAMEROUN Siège CM2J00000022 784 310 000
+01/09/2021 SG Cameroun Cameroun ALLIANZ VIE CAMEROUN Siège CM2K00000011 2 000 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CG1200000483 20 000 000
+AXA CAMEROUN ASSU-
+01/09/2021 SG Cameroun Cameroun Siège CM2D00000028 500 000 000
+RANCE
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000079 20 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000038 30 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2J00000055 50 000 000
+01/09/2021 SG Cameroun Cameroun CNPS Siège CM2B00000020 5 000 000 000
+01/09/2021 SG Cameroun Cameroun CNPS Siège CM2B00000038 5 000 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000079 40 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2J00000030 10 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2J00000055 45 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CG2A00000163 7 300 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000020 1 200 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2L00000010 25 000 000
+01/09/2021 SG Cameroun Cameroun GMC ASSURANCES Siège CM2B00000038 400 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2J00000030 5 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2C00000052 30 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CG1200000459 75 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000020 30 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000038 30 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000053 5 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CG1200000459 100 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000038 58 500 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2C00000052 81 500 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000079 50 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2L00000010 20 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2L00000010 12 500 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000053 1 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000061 10 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2C00000052 12 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2L00000010 34 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CG2B00000030 200 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2J00000055 50 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000079 25 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000038 5 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000053 50 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000061 10 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2L00000028 50 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000038 51 000 000
+46
+N°16 / decembre 2021
+
+--- Page 47 ---
+Pays de l'établisse-
+Etablissement Etablissement Pays de l'établis- Titres support de la Montant de titre
+Date ment
+Vendeur Acheteur sement Acheteur transaction (Valeur faciale)
+Vendeur
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000038 50 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2L00000028 41 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000079 10 000 000
+01/09/2021 SG Cameroun Cameroun SAHAM ASSURANCE Siège CM2B00000020 100 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2J00000030 3 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2L00000010 7 500 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2C00000052 11 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2J00000030 125 000 000
+01/09/2021 SG Cameroun Cameroun Personnes physiques Siège CG1200000517 200 000 000
+ATTIJARI SECURITIES
+02/09/2021 UGB Gabon Siège GA1200001194 150 000 000
+CENTRAL AFRICA
+02/09/2021 UBA - Cameroun Cameroun FCP AB CASH Siège GQ2K00000039 28 000 000
+02/09/2021 UBA - Cameroun Cameroun FCP AB INVEST Siège GQ2K00000039 30 000 000
+03/09/2021 SCB Cameroun Cameroun ASCA Cameroun GQ2K00000039 510 000 000
+03/09/2021 Afriland First Bank Cameroun BEAC Siège GQ2K00000047 15 866 000 000
+03/09/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2J00000192 2 500 000 000
+03/09/2021 SG Cameroun Cameroun Personnes physiques Siège CM2B00000061 10 000 000
+06/09/2021 Afriland First Bank Cameroun Personnes physiques Siège GQ2K00000047 50 000 000
+AFRILAND
+06/09/2021 BOURSE ET IN- Siège SAAR VIE ASSURANCES Siège CG2J00000180 800 000 000
+VESTISSEMENT
+07/09/2021 CREDIT du Congo Congo Personnes physiques Siège CG1200000517 250 000 000
+FONDS DE GARAN-
+07/09/2021 CREDIT du Congo Congo TIE DES DEPOTS EN Siège GA1200001327 3 000 000 000
+AFRIQUE FOGADAC
+07/09/2021 CREDIT du Congo Congo Personnes physiques Siège CG1200000517 22 000 000
+10/09/2021 Afriland First Bank Cameroun BEAC Siège CG2A00000239 9 515 000 000
+Ecobank Tchad (Ex
+10/09/2021 Tchad BEAC Siège TD1300000569 20 000 000 000
+BIAT)
+ATTIJARI SECURITIES
+14/09/2021 UGB Gabon Siège GA2B00000083 61 070 000
+CENTRAL AFRICA
+ATTIJARI SECURITIES
+14/09/2021 UGB Gabon Siège GA2D00000024 2 000 000 000
+CENTRAL AFRICA
+15/09/2021 Afriland First Bank Cameroun Personnes physiques Siège CG2J00000180 30 000 000
+15/09/2021 Afriland First Bank Cameroun Personnes physiques Siège GA2D00000024 100 000 000
+15/09/2021 Afriland First Bank Cameroun Personnes physiques Siège GA2D00000024 115 000 000
+15/09/2021 Afriland First Bank Cameroun SAAR VIE ASSURANCES Siège GA2D00000024 400 000 000
+Commercial Bank ALIOS FINANCE CAME-
+16/09/2021 Cameroun Cameroun CG2J00000180 3 000 000
+of cameroon ROUN
+17/09/2021 SG Cameroun Cameroun BEAC Siège CG1300000136 7 062 000 000
+AFRILAND
+17/09/2021 BOURSE ET IN- Siège MURCAS Siège CG2J00000073 400 000 000
+VESTISSEMENT
+17/09/2021 Afriland First Bank Cameroun MURCAS Siège GA2B00000083 550 000 000
+CLIENTS AFRI-
+17/09/2021 Siège MURCAS Siège GA2J00000168 500 000 000
+LAND BOURSE
+SAAR ASSU-
+17/09/2021 Siège SAAR VIE ASSURANCES Siège CG2K00000047 400 000 000
+RANCES
+17/09/2021 SCB Cameroun Cameroun SATHY CAM Siège GA2B00000042 500 000 000
+AFRICAINE DES ASSU-
+20/09/2021 BSCA Congo Siège GA1200001343 50 000 000
+RANCES DU CONGO
+21/09/2021 SCB Cameroun Cameroun Personnes physiques Siège CG1100000237 20 000 000
+21/09/2021 SCB Cameroun Cameroun Personnes physiques Siège GA1200001343 10 000 000
+22/09/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2B00000042 100 000 000
+24/09/2021 SG Cameroun Cameroun BEAC Siège CG2J00000198 7 093 000 000
+24/09/2021 CREDIT du Congo Congo Personnes physiques Siège CG1200000517 7 000 000
+24/09/2021 CREDIT du Congo Congo Personnes physiques Siège CG1200000525 293 000 000
+28/09/2021 Afriland First Bank Cameroun Personnes physiques Siège GA2J00000200 30 000 000
+28/09/2021 Afriland First Bank Cameroun FOGADAC Siège GA2A00000142 5 454 550 000
+29/09/2021 SCB Cameroun Cameroun Personnes physiques Siège GA2C00000025 15 000 000
+47
+N°16 / decembre 2021
+
+--- Page 48 ---
+Pays de l'établisse-
+Etablissement Etablissement Pays de l'établis- Titres support de la Montant de titre
+Date ment
+Vendeur Acheteur sement Acheteur transaction (Valeur faciale)
+Vendeur
+30/09/2021 Afriland First Bank Cameroun Personnes physiques Siège CF2A00000025 500 000 000
+30/09/2021 Afriland First Bank Cameroun Personnes physiques Siège CG2J00000032 42 000 000
+30/09/2021 Afriland First Bank Cameroun Personnes physiques Siège CM2A00000047 400 000 000
+30/09/2021 Afriland First Bank Cameroun Personnes physiques Siège CM2B00000020 395 000 000
+30/09/2021 Afriland First Bank Cameroun Personnes physiques Siège CM2B00000038 1 964 200 000
+30/09/2021 Afriland First Bank Cameroun Personnes physiques Siège CM2C00000052 50 000 000
+30/09/2021 Afriland First Bank Cameroun Personnes physiques Siège CM2D00000028 30 000 000
+30/09/2021 Afriland First Bank Cameroun Personnes physiques Siège CM2K00000011 101 330 000
+30/09/2021 Afriland First Bank Cameroun Personnes physiques Siège GA2A00000084 20 000 000
+30/09/2021 Afriland First Bank Cameroun Personnes physiques Siège GA2J00000101 50 000 000
+30/09/2021 Afriland First Bank Cameroun Personnes physiques Siège GQ2K00000021 400 000 000
+Total 290 996 600 000
+Source : CRCT/BEAC
+48
+N°16 / decembre 2021
+
+--- Page 49 ---
+B.4.4. Opérations de pension - livrée interbancaire
+Au troisième trimestre 2021, le nombre d’opérations de pension- livrée a plus que doublé, à quarante-
+neuf (49) opérations, pour un montant cumulé de 248 779 750 000 FCFA, avec des durées allant de 2 à 180
+jours et des taux oscillant entre 3 % et 5 %. Au précédent trimestre, vingt et une (21) opérations avaient été
+enregistrées, pour un montant cumulé de 97 289 425 000 FCFA. Les taux d’intérêt et l’étendue des durées
+d’opérations sont restés relativement stables au cours de la période sous revue.
+Les opérations de pension - livrée interbancaire nouées au cours du troisième trimestre 2021 ont été
+réalisées essentiellement entre établissements de crédit n’appartenant pas au même groupe bancaire.
+Les émissions des Trésors publics camerounais (OTA) et gabonais (BTA et OTA) constituent l’essentiel des
+supports mobilisés pour ces opérations.
+Tableau 18 : Liste des opérations de pension - livrée interbancaires
+enregistrées durant le quatrième trimestre 2021
+Pays de Pays de l'éta-
+Etablissement Date de Etablissement Maturité Taux Montant
+l'établisse- Échéance Support blissement
+Prêteur Valeur Emprunteur (jours) (en%) (en millions CFA)
+ment Prêteur Emprunteur
+Commercial Bank of
+Afriland First Bank Cameroun 05/10/2021 04/11/2021 CG1200000525 Cameroun 30 5 3 524 100 000
+cameroon
+Commercial Bank of
+Afriland First Bank Cameroun 05/10/2021 04/11/2021 CG2J00000164 Cameroun 30 5 1 475 900 000
+cameroon
+Commercial Bank of
+BICEC Cameroun 08/10/2021 05/11/2021 CM2D00000028 Cameroun 28 4 3 200 000 000
+cameroon
+SCB Cameroun Cameroun 14/10/2021 12/11/2021 GA2A00000100 CREDIT du Congo Congo 29 2 1 000 000 000
+SCB Cameroun Cameroun 14/10/2021 12/11/2021 GA2A00000134 CREDIT du Congo Congo 29 2 5 000 000 000
+SCB Cameroun Cameroun 28/10/2021 26/11/2021 GA1300000435 CREDIT du Congo Congo 29 1 4 004 027 778
+SCB Cameroun Cameroun 11/11/2021 10/12/2021 GA2B00000034 BICIG Gabon 29 4 10 000 000 000
+SCB Cameroun Cameroun 16/11/2021 16/12/2021 CM2A00000062 CREDIT du Congo Congo 30 2 5 000 000 000
+Afriland First Bank Cameroun 17/11/2021 17/12/2021 CG2J00000149 BAC Cameroun 30 4 10 000 000 000
+BGFIBANK Came-
+SCB Cameroun Cameroun 17/11/2021 17/12/2021 GA2J00000127 Cameroun 30 3 4 000 000 000
+roun
+BGFIBANK Came-
+BICEC Cameroun 17/11/2021 10/12/2021 GA2A00000134 Cameroun 23 4 3 995 000 000
+roun
+Commercial Bank of
+CREDIT du Congo Congo 18/11/2021 17/12/2021 GA2A00000084 Cameroun 29 4 2 918 000 000
+cameroon
+Commercial Bank of
+BICEC Cameroun 18/11/2021 17/12/2021 CM2B00000087 Cameroun 29 4 3 200 000 000
+cameroon
+SCB Cameroun Cameroun 18/11/2021 16/12/2021 CM2J00000022 CREDIT du Congo Congo 28 2 3 000 00 000
+SCB Cameroun Cameroun 18/11/2021 17/12/2021 CM2J00000022 CREDIT du Congo Congo 29 2 5 000 000 000
+BGFIBANK Came-
+SCB Cameroun Cameroun 18/11/2021 17/12/2021 GA2J00000135 Cameroun 29 3 4 000 000 000
+roun
+SCB Cameroun Cameroun 18/11/2021 17/12/2021 GA2A00000134 BAC Cameroun 29 4 2 500 000 000
+SCB Cameroun Cameroun 18/11/2021 17/12/2021 CM2B00000020 BAC Cameroun 29 4 2 500 000 000
+Commercial Bank of
+SCB Cameroun Cameroun 18/11/2021 17/12/2021 CM2A00000054 Cameroun 29 3 4 775 000 000
+cameroon
+49
+N°16 / decembre 2021
+
+--- Page 50 ---
+Pays de
+Pays de l'éta-
+Etablissement l'établisse- Date de Etablissement Maturité Taux Montant
+Échéance Support blissement
+Prêteur ment Prê- Valeur Emprunteur (jours) (en%) (en millions CFA)
+Emprunteur
+teur
+BGFIBANK Came- Commercial Bank of
+Cameroun 18/11/2021 17/12/2021 CM2B00000087 Cameroun 29 4 4 000 000 000
+roun cameroon
+SCB Cameroun Cameroun 26/11/2021 24/12/2021 GA1300000435 CREDIT du Congo Congo 28 1 4 000 000 000
+BGFIBANK Came-
+Afriland First Bank Cameroun 02/12/2021 09/12/2021 GA2B00000026 Cameroun 7 4 10 000 000 000
+roun
+Commercial Bank of
+Afriland First Bank Cameroun 03/12/2021 09/12/2021 CG2J00000024 Cameroun 6 4 1 800 000 000
+cameroon
+Commercial Bank of
+Afriland First Bank Cameroun 03/12/2021 09/12/2021 CM2D00000028 Cameroun 6 4 8 200 000 000
+cameroon
+Commercial Bank of
+Afriland First Bank Cameroun 10/12/2021 16/12/2021 CM2D00000028 Cameroun 6 4 5 000 000 000
+cameroon
+BGFIBANK Came-
+Afriland First Bank Cameroun 13/12/2021 20/12/2021 GA2A00000134 Cameroun 7 4 5 000 000 000
+roun
+SCB Cameroun Cameroun 14/12/2021 14/01/2022 GA2B00000034 BICIG Gabon 31 4 10 000 000 000
+SCB Cameroun Cameroun 17/12/2021 14/01/2022 GA1200001384 CREDIT du Congo Congo 28 2 2 000 000 000
+Commercial Bank of
+Afriland First Bank Cameroun 17/12/2021 30/12/2021 CM2B00000087 Cameroun 13 5 8 350 000 000
+cameroon
+SCB Cameroun Cameroun 17/12/2021 17/01/2022 CM2K00000011 Afriland First Bank Cameroun 31 2 10 000 000 000
+Commercial Bank of
+BICEC Cameroun 17/12/2021 24/12/2021 CM2D00000028 Cameroun 7 4 10 000 000 000
+cameroon
+Commercial Bank of
+SCB Cameroun Cameroun 17/12/2021 17/01/2022 GA2B00000026 Cameroun 31 4 1 400 000 000
+cameroon
+SCB Cameroun Cameroun 17/12/2021 14/01/2022 GA1200001368 CREDIT du Congo Congo 28 2 3 000 000 000
+Commercial Bank of
+Afriland First Bank Cameroun 17/12/2021 30/12/2021 CM2B00000061 Cameroun 13 5 1 650 000 000
+cameroon
+Commercial Bank of
+SCB Cameroun Cameroun 17/12/2021 17/01/2022 CM2A00000054 Cameroun 31 4 3 600 000 000
+cameroon
+BGFIBANK Came-
+SouBrICcEeC : CRCT/BEACCameroun 20/12/2021 19/01/2022 GA2J00000135 Cameroun 30 4 4 000 000 000
+roun
+SCB Cameroun Cameroun 20/12/2021 17/01/2022 GA1200001400 CREDIT du Congo Congo 28 2 5 000 000 000
+Commercial Bank of
+CREDIT du Congo Congo 20/12/2021 19/01/2022 GA2A00000084 Cameroun 30 4 2 918 000 000
+cameroon
+Ecobank Cameroun
+SG Cameroun Cameroun 20/12/2021 31/12/2021 CM2B00000061 Cameroun 11 4 5 000 000 000
+SA
+SCB Cameroun Cameroun 20/12/2021 19/01/2022 GA2A00000142 CREDIT du Congo Congo 30 2 3 000 000 000
+Ecobank Cameroun
+SCB Cameroun Cameroun 21/12/2021 04/01/2022 CM2J00000022 Cameroun 14 4 5 000 000 000
+SA
+Ecobank Cameroun
+SCB Cameroun Cameroun 21/12/2021 04/01/2022 CM2B00000053 Cameroun 14 4 5 000 000 000
+SA
+Commercial Bank of
+BICEC Cameroun 24/12/2021 21/01/2022 CM2D00000028 Cameroun 28 4 3 200 000 000
+cameroon
+Ecobank Cameroun
+BSCA Congo 28/12/2021 11/01/2022 CM2B00000053 Cameroun 14 4 5 000 000 000
+SA
+Ecobank Cameroun
+BICEC Cameroun 28/12/2021 12/01/2022 CM2B00000038 Cameroun 15 4 4 500 000 000
+SA
+Commercial Bank of
+Afriland First Bank Cameroun 30/12/2021 06/01/2022 CM2B00000061 Cameroun 7 5 1 650 000 000
+cameroon
+Commercial Bank of
+Afriland First Bank Cameroun 30/12/2021 06/01/2022 CM2B00000087 Cameroun 7 5 8 350 000 000
+cameroon
+CREDIT du Congo Congo 14/10/2021 11/11/2021 GA2A00000142 ORABANK Gabon Gabon 28 4 3 000 000 000
+CREDIT du Congo Congo 18/11/2021 16/12/2021 GA2A00000142 ORABANK Gabon Gabon 28 4 3 000 000 000
+CREDIT du Congo Congo 18/11/2021 17/12/2021 GA2A00000159 UBA Congo Congo 29 4 3 500 000 000
+CREDIT du Congo Congo 18/11/2021 17/12/2021 GA2J00000226 UBA Congo Congo 29 4 1 500 000 000
+UGB Gabon 19/11/2021 20/12/2021 CM2B00000020 UBA Congo Congo 31 4 900 000 000
+UGB Gabon 19/11/2021 20/12/2021 GA2J00000226 UBA Congo Congo 31 4 1 300 000 000
+UGB Gabon 19/11/2021 20/12/2021 GA2A00000159 UBA Congo Congo 31 4 100 000 000
+UGB Gabon 22/11/2021 16/12/2021 GA2A00000134 UBA Congo Congo 24 4 900 000 000
+UGB Gabon 22/11/2021 16/12/2021 GA2A00000126 UBA Congo Congo 24 4 1 800 000 000
+CREDIT du Congo Congo 17/12/2021 14/01/2022 GA2A00000142 ORABANK Gabon Gabon 28 4 3 000 000 000
+BSCA Congo 17/12/2021 17/03/2022 CG2A00000197 UBA Congo Congo 90 4 5 000 000 000
+50
+N°16 / decembre 2021
+
+--- Page 51 ---
+Pays de
+Pays de l'éta-
+Etablissement l'établisse- Date de Etablissement Maturité Taux Montant
+Échéance Support blissement
+Prêteur ment Prê- Valeur Emprunteur (jours) (en%) (en millions CFA)
+Emprunteur
+teur
+CREDIT du Congo Congo 20/12/2021 17/01/2022 GA2A00000159 UBA Congo Congo 28 4 3 500 000 000
+CREDIT du Congo Congo 20/12/2021 17/01/2022 GA2J00000226 UBA Congo Congo 28 4 1 500 000 000
+UGB Gabon 28/12/2021 27/01/2022 GA2J00000226 UBA Congo Congo 30 4
+500 000 000
+UGB Gabon 28/12/2021 27/01/2022 GA2J00000200 UBA Congo Congo 30 4 2 500 000 000
+UGB Gabon 28/12/2021 27/01/2022 GA2J00000234 UBA Congo Congo 30 4 2 000 000 000
+CREDIT du Congo Congo 30/12/2021 27/01/2022 GA2A00000142 ORABANK Gabon Gabon 28 4 1 500 000 000
+BGFIBANK Gabon Gabon 05/10/2021 04/11/2021 GA2K00000017 ORABANK Gabon Gabon 30 4 10 000 000 000
+République
+Ecobank CF 13/10/2021 14/11/2021 GA2J00000150 ECOBANK Gabon Gabon 32 4 3 000 285 000
+Centrafricaine
+UGB Gabon 02/11/2021 02/12/2021 GA2B00000026 ORABANK Gabon Gabon 30 4 10 000 000 000
+BGFIBANK Gabon Gabon 04/11/2021 02/12/2021 GA2K00000017 ORABANK Gabon Gabon 28 4 10 000 000 000
+UGB Gabon 10/11/2021 24/12/2021 GA2J00000150 BICIG Gabon 44 4 10 000 000 000
+UGB Gabon 24/11/2021 24/12/2021 GA1300000427 UBA Gabon Gabon 30 4 1 000 000 000
+UGB Gabon 24/11/2021 24/12/2021 GA1200001277 UBA Gabon Gabon 30 4 2 000 000 000
+UGB Gabon 24/11/2021 24/12/2021 GA1200001301 UBA Gabon Gabon 30 4 2 000 000 000
+BGFIBANK Gabon Gabon 02/12/2021 30/12/2021 GA2K00000017 ORABANK Gabon Gabon 28 4 10 000 000 000
+UGB Gabon 24/12/2021 07/02/2022 GA2J00000150 BICIG Gabon 45 4 10 000 000 000
+Guinée Equa-
+ECOBANK Gabon Gabon 29/12/2021 05/01/2022 GA2A00000092 Ecobank Guinee EQ 7 4 1 000 500 000
+toriale
+UGB Gabon 30/12/2021 28/01/2022 GA1300000427 UBA Gabon Gabon 29 4 1 000 000 000
+UGB Gabon 30/12/2021 28/01/2022 GA1200001301 UBA Gabon Gabon 29 4 2 000 000 000
+Guinée Equa-
+ECOBANK Gabon Gabon 31/12/2021 06/01/2022 GA2J00000119 Ecobank Guinee EQ 6 4
+toriale 935 000 000
+Guinée Equa-
+ECOBANK Gabon Gabon 31/12/2021 06/01/2022 GA2B00000075 Ecobank Guinee EQ 6 4 2 075 000 000
+toriale
+Guinée Guinée Equa-
+BANGE 25/10/2021 24/11/2021 GQ2K00000013 CCEIBANK G .E 30 4 5 000 000 000
+Equatoriale toriale
+Guinée Guinée Equa-
+BANGE 24/11/2021 24/12/2021 GQ2M00000011 CCEIBANK G .E 30 4 2 500 000 000
+Equatoriale toriale
+Guinée Guinée Equa-
+BANGE 24/12/2021 24/01/2022 GQ2M00000011 CCEIBANK G .E 31 4 2 500 000 000
+Equatoriale toriale
+Total 340 220 812 778
+Source : CRCT/BEAC
+51
+N°16 / decembre 2021
+
+--- Page 52 ---
+ANNEXES STATISTIQUES
+Tableau 19 : Evolution des émissions des valeurs du Trésor depuis 2011(en millions de FCFA)
+2021 2021
+Cumul des émis-
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+sions depuis 2011
+Jan -sept Trimestre4
+BTA 51 560 119 400 301 000 257 400 430 100 796 765 843 941 1 103 562 2 015 048 1 884 215 1 575 941 373 831 9 752 763
+Cameroun 50 000 110 000 126 000 145 000 125 150 174 170 173 355 217 000 403 010 393 918 326 020 97 520 2 341 143
+Congo - - - - - 23 700 50 910 218 112 134 137 266 691 82 784 776 334
+Gabon - 164 000 73 900 131 950 273 880 377 186 445 091 672 331 608 031 420 566 104 686 3 271 621
+Guinée Equatoriale - - - 15 000 60 000 78 000 79 000 170 131 215 219 139 048 39 003 795 401
+RCA 1 560 9 400 11 000 11 000 16 000 19 000 23 000 9 500 19 000 19 000 34 919 24 919 198 298
+Tchad - 27 500 142 000 269 715 168 700 302 061 532 464 513 910 388 697 24 919 2 369 966
+OTA 49 011 47 056 156 760 194 657 34 800 81 449 846 186 1 185 261 1 271 873 358 144 4 225 197
+Cameroun - 23 511 10 000 - - - - 240 205 360 713 209 456 144 587 988 472
+RCA - - - - - - - - 15 808 33 275 6 000 55 083
+Congo - - - - - - 123 500 380 965 362 495 49 052 916 012
+Gabon - 25 500 37 056 17 500 20 300 8 000 81 449 191 481 384 762 367 151 100 305 1 233 504
+Guinée Equatoriale - - - - - - - 291 000 - 157 895 - 448 895
+Tchad - - 139 260 174 357 26 800 - - 43 012 141 601 58 201 583 231
+Total général 51 560 119 400 350 011 304 456 586 860 991 422 878 741 1 185 011 2 861 234 3 069 476 2 833 415 717 576 13 949 162
+Source BEAC/CRCT
+Tableau 20 : Evolution des encours de BTA et d’OTA depuis 2011 (en millions de FCFA)
+2021
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Trimestre4
+BTA 51 560 65 750 170 500 174 900 264 600 527 650 551 850 837 087 1 048 144 1 144 214 1 285 690
+Cameroun 50 000 60 000 106 000 90 000 74 650 98 470 85 000 102 000 196 010 227 218 241 020
+RCA 1 560 5 750 5 500 5 500 8 000 9 500 13 500 9 500 9 500 9 500 7 500
+Congo - - - - - 10 000 46 610 142 112 107 715 205 888
+-
+Gabon - 59 000 51 900 87 950 193 180 196 650 244 991 259 850 270 556 252 996
+-
+Guinée Equa-
+- - - 15 000 60 000 78 000 114 000 170 131 239 469 193 148
+toriale -
+Tchad - - 27 500 79 000 166 500 168 700 319 986 270 541 289 756 385 138
+-
+OTA - 49 011 96 067 229 316 388 473 355 717 294 291 1 037 077 2 081 031 3 364 363
+-
+Cameroun - 23 511 33 511 10 000 - - - 240 205 600 918 935 007
+-
+RCA - - - - - - - - 15 808 49 083
+-
+Congo - - - - - - - 153 500 575 250 794 887
+-
+Gabon - 25 500 62 556 80 056 74 856 40 800 118 731 238 612 555 043 971 215
+-
+Guinée Equa-
+- - - - - - - 291 000 291 000 429 558
+toriale -
+Tchad - - - 139 260 313 617 314 917 175 560 113 760 43 012 184 613
+-
+Encours total 51 560 65 750 219 511 270 967 493 916 916 123 907 567 1 131 378 2 085 221 3 225 245 4 650 053
+Source BEAC/CRCT
+52
+N°16 / decembre 2021
+
+--- Page 53 ---
+Tableau 21 : Evolution des moyennes des taux d’intérêt moyens pondérés des émissions depuis 2011 (en %)
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021(T3) 2021(T4)
+BTA 2,72 2,57 2,31 2,53 2,99 3,56 4,81 4,69 4,91 5,2 5,42 6,10
+Cameroun 2,24 1,99 1,96 1,8 2,38 2,27 3,34 2,92 2,43 2,62 2,23 2,72
+Congo 4,99 6,13 6,49 5,89 6,42 6,47
+Gabon 1,74 2,77 3,26 4,26 5,18 4,06 3,44 4,16 5,15 6,24
+Guinée Equatoriale 1,47 3 6,83 8,1 9,12 7,96 7,70 8,49
+République Centrafricaine 4,66 5,08 5,44 5,38 5,22 5,22 5,19 5,22 5,22 5,34 5,92
+Tchad 2,76 3,17 3,83 5,42 6,14 6,42 6,22 6,58 6,78
+OTA 4,18 4,86 4,37 4,36 4,51 5,74 5,56 7,83 9,39 8,49
+Cameroun 4,02 3,75 4,85 5,2 5,13
+Congo 7,35 10,2 9,45 10,51
+Gabon 4,5 5,42 4,97 4,76 4,53 5,74 5,72 8,31 8,67 8,76
+Guinée Equatoriale 10,47
+République Centrafricaine 2,95 14,32 11,10
+Tchad 4,2 4,19 4,5 5,38 7,48 7,60
+Moyenne générale 2,72 2,57 2,47 2,7 3,17 3,66 4,8 4,75 5,01 6,29 7,22 7,41
+Source BEAC/CRCT
+Tableau 22 : Évolution du taux de couverture moyen des montants mis en adjudication depuis 2011
+(en % du montant mis en adjudication)
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021(T3) 2021(T4)
+BTA 210 320,4 210,5 223,9 164,5 150 116,5 171,3 169,4 143,3 112,11 78,8
+Cameroun 251,5 379,7 278,3 320,3 200,5 229,2 163,5 242,2 250,3 182,7 136,31 100,1
+Congo 48,6 97,6 88,5 135 101,17 79,7
+Gabon 182,4 103 164,2 146,2 116,3 201,2 164,8 178,2 138,03 82,2
+Guinée Equatoriale 215 126 55 70,9 89,5 83,5 92,35 55,0
+République Centrafricaine 43,8 68 89,1 100 95 100 102,5 100 92,2 100 72,7273
+Tchad 168,1 113,9 69,6 90 101,4 98 115,2 79,22 58,2
+OTA 67,9 99,1 71,8 100,8 54,7 78 86,1 74,9 76,28 75,5
+Cameroun 83,7 191,6 88,1 70,47 109,2
+Congo 120 78,31 62,68 43,2
+Gabon 36,4 52,9 91,7 112,1 20 78 79,8 74,04 77,41 88,9
+Guinée Equatoriale 77,22
+République Centrafricaine 100 100 120,0833 153,3
+Tchad 66,1 95,8 89,3 83,2 96,8 76,5 62,2
+Moyenne générale 210 320,4 198 214,8 152,6 143,8 115,4 165,6 155,2 118,4 95,87 78,8
+Source BEAC/CRCT
+53
+N°16 / decembre 2021
+
+--- Page 54 ---
+Tableau 23 : Parts souscrites par les Spécialistes en Valeurs du Trésor pour les émissions de BTA et OTA du
+Cameroun (en % du montant total émis)
+2021 2021 2021 2021
+SVT 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Trimestre 1 Trimestre 2 Trimestre 3 Trimestre 4
+Afriland First Bank 16 14 9 6 - - 2 1 8,3 7,4 4,6 7,8 6,6 6,6
+BICEC - 2 6 20 28 21 22 13 19,0 18,7 23,8 10,3 24,1 13,8
+BICIG - 6 7 10 13 8 11 4 1,1 0,7 0,0 0,0 0,0 0,0
+BGFIBank Gabon 5 9 2 - - - - - 0,3 0,0 - 0,0 0,0 0,0
+Standard Chartered Bank
+34 32 21 21 27 26 12 13 7,2 5,2 6,8 7,0 1,7 3,9
+Cameroon
+CBCA - - - - - 4 3 1 0,0 0,1 - 0,0 0,0 0,0
+Credit du Congo - 8 8 9 2 8 2 2 4,8 5,6 5,7 3,9 4,1 1,3
+Ecobank CMR 7 8 5 12 12 9 26 43 25,4 10,2 16,5 1,7 0,0 11,4
+Ecobank RCA - 1 - - 1 1 1 2 3,0 0,5 0,0 0,0 0,0 0,0
+SCB CMR 6 7 16 - - - - 5 10,6 8,7 5,3 6,5 32,0 10,3
+SG CMR 2 2 10 1 1 23 18 8 13,2 34,4 33,1 62,4 24,9 37,9
+Union Bank of Cameroon 20 6 5 6 5 1 - - 0,0 1,6 - 0,3 0,0 5,4
+UGB 4 2 3 1 - - - 7 3,7 3,6 2,9 0,0 6,6 5,2
+CBC CMR - - - - - - - - 0,5 1,5 1,2 0,0 0,0 4,1
+UBA CMR 6 5 8 13 10 1 2 - 2,9 0,9 - 0,0 0,0 0,0
+BSCA - - - - - - - - - 0,1 - 0,1 0,0 0,0
+Total 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Source BEAC/CRCT
+Tableau 24 : Parts souscrites par les Spécialistes en Valeur du Trésor pour les émissions de BTA et OTA de la
+République centrafricaine (en % du montant émis)
+2021 2021 2021 2021
+SVT 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Trimestre 1 Trimestre 2 Trimestre 3 Trimestre 4
+Afriland First Bank 4 4 - - - - - - - - - - - 100
+BPMC - - - - - 5 13 16 16 19,75 27,27 47,22 77,04 -
+CBCA - - - - 16 45 50 47 47 38,5 27,27 30,56 7,78 -
+Ecobank CMR - 53 36 36 - - - - 18 35 - - -
+Ecobank RCA 64 37 64 64 84 50 37 37 19 6,25 45,45 22,22 12,97 -
+BGFI Guinée EQ - - - - - - - - - - - - - -
+UBA Cameroon 0,13 -
+UBC Limited 32 5 - - - - - - - - - - 2,08 -
+Total 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+Source BEAC/CRCT
+54
+N°16 / decembre 2021
+
+--- Page 55 ---
+Tableau 25 : Parts souscrites par les Spécialistes en Valeur du Trésor pour les émissions de BTA et OTA du Congo
+(en % du montant émis)
+2 021 2 021 2 021 2 021
+SVT 2017 2 018 2 019 2 020
+Trimestre 1 Trimestre 2 Trimestre 3 Trimestre 4
+Afriland First Bank 9 44 16 6,3 12,8 3,7 25,0 19,5
+BSCA 3 2 4 6,0 4,6 2,4 2,4 3,0
+BGFIBank Gabon 8 2 25 2,2 3,4 3,5 0,5 5,5
+BGFIBank GE 2 5 3 2,4 - 0,0 3,0 4,5
+Ecobank Congo - - - 8,7 - 9,1 5,0 2,1
+BGFIBank Congo - - 6 19,2 13,4 12,2 5,4 3,7
+Ecobank RCA 17 - - - - 0,0 0,0
+La Congolaise de Banque 42 3 0,03 2,5 19,7 1,1 0,1 0,1
+Union Bank of Cameroon 18 40 7 2,8 1,7 0,7 11,2 11,6
+Crédit du Congo - 4 8 2,6 2,9 0,1 0,6 1,5
+UBA Congo - - 27 32,0 32,5 56,4 19,8 12,2
+UBA Gabon - - - 0,3 1,5 2,5 3,3
+UBA Cameroun - - 1 8,2 9,0 8,6 9,0 15,3
+CBC CMR - - 4 2,5 - 0,0 2,8 1,1
+SCB CMR - - - 0,0 - 0,6 0,0 3,5
+SG CMR - - - 0,0 - 0,1 7,8 8,3
+CBT - - - 0,0 - 0,0 0,0
+SG Congo - - - 3,2 - 0,0 2,5 3,7
+Ecobank Cameroun - - - 1,3 0,1 0,2 2,5 1,1
+Total 100 100 100 100 100 100 100 100
+Source BEAC/CRCT
+Tableau 26 : Parts souscrites par les Spécialistes en Valeur du Trésor pour les émissions de BTA et OTA du Gabon
+(en % du montant émis)
+2021 2021 2021 2021
+SVT 2013 2014 2015 2016 2017 2018 2019 2020
+Trimestre 1 Trimestre 2 Trimestre 3 Trimestre 4
+Afriland First Bank 20,2 4,5 1 2,3 0,4 0,3 7,4 9,7 17,8 12,0 8,5 4,4
+BICIG 20,8 24,3 25,4 19,2 7,7 6 17,7 1,3 0,2 4,4 0,0 0,0
+BGFIBank Gabon 7,2 16,1 2,6 28,9 16,3 20,6 8,5 9,4 15,2 2,3 2,4 2,2
+Crédit du Congo 13,7 16 22,9 4,1 0 1,7 2,8 4,7 20,1 14,4 4,6 8,4
+Ecobank Cameroun 10,9 2,7 2,7 13,8 18 25,5 19,6 16,6 1,0 22,9 13,6 14,0
+Ecobank Centrafrique - - 2,7 0,7 1 0,9 1,1 1,1 - 1,7 1,5 0,0
+Ecobank Gabon - - - 0,5 8,6 7,9 3,5 10,0 - 13,6 11,4 2,6
+SCB CMR 4 2,1 - 0,3 - 3 4,3 6,4 10,9 2,5 11,3 2,1
+Standard Chartered Bank
+1,5 11,3 13,7 15,5 5,2 6 4,9 4,4 6,0 4,2 3,2 9,9
+Cameroon
+Union Bank of Cameroon 0,5 4,5 - 0,8 5,8 7,2 0,3 0,0 2,3 0,4 15,2 17,1
+UGB 7,2 18,6 5,4 0,8 4,5 1,9 5,2 13,7 6,0 8,1 16,3 12,5
+UBA Gabon - - - - - - - 2,3 6,2 2,4 5,1 12,2
+UBA CMR 14,1 - 23,5 13,3 32,5 18,8 22,3 14,6 10,1 10,5 6,9 11,4
+BGFIBank Guinée Equa-
+- - - - - 0,2 0,0 0,1 - 0,0 0,0 0,0
+toriale
+BPMC - - - - - 0,2 2,6 3,1 - 0,5 0,0 2,3
+CBC - - - - - - - 1,9 1,3 0,0 0,0 0,0
+BSCA - - - - - - - 0,6 3,0 0,0 0,1 1,0
+Total 100 100 100 100 100 100 100 100 100 100 100 100
+Source BEAC/CRCT
+55
+N°16 / decembre 2021
+
+--- Page 56 ---
+Tableau 27 : Parts souscrites par les Spécialistes en Valeur du Trésor pour les émissions de BTA et OTA de Guinée
+Equatoriale (en % du montant émis)
+2021 2021 2021 2021
+SVT 2015 2016 2017 2018 2019 2020
+Trimestre 1 Trimestre 2 Trimestre 3 Trimestre 4
+BANGE 73 76 78 62 43,6 18,4 - 40,1 19,5 0,0
+Afriland First Bank - - - - 12,0 2,8 0,3 3,8 22,9 10,4
+Ecobank CGO - - - - 2,0 - - 0,0 0,0 0,0
+BGFIBank CGO - - - - 3,0 - - 0,0 0,0 0,0
+BGFIBank Guinée Equatoriale 27 7 5 2 9,0 28,8 23,8 9,1 15,0 6,4
+CCEIBANK GEQ - 3 - - - 0,2 - 0,0 0,0 0,0
+Ecobank Cameroun - - 6 2 1,4 6,3 6,8 9,0 8,7 12,4
+UBA Cameroun - - - - - 7,0 11,0 9,9 3,1 25,7
+Ecobank GEQ - 3 6 3 10,5 19,7 25,5 15,1 3,7 12,8
+Ecobank CF - - - - - 1,9 - 0,0 0,0 12,8
+SG GEQ - 12 - 16 9,0 0,1 - 6,1 0,0 0,0
+BSCA - - - - - 1,1 10,5 6,9 5,7 9,0
+UBC - - 4 14 9,0 11,4 15,3 0,0 13,9 6,4
+BGFIBank Gabon - - - - - 2,6 6,8 0,0 7,4 4,1
+Total 100 100 100 100 100 100 100 100 100 100
+Source BEAC/CRCT
+Tableau 28 : Parts souscrites par les Spécialistes en Valeur du Trésor pour les émissions de BTA et OTA du Tchad
+(en % du montant émis)
+2021 2021 2021 2021
+SVT 2015 2016 2017 2018 2019 2020
+Trimestre 1 Trimestre 2 Trimestre 3 Trimestre 4
+BANGE 73 76 78 62 43,6 18,4 - 40,1 19,5 0,0
+Afriland First Bank - - - - 12,0 2,8 0,3 3,8 22,9 10,4
+Ecobank CGO - - - - 2,0 - - 0,0 0,0 0,0
+BGFIBank CGO - - - - 3,0 - - 0,0 0,0 0,0
+BGFIBank Guinée Equatoriale 27 7 5 2 9,0 28,8 23,8 9,1 15,0 6,4
+CCEIBANK GEQ - 3 - - - 0,2 - 0,0 0,0 0,0
+Ecobank Cameroun - - 6 2 1,4 6,3 6,8 9,0 8,7 12,4
+UBA Cameroun - - - - - 7,0 11,0 9,9 3,1 25,7
+Ecobank GEQ - 3 6 3 10,5 19,7 25,5 15,1 3,7 12,8
+Ecobank CF - - - - - 1,9 - 0,0 0,0 12,8
+SG GEQ - 12 - 16 9,0 0,1 - 6,1 0,0 0,0
+BSCA - - - - - 1,1 10,5 6,9 5,7 9,0
+UBC - - 4 14 9,0 11,4 15,3 0,0 13,9 6,4
+BGFIBank Gabon - - - - - 2,6 6,8 0,0 7,4 4,1
+Total 100 100 100 100 100 100 100 100 100 100
+Source BEAC/CRCT
+56
+N°16 / decembre 2021
+
+--- Page 57 ---
+Tableau 29 : Liste des Spécialistes en valeurs du Trésor par réseau
+Réseau - Cameroun (21) Réseau - Congo (23)
+Afriland First Bank Afriland First Bank
+Banque Internationale du Cameroun pour l’Épargne et le Crédit BGFIBANK Gabon
+Banque Internationale pour le Commerce et l’Industrie du Gabon Crédit du Congo
+Société Commerciale de Banque au Cameroun Ecobank Cameroun
+BGFIBANK Gabon Ecobank Centrafrique
+Standard Chartered Bank Cameroon Société Commerciale de Banque Cameroun
+Crédit du Congo La Congolaise de Banque
+Ecobank Cameroun Union Gabonaise de Banque
+Ecobank Centrafrique CCEIBANK Guinée Équatoriale
+Société Générale Cameroun BGFIBANK Guinée Équatoriale
+Union Bank of Cameroon Limited Ecobank Guinée Equatoriale
+United Bank for Africa Cameroun Orabank Tchad
+United Bank of Cameroon Limited
+Union Gabonaise de Banque
+Ecobank Congo
+Commercial Bank Centrafrique
+Banque Sino Congolaise pour l'Afrique
+United Bank for Africa Gabon
+UBA Cameroun
+Commercial Bank Tchad
+Société Générale Congo
+Société Générale Tchad
+BGFIBANK Congo
+CCEIBANK Guinée Équatoriale
+UBA Congo
+Commercial Bank Cameroon (CBC) Commercial Bank Cameroon (CBC)
+Banque Sino Congolaise pour l’Afrique (BSCA) UBA Gabon
+Orabank Tchad Société Générale Cameroun
+Société Générale Tchad
+Réseau - Guinée Equatoriale (12)
+Afriland First Bank
+Réseau - Gabon (18)
+Afriland First Bank Banco Nacional de Guinea Ecuatorial
+Ecobank Cameroun BGFIBANK Gabon
+Ecobank Gabon
+BGFIBANK Guinée Équatoriale
+Ecobank Centrafrique
+United Bank for Africa Cameroun Ecobank Cameroun
+Union Bank of Cameroon Limited Ecobank Centrafrique
+Banque Internationale pour le Commerce et l’Industrie du Gabon Ecobank Guinée Equatoriale
+Société Commerciale de Banque Cameroun
+Société Générale Guinée Équatoriale
+Union Gabonaise de Banque
+Union Bank of Cameroon
+Standard Chartered Bank Cameroon
+CCEIBANK - Guinée Équatoriale Banque Sino Congolaise pour l’Afrique
+Crédit du Congo United Bank for Africa Cameroun
+Banque Sino Congolaise pour L’Afrique CCEIBANK – Guinée Equatoriale
+Banque Populaire Maroco-Centrafricaine
+United Bank for Africa Gabon Réseau - TCHAD (12)
+Ecobank Gabon
+Ecobank Tchad
+Commercial Bank Cameroon
+Afriland First Bank
+BGFIBANK Guinée Equatoriale
+Ecobank Cameroun
+Réseau - RCA (09) Ecobank Centrafrique
+Afriland First Bank Union Bank of Cameroon Limited
+Ecobank Centrafrique
+Commercial Bank Tchad
+Ecobank Cameroun
+CCEIBANK – Guinée Equatoriale
+Commercial Bank Centrafrique
+Banque Populaire Maroco-Centrafricaine Orabank Tchad
+Union Bank of Cameroon Limited UBA Cameroun
+SGC Cameroun
+Commercial Bank Cameroon
+UBA Cameroun
+BICEC Cameroun Société Générale Tchad
+Banque Internationale du Cameroun pour l’Epargne et le Crédit
+57
+N°16 / decembre 2021
+
+--- Page 58 ---
+Mise en page et impression :
+SERVICE DE L’IMPRIMERIE DE LA BEAC
+736 avenue Monseigneur Vogt - B.P. 1917, Cameroun
+Téléphone : (237) 22 23 40 30/60
+Fax : (237) 22 23 33 29/50
+E-mail : beac@beac.int
+Site web : www.beac.int
+
+--- Page 59 ---
+BANQUE DES ÉTATS DE L’AFRIQUE CENTRALE
+736 avenue Monseigneur Vogt - B.P. 1917, Cameroun
+Téléphone : (237) 22 23 40 30/60
+Fax : (237) 22 23 33 29/50
+E-mail : beac@beac.int
+Site web : www.beac.int
+59
+N°16 / decembre 2021

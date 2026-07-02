@@ -1,0 +1,1204 @@
+Source PDF : Le_taux_de_change_d'équilibre_concepts_et_mesures_8750cd6b.pdf
+Chemin original : scraping\beac_data\Publications\Etude Thematique\Le_taux_de_change_d'équilibre_concepts_et_mesures_8750cd6b.pdf
+Date extraction : 15/06/2026 21:52:19
+======================================================================
+
+--- Page 1 ---
+B A N Q U E D E S E T A T S D E L ’ A F R I Q U E C E N T R A L E
+Etude thématique 2020
+LA COMPETITIVITE ET SA MESURE DANS LE CONTEXTE DES
+ECONOMIES AFRICAINES : UNE APPLICATION A LA CEMAC
+-BEAC ET N°02/20-
+LE TAUX DE CHANGE D’EQUILIBRE : CONCEPTS ET MESURES
+BIKAI Jacques Landry B O M B A M B I D A Frédéric Joseph
+bikai@beac.int bomba_mbida@beac.int
+KEUNGNE KOUOTANG Leo spencer M AMBOU Patrick Félicien
+keungne@beac.int mambou@beac.int
+MUSTAFA TAHER MOHAMAD N G O M B A B O D I F r a n cis Ghislain
+mustafa@beac.int ngomba@beac.int
+ONOMO BETSAMA Julie
+onomo@beac.int
+B ANQU E D ES ETA TS D E Les opinions émises dans cet article sont
+L’ A FRIQ U E C ENTR AL E
+propres à leur (s) auteur (s) et ne
+7 3 6, Avenu e Monsei gneur
+représentent pas nécessairement la position
+Vogt B P:1 91 7 Yaoundé
+de la Banque des Etats de l’Afrique Centrale.
+C ame roun
+T el : (2 3 7) 22 2 2 3 4 0 30 -- -----------------------------------------------------------------------
+F ax : (2 37 ) 2 2 2 2 33 3 29 The opinions expressed in this paper are
+D i rect ion des Etudes, de la those of the author (s) and don’t necessarily
+Rech erche et des Stat istiqu es
+represent the views of the Central Bank of
+0 4 nov embr e 2 02 2 Central Africa States.
+D I R E C T I O N G E N E R A L E D E S E T U D E S F I N A N C E S E T R E L A T I O N S I N T E R N A T I O N A L E S
+
+--- Page 2 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+1
+Etude thématique 2020
+
+--- Page 3 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Résumé non technique
+Ce travail présente le concept de taux de change d’équilibre et discute de son
+importance pour la mise en œuvre des politiques économiques. L’analyse du taux de
+change d’équilibre permet de déterminer les déséquilibres (mésalignements) du taux de
+change et apparaît nécessaire pour apprécier la soutenabilité du taux de change du franc
+CFA à moyen terme. En cas de mésalignements (sous-évaluation ou surévaluation)
+persistants du taux de change, des ajustements des prix sont généralement nécessaires
+pour garantir la soutenabilité de l’ancrage nominal en régime de change fixe. Ce travail
+permet d’enrichir le débat sur le FCFA car l’une des critiques souvent évoquées au sujet
+de cette monnaie est son caractère surévalué.
+La littérature et les débats sur les mésalignements du taux de change des pays de
+la Zone Franc, ont eu un regain d’intérêt ces dernières années pour au moins deux
+raisons : i) la récurrence des épisodes de forte appréciation de l’euro vis-à-vis du dollar,
+et ii) la baisse des réserves de change due notamment à la chute des cours du pétrole pour
+les pays de la CEMAC dès 2014, faisant ainsi craindre un ajustement monétaire.
+L’objectif de cette étude est donc de revisiter les déterminants du taux de change
+d’équilibre afin d’apprécier le comportement des mésalignements en termes de
+persistance. L’intérêt d’une telle étude est double. Elle permet non seulement d’enrichir
+la batterie d’indicateurs à la disposition de la Banque Centrale, mais elle contribue aussi
+au débat sur l’avenir du FCFA et les ajustements potentiels de la parité de la monnaie. Elle
+permet ainsi de densifier la littérature sur les mésalignements du taux de change au sein
+des pays de la Zone Franc.
+Plusieurs approches d’estimation du taux de change d’équilibre proposées dans la
+littérature sont considérées. Nous procédons à sa détermination empirique pour les pays
+de la CEMAC et mesurons les mésalignements y afférents, à l’aide des méthodes BEER et
+NATREX.
+Les estimations effectuées suggèrent que les termes de l’échange, les dépenses
+publiques et dans une moindre mesure la productivité relative, sont de bons déterminants
+pour le niveau d’équilibre du taux de change effectif réel. Les mésalignements calculés
+indiquent cependant que, les phases de surévaluation et de sous-évaluation du taux de
+change qui s’alternent régulièrement, n’ont pas un caractère persistant et ne sont pas
+toujours identiques d’un pays à l’autre sur la période d’étude (1995-2016). Cette situation
+met ainsi en exergue le caractère hétérogène et vulnérable des pays de la CEMAC et la
+nécessité de construire des bases productives solides et résilientes aux chocs exogènes et
+temporaires. Nous observons également une tendance à la surévaluation du taux de
+change pendant la période de chute des cours du pétrole (2015-2016). Le caractère
+temporaire de cette surévaluation n’a pas nécessité un ajustement monétaire. Toutefois,
+avec des économies principalement exportatrices de ressources naturelles et
+dépendantes des importations, il paraît judicieux de s’appesantir sur des politiques
+structurelles visant une plus grande diversification et permettant de faire face aux
+pressions de surévaluation de la monnaie.
+2
+Etude thématique 2020
+
+--- Page 4 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Résumé
+Ce travail présente le concept de taux de change d’équilibre et discute de son importance pour la
+mise en œuvre des politiques économiques. Il décrit quelques approches d’estimation du taux de
+change d’équilibre proposées dans la littérature et procède à sa détermination empirique pour les
+pays de la CEMAC et des mésalignements y afférents, à l’aide des méthodes BEER et NATREX. Les
+estimations effectuées suggèrent que, les termes de l’échange, les dépenses publiques et dans une
+moindre mesure la productivité relative, sont de bons déterminants pour le niveau d’équilibre du
+taux de change effectif réel. Les mésalignements calculés indiquent cependant que, les phases de
+surévaluation et de sous-évaluation du taux de change qui s’alternent régulièrement, n’ont pas un
+caractère persistant et ne sont pas toujours identiques d’un pays à l’autre sur la période d’étude
+(1995-2016). Cette situation met ainsi en exergue le caractère hétérogène des pays de la CEMAC.
+Nous observons également une tendance à la surévaluation du taux de change pendant la période
+de chute des cours du pétrole (2015-2016). Le caractère temporaire de cette surévaluation n’a
+pas nécessité un ajustement monétaire. Toutefois, avec des économies principalement
+exportatrices de ressources naturelles et dépendantes des importations, il paraît judicieux de
+s’appesantir sur des politiques économiques visant une plus grande diversification et permettant
+de faire face aux pressions de surévaluation de la monnaie.
+Mots-clés : Taux de change réel d’équilibre, modèle comportemental BEER, approche NATREX,
+mésalignements
+Code JEL : C1, C23, C51, E58, F31, F37
+Abstract
+This study introduces the concept of equilibrium exchange rate and discusses its importance for
+implementing economic policies. It describes some approaches for estimating the equilibrium
+exchange rate proposed in the literature and turns to its empirical determination for CEMAC
+countries and related misalignments, using the BEER and NATREX methods. The findings
+suggested that the terms of trade, public expenditure and, to a lesser extent, relative productivity
+are good determinants of the equilibrium level of the real effective exchange rate. The calculated
+imbalances indicate that the phases of overvaluation and undervaluation, which alternate
+regularly, are not determined and are not always identical from one country to another during the
+study period (1995-2016). Hence, this situation highlights the heterogeneous nature of the
+CEMAC countries. We also observe a trend of overvaluation of the exchange rate during the period
+of low oil prices (2015-2016). The temporary nature of this overvaluation does not require a
+monetary adjustment. However, with economies that export mainly natural resources and depend
+on imports, it seems prudent to focus on economic policies aimed at greater diversification and
+making it possible to deal with the pressures of currency overvaluation.
+Keywords: equilibrium real exchange rate, behavioral approach, real exchange rate
+misalignments, NATREX approach
+JEL Code : C1, C23, C51, E58, F31, F37
+3
+Etude thématique 2020
+
+--- Page 5 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Introduction
+Les débats de politique économique menés tant par les universitaires que par les
+institutions en charge de la conduite de la politique économique conduisent généralement
+à mettre en exergue le caractère surévalué du Franc CFA1 qui est arrimé à l’euro par une
+parité fixe. Ces débats sont notamment animés par certains faits, tels que l’appréciation
+considérable de l’euro vis-à-vis du dollar américain. Cette appréciation est évaluée en
+moyenne à 32% entre 2001 et 2020 avec un pic de 51% en 2009 au plus haut de la crise
+financière internationale. Une telle évolution pourrait entraîner une surévaluation2
+mécanique du taux de change, pour les pays utilisant le FCFA, et une perte de
+compétitivité-prix sur les exportations libellés en dollars. Toutefois, il faut nuancer cette
+perception en raison, non seulement de la structure productive faiblement diversifiée des
+pays de la Zone Franc3, mais également eu égard au volume encore très important des
+transactions entre ces pays et l’Europe.
+L’analyse du taux de change d’équilibre, permet ainsi de déterminer les
+déséquilibres (mésalignements) du taux de change et apparaît nécessaire pour apprécier
+la soutenabilité du taux de change du franc CFA à moyen terme. En cas de mésalignements
+(sous-évaluation ou surévaluation) persistants du taux de change, des ajustements des
+prix sont généralement nécessaires pour garantir la soutenabilité de l’ancrage nominal en
+régime de change fixe. Sur ce dernier point Couharde et al. (2012) montrent que les pays
+de la Communauté Economique et Monétaire de l’Afrique Centrale (CEMAC) ne subissent
+pas des phénomènes de surévaluation persistantes de leur taux de change
+comparativement à certains pays de l’Afrique de l’Ouest. Ce constat reste-t-il pertinent
+aujourd’hui ?
+La littérature et les débats sur les mésalignements du taux de change des pays de
+la Zone Franc, ont eu un regain d’intérêt ces dernières années pour au moins deux
+raisons : i) la récurrence des épisodes de forte appréciation de l’euro vis-à-vis du dollar,
+et ii) la baisse des réserves de change due notamment à la chute des cours du pétrole pour
+les pays de la CEMAC dès 2014, faisant ainsi craindre un ajustement monétaire. Plusieurs
+travaux se sont ainsi succédés, impliquant les pays de la Zone Franc et visant notamment
+à : i) identifier les déterminants du niveau d’équilibre du taux de change effectif réel en
+faisant usage des fondamentaux de l’économie (Chudik et Mongardini, 2007 ; Di Bella et
+alii, 2007 ; Gnanssounou et Verdier-Chouchane, 2012) ; ii) évaluer l’influence de l’ancrage
+nominal à l’Euro, sur les mésalignements du FCFA en montrant que la dynamique de l’euro
+n’a pas eu d’incidence négative sur les mésalignements du taux de change (Gnimassoun,
+2012 ; Guillaumont et al. 2020) ; iii) analyser l’influence du choix d’un régime de change sur
+les mésalignements du taux de change en montrant que les mésalignements en Afrique
+1 Le Franc CFA est le nom donné à deux monnaies utilisées dans les ex colonies françaises d’Afrique : l’une
+utilisée en Afrique de l’ouest dans les 8 pays de l’UEMOA, et l’autre utilisée en Afrique centrale dans les 6 pays
+de la CEMAC.
+2 Déviation positive du taux de change effectif réel par rapport à son niveau d’équilibre. Le niveau d’équilibre
+du taux de change est définie par rapport à une valeur de référence associée aux fondamentaux des
+économies. Le taux de change nominal étant coté au certain.
+3 Cette faible diversification limite la capacité de compétition au niveau international.
+4
+Etude thématique 2020
+
+--- Page 6 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+subsaharienne ne sont pas directement rattachés au choix du régime de change (fixe,
+flexible ou intermédiaire) mais davantage à des facteurs structurels (Fouda et Bikai,
+2020) ; iv) déterminer le rôle de la diversification des économies sur les mésalignements du
+taux de change. Ces travaux montrent qu’une plus grande diversification permet de limiter
+les mésalignements du taux de change (Nvuh et al. 2018).
+Au total, la question de l’ancrage nominal du FCFA à l’Euro semble être un moindre
+mal sur le plan macroéconomique, et les caractéristiques structurelles peu diversifiées
+des économies apparaissent préoccupantes pour limiter les mésalignements du taux de
+change effectif réel. L’objectif de cette étude est donc de revisiter les déterminants du taux
+de change d’équilibre afin d’apprécier le comportement des mésalignements en termes
+de persistance.
+L’intérêt d’une telle étude est double. Elle permet non seulement d’enrichir la
+batterie d’indicateurs à la disposition de la Banque Centrale, mais elle contribue
+également au débat sur l’avenir du FCFA et les ajustements potentiels de la parité de la
+monnaie. Elle permet ainsi de densifier la littérature sur les mésalignements du taux de
+change au sein des pays de la Zone Franc. Sur ce dernier point, il faut rappeler que les
+opinions généralement avancées dans le débat sur le FCFA concernant la surévaluation
+du taux de change ne tiennent en général pas compte du caractère persistant ou non de
+cette dernière. En effet, une persistance similaire, de la sur/sous-évaluation, entre les
+pays d’une même zone entraîne nécessairement des politiques d’ajustement, en revanche,
+une alternance des phases de sur/sous-évaluation de faibles amplitudes rend difficile le
+choix des politiques appropriées, et de plus, dans une zone monétaire, les asymétries
+entre les pays compliquent davantage la mise en place d’une politique économique
+commune (Couharde et al., 2012).
+La suite de l’article est organisée en cinq sections. La première s’appesantira sur la
+définition et la mesure appropriée du taux de change d’équilibre. Elle insistera
+particulièrement sur l’incidence du taux de change d’équilibre sur la compétitivité-prix.
+La deuxième section effectuera une revue de littérature de quelques méthodes
+d’évaluation et des critères de sélection des mesures appropriées du taux de change
+d’équilibre. La troisième section procèdera à l’estimation et à l’analyse du taux de change
+d’équilibre et des mésalignements suivant l’approche BEER. La quatrième section
+analysera les résultats issus de l’implémentation d’une autre méthode de détermination
+du taux de change d’équilibre, à savoir le NATREX.
+5
+Etude thématique 2020
+
+--- Page 7 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+I. Taux de change d’équilibre : de quoi s’agit-il ?
+Le taux de change est une variable généralement définie comme le coût d’une
+monnaie par rapport à une autre, il est parfois appelé : taux de change nominal. L’analyse
+de ses fluctuations revêt une importance cruciale dans l’élaboration et la mise en œuvre
+des politiques économiques. A cet effet, il existe d’autres formes de taux de change plus
+adaptées à l’analyse économique notamment le taux de change réel et le taux de change
+effectif réel. Le taux de change réel s’obtient en multipliant le taux de change nominal par
+le ratio des prix entre deux pays. Il peut ainsi être calculé comme un indice sur la base
+d’un panier de biens, dans ce cas il permettra de comparer le coût d’un panier de bien d’un
+pays à un autre. Dans le même temps, il peut arriver qu’on souhaite faire une comparaison
+générale par rapport à l’ensemble des partenaires commerciaux et non nécessairement
+par rapport à deux pays. Dans ce cas, il est judicieux de calculer le taux de change effectif
+réel (TCER). Le TCER est calculé dans ce cas comme une moyenne des taux de change réels
+bilatéraux, pondérée par la part de marché4 de chaque partenaire dans le commerce total.
+Le TCER est donc la variable clé de politique économique qui permet d’attester si le niveau
+du taux de change d’un pays est à l’équilibre ou non.
+Le taux de change d’équilibre apparaît ainsi comme la variable permettant
+d’apprécier la position d’un pays par rapport à ses principaux partenaires. En régime de
+changes flexible, cette variable varie pour équilibrer l’offre et la demande des biens et
+services entre résidents et non-résidents. Elle détermine de ce fait la compétitivité-prix et
+affecte les décisions de consommation et de production des agents au sein d’une
+économie. Le taux de change d’équilibre en régime de changes fixes représente ainsi la
+valeur du taux de change compatible avec l’équilibre macroéconomique. En d’autres
+termes, il s’agit de la valeur du taux de change qui assure l'équilibre interne et l'équilibre
+externe. Notons que l'équilibre interne ici correspond à la croissance maximale qui
+n'accélère pas l'inflation (taux de croissance potentiel) et l'équilibre externe correspond
+à un déficit de la balance courante soutenable à long terme.
+L’expérience de plusieurs pays (notamment d’Afrique, d’Asie et d’Amérique
+latine) permet de conclure à un lien fort entre le niveau du taux de change et la
+performance économique, et de nombreuses études suggèrent que maintenir le taux de
+change proche de son niveau d’équilibre est une condition nécessaire pour un
+développement durable (Cottani, Cavallo, & Khan, 1990). En effet, un mésalignement du
+taux de change est par définition une situation dans laquelle le taux de change effectif réel
+d’un pays s’éloigne de sa valeur d’équilibre. Le taux de change sera ainsi considéré comme
+surévalué lorsqu’il se situe au-dessus du taux de change d’équilibre et sous-évalué
+lorsqu’il se situe en deçà de la valeur d’équilibre. Ces mésalignements ne sont pas sans
+conséquence pour la croissance économique, à priori, un mésalignement durable du taux
+de change réel est de nature à diminuer la profitabilité des industries exportatrices (dans
+le cas d’une surévaluation) ou des secteurs d’activité fortement importateurs (dans le cas
+d’une sous-évaluation). Cependant, des études empiriques démontrent que les
+mésalignements du taux de change ont des effets différenciés sur la croissance selon qu’ils
+4 Ces parts de marché sont ensuite normalisés.
+6
+Etude thématique 2020
+
+--- Page 8 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+correspondent à une surévaluation ou une sous-évaluation (Razin & Collins, 1997). En
+effet, une surévaluation est susceptible de freiner la croissance alors qu’une légère sous-
+évaluation pourrait créer un environnement propice à la croissance. Par ailleurs, une
+surévaluation de la monnaie pourrait non seulement donner le signal pour des attaques
+spéculatives en vue d’une dévaluation mais aussi affecter les décisions d’emprunter en
+monnaie locale ou étrangères des agents économiques. La définition adéquate du taux de
+change d’équilibre revêt dès lors une importance capitale pour la détermination des
+situations de surévaluation et de sous-évaluation d’une monnaie. Bien entendu, tous ces
+effets théoriques ne sont pas automatiques et dépendent parfois de plusieurs facteurs tels
+que le degré de mobilité des capitaux, le niveau de développement financier ou encore le
+niveau de diversification et de développement économique des pays. Le choix d’une
+politique de taux de change nécessite ainsi un équilibre entre la compétitivité économique
+et les pressions inflationnistes pouvant découler d’une sous-évaluation du taux de change
+nominal.
+La compétitivité ici est considérée comme la capacité pour une économie à
+concurrencer avec succès d’autres pays sur les marchés internationaux au travers de son
+offre de biens et services. Le concept de compétitivité englobe plusieurs éléments autant
+qualitatifs que quantitatifs. Ainsi, à titre illustratif, la capacité d’innovation technologique,
+le degré de spécialisation produit, la qualité des produits, le prix5 ou la valeur des produits
+sont autant de facteurs qui peuvent influencer la performance commerciale d’un pays. La
+compétitivité apparaît comme un élément central de la performance économique et un
+niveau de compétitivité faible ou déclinant peut conduire à un ralentissement
+économique. Le taux de change se présente ainsi comme un des déterminants de la
+compétitivité-prix. En effet, si un pays expérimente une appréciation de son taux nominal,
+les biens produits à l’étranger deviennent moins chers que les biens domestiques, ce qui
+entraîne une baisse de la demande extérieure et une baisse des exportations. Cette
+situation n’est pas sans conséquences sur le compte courant et l’activité réelle au niveau
+local.
+A cet égard, le taux de change effectif réel se présente comme un indicateur
+pertinent pour l’analyse de la compétitivité-prix des économies. Il faut tout de même
+rappeler qu’en plus de la compétitivité-prix, il existe une autre forme de compétitivité : la
+compétitivité qualité (structurelle). Elle s’appuie sur la qualité6 des produits et non leur
+prix. Cette forme de compétitivité permet que la demande d’un bien soit soutenue peu
+importe l’évolution de son prix. Comme évoqué plus haut, la compétitivité structurelle
+dépend des facteurs tels que la capacité d’innovation technologique, le degré de
+sophistication des exportations, le degré de spécialisation du produit. Sur cette base, les
+mésalignements n’apparaissent plus nécessairement comme une contrainte en matière
+de compétitivité. C’est en réalité cette forme de compétitivité que les pays africains et
+notamment ceux de la Zone Franc devraient cibler car il y’a toujours une demande des
+biens de bonne qualité quel que soit leur prix.
+5 Le prix étant un élément de la compétitivité, le taux de change également ne représente qu’un élément de
+cette compétitivité (compétitivité-prix).
+6 L’Allemagne fait partie des pays qui ont basé leur compétitivité internationale sur la qualité des produits.
+7
+Etude thématique 2020
+
+--- Page 9 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+II. Littérature sur les méthodes de calcul du Taux de Change
+d’Equilibre
+Le taux de change est une variable fondamentale d’une économie. En effet, son
+instabilité peut porter préjudice à l’activité en affectant les décisions d’investissement des
+agents au regard de l’incertitude qu’il véhicule.
+Le concept de taux de change d’équilibre a été introduit par les travaux de Cassel
+(1922) et Nurkse (1944), et popularisé par Williamson (1985). Il est important pour les
+autorités monétaires à plusieurs égards :
+ En régime de change fixe, et même souvent dans les régimes de change flexibles,
+la connaissance du taux de change d’équilibre permet aux autorités monétaires de
+définir une zone cible de fluctuations du taux de change réel afin d’atténuer sa
+volatilité. La fixation de la parité fixe en régime de change fixe pourra ainsi se faire
+dans l’optique de rapprocher le taux de change effectif réel observé du taux de
+change réel d’équilibre ;
+ Il est important pour les autorités monétaires de savoir le niveau du taux de
+change réel « approprié d’un point de vue macroéconomique, c’est-à-dire,
+compatible avec une situation d’équilibre tant externe qu’interne » à moyen et/ou
+à long terme (Thibault et al., 1998) ;
+ Dans le cadre de l’éclosion d’une union monétaire, la connaissance du taux de
+change d’équilibre est importante pour déterminer la convertibilité des monnaies,
+des pays désireux d’intégrer cette union monétaire. Le processus d’accession à
+l’union monétaire impliquera dès lors l’application des réformes
+macroéconomiques tendant à réduire les écarts de taux de change d’équilibre ;
+ Enfin, cette notion est importante puisqu’elle permet de définir une référence de
+moyen terme pour le taux de change effectif réel dans le cadre d’une politique de
+change.
+Le calcul du niveau dit « d’équilibre » du taux de change ne fait pas l’unanimité et
+reste encore une problématique majeure de la macroéconomie. En ce sens, plusieurs
+mesures ont été proposées.
+1. La théorie de la PPA absolue et relative
+La théorie de la parité du pouvoir d’achat, inaugurée par Gustave Cassel (1922),
+propose de déterminer le taux de change nominal d’équilibre comme le taux qui assure la
+parité de pouvoir d’achat entre deux devises. A ce stade, une distinction doit s’opérer
+entre : (i) la PPA « absolue » qui retient l’hypothèse de la loi du prix unique quelle que soit
+la monnaie considérée, ainsi le taux de change nominal est égal au rapport entre les prix
+domestiques et les prix étrangers ; et (ii) la PPA « relative » qui relâche cette hypothèse :
+une constante multiplie dès lors le rapport des prix domestiques et étrangers pour
+égaliser le taux de change nominal d’équilibre. A ce niveau, la théorie de la parité des
+8
+Etude thématique 2020
+
+--- Page 10 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+pouvoirs d’achat se vérifie, mais en variation (Borowski et al.,1998). L’application de la
+théorie de la parité des pouvoirs d’achat s’est butée aux faits stylisés des économies,
+notamment la rigidité des prix qui crée des écarts entre les prix d’un même bien dans deux
+pays différents. L’implémentation empirique de cette modélisation a également abouti à
+des résultats peu concluants (Giovannetti, 1993 ; Zalduendo, 2008).
+2. L’approche économétrique ou comportementale (BEER)
+Cette approche met en évidence les déterminants de long terme du taux de change
+d’équilibre. Elle préconise le fait que le taux de change réel d’équilibre est déterminé en
+estimant la relation entre le taux de change réel et un ensemble de fondamentaux. Ce type
+de modélisation s’attache surtout à rendre compte de l’évolution des taux de change sur
+la base de régularités empiriques, sans forcément un sous-bassement théorique. Bouveret
+et Sterdyniak (2005) qualifient ainsi cette méthode d’ad hoc. Cette approche a été initiée
+par Faruqee(1995), MacDonald (1997), Clark et Mac Donald (1999). Ces derniers
+identifient un ensemble de variables pouvant influencer le taux de change réel effectif réel
+de long terme, et cherchent ensuite à identifier les potentielles relations de long terme qui
+peuvent exister entre ces variables et le taux de change.
+Il importe de noter que les facteurs susceptibles d’influencer le taux de change
+dans le long terme font l’objet d’amples discussions dans la littérature. La plupart des
+auteurs prennent en compte les caractéristiques intrinsèques des économies étudiées afin
+d’identifier les fondamentaux du taux de change.
+3. L’approche fondamentale ou macroéconomique (FEER et DEER)
+L’approche fondamentale, développée par Williamson (1994) et Cline (2008),
+insiste sur les déterminants de moyen terme du taux de change réel d’équilibre. Elle
+permet d’obtenir une estimation du taux de change effectif réel qui réalise l’équilibre
+interne et externe de l’économie. Le taux de change d’équilibre peut alors se définir
+comme le taux de change permettant l’ajustement progressif de la position extérieure
+nette vers sa valeur d’équilibre. Comme évoqué plus haut, c’est le taux de change qui
+assure un certain niveau d’équilibre du compte courant (« équilibre externe »),
+compatible avec un écart de production nul (« équilibre interne »). Cependant, Williamson
+(1994) propose que la politique de change soit orientée vers l’atteinte de l’équilibre
+externe, tandis que l’atteinte de l’équilibre interne relèverait de la politique budgétaire.
+De ce fait, la première étape de cette approche consiste à déterminer la valeur d’équilibre
+du compte courant (c’est-à-dire le solde courant « soutenable »), puis d’évaluer le niveau
+de taux de change réel permettant d’atteindre cette valeur d’équilibre du compte courant.
+A cet égard, le niveau d’équilibre du taux de change réel dépend fortement de la valeur
+d’équilibre du solde courant de la balance des paiements pour laquelle un débat subsiste
+toujours (Voir Chinn et Prasad, 2003 ; Isard, Kinkaid et Fetherson, 2001 ; Rahman, 2008).
+Les hypothèses fortes de cette approche peuvent impliquer une implémentation
+empirique ardue de ce type de modélisation.
+9
+Etude thématique 2020
+
+--- Page 11 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Tout d’abord, l’arbitraire qui gouverne le choix du niveau d’équilibre du compte
+courant de la balance des paiements entraîne une incertitude sur le niveau d’équilibre du
+taux de change effectif réel (Bouveret et Sterdyniak, 2005). Cette incertitude peut se
+renforcer en union monétaire où les objectifs de politique commerciale de chacun des
+pays peuvent diverger : un pays peut tolérer un solde courant négatif afin de financer ses
+investissements, tandis qu’un autre pays peut vouloir un excédent commercial afin de
+lutter contre l’inflation domestique ou pour honorer les échéances de remboursement de
+sa dette extérieure, etc.
+Ensuite, cette approche présuppose la réalisation de l’équilibre interne. Or le taux
+de change effectif réel agit sur cet équilibre interne par le biais des prix à la consommation,
+et partant, des salaires. Ainsi, elle ne tient pas compte des influences réciproques entre
+Taux de change, écart de production et solde courant.
+Enfin, cette approche est essentiellement statique, et ne tient pas compte des
+dynamiques d’ajustement du compte courant de la balance des paiements. Elle ne permet
+pas de rendre compte des « modalités du retour du taux de change à son niveau
+d’équilibre » (Borowski et Couharde, 1999).
+Pour pallier ces limites, et notamment le caractère statique de l’analyse du FEER,
+Artis et Taylor (1993) ont proposé une autre méthode, le DEER (Desired Equilibrium
+Exchange Rate), qui détermine le taux de change réel d’équilibre sur la base des niveaux
+désirés d’emploi et de solde courant. Comme l’affirment Bouveret et Sterdyniak (2005),
+« le DEER est donc une contrainte sur la trajectoire du taux de change et non un niveau
+donné ». Le DEER apporte ainsi une dimension dynamique à la méthode FEER.
+4. Le NATREX ou l’approche dynamique
+Stein et Allen (1997) définissent le taux de change réel d’équilibre comme étant le
+taux de change réel naturel (NATREX), c’est-à-dire le taux de change qui assure l’équilibre
+de la balance des paiements, omission faite des perturbations cycliques, des flux de
+capitaux spéculatifs et des variations des réserves de change. Dans sa forme classique, il
+suggère qu’il est possible de décomposer la trajectoire du taux de change suivant trois
+horizons : le court, le moyen et le long terme. Toutes les conditions de réalisation de
+l’équilibre macroéconomique, ainsi que les dynamiques de transition entre les différents
+horizons, sont exprimées par un ensemble d’équations dotées de fondements
+microéconomiques. En ce sens, le modèle est dynamique, et par le biais des effets de
+stocks qu’il incorpore fournit une trajectoire d’équilibre du moyen au long terme.
+La pertinence des méthodes de détermination du taux de change réel d’équilibre,
+évoquées ci-dessus, dépend surtout de l’horizon temporel considéré (Bénassy-Quéré,
+Béreau et Mignon, 2009). A très long terme, la théorie de la parité des pouvoirs d’achat
+peut permettre d’entrevoir le phénomène du taux de change d’équilibre, puisque « le
+rattrapage technologique doit conduire à l’égalisation des prix partout dans le monde ».
+A long terme, le solde courant s’est déjà équilibré au regard des structures de l’économie,
+10
+Etude thématique 2020
+
+--- Page 12 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+d’où l’utilité du BEER. A moyen terme, le solde courant ne s’est pas encore stabilisé,
+contrairement aux prix et salaires : ce qui fait qu’on peut appliquer le FEER.
+Toutes ces approches peuvent être pertinentes pour l’analyse économique en
+fonction de la question de politique économique examinée. Divers critères sont à cet effet
+proposés pour sélectionner une approche adéquate d’estimation du taux de change
+d’équilibre, notamment la qualité des prévisions, les co-mouvements entre le taux de
+change d’équilibre et certaines variables macroéconomiques et la cohérence des
+propriétés statistiques de long terme du taux de change d’équilibre avec celles du taux de
+change observé.
+III. Méthodologie de calcul du Taux de Change d’Equilibre pour les
+pays de la CEMAC
+1. Modèle
+L’identification des mésalignements débute par le calcul du taux de change
+d’équilibre. Comme évoqué précédemment plusieurs approches permettent de
+déterminer ce niveau d’équilibre du taux de change en fonction de l’objectif souhaité.
+Trois approches sont régulièrement utilisées en fonction de l’horizon de court, moyen et
+de long terme : (i) l’approche du taux de change d’équilibre fondamental ou le FEER
+(Fundamental Equilibrum Exchange Rate) de Williamson (1994) pour des analyses de
+court terme7, (ii) NATREX (Natural Real Exchange Rate) de Stein (1994) ; Stein et Allen
+(1995) et (iii) l’approche comportementale ou le BEER (Behavioral Equilibrium Exchange
+Rate) de MacDonald (1997) ; Clark et MacDonald (1998), cette approche dynamique, met
+en exergue les déterminants de long terme du taux de change d’équilibre8.
+Nous privilégions dans un premier temps la méthode BEER inspirée des travaux
+de Gnimassoun (2012) repris par Nvuh et al (2018) pour les pays de la Zone Franc.
+La relation de long terme qui nous permet d’estimer le taux de change d’équilibre
+par rapport à ses fondamentaux est donc la suivante :
+𝑡𝑐𝑒𝑟 = 𝛿 +𝛿 𝑝𝑖𝑏 +𝛿 𝑡𝑒 +𝛿 𝑜𝑢𝑣 +𝛿 𝑚𝑐 +𝛿 𝑑𝑒𝑝 +𝛿 𝑖𝑛𝑣 + 𝜀 (1)
+𝑖𝑡 𝑖 1 𝑖𝑡 2 𝑖𝑡 3 𝑖𝑡 4 𝑖𝑡 5 𝑖𝑡 6 𝑖𝑡 𝑖𝑡
+Avec i=1,2…N et t=1,2…T
+Dans la relation (1), tcer est le taux de change effectif réel calculé sur la base de
+186 partenaires commerciaux de chaque pays ; 𝑝𝑖𝑏 est la productivité relative extraite
+𝑖𝑡
+de la base Eqchange de la CEPII, et mesurée comme le rapport entre le PIB réel par
+habitant (en termes de la PPA) dans le pays considéré et la moyenne pondérée par les
+échanges du PIB réel par habitant des partenaires commerciaux (signe attendu négatif) ;
+7 Permet d’estimer le taux de change réel qui réalise l’équilibre interne et externe de l’économie
+8 Le taux de change réel est estimé ici en fonction d’un ensemble de fondamentaux. En d’autres termes, cette
+approche estime le taux de change d’équilibre sur la base d’une relation de cointégration entre le taux de
+change effectif réel et les fondamentaux de l’économie.
+11
+Etude thématique 2020
+
+--- Page 13 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+𝑡𝑒 représente les termes de l’échange qui produisent deux effets sur le taux de change :
+𝑖𝑡
+un effet de revenu et un effet de substitution. Le signe attendu ici dépend de la domination
+de l’un des effets. Certaines études sur la Zone Franc privilégient un effet revenu
+(Gnimassoun, 2012 ; Ouattara et Strobl, 2008). Le signe attendu est donc négatif ; 𝑜𝑢𝑣
+𝑖𝑡
+est le degré d’ouverture commerciale approximé par le rapport entre la somme des
+exportations et des importations sur le PIB (signe attendu positif) ; 𝑚𝑐 représente les
+𝑖𝑡
+mouvements de capitaux approximés par la part de l’aide publique au développement
+reçu en pourcentage du Revenu National Brut (signe attendu négatif) ; 𝑑𝑒𝑝 est la part
+𝑖𝑡
+des dépenses publique en pourcentage du PIB (signe attendu négatif) et 𝑖𝑛𝑣 les
+𝑖𝑡
+investissements domestiques dans le PIB (signe attendu négatif). 𝛿 est l’effet fixe pays et
+𝑖
+les 𝛿 les coefficients associés à nos variables d’intérêt.
+𝑗
+Le mésalignement du taux de change sera calculé sur la base de l’estimation de
+l’équation 1 :
+𝑚𝑒𝑠𝑎 = 𝑡𝑐𝑒𝑟 −𝑡̂𝑐𝑒𝑟 (2)
+𝑖𝑡 𝑖𝑡
+Avec 𝑡̂𝑐𝑒𝑟 le niveau d’équilibre du taux de change effectif réel provenant de l’estimation
+𝑖𝑡
+de l’équation 1.
+2. Méthode d’estimation
+L’estimation de la relation de long terme entre le taux de change et ses
+fondamentaux se fera dans le cadre de cette étude à travers trois (3) techniques distinctes
+qui seront comparées pour des besoins d’analyse de la robustesse des résultats. Ainsi, du
+fait de l’inefficacité des estimateurs classiques within et between, nous retenons ici : (i)
+l’approche des moindres carrés ordinaires pleinement modifiés (FMOLS) développée par
+Phillips et Hansen (1990) et Pedroni (1996, 1997, 1999, 2001), (ii) les moindres carrés
+ordinaires dynamiques (DOLS) développée par Saikkonen (1991), Kao et Chiang (2000)
+Stock et Watson (1993) ; Mark et soul (2003) et (iii) l’estimateur Pooled mean group
+(PMG) qui permet un traitement efficace des panels dynamiques pour lesquels on admet
+que le nombre d’observations temporelles (T) est aussi grand que celui des individus (N9).
+Ces estimateurs tiennent compte des problèmes d’endogénéité du second ordre des
+régresseurs et des propriétés d’autocorrélation et d’hétéroscédasticité des résidus.
+Dans la littérature empirique un débat persiste sur l’efficacité de ces approches.
+Pedroni (1996) montre que la méthode DOLS produit des distorsions de taille plus élevées
+que FMOLS. Kao et Chiang (2000) montrent par contre que la méthode FMOLS peut être
+plus biaisé que DOLS (Harris et Sollis, 2005). Ramirez (2007) soutient quant à lui que la
+méthode FMOLS est préférée à la méthode DOLS pour des échantillons de faible taille. La
+méthode PMG nous permettra de trancher sur l’estimateur optimal.
+La validation de notre approche se fera à travers des tests de cointégration
+permettant de valider la relation de long terme entre le taux de change effectif réel et les
+9 Il permet d’estimer une relation de long terme entre différentes variables, sans précautions préalables au
+sujet de la stationnarité ou même l’existence d’une relation de cointégration entre ces dernières.
+12
+Etude thématique 2020
+
+--- Page 14 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+fondamentaux retenus. Les tests utilisés à cet effet sont ceux de Pedroni (1996, 1997,
+1999, 2001, 2004) et le test de cointégration de Kao (2004). Mais avant une telle
+validation, il est d’abord utile de procéder à des tests de racine unitaire en panel. Nous
+ferons ainsi recours aux tests de première et de seconde génération. Les tests de première
+génération supposent un processus de racine unitaire commun (IPS). Les tests de
+deuxième génération quant à eux supposent des processus de racine unitaire individuel
+et distinct (test ADF de Pesaran, 2007).
+3. Données
+En raison de l’indisponibilité de certaines données sur une longue période, notre
+échantillon est constitué d’un panel de 14 pays de la Zone Franc sur la période 1995 à
+2016. Toutefois, les résultats commentés ne concernent que les pays de la CEMAC. Le taux
+de change effectif réel est issu de la base Eqchange de la CEPII. Toutes les autres données
+proviennent principalement de la base de données de la Banque mondiale WDI.
+IV. Résultats et recommandations
+1. Tests de racine unitaire
+A l’exception du degré d’ouverture commerciale et des investissements intérieurs
+qui sont stationnaires en niveau, les autres variables sont intégrés d’ordre 1.
+13
+Etude thématique 2020
+
+--- Page 15 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Tableau 1 : tests de racine unitaire
+Test 1ére Test de 2éme
+génération génération
+Ordre d'intégration Variables IPS (1997, 2003) ADF Pesaran (2007)
+Taux de change réel -1,505 0,842
+Productivité relative -1,8409 0,247
+Termes de l'échange -2,0721 3,176
+Degré d’ouverture commerciale -4,5599*** -2,104***
+En niveau
+Aide publique au développement -0.8736 0.661
+Mouvement de capitaux à long terme -0,8736 0,661
+Dépenses publiques -3,0438 -1,805
+Investissement intérieur -3,8907*** -2,822***
+Taux de change réel -10,0474*** -3,728***
+Productivité relative -3,613*** -4,269***
+Termes de l'échange -7,661*** -4,275***
+En différence Degré d’ouverture commerciale -5,2653*** -7,117***
+(ordre 1) Aide publique au développement -4.6368*** -2.354***
+Mouvement de capitaux à long terme -4,6368*** -2,354***
+Dépenses publiques -6,2023*** -2,644***
+Investissement intérieur -10,3512*** -5,622***
+Note: ***significativité à 1%
+2. Test de cointégration
+Les deux tests de cointégration effectués sur le lien entre le taux de change effectif
+réel et ses fondamentaux sont concluants. Il existe donc une relation de long terme entre
+les variables identifiées dans l’équation 1. Ce test nous permet ainsi de valider l’équation
+de détermination du taux de change d’équilibre puis de procéder à l’estimation de la
+relation de long terme utile pour le calcul des mésalignements du taux de change (relation
+2).
+14
+Etude thématique 2020
+
+--- Page 16 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Tableau 2 : Tests de cointégration de Pedroni (2001)
+Ho: Pas de cointégration Statistique
+Panel v statistic -0,7991
+Panel rho-statistic -4,296***
+Panel t statistic -14,63***
+Panel ADF statistic -10,14***
+Group rho statistic -3,274***
+Group t statistic -18,31***
+Goup ADF statistic -9,865***
+Note:*,**,*** respectivement significativité à 10%, 5% et 1%
+Tableau 3 : Tests de cointégration de Kao (2000)
+Ho: Pas de cointégration t-statistic p-value
+ADF -8,349967*** 0.0000
+Variance résiduelle 0,024692
+HAC Variance 0,004279
+Note: *** significativité à 1%
+A l’issue de la validation de la relation de long terme, l’estimation de cette
+relation (Tableau 4) indique une significativité des termes de l’échange, des dépenses
+publiques dans l’explication du niveau d’équilibre du taux de change. Bien que certaines
+variables ne soient pas significatives, les signes obtenus sont globalement ceux attendus
+surtout pour l’estimateur PMG.
+15
+Etude thématique 2020
+
+--- Page 17 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Tableau 4 : Estimation du taux de change d’équilibre (relation de long terme)
+DOLS FMOLS PMG
+VARIABLES Taux de change effectif réel
+Productivité relative 0.0179 0.0212** -0.00658
+(0.0116) (0.00974) (0.00722)
+Termes de l'échange 0.155*** 0.0346** 0.0552***
+(0.0278) (0.0157) (0.0125)
+Aide publique au développement -0.00267 0.00396 -0.0715***
+(0.00647) (0.00506) (0.00814)
+Dépenses publiques 0.0316*** -0.00114 -0.00721*
+(0.0119) (0.00540) (0.00418)
+Investissement intérieur -0.00673
+(0.00515)
+Trend linéaire 0.000461***
+(6.65e-05)
+constante 3.716*** 4.364***
+(0.135) (0.0742)
+Observations 304 306 290
+16
+Etude thématique 2020
+R 2 0.163 0.173
+Les écarts-types entre parenthèse
+*** p<0.01, ** p<0.05, * p<0.1
+3. Calculs et analyses des mésalignements
+Dans l’ensemble les mésalignements calculés avec la méthode DOLS produit des
+distorsions de taille plus élevées comme l’a démontré Pedroni (1996). Nous privilégions
+ainsi l’approche FMOLS et surtout PMG parce qu’elle se rapproche le plus de la réalité,
+notamment pour les récentes années affectées par la chute des cours du pétrole, il a été
+observé une pression négative sur l’équilibre externe mettant ainsi en exergue une
+potentielle surévaluation du taux de change effectif réel.
+
+--- Page 18 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Les résultats indiquent que dans l’ensemble, le taux de change des pays pétroliers
+de la CEMAC a été globalement surévalué au cours de la période de chute des cours du
+baril de pétrole (2014-2016). Toutefois, les phases de surévaluation et de sous-évaluation
+du taux de change s’alternent régulièrement sur la période 1996-2016. Cette alternance
+matérialise le caractère non persistant des mésalignements dans la CEMAC, ce qui
+n’appelle pas d’ajustement monétaire. Ce résultat a également été trouvé par Couharde et
+al. (2012) qui ont montré que les mésalignements sont plus persistants en Afrique de
+l’Ouest par rapport à l’Afrique Centrale.
+Par pays, il est observé une hétérogénéité des comportements de mésalignement,
+ce qui peut rendre un ajustement délicat puisque les pays ne font pas face aux mêmes
+réalités. Le Cameroun par exemple exhibe des phases de sous-évaluation du taux de
+change lorsque d’autres pays exhibent une surévaluation de leur taux de change. Cela
+traduit le caractère hétérogène de l’union monétaire dans la CEMAC et met en lumière la
+nécessité de poursuivre le processus de diversification des économies (Nvuh et al, 2018).
+Nous observons également que les périodes de crise sont généralement
+accompagnées de phases de surévaluation du taux de change (crise pétrolière et crise
+financière). En Centrafrique par contre, en tenant compte de l’estimateur PMG, on observe
+une tendance à la surévaluation du taux de change en lien avec les problèmes sécuritaires
+qu’a connu ce pays durant la période d’étude.
+Figure 1 : Mésalignements au Cameroun
+Cameroun Cameroun
+2.5 0.8
+2
+0.6
+1.5
+1 0.4
+0.5
+0.2
+0
+0
+-0.5
+-1 -0.2
+-1.5
+-0.4
+-2
+6 8 0 2 4 6 8 0 2 4 6
+9 9 0 0 0 0 0 1 1 1 1 -0.6
+9 9 0 0 0 0 0 0 0 0 0
+1 1 2 2 2 2 2 2 2 2 2 6 8 0 2 4 6 8 0 2 4 6
+9 9 0 0 0 0 0 1 1 1 1
+9 9 0 0 0 0 0 0 0 0 0
+mesa_dols mesa_fmols 1 1 2 2 2 2 2 2 2 2 2
+mesa_pmg mesa_fmols mesa_pmg
+17
+Etude thématique 2020
+
+--- Page 19 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Figure 2 : Mésalignements au Congo
+Congo Congo
+3 0.8
+2 0.6
+1 0.4
+0.2
+0
+0
+-1
+-0.2
+-2
+-0.4
+-3
+-0.6
+mesa_dols mesa_fmols
+mesa_pmg mesa_fmols mesa_pmg
+Figure 3 : Mésalignements au Gabon
+Gabon Gabon
+3 0.6
+2 0.4
+1 0.2
+0 0
+-1 -0.2
+-0.4
+-2
+-0.6
+-3
+-0.8
+mesa_dols mesa_fmols
+mesa_pmg mesa_fmols mesa_pmg
+18
+Etude thématique 2020
+
+--- Page 20 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Figure 4 : Mésalignements en Guinée Equatoriale
+Guinée Equatoriale Guinée Equatoriale
+4 0.6
+3
+0.4
+2
+1 0.2
+0
+0
+-1
+-2
+-0.2
+-3
+-4 -0.4
+-5
+-0.6
+-6
+5 7 9 1 3 5 7 9 1 3 5
+9 9 9 0 0 0 0 0 1 1 1 -0.8
+9 9 9 0 0 0 0 0 0 0 0
+1 1 1 2 2 2 2 2 2 2 2
+mesa_dols mesa_fmols
+mesa_pmg mesa_fmols mesa_pmg
+Figure 5 : Mésalignements en Centrafrique
+Centrafrique Centrafrique
+1.2 0.8
+1
+0.8 0.6
+0.6
+0.4
+0.4
+0.2
+0.2
+0
+-0.2 0
+-0.4
+-0.6 -0.2
+-0.8
+-0.4
+-1
+5 7 9 1 3 5 7 9 1 3 5
+9 9 9 0 0 0 0 0 1 1 1 -0.6
+9 9 9 0 0 0 0 0 0 0 0
+1 1 1 2 2 2 2 2 2 2 2 5 7 9 1 3 5 7 9 1 3 5
+9 9 9 0 0 0 0 0 1 1 1
+9 9 9 0 0 0 0 0 0 0 0
+mesa_dols mesa_fmols 1 1 1 2 2 2 2 2 2 2 2
+mesa_pmg mesa_fmols mesa_pmg
+19
+Etude thématique 2020
+
+--- Page 21 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Figure 6 : Mésalignements au Tchad
+Tchad Tchad
+4 0.8
+3
+0.6
+2
+0.4
+1
+0 0.2
+-1 0
+-2
+-0.2
+-3
+-0.4
+-4
+5 7 9 1 3 5 7 9 1 3 5
+9 9 9 0 0 0 0 0 1 1 1 -0.6
+9 9 9 0 0 0 0 0 0 0 0
+1 1 1 2 2 2 2 2 2 2 2 5 7 9 1 3 5 7 9 1 3 5
+9 9 9 0 0 0 0 0 1 1 1
+9 9 9 0 0 0 0 0 0 0 0
+mesa_dols mesa_fmols 1 1 1 2 2 2 2 2 2 2 2
+mesa_pmg mesa_fmols mesa_pmg
+V. Analyse de robustesse : Approche du NATREX
+Afin de confirmer le caractère non persistant des mésalignements dans la CEMAC,
+nous analysons la robustesse de nos résultats en utilisant une autre méthode d’estimation
+du niveau d’équilibre du taux de change effectif réel à savoir le NATREX. Cette approche
+nous amène à faire des hypothèses supplémentaires.
+En respectant la condition d’équilibre, le taux de change réel peut se décomposer
+en trois (03) termes :
+𝑅𝑡 = {𝑅𝑡𝐶𝑇 −𝑅𝑡𝑀𝑇[𝐾𝑡,𝐹𝑡,𝑍𝑡]}+{𝑅𝑡𝑀𝑇[𝐾𝑡,𝐹𝑡,𝑍𝑡]−𝑅𝑡𝐿𝑇[𝑍𝑡]}+𝑅𝑡𝐿𝑇[𝑍𝑡] (3)
+Le premier terme représente les déviations du taux de change réel de court terme
+dues aux facteurs spéculatifs et cycliques du NATREX. Le second terme met en évidence
+les écarts entre le NATREX de moyen terme et le NATREX de long terme, tandis que le
+dernier terme est le NATREX de long terme qui ne dépend que des variables
+fondamentales exogènes.
+Le modèle NATREX, qui s’inspire de Lim et Stein (1995), suppose généralement
+que le taux de change effectif réel est une variable non stationnaire, les facteurs
+fondamentaux de long terme (Z) sont également non stationnaires, alors que les facteurs
+fondamentaux de court terme sont stationnaires.
+20
+Etude thématique 2020
+
+--- Page 22 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+La relation de long terme 𝑅𝑡𝐿𝑇[𝑍𝑡](𝑡𝑐𝑒𝑟 ) qui nous permet d’estimer le taux de
+𝑖𝑡
+change d’équilibre par rapport à ses fondamentaux s’exprime de la même façon que celle
+de l’approche BEER, et est représentée par l’équation (1) présentée précédemment.
+Le mésalignement du taux de change sera calculé sur la base de l’estimation de
+l’équation (2), ou en pourcentage du taux de change réel :
+𝑚𝑒𝑠𝑎_𝑟𝑒 = (𝑡𝑐𝑒𝑟 −𝑡̂𝑐𝑒𝑟 )/𝑡𝑐𝑒𝑟 (4)
+𝑖𝑡 𝑖𝑡 𝑖𝑡
+L’estimation du taux de change d’équilibre (NATREX) a été faite à travers
+l’approche ARDL (Auto Regressive Distributed Lag model ou modèle AutoRegressif à
+retard échelonné) en panel. Ce modèle qui fait partie de la classe des modèles dynamiques
+permet d’estimer les dynamiques de court terme et les effets de long terme pour des
+séries cointégrées ou même intégrées à des ordres différents (Peseran et al., 2001).
+Toutefois, l’on ne sait pas appliquer un modèle ARDL pour des séries intégrées à des
+ordres supérieurs à 1.
+Le modèle ARDL en panel est basé sur trois (03) estimateurs : i) le Mean Group
+(MG) développé par Pesaran et Smith (1995) qui permet la variabilité des coefficients
+dans le court et le long terme, ii) le Pooled Mean Group (PMG) proposé par Pesaran et al
+(1999) qui combine à la fois pooling et moyenne ; Cette méthode impose une contrainte
+d’égalité aux coefficients de long terme et permet aux coefficients de court terme d’être
+différents d’un pays à l’autre, et iii) le Dynamic fixed effect (DFE) est similaire au PMG
+mais impose en plus l’égalité de la vitesse du coefficient d’ajustement et du coefficient de
+court terme (Pesaran et al, 1999). Dans le cadre de notre travail nous avons privilégié la
+méthode d’estimation Pooled Mean Group (PMG) pour les raisons évoquées
+précédemment.
+La validation de cette approche se fera au moyen de test de cointégration en panel
+basé sur le modèle ARDL. On effectue d’abord les tests de racine unitaire (de première et
+de deuxième génération) en panel habituels (Im, Pesaran, Shin, 2003). Après les tests de
+racine unitaire, il est calculé l’estimateur PMG en ayant pris le soin de choisir le nombre
+de retards qui minimise les critères d’information. A l’issue des tests de racine unitaire,
+lorsque les séries sont intégrées de même ordre, il est effectué les tests de cointégration
+en panel usuels (Pedroni 1996, 1997, 1999, 2001, 2004) et le test de Kao (2004).
+1. Estimation de la relation de long terme
+Les résultats de l’estimation des coefficients de long terme du modèle ARDL par
+l’approche des PMG se présentent comme suit dans le tableau 2 ci-après :
+21
+Etude thématique 2020
+
+--- Page 23 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Tableau 5 : Estimation de la relation de long terme du taux de change réel
+Variables Coefficients Probabilité(p)
+Productivité relative -0,5 0,03*
+Termes de l’échange 0,28 0,23
+Degré d’ouverture commerciale 0,85 0,00***
+Mouvement de capitaux à long terme -0,72 0,00***
+Investissements intérieurs 0,68 0,00***
+Dépenses publiques -0,97 0,00***
+Nous observons qu’à long terme la productivité est significative (p<0,05) et
+déprécie le taux de change réel ce qui va à l’encontre de l’effet Balassa-Samuelson, en effet
+ces résultats sont similaires à ceux de Lim et Stein (1995) sur le cas d’une petite économie
+ouverte et sont opposés à ceux obtenus pour les grandes économies, ainsi une
+augmentation de 1% de la productivité entraîne une dépréciation du taux de change de
+0,5%.
+Les termes de l’échange impactent positivement le taux de change effectif réel bien,
+une augmentation de 1% des termes de l’échange peut entraîner une appréciation du taux
+de change de 0,28%, cela est dans le même sens des résultats trouvés par Lim et Stein
+(1995) ainsi que par d’autres études qui ont porté sur les pays en développement.
+S’agissant des dépenses publiques et des mouvements de capitaux à long terme,
+on constate une significativité mais avec un effet négatif sur le taux de change
+conformément au signe attendu. Ainsi toutes choses égales par ailleurs, une augmentation
+de 1% des dépenses publiques pourrait entraîner une dépréciation du taux de change de
+0,97% et une hausse de 1% des entrées de capitaux à long terme se traduirait par une
+dépréciation de 0,72% du taux de change effectif réel. La relation entre les dépenses
+publiques et le taux de change n’est pas si clair dans la littérature mais peut être expliquée
+selon l’orientation des dépenses.
+2. Calcul des mésalignements
+Pour les mêmes raisons évoquées pour l’approche BEER, les mésalignements sont
+calculés par l’approche PMG mettant en exergue une alternance des phases de
+surévaluation et de sous-évaluation. Ce résultat confirme ainsi nos résultats précédents
+et mettent en lumière le caractère non persistant des mésalignements dans la CEMAC.
+Sur la période d’étude (1995-2016), les phases de surévaluation semblent plus
+nombreuses pour certains pays (Cameroun, Centrafrique et Congo). Toutefois, il est
+également observé que les phases de surévaluation et de sous-évaluation du taux de
+22
+Etude thématique 2020
+
+--- Page 24 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+change réel s’alternent régulièrement, et ne sont pas synchrones dans la sous-région :
+traduisant ainsi le caractère hétérogène des économies tel que démontré précédemment.
+Figure 7 : Mésalignements (absolus) dans les pays de la CEMAC
+Figure 8 : Mésalignements (en %) dans les pays de la CEMAC
+23
+Etude thématique 2020
+
+--- Page 25 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Conclusion
+Ce travail s’est intéressé au concept du taux de change d’équilibre dans la CEMAC,
+utile pour le calcul des mésalignements du taux de change effectif réel, afin d’apprécier le
+degré de persistance de ces derniers. Plusieurs méthodes d’évaluation du taux de change
+d’équilibre ont été recensées dans la littérature (BEER, FEER, DEER, NATREX etc.).
+L’usage de l’approche BEER et NATREX nous a permis d’estimer la relation de long terme
+du taux de change effectif réel d’équilibre et de déterminer les différents mésalignements
+associés. Les résultats montrent que les phases de surévaluation et de sous-évaluation du
+taux de change s’alternent régulièrement sur la période 1996-2016. Cette alternance
+matérialise le caractère non persistant des mésalignements dans la CEMAC, et n’appelle
+nécessairement un ajustement monétaire. Ce résultat est conforme à celui trouvé par
+Couharde et al. (2012). Il est également observé que, bien que les phases de surévaluation
+et de sous-évaluation du taux de change réel s’alternent régulièrement, elles ne sont pas
+synchrones dans la sous-région et traduisent ainsi le caractère hétérogène des économies
+de la CEMAC.
+L’absence de persistance des mésalignements combiné à l’hétérogénéité des
+mouvements de ces derniers, rendent ainsi difficile une action de politique monétaire
+d’ajustement du taux de change. L’une des causes de ce phénomène peut être le faible
+degré de diversification des économies. Les travaux de Nvuh et al (2018) montrent à ce
+titre qu’une plus grande diversification permet de réduire l’ampleur des mésalignements.
+Ce travail permet non seulement de contribuer au débat sur le Franc CFA, mais met
+aussi en lumière la difficulté que peut avoir la Banque Centrale commune dans le choix
+d’une orientation de la politique monétaire qui pourrait être préjudiciable pour un bon
+nombre de pays.
+Etant donné que notre analyse est indépendante de l’action de la Banque Centrale,
+des pistes futures de recherche pourraient concerner une modélisation en équilibre
+général dynamique stochastique permettant de suggérer la réaction optimale de la
+Banque Centrale suite aux différents chocs sur les mésalignements du taux de change.
+24
+Etude thématique 2020
+
+--- Page 26 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+Références bibliographiques
+1- Abdih, Y. and Tsangarides, C. (2010) : « FEER for the CFA Franc». Applied Economics, 42 :
+2009-2029.
+2- Ades, A. (1996) : « GSDEEMER and STMPIs : New Tools for Forcasting Exchange Rates in
+Emerging Markets», Economic Research, Goldman Sachs.
+3- Agnès Bénassy-Quéré & Valérie Mignon & Sophie Béreau, (2009). "Taux de change
+d'équilibre : une question d'horizon," Post-Print hal-00634795, HAL.
+4- Aghion, P., Bacchetta, P., Rancière, R., Rogoff, K. (2009) : « Exchange rate volatility and
+productivity growth The role of financial development». J. Monet. Econ. 56 (4), 494-513.
+5- Allegret, J.-P., Couharde, C., Mignon, V., (2014) : « Current accounts and oil price
+fluctuations in oil-exporting countries the role of financial development». J. Int. Money Et
+Financ. 47, 185-201.
+6- Asongu, S. (2014) : « Reer Imbalances and Macroeconomic Ajustments : evidence from
+CEMAC Zone», African Governance and Development Institute. Working Paper 14/019.
+7- Baffes, J., I. Elbadawi Et S. O’connel (1997) : « Single-Equation of the Equilibrium Real
+Exchange Rate», in Hinkle L. et P. Montiel, Exchange rate and measurement for developing
+countries, Oxford University Press, pp. 405-64.
+8- Balassa, B. (1994) : « La théorie de la parité des pouvoirs d’achat : un réexamen », Revue
+d’Economie du Développement, No 1, mars, 17-34.
+9- Balassa, B., (1964) : « The purchasing-power parity doctrine : a reappraisal ». Journal of
+Political. Econony. 72(6) 584.-596.
+10- Bikai, J., L., et Owoundi, F., F., (2016) : « Le Choix d’un Régime de Change permet-il de
+limiter les mésalignements du taux de change ? L’exemple des pays d’Afrique Sub-
+saharienne». BEAC Working Paper, N°02/16.
+11- Banerjee, A. (1999) : « Panel Data Units and Cointegration : an Overview», Oxford Bulletin
+of Economics and Statistics, vol. 61, No 3, pp. 607-629.
+12- Bjorland, H. (2004) : « Estimating the equilibrium real exchange rate in Venezuela»,
+Economics Bulletin, 6(6), 1-8.
+13- Bodart, V., Candelon, B., Carpantier, J.F., (2012) : « Real exchanges rates in commodity
+producing countries : a reappraisal», Journal of International Money Finance 31,1482-
+1502.
+14- Bodart,V ; Carpantier, J., F., (2016) : « Real exchange rates and skills », Journal of
+International Money Finance.
+15- BOUVERET Antoine, STERDYNIAK Henri (2005), « Les modèles de taux de change.
+Équilibre de long terme, dynamique et hystérèse », Revue de l'OFCE, 2005/2 (no 93), p.
+243-286. DOI : 10.3917/reof.093.0243.
+16- Bordo, M. D., Choudhri, E., U. Fazio, G. and MacDonald, R. (2017) : « The real exchange rate
+in the long run : Balassa-Samuelson effects reconsidered,» Journal of International Money
+and Finance, 75, 69-92.
+17- Borowski Didier, Couharde Cécile, Thibault Florence (1998). Les taux de change
+d'équilibre fondamentaux : de l'approche théorique à l'évaluation empirique. In: Revue
+française d'économie, volume 13, n°3, pp. 177-206.
+18- Borowski, D., Couharde, C (2003). The Exchange Rate Macroeconomic Balance Approach:
+New Methodology and Results for the Euro, the Dollar, the Yen and the Pound
+Sterling. Open Economies Review 14, 169–190.
+19- Bouveret A. et Sterdyniak H. (2005), « Les modèles de taux de change. Equilibre de long
+terme, dynamique et hystérèse », Revue de l’OFCE.
+20- Bouoiyour J. et Kuikeu O., (2007) : « Pertinence de la dévaluation du Franc CFA de janvier
+1994 : une évaluation par le taux de change réel d’équilibre ; cas de l’économie
+camerounaise», Document de travail MPRA n° 31357, Université de Pau, 35 pages.
+25
+Etude thématique 2020
+
+--- Page 27 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+21- CASSEL, GUSTAV (1922). Money and Foreign Exchange After 1914. Pp. 287. New York:
+The Macmillan Company.
+22- Clark, P. Et R. Mac Donald (1998) : « Exchange Rate and Economic Fundamentals :A
+Methodological Comparaison of BEERs and FEERSs», IMF Working Paper 98/67,
+Washington, D.C. : IMF, May.
+23- Cline, William R. (2008). Estimating Consistent Fundamental Equilibrium Exchange Rates.
+Working Paper 08-6. Washington: Peterson Institute.
+24- Chinn M. et Prasad E. (2003), « Medium Term Determinants of Current Accounts in
+Industrial and Developing Countries: An Empirical Exploration », Journal of International
+Economics.
+25- Chudik, Alexander and Mongardini, Joannes (2007), In Search of Equilibrium: Estimating
+Equilibrium Real Exchange Rates in Sub-Saharan African Countries (April 2007). IMF
+Working Paper No. 07/90,
+26- Cottani, Domingo F Cavallo and M Shahbaz Khan (1990) : Real Exchange Rate Behavior
+and Economic Performance in LDCs, Economic Development and Cultural Change, vol. 39,
+issue 1, 61-76
+27- Coudert, V. & Couharde, C. (2009) : « Currency Misalignments and Exchange Rate Regimes
+in Emerging and Developing Countries », Review of International Economics,17(1), 121-
+136
+28- Coudert, V., Couharde, C., et Mignon, V. (2013) : « Les mésalignements de taux de change
+réels à l’intérieur de la Zone euro », Revue de l’OFCE, 127(1), 35-56.
+29- Couharde, C. ; Coulibaly, I. et Damette, O. (2012) : « La Dynamique d’ajustement des taux
+de change reels dans la Zone Franc CFA», Revue Economique, 63(3), 545-555.
+30- Couharde, C. Delatte, A. ; Grekou, C. ; Mignon, V. and Morvillier, F. (2017) : «EQCHANGE: A
+World Database on Actual and Equilibrium Effective Exchange Rates »,Working Paper
+CEPII 2017-14.
+31- Cottani, J.A., F. Cavallo Et M.S. Khan (1990) : « Real Exchange Rate Behavior and Economic
+Performance in LDCs», Economic Development and Cultural Change, vol. 39,No 3, pp. 61-
+76.
+32- Devarajan, S. (1997) : « Real exchange rate misalignment in the CFA Zone». Journal of
+African Economies, 6 : 35-53.
+33- Dickey, D. Et W. Fuller (1979) : « Distribution of the Estimators for Autoregressive Time
+Series with Unit Root», Journal of the American Statistical Association, vol. 74,No 2, pp.
+427-81.
+34- Drine et Rault C. (2005) : « Déterminants de long terme des taux de change réels pour les
+pays en développement : une comparaison internationale », Revue d’économie du
+développement, 13, 123-150.
+35- Dubas, J., (2009) : « The Importance of Exchange rate Regime in Limiting Misalignement».
+World Development, 37(10), 1612-1622.
+36- Edwards, S. (1988) : « Real and Monetary Determinants of Real Exchange Rate
+Behavioral», Journal of Development Economics, vol. 29, No 1, pp. 311-341.
+37- Edwards, S. (1989) : « Real Exchange Rates, Devaluation and Adjustment : Exchange Rate
+Policy in Developing Countries», Cambridge, Mass : MIT Press.
+38- Edwards, S. (1993) : « Openness, Trade Liberalization, and Growth in Developing
+Countries», Journal of Economic Literature, American Economic Association, vol. 31,No 3,
+pp. 1358-1393.
+39- Elbadawi, I. (1994) : « Estimating Long-Run Equilibrium Real Exchange Rates», in J.
+Williamson (ed.), Estimating Equilibrium Exchange Rates, Washington, D.C. : Institute for
+International Economics.
+40- Elbadawi, I. Et R. Soto (1995) : « Capital Flows and Equilibrium Real Exchange Rate in
+Chile», Policy Research Working Paper, No 1306, Banque mondiale, Washington DC.
+26
+Etude thématique 2020
+
+--- Page 28 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+41- Elbadawi, I. Et R. Soto (1997) : « Real Exchange Rates and Macroeconomic Adjustment in
+Sub-Saharan Africa and Other Developing Countries», Journal of African Economies, Vol 6,
+No 3, Supplement, pp. 74-120.
+42- Elbadawi, I. (1999) : « Can Africa Export Manufactures : The Role of Endowment, Exchange
+Rates, and Transaction Costs», World Bank : Policy Research Working Paper,No. 2120.
+43- Etta-Nkwelle, M. ; Jeong, J., G. and Fanara, F. (2010) : « Misalignment of the real exchange
+rate in the African Financial Community (CFA Zone) and its policy implications», Applied
+Financial Economics, 20(15), 1205-1210.
+44- Easterly, W. and Reshef, A. (2010) : « African Export Successes : Surprises, Stylized Facts,
+and Explanations», NBER Working Paper No 16597, Cambridge, MA.
+45- Faruqee (1995). "Pricing to Market and the Real Exchange Rate," IMF Staff Papers,
+Palgrave Macmillan, vol. 42(4), pages 855-881, December.
+46- FERDI (2020), «Zone franc, croissance économique et réduction de la pauvreté».
+47- Finger, J. M. and Kreinin, M. E. (1979) : « A measure of export similarity’ and its possible
+uses», the Economic Journal, 89 : 905-12.
+48- Fouda F. et Bikaï J. L. (2020), «On the neutrality of the exchange rate regime regarding real
+misalignments: Evidence from sub‐Saharan Africa».
+49- Freund C, Pierola MD (2012) : « Export surges», J Dev Econ 2012 ; 97(2) : 387-395.
+50- Ghura, D. Et T. Grennes (1993) : « The Real Exchange Rate and Macroeconomic
+Performance in Sub-Saharan Africa», Journal of Development Economics, vol. 42, No 2,pp.
+155-174.
+51- Gnimassoun, B., (2012) : « Mésalignements du Franc CFA et influence de la monnaie ancre
+», Economie & prévision, 200-201, 2, 91-119.
+52- Gnimassoun, B. (2017) : « Exchange Rate Misalignement and the External Balance Under
+a Pegged Currency System», Review of International Economics, 25(5), 949-974.
+53- Halpern, L. Et C. Wyplosz (1997) : « Equilibrium Exchange Rates in Transition Economies»,
+IMF Staff Papers, Vol 44, No.4, December.
+54- Im, K.S., M.H. Pesaran et Y. Shin (1997) : « Testing for unit roots in heterogeneous panels»,
+Discussion Paper, University of Cambridge, June.
+55- Im, K.S., M.H. Pesaran et Y. Shin (2003) : « Testing for Unit Roots in Heterogeneous Panels»,
+Journal of Econometrics, 115, pp. 53-74.
+56- Isard, Hamid Faruqee, G. Russell Kincaid, and Martin Fetherston (2001): Methodology for
+Current Account and Exchange Rate Assessments, International Monetary Fund
+57- Kao C., Chang M. H. (2000) : « On the estimation and inference of a cointegrated regression
+in panel data », Advances in Econometrics, 15, p. 179-222.
+58- Krugman P. (1993), Lessons of Massachusetts for EMU’, in Torres F. and Giavazzi F.(eds),
+Adjustment and Growth in the European Monetary Union, Cambridge, Cambridge
+University
+59- Levin, A., C.F. Lin, Et C.J. Chu (2002) : « Unit Root Tests in Panel Data : Asymptotic and
+Finite-Sample Properties », Journal of Econometrics, 108, pp. 1-24.
+60- Maddala G.S. et Wu S. (1999) : « A Comparative Study of Unit Root Tests with Panel Data
+and a New Simple Test», Oxford Bulletin of Economics and Statistics, vol.61, n° S1, pp. 631-
+652.
+61- Mac Donald, R. Et L. Ricci (2003) : « Estimation of the equilibrium real ex- change rate for
+South Africa», IMF Working Paper, 2003/ 44, Washington, D.C., IMF.
+62- Melitz, M. J. (2003), « The Impact of Trade on Intra-Industry Reallocations and Aggregate
+Industry Productivity», Econometrica, 71, 6, 1695-725.
+63- Montiel, P. (1997) : « Exchange Rate Policy and Macroeconomic Management in Asean
+Countries», in J. Hicklin et al. (eds) Macroeconomic Issues Facing Asean Countries,
+Washington, D.C., IMF.
+64- Nouira, R. and Sekkat, K., (2015) : « What determines the extent of real exchange rate
+misalignment in developing countries ?», International Economics, 141, 135-151.
+27
+Etude thématique 2020
+
+--- Page 29 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+65- Nurkse, R. (1944). International Currency Experience: Lessons of the Inter-War Period
+(pp. 1-249). Geneva: League of Nations.
+66- Nvuh Njoya Y., Mboutchouang V. et Bikaï J. L. (2018), «Mésalignements du taux de change
+réel dans la Zone Franc: la diversification des exportations importe-t-elle? ».
+67- Ouattara B. et Strobl E. (2003) : « Do Aid Inflows Cause Dutch Disease ? A Case Study of
+the CFA Franc Countries», The School of Economics Discussion Paper, Series 0330, 11
+pages.
+68- Ouattara B. et Strobl E. (2008). «Foreign Aid Inflows and the Real Exchange Rate in the
+CFA Franc Zone», Économie Internationale, CEPII Research Center, n° 4Q.
+69- Pedroni, P. (1996) : « Fully modified OLS for heterogeneous cointegrated panels and the
+case of Purchasing Power Parity», Indiana University Working Paper in Economics,No. 96-
+020, June.
+70- Pedroni, P. (1997) : « Panel cointegration : asymptotic and finite sample properties of
+pooled time series tests with an application to the PPP hypothesis : New results», Indiana
+University Working Paper in Economics, April.
+71- Pedroni, P. (1999) : « Critical values for cointegrating tests in heterogeneous panels with
+multiple regressors», Oxford Bulletin of Economics and Statis- tics, Vol 61, Supplement,
+pp. 653-670.
+72- Pedroni, P. (2000) : « Fully-Modified OLS for Heterogeneous Cointegrated Panels»,
+Advances in Econometrics, 15, 93-130, Edited by Badi H. Baltagi, Department of
+Economics, Texas A&M University, 339.
+73- Pedroni, P. (2001) : « Panel Cointegration Asymptotic and Finite Sample Properties of
+Pooled Time Series Tests with an Application to the PPP Hypothesis», Indiana University
+Working Papers, Department of Economics.
+74- Pedroni, P. (2004) : « Panel Cointegration ;Asymptotic and Finite Sample Properties of
+Pooled Time Series Tests with an Application to the Purchasing Power Parity Hypothesis»,
+Econometric Theory, 20,597- 625.
+75- Peter Phillips, Bruce Hansen (1990): Statistical Inference in Instrumental Variables
+Regression with I(1) Processes, Review of Economic Studies, 1990, vol. 57, issue 1, 99-125
+76- Rahman, Sajjadur, et Serletis A. (2008), «The Effects of Exchange Rate Uncertainty on
+Exports», Journal of Macroeconomics.
+77- Rabhi A. (2020) «Equilibrium exchange rate and competitiveness in Morocco: Estimation
+by ARDL Cointegration Model».
+78- Raymond, H., Coulibaly, D., Omgba, L., D., (2017) : « Exchange rate misalignements in
+energy exporting countries : Do sovereign wealth funds matter ?»,International
+Economics, 152, 124-144.
+79- Razin, O. Et S. Collins (1997) : « Real exchange rate misalignments and growth», NBER
+Working Paper 6174, Cambridge, Mass., September.
+80- Rodrik, D. (2008), « The Real Exchange Rate and Economic Growth», Brookings Papers on
+Economic Activity, 2, 365-412.
+81- Sekkat Kh, Varoudakis (2000) : « A. Exchange rate management and manufactured exports
+in Sub-Saharan Africa». J Dev Econ 2000 ; 61(1) : 237-55.
+82- Stock, J. et Watson, M. (1993) : « A Simple Estimator of Cointegrating Vectors in Higher
+Order Integrated Systems», Econometrica, 61, 783-820.
+83- Serge Rey (2009) : « L’apport du NATREX à la modélisation des taux de change d’équilibre
+: théorie et application au dollar canadien »
+84- Stein, J., Allen, P., (1997). Fundamental Determinants of Exchange Rates, Oxford University
+Press, Oxford.
+85- Soto, R. (1996) : « El tipo de cambio real de equilibrio : un modelo no lineal de series de
+tiempo», in Analisis Empirico del tipo de Cambio en Chile, Felipe Morande, and Rodrigo
+Vergara (eds).
+86- Stock, J.H. and Watson, M.W. (1993) A Simple Estimator of Cointegrating Vectors in Higher
+Order Integrated System. Economometrica, 61, 783-820.
+28
+Etude thématique 2020
+
+--- Page 30 ---
+Le taux de change d’équilibre dans la CEMAC : Concepts, Mesures et Implications
+87- Thibault et al (1998) : Les taux de change d'équilibre fondamentaux : de l'approche
+théorique à l'évaluation empirique, Revue française d'économie, Année 1998 13-3 pp.
+177-206
+88- Tran, T. A-D ; Diaw, D. ; Phi, M.H. (2017) : « Export diversification and real exchange rate
+in emerging Latin America and Asia : A South-North vs South-South decomposition», The
+Journal of International Trade and Economic Development
+89- Tsangarides C.G., Roudet S. et Saxegaard M. (2007) : « Estimation of Equilibrium Exchange
+Rates in the WAEMU : A Robustness Approach», IMF Working Paper n°07/194, 54 pages.
+90- Wondemu,K. and Potts, D. (2016) : « The impact of the Real Exchange Rate Changes on
+Export Performance in Tanzania and Ethiopia»,African Development Bank, Working
+Paper N 240.
+91- Xiaopu, Z. (2002) : « Equilibrium and misalignment :an assessment of the RMB exchange
+rate from 1978 to 1999», Center for Research on Economic Development and Policy
+Reform Working Paper, No 127.
+92- Yamb, E. (2007) : « Mésalignement et dynamique de convergence du taux de change réel
+en Zone CFA», Thèse de Doctorat, Université de Paris 1, 190 pages.
+93- Zhang, Z. (2001) : « Real exchange rate misalignment in China : an empirical investigation
+», Journal of Comparative Economics, 29(3), 466-484.
+29
+Etude thématique 2020

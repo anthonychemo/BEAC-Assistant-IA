@@ -1,0 +1,204 @@
+Source PDF : Taux_débiteurs_moyens_pratiqués_par_les_banques_au_2nd_semestre_2017_dans_la_CEMAC_a3d92583.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques du Marché Monétaire\Taux_débiteurs_moyens_pratiqués_par_les_banques_au_2nd_semestre_2017_dans_la_CEMAC_a3d92583.pdf
+Date extraction : 15/06/2026 20:44:17
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS
+DE L'AFRIQUE CENTRALE
+~::--
+~
+SERVICES CENTRAUX
+Direction Generate des Etudes, Finances
+etRelations Internationales
+Direction duCredit, desMarches deCapitaux
+etduControle Bancaire
+TAUX DEBITEURS MO YENS PRATIQUES PAR LES BANQUES AU 2NDSEMESTRE 2017 DANS LA CEMAC
+00000
+
+--- Page 2 ---
+CEMAC*
+Montant des nouveaux prets (en FCFA) Taux effectifs globaux moyens Taux nominaux moyens
+Particuliers
+a
+Credits la consommation, autre que decouvert 106378344076 19,02% 11,82%
+Decouverts 55 441 225 852 16,25% 13,98%
+a
+Credits moyen terme 158396629581 15,71% 12,30%
+a
+Credits long terme 13046 334 227 13,90% 10,65%
+Cautions 61855472 4,50% 4,00%
+Petites et Moyennes Entreprises
+Credits de tresorerie, autre que decouvert 259 129035 159 10,74% 8,12%
+Decouverts 125 648 776 006 10,51% 9,81%
+a
+Credits moyen terme 113437545815 8,73% 7,60%
+a
+Credits long terme 7221 913 472 8,42% 6,85%
+Credit-bail 10681511060 9,41% 8,50%
+Cautions 6996794573 3,69% 2,49%
+Grandes entreprises
+Credits de tresorerie, autre que decouvert 2 136 845 934 597 5,67% 5,16%
+Decouverts 365 699 469 940 8,15% 6,87%
+a
+Credits moyen terme 203541375312 7,31% 6,14%
+a
+Credits long terme 25 027 955 365 8,84% 7,50%
+Credit-bail 4484968610 7,48% 6,00%
+Cautions 54375819734 1,42% 1,18%
+Autres personnes morales
+Credits de tresorerie, autre que decouvert 10626347197 7,03% 6,50%
+Decouverts 1393419548 10,06% 9,41%
+a
+Credits moyen terme 3345364044 6,32% 5,52%
+Cautions 1512500 2,49% 2,35%
+Administrations publiques
+Credits de tresorerie, autre que decouvert 32 958 198 809 6,30% 5,54%
+Decouverts 6210229807 11,23% 10,00%
+a
+Credits moyen terme 54 393 734685 7,07% 6,50%
+Cautions 27 053599
+I TOTAL 3755371349040 7,61% 6,46%
+(*)Ces donnees n'incluent pas les statrsnques du Gabon, non encore disponibles.
+2
+
+--- Page 3 ---
+CAMEROUN
+Montant des nouveaux prets (en FCFA) Taux effectifs globaux moyens Taux nominaux moyens
+Particuliers
+Credits a la consomrnation, autre que decouvert 63 721 236315 14,89% 12,30%
+Decouverts 54 602 541 868 16,03% 14,00%
+Credits a moyen terme 72 793 481 070 12,08% 10,00%
+Credits a long terme 3940 168491 11,80% 9,00%
+Petites et Moyennes Entreprises
+Credits de tresorerie, autre que decouvert 222 556 629 370 9,59% 8,00%
+Decouverts 110330073858 10,19% 10,00%
+Credits a moyen terme 81428547732 8,42% 7,50%
+Credits a long terme I 675900000 6,60% 6,00%
+Credit-bail 10681 51I 060 9,41% 8,50%
+Grandes entreprises
+Credits de tresorerie, autre que decouvert I 864 794 963 03I 5,26% 5,00%
+Decouverts 291787865 180 7,67% 6,50%
+Credits a moyen terme 185200016688 7,11% 6,00%
+Credits a long terme 10000 000 000 6,00% 5,50%
+Credit-bail 4484968610 7,48% 6,00%
+Autres personnes morales
+Credits de tresorerie, autre que decouvert 10626347 197 7,03% 6,50%
+Decouverts I 163419548 9,11% 8,50%
+Credits a moven terme 3335096344 6,27% 5,50%
+Administrations pubJiques
+Credits de tresorerie, autre que decouvert 31 273 852 189 6,22% 5,50%
+Decouverts 6204229807 11,23% 10,00%
+Credits a moyen terme 54 393 734 685 7,07% 6,50%
+I TOTAL 3 084 994 583 043 6,81% 6,16%
+3
+
+--- Page 4 ---
+RECPUBLIQUE CENTRAFRICAINE
+Montant des nouveaux prets (en FCFA) Taux effectifs globaux moyens Taux nominaux moyens
+Particuliers
+Credits a la consommation, autre que decouvert I908988043 26,68% 13,36%
+Decouverts 88836000 22,60% 14,98%
+Credits amoyen terme 2 156 176257 19,56% 11,77%
+Credits a long terme 117300000 16,33% 10,90%
+Cautions 61855472 4,50% 4,00%
+Petites et Moyennes Entreprises
+Credits de tresorerie, autre que decouvert 2 151404278 26,35% 9,49%
+Decouverts 603493053 14,51% 13,78%
+Credits amoyen terme 948811834 15,92% 11,50%
+Credits a long terme 150000000 23,99% 7,00%
+Cautions I593055000 4,79% 3,65%
+Grandes entreprises
+Credits de tresorerie, autre que decouvert 19034 900000 13,93% 5,12%
+Decouverts I 100000000 10,96% 10,55%
+Credits a long terme 5000000000 9,09% 7,00%
+Cautions 856336287 4,57% 2,63%
+Autres personnes morales
+Credits a moyen terme 10267700 21,59% 12,00%
+Administrations publiques
+Credits de tresorerie, autre que decouvert 58200000 0,03% 0,00%
+Decouverts 6000000 15,08% 12,00%
+I
+TOTAL 35 845 623 924 14,39% 6,89%
+4
+
+--- Page 5 ---
+CONGO
+Montant des nouveaux prets (en FCFA) Taux effectifs globaux moyens Taux nominaux moyens
+Particuliers
+a
+Credits la consommation, autre que decouvert II 161 872 991 15,22% 9,61%
+Decouverts 387720850 48,42% 13,07%
+a
+Credits moyen terme 6503881297 13,93% 10,71%
+a
+Credits long terme 3048517993 11,50% 9,01%
+Petites et Moyennes Entreprises
+Credits de tresorerie, autre que decouvert 20971971271 16,39% 8,86%
+Decouverts 12898209095 12,76% 7,67%
+a
+Credits moyen terme 24 492 662 299 8,07% 6,67%
+a
+Credits long terme 4640908474 8,70% 7,20%
+Cautions 2852856486 1,89% 1,10%
+Grandes entreprises
+Credits de tresorerie, autre que decouvert 5455942 168 7,57% 7,67%
+Decouverts 21391604760 9,38% 3,85%
+a
+Credits moyen terme I 500000000 9,88% 5,00%
+Cautions 7049270214 1,38% 1,11%
+Autres personnes morales
+Decouverts 30000000 14,00% 14,00%
+I TOTAL 122385417898 10,89% 6,81%
+GUINEE EQUATORIALE
+Montant des nouveaux prets (en FCFA) Taux effectifs globaux rnovens Taux nominaux rnovens
+Particuliers
+a
+Credits la consommation, autre que decouvert 22053614736 23,71% 12,30%
+a
+Credits moyen terme 68932818312 19,24% 14,77%
+a
+Credits long terme 4401978 124 17,23% 14,24%
+Petites et Moyennes Entreprises
+Credits de tresorerie, autre que decouvert 3264971653 14,53% 9,64%
+a
+Credits moyen terme 5611701097 14,30% 12,00%
+a
+Credits long terme 210790868 8,45% 7,28%
+Grandes entreprises
+Credits de tresorerie, autre que decouvert 230686361 356 8,03% 6,18%
+a
+Credits moyen terme 11272 084 792 9,29% 7,60%
+a
+Credits long terme 8700000000 11,86% 10,00%
+I TOTAL 355 134320 938 11,59% 8,59%
+5
+
+--- Page 6 ---
+TCHAD
+Montant des nouveaux prets (en FCFA) Taux effectifs globaux moyens Taux nominaux moyens
+Particuliers
+Credits a la consornrnation, autre que decouvert 7532631 991 43,87% 9,22%
+Decouverts 362 127 134 14,26% 11,39%
+Credits a moyen terme 8010272 645 18,67% 13,38%
+Credits a long terme 1538369619 14,31% 7,88%
+Petites et Moyennes Entreprises
+Credits de tresorerie, autre que decouvert 10 184 058 587 19,55% 8,35%
+Decouverts I 817000000 12,80% 12,21%
+Credits a moyen terme 955822853 12,57% 10,27%
+Credits a long terme 544314 130 7,33% 6,33%
+Cautions 2550883087 5,03% 3,32%
+Grandes entreprises
+Credits de tresorerie, autre que decouvert 16873 768 042 8,36% 8,10%
+Decouverts 51 420 000 000 10,33% 10,17%
+Credits a moyen tenne 5569273832 9,20% 8,21%
+Credits a long terme I 327 955 365 9,44% 8,00%
+Cautions 46470213233 1,36% 1,17%
+Autres personnes morales
+Decouverts 200000000 15,00% 14,00%
+Cautions 1512500 2,49% 2,35%
+Administrations publiques
+Credits de tresorerie, autre que decouvert 1626 146620 8,02% 6,53%
+Cautions 27 053599 0,34% 0,33%
+I TOTAL 157011 403237 10,02% 7,04%
+6

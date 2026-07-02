@@ -1,0 +1,1106 @@
+Source PDF : Rapport_sur_les_services_de_paiement_dans_la_CEMAC_en_2023_a98bfb30.pdf
+Chemin original : scraping\beac_data\Systemes Paiement\Instructions Circulaires Reglements\Rapport_sur_les_services_de_paiement_dans_la_CEMAC_en_2023_a98bfb30.pdf
+Date extraction : 15/06/2026 19:27:30
+======================================================================
+
+--- Page 1 ---
+BBAANNQQUUEE DDEESS EETTAATTSS
+DDEE LL’’AAFFRRIIQQUUEE CCEENNTTRRAALLEE
+RRAAPPPPOORRTT
+DD’’AACCTTIIVVIITTEESS AANNNNUUEELL
+22002233
+DDIIRREECCTTIIOONN DDEESS SSYYSSTTEEMMEESS EETT MMOOYYEENNSS DDEE PPAAIIEEMMEENNTT
+wwwwww..bbeeaacc..iinntt
+
+--- Page 2 ---
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+22
+
+--- Page 3 ---
+Sommaire
+RESUME EXECUTIF..................................................................................................................5
+INTRODUCTION 5 ....................................................................................................................7
+1. FAITS MARQUANTS DE L’ANNEE 2023.........................................................................9
+1.1. Co-régulation des services de paiement dans la CEMAC..................................................9
+1.2. Adoption de nouvelles normes............................................................................................9
+1.3. Les demandes d’Agrément en qualité d’Établissements
+de paiement et d’autorisation pour la fourniture des services de paiement.....................9
+1.4. Ouverture des comptes aux établissements de paiement et de microfi nance.................9
+1.5. Consolidation de l’interopérabilité monétique intégrale
+dans la CEMAC avec le GIMACPAY......................................................................................9
+2. EVOLUTION DU CADRE REGLEMENTAIRE ...................................................................10
+3. ACTIVITES SUR LES INSTRUMENTS DE PAIEMENT......................................................10
+3.1. Les retraits d’espèces aux guichets...................................................................................10
+3.2. Les effets de commerce ......................................................................................................11
+3.3. Le chèque.............................................................................................................................11
+3.3.a. Les paiements par chèque..................................................................................................12
+3.3.b. Transactions interbancaires par chèques..........................................................................13
+3.4. Les services de transmission de fonds (mandats de paiement)......................................13
+3.5. Les transactions par carte...................................................................................................14
+3.5.a. Les retraits par carte bancaire.............................................................................................14
+3.5.b. Les paiements par carte bancaire dans la CEMAC.............................................................15
+3.6. Les virements classiques et instantanés...........................................................................15
+3.6.a. Les virements interbancaires dans la CEMAC (SYSTAC)...................................................15
+3.6.b. Les virements internationaux (Hors CEMAC) .....................................................................15
+3.7. Les virements instantanés de monnaie électronique........................................................16
+3.7.a. Evolution de l’activité............................................................................................................17
+3.7.b. Evolution des comptes et souscripteurs aux produits de monnaie électronique.............20
+3.7.c. Typologie des transactions de monnaie électronique........................................................20
+3.7.d. Paiements par monnaie électronique..................................................................................21
+3.7.e. La réception des fonds internationaux (hors CEMAC)....................................................... 21
+3.7.f. L’interopérabilité de la monnaie électronique.....................................................................22
+4. CONCLUSION ET PERSPECTIVES.................................................................................23
+5. RECOMMANDATIONS..................................................................................................23
+ANNEXES.................................................................................................................................25
+RRAAPPPPOORRTT SSUURR LLEESS SSEERRVVIICCEESS DDEE PPAAIIEEMMEENNTT DDAANNSS LLAA CCEEMMAACC -- DDSSMMPP--22002233
+33
+
+--- Page 4 ---
+LA BEAC ADOPTE UN NOUVEAU LOGO
+POUR RENFORCER SON IDENTITÉ VISUELLE
+Le nouveau logo est le fruit d’une recherche créative approfondie et d’un proces-
+sus itératif rigoureux. Il s’inscrit dans une dynamique de continuité et de modernisation,
+en partant de l’identité visuelle existante pour aboutir à un design contemporain,
+tout en préservant les éléments et les symboles historiques de l’Institution.
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+44
+
+--- Page 5 ---
+Résumé executif
+En 2023, les prestataires des services de paiement services publics a aussi contribué à cette évolution
+de la CEMAC ont entretenu plus de 45 millions par la connexion des administrations publiques aux
+de comptes au bénéfi ce de la communauté. 3,7 systèmes de paiement de la Banque Centrale et pour
+milliards de transactions ont été réalisées pour un certains au GIMAC, privilégiant ainsi l’utilisation des
+montant dépassant 171 943 milliards de Francs CFA. moyens de paiement électroniques.
+Ce qui correspond à une évolution de 45,99% en
+nombre et 23,91% en valeur. Cette forte progression En nombre, l’instrument de paiement le plus utilisé
+s’explique en partie par les actions commerciales des est le virement instantané de la monnaie électronique
+prestataires des services de paiement mais surtout avec plus de 94,8% des transactions (3,5 milliards
+par les effets de la conjoncture ayant entrainé une d’opérations) suivi des cartes bancaires (3,22% avec
+augmentation des salaires, des prestations sociales 90,21 millions d’opérations) et le virement classique
+et autres avantages dont ont bénéfi cié les nombreux (1,45% avec 54,05 millions de transactions).
+salariés de la CEMAC. La digitalisation de certains
+Figure 1 : Répartition des paiements par nombre dans la CEMAC
+Retraits au guichet (1,10%)
+Virements classiques (1,45%)
+Effets de commerce (0,001%)
+Chèques (0,15%)
+Transmission de fonds (0,05%)
+Carte bancaire (3,22%)
+Monnaie électronique/virements
+instantanés (94,8%)
+Source : DSMP, BEAC
+En valeur, les virements classiques viennent en première place avec 34,02% des transactions soit 58 487
+milliards de Francs CFA, suivis des retraits au guichet sur les comptes bancaires (41 136 milliards de Francs
+CFA, soit 27,5%) et de la monnaie électronique (16,81% des transactions, soit 28 911 milliards de Francs CFA).
+Les virements (dans leur ensemble) représentent 50,83% de la valeur et 96,25% en nombre de toutes les
+transactions de la zone.
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+55
+
+--- Page 6 ---
+Figure 2 : Répartition des paiements par valeurs dans la CEMAC
+Retraits au guichet (27,50%)
+Virements (34,02%)
+Effets de commerce (0,69%)
+Chèques (13,01%)
+Transmission de fonds (1%)
+Carte bancaire (6,96%)
+Monnaie électronique
+(16,81%)
+Source : DSMP, BEAC
+Le Cameroun est le pays où sont effectuées la occupe la deuxième place en nombre (24,83% soit
+majorité des transactions tant en nombre (62,83% 896 millions de transactions), tandis que le Gabon
+soit 2,26 milliards d’opérations) qu’en valeur (58,77% vient en deuxième place en terme de valeur (18,93%
+soit 100 098 milliards de Francs CFA). Le Congo soit 32 239 milliards de Francs CFA).
+Figure 3 : Répartition des paiements par nombre et par pays de la CEMAC
+Cameroun (63,35C%am)eroun (63,35%)
+Centrafrique (0,9C2e%n)trafrique (0,92%)
+Congo (24,36%)Congo (24,36%)
+Gabon (10,52%)Gabon (10,52%)
+Guinée EquatoriaGlueinée Equatoriale
+(0,11%) (0,11%)
+Tchad (0,73%) Tchad (0,73%)
+Source : DSMP, BEAC
+Figure 4 : Répartition des paiements par pays de la CEMAC
+Cameroun (58,77%) Cameroun (58,77%)
+Centrafrique (0,07%)Centrafrique (0,07%)
+Congo (15,50%) Congo (15,50%)
+Gabon (18,93%) Gabon (18,93%)
+Source : DSMP, BEAC
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+66
+
+--- Page 7 ---
+INTRODUCTION
+L’année 2023 a été celle de la consolidation des Au 31 décembre 2023, le système bancaire de la
+acquis de reprise après la crise sanitaire du covid-19 CEMAC comptait cinquante-trois (53) banques
+qui a marqué négativement les activités bancaires commerciales en activité disposant de 663 agences
+et fi nancières les années précédentes. L’activité et 4 161 309 comptes bancaires. Le nombre
+fi nancière en général et celle des Infrastructures des d’établissements fi nanciers s’élevait à neuf (09) qui
+Marchés Financiers (IMF) en particulier a connu un géraient 87 333 comptes dont 07 au Cameroun
+regain, par l’utilisation des moyens de paiement mis (19 agences pour 84 099 comptes), 02 au Gabon
+à leur disposition par les prestataires des services (5 agences pour 3 234 comptes).
+de paiement.
+Tableau 1 : Comptes des banques dans la CEMAC
+Nombre Nombre
+Nombre Nombre Taux de
+Nombre Nombre de comptes
+PAYS de d'Etablissements bancarisation
+d’adultes de + d'agences comptes Ets
+banques Financiers stricte
+Source : DSMP, BEAC de 15 ans bancaires Financiers
+Cameroun 15 379 630 17 394 2 678 929 7 84 099 15,35%
+Centrafrique 2 497 788 4 11 113 429 3,86%
+Congo 3 240 761 10 71 512 363 13,44%
+Gabon 1 396 335 7 76 407 884 2 3 234 25,06%
+Guinée
+881 534 5 47 192 828 18,59%
+Equatoriale
+Tchad 7 624 681 10 64 255 876 2,85%
+TOTAL CEMAC 31 020 729 53 663 4 161 309 9 87 333 11,68%
+Sources : BEAC, COBAC, Groupe Banque Mondiale.
+Le taux de bancarisation stricte défi ni dans la Le secteur de la microfi nance de la CEMAC comptait
+Stratégie Régionale d’Inclusion Financière ressort à en 2023, 531 établissements (EMF) agréés et en
+11,68% en recul par rapport à l’année 2021 où il se activité. Ces EMF ont géré 3 407 561 comptes,
+situait à 13%. Ceci est dû à la clôture de nombreux répartis ainsi qu’il suit :
+comptes, suite à une réorganisation de nombreuses
+banques.
+Tableau 2 : Comptes des établissements de microfi nance dans la CEMAC
+Nombre d’adultes de + de Nombre comptes Taux de bancarisation
+PAYS Nombre de EMF
+15 ans en 2021 EMF élargi
+1 987
+Cameroun 15 379 630 394 28,28%
+829
+Centrafrique 2 497 788 12 95 926 7,70%
+Congo 3 240 761 46 866 477 40,18%
+Gabon 1 396 335 18 234 819 41,88%
+Guinée Equatoriale 881 534 2 1 255 18,74%
+Tchad 7 624 681 59 221 255 5,75%
+TOTAL CEMAC 31 020 729 531 3 407 561 22,67%
+Sources : BEAC, Groupe Banque Mondiale.
+Le taux de bancarisation élargi défi ni dans la (07) en 2023. Cependant, il convient de noter que
+Stratégie Régionale d’Inclusion Financière ressort à 17 établissements proposent à leur client l’ouverture
+22,67% en baisse par rapport à l’année 2021 où il se de comptes de paiement pour les services fi nanciers
+situait à 23%. par téléphonie mobile (Mobile Money). Au total, ce
+service a permis la tenue de 40 033 410 comptes de
+Pour ce qui concerne les établissements de paiement :
+paiement (EP) agréés, la CEMAC en comptait sept
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+77
+
+--- Page 8 ---
+Tableau 3 : Comptes de paiement dans la CEMAC
+Nombre
+Nombre
+Nombre d’adultes de de services Nombre comptes Taux de
+PAYS d’Etablissements
++ de 15 ans en 2021 paiements Mobile Money fi nanciarisation
+de Paiement
+mobiles
+Cameroun 15 379 630 2 24 865 110 109,12%
+4
+Centrafrique 2 497 788 576 331 19,24%
+2
+Congo 3 240 761 2 8 742 685 175,06%
+3
+Gabon 1 396 335 2 3 661 370 172,98%
+4
+Guinée Equatoriale 881 534 49 727 21,56%
+2
+Tchad 7 624 681 1 2 138 187 19,78%
+2
+TOTAL CEMAC 31 020 729 7 17 40 033 410 87,20%
+Sources : BEAC, Groupe Banque Mondiale.
+Le taux de fi nanciarisation de la CEMAC se situe la CEMAC. Comme partout ailleurs, les services de
+à 87,20 %, en augmentation par rapport à l’année paiement digitaux connaissent des défi s en matière
+2021 où il était à 84%. Cette progression est de cybersécurité. Ils sont stressés par les arnaques,
+attribuable au dynamisme des établissements de tentatives d’escroquerie et hameçonnage qui
+paiement. peuvent faire douter de la fi abilité des produits et
+services fi nanciers.
+Au total, l’écosystème fi nancier de la CEMAC a
+enregistré 47 602 280 comptes (tous secteurs Grâce au travail de normalisation et de sécurisation
+confondus) à la fi n de l’année 2023. En 2022, les des instruments de paiement par la Banque
+Prestataires des Services de Paiement (PSP) de la Centrale et l’ensemble des acteurs des services
+CEMAC tenaient 45 135 744 ; ce qui correspond à de paiement, la fraude sur les paiements demeure
+une progression de 5,66% entre les deux années. maîtrisée. Les opérations déclarées frauduleuses ne
+Ce chiffre devra être corrigé au regard de la représentent que 0,07% des transactions totales.
+multibancarité (de nombreux titulaires de comptes 82% de cette fraude concerne les transactions en
+bancaires et de compte EMF, sont aussi titulaires ligne (sur Internet). La réévaluation des dispositifs
+de comptes de monnaie électronique). de contrôle interne par les équipes des PSP, parfois
+sur recommandation du Secrétariat Général de la
+Les instruments de paiement utilisés comprennent COBAC, comble les failles des systèmes.
+le chèque, la lettre de change, le billet à ordre, le
+prélèvement, la carte de paiement, le virement La problématique majeure demeure la lutte contre
+classique, la monnaie électronique (mobile les cybers attaques, criminalité ou arnaques liés
+money). Le mobile money est entendu ici comme à l’utilisation ces services à valeur ajoutée avec
+l’utilisation de la téléphonie mobile pour réaliser des au préalable, le rôle que doivent impérativement
+transactions fi nancières par monnaie électronique mener les opérateurs lors des campagnes de
+ou des virements instantanés. Le porte-monnaie sensibilisation et d’éducation du grand public
+électronique est un instrument comportant une tout en tenant compte des dispositions à prendre
+mémoire informatique (téléphone, ordinateur, pour la sécurisation des comptes, (mot de
+token, etc.) permettant de stocker des unités de passe, empreinte digitale/faciale, etc..). Dans la
+valeur monétaire et d’initier des ordres de virement même lancée, la Banque Centrale à travers la
+/paiement au débit d’un compte, au profi t d’un lettre circulaire N° 004/DGE/DSMP/2023 du 24
+autre. Ce service de paiement est considéré comme novembre 2023 portant procédure de restitution
+un véritable catalyseur de l’inclusion fi nancière, du des transferts de fonds erronés par les prestataires
+développement de la numérisation ou digitalisation des services de paiement.
+des paiements et par là, du développement des
+économies africaines. C’est le moyen de paiement Le présent document est le rapport de l’évolution
+prédominant à l’origine de l’ouverture de 98% des règlementaire en vigueur. Il présente, tour à tour,
+comptes de paiement. les faits marquants de l’activité de fourniture des
+services de paiement tout en mettant en lumière les
+L’activité de fourniture des services de paiement n’a chiffres liés à l’utilisation des différents instruments
+pas connu d’incident majeur pouvant entamer la de paiement au sein de la CEMAC en 2023. Il y
+confi ance du public envers le secteur fi nancier dans est fait une analyse succincte des tendances et de
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+88
+
+--- Page 9 ---
+la structuration de l’écosystème des paiements. de paiement par téléphonie mobile en partenariat
+Enfi n, il présente les perspectives à venir, les grands technique avec l’opérateur de téléphonie MUNI
+chantiers ouverts qui impacteront l’activité dans les S.A. en Guinée Equatoriale.
+prochains mois et années.
+1.4. Ouverture des comptes aux établissements
+de paiement et de microfi nance
+1. FAITS MARQUANTS DE L’ANNEE 2023
+Le Conseil d’Administration de la Banque des
+Etats de l’Afrique Centrale (BEAC), réuni en
+session ordinaire le 14 mars 2023 a autorisé le
+1.1. Co-régulation des services de paiement
+Gouvernement de la BEAC à ouvrir, au cas par
+dans la CEMAC
+cas, dans les conditions défi nies par la BEAC, des
+comptes courants et des comptes de règlement aux
+La BEAC et les Autorités de Régulation des réseaux
+établissements de paiement et aux établissements
+de communications électroniques de chacun
+de microfi nance habilités à fournir des prestations
+des pays de la CEMAC ont signé des protocoles
+des services de paiement.
+d’accord relatif à la co-régulation des services
+fi nanciers numériques et à l’inclusion fi nancière.
+Cet accord a permis de mettre en place un Comité 1.5. Consolidation de l’interopérabilité
+Régional de Coordination sur la co-régulation des monétique intégrale dans la CEMAC avec le
+Services Financiers Numériques dont les travaux GIMACPAY
+ont débuté au cours de l’année 2023.
+L’année 2023 marque la consolidation de la
+monétique intégrale avec la mise en production
+1.2. Adoption de nouvelles normes.
+effective de tous les opérateurs de monnaie
+électronique dans l’écosystème GIMACPAY. Au 31
+Le Comité Ministériel de l’Union Monétaire de
+décembre 2023, le réseau GIMACPAY comptait
+l’Afrique Centrale (UMAC), réuni en session
+95 participants : 53 établissements bancaires, 13
+ordinaire le 04 octobre 2023 a adopté le
+établissements de microfi nance, 11 opérateurs de
+Règlement relatif à l’homologation des normes du
+mobile money, 01 Trésor Public (celui du Cameroun),
+QR Code, de la lettre de change et du Prélèvement
+01 Service Financier de Poste et 16 agrégateurs
+automatique dans la CEMAC, sur proposition du
+connectés à la plateforme GIMACPAY et qui y
+Comité Régional de Normalisation Financière
+agissent en tant qu’intermédiaire entre le GIMAC et
+(CORENOFI).
+leurs clients multi bancarisés.
+1.3. Les demandes d’Agrément en qualité
+Au total, plus de 12,03 millions de transactions ont
+d’Établissements de paiement et d’autorisation
+été traitées sur la plateforme du GIMACPAY pour
+pour la fourniture des services de paiement.
+un montant cumulé dépassant 601,74 milliards de
+Francs CFA.
+En application du Règlement N°04/18/CEMAC/
+UMAC /COBAC du 21 décembre 2018, relatif aux
+Cette performance a été rendue possible grâce
+services de paiement dans la CEMAC, des fi liales
+à une plateforme principale certifi ée PCI-DSS à
+des opérateurs de téléphonie mobile dédiées aux
+Yaoundé et celle de secours à Douala. Le GIMAC
+services fi nanciers de monnaie électronique ont
+revendique 35% des 2 745 540 cartes de paiement
+déposé auprès des autorités monétaires nationales,
+en circulation dans la CEMAC soit 964 150 cartes.
+des dossiers de demandes d’agrément en qualité
+Ce qui marque tout de même une insuffi sance dans
+d’établissement de paiement.
+l’application du dispositif règlementaire y relatif
+notamment l’Instruction du Gouverneur de la BEAC
+En 2023, deux (02) agréments en qualité
+N)001/GR/2018 relative à la défi nition de l’étendue
+d’établissement de paiement ont été délivrés
+de l’interopérabilité et de l’interbancarité des
+par les autorités monétaires nationales : Clikpay
+systèmes de paiement monétique dans la CEMAC.
+Gabon S.A. et Mobile Money Corporation Ltd
+au Cameroun, portant à sept (07) le nombre
+Durant l’année 2023, en nombre, 73% des
+des établissements de paiement agrées dans la
+transactions du GIMAC étaient relatives au mobile
+CEMAC.
+money, tandis que celles concernant les cartes
+délégataires et interbancaires se situent à 27%. En
+Il convient de noter que la banque BANGE a
+valeur, ces proportions se situent à 65% pour le
+obtenu l’autorisation pour la fourniture d’un service
+mobile et 35% pour les cartes.
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+99
+
+--- Page 10 ---
+dans la Communauté Économique et Monétaire
+Pour ce qui est de l’acceptation, l’infrastructure des États de l’Afrique Centrale (CEMAC), ainsi que
+installée dans la CEMAC comprenait 3 599 les modes d’initiation de paiement y relatifs.
+Terminaux de Paiement Electronique (TPE) et 2 015 L’adoption de ces trois normes permettra de :
+Guichets Automatiques de Banque (GAB).
+• Promouvoir un écosystème de paiement
+inclusif à travers l’interbancarité offerte par les
+2. EVOLUTION DU CADRE REGLEMENTAIRE systèmes de paiement de la Banque Centrale ;
+• Accélérer les échanges commerciaux à travers
+un traitement rapide des lettres de change ;
+Le Comité Ministériel de l’Union Monétaire de • Favoriser l’inclusion fi nancière en offrant aux
+l’Afrique Centrale (UMAC), réuni en session ordinaire porteurs de cartes de paiement et surtout
+le 04 octobre 2023 a adopté le Règlement relatif de porte-monnaie électronique un accès
+à l’homologation des normes du QR Code, de la plus large, non cloisonné à tous les réseaux
+lettre de change et du Prélèvement automatique d’acceptation marchands ;
+dans la CEMAC. • De favoriser le développement et l’intégration
+dans un système de paiement formalisé d’un
+La norme de la Lettre de Change à Traitement plus grand et large éventail des marchands
+Automatisé dans la CEMAC fi xe le format, la surtout ceux exclus de la sphère des paiements
+présentation, le libellé et l’emploi des imprimés sur électroniques par cartes en leur offrant une
+lesquels doivent être établies les lettres de change alternative numérique rapide, viable et rentable ;
+acceptant la lecture automatique connues aussi • Accélérer les paiements sans numéraires et le
+sous le vocable de « Lettre de change à traitement descashing par une réduction des paiements
+automatisé ». en espèces ;
+• Promouvoir un écosystème de paiement
+L’absence de normalisation du prélèvement ne inclusif ;
+permettait pas son traitement automatisé par • Permettre à la Banque Centrale d’avoir une
+les systèmes de paiement de la BEAC eu égard meilleure visibilité des échanges interbancaires.
+des différents formats existants et utilisés par
+les établissements de crédit. Dans un contexte
+d’interbancarité, cette absence de normalisation 3. ACTIVITES SUR LES INSTRUMENTS DE
+entraine, de fait, le maintien des compensations PAIEMENT
+bilatérales et mouvements de fonds interbancaires
+que la Banque Centrale ne peut catégoriser.
+3.1. Les retraits d’espèces aux guichets
+Le QR code, « Quick Response code », est un
+mode d’acquisition des transactions dans les Les services permettant le versement et le retrait
+points de commerce, un type de code-barres à d’espèces depuis un compte constituent l’un
+deux dimensions constitué de modules-carrés noirs des plus anciens types de services de paiement.
+disposés dans un carré à fond blanc. Ces points Concernant plus particulièrement les retraits
+défi nissent l’information que contient le code. La d’espèces, on peut distinguer les retraits manuels
+mise en place d’un QR code de paiement unifi é (dans les guichets des banques) et les retraits dans
+et interopérable dans la CEMAC traduit la volonté les Guichets Automatiques de Banque (GAB).
+manifeste de la Banque Centrale de consolider les
+systèmes de paiement et règlement afi n d’assurer et Au cours de l’année 2023, dans les banques
+de garantir le bon fonctionnement de l’écosystème commerciales et les établissements de
+fi nancier dans la CEMAC compte tenu des défi s microfi nance, les clients ont effectué environ 18
+actuels. La norme sur le QR Code a pour objet de millions de retraits manuels répartis ainsi qu’il suit :
+défi nir les spécifi cations régionales d’un QR Code
+pour le paiement, unifi é et interopérable avec
+l’ensemble des schémas de paiement présents
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+1100
+
+--- Page 11 ---
+Tableau 4 : retraits manuels dans la CEMAC auprès des banques commerciales et EMF
+Nombre de Guichets Nombre de retraits manuels Valeurs des retraits manuels
+Cameroun 384 10 472 058 1 0 732 729 141 319
+Centrafrique 1 9 3 46 205 108 906 214 532
+Congo 112 3 251 542 3 201 432 611 814
+Gabon 8 3 2 812 535 1 871 325 839 142
+Guinée Equatoriale 5 8 1 78 463 225 514 345 607
+Tchad 8 2 8 60 469 1 018 529 892 751
+Total 738 17 921 272 1 7 158 438 045 166
+Source : DSMP, BEAC
+Les chiffres ci-dessus comprennent, sans distinction aux systèmes, moyens et incidents de paiement, en
+les retraits effectués par les entreprises et les ses articles 3 à 6, consacre l’obligation de payer par
+particuliers. On peut constater une moyenne de moyen scriptural pour tout paiement excédant la
+24 283 opérations annuelle par guichet pour une somme de 500 000 Francs CFA.
+valeur moyenne par retrait de 957 434 FCFA.
+3.2. Les effets de commerce
+Conformément à sa mission de promotion des
+systèmes de paiement et à sa vision stratégique Cet instrument est utilisé par les entreprises
+de réduction de l’utilisation du cash ou fi duciaire, pour fi nancer leurs activités notamment dans le
+la BEAC encourage toute initiative visant à limiter cadre des opérations de crédit-bail. Les effets de
+l’usage du cash et donc des retraits d’espèces. Il commerce sont utilisés au Cameroun et au Gabon
+convient de noter que le Règlement N°03/16/ majoritairement.
+CEMAC/UMAC/CM du 21 décembre 2018 relatif
+Tableau 5 : Effets de commerce dans la CEMAC en 2023
+Nombre Valeur
+Cameroun 45 488 1 136 202 104 074
+Centrafrique - -
+Congo 19 3 221 437 500
+Gabon 1 213 47 085 576 592
+Guinée Equatoriale - -
+Tchad - -
+TOTAL 46 720 1 186 509 118 166
+Source : DSMP, BEAC
+L’usage des effets de commerce a plus que 3.3. Le chèque
+doublé, passant de 11 945 opérations pour plus
+de 505 milliards de Francs CFA en 2022 à 46 720 En 2023, la CEMAC comptait 4 881 394 comptes
+transactions dépassant les 1 186 milliards de Francs chèques, en augmentation de 12,29% par rapport
+CFA en 2023. à l’année précédente (4 347 147 comptes).
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+1111
+
+--- Page 12 ---
+Tableau 6 : usage du chèque dans la CEMAC
+Comptes chèques Chéquiers Chéquiers utilisés
+Cameroun 2 216 632 1 682 569 170 555
+Centrafrique 160 211 73 012 11 517
+Congo 1 097 571 1 018 575 90 036
+Gabon 977 963 575 224 129 490
+Guinée Equatoriale 49 080 37 090 6 049
+Tchad 379 937 319 512 65 437
+TOTAL 4 881 394 3 705 982 473 084
+Source : DSMP, BEAC
+3.3.a. Les paiements par chèque 2022 dépassant les 5,5 millions de transactions et
+est réparti ainsi qu’il suit :
+Le nombre des paiements par chèque enregistré
+sur l’année 2023 a doublé par rapport à l’année
+Tableau 7 : Paiements par chèque dans la CEMAC en 2023
+2022 2023 Variation 2022/2023
+Nombre Valeur Nombre Valeur Nombre Valeur
+Cameroun 1 233 294 8 732 693 514 430 2 503 030 12 625 957 284 336 102,95% 44,58%
+Centrafrique 23 610 35 417 580 031 26 310 36 614 512 045 11,44% 3,38%
+Congo 490 631 1 865 861 247 449 1 352 944 4 141 421 453 703 175,76% 121,96%
+Gabon 566 003 1 816 301 567 919 1 491 039 4 395 560 422 253 163,43% 142,01%
+Guinée Equatoriale 34 171 255 339 028 322 111 579 943 786 994 476 226,53% 269,62%
+Tchad 73 487 249 176 305 092 51 698 263 647 252 811 -29,65% 5,81%
+TOTAL 2 421 196 12 954 789 243 243 5 536 600 22 406 987 919 624 128,67% 72,96%
+Source : DSMP, BEAC
+Les chèques sont davantage utilisés pour les montant élevé moyen par chèque, à plus de 4
+règlements des entreprises. Ce qui justifi e le millions de Francs CFA.
+Tableau 8 : Transactions interbancaires par chèques en 2023
+2022 2023 Variation 2022/2023
+Nombre Valeur Nombre Valeur Nombre Valeur
+Cameroun 533 265 1 878 259 996 079 492 669 1 745 662 379 800 -7,61% -7,06%
+Centrafrique 24 446 142 173 428 028 22 497 158 258 656 056 -7,97% 11,31%
+Congo 15 594 34 841 665 624 14 929 31 885 813 210 -4,26% -8,48%
+Gabon 158 775 862 036 432 581 173 085 1 035 787 499 887 9,01% 20,16%
+Guinée Equatoriale 321 097 1 593 192 102 956 293 656 1 488 984 689 305 -8,55% -6,54%
+Tchad 19 297 133 246 821 103 17 899 131 669 919 400 -7,24% -1,18%
+CCR 8 207 357 959 203 182 10 270 557 744 302 025 25,14% 55,81%
+TOTAL 1 080 681 5 001 709 649 553 1 025 005 5 149 993 259 683 -5,15% 2,96%
+Source : DSMP, BEAC
+On peut constater une baisse des échanges interbancaires dans tous les pays, sauf au Gabon.
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+1122
+
+--- Page 13 ---
+Les chèques sont davantage utilisés pour les Money Gram, RIA, etc. Certains établissements
+règlements des entreprises. Ce qui justifi e le bancaires et de microfi nance disposent eux-mêmes
+montant élevé moyen par chèque, à plus de 4 ou à travers leur réseau de fi liales, d’un système de
+millions de Francs CFA. transmission de fonds.
+3.3.b. Transactions interbancaires par chèques Au cours de l’année 2023, les acteurs économiques
+installés dans la CEMAC ont effectué 907 484
+Le Système de Télécompensation en Afrique opérations d’envois de fonds contre 1 546 566
+Centrale (SYSTAC) exploité par la BEAC traite les l’année précédente, soit une diminution de 41,32%.
+transactions interbancaires par chèques. Ces transactions en 2023 se sont chiffrées à 963,6
+milliards de Francs CFA, contre 1 255,1 milliards
+3.4. Les services de transmission de fonds de Francs CFA en 2022, soit un recul de 23,22%.
+(mandats de paiement) Les Prestataires de Services de Paiement justifi ent
+cette baisse par une application plus stricte de la
+Ce sont les services de mandats, de remises de règlementation des changes.
+fonds et de mise à disposition. Ces services de
+paiement ne font pas intervenir de compte soit du Les réceptions de fonds, quant à elles, ont
+payeur, soit du bénéfi ciaire ou des deux. Depuis diminué en nombre passant de 2 912 795 en 2022
+l’avènement du mobile money, ces services sont pour se situer à 1 052 188 en 2023. Par contre,
+utilisés essentiellement pour envoyer des sommes les valeurs de ces opérations ont augmenté de
+inférieures ou égales à un (01) million de Francs 34,05% passant de 569,8 milliards de Francs CFA
+CFA hors de la CEMAC, tandis que la réception en 2022 à 763,81 milliards en 2023. Plus de 85%
+des fonds dans la CEMAC n’est pas limitée. Les des opérations de transmission de fonds sont des
+fonds sont envoyés à travers les plateformes des échanges internationaux hors CEMAC.
+réseaux internationaux tels que Western Union,
+Tableau 9 : Transmission de fonds internationaux en 2023
+Transactions internationales (hors zone CEMAC
+Nombre valeur
+Transfert d'argent reçus ## 933 590 682 689 907 791
+- dont Afrique de l'ouest (CEDEAO) 99 191 20 817 494 713
+- dont autres pays africains 26 313 23 976 125 627
+- dont Union Europeenne 563 141 543 625 838 695
+- dont autres pays d'Europe 42 073 9 844 447 607
+- dont Amérique du Nord 157 936 75 364 854 685
+- dont Amérique du Sud 5 217 943 626 490
+- dont Asie 35 574 7 275 749 327
+- dont Oceanie 4 145 841 770 647
+Transfert d'argent envoi ## 770 398 859 137 023 779
+- dont Afrique de l'ouest (CEDEAO) 367 628 133 020 939 129
+- dont autres pays africains 82 033 42 173 596 629
+- dont Union Europeenne 223 242 361 855 353 366
+- dont autres pays d'Europe 28 992 29 691 921 960
+- dont Amérique du Nord 24 482 18 143 964 001
+- dont Amérique du Sud 4 313 2 007 081 313
+- dont Asie 39 150 271 690 843 072
+- dont Oceanie 553 324 310
+558
+Total 1 703 988 1 541 826 931 570
+Source : DSMP, BEAC
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+1133
+
+--- Page 14 ---
+3.5. Les transactions par carte
+Les cartes permettent d’effectuer des paiements et 3 599 en 2023. La CEMAC compte 2 015 Guichets
+des retraits en espèces. Il est également possible Automatiques de Banque (GAB).
+d’obtenir des informations sur son compte (solde,
+historique) dans un GAB. Il est aussi possible d’y Quasiment toutes les cartes de la CEMAC peuvent
+effectuer des dépôts sur les comptes bancaires. effectuer des opérations dans le réseau GIMACPAY
+exploité par le Groupement Interbancaire
+En 2023, l’infrastructure de paiement par carte Monétique de l’Afrique Centrale (GIMAC). Ce
+dans la CEMAC était constituée de 2 709 519 dernier est pour l’instant le seul opérateur habilité
+cartes de paiement contre 2 745 540 unités l’année par la Banque Centrale à effectuer l’interconnexion
+précédente. Cette diminution est attribuée à la des transactions monétiques des PSP et à réaliser
+baisse du nombre de cartes prépayées devenues l’interbancarité monétique dans la CEMAC, les
+moins attrayantes pour transférer de l’argent hors transactions internationales hors CEMAC relevant,
+de la CEMAC, ceci suite à une application plus des réseaux d’émetteurs internationaux. La
+stricte de la réglementation des changes. poursuite de l’usage des cartes privatives comme
+moyen de paiement est pour la BEAC, considéré
+Le nombre de terminaux de paiement électronique comme étant une anomalie qui devra rapidement
+a augmenté passant de 3 038 unités en 2022 à être corrigée.
+Figure 3 : Répartition des paiements par nombre et par pays de la CEMAC
+Source : GIMAC
+Les centres de traitement informatique (CTI) sont l’hébergement des solutions monétiques à ses
+une composante essentielle de l’écosystème de membres. La CAMPOST, à travers sa Plateforme
+paiement de la CEMAC. Ce sont ces structures qui Nationale d’Agrégation des Paiements (NPSI) peut
+traitent et conservent les données personnelles héberger ou traiter pour le compte des tiers, des
+et fi nancières des clients des services bancaires. systèmes de paiement électroniques.
+Aujourd’hui, les centres de traitement monétiques
+installés dans la CEMAC sont : GIE CB (groupe 3.5.a. Les retraits par carte bancaire
+Commercial Bank), Opérateur Monétique
+Ouest Africain (OMOA), BGFI Services (Groupe Les porteurs de cartes de paiement ont réalisé des
+BGFIBank) et Intelligentsia (Groupe First Bank). Le retraits dépassant 5 918 milliards de Francs CFA.
+GIMAC, par son mode délégataire propose aussi
+Tableau 10 : Retraits aux GAB dans la CEMAC en 2023
+Nombre de GAB Nombre de cartes activesNombre de retraits GAB Valeur des retraits GAB
+Cameroun 944 1 415 589 4 0 405 865 3 499 502 150 918
+Centrafrique 54 6 4 246 1 616 358 1 20 374 850 551
+Congo 453 356 567 5 990 939 6 53 444 969 357
+Gabon 329 340 870 5 974 349 9 85 135 256 533
+Guinée Equatoriale 93 3 9 990 1 002 262 1 12 176 481 036
+Tchad 142 214 386 5 589 606 5 47 385 018 211
+TOTAL 2 015 2 431 648 6 0 579 378 5 918 018 726 605
+Source : DSMP, BEAC
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+1144
+
+--- Page 15 ---
+Les chiffres ci-dessus intègrent tous les retraits 3.5.b. Les paiements par carte bancaire dans la
+réalisés dans les automates installés dans la CEMAC
+CEMAC, y compris avec les cartes émises hors
+CEMAC. Les paiements par carte bancaire restent peu
+nombreux, par comparaison aux autres moyens de
+Les retraits interbancaires (via GIMACPAY) ont paiement.
+atteint le nombre de 1 884 860 transactions pour
+une valeur de plus de 136,9 milliards de Francs
+CFA.
+Tableau 11 : Paiement par carte bancaire dans la CEMAC en 2023
+Nombre de TPE Nombre des paiements Valeur des paiements
+Cameroun 1739 1 631 290 149 850 759 531
+Centrafrique 70 63 210 3 630 124 500
+Congo 216 212 097 22 354 489 398
+Gabon 1386 599 024 49 862 302 905
+Guinée Equatoriale 93 90 828 9 931 693 036
+Tchad 95 437 975 7 349 198 582
+TOTAL 3 034 424 242 978 567 952
+3 599
+Source : DSMP, BEAC
+En interbancaire, 201 868 paiements par carte ont les particuliers pour les opérations de nivellement
+été traités par GIMACPAY pour un montant de de compte et les règlements des salaires. Ils
+13,75 milliards de Francs CFA. sont utilisés pour les transactions intra bancaires,
+interbancaires.
+3.6. Les virements classiques et instantanés
+Les paiements par virement se répartissent ainsi
+Les virements sont les moyens de paiement qu’il suit :
+largement utilisés aussi bien par les entreprises et
+Tableau 12 : les virements dans la CEMAC
+2022 2023 Variation (2022/2023)
+Source : GIMAC Nombre Valeurs Nombre Valeurs Nombre Valeurs
+Cameroun 15 250 466 18 607 674 860 851 13 256 331 33 116 948 168 318 -13,08% 77,97%
+Centrafrique 771 240 288 190 329 103 1 036 201 319 256 326 822 34,36% 10,78%
+Congo 3 523 041 5 428 939 575 946 4 595 707 8 065 973 097 164 30,45% 48,57%
+Gabon 3 433 730 8 813 616 890 795 4 596 972 12 444 561 575 499 33,88% 41,20%
+Guinée Equatoriale 175 190 12 372 925 230 697 555 733 4 344 249 986 450 217,22% -64,89%
+Tchad 2 494 055 3 062 021 962 422 1 050 668 515 298 538 228 -57,87% -83,17%
+Total 25 647 722 48 573 368 849 814 25 091 612 58 806 287 692 482 -2,17% 21,07%
+Source : DSMP, BEAC
+3.6.a. Les virements interbancaires dans la incluant les six Directions Nationales de la BEAC
+CEMAC (SYSTAC) et les six Trésors Publics nationaux (Cameroun,
+Congo, Gabon, Guinée Équatoriale, République
+La BEAC traite les opérations interbancaires grâce au Centrafricaine et Tchad).
+Système de Télécompensation en Afrique Centrale
+(SYSTAC). C’est un système net, sécurisé, automatisé Plus de 15,82 millions de virements ont été échangés
+et dématérialisé qui traite des opérations de débit dans le système au cours de l’année 2023 pour
+et de crédit de volume important ne présentant pas un montant de plus de 14 152 milliards de Francs
+un caractère urgent et dont le montant unitaire est CFA, contre 15,09 millions de transactions l’année
+strictement inférieur à 100 millions de francs CFA. précédente pour une valeur de près de 13 000
+milliards de Francs CFA, soit une hausse de 4,8 % en
+En 2023 SYSTAC comptait 70 participants, nombre et de 8,88 % en montant.
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+1155
+
+--- Page 16 ---
+Tableau 13 : Virements interbancaires dans la CEMAC en 2023
+2022 2023 Variation 2022/2023
+Nombre Valeur Nombre Valeur Nombre Valeur
+Cameroun 9 089 123 7 134 819 373 421 9 439 036 7 746 783 042 056 3,85% 8,58%
+Centrafrique 1 356 537 765 599 730 976 1 396 789 841 896 322 521 2,97% 9,97%
+Congo 5 74 207 179 533 370 211 607 968 172 494 916 424 5,88% -3,92%
+Gabon 1 791 531 1 304 364 494 352 1 920 232 1 471 287 012 353 7,18% 12,80%
+Guinée Equatoriale 2 043 662 2 299 439 267 891 2 189 396 2 519 808 991 493 7,13% 9,58%
+Tchad 99 275 183 337 196 394 105 604 196 129 209 838 6,38% 6,98%
+CCR 1 38 036 1 131 664 400 159 157 906 1 204 135 480 485 14,39% 6,40%
+TOTAL 15 092 371 12 998 757 833 404 1 5 816 931 14 152 534 975 170 4,80% 8,88%
+Source : DSMP, BEAC
+3.6.b. Les virements internationaux (Hors transferts effectués par les particuliers et les
+CEMAC) entreprises.
+Les virements internationaux se font essentiellement
+à travers le réseau SWIFT. Ils concernent les
+Tableau 14 : Virements internationaux dans la CEMAC en 2023
+Virements émis Virements reçus Ecart Reçus-Emis
+Nombre Valeur Nombre Valeur Nombre Valeur
+Cameroun 45 373 2 735 664 830 953 71 845 3 360 006 273 163 26 472 624 341 442 210
+Centrafrique 8 021 90 256 104 500 7 924 1 00 526 931 052 - 97 10 270 826 552
+Congo 11 878 522 153 128 614 15 145 4 68 957 979 291 3 267 - 5 3 195 149 323
+Gabon 33 386 1 014 677 595 368 21 080 2 198 926 042 377 - 12 306 1 184 248 447 009
+Guinée Equatoriale 46 532 1 975 170 590 361 8 930 3 03 462 601 066 - 37 602 - 1 671 707 989 295
+Tchad 25 200 421 685 029 584 9 072 48 497 086 512 - 16 128 - 373 187 943 072
+TOTAL 1 70 390 6 759 607 279 381 133 996 6 480 376 913 461 - 36 394 - 279 230 365 920
+Source : DSMP, BEAC
+Au total, 304 386 transactions ont été traitées pour soutenue, est marquée sur les plans nationaux et à
+une valeur dépassant 13 289 milliards de Francs l’échelle régionale par une hausse des principaux
+CFA. indicateurs relatifs à l’accès et à l’utilisation.
+internationaux se font essentiellement à travers le
+3.7. Les virements instantanés de monnaie réseau SWIFT. Ils concernent les transferts effectués
+électronique par les particuliers et les entreprises.
+Au cours de l’exercice 2023, l’activité des services
+adossés à la monnaie électronique, en progression
+Tableau n°15 : Evolution des services de paiement par monnaie électronique dans la CEMAC
+Variation
+2019 2020 2021 2022 2023 2022/2023
+(%)
+Nombre de prestataires 16 15 16 15 16 6,67%
+Nombre de comptes ouverts 24 718 103 30 109 160 35 058 823 37 381 036 40 033 410 7,10%
+Taux d'activité 40,00% 39,54% 39,40% 39,84% 42,67% 7,11%
+Nombre de points de services 158 220 223 006 245 173 328 911 449 176 36,56%
+Nombre de transactions 7 97 033 302 1 102 088 887 1 914 156 828 2 409 145 102 3 517 057 909 45,99%
+Valeur des transactions (en milliards) 11 335 14 822 20 596 23 332 28 911 23,91%
+Source : DSMP, BEAC
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+1166
+
+--- Page 17 ---
+Au niveau de l’offre, nous enregistrons un nouvel
+acteur à la faveur de l’autorisation accordée par Le taux d’activité sur 30 jours a légèrement
+la COBAC pour la fourniture des services de augmenté passant de 39,84 % en 2022 à 42,67
+paiement via le mobile money par Banco Nacional % en 2023. Cette évolution est portée par le
+de Guinea Ecuatorial en partenariat technique Cameroun qui enregistre un taux de comptes
+avec MUNI S.A., sous l’appellation « Muni Dinero ». actifs à 47,04%. Ceci est à mettre en parallèle avec
+L’interopérabilité à travers le GIMAC est renforcée le nombre d’utilisateurs actifs qui, connaît une
+avec une plus grande diversité de services. augmentation de 7,81%, passant de 14,8 millions
+en 2022 à 17,08 millions en 2023. Ceci traduit une
+Le nombre de comptes de paiement de monnaie adoption de plus en plus poussée de la monnaie
+électronique dans la CEMAC a dépassé 40 électronique pour les dépenses du quotidien.
+millions, contre 37 millions en 2022, soit une
+hausse de 7,10%. L’analyse des données par pays montre que, les
+indicateurs ont connu une évolution positive dans
+Le nombre de transactions a progressé de tous les Etats de la CEMAC sur la même période,
+45,99% en 2023, pour atteindre 3 517 millions sauf au Congo où un léger recul est enregistré
+d’opérations contre 2 409 millions en 2022. Cette attribuable aux taxes qui impactent l’activité.
+progression a été possible grâce aux nombreuses
+actions de promotion des établissements de L’activité est restée dominée par le Cameroun
+paiement et la reprise en main de cette activité qui, avec 24,86 millions de comptes, détient
+par certains opérateurs. De plus, l’interbancarité 62,11% du nombre total de comptes de paiement
+a permis de capter certains fl ux qui échappaient dans la CEMAC, suivi du Congo 8,7 millions de
+encore au secteur bancaire. Ainsi, plus de 9,6 comptes ou 21,84% et du Gabon 3,6 millions de
+millions d’opérations en moyenne ont été comptes soit 9,15%. Au Tchad, une diminution
+traitées quotidiennement en 2023 par l’ensemble du nombre de comptes 3,61 millions en 2022 à
+des plateformes de paiement de monnaie 2,13 millions en 2023 a été enregistrée du fait de
+électronique de la communauté, contre 6,3 l’assainissement du fi chier de la clientèle chez les
+millions en 2022. Avec l’augmentation du nombre Prestataires de Services de Paiement.
+de transactions, la valeur unitaire moyenne de
+l’opération de monnaie électronique continue En termes de volume des transactions, les
+de baisser (15,58%) passant de 9 738 F CFA en prestataires des services de paiement au
+2022 à 8 220 F CFA en 2023. Ce qui traduit une Cameroun réalisent 63,58% des transactions de la
+adoption de ce type de transactions dans la vie Communauté, suivis par le Congo 24,72% et le
+courante. Gabon 10,24%. En valeur, le Cameroun enregistre
+76,57% de l’activité de la zone, suivi du Gabon
+En valeur, les fl ux ont augmenté de 23,91%, au 12,99% et du Congo 7,93%.
+cours de la période sous revue, passant de 23 332
+milliards de francs CFA en 2022, à 28 911 milliards 3.7.a. Evolution de l’activité
+de francs CFA en 2023. La valeur moyenne
+journalière des transactions ressort à environ Au 31 décembre 2023, on dénombrait 449
+79,20 milliards de francs CFA en 2023 contre 176 distributeurs de mobile money à travers la
+environ 61,36 milliards de francs CFA en 2022, CEMAC, contre 328 911 à la fi n de l’année 2022
+soit une progression de 28,22%. soit une progression de 36,56%.
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+1177
+
+--- Page 18 ---
+Figure 6 : Evolution du nombre de distributeurs de mobile money dans la CEMAC
+449176
+328911
+245173
+223006
+158220
+2019 2020 2021 2022 2023
+Source : DSMP, BEAC
+Cette évolution a été rendue possible par étant entendu qu’un prestataire peut être déclaré
+la suppression de l’exclusivité des points de par plusieurs émetteurs/accepteurs ou EP.
+distribution. En effet, les distributeurs de proximité En 2023, plus de 3,5 milliards de transactions ont
+disposent très souvent des comptes de paiement été effectuées via les systèmes de paiement par
+chez plusieurs Etablissements de Paiement (EP). monnaie électronique ou virements instantanés.
+Aussi ce chiffre ne doit pas être analysé comme C’est une augmentation de 46% par rapport à
+une multiplication rapide des points de service, l’année précédente.
+Figure 7 : Evolution du nombre de transactions de monnaie électronique dans la CEMAC
+3517057909
+2409145102
+1914156828
+1102088887
+797033302
+2019 2020 2021 2022 2023
+Source : DSMP, BEAC
+En valeurs, les transactions de monnaie F CFA en 2022 ont dépassé 28 911 milliards en
+électronique qui s’élevaient à 23 332 milliards de 2023, soit une progression de 23,91%.
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+1188
+
+--- Page 19 ---
+Figure 8 : Evolution de la valeur des transactions de monnaie électronique dans la CEMAC
+en milliards de Francs CFA
+28911
+23332
+20596
+14822
+11335
+2019 2020 2021 2022 2023
+Source : DSMP, BEAC
+La croissance observée est rendue possible grâce à L’évolution de +21,69% en 2023, contre +10,28% en
+une adoption qui s’accélère du fait des agrégateurs 2022, de l’encours de monnaie électronique, c’est-
+et des principaux prescripteurs. Cette croissance est à-dire, les sommes détenues par les utilisateurs
+aussi attribuable aux nouveaux services autorisés, (porteurs et distributeurs) dans les comptes de
+notamment la réception des fonds internationaux porte-monnaie électronique, semble confi rmer la
+et les crédits disponibles auprès d’un nombre confi ance grandissante des populations envers ce
+croissant de prestataires. moyen de paiement. Ces chiffres montrent qu’il y
+a un début de thésaurisation à travers les comptes
+de paiement du mobile money.
+Figure 9 : Evolution de l’encours de monnaie électronique
+374 791 948257
+307 979 996769
+204 057 100220
+153 168 981923
+125 733 842074
+2 019 2 020 2 021 2 022 2 023
+Source : DSMP, BEAC
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+1199
+
+--- Page 20 ---
+Il convient cependant de relativiser cette de paiement, compte de monnaie électronique,
+appréciation au regard de la comparaison ou du IBAN généralisé depuis 2022. Ceci par exemple
+rapport au chiffre d’affaires de l’activité. En effet, en permettant l’usage effectif de cet IBAN pour les
+l’encours de monnaie électronique sur les comptes transactions fi nancières.
+en 2023 demeure inchangé et représente moins
+de 2% du total de la valeur des transactions de 3.7.b. Evolution des comptes et souscripteurs
+monnaie électronique. Ce qui montre que les aux produits de monnaie électronique
+comportements d’épargne et de décashing /
+dématérialisation de la conservation des valeurs Le nombre de comptes de paiement est passé de
+monétaires ne sont pas encore acquis. L’activité de 37 millions à la fi n de l’année 2022 à 40 millions en
+monnaie électronique est encore essentiellement décembre 2023, soit une progression de 6,92% .
+un moyen de transfert ou de transport d’argent et On constate un ralentissement dû à un marché qui
+non de d’épargne et de dépôt. commence à atteindre sa maturité. Le taux d’actifs
+défi nit le nombre de clients ayant utilisé leur
+Cette tendance pourrait se renforcer si la BEAC instrument de monnaie électronique au cours des
+et les PSP, faisaient de manière plus soutenue, la 30 derniers jours. Il a légèrement augmenté pour
+diffusion du Numéro IBAN attaché à chaque compte se hisser à 42,67% contre 39,8% un an plus tôt.
+Figure 10 : Nombre d’utilisateurs de monnaie électronique dans la CEMAC
+45000000
+40000000
+35000000
+30000000
+25000000
+20000000
+15000000
+10000000
+5000000
+-
+2019 2020 2021 2022 2023
+Actifs Non Actifs
+Source : DSMP, BEAC
+Il est diffi cile de défi nir avec exactitude la population En 2023, les recharges de porte-monnaie
+véritablement concernée car, d’une part, certains électronique c’est-à-dire les dépôts en espèces
+utilisateurs d’instruments (inscrits) de monnaie de la clientèle dans les points de vente ou les
+électronique détiennent, plusieurs porte-monnaie opérations de « Cash In » pour créditer les comptes
+électroniques auprès de différents Prestataires de paiement en monnaie électronique, ont atteint
+de Services de Paiement et d’autre part, chez la 9 451 milliards de F CFA contre 8 015 milliards de
+plupart des opérateurs, des personnes non inscrites F CFA pour l’année 2022, soit une progression de
+peuvent effectuer quelques transactions (réception 17,91%.
+des fonds, retrait, dépôts).
+La valeur moyenne de l’opération par monnaie
+3.7.c. Typologie des transactions de monnaie électronique dans la CEMAC a été de 8 220 F CFA
+électronique en 2023 contre 9 685 F CFA en 2022.
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+2200
+
+--- Page 21 ---
+Figure 11 : Evolution de la valeur moyenne des transactions
+13949
+13449
+10817
+9685
+8220
+2019 2020 2021 2022 2023
+Source : DSMP, BEAC
+Cette évolution tendancielle à la baisse du montant opérateurs ont mis en place un parcours client
+moyen de la transaction en monnaie électronique via un code USSD long qui permet l’acquisition
+est une conséquence de la massifi cation des des transactions en quelques secondes. A côté
+transactions numériques et de l’inclusion fi nancière. de l’USSD, d’autres modes d’authentifi cation ou
+communication sans contact existent. On peut
+3.7.d. Paiements par monnaie électronique citer le NFC et le QR Code .
+En 2023, les paiements des biens et services par L’achat de crédit téléphonique par mobile money
+monnaie électronique ont dépassé 2 961 milliards est le premier service de paiement marchand
+de Francs CFA, contre 2 172 milliards de Francs offert par tous les établissements de paiement,
+CFA en 2022, soit une progression de 36,33%. y compris les banques n’ayant pas d’opérateur
+En nombre, on est passé de 1 008 millions de téléphonique comme partenaire technique.
+paiements en 2022 à 1 427 millions en 2023 Avec 818 millions de transactions en 2023,
+(41,56%). ce service constitue la majorité (57,34%) des
+opérations de paiement. En valeur, l’achat de
+L’augmentation des opérations de paiement est crédit de communication représente 16,24% des
+due en partie, à l’abandon progressif du crédit paiements. La valeur moyenne d’une transaction
+téléphonique comme moyen de paiement. d’achat de crédit téléphonique est de 587 Francs
+Elle est aussi à mettre au crédit de nombreuses CFA en 2023 contre 747 Francs CFA en 2022. En
+actions de promotion de la part des prestataires dehors des paiements de crédit téléphonique, les
+qui ont proposé la gratuité des paiements durant autres transactions de paiement sont d’une valeur
+de longues périodes. Certains prestataires de moyenne de 4 073 Francs CFA en 2023 contre 5
+paiement ont continué des campagnes de 036 Francs CFA un an plus tôt.
+recrutement des épiceries de proximité, des
+établissements scolaires et des administrations 3.7.e. La réception des fonds internationaux
+publiques. (hors CEMAC)
+La valeur moyenne de l’opération de paiement par Plusieurs Prestataires de Services de Paiements
+monnaie électronique a été de 2 074 F CFA contre et plus particulièrement les établissements de
+2 152 F CFA en 2023. paiement permettent à leurs clients de recevoir
+des fonds depuis l’étranger. Ces opérations
+L’USSD reste le mode d’acquisition privilégié ont permis à la CEMAC d’encaisser plus de 557
+des transactions. Il est d’ailleurs présenté en milliards de Francs CFA en 2023.
+priorité dans les guichets de commerçants. Les
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+2211
+
+--- Page 22 ---
+Tableau n°16 : Réception des fonds par mobile money dans la CEMAC
+Transactions internationales (hors zone CEMAC)
+Nombre valeur
+Transfert d'argent reçus
+- dont Afrique de l'ouest (CEDEAO) 14 250 1 072 570 120
+- dont autres pays africains 768 198 50 987 394 787
+- dont Union Europeenne 5 379 138 388 459 209 008
+- dont autres pays d'Europe 100 835 10 752 112 766
+- dont Amérique du Nord 1 152 927 105 223 688 829
+- dont Amérique du Sud 10 949 304
+- dont Asie 1 473 98 263 307
+- dont Oceanie 5 093 759 341 188
+TOTAL 7 421 924 557 353 529 309
+Source : DSMP, BEAC
+3.7.f. L’interopérabilité de la monnaie
+de 229,54 milliards de Francs CFA contre 133,99
+électronique
+milliards de Francs CFA un an plus tôt. 56,87% de
+ces transactions se déroulent dans le même pays.
+Depuis 2020, grâce au GIMAC, les opérations par
+En valeur les transactions nationales tombent à
+monnaie électronique ou virements instantanés
+31,29% soit un montant de 71,90 milliards de
+sont interopérables. En 2023, le GIMAC a traité
+Francs CFA.
+plus de 8,9 millions de transactions de monnaie
+électronique pour un montant dépassant 393,2
+Le couloir le plus fréquenté pour les transactions
+milliards de Francs CFA, soit une progression de
+transfrontalières est celui entre le Cameroun
+21,88% en nombre et 75,4% en valeur.
+et le Gabon. Les échanges entre les deux
+pays représentent 66,23% des transactions
+Concernant les transferts d’argent, le GIMAC
+transfrontalières intra CEMAC en nombre et
+a traité 6 526 736 transactions en 2023 contre
+52,48% en valeur.
+6 062 184 transactions en 2022 pour un montant
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+2222
+
+--- Page 23 ---
+4. CONCLUSION ET PERSPECTIVES
+parcours client via le code USSD font partie des
+facteurs déterminants de développement de cette
+L’accélération et le développement des nouveaux activité. Enfi n, il convient de continuer à adresser
+modes de paiement dans la CEMAC ont contribué les problématiques de la fraude et des réclamations
+à en faire un vecteur de croissance endogène. qui garantissent la confi ance du public vis-à-vis des
+Leur introduction progressive a permis de réaliser, instruments de paiements scripturaux.
+des progrès de développement substantielles
+depuis de 2008. 5. RECOMMANDATIONS
+L’implication de la BEAC et la COBAC dans la
+promotion et la mutation des Infrastructures des
+Marchés Financiers (sécurité, textes réglementaires, Au fi nal, il a pu être observer un certain nombre
+standards internationaux, etc.), des Services et d’insuffi sances à la suite desquelles une note
+Moyens de Paiement commence à porter des fruits, reprenant les recommandations ci-après formulées
+avec la mise en œuvre du Règlement N°01/20/ à l’endroit des PSP pour application, sera
+CEMAC/UMAC/COBAC du 03 juillet 2020 relatif à promulguée :
+la protection des consommateurs des produits et
+services bancaires dans la CEMAC et du Règlement 1. La BEAC doit intégrer dans sa documentation
+COBAC R-2020/04 du 30 juillet 2020 relatif au de surveillance à recevoir des PSP, un tableau
+service bancaire minimum garanti. statistique de déclaration ségrégé des données
+L’évolution de l’activité des prestataires des par types d’instruments selon le mode de
+services de paiement ainsi que l’utilisation de réception, retrait ou dépôts des fonds ;
+plus en plus poussée de la monnaie électronique
+comme moyens de règlement de dépenses du 2. La BEAC doit prendre et publier la décision
+quotidien, est en partie due, aux actions de mettant défi nitivement fi n à l’usage des cartes
+promotion des prestataires lors des campagnes de privatives ;
+proximité auprès des établissements commerciaux,
+scolaires et des administrations publiques. A cela 3. Les PSP doivent de manière soutenue, diffuser
+s’ajoute l’adoption par certaines administrations le Numéro IBAN attaché à chaque compte de
+nationales de paiements électroniques comme paiement, compte de monnaie électronique ;
+mode d’acquisition de de certaines obligations
+essentielles (fi scalité, scolarité, droits perçus au 4. Les PSP doivent développer les services de
+titres d’identifi cations et d’éditions de passeports). l’acceptation marchand par la structuration de
+réseaux dédiés.
+Tous ces mécanismes ont permis de capter des
+fl ux qui jusque-là, échappaient au secteur fi nancier 5. Un format normalisé d’IBAN des comptes de
+et contribuent de ce fait à l’inclusion fi nancière. paiement et de monnaie électronique doit être
+Au demeurant, l’utilisation des technologies sans arrêté et publié ;
+contact (NFC), QR Code et la simplifi cation du
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+2233
+
+--- Page 24 ---
+BEAC NG 2020
+Halte à la contrefaçon !
+Cette application aide le grand public à authentifi er les billets BEAC de la
+Gamme 2020. Muni d’un billet de la gamme 2020, l’utilisateur peut
+l’authentifi er en comparant les signes de s écurité de ce billet
+avec ceux illustrés par l’application.
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+2244
+
+--- Page 25 ---
+ANNEXES
+RRAAPPPPOORRTT SSUURR LLEESS SSEERRVVIICCEESS DDEE PPAAIIEEMMEENNTT DDAANNSS LLAA CCEEMMAACC -- DDSSMMPP--22002233
+2255
+
+--- Page 26 ---
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+2266
+
+--- Page 27 ---
+ANNEXE I. Transactions de monnaie électronique en nombre et en valeur, par pays de la CEMAC
+2019 2020 2021 2022 2023
+Nombre Valeur Nombre Valeur Nombre Valeur Nombre Valeur Nombre Valeur
+Cameroun 6 15 357 306 8 812 226 321 166 8 06 055 732 1 2 151 073 705 383 1 296 464 402 1 5 545 480 994 721 1 665 717 853 1 7 207 566 575 484 2 236 123 956 2 2 136 988 295 178
+Centrafrique 693 728 31 966 795 660 4 502 835 1 08 697 340 679 5 943 415 110 280 541 112 15 381 600 2 75 386 376 542 3 1 855 001 439 953 547 047
+Congo 2 9 149 808 418 957 179 642 1 01 989 483 4 38 845 226 755 3 45 719 814 1 969 746 850 466 4 45 089 324 2 808 705 361 500 8 69 395 231 2 293 178 348 469
+Gabon 1 51 026 875 1 997 963 627 127 1 84 024 914 2 062 230 735 381 2 53 500 878 2 673 389 326 105 2 74 201 184 2 903 842 717 272 3 60 226 783 3 755 893 621 586
+Guinée Equatoriale 21 828 1 336 654 125 3 3 395 2 095 440 638 4 2 626 2 795 120 443 5 3 283 3 493 933 341 1 61 209 10 944 736 758
+Tchad 783 757 73 439 392 317 5 477 498 5 9 319 644 284 1 2 485 693 294 631 907 727 8 701 858 1 33 698 276 888 1 9 295 730 274 213 739 653
+TOTAL 7 97 033 302 1 1 335 889 970 037 1 102 083 857 1 4 822 262 093 120 1 914 156 828 2 0 596 324 740 574 2 409 145 102 2 3 332 693 241 026 3 517 057 909 2 8 911 172 288 691
+Source : BEAC
+ANNEXE II. Evolution de l’encours de monnaie électronique par pays (FCFA)
+2 019 2 020 2 021 2 022 2 023
+Cameroun 120 323 278 440 162 194 435 683 218 239 671 388 269 968 911 628 306 251 537 036
+RCA 1 000 000 000 3 250 000 000 5 828 988 000 6 016 721 997 6 468 309 492
+Congo 3 772 686 700 5 413 433 416 29 003 202 971 21 039 584 075 7 673 787 033
+Gabon 25 907 171 311 29 557 843 555 45 904 624 194 35 710 709 021 52 119 255 716
+G u i n é e
+2 246 944 9 126 406 8 793 125 820 995 303 594 745 334
+Equatoriale
+Tchad 2 163 598 528 3 632 261 160 8 994 717 091 6 074 822 117 1 684 313 646
+TOTAL 125 733 842 074 153 168 981 923 204 057 100 220 307 979 996 769 374 791 948 257
+Source : BEAC
+ANNEXE III. Nombre de comptes de paiement dans la CEMAC, par pays
+2019 2020 2021 2022 2023
+Inscrits dont actifs Inscrits dont actifs Inscrits dont actifs Inscrits dont actifs Inscrits dont actifs
+Cameroun 1 5 851 849 7 982 674 1 9 528 723 8 453 605 2 1 255 563 9 772 594 2 1 630 905 1 0 320 652 2 4 865 110 1 1 697 749
+Centrafrique 4 8 549 1 7 526 120 964 5 7 922 192 191 80 119 340 243 146 090 576 331 226 430
+Congo 4 353 381 962 123 7 106 777 2 463 621 7 481 565 2 742 635 8 666 642 3 052 578 8 742 685 3 384 770
+Gabon 2 358 166 774 530 2 707 890 896 967 2 524 112 990 854 3 169 109 1 096 235 3 661 370 1 354 808
+Guinée Equatoriale 1 3 541 1 295 14 702 6 213 1 6 203 7 001 21 341 5 200 4 9 727 10 573
+Tchad 2 106 158 151 411 630 104 2 9 267 3 605 392 227 225 3 612 587 279 019 2 138 187 409 277
+TOTAL 2 4 731 644 9 889 559 3 0 109 160 1 1 907 595 3 5 075 026 1 3 820 428 3 7 440 827 1 4 899 774 4 0 033 410 1 7 083 607
+Taux Actifs 39,99% 39,55% 39,40% 39,80% 42,67%
+Source : BEAC
+ANNEXE IV. Evolution des transactions de monnaie électronique dans la CEMAC 2023
+Cameroun Centrafrique Congo Gabon Guinée Equatoriale Tchad TOTAL CEMAC
+Nombre Valeur Nombre Valeur Nombre Valeur Nombre Valeur Nombre Valeur Nombre Valeur Nombre Valeur
+Recharges 352 195 055 7 473 223 139 189 5 983 848 153 406 578 617 5 10 180 795 134 353 149 747 78 837 115 1 542 388 358 653 4 5 610 6 850 526 648 3 230 676 141 117 123 497 950 473 099 9 451 338 876 351
+Transfert d'argent 366 107 187 5 262 784 204 954 4 278 811 118 495 775 641 1 55 684 559 994 360 578 894 44 055 031 684 124 378 155 6 397 4 31 953 698 2 461 369 63 307 391 196 572 593 354 7 123 504 282 538
+Retraits automates 5 396 088 5 26 061 348 163 8 6 791 2 667 702 770 9 03 60 501 156 11 536 208 38 870 946 745 2 9 274 2 709 825 000 11 511 437 36 582 190 484 28 560 701 6 06 952 514 318
+Retraits au Guichet 312 024 807 6 595 457 264 987 7 114 328 118 776 113 576 1 52 630 424 984 540 234 345 66 240 211 1 061 532 321 725 1 1 139 5 80 075 209 108 828 7 119 661 000 538 129 737 8 768 005 670 842
+Paiements 1 200 400 819 2 279 462 337 885 1 4 391 223 46 607 376 443 5 0 898 550 179 863 884 326 159 558 218 428 977 616 308 6 8 789 3 72 356 203 1 983 420 26 087 373 476 1 427 301 019 2 961 370 944 642
+- -
+TOTAL 2 236 123 956 2 2 136 988 295 178 3 1 855 001 439 953 547 047 8 69 395 231 2 293 178 348 469 360 226 783 3 755 893 621 586 1 61 209 1 0 944 736 758 19 295 730 274 213 739 653 ## 3 517 057 909 2 8 911 172 288 691
+Source : BEAC
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+2277
+
+--- Page 28 ---
+ANNEXE V. : Transactions mobiles interopérables dans la CEMAC en 2023
+NOMBRE DE TRANSACTIONS
+CAMEROUN GABON CONGO CENTRAFRIQUE TCHAD CEMAC
+CAMEROUN 3 995 510 56 780 40 445 36 447 6 940 4 136 122
+GABON 1 074 685 171 519 77 255 2 235 4 617 1 330 311
+CONGO 248 629 13 829 24 221 7 366 2 529 296 574
+CENTRAFRIQUE 243 337 544 6 217 18 3 687 253 803
+TCHAD 44 216 299 417 1 126 864 46 922
+CEMAC 5 606 377 242 971 148 555 47 192 18 637 6 062 184
+VALEUR DE TRANSACTIONS (FCFA)
+CAMEROUN GABON CONGO CENTRAFRIQUE TCHAD CEMAC
+CAMEROUN 38 832 023 719 2 502 120 514 2 125 783 992 1 756 402 414 209 645 066 45 425 975 705
+GABON 42 381 956 450 5 400 041 416 2 478 088 095 112 500 343 224 242 390 50 596 828 694
+CONGO 12 885 551 026 634 883 081 174 712 132 253 585 644 159 281 013 14 108 012 896
+CENTRAFRIQUE 21 074 918 722 28 522 425 293 398 337 33 800 404 626 029 21 801 499 313
+TCHAD 1 937 362 493 17 202 915 16 333 525 60 903 017 17 786 858 2 049 588 808
+CEMAC 117 111 812 410 8 582 770 351 5 088 316 081 2 183 425 218 1 015 581 356 133 981 905 416
+Source : GIMAC
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+2288
+
+--- Page 29 ---
+DIRECTEUR DE PUBLICATION
+Monsieur OTOUMOU Jean Clary
+Directeur Général de l’Exploitation
+RÉDACTEURS EN CHEF
+Monsieur IKORI à YOMBO Joseph Henri
+Directeur des Systèmes et Moyens de Paiement, par intérim
+RÉDACTEURS EN CHEF ADJOINTS
+Monsieur Ahmed ISMAEL,
+Adjoint au Directeur Central des Systèmes et Moyens
+de Paiement en charge de l’Exploitation des systèmes
+Monsieur MAGONZA Luc Rémy
+Adjoint au Directeur Central des Systèmes
+et Moyens de Paiement en charge de la surveillance
+SECRÉTAIRE DE RÉDACTION
+Monsieur ELOUNDOU NDEME Jacques
+Chef de service Etudes, Règlementation
+et Normalisation Financière
+ASSISTANTS DE RÉDACTION
+Mme ENDZIE née MAGNIME-MA-DIVINGOU, Marie-Andrée,
+Chef de section Normalisation
+et Réglementation Financière
+Monsieur EWANYE Yves Ghislain Claude,
+Chef de section des projets
+Monsieur MBARGA ONDOA Fréderic Roland
+Chef de la section Evaluation
+des Systèmes et Veille Technologique
+Monsieur ABAKAR Serge Hassane
+Chef de la section Analyse des Risques
+et Surveillance des Systèmes et Moyens de Paiement
+CONCEPTION, MISE EN PAGE ET IMPRESSION
+Imprimerie BEAC
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+2299
+
+--- Page 30 ---
+RAPPORT SUR LES SERVICES DE PAIEMENT DANS LA CEMAC - DSMP-2023
+30

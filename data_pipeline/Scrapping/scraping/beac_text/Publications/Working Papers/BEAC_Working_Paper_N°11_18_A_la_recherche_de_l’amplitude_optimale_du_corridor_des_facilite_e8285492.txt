@@ -1,0 +1,676 @@
+Source PDF : BEAC_Working_Paper_N°11_18_A_la_recherche_de_l’amplitude_optimale_du_corridor_des_facilite_e8285492.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°11_18_A_la_recherche_de_l’amplitude_optimale_du_corridor_des_facilite_e8285492.pdf
+Date extraction : 15/06/2026 21:23:27
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s E t a t s d e
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 11/18 -
+A la recherche de l’amplitude optimale du corridor des facilités
+permanentes de la BEAC
+MVONDO Emile Thierry
+Docteur en Sciences Economiques
+Direction des Etudes, de la Recherche et des Statistiques
+mvondot@beac.int
+B ANQ U E D E S E T A T S D E
+L’AF R IQ U E C E NT R ALE Les opinions émises dans ce document de
+travail sont propres à leur (s) auteur (s) et ne
+7 36, Av e n ue M on s e i g n e ur
+représentent pas nécessairement la position de la
+V og t B P:1 9 1 7 Y a o un d é
+Banque des Etats de l’Afrique Centrale.
+C a me roun
+T e l :(2 37 ) 2 2 2 34 0 30 / The opinions expressed in this working
+2 2 2 34 060 paper are those of the author (s) and don’t
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9
+of Central Africa States.
+D I R E C T I O N D E S E T U D E S, D E L A R E CH E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+A la recherche de l’amplitude optimale du corridor des facilités
+permanentes de la BEAC
+Mvondo Thierry∗
+Novembre 2018
+Résumé
+Nousnousintéressonsàl’amplitudeoptimaleducorridordesfacilitéspermanentesdelaBanquedesEtats
+de l’Afrique Centrale (BEAC). Son implémentation devrait permettre à cette institution d’optimiser le
+volume des opérations interbancaires, tout en s’assurant de l’étroitesse de son bilan, et en évitant une
+grande volatilité des taux d’intérêt à court terme. Le cadre de référence découle des travaux de Bindseil
+et Jablecki (2011b) puis, Muhong et ali. (2017). Celui-ci permet de contraindre les préférences de la
+banque centrale aux trois objectifs ci-dessus. Ces préférences ont pour arguments : (i) la volatilité du
+taux interbancaire; (ii) le volume des transactions et; (iii) le coût de l’intermédiation de la banque
+centrale,proportionnelàlatailledesonbilan.SurlabasedesdonnéesdumarchémonétairedelaBEAC,
+nous montrons que : l’amplitude optimale du corridor de ses facilités permanentes pourrait se situer à
+5,9%.Cettevaleurnes’éloigneraitpasdel’écartentreleTIPPetleTISPsurlapérioded’étude,ainsique
+des corridors qui ont été utilisés par certaines banques centrales de pays en développement à l’instar de
+la Banque Centrale de l’Inde. Mieux encore, elle montre que l’institution dispose d’une marge en rapport
+avec le corridor actuel qui est de 4,7%.
+Mots-clés : Corridor optimal, Préférences de la banque centrale, Volatilité des taux interbancaires.
+Codes JEL : E52
+Searching for the Optimal Width of Standing Facilities Corridor
+of BEAC
+Abstract
+We focus on the optimal width of standing facilities corridor of Central African States Bank (BEAC).
+Its implementation should allow the Central Bank to boost the volume of interbank transactions, while
+ensuringthenarrownessofitsbalancesheet,andavoidingavolatilityofshort-terminterestrates.Bindseil
+and Jablecki (2011b) and Muhong & ali. (2017) works are our frame of reference. This framework allows
+constraining BEAC preferences to these three objectives. Arguments of these preferences are : (i) the
+volatility of the interbank rate; (ii) the volume of transactions and; (iii) the cost of intermediation of
+the central bank, proportional to the size of its balance sheet. Based on BEAC’s money market data,
+we show that : the optimal width of standing facilities corridor of this institution could be around 5.9%.
+This value seems similar to that of the gap between the TIPP and the TISP over the study period as
+well as the width of standing facilities used by some central banks in developing countries as the Reserve
+Bank of India. Furthermore, it shows the possibility for the Central Bank to increase the width of actual
+corridor without costs.
+Keywords : Optimal Corridor, Central Bank Preferences, Interbank Rates Volatility.
+JEL Classification : E52
+∗. Docteur en économie / Adjoint au Directeur en charge de la Recherche à la Banque des Etats de
+l’Afrique Centrale (BEAC).
+L’auteur remercie les cadres de la BEAC pour leurs observations et commentaires, les éventuelles
+erreurs et omissions contenues dans cette étude sont de son seul fait.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 4
+1 Considérations théoriques et empiriques autour de l’amplitude optimale du corridor
+des facilités permanentes de la BEAC 5
+1.1 L’imposition du corridor comme un affinement du principe de séparation dans l’art du
+central banking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.2 Caractéristiques et fonctionnement du système du corridor des facilités permanentes . . . 6
+2 Eléments de modélisation et de simulation de l’amplitude du corridor des taux de la
+BEAC 8
+2.1 La dynamique des opérations interbancaires : les travaux de Bindseil et Jablecki (2011b) . 9
+2.2 Dérivation de la borne supérieure du corridor : les travaux de Muhong et ali. (2017) . . . 10
+2.3 Du cadre théorique aux réalités empiriques dans la CEMAC . . . . . . . . . . . . . . . . . 12
+Conclusion 14
+Bibliographie 16
+2
+
+--- Page 4 ---
+Résumé non technique
+La réforme de la politique monétaire de la Banque des Etats de l’Afrique Centrale (BEAC) a induit
+un passage du pilotage de la base monétaire au pilotage des taux d’intérêt dans la mise en œuvre de
+cette politique. Ce choix fait partie d’un ensemble de mesures destinées d’une part à conférer plus de
+flexibilité et d’efficacité à la BEAC et, d’autre part, à dynamiser les opérations à l’interbancaire et entre
+les banques et leurs clients. En guise de rappel, le pilotage des taux d’intérêt consiste à déterminer sur
+l’intervallededeuxComitésdePolitiqueMonétaire(CPM)etenrapportaveclaconjonctureéconomique
+sur un horizon de deux ans, le taux directeur devant servir de référence aux taux interbancaires. Pour
+cela, la Banque Centrale fait une prévision hebdomadaire de l’offre et de la demande de liquidité entre
+ces banques et n’intervient qu’à la marge pour injecter ou ponctionner l’écart. Pour éviter que le taux
+auquel les banques vont s’échanger la liquidité ne fluctue amplement et donc n’induisent des fluctuations
+des taux longs (ce qui déstabiliseraient les perspectives d’investissement), la banque centrale détermine
+un plafond et un plancher (à caractère dissuasifs) du coût de la liquidité hors opérations d’open market.
+Ainsi, les banques n’ont pas intérêt à s’échanger la liquidité au-dessus ou en deçà du corridor défini par
+cesbornes(encoreappeléesfacilitésmarginales),carlesbanquesemprunteusespourraientrevenirversla
+banque centrale.
+Toutefois, le système ci-dessus décrit ne vaut que sous certaines hypothèses précises. La première a
+trait à la supériorité des chocs exogènes (baisse du cours du baril par exemple) que subit la demande
+de monnaie à ceux sur la demande de biens et services. La deuxième induit une volonté d’arbitrer entre
+volatilité des taux interbancaires, dynamisme des opérations dans ce compartiment et donc étroitesse
+du bilan de la Banque Centrale. En définitive c’est la préférence de la Banque Centrale quant à ces
+contraintes qui doit dicter l’amplitude du corridor; l’on parle alors d’un corridor optimal, objet de notre
+étude pour ce qui est de la conduite de la politique monétaire à la Banque Centrale. Suivant les résultats
+obtenus, l’amplitude du corridor des facilités permanentes de la BEAC supposé symétrique pourrait se
+situerà5,9%.Cettevaleurnes’éloigneraitpasdel’écartentreleTIPPetleTISPsurlapérioded’étude,
+ainsi que des corridors qui ont été utilisés par certaines banques centrales de pays en développement à
+l’instar de la Banque Centrale de l’Inde. Mieux encore, elle montre que l’institution dispose d’une marge
+en rapport avec le corridor actuel qui est de 4,7%.
+La première incidence de ce résultat est la réduction de la surliquidité ambiante dans les économies
+de la Zone. En intervenant à la marge et non dans les deux sens comme cela était fait avant, la Banque
+Centrale va à intensifier à terme, les opérations entre les banques primaires en permettant aux banques
+en excédent de liquidité de prêter à celles en déficit. De même, une telle approche devrait contribuer à
+réduire la fragmentation du compartiment interbancaire de son marché monétaire. En définitive c’est le
+regain du canal des taux d’intérêt qui est attendu; un canal de transmission des effets de la politique
+monétaire qui montre comment une impulsion monétaire de la BEAC impacte l’activité via les taux
+interbancaires et les taux entre les banques et leurs clients. Un autre effet serait sur le comportement de
+la Banque Centrale qui devient proactive et peut, suivant la modification de la largeur de ce corridor,
+réduire la volatilité des taux ou à contrario, intensifier les opérations du marché interbancaire.
+3
+
+--- Page 5 ---
+Introduction
+Suivant Aucremann et al. (2008), « Si la banque centrale a le monopole de création de la base
+monétaire, elle peut en fixer le prix ou la quantité ». Cette assertion résume bien les deux choix possibles
+dans la mise en œuvre de la politique monétaire contemporaine : piloter la base monétaire ou piloter
+les taux d’intérêt. Dans le premier cas, il est question de gérer activement la base monétaire en vue
+d’influencerlacréationmonétaireetdonclestauxd’intérêt,l’inflationetl’activité.Toutefois,enprésence
+dechocssurlademandedemonnaieplusamplesqueceuxsurlademandeglobale,ilyaintérêtàconverger
+vers la deuxième option et donc, à abandonner le pilotage de la base monétaire pour le pilotage des taux
+[Poole (1970) puis Walsh (2003)]. C’est le cas en Afrique Centrale où la demande de monnaie est sous
+l’influence de facteurs externes tels que les devises de l’exportation des matières premières et produits de
+base. Dans ce contexte, l’entrée des devises par ailleurs tributaire des fluctuations des cours des produits
+ci-dessus induit elle-même, des fluctuations des agrégats monétaires plus importantes que celles de la
+demande globale comme le montrent Gomba et ali. (2017) pour le Cameroun.
+Fortdetoutcequiprécède,laBanquedesEtatsdel’AfriqueCentrale(BEAC)aopté,faisantsuiteà
+laréformedesapolitiquemonétaire,pourlepilotagedestauxd’intérêt.Concrètement,ils’agitdefixerle
+tauxdirecteurdonnantl’orientationdelapolitiquemonétairepuis,destabiliserletauxinterbancaireau-
+tourdecetauxdirecteurpardesinjections/ponctionsdeliquidité.Cefaisant,sonbilandevientendogène
+et ne fournit dorénavant aucune information sur l’orientation de sa politique monétaire. Parallèlement,
+labasemonétairepeutdevenirtrèsvolatileetperdretoutcontenuinformationnel.Surunplanpurement
+théorique,BordesetClerc(2010)qualifientcettetransitiondepassaged’unrégimericardienàunrégime
+wiksellien où sont confrontés taux d’intérêt neutres arbitrant entre épargne et investissement d’une part
+et, d’autre part, taux d’intérêt monétaires arbitrant entre offre et demande de crédit. Toutefois, ce sys-
+tème comporte un risque dans sa mise en œuvre, du fait d’un aléa moral en lien avec une baisse continue
+du taux directeur de la banque centrale et donc, la validation de projets au taux de rendement inférieurs
+auxtauxneutres.Keisteretali.(2008)proposealors,pours’endépartir,ladéfinitiond’untauxplancher
+qui, par opposition au taux de pénalité, permettrait de drainer la liquidité là où elle est nécessaire et,
+d’éliminer ainsi les coûts d’opportunité.
+Ainsi se trouve implémenté le principe du corridor qui permet aux banques centrales d’affiner le
+pilotagedestauxd’intérêtetdoncdedéfinirlabandedefluctuationdestauxinterbancaires.End’autres
+termes, les banques centrales définissent un plafond et un plancher considérés comme dissuasifs quant
+aux recours à leurs facilités marginales de prêts ou de dépôts. L’amplitude de ce corridor n’est toute-
+fois pas neutre. Suivant Bindseil et Jablecki (2011b), plus il est large, plus le volume des opérations à
+l’interbancaire est important et, plus grande est la volatilité des taux d’intérêt à court terme. Ces deux
+options par ailleurs non conciliables ramènent le choix de l’amplitude du corridor aux préférences de la
+banque centrale. Mieux encore, celle-ci optera pour le dynamisme des opérations à l’interbancaire selon
+que ce marché est fragmenté ou non, que la finance indirecte prédomine sur la finance directe ou non et,
+selon que l’historique des taux montre que ceux-ci sont volatiles ou non. Les options ci-dessus n’étant
+que très rarement tranchées du fait de nombreux paramètres comportementaux, il se pose la nécessité de
+détermineruncorridoroptimalquipermettraitd’arbitrerentrelesfacteursci-dessusenAfriqueCentrale.
+Fort de tout ce qui précède, notre étude s’est proposée d’identifier les préférences de la BEAC et de
+contraindre celles-ci au dynamisme des opérations à l’interbancaire et à la volatilité des taux afférents.
+Commerésultats,ilestapparudel’analysedesdonnéesdumarchémonétairequelaBEACdevraitdonner
+la primauté au dynamisme des transactions à l’interbancaire et par conséquent, l’amplitude du corridor
+se situerait à 5,9%. Cette valeur montre que l’institution dispose d’une marge en rapport avec le corridor
+actuel qui est de 4,7%. De même, l’intensification des opérations à l’interbancaire pourrait réduire la
+surliquidité ambiante dans nos économies. En intervenant à la marge et non dans les deux sens comme
+celaétaitfait,laBanqueCentralevamettreenavantlesforcesdumarchéetdoncpermettreauxbanques
+en excédent de liquidité de prêter à celles en déficit. De même, une telle approche devrait contribuer à
+réduire la fragmentation du compartiment interbancaire de son marché monétaire. En définitive c’est le
+regain du canal des taux d’intérêt qui est attendu; un canal de transmission des effets de la politique
+monétaire qui montre comment une impulsion monétaire de la BEAC impacte l’activité via les taux
+interbancaires et les taux entre les banques et leurs clients. Ces résultats sont présentés au point (3)
+4
+
+--- Page 6 ---
+ci-dessous, le point (2) présente les éléments de modélisation mobilisés et le point (1) connecte le thème
+à la littérature sous-jacente.
+1 Considérations théoriques et empiriques autour de
+l’amplitude optimale du corridor des facilités per-
+manentes de la BEAC
+Le système du corridor peut être vu comme un affinement du principe de séparation découlant de
+l’artducentralbanking.Sacaractérisationconsistealorsàexaminerlapossibilitédelerendresymétrique
+ou non et, surtout, d’éviter d’induire des effets indésirables dans le système bancaire à travers le choix
+de son amplitude.
+1.1 L’imposition du corridor comme un affinement du principe
+de séparation dans l’art du central banking
+Suivant Goodfriend (2010), trois politiques sont du ressort de la banque centrale : (i) la politique
+monétaire pure qui consiste à faire varier la taille de son bilan par ses opérations d’open market; (ii)
+la politique du crédit pure qui consiste à en modifier la structure et; (iii) la politique de taux d’intérêt
+qui consiste à modifier les taux sur les facilités marginales de prêts et de dépôts. Suivant Bordes et
+Clerc (2010), il existe un principe de séparation entre la première, orientée vers la stabilité monétaire,
+et les deux autres politiques, orientées vers la stabilité financière identifiée au bon fonctionnement du
+marché interbancaire. Selon ce principe de séparation, une banque centrale a la possibilité mais surtout,
+doit s’efforcer de séparer la conduite de sa politique monétaire pure dédiée à la stabilité des prix (par
+exemple), de sa politique du crédit, consistant à approvisionner le système bancaire en liquidité en cas
+de chocs transitoires sur la demande de monnaie.
+Appliquéàl’artducentralbanking,BordesetClerc(2010)montrentqueceprincipeafaitcorpsavec
+l’évolution de cet art dans le temps. Ainsi, dans le cadre du ciblage monétaire dans un régime ricardien,
+ces auteurs montrent qu’il est resté en vigueur tant que les trois piliers relevés par Leijonhufvud (2007a)
+demeuraient vérifiés. Ces piliers par ailleurs au cœur de l’implémentation de la théorie quantitative de la
+reformuléeparFriedman(1968)sont:(i)lecontrôledelabasemonétaire;(ii)lastabilitédumultiplicateur
+monétaire assuré par le système de réserves obligatoires et; (iii) une grande inertie du comportement du
+public en matière de détention des billets. C’est, souligne Leijonhufvud (2007b), un cadre qui permet à
+la politique monétaire pure d’agir sur les déterminants du niveau général des prix d’équilibre alors que
+le contrôle de la base monétaire permet celui de la masse monétaire : un système financier qualifié de
+ricardien.
+Le principe de ciblage monétaire dans un régime ricardien ci-dessus a été abandonné ultérieurement
+pour un ciblage de l’inflation au moyen du taux d’intérêt sur le marché de la liquidité monétaire :
+un régime wicksellien. La principale raison évoquée est l’affaiblissement du contenu informationnel des
+agrégats monétaires, du fait de la substitution de plus en plus grande entre actifs et monnaie (Bordes et
+Clerc, 2010). Suivant Leijonhufvud (2007b), la base monétaire est dorénavant déterminée du côté de la
+demande (les banques commerciales) et l’on rentre dans un système de monnaie interne où n’existe plus
+de valeur d’équilibre pour le niveau général des prix. Les principaux aménagements apportés ont tourné
+autour de la suppression ou de l’aménagement des systèmes de réserves obligatoires. Plus précisément,
+la politique monétaire pure va se cantonner aux opérations d’open market modifiant le volume du bilan
+de la banque centrale en vue de contrôler les évolutions à long terme des grandeurs nominales telles que
+le niveau général des prix, le taux d’inflation et le taux d’intérêt nominal. Elle pourrait éventuellement
+contrôler l’activité à court terme. La politique du crédit quant à elle va modifier la structure du bilan de
+la banque centrale et, la politique des taux d’intérêt sur les réserves des banques va permettre d’agir sur
+5
+
+--- Page 7 ---
+les taux interbancaires et donc les taux courts.
+Suivantlesystèmeci-dessus,iln’existequ’untauxplafondquesecontentedefixerlabanquecentrale
+poursesopérationsd’openmarket(BordesetClerc,2010).Cetauxluipermetd’atteindresonobjectifet
+ellepeutparconséquentêtreamenéeàlemodifierdemanièreàindiquerl’orientationdelaliquiditélàoù
+elle est nécessaire. Parallèlement, elle fixe un taux de pénalité susceptible de varier pour ses opérations
+exceptionnelles.C’estjustementlapossibilitédebaissertropbascetauxquipeutinduireetamplifierl’aléa
+moral entre emprunteurs et prêteurs sur le marché interbancaire. Cet aléa devient minime pour Mishkin
+(2008) lorsque l’offre de liquidité de la banque centrale est temporaire et exceptionnelle. Seulement,
+lorsque le crédit bancaire devient titrisé, la condition ci-dessus ne vaut plus. C’est pourquoi Keister et
+ali.(2008)estimentqu’unsystèmeavecuntauxplafonduniquementn’éliminepastoutrisqueetpourrait
+fausser le principe de séparation. L’on estime alors qu’un système de corridor avec un taux plancher et
+untaux plafondest meilleur. Concrètement, en fonctionde lacibleretenupourles opérations dumarché
+monétaire et en tenant compte de la demande de liquidité, la banque centrale fixe un objectif pour le
+montantdesréservesetenmodifiel’offreenconséquence,afindemaintenirletauxaussiprèsquepossible
+de la cible.
+1.2 Caractéristiques et fonctionnement du système du corridor
+des facilités permanentes
+L’implémentationd’unsystèmedecorridorestdestinéeàréduirelavolatilitédestauxinterbancaires,
+toutenmaintenantceux-ciautourdutauxdirecteurdelabanquecentrale.Depuissapremièreadoptionen
+1994parlaBanqueduCanada,quatrequestionsrécurrentessontgénéralementabordéeslorsdesamiseen
+œuvre:qu’ontfaitlesprécurseurs?doit-ilêtresymétriqueouasymétrique?est-ilnécessairederechercher
+un corridor optimal et, quelle approche retenir? Cette section revient sur ces trois questionnements.
+1.2.1 Les précurseurs sur l’implémentation d’un corridor
+En adoptant un corridor autour de son taux directeur en 1994, la Banque du Canada avait pour
+objectif de montrer aux banques que le recours à ses facilités marginales était moins attractif que les
+taux interbancaires : une pénalité en d’autres termes. Sous l’appellation de « bande opérationnelle », ce
+système dont l’amplitude était de +/-50 points de base n’était pas véritablement symétrique. La Banque
+Centrale Européenne va emboiter le pas en 1998 avec un corridor de +/-250 points de base, sans pour
+autantfournirdejustificationsàcechoix.Cecorridoraétéréduitquelquessemainesplustardà50points
+de base pour faciliter la transition à l’Euro et, ultérieurement, il est devenu symétrique à 200 points de
+base en 1999. La Sveridge Risk Bank va également adopter un corridor de 150 points de base, avec pour
+objectifdeminimiserlavolatilitédutauxinterbancaire,sanspourautantmettredecôtélapossibilitéde
+voir les risques de l’interbancaire transférés à la banque centrale.
+Le choix du corridor par ces banques centrales ayant été fait de manière ad-hoc, celui-ci a fait l’objet
+de révisions dans le temps, avec pour but de permettre à la banque centrale d’atteindre un des objectifs
+souvent visés. Ainsi, en 2005, la Banque d’Angleterre va revoir son corridor de +/-100 points de base à
++/-25 points de base. L’objectif visé est alors de trouver le meilleur trade-off entre le contrôle des taux
+à court terme, des faibles injections de liquidité et le dynamisme des transactions interbancaires. Dans
+la même lancée la Banque Centrale Européenne va également revoir le sien de +/-200 à +/-100 points
+de base. De tout ce qui précède, un constat apparaît : la largeur du corridor n’est pas figée, elle dépend
+de l’arbitrage entre les trois objectifs qu’il permet d’atteindre et donc des caractéristiques de l’économie
+concernée et les préférences de la banque centrale.
+6
+
+--- Page 8 ---
+1.2.2 Corridor symétrique ou asymétrique
+Le choix d’un corridor symétrique ou asymétrique comporte un message à l’attention des agents
+économiques. Ainsi, pour Bindseil et Jablecki (2011b), un corridor symétrique induit une symétrie dans
+la gestion de la liquidité par la banque centrale et les banques primaires. La banque centrale apparaît de
+cefaitcommeneutrequantaudéroulementdestransactionsinterbancairesautourdesontauxdirecteur.
+BindseiletJablecki(2011b)poursuiventensoulignantqu’uncorridorsymétriquepermetd’éviterlespics
+etlescreuxsusceptiblesdesurvenirdanslepilotagedestaux.UnautreargumentestapportéparKhayat
+(2017) pour qui, un corridor symétrique booste le produit et le bien-être, contrairement à la vision de
+Berentsen et Monet (2008).
+ToutefoissouligneLee(2016),dufaitdenombreusesdistorsions,uncorridorsymétriquepardéfinition
+peut s’avérer asymétrique dans la pratique. Mieux encore, du fait de ces distorsions, la banque centrale
+peutêtrepousséeàadopteruncorridorasymétrique.Ainsi,pourBinicietali.(2015)etenprésenced’un
+comportement procyclique de l’offre de crédit amplifiant les cycles économiques (accélérateur financier),
+uncorridorasymétriques’avéreraitêtreunboninstrumentderégulationmacroprudentielle.Leurraison-
+nementpartdel’interactionentrelecorridord’unepartet,d’autrepart,l’écartentrecréditsetdépôtsqui
+estunindicateurdeprisederisquedesbanques.Ilsmontrentparlasuitequel’utilisationd’unepolitique
+de corridor asymétrique associée à une stratégie active de gestion de la liquidité permet à la politique
+monétaired’influersurlestauxdébiteursetcréditeurspardifférentscanaux.Enpermettantendéfinitive
+d’ajuster le spread de crédit, le corridor s’avère être un instrument de politique macroprudentielle.
+Nonobstant, la possibilité de tirer un avantage certain du recours à un corridor asymétrique suppose
+une proactivité et une maîtrise des comportements en interaction. Dans un système où s’implémente
+nouvellementunepolitiquedepilotagedestaux,laréalisationdenombreuxrisquespeutinduiredeseffets
+inattendus et indésirés. De tout ce qui précède, il devient opportun de partir d’un corridor symétrique.
+1.2.3 Pourquoi un corridor optimal?
+BindseiletJablecki(2011)rappellentquel’objectifprincipaldel’implémentationd’uncorridorestde
+permettredecontenirlavolatilitéàcourttermedestauxinterbancairesetdemaintenirunniveauadéquat
+delaliquiditédesbanques.Cesauteursmontrenteneffetquepluslecorridorestlarge:(i)plusgrandest
+le volume des transactions interbancaires; (ii) plus étroit est le bilan de la banque centrale et; (iii) plus
+grandeestlavolatilitédestauxinterbancaires.Parconséquent,silabanquecentralesouhaiten’intervenir
+qu’à la marge d’une part et, d’autre part, éviter de déstabiliser les comportements d’investissement avec
+l’incidence de la volatilité des taux court sur les taux longs, il y a lieu de rechercher un corridor optimal.
+BindseiletJablecky(2011)proposentendéfinitivedecontraindrelespréférencesdecettebanquecentrale
+aux trois objectifs ci-dessus. Une telle proposition considère toute l’économie comme fermée.
+Muhongetali.(2017)1reconnaissentquantàeuxlanécessitéd’éviterd’induireunevolatilitédestaux
+courts. Parallèlement, ils pensent qu’il y a également lieu de prendre en compte les coûts d’ajustement
+monétaires et de contrôler la fréquence et la taille de chocs externes. Concrètement, leurs arguments à
+la Banque de Chine en vue de l’adoption d’un système de corridor sont les suivants : (i) un système
+de corridor peut réduire la volatilité des taux d’intérêt en guidant mieux les attentes du marché; (ii)
+un système de corridors peut réduire et même éliminer la demande de liquidités pour thésaurisation et
+réduirelafréquence,l’ampleuretlescoûtsdesopérationsd’openmarketdelabanquecentraleet;(iii)la
+largeuroptimaled’uncorridordestauxd’intérêtestfonctiondelavolatilitésouhaitéedestauxd’intérêt,
+du coût d’ajustement de la politique monétaire, de la fréquence et de la taille des chocs externes.
+LesprincipesgénérauxdufonctionnementdececorridorsontdiscutésparWoodford(2003),Bindseil
+(2006) et Whitsell (2006). De manière générale, ce système peut être exploité de différentes manières.
+Ainsi, l’on peut le concevoir avec ou sans recours à un taux directeur de la banque centrale, symétrique
+1. Niu Muhong Zhang Lina Zhang chanson Xiang Xuetao Ma Jun (2017) : Interest rate corridor,
+interest rate stability and Operating costs, Journal of Financial Research.
+7
+
+--- Page 9 ---
+ounonparrapportàcetaux.Suivantslespaysetdonclesbanquescentralesconcernées.Cesalternatives
+peuventêtreadaptéesauxcirconstancesdelazonemonétaire,ycomprislacapacitédelabanquecentrale
+àparveniràdemeilleuresprévisiondelaliquidité,ledéveloppementglobaldesmarchésfinanciersdupays
+etlefonctionnementdesonmarchéinterbancaire.Nonobstant,touslessystèmesdecorridorscomportent
+unefacilitédeprêtpermanenteàcourttermecombinéeàunefacilitédedépôtpermanenteafindedéfinir
+sesbornes.Lesbanquescentralespeuventégalementeffectuerdesopérationsd’openmarket(OMO)pour
+influer sur le niveau des taux du marché dans le corridor.
+1.2.4 Les approches du corridor optimal
+Lesprécurseursdansl’usageducorridorsesontfondéssurdesjugementsd’expertsdansladéfinition
+de l’amplitude de celui-ci. Ainsi, il est apparu que cette amplitude par ailleurs sujet à modifications
+récurrentes pouvait atteindre +/-300 points de base à l’instar de la Reserve Bank of India. Plus tard, il
+s’estavéréquel’amplituded’uncorridorcomportaitdesimplicationsmacroéconomiquescertaines.Ainsi,
+en vue de capter son incidence sur le bien-être, Berentsen et Monet (2008), Hoerova et Monnet (2010)
+puis Bindseil et jablecki (2011a) l’abordent par des modèles d’équilibre général. L’arbitrage qui s’opère
+uniquement sur ce critère de bien-être et donc à l’écart de toute considérations du marché monétaire
+va ramener Bindseil et Jablecki (2011b) à prendre en compte des critères s’appuyant essentiellement
+sur les variables y relatives. Plus spécifiquement, la fonction de préférence de la banque centrale est
+contrainte par ces critères. Ainsi, un corridor optimal devra sous réserve des préférences ci-dessus : (i)
+éviter la volatilité des taux courts; (ii) rendre étroit le bilan de la banque centrale et; (iii) dynamiser
+les transactions interbancaires. Leur modèle permet de déterminer la variabilité du taux interbancaire et
+donc, le plafond et le plancher du corridor.
+A ces trois contraintes, Muhoung et ali. (2017) soulignent qu’il y a également lieu de prendre en
+compte les coûts d’ajustement monétaires et de contrôler la fréquence et la taille de chocs externes.
+Parallèlement, ces auteurs supposent que le principal argument de la fonction objectif de la banque
+centrale est la volatilité des taux interbancaires qu’il s’agit de minimiser. Cette minimisation se fait sous
+la contrainte des deux chocs de liquidité définis par Bindseil et Jablecki (2011b) sur l’interbancaire : un
+premier choc sur la liquidité en circulation et un deuxième après les dénouements à l’interbancaire qui
+induit un recours aux facilités marginales. Après prise en compte des fonctions d’offre et de demande de
+liquiditéspécifiéesdemanièrelinéaire,lesauteursmontrentquelafacilitémarginaledeprêtestinfluencée
+par:(i)l’aversiondelabanquecentraleàlavolatilitédestaux;(ii)l’élasticitédelademandedeliquidité
+par les banques commerciales et; (iii) l’ampleur des chocs exogènes ci-dessus.
+En définitive, les travaux de Bindseil et Jablecki (2011b) ont fourni une formalisation chronologique
+des opérations à l’interbancaire, alors que ceux de Muhong et ali. (2015) se sont appesantis sur la modé-
+lisation de la borne supérieure du corridor supposée par ailleurs symétrique. Concrètement, Bindseil et
+Jablecki(2011b)montrentquelesopérationspermettantdedéterminerletauxinterbancairecomportent
+cinq séquences : (i) l’intervention de la banque centrale; (ii) le premier choc de liquidité sur les billets en
+circulation; (iii) les négociations à l’interbancaire; (iv) le deuxième choc de liquidité et; (v) le recours
+aux facilités marginales. Toutefois, au-delà de proposer une fonction de réaction de la banque centrale,
+ces auteurs ne fournissent aucune contrainte permettant de la maximiser : c’est à quoi s’attèlent Mu-
+hong et ali. (2015) qui y introduisent à cet effet comme contraintes, les coûts liés à la volatilité des taux
+interbancaires, aux opérations d’open market et, à la mise en place des facilités permanentes.
+2 Eléments de modélisation et de simulation de l’am-
+plitude du corridor des taux de la BEAC
+Cettesectionreprendladynamiquedesopérationsàl’interbancaireproposéeparBindseiletjablecki
+(2011b) d’une part et, d’autre part, le programme d’optimisation de la borne supérieure suivant Muhong
+8
+
+--- Page 10 ---
+et ali. (2017).
+2.1 La dynamique des opérations interbancaires : les travaux de
+Bindseil et Jablecki (2011b)
+Nous reprenons ci-dessous la chronologie en cinq étapes journalières au compartiment interbancaire,
+telle que décrite par Bindseil et Jablecki (2011b).
+(i) Opération d’open market de la banque centrale
+Dans la matinée, la banque centrale ajuste sa position en titres S au moyen d’une opération d’open
+market, telle que S = E(B), où B = B +2η +2η représentent les billets en circulation à la fin du
+0 1 2
+jour (nous écrirons aussi parfois η =2η +2η ). B est la composante déterministe du niveau des billets
+1 2 0
+le matin, alors que η , η sont des chocs stochastiques susceptibles de frapper chaque banque au cours
+1 2
+de la journée, avec E(η ) = E(η ) = 0 et une fonction de densité symétrique pour chaque choc. Par
+1 2
+conséquent, S =B , et le matin, les réserves bancaires totales R seront égales à zéro.
+0
+(ii) Premier choc de liquidité
+Après l’opération de la banque centrale, une première composante stochastique des billets de banque
+en circulation se réalise et devient publiquement connu : 2η . Dans le même temps, un choc de transfert
+1
+de dépôt se produit, µ, qui est neutre en termes de liquidité globale, mais reflète que les dépôts des
+ménages se déplacent d’une banque à l’autre.
+(iii) Séance de négociation interbancaire
+Au milieu de la journée, une séance de négociation a lieu, au cours de laquelle, dans un marché
+(supposons un grand nombre de banques qui négocient, dont certaines sont à court de liquidités et
+d’autres en excédent), le taux interbancaire est défini comme la moyenne pondérée des deux taux de la
+facilité permanente, les poids étant les probabilités perçues du système bancaire d’être court ou long à
+la fin de la journée2. On suppose ici pour l’instant que les banques neutralisent le choc de décalage de
+dépôt à l’interbancaire.
+(iv) Deuxième choc de liquidité
+Dansl’après-midi,lavéritabledemandedebilletsestrévélée,cequipermetlaréalisationdudeuxième
+choc stochastique 2η .
+2
+(v) Fin de journée et recours aux facilités permanentes
+En conséquence de deuxième choc, les banques doivent recourir à une ou l’autre facilité permanente.
+2. Dans la pratique, les coefficients de pondération sont plutôt les poids des transactions dans le
+volume total de celles-ci.
+9
+
+--- Page 11 ---
+2.2 Dérivation de la borne supérieure du corridor : les travaux
+de Muhong et ali. (2017)
+Muhong et ali. (2017) supposent que l’objectif de la banque centrale est, quelques soient les pré-
+occupations des moyen et long termes, de stabiliser les taux d’intérêt pour éviter de déstabiliser les
+comportements des investisseurs. Dans cette logique, le dynamisme du marché interbancaire et la né-
+cessaire étroitesse du bilan de la banque centrale en deviennent tributaires. Par conséquent, le corridor
+optimal des taux est défini à partir de la limite supérieure de celui-ci, c’est-à-dire celle qui minimise les
+fluctuations des taux du marché sous la contrainte des coûts d’exploitation de la banque centrale. En
+définitive,lavolatilitédestauxapparaîtcommeprincipalargumentdespréférencesdelabanquecentrale
+et,ledynamismedesopérationsinterbancairesetsescoûtsd’intermédiationafférentscommecontraintes.
+De tout ce qui précède, le problème d’optimisation qui en résulte est écrit comme suit :
+maxφ (is)2 =−(cid:2) φ (µ )2+φ (S )2(cid:3) (1)
+i t OMO t SLF t
+is,R
+Dans cette expression,is, µ et S sont respectivement la borne supérieure du corridor, le volume
+t
+des opérations d’open market et le volume de la facilité permanente de prêts. De même,φ , φ , et
+i OMO
+φ sontrespectivementlecoefficientd’aversionàlavolatilitédestauxinterbancairesetdescoefficients
+SLF
+indicatifs des coûts du recours par la banque centrale aux opérations d’open market ou aux facilités
+permanentes de prêts.
+Lescoefficientsci-dessusontunesignificationéconomiquebienprécise.Enrèglegénérale,latolérance
+de la banque centrale vis-à-vis des fluctuations des taux d’intérêt est liée au degré de développement
+du marché des capitaux. En règle générale, plus la part du financement direct3 dans le financement
+social total est élevée, plus les activités de financement et les institutions financières sont sensibles aux
+fluctuations des taux d’intérêt et, moins la banque centrale tolère les fluctuations de ces taux. De même,
+le coût global de la représentation des deux types d’opérations de politique monétaire ci-dessus peut
+être considéré comme un impact négatif de ces opérations sur la crédibilité de la politique monétaire
+et la confiance du marché. Ainsi, plus la fréquence et l’amplitude des opérations d’open market et des
+opérationspermanentessontfaibles,pluslanécessitédenepasutilisercesmoyenspourstabiliserlestaux
+d’intérêtindiquequelapolitiquemonétaireesthautementcrédibleetquelemarchéseboucle.Parcontre,
+s’il y a nécessité d’utiliser fréquemment des opérations d’open market et des facilités de prêt permanent
+pour maintenir la stabilité des taux d’intérêt, cela pourrait saper la crédibilité de la politique monétaire.
+En outre, l’utilisation de facilités de crédit permanentes peut également signaler que certaines banques
+soient en crise de paiement, ce qui constitue également un coût pour la stabilité financière.
+Partantdesfonctionsd’offreetdedemandedeliquiditéD(∗)etS(∗)fonctionsdutauxd’intérêtainsi
+que des chocs susceptibles de survenir sur le marché monétaire, Muhong et ali. (2017) montrent que les
+volumes des opérations d’open market et de facilité permanente peuvent s’exprimer tels que :
+µ =D−1(R −((cid:15) −η ))+D−1((is+R)−((cid:15) −η )) (2)
+t t t t t t t
+S =D−1((is+R )−((cid:15) −η ))−D−1(R) (3)
+t t t t t
+Leschocsconcernés(cid:15) ,η etv sontrespectivementlechocdetauxd’intérêtprovoquéparl’impactde
+t t t
+3. Enguisederappel,lefinancementindirectconsisteàpasserparunintermédiaire,unebanque,pour
+accéder à des ressources financières. Le financement direct correspond à la mise en relations des agents à
+capacité de financement et des agents à besoin de financement sur les marchés financiers. Le passage du
+financement indirect à un financement direct s’appelle la désintermédiation financière.
+10
+
+--- Page 12 ---
+la demande de liquidité, le choc de demande de liquidité purement externe que la banque centrale peut
+mesurer c’est-à-dire le choc imprévisible de demande de liquidité exogène pure de la banque centrale et,
+le choc causé par des besoins préventifs endogènes imprévisibles de la banque centrale.
+Partant des relations (2) et (3) ci-dessus, le programme (1) fourni comme conditions de premier
+ordre :
+−2φ is−2φ (D−1(R −((cid:15) +η ))+D−1((is+R)−((cid:15) +η )))(D−1((is+R )−((cid:15) +η )))+
+i t OMO t t t t t t t t t t
+2φ (D−1((is+R )−((cid:15) +η ))−D−1(R))(D−1((is+R )−((cid:15) +η )))=0 (4)
+SLF t t t t t t t t
+Pourlasuite,Muhongetali.(2015)adoptentdesfonctionsdedemandeetd’offredeliquiditélinéaires,
+soient respectivement :
+i =a−bM (5)
+t t
+i =c+dM (6)
+t t
+Dans ces expressions, (b) et (d) sont respectivement les inverses des élasticités de demande et d’offre
+deliquidité,(i)estletauxd’intérêtet(M)lademandeoul’offredeliquidité.Ainsi,degrandesvaleursde
+(b) et (d) correspondent à de petites valeurs des élasticités concernées. Les fonctions inverses respectives
+sont :
+a−M
+i = t (7)
+t b
+M −c
+i = t (8)
+t d
+En substituant les relations (7) et (8) dans la relation (4), l’on obtient :
+(cid:18) a−R+((cid:15) +η ) a−(is+R )+((cid:15) +η )(cid:19)(cid:18) 1(cid:19)
+−2φ is−2φ t t − t t t t −
+i t OMO b b b
+(cid:18) a−(is+R )+((cid:15) +η ) a−R (cid:19)(cid:18) 1(cid:19)
+2φ t t t t − t − (9)
+SLF b b b
+Soit finalement pour la borne supérieure du corridor :
+φ ((cid:15) +η )
+is = SLF t t (10)
+t −b2φ +(φ −φ )
+i OMO SLF
+Suivantlarelation(10),labornesupérieureducorridoretendéfinitivecedernierpuisquel’hypothèse
+de symétrie a été admise en début d’analyse dépend de quatre paramètres et de deux chocs susceptibles
+de frapper le marché monétaire. Ces paramètres sont :
+11
+
+--- Page 13 ---
+— Le facteur reflétant les coûts des opérations d’open market;
+— Le facteur reflétant les coûts des opérations de facilité marginale;
+— L’élasticité de la demande de liquidité des banques commerciales;
+— La tolérance de la banque centrale à l’égard de la volatilité des taux d’intérêt.
+2.3 Du cadre théorique aux réalités empiriques dans la CEMAC
+Les graphiques ci-dessous nous permettent d’effectuer une analyse des données du marché monétaire
+de la BEAC. Le graphique 1 présente l’évolution des quatre principaux taux du marché monétaire alors
+que le graphique 2 s’intéresse aux injections ponctions de liquidité par la Banque Centrale ainsi qu’aux
+transactions interbancaires. Les données couvrent la période 1994-2012, c’est-à-dire celle relative au dé-
+marragedesactivitésdumarchémonétairejusqu’àlapérioderelativeauxpremierstravauxdelaréforme
+de la politique monétaire de la BEAC.
+Graphique 1 – Evolution des principaux taux du marché monétaire de la BEAC
+Ainsi, la BEAC a eu recours sur la période au Taux Intérêt des Appels d’Offre (TIAO) par ailleurs
+son taux directeur, au Taux d’Intérêt sur Prises en Pensions (TIPP), au taux d’intérêt sur Placement
+(TISP)etacalculéunTauxintérêtMoyenPondéré(TIMP)desopérationsàseptjoursàl’interbancaire.
+Concrètement, le TIPP et le TISP servaient comme des bornes dans ce cadre qui pouvait s’assimilé à
+celui d’un corridor. De même, le TIAO est demeuré sur la période plus proche du TIPP que du TISP,
+traduisant par conséquent une asymétrie de fait. En outre, comme implication de cette asymétrie, le
+TIMP est resté sous le TIAO, révélant deux faits : le recours à des taux préférentiels entre des banques
+qui par ailleurs échangeaient davantage au sein de la même filière et donc, une fragmentation du marché.
+En rapport avec les données, ce « corridor » serait très large (500 points de base), sans pour autant
+induire une importante volatilité du TIMP à l’intérieur soit un écart type de 1,6 contre 1,45 pour le
+TIAO.
+12
+
+--- Page 14 ---
+L’examen du graphique 2 révèle une simultanéité des opérations d’injections/ponctions de liquidité
+par la Banque Centrale. Ainsi, 90% des transactions interbancaires ont été orienté vers le compartiment
+banque centrale, contrairement à ce à quoi l’on aurait pu s’attendre. Logiquement suivant les données, la
+BEACn’auraitintervenuqu’en1999et2006pourinjecterdelaliquidité.Enconclusionsuivantl’analyse
+des données ci-dessus, une amplitude optimale devrait permettre de : (i) intensifier les transactions à
+l’interbancaire (vu le niveau faible actuellement); (ii) se soucier très peu de la volatilité des taux court,
+au vu de l’historique du TIMP et; (iii) réduire le bilan de la banque centrale, (passer de 90% à 10% des
+transactions par exemple). Ces trois considérations ressortent par ailleurs des travaux de Muhong et ali.
+(2017).
+Graphique 2 – Evolution des transactions au marché monétaire de la BEAC
+Larelation(10)ci-dessusestparconséquentévaluéesurlesdonnéesdelaZone,envuededéterminer
+la borne supérieure du corridor optimal des taux en Afrique Centrale. Ainsi, si l’emphase doit être mis
+surladynamisationdestransactionsinterbancaires,l’onpeutsupposerquelescoûtsrelatifsàlaconduite
+des opérations d’open market ou de facilités marginales sont importants. C’est davantage, comme le
+soulignent Muhong et ali. (2017), la crédibilité de la banque centrale qui est en cause. De ce fait, ces
+coûts seraient identiques, que l’on ait affaire à des opérations d’open market ou de facilité permanente,
+d’où les poids identiques attribués à chacun des coefficients appliqués à ces transactions(φ =φ ).
+OMO SLF
+En outre, les estimations effectuées sur l’historique des données du marché monétaire avant la mise
+en œuvre de certaines mesures de réformes (1994-2012) montrent que la semi-élasticité des transactions
+interbancairesautauxd’intérêtafférentseraitde0,126.Cettevaleurcorroborelefaitqueplusilyarecours
+aufinancementindirect,moinslabanquecentraleestsensibleàlavolatilitédestauxinterbancaires.C’est
+probablement le cas dans notre Zone où prédomine l’intermédiation bancaire. En rapport avec les chocs
+de liquidité, une estimation du coefficient de variation sous la période sous revue montre que ceux-ci se
+situent à 0,13. Dans la suite du document, nous supposons que ceux-ci sont négatifs pour nous arrimer
+aux facilités marginales de crédit, compatibles avec la borne supérieure du corridor que nous devons
+déterminer. Cette valeur semble adéquate au vu de l’état de la surliquidité dans la CEMAC. En effet,
+l’abondante liquidité devrait atténuer les chocs y relatifs et, n’induire aucune réaction des banques.
+Toutefois, cet indicateur moyen doit être contrasté avec la fragmentation du marché monétaire de la
+zone. Ainsi, aux banques à capitaux étrangers n’éprouvant pas de difficultés, devraient être opposées les
+banques à capitaux domestiques dont la politique de crédit est plus active.
+Suivant la relation (10) et les valeurs des paramètres à retenir pour la détermination de la borne
+supérieure du corridor seraient :
+— φ =φ
+OMO SLF
+13
+
+--- Page 15 ---
+— (cid:15) +η =−1307
+t t
+— 1 ≈7,94⇒b2≈63,0436
+0,126
+L’évaluationdelarelationsurlesdonnéesdumarchémonétairerelativesàlapériode1994-2012nous
+donne :
+is = −1307∗φSLF
+t −63,0436∗φi
+Soit encore :is =20,73φSLF
+t φi
+Ainsi, la borne supérieure du corridor est fonction du rapport entre le recours des banques aux
+facilités marginales et l’aversion de la banque centrale à la volatilité des taux interbancaires. En d’autres
+termes, c’est la mesure de la crédibilité de la banque centrale en rapport avec les opérations du marché
+monétaire. Comme souligné ci-dessus, plus la fréquence et l’amplitude des opérations d’open market et
+des opérations permanentes sont faibles, plus la nécessité de ne pas utiliser ces moyens pour stabiliser
+les taux d’intérêt indique que la politique monétaire est hautement crédible et que le marché se boucle.
+Un indicateur de cette crédibilité serait par conséquent le ratio des transactions interbancaires sur les
+transactionsaveclabanquecentralesurlapériode.Eneffet,plusceratiotendverszéro,plusledeuxième
+type de transactions est important et montre que la banque centrale doit rechercher la dynamisation des
+opérations interbancaires : ce qui suppose une évolution à la hausse de la borne supérieure du corridor.
+Graphique 3 – Evolution du ratio transactions interbancaires sur transactions avec la banque centrale
+La valeur moyenne de cet indicateur sur la période de référence est φSLF =0,1425. Par conséquent,
+la borne supérieure du corridor est is =20,73∗0,1425=2,95. D’après l’hφ yipothèse de symétrie adoptée,
+t
+l’amplitude optimale du corridor des taux d’intérêt en Afrique Centrale serait : 5,9%.
+Conclusion
+Cette étude s’est intéressée à l’amplitude d’un corridor optimal pour la politique monétaire de la
+BEAC. Il est apparu que seul un critère d’optimalité intéresserait notre zone, celui du dynamisme des
+opérations à l’interbancaire. Sur la base des données de 1994 à 2012, d’une dynamique de ponction re-
+lativement longue nous avons montré que ce corridor se situerait à 5,9%. Cette valeur est assimilable à
+l’écart entre TIPP et TISP ainsi qu’à celle retenues par certaines banques centrales des pays en déve-
+loppement à l’instar de la Reserve Bank of India. En rapport avec ce résultat, la première incidence est
+14
+
+--- Page 16 ---
+la réduction de la surliquidité ambiante dans nos économies. En intervenant à la marge et non dans les
+deux sens comme cela était fait avant, la Banque Centrale va à intensifier à terme, les opérations entre
+lesbanquesprimairesenpermettantauxbanquesenexcédentdeliquiditédeprêteràcellesendéficit.De
+même, une telle approche devrait contribuer à réduire la fragmentation du compartiment interbancaire
+de son marché monétaire. En définitive c’est le regain du canal des taux d’intérêt qui est attendu; un
+canal de transmission des effets de la politique monétaire qui montre comment une impulsion monétaire
+de la BEAC impacte l’activité via les taux interbancaires et les taux entre les banques et leurs clients.
+Un autre effet serait sur le comportement de la banque centrale qui devient proactive et peut, suivant
+la modification de la largeur de ce corridor, réduire la volatilité des taux ou à contrario intensifier les
+opérations du marché interbancaire.
+15
+
+--- Page 17 ---
+Bibliographie
+[ 1 ]AucremannL.,BoeckxJ.etO.Vergote(2008):«Piloterletauxd’intérêtoulabasemonétaire:
+incidence sur le bilan d’une banque centrale », Revue économique de la Banque nationale de
+Belgique, 17-27.
+[ 2 ] Berentsen A., C. Monet (2008) : « Monetary Policy in a Channel System », Federal Reserve
+Bank of Philadelphia Working Paper.
+[ 3 ]BiniciM.,P.ÖzlüH.KaraetD.Unalmis(2015):«InterestRateCorridor:ANewMacropru-
+dential Tool», CBT Reserah Notes in Economics.
+[ 4 ]BlindseilU.,J.Jablecki(2011a):«OptimalWidthofCentralBanksStandingFacilitiesCorridor
+andBank’Day-to-DayLiquidityManagement»,EuropeanCentralBankWorkingPaperN°1350.
+[ 5 ]BlindseilU.,J.Jablecki(2011b):«OptimalWidthofCentralBanksStandingFacilitiesCorridor
+andBank’Day-to-DayLiquidityManagement»,EuropeanCentralBankWorkingPaperN°1350.
+[ 6 ]BordesC.etL.Clerc(2010):«L’artducentralbankingdelaBCEetleprincipedeséparation
+», Revue d’économie politique, 2010/2, vol. 1120, pp. 269-302.
+[ 7 ] Gomba E. B., G. A. Kenkouo T. Mvondo et D. Nafé (2017) : « Chocs et fluctuations macroé-
+conomiques au Cameroun », BEAC Working Paper N°04.
+[ 8 ] Goodfriend M. (2010) : « central Banking in the Credit Turmoil : An Assessment of Federal
+Reserve Practice», Carnegie Mellon University and National Bureau of Economic Research.
+[ 9 ] Hoerova, M., and C. Monnet (2010) : « Central Bank Lending and Money Market Discipline »,
+Unpublished manuscript.
+[ 12 ] Lee J. (2016) : « Corridor System and Interest Rates : Volatility and Asymmetry », Journal
+of Money, Credit and Banking.
+[ 13 ] Leijonhufvud A. (2007a) : « The peril of Inflation targeting », VoxEU.org,June 25.
+[ 14 ] Leijonhufvud A. (2007b) : « Monetary and Financial Stability », CEPR Policy Insight N° 14,
+October.
+[ 10 ]KhayatG.(2017):«TheCorridorWidthasaMonetaryPolicyTool»,AMSEWorkingPaper.
+[ 11 ] Kiester T., A. Martin et J. McAndrews (2008) : « Divorcing Money from Monetary Policy »,
+FRBNY Economic Policy Review / September 2008.
+[ 15 ] Mishkin F. S. (2008) : « Financial Instability and the federal Reserve as a Liquidity provider
+», FRB Speech at the Museum of American Finance Commemoration of the panic of 1907, New
+York, October 26.
+[ 16 ] Muhong N., Z. L. Zhang Lina Zhang, X. X. M. Jun (2017) : « Interest Rate Corridor, Interest
+Rate Stability and Operating Cost », Journal of Financial Research.
+[ 17 ] Perez-Quiros, G., and H. R. Mendizabal (2006) : « The Daily Market for Funds in Europe :
+HasSomethingChangedwiththeEMU?»,JournalofMoney,CreditandBanking,38(1),91-118.
+16
+
+--- Page 18 ---
+[ 18 ] Poole W. (1970) : « Optimal Choice of Monetary Policy Instrument in a Simple Stochastic
+Macro Model », The Quaterly Journal of Economics, 84(2), 197-21.
+[ 19 ]WalshC.E.(2003):«Monetary-PolicyOperatingProcedures»,MonetaryTheoryandPolicy,
+MIT Press, 429-472.
+[ 20 ]Whitesell,W.(2006):«Interestratecorridorsandreserves»,JournalofMonetaryEconomics,
+53(6), 1177-1195.
+[ 21 ] Woodford, M. (2003) : Interest and Prices : Foundations of a Theory of Monetary Policy,
+Princeton University Press.
+17

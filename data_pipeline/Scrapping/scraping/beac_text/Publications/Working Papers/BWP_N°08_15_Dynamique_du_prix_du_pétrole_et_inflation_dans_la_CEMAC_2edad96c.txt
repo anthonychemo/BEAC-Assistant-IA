@@ -1,0 +1,1038 @@
+Source PDF : BWP_N°08_15_Dynamique_du_prix_du_pétrole_et_inflation_dans_la_CEMAC_2edad96c.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BWP_N°08_15_Dynamique_du_prix_du_pétrole_et_inflation_dans_la_CEMAC_2edad96c.pdf
+Date extraction : 15/06/2026 21:28:02
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 08/15 -
+Dynamique du prix du pétrole et inflation dans la CEMAC
+KENKOUO Guy Albert
+Statisticien et Economiste
+Direc tion d e la Recherche
+kenkouo@beac.int
+Les opinions émises dans ce document de
+B ANQ U E D E S E T A T S D E
+L’AF R IQ U E C E NT R ALE travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+Banque des Etats de l’Afrique Centrale.
+V og t B P:1 9 1 7 Y a o un d é
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 / paper are those of the author (s) and don’t
+2 2 2 34 060 necessarily represent the views of the Central Bank
+of Central Africa States.
+F a x : (2 37 ) 2 2 2 33 32 9
+ww w.be a c.i n t
+DIRECTION DE LA RECHERCHE
+
+--- Page 2 ---
+Dynamique du prix du pétrole et inflation dans la CEMAC
+Guy Albert KENKOUO∗
+Février 2014
+Résumé
+Cette étude analyse les effets inflationnistes des fluctuations des prix internationaux du
+pétrole dans les pays de la CEMAC entre janvier 1994 et décembre 2013. Les résultats
+suggèrent que les fluctuations des cours mondiaux du pétrole n’auraient aucun impact
+significatif sur l’inflation dans les pays de la CEMAC à court terme. Toutefois, à long
+terme ces fluctuations auraient des effets inflationnistes dans ces pays. Ainsi, une aug-
+mentation des cours mondiaux du pétrole de 10 % seraient à l’origine d’une hausse de
+l’inflation, à long terme, de 1,5 à 4 points de pourcentage, selon le pays.
+Mots clés : Inflation, prix du pétrole, VECM.
+Classification JEL : C32, C61, E41
+Abstract
+This article analyses the inflationary effects of fluctuations of international oil prices in
+the CEMAC countries between January 1994 and December 2013. The results suggest
+that oil price fluctuations would not have a significant impact on inflation in the CEMAC
+countries in the short term. However, in the long term these fluctuations would have infla-
+tionary effects in these countries. Thus, an increase in the oil price of 10% would be cause
+inflation to rise in the long term, by 1.5 to 4 percentage points, depending on the country.
+Keys words : Inflation, oil price, VECM.
+JEL Code : C32, C61, E41
+∗Statisticien et économiste à la Direction de la Recherche de la BEAC. Je tiens à remercier M. Diffo
+Georges, Pr. Kobou Georges, Pr. Ondo Ossa et tous les participants aux ateliers de 2013 et 2014 de
+la Direction de la Recherche pour leurs commentaires et suggestions sur les versions antérieures de ce
+papier. Bien entendu, les éventuelles erreurs ou omissions dans ce document demeurent miennes.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non-technique 3
+Introduction 5
+1 Transmission des chocs du prix du pétrole à l’inflation 6
+1.1 Effets directs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+1.2 Effets indirects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1.3 Effets de second tour . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+2 Quelle relation inflation-prix du pétrole dans les Etats membres de la
+CEMAC? 11
+3 Modèle économétrique et test de cointégration 12
+3.1 Structure du modèle VECM . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3.2 Test de cointégration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+4 Résultats empiriques 14
+4.1 Données utilisées et leurs propriétés statistiques . . . . . . . . . . . . . . . . 14
+4.2 Test de causalité au sens de Granger . . . . . . . . . . . . . . . . . . . . . . 14
+4.3 Tests de spécification du VAR en niveau . . . . . . . . . . . . . . . . . . . . 15
+4.4 Interprétation des résultats . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Conclusion 18
+Références bibliographiques 20
+Annexes 22
+2
+
+--- Page 4 ---
+Résumé non-technique
+Au cours des dernières décennies, les cours du pétrole brut ont connu de grandes fluctua-
+tions, variant de 2,59 USD par baril en septembre 1973 à 134 USD en juin 2008, pour
+ensuite retomber à 39 USD six (06) mois plus tard. Cette volatilité des prix mondiaux du
+pétrole a été importante sur la période 1994-2013, marquée également par de nombreuses
+crises.Cetteconjonctureéconomiquemondialearavivéunintérêtréelsurlesimpactsma-
+croéconomiques des variations des prix du pétrole dans la CEMAC, où le pétrole occupe
+une place importante dans les ressources des Etats1 .
+En effet, dans les Etats membres de la CEMAC, alors que le prix du baril WTI avait une
+tendance haussière entre 1994 et 2013, les taux d’inflation de plusieurs pays membres,
+ont été souvent au-dessus de la norme de 3 %, fixée dans le cadre de la surveillance
+multilatérale. Ces taux d’inflation ont même été supérieurs à 10 % dans certains pays,
+notamment au Congo, au Tchad, en RCA et en Guinée Equatoriale. La violation de cette
+norme communautaire a persisté dans plusieurs pays au cours de la période suscitée.
+Cette étude vise à savoir s’il faut y voir dans cette situation une simple coïncidence ou
+plutôt une relation de cause à effet. Ainsi, nous avons identifié les effets de la dynamique
+du prix du pétrole sur le niveau général des prix dans les pays de la CEMAC en nous
+basant sur les données de la période allant de janvier 1994 à décembre 2013, c’est-à-dire
+après la dévaluation du Franc CFA de 1994.
+Cette problématique permet de lever un pan de voile sur l’analyse de l’inflation importée
+par le canal du prix du pétrole dans la CEMAC, ce qui permettrait à la BEAC d’identifier
+l’impact des variations du prix du pétrole sur la réalisation de son objectif principal.
+En effet, même si la théorie qui domine l’analyse monétaire de nos jours suggère que
+les autorités monétaires doivent réagir plus fermement aux variations des prix visqueux
+qu’aux variations des prix flexibles, les fluctuations des cours du pétrole peuvent fournir
+des informations pertinentes, notamment l’existence d’un choc nécessitant la réaction de
+la politique monétaire. En plus, lorsque les fluctuations des cours de pétrole impactent
+la formation des prix sur lesquels existent des rigidités nominales, à l’instar des salaires,
+l’intervention des autorités monétaires peut être requise, car la hausse du prix de pétrole
+peut alors nourrire des effets de second tour et menacer la stabilité des prix à moyen
+terme.
+En se basant sur l’hypothèse que la persistance des hausses des cours mondiaux du
+pétrole accentue à long terme les pressions inflationnistes dans les Etats membres de la
+1. En 2007, le pétrole représentait environ 69 % des recettes budgétaires des pays producteurs de
+pétrole dans la zone et près de 85 % des recettes d’exportation de l’ensemble des pays de la CEMAC.
+3
+
+--- Page 5 ---
+CEMAC, nous avons évalué les effets directs de court et de long termes de la dynamique
+des cours mondiaux du pétrole sur l’inflation dans la CEMAC. Les résultats suggèrent
+que les variations des cours mondiaux du pétrole n’auraient aucun impact significatif
+sur l’inflation à court terme dans les pays de la CEMAC. Toutefois, à long terme, ces
+fluctuations auraient des effets inflationnistes dans tous les Etats membres de cette zone,
+avec des amplitudes variant d’un pays à l’autre. La plus forte amplitude est observée en
+Guinée Equatoriale et la plus faible au Gabon. En effet, une hausse des cours mondiaux
+du pétrole de 10 % causerait à long terme une augmentation du niveau de l’Indice des
+Prix à la Consommation de 2 % au Cameroun, de 2,6 % en RCA, de 2,9 % au Congo, de
+1,5 % au Gabon, de 4 % en Guinée Equatoriale et de 2,4 % au Tchad.
+En plus, les délais de propagation d’un choc unitaire sur les cours mondiaux du pétrole
+seraient de 10 mois en Guinée Equatoriale, de 30 mois au Congo, et de 25 mois au Came-
+roun, au Gabon et au Tchad. Les effets inflationnistes d’un choc sur les cours mondiaux
+du pétrole commencent à être observés après (i) huit mois au Cameroun et au Gabon,
+(ii) onze mois en RCA, (iii) vingt mois au Congo, (iv) neuf mois au Tchad et (v) dix
+mois en Guinée Equatoriale.
+Ces résultats, en cohérence avec ceux obtenus par Baumeister et al. (2009), se justifie-
+raient avec l’existence des mécanismes de stabilisation des prix du pétrole dans certains
+pays de la CEMAC. En effet, les caisses de stabilisation des prix des hydrocarbures sta-
+biliseraient, à court terme, les prix du pétrole à la pompe, suite à une augmentation des
+cours mondiaux du pétrole. Toutefois, elles ajusteraient graduellement ces prix à moyen
+et long terme pour prendre en compte les évolutions réelles des prix du pétrole sur les
+marchés internationaux.
+Ces conclusions, en terme d’implications de politiques économiques, interpelleraient les
+autorités monétaires de la CEMAC de ne pas rester insensibles aux fluctuations des cours
+mondiauxdupétrole,bienquelathéorienéokeynésiennequidomineaujourd’huil’analyse
+monétaire suggère qu’elles doivent réagir plus fermement aux variations des prix visqueux
+qu’àceuxdes prixflexiblescomme lescoursdupétrole.Elles doivent également apprécier,
+en plus des effets inflationnistes des cours du pétrole sur les marchés internationaux, les
+effets de ces variations sur les finances publiques et la demande globale dans chaque pays
+afin de mieux orienter leurs décisions.
+4
+
+--- Page 6 ---
+Introduction
+Au cours des dernières décennies, les cours du pétrole brut ont connu de grandes fluc-
+tuations (voir graphique 2). Alors que le baril coûtait 2,59 dollars américain (USD) en
+septembre 1973, il a atteint un pic de 134 USD en juin 2008, pour ensuite retomber à
+39 USD six (06) mois plus tard. La volatilité2 des prix mondiaux du pétrole a été im-
+portante sur la période 1994-2013, marquée également par de nombreuses crises3. Cette
+conjoncture économique mondiale au cours de cette période a ravivé un intérêt réel sur
+les impacts macroéconomiques des variations des prix du pétrole.
+Depuis les travaux de Hamilton (1983), alors que l’inflation avait atteint des taux à deux
+chiffres dans les pays industrialisés4 après les chocs pétroliers des années 1970, l’évolu-
+tion des cours du pétrole a été admise comme source de fluctuations économiques. Bien
+que les canaux de transmission ne soient pas toujours clairement établis, dans les pays
+importateurs de pétrole, la hausse des cours mondiaux du pétrole, par la modification des
+prix à la pompe, peut avoir des effets sur la demande et les prix des autres marchandises.
+De même, dans les pays exportateurs, la hausse des prix mondiaux du pétrole peut se
+traduire par une augmentation des recettes de l’Etat, pouvant entrainer un excédent de
+la balance des paiements et une accumulation des réserves internationales. Si cette aug-
+mentation de réserves n’est pas stérilisée, la base monétaire va augmenter et une offre
+excédentaire de monnaie peut être constatée.
+Malgré que le débat sur le rôle principal des chocs pétroliers dans les causes de récessions
+économiques demeure, il est largement admis que les chocs pétroliers passent au moins
+partiellement par l’inflation pour atteindre l’économie en général (Bohi, 1989). L’évolu-
+tion du prix du pétrole peut alors avoir, à court et long terme, des effets sur la politique
+monétaire dont l’objectif principal est la stabilité des prix. D’où l’importance pour l’auto-
+rité monétaire de comprendre le lien empirique entre les fluctuations des cours du pétrole
+et l’inflation.
+Dans les pays5 membres de la Communauté Économique et Monétaire d’Afrique Centrale
+(CEMAC),alorsqueleprixdubarilWTIavaitunetendancehaussièreentre1994et2013,
+les taux d’inflation de plusieurs pays membres, ont été souvent au-dessus de la norme de
+3 %, fixée dans le cadre de la surveillance multilatérale (voir graphique 3). Ces taux
+d’inflation ont même dépassé 10 % dans certains pays, notamment au Congo, au Tchad,
+en RCA et en Guinée Equatoriale. La violation de cette norme communautaire a persisté
+2. Le baril a oscillé entre 23 et 34 USD sur cette période, en atteignant des pics de 10 et 134 USD.
+3. Crise asiatique en 1997, crise financière de 2008, crise de la dette dans la zone Euro, etc.
+4. D’après Alvarez (2011), le taux d’inflation a atteint 25 % en Espagne au cours de cette période
+5. Cameroun, République Centrafricaine (RCA), Congo, Gabon, Guinée Équatoriale et Tchad.
+5
+
+--- Page 7 ---
+dans plusieurs pays au cours de cette période. Faut-il voir dans cette situation une simple
+coincidenceouplutôtunerelationdecauseàeffetentreladynamiquedescoursmondiaux
+du pétrole et celle de l’inflation dans les pays membres de la CEMAC au cours de cette
+période?
+Pour répondre à cette interrogation, nous allons identifier les effets directs de la dyna-
+mique du prix du pétrole sur le niveau général des prix dans les pays de la CEMAC. Cette
+orientation permettrait de lever un pan de voile sur l’analyse de l’inflation importée par le
+canal du prix du pétrole dans cet espace communautaire. Cette problématique est d’au-
+tant plus intéressante qu’elle permettrait aux autorités monétaires d’identifier l’impact
+des variations du prix du pétrole sur la réalisation de l’objectif principal6 de la Banque
+des Etats de l’Afrique Centrale (BEAC). En effet, même si la théorie néo-keynésienne qui
+domine aujourd’hui l’analyse monétaire suggère que les autorités monétaires doivent ré-
+agir plus fermement aux variations des prix visqueux qu’aux variations des prix flexibles,
+les fluctuations des cours du pétrole peuvent fournir des informations pertinentes à l’au-
+torité monétaire, notamment l’existence d’un choc nécessitant une réaction de politique
+économique.Enoutre,lorsquelesfluctuationsdescoursdupétroleimpactentlaformation
+des prix sur lesquels existent des rigidités nominales, à l’instar des salaires, l’intervention
+des autorités monétaires peut être requise, car la hausse du prix de pétrole peut alors
+nourrir des effets de second tour et menacer la stabilité des prix à moyen terme.
+L’hypothèse de travail qui sous-tend la présente étude est que la persistance des hausses
+des cours mondiaux du pétrole accentue à long terme les pressions inflationnistes dans
+les Etats membres de la CEMAC. Dans le cadre de ce travail, nous utiliserons un VECM
+qui a l’avantage de permettre d’analyser à la fois les effets de court et de long terme.
+Les données utilisées proviennent des Instituts Nationaux de la Statistique des pays de
+la CEMAC et du Département américain de l’énergie. Elles couvrent la période allant de
+janvier 1994 à décembre 2013.
+La suite du papier présente la revue de littérature relative à la relation entre le prix du
+pétrole et l’inflation, le modèle économétrique ainsi que les techniques d’estimation, les
+résultats obtenus, et la conclusion.
+6. Conformément à ses Statuts, la BEAC émet la monnaie de l’Union Monétaire et en garantit la
+stabilité. Sans préjudice de cet objectif, elle apporte son soutien aux politiques économiques générales
+élaborées dans l’Union.
+6
+
+--- Page 8 ---
+1
+Transmission des chocs du prix du pétrole à l’inflation
+L’analyse de l’inflation en fonction des types de déséquilibres permet de distinguer l’in-
+flation par les coûts, l’inflation par la demande7 et l’inflation structurelle8. L’inflation
+par les coûts a pour origine l’augmentation des coûts de production qui se répercute sur
+le prix de vente par les entreprises. Les coûts salariaux et ceux des produits importés
+(énergie, matières premières, biens d’équipements, etc.) sont privilegiés dans cette ana-
+lyse. En outre, la part des produits pétroliers dans les dépenses de consommation des
+ménages est non négligeable. Ainsi, l’évolution des cours mondiaux du pétrole peut être
+pertinente dans la compréhension de la dynamique de l’inflation, bien que le mécanisme
+de transmission soit assez complexe au vu des nombreux facteurs pouvant l’influencer.
+Théoriquement9, on distingue les effets de premier tour (directs ou indirects) et les effets
+de second tour. Le graphique 1 illustre le mécanisme de transmission des variations des
+prix mondiaux du pétrole, notamment dans les pays importateurs.
+Graphique 1 – Mécanismes de transmission du prix du pétrole à l’inflation
+Source:BCE(2009).
+7. Apparait lorsque la demande globale est supérieure à l’offre globale disponible à un moment sur le
+marché de la monnaie ou des biens et services.
+8. Dûe à des rigidités permanentes existant dans les sociétés industrielles contemporaires.
+9. Voir BCE (2009)
+7
+
+--- Page 9 ---
+1.1 Effets directs
+L’effet direct se manifeste automatiquement par l’augmentation des prix des produits
+énergétiques dans la consommation des ménages. Dans cette logique, le renchérissement
+des prix du pétrole se traduit par une hausse des prix des produits énergétiques qui se
+dégrade en fonction de la baisse de l’intensité du pétrole dans la technique de production
+de ces produits. Sur le plan empirique, plusieurs études ont mis en exergue ce mécanisme
+de transmission des cours mondiaux du pétrole à l’inflation. Ces études utilisent l’IPC
+incluant les produits énergetiques.
+A ce sujet, Leblanc et al. (2004) ont estimé, dans le cadre d’une courbe de Phillips
+augmentée avec prise en compte des problèmes d’asymétrie et de non linéarité de la
+relation, les effets des variations du prix du pétrole sur l’inflation, entre 1980 et 2001,
+aux USA, en Allemagne, en France, au Japon et en Angleterre. Ils constatent que les
+fluctuations des cours mondiaux du pétrole ont un impact significatif sur l’inflation dans
+ces pays, même si ces impacts sont modestes. En effet, ils estiment l’augmentation de
+l’inflation de 0,1 à 0,8 point de pourcentage en Europe et aux Etats Unis lorsque le prix
+du pétrole augmente jusqu’à 10 %.
+Avec un nouveau choc pétrolier en 2000, Cunado et al. (2005) ont estimé, à l’aide d’un
+modèle VAR et en prenant en compte des problèmes d’asymétrie, les effets des variations
+du prix du pétrole sur l’inflation dans six pays asiatiques (Japon, Singapour, Thailande,
+Corée du Sud, Malaisie et Phillipines) entre 1975 et 2002. Ils constatent qu’à court terme,
+les fluctuations des cours mondiaux du pétrole ont eu des impacts significatifs sur l’infla-
+tion dans ces pays.
+A la suite de la crise financière de 2008, Baumeister et al. (2009) ont évalué les effets
+inflationnistes des fluctuations du prix du pétrole aux USA, en Suisse, au Japon et dans
+les pays de la Zone Euro sur la période 1986-2008 à l’aide d’un modèle SVAR. Pour
+identifier les effets directs, ils ont utilisé la composante énergie de l’Indice des Prix à
+la Consommation pour calculer l’inflation. Sans surprise, ils ont constaté une réaction
+importanted’unehaussedescoursmondiauxdupétroleàlongtermesurcettecomposante
+de l’IPC. En effet, à la suite d’une augmentation du prix du pétrole de 10 %, cette
+composante augmente de 1,4 à 4,1 points de pourcentage, en fonction des pays et avec
+des fortes amplitudes dans la Zone Euro et en Suisse.
+Enfin,Alvarezetal.(2011)ontévalué,àfréquencemensuelle,àl’aided’unmodèleDSGE,
+leseffetsdesvariationsduprixdupétrolesurl’inflationenEspagneetdanslesautrespays
+de la Zone Euro sur la période de référence 1996-2008. Ils constatent que les fluctuations
+des cours mondiaux du pétrole impactent significativement l’inflation dans ces économies
+avecdeseffetsdirects,variantde0,06à0,2pointdepourcentage,suiteàuneaugmentation
+8
+
+--- Page 10 ---
+du prix du pétrole de 10 %. En plus, 50 % des variabilités de l’inflation en Espagne et 45
+% dans les autres pays membres de la Zone Euro, seraient expliquées par celles des cours
+mondiaux du pétrole.
+1.2 Effets indirects
+L’effet indirect est engendré par le renchérissement des consommations intermédiaires en
+énergie, dans la mesure où la hausse des prix des produits énergétiques, résultant de l’effet
+direct, se répercute sur les coûts des productions, y compris les coûts de transport pour
+la distribution. Cet effet est plus important si on tient compte de la diversité des produits
+qui ne peuvent pas se détourner de l’usage du pétrole et de ses dérivés dans leur cycle
+de production. Ainsi, l’effet indirect réflète les changements dans les coûts de production
+des biens et services utilisant les produits pétroliers comme inputs. Ce mécanisme de
+transmission des fluctuations des cours mondiaux du pétrole sur l’inflation a une vitesse
+plus faible que celui des effets directs puisqu’il dépend de plusieurs facteurs au nombre
+desquels la concurrence sur les marchés, la conjoncture économique et la nature des chocs
+pétroliers selon qu’ils soient transitoires ou permanents. D’ailleurs, les études empiriques
+montrent que ce canal est peu fonctionnel.
+A ce sujet, Alvarez et al. (2006) ont montré que les fluctuations mensuelles des cours du
+pétrole n’ont pas eu d’impact sur l’inflation en Espagne. Ces résultats rejoignent ceux de
+Hooker (2002) qui a évalué à travers une courbe de phillips les effets de variations des
+prix du pétrole sur l’inflation sous-jacente aux USA entre 1955 et 2000. Il a trouvé un
+break structurel dans les séries en 1981 et a constaté qu’avant cette date, les variations
+des cours du pétrole contribuaient à l’inflation, et depuis 1981, elles n’ont plus impacté
+significativement l’inflation sous-jacente ou alors l’ont impacté très peu. En plus, Alvarez
+et al. (2011) estiment que les effets inflationnistes indirects des fluctuations des cours
+mondiaux du pétrole, dans les économies faisant l’objet de leurs études, seraient moins
+importants que les effets directs.
+Les résultats de Baumeister et al. (2009) confirment que la transmission des fluctuations
+des cours mondiaux du pétrole à l’inflation par les effets indirects est faible. En effet, à
+la suite d’une augmentation du prix du pétrole de 10 %, alors que l’amplitude des effets
+inflationnistes directs varie entre 1,4 et 4,1 points de pourcentage dans les pays étudiés,
+celle des effets indirects ne varie que de 0 à 0,53 point de pourcentage dans ces pays,
+avec un impact non significatif au Japon. En plus, la vitesse de transmission de ces effets
+indirects est assez lente.
+Il ressort de cette analyse que les effets directs de transmission des cours mondiaux du
+pétrole sont plus perceptibles que les effets indirects dans plusieurs pays. Ce résultat
+peut être dû à la difficulté de mesurer empiriquement les effets indirects. En effet, les
+9
+
+--- Page 11 ---
+effets indirects sont mesurés en utilisant l’inflation sous-jacente qui est obtenue à partir
+de l’indice des prix à la consommation n’incluant pas les prix des produits énergetiques,
+y compris le pétrole.
+1.3 Effets de second tour
+Les effets de second tour désignent la réaction des salariés et des producteurs. Lorsque
+leursanticipationsd’inflationsontorientéesàlahausse,ceux-cipeuventamplifierleseffets
+de premier tour en augmentant leurs exigences salariales ou leurs prix de vente. En effet,
+leshaussesdesprixàlaconsommationquirésultentdel’effetdepremiertourgénèrentune
+perte de pouvoir d’achat des ménages. Dans l’objectif de maintenir leurs pouvoir d’achat
+intact, les salariés exigent des revalorisations de leurs salaires. Cette réaction salariale est
+d’autant plus réalisable que les modalités de détermination des salaires nominaux sont
+fondées sur la base de l’indexation des salaires sur l’Indice des Prix à la Consommation, à
+cela s’ajoute le rôle crucial joué par les syndicats. En revanche, si les hausses des salaires
+ne sont pas envisageables ou le sont partiellement, à court terme, l’amoindrissement du
+pouvoir d’achat des ménages joue un rôle déterminant pour freiner la consommation, et
+par voie de conséquence, la stagnation de la demande globale, de l’investissement et de
+l’emploi.
+Les effets de second tour peuvent être évalués à l’aide des données d’enquête. A ce sujet,
+Druant et al. (2009) ont mené des enquêtes auprès des entreprises de la zone Euro et
+cadres des banques centrales nationales du Système Européen de Banques Centralessur
+surlafixationdessalaires.Ilenestressortique19%desentreprisesenzoneEuroprennent
+en compte l’inflation observée dans la fixation des salaires et 31 % ajustent les salaires de
+base en fonction des anticipations d’inflation ou de l’inflation observée. En outre, moins
+de 25 % des travailleurs interrogés sont couverts par les clauses d’indexation du salaire.
+Les effets de second tour peuvent également être évalués à l’aide d’un modèle DSGE avec
+l’hypothèse que les travailleurs sont couverts par des clauses d’indexation du salaire de
+base à l’évolution de l’inflation. Ainsi, Alvarez et al. (2011) ont constaté que les effets de
+second tour des variations des cours mondiaux du pétrole sont faibles sur l’inflation en
+Espagne.
+En somme, les effets de second tour se réfèrent aux changements des prix que les effets
+de premier tour peuvent déclencher par une révision des anticipations d’inflation. Il est
+alorsdifficiled’isolerempiriquementcesdeuxeffetscarl’amplitudedel’unpeutinfluencer
+celle de l’autre et vice versa. D’ailleurs, Baumeister et al. (2009) estiment que les effets
+inflationnistes des fluctuations des cours mondiaux du pétrole dépendent de l’existence
+des effets de second tour. En plus, selon Cunado et al. (2005) et Baumeister et al. (2009),
+l’amplitude de ces effets varient selon que le pays soit importateur ou exportateur net.
+10
+
+--- Page 12 ---
+2
+Quelle relation inflation-prix du pétrole dans les pays de la CEMAC?
+Le pétrole est une ressource importante dans les pays de la CEMAC et seule la RCA n’en
+produitpas.Acetitre,ilestlaprincipalesourcedesrecettesd’exportationetbudgétaires.
+En effet, en 2007, le pétrole représentait près de 85 % des recettes d’exportations et
+environ 69 % des recettes budgétaires de ces pays. Malgré la chute de la production
+pétrolière au Cameroun et au Gabon, la production de la zone est restée importante
+avec l’évolution de la production de la Guinée Equatoriale, du Congo et du Tchad. La
+plupart de ces pays sont aussi exportateurs qu’importateurs du pétrole. Ils sont alors
+affectés par les fluctuations des cours mondiaux du pétrole en tant qu’importateurs et/ou
+exportateurs.
+Dans ces pays, le taux d’inflation est déduit de l’évolution de l’Indice Harmonisé des Prix
+à la Consommation (IHPC) calculé sur la base de la nomenclature COICOP10 à douze
+fonctions, en vigueur dans les Etats membres d’AFRISTAT. Plusieurs de ces fonctions
+de consommation, notamment les fonctions de transports, des produits alimentaires et de
+logement (logement, eau, életricité, gaz et autres combustibles) regroupent des produits
+dont les prix sont susceptibles d’être fortement influencés par l’évolution des cours du
+pétrole. En plus, il ressort des enquêtes budget-consommation des ménages que la part
+des dépenses relatives aux produits pétroliers et dérivés dans les dépenses des ménages
+dans ces pays est en moyenne11 de 10 %. Il est alors possible que les fluctuations des
+cours internationaux du pétrole impactent l’IHPC et donc l’inflation (effets directs) dans
+les pays de la zone CEMAC. Les amplitudes de ces impacts seraient d’autant importantes
+si les variations des cours mondiaux se répercutent directement et totalement sur les prix
+à la pompe.
+Larevuedelittératureempiriquesurleseffetsinflationnistesindirectsdesfluctuationsdes
+cours mondiaux du pétrole a montré que ces effets lorsqu’ils existent sont assez faibles. En
+plus, ces effets se distingueraient difficilement des effets directs. Les effets inflationnistes
+de second tour des variations du prix du pétrole étant très dépendants de l’existence des
+clauses d’indexation du salaire à l’évolution de l’inflation, dans les contrats de travail, il
+est peu plausible qu’ils existent dans les pays de la CEMAC. En effet, dans les pays de
+la CEMAC, les contrats de travail incluant les clauses d’indexation du salaire sont très
+rares ou même inexistants.
+Dans le cadre de ce travail de recherche, le canal de transmission directe des fluctuations
+des cours mondiaux du pétrole sur l’IHPC sera privilegié. Ainsi, nous postulons, dans
+chaque pays de la zone CEMAC, que l’IHPC dépend de ses valeurs passées, des cours
+10. Classification of Individual Consumption According to Purpose ou Classification des Fonctions de
+Consommation des Ménages
+11. Cameroun, Congo, Gabon et Tchad
+11
+
+--- Page 13 ---
+mondiaux du pétrole et de leurs valeurs passées.
+En plus, Lee et al. (1995), Hamilton (1996) et Hooker (2002) montrent que la relation
+entre le prix du pétrole et les variables macroéconomiques ne peut être linéaire. Toutefois,
+les modèles utilisés pour évaluer les amplitudes de cette relation sont estimés avec des
+fonctions linéaires. Pour avoir une forme linéaire, les variables du modèle sont transfor-
+mées à l’aide du logarithme neperien comme l’ont suggèré Lee et al. (2002). La relation
+linéaire postulée est alors :
+p m
+(cid:88) (cid:88)
+LIPC = α LWTI + β LIPC +c+ε , (1)
+t t−i t−i t−j t−j t
+i=0 j=1
+t = 1,...,T, i = 1,...,p et j = 1,...,m
+Avec LIPC le logarithme neperien de l’IHPC, LWTI le lograrithme neperien du prix du
+baril du pétrole WTI, c une constante et ε le terme d’erreurs supposé indépendamment
+t
+et identiquement distribué selon une loi gaussienne de paramètres (0,Σ).
+Les variables de l’équation (1) étant des séries temporelles, la modèlisation VAR est
+souvent privilegiée12 pour estimer les impacts des variables explicatives sur la variable
+dépendante.
+Avec des possibilités d’existence de relations de cointégration entre la variable expliquée
+et les explicatives, un VECM sera utilisé dans le cadre de cette étude. Ce modèle permet
+d’analyser à la fois les effets inflationnistes de court et de long terme des variations du
+prix du pétrole.
+Par ailleurs, les tests de causalité au sens de Granger seront préalablement effectués pour
+vérifier les liens de causalité entre les cours mondiaux du pétrole et l’inflation.
+3
+Modèle économétrique et test de cointégration
+Cette section présente la structure du VECM et le test de cointégration.
+3.1 Structure du modèle VECM
+Soit le modèle VAR(p) dont la forme réduite générale est formulée dans l’équation (2) :
+p
+(cid:88)
+X = A X +ΦD +ε , t = 1,...,T (2)
+t i t−i t t
+i=1
+12. Hamilton(1983),Bernankeetal.(1997),Hooker(2002),Leblancetal.(2004),Cunadoetal.(2005),
+Kilian (2009), etc.
+12
+
+--- Page 14 ---
+Avec X un vecteur de dimension (2×1) contenant les variables LIPC et LWTI;
+t
+A est une matrice (2×2) des coefficients sur les valeurs retardées de X ;
+i t
+D est un vecteur des variables déterministes (constante et tendance);
+t
+ε représente les erreurs qui sont supposées indépendamment et identiquement distribuées
+t
+selon une loi gaussienne de paramètres (0,Σ).
+Par la transformation algébrique de Fuller, la forme VECM du modèle VAR (p) de la
+relation (2) se réécrit comme suit :
+p−1
+(cid:88)
+∆X = ΠX + Γ ∆X +ΦD +ε , t = 1,...,T (3)
+t t−p i t−i t t
+i=1
+p p
+(cid:80) (cid:80)
+Où : Π = A −I et Γ = − (A ), j = 1,...,p−1
+k i i
+k=1 i=j+1
+3.2 Test de cointégration
+L’hypothèse de cointégration est formulée sur le rang de la matrice Π de la relation (3)
+correspondantaunombrederelationsdecointégration.Toutematricecarréed’ordren,de
+rang réduit r pouvant toujours se décomposer en produit de deux matrices de plein rang
+colonne de formats (n,r) et (r,n), nous pouvons poser Π = αβ(cid:48); avec α une matrice (n,
+r) (avec r<n) contenant les vitesses d’ajustement pour chaque vecteur de cointégration
+et β(cid:48) une matrice (r,n) contenant les r relations de cointégration. Ces deux matrices sont
+de rangs complets.
+Avec ces hypothèses, la relation (3) devient :
+p−1
+(cid:88)
+∆X = αβ(cid:48)X + Γ ∆X +ΦD +ε , t = 1,...,T. (4)
+t t−p i t−i t t
+i=1
+Le test de cointégration de Johansen, fondé sur les valeurs propres de la matrice Π,
+est basé sur l’estimation du modèle de la relation (4), effectuée selon l’approche de la
+regression de rang réduit. La procédure d’estimation ainsi que le test de la trace sont
+présentés en annexe.
+Trois cas peuvent se présenter :
+1. r = 0 : il n’existe pas de relation de cointégration. On ne peut pas alors estimer un
+modèle VECM. En revanche, il est possible d’estimer un modèle VAR sur les ∆X .
+t
+2. 0 < r < n : il existe r relations de cointégration. Un modèle VECM peut alors être
+estimé.
+13
+
+--- Page 15 ---
+3. r = n : il n’existe pas de relation de cointégration. Un VAR peut être estimé sur
+les X .
+t
+4
+Résultats empiriques
+Cette section présente les données utilisées dans cette étude et leurs propriétés statis-
+tiques, les résultats des tests de causalité au sens de Granger, la spécification des VAR
+en niveau et les principaux résultats obtenus.
+4.1 Données utilisées et leurs propriétés statistiques
+Les données utilisées dans cette étude sont des séries mensuelles des indices des prix à la
+consommationdesménagesproduitsparlesInstitutsNationauxdelaStatistiquedespays
+membres de la CEMAC. La série des cours du pétrole provient du Département américain
+de l’énergie et représente le prix du pétrole brut WTI. Ces données sont transformées en
+logarithme et aucune ne fait l’objet d’une correction des variations saisonnières. L’échan-
+tillon va de janvier 1994 à décembre 2013.
+Lestestsderacinesunitairespermettentdedéterminerl’ordred’intégrationdesdifférentes
+séries afin de valider la nécessité des tests de cointégration ou encore le type de test de
+cointégrationàutiliserencasdenécessité.Del’étudedelastationnaritédesséries,réalisée
+à l’aide des tests de Phillips-Perron et KPSS et résumée dans le tableau 3 en annexe, on
+déduit que toutes les séries sont intégrées d’ordre un.
+Les variables étant non stationnaires, il y a possibilité de cointégration. Ainsi, parait-il
+nécessaire de faire le test de cointégration pour examiner si les variables sont cointégrées
+ou non.
+4.2 Test de causalité au sens de Granger
+Ce test permet d’approfondir la spécification de la relation inflation-prix mondiaux du
+pétrole dans les pays de la CEMAC. L’hypothèse nulle de ce test est que le prix du pétrole
+ne cause pas l’inflation. Le rejet de cette hypothèse à un seuil donné, signifie qu’à ce seuil,
+il n’est pas évident d’affirmer que le prix du pétrole n’impacte pas l’inflation.
+Le tableau 4 présente les résultats des tests de causalité entre la série des cours mondiaux
+du pétrole et l’évolution de l’indice des prix à la consommation dans les pays de la
+CEMAC. Il en ressort qu’au seuil de 5 % de risque de se tromper, les fluctuations des
+cours mondiaux causeraient l’inflation dans les pays de la CEMAC.
+14
+
+--- Page 16 ---
+L’analyse des relations de court et de long terme, si elles existent, permettront de quan-
+tifier les impacts de ces liens de causalité.
+4.3 Tests de spécification du VAR en niveau
+La spécification du modèle passe par la détermination du nombre maximal des retards
+du modèle VAR et la détermination du rang de cointégration.
+4.3.1 Détermination du nombre optimal de retards
+Le tableau 5 en annexe donne les valeurs des critères de Akaike (AIC), de Schwarz (SC)
+et de Hannan-Quin (HQ). A l’exception du Cameroun, on retrouve un conflit entre le
+critère de Akaike et celui de Schwarz. Dans le cas particulier des systèmes cointégrés, ces
+conflits de critères ont été examinés par Reimers (1993) qui propose d’utiliser le critère
+de Hannan-Quin qui constitue un bon compromis. Sur cette base, nous avons retenu un
+VAR à 3 retards pour la RCA, à 7 retards pour la Guinée Equatoriale et un VAR à 2
+retards pour les autres pays (Cameroun, Congo, Gabon et Tchad).
+4.3.2 Détermination du rang de cointégration
+Le rang de cointégration peut être déterminé avec le test de la trace ou celui de la valeur
+propre maximale. Dans cette étude, nous avons déterminé le rang de cointégration en
+nous basant sur ces tests et les résultats obtenus sont identiques.
+Les tests montrent l’existence d’une relation de cointégration dans tous les pays de la
+CEMAC. Les coefficients estimés du prix mondial du pétrole, dans la relation de long
+terme, sont tous significativement différents de zéro, au seuil de 5 % (voir le tableau 1).
+En plus, dans l’équation de la relation de long terme, ces coefficients sont de même signe
+que ceux de l’inflation. Ils sont ceux attendus dans la théorie et suivant le schéma de
+transmission de le graphique 1.
+Les vecteurs de cointégration estimés et normalisés sur la variable LIPC sont présentés
+dans le tableau 1.
+15
+
+--- Page 17 ---
+Tableau 1 – Vecteurs de cointégration normalisés par pays (t-statistque entre [])
+Pays LIPC LWTI
+Cameroun 1,0000 -0,200821
+[-9,87583]
+RCA 1,0000 -0,262524
+[-8,89086]
+Congo 1,0000 -0,291237
+[-3,53592]
+Gabon 1,0000 -0,151382
+[-9,26043]
+GuinéeÉquatoriale 1,0000 -0,403482
+[-9,50544]
+Tchad 1,0000 -0,241164
+[-7,70724]
+Source:Elaboréparl’auteuràpartirdessortiesd’Eviews.
+4.4 Interprétation des résultats
+L’estimation du modèle VECM permet à la fois de spécifier les relations de long terme et
+celles de court terme. Dans cette sous section, nous ferons d’abord les analyses de court
+terme et ensuite celles de long terme.
+Analyse de court terme
+L’analyse des relations de court terme (voir tableaux 6, 7, 8, 9, 10 et 11) révèle qu’à
+court terme, l’augmentation du prix du pétrole n’aurait aucun effet inflationniste dans
+les pays de la CEMAC. Toutefois, à court terme, la dynamique de l’inflation dans ces
+pays résulterait de son inertie. La décomposition de la variance permet de confirmer ces
+résultats. En effet, les effets inflationnistes d’un choc sur les cours mondiaux du pétrole
+commencent à être observés après (i) huit mois au Cameroun et au Gabon, (ii) onze mois
+en RCA, (iii) vingt mois au Congo, (iv) neuf mois au Tchad et (v) dix mois en Guinée
+Equatoriale.
+Analyse de long terme
+La significativité des coefficients est acceptée au seuil de 5 %. Il ressort des relations de
+cointégration que les fluctuations des cours mondiaux du pétrole auraient à long terme
+des effets inflationnistes dans les pays de la CEMAC. Les amplitudes de ces impacts
+varient suivant les pays. La plus forte amplitude est observée en Guinée Equatoriale alors
+que la plus faible est observée au Gabon. En effet, une hausse des cours mondiaux du
+pétrole de 10 % causerait à long terme une augmentation du niveau de l’IPC de 2 % au
+16
+
+--- Page 18 ---
+Cameroun, de 2,6 % en RCA, de 2,9 % au Congo, de 1,5 % au Gabon, de 4 % en Guinée
+Equatoriale et 2,4 % au Tchad.
+Ces résultats ne permettent pas de distinguer les effets inflationnistes des variations des
+prix internationaux du pétrole dans les pays de la CEMAC selon que le pays soit im-
+portateur ou exportateur du pétrole et de ses produits dérivés. A titre d’illustration, la
+RCA, pays importateur net de pétrole et de ses produits dérivés, subirait les effets in-
+flationnistes des variations des prix mondiaux du pétrole avec une amplitude plus faible
+que le Tchad, pays exportateur du pétrole dans la CEMAC.
+Les vitesses d’ajustement des relations de cointégration sont toutes négatives et significa-
+tivementdifférentesdezéroauseuilde5%(tableau2).Ainsi,ilexisteraitdesmécanismes
+de force de rappel dans les relations de long terme entre les variations du prix du pétrole
+et l’inflation dans tous les pays de la CEMAC. Ces mécanismes de forces de rappel per-
+mettent de ramener l’inflation autour de sa trajectoire d’équilibre de long terme après les
+différents chocs pétroliers pouvant modifier cette trajectoire. Les vitesses d’ajustement
+sont plus fortes en RCA et au Tchad et plus faibles au Cameroun, au Gabon et en Guinée
+Equatoriale.
+Tableau 2 – Vitesses d’ajustement des relations de long terme par pays
+Cameroun RCA Congo Gabon Guinée Equatoriale Tchad
+Vitesse -0,032401 - 0,060223 -0,027492 -0,05866 -0,033242 -0,069662
+t-statistique - 3,94649 - 3,28251 - 3,95637 - 3,95832 -2,86833 - 4,35393
+Source:Elaboréparl’auteuràpartirdessortiesd’Eviews.
+L’analyse des fonctions réponses-impulsions montrent que les délais de propagation, sur
+l’inflation, d’un choc unitaire sur les cours mondiaux du pétrole varient selon les pays
+dans la CEMAC. Les effets inflationnistes de ce choc deviennent permanents après 25
+mois au Cameroun, au Gabon et au Tchad. Ces délais sont de 30 mois en RCA et en
+Guinée Equatoriale, et de 60 mois au Congo.
+Lesanalysesdecourtetdelongtermessuggèreraientl’existencedesmécanismesd’indexa-
+tion des variations des cours mondiaux du pétrole sur l’inflation. Ces résultats pourraient
+sejustifieravecl’existencedescaissesdestabilisationdesprixdeshydrocarburesdanscer-
+tains pays de la CEMAC. En effet, les caisses de stabilisation des prix des hydrocarbures
+stabilisent à court terme les prix du pétrole à la pompe suite à une augmentation des
+cours mondiaux du pétrole. Toutefois, elles ajusteraient graduellement ces prix à moyen
+et long terme pour tenir compte des évolutions réelles des prix du pétrole sur les marchés
+internationaux.
+17
+
+--- Page 19 ---
+Conclusion
+Les évolutions récentes des cours mondiaux du pétrole et de l’inflation dans les pays
+membres de la CEMAC, sur la période 1994-2013, ont fait resurgir l’importance de l’ana-
+lyse de la relation entre les deux variables dans ces pays. L’objectif de l’étude était alors
+d’analyser les effets inflationnistes des fluctuations des prix internationaux du pétrole
+dans les pays de la CEMAC. Après la présentation du modèle à estimer, retenu à la suite
+de la revue de littérature sur cette problématique, l’analyse empirique a été effectuée à
+l’aide d’un VECM, estimé selon l’approche du maximun de vraissemblance à information
+complète de Johansen.
+Les résultats de l’analyse suggèrent que les variations des cours mondiaux du pétrole
+n’auraient aucun impact significatif sur l’inflation dans les pays de la CEMAC à court
+terme. Mais, à long terme ces fluctuations auraient des effets inflationnistes dans tous les
+pays de la CEMAC.
+Les amplitudes de ces impacts varient suivant les pays. La plus forte amplitude est ob-
+servée en Guinée Equatoriale alors que la plus faible est observée au Gabon. En effet,
+une hausse des cours mondiaux du pétrole de 10 % causerait à long terme une augmen-
+tation du niveau de l’Indice des Prix à la Consommation de 2 % au Cameroun, de 2,6
+% en RCA, de 2,9 % au Congo, de 1,5 % au Gabon, de 4 % en Guinée Equatoriale et
+de 2,4 % au Tchad. En outre, les délais de propagation entière, sur l’inflation, d’un choc
+unitaire sur les cours mondiaux du pétrole varieraient selon les pays. Ils seraient de 60
+mois au Congo, de 30 mois RCA et en Guinée Equatoriale, et de 25 mois au Cameroun,
+au Gabon et au Tchad. Les effets inflationnistes d’un choc sur les cours mondiaux du
+pétrole commencent à être observés après (i) huit mois au Cameroun et au Gabon, (ii)
+onze mois en RCA, (iii) vingt mois au Congo, (iv) neuf mois au Tchad et (v) dix mois
+en Guinée Equatoriale.
+Ces résultats pourraient se justifier avec l’existence des caisses de stabilisation des prix
+des hydrocarbures dans certains pays de la CEMAC. En effet, les caisses de stabilisation
+des prix des hydrocarbures stabiliseraient, à court terme, les prix du pétrole à la pompe,
+mais ajusteraient graduellement ces prix à moyen et long terme pour tenir compte des
+évolutions réelles des prix du pétrole sur les marchés internationaux.
+Ces résultats sont en adéquation avec ceux de Baumeister et al. (2009), obtenus à partir
+des données des USA, de la Suisse, du Japon et des pays de la Zone Euro sur la période
+1986-2008. Par ailleurs, les impacts de long terme, à comparer aux résultats de Leblanc
+et al. (2004) et ceux de Alvarez et al. (2011), sont plus importants dans les pays de la
+CEMAC.
+18
+
+--- Page 20 ---
+Ces conclusions, en terme d’implications de politiques économiques, interpelleraient les
+autorités monétaires de la CEMAC de ne pas rester insensibles aux fluctuations des
+cours mondiaux du pétrole, bien que la théorie néo-keynésienne qui domine aujourd’hui
+l’analyse monétaire suggère qu’elles doivent réagir plus fermement aux variations des
+prix visqueux qu’aux variations des prix flexibles comme ceux du pétrole. Toutefois, elles
+doivent également apprécier, en plus des effets inflationnistes directs des fluctuations des
+coursdupétrolesurlesmarchésinternationaux,leseffetsdecesvariationssurlademande
+globale dans chaque pays afin de mieux orienter leurs décisions.
+19
+
+--- Page 21 ---
+Références
+[1] Alvarez L. J. et Hernando I.(2006) : "Price setting behaviour in Spain. Evidence
+from consumer price micro-data", Economic Modelling, 23, pp.699-716.
+[2] Alvarez L. J., Hurtado S., Sanchez I. et Thomas C.(2011) : "The impact
+of oil price changes on Spanish and euro area consumer price inflation", Economic
+Modelling, 28, pp.422-431.
+[3] Baumeister C., Peersman G. et van Robays I.(2009) : "The economic conse-
+quences of oil shocks : differences across countries and time", Working paper 09/630,
+Ghent University, Faculty of Economics and Business Administration.
+[4] BCE(2010) : "Oil prices : their determinants and impact on euro area inflation and
+the macroeconomy", bulletin mensuel, août 2010.
+[5] Bernanke B.S., Gertler M. et Watson M.W.(1997) : "Systematic monetary
+policy and the effets of oil price shocks", Brookings papers on economic activity, 1,
+pp.137-148.
+[6] Bohi D. R.(1989) : "Energy price shocks and macroeconomic performance", Re-
+sources for the Future, Washington, DC.
+[7] Cunado J. et Perez de Gracia F.(2005) : "Oil prices, economic activity and
+inflation : evidence for some Asian countries", The Quarterly Review of Economics
+and Finance, 45, pp.65-83.
+[8] Druant M., Fabiani S., Kezdi G., Lamo A., Martins F. et Sabbatini,
+R.(2009) : "How are firms wages and prices linked : survey evidence in Europe",
+Working Paper, 1084, BCE.
+[9] Du Caju P., Gautier E., Momferatou D. et Ward-Warmedinger M.(2009):
+"Institutional features of wage bargaining in 23 European countries, the US and Ja-
+pan", Working Paper, 974, BCE.
+[10] Hamilton J. D.(1983) : "Oil and the macroeconomy since World War II", Journal
+of Political Econmy, 91, pp.228-248.
+[11] Hamilton J. D.(1985) : "Historical causes of postwar oil shocks and recessions",
+Energy Journal, 6, pp.97-116.
+[12] Hamilton J. D.(1996) : "This is what happened to the oil price macroeconmy
+relationship", Journal of Monetary Economics, 38, pp.215-220.
+[13] Hamilton J. D.(2003) : "What is an oil shock?", Journal of Econometrics, 113,
+pp.363-398.
+[14] Hooker M. A.(2002) : "Are Oil Shocks Inflationary? Asymmetric and Nonlinear
+Specifications versus Changes in Regime", Journal of Money, Credit and Banking,
+34(2), pp 540-561.
+20
+
+--- Page 22 ---
+[15] Johansen S.(1988) : "Statistical analysis of cointegration vectors", Journal of Eco-
+nomic Dynamics and Control, 12, pp.231-254.
+[16] Johansen S.(1995) : Likelihood-Base inference in cointegrated Vector Auto-
+regressive models, Oxford University Press.
+[17] Johansen S., Juselius K.(1990) : "Maximum likelihood estimation and inferences
+on cointegration with application to the demand for money", Oxford Bulletin of Eco-
+nomics and Statistics, 52, pp.169-210.
+[18] Kilian L.(2008) : "The Economic Effects of Energy Price Shocks", Journal of Eco-
+nomic Literature, 46(4), pp.871-909.
+[19] Kilian L.(2009) : "Not All Oil Price Shocks Are Alike : Disentangling Demand
+and Supply Shocks in the Crude Oil Market", American Economic Review, 99(3), pp
+1053-1069.
+[20] Leblanc M. et Chinn M. D.(2004) : "Do high oil prices presage inflation? The
+evidence from G-5 countries", Working paper 561, University of California, Santa
+Cruz, février 2004.
+[21] Lee K., Ni S. et RA R.(1995) : "Oil Shocks and the Macroeconomy : The Role of
+Price Variability", Energy Journal, 16(4), pp 39-56.
+[22] Lee K. et Ni S.(2002) : "On the dynamic effects of oil price shocks : a study using
+industry level data", Journal of Monetary Economics, 49, pp.823-852
+[23] Reimers H.-E.(1993) : Lag order determination in cointegration VAR system with
+applicationtosmallGermanMacro-Models,Paperpresentedatthe1993 Econometric
+Society European Meeting (ESEM) 93, Uppsala, August 1993.
+21
+
+--- Page 23 ---
+Annexes
+Graphique 2 – Evolution des cours mondiaux du pétrole (cours WTI en USD)
+Source:Départementaméricaindel’énergie.
+Graphique 3 – Evolution de l’inflation dans les pays de la CEMAC
+Source:InstitutsNationauxdelaStatistiquedespaysdelaCEMAC.
+22
+
+--- Page 24 ---
+Tableau 3 – Propriétés statistiques des séries (tests de Phillips-Perron et de KPSS)
+Séries Statistique du test Ordre d’intégration
+LIPC_ cmr 0,453583 I(1) + C
+LIPC_ rca 0,323189 I(1) + C
+LIPC_ cng 0,058772 I(1) + t + C
+LIPC_ gab 0,370275 I(1) + C
+LIPC_ geq 0,104970 I(1) + t + C
+LIPC_ tch 0,020568 I(1) + C
+LWTI 0,031668 I(1) + C
+Source:Elaboréparl’auteuràpartirdessortiesd’Eviews.
+Tableau 4 – Récapitulatif des tests de causalité au sens de Granger (Hypothèse nulle :
+LOPD ne cause pas LIPC)
+Pays F-Statistic p-value
+Cameroun 1,88749 0,0376
+RCA 1,38697 0,0296
+Congo 3,34671 0,0002
+Gabon 2,70288 0,0313
+Guinée Equatoriale 2,18110 0,0370
+Tchad 2,29787 0,038
+Source:Elaboréparl’auteuràpartirdessortiesd’Eviews.
+Tableau 5 – Nombre maximal de retards retenus en fonction du critère d’information
+Pays Schwarz (SC) Akaike (AIC) Hannan-Quin (HQ)
+Cameroun 1 2 2
+RCA 2 8 3
+Congo 1 14 2
+Gabon 1 2 2
+Guinée Équatoriale 1 14 7
+Tchad 1 2 2
+Source:Elaboréparl’auteuràpartirdessortiesd’Eviews.
+23
+
+--- Page 25 ---
+Tableau 6 – Estimation du VECM pour le Cameroun (t-statistics in [ ])
+ErrorCorrection: D(LIPC_CMR) D(LWTI)
+CointEq1 -0,032401 0,213125
+[-3,94649] [2,59672]
+D(LIPC_CMR(-1)) 0,080038 1,192057
+[1.38709] [2.06655]
+D(LIPC_CMR(-2)) 0,082155 0,052815
+[1,58418] [0,10188]
+D(LWTI(-1)) -0,013592 0,252755
+[-1,07944] [3,86832]
+D(LWTI(-2)) 0,005577 0,097214
+[0,83528] [1,45648]
+C 0,002388 0,001211
+[4,27334] [0,21674]
+R-squared 0,145445 0,095589
+Adj.R-squared 0,126948 0,076013
+Sumsq.resids 0,014160 1,415025
+S.E.equation 0,007829 0,078267
+F-statistic 7,863227 4,882991
+Source:Sortiesd’Eviews.
+Tableau 7 – Estimation du VECM pour la RCA (t-statistics in [ ])
+ErrorCorrection: D(LIPC_RCA) D(LWTI)
+CointEq1 -0,060233 0,139081
+[-3,28251] [2,05959]
+D(LIPC_RCA(-1)) -0,767312 0,159528
+[-12,3413] [0,69721]
+D(LIPC_RCA(-2)) 0,193434 0,215361
+[2,47217] [0,74792]
+D(LIPC_RCA(-3)) 0,000453 0,022376
+[0,00724] [0,09732]
+D(LWTI(-1)) -0,011070 0,250094
+[-0,61654] [3,78503]
+D(LWTI(-2)) -0,006224 0,081670
+[-0,33612] [1,19842]
+D(LWTI(-3)) -0,015985 0,002092
+[-0,87426] [0,03109]
+C 0,005430 0,003521
+[3,58367] [0,63148]
+R-squared 0,978288 0,083849
+Adj.R-squared 0,977622 0,055722
+Sumsq.resids 0,105105 1,423438
+S.E.equation 0,021471 0,079014
+F-statistic 1467,600 2,981053
+Source:Sortiesd’Eviews.
+24
+
+--- Page 26 ---
+Tableau 8 – Estimation du VECM pour le Congo (t-statistics in [ ])
+ErrorCorrection: D(LIPC_CNG) D(LWTI)
+CointEq1 -0,027492 0,028859
+[-3,95637] [1,23097]
+D(LIPC_CNG(-1)) -0,016206 0,013169
+[-0,25842] [0,06224]
+D(LIPC_CNG(-2)) -0,083593 -0,049245
+[-1,37611] [-0,24028]
+D(LWTI(-1)) -0,046046 0,226510
+[-1,37029] [3,45599]
+D(LWTI(-2)) -0,024366 0,059176
+[-1,23168] [0,88662]
+C -0,000381 0,005694
+[-0,24641] [1,09182]
+R-squared 0,091652 0,066099
+Adj.R-squared 0,071990 0,045885
+Sumsq.resids 0,128363 1,461165
+S.E.equation 0,023573 0,079532
+F-statistic 4,661541 3,269910
+Source:Sortiesd’Eviews.
+Tableau 9 – Estimation du VECM pour le Gabon (t-statistics in [ ])
+ErrorCorrection: D(LIPC_GAB) D(LWTI)
+CointEq1 -0,058661 0,194366
+[-3,91832] [1,81505]
+D(LIPC_GAB(-1)) 0,018194 0,414495
+[0,32813] [1,04511]
+D(LIPC_GAB(-2)) 0,113278 0,286685
+[2,30005] [0,81380]
+D(LWTI(-1)) -0,009841 0,236513
+[-1,06963] [3,59390]
+D(LWTI(-2)) -0,001593 0,080195
+[-0,17045] [1,19970]
+C 0,002004 0,003339
+[2,67486] [0,62315]
+R-squared 0,120003 0,077345
+Adj.R-squared 0,100956 0,057374
+Sumsq.resids 0,028215 1,443569
+S.E.equation 0,011052 0,079052
+F-statistic 6,300206 3,872894
+Source:Sortiesd’Eviews.
+25
+
+--- Page 27 ---
+Tableau 10 – Estimation du VECM pour la Guinée Equatoriale (t-statistics in [ ])
+ErrorCorrection: D(LIPC_GEQ) D(LWTI)
+CointEq1 -0,033242 0,131796
+[-2,86843] [2,60210]
+D(LIPC_GEQ(-1)) 0,095643 -0,015510
+[1,46150] [-0,05423]
+D(LIPC_GEQ(-2)) 0,081774 0,038346
+[1,32574] [0,14224]
+D(LIPC_GEQ(-3)) -0,015097 -0,040390
+[-0,24529] [-0,15015]
+D(LIPC_GEQ(-4)) 0,014520 0,109795
+[0,24014] [0,41546]
+D(LIPC_GEQ(-5)) 0,105932 0,551270
+[1,78447] [2,12478]
+D(LIPC_GEQ(-6)) -0,343540 -0,303414
+[-5,99155] [-1,21078]
+D(LIPC_GEQ(-7)) 0,091775 0,212397
+[1,61254] [0,85389]
+D(LWTI(-1)) -0,000364 0,238984
+[-0,02363] [3,54821]
+D(LWTI(-2)) -0,011021 0,076244
+[-0,70579] [1,11717]
+D(LWTI(-3)) -0,006019 0,006637
+[-0,38583] [0,09733]
+D(LWTI(-4)) -0,025527 0,009104
+[-1,63875] [0,13373]
+D(LWTI(-5)) 0,001221 0,039765
+[0,07805] [0,58144]
+D(LWTI(-6)) -0,009043 -0,057940
+[-0,57872] [-0,84840]
+D(LWTI(-7)) 0,025387 -0,053732
+[1,65338] [-0,80069]
+C 0,001821 0,005051
+[1,47599] [0,93664]
+R-squared 0,207353 0,132627
+Adj.R-squared 0,152309 0,072392
+Sumsq.resids 0,069853 1,334284
+S.E.equation 0,017983 0,078595
+F-statistic 3,766988 2,201848
+Source:Sortiesd’Eviews.
+26
+
+--- Page 28 ---
+Tableau 11 – Estimation du VECM pour le Tchad (t-statistics in [ ])
+ErrorCorrection: D(LIPC_TCH) D(LWTI)
+CointEq1 -0,069662 0,089496
+[-4,35393] [1,72375]
+D(LIPC_TCH(-1)) 0,232087 -0,056255
+[3,80183] [-0,28398]
+D(LIPC_TCH(-2)) 0,102500 0,041594
+[1,77514] [0,22199]
+D(LWTI(-1)) -0,001251 0,234418
+[-0,06185] [3,57194]
+D(LWTI(-2)) -0,026738 0,066470
+[-1,31372] [1,00644]
+C 0,000552 0,005652
+[0,34488] [1,08798]
+R-squared 0,198319 0,071848
+Adj.R-squared 0,180967 0,051758
+Sumsq.resids 0,137911 1,452170
+S.E.equation 0,024434 0,079287
+F-statistic 11,42893 3,576330
+Source:Sortiesd’Eviews.
+Graphique 4 – Fonctions impulsions-réponses Cameroun
+Source:Sortiesd’Eviews.
+27
+
+--- Page 29 ---
+Graphique 5 – Fonctions impulsions-réponses RCA
+Source:Sortiesd’Eviews.
+Graphique 6 – Fonctions impulsions-réponses Congo
+Source:Sortiesd’Eviews.
+28
+
+--- Page 30 ---
+Graphique 7 – Fonctions impulsions-réponses Gabon
+Source:Sortiesd’Eviews.
+Graphique 8 – Fonctions impulsions-réponses Guinée Equatoriale
+Source:Sortiesd’Eviews.
+29
+
+--- Page 31 ---
+Graphique 9 – Fonctions impulsions-réponses Tchad
+Source:Sortiesd’Eviews.
+Estimation du VECM
+L’approche de la regression de rang réduit consiste à régresser d’abord ∆X et X
+t t−p
+sur les ∆X , ..., ∆X et D afin d’obtenir Γ , ..., Γ et Φ. Ces deux regressions
+t−1 t−p+1 t 1 p−1
+permettent d’obtenir respectivement les séries des résidus e et e . Les termes e et e
+0t pt 0t pt
+sont donnés par :
+p−1
+(cid:88)
+∆X = Θ ∆X +e (5)
+t 0i t−i 0t
+i=1
+p−1
+(cid:88)
+X = Θ ∆X +e (6)
+t−p pi t−i pt
+i=1
+Avec Θ = (Γ −αβ(cid:48)Γ ) et Θ = Γ pour i=1, ..., p-1.
+0i i i pi i
+La fonction de vraisemblance contractée a alors la forme d’une régression de rang réduit
+et s’écrit comme suit :
+T
+nT T 1 (cid:88)
+lnL(α,β,Σ) = − Log(2π)− Log[det(Σ)]− (e +αβ(cid:48)e )(cid:48)Σ−1(e +αβ(cid:48)e ) (7)
+0t pt 0t pt
+2 2 2
+t=1
+En fixant β et en maximisant la fonction de la relation (7) par rapport à α et Σ, on
+obtient :
+αˆ(β) = −S β(β(cid:48)S β)−1
+0p pp
+30
+
+--- Page 32 ---
+et
+Σˆ (β) = S −S β(β(cid:48)S β)−1β(cid:48)S
+00 0p pp p0
+T
+Où les matrices des moments croisés des résidus sont données par :S = 1 (cid:80) e e(cid:48) pour
+ij T it jt
+t=1
+i,j=0,p. Nous devons d’abord déterminer β pour le calcul de α et Σ. β est obtenu en
+ˆ
+résolvant le problème min(Σ(β)), pour cela, il suffit de résoudre l’équation suivante :
+Det[λS −S S−1] = 0 (8)
+pp p0 0p
+ˆ ˆ ˆ ˆ
+La solution à l’équation (8) nous donne les n valeurs propres (λ ,...,λ avec λ > ... > λ )
+1 n 1 n
+et les n vecteurs propres associés. Pour déterminer les r valeurs propres non nulles qui
+vont donner les r relations de cointégration, Johansen a proposé le test de la trace et
+le test de la valeur propre maximale. Ces deux tests reposent sur l’hypothèse nulle qu’il
+existe au plus r relations de cointégration (ce qui signifie qu’il y a r valeurs propres non
+nulles et n-r valeurs propres nulles).
+Test de la trace
+ˆ
+H : λ = 0, i = r+1,...,n.
+0 i
+La statistique du test de la trace est la suivante :
+n
+(cid:88)
+ˆ
+TR = −T ln(1−λ ) (9)
+i
+i=r+1
+Les valeurs de la statistique TR ont été tabulée par Johansen et Juselius (1990) puis par
+Osterwald-Lenum (1992). Les observations faites ne seraient suffire pour rejeter H à un
+0
+seuil de confiance donné, lorsque la valeur de la statistique TR est inférieure à sa valeur
+critique.
+31

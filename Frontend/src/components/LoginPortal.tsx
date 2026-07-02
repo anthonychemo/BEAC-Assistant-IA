@@ -46,7 +46,7 @@ export default function LoginPortal({ onClose, onLoginSuccess }: LoginPortalProp
 
         {/* Brand Header */}
         <div className="flex flex-col items-center text-center mt-2 mb-8">
-          <div className="w-16 h-16 flex items-center justify-center mb-4">
+          <div className="w-30 h-30 flex items-center justify-center mb-4">
             <img src={beacLogo} alt="Logo BEAC" className="w-full h-full object-contain" />
           </div>
           <h2 className="font-sans text-[#0D2D5E] text-xl font-extrabold tracking-tight">

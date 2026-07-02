@@ -1,0 +1,1628 @@
+Source PDF : Etude_Normalisation_de_la_réglementation_prudentielle_internationale_et_évolutions_en_Afri_05a59db6.pdf
+Chemin original : scraping\beac_data\Supervision bancaire\Publications\Etude_Normalisation_de_la_réglementation_prudentielle_internationale_et_évolutions_en_Afri_05a59db6.pdf
+Date extraction : 15/06/2026 20:15:32
+======================================================================
+
+--- Page 1 ---
+IIVV.. EEttuuddee
+NNOORRMMAALLIISSAATTIIOONN DDEE LLAA RREEGGLLEEMMEENNTTAATTIIOONN PPRRUUDDEENNTTIIEELLLLEE
+IINNTTEERRNNAATTIIOONNAALLEE EETT EEVVOOLLUUTTIIOONNSS EENN AAFFRRIIQQUUEE CCEENNTTRRAALLEE
+Par JJoosseepphh HHeennrrii IIKKOORRII àà YYOOMMBBOO5
+RÉSUMÉ
+Créée le 16 octobre 1990, la Commission Bancaire de l’Afrique Centrale (COBAC)
+a débuté ses activités en janvier 1993. Sa première mission a été de doter la profession
+bancaire d’un corps de règles prudentielles dont la première vague a été publiée en avril 1993.
+Ces règles s’inspiraient fortement de l’Accord sur les fonds propres de 1988 (Bâle I) édicté sous
+la houlette du Comité de Bâle sur le Contrôle Bancaire (CBCB).
+Après une évaluation de la supervision bancaire en Afrique Centrale,menée conjointement
+par le Fonds Monétaire International et la Banque Mondiale en 2000 et 2001, la COBAC
+a procédé à la révision de ses normes assises sur les fonds propres. Cette révision, si elle
+améliore sensiblement la conformité du dispositif en vigueur en Afrique Centrale,a en outre
+faiblement anticipé sur la réforme ayant conduit à l’adoption d’un Nouvel accord sur les fonds
+propres (Bâle II).
+Les règlements de la COBAC, révisés en 2001, innovent par les notations externes des
+contreparties bancaires et de l’Etat.Ils présentent cependant encore plusieurs insuffisances au
+regard de Bâle II. Les règlements publiés ou entrés en vigueur en 2003 (organisation des
+comptabilités,surveillance des positions de change,comptabilisation des opérations sur titres
+et contrôle interne) permettent sûrement de couvrir un certain nombre d’aspects évoqués dans
+Bâle II (risque de marché,discipline de marché…).Il reste que la COBAC doit tout mettre en
+œuvre pour suivre de façon permanente les évolutions en cours au plan international et
+essayer autant que possible de peser,sinon anticiper sur leur évolution.
+_____________________________
+5
+D.E.A.en sciences de gestion,D.E.S.S.en relations internationales.Chef du service du Contrôle permanent-I (chargé du Congo et du Gabon) au Secré-
+tariat Général de la COBAC.Adresse électronique :ikori@beac.int
+Les points de vue exprimés dans cette étude sont ceux de l’auteur et ne reflètent pas nécessairement ceux du Secrétariat Général de la COBAC.
+L’auteur remercie MM.Ignace Nganga,Thierry Vincent de Paul Dzou Mbella et Eric Manga Bieng pour la relecture et les commentaires qu’ils ont
+bien voulu apporter à ce document.Il garde toutefois l’entière responsabilité des points de vue exprimés dans cette étude.
+53
+
+--- Page 2 ---
+INTRODUCTION
+La réglementation bancaire et prudentielle en Afrique Centrale6 a connu un tournant
+important en 1992 avec son harmonisation7 peu après la création de la Commission
+Bancaire de l’Afrique Centrale (COBAC) en 19908 .Avant cette date,les différents pays de la
+sous-région disposaient chacun de son corps de textes régissant l’activité bancaire.De 1960 à
+1992,des lois,ordonnances et décrets,souvent d’inspiration française9 ,ont été publiés sur la
+question dans ces pays.Ces textes sont demeurés sommaires et souvent divergents quant aux
+dispositions d’ordre prudentiel.
+Ainsi,à titre d’exemple,la réglementation centrafricaine disposait que « les fonds propres des
+banques doivent assurer : a) la couverture de leurs risques à concurrence de 5 % des crédits
+mobilisables,10 % des crédits non mobilisables ;b) la couverture de leurs immobilisations »10 .Au
+Cameroun,les fonds propres devaient représenter en permanence,respectivement pour les
+banques et pour les établissements financiers,5 % et 10 % de la moyenne des engagements
+de fin de mois du dernier exercice clos.Des normes de division des risques étaient également
+prévues ainsi que la couverture minimale des immobilisations par les fonds propres fixée à 100
+% .11Le Gabon possédait des dispositions presque identiques à celles du Cameroun sur ces deux
+dernières normes.Les minima pour la couverture des engagements par les fonds propres se
+rapprochaient davantage des dispositions centrafricaines.12
+Ces normes, bien qu’obligatoires, étaient d’une application difficile. Les commissions de
+contrôle des banques prévues dans chacune des lois bancaires restaient peu opérationnelles
+et inefficaces. La Banque Centrale commune aux six Etats (Banque des Etats de l’Afrique
+Centrale - BEAC) ne parvenait pas à mener sa mission de supervision. De nombreuses
+entraves à son action étaient relevées.Aucun contrôle d’un établissement de crédit ne pouvait
+se faire sans l’autorisation formelle des autorités nationales.Et même,lorsqu’une vérification
+s’opérait,les mesures recommandées n’étaient presque jamais suivies d’effets.La BEAC n’avait
+que très peu de moyens de coercition.
+_____________________________
+6
+Par « Afrique Centrale »,il faut entendre les six pays de la Communauté Economique et Monétaire de l’Afrique Centrale (CEMAC) :Cameroun,
+République Centrafricaine,Congo,Gabon,Guinée Equatoriale et Tchad.
+7
+Convention du 17 janvier 1992 portant harmonisation de la réglementation bancaire dans les Etats de l’Afrique Centrale.
+8
+Convention du 16 octobre 1990 portant création d’une Commission Bancaire de l’Afrique Centrale.
+9
+En dehors de la Guinée Equatoriale qui a été colonisée par l’Espagne et,dans une certaine mesure,du Cameroun qui a été sous tutelle
+britannique et française,tous les autres pays sont des anciennes colonies françaises.
+10
+Article 3 de l’Ordonnance N°84/051 du 21 août 1984 portant obligation pour les banques inscrites en République Centrafricaine de disposer d’un
+minimum de fonds propres.
+11
+Arrêté N°458/MINFIN/CE du 13 juin 1984
+12
+Décision à caractère général du Conseil National de Crédit N°29/84 du 27 avril 1984.
+54
+
+--- Page 3 ---
+La profonde réforme engagée dès 1990 se présentait alors comme une révolution dans un
+secteur qui,en plus d’être sinistré,faisait face à de nombreuses incertitudes.Il ne se passait plus
+un an sans que des faillites bancaires soient prononcées.La situation d’ensemble des banques
+en activité était des plus préoccupantes.Un processus de restructuration du secteur bancaire
+était en cours dans la quasi totalité des pays de la sous-région13.
+Au plan régional,face à la gravité de la situation,la mise en place d’une institution chargée
+de la supervision sans complaisance du secteur bancaire s’imposait.L’avènement de la COBAC
+était dès lors inéluctable.Les six Etats l’ont dotée de pouvoirs forts sur les plans administratif,
+de contrôle,de sanctions et réglementaires.Dans ce dernier domaine,la COBAC a entrepris
+un vaste chantier de refonte de la réglementation prudentielle qui a abouti à la publication en
+avril 1993 d’un certain nombre de règlements définissant les principales normes minimales de
+solvabilité,de liquidité et de gestion des établissements de crédit implantés dans sa zone de
+compétence.
+Ces normes ont été publiées après que le Comité de Bâle sur le contrôle bancaire (CBCB
+ou Comité de Bâle)14 a adopté,en juillet 1988,le premier Accord sur les fonds propres.Il convient
+de relever qu’avec cet accord,le CBCB a affirmé son rôle moteur dans l’harmonisation des règles
+prudentielles au plan international. Instituée en 1974 avec pour mission principale la
+formulation des normes et des directives prudentielles et la définition des meilleures pratiques
+en la matière, le Comité de Bâle encourage ainsi la convergence vers des approches
+communes.L’accord de 1988,en devenant une norme internationale de réglementation des fonds
+propres,a joué un rôle clé dans l’harmonisation de l’environnement bancaire international.La
+COBAC s’en est inspirée dans l’élaboration de ses normes15 .Toutefois, des considérations
+diverses l’ont amenée à adopter des choix qui n’entraient pas toujours dans le cadre de la
+stricte application des normes et directives du Comité de Bâle.
+L’accord sur les fonds propres de 1988 a connu quelques révisions16. Malgré son succès reconnu
+au plan mondial,il a été critiqué à plusieurs reprises pour sa rigidité et son inadaptation face à
+l’évolution des activités et des risques bancaires. Sa réforme a conduit à l’élaboration d’un
+nouvel accord sur les fonds propres qui devrait entrer en vigueur fin 2006. Ce nouveau
+dispositif,communément appelé « Bâle II 17» ,se trouvait déjà dans sa phase consultative lorsque
+_____________________________
+13
+Lire à ce sujet ADAM MADJI,« Le point sur les restructurations bancaires en Afrique Centrale »,Bulletin de la Commission Bancaire de l’Afrique
+Centrale,N°2,Août 1997.
+14
+Créé en 1974 par les Gouverneurs des banques centrales des pays du Groupe des dix (G10),il rassemble les autorités de contrôle bancaire
+issues des pays du G10 (Allemagne,Belgique,Canada,Etats-Unis,France,Italie,Japon,Royaume-Uni,Suède et Suisse),du Luxembourg,des Pays-
+Bas et de l’Espagne.Pour en savoir plus sur le Comité de Bâle,consulter le site www.bis.org
+15
+Lire à ce sujet « l’apport du Comité de Bâle dans la définition des instruments de contrôle bancaire de la COBAC »,Bulletin de la Commission
+Bancaire de l’Afrique Centrale,N°2,Août 1997, pages 10 à 14.
+16
+Novembre 1991,juillet 1994,avril 1995,janvier 1996 et avril 1998
+17
+« Bâle I » étant l’accord de 1988.
+55
+
+--- Page 4 ---
+la Commission Bancaire de l’Afrique Centrale a lancé la révision de son cadre réglementaire
+de supervision.Les principales normes assises sur les fonds propres ont connu un toilettage et
+la réglementation sur le contrôle interne a été complètement revisitée et réadaptée.
+La réforme engagée par la COBAC est venue à la suite d’une première mission conjointe
+du Fonds Monétaire International (FMI) et de la Banque Mondiale qui s’est déroulée en février
+2000 avec pour objectif de procéder à l’examen des normes prudentielles ainsi que des
+conditions d’exercice de la supervision bancaire en Afrique Centrale au regard des 25
+principes fondamentaux pour une supervision bancaire efficace18.Cette mission,sur la base de
+l’accord de juillet 1988, avait relevé un certain nombre d’insuffisances que la COBAC se
+proposait de corriger à travers la révision de son dispositif.Aujourd’hui,une question se pose
+:la récente révision a-t-elle suffisamment anticipé sur Bâle II ? Autrement dit,les nouvelles règles
+prudentielles mises en place par la COBAC tiennent-elles compte des dispositions du nouvel
+accord sur les fonds propres ? Plus généralement,les normes prudentielles et les conditions
+d’exercice de la surveillance bancaire en Afrique Centrale sont-elles conformes aux normes et
+principes internationaux reconnus en la matière ?
+La présente étude tente d’apporter une esquisse de réponse à ces questions. Il s’agit ici
+d’évaluer le chemin parcouru dans le rapprochement,voire l’alignement,des normes en vigueur
+dans la CEMAC avec les règles et principes internationalement reconnus ; de relever les
+principales avancées ; de cibler les insuffisances et les imperfections et d’envisager les
+corrections à mettre en place.Accessoirement,il est aussi question d’analyser les propositions
+de Bâle II pour en repérer,d’une part,celles dont la mise en œuvre peut s’avérer difficile,voire
+impossible,en Afrique Centrale et,d’autre part,celles qui pourraient dans un terme plus ou moins
+proche connaître une application effective.
+Après une analyse du dispositif en vigueur en Afrique Centrale dès 1993 au regard de
+Bâle I ((11)),nous procèderons à un examen du système de surveillance bancaire à la lumière des
+deux évaluations FMI/Banque Mondiale ((22)) avant de nous attarder sur la réforme des normes
+prudentielles mises en œuvre par la COBAC sous le prisme du nouvel accord sur les fonds
+propres ((33)).
+_____________________________
+18
+Comité de Bâle sur le contrôle bancaire,« Vingt-Cinq Principes Fondamentaux pour une Supervision Bancaire Efficace »,1999.
+56
+
+--- Page 5 ---
+11.. LLeess rrèègglleess pprruuddeennttiieelllleess ddee llaa CCOOBBAACC ddee 11999933,, ddaannss lleeuurrss ggrraannddeess lliiggnneess,, ss’’iinnssppiirreenntt dduu
+pprreemmiieerr aaccccoorrdd ssuurr lleess ffoonnddss pprroopprreess ddee 11998888
+En publiant en juillet 1988 l’accord sur les fonds propres,le Comité de Bâle se fixait deux
+objectifs fondamentaux :tout d’abord,le dispositif proposé devait permettre de renforcer la
+solidité et la stabilité du système bancaire international ; ensuite, ce dispositif devait être
+simple et pertinent afin d’être uniformément applicable dans toutes les banques de tous les pays 19.
+L’accord de 1988 se présente sous la forme d’un rapport avec pour numérateur les fonds
+propres nets et pour dénominateur les risques pondérés.La composition de chaque élément
+du rapport est précisée et la norme minimale fixée à 8 % 20 .
+Emboîtant le pas au CBCB,la COBAC a élaboré une réglementation prudentielle entrée en
+vigueur en avril 1993 en reprenant une bonne partie des principes et concepts développés dans
+l’accord de 1988,en appliquant d’autres différemment et en excluant ceux dont l’application
+était jugée peu pertinente compte tenu des considérations locales.
+La structure globale de la norme proposée par le CBCB se décline en fonds propres
+(Tier 1,Tier 2 et Tier 3) au numérateur et en risques pondérés au dénominateur.C’est à peu
+près la structure de la norme COBAC de 1993.Nous analyserons successivement les différentes
+composantes de cette norme en faisant chaque fois ressortir les points de convergence et les
+divergences notables.
+11..11.. LLee ccaallccuull ddeess ffoonnddss pprroopprreess ddee bbaassee eesstt,, ddaannss uunnee cceerrttaaiinnee mmeessuurree,, pplluuss ssttrriicctt qquuee ll’’aapppprroocchhee
+rreetteennuuee ppaarr llee CCoommiittéé ddee BBââllee ppoouurr llee «« TTiieerr 11 »» ((oouu CCoorree ccaappiittaall))......
+Le Comité de Bâle considère avec insistance que les éléments clés des fonds propres sont
+le capital social et les réserves publiées constituées à partir des bénéfices après impôts.Ces deux
+éléments sont d’ailleurs considérés comme tels dans la majorité sinon tous les systèmes
+bancaires du monde21.Le CBCB a par conséquent admis que les fonds propres devraient être
+définis en deux ensembles dont le premier – « Tier 1 » – constitué du capital et des réserves,
+représenterait au moins 50 % du total des fonds propres. Si on assimile au Tier 1 les fonds
+propres de base définis par la COBAC22 ,l’on constate que le capital et les réserves tels que
+définis par le CBCB y sont bien pris en compte.
+_____________________________
+19
+Basel Commitee on Banking Supervision,« International Convergence of Capital Measurement and Capital Standards »,July 1988,updated to
+April 1998.
+20
+Pour les détails,Basel Commitee on Banking Supervision,July 1988,Op.Cit.
+21
+Basel Commitee,July 1988,op.Cit.
+22
+Règlement COBAC R-93/02 relatif aux fonds propres nets des établissements de crédit.
+57
+
+--- Page 6 ---
+En outre, la réglementation de 1993 y intègre : les primes liées au capital ; le report à
+nouveau créditeur ;les subventions d’équipement et autres subventions publiques ou privées
+définitivement acquises ; les fonds de financement et de garantie constitués de ressources
+propres provenant de l’affectation des résultats,de dons extérieurs ou de taxes parafiscales ;
+les provisions pour risques généraux,à l’exclusion de toute provision affectée à la couverture
+de charges ou de risques définis,probables ou certains ;le résultat du dernier exercice clos,
+approuvé par les organes compétents et certifié par les commissaires aux comptes dans
+l’attente de son affectation, diminué de la distribution de dividendes à prévoir ; le bénéfice
+arrêté à des dates intermédiaires à condition qu’il soit déterminé après comptabilisation de
+toutes les charges afférentes à la période et des dotations aux comptes d’amortissements et
+de provisions, et qu’il soit calculé net de l’impôt prévisible et certifié par les commissaires
+aux comptes.
+Il convient de relever que la prime de capital (share premuims), le report à nouveau
+créditeur (retained profit) et les provisions pour risques bancaires généraux (fund for general
+banking risk) font partie des réserves telles que définies par le Comité de Bâle.En conséquence,
+seuls les subventions,les autres provisions pour risques généraux,le bénéfice intermédiaire et
+le résultat en attente d’affectation ne sont pas inclus dans le Tier 1 alors que la COBAC les
+intègre dans ses fonds propres de base.A noter toutefois que dans l’Accord de juillet 1988,
+les provisions pour risques généraux sont explicitement intégrées sous certaines conditions dans
+le Tier 223 .Cette position est confirmée par l’amendement de novembre 199124 .
+Le CBCB recommande en outre de déduire du Tier 1,le fonds de commerce.La COBAC
+a pris à son compte cette disposition.De plus,la réglementation COBAC de 1993 préconise
+de diminuer les fonds propres de la part de capital non versée ;des actions propres détenues ;
+du report à nouveau débiteur ; des immobilisations incorporelles ; des pertes en instance
+d’approbation ;du résultat déficitaire déterminé à des dates intermédiaires et des provisions
+complémentaires à constituer pour dépréciation ou risque de non-recouvrement d’actifs ou pour
+charges et pertes diverses.A l’évidence,le calcul des fonds propres en Afrique Centrale est plus
+restrictif que la norme internationale définie par le CBCB.
+Enfin,en Afrique Centrale,comme le prévoit la réglementation internationale,il est admis
+que les fonds propres de base doivent constituer au moins 50 % de l’ensemble des fonds
+propres nets.
+_____________________________
+23
+Basel Commitee on Banking Supervision,International Convergence of Capital Measurement and Capital Standard,July 1988,paragraphes 18 à 21.
+24
+Basel Commitee on Banking Supervision,« Proposals for the inclusion of general provisions / General loan-loss reserves in capital »,February 1991
+58
+
+--- Page 7 ---
+11..22.. …… aalloorrss qquuee lleess rreessssoouurrcceess aassssiimmiillééeess,, bbiieenn qquuee lliimmiittééeess aauu mmoonnttaanntt ddeess ffoonnddss pprroopprreess ddee bbaassee,,
+nnee rreessppeecctteenntt ppaass lleess aauuttrreess ppllaaffoonnddss rreetteennuuss ddaannss llee ccaallccuull dduu TTiieerr 22 ((oouu ssuupppplleemmeennttaarryy ccaappiittaall))
+Les autres éléments des fonds propres retenus par le Comité de Bâle et appelés fonds
+propres complémentaires25 ou « Tier 2 » ne sont admis qu’à hauteur maximum de la moitié
+des fonds propres. Ils sont composés des réserves occultes ou non publiées (undisclosed
+reserves),les réserves de réévaluation,les provisions pour risques généraux,les emprunts ayant
+le caractère de capital (hybrid debt capital instruments) et les emprunts subordonnés.Le Comi-
+té de Bâle précise toutefois que les éléments du Tier 2 seront ou pas retenus par les
+autorités nationales à leur discrétion et selon leurs réglementations comptables et de
+supervision.Cependant,il propose quelques règles qu’il serait souhaitable de respecter avant
+la prise en compte de ces éléments supplémentaires.Ainsi,les emprunts subordonnés doivent
+être limités à un maximum de 50 % du Tier 1 alors que les provisions pour risques généraux
+doivent représenter au plus 1,25 % des risques pondérés. En outre, les réserves de
+réévaluation qui prennent la forme de gains latents sur des actifs non réalisés doivent faire
+l’objet d’une décote de 55 % à appliquer sur la différence entre le coût historique ou valeur
+comptable et la valeur de marché afin de refléter la volatilité potentielle de ce type d’actif
+et la charge fiscale.
+La réglementation de 1993 en Afrique Centrale, dans ce qu’elle nomme « ressources
+assimilées »,qui seraient l’équivalent du Tier 2,retient les éléments suivants :les réserves de
+réévaluation ; les fonds provenant de comptes d’associés, d’emprunt ou de l’émission des
+titres sous certaines réserves, notamment leur subordination à celle de tous les autres
+créanciers ;les fonds provenant d’emprunts subordonnés et la réserve latente des opérations
+de crédit-bail ou de location avec option d’achat.
+Bien que cette réglementation limite la prise en compte de l’ensemble des ressources
+assimilées à 100 % des fonds propres de base,elle ne fixe pas,comme le recommande Bâle I,
+de limite particulière aux emprunts subordonnés et ne procède pas à une décote des
+réserves de réévaluation.Les provisions pour risques généraux ne sont pas retenues à ce niveau
+mais,comme signalé plus haut,intégrées aux fonds propres de base (Tier 1).
+11..33.. LLaa rréégglleemmeennttaattiioonn ddee llaa CCOOBBAACC ddee 11999933 nn’’aa ppaass pprréévvuu uunnee cchhaarrggee ddee ffoonnddss pprroopprreess eenn
+ccoouuvveerrttuurree ddeess rriissqquueess ddee mmaarrcchhéé ((TTiieerr 33 oouu SShhoorrtt--tteerrmm ssuubboorrddiinnnnaatteedd ddeebbtt))
+En janvier 1996,le CBCB a introduit un nouveau bloc,le Tier 326,dans la définition des fonds
+propres constitué des dettes subordonnées à court terme sujettes à une clause de blocage ou
+de verrouillage (lock in).L’inclusion de ce bloc est laissée à la discrétion des autorités nationa-
+les.Ce bloc est destiné à couvrir une partie des risques de marché.
+_____________________________
+25
+En anglais,« supplementary capital »
+26
+Basel Commitee on Banking Supervision,« Overview of the amendment to the capital accord to incorporate market risks »,january 1996.
+59
+
+--- Page 8 ---
+Les éléments à retenir dans le Tier 3 doivent remplir les conditions suivantes : leur
+échéance initiale doit être de deux ans au moins et ils doivent être retenus dans la limite de
+250 % du Tier 1 affecté à la couverture des risques de marché ;ils ne peuvent être utilisés que
+dans le cadre des risques de marché y compris les risques de change et les risques sur
+produits de base ; sous réserve que les limites globales de l’accord de 1988 ne soient pas
+franchies ;les éléments du Tier 2 peuvent remplacer ceux du Tier 3 dans la même limite de
+250 % ;enfin,ils doivent être assujettis à une clause de blocage stipulant que ni les intérêts ni
+le principal ne seront payés si le paiement doit ramener les fonds propres de la banque au
+dessous du minimum requis.
+De plus,le Tier 1 calculé sur une base consolidée doit représenter au moins la moitié du total
+des fonds propres admissibles. L’imposition d’un plafond au Tier 3 est toutefois laissé à la
+convenance des autorités nationales. Le dispositif arrêté en 1988 ne change pas dans ses
+principes fondamentaux et doit être appliqué par tous les pays notamment en ce qui
+concerne la règle selon laquelle le Tier 2 est limité à 100 % du Tier 1.
+La prise en compte des modèles internes des banques permettant d’appréhender la
+totalité des risques de crédit est énoncée sous certaines conditions.Le CBCB marque ainsi une
+préférence dans les exigences en fonds propres en matière de risque de marché sur les
+limites de positions parce qu’il juge les premières plus propices à la convergence internationale.
+Mais, le CBCB estime que ces limites peuvent encore être pertinentes notamment pour
+imposer des plafonds absolus aux positions des banques et pour renforcer les contrôles internes.
+En Afrique Centrale, le Tier 3 n’a pas été intégré dans la détermination de l’exigence
+minimale de fonds propres issue de la réglementation de 1993. Seules les opérations en
+devises ont fait l’objet d’un rappel aux banques de leur obligation de ne pas maintenir à
+l’extérieur de la zone d’émission de la BEAC des avoirs en devises injustifiés27 . Ainsi, sont
+considérés comme avoirs en devises justifiés les dépôts de la clientèle constitués en
+couverture d’opérations avec l’extérieur ;les dépôts de garantie en application des accords conclus
+à l’effet d’obtenir, des établissements de crédit étrangers, confirmation des crédits
+documentaires ou autres engagements ; les engagements en monnaies étrangères
+amortissables souscrits par les clients et les avoirs en comptes courants ordinaires chez les
+correspondants couvrant les transferts en attente d’exécution dont le délai ne doit pas
+dépasser le délai usuel du courrier.Toutes les autres disponibilités en devises ne relevant pas
+des opérations citées ci-dessus sont considérées comme injustifiées car relevant de la « pure
+spéculation» et à ce titre proscrites strictement par les autorités monétaires.Il s’agit en quelque
+sorte ici de limites relatives sur les positions de change. Les autres aspects du risque de
+marché ne sont pas régis du fait de la quasi-inexistence dans la Zone d’opérations
+bancaires susceptibles d’entraîner la survenance de ces risques.
+_____________________________
+27
+Lettre circulaire aux Associations professionnelles de banques N° LC-COB/23 du 26 mai 1994 précisant la notion « d’avoirs en devises injustifiés ».
+60
+
+--- Page 9 ---
+Par ailleurs,sans rapport direct avec l’un ou l’autre des trois blocs,la réglementation de 1993
+prévoit,comme expressément souhaité par le Comité de Bâle,que soient déduits du total des
+fonds propres les prises de participation dans les établissements de crédit assujettis ou
+étrangers et les prêts participatifs et subordonnés à ces établissements.
+11..44.. LLaa ppoonnddéérraattiioonn ddeess rriissqquueess eexxiiggééee ppaarr llaa rréégglleemmeennttaattiioonn CCOOBBAACC ddee 11999933 ddiivveerrggee
+sseennssiibblleemmeenntt ddee cceellllee rreeccoommmmaannddééee ppaarr ll’’AAccccoorrdd ddee 11998888……
+La réglementation de 1993 en Afrique Centrale prévoit trois niveaux de pondération des
+risques dans le cadre du calcul du ratio de couverture des risques28 . Une pondération à
+100 % est exigée pour les crédits à la clientèle,les opérations de crédit-bail et de location avec
+option d’achat et le portefeuille titres (hors bons d’équipements et autres titres de même
+nature),ainsi que les garanties de remboursement accordées et tous autres engagements de
+hors-bilan comportant un risque identique à un concours en trésorerie.Le taux de 10 % est
+retenu pour les autres engagements par signature en faveur de la clientèle.Tous les autres
+éléments d’actif sont pondérés à 0 %. Des risques pondérés sont déduites les provisions
+complémentaires qu’il conviendrait de constituer qui ont, par ailleurs, été déduites du
+montant des fonds propres.De même,dans la limite du montant des engagements couverts,
+l’on soustrait des risques pondérés les dépôts bloqués et subordonnés qui sont affectés en
+garantie ainsi que,sous réserve de l’agrément exprès du Secrétaire Général de la COBAC,les
+contre-garanties reçues d’autres établissements de crédit.
+L’accord de 1988 prévoit cinq niveaux de pondérations : 0, 10, 20, 50 et 100 %.A titre
+d’exemple, les encaisses, les créances sur les administrations centrales et des banques
+centrales sont pondérées à 0 % et celles sur le secteur privé, les banques hors OCDE, les
+administrations centrales hors OCDE (sauf si elles sont libellées en monnaie nationale et
+financées dans cette monnaie), les créances sur les sociétés commerciales contrôlées par
+l’Etat, les immeubles et les actifs immobiliers sont retenus à 100 %. Les prêts hypothécaires
+entièrement couverts par un bien immobilier à usage de logement qui est ou sera occupé par
+l’emprunteur ou qui est en location sont pris en compte à 50 %.Les créances sur les banques
+multilatérales, celles sur les banques enregistrées dans l’OCDE, celles sur entreprises
+d’investissement de l’OCDE et celles sur les banques hors OCDE assorties d’une échéance
+résiduelle d’un an au plus ainsi que les actifs en cours de recouvrement sont intégrés au taux
+de 20 %. Les autorités nationales peuvent fixer un taux compris entre 0 et 50 % pour la
+pondération des engagements sur les entités du secteur public national autres que
+l’administration centrale.
+_____________________________
+28
+De fait,la COBAC a délibérément limité à trois le nombre de taux de pondération dans un souci affirmé de simplification du calcul des normes
+destinées à des établissements qui,pour la première fois,devaient faire face à un dispositif prudentiel de cette nature.
+61
+
+--- Page 10 ---
+La pondération des risques en Afrique Centrale concerne principalement les risques de
+contrepartie.Les immobilisations font l’objet d’un autre rapport relatif à leur couverture par
+les fonds propres nets et les autres ressources permanentes.Ces dernières sont composées
+des emprunts obligataires et titres de créances négociables à plus de cinq ans de terme initial
+émis par l’établissement non affectés à des emplois bancaires et,le cas échéant,de l’excédent
+des emprunts contractés auprès d’établissements de crédit et institutions financières sur les prêts
+accordés de même nature et sur les titres de créances négociables acquis.Les immobilisations
+nettes de provisions doivent être couvertes en permanence à 100 % par fonds propres nets
+et les autres ressources permanentes.
+Dans la CEMAC,aucune distinction n’est effectuée entre créances sur des entités d’une région
+et celles d’une autre alors que le CBCB fixe des taux relativement bas sur les créances portées
+sur des entités de l’OCDE. De plus, les engagements sur le secteur public sont pondérés à
+100 % suivant la réglementation COBAC de 1993 alors que le Comité de Bâle recommande
+une pondération nulle. L’option retenue en Afrique Centrale aura une incidence dans la
+fixation du ratio minimum de couverture des risques.
+11..55.. …… jjuussttiiffiiaanntt,, eenn ggrraannddee ppaarrttiiee,, llaa ffiixxaattiioonn eenn AAffrriiqquuee CCeennttrraallee dd’’uunn ttaauuxx dduu rraattiioo ddee
+ccoouuvveerrttuurree ddeess rriissqquueess pplluuss ffaaiibbllee qquuee cceelluuii aaddmmiiss ppaarr llee CCoommiittéé ddee BBââllee ccoommmmee nnoorrmmee--
+oobbjjeeccttiiff mmiinniimmaallee
+La norme-objectif minimale du CBCB est fixée à 8 % (dont un noyau de fonds propres d’au
+moins 4 %). Ce taux correspond, d’après le CBCB, « au niveau qui soit compatible avec
+l’objectif visant à assurer au fil du temps des ratios de fonds propres fondés sur des bases
+saines et compatibles pour toutes les banques internationales »29.La COBAC a retenu un taux
+de 5 % pour les établissements de crédit de son ressort,sans seuil affiché pour un noyau de
+fonds propres30 . Ce taux est inférieur à la norme internationale pour des raisons liées
+principalement à la composition des fonds propres nets et des risques pondérés (voir supra).
+Pour ceux-ci,la justification souvent évoquée tient à la prise en compte des principaux risques
+de contrepartie à hauteur de 100 %.Il en est ainsi des engagements sur l’Etat qui représentent
+dans plusieurs banques de la CEMAC plus de 40 % des crédits distribués. Des simulations
+effectuées par la COBAC31 illustrent dans le cas d’une banque qui affiche une norme de
+8,5 % si les créances sur l’Etat sont affectées d’une pondération égale à 0 % alors que ce même
+résultat s’établit à 5 % avec une pondération à 100 %.En clair,malgré une norme minimale de
+5 %,le dispositif en vigueur en Afrique Centrale ne remet pas en cause les principes ayant conduit
+au choix par le CBCB d’un taux de 8 %.
+_____________________________
+29
+Basel Commitee on Banking Supervision,« International convergence of capital measurement and capital standards »,july 1988,updated to april 1998.
+30
+De fait,le noyau de fonds propres (les fonds propres de base) doivent représenter en permanence au moins 2,5% des risques pondérés.
+31
+Lire à ce sujet,Bulletin le la Commission Bancaire de l’Afrique Centrale,N°2,août 1997,PP.11 à 14.
+62
+
+--- Page 11 ---
+Cette explication n’a pas toujours convaincu les organismes internationaux qui ont mené à
+deux reprises des missions d’évaluation des systèmes financiers de l’Afrique Centrale et,
+partant,de la supervision bancaire dans cette région.
+22.. LLee FFMMII eett llaa BBaannqquuee MMoonnddiiaallee oonntt eeffffeeccttuuéé ddeeuuxx éévvaalluuaattiioonnss ccoonnjjooiinntteess ddee llaa ssuuppeerrvviissiioonn
+bbaannccaaiirree eenn AAffrriiqquuee CCeennttrraallee aauu rreeggaarrdd ddeess 2255 pprriinncciippeess ffoonnddaammeennttaauuxx ppoouurr uunnee ssuuppeerrvviissiioonn
+bbaannccaaiirree eeffffiiccaaccee
+Les Principes Fondamentaux pour une Supervision Bancaire Efficace constituent un outil pour
+les autorités prudentielles permettant d'étalonner leur propre système par rapport à ce qui se
+fait de mieux ou avec ce que devrait être dans un système de supervision bancaire idéal.
+Ces Principes ont été édictés en 1999 par le Comité de Bâle sur le Contrôle Bancaire.Ils
+sont présentés comme un cadre général pour une supervision bancaire efficace et constituent
+une norme de référence au plan international. Ils se déclinent sous la forme d'exigences
+évaluées sur la base de « critères essentiels » et de « critères additionnels » ;le respect de tous
+les critères essentiels sans déficience notable étant l'indicateur de conformité.
+C'est en suivant cette logique que deux missions conjointes du Fonds Monétaire
+International et de la Banque Mondiale ont séjourné au Cameroun,de janvier à mars 2000,et
+au Gabon,en février,mai et juin 2001,dans le cadre du programme d'évaluation du système
+financier dénommé « FSAP 32 ».Ces missions ont procédé,entre autres,à l'évaluation de la
+conformité des normes prudentielles et de la supervision bancaire au Cameroun et au Gabon
+avec les Vingt-Cinq Principes Fondamentaux pour une Supervision Bancaire Efficace.
+Les évaluations ont été conduites sur une base qualitative.Il s'est agi d'examiner le degré
+de conformité par rapport à chacun des critères afférents à chaque Principe et de formuler un
+jugement suivant une échelle à cinq degrés :
+- la qualification « Conforme » est donnée lorsque tous les critères dits « essentiels » sont
+remplis sans aucune faiblesse significative ;
+- l'évaluation « Globalement conforme» est attribuée quand les faiblesses relevées ne sont
+pas jugées suffisamment graves pour émettre des réserves sérieuses sur la capacité de
+l'autorité de contrôle à se conformer au principe ;
+- la note « Globalement non conforme » est attribuée quand les déficiences sont telles
+qu'elles suscitent des doutes sur la capacité des autorités de contrôle à satisfaire au
+critère,mais que des progrès notables sont réalisés ;
+_____________________________
+32
+Financial System Assesment Program
+63
+
+--- Page 12 ---
+- l'appréciation « Non conforme » est donnée lorsqu'il est constaté qu'aucun progrès
+significatif n'a été réalisé pour satisfaire aux critères ;
+- enfin,la mention « Non applicable » est attribuée lorsque,pour une raison quelconque,
+l'application d'un principe n’a pas de sens dans la situation présente et dans un avenir
+prévisible.
+22..11.. LLeess ccoonncclluussiioonnss ddee ll’’éévvaalluuaattiioonn mmeennééee eenn 22000000 ssoonntt ddaannss ll’’eennsseemmbbllee eennccoouurraaggeeaanntteess......
+C’est le système bancaire camerounais qui a servi de cadre à cette évaluation.Il comptait à
+cette date dix-huit établissements de crédit en activité dont 10 banques,cinq d'entre elles étant
+sous contrôle étranger.L'analyse conduite n'a pas porté sur les établissements non assujettis
+au contrôle de la Commission Bancaire de l'Afrique Centrale telles que la Caisse d'Epargne
+Postale (CEP) et les Centres de Chèques Postaux (CCP). En outre, cette analyse ne
+concernait qu’accessoirement les établissements de microfinance dont le nombre était évalué
+à plus de 700 en 2000.
+C’était l’occasion d’apprécier sur le terrain la conformité du dispositif de supervision
+bancaire dont la COBAC est la cheville ouvrière.Institution chargée,au plan supranational,du
+contrôle prudentiel des établissements de crédit et de la définition du cadre réglementaire,la
+COBAC s’ouvrait ainsi pour la première fois à une évaluation extérieure et indépendante de
+son action.
+Les travaux de la mission conjointe FMI-Banque Mondiale ont été menés sur la base de
+trente Principes, après subdivision du principe n°1 en six sous-principes. Au terme de
+l’évaluation,quatre principes se sont avérés « Non applicables».Le cadre légal et la mise en œuvre
+du contrôle bancaire dans la CEMAC satisfaisait complètement ou au moins
+partiellement à dix-huit Principes (dont cinq classés « conformes » et treize « globalement
+conformes ») sur les vingt-six jugés applicables.Des efforts importants restaient à entreprendre
+sur huit Principes.
+22..11..11.. UUnn ddiissppoossiittiiff gglloobbaalleemmeenntt ssaattiissffaaiissaanntt……
+Les résultats de l’évaluation de la supervision bancaire au Cameroun et,partant,dans toute
+la CEMAC, sont globalement positifs : sur les 26 principes applicables, 18 sont réputés
+conformes ou globalement conformes.
+L’évaluation a conclu à une conformité totale quant aux principes 1-1 (responsabilités et
+objectifs clairs), 1-5 (protection légale), 4 (transfert de propriété ou de contrôle), 18
+(contrôle sur base individuelle et consolidée) et 25 (contrôle des implantations étrangères).
+64
+
+--- Page 13 ---
+Il est dès lors admis que le système de contrôle bancaire en vigueur au sein de la CEMAC
+assigne des responsabilités et des objectifs clairs à chaque institution qui participe à la surveillance
+des établissements de crédit - COBAC,Autorité monétaire et Conseil National de Crédit -
+(Principe 1-1).En outre,Le cadre juridique en vigueur est approprié et prévoit des dispositions
+relatives à l’agrément des établissements de crédit et à leur contrôle permanent.La protection
+juridique des membres de la Commission Bancaire et de son Secrétariat Général est également
+assurée.L’article 6 de la Convention du 16 octobre 1990 les protège contre des poursuites pour
+les actes accomplis dans l’exercice de leurs fonctions (Principe 1-5).
+De plus,le règlement COBAC 93/09 prévoit des dispositions spécifiques quant à la prise ou
+cession de participations dans un établissement de crédit et notamment l’autorisation
+préalable de la Commission Bancaire pour les transactions portant sur des parts importantes
+de propriété,de participation ou de contrôle (Principe 4).
+Avec les améliorations de son système de reporting,la COBAC est dotée de moyens lui
+permettant de rassembler, d’examiner et d’analyser, sur une base individuelle, les rapports
+prudentiels et les états statistiques fournis par les établissements de crédit (Principe 18).Un
+projet de contrôle sur une base consolidée est en cours.
+Un autre point fort du dispositif en place est le fait que les banques étrangères opérant dans
+la CEMAC sont soumises aux mêmes exigences que les banques locales.Et,comme le prévoit
+l’article 6 de la Convention du 16 octobre 1990,la COBAC répond aux demandes d’information
+de ses homologues étrangers (Principe 25).Des conventions ont d’ailleurs été signées dans ce
+sens avec d’autres autorités de supervision bancaire.
+Par ailleurs, quelques faiblesses mineures ont conduit à une notation « globalement
+conforme» au regard des principes 1-3 (agréments),1-4 (pouvoirs d’injonction et de sanction),
+1-6 (échange et confidentialité des informations), 2 (définition de la fonction bancaire), 3
+(conditions d’agrément), 5 (contrôle des acquisitions des investissements), 8 (évaluation et
+provisionnement des actifs), 9 (division des risques), 14 (contrôle interne), 16 (contrôle sur
+pièces et sur place), 17 (connaissance des banques), 19 (inspections) et 22 (mesures
+d’injonction et de sanction).
+Les principales insuffisances ayant altéré l’appréciation de totale conformité sont les suivantes :
+- le fait que l’autorité monétaire puisse retirer son agrément à un établissement de crédit
+sans en référer à la COBAC 33 ;
+_____________________________
+33
+Article 17 de la Convention du 17 janvier 1992.
+65
+
+--- Page 14 ---
+- l’existence au Cameroun de très nombreuses coopératives d’épargne de crédit évoluant
+sans un agrément de l’autorité monétaire après avis conforme de la COBAC ;
+- les insuffisances du dispositif prudentiel relatif au gouvernement d’entreprise ;
+- les décisions prises par la COBAC jugées « en retrait par rapport à la gravité des faits »
+et les délais souvent longs accordés par celle-ci qui devait souvent faire œuvre de
+pédagogie ;
+- la large diffusion des rapports d’inspection de la COBAC qui paraît incompatible avec le
+strict respect du secret bancaire ;
+- l’utilisation du terme « banque » par des établissements (coopératives d’épargne et de
+crédit) non soumis aux contrôles de la COBAC ;
+- l’absence d’intervention de la COBAC dans la composition du conseil d’administration
+des banques et la désignation du président ;
+- l’absence de diligences obligatoires pour les auditeurs externes ;
+- le non respect par la réglementation de la COBAC des limites fixées par le Comité de
+Bâle en matière de grands risques (15 % des fonds propres à la COBAC contre 10 %
+pour le Comité de Bâle) et de limitation maximale d’exposition sur un seul emprunteur
+(45 % des fonds propres contre 25 % pour le Comité de Bâle) ;
+- les imperfections du dispositif de contrôle sur pièces ;
+- l’absence de programme et de procédures au niveau de la COBAC en ce qui concerne
+les contacts avec les banques et la très faible collaboration avec les auditeurs externes.
+Toutes ces insuffisances restent d’une gravité limitée pour remettre totalement en cause la
+conformité du dispositif prudentiel de la COBAC au regard des principes sus évoqués.
+Toutefois,d’autres lacunes plus préoccupantes ont conduit à une appréciation moins bonne.
+22..11..22.. ……..mmaaiiss qquuii pprréésseennttee eennccoorree ddeess iinnssuuffffiissaanncceess aasssseezz iimmppoorrttaanntteess
+Le système de supervision bancaire en Afrique Centrale présente,d’après l’évaluation du FMI
+et de la Banque Mondiale, des faiblesses assez importantes ayant conduit à une note
+« globalement non conforme » sur les principes 1-2 (indépendance opérationnelle), 6
+(adéquation du capital),7 (gestion du risque de crédit d’investissement),12 (risque de marché)
+66
+
+--- Page 15 ---
+et 21 (image comptable fidèle).Sur trois autres principes,le dispositif en vigueur à cette date
+avait été jugé carrément « non conforme ».Il s’agit des principes 10 (suivi des apparentés),13
+(gestion des risques) et 15 (blanchiment d’argent).
+La mission conjointe FMI/Banque mondiale a relevé,entre autres,à l’appui de son appréciation
+négative,le non-respect de certains critères relatifs aux principes sus cités.C’est ainsi que les
+observations suivantes ont été faites :
+- la COBAC dispose de moyens matériels et humains insuffisants susceptibles de
+compromettre la réalisation des objectifs qui lui sont assignés ;
+- le fonctionnement de la COBAC repose sur un nombre très limité de cadres de haut
+niveau. Cette situation est source de risque structurel qui a pour origine l’absence de
+recrutement pendant plusieurs années et pour conséquence un certain déséquilibre de
+la pyramide des âges ;
+- le transfert du Secrétariat Général de la COBAC à Libreville (Gabon) pourrait affecter
+son fonctionnement,certains agents pouvant se montrer réticents à changer de lieu de
+travail ;
+- le ratio de solvabilité est encore fixé à un niveau faible (5 %) et les risques significatifs,
+opérationnels en particulier,ne sont pas pris en compte ;
+- la COBAC dispose d’un pouvoir discrétionnaire excessif qui lui donne la possibilité
+d’autoriser un établissement à déroger temporairement aux règles et lui fixer un délai pour
+régulariser sa situation ;
+- la COBAC ne recommande pas formellement la formalisation des pratiques et des
+de distribution et de suivi des crédits ;
+- les exigences en matière de système d’information de gestion sont inexistantes ;
+- il n’existe pas d’exigence de communication des normes d’évaluation et d’octroi de
+crédits aux personnes intéressées à l’intérieur de la banque ;
+- aucune disposition formelle ne fait obligation aux banques de suivre leur risque de
+marché y compris le risque de change ;
+- un faible rôle est accordé aux auditeurs externes dans le dispositif prudentiel ;
+67
+
+--- Page 16 ---
+- la COBAC n’a pas de prérogative en matière de publication et l’autorité compétente,
+l’Autorité monétaire, n’a pris aucune initiative en vue de soumettre les banques à des
+normes de publication ;
+- il n’existe pas d’exigence visant à traiter les crédits aux apparentés,donnant lieu à des
+pratiques peu orthodoxes comme l’octroi de crédits à taux zéro à des actionnaires ;en
+outre, le respect de l’obligation légale faite aux commissaires aux comptes d’indiquer,
+dans leur rapport spécial de fin d’exercice, les prêts aux apparentés n’est pas
+systématiquement respecté ;
+- aucun texte,aucune recommandation n’a été prise concernant l’identification précise de
+la clientèle des banques (know your customers) ou concernant les déclarations qu’elles pour-
+raient faire en cas de soupçon sur la nature des opérations exécutées pour le compte
+de la clientèle ;la COBAC n’a pas obligation d’informer les autorités judiciaires en cas de
+détection d’opérations suspectes ;
+- aucune disposition n’est en vigueur en matière de supervision sur base consolidée.
+Parmi les griefs évoqués, certains connaissaient déjà un début de correction lorsque la
+seconde évaluation a été annoncée.A ce jour,un certain nombre de corrections ont déjà été
+effectuées afin de satisfaire de mieux en mieux aux exigences internationales.
+22..22.. …… eett oonntt ééttéé ccoonnffiirrmmééeess ppaarr lleess rrééssuullttaattss ddee ll’’éévvaalluuaattiioonn mmeennééee eenn 22000011
+Suivant la même méthodologie que lors de la précédente évaluation,la mission conjointe
+FMI-Banque Mondiale a procédé à l’actualisation de l’évaluation menée en 2000.
+Les conclusions de cette mission marquent une légère amélioration du dispositif de
+supervision bancaire de la COBAC. Celui-ci est reconnu « globalement conforme » sur le
+principe 6 (adéquation du capital) alors que la précédente mission avait conclu à une
+évaluation « globalement non conforme ».De même sur le principe 10 (suivi des apparentés),
+une appréciation « globalement non conforme » est donnée en lieu et place de « non conforme »
+constaté en 2000.
+Pour l’essentiel, les reproches évoqués plus haut demeurent. La mission a exprimé son
+inquiétude de voir la capacité d’action de la COBAC s’affaiblir du fait de sa dévolution à un
+nombre élevé d’établissements du secteur de la microfinance sans que les effectifs de son
+Secrétariat Général ne soient renforcés en conséquence.De plus,l’évaluation note que la COBAC
+n’a pas toujours pris en compte, dans son dispositif, le risque opérationnel, le risque de
+concentration (granularity),la différentiation du ratio de capital en fonction du profil de risque
+68
+
+--- Page 17 ---
+de la banque et le système de réaction rapide (prompt corrective action),notamment en cas de
+large publication des cotations des banques.
+L’absence de règles claires et fortes sur le blanchiment d’argent, le gouvernement
+d’entreprise, les risques de marché, la gestion des risques et l’image comptable fidèle est
+restée la principale limite du dispositif de surveillance bancaire en Afrique Centrale.
+L’entrée en vigueur des nouveaux textes permet d’améliorer ce jugement. Mais encore
+faudrait-il qu’ils se rapprochent des normes internationales en vigueur.A ce sujet,le nouvel accord
+de Bâle apparaît comme un challenge pour la COBAC qui devra, une fois de plus, se
+remettre en cause et à l’oeuvre afin de tendre toujours plus vers la conformité avec les
+normes internationalement reconnues.
+33.. LLaa CCOOBBAACC aa eennttrreepprriiss ddee rrééffoorrmmeerr llaa rréégglleemmeennttaattiioonn pprruuddeennttiieellllee eenn AAffrriiqquuee CCeennttrraallee aalloorrss qquu’’uunn
+NNoouuvveell AAccccoorrdd ddee BBââllee ééttaaiitt eenn ttrraaiinn dd’’êêttrree ddiissccuuttéé……
+En 2001, la COBAC a édicté des textes venant modifier fortement la réglementation
+prudentielle en vigueur depuis 1993.L’objectif avoué était de se rapprocher le plus possible des
+normes internationales. Celles-ci, au même moment, étaient en cours de mutation avec le
+processus d’élaboration du nouvel accord,dont l’entrée en vigueur est prévue pour 2006.Une
+profonde mutation qui ne pouvait pas être totalement anticipée par la COBAC qui a eu,tout
+de même,le mérite d’énoncer certaines réformes qui vont dans le sens des nouvelles normes.
+La lecture des différents documents relatifs au nouvel accord montre l’ampleur de ce qui reste
+à faire et la nécessité pour la COBAC d’effectuer très rapidement des choix après une mûre
+réflexion basée sur les caractéristiques du système bancaire et financier de la CEMAC.Cette
+section se propose de dégager les lignes directrices du nouvel Accord (3.1.), de revisiter la
+réforme de 2001 en Afrique Centrale (3.2.) et d’explorer les axes vers lesquels la COBAC
+pourrait s’orienter si elle veut rester en phase avec les normes internationales (3.3.).
+33..11.. LLee NNoouuvveell AAccccoorrdd eesstt ssttrruuccttuurréé eenn ttrrooiiss ggrraannddss ppiilliieerrss......
+La date butoir de mise en œuvre de l’Accord de 1988 était fixée à fin 1992.Tenant
+compte de la généralisation dans l’application de cet accord,du fait qu’il a permis l’accroisse-
+ment des fonds propres et le renforcement de la concurrence dans les pays du G10,le CBCB
+a entrepris la réforme en vue d’un nouvel accord avec pour objectifs principaux :
+- le renforcement de la solidité et de la stabilité du système financier avec une norme de
+solvabilité qui serait plus sensible aux risques réellement encourus par un établissement ;
+69
+
+--- Page 18 ---
+- l’amélioration de la concurrence bancaire en éliminant les arbitrages réglementaires ;
+- l’élaboration d’une approche plus exhaustive de contrôle des risques bancaires.
+Les premiers documents consultatifs ont été publiés en juin 1999 et janvier 2001. La
+publication du Nouvel Accord était annoncée pour fin 2001 et son entrée en vigueur en 2004.
+Seulement,après avoir reçu plus de 250 commentaires sur les propositions de nouvelles règles
+sur les fonds propres et compte tenu de la complexité de la réforme,le CBCB a décidé le 24
+juin 2001 de reporter la publication du nouvel accord en 2004 et son entrée en vigueur en 2006.
+Le Nouvel Accord repose sur trois piliers :les exigences minimales de fonds propres (Pilier
+1),le processus de surveillance prudentielle (Pilier 2) et la discipline de marché (Pilier 3).Le CBCB
+insiste sur l’application rigoureuse de ces trois piliers qui ensemble permettent d’assurer la
+stabilité et la solidité du système financier.
+33..11..11.. LLee PPiilliieerr 11 pprréécciissee lleess eexxiiggeenncceess mmiinniimmaalleess ddee ffoonnddss pprroopprreess,, ……
+Le principe de base de détermination de l’exigence minimale de fonds propres demeure le
+rapport entre ceux-ci et l’encours des risques pondérés.La définition des fonds propres reste
+la même que celle de l’Accord de 1988 et l’interprétation qui en a été faite par le Comité de
+Sydney en 1998 relative à l’inclusion strictement limitée d’éléments de capital dits « hybride »34 .
+Par contre,la mesure des risques pondérés est entièrement revue.Elle se veut plus précise,plus
+exhaustive et plus flexible. En effet, l’évaluation des risques proposée encourage les
+approches basées sur l’utilisation des notations et prend en compte des techniques de
+réduction des risques. Ces risques de crédit, de marché et opérationnels sont dès lors
+appréciés à partir de méthodologies différenciées.La norme minimale reste établie à 8 %.
+33..11..11..11.. LLaa mmeessuurree dduu rriissqquuee ddee ccrrééddiitt eesstt ddaavvaannttaaggee aaffffiinnééee àà ttrraavveerrss ttrrooiiss ooppttiioonnss aauu cchhooiixx,, ……
+La mesure du risque de crédit peut s’effectuer à partir de trois approches : l’approche
+standardisée (révisée),les approches simple et avancée basées sur les notations internes.
+aa)) LL’’aapppprroocchhee ssttaannddaarrddiissééee
+Cette approche se rapproche de celle retenue dans l’Accord de 1988. Elle se distingue
+cependant par sa sensibilité plus élevée aux risques.La classification de ceux-ci est fonction des
+notations externes (et non plus de l’appartenance à l’OCDE) des contreparties issues des
+organismes reconnus par les autorités de contrôle.A titre indicatif,une grille de pondérations
+a été établie sur la base de la notation de Standard & Poor’s. Elle prévoit des taux allant de
+0 % à 150 %.Le tableau ci-après reprend les pondérations proposées suivant la notation des
+contreparties :
+_____________________________
+34
+CBCB,Communiqué de presse du 27 octobre 1998.Les instruments innovants ne pourront être inclus dans les fonds propres de base que dans une
+limite de 15 % de ceux-ci.
+70
+
+--- Page 19 ---
+PPoonnddéérraattiioonn ddeess rriissqquueess ssuuiivvaanntt llee ttyyppee ddee ccoonnttrreeppaarrttiiee eett llaa nnoottaattiioonn
+Notation AAA à A+ à A- BBB+ à BB+ B+ à B- Inférieur Non noté
+AA- BBB- à BB- à B-
+Etat et banques centrales 0 % 20 % 50 % 100 % 100 % 150 % 100 %
+Banques Option 1 20 % 50 % 100 % 100 % 100 % 150 % 100 %
+Banques Option 2 20 % 50 % 50 % 100 % 100 % 150 % 50 %
+Entreprises 20 % 50 % 100 % 100 % 150 % 150 % 100 %
+Parts de titrisations 20 % 50 % 100 % 150 % Déduction des fonds propres
+Détail
+Immobilier 40 %
+Détail
+Autres 35 %
+A la discrétion des autorités nationales de supervision,des taux moindres que ceux indiqués
+dans ce tableau pour l’Etat et sa Banque centrale pourraient être appliqués pour les
+engagements libellés dans la monnaie nationale et financés dans cette monnaie. Il est
+recommandé en outre aux superviseurs de reconnaître les scores attribués par les agences de
+crédit exports qui publient leurs scores de risque suivant la méthodologie arrêtée par
+l’OCDE en 1999.Cette méthodologie comporte 7 scores.Les pondérations sont de 0 % pour
+le score 1 ;20 % pour le score 2 ;50 % pour le score 3 ;100 % pour les score 4 à 6 et 150 %
+pour le score 7.Les engagements sur la Banque des Règlements Internationaux (BRI),le FMI,
+l’Union Européenne et la Banque Centrale Européenne (BCE) sont pondérés à 0 %. Les
+banques de développement multilatérales seront évaluées au cas par cas pour être éligibles au
+taux de 0 % suivant des critères arrêtés par le Comité de Bâle 34 .En cas de non-respect de
+ces critères, une pondération identique à celle des créances bancaires selon l’option 2
+sera retenue.
+En ce qui concerne les engagements sur les banques commerciales, deux options sont
+proposées au choix des autorités de supervision bancaire.Dans la première option,toutes les
+banques reçoivent une pondération moins favorable que celle accordée à l’Etat.La seconde option
+_____________________________
+35
+Suivant ces critères,les établissements suivants sont actuellement éligibles :le groupe de la Banque Mondiale,la banque asiatique de
+développement,la Banque africaine de développement,la Banque européenne pour la reconstruction et le développement,la Banque
+interaméricaine de développement,la Banque européenne d’investissement,la Banque nordique d’investissement,la Banque de développement des
+caraïbes et la Banque de développement du Conseil de l’Europe.
+71
+
+--- Page 20 ---
+base la pondération des risques sur l’évaluation externe du portefeuille de la banque elle-même.
+Sous cette dernière option,une pondération préférentielle (au taux de 20 %) sera retenue pour
+les engagements ayant une maturité initiale de trois mois ou moins. Ce traitement concernera
+à la fois les engagements ayant fait l’objet d’une évaluation ou non,mais pas les engagements
+sur les banques pondérés à 150 % (note en dessous de B- sur l’échelle de Standard & Poor’s).
+Les engagements de hors bilan de maturité initiale inférieure ou égale à un an recevront une
+pondération de 20 %.Toutefois,un taux de 0% sera appliqué aux engagements annulables sans
+condition sur l’initiative de la banque.Les engagements de hors bilan avec un terme initial de
+plus d’un an seront pondérés à 50 %.
+Le Nouvel Accord suggère que les engagements garantis par une hypothèque réelle sur une
+propriété résidentielle soient pondérés à 50 %.Les hypothèques sur des propriétés immobilières
+commerciales ne sauraient justifier une pondération autre que 100 % sur les engagements garantis.
+En dehors des hypothèques,d’autres garanties peuvent venir,sous certaines conditions,en
+réduction des risques.Il s’agit des dépôts de garantie effectués dans la banque prêteuse,des
+titres publics cotés au moins BB- dans l’échelle de Standard & Poor’s,des titres de banques et
+d’entreprises cotés au moins BBB- et l’or.L’effet de cette réduction des risques ne doit pas être
+double dans ce sens qu’aucune réduction de risque ne sera accordée sur des engagements pour
+lesquels il a été attribué un taux de pondération qui tient déjà compte de cette réduction.
+Deux méthodes de détermination du taux de réduction de risque sont proposées : une
+méthode complète (comprehensive approach) et une méthode simple (simple approach).Dans
+la première méthode,l’on détermine d’abord la valeur ajustée de la garantie qui permettra de
+déterminer la pondération à appliquer au risque concerné. Sous la seconde approche, la
+partie de l’engagement couverte par la garantie reçoit la pondération applicable à la garantie
+avec un taux plancher de 20 %. La garantie doit en outre couvrir la durée de vie de
+l’engagement et être réévaluée au moins tous les six mois.
+L’approche standardisée préconise enfin que les autorités de supervision agréent des
+institutions d’évaluation externe des crédits suivant les six critères suivants : objectivité,
+indépendance, accessibilité internationale et transparence, publication des méthodes
+d’évaluation,qualité et quantité des ressources et crédibilité.Le processus d’agrément de ces
+institutions doit être rendu public afin de limiter les barrières à l’entrée.Les banques seront tenues
+de faire procéder à l’évaluation de leur portefeuille par les institutions agréées.
+72
+
+--- Page 21 ---
+bb)) LLeess aapppprroocchheess bbaassééeess ssuurr lleess nnoottaattiioonnss iinntteerrnneess oouu IInntteerrnnaall RRaattiinngg BBaasseedd AApppprrooaacchheess ((IIRRBB))
+Ces approches reposent sur l’appréciation,par les banques elles-mêmes,de leur risque de
+crédit mais ne permettent pas à celles-ci de se fixer leurs propres exigences en capital.Les banques
+doivent catégoriser leur exposition au risque de crédit en six portefeuilles : entreprises,
+souverains, banques, activités de banque de détail, financement de projets et portefeuille
+d’actions.Pour chacun des portefeuilles correspond un profil spécifique de risque (probabilité
+de défaillance, perte en cas de défaillance, exposition à la défaillance, maturité), des
+pondérations et des conditions d’éligibilité.
+L’utilisation des approches basées sur les notations internes est soumise à l’approbation et
+à la validation des autorités de supervision.Les banques doivent pouvoir démontrer qu’elles
+satisfont à un certain nombre de critères qualitatifs et quantitatifs permettant d’assurer une
+différentiation convenable des risques,l’exhaustivité et l’intégrité des notations et une révision
+indépendante.
+Pour chaque catégorie d’exposition,les établissements ont le choix entre deux options :une
+option dite simple et une seconde dite avancée.Pour être autorisés,les systèmes de notations
+internes devront être au cœur de la culture et de la gestion des établissements éligibles et avoir
+été utilisés pendant une durée minimale de trois ans. Une obligation de publication sera
+assignée à ces établissements.
+L’approche simple s’appuie sur une classification des risques obtenue à partir des valeurs
+estimées des probabilités de défaillance (Probability of default – PD) identifiées par les banques
+elles-mêmes pour chacun de leurs portefeuilles,l’impact apprécié par l’estimation des taux de
+perte en cas de défaillance (Loss Given default – LGD) et la portée représentée par les
+expositions aux risques de défaillance (Exposure at default – EAD).Les variables LGD et EAD
+sont déterminées par les autorités de supervision ainsi que la fixation des maturités et des effets
+de diversification.En outre,l’utilisation de ces approches sera conditionnée à la mise en place
+d’une base de données sur cinq ans pour les probabilités de défaillance (approche simple) et
+sur sept ans pour les taux de perte en cas de défaillance et l’exposition aux risques de
+défaillance (approche avancée).
+L’approche avancée autorise les banques à déterminer ou à estimer elles-mêmes les
+probabilités de défaut, les taux de perte en cas de défaillance, l’exposition aux risques et la
+maturité.Seuls les effets de diversification relèveront des autorités de contrôle.
+Quelle que soit l’option retenue,les systèmes de notations internes doivent utiliser la même
+définition de la défaillance. Cette définition repose sur deux critères : les doutes sur la
+capacité de l’emprunteur à rembourser (constitution de provisions spécifiques, abandon de
+73
+
+--- Page 22 ---
+créances,restructuration,faillite ou procédure collective) et l’existence d’impayés (90 jours,sauf
+collectivités publiques 180 jours). De plus, la notation de l’emprunteur doit refléter la
+probabilité de défaillance de ce dernier dans les 12 mois à venir.
+La formule générale suivante permet dès lors de déterminer les exigences minimales en fonds
+propres :
+=
+[∑(
+×
+)]
+F f pondérations EAD
+avec F,l’exigence minimale en fonds propres et les pondérations fonction de PD,de LGD
+et de la Maturité.
+Les fonctions de calcul des pondérations permettent de déterminer le niveau de fonds
+propres nécessaire pour qu’une banque ne subisse pas de défaillances sur un type de crédit à
+1
+un horizon de temps fixé ( an) et avec un intervalle de confiance déterminé (99,9 %).Une
+fonction unique est retenue pour les portefeuilles entreprises,souverains (Etat,Banque centrale…)
+et banque avec toutefois un allègement (de 20 % pour les plus petites et de 10 % en général)
+pour les petites et moyennes entreprises (PME)36 .
+Des pondérations forfaitaires sont attribuées au portefeuille financements spécialisés qui
+respectent un certain nombre de critères prédéfinis.Cinq lignes de produits sont évoquées :
+les financements de projets, d’objets, de matières premières, d’immobilier résidentiel et
+d’immobilier commercial à forte volatilité.
+Concernant les activités de banque de détail,quatre critères permettent une inclusion dans
+cette catégorie : la nature de la contrepartie (personne physique), le type d’instrument
+(notamment crédits renouvelables ou ligne de crédit inférieure à cent mille euros, prêts
+hypothécaire à l’habitat), le montant du crédit et le nombre de crédit distribués. Aucune
+distinction n’est faite entre les approches simple et avancée.Trois fonctions de pondération sont
+déterminées.
+Pour ce qui est des actions, une fois les critères définis d’éligibilité respectés, deux types
+d’approches sont possibles.Les premières sont de type marché et nécessitent l’utilisation de
+modèles statistiques37 pour les banques les plus sophistiquées,un système de pondération assez
+_____________________________
+36
+Les PME sont définies ici comme des entreprises qui réalisent un chiffre d’affaires de moins de 50 millions d’euros.
+74
+
+--- Page 23 ---
+simple pour les petites banques,les banques qui détiennent peu d’actions,ou les institutions dont
+les modèles n’ont pu être validés (300 % pour les actions négociées sur un marché et 400 %
+pour les autres).Le second type correspond à l’approche PD/LGD pour laquelle l’utilisation de
+la fonction de pondération retenue pour les entreprises est suggérée avec l’hypothèse d’une
+LGD égale à 90 %,d’une maturité correspondant à cinq ans et une majoration éventuelle des
+pondérations.Toutefois,un régime transitoire permet aux autorités nationales de contrôle,à leur
+discrétion,d’exonérer de ce traitement les portefeuilles d’actions détenus par les banques de
+leur juridiction au moment de la publication du Nouvel Accord.Dans ce cas,les portefeuilles
+feront l’objet d’une exigence en fonds propres déterminée selon l’approche standard. Ce
+régime est accordé pour dix ans et les banques qui en bénéficient doivent le signaler dans
+l’information qu’elles publient (pilier 3).
+Comme dans l’approche standardisée,une large gamme de techniques de réduction des risques
+est prévue. Parmi elles, l’on retrouve les garanties financières, les garanties immobilières, la
+mobilisation des créances commerciales,les garanties et les dérivés de crédit et la compensation
+de bilan.Sous les approches basées sur les notations internes,l’effet de la garantie est prise en
+compte au niveau de la LGD (en diminuant la LGD en fonction du degré de couverture de
+l’exposition).En simplifiant,on peut écrire :
+LLGGDD** == mmaaxx {{ 00,, LLGGDD xx [[ (( EE ** // EE )) ]] }}
+avec LGD*, la valeur effective de LGD ; E, le montant de l’exposition non garantie et E*,
+le montant de l’exposition couverte par une garantie.
+33..11..11..22.. …… llaa mmeessuurree dduu rriissqquuee ddee mmaarrcchhéé ddeemmeeuurree ccoonnffoorrmmee àà ll’’aammeennddeemmeenntt ddee ll’’AAccccoorrdd ddee 11998888
+ssuurrvveennuu eenn jjaannvviieerr 11999966……
+Le Comité de Bâle définit le risque de marché comme le risque de pertes sur des positions
+du bilan et du hors-bilan à la suite des variations des prix du marché.Il recouvre les risques
+relatifs aux instruments liés aux taux d’intérêts et titres de propriété du portefeuille de
+négociation,le risque de change et le risque sur produits de base encourus pour l’ensemble
+de la banque.
+La mesure du risque de marché, dans le cadre du nouvel Accord, reste conforme à
+l’amendement de l’Accord sur les fonds propres intervenu en janvier 199638. Cet amendement
+avait pour objectif de prévoir une marge explicite de ressources en capital en regard des risques
+_____________________________
+37
+Notamment des modèles de type VaR (Value at risk).
+38
+Pour plus de détails lire Basel Commitee on Banking Supervision,« Overview of the amendment to the capital accord to incorporate market risks »,janua-
+ry 1996 et Comité de Bâle sur le Contrôle Bancaire,« Amendement à l’accord sur les fonds propre pour son extension aux risques de marchés »,janvier
+1996,Mise à jour en avril 1998.
+75
+
+--- Page 24 ---
+de prix encourus par les banques, en particulier dans leurs activités de négociation. Deux
+approches sont proposées : une approche standardisée et une approche basée sur les
+modèles internes.
+L’utilisation des modèles internes,qui à l’occasion marquait une innovation importante dans
+les méthodes de surveillance,nécessite l’accord des autorités nationales de contrôle sur la base
+d’un certain nombre de critères administratifs,quantitatifs et qualitatifs.La mise en œuvre des
+modèles internes suppose la définition d’un ensemble approprié de facteurs de risque - c’est
+à dire des taux, cours et prix de marchés – qui affectent la valeur de ses positions de
+négociation. Les éléments pris en compte dans un système de mesure doivent être
+suffisamment complets pour appréhender les risques inhérents aux instruments du bilan et du
+hors-bilan du portefeuille négociation.Un certain nombre de principes directeurs sont définis
+à cet effet.Ces systèmes doivent faire l’objet d’une validation externe.
+Suivant la méthode de mesure standardisée,les normes minimales de fonds propres sont
+déterminées en fonction de deux exigences calculées séparément :l’une correspond au risque
+spécifique afférent à chaque titre de créance (il sert à protéger contre un mouvement
+défavorable du prix du titre pour des raisons liées à l’émetteur individuel) et l’autre
+correspond au risque de taux d’intérêt supporté par le portefeuille ou risque général de
+marché (son objectif est de saisir le risque de perte résultant de variations des taux d’intérêts
+de marché).
+33..11..11..33.. …… eett llaa mmeessuurree dduu rriissqquuee ooppéérraattiioonnnneell 3399 vviieenntt rreennffoorrcceerr llee ddiissppoossiittiiff
+Selon le CBCB, le risque opérationnel est « le risque de pertes directes ou indirectes
+résultant d’une inadéquation ou d’une défaillance attribuable aux procédures internes, aux
+facteurs humains et aux systèmes,ou à des causes externes ».Le nouvel Accord propose trois
+options permettant de calculer une charge de fonds propres.Quelle que soit l’option retenue,
+il est proposé que 12 % des fonds propres minimums (minimum regulatory capital) soient
+destinés à la couverture du risque opérationnel.
+La première approche dite « indicateur de base » (basic indicator approach) est fondée sur
+un indicateur global de risque opérationnel pour l’ensemble des activités de l’établissement de
+crédit. Les banques utilisant cette approche doivent, en vue de la couverture du risque
+a
+opérationnel,prévoir une charge de capital égale à un pourcentage fixe ( ) d’un indicateur unique
+_____________________________
+39
+Basel Commitee on Banking Supervision,« Working paper on the regulatory treatment of operational risk »,september 2001.
+76
+
+--- Page 25 ---
+qui pourrait être le produit brut (PB)40. Ainsi,si l’on désigne par K ,la charge de capital sous
+BIA
+cette approche :
+a
+KK == EEII xx
+BBIIAA
+avec EI,le niveau d’un indicateur d’exposition de l’ensemble de l’établissement qui correspond
+a
+provisoirement au PB.Le pourcentage est déterminé par le Comité de Bâle en rapportant
+le niveau des exigences en capital de l’industrie bancaire avec celui de l’indicateur (PB) pour
+l’industrie.
+La seconde approche dite « standard » répartit les activités des banques en huit métiers
+(business lines)41 . Pour chaque métier, sont définis des indicateurs basés sur la taille et le
+volume d’activité des banques dans chacun de ces secteurs.L’indicateur retenu ici est aussi le
+produit bancaire (PB) généré par chaque métier.La charge de capital se rapportant à chaque
+b
+métier est déterminée en multipliant l’indicateur par un facteur ( ) correspondant
+spécifiquement au métier. Ce facteur,déterminé par le Comité de Bâle,met en relation le niveau
+requis de fonds propres et le niveau de l’indicateur d’exposition (PB) pour chacun des métiers.
+En conséquence, KTSA, la charge de capital sous l’approche standard, se détermine de la
+manière suivante :
+= ∑8 (( ×b )
+KK
+TTSSAA
+EEEE IIII iiiixx
+ââ
+ii))
+ii
+avec l’indice i correspondant aux métiers oiu=1 business lines et EEII iireprésentant le niveau de
+l’indicateur d’exposition (PB) pour chacun des huit métiers.
+Dans la troisième approche dite « mesures avancées », la charge de capital requise
+résultera largement des méthodes et paramètres utilisés par la banque. De fait, cette
+approche a été développée en reconnaissance de la variété d’approches crédibles mises en place
+par les banques,destinées à quantifier le risque opérationnel.L’estimation de la charge de fonds
+_____________________________
+40
+Le produit bancaire (Gross income) entendu comme la différence entre les produits d’exploitation bancaire et les charges d’exploitation bancaire.Il doit
+mesurer le revenu net avant déduction des « pertes opérationnelles ».Le Comité de Bâle recommande l’utilisation d’un Produit Bancaire moyen sur trois
+ans par exemple afin de réduire l’impact des fluctuations et des activités occasionnelles.Il note toutefois la problématique de la définition précise du PB
+en raison de la variété des standards comptables et poursuit ses travaux d’harmonisation de la définition de ce concept.
+41
+Ces huit « business lines » sont les suivants :la finance d’entreprise (Corporate finance),le commerce et la vente (Trading and sales),la banque de détail
+(Retail banking),la banque commerciale (Commercial Banking),les paiements et règlements (Payment and settlement),les services d’agence et de conser-
+vation (Agency services and custody),la gestion d’actif (Asset management) et le courtage de détail (Retail brokerage).
+77
+
+--- Page 26 ---
+propres en couverture du risque opérationnel est cependant sujette à un plancher défini à
+partir de l’approche standard.Il est proposé que ce plancher corresponde,pour un début,à
+75% de la charge de fonds propres retenue dans le cadre de l’approche standard.L’utilisation
+de l’approche « mesures avancées » suppose le respect de certains critères qualitatifs et
+quantitatifs définis par le Comité de Bâle.
+Au total,le pilier 1 permet de déterminer la charge de fonds propres destinés à couvrir les
+risques encourus par la banque (risque de crédit,risque de marché et risque opérationnel).Des
+méthodes d’évaluation de chacun de ces risques sont proposées.Les autorités de supervision
+ont la responsabilité de retenir les approches qui correspondent le mieux à leurs systèmes
+bancaires et d’en assurer la surveillance. D’où la nécessité d’un processus adéquat en la
+matière.
+33..11..22.. …… llee PPiilliieerr 22,, rreellaattiiff aauu pprroocceessssuuss ddee ssuurrvveeiillllaannccee pprruuddeennttiieellllee,, rreeppoossee ssuurr qquuaattrree pprriinncciippeess
+ffoonnddaammeennttaauuxx……
+Les autorités de contrôle bancaire sont unanimes sur le fait que les exigences de fonds
+propres ne sauraient remplacer ni exclure une saine gestion des risques. Les superviseurs
+doivent s’assurer que chaque établissement bancaire dispose de procédures internes appropriées
+permettant d’attester de l’adéquation de ses fonds propres en couverture de ses risques.
+Le pilier 2 repose sur quatre principes fondamentaux :l’appréciation par les banques des fonds
+propres qui leur sont nécessaires (capital économique) ;la révision prudentielle de ce calcul et
+la comparaison entre capital réglementaire et capital économique ; la possibilité, pour les
+autorités de contrôle, d ’imposer des fonds propres supérieurs au minimum réglementaire
+déterminé dans le pilier 1,en fonction du profil de risque de chaque banque ;l’intervention des
+autorités de contrôle,en cas de besoin (« Prompt Corrective Action »).
+Ainsi,les banques doivent être capables de démontrer que les objectifs internes de capital
+sont bien fondés et conformes à leur profil de risque et à leur environnement.Cinq aspects
+doivent retenir l’attention dans le cadre d’un processus qui se veut rigoureux :
+(1) l’implication du conseil d’administration de la banque et de sa direction générale ;
+(2) l’évaluation fiable des fonds propres qui suppose des politiques et procédures destinées
+à identifier et maîtriser tous les risques,un processus qui lie les fonds propres au niveau de risque,
+un processus qui définit les objectifs en matière d’adéquation du capital en rapport avec les risques
+encourus et un processus de contrôle et d’audit internes destiné à assurer l’intégrité de
+l’ensemble des processus de gestion ;
+(3) l’évaluation exhaustive des risquesselon laquelle bien que tous les risques ne puissent être
+mesurés,un processus devrait être développé afin d’estimer tous les risques identifiés ;
+78
+
+--- Page 27 ---
+(4) la surveillance continue et le reporting au conseil d’administration et à la Direction générale
+de l’exposition aux risques qui implique de suivre les changements dans le profil de risque et la
+manière dont ils affectent les besoins en fonds propres ;
+(5) la revue régulière du système de contrôle interne par le conseil d’administration afin de
+s’assurer qu’il permet d’assurer une gestion prudente et correcte de la banque.
+Le second principe invite les superviseurs à vérifier et évaluer les stratégies et évaluations
+internes de la banque en matière d’adéquation des fonds propres. Les superviseurs doivent
+également évaluer la capacité des banques à respecter les ratios prudentiels assis sur les fonds
+propres et prendre des mesures appropriées en cas de non-respect de ces ratios.La mise œuvre
+de ce principe suppose donc pour le superviseur :la vérification de la qualité de l’évaluation
+des risques, l’appréciation de l’adéquation des fonds propres, celle de l’environnement de
+contrôle et du respect des normes prudentielles.
+De plus, selon le troisième principe, les superviseurs doivent exiger que les banques
+respectent les normes minimales exigées et être en mesure de requérir une augmentation des
+fonds propres en cas de non respect desdites normes.Les superviseurs doivent encourager les
+banques à maintenir une marge raisonnable en dessus des normes minimales exigées.
+Enfin, le dernier principe recommande au superviseur d’intervenir suffisamment tôt pour
+empêcher les fonds propres de chuter au dessous des niveaux minimums requis pour faire face
+au profil de risque de la banque et d’exiger des mesures correctives rapides si les fonds
+propres ne sont pas maintenus au moins aux niveaux requis.
+Par ailleurs,dans le cadre du pilier 2,il est recommandé aux superviseurs de mener leurs
+missions de façon crédible et transparente.Ils doivent rendre public les méthodes et critères
+utilisés dans l’évaluation de l’adéquation des fonds propres des banques.Et,lorsqu’ils exigent
+un niveau de fonds supérieurs au minimum,les superviseurs doivent rendre public les raisons
+de leur choix.
+33..11..33.. …… ddoonntt llee rreessppeecctt nnéécceessssiittee uunnee ddiisscciipplliinnee ddee mmaarrcchhéé,,42 oobbjjeett dduu PPiilliieerr 33..
+Afin de favoriser une bonne évaluation de la solidité financière des établissements,le CBCB
+réaffirme que la qualité de l’information financière demeure un élément fondamental de
+l’efficience des marchés et de la solidité des systèmes financiers. Des recommandations plus
+strictes sur la publication d’informations sont édictées dans le cadre du pilier 3. L’objectif
+_____________________________
+42
+Basel Commitee on Banking Supervision,Working Paper on Pillar 3 – Market Discipline,September 2001
+79
+
+--- Page 28 ---
+affiché ici est l’amélioration de la capacité de contrôle du profil de risque et de l’adéquation des
+fonds propres d’une banque par ceux qui y ont des intérêts (déposants,détenteurs de dettes
+subordonnées, personnel, etc.). L’amélioration de la communication financière doit pouvoir
+permettre le renforcement de la discipline de marché.
+Le CBCB a dès lors défini un certain nombre d’informations classées en deux grands
+groupes.Le premier est relatif aux informations générales imposées à tous les établissements
+de crédit et qui portent sur la structure et l’allocation de leurs fonds propres,l’exposition aux
+différents risques et les approches utilisées (standard, notations internes, etc.). Le second
+groupe est celui des informations spécifiques imposées aux banques qui,pour la mesure de leurs
+risques,souhaitent recourir à une méthode de notations internes ou bénéficier d’un agrément
+des autorités de contrôle pour leurs opérations de réduction des risques et de titrisation.
+Il s’agit donc pour les superviseurs de s’assurer que les établissements assujettis publient comme
+il se doit un certain nombre d’informations en maintenant un équilibre entre la discipline de
+marché et le risque que fait peser la divulgation d’informations sur l’ensemble du système
+bancaire.Ainsi,il est nécessaire de déterminer le niveau de détail des informations à publier afin
+de protéger les informations confidentielles et stratégiques (proprietary and confidential
+information). Les informations stratégiques sont celles qui, si elles sont communiquées aux
+concurrents,pourraient faire perdre sa valeur à l’investissement de la banque dans un produit
+ou un système et porter atteinte à sa position compétitive.
+Dans tous les cas,les banques devront se conformer aux exigences légales et réglementaires
+en matière de publications comptables et financières édictées notamment par les autorités
+boursières.Toutefois, en ce qui concerne les publications qui ne relèvent pas des exigences
+comptables, les banques sont libres d’utiliser tout moyen à leur disposition. Autant que
+possible,toutes ces informations doivent pouvoir être disponibles au même endroit.
+Ces informations doivent être fiables et pertinentes.Une information est considérée comme
+pertinente si son omission ou sa déclaration erronée peut changer ou influencer l’appréciation
+ou la décision d’un utilisateur de cette information.De plus,la publication doit se faire selon une
+fréquence régulière, de préférence au moins semestrielle, afin d’assurer une meilleure
+discipline de marché. Certains éléments (Tier 1, ratios relatifs à l’adéquation du capital,
+exposition au risque,etc.) devraient être publiés trimestriellement.Toutefois,les renseignements
+qualitatifs généraux sur la banque seraient publiés sur une base annuelle.
+Il convient de relever ici que déjà en 1998, le Comité de Bâle avait « identifié six grands
+domaines qu’il conviendrait de développer en termes clairs et suffisamment précis, pour
+parvenir à un niveau satisfaisant de transparence bancaire : résultats financiers ; situation
+financière (notamment fonds propres,solvabilité et liquidité) ;stratégie et méthodes de gestion des
+risques ; expositions aux risques (de crédit, de marché, de liquidité, opérationnel, juridique et autres) ;
+80
+
+--- Page 29 ---
+conventions comptables ; données essentielles sur l’activité, la gestion et la gouvernance de
+l’entreprise »43 . Les autorités de contrôles doivent dès lors mettre sur pied un système de
+déclaration étendu à ces six domaines.Dans tous les cas,les banques doivent,dans le cadre de
+la communication financière,fournir une information fiable et pertinente dans chacun de ces
+domaines afin de faciliter leur évaluation par les opérateurs du marché.
+33..22.. ……qquuii nn’’oonntt ppaass ééttéé eexxpprreesssséémmeenntt pprriiss eenn ccoonnssiiddéérraattiioonn aauu mmoommeenntt ddee ll’’ééllaabboorraattiioonn ddeess
+RRèègglleemmeennttss CCOOBBAACC ddee 22000011 ddoonntt ll’’oobbjjeeccttiiff aaffffiicchhéé ééttaaiitt ddee ccoorrrriiggeerr lleess iinnssuuffffiissaanncceess dduu ddiissppoossiittiiff ddee
+ssuurrvveeiillllaannccee bbaannccaaiirree eenn AAffrriiqquuee CCeennttrraallee
+Suite à l’évaluation conjointe Fonds Monétaire International et Banque Mondiale de l’an 2000,
+la COBAC a entrepris de mettre à jour sa réglementation prudentielle afin de la rendre
+conforme aux exigences internationales.Le principal point de repère restait encore l’Accord
+de capital de 1988 ou Bâle I. Cependant, prenant note d’un certain nombre d’évolutions
+annoncées dans le cadre de Bâle II,un certain nombre d’ajustements,encore mineurs,ont été
+apportés.
+La réforme a porté sur les règlements relatifs aux fonds propres nets44 et aux principales
+normes assises sur cet agrégat.Il s’agit des règles de représentation du capital minimum45 ,du
+ratio de couverture des risques46 , des normes de division des risques47 , du ratio de
+couverture des immobilisations48 et de la limitation des engagements en faveur des
+actionnaires,associés,administrateurs,dirigeants et personnel49 .
+33..22..11.. LLaa rrééffoorrmmee ddee 22000011 aa pprrooccééddéé àà uunnee llééggèèrree mmiissee àà jjoouurr dduu ccaallccuull ddeess ffoonnddss pprroopprreess nneettss,, ……
+L’ossature globale des fonds propres nets n’a pas beaucoup évoluée.Toutefois,l’expression
+convenue de « fonds propres complémentaires » est venue remplacer celle de « ressources
+assimilées ».Les fonds propres nets restent dès lors constitués des fonds propres de base (Tier
+1) et des fonds propres complémentaires (Tier 2),déduction faite des titres de participation
+dans le capital des entreprises pour le montant du dépassement de la limite réglementaire50 ,
+des titres de participation dans le capital des établissements de crédit,des prêts participatifs ou
+subordonnés consentis aux établissements de crédit et des engagements sur les actionnaires,
+_____________________________
+43
+Comité de Bâle sur le Contrôle Bancaire,« Renforcement de la transparence bancaire »,septembre 1998.
+44
+Règlement COBAC R-93/02 modifié par le Règlement COBAC R-2001/01 du 07 mai 2001.
+45
+Règlement COBAC R-93/10 modifié par le Règlement COBAC R-2001/04 du 07 mai 2001.
+46
+Règlement COBAC R-2001/02 du 07 mai 2001 abrogeant le Règlement COBAC R-93/03.
+47
+Règlement COBAC R-2001/03 du 07 mai 2001 abrogeant le Règlement COBAC R-93/04
+48
+Règlement COBAC R-93/05 modifié par le Règlement COBAC R-2001/06 du 07 mai 2001.
+49
+Règlement COBAC R-93/13 modifié par le Règlement COBAC R-2001/05 du 07 mai 2001.
+50
+Cette limite est fixée à 15% des fonds propres nets pour chaque participation dans les entreprises et à 45% des fonds propres nets pour l’ensemble des
+participation.(cf.article 3 du Règlement COBAC R-93/11 du 19 avril 1993.Si l’un et l’autre des deux seuils sont franchis,seul le plus élevé des deux
+dépassements est retranché du montant des fonds propres nets (article 7 du Règlement COBAC R-93/02 modifié).
+81
+
+--- Page 30 ---
+associés,administrateurs et dirigeants excédant individuellement 5 % de ces fonds propres nets.
+La principale modification apportée au calcul des fonds propres nets est relative à l’exclusion
+du bénéfice intermédiaire des fonds propres de base.Le résultat déficitaire arrêté à des dates
+intermédiaires demeure en déduction des fonds propres de base.
+A l’évidence, les modifications apportées dans le calcul des fonds propres nets ne
+permettent pas de respecter à la lettre les prescriptions de Bâle I en la matière.Celles-ci ont
+d’ailleurs été reconduites dans le cadre de Bâle II.Les insuffisances relevées à ce sujet (cf.supra
+§1.1 et §1.2) demeurent entières.
+33..22..22.. …… àà uunnee iimmppoorrttaannttee rréévviissiioonn ddee ll’’éévvaalluuaattiioonn ddeess rriissqquueess ppoonnddéérrééss qquuii ttiieennnneenntt ddééjjàà ccoommppttee
+ddaannss cceerrttaaiinnss ccaass ddeess nnoottaattiioonnss eexxtteerrnneess……
+Les risques pondérés à prendre en compte au dénominateur du ratio de couverture des
+risques ont connu une importante refonte. Ces risques sont constitués des crédits à la
+clientèle,des opérations de crédit-bail et de location avec option d’achat,les titres publics et
+privés souscrits,les créances sur les correspondants,les engagements de hors bilan donnés sur
+ordre de la clientèle et sur ordre des correspondants. De ces risques sont déduites les
+provisions éventuellement constituées ainsi que celles complémentaires qu’il conviendrait de
+constituer et qui ont été par ailleurs déduites des fonds propres nets.
+Des taux de pondérations (0 %,20 %,50 %,75 % et 100 %) sont attribués à chacun de ces
+risques suivant le type d’actif, la nature de l’opération, la nature du bénéficiaire, etc.. La
+principale innovation est la pondération des créances sur l’Etat en fonction du respect des
+critères de convergence édictés dans le cadre de la surveillance multilatérale des Etats de la
+CEMAC51 et la pondération des créances sur les correspondants en fonction de la note
+obtenue (ou l’équivalent à cette note) dans le système de cotation des établissements de
+crédit agréés par la COBAC52 .Toutefois,dans l’attente de la publication de la cote attribuée
+par la COBAC et jusqu’à l’adoption par le Comité de Bâle de son nouveau système de
+pondération, les créances sur les établissements de crédit de la CEMAC, de l’UMOA et
+l’OCDE bénéficient d’une pondération de 20 % et les autres établissements de crédit sont
+pondérés à 100 %.
+33..22..33.. …… eett aa pprréévvuu qquueellqquueess mmeessuurreess iimmppéérraattiivveess eenn ccaass ddee vviioollaattiioonn ddee llaa nnoorrmmee mmiinniimmaallee..
+_____________________________
+51
+Jusqu’en 2001,les quatre critères de la surveillance multilatérale suivants ont été retenus:(1) taux de couverture extérieur de la monnaie doit être
+supérieur ou égal à 20%,(2) le solde budgétaire primaire positif ou nul,(3) la variation des arriérés intérieurs et extérieurs négative ou nulle et (4) la
+variation en pourcentage de la masse salariale de la fonction publique inférieure à celle en pourcentage des recettes budgétaires.
+A compter de 2002,de nouveaux critères de la surveillance multilatérale ont été institués.Ils sont également au nombre de quatre :(1) le solde
+budgétaire de base doit être positif ou nul,(2) le taux d’inflation inférieur à 3%,(3) le ratio de la dette publique inférieur à 70% du PIB et (4) la variation
+des arriérés intérieurs et extérieurs sur la période courante négative ou nulle.
+52
+Voir tableau en Annexe
+82
+
+--- Page 31 ---
+Les nouvelles dispositions prévoient expressément que lorsqu’un établissement présente une
+situation nette négative, il doit présenter sans délai à la Commission Bancaire un plan de
+restructuration financière.Toute distribution de dividendes est interdite pendant la mise en œuvre
+de ce plan.
+De même,aucun dividende ne pourra être distribué tant que l’établissement de crédit ne
+respecte pas la norme de couverture des risques dont le taux a été porté de 5 % à 8 %.Un
+délai de trois ans a été accordé afin de permettre aux établissements de se conformer
+progressivement à cette norme.Ils devront respecter un taux de 6 % à la fin de l’année 2002,
+7 % à la fin de 2003 et 8 % à la fin de 2004.La norme en vigueur en Afrique Centrale sera
+conforme dès le 1er janvier 2005 à celle arrêtée par le Comité de Bâle.
+Les normes de division des risques reprennent les mêmes pondérations des risques que
+celles issues du ratio de couverture des risques. La limite maximale d’engagement sur un
+même bénéficiaire reste fixée à 45% des fonds propres nets et celle sur l’ensemble des
+bénéficiaires ayant chacun des engagements excédant 15 % des fonds propres nets demeure
+fixée à huit fois ceux-ci.
+33..33.. LLee ccoonntteexxttee ddee llaa rrééffoorrmmee –– ddiissccuussssiioonnss eenn ccoouurrss dduu NNoouuvveell AAccccoorrdd –– llaaiissssaaiitt ddééjjàà pprrééssaaggeerr
+dd’’uunn cceerrttaaiinn nnoommbbrree dd’’iinnssuuffffiissaanncceess aauu rreeggaarrdd ddee BBââllee IIII..
+33..33..11.. LLee rriissqquuee ooppéérraattiioonnnneell eesstt ddééffiinnii ddee ffaaççoonn rreessttrriiccttiivvee eett nn’’aappppaarraaîîtt ppaass eennccoorree ddaannss llaa nnoorrmmee
+ddee ccoouuvveerrttuurree ddeess rriissqquueess……
+La réforme engagée en 2001 avait, comme relevé supra, pour objectif de procéder à
+l’alignement de la réglementation prudentielle en Afrique Centrale sur les normes internatio-
+nales.Le contexte de cette réforme laissait déjà présager d’un certain décalage avec Bâle II dont
+la version définitive a été publiée en cette année 2004.C’est ainsi qu’il n’est pas étonnant que
+le risque opérationnel n’ait pas été intégré dans le calcul de la norme de couverture des risques.
+Le risque opérationnel a néanmoins été cité parmi ceux devant faire l’objet d’un certain
+nombre de diligences du système de contrôle interne conformément à un Règlement afférent53
+entré en vigueur le 1er janvier 2003.
+Ce règlement, qui définit le risque opérationnel comme celui « résultant, notamment,
+d’insuffisances de conception,d’organisation et de mise en œuvre des procédures d’enregistrement
+dans les systèmes d’information de l’ensemble des évènements relatifs aux opérations de
+l’établissement,et plus particulièrement,dans le système comptable »,fixe de façon générale des
+_____________________________
+53
+Règlement COBAC R-2001/07 du 05 décembre 2001 relatif au contrôle interne dans les établissements de crédit.
+83
+
+--- Page 32 ---
+diligences à mettre en œuvre par les établissements de crédit afin d’assurer la surveillance et
+la maîtrise de ce risque.
+Il convient néanmoins de relever le caractère restrictif de la définition du risque
+opérationnel.En effet,le Comité de Bâle définit le risque opérationnel dans un sens plus large
+en intégrant, outre les procédures et le système d’information de la banque, les facteurs
+humains, les autres systèmes et les causes externes54 . Il exclut expressément le risque
+systémique du champ du risque opérationnel.En outre,le Comité de Bâle,en accord avec la
+profession bancaire,identifie les principaux évènements – relevant du risque opérationnel – qui
+doivent être considérés comme potentiellement susceptibles de provoquer des pertes
+substantielles :les fraudes internes,les fraudes externes,les pratiques en matière d’emploi,de
+santé et de sécurité, les obligations professionnelles vis-à-vis de la clientèle, des produits et
+de la profession, les dommages sur les actifs physiques, les ruptures d’exploitation et les
+défaillances des systèmes notamment informatiques, les insuffisances dans l’exécution des
+transactions et le processus de gestion.
+33..33..22.. …… aalloorrss qquuee llee rriissqquuee ddee mmaarrcchhéé aa ééttéé iinnssccrriitt ddaannss llee cchhaammpp ddee llaa rréégglleemmeennttaattiioonn……
+Comme le risque opérationnel,le risque de marché ne reçoit pas un traitement particulier
+en vue de sa couverture par les fonds propres nets.La réforme de 2001 ne l’intègre que dans
+les dispositions relatives au contrôle interne.Toutefois,une réglementation relative,d’une part,
+à la surveillance des positions de change et,d’autre part,à la comptabilisation et au traitement
+prudentiel des opérations sur titres a été promulguée en 200355 .
+Le texte relatif aux positions de change définit des limites prudentielles, déterminées par
+référence aux fonds propres. Ces limites sont calquées sur celles applicables en matière de
+division des risques (plafond de 15 % des fonds propres nets pour le montant pondéré de la
+position ouverte dans chaque devise étrangère et 45 % pour la somme la plus élevée des
+positions pondérées longues ou courtes dans l’ensemble des devises).Le mode de calcul des
+différents types de positions est précisé et des pondérations affectées selon la devise considérée
+(0 % pour le franc CFA émis par la BEAC,10 % pour les monnaies de la Zone Franc autres
+que le franc CFA émis par la BEAC et l’euro, 15 % pour l’euro, et 100 % pour toutes les
+autres devises56).
+Le Comité de Bâle, quant à lui, propose deux options de mesure du risque de change
+dont la méthode dite « shorthand » qui se rapproche de celle qui a été retenue par le
+_____________________________
+54
+Voir supra,paragraphe 3.1.1.3.Lire également :Basel Commitee on Banking Supervision,« Sound Practices for the Management and Supervision
+of Operational Risk »,BIS,July 2002.
+55
+Règlement COBAC R-2003/02 du 14 novembre 2003 relatif à la surveillance des positions de change
+Règlement COBAC R-2003/03 du 14 novembre 2003 relatif à la comptabilisation et au traitement prudentiel des opérations sur titres effectuées par
+les établissements de crédit
+Règlement COBAC R-2003/04 du 14 novembre 2003 relatif à la comptabilisation des opérations de cession d’éléments d’actif
+56
+L’euro et les monnaies de la Zone Franc sont liés au franc de la Coopération Financière en Afrique Centrale (F CFA émis par la BEAC) par un taux de
+change fixe.Ce qui justifie des taux de pondération plus faibles.
+84
+
+--- Page 33 ---
+règlement de la COBAC,à la différence notable que toutes les devises sont retenues avec une
+pondération de 100 %.Toutefois,en ce qui concerne la limitation des positions,dans Bâle II,la
+charge de fonds propres nets exigée correspond à au moins 8 % de la somme du montant de
+la position nette en or et du montant le plus élevé entre la somme des positions longues et la
+somme des positions courtes en devises57 .
+33..33..33.. ……eett llee ccrriittèèrree ddee cchhooiixx ddeess ppoonnddéérraattiioonnss ddee rriissqquueess nn’’eesstt ppaass hhoommooggèènnee
+Les pondérations retenues sont fonction des notations externes pour les créances sur les
+correspondants étrangers et – dans une certaine mesure – pour les créances sur les
+établissements de crédit et sur les Etats de la CEMAC.En effet,la notation externe retenue pour
+les établissements de crédit est celle effectuée par la Commission Bancaire elle-même à
+travers son Système de cotation des établissements de crédit (SYSCO). Cette approche
+n’apparaît expressément pas dans les propositions du Comité de Bâle dans la réforme en cours.
+Il en est de même de la pondération des créances sur les Etats de la CEMAC qui se fait
+suivant qu’ils respectent ou non les critères de convergence développés dans le cadre de la
+surveillance multilatérale dans cette zone.Etant donné que ces critères ont été institués en vue
+d’assurer la cohérence et la convergence des politiques économiques des six Etats,l’on peut
+à juste titre s’interroger sur leur capacité à remplacer valablement les notations externes
+recommandées par le Comité de Bâle.Cette préoccupation peut également se poser dans le
+cas de l’utilisation des cotes du SYSCO pour les banques en lieu et place des notations externes.
+Il est vrai qu’en l’absence de notations par des agences reconnues,l’option retenue ici est à
+la fois originale, pragmatique et cohérente. Néanmoins, bien que le taux de pondération
+minimum retenu pour les créances sur les établissements de crédit soit de 20 % comme exigé
+par le Comité de Bâle,l’échelle à quatre niveaux retenue dans la réglementation est un peu
+courte devant les six niveaux proposés dans l’approche standardisée de Bâle II qui, en
+l’occurrence,ne prévoit pas une pondération de 75 %,mais plutôt 35 % pour les risques de
+banque de détail autres que l’immobilier alors que la COBAC retient un taux de 75 % pour
+les créances sur les établissements de crédit classés en cote 3 dans SYSCO.
+Les autres pondérations retenues dépendent parfois de la nature ou forme de la créance
+(escompte documentaire,crédits à l’exportation,créance titrisées sur l’Etat,avance sur stock
+etc.),des garanties apportées (hypothèques,…),du type d’actif ou d’élément de hors bilan.Etant
+entendu que les immobilisations continuent de faire l’objet d’un traitement séparé dans le cadre
+du ratio de couverture des immobilisations où elles sont retenues à 100 %.
+En outre, le fait qu’un engagement ait obtenu un accord de classement de la Banque
+Centrale (la BEAC) entraîne la réduction de moitié des taux de pondération initialement
+_____________________________
+57
+Basel Commitee on Banking Supervision,« Amendment to the Capital Accord to incorporate market risks »,January 1996 updated to April 1998.
+85
+
+--- Page 34 ---
+prévus. L’on peut valablement ici aussi s’interroger sur la prudence de cette approche qui
+suppose qu’un accord de classement de la BEAC est de nature à limiter le risque de
+contrepartie. En considérant cet accord comme une notation externe sur l’engagement, la
+validité de cette dérogation aurait pu être mieux défendue si elle ne s’appliquait pas sans
+discernement et s’il en découlait une cotation de la contrepartie sur une échelle connue.Tel
+ne semble pas être le cas.
+Si l’on retient l’approche standardisée de Bâle II,l’on constate qu’il y est préconisé d’user
+davantage des notations externes des contreparties,de tenir compte dans certains cas de la
+maturité de l’engagement et de recourir à certaines méthodes de réduction de risque. La
+réforme de 2001,outre qu’elle limite les taux de pondération à 100 % au lieu de 150 % comme
+suggéré par Bâle II,ne satisfait pas encore à l’ensemble des propositions issues des approches
+les plus simples de Bâle II.
+33..33..44.. PPaarr aaiilllleeuurrss,, lleess lliimmiitteess ddee ddiivviissiioonn ddeess rriissqquueess nn’’oonntt ppaass éévvoolluuéé
+La COBAC n’a pas encore aligné ses règles de division des risques sur la norme relative aux
+grands risques proposée par le Comité de Bâle.Bien que la définition des contreparties soit
+assez large pour inclure des entités directement ou indirectement liées,quelques insuffisances
+demeurent.Ainsi,les grands risques correspondent aux engagements qui représentent,pour la
+même personne,15% des fonds propres nets,contre 10% recommandés par le Comité de Bâle.
+La limite supérieure d’engagement sur un même débiteur demeure à 45% des fonds propres
+nets au lieu de 25% suggéré dans les normes internationales suivant lesquelles « tout chiffre
+supérieur à 25% impliquerait un relâchement des contraintes imposées présentement en matière
+de contrôle bancaire dans la plupart des pays 58 ».
+L’argument,souvent avancé en Afrique Centrale,selon lequel tout resserrement de cette
+limite poserait de graves difficultés au financement de l’économie, risque de ne plus être
+longtemps défendable au regard des possibilités de répartition des risques qui sont encore peu
+utilisées (consortiums bancaires,…), de la faible capitalisation bancaire qui se trouve de fait
+encouragée et des périls avérés d’une insuffisance dans la division des risques.
+Par ailleurs,le dispositif de division des risques en Afrique Centrale ne procède pas à une
+surveillance sectorielle et géographique mais dispose néanmoins d’une limite globale sur
+l’ensemble des grands risques correspondant à l’octuple des fonds propres nets.En outre,les
+pondérations des risques retenues ici peuvent,à titre exceptionnel,être réduites de moitié pour
+« certaines sociétés de très grand standing et d’importance nationale qui offrent une surface
+financière solide » ou pour « certaines entreprises dont le poids dans l’économie nationale est
+particulièrement élevé » de même que pour tous les engagements qui bénéficient d’un accord
+_____________________________
+58
+Comité de Bâle sur le Contrôle Bancaire,Mesure et contrôle des grands risques de crédit,janvier 1991
+86
+
+--- Page 35 ---
+de classement de la Banque centrale59 . Malgré les précautions de langage prises dans la
+rédaction de ces dérogations favorables, il est évident qu’elles ne rentrent pas parmi celles
+évoquées par le Comité de Bâle (Gouvernement national, entité du secteur public,
+contreparties bancaires). De plus, ces dérogations pourraient s’apparenter à une porte
+ouverte sur une dérive qui soustrairait les principaux et véritables risques des limites prudentielles.
+33..33..55.. LLaa rrééffoorrmmee eennttaammééee eenn 22000011 nnee ccoouuvvrree ppaass ll’’eennsseemmbbllee ddeess ttrrooiiss ppiilliieerrss ddee BBââllee IIII.. EEllllee ssee
+ppoouurrssuuiitt eett nnee ppoouurrrraa lloonnggtteemmppss iiggnnoorreerr lleess éévvoolluuttiioonnss ssuuggggéérrééeess ddaannss llee NNoouuvveell AAccccoorrdd
+La réforme entreprise en 2001 par la COBAC, pour autant qu’elle apporte un certain
+nombre d’innovations,ne couvre pas encore l’ensemble du champ de réforme proposé par Bâle
+II. Les réformes en cours apporteront à coup sûr des réponses aux préoccupations des
+missions d’évaluation conduites par le FMI et la Banque Mondiale.Elles permettront,en plus,
+d’avancer sensiblement dans le sens des recommandations prévues dans Bâle II,notamment en
+ce qui concerne les piliers 2 et 3.Déjà,le règlement relatif au contrôle interne,cité plus haut,
+apporte un certain nombre de réponses en ce qui concerne les dispositifs internes que
+devraient mettre en place les banques afin de maîtriser l’ensemble des risques auxquels elles
+peuvent faire face60 .
+Le règlement relatif aux diligences des commissaires aux comptes61 renforce sensiblement
+le processus de surveillance en ce sens qu’il formalise les rapports entre la COBAC et les
+contrôleurs externes en les obligeant à s’impliquer davantage dans le dispositif de supervision
+en vigueur. L’application correcte des dispositions de ce règlement renforcera la conformité
+du dispositif en Afrique Centrale aux prescriptions du Principe Fondamental n°14.
+Le règlement COBAC relatif à l’organisation des comptabilités des établissements de
+crédit62 transpose le droit comptable de l’Organisation pour l’Harmonisation en Afrique du Droit
+des Affaires (OHADA) aux établissements de crédit assujettis. Il prévoit et organise
+l’élaboration des comptes consolidés et des comptes combinés,préalable à une supervision sur
+une base consolidée.La conformité aux principes n° 20 et 21 du Comité de Bâle devrait dès
+lors pouvoir être assurée avec sa mise en oeuvre. D’autant plus qu’avec l’adoption de ce
+règlement,des précisions sont apportées à certaines notions (prudence,régularité,sincérité,
+continuité de l’exploitation, permanence des méthodes, spécialisation des exercices, coût
+historique,etc.) inscrites dans le plan comptable des établissements de crédit et qui donnaient
+lieu à diverses interprétations.
+La surveillance des positions de change, évoquée plus haut, et le règlement relatif à la
+comptabilisation et au traitement prudentiel des opérations sur titres couvrent les principaux
+_____________________________
+59
+Articles 5 et 6 du Règlement COBAC R-2001/03 du 07 mai 2001 relatif à la division des risques.
+60
+Il convient de relever que la réforme engagée par la COBAC en 2001 constitue une étape intérimaire destinée à parer au plus urgent dans le
+but de combler les lacunes déjà relevées et préparer ensuite la prise en compte des propositions de Bâle II.Cette réforme n’avait donc pas pour
+but d’anticiper sur Bâle II.
+61
+Règlement 04/03/CEMAC/UMAC/COBAC du 14 mai 2003 relatif aux diligences des commissaires aux comptes dans les établissements de crédit .
+62
+Règlement 2003/01 du 22 février 2003 relatif à l’organisation des comptabilités des établissements de crédit.
+87
+
+--- Page 36 ---
+aspects relatifs au risque de marché en Afrique Centrale.Ce dernier texte précise comment
+doivent être traités les titres détenus par le système bancaire en prévision du démarrage de la
+Bourse des valeurs de Douala et de la Bourse des valeurs mobilières de l’Afrique Centrale à
+Libreville ainsi que du projet d’émission de titres publics qui devrait se substituer au
+financement direct des Etats par la Banque Centrale et le système bancaire.
+En outre,la mise en place du Groupe d’Action contre le Blanchiment d’argent en Afrique
+Centrale (GABAC),l’adoption d’une réglementation63 en la matière et sa correcte application
+permettront de lever les principales réserves ayant conduit à la non conformité du dispositif
+de supervision au principe n°15 des Vingt-cinq Principes Fondamentaux pour un contrôle
+bancaire efficace.
+Enfin, la discipline de marché est appelée à se renforcer avec l’entrée en vigueur du
+Règlement CEMAC habilitant la COBAC à déterminer le modèle et la teneur des comptes
+publiables des établissements de crédit 64 .Ce texte harmonise les pratiques en la matière en
+imposant des exigences plus fortes.L’avènement des bourses de valeur sera aussi un élément
+stimulant et contraignant de la transparence.
+A l’évidence, la COBAC essaie, autant que possible, d’apporter des améliorations à son
+dispositif afin de se conformer aux pratiques reconnues au plan international.Toutefois, le
+Nouvel Accord sur les fonds propres doit davantage l’interpeller afin que la réflexion
+s’approfondisse assez rapidement, que la discussion s’installe définitivement en son sein et
+également avec la profession et que des options soient déjà précisées compte tenu de la
+complexité de cet accord et de l’obligation tacite de son application à terme.
+33..33..66.. LLaa bboonnnnee ffiinn ddee cceettttee rrééffoorrmmee ddééppeenndd dd’’uunn cceerrttaaiinn nnoommbbrree ddee ffaacctteeuurrss lliimmiittaannttss
+Un certain nombre de conditions préalables doivent être remplies afin d’assurer une
+harmonisation sans faille avec les normes internationales. Il s’agit principalement de la
+disponibilité des données de base et de la capacité des établissements assujettis à gérer une
+réglementation de plus en plus en plus complexe.
+La disponibilité des données suppose la fiabilisation des systèmes d’information des banques
+avec un accent particulier sur le service des états réglementaires.Elle impose également que
+_____________________________
+63
+Le règlement CEMAC n°01/03/CEMAC/UMAC du 04 avril 2003 portant prévention et répression du blanchiment des capitaux et du financement
+du terrorisme en Afrique Centrale et d’un règlement COBAC (à venir) sur les diligences des établissements de crédit en matière de lutte contre le
+blanchiment de capitaux et le financement du terrorisme en Afrique Centrale.
+64
+Règlement 03/03/CEMAC/UMAC/COBAC du 14 mai 2003 habilitant la Commission Bancaire de l’Afrique Centrale à déterminer le modèle et la
+teneur des comptes publiables des établissements de crédit.
+88
+
+--- Page 37 ---
+toutes les réformes à mettre en œuvre tiennent compte de la capacité des établissements à
+fournir les données requises dans la qualité,les formes et les délais fixés.L’expérience de la mise
+en œuvre du système CERBER65 a montré combien avec un peu de patience,de pédagogie
+et de sanctions astreignantes pour les établissements peu volontaires,l’on peut progressivement
+amener ceux-ci à adopter une réforme salutaire.Les nouveaux textes réglementaires exigent
+déjà des établissements des efforts substantiels d’adaptation afin de s’y conformer.Tout projet
+de mise en conformité avec Bâle II devra en tenir compte autant qu’il sera tout aussi
+impératif que les données provenant d’autres sources que les établissements de crédit
+(cotations externes notamment) soient accessibles sans difficulté.
+Dès lors,le rythme de mise en place d’éventuelles nouvelles règles doit tenir compte de la
+capacité des établissements à implémenter les modifications qui s’imposeront à coup sûr. La
+réforme devrait ainsi se faire par étape de manière à permettre des adaptations progressives
+qui exigeront – tant en ce qui concerne les établissements de crédit que le Secrétariat
+Général de la COBAC – la révision des systèmes internes, la mise en œuvre de nouvelles
+procédures, la refonte des modes d’organisation, la formation ou le recrutement du
+personnel,etc66 .
+CCOONNCCLLUUSSIIOONN
+_____________________________
+65
+CERBER = Collecte,Exploitation et Restitution aux Banques et établissements financiers des Etats Réglementaires.
+66
+La COBAC a adopté en octobre 2003 un chronogramme de mise en œuvre de Bâle II dans la CEMAC.Un Comité de validation et un Comité
+technique ont été créés en décembre 2003 à cet effet..
+89
+
+--- Page 38 ---
+L’histoire récente de la normalisation de la réglementation prudentielle en Afrique
+Centrale montre que la COBAC fait des efforts pour s’aligner sur les standards internationaux
+tout en ménageant certaines contraintes locales.L’Accord de Bâle de 1988 a été appliqué en
+tenant compte de certaines contingences domestiques qui ont souvent justifié les nombreux
+décalages relevés. Les réformes en cours ont démarré en 2001, au moment même où la
+discussion sur le Nouvel Accord étaient largement avancées. Elles en intègrent encore
+insuffisamment les principes. Pourtant, certaines approches retenues dans la réforme se
+rapprochent sensiblement de celles recommandées au plan international. Il en est ainsi des
+notations externes dans la pondération de certains risques.
+Au moment où les termes définitifs qui constituent le Nouvel Accord sur les fonds propres
+sont publiés, il est grand temps pour les instances concernées, notamment la COBAC,
+d’évaluer ce qui reste à faire pour se rapprocher le plus possible de ces normes internationales.
+La présente étude montre bien que la réforme de la réglementation prudentielle en
+Afrique Centrale, entamée en 2001, n’a pas véritablement anticipé sur Bâle II. Les nouvelles
+dispositions tiennent encore insuffisamment compte des orientations annoncées au plan
+international.A coup sûr,cette réforme permet au dispositif de surveillance bancaire en Afrique
+Centrale d’améliorer son degré de conformité avec les 25 Principes Fondamentaux pour une
+Supervision Bancaire Efficace.
+Les textes nouveaux et leur mise en œuvre renforceront assurément la qualité de la
+supervision bancaire exercée par la COBAC. Il reste que les critères d’évaluation sont en
+pleine mutation et les normes retenues seront plus relevées que celles en vigueur au moment
+des deux évaluations conjointes F.M.I – Banque Mondiale de 2000 et 2001.
+A présent que le nouveau dispositif de reporting67 est déjà opérationnel et relativement bien
+compris par tous et le plan comptable en application effective,c’est le lieu de commencer à
+explorer les propositions de Bâle II,d’en faire part à la profession,de susciter le débat sur les
+questions et les options proposées et d’intervenir autant que possible dans les éventuelles
+évolutions de cet Accord.
+Une exploration rapide des propositions du Nouvel Accord montre la complexité de
+certaines options suggérées au titre du Pilier 1 relatif aux exigences minimales en fonds
+propres.Le dispositif propose tout de même des choix qui pourraient être d’une application
+relativement aisée dans le contexte de l’Afrique Centrale.Il en est ainsi des approches standard
+_____________________________
+67
+Il s’agit du système de Collecte,d’Exploitation et de Restitution aux Banques et établissements financiers des Etats Réglementaires (CERBER).
+91
+
+--- Page 39 ---
+et standardisée simplifiée proposées dans l’évaluation des risques. Concernant le risque de
+crédit, la difficulté dans cette région pourrait se situer au niveau des notations externes des
+contreparties (Etats, banques et entreprises). L’option retenue par la COBAC dans les
+règlements de 2001 permet déjà de pouvoir pondérer sur une base – peut-être discutable à
+certains égards – les banques commerciales et l’Etat. Resteraient alors les entreprises. Une
+solution pourrait être de recourir à des notations que pourrait effectuer la Banque Centrale
+grâce à la centrale des bilans à mettre en place ou dans le cadre de la délivrance des accords
+de classement. Ce choix serait transitoire dans l’attente de l’émergence des agences de
+notation que les nouvelles règles pourraient susciter.
+Le risque de marché également ne devrait pas poser de grandes difficultés pour son
+évaluation conforme aux propositions de Bâle.Des options moins complexes d’évaluation de
+ce risque sont proposées.En ce qui concerne le risque opérationnel,la COBAC devrait revoir
+sa définition et encourager les bonnes pratiques de maîtrise de ce risque dans les établissements
+de crédit. Ici aussi, l’approche standardisée proposée ne devrait pas poser de difficultés
+insurmontables dans son application.
+Dans tous les cas,la COBAC ne doit pas se départir de son principe de concertation avec
+la profession.Celle-ci aurait dû déjà être interpellée sur les enjeux présents et futurs de cette
+nouvelle donne.La COBAC,sur la base de la réaction de la profession,aurait peut-être pu faire
+évoluer les propositions du Comité de Bâle dans un sens tenant suffisamment compte du
+contexte du secteur bancaire en Afrique Centrale.Cela n’a pas été fait en son temps.Il s’agit
+maintenant de rattraper ce qui peut encore l’être en s’orientant véritablement vers l’appropriation
+de ces nouvelles règles.
+Pour cela,en plus de repenser la supervision bancaire autour des trois piliers proposés,il
+faudrait définir leur contenu autant que possible en conformité avec les règles du Nouvel Accord
+sur les fonds propres.C’est le lieu d’établir au sein du Secrétariat Général de la COBAC une
+sorte de « cellule de veille » qui resterait en alerte,prête à reprendre,diffuser,analyser et réagir
+aux différentes propositions des instances de normalisation internationales notamment le
+Comité de Bâle sur le Contrôle Bancaire, l’International Accounting Standards Board (IASB,
+ex-IASC), etc. Il y va de la solidité du système bancaire de la CEMAC et, partant, de la
+crédibilité de la COBAC.
+92
+
+--- Page 40 ---
+AANNNNEEXXEE :: TTAABBLLEEAAUU RRÉÉCCAAPPIITTUULLAATTIIFF DDEESS PPOONNDDÉÉRRAATTIIOONNSS DDEESS RRIISSQQUUEESS RREETTEENNUUEESS
+PPAARR LLAA CCOOBBAACC 6688
+Taux de 0 % 20 % 50 % 75 % 100 %
+pondération
+Crédits aux Etats respectant les Etats respectant les Etats respectant les Etats respectant les Etats ne respectant
+Etats de la 4 critères de 3 critères de 3 critères de 2 critères de aucun critère de
+CEMAC convergence convergence dont convergence ou convergence ou convergence ou
+celui de la non- deux dont celui de uniquement celui seulement un critè-
+accumulation des la non-accumula- de la non accumu- re hormis celui de
+arriérés intérieurs tion des arriérés lation des arriérés la non accumula-
+et extérieurs intérieurs et exté- intérieurs et exté- tion des arriérés
+rieurs rieurs intérieurs et exté-
+rieurs
+Créances de - Etablissements de Etablissements de Etablissements de Etablissements de
+toute nature crédit en situation crédit en bonne crédit en situation crédit en situation
+aux établisse- financière solide situation financière financière fragile financière critique
+ments de crédit (Cote 1) (Cote 2) (Cote 3) (Cote 4)
+agréés par la
+COBAC 69
+Créances de Notation assimila- - Notation assimila- - Notation assimila- - Notation assimila-
+toute nature sur - ble à la Cote 1 du ble à la Cote 2 du ble à la Cote 3 du ble à la Cote 4 du
+les correspon- SYSCO SYSCO SYSCO SYSCO
+dants - Pas de notation - Pas de notation
+extérieurs 7 0 mais convention de par une agence de
+coopération entre rating
+organe de supervi-
+sion et COBAC 71
+Créances sur la - Escompte docu- - Avances sur stock - Crédits garantis Autres créances sur
+clientèle - mentaire - Avances sur mar- par une hypo- la clientèle publique
+publique ou - Crédits à l’expor- chés publics nantis thèque ferme de ou privée
+privée tation liés aux pro- - Escompte com- premier ou de
+duits de base mercial deuxième rang sur
+des immeubles
+Autres actifs - Titres émis par la - Autres titres de
+BEAC participation dans
+- Prêts et titres à les entreprises
+souscription obliga- publiques ou pri-
+toire - - - vées
+- Créances titrisées - Créances en souf-
+sur l’Etat 72 france
+- Tous les éléments
+d’actif non visés par
+ailleurs
+_____________________________
+68
+Suivant les Règlements COBAC du 07 mai 2001 : R-2001/02 relatif à la couverture des risques et R-2001/03 relatif à la division des risques.
+69
+A l’exception des cautions et aval.
+70
+A l’exception des cautions et aval.Correspondants extérieurs notés par une agence de rating de standing international.
+71
+Pour autant que la COBAC ne détienne pas d’informations défavorables.
+72
+Dans la mesure où le mécanisme de titrisation permet de sécuriser le remboursement de la dette.
+93
+
+--- Page 41 ---
+Taux de 0 % 20 % 50 % 50 % 100 %
+pondération
+Autres élé- Tous les éléments - Cautions et avals - ouverture de cré- - Acceptation sous-
+ments du hors- de hors-bilan non sur ordre des cor- dits documentaires crite sur ordre de
+bilan visés par ailleurs respondants confirmés la clientèle
+- Cautions et avals - Confirmation de - Garanties de
+sur ordre de la crédit documentai- remboursement de
+clientèle re ouverts par crédit à la clientèle
+d’autres établisse- financés par d’aut-
+- Autres engage- ments de crédit res établissements
+ments par signatu- de crédit
+re - Encours financier
+des opérations de - Autres ouverture
+crédit bail et de de crédit confirmés
+location avec sur ordre de la
+option d’achat. clientèle
+- Engagement de
+hors bilan douteux
+94
+
+--- Page 42 ---
+RRÉÉFFÉÉRREENNCCEESS BBIIBBLLIIOOGGRRAAPPHHIIQQUUEESS
+1) ADAM MADJI, « Le point sur les restructurations bancaires en Afrique Centrale »,
+Bulletin de la Commission Bancaire de l’Afrique Centrale,N°2,Août 1997.
+2) Basel Commitee on Banking Supervision, « International Convergence of Capital
+Measurement and Capital Standards »,July 1988,updated to April 1998.
+3) Basel Commitee on Banking Supervision, « International Convergence of Capital
+Measurement and Capital Standard »,July 1988.
+4) Basel Commitee on Banking Supervision, « Proposals for the inclusion of general
+provisions / General loan-loss reserves in capital »,February 1991.
+5) Basel Commitee on Banking Supervision,« Overview of the amendment to the capital accord
+to incorporate market risks »,january 1996.
+6) Basel Commitee on Banking Supervision, « Sound Practices for the Management and
+Supervision of Operational Risk »,BIS,July 2002.
+7) Basel Commitee on Banking Supervision,« Working paper on the regulatory treatment
+of operational risk »,september 2001.
+8) Basel Commitee on Banking Supervision,« Working Paper on Pillar 3 – Market Discipline »,
+September 2001.
+9) Basel Commitee on Banking Supervision, « Amendment to the Capital Accord to
+incorporate market risks »,January 1996 updated to April 1998.
+10) Basel Commitee on Banking Supervision, « International convergence of capital
+measurement and capital standards »,july 1988,updated to april 1998.
+11) Basel Commitee on Banking Supervision,« Overview of the amendment to the capital accord
+to incorporate market risks »,january 1996.
+12) COBAC, « l’apport du Comité de Bâle dans la définition des instruments de contrôle
+bancaire de la COBAC»,Bulletin de la Commission Bancaire de l’Afrique Centrale,N°2,
+Août 1997, pages 10 à 14.
+95
+
+--- Page 43 ---
+13) Comité de Bâle sur le contrôle bancaire,« Vingt-Cinq Principes Fondamentaux pour une
+Supervision Bancaire Efficace »,1999.
+14) Comité de Bâle sur le Contrôle Bancaire, « Amendement à l’accord sur les fonds
+propre pour son extension aux risques de marchés»,janvier 1996,Mise à jour en avril 1998.
+15) Comité de Bâle sur le Contrôle Bancaire, « Renforcement de la transparence bancaire »,
+septembre 1998.
+16) Comité de Bâle sur le Contrôle Bancaire, « Mesure et contrôle des grands risques de
+crédit »,janvier 1991.
+96

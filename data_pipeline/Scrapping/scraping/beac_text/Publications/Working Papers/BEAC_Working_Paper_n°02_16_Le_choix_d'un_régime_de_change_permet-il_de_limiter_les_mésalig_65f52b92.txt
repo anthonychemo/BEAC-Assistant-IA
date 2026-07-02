@@ -1,0 +1,1218 @@
+Source PDF : BEAC_Working_Paper_n°02_16_Le_choix_d'un_régime_de_change_permet-il_de_limiter_les_mésalig_65f52b92.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_n°02_16_Le_choix_d'un_régime_de_change_permet-il_de_limiter_les_mésalig_65f52b92.pdf
+Date extraction : 15/06/2026 21:27:53
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 02/16 -
+Le choix d’un régime de change permet t-il de limiter les
+mésalignements du taux de change ? L’exemple des pays d’Afrique
+Subsaharienne
+BIKAI J. Landry OWOUNDI F. Ferdinand
+Docteur en sciences économiques Docteur en sciences économiques
+ET
+Direction de la Recherche Univer sité de Poitiers
+bikai@beac.int ferdinand.owoundi.fouda@univ-poitiers.fr
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE
+travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+DIRECTION DE LA RECHERCHE
+
+--- Page 2 ---
+Le Choix d’un Régime de Change Permet-il de Limiter les
+Mésalignements du Taux de Change? L’Exemple des Pays
+d’Afrique Subsaharienne
+Bikai Jacques Landry∗, Owoundi Ferdinand∗∗
+Novembre 2016
+Résumé
+Cet article traite de l’incidence du régime de change sur les mésalignements du taux de change
+réel.Àceteffet,nouscomparonslesmésalignementsde17paysd’AfriqueSubsahariennerépartis
+en fonction de leur régime de change. Nous utilisons deux approches pour déterminer le taux
+de change d’équilibre : une approche de type NATREX et une approche de type BEER afin de
+s’assurer de la robustesse des résultats. Les estimations effectuées par les méthodes du groupe
+médian(PMG),desMCOdynamiquesetmodifiés(DOLSetFMOLS),surdesdonnéesannuelles
+allantde1980à2011,montrentquelesmésalignementsobservésd’ungroupedepaysàl’autrene
+présentent aucune différence significative en moyenne. Autrement dit, aucun régime de change
+(fixe ou flexible) ne protège mieux les pays de l’Afrique subsaharienne des déviations soutenues
+de son taux de change.
+Mots-clés : Taux de change réel, Mésalignements, Régime de change
+Codes JEL : C23; F31; F43; O24
+Real Exchange Rate Misalignments : Does The Exchange Rate
+Regime Matters? Evidence From Subsaharan African Countries
+Abstract
+This article examines the incidence of exchange rate regime on the real exchange rate mi-
+salignments in Sub-Saharan African countries. To this end, we compare misalignments of 17
+countries classified into two groups according to the exchange rate regime. For the equilibrium
+real exchange rate determination, we rely on a NATREX-based approach which we compare
+to the behavioral model (BEER), to prove results consistency. Relying on annual data between
+1980 and 2011, our estimates made simultaneously by the Pooled Mean Group method (PMG),
+the Dynamic OLS (DOLS) and the Fully Modified OLS (FMOLS) show that misalignments do
+not differ in average from one group to another. Put another way, no exchange rate regime is
+going to bail an economy out of deviations of its exchange rate.
+Keywords : Real Exchange Rate, Misalignments, Exchange Rate Regime
+JEL Classification : C23; F31; F43; O24
+∗. Docteur en économie et Cadre à la Direction de la Recherche de la Banque des Etats de l’Afrique
+Centrale (BEAC).
+∗∗. DocteurenéconomieetmembreduCentredeRecherchesenIntégrationÉconomiqueetFinancière
+(C.R.I.E.F) EA 2249, Université de Poitiers (France)
+Les auteurs remercient les cadres de la BEAC pour leurs observations et commentaires. Les erreurs et
+omissions éventuellement contenues dans le document relèvent du seul fait des auteurs.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 4
+1 Mésalignements et régime de de change : rappels de la littérature 5
+2 La méthodologie de détermination des mésalignements 7
+2.1 Le NATREX «Modifié». . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2.2 L’approche comportementale du taux de change d’équilibre (BEER) . . . . . . . 10
+3 Les estimations et les résultats comparés par régimes de change 12
+3.1 Les méthodes d’estimation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3.2 Résultats comparés et analyse de robustesse . . . . . . . . . . . . . . . . . . . . . 16
+3.3 Analyse des mésalignements du taux de change . . . . . . . . . . . . . . . . . . . 19
+Conclusion 23
+Références 26
+Annexes 27
+2
+
+--- Page 4 ---
+Résumé non technique
+Cetarticletraitedel’influencedurégimedechangedanslaformationdesdésajustementsdu
+taux de change réel par rapport à un niveau dit d’équilibre. De manière plus explicite, l’objectif
+est de répondre à la question de savoir si le régime de change en vigueur constitue un facteur de
+limitation de ces désajustements, encore appelés « mésalignements », pour le cas particulier des
+pays d’Afrique Subsaharienne. L’intérêt que nous portons aux pays de cette région est expliqué
+par la nécessité de comparer les performances qui peuvent être portées au crédit de chaque
+système de change pratiqué au sein de ladite région, dans le but ultime d’apporter des éléments
+d’analyse supplémentaires au débat sur le devenir des pays membres de la Zone Franc. Ceux-ci
+onteneffetétépréoccupésparlephénomèned’appréciationdel’eurovis-à-visdudollar,dontles
+répercussions supposées auraient porté préjudice à leurs économies en termes de compétitivité
+prix, conduisant ainsi certains à envisager la solution de sortie de l’union monétaire.
+Dans ces conditions, nous proposons alors une démarche simple qui consiste à évaluer et
+comparer les mésalignements de 17 pays d’Afrique Subsaharienne répartis en fonction de leur
+régime de change, dans les limites imposées par la disponibilité des données. Il apparait alors
+que les mésalignements sont indépendants du régime de change pratiqué, et les pertes ou gains
+de compétitivité qu’ils induisent dépendent davantage des caractéristiques intrinsèques et struc-
+turelles des pays concernés. De ce point de vue, la solution de sortie de l’union monétaire ne
+serait pas fondée et ne permettrai pas de résoudre les problèmes structurels auxquels font face
+ces économies. La principale recommandation qui émane d’un tel travail vise à interpeller les
+autorités des pays de l’Afrique subsaharienne sur la nécessité de mettre davantage d’accent sur
+la compétitivité qualité (structurelle). Si les mésalignements n’affectent pas significativement
+les pays développés comme le souligne Dubas (2009), c’est sans doute parceque ces derniers
+utilisent davantage la compétitivité qualité dans leurs stratégies commerciales. Il s’agit en effet
+d’une compétitivité de long terme qui matérialise la capacité d’une économie à être concurrente
+sur le plan international par des moyens autres que le prix. Il est donc question ici d’opérer une
+transformation structurelle des économies en mettant l’accent sur la diversification des struc-
+tures productives, mais surtout sur la qualité des produits tout en mettant un accent particulier
+sur l’image et la réputation véhiculées sur les marchés.
+3
+
+--- Page 5 ---
+Introduction
+Letauxdechangeestunevariablecléd’uneéconomiedontl’instabilitépeutporterpréjudice
+à l’activité en affectant les décisions d’investissement des agents au regard de l’incertitude qu’il
+véhicule. A ce titre, la fin du Système Monétaire International dit « de Bretton Woods » en
+1971,etl’avènementdelaglobalisationfinancièreontentrainéunregaind’intérêtpourlesétudes
+portant sur le choix d’un régime de change approprié. Bien que le système de Bretton Woods
+avait pour objectif de garantir une certaine stabilité du taux de change, son échec a fait migrer
+bon nombre de pays vers le choix de régimes plus flexibles. Cependant, dans la pratique, très
+peu de pays ont un régime de change purement flexible, et même dans les pays développés qui
+supportent mieux les effets du flottement, les banques centrales sont parfois contraintes d’agir
+pour limiter les fluctuations du taux de change. Toutefois, dans les deux formes de régimes (fixe
+et flexible), les pays sont exposés à des mésalignements de leur taux de change.
+Les mésalignements du taux de change, se matérialisent par des déviations soutenues du
+taux de change réel observé par rapport à sa valeur d’équilibre de long terme (Edwards 1989), et
+sont susceptibles de modifier l’allocation des ressources, de perturber la formation des prix ainsi
+que les décisions d’investissement, et par ce biais, de compromettre la croissance à long terme.
+Ils déterminent l’efficacité du taux de change en tant que variable d’ajustement car ils renvoient
+à la connaissance du niveau d’équilibre de ce dernier, c’est-à-dire, celui qui assure la réalisation
+simultanée à moyen et long terme des équilibres interne et externe de l’économie (Thibault et
+al., 1998).
+Ladéterminationdesmésalignementsnécessitel’identificationdutauxdechanged’équilibre,
+or le calcul du niveau dit « d’équilibre » du taux de change ne fait guère l’unanimité et reste
+encore une problématique majeure de la macroéconomie internationale. Razin et Collins (1997)
+le qualifie de « taux de change idéal ». Une surévaluation serait donc une situation où le taux de
+changeeffectifréelestau-dessusduniveauidéal,tandisquelasous-évaluationseraitexactement
+l’inverse. Il existe en effet un débat sur les déterminants du taux de change d’équilibre, et
+davantage en ce qui concerne l’approche adéquate pour déterminer son niveau, notamment au
+regard des approches proposées dans la littérature (Williamson, 1983; Razin et Collins, 1997;
+Clark et Mc Donald, 1998; ou encore Stein et Allen, 1998).
+Quelle que soit l’approche retenue, il demeure important d’identifier le niveau d’équilibre du
+taux de change afin d’évaluer ses désajustements ou mésalignements. En outre, si la question de
+lanatureidiosyncratiqueounondesmésalignementsenfonctiondurégimedechangeenvigueur
+préoccupe depuis peu les économistes (Coudert et Couharde, 2009; Dubas, 2009), elle n’a pour
+autant pas été suffisamment développée pour parvenir à des résultats utiles pour la politique
+économique. Or, cette question est cruciale pour les pays en développement et notamment ceux
+delaZoneFrancdontlamonnaieestdéfinieselonuneparitéfixeparrapportàl’euro,etquisont
+extrêmement vulnérables aux chocs exogènes enregistrant de faibles performances économiques
+par rapport aux pays émergents.
+Les mésalignements du taux de change sont en général coûteux en termes de croissance
+et surtout d’équilibre extérieur. Lorsqu’ils sont positifs (taux de change surévalué) ils compro-
+mettent les exportations, amenuisent les réserves de change et aggravent le déficit du compte
+courant. La situation peut s’aggraver davantage si le pays concerné a fait le choix d’un ancrage
+nominal rigide. Ce cas de figure a été observé lors de la crise asiatique en 1997 en Malaisie,
+Philippines, Indonésie, en Corée du sud. Il a également été observé en Argentine en 2001 et
+4
+
+--- Page 6 ---
+récemment avec la crise financière en 2008 en Europe et aux Etats Unis1. Par contre, lorsqu’ils
+sont négatifs (taux de change sous-évalué) ils peuvent être source de tension inflationnistes en
+rendant les importations chères et les exportations profitables. La balance courante peut s’en
+trouver améliorée.
+Si les mésalignements concernent donc aussi bien les pays développés que les pays en déve-
+loppement quel que soit leurs régimes de change, on est donc tenté de se poser la question de
+savoir si le choix d’un régime de change permet de limiter durablement les mésalignements du
+taux de change.
+L’objet de cet article est donc de déterminer et comparer les mésalignements du taux de
+change réel pour les pays d’Afrique Subsaharienne répartis en fonction du régime de change
+adopté. L’intérêt d’une telle étude est d’apporter des arguments supplémentaires au débat sur
+le choix d’un régime de change fixe pour les pays africains de la Zone Franc.
+Dans cette perspective, notre démarche repose d’abord sur une double approche théorique
+de détermination du taux de change d’équilibre. Nous proposons ainsi dans un premier temps,
+une équation de type NATREX (Natural Real Exchange Rate) adaptée aux économies en déve-
+loppement, et dans un deuxième temps, une équation de type BEER (Behavioural Equilibrium
+Exchange Rate), qui permet de prouver la robustesse des résultats. Ensuite, sur le plan éco-
+nométrique nous appliquons à la fois les méthodes du groupe médian (Pooled Mean Group),
+ainsi que celle des MCO dynamiques (DOLS)2 et modifiés (FMOLS)3 , pour estimer le taux de
+change d’équilibre tout en testant la robustesse des résultats.
+La suite de l’article est organisée en trois sections. Après avoir évoqué la littérature au sujet
+des mésalignements et de la conduite de la politique de change dans une première section, la
+deuxièmesectionprésenteralaméthodologiededéterminationdesmésalignements.Latroisième
+section s’appesantira sur les méthodes d’estimation ainsi que les résultats comparés en fonction
+du régime de change.
+1 Mésalignements et régime de de change : rappels
+de la littérature
+Très peu d’études ont abordé la question de l’influence du choix du régime de change sur les
+mésalignements du taux de change, toutefois, on peut néanmoins attribuer la paternité d’une
+telle analyse aux travaux de Baxter et Stochman (1989). La question des déterminants du choix
+d’un régime de change ne sera donc pas abordée ici.
+Parmi les études qui analysent les effets des mésalignements, certaines procèdent à des com-
+paraisons des effets en fonction du régime de change choisi. Les premières ébauches d’analyse
+dans ce sens sont celles de Baxter et Stochman (1989) qui montrent à travers un échantillon de
+49 pays que le régime de change influence significativement le comportement des principales va-
+riables macroéconomiques et le commerce international. Leur analyse ne permet cependant pas
+de prendre position sur l’efficacité de régimes fixes ou flexibles en présence de mésalignements.
+1. Pour plus de details, voir Bénassy-Quéré et al (2009) : « Taux de change de l’euro : perspectives à
+moyen et long termes » dans : L’économie mondiale 2009.
+2. Dynamic Ordinary Least Squares.
+3. Fully Modified Ordinary Least Squares.
+5
+
+--- Page 7 ---
+En lien avec les différentes crises véhiculées par les régimes de change fixe, des études se sont
+succédées pour montrer que les régimes de fixité sont en général favorables aux surévaluations
+du taux de change se traduisant ainsi par des appréciations du taux de change réel nuisibles
+à la compétitivité externe et à la balance courante. Ils apparaissent ainsi comme des régimes
+vulnérables aux crises. Valdes (1996), Kasminsky et al. (1998), Burkart et Coudert (2000),
+Bussière et Fratzscher (2006) sont parmi les auteurs ayant contribué à cette analyse. Toutefois,
+ces études n’expliquent pas pourquoi la migration des pays vers des régimes flexibles ne résout
+pas forcément les crises ni les problèmes de mésalignement du taux de change surtout pour les
+pays en développement.
+CoudertetCouharde(2008)essayentdecorrigercettelimiteenanalysantlesmésalignements
+dans 128 pays émergents et en développement en fonction de leurs régimes de change respectifs.
+Selon ces auteurs, les pays émergents ou en développement ayant opté pour un régime de change
+fixe se caractérisent en moyenne par une surévaluation de leur taux de change réel. La suréva-
+luation étant nocive pour la croissance, on serait tenté de penser que les régimes de change fixes
+représentent un véritable frein à l’activité alors même que, les Etats ayant opté pour un régime
+flexible recherchent parfois une dose de fixité pour éviter une très grande volatilité de leur taux
+de change. A ce sujet, Hausmann et al. (1999), Calvo et Reinart (2002, 2003) estiment que les
+régimes de flottement ne protègent pas toujours contre des chocs et peuvent même les amplifier
+augmentant ainsi l’occurrence des mésalignements.
+A l’opposé des précédentes études, certaines montrent que, quel que soit le régime de change
+choisi, les pays développés résistent mieux aux mésalignements du taux de change par rapport
+aux pays en développement. Dubas (2009) montre ainsi que sous certaines conditions, le ré-
+gime de change importe peu face aux effets des mésalignements. Avec un échantillon de 102
+pays développés et en développement, il parvient à conclure que les effets des mésalignements
+seraient asymétriques entre pays développés et pays en développement. Pour lui, les surévalua-
+tionspeuventsérieusemententraverlacroissancedespaysendéveloppementsurtoutlorsqu’elles
+sont persistantes et ce, quel que soit le régime de change adopté, ce qui n’est pas forcément le
+cas des pays développés.
+Ce résultat n’est pas surprenant parce que plusieurs pays développés font reposer leur com-
+pétitivité sur la qualité et non sur le prix. En effet, dans la plupart des pays développés, les
+produits faisant l’objet d’échange international (biens échangeables), sont généralement à très
+forte intensité capitalistique. De ce fait, ils sont demandés beaucoup plus pour leur qualité et
+non nécessairement pour leur prix. L’inverse est relevé en ce qui concerne les pays en dévelop-
+pement qui ont généralement des structures productives essentiellement composées de matières
+premières et fortement dépendantes du prix. Cette analyse a par ailleurs été confirmée par Salle-
+nave(2009)4 quiétablitqueleseffetsdesmésalignementssurlacroissancepeuventêtredifférents
+selon que l’on soit un pays développé ou un pays émergent. Selon cet auteur, les mésalignements
+auraient une plus faible amplitude dans les pays avancés avec une convergence plus faible vers
+le taux de change d’équilibre.
+Danslaplupartdesétudes,unconsensussemblesedégagersurlefaitquelesmésalignements
+du taux de change peuvent avoir des effets tant positifs que négatifs en fonction de leur ampleur.
+En considérant une économie ouverte, des études ont pu montrer qu’une surévaluation du taux
+de change se matérialise par une perte de compétitivité-prix pour les firmes exportatrices de
+biens entrainant une chute de la croissance et un déficit extérieur (Dornbush, 1988; Ghura et
+Greenes, 1993; Razin et Collins, 1997; Easterly, 2005 ) et qu’à l’inverse, une sous-évaluation
+modérée, peut s’accompagner d’une croissance rapide de l’activité économique (Razin et Col-
+4. Le taux de change d’équilibre est estimé suivant l’approche BEER.
+6
+
+--- Page 8 ---
+lins 1997; Rodrik, 2008) due à une augmentation des exportations et un surplus de la balance
+commerciale accompagnée parfois de tensions inflationnistes. D’autres études parviennent à éta-
+blir une relation non linéaire entre les mésalignements et la croissance et ce ne serait que les
+surévaluations très élevées qui affecteraient négativement la croissance (Razin et Collins, 1997).
+2 La méthodologie de détermination des mésaligne-
+ments
+L’évaluation du niveau d’équilibre des taux de change est un préalable à la détermination
+des mésalignements. Il est donc important de porter une attention particulière à l’approche du
+taux de change d’équilibre à retenir, ceci d’autant plus que son caractère idéal fait de lui un
+concept difficile à saisir. Bien que le concept de taux de change d’équilibre remonte à Nurkse
+(1944), il a été popularisé par les travaux de Williamson (1985) et il existe généralement trois
+approches pour sa détermination : une approche macroéconomique avec le FEER5 et le DEER6
+, une approche économétrique avec le BEER7 , et une approche dynamique avec le NATREX8.
+Les résultats du taux de change d’équilibre diffèrent souvent suivant les méthodes utilisées
+c’est la raison pour laquelle nous adoptons une double approche : d’abord, nous proposons une
+équation de type NATREX élaborée en combinant les présentations de Lim et Stein (1995), et
+Bouoiyour et al. (2004), ceci afin de mieux justifier le recours au taux de change effectif réel
+comme substitut au taux de change réel interne, dans les estimations. En guise de comparaison,
+nous appliquons ensuite l’approche du taux de change d’équilibre comportemental (BEER)
+de Clark et Mac Donald (1998), car elle se soumet plus aisément à l’épreuve de l’évaluation
+empirique des taux de change d’équilibre.
+2.1 Le NATREX « Modifié »
+Le « taux de change réel naturel » (Natural Real Exchange Rate ou NATREX) introduit
+par Stein et Allen (1998), correspond au taux de change qui assure l’équilibre de la balance
+des paiements en l’absence des facteurs cycliques et spéculatifs, le taux de chômage étant à son
+niveau du NAIRU (Non Accelerating Inflation Rate of Unemployment)9. Il garantit en d’autres
+termes la réalisation simultanée à long terme des équilibres interne et externe de l’économie10.
+Il constitue de ce fait une référence de premier ordre pour la détermination des mésalignements
+des taux de change en raison de sa caractéristique dynamique.
+En effet, dans sa forme classique, il suggère qu’il est possible de décomposer la trajectoire
+du taux de change suivant trois horizons : le court, le moyen et le long terme. Toutes les condi-
+tions de réalisation de l’équilibre macroéconomique, ainsi que les dynamiques de transition entre
+les différents horizons, sont exprimées par un ensemble d’équations dotées d’un fondement mi-
+5. Williamson (1985)
+6. Artis et Taylor (1993)
+7. MacDonald (1998)
+8. Stein (1997)
+9. Il s’agit en effet d’un taux de chômage naturel ou structurel compatible avec une inflation stable.
+10. Lepremieréquilibrecorrespondàunesituationdecroissancenon-inflationniste,alorsquelesecond
+fait référence à la soutenabilité du compte courant.
+7
+
+--- Page 9 ---
+croéconomique solide. Toutefois, cette présentation a fait l’objet d’un amendement pour tenir
+compte des petites économies ouvertes pour lesquelles la distinction entre biens échangeables et
+biens non échangeables est valide (Lim et Stein, 1995). Le point de départ de cette variante est
+l’idée qu’à long terme, tout excès de l’investissement par rapport à l’épargne nationale doit être
+financé par l’emprunt externe, de sorte que l’équilibre du marché réel coïncide avec l’équilibre
+externe de l’économie, via les variations du taux de change réel.
+Formellement, soit l’équation fondamentale de marché suivante :
+I −S +CA = 0 (1)
+oùI représentel’investissement;S représentel’épargne;etCAreprésentelecomptecourant.
+Sionsupposel’équilibredusystèmeàlapériodeinitiale(S−I = CA),alorstoutchocexternequi
+crée une différence négative entre l’épargne et l’investissement national, provoque par ricochet
+des entrées de capitaux. Ces dernières à leur tour entrainent l’appréciation réelle du change ainsi
+que la détérioration du compte courant jusqu’au retour à la situation d’équilibre initial. Le taux
+de change réel est ainsi la variable qui réalise l’ajustement à l’équilibre de long terme11.
+Précisément, il s’agit du taux de change réel « Interne »12 (e) défini comme le prix relatif
+des biens non échangeables (P ) par rapport à celui des biens non échangeables (P ). Il se défini
+N t
+par la relation () suivante :
+P
+N
+e = (2)
+P
+T
+Une augmentation de (e) traduit une appréciation réelle et vice-versa. En effet, toute baisse
+de la production de biens échangeables engendre, au plan interne, un excès de la demande de
+ces biens avec pour conséquence une augmentation de leur prix et donc l’accroissement du taux
+de change. La description des équilibres interne et externe, respectivement à travers l’équilibre
+du marché des biens non échangeables et l’approche de l’équilibre des stocks à long terme13 ,
+conduit à la formulation suivante du taux de change réel interne d’équilibre (e∗) :
+−
+e∗ = h(g+ ,g− ,[z+r·f],+ ρ) (3)
+N T
+avec g et g les dépenses du gouvernement respectivement en biens non échangeables et
+N T
+en biens échangeables; z représente le montant total net des aides reçues par le gouvernement,
+r est le taux de rendement réel des actifs étrangers exprimés en termes de biens échangeables,
+f est le stock d’actifs nets étrangers et ρ un indicateur de productivité. La relation 3 est une
+expression du taux de change d’équilibre de long terme14 qui n’intègre pas des fondamentaux
+majeurs tels que les termes de l’échange ou encore la politique commerciale. En suivant Baffes
+et al. (1999), elle peut être modifiée afin d’intégrer lesdits fondamentaux. Il s’ensuit l’écriture
+11. Le taux d’intérêt réel ne peut jouer le rôle de variable d’ajustement en raison de l’hypothèse de
+parfaite mobilité des capitaux à long terme qui fait de lui une variable exogène.
+12. Voir par exemple Hinkle et Montiel, 1999.
+13. Le lecteur intéressé pourra se référer à Baffes et al. (1999) ou Khan et Lizondo (1987).
+14. Les signes au-dessus de chaque variable sont ceux des dérivées partielles respectives.
+8
+
+--- Page 10 ---
+suivante :
+e∗ = f(g+ ,g− ,[z+− r·f],+ ρ,− η,τ? ) (4)
+N T
+où η et τ représentent des mesures de politique commerciales et les termes de l’échange
+externes15 respectivement. L’équation 4 signifie que l’augmentation de la dépense publique en
+biensnonéchangeables,celledelaproductivité,ainsiquedesmesuresderestrictioncommerciale,
+entrainent une augmentation de e (appréciation réelle). En effet, l’augmentation de la dépense
+publique en biens non échangeables et les mesures de restriction commerciale, entrainent un
+accroissement de la demande de ces biens et une hausse de leur prix; alors qu’un choc de
+productivité provoque une réduction de l’offre de biens non échangeables et finalement, une
+haussedeleurprix.Parailleurs,uneaméliorationdelabalancecommercialeetuneaugmentation
+des dépenses publiques en biens échangeables engendrent une dépréciation réelle. Quant à l’effet
+des termes de l’échange externes, celui-ci n’est pas connu à priori. D’un côté, l’augmentation
+des termes de l’échange peut se traduire par une augmentation du revenu national en termes de
+biens importés et un effet de dépenses, avec un accroissement de la demande de l’ensemble des
+biens et un accroissement du taux de change réel. D’un autre côté, l’effet de dépenses peut être
+supplanté par un effet de substitution en faveur des biens exportés, avec pour conséquence la
+dépréciation réelle.
+D’un point de vue pratique, certains auteurs estiment l’équation 4 en substituant le taux de
+change effectif réel (TCER) au taux de change réel interne (TCR), afin de pallier la contrainte
+liée à l’indisponibilité des données. Or, un tel procédé est susceptible de biaiser les résultats
+obtenus, car rien ne justifie clairement l’égalité entre le TCER et les fondamentaux du TCR
+interne. Pourtant, l’expression du TCER peut être décomposée de manière à retrouver une
+formulation similaire à celle de l’équation 4. Formellement, soit TCRj le taux de change réel
+t
+bilatéral entre un pays et son partenaire j, TCRj ce même taux à la période de référence, et
+0
+la part du partenaire dans le total des échanges du pays considéré. Le TCER est donné par la
+relation 5 :
+TCER =
+YN " TCR tj#θj
+(5)
+TCRj
+j=1 0
+Avec TCRj = Sj·P ; Sj, P et Pj représentant respectivement le taux de change nominal
+Pj
+coté au certain, les prix des biens domestiques et celui des biens étrangers. En sachant que P
+et Pj peuvent être exprimés en fonction des biens échangeables et non échangeables16 et si l’on
+suppose que P ≡ P et Pj ≡ Pj , on peut encore exprimer le TCR comme suit :
+T X T M
+Sj ·P (P /P )(α−1)
+TCRj = X · T N (6)
+Pj (Pj /Pj )(β−1)
+M M N
+15. Le lecteur intéressé pourra consulter Baffes et al. (1999) p. 412, pour d’amples détails sur l’intro-
+duction de la variable « termes de l’échange externes ».
+16. Respectivement P et P . Le lecteur intéressé pourra consulter Bouoiyour et al. (2004) pour plus
+T N
+de détails.
+9
+
+--- Page 11 ---
+où Pj est le prix des importations du pays considéré en provenance du partenaire j; α
+M
+et β représentent la part du prix des biens échangeables dans le prix domestique et étranger
+respectivement. On note c = Pj /Pj le prix relatif des biens non échangeables étrangers et on
+M N
+admet que ce dernier est égal à 1 en suivant Lim et Stein (1995). En introduisant cette relation
+dans l’équation 5, on obtient une nouvelle expression du TCER :
+TCER = P ·(P /P )(α−1)
+YN " Sj #θj
+=
+TCEN ·P
+X ·e(α−1) (7)
+X T N j=1 P Mj (P M) eff
+où TCEN est le taux de change effectif nominal, TCEN ·P un indice synthétique du prix
+X
+unitaire des exportations du pays considéré, et (P ) un indice synthétique du prix unitaire
+M eff
+des importations de ce pays.
+Finalement,nousobtenonslarelationsuivanteduTCERenfonctiond’unindicateurduprix
+relatif des biens non échangeables :
+TCER = TOT ·e(α−1) (8)
+avec TOT les termes de l’échange. A partir de cette équation, nous procédons à la détermi-
+nation du NATREX de long terme en deux étapes. Nous estimons d’abord un indicateur du prix
+relatif des biens non échangeables d’équilibre e(α−1) en fonction des fondamentaux identifiés par
+l’équation 4, en posant notamment : lne(α−1) = lnTCER−lnTOT.
+EnsuitenousdéterminonsleNATREXdelongtermeproprementditaumoyendelarelation
+suivante :
+lne(α−1) = lnTCER−lnTOT (9)
+Où TOT représente les termes de l’échange d’équilibre.
+Silacomplexitédecetterelationpermetdemieuxexpliciterthéoriquementlarelationquilie
+le taux de change à ses fondamentaux de long terme, elle est cependant susceptible de fragiliser
+les résultats en raison des difficultés d’application qu’elle peut présenter. C’est la raison pour
+laquelle nous lui associons une approche BEER, couramment employée car elle s’appuie sur un
+cadre théorique plus simple qui se soumet plus aisément à l’épreuve de l’évaluation empirique.
+2.2 L’approche comportementale du taux de change d’équilibre
+(BEER)
+Le concept du taux de change d’équilibre comportemental (ou BEER) fait partie de la classe
+des modèles dits de « l’équilibre macroéconomique sous-jacent » Clark et Mac Donald (1998).
+10
+
+--- Page 12 ---
+Contrairementauxautresmodèlesdelamêmeclasse(leFEER17 etleNATREX18 parexemple),
+il s’attache surtout à rendre compte de l’évolution des taux de change de manière empirique.
+Le point de départ de l’analyse est la condition d’équilibre financier définie par la relation
+de parité non couverte des taux d’intérêt. Celle-ci a très souvent servi de base à la modélisation
+du taux de change d’équilibre. Formellement, en considérant un horizon de maturité des titres
+« » et sous l’hypothèse de neutralité au risque, le modèle se décline de la manière suivante :
+E (∆s ) = −(i −i∗) (10)
+t t+k t t
+avec s le logarithme du taux de change nominal coté au certain; i le taux d’intérêt nominal
+t t
+domestique; i∗ le taux d’intérêt nominal étranger; ∆ l’opérateur différence et E l’espérance
+t t
+mathématique. L’intégration du différentiel d’inflation anticipée E (∆p −∆p∗ ) conduit
+t (t+k) (t+k)
+à une relation entre variables réelles. Il s’ensuit l’équation 11 du taux de change réel ex-ante :
+q = E (q )+(r −r∗) (11)
+t t (t+k) t t
+avec r = i −E (∆P ) le taux d’intérêt réel ex-ante; q = s +p −p∗ le taux de change
+t t t (t+k) t t t t
+réel ex-ante. L’équation 11 signifie que le taux de change réel courant q est déterminé par le
+t
+taux de change anticipé de la période t+k E (q ), et le différentiel de taux d’intérêt (r −r∗).
+t (t+k) t t
+Toutefois, E (q ) est interprété comme la composante de long terme du taux de change réel,
+t (t+k)
+résultantdel’influencedesvaleurspasséesdesfondamentauxmoyensetdelongterme.Enposant
+q¯ = E (q ), l’équation 11 devient :
+t t t+k
+q = q¯ +(r −r∗) (12)
+t t t t
+En définitive, selon cette approche, le taux de change courant comprend une composante
+systématique (q¯) à laquelle s’ajoute le différentiel du taux d’intérêt réel. Il importe de noter que
+t
+les facteurs susceptibles d’influencer le taux de change dans le long terme font l’objet d’amples
+discussions dans la littérature. La plupart des auteurs prennent en compte les caractéristiques
+intrinsèques des entités qu’ils étudient, afin d’identifier les fondamentaux du taux de change.
+Dans le cadre de cette étude, nous supposons l’égalité des taux d’intérêt réels à moyen terme,
+de sorte que le taux de change d’équilibre de moyen et long terme soit uniquement déterminé
+par les fondamentaux retenus dans l’équation :
+q¯ = α·Open+β ·Nfa +δ·Prod +γ ·Gov +ω·Tot +θ·Reg1+ρ·Reg2 (13)
+it it it it it
+Dans cette équation, la variable Open est le taux d’ouverture de l’économie, qui reflète
+l’influence de la politique commerciale du pays considéré. Son augmentation engendre une mo-
+dération de la hausse des prix domestiques qui a tendance à déprécier la monnaie (Goldfajn et
+Valdes, 1999). La variable Nfa est la position extérieure nette, définie par les déterminants de
+17. Fundamental Equilibrium Exchange Rate.
+18. Natural Real Exchange Rate.
+11
+
+--- Page 13 ---
+l’épargne et de l’investissement domestiques. On admet qu’il existe une relation positive entre
+cette variable et le TCER. La productivité relative du pays (Prod) permet de capter l’effet
+Balassa-Samuelson. Celui-ci consiste en une appréciation réelle suite à un accroissement de la
+productivité dans le secteur exposé, comparativement au reste du monde. Il existe une relation
+positive entre cette variable et le TCR (Béreau et al., 2010). Gov, représente les dépenses de
+consommationdugouvernement.Onconsidèrequel’essentieldeladépensepubliqueestdestinée
+à l’acquisition de biens non échangeables, de sorte qu’une augmentation de la consommation pu-
+blique entraine une hausse de la demande de ces biens, ce qui conduit à une hausse de leur prix
+et à une appréciation réelle (Chinn, 1999). S’agissant de la variableTot qui représente les termes
+de l’échange, définis comme le rapport des prix des exportations sur les prix des importations,
+il est difficile de déterminer leur effet sur le TCR a priori. Par ailleurs, nous introduisons deux
+variables indicatrices Reg1 et Reg2 , pour capter l’hétérogénéité du panel liée à l’appartenance
+ou non à un régime de change fixe. Ainsi, Reg1 = 1 en cas d’appartenance à un régime de
+change fixe et Reg1 = 0 sinon (inversement pour Reg2 ). En raison de la controverse sur l’effet
+du régime de change sur la volatilité du taux de change réel (Obstfeld et Rogoff, 1995), nous
+n’attendons aucun signe particulier concernant ces variables.
+La méthodologie de détermination des mésalignements qui vient d’être présentée permet de
+procéder aux estimations du taux de change d’équilibre et des mésalignements. Les résultats
+comparés par régime de change sont présentés dans la section suivante.
+3 Les estimations et les résultats comparés par ré-
+gimes de change
+Dans cette section, nous présentons les méthodes d’estimation retenues ainsi que les mésali-
+gnements obtenus, que nous comparons en fonction du régime de change des différents pays.
+3.1 Les méthodes d’estimation
+L’analyse théorique qui précède, montre que le calcul des mésalignements est tributaire de
+la mise en évidence d’une relation de long terme entre le TCER et ses fondamentaux. C’est à
+cette fin que nous recourons principalement à la méthode du groupe médian ou Pooled Mean
+Group (PMG)19 pour déterminer le taux de change d’équilibre. Pour conforter les résultats
+obtenus, nous nous servons également de deux méthodes alternatives, notamment celles des
+MCO Dynamiques (DOLS) et modifiés (FMOLS).
+Le Pooled Mean Group (PMG). Le choix de la principale méthode d’estimation est
+motivéparlesavantagesqu’elleoffred’unpointdevuepratique.Eneffet,l’estimateurduPooled
+Mean Group permet un traitement efficace des panels dynamiques pour lesquels on admet que
+le nombre d’observations temporelles T est aussi grand que celui des individus N20 (Pesaran,
+19. Le lecteur intéressé pourra se référer à (Pesaran, Shin et Smith, 1999).
+20. Il convient de rappeler qu’il existe un grand nombre d’estimateurs en panels dynamiques. Cepen-
+dant, ceux-ci doivent être regroupés selon trois cas bien précis. Le premier est celui des panels composés
+d’unfaiblenombred’individusNpourungrandnombredepériodesT.Danscecas,unmodèleARDLou
+la méthode SUR peuvent servir de base aux estimations. Le deuxième cas est celui d’un grand N et d’un
+12
+
+--- Page 14 ---
+Shin et Smith, 1999). Son atout majeur est la possibilité qu’il offre d’estimer une relation de
+long terme entre différentes variables, sans précautions préalables au sujet de la stationnarité ou
+même l’existence d’une relation de cointégration entre ces dernières. Pour ce faire, l’estimateur
+est conçu sur l’hypothèse que la constante du modèle, de même que les coefficients de court
+terme et les variances des erreurs, peuvent différer selon les individus, les coefficients de long
+terme étant cependant contraints d’être identiques21.
+Formellement, on considère le modèle ARDL(p,q,q,q,...,q)22 suivant :
+p q
+X X 0
+y = λ y + δ X +µ +ε (14)
+it ij i,t−j ij i,t−j i it
+j=1 j=0
+i = 1,2...,N ; t = 1,2,...T
+où X est une matrice de variables explicatives de format (kx1); µ représente les effets fixes
+it
+individuels;lesλ sontdescoefficientsaffectésauxvariablesdépendantesindividuellesretardées
+ij
+(y ), et δ0 est une matrice de scalaires de format (1xk). L’équation 14 peut être reformulée
+i,t−j ij
+afin d’obtenir une représentation à correction d’erreurs qui se révèle plus avantageuse23. En
+empilant toutes les observations par individu «i», l’équation 14 est équivalente à l’équation 15
+suivante :
+p−1 q−1
+∆y = φ y +X β +X λ∗ ∆y +X ∆X δ∗ +µ τ +ε (15)
+i i i,−1 i i ij i,−j i,−j ij i it
+j=1 j=0
+où y = (y ,y ,....,y )0 est une matrice de format (Tx1), X = (X ,...,X )0 une matrice
+i i1 i2 iT i i1 iT
+de format (Txk), et τ = (1,1,1,...,1)0 est une matrice de format (Tx1).
+La différence fondamentale avec les estimateurs alternatifs sus-indiqués réside dans la tech-
+nique d’estimation de la relation de long terme entre les variables considérées.
+Les moindres Carrés Dynamiques (DOLS). Alors que la méthode du PMG impose
+l’égalité stricte des coefficients de long terme individuels, celle des MCO dynamiques propose
+d’inclureenplusdesvariablesexplicatives24,lesvaleursavancéeset/ouretardéesdecesdernières
+(en différences premières), dans le but d’éliminer les nuisances liées à l’endogénéité et à la
+corrélation interindividuelle.
+Formellement, on considère un modèle à effets fixes dont la représentation triangulaire est
+donnée par les équations 16 et 17 :
+faible T. Des estimateurs classiques peuvent ainsi être employés (effets fixes dynamiques, GMM etc.). Le
+dernier cas concerne les panels constitués à la fois d’un grand N et d’un grand T.
+21. Notamment en raison de l’absence d’arbitrage ou encore du rattrapage technologique à long terme.
+22. Auto Regressive Distributed Lags
+23. Pour cela, il suffit d’employer la transformation de Bewley.
+24. Celles-cidoiventnécessairementêtredumêmeordred’intégration.Autrementdit,ellesnesontpas
+tenues d’être stationnaires.
+13
+
+--- Page 15 ---
+0
+y = α +γ x +µ (16)
+1it i it it
+∆x = ν (17)
+it it
+où(y ,x0 )0 = Y estunvecteurdedimension(k+1).Sil’onsupposequelesµ sontcorrélés
+it it it it
+avec au moins p retards ou avances de ν , alors un moyen d’éliminer une telle nuisance consiste
+i it
+à effectuer la projection suivante :
+pt pt
+X 0 X 0
+µ = ϕ ν +η = ϕ ∆x +η (18)
+it i,j i,t−j it i,j i,t−j it
+j=−pt j=−pt
+où ϕ0 représente le vecteur (k +1) de coefficients projetés. En introduisant cette dernière
+ij
+relation dans la relation 16, elle devient :
+pt
+0 X 0
+y = α +γ x + ϕ ∆x +η (19)
+1it i it i,j i,t−j it
+j=−pt
+Au final, l’estimation du vecteur de coefficients β = (γ0,ϕ ,....,ϕ ) s’effectue par les MCO.
+1 N
+Cet estimateur est efficace et converge asymptotiquement vers une loi normale, de même que
+l’estimateur du maximum de vraisemblance (MLE). Comme on peut s’en apercevoir, la correc-
+tion des MCO obtenue par cette technique est sensible aux nombres de décalages introduits
+dans la spécification. C’est pourquoi il est courant dans la pratique de recourir à une correction
+alternative de l’estimateur des MCO en panel.
+Les moindres carrés complètement modifiés (FMOLS). De même que précédem-
+ment,l’estimateurdesMCOcomplètementmodifiés(FMOLS)permetdecorrigerlebiaisasymp-
+totique des MCO25 et le problème de corrélation de long terme, en transformant la variable dé-
+pendante et le terme d’erreur à l’aide d’une matrice de variance-covariance adéquate. Le point
+de départ est la définition d’un vecteur d’innovations w = (µ ,ν0 )0 qui respecte la condition
+it it it
+des erreurs de Philips (1995, p.1030). De cette manière, on définit la matrice Ω des variances
+covariances de long terme associées aux équations 16 et 17, donnée par :
+∞ " #
+Ω = X E(w w0 ) = Ω µ Ω µν (20)
+ij i0 Ω Ω
+νµ ν
+j=−∞
+Ainsi, pour corriger l’estimateur des MCO, on définit les nouvelles variables suivantes :
+25. Le lecteur intéressé pourra consulter Kao et Chiang (2000, p. 6) pour une expression formelle de ce
+biais asymptotique.
+14
+
+--- Page 16 ---
+ µ+ = µ −Ω Ω−1ν
+ it it νµ ν it
+µˆ+ = µ −Ωˆ Ωˆ−1ν (21)
+it it νµ ν it
+ yˆ+ = y −Ωˆ Ωˆ−1ν
+it it νµ ν it
+où le signe « »indique indique l’estimateur efficace de la variable considérée. Par suite, la
+correction de l’équation 16 est donnée par la relation suivante :
+yˆ+ = α +γ0 x +µ −Ωˆ Ωˆ−1ν (22)
+it i it it νµ ν it
+ContrairementaucasdelaméthodeduPMG,lesestimationsbaséessurlesdeuxestimateurs
+alternatifs doivent nécessairement être précédées par la démarche conventionnelle qui consiste
+à vérifier la présence de racines unitaires et l’existence d’une relation de cointégration entre les
+variables.
+Les tests de racine unitaire et de cointégration. Nous procédons aux tests de racine
+unitaire de 1regénération (Maddala et Wu, 1999; Im, Pesaran et Shin, 2003), et 2e génération
+(Pesaran, 2007), ainsi qu’à deux tests de 3egénération (Clemente et al., 1998; Lee et Strazicich,
+2003) afin de prendre en compte la présence de ruptures structurelles. De plus, nous procédons
+aux tests de cointégration : de 1ère génération (Pedroni, 1999), de 2egénération (Westerlund,
+2007), et de 3e génération (Gregory et Hansen, 1996) qui permet de vérifier l’hypothèse d’une
+relation de long terme entre les variables, présence d’une ou plusieurs ruptures structurelles.
+La mise en pratique. Ces précautions préalables nous permettent de procéder à toutes les
+estimations du taux de change d’équilibre. Les données proviennent des bases de données de la
+Banque Mondiale et du FMI (voir tableau I en annexes). Compte tenu de la faible disponibilité,
+nous retenons des proxys pour certaines variables. En particulier, nous ne pouvons distinguer
+les dépenses du gouvernement en biens échangeables, des dépenses de ce dernier en biens non
+échangeables. Par conséquent, nous considérons uniquement la variable « dépenses du gouver-
+nement », mesurée en proportion du PIB. Ainsi, son effet sur le taux de change interne devient
+inconnu a priori. La variable [z+r·f] que nous renommons « Trans », est obtenue par la diffé-
+rence entre le solde courant et le solde commercial à chaque période26. En outre, nous retenons
+comme indicateur de la politique commerciale, le taux d’ouverture de l’économie mesuré par
+le rapport du total des exportations et des importations sur le PIB. Les termes de l’échange
+externes considérés sont ceux des économies avancées27 et les termes de l’échange d’équilibre
+sont obtenus au moyen d’un filtre Hodrick-Prescott. Quant à l’indicateur de productivité, il est
+approximé par le rapport du PIB réel par tête d’un pays sur celui des pays de l’OCDE. Cette
+mesure de la productivité est similaire à celle employée par Baffes et al., (1999) pour le cas de la
+Côte-d’IvoireetduBurkina-Faso.Ilfautcependantrappelerquecomptetenudesdifficultésliées
+à la mesure de cet indicateur, il est courant dans la littérature de considérer le PIB par tête des
+États-Unis comme une mesure approximative de la productivité du reste du monde (Coudert,
+1999), mais cette méthode nous semble limitée en raison du fait qu’elle ne tient véritablement
+pas en compte l’importance de différents partenaires dans les relations commerciales d’un pays.
+26. Conformément à l’approche de l’équilibre des stocks, cette variable est supposée être équivalente
+ausoldecommercialàl’équilibredemoyenterme,lesoldecourantétantnulparhypothèseàcethorizon.
+27. Il convient de préciser qu’il s’agit là d’un choix par défaut, imposé par la disponibilité des données
+dans les différentes bases de données utilisées.
+15
+
+--- Page 17 ---
+Les variables ainsi obtenues nous permettent de procéder aux estimations du NATREX
+(équation 4) et du BEER (équation 13) pour un échantillon de 17 pays d’Afrique subsaharienne,
+pourlapériodeallantde1980à2011.L’échantillonretenuaétéconditionnéparl’inexistencedes
+donnéesrequisespourcertainspaysetsurunepériodeplusrécente.Notonségalementquetoutes
+les variables considérées sont exprimées en logarithmes à l’exception de la position extérieure
+nette qui est exprimée en proportion du PIB.
+Lesrésultatsissusdecesestimationssontexposésci-après.Pourlecalculdesmésalignements,
+lespayssontregroupésselonlerégimedechange(voirtableau8enannexes).Cetteclassification
+est différente de la classification officielle du FMI qui distingue huit types de régimes de change,
+regroupéseux-mêmesenrégimesdechanges:fixes,intermédiairesetflottants.Nousretenonsici:
+les pays de la Zone Franc (régime de change fixe), les pays de l’aire monétaire commune (régime
+de change fixe sans monnaie officielle distincte) et les pays à régimes de change indépendant
+(régime de change flottant). D’une part, ce choix nous permet d’avoir le plus grand nombre de
+pays possibles eu égard à la disponibilité des données, et de couvrir les deux principaux types
+de régimes de change selon les tendances récentes de la pratique en la matière. D’autre part,
+il nous permet de focaliser sur le cas particulier de la Zone Franc et d’enrichir le débat sur la
+solution de régionalisation monétaire en ce qui concerne les pays en développement. En outre, il
+convient de préciser que le regroupement que nous avons effectué n’est pas fortuit. Il est inspiré
+de la classification « brute » de Reinhart et Rogoff (2004).
+À partir des taux de change estimés par les approches NATREX et BEER, nous évaluons
+les mésalignements en pourcentage (%mis) à partir de la formule suivante :
+TCER−TCER
+%mis = ×100 (23)
+TCER
+Avec TCER le taux de change effectif réel et TCER le taux de change réel d’équilibre.
+3.2 Résultats comparés et analyse de robustesse
+Nousprésentonsd’abord lesrésultatsissusdeladéterminationdutauxdechanged’équilibre,
+par approche retenue (NATREX et BEER), et par estimateur (PMG, DOLS et FMOLS; voir
+tableaux 1 et 2). Les résultats des tests de racine unitaire sont présentés en annexes (tableaux
+9, 10 et 13). Les deux premières générations montrent que les variables considérées sont toutes
+intégrées d’ordre 1, à l’exception de la variable NFA. Toutefois, la prise en compte de ruptures
+structurelles à travers les tests de 3egénération (individuel et en panel) permet de lever le doute
+sur l’ordre d’intégration de chacune des variables. Les tests de cointégration quant à eux (ta-
+bleaux 11 et 12 en annexes) illustrent la nécessité qu’il y a à prendre en compte les ruptures
+structurelles. En effet, les deux premières générations de test échouent à prouver l’existence
+d’une relation de long terme, tandis que le test de troisième génération appliqué pour différentes
+combinaisons de variables, prouve bien qu’il y en a au moins une.
+Ensuite, pour justifier de la pertinence de l’estimateur PMG et de nos spécifications, nous
+effectuons un test du ratio de vraisemblance qui prouve la validité du modèle et nous choisissons
+lameilleuredesspécificationspossiblesgrâceauxcritèresd’informationAICetBIC.Enfin,nous
+calculons, pour chaque pays, le pourcentage de mésalignement (%mis) à partir de la formule
+présentée précédemment.
+16
+
+--- Page 18 ---
+3.2.1 Résultats généraux
+Concernantladéterminationdutauxdechangeréeld’équilibre(TCRE),lesrésultatsobtenus
+pour les deux approches (NATREX et BEER) montrent qu’un taux d’ouverture de l’économie
+croissant génère une dépréciation du TCRE, comme chez Dufrenot et Yehoue, (2005), avec
+toutefois une différence d’amplitude sensible en ce qui concerne le modèle NATREX28
+L’existence d’un effet de type Balassa-Samuelson est aussi confortée par notre analyse : une
+amélioration de la productivité dans le secteur exposé conduit à une appréciation du TCRE.
+Cette appréciation29 , est cependant plus importante avec le modèle NATREX (0,16%), qu’avec
+le modèle BEER (0,035%).
+L’effet des dépenses publiques sur le TCRE est quant à lui négatif, quelle que soit l’approche
+retenue. En d’autres termes, l’accroissement des dépenses publiques entraine la dépréciation
+du TCRE. Ce résultat va à l’encontre de la conclusion la plus répandue dans la littérature, à
+savoir qu’une augmentation des dépenses publiques entraine une appréciation du TCRE, sous
+l’hypothèse que celles-ci sont majoritairement dirigées vers le secteur des biens non échangeables
+(Mongardini et Rayner, 2009). La divergence constatée pourrait provenir de la remise en cause
+de cette hypothèse pour les pays étudiés. En effet pour ces derniers, l’augmentation effective de
+la dépense publique ne se traduit pas nécessairement par des variations en termes d’offre et de
+demande de biens non échangeables, dans la mesure où cette dépense est en majorité orientée
+verslaconsommation.Acetitre,etauregarddesrapportsdesorganismescommeTransparency
+International sur le niveau de la corruption dans les pays étudiés, il est possible qu’une partie
+de cette dépense soit captée par une classe privilégiée dont la consommation est orientée vers
+les produits de luxe et de haute technologie30.
+En outre, conformément aux attentes théoriques, l’accroissement de l’écart entre le compte
+courant et la balance commerciale (accroissement de la variable Trans), entraine une appré-
+ciation du TCRE. L’amélioration des termes de l’échange, aussi bien externes que nationaux,
+entraineuneappréciationréelle,cequisuggèrequ’ilyauraitunesupérioritédel’effetdedépense
+dans l’ensemble des pays étudiés. Une telle conclusion a déjà été confirmée par les travaux de
+Bouoiyour et al. (2004), ou encore Coudert et al. (2012). De même, l’effet de la position ex-
+térieure nette est négatif contrairement à nos attentes théoriques et aux résultats obtenus par
+Aydin (2010) ou encore Elbadawi, et al. (2012)31 . Précisément, notre résultat montre que la
+hausse de 1% de la position extérieure nette (creusement du déficit pour les pays débiteurs)
+génère 0.005% de dépréciation réelle de la monnaie locale. Une explication plausible à ce résul-
+tat semble provenir de la préférence nationale pour les biens échangeables étrangers. En effet,
+si cette préférence est avérée, un transfert en direction du pays domestique génère un effet de
+richessequiaccroitlademandedebienséchangeablesétrangersetdéprécielamonnaienationale.
+Cependant,encequiconcernelestermesdel’échangeexternes,ilimportedepréciserqu’ilexiste
+un doute sur l’interprétation des effets de cette variable, en raison de l’incertitude qui existe au
+sujet du sens de la causalité avec le TCRE.
+28. Dufrenot et Yehoue, 2005) observent 0,2% de dépréciation contre 0,81% pour notre modèle NA-
+TREX.
+29. Voir entre autres : Chinn (1999), Coudert (1999) et Elbadawi et al. (2012).
+30. Selonl’agenceTransparencyInternational,danslespaysendéveloppement,ladépensepubliquefait
+l’objet de détournements massifs à des fins d’enrichissement personnel. C’est ce que montre notamment,
+à travers les indices de perception de la corruption (IPC) des années 2013 et 2014 (le classement est
+consultable à l’adresse : www.transparency.org/cpi).
+31. Pour information, chez Elbadawi et al. (2012), la valeur du coefficient considéré est de 0.0037.
+17
+
+--- Page 19 ---
+Tableau 1 – Estimation du taux de change d’équilibre (approche de type
+NATREX)a
+Pooled Mean Group (PMG)
+ARDL (1,1,2,3,2,1)
+Taux d’ouverture de l’économie -0.81***
+(-7.46)
+Termes de l’échange externes 1.04***
+(7.84)
+Productivité 0.16***
+(3.33)
+Dépenses du gouvernement -0.53***
+(-3.66)
+Trans 0.02**
+(2.16)
+Coefficient d’ajustement -0.11***
+(-2.69)
+a Source : construction des auteurs. *, ** et *** indiquent respec-
+tivement la significativité à 10%, 5% et 1%.
+Tableau 2 – Estimations du taux de change d’équilibre TCER (approche BEER)a
+Estimateurs
+Variables Pooled Dynamic Fully Modi-
+Mean Ordinary fied Ordinary
+Group Least Squares Least Squares
+(PMG) (DOLS) (FMOLS)
+ARDL
+(1,1,2,1,1,1,1,1)
+Productivité 0.28*** 0.035** 0.044*
+(4.55) (2.23) (1.83)
+Position extérieure nette -0.005** -0.003* -0.023***
+(-1.96) (-1.73) (-3.10)
+Termes de l’échange 0.26*** 0.145*** 0.106*
+(3.46) (4.34) (1.85)
+Taux d’ouverture de l’économie -0.15** -0.130*** -0.100**
+(-2.19) (-4.88) (-2.48)
+Dépenses du gouvernement -0.24** 0.019 -0.478*
+(-2.31) (0.65) (-1.77)
+Reg1 (régime fixe) 5.58*** 4.696*** 4.782***
+(11.26) (20.18) (12.51)
+Reg2 (régime flottant) 5.99*** 4.876*** 5.043***
+(11.65) (20.13) (12.72)
+Coefficient d’ajustement -0.11** _ _ _ _ _ _
+(-2.00)
+a Source : construction de l’auteur. *, ** et *** indiquent respectivement la significativité à 10%, 5% et 1%.
+18
+
+--- Page 20 ---
+Bien que les résultats obtenus par les estimateurs DOLS et FMOLS confirment globalement
+ceux de l’estimateur PMG, il convient de juger de la validité de ce dernier. Pour ce faire, nous
+testons l’hypothèse d’égalité des coefficients à long terme (tableau 3). De plus, nous validons le
+choix du nombre de retards optimal pour chaque variable à l’aide des critères d’information AIC
+et BIC. Ce choix porte sur plusieurs spécifications significatives, ce qui permet de ne retenir que
+celles qui minimisent les valeurs de ces critères (tableau 4).
+Tableau 3 – Test LR de validité du modèle PMGa
+Hypothèse nulle : Égalité des coefficients à long terme Statistique de test Probabilité
+Chi2 (75) -224.02 1.00
+a Source : Estimation des auteurs
+Tableau 4 – Sélection de la meilleure spécification PMGa
+Critère d’information Spécifications significatives du modèle NATREX
+ARDL (1, 1, 2, 3, 2, 1) ARDL (1, 1, 2, 3, 2, 1) ARDL (1, 1, 2, 3, 4, 1)
+AIC -404.61* -378.92 -393.51
+BIC -362.56* -366.83 -351.88
+Spécifications significatives du modèle BEER
+ARDL (1,1,2,1,1,1,1,1) ARDL (1,3,3,1,1,1) ARDL (1,1,1,1,3,1,1)
+AIC -986.7505* -679.807 -901.1081
+BIC -933.771* -642.6848 -855.6886
+a Source : Estimation des auteurs. * indique la valeur la plus faible des critères retenus.
+3.3 Analyse des mésalignements du taux de change
+S’agissant des mésalignements proprement dits, les valeurs moyennes des différents pays en
+fonction de leur régime de change sont consignées dans le tableau 5. En guise d’illustration, les
+différents taux de change d’équilibre estimés sont représentés en fonction des régimes de change
+dans les graphiques 1 et 2. On peut ainsi observer qu’il n’y a pas une logique d’évolution des
+mésalignementsenfonctiondesrégimesdechangedesdifférentspaysétudiés.End’autretermes,
+les surévaluations et sous-évaluations des taux de change sont autant présents dans les pays à
+régimes de change fixe que dans les pays à régime de change flottant.
+Onobservecependantquelepourcentagemoyendemésalignementestplusélevéaveclemo-
+dèle NATREX, mais les différentes valeurs moyennes n’autorisent aucune conclusion intuitive
+sur l’efficacité d’un régime de change particulier. C’est la raison pour laquelle nous procédons
+au test de comparaison des moyennes (tableau 6), lequel ne laisse pas apparaitre une différence
+significative dans le pourcentage moyen de mésalignements, entre les pays appartenant à une
+zone monétaire (changes fixes) et ceux à régimes de changes flottants. Ce résultat est similaire
+à celui de Dubas (2009) pour le cas des économies développées. Ce dernier montre en effet que
+pour les pays considérés, le choix d’un régime de change importe peu pour limiter les mésali-
+gnements. Toutefois, un autre argument peut être la situation de price taker des pays africains
+combinée à une structure productive peu diversifiée. En effet ces pays sont principalement pro-
+ducteurs des matières premières dont les prix sont libellés en devises et fixés sur les marchés
+internationaux. Cette caractéristique commune peut justifier les similitudes observées au niveau
+du mésalignement des pays regroupés au sein d’une union monétaire et ceux qui ne le sont pas.
+19
+
+--- Page 21 ---
+Tableau 5 – Pourcentage moyen de mésalignements par paysa
+Pays Pourcentage moyen de mésalignement
+BEER
+Pays de la Zone Franc NATREX
+PMG DOLS FMOLS
+Cameroun -0.38 -0.015 -0.557 -1.271
+Centrafrique -12.24 5.51 0.491 -0.413
+Gabon 6.72 -5.67 -2.603 -2.890
+Guinée-Équatoriale 87.38 -1.66 -2.901 -1.851
+Côte-d’Ivoire 2.08 -3.07 1.624 0.823
+Togo 26.25 11.54 1.187 1.349
+Pays de l’Aire Monétaire Commune
+Afrique du Sud 2.53 -6.24 -2.692 -2.908
+Lesotho 12.34 24.06 4.789 4.390
+Pays à régime de change indépendant
+Burundi 0.64 5.58 -0.691 -0.479
+R.D Congo — 14.04 8.495 9.268
+Gambie 21.32 4.69 2.903 4.260
+Ghana 12.29 3.91 3.475 4.773
+Malawi 21.36 8.07 1.244 2.324
+Sierra Leone — 1.48 -2.032 -2.135
+Ouganda -3.06 1.28 -1.655 -0.685
+Zambie 8.54 -9.43 -9.150 -8.615
+a Estimation des auteurs
+Tableau 6 – Test de comparaison des moyennesa
+NATREX BEER
+Moyenne Écart-type
+Moyenne Écart-type PMG DOLS FMOLS PMG DOLS FMOLS
+Paysàrégimedechangefixe(Fixe) 10.72 1.72 3.39 0.401 0.532 11.41 5.78 6.43
+Paysàrégimedechangeindépendant(Flexible) 10.87 1.26 3.32 0.055 0.887 10.72 10.74 11.01
+Hypothèsealternative: Probabilité
+Différencedemoyenne Probabilité PMG DOLS FMOLS
+Flexible-Fixe<0 0.53 0.472 0.659 0.339
+Flexible-Fixe6=0 0.94 0.944 0.681 0.678
+Flexible-Fixe>0 0.47 0.528 0.341 0.661
+aSource:Constructiondesauteurs.
+20
+
+--- Page 22 ---
+(a)
+(b)
+Graphique 1 – Taux de change d’équilibre (régime de change fixe)
+21
+
+--- Page 23 ---
+(a)
+(b)
+(c)
+Graphique 2 – Taux de change d’équilibre (régime de change flexible)
+22
+
+--- Page 24 ---
+Conclusion
+L’objectif de cette étude était de vérifier si le régime de change constitue un facteur de
+limitation des mésalignements, à partir du cas des pays d’Afrique subsaharienne. Il apparait que
+les mésalignements sont indépendants du régime de change en vigueur dans les pays concernés.
+En d’autres termes, il n’existe pas de régime de change qui permette de les limiter durablement.
+Une telle conclusion représente, à notre sens, un élément supplémentaire d’analyse dans le débat
+portant sur le devenir des pays membres de la Zone Franc. Ceux-ci ont en effet été préoccupés
+par le phénomène d’appréciation de l’euro, supposé préjudiciable à leurs économies en termes de
+compétitivité prix (court terme), et qui a conduit certains économistes à envisager la solution
+de sortie de l’union monétaire pour migrer vers un régime de change flottant. Notre résultat
+montre alors que cette solution n’est pas fondée, ceci d’autant que des travaux antérieurs ont
+montré pour le cas de la Zone Euro que les évolutions de l’euro ne sont pas à l’origine des
+mésalignements observés dans la zone (Gnimassoun, 2014). Et même si l’arrimage à un panier
+demonnaiespeutsemblerêtreunealternativenonnégligeablepourlaZoneFranc,cettesolution
+ne saurait résoudre les problèmes structurels qu’ont les pays africains.
+La principale recommandation qui émane d’un tel travail vise à interpeller les autorités des
+paysdel’Afriquesubsahariennesurlanécessitédemettredavantaged’accentsurlacompétitivité
+qualité(structurelle).Si les mésalignementsn’affectentpassignificativementlespaysdéveloppés
+(Dubas,2009),c’estsansdouteparcequecesderniersutilisentdavantagelacompétitivitéqualité
+dans leurs stratégies commerciales. Il s’agit en effet d’une compétitivité de long terme « hors-
+prix » qui représente la capacité d’une économie à être concurrente sur le plan international par
+des moyens autres que le prix. Il est question ici d’opérer une transformation structurelle des
+économies en mettant l’accent sur la diversification des structures productives, mais surtout sur
+laqualitédesproduitstouteninsistantsurl’imageetlaréputationvéhiculéessurlesmarchés.Un
+produitdebonnequalité,etvenduparuneentitéréputéepoursonsavoir-faireetsonexpérience,
+trouvera toujours des acheteurs potentiels quel que soit le régime de change et même en cas de
+surévaluation de la monnaie.
+Ce travail éclaire également le débat sur la Zone Franc et son choix du régime de change
+fixe car les pertes ou gains de compétitivité induits par les mésalignements ne dépendent pas
+du régime de change choisi mais davantage des caractéristiques intrinsèques et structurelles des
+pays. Contrairement aux pays asiatiques (Malaisie, Philippines, Indonésie, Corée du sud) qui
+ont subi de plein fouet la crise de la fin des années 90 en partie à cause de leur régime de change
+fixe et des mésalignements de leurs taux de change, la particularité du régime de change des
+pays de la Zone Franc réside au niveau des accords monétaires internationaux qu’ils ont signés
+et qui donnent une marge de manouvre à la banque centrale. Cette particularité représente un
+atout pour les pays de la Zone Franc qu’ils se doivent de conserver tant que leurs structures
+économiques et financières ne seront pas suffisamment diversifiées et développées pour faire face
+à une réelle concurrence internationale.
+23
+
+--- Page 25 ---
+Références
+[1] Aydin, B. (2010); «Exchange Rate Assessment for Sub-Saharan Economies.» : IMF Wor-
+king Paper N°10/162, International Monetary Fund
+[2] Baffes, J., Elbadawi, I. A. & O’Connell, S. D. (1999); «Single-Equation Estimation of the
+Equilibrium Real Exchange Rate.» : Dans Hinkle, L. & Montiel, P. (Rédacteurs) Exchange
+rate misalignment Concepts and Measurement., The World Bank, Washington D.C.
+[3] Bouoiyour, J., Marimoutou, V. & Rey, S. (2004); «Taux de change réel d’équilibre et poli-
+tique de change au Maroc? : une approche non paramétrique.» : Economie Internationale,
+97, p. 81–104
+[4] Béreau, S., Villaviciencio, A. & Mignon, V. (2010); « Nonlinear adjustment of the real
+exchange rate towards its equilibrium value : A panel smooth transition error correction
+modelling.» : Economic Modelling, 27(1), p. 404–416
+[5] Chinn, M. D. (1999); «Productivity, Government Spending and the Real Exchange Rate :
+Evidence for OECD Countries.» : Dans Mac Donald, R. & Stein, J. (Rédacteurs) Equili-
+brium Exchange Rates, (p. 163–190), Springer Netherlands
+[6] Clark, P. B. & Mac Donald, R. (1998); «Exchange Rates and Economic Fundamentals : A
+MethodologicalComparisonofBEERsandFEERs»:SSRN Scholarly Paper N°ID 882342,
+Social Science Research Network, Rochester, NY
+[7] Clemente, J., Montanes, A. & Reyes, M. (1998); «Testing for a unit root in variables with
+a double change in the mean» : Economics Letters, 59(2), p. 175–182
+[8] Coudert, V. (1999); «Comment définir un taux de change d’équilibre pour les pays émer-
+gents?» : Economie Internationale, 77, p. 45–66
+[9] Coudert,V.&Couharde,C.(2009);«CurrencyMisalignmentsandExchangeRateRegimes
+in Emerging and Developing Countries » : Review of International Economics, 17(1), p.
+121–136
+[10] Couharde, C., Coulibaly, I. & Damette, O. (2012); «La dynamique d?ajustement des taux
+de change réels dans la Zone Franc CFA» : Revue Economique, 63(3), p. 545–555
+[11] Dubas, J. (2009); « The importance of exchange rate regime in limiting misalignment » :
+World Development, 37(10), p. 1612–1622
+[12] Dufrénot, G. & Yehoue, E. B. (2005); «Real Exchange Rate Misalignment : A Panel Co-
+Integration and Common Factor Analysis » : SSRN Scholarly Paper N°ID 888033, Social
+Science Research Network, Rochester, NY
+[13] Edwards,S.(1989);Real exchange rates, devaluation, and adjustment : exchange rate policy
+in developing countries : The MIT Press, Cambridge Mass and London
+[14] Elbadawi, I. A., Kaltani, L. & Soto, R. (2012); «Aid, Real Exchange Rate Misalignment,
+and Economic Growth in Sub-Saharan Africa.» : World Development, 40(4), p. 681–700
+[15] Gnimassoun, B. (2014); « Mésalignements du Franc CFA et influence de la monnaie
+ancre.» : Economie & Prévision, 200-201(2), p. 91–119
+[16] Goldfajn, I. & Valdes, R. (1999); «The afthermath of appreciations.» : Quarterly Journal
+of Economics, (114), p. 229–262
+24
+
+--- Page 26 ---
+[17] Gregory, A. W. & Hansen, B. E. (1996); «Residual-based tests for cointegration in models
+with regime shifts.» : Journal of Econometrics, 70(1), p. 99–126
+[18] Hinkle,L.&Montiel,P.(1999);Exchange Rate Misalignment : Concepts and Measurement
+for Developing Countries. : Oxford University Press
+[19] Im, K. S., Pesaran, M. H. & Shin, Y. (2003); « Testing for unit roots in heterogeneous
+panels.» : Journal of Econometrics, 115(1), p. 53–74
+[20] Kao, C. & Chiang, M. H. (2000); « On the estimation and inference of a cointegrated
+regression in panel data. » : Dans Baltagi, B. (Rédacteur) Advances in Econometrics :
+Non stationary Panels, Panel Cointegration and Dynamic Panels., tome 15, (p. 179–222),
+Elsevier Science, Amsterdam
+[21] Khan, M. S. & Lizondo, J. S. (1987); «Devaluation, Fiscal Deficits, and the Real Exchange
+Rate.» : World Bank Economic Review, 1(2), p. pp. 357–374
+[22] Lee, J. & Strazicich, M. C. (2003); « Minimum Lagrange Multiplier Unit Root Test with
+Two Structural Breaks.» : The Review of Economics and Statistics, 85(4), p. 1082–1089
+[23] Lim, G. & Stein, J. (1995); « The dynamics of the real exchange rate and the current
+account in a small open economy : Australia.» : Dans Stein, J. & Mac Donald, R. (Rédac-
+teurs) Equilibrium Exchange Rates, Kluwer Academic Publishers, Massachussets
+[24] Maddala, G. & Wu, S. (1999); «A Comparative Study of Unit Root Tests with Panel Data
+andaNewSimpleTest.»:Oxford Bulletin of Economics and Statistics,61(S1),p.631–652
+[25] Mongardini, J. & Rayner, B. (2009); « Grants, Remittances, and the Equilibrium Real
+ExchangeRateinSub-SaharanAfricanCountries.»:InternationalMonetaryFundWorking
+Paper N°09/75, International Monetary Fund
+[26] Ng, S. & Perron, P. (1997); «Estimation and inference in nearly unbalanced nearly coin-
+tegrated systems.» : Journal of Econometrics, 79(1), p. 53–81
+[27] Obstfeld,M.&Rogoff,K.(1995);«ExchangeRateDynamicsRedux»:JournalofPolitical
+Economy, 103(3), p. 624–660
+[28] Pedroni, P. (1999); «Critical Values for Cointegration Tests in Heterogeneous Panels with
+Multiple Regressors.» : Oxford Bulletin of Economics and Statistics, 61, p. 653–670
+[29] Perron, P. (1989); « The Great Crash, the Oil Price Shock, and the Unit Root Hypothe-
+sis.» : Econometrica, 57(6), p. 1361–1401
+[30] Pesaran, M. H. (2007); « A simple panel unit root test in the presence of cross-section
+dependence.» : Journal of Applied Econometrics, 22(2), p. 265–312
+[31] Pesaran,M.H.,Shin,Y.&Smith,R.(1999);«PooledMeanGroupEstimationofDynamic
+Heterogeneous Panels.» : Journal of the American Statistical Association, 94(446), p. 621–
+634
+[32] Phillips, P. (1995); «Fully Modified Least Squares and Vector Autoregression.» : Econo-
+metrica, 63(5), p. 1023–1078
+[33] Reinhart, C. (2004); «The Modern History of Exchange Rate Arrangements : A Reinter-
+pretation.» : The Quarterly Journal of Economics, 119(1), p. 1–48
+25
+
+--- Page 27 ---
+[34] Rodrik, D. (2008); «The Real Exchange Rate and Economic Growth» : Brookings Paper
+on Economic Activity, 39(2), p. 365–439
+[35] Stein, J. & Allen, P. (1998); Fundamental Determinants of Exchange Rates. : Oxford Uni-
+versity Press
+[36] Thibault, F., Couharde, C. & Borowski, D. (1998); « Les taux de change d’équilibre fon-
+damentaux? : de l’approche théorique à l’évaluation empirique.» : Revue Française d’éco-
+nomie, 13(3), p. 177–206
+[37] Westerlund, J. (2007); «Testing for Error Correction in Panel Data.» : Oxford Bulletin of
+Economics and Statistics, 69(6), p. 709–748
+[38] Williamson, J. (1983); The Exchange Rate System. : The MIT Press, Washington D.C.,
+Cambridge Massachussets
+26
+
+--- Page 28 ---
+Annexes
+Tableau 7 – Description des variablesa
+Variables Description
+Open Taux d’ouverture de l’économie
+Nfa Position extérieure nette
+Prod Indicateur de productivité, approximée par le ratio du PIB réel
+par tête d’un pays sur celui des pays de l’OCDE (Baffes et al.
+[1999])
+Gov Dépenses de consommation du gouvernement en proportion du
+PIB.
+Tot Termes de l’échange
+Trans Différence entre solde courant et solde commercial à chaque pé-
+riode.
+a Source :WorldDevelopmentIndicators2014(BanqueMondiale);International
+Financial Statistics 2012 (Fonds Monétaire International).
+Tableau 8 – Regroupement des pays
+Groupes Noms des pays
+Groupe de pays appartenant à un ré- Cameroun, République Centrafricaine, Côte
+gime de change fixe d’Ivoire,Gabon,GuinéeÉquatoriale,Lesotho,
+Togo
+Groupe de pays à régime de change in- Burundi,Congo,Gambie,Ghana,Malawi,Ni-
+dépendant gériaSierraLeone,Ouganda,Zambie,Afrique
+du Sud
+27
+
+--- Page 29 ---
+Tableau 9 – Tests de racine unitaire de 1regénérationa
+Test de Maddala et Wu (1999) Test de IPS (2003)
+Variables en niveau
+Retards Sanstrend Avectrend Retards Sanstrend Avec
+trend
+1 0.053 0.009** 1 0.048** 0.154
+TCER
+2 0.147 0.453 2 0.105 0.432
+1 0.089 1.000 1 0.029** 1.00
+PROD
+2 0.042** 1.000 2 0.008** 1.00
+1 0.160 0.028** 1 0.603 0.066
+NFA
+2 0.958 0.296 2 0.789 0.068
+1 0.480 0.885 1 0.694 0.825
+TOT
+2 0.00** 0.010** 2 0.603 0.764
+1 0.171 0.008** 1 0.019** 0.012**
+OPEN
+2 0.441 0.012** 2 0.078 0.019
+1 0.066 0.111 1 0.052 0.048**
+GOV
+2 0.245 0.733 2 0.165 0.417
+Variables en différences premières
+Retards Sanstrend Avectrend Retards Sanstrend Avec
+trend
+D.TCR; D.OPEN; D.PROD; D.GOV; D.TOT; D.NFA 1,2 0.00** 0.00** 1,2 0.00** 0.00**
+aNOTE:Danscetableau,lesvaleursindiquéesreprésententlesp-values.**indiquentqu’auseuilde5%,onnepeutrejeterl’hypothèse
+alternatived’absencederacineunitaire.
+Tableau 10 – Tests de racine unitaire de 2egénérationa
+Test CIPS de Pesaran (2007)
+Variables en niveau Retards Sans trend Avec trend
+1 0.016** 0.461
+TCER
+2 0.117 0.810
+1 0.000** 0.004**
+PROD
+2 0.009** 0.339
+1 0.070 0.593
+NFA
+2 0.667 0.985
+1 0.242 0.018**
+TOT
+2 0.708 0.202
+1 0.001** 0.092
+OPEN
+2 0.032** 0.450
+1 0.046** 0.021**
+GOV
+2 0.526 0.823
+Variables en différences
+Retards Sans trend Avec trend
+premières
+D.TCR; D.OPEN
+D.PROD; D.GOV; D.TOT 1, 2 0.00** 0.00**
+D.NFA 1, 2 0.00** 0.289
+a NOTE : Dans ce tableau, les valeurs indiquées représentent
+les p-values. ** indiquent qu’au seuil de 5%, on ne peut rejeter
+l’hypothèse alternative d’absence de racine unitaire
+28
+
+--- Page 30 ---
+Tableau 11 – Tests de cointégration de 1reet 2egénérationa
+Variables indépendantes :
+Variable dépendante : TCER
+PROD, NFA, TOT, OPEN, GOV
+Test de Pedroni (1999) Test de Westerlund (2007)
+Statistique Statistique
+Panel Group Coefficient Probabilité robuste
+de test de test
+ν -1.311 — G -1.019 1.00
+t
+ρ 2.279 3.758 G -3.177 1.00
+α
+t -1.1 -0.886 P 0.551 1.00
+t
+adf -0.412 0.697 P 0.374 1.00
+a
+a Note : L’hypothèse nulle des deux tests est l’absence de cointégration pour l’en-
+semble de l’échantillon. Ainsi, et testent l’hypothèse alternative de cointégration
+pour au moins un individu, tandis que et testent la cointégration pour l’ensemble
+de l’échantillon. La probabilité robuste est obtenue par bootstrap pour tenir compte
+de la corrélation interindividuelle.
+Tableau 12 – Test de cointégration avec rupture structurelle (Gregory et Hansen, 1996)
+Variable dépendante : TCER
+Variables indépendantes Statistique minimale de test Date de rupture minimale
+PROD, NFA, TOT, OPEN -7.821 1984 (Nigéria)
+PROD, NFA, TOT, GOV -7.535 1991 (Ghana)
+PROD, NFA, TOT, TRANS -7.846 2005 (Ghana)
+PROD, OPEN, TOT, TRANS -7.631 1996 (Ghana)
+Note : L’hypothèse nulle du test est l’absence de cointégration pour l’ensemble de
+l’échantillon. Pour effectuer le test, nous sélectionnons le nombre de retards optimal
+par la procédure dite « general-to-specific », puis nous effectuons l’estimation sur la
+base du modèle sans trend avec changement de régime (C/S). La statistique obtenue
+est à comparer aux seuils critiques de -6.920 et -6.410 respectivement à 1% et 5%.
+29
+
+--- Page 31 ---
+Tableau 13 – Test de racine unitaire de 3egénérationa
+TestindividueldeClementeetal.1998
+Variablesenniveau TCER PROD NFA TOT OPEN GOV
+Pays t-statistique Datesderupture t-statistique Datesderupture t-statistique Datesderupture t-statistique Datesderupture t-statistique Datesderupture t-statistique Datesderupture
+Cameroun -0,878 1985,1991 -5,007 1991,1996 -2,946 1987,2003 -6,079** 2001,2005 -4,422 2002 -3,375 2003
+Centrafrique -2,421 1991,1995 -4,15 1991,1995 -2,545 1991,2 -6,07** 1995,1999 -1,749 1989,1991 -5,711** 1992,2004
+Côte-d’Ivoire -1,156 1986,1991 -4,412 1985,1991 -5,162 1995,2003 -3,154 1990,2001 -4,337 2001 -4,888 1994
+Guinée-Équatoriale -4,829 1991,2003 -3,423 1998,2004 -3,611 1996,2003 -3,639 2000,2006 -3,408 1992 -5,431 1996,2001
+Gabon -6,837** 1991,1995 -2,156 1988 -5,357 1986,2004 -4,154 1987,2007 -3,76 1985,199 -3,234 1990,2001
+Togo -5,048 1991 -4,522 1990 -5,03 1993,2001 -2,427 1998,2002 -2,18 1991,1995 -6.627** 1985,1995
+AfriqueduSud -5,96** 1986,1997 -1,792 1987,1995 -4,014 2003 -3,342 2005 -1,616 1997,2003 -2.703 1986
+Lesotho -1,274 1997,2000 -1,231 2005 -4,968 1994 -6,965** 1985,2004 -5,275 1989 -0,747 1984,1988
+Burundi -3,714 1987,2000 -4,16 1989,1995 -4,217 1990,1999 -1,131 1986,1997 -5,436 2004 -5,493** 1989,2004
+R.DCongo -5,592** 1985 -3,031 1991,1996 -8,873** 1995,2006 -4,262 2000 -4,441 2003 -1,473 2005
+Gambie -5,114 1985,2004 -3,16 2000 -0,404 1989 -0,957 1985 -4,19 1992,2003 -4,466 1982,1995
+Ghana -5,889** 1985,1991 -3,19 1989,2007 -2,613 1992,2003 -3,589 1990,2003 -4,039 1998 -5,136 1988
+Malawi -6,85** 1991,2002 -3,766 1985,1991 -4,023 1992 -4,357 1989,1999 -7,027 1988,2005 -1,637 —
+Nigéria -6,377** 1988 -3,035 1987,2003 -3,352 2000 -3,801 1985,2001 -4,229 1985,2001 — —
+SierraLeone -6,151** 1988 -1,543 1982,1987 -2,02 1984,1997 -3,195 2004 -5,572** 1994,2001 -3.586 1995
+Ouganda -4,673 1990 -4,367 1990 -4,136 1994,2 -0,68 1988,1999 -3,426 1987,1993 -3.606 1993
+Zambie -5,304 1982,2003 -3,469 1991,2005 -4,721 1992 -2,274 1988 -4,453 1992,1995 -2.999 1991,2005
+TestLMenpaneldeLeeetStrazicich(2003)
+Variables NombremaximaldeRetards CoefficientdeS(-1) StatistiqueLM
+TCER 6 -1.3075 -3.7237
+D.NFA 0 -0.6557 -2.9911
+Note:Danscetableau,**indiquentqu’iln’estpaspossiblederejeterl’hypothèsealternatived’absencederacineunitaireavecchangementstructurel.Letestindividuelesteffectuéàpartirdumodèlestructureadditive,aveckmax=5.Ainsi,
+auseuilde5%,lesstatistiquescalculéessontàcompareràlavaleurtabuléecorrespondante,c’est-à-dire5,490.Quantautestenpanel,ilesteffectuéàpartirdumodèle«C»,aveclaprocéduredite:«General-to-specific»dePerron(1989)et
+NgetPerron(1997).Lastatistiquecalculéeestdoncàcomparerà-5,823;-5,286et-4,989à1%,5%et10%respectivement.Uneplusgrandeprécisionpourraitêtreobtenueenconsidérantlalocalisationdelarupture,maiscelle-cinemodifiepas
+laconclusiondutest.
+30

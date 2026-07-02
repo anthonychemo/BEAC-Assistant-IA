@@ -1,0 +1,7 @@
+Source PDF : Statistiques_mensuelles_du_marché_des_valeurs_du_trésor_de_la_CEMAC_-_N°_48_Juillet_2025_414bd516.pdf
+Chemin original : scraping\beac_data\M Des Titres Publics\Statistiques Mensuelles Marche Valeurs Tresor\Statistiques_mensuelles_du_marché_des_valeurs_du_trésor_de_la_CEMAC_-_N°_48_Juillet_2025_414bd516.pdf
+Date extraction : 15/06/2026 22:30:20
+======================================================================
+
+[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
+Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

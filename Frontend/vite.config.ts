@@ -12,11 +12,41 @@ export default defineConfig(() => {
       },
     },
     server: {
-      // HMR is disabled in AI Studio via DISABLE_HMR env var.
-      // Do not modifyâfile watching is disabled to prevent flickering during agent edits.
       hmr: process.env.DISABLE_HMR !== 'true',
-      // Disable file watching when DISABLE_HMR is true to save CPU during agent edits.
       watch: process.env.DISABLE_HMR === 'true' ? null : {},
+      proxy: {
+        // POST /api/chat/stream -> POST /query/stream  (AVANT /api/chat)
+        '/api/chat/stream': {
+          target: 'http://localhost:8000',
+          changeOrigin: true,
+          rewrite: () => '/query/stream',
+        },
+        // POST /api/chat -> POST /query
+        '/api/chat': {
+          target: 'http://localhost:8000',
+          changeOrigin: true,
+          rewrite: () => '/query',
+        },
+        // POST /api/cache/clear -> POST /cache/clear
+        '/api/cache/clear': {
+          target: 'http://localhost:8000',
+          changeOrigin: true,
+          rewrite: () => '/cache/clear',
+        },
+        // GET /api/documents -> GET /documents
+        '/api/documents': {
+          target: 'http://localhost:8000',
+          changeOrigin: true,
+          rewrite: () => '/documents',
+        },
+        // GET /api/files/* -> GET /files/*
+        '/api/files': {
+          target: 'http://localhost:8000',
+          changeOrigin: true,
+          rewrite: (path) => path.replace(/^\/api\/files/, '/files'),
+        },
+      },
     },
   };
 });
+

@@ -1,0 +1,56 @@
+Source PDF : Courbe_de_rendements_des_titres_publics_gabonais_-_juillet_2020_644cc7aa.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbe_de_rendements_des_titres_publics_gabonais_-_juillet_2020_644cc7aa.pdf
+Date extraction : 15/06/2026 20:23:28
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS
+Courbe de rendements des titres publics gabonais
+DE
+L’AFRIQUE CENTRALE
+juil.-20
+12,00
+10,00 9,31 9,42 9,50 9,55 9,59 9,63
+9,12
+8,97
+8,75
+7,97
+8,00
+7,26
+%
+n
+e
+s
+6,14
+t
+n
+e 6,00
+m
+e
+d
+n 4,37
+e
+R
+4,00
+3,13
+2,00
+0,00
+3 mois 6 mois 1 an 1,5 ans 2 ans 3 ans 3,5A 4 ans 5 ans 6 ans 7 ans 8 ans 9 ans 10 ans
+Maturités
+
+--- Page 2 ---
+Maturité Rendement (en %)
+3 mois 3,13
+6 mois 4,37
+1 an 6,14
+1,5 an 7,26
+2 ans 7,97
+3 ans 8,75
+3,5 ans 8,97
+4 ans 9,12
+5 ans 9,31
+6 ans 9,42
+7 ans 9,50
+8 ans 9,55
+9 ans 9,59
+10 ans 9,63

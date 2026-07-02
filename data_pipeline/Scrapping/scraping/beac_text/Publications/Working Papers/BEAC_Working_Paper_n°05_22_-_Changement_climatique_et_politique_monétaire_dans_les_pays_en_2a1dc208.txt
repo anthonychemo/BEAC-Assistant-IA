@@ -1,0 +1,1584 @@
+Source PDF : BEAC_Working_Paper_n°05_22_-_Changement_climatique_et_politique_monétaire_dans_les_pays_en_2a1dc208.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_n°05_22_-_Changement_climatique_et_politique_monétaire_dans_les_pays_en_2a1dc208.pdf
+Date extraction : 15/06/2026 21:19:28
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 05/22 -
+Changement climatique et politique monétaire dans les pays en
+développement
+TAMNO TEKAM J. Eric KENECK-MASSIL Joseph BIKAI J. Landry
+Economiste Professeur Agrégé Docteur en sciences économiques
+Univer sité de Yaoundé II Université de Yaoundé II Et Banque des Etats de l’Afrique Centrale
+erictam n o 7 4 1 @ g m a i l. c o m J o s e p h .k e n e c k m a ssil@gmail.com bikai@beac.int
+B ANQ U E D E S E T A T S D E
+L’AF R IQ U E C E NT R ALE Les opinions émises dans ce document de
+travail sont propres à leur (s) auteur (s) et ne
+7 36, Av e n ue M on s e i g n e ur
+représentent pas nécessairement la position de la
+V og t B P:1 9 1 7 Y a o un d é
+Banque des Etats de l’Afrique Centrale.
+C a me roun
+T e l :(2 37 ) 2 2 2 34 0 30 / The opinions expressed in this working
+2 2 2 34 060 paper are those of the author (s) and don’t
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9
+of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E S E T U D E S, D E L A R E CH E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+Changement climatique et politique monétaire
+dans les pays en développement
+TAMNO TEKAM Jacques Eric (∗), KENECK-MASSIL Joseph (∗), BIKAI Jacques Landry
+(∗∗).
+Résumé : L’objectif de cette étude est d’apprécier l’incidence des chocs climatiques sur la
+conduite de la politique monétaire. A l’aide d’un modèle en panel ARDL et de l’estimateur
+Pooled Mean Group appliqués sur 82 pays en développement sur la période allant de 1996
+à 2020, trois résultats majeurs se dégagent de ce travail. Premièrement, concernant la masse
+monétaire, les résultats révèlent qu’à long terme elle réagit négativement et significativement
+de 1,359% à la suite d’une hausse de 1% de la vulnérabilité climatique. De plus, les effets de la
+vulnérabilité climatique sur la masse monétaire sont transmis par le canal de la production agri-
+cole (39,4%) de la dette publique (25,8%) et des exportations (10,7%). Deuxièmement, l’effet
+direct sur le taux d’intérêt est nul. Toutefois, il existe un effet indirect par le canal de l’inflation
+(26,4%) et celui des exportations (20,6%). Troisièmement, la prise en compte de l’hétérogénéité
+de l’échantillon selon le régime de change, l’union monétaire, la région géographique, le niveau
+de revenu et la désagrégation de l’indice de vulnérabilité climatique met en évidence des réac-
+tions différentes des instruments de politique monétaires aux chocs climatiques.
+Mots clés:Changementclimatique,politiquemonétaire,PanelARDL,PooledMeanGroup
+Code JEL : Q54, E52, C33
+Climate change and monetary policy in
+developing countries
+Abstract : The aim of this study is to assess the effect of climate shocks on the conduct
+of monetary policy, on the manipulation of monetary policy instruments such as the interest
+rate and the money supply. Using an ARDL panel model and the Pooled Mean Group estima-
+tor applied to 82 developing countries over the period from 1996 to 2020, three major results
+emerge from this work. Firstly, concerning the money supply, the results reveal that in the
+long run it reacts negatively and significantly by 1.359% following a 1% increase in climate
+vulnerability. Specifically, the effects of climate vulnerability on the money supply are trans-
+mittedthroughthechannelofagriculturalproduction(39.4%),publicdebt(25.8%)andexports
+(10.7%). Secondly, the effect on the interest rate is null. Thirdly, considering the heterogeneity
+of the sample according to exchange rate regime, monetary union, geographic region, income
+level and disaggregation of the climate vulnerability index highlights the different reactions of
+monetary policy instruments to climate shocks.
+Keywords : Climate change, monetary policy, ARDL panel, Pooled Mean Group
+JEL Code : Q54, E52, C3
+∗. Université de Yaoundé II
+∗. Université de Yaoundé II
+∗∗. Direction des Études, de la Recherche et des Statistiques, BEAC
+Les auteurs remercient les cadres de la BEAC pour leurs observations et commentaires.
+Les erreurs et omissions éventuellement contenues dans le document relèvent du seul fait des
+auteurs.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 4
+1 Vulnérabilité climatique et politique monétaire : quelques faits stylisés 6
+2 Brève revue de la littérature 8
+3 Méthodes et données 10
+3.1 Données . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+3.2 Méthodes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+4 Résultats et discussions 13
+4.1 Résultat de base . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+4.2 Tests de robustesse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+4.2.1 Robustesse selon le régime de change . . . . . . . . . . . . . . . . . . . . 15
+4.2.2 Robustesse selon la région géographique . . . . . . . . . . . . . . . . . . 17
+4.2.3 Robustesse selon le niveau de revenu . . . . . . . . . . . . . . . . . . . . 17
+4.2.4 Test de robustesse selon les indicateurs de l’indice ND-GAIN . . . . . . . 20
+4.3 Analyse de la médiation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Conclusion 23
+Références 23
+Annexe 26
+2
+
+--- Page 4 ---
+Résumé non technique
+La littérature sur les effets liés au changement climatique est dense et croissante au regard
+de son impact considérable sur les variables macro-économiques. Tous les pays subissent les
+effets du changement climatique mais à des degrés divers. Précisément, les pays en développe-
+ment sont les pays les plus vulnérables au changement climatique du fait de leur faible capacité
+d’adaptation et d’atténuation aux risques climatiques. Cependant, Les dégâts causés par les
+changements climatiques affectent aussi bien l’offre que la demande et de ce fait, ils influencent
+les objectifs de politique monétaire et amènent les banques centrales a utiliser leurs instruments
+a savoir le taux d’intérêt et la base monétaire.
+C’est dans ce cadre que cette étude a pour objectif d’analyser les effets de la dynamique
+du changement climatique sur la conduite de la politique monétaire dans les pays en dévelop-
+pement. De nombreux travaux ont mis en évidence les potentiels mécanismes par lesquels le
+changement climatique pourrait influencer la conduite de la politique monétaire, à savoir : le
+canal de la dette, le canal de la production et des exportations, le canal de l’inflation et le canal
+de la productivité (Boneva et al., 2022, 2021; Schnabel, 2021; Breitenfellner et al., 2021; ECB,
+2021; Drudi et al., 2021).
+Sur le plan méthodologique, nous avons eu recours à un model panel ARDL, avec une es-
+timation Pooled Mean Group (PMG) sur la base du test de Hausman. De plus, une analyse
+de second niveau a été effectué pour tenir compte de l’heterogeneite de l’échantillon selon le
+régime de change, le niveau de revenu et la région géographique. Par ailleurs, une évaluation de
+l’effet indirect du changement climatique sur les instruments de la politique monétaire a permis
+de mettre en évidence les canaux les plus robustes. Les résultats obtenus révèlent que, à long
+terme la masse monétaire réagit négativement de 1,359 % à long terme à la suite d’une hausse
+de 1% de la vulnérabilité climatique, l’effet étant nul à court terme. De manière indirecte, cet
+effet est dû à 39,4% par la production agricole , à 25,8% par la dette publique et à 10,7% par les
+exportations. S’agissant du taux d’intérêt réel, il est établi qu’à court et à long terme, l’indice
+global de vulnérabilité climatique n’a aucun effet. Toutefois, l’effet indirect est significatif par
+le biais de l’inflation (26,4%) et des exportations (20,6%). Cependant, les résultats divergent
+selon que les pays de l’échantillon soient en régime de change fixe ou flexible, selon la région
+géographique et selon le niveau de revenu. En outre, lorsque l’indice de vulnérabilité ne tient
+pas compte de la capacité d’investissement pour faire face à l’incertitude liée au climat, les
+résultats révèlent à long terme un effet significatif et négatif sur les instruments de politique
+monétaire, avec une diminution du taux d’intérêt et de la masse monétaire respectivement de
+0,49% et 26,42% à la suite d’une hausse de 1% de la vulnérabilité.
+Ces résultats mettent en évidence le fait que l’action de la Banque Centrale peut se révéler
+plus efficace seulement lorsque des mesures de mitigation à court terme ne sont pas prises pour
+atténuer l’effet des changements climatiques à court terme. De ce fait, un appui plus important
+de la part des institutions internationales permettraient de mitiger les effets des changements
+climatiques, par conséquent, permettrait à la politique monétaire de se focaliser sur ses objectifs
+prioritaires. Des instruments tels que, le Trust sur la Résilience et la Durabilité (RST) mis en
+place par le FMI pourrait donc aider les pays les plus vulnérables au changement climatique
+à renforcer leur résilience en fournissant un financement à plus long terme et abordable. Par
+ailleurs, une persistance des chocs liés au climat sur l’offre et la demande invite les banques
+centrales à davantage verdir leur politique monétaire.
+3
+
+--- Page 5 ---
+Introduction
+Cet article apprécie l’incidence des chocs climatiques sur la conduite de la politique moné-
+taire dans les pays en développement. À l’échelle mondiale, les six dernières années ont été les
+plus chaudes jamais enregistrées, en 2020 par exemple, les températures ont dépassé la moyenne
+obtenue en 1850-1900 de 1,25 °C (Schnabel, 2021). Les répercussions sur les économies sont ce-
+pendant inégalement réparties dans le monde. Alors que les pays en développement émettent
+moins de gaz à effet de serre (4% seulement pour les pays africains) ils sont les plus vulnérables
+aux effets du changement climatique. Ils subissent fréquemment des phénomènes météorolo-
+giques extrêmes tels que la sécheresse, les inondations, les vagues de chaleur, les tempêtes, les
+variations de précipitations et les changements du niveau de la mer, avec des effets dévastateurs
+sur l’agriculture, la sécurité alimentaire, les migrations, la nutrition, le logement, la santé, les
+infrastructures et les revenus (WMO, 2021; UNDP, 2009).
+Lesdégâtscausésparleschangementsclimatiquesaffectentaussibienl’offrequelademande
+dans une économie et de ce fait, ils influencent les objectifs de politique monétaire et amènent
+les banques centrales à utiliser leurs instruments à savoir le taux d’intérêt et la base monétaire
+(Breitenfellner et al., 2021). Actuellement, peu de Banques Centrales intègrent le changement
+climatique dans leurs modèles de prévision économiques (Breitenfellner et al., 2021). Or, le
+changement climatique constitue une série de chocs économiques et de changements conjonctu-
+rels que les responsables de la politique monétaire doivent évaluer et surveiller afin d’atteindre
+leurs objectifs d’inflation, compte tenu du degré d’incertitude lié à la réaction des agents éco-
+nomiques (Krogstrup & Oman, 2019). Des avancées sont quand même effectuées dans ce sens
+car le Réseau des banques centrales et superviseurs pour le verdissement du système financier
+(Network for Greening the Financial System – NGFSIl s’agit d’un groupe de Banques Centrales
+et de superviseurs désireux, sur une base volontaire, d’échanger des expériences, de partager
+les meilleures pratiques, de contribuer au développement de la gestion des risques environne-
+mentaux et climatiques dans le secteur financier et de mobiliser la finance traditionnelle pour
+soutenir la transition vers un développement économique durable. Son objectif est de définir et
+de promouvoir les meilleures pratiques à mettre en œuvre au sein et en dehors des membres du
+NGFS et de mener ou de commander des travaux d’analyse sur la finance verte.) ne comptait
+que 7 membres à sa création mais a dénombré 131 membres en 2022 et 19 observateurs dont
+font partie le Fonds Monétaire International (FMI), la Banque Mondiale ou encore la Banque
+des Règlements Internationaux (BRI).
+Au regard de l’importance croissante des effets du changement climatique, de nombreux tra-
+vaux empiriques ont montré son influence sur plusieurs variables clés de l’économie de manières
+différentes, voire contradictoires (NGFS, 2020) . Plusieurs auteurs ont identifié le changement
+climatiquecommeunesourcederisquepourlastabilitéfinancièreetlastabilitédesprix(Boneva
+et al., 2022; Dafermos, 2022; Shobande, 2022; Boneva et al., 2021; Schnabel, 2021; Breiten-
+fellner et al., 2021; ECB, 2021; Drudi et al., 2021; Scott et al., 2017; Aglietta et al., 2016).
+La Banque Centrale Européenne (ECB, 2021) présente dans son rapport une analyse globale
+des implications du changement climatique sur la conduite de la politique monétaire dans la
+zone Euro, en particulier les implications sur la transmission de la politique monétaire, le taux
+d’intérêt et l’identification correcte des chocs. Ce rapport présente également la nécessité de
+mettre en œuvre des modèles macroéconomiques qui permettent d’implémenter les décisions
+de politique monétaire. Toutefois, ces études qui se sont attardées à expliquer l’effet des chan-
+gements climatique sur les variables monétaires sont généralement menées sur des échantillons
+des pays développés, la littérature empirique au niveau des pays en développement (PED) et
+principalement les pays africains, demeure insuffisante et voir rare alors que ceux-ci sont les
+4
+
+--- Page 6 ---
+plus vulnérables aux changements climatiques.
+Le changement climatique peut influencer la conduite de la politique monétaire à travers
+plusieurs mécanismes. Nous retenons quatre mécanismes principaux dans cette étude. Premiè-
+rement, les impacts du changement climatique aggravent les situations d’endettement des pays
+en les forçant à emprunter davantage pour financer l’atténuation et l’adaptation. Une plus
+grande offre d’actifs souverains dans l’économie pourrait influencer le taux d’intérêt (ECB,
+2021; Drudi et al., 2021). Deuxièmement, le canal de la production et des exportations, les
+preuves empiriques montrent que l’accroissement des changements climatiques diminue la pro-
+duction et les exportations des principales cultures agricoles (Luc et al., 2020; Piontek et al.,
+2019; Kahn et al., 2019) cela génère une plus grande volatilité macroéconomique qui peut
+amener les banques centrales à modifier leurs principaux instruments dont le taux d’intérêt
+(Dietrich et al., 2021; Kozlowski et al., 2019). Troisièmement, le canal de la productivité des
+facteurs, des températures plus élevées réduisent la productivité à long terme (ECB, 2021;
+Nordhaus, 2007; Deryugina & Hsiang, 2014; Dell et al., 2012; Seppanen et al., 2006). Cette
+baisse de productivité réduit le produit marginal de chaque unité de capital, diminuant ainsi la
+demande de capital des entreprises, et donc du taux d’intérêt (Angeli et al., 2022; Dietrich et
+al., 2021; Schnabel, 2021; Kozlowski et al., 2019; Deryugina & Hsiang, 2014; Dell et al., 2012;
+Seppanen et al., 2006). Enfin quatrièmement, le canal de l’inflation, les évènements météoro-
+logiques extrêmes entrainent une augmentation de l’inflation (Odongo et al., 2022; Peersman,
+2022; Heinen et al., 2019). En conséquence, les ménages confrontés à une plus grande volatilité
+de leurs revenus choisissent davantage d’épargner en guise de précaution, ce qui entraîne une
+baisse du taux d’intérêt (Schnabel, 2021; Auclert et al., 2018).
+Sur le plan empirique, l’analyse de la conduite de la politique monétaire à la suite des chocs
+climatiques porte sur un échantillon de 82 pays en développement sur la période 1996 – 2020.
+A l’aide d’un modèle panel ARDL couplé à une analyse de second niveau pour évaluer l’hétéro-
+généité de l’échantillon d’étude nous trouvons des résultats qui interpellent prioritairement les
+décideurs de politique économique. Concernant la masse monétaire, elle réagit négativement de
+1,359 % à long terme à la suite d’une hausse de 1% de la vulnérabilité climatique, l’effet étant
+nul à court terme. S’agissant du taux d’intérêt réel, il est établi qu’à court et à long terme,
+l’indice global de vulnérabilité climatique n’a aucun effet. Cependant, les résultats divergent
+selon que les pays de l’échantillon soient en régime de change fixe ou flexible, selon la région géo-
+graphique et selon le niveau de revenu. Toutefois, lorsque l’indice de vulnérabilité ne tient pas
+compte de la capacité d’investissement pour faire face à l’incertitude liée au climat, les résultats
+révèlent à long terme un effet significatif et négatif sur les instruments de politique monétaire,
+avec une diminution du taux d’intérêt et de la masse monétaire respectivement de 0,49% et
+26,42% à la suite d’une hausse de 1% de la vulnérabilité. Ce résultat traduit le fait que l’action
+de la Banque Centrale peut se révéler plus efficace seulement lorsque des mesures de mitigation
+àcourttermenesontpasprisespouratténuerl’effetdeschangementsclimatiquesàcourtterme.
+La contribution de ce travail à la littérature est triple. Premièrement, à notre connaissance,
+il s’agit de la première étude empirique qui vise à montrer les réponses des instruments de poli-
+tiquemonétaireàlasuitedeschocsclimatiquesdanslespaysendéveloppement.Deuxièmement,
+contrairement à plusieurs travaux sur des effets du changement climatique sur les variables mo-
+nétaires, cet article utilise l’indice de vulnérabilité au changement climatique (Chen et al.,
+2015) qui combine à la fois : (i) la vulnérabilité climatique à travers l’exposition, la sensibilité
+et l’adaptation au divers risques physiques des chocs climatiques et (ii) l’état de préparation
+qui évalue la capacité d’investissement des pays sur les plans économique, institutionnel et so-
+cial. Troisièmement, cet article met en évidence une analyse de second niveau qui prend en
+5
+
+--- Page 7 ---
+compte l’hétérogénéité de l’échantillon selon le type de régime de change, l’union monétaire, la
+répartition géographique, le niveau de revenu et les indicateurs de l’indice de vulnérabilité.
+La suite de l’article est structurée ainsi qu’il suit : la première partie présente les faits styli-
+sés de la vulnérabilité climatique dans les pays en développement. La deuxième partie discute
+de la littérature en se focalisant principalement sur les mécanismes de transmissions à travers
+lesquels les changements climatiques affectent la conduite de la politique monétaire. La troi-
+sième partie présente la modélisation utilisée ainsi que les données pour apprécier les effets de
+la vulnérabilité climatique sur les instruments de la politique monétaire. Quant à la quatrième
+partie, elle présente et discute les résultats dans son ensemble.
+1 Vulnérabilité climatique et politique monétaire : quelques
+faits stylisés
+Les pays en développement sont généralement décris comme étant les plus vulnérables au
+changement climatique, la conduite de leur politique monétaire peut ainsi être affectée à travers
+les effets potentiels du climat sur la productivité, l’inflation et la dette publique (GIEC, 2022).
+Eneffet,lerapportOXFAM(2022)présenteles10payslesplusexposésauxrisquesclimatiques,
+parmi lesquels 7 sont des pays de l’Afrique subsaharienne1. Il s’agit des pays ayant fait l’objet
+du plus grand nombre d’appels humanitaires de l’ONU liés à des phénomènes météorologiques
+extrêmes depuis 2000.
+La forte vulnérabilité des pays de l’Afrique subsaharienne peut se justifier à titre illustratif
+par : (i) les épisodes de sécheresse en Afrique de l’Est qui ont causé près de 21 millions de
+personnes en situation d’insécurité alimentaire extrême en Éthiopie, au Kenya et en Somalie
+(Crises et al., 2021); (ii) les cyclones d’Afrique Australe, qui ont engendré une hausse des prix
+des denrées alimentaires (RVAA, 2022); (iii) la désertification du Sahel, qui est à l’origine de
+conflits et de migrations massives (Rigaud et al., 2019) et; (iv) les déplacements liés aux catas-
+trophes naturelles estimés à plus de 2,6 millions en 2018 et 3,4 millions en 2019, principalement
+en Afrique de l’Est (1 437 7000) et en Afrique de l’Ouest (798 000) (GIEC, 2022).
+Les régions de l’Asie du Sud et de l’Est et Pacifiques font également face à des cyclones,
+typhons et inondations dues à la mousson qui ont englouti de nombreux foyers et diminué les
+sources de revenus des populations, creusant ainsi les inégalités et des déplacements importants
+(OXFAM, 2022).
+Une analyse des composantes de la vulnérabilité climatique selon l’exposition, la sensibilité
+et la capacité d’adaptation de l’indice GAIN (présenté en annexe) dans la figure (1) ci-dessous,
+révèle que la région d’Asie du Sud est la plus exposée au changement climatique, suivie de
+l’Afrique subsaharienne. En outre, les pays de l’Afrique subsaharienne sont les plus sensibles
+aux risques climatiques et les moins résilients (faible capacité d’adaptation(2)). Ce qui peut
+s’expliquer par les facteurs structurels qui restreignent la capacité de ces pays à réagir efficace-
+ment et durablement à ce type de choc.
+La forte dépendance à l’égard de l’agriculture pluviale en particulier accentue les risques
+humanitaires, sociaux et macroéconomiques face à la hausse des températures et aux chocs
+1. A savoir l’Afghanistan, le Burkina Faso, Djibouti, le Guatemala, Haïti, le Kenya, Madagascar, le Niger,
+la Somalie et le Zimbabwe.
+2. Plus le score est élevé, moins le pays est résilient (ND-GAIN, 2015.
+6
+
+--- Page 8 ---
+climatiques extrêmes, qui pèsent surtout sur les catégories les plus pauvres de la population et
+principalement en Afrique subsaharienne (Radtke & Weller., 2019). En effet, les pays de cette
+région sont en majeure partie employés de manière disproportionnée dans des secteurs exposés
+au climat : 55 à 62 % de la main-d’œuvre subsaharienne est employée dans l’agriculture et 95%
+des terres cultivées sont des cultures pluviales (GIEC, 2022).
+Figure 1 – Composantes de l’indice de vulnérabilité dans les régions des pays en
+développement (1996 - 2020).
+Source : Auteurs à partir des donnés de Notre Dame Global Adaptation Initiative
+(2022)
+Une analyse plus minutieuse permet de s’appesantir sur la figure (2) ci-dessous, qui résume
+les indicateurs mesurant à la fois la vulnérabilité et l’état de préparation de l’indice global
+ND-GAIN par région. L’état de préparation désigne ici la volonté d’utiliser efficacement les
+investissements pour les actions d’adaptation grâce à un environnement commercial sûr et
+efficace. Ce volet tient compte : (i) de la préparation économique (climat d’investissement);
+(ii) préparation à la gouvernance (stabilité de la société et des dispositions institutionnelles qui
+contribuentauxrisquesd’investissement)et(iii)lapréparationsociale.Onobservequel’Afrique
+Sub-Saharienne est la région la plus vulnérable au changement climatique avec un score de 54,3,
+etserévèleêtrelamoinspréparéeàatténuerleseffetsnéfastesduchangementclimatique(29,8).
+Malgré la vulnérabilité climatique des pays en développement et ses effets sur les variables
+macroéconomiques(baissedelaproductivité,inflation,dettepubliqueetbaissedelaproduction
+agricole), la politique monétaire de la plupart de ces pays est focalisée sur la stabilité des prix
+et ne prend pas encore le changement climatique comme un objectif prioritaire (Breitenfellner
+et al., 2021) . Ceci peut se justifier par le fait que les conséquences majeures des changements
+climatiques sur les économies, reposent en priorité sur les Etats qui sont amenés à prendre
+des mesures rapides à court terme. Une autre justification peut provenir des développements
+de (Tinbergen, 1952) qui stipule qu’en matière de politique économique, on doit avoir autant
+d’instruments que d’objectifs. Il faudrait donc dans ce cas trouver un instrument adéquat qui
+permettrait de répondre à cet objectif. Toutefois, l’analyse de la figure (3) ci-dessous suggère
+de potentiels co-mouvements entre la politique monétaire à la vulnérabilité climatique des pays
+en développement. Elle met en évidence le fait que : moins un pays est vulnérable (plus il
+est préparé) au changement climatique plus sa masse monétaire augmente. L’effet sur le taux
+d’intérêt semble cependant inexistant.
+Les liens entre la politique monétaire et les changements climatiques sont suffisamment
+exposés dans la littérature. Le rapport de la Banque Centrale Européenne (BCE) sur les im-
+plications du changement climatique sur la politique monétaire (ECB, 2021) expose divers
+7
+
+--- Page 9 ---
+Figure 2 – Répartition de l’indice de vulnérabilité climatique par région (1996 –
+2020).
+Source : Auteurs à partir des donnés de Notre Dame Global Adaptation Initiative
+(2022)
+Figure 3 – Corrélation entre l’indice ND-GAIN et la politique monétaire.
+canaux potentiels pour évaluer ce lien. Selon cette étude, les analyses théoriques et empiriques
+sur la question, prévoient que les pertes économiques liées aux changements climatiques vont
+s’accroitre à long terme et seront inégalement réparties entre les régions. L’accroissement de
+ces pertes, ainsi que l’inflation qui en découle appellent une action des décideurs de politiques
+économiques et notamment de la politique monétaire.
+2 Brève revue de la littérature
+Le changement climatique amplifie la fréquence et la gravité des chocs d’offre, les rendant
+plus persistants, il devient de plus en plus difficile pour les banques centrales de « passer au
+travers » de tels chocs (Rudebusch et al., 2019; Batten et al., 2016) . Outre les chocs sur l’offre,
+les phénomènes météorologiques extrêmes peuvent également entraîner des fluctuations du côté
+de la demande (of England, 2020; NGFS, 2020) . De ce fait, les risques liés au changement
+8
+
+--- Page 10 ---
+climatique peuvent affecter les mandats d’une banque centrale en matière de stabilité des prix
+et de stabilité financière par au moins quatre canaux à savoir : la dette publique et les inégalités
+de revenus, la marge de manœuvre de la politique monétaire conventionnelle, l’incertitude liée
+au climat et la dynamique de l’inflation.
+Premièrement, la dette publique et les inégalités de revenus peuvent influencer la conduite
+de la politique monétaire des banques centrales. En effet, à l’issu d’un choc climatique, les Etats
+peuvent augmenter la dette publique en vue d’atténuer les effets du choc et procéder aux ’in-
+vestissements plus importants destinés à l’atténuation et l’adaptation afin de rendre l’économie
+plus résiliente (ECB, 2021). Une plus grande offre d’actifs souverains dans l’économie pourrait
+alors baisser le taux d’intérêt et accroitre la masse monétaire (Drudi et al., 2021). D’un autre
+côté, la hausse des inégalités de revenus causés par les chocs climatiques (Diffenbaugh & Burke,
+2019) peut faire baisser le taux d’intérêt réel en raison d’une consommation réduite et d’une
+augmentation de l’épargne souhaitée(Auclert et al., 2018; Rachel & Smith, 2015).
+Deuxièmement, les changements climatiques pourraient réduire la marge de manœuvre de la
+politiquemonétaireconventionnelleendiminuantletauxd’intérêtréeld’équilibre,quimaintient
+un équilibre entre l’épargne et l’investissement. Dans l’ensemble, diverses études soutiennent
+quelechangementclimatiqueest,endéfinitive,susceptibled’exercerunepressionàlabaissesur
+le taux d’intérêt par plusieurs canaux. Tout d’abord, le canal des tendances démographiques, la
+plupart des économies avancées connaissent une transition démographique, reflétant la baisse
+de l’offre de travail (Angeli et al., 2022; Drudi et al., 2021; Schnabel, 2021; NGFS, 2020) de
+faibles taux de fécondité, une espérance de vie en hausse et une composition par âge changeante
+(Drudi et al., 2021). Foreman et al. (2018) constatent que l’effet net de ces tendances est d’avoir
+réduit les taux d’intérêt réels dans la zone euro d’environ 1 point de pourcentage depuis les
+années 1980. Ensuite, le canal de la productivité, les risques physiques liés aux changements
+climatiques peuvent avoir des effets physiologiques majeurs sur la mortalité, la santé et, par
+conséquent, sur l’offre de main ¬d’œuvre et la productivité (Dietz & Stern, 2015; Deryugina
+& Hsiang, 2014; Dell et al., 2012; Nordhaus, 2007; Seppanen et al., 2006). Cette baisse de
+productivité réduit le produit marginal de chaque unité de capital, diminuant ainsi la demande
+de capital des entreprises, et donc le taux d’intérêt (Dietrich et al., 2021; Schnabel, 2021; Riks-
+bank, 2020; Kozlowski et al., 2019).
+Troisièmement, l’aversion au risque est un canal par lequel le changement climatique affecte
+le taux d’intérêt réel. Des recherches empiriques montrent que les investisseurs traduisent l’in-
+certitude liée au climat en une prime de risque plus élevée (Carlson et al., 2021). Une prime de
+risque plus élevée augmente la propension à épargner et la demande d’actifs peu risqués, deux
+facteurs qui peuvent réduire le taux d’intérêt réel (Carlson et al., 2021; Cevik & Jalles, 2020;
+Battiston et al., 2020; Bylund & Jonsson, 2020). L’effet macroéconomique qui en résulte est
+une diminution de la volonté d’investir et une plus grande propension à épargner, deux facteurs
+qui font baisser le taux d’intérêt naturel.
+Quatrièmement, les risques physiques associés au changement climatique ont généralement
+un impact direct sur la dynamique de l’inflation, objectif prioritaire des banques centrales
+(Peersman, 2022; Odongo et al., 2022; Angeli et al., 2022; Heinen et al., 2019; Bylund &
+Jonsson, 2020; Parker, 2018), qui influencera la conduite de la politique monétaire (Zeno &
+Mandap, 2022; Schnabel, 2021). En effet, Peersman (2022) montre que les chocs exogènes (dus
+aux conditions météorologiques) sur les prix des denrées alimentaires ont un fort impact sur les
+prix à la consommation dans la zone euro, ce qui suggère que la volatilité de l’inflation dans
+les économies avancées pourrait augmenter avec la fréquence des événements météorologiques
+9
+
+--- Page 11 ---
+extrêmes mondiaux. De même, Odongo et al. (2022) montrent les implications de la dynamique
+du changement climatique sur les prix alimentaires dans les pays d’Afrique orientale et australe
+sur la période 2001 à 2010. Les résultats suggèrent que les chocs d’approvisionnement mesurés à
+l’aide des quantités de pluie et de l’inflation des prix des aliments importés sont les principaux
+déterminants de l’inflation alimentaire. Ainsi, les ménages confrontés à une plus grande volati-
+lité de leurs propres revenus ou coûts, en raison de risques climatiques, choisiront d’accumuler
+davantage de richesse en guise de précaution contre cette volatilité (Auclert et al., 2018).
+3 Méthodes et données
+3.1 Données
+L’objectif de cette étude est d’analyser les effets de la vulnérabilité climatique sur les instru-
+ments de politique monétaire de 82 pays en développement sur la période 1996 à 2020. Seule la
+disponibilité des données justifie l’échantillon et la période de l’étude. Les données des variables
+de contrôle et les instruments de politique monétaire sont obtenus à partir de la base de données
+de la Banque Mondiale (WDI), et pour la vulnérabilité climatique, elles sont extraites de Notre
+Dame Global Adaptation Initiative (ND-GAIN) (2022). La liste des variables dépendantes et
+indépendantes, ainsi que leurs statistiques descriptives, sont présentées dans le tableau (3.1)
+ci-dessous.
+Il ressort sur l’ensemble des 2050 observations, que les pays pris dans l’échantillon ont un
+indice moyen de ND-GAIN de 42,464 qui est en deçà de la moyenne, reflétant une exposition et
+sensibilité élevées aux risques liés au changement climatique et également leur faible capacité à
+intégrer les mesures d’adaptation et d’atténuation. Toutefois, au regard de la valeur de l’écart
+type qui est de 6, 90 et des valeurs du Min-Max (25,4 et 63,2), il ressort une hétérogénéité
+des pays dans la résilience et l’exposition aux chocs climatiques. De plus, la masse monétaire
+moyenne est de 42,07% du PIB, avec une forte variabilité de 29,08 et le taux d’intérêt réel
+moyen est de 7,85%, avec une forte variabilité également de 11,3. Cette hétérogénéité observée
+au niveau des instruments de politique monétaire et de l’exposition aux risques liés au climat
+justifie la prise en compte de la disparité de l’échantillon globale dans les analyses de robustesse.
+La matrice de corrélation est présentée dans le tableau (10) (en annexe).
+10
+
+--- Page 12 ---
+sevitpircsed
+seuqitsitatS
+–
+1
+elbaT
+11
+
+--- Page 13 ---
+3.2 Méthodes
+Pour évaluer le lien entre changements climatiques et politique monétaire, nous utilisons un
+modèle panel ARDL pour trois principales raisons. Tout d’abord, ce modèle permet de prendre
+en compte les effets de long terme et de court terme des chocs climatiques sur la politique
+monétaire. Deuxièmement, il permet de tenir compte des différents ordres d’intégration des
+variables du modèle. Et enfin, le modèle permet de résoudre les problèmes d’endogénéité dus
+à la causalité inverse entre les instruments de politique monétaire et l’ensemble des variables
+explicatives.
+Sur la base de l’ensemble de données de panel avec des périodes de temps t = 1, 2, 3, T et
+des groupes de pays i = 1, 2,3, ..., N, les modèles de panel ARDL (P, Q,..., Q1) seront estimés
+dans l’équation (1) ci-dessous :
+TXI = (cid:80)P γ TXI +(cid:80)Q δ′ X +µ +ε
+it j=1 ij it j=1 ij it−j i it
+(1)
+MM = (cid:80)P γ MM +(cid:80)Q δ′ X +µ +ε
+it j=1 ij it j=1 ij it−j i it
+Où X est le vecteur des variables de contrôle en plus de la variable d’intérêt vulnérabi-
+it−j
+lité climatique; µ indique l’effet fixe, γ désigne les coefficients de l’instrument de politique
+i it−j
+monétaire décalé et enfin, δ indique les coefficients du vecteur des variables indépendantes.
+it
+En cas de cointégration entre les variables indépendantes et la variable dépendante, le terme
+de correction d’erreur est estimé pour tous les groupes de pays. Les principales caractéristiques
+des cointégrations entre la variable dépendante et les variables indépendantes sont les réactions
+à l’écart dû à l’équilibre de long terme. Cette caractéristique de l’instrument de politique mo-
+nétaire et des variables indépendantes indique que le modèle de correction d’erreur qui spécifie
+la dynamique à court terme est impacté par l’écart à l’équilibre. Sur la base de l’équation (1)
+mentionnée ci-dessus, l’équation de correction d’erreur suivante (2) est spécifiée :
+∆TXI = ϕ (TXI −θ′X )+(cid:80)P−1γ∗∆TXI +(cid:80)Q−1δ′∗∆X +µ +ε
+it i it−j i it−j j=1 ij it j=1 ij it−j i it
+(2)
+∆MM = ϕ (MM −θ′X )+(cid:80)P−1γ ∗∆MM +(cid:80)Q−1δ′∗∆X +µ +ε
+it i it−j i it−j j=1 ij it j=1 ij it−j i it
+Où ϕ = −(1−(cid:80)P γ ), θ′ = (cid:80)P ρij , γ ∗ = −(cid:80)Q γ j = 1,2,3,...,P −1 et
+i j=1 ij i j=1 1−(cid:80) kγij ij m=j+1 im
+δ ∗ =
+−(cid:80)Q
+ρ j = 1,2,3,...,Q−1
+ij m=j+1 im
+ϕi dans l’équation ci-dessus indique la vitesse d’ajustement à son équilibre qui est connue
+comme la vitesse de correction des erreurs. Il n’existe aucune relation à long terme entre les
+variables indépendantes et la variable dépendante. Si la vitesse d’ajustement de la correction
+d’erreur examinée est égale à zéro (c’est-à-dire ϕ = 0). Le terme de correction d’erreur devrait
+i
+être significatif et négative fondée sur l’hypothèse selon laquelle les variables utilisées dans
+l’équation indiquent un retour à un équilibre de long terme, où le terme theta′ dans l’équation
+i
+ci-dessus indique l’équilibre de long terme entre les variables indépendantes et la variable dé-
+pendante. L’équation (3)suivante est basée sur l’équation (2) pour toutes les variables utilisées :
+12
+
+--- Page 14 ---
+∆TXI = β +ϕ [TXI −θ′ (VUL +PROD +VUL +NAT +INF
+it 0 1i it−1 2i it it it it it
++EXP +PIB +DET
+)]+(cid:80)P−1γ∗∆TXI +(cid:80)Q−1δ′∗∆VUL
+it it it j=0 ij it−1 j=0 ij it−j
++(cid:80)Q−1δ′∗∆PROD +(cid:80)Q−1δ′∗∆NAT +(cid:80)Q−1δ′∗∆INF
+j=0 ij it−j j=0 ij it−j j=0 ij it−j
++(cid:80)Q−1δ′∗∆EXP +(cid:80)Q−1δ′∗∆PIB +(cid:80)Q−1δ′∗∆DET
++µ +ε
+j=0 ij it−j j=0 ij it−j j=0 ij it−j i it
+∆MM = β +ϕ MM −θ′ (VUL +PROD +VUL +NAT +INF
+it 0 1i it−1 2i it it it it it
++EXP +PIB +DET
+)]+(cid:80)P−1γ∗∆MM +(cid:80)Q−1δ′∗∆VUL
+it it it j=0 ij it−1 j=0 ij it−j
++(cid:80)Q−1δ′∗∆PROD +(cid:80)Q−1δ′∗∆NAT +(cid:80)Q−1δ′∗∆INF
+j=0 ij it−j j=0 ij it−j j=0 ij it−j
++(cid:80)Q−1δ′∗∆EXP +(cid:80)Q−1δ′∗∆PIB +(cid:80)Q−1δ′∗∆DET
++µ +ε
+j=0 ij it−j j=0 ij it−j j=0 ij it−j i it
+(3)
+Pour appliquer l’approche ARDL de panel, toutes les variables doivent être stationnaires sur
+le mélange de I(0) et I(1), et la présence de cointégration entre les variables. Par conséquent,
+nous testerons la stationnarité des variables exogènes et endogènes puis vérifierons la présence
+de la cointégration et enfin, nous appliquerons la régression ARDL en panel pour tester la re-
+lation entre la vulnérabilité climatique et les instruments de politiques monétaires.
+Par ailleurs, Hausman (1978) a proposé le test pour discriminer entre l’estimateur Pooled
+Mean Group (PMG) et l’estimateur de Groupe Moyen (MG). L’estimateur MG des données de
+panel a été développé par Pesaran et Smith (1995) dans lequel toutes les interceptions utilisées,
+les intervalles de confiance des variables et enfin la variation d’erreur sont différentes entre les
+groupes de pays. Dans une autre étude, Pesaran et al. (1999) ont développé l’estimateur de
+groupe moyen regroupé pour les données de panel qui associe respectivement la moyenne et les
+caractéristiques du groupe. La méthode PMG permet les interceptions, les coefficients du court
+terme des variables, et enfin les variations d’erreur sont dissemblables entre les groupes de pays
+alors qu’à long terme, les coefficients des régresseurs sont similaires dans différents groupes de
+pays.
+4 Résultats et discussions
+Pour vérifier la stationnarité, nous avons adopté une variété de tests, y compris les tests
+de Levin-Lin-Chu, Im-Pesaran-Shin et Fisher-ADF. Le tableau (11) (en annexe) présente les
+résultats des tests pour les variables en niveau et en différences premières. Après les tests de
+racine unitaire, les résultats ont confirmé que certaines variables étaient I (0) et d’autres I (1).
+L’une des exigences de base du modèle de décalage dynamique autorégressif de panel. Dans le
+même sens, le tableau (12) (en annexe) examine la dépendance transversale entre les variables
+de l’étude. Les résultats du test CD démontrent que toutes les variables sont stationnaires
+conformes au rejet de H0 du test CD. Par conséquent, les variables appliquées ont une dépen-
+dance transversale dans tous les pays.
+Dans l’étape suivante, pour vérifier si la cointégration est présente ou non dans les mo-
+dèles spécifiés, un test de cointégration en panel a été appliqué. L’hypothèse alternative du test
+confirme la « cointégration » dans les modèles, tandis que l’hypothèse nulle confirme « l’absence
+de cointégration » dans les modèles. Le tableau (13) (en annexe) montre les résultats des tests
+de cointégration de Pedroni et de Kao, respectivement. Les résultats du test de cointégration de
+Kao démontrent qu’il existe une cointégration entre les variables dans les panels de différents
+pays. Les résultats indiquent que les deux valeurs de test de la cointégration de Kao et de Pe-
+13
+
+--- Page 15 ---
+dronisontsignificativesetsuggèrentquelacointégrationexisteparmilesvariablessélectionnées.
+4.1 Résultat de base
+Le tableau(2) ci-dessous montre les conclusions du panel PMG-ARDL pour examiner la
+relation entre la vulnérabilité climatique et les instruments de politique monétaire. Le test de
+Hausman a été utilisé pour choisir entre l’estimation PMG et MG estimation. Sur la base des
+statistiquesdeChi2dutestdeHausman,lePMGestappropriéparrapportauMGpourestimer
+les modèles. Les résultats de base se focalisent sur l’indice global de vulnérabilité climatiques
+ND-GAIN qui tient compte du degré de préparation des pays, les sous-composantes de l’indice
+seront prises en compte dans l’analyse de la robustesse.
+Les résultats du modèle du taux d’intérêt réel montrent que, à long terme et à court terme,
+il y’a un effet négatif mais non significatif de la vulnérabilité climatique dans les pays en dé-
+veloppement. Les résultats non significatifs de la relation entre la vulnérabilité climatique et le
+taux d’intérêt réel, peuvent se justifier par la faiblesse du canal du taux d’intérêt comme mé-
+canisme de transmission de la politique monétaire dans les pays en développement, en raison
+de la faiblesse du cadre institutionnel, des marchés financiers embryonnaires, de la surliquidité
+bancaire et de la prépondérance du secteur bancaire, (Mishra et al., 2016; Mishra & Montiel,
+2013; Buigut, 2009; Saxegaard, 2006). De plus, l’effet nul de la vulnérabilité climatique sur
+le taux d’intérêt peut traduire le fait que ces chocs climatiques sont généralement de nature
+transitoire, nécessitant juste la réaction des Etats de façon indépendante sans que la banque
+n’ait à agir sur ses instruments pour réduire les dommages causés. Toutefois, l’effet négatif de
+long terme de la vulnérabilité climatique sur le taux d’intérêt réel confirme les analyses des
+travaux de Dietrich et al. (2021) , Schnabel (2021) , Riksbank (2020) et Kozlowski et al. (2019)
+qui démontrent la baisse du taux d’intérêt à la suite des chocs climatiques à travers les canaux
+de la productivité des facteurs, la mortalité, l’offre de la main d’œuvre, l’aversion au risque et
+la dette publique.
+Pour ce qui est de la masse monétaire, les résultats du panel à long terme révèlent qu’une
+augmentation de 1% de la vulnérabilité climatique entraine une baisse de la masse monétaire
+de 1,359% au seuil de 1%, à court terme par contre l’effet de la vulnérabilité climatique est
+positif et non significatif. A long terme, le phénomène étant persistant, les banques centrales
+ayant pour objectif primaire la stabilité des prix vont opter pour la hausse du taux directeur,
+qui aura pour conséquence la baisse de la masse monétaire. En revanche, l’effet positif bien
+que non significatif à court terme s’explique par le fait que les pays en développement étant
+vulnérables au changement climatique au regard de l’incapacité de s’adapter compte tenu des
+difficultés budgétaires, les ménages face à l’incertitude liée au climat vont épargner pour des
+mesures de précaution au lieu d’investir par conséquent la base monétaire augmentera (Bylund
+& Jonsson, 2020).
+4.2 Tests de robustesse
+Pour apprécier la robustesse des résultats des effets de la vulnérabilité climatique sur les
+instruments de la politique monétaire, nous allons mener une série de quatre tests en séparant
+l’échantillon selon : (i) le régime de change et l’appartenance ou non à une union monétaire; (ii)
+la région géographique et (iii) le niveau de revenu; et (iv) en décomposant l’indice ND-GAIN
+en ses sous-composantes. Ces tests se feront sur la spécification de base en tenant compte
+successivement du taux d’intérêt et de la masse monétaire.
+14
+
+--- Page 16 ---
+Table 2 – Panel ARDL et PMG estimation
+Taux d’intérêt Masse monétaire
+Coef Ecart-type Z P-value Coef Ecart-type Z P-value
+Variables
+Estimation de long terme
+GAIN 0,020 0,048 0,430 0,669 1,359 0,347 3,920 0,000
+PROD 0,313 0,038 8,330 0,000 0,278 0,204 1,360 0,172
+NAT -0,124 0,042 -2,990 0,003 -0,059 0,154 -0,380 0,700
+INF -0,157 0,024 -6,620 0,000 -2,195 0,250 -8,770 0,000
+EXP -0,092 0,019 -4,760 0,000 1,523 0,152 10,030 0,000
+GDP 0,029 0,028 1,030 0,301 -0,941 0,216 -4,360 0,000
+DET 0,165 0,043 3,860 0,000 0,133 0,222 0,600 0,548
+Estimation de court terme
+ECT -0,552 0,040 -13,790 0,000 -0,073 0,011 -6,450 0,000
+GAIN -0,137 0,223 -0,620 0,538 -0,195 0,160 -1,220 0,223
+PROD 0,181 0,222 0,810 0,416 0,988 0,271 3,640 0,000
+NAT -0,090 2,071 -0,040 0,965 2,303 4,296 0,540 0,592
+INF -0,257 0,035 -7,290 0,000 0,015 0,044 0,350 0,730
+EXP 0,127 0,079 1,610 0,107 -0,043 0,064 -0,680 0,494
+PIB -0,028 0,043 -0,650 0,516 -0,242 0,047 -5,100 0,000
+DET 0,183 0,139 1,320 0,187 0,379 0,200 1,900 0,058
+Constante 2,430 0,465 5,220 0,000 -2,154 0,789 -2,730 0,006
+Hausman chi2 0,51 p-value 0,999 chi2 2,14 p-value 0,951
+Note : le signe positif du coefficient de l’instrument de politique monétaire traduit un effet l’indice
+ND-GAIN
+4.2.1 Robustesse selon le régime de change
+La répartition de l’échantillon selon lerégime dechange meten évidence deseffets contraires
+de la vulnérabilité climatique sur les instruments de politique monétaire. Tout d’abord, tous les
+pays en régime de change fixe de l’échantillon appartiennent à la zone franc, il s’agit des pays
+de la zone CEMAC(3) , quelques pays de l’UEMOA (4) qui sont des unions économiques et
+monétaires. En effet, les résultats du tableau (3) ci-dessous suggèrent qu’à court terme et à long
+terme, la vulnérabilité climatique diminue le taux d’intérêt réel des pays ayant un régime de
+change fixe, alors que l’effet est positif pour les pays à régime de change flexible. Cependant, ce
+n’est que l’effet de long terme qui est significatif au seuil de 1% pour les deux types de régime de
+change. En effet, à long terme, une augmentation de 1% de la vulnérabilité climatique diminue
+le taux d’intérêt de 1,90% des pays ayant un régime de change fixe et augmente de 0,10% le
+taux d’intérêt réel des pays en régime de change flexible.
+Les pays étant fréquemment sujet aux risques physiques liés au climat, notamment les
+changements de température et de précipitations et les catastrophes naturelles (inondations et
+sècheresses à titre d’illustration), cela aura pour conséquence de réduire la production agricole,
+qui toutes choses restant égales par ailleurs crée l’inflation par conséquent diminue le taux
+d’intérêt réel. Toutefois, pour les pays de la zone franc qui ont déjà un niveau d’inflation
+bas, les hausses sporadiques de l’inflation dues aux changements climatiques n’appellent pas
+3. Communauté Économique de l’Afrique Centrale : Cameroun, République du Congo, République Centra-
+fricaine, Tchad, Gabon et Guinée équatoriale
+4. UnionEconomiqueetMonétairedel’Afriquedel’Ouest:Benin,BurkinaFaso,Côted’Ivoire,Mali,Niger,
+Sénégal et Togo. Ajouté à RDC, la Bulgarie et à la Jordanie.
+15
+
+--- Page 17 ---
+Table 3 – Robustesse par le régime de change
+Taux d’intérêt Masse monétaire
+Variable
+Change fixe Change flexible Change fixe Change flexible
+Estimation de long terme
+GAIN 1,909(0,274)*** -0,102(0,046)*** 4,509 (0,370) 0,847(0,222)***
+PROD 0,241(0,72)*** 0,287(0,043)*** -1,006(0,232)*** -1,105(0,130)***
+NAT 0,123(0,094)* -0,161(0,045)*** -0,930(0,390)** -0,199(0,152)
+INF 0,340(0,106)** -0,150(0,029)*** 0,817(0,410)** -1,355(0,126)***
+EXP 0,065(0,060) -0,063(0,019) 1,903(0,383)*** 0,938(0,098)***
+PIB -0,299(0,103)*** 0,062(0,053) -0,930(0,305)*** -1,247(0,203)***
+DET -0,167(0,103)*** 0,042(0,051) -0,930(0,305)*** -1,247(0,203)***
+Estimation de court terme
+ECT -0,207(0,085)** -0,603(0,000)*** -0,009(0,036) -0,105(0,000)***
+GAIN 0,261(0,442) -0,197(0,264) -0,372(0,372) -0,098(0,186)**
+PROD -0,091(0,143) 0,300(0,278) 0,150(0,464) 1,22(0,311)***
+NAT -0,002(0,190) 0,311(2,767) 0,080(0,194) 2,625(5,322)
+INF -0,239(0,077)*** -0,286(0,038)*** -0,063(0,037)* 0,008(0,054)
+EXP 0,131(0,098) 0,115(0,093) 0,035(0,076) -0,052(0,072)
+PIB -0,014(0,089) -0,051(0,053) -0,128(0,075) -0,256(0,053)***
+DET 0,147(0,165) 0,258 (0,169) 0,078(0,075) 0,399(0,236)***
+Constante -13,739(6,212)** 6,374(0,624)*** 0,524(1,686) 2,967(0,620)***
+Observations 384 1584 384 1584
+Nombre de pays 16 66 16 66
+Note : ***, ** et * désignent respectivement la significativité à 1%, 5% et 10%. Les écarts types sont
+().le signe positif du coefficient de l’instrument de politique monétaire traduit un effet l’indice
+ND-GAIN
+forcement à une intervention particulière des banques centrales. Cette baisse du taux d’intérêt
+peut trouver une explication par le canal de la hausse de la dette publique pour financer les
+investissements liés à l’atténuation et l’adaptation des risques climatiques. En effet, une plus
+grande offre d’actifs souverains dans l’économie peut baisser le taux d’intérêt des titres.
+En revanche, pour les pays à régime de change flexible, plus ils sont vulnérables à court
+terme, plus élevé est le taux d’intérêt réel. Les pays à régime flexible ayant des niveaux d’in-
+flation plus élevés à la base, une augmentation supplémentaire de l’inflation peut les amener à
+réagir différemment par rapport à ceux qui sont en régime fixe ou l’inflation est déjà faible.
+De plus, lorsque l’on distingue les deux unions monétaires CEMAC et UEMOA dans le
+tableau 14 (en annexe), l’on s’aperçoit que les instruments de la politique monétaire de la zone
+CEMAC sont plus affectés par les risques liés au climat que ceux de l’UEMOA. En effet, la vul-
+nérabilité climatique influence à la fois les deux instruments de politique monétaire de manière
+significative au seuil de 1%, avec une baisse du taux d’intérêt réel de 0,59% et une hausse de la
+massemonétairede0,78%.Auseindel’UEMOA,l’effetn’estperceptibleàlongtermequesurle
+taux d’intérêt réel avec une baisse de 0,87%. Cet effet important au niveau de la zone CEMAC
+peut s’expliquer par la recrudescence des phénomènes climatiques au Tchad en RCA et dans le
+nord du Cameroun. A titre illustratif, au Tchad on relève les épisodes de sècheresses en 2009
+et en juin 2012, les inondations de 2010, de juillet à septembre 2012 et au cours des récentes
+années jusqu’en novembre 2022 avec une conséquence importante sur la production agricole du
+pays et même l’élevage. Egalement, les inondations dévastatrices en République Centrafricaine
+16
+
+--- Page 18 ---
+de 2010 à 2012 et au nord du Cameroun en 2021 et 2022 ont entrainé une mobilisation plus
+importante des pays.
+Au regard de leur faible capacité d’adaptation et d’investissement, les pays des unions mo-
+nétaires considérés font recours principalement aux financements extérieurs à savoir l’aide au
+climatetl’empruntauprèsdesinstitutionsinternationalesetprivées.Parconséquentleurendet-
+tement augmente, ce qui augmente également la masse monétaire (plus de crédits) si l’emprunt
+est local, la présence régulière des Etats sur le marché de titres amène plus de confiance et peut
+entrainer une baisse des taux d’emprunt.
+Deplus,uneforteexpositiondespaysdecesrégionsauxrisquesphysiquesliésauclimatcrée
+des mouvements migratoires qui réduisent l’offre de main d’œuvre et donc la productivité. En
+Afrique de l’Ouest par exemple, environ 328000 personnes ont été déplacés de leur pays dans les
+contextes de catastrophes naturelles (McAdam, 2020). De même, la récurrence des évènements
+météorologiques extrêmes dans ces régions génèrent l’insécurité alimentaire qui augmente le
+taux de mortalité, diminue l’espérance de vie et par conséquent réduit la productivité. Les pays
+du Sahel sont les plus touchés par l’insécurité alimentaire du à la sécheresse (OXFAM, 2022).
+Cette baisse de productivité réduit le produit marginal de chaque unité de capital, diminuant
+ainsi la demande de capital des entreprises, et donc le taux d’intérêt réel (ECB, 2021; Dietrich
+et al., 2021; Schnabel, 2021; Riksbank, 2020).
+4.2.2 Robustesse selon la région géographique
+Le tableau (4) ci-dessous montre une divergence des effets de la vulnérabilité climatiques
+sur la politique monétaire à court et à long terme selon les régions géographiques. Ce résultat
+s’explique par la différence d’exposition aux chocs liés au climat, des capacités budgétaires des
+régions pour s’adapter et atténuer les effets nuisibles du changement climatique, également,
+du niveau du marché financier, de la prise en compte des projets durables comme critère de
+financement des banques centrales des pays. En effet, à long terme, la vulnérabilité climatique
+réduit le taux d’intérêt réel au seuil de 1% des pays de la région d’Afrique Subsaharienne, d’Asie
+du Sud-Est et du Moyen Orient et Afrique du Nord. Dans les autres régions, l’effet est nul,
+cela peut s’expliquer par le bon degré de préparation de ces régions ce qui atténue les effets du
+changement climatique sur la conduite de leur politique monétaire. Pour ce qui est de la masse
+monétaire, elle baisse suite aux chocs climatiques dans toutes régions, excepté le Moyen Orient
+et Afrique du Nord.
+4.2.3 Robustesse selon le niveau de revenu
+Lorsqu’on tient compte du niveau de revenu des pays de l’échantillon, le tableau (5) ci-
+dessous montre que, à long terme, plus les pays à revenu faible et ceux de la tranche moyenne
+inférieursontvulnérablesauchangementclimatiqueplusleurtauxd’intérêtdiminueetlamasse
+monétaire également. Par conséquent, les pays les plus démunis sont ceux dont la vulnérabilité
+climatique a un effet significatif sur la conduite de la politique monétaire. Compte tenu de leur
+faible capacité financière, ils subissent le plus les risques physiques liés au climat car ont une
+faible capacité d’adaptation et au regard du mauvais climat d’investissement tant au niveau
+économique, institutionnel et social, ils font recours à l’emprunt pour y faire face. Le canal de la
+dette publique est le mécanisme principal des risques physiques liés au climat sur la conduite de
+la politique monétaire des pays plus démunis. Or chez les pays à revenu de la tranche moyenne
+supérieure, c’est l’effet contraire. A long terme, les résultats mettent en évidence une réaction
+non significative des instruments de politique monétaire suite aux chocs climatiques.
+17
+
+--- Page 19 ---
+euqihpargoég
+noigér
+al
+noles
+essetsuboR
+–
+4
+elbaT
+tnemurtsni’l
+ed
+tneicffieoc
+ud
+fitisop
+engis
+el.)(
+tnos
+sepyt
+stracé
+seL
+.%01
+te
+%5
+,%1
+à
+étivitacfiingis
+al
+tnemevitcepser
+tnengiséd
+*
+te
+**
+,***
+:
+etoN
+sel
+te
+enitaL
+euqirémA
+:
+ALA
+,elartneC
+eisA
+te
+eporuE
+:
+ACE
+;euqfiicaP
+tsE’l
+ed
+eisA
+:
+PAE
+.NIAG-DN
+ecidni’l
+teffe
+nu
+tiudart
+eriaténom
+euqitilop
+ed
+enneirahasbuS
+euqirfA
+:
+SSA
+,tsE
+duS
+ud
+eisA
+:
+SAS
+,droN
+ud
+euqirfA
+te
+tneirO
+neyoM
+:
+ANEM
+,sebïaraC
+18
+
+--- Page 20 ---
+unever
+ed
+uaevin
+el
+noles
+–
+5
+elbaT
+eriaténom
+essaM
+têrétni’d
+xuaT
+elbairaV
+rueirépus
+neyoM
+rueiréfnI
+neyoM
+elbiaF
+rueirépus
+neyoM
+rueiréfnI
+neyoM
+elbiaF
+emret
+gnol
+ed
+noitamitsE
+)726,0(797,0
+***)733,0(346,1
+***)130,1(521,3
+*)160,0(431,0-
+***)770,0(043,0
+***)661,0(402,1
+NIAG
+***)942,0(446,2-
+*)121,0(491,0-
+***)232,0(602,0-
+***)770,0(744,0
+**)340,0(390,0
+)160,0(971,0
+DORP
+***)398,0(933,3-
+***)201,0(
+561,4
+**)093,0(048,0
+)660,0(49,0-
+***)840,0(371,0-
+)601,0(242,0
+TAN
+**)711,0(042,0-
+***)680,0(872,0-
+**)014,0(743,0
+***)840,0(262,0
+***)223,0(952,0-
+)530,0(700,0
+FNI
+***)051,0(537,0
+**)940,0(450,0
+***)383,0(207,0
+)410,0(430,0-
+**)820,0(270,0-
+)06,0(200,0-
+PXE
+***)382,0(379,0-
+**)512,0(043,0-
+***)503,0(989,1-
+*)420,0(820,0
+*)750,0(911,0-
+*)540,0(210,0-
+BIP
+)851,3(564,0-
+**)831,0(713,0-
+***)991,0(537,0-
+***)94,0(661,0-
+***)350,0(312,0
+)111,0(830,0
+TED
+emret
+truoc
+ed
+noitamitsE
+***)520,0(280,0-
+**)130,0(870,0-
+*)630,0(910,0-
+***)760,0(294,0-
+***)760,0(385,0-
+***)290,0(095,0-
+TCE
+)782,0(991,0-
+)302,0(960,0
+)703,0(8830-
+)104,0(320,0
+)063,0(715,0-
+)8240(941,0-
+NIAG
+***)275,0(498,1
+**)251,0(863,0
+)464,0(901,0
+)664,0(873,0
+)952,0(403,0
+)191,0(122,0
+DORP
+)787,21(126,4
+)883,0(833,0
+)491,0(517,0
+)799,7(044,0-
+)675,0(734,0
+)513,0(022,0
+TAN
+)590,0(1790-
+)840,0(230,0-
+*)730,0(270,0-
+***)160,0(703,0-
+***)150,0(562,0-
+***)421,0(683,0-
+FNI
+)511,0(881,0-
+)460,0(290,0
+)670,0(010,0
+)880,0(140,0
+)621,0(171,0
+)1710(091,0
+PXE
+***)280,0(113,0-
+***)950,0(622,0-
+)570,0(890,0-
+*)080,0(131,0-
+)460,0(240,0-
+)280,0(481,0
+BIP
+*)541,0(421,0-
+)991,0(352,0
+)112,0(890,0-
+*)122,0(021,4
+***)351,0(114,0
+)265,0(916,0-
+TED
+***)066,2(777,01
+***)805,3(430,9
+)879,7(928,4-
+***)979,0(015,6
+***)796,0(543,2-
+***)020,4(21,22-
+etnatsnoC
+297
+048
+063
+867
+048
+063
+snoitavresbO
+33
+53
+51
+23
+53
+51
+syap
+ed
+erbmoN
+ed
+tnemurtsni’l
+ed
+tneicffieoc
+ud
+fitisop
+engis
+el.)(
+tnos
+sepyt
+stracé
+seL
+.%01
+te
+%5
+,%1
+à
+étivitacfiingis
+al
+tnemevitcepser
+tnengiséd
+*
+te
+**
+,***
+:
+etoN
+.NIAG-DN
+ecidni’l
+teffe
+nu
+tiudart
+eriaténom
+euqitilop
+19
+
+--- Page 21 ---
+4.2.4 Test de robustesse selon les indicateurs de l’indice ND-GAIN
+L’analysedutableau6ci-dessous,metenévidencedeuxniveauxdedésagrégationdel’indice
+globaldevulnérabilitéclimatique.Premièrement,l’indicedevulnérabilitéclimatique(VUL)qui
+ne prend pas en compte le degré de préparation (capacité d’investissement) inclus dans l’indice
+global ND-GAIN. Deuxièmement, l’indice de sensibilité qui combine à la fois la sensibilité et
+l’exposition par une moyenne arithmétique. Ce deuxième indice permet d’approcher l’effet des
+risques physiques liés au changement climatique sans prise en compte de la capacité d’adapta-
+tion qui est contenu au précédent indice. La désagrégation se présente comme indique la figure
+(4) suivante :
+Figure 4 – Désagrégation de l’indice global de vulnérabilité climatique.
+Les résultats des estimations dans le tableau (6) montrent tout d’abord que, lorsqu’on
+ne tient pas compte de la capacité d’investissement des pays en développement, l’effet de la
+vulnérabilité climatique devient significatif à long terme sur le taux d’intérêt. En effet, une
+augmentation de 1% de la vulnérabilité climatique réduit le taux d’intérêt de 0,49% au seuil de
+1%. Toutefois, l’effet de court terme demeure nul. Par ailleurs, l’amplitude de l’effet de la vul-
+nérabilité climatique sur la masse monétaire devient plus important, tout en restant significatif.
+L’effet positif passant de 1,359% pour l’indice GAIN à 26,43% pour l’indice de vulnérabilité
+sans degré de préparation. Ces résultats suggèrent, un potentiel effet de mitigation de l’état
+de préparation sur la relation vulnérabilité climatique et politique monétaire. Par conséquent,
+quand les Etats décident de se prémunir des risques physiques liés au climat par une bonne
+préparation économique, institutionnelle et sociale, l’action de la banque centrale peut ne plus
+être nécessaire.
+D’un autre côté, lorsque la capacité d’adaptation et l’état de préparation ne sont pas pris en
+compte (SEN), l’effet de la vulnérabilité climatique sur le taux d’intérêt est presque similaire à
+celui de l’indice ND GAIN sans état de préparation (VUL). En revanche, la masse monétaire
+réagit plutôt positivement à la hausse des risques physiques liés au climat à long terme. Ce qui
+20
+
+--- Page 22 ---
+confirme l’argument selon lequel plus un pays a des incapacités à s’adapter, plus il emprunte
+ce qui augmente sa masse monétaire.
+Table 6 – Effets des indicateurs de vulnérabilité climatique sur les instruments de politique
+monétaire
+Taux d’intérêt Masse monétaire
+Court terme Long terme Court terme Long terme
+GAIN -0,137(0,223) 0,020 (0,048) -0,195(0,160) 1,359(3,920)***
+VUL -0,652 (0,409) 0,485 (0,041)*** -0,282 (0,345) 26,43(6,05)***
+SEN -0,683 (0,477) 0,472 (0,150)*** 0,690(0,349) -3,035(0,352)***
+Var. de contrôle Oui Oui Oui Oui
+Observations 1968 1968 1968 1968
+Nombre de pays 82 82 82 82
+Note : ***, ** et * désignent respectivement la significativité à 1%, 5% et 10%. Les écarts types sont
+().Le signe positif du coefficient de l’instrument de politique monétaire traduit un effet négatif
+l’indice ND-GAIN. Toutefois, pour les variables VUL et SEN, le signe positif traduit un effet positif.
+4.3 Analyse de la médiation
+L’analyse des canaux de transmission des effets de la vulnérabilité climatique sur les instru-
+ments de la politique monétaire a permis d’identifier l’inflation, la dette publique, la production
+et les exportations agricoles comme les principaux mécanismes de transmission. Il sera donc
+question d’évaluer la part des effets transmis par ces canaux dans la relation vulnérabilité cli-
+matique et politique monétaire dans les pays en développement en s’inspirant de la figure (5)
+ci-dessous. L’analyse considère comme mesure de la vulnérabilité climatique la composante ex-
+position au risque climatique, afin de prendre en compte au 1er degré l’effet des évènements
+météorologiques et catastrophes naturelles sans prise en compte des mesures d’adaptation et
+d’atténuation.
+Figure 5 – Modélisation de l’analyse de la médiation .
+21
+
+--- Page 23 ---
+L’estimation du rôle joué par les médiateurs implique l’estimation de deux équations de ré-
+gression, comme illustré par la figure ci-dessus. Tout d’abord, le paramètre (b1) décrivant l’effet
+de l’exposition au changement climatique sur le médiateur (model1). Ensuite, l’effet indirect
+est estimé en régressant l’instrument de la politique monétaire par l’exposition au changement
+climatique tout en contrôlant par le médiateur (model2). Le coefficient de l’exposition au chan-
+gement climatique sur l’instrument de la politique monétaire est donné par le paramètre (b2),
+l’effet indirect est donné par le produit b1 et b3, où b3 mesure la force de la corrélation entre
+l’exposition au changement climatique et la variable macroéconomique servant de canal de
+transmission. Le tableau 7 présente les résultats de la médiation des effets l’exposition au chan-
+gement climatique sur l’instrument de la politique monétaire dans les pays en développement
+via les médiateurs susmentionnés. Ceci est fait sur la base de plusieurs approches statistiques
+popularisées par MacKinnon et al. (1995).
+Les résultats du tableau (7) ci-dessous, en considérant tout d’abord le taux d’intérêt comme
+instrument de politique monétaire, montrent que l’effet médiateur de l’inflation et des expor-
+tations des biens et services est validé au regard de la statistique du test de Sobel qui est
+significative au seuil de 5%. L’inflation apparait ainsi comme le canal le plus robuste des effets
+du changement climatique sur le taux d’intérêt avec un poids des effets transmis de 26,4%.
+Ensuite, les exportations des biens et services transmettent 20,6% des risques physiques liés au
+climat.
+Par ailleurs, en utilisant le même procédé pour la masse monétaire, les résultats valident la
+dette publique, la production agricole et les exportations de biens et services comme les prin-
+cipaux mécanismes de transmission. De ce fait, l’effet sur la production agricole de l’exposition
+au changement climatique influence à hauteur de 39,4% la masse monétaire. De plus, l’augmen-
+tation de la dette publique transmet 25,8% de l’exposition au climat sur la masse monétaire.
+En revanche, le canal des exportations a un effet médiateur moins consistant évalué à 10,7
+Table 7 – Analyse de la médiation
+Note : Le test de Sobel teste l’hypothèse nulle d’absence d’effet indirect entre l’exposition au change-
+ment climatique et l’instrument de politique monétaire considéré via le médiateur. *** et ** désigne
+la significativité à 1
+22
+
+--- Page 24 ---
+Conclusion
+L’objectif de cette étude était d’analyser les effets de la vulnérabilité climatique sur les ins-
+truments de la politique monétaire des pays en développement. L’usage d’un modèle de panel
+ARDL avec une estimation PMG, nous a permis de mettre en exergue un certain nombre de
+résultats dont les principaux indiquent que le changement climatique influence la conduite de
+la politique monétaire. Pour l’échantillon global des pays en développement retenu, la vulnéra-
+bilité climatique n’a aucun effet sur le taux d’intérêt. En revanche, à long terme, elle diminue
+la masse monétaire.
+Cependant,ilexisteunetrèsfortevariabilitédesrésultatsselonquelespayssoientenrégime
+de change fixe et flexible ou encore en union monétaire, de différentes régions géographiques
+et des revenus. Lorsque l’indice global ND-GAIN est désagrégé en ses sous-composantes, on
+constate que le degré de préparation est un instrument d’atténuation des effets de la vulnéra-
+bilité climatique sur la conduite de la politique monétaire.
+Au regard de ces résultats, étant donné que les PED qui émettent le moins de gaz à effet de
+serre sont les plus vulnérables au changement climatique, un appui plus important de la part
+des institutions internationales permettraient de mitiger les effets des changements climatiques
+et de ce fait, permettre à la politique monétaire de se focaliser sur ses objectifs prioritaires.
+Des instruments tels que, le Trust sur la Résilience et la Durabilité (RST) mis en place par le
+FMI peut aider donc les pays les plus vulnérables au changement climatique à renforcer leur
+résilience en fournissant un financement à plus long terme et abordable.
+Toutefois, selon le degré d’exposition et de la persistance des chocs climatiques sur l’offre
+et la demande de l’économie et du bilan de la banque centrale aux chocs climatiques, les consi-
+dérations de risque doivent être examinées de manière plus approfondie et peuvent également
+être intégrées dans le cadre opérationnel de la politique monétaire. Au-delà, des considérations
+de risque, les banques centrales doivent être attentives et étudier les implications potentielles
+pour leur stratégie de politique monétaire. De ce fait, elles peuvent prendre en considération
+différentes pratiques d’atténuation et d’adaptation à travers le "verdissement" de la politique
+monétaire qui inclus certains mécanismes comme la baisse du taux d’intérêt pour financer les
+critères de prêt liés au climat.
+Références
+Aglietta, M., Espagne, É., et al. (2016). Climate and finance systemic risks, more than an
+analogy? : the climate fragility hypothesis. CEPII, Centre d’etudes prospectives et d’in-
+formations internationales.
+Angeli, M., Archer, C., Batten, S., Cesa-Bianchi, A., D’Aguanno, L., Haberis, A., ... others
+(2022). Climatechange:possiblemacroeconomicimplications. Bank of England Quarterly
+Bulletin.
+Auclert, A., Rognlie, M., & Straub, L. (2018). The intertemporal keynesian cross (Rapport
+technique). National Bureau of Economic Research.
+Batten, S., Sowerbutts, R., & Tanaka, M. (2016). Let’s talk about the weather : the impact of
+climate change on central banks.
+Battiston, S., Guth, M., Monasterolo, I., Neudorfer, B., Pointner, W., et al. (2020). Austrian
+banks’ exposure to climate-related transition risk. Financial Stability Report, 40, 31–44.
+Boneva, L., Ferrucci, G., & Mongelli, F. P. (2021). To be or not to be “green” : how can
+monetary policy react to climate change? ECB Occasional Paper(2021285).
+23
+
+--- Page 25 ---
+Boneva, L., Ferrucci, G., & Mongelli, F. P. (2022). Monetary policy and the green transifion.
+SUERF Policy Brief, 268.
+Breitenfellner, A., Pointner, W., et al. (2021). The impact of climate change on monetary
+policy. Monetary Policy & the Economy(Q3/21), 59–80.
+Buigut, S. (2009). Monetary policy transmission mechanism : implications for the proposed
+east african community (eac) monetary union. In Csae conference.
+Bylund, E., & Jonsson, M. (2020). How does climate change affect the long-run real interest
+rate. Economic Commentaries, 11, 90–108.
+Carlson, C. J., Albery, G. F., Merow, C., Trisos, C. H., Zipfel, C. M., Eskew, E. A., ... Bansal,
+S. (2021). Climate change will drive novel cross-species viral transmission. BioRxiv,
+2020–01.
+Cevik, M. S., & Jalles, J. T. (2020). This changes everything : Climate shocks and sovereign
+bonds. International Monetary Fund.
+Chen, C., Noble, I., Hellmann, J., Coffee, J., Murillo, M., & Chawla, N. (2015). University of
+notre dame global adaptation index. University of Notre Dame : Notre Dame, IN, USA.
+Crises, G. N. A. F., et al. (2021). 2021 global report on food crises : September 2021 update.
+Dafermos, Y. (2022). Climate change, central banking and financial supervision : beyond the
+risk exposure approach. In The future of central banking (pp. 175–194). Edward Elgar
+Publishing.
+Dell, M., Jones, B. F., & Olken, B. A. (2012). Temperature shocks and economic growth :
+Evidencefromthelasthalfcentury. American Economic Journal : Macroeconomics,4(3),
+66–95.
+Deryugina, T., & Hsiang, S. M. (2014). Does the environment still matter? daily temperature
+and income in the united states (Rapport technique). National Bureau of Economic
+Research.
+Dietrich, A., Müller, G. J., & Schoenle, R. (2021). The expectations channel of climate change :
+implications for monetary policy.
+Dietz, S., & Stern, N. (2015). Endogenous growth, convexity of damage and climate risk : how
+nordhaus’ framework supports deep cuts in carbon emissions. The Economic Journal,
+125(583), 574–620.
+Diffenbaugh, N. S., & Burke, M. (2019). Global warming has increased global economic
+inequality. Proceedings of the National Academy of Sciences, 116(20), 9808–9813.
+Drudi, F., Moench, E., Holthausen, C., Weber, P.-F., Ferrucci, G., Setzer, R., ... others (2021).
+Climate change and monetary policy in the euro area.
+ECB. (2021). Climate change and monetary policy in the euro area. Occasional Paper Series,
+ECB strategy review(271).
+Foreman, K. J., Marquez, N., Dolgert, A., Fukutaki, K., Fullman, N., McGaughey, M., ...
+others (2018). Forecasting life expectancy, years of life lost, and all-cause and cause-
+specific mortality for 250 causes of death : reference and alternative scenarios for 2016–40
+for 195 countries and territories. The Lancet, 392(10159), 2052–2090.
+GIEC. (2022). 6e rapport du giec : Accélérer l’action climatique, c’est possible.
+Hausman, J. A. (1978). Specification tests in econometrics. Econometrica : Journal of the
+econometric society, 1251–1271.
+Heinen, A., Khadan, J., & Strobl, E. (2019). The price impact of extreme weather in developing
+countries. The Economic Journal, 129(619), 1327–1342.
+Kahn, M. E., Mohaddes, K., Ng, R. N., Pesaran, M. H., Raissi, M., & Yang, J.-C. (2019).
+Long-term macroeconomic effects of climate change : A cross-country analysis (Rapport
+technique). National Bureau of Economic Research.
+Kozlowski, J., Veldkamp, L., & Venkateswaran, V. (2019). The tail that keeps the riskless rate
+low. NBER Macroeconomics Annual, 33(1), 253–283.
+24
+
+--- Page 26 ---
+Krogstrup, S., & Oman, W. (2019). Macroeconomic and financial policies for climate change
+mitigation : A review of the literature.
+Luc, F., Carlos, C. M. J., Simon, G., Dolores, I. R., Antonio, S. R., Alessandro, D., ... others
+(2020). Climate change impacts and adaptation in europe.
+MacKinnon, D. P., Warsi, G., & Dwyer, J. H. (1995). A simulation study of mediated effect
+measures. Multivariate behavioral research, 30(1), 41–62.
+McAdam, J. (2020). Displacing evacuations : A blind spot in disaster displacement research.
+Refugee Survey Quarterly, 39(4), 583–590.
+Mishra, P., & Montiel, P. (2013). How effective is monetary transmission in low-income coun-
+tries? a survey of the empirical evidence. Economic Systems, 37(2), 187–216.
+Mishra,P.,Montiel,P.,&Sengupta,R. (2016). Monetarytransmissionindevelopingcountries:
+Evidence from india. In Monetary policy in india (pp. 59–110). Springer.
+NGFS. (2020). Climate change and monetary policy : Initial takeaways. Technical document.
+Nordhaus, W.D. (2007). The challenge of global warming : economic models and environmental
+policy (Vol. 4). Yale University New Haven.
+Odongo, M. T., Misati, R. N., Kamau, A. W., & Kisingu, K. N. (2022). Climate change and
+inflation in eastern and southern africa. Sustainability, 14(22), 14764.
+of England, B. (2020). Climate change : possible macroeconomic implications.
+OXFAM. (2022). Comment la crise climatique aggrave la faim dans un monde qui en souffre
+déjà.
+Parker, M. (2018). The impact of disasters on inflation. Economics of Disasters and Climate
+Change, 2(1), 21–48.
+Peersman, G. (2022). International food commodity prices and missing (dis) inflation in the
+euro area. Review of Economics and Statistics, 104(1), 85–100.
+Pesaran, M. H., Shin, Y., & Smith, R. P. (1999). Pooled mean group estimation of dynamic
+heterogeneous panels. Journal of the American statistical Association, 94(446), 621–634.
+Pesaran, M. H., & Smith, R. (1995). Estimating long-run relationships from dynamic hetero-
+geneous panels. Journal of econometrics, 68(1), 79–113.
+Piontek, F., Kalkuhl, M., Kriegler, E., Schultes, A., Leimbach, M., Edenhofer, O., & Bauer,
+N. (2019). Economic growth effects of alternative climate change impact channels in
+economic modeling. Environmental and Resource Economics, 73(4), 1357–1385.
+Rachel, L., & Smith, T. (2015). Secular drivers of the global real interest rate.
+Radtke, K., & Weller., D. (2019). “the world risk index 2019.” in world risk report 2019, focus :
+Water supply. berlin, germany : Bündnis entwicklung hilft and ruhr university bochum.
+institute for international law of peace and armed conflict..
+Riksbank, S. (2020). Sustainability strategy for the riksbank. Sveriges Riksbank, Stockholm.
+Rudebusch, G. D., et al. (2019). Climate change and the federal reserve. FRBSF Economic
+Letter, 9(March 2019).
+RVAA. (2022). Regional vulnerability assessment analysis programm.
+Saxegaard, M. (2006). Excess liquidity and effectiveness of monetary policy : evidence from
+sub-saharan africa.
+Schnabel, I. (2021). Climate change and monetary policy. IMF, Fall.
+Scott, M., Van Huizen, J., & Jung, C. (2017). The bank’s response to climate change. Bank of
+England Quarterly Bulletin, Q2.
+Seppanen, O., Fisk, W. J., & Lei, Q. (2006). Effect of temperature on task performance in
+office environment.
+Shobande, O. A. (2022). Is climate change a monetary phenomenon? evidence from time series
+analysis. International Journal of Sustainable Development & World Ecology, 29(2), 99–
+111.
+Tinbergen, J. (1952). On the theory of economic policy.
+25
+
+--- Page 27 ---
+UNDP. (2009). Linking climate change policies to human development analysis and advocacy, a
+guidance note for human development report team. Human Development Report Office :
+Washington, DC, USA.
+WMO. (2021). State of the global climate 2020. WMO-N0. 1264, Geneva, Switzerland.
+Zeno, R. R. A., L., & Mandap, D. R. L. (2022). Climate change and monetary policy : some
+preliminary thoughts. WMO-N0. 1264, Geneva, Switzerland, 22(3), 1–5.
+Annexe
+Présentation de l’indice ND-GAIN
+Tous les pays, à des degrés divers, sont confrontés aux défis de l’adaptation. En raison de
+leur situation géographique ou de leur condition socio¬économique, certains pays sont plus vul-
+nérables aux impacts du changement climatique que d’autres. En outre, certains pays sont plus
+disposés à entreprendre des actions d’adaptation en tirant parti des investissements des secteurs
+public et privé, grâce à l’action gouvernementale, à la sensibilisation de la communauté et à la
+capacité de faciliter les réponses du secteur privé. ND¬GAIN mesure ces deux dimensions : la
+vulnérabilité et l’état de préparation. La vulnérabilité est composée de 36 indicateurs. Chaque
+composante comporte 12 indicateurs, croisés avec 6 secteurs. L’état de préparation est composé
+de 9 indicateurs.
+Figure 6 – Résumé des indicateurs de vulnérabilité et de préparation NDGAIN.
+De façon plus détaillé, les indicateurs mobilisés sont présenté dans le tableau ci-dessous :
+26
+
+--- Page 28 ---
+Table 8 – Indicateurs de vulnérabilité NDGAIN
+Table 9 – Liste des pays
+Albanie Cap Vert Guinée Équatoriale Jordan Nicaragua Solomon Island
+Algérie Cameroun Fiji Kenya Niger Afrique du Sud
+Angola RCA Gabon Kirghizstan Nigéria Sri Lanka
+Azerbaïdjan Tchad Géorgie Lao PDR Macédoine Tadjikistan
+Bangladesh Chine Ghana Libye Pakistan Tanzanie
+Biélorussie Colombie Guatemala Madagascar P. N. Guinée Gambie
+Bénin Ile Comores Guinée B. Mali Paraguay Togo
+Bhutan Congo Guyane Mauritanie Pérou Tunisie
+Bolivie Costa Rica Haïti Ile Maurice Philippines Ouganda
+Botswana Côte d’Ivoire Honduras Mexique Russie Ukraine
+Brésil RDC Inde Moldavie Rwanda Vanuatu
+Bulgarie Dominique Iran Mongolie Samoa Zambie
+Burkina Faso Dominicaine R. Iraq Maroc Sénégal
+Burundi Egypte Jamaïque Mozambique Sierra Leone
+27
+
+--- Page 29 ---
+Table 10 – Matrice de corrélation
+Variables (1) (2) (3) (4) (5) (6) (7) (8) (9)
+(1) MM 1.000
+(2) Tx_I -0.021 1.000
+(3) VUL 0.528* 0.004 1.000
+(4) PROD -0.384* 0.033 -0.654* 1.000
+(5) NAT -0.218* -0.136* -0.229* -0.036 1.000
+(6) INF -0.047* -0.247* -0.037 -0.002 0.088* 1.000
+(7) EXP 0.081* -0.153* 0.278* -0.342* 0.375* 0.091* 1.000
+(8) PIB -0.094* -0.008 -0.060* -0.013 0.191* 0.004 0.116* 1.000
+(9) DET 0.122* -0.014 0.313* -0.257* -0.024 0.077* 0.330* -0.010 1.000
+* Désigne la significativité à 5%.
+Table 11 – Test de stationnarité des variables
+Variables en niveau
+LLC IPS ADF
+Stat P-Value Stat P-Value Stat P-Value
+MM 3,365 0,996 8,476 1 8,139 1
+Tx I -12,475 0,000 -17,754 0,000 -19,577 0,000
+VUL 0,672 0,749 4,179 1 5,355 1
+PROD -10,138 0,000 -6,434 0,000 -7,893 0,000
+NAT -8,111 0,000 -7,785 0,000 -7,288 0,000
+INF -46,709 0,000 -29,617 0,000 -25,74 0,000
+EXP -3,077 0,001 -2,645 0,004 -1,666 0,048
+PIB -14,003 0,000 -16,893 0,000 -18,639 0,000
+DET -10,32 0,000 -10,12 0,000 -11,54 0,000
+En première différence
+LLC IPS ADF
+Symbole Stat P-Value Stat P-Value Stat P-Value
+MM -32,415 0,000 -31,924 0,000 -49,748 0,000
+Tx I -51,473 0,000 -52,08 0,000 -51,374 0,000
+VUL -32,154 0,000 -29,584 0,000 -32,476 0,000
+PROD -31,656 0,000 -31,96 0,000 -34,95 0,000
+NAT -36,996 0,000 -35,172 0,000 -36,406 0,000
+INF -150 0,000 -66,01 0,000 -51,098 0,000
+EXP -30,772 0,000 -31,978 0,000 -33,464 0,000
+PIB -37,993 0,000 -42,218 0,000 -47,355 0,000
+DET -40,36 0,000 -41,42 0,000 -44,99 0,000
+28
+
+--- Page 30 ---
+Table 12 – Test de dépendance transversale (Pesaran, 2015)
+variable CD p-value N_g T
+Tx_I 24,73 0,000 82 25
+VUL 57,269 0,000 82 25
+PROD 108,924 0,000 82 25
+NAT 55,457 0,000 82 25
+INF 63,643 0,000 82 25
+EXP 22,149 0,000 82 25
+PIB 66,359 0,000 82 25
+DET 29,415 0,000 82 25
+variable CD p-value N_g T
+MM 163,414 0,000 82 25
+VUL 57,269 0,000 82 25
+PROD 108,924 0,000 82 25
+NAT 55,457 0,000 82 25
+INF 63,643 0,000 82 25
+EXP 22,149 0,000 82 25
+PIB 66,359 0,000 82 25
+DET 29,415 0,000 82 25
+Note : H0 : les erreurs sont faiblement dépendantes en coupe transversale.
+29
+
+--- Page 31 ---
+Table 13 – Test de cointégration des modèles
+Test de cointégration du modèle : taux d’intérêt
+Test du résidu Pedroni Panel statistique
+Statistique Prob. Statistique Prob.
+pondérée
+V-statistique -2,938 0,018 -3,458 0
+rho- statistique 2,568 0,995 2,958 1
+pp-statistique -14,06 0,000 -17,458 0
+ADF-statistique -9,467 0,000 -10,586 0
+Groupe-statistique
+rho- statistique 5,748 1
+pp-statistique -16,36 0,000
+ADF-statistique -8,826 0,000
+Test du résidu Kao
+t-statistique Prob.
+ADF -7,459 0,000
+Test de cointégration du modèle : Masse monétaire
+Test du résidu Pedroni Panel statistique
+Statistique Prob. Statistique Prob.
+pondérée
+V-statistique -3,672 0,000 -3,123 0
+rho- statistique 7,533 1 6,325 1
+pp-statistique 0,1786 0,000 -5,845 0
+ADF-statistique -6,194 0,000 -4,956 0
+Groupe-statistique
+rho- statistique 10,158 1
+pp-statistique -1,595 0,001
+ADF-statistique -3,087 0,000
+Test du résidu Kao
+t-statistique Prob.
+ADF -3,896 00,000
+30
+
+--- Page 32 ---
+eriaténom
+noinu’l
+noles
+essetsuboR
+–
+41
+elbaT
+eriaténom
+essaM
+têrétni’d
+xuaT
+MU
+nE
+MU
+nE
+MU
+ne
+saP
+AOMEU
+CAMEC
+MU
+ne
+saP
+AOMEU
+CAMEC
+emret
+gnol
+ed
+noitamitsE
+***)104,0(824,2
+*)908,2(354,0-
+***)141,0(187,0-
+)640,0(370,0-
+***)611,0(178,0
+***)251,0(685,0
+LUV
+***)031,0(566,0
+*)896,0(692,1-
+***)652,0(294,1-
+***)240,0(133,0
+***)960,0(982,0
+)211,0(701,0-
+DORP
+)251,0(064,6-
+*)024,1(574,2
+*)240,0(433,0-
+***)140,0(712,0-
+**)051,0(004,0-
+)211,0(060,0-
+TAN
+***)621,0(965,0-
+*)957,2(223,5
+**)871,0(084,0
+***)820,0(051,0-
+***)301,0(094,0-
+)511,0(202,0-
+FNI
+***)890,0(876,0
+***)546,0(668,0
+***)850,0(55,0
+***)210,0(390,0-
+**)210,0(871,0
+*)911,0(502,0-
+PXE
+***)302,0(402,1
+***)132,1(727,1-
+***)410,0(734,0-
+)940,0(310,0
+)170,0(090,0-
+)330,0(130,0-
+BIP
+***)191,0(875,0
+**)65,0(051,0-
+***)881,0(847,0-
+)840,0(460,0
+)301,0(951,0-
+***)571,0(275,0
+TED
+emret
+truoc
+ed
+noitamitsE
+***)410,0(140,0-
+***)410,0(001,0-
+**)121,0(192,0-
+***)240,0(155,0-
+***)951,0(067,0-
+)640,0(670,0-
+TCE
+)471,0(602,0-
+*)312,0(053,0-
+)822,0(250,0-
+)452,0(081,0-
+)269,0(211,0
+)570,0(301,0
+LUV
+***)113,0(229,0
+***)780,0(722,0
+***)780,0(722,0
+)382,0(542,0
+)311,0(420,0-
+)660,0(820,0-
+DORP
+)658,5(348,2
+)982,0(890,0-
+)982,0(890,0-
+)114,3(110,0
+)221,0(550,0
+**)510,0(330,0
+TAN
+)450,0(950,0-
+*)990,0(690,0-
+*)990,0(690,0-
+***)140,0(462,0-
+)901,0(880,0-
+)841,0(200,0-
+FNI
+)270,0(230,0-
+)451,0(740,0-
+)451,0(740,0-
+)190,0(111,0
+)542,0(712,0
+**)710,0(020,0
+PXE
+***)350,0(353,0-
+**)640,0(410,0-
+**)640,0(410,0-
+)150,0(6030,0-
+)340,0(440,0
+)800,0(600,0-
+BIP
+)291,0(103,0
+)011,0(521,0
+)011,0(521,0
+)251,0(212,0
+)982,0(673,0
+*)140,0(070,0-
+TED
+***)935,0(707,2
+***)609,7(074,01
+)344,6(904,71
+***)037,0(399,8
+***)834,4(355,02-
+**)028,2(364,5-
+etnatsnoC
+0081
+861
+441
+0081
+861
+441
+snoitavresbO
+57
+7
+6
+57
+7
+6
+syap
+ed
+erbmoN
+eriaténom
+noinu’l
+engiséd
+MU.)(
+tnos
+sepyt
+stracé
+seL
+.%01
+te
+%5
+,%1
+à
+étivitacfiingis
+al
+tnemevitcepser
+tnengiséd
+*
+te
+**
+,***
+:
+etoN
+31

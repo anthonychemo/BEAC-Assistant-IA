@@ -1,0 +1,53 @@
+Source PDF : Courbe_de_rendements_des_titres_publics_congolais_-_mai_2020_a8304e2d.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbe_de_rendements_des_titres_publics_congolais_-_mai_2020_a8304e2d.pdf
+Date extraction : 15/06/2026 20:23:44
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS
+Courbe de rendements des titres publics congolais
+DE
+L’AFRIQUE CENTRALE
+mai-20
+12,00
+10,35 10,46 10,58 10,64 10,67 10,68 10,69 10,70
+10,19
+10,00 9,55
+8,95
+8,00
+8,00
+%
+n 6,51
+e
+s
+t
+n
+e 6,00 5,47
+m
+e
+d
+n
+e
+R
+4,00
+2,00
+0,00
+3 mois 6 mois 1 an 1,5 ans 2 ans 3 ans 3,5A 4 ans 5 ans 6 ans 7 ans 8 ans 9 ans 10 ans
+Maturités
+
+--- Page 2 ---
+Maturité Rendement (en %)
+3 mois 5,47
+6 mois 6,51
+1 an 8,00
+1,5 an 8,95
+2 ans 9,55
+3 ans 10,19
+3,5 ans 10,35
+4 ans 10,46
+5 ans 10,58
+6 ans 10,64
+7 ans 10,67
+8 ans 10,68
+9 ans 10,69
+10 ans 10,70

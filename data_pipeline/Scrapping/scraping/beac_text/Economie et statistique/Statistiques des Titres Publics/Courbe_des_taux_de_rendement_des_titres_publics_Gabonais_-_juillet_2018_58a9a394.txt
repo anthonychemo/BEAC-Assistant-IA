@@ -1,0 +1,55 @@
+Source PDF : Courbe_des_taux_de_rendement_des_titres_publics_Gabonais_-_juillet_2018_58a9a394.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbe_des_taux_de_rendement_des_titres_publics_Gabonais_-_juillet_2018_58a9a394.pdf
+Date extraction : 15/06/2026 20:26:09
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS
+DEL'AFRIQUE CENTRALE Courbe des taux de rendement des titres publics gabonais
+juillet 2018
+31,00
+26,27
+26,00
+-juil-18
+21,00
+~
+o
+Z
+W
+f-
+z
+~16,00
+w
+o
+z
+w
+C!:11,00
+6,00
+1,00
+3M 6M 12M IBM 2A 3A 3,SA 4A SA
+MATURITE
+
+--- Page 2 ---
+Taux de rendement par maturite (en %) des titres d'Etat camerounais
+3mois 2,69
+6mois 2,98
+1an 3,49
+1,5an 3,99
+2ans 4,49
+3ans 5,49
+3,5 ans 5,99
+4 ans 6,51
+5ans 7,54
+Taux de rendement par maturite (en %) des titres d'Etat gabonais
+- -. .
+IlIDIr:lMl'IIt;' '
+3mois 3,46
+6mois 3,65
+1an 4,11
+1,5an 4,56
+2ans 5,01
+3ans 10,52
+3,5 ans 13,28
+4ans 17,28
+5ans 26,27
+Source: BEAC

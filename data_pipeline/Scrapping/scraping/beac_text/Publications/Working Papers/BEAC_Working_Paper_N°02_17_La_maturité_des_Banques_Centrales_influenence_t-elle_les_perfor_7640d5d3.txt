@@ -1,0 +1,1012 @@
+Source PDF : BEAC_Working_Paper_N°02_17_La_maturité_des_Banques_Centrales_influenence_t-elle_les_perfor_7640d5d3.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°02_17_La_maturité_des_Banques_Centrales_influenence_t-elle_les_perfor_7640d5d3.pdf
+Date extraction : 15/06/2026 21:25:58
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 02/17 -
+La maturité des Banques Centrales influence-t-elle les performances
+économiques ?
+KENE CK MASSIL Joseph KABLAN Sandrine BIKAI J. Landry
+Docteur en sciences économiques M a ître de conférences Docteur en sciences économiques
+Et
+Université de Paris-Nanterre Université de Paris-Créteil D irection de la Recherche (BEAC)
+joseph.keneckmassil@gmail.com sandrine.kablan@u-pec.fr bikai@beac.int
+B ANQ U E D E S E T A T S D E
+L’AF R IQ U E C E NT R ALE Les opinions émises dans ce document de
+travail sont propres à leur (s) auteur (s) et ne
+7 36, Av e n ue M on s e i g n e ur
+représentent pas nécessairement la position de la
+V og t B P:1 9 1 7 Y a o un d é
+Banque des Etats de l’Afrique Centrale.
+C a me roun
+T e l :(2 37 ) 2 2 2 34 0 30 / The opinions expressed in this working
+2 2 2 34 060 paper are those of the author (s) and don’t
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9
+of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E L A R E C H E R C H E
+
+--- Page 2 ---
+La maturité des Banques Centrales influence-t- elle les
+performances économiques?
+Keneck Massil Joseph∗, Kablan Sandrine∗∗ Bikai J. Landry∗∗∗
+Décembre 2017
+Résumé
+L’objectifprincipaldecetarticleestdetesterunehypothèsenouvelleenconstruisantunevariable
+originale selon laquelle la maturité des banques centrales (BC) ou encore l’expérience des BC
+influence les performances économiques des Etats contemporains. Nous définissons la maturité
+de la BC comme la différence entre une année contemporaine et son année de création. Notre
+hypothèse reste valide même en contrôlant par des variables économiques, institutionnelles,
+historiquesetsocioculturelles.Demême,nousexposonsdeuxprincipauxcanauxdetransmission
+à travers lesquels la maturité des BC influence la performance : le canal par le développement
+financier et celui par la stabilité bancaire. Nous montrons que notre indicateur de maturité des
+BC agit sur d’autres déterminants de développement financier.
+Mots-clés : Banque centrale, Maturité des BC, Expérience des BC, Performance écono-
+mique.
+Codes JEL : E00, E02, E58, F30.
+Does Central Bank’s maturity matter for economic
+performances?
+Abstract
+The main objective of this article is to test a new hypothesis by constructing an original variable
+accordingtowhichthematurityofthecentralbanks(CB)ortheexperienceoftheCBinfluences
+the economic performances of the contemporary states. We define the maturity of CB as the
+difference between a contemporary year and its year of creation. Our hypothesis remains valid
+even when controlling by economic, institutional, historical and socio-cultural variables. In the
+same way, we expose two main transmission channels through which the maturity of the CBs
+influences the performance : the channel by the financial development and that by the banking
+stability. Similarly, we show that our CB maturity indicator acts on other determinants of
+financial development.
+Keywords : Central Bank, CB maturity, CB experience, economic performance.
+JEL Classification : E00, E02, E58, F30
+∗. Ph’D en Economie, Cemotev, Université de Saint Quentin en Yvelines, EconomiX, Université de
+Paris Nanterre
+∗∗. Maître de conférences Université de Paris Créteil
+∗∗∗. Ph’D en Economie, Banque des Etats de l’Afrique Centrale
+Les auteurs remercient le Pr. Avom et les cadres de la BEAC pour leurs observations et commentaires,
+les éventuelles erreurs et omissions contenues dans cette étude sont du seul fait de ceux-ci.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 4
+1 Quels sont les canaux par lesquelles la maturité de la BC peut influencer la
+performance économique? 6
+2 Approche empirique et description de la variable d’intérêt 11
+3 Résultats et analyse 12
+3.1 Résultats préliminaires . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3.2 Analyse de sensibilité. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+3.3 Tests de robustesse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Conslusion 20
+Bibliographie 21
+Annexes 25
+2
+
+--- Page 4 ---
+Résumé non technique
+Cette étude s’appuie sur les travaux mettant en évidence l’approche cliométrique de la crois-
+sance pour construire un nouvel indicateur : la maturité des banques centrales. Plusieurs études
+ont mis en évidence un lien positif entre l’ancienneté des Etats et les performances macroé-
+conomiques. La présente étude s’inspire donc de cette idée pour tester l’effet de la maturité
+des banques centrales sur les performances économiques et financières de 92 pays développés,
+émergents et en développement.
+La maturité d’une BC se matérialise dans cette étude par son expérience dans le processus
+organisationnel, la conduite efficace de sa politique monétaire, la maitrise de l’inflation, le dé-
+veloppement financier, la préservation de la stabilité financière et même l’inclusion financière.
+L’objectif principal de cet article est donc de tester une hypothèse nouvelle en construisant une
+variablequicaptel’expériencedesBCetenanalysantseseffetssurlesperformanceséconomiques
+des Etats.
+Nous définissons la maturité de la BC comme la différence entre une année contemporaine
+et son année de création. A l’aide d’un modèle en coupes instantanés inspiré des travaux de
+Greir (1999), Acemoglu et al. (2001) puis Nunn (2008), nous parvenons à valider notre hypo-
+thèse principale selon laquelle : plus une banque centrale est mature, et plus elle a la capacité
+d’influencer les performances économiques.
+Notre hypothèse reste valide même en contrôlant pour des variables économiques, insti-
+tutionnelles, historiques et socioculturelles. De même, nous exposons deux principaux canaux
+de transmission à travers lesquels la maturité des BC influence la performance : le canal du
+développement financier et celui de la stabilité bancaire. Nous montrons également que notre
+indicateur de maturité des BC agit sur d’autres déterminants de développement financier. Cet
+article contribue ainsi de manière innovante à la littérature sur le rôle des BC et des effets de
+leurs actions sur la performance économique et la stabilité financière.
+3
+
+--- Page 5 ---
+Introduction
+En observant les statistiques sur les pays et leur banque centrale, nous arrivons au constat
+suivant:lespaysayantlesBanquesCentraleslesplusâgéessontégalementpourlaplupart,ceux
+qui ont des niveaux de PIB par tête élevés. La problématique du lien entre l’âge des Institutions
+et la performance économique n’est pas nouvelle dans la littérature économique1.
+Des études montrent que l’ancienneté des États favorise le développement institutionnel et
+laperformanceéconomique(Bockstetteetal.,2002).Cesauteurstrouventquel’indicateurd’an-
+cienneté de l’État est corrélé avec l’indice d’instabilité politique, de qualité de la gouvernance et
+la croissance économique. Au même moment, une importante littérature s’est construite autour
+de l’effet de l’histoire sur la dynamique macroéconomique contemporaine des nations. Acemoglu
+et al. (2001, 2002) montrent à ce titre que la performance économique contemporaine est ex-
+pliquée par la qualité des institutions, elle-même conditionnée par la mortalité des colons et la
+densité de la population en 1500. Plusieurs travaux sont ainsi nés, avec tous pour objectif d’ex-
+pliquer la croissance économique contemporaine en se focalisant sur l’approche cliométrique2.
+On peut à juste titre citer les travaux de Greir (1999), Bertocchi et Canova (2002) et de Nunn
+(2008), qui expliquent la croissance économique contemporaine dans les pays en développement
+par la durée de la colonisation, le type de colonisation ou encore l’esclavage. Cette abondante
+littérature s’est développée au détriment de celle portant sur l’importance historique des insti-
+tutions monétaires. Or comme le souligne la métaphore de John Law (1705) : « La monnaie est
+dans l’État ce que le sang est dans le corps humain : sans l’un, on ne saurait vivre; sans l’autre
+on ne saurait agir ».
+Le point de départ de notre analyse est l’hypothèse selon laquelle la maturité d’une Banque
+Centrale (BC) définie comme la différence entre l’année courante et la date de sa création a un
+effet positif sur le PIB/tête contemporain. Nous admettons que les canaux spécifiques à travers
+lesquels la maturité de la BC peut agir sur la performance économique transite par (i) l’effet
+d’apprentissage et d’accumulation, (ii) le construit historique de l’institution, (iii) la capacité
+d’innovation en termes de politique monétaire, (iv) la construction progressive de sa crédibilité.
+Lamaturitéd’uneBCsematérialisedoncparsonexpériencedansleprocessusorganisationnel,la
+1. Dansledomainedel’économieindustrielleetlessciencesdegestion,plusieurstravauxs’intéressent
+depuisdesdécenniesàl’effetdel’âge(maturité)desfirmessurlaperformanceentermesdeproductivité,
+de profitabilité, de capacité à innover, etc (Taylor, 1975; Garnsey, 1998; Vassilakis, 2008). Taylor (1975)
+montre par exemple que l’âge et l’expérience jouent comme déterminant important dans la gestion et
+le traitement de l’information en lien avec la performance des firmes. Vassilakis (2008) montre que la
+performance de l’entreprise est susceptible de s’améliorer au fur et à mesure que la firme et ses mana-
+gers deviennent plus âgés. Garnsey (1998) résume parfaitement le gain positif de l’apprentissage sur la
+productivité des firmes. Il estime que les jeunes entreprises se retrouvent généralement en difficulté une
+foisqu’ellesrencontrentunnouveauproblème.Oràmesurequel’apprentissageseproduit,desavantages
+peuvent être obtenus du fait de la définition d’un répertoire de procédures et des économies en temps et
+travail.Danslamêmeveine,Skirbekk(2004)établituneimportanterevuedelittératuresurl’effetdel’âge
+des individus sur la productivité des entreprises. D’autres travaux ont démontré récemment que l’âge de
+l’entreprise a un effet positif sur la performance organisationnelle des entreprises en mettent en évidence
+l’effet de l’âge de l’entreprise sur les bons résultats d’exportations (Bieling et al., 2015; Moral-Pajares
+et al., 2015). Compte tenu de cette abondante littérature microéconomique qui démontre l’importance
+de la maturité des firmes et des dirigeants et même de l’expérience de ces mêmes dirigeants sur les per-
+formances des entreprises, il devient par conséquent naturel et légitime de s’interroger du point de vue
+macroéconomique sur l’effet de la maturité des BC ou de son expérience sur la performance économique
+des Etats.
+2. CetteapprocheestfortementinspiréedestravauxduPrixNobelNorthquiconsisteaurecoursaux
+faits historiques pour expliquer les phénomènes économiques contemporains
+4
+
+--- Page 6 ---
+conduite efficace de sa politique monétaire, la maitrise de l’inflation, le développement financier,
+la préservation de la stabilité financière et même l’inclusion financière (voir graphique 1, 2 et 3
+ci-dessous).
+Ce article s’inscrit dans la littérature des déterminants historiques de la croissance écono-
+mique (Greir, 1999; Bertocchi et Canova, 1999; Bocksteette et al., 2002; Acemoglu et al., 2001,
+2002; Nunn, 2008,). Notre approche se différencie néanmoins des autres travaux dans la mesure
+où plutôt que de s’appuyer sur les données secondaires, nous avons entrepris de construire et
+d’introduire dans la littérature un nouvel indicateur portant sur l’aspect monétaire et plus pré-
+cisément sur l’expérience de la BC à travers sa maturité. De même, notre approche ne porte pas
+sur la dimension coloniale comme l’on fait les précédentes études mais plutôt sur la dimension
+historique des institutions monétaires. La dernière crise financière (2008-2012) nous renseigne à
+suffisance sur la place centrale qu’occupe de plus en plus les BC pour, non seulement prévenir
+ou atténuer les effets d’une crise mais également s’assurer du bon fonctionnement de l’activité
+économique.
+Plusieurs études ont mis en évidence le rôle central joué par la monnaie dans le processus
+de croissance économique d’un État. Si par définition, la mission essentielle de la plupart des
+BC est la stabilité des prix ou la lutte contre l’inflation, c’est bien parce qu’une forte instabilité
+des prix est considérée comme un frein à la croissance économique (Moore, 1986; Azariadis
+et Smith, 1996). Plus récemment, Bittencourt et al. (2014) ont approfondi l’analyse et mis en
+évidence le résultat suivant lequel une forte inflation associée à une faible profondeur financière
+initiale, tend à augmenter la taille du secteur informel. Lequel secteur informel limite à son tour
+ledéveloppementdusecteurbancaireetrenforceaupassagelacontraintedefinancementexterne
+des firmes. L’ensemble de cette littérature justifie ainsi l’importance de la dimension monétaire
+dans la dynamique économique des pays. Or s’il existe une institution ayant à sa disposition
+une pluralité de leviers lui permettant d’influer directement ou indirectement sur les différents
+aspects sus-évoqués, c’est bien la BC. En effet, la banque centrale veille également à la stabilité
+financière. Elle intervient pour prévenir les crises de par la supervision bancaire, mais elle est
+égalementleprêteurendernierressort,pouréviterl’effondrementdusystèmebancaire,lorsqu’un
+établissement de taille systémique ne peut assurer ses engagements (Humphrey, 1989; Freixas
+et al., 2000; Campbell et Lastra, 2009). Par ailleurs, en veillant à la qualité des institutions
+financières, la banque centrale favorise le développement financier. En effet, comme l’explique
+Levine (1998) et Levine et Zervos (1998) des institutions de qualité parmi lesquelles la BC qui
+assure le bon fonctionnement des marchés financiers et des transactions financières entre agents
+économiques, contribuent au développement financier.
+Dans la mesure où la maturité permet d’acquérir une certaine expérience dans la mise
+en?uvre de politiques efficaces, l’intérêt de cette étude est non seulement de remettre en lumière
+le rôle de la BC dans l’explication de la croissance, mais également de trouver une explication
+aux retards enregistrés par les pays avec des BC moins matures.
+Notredémarchepartdelaconstructiond’unindicateurnouveaunouspermettantd’identifier
+les différents canaux de transmission par lesquels la maturité d’une BC peut influer sur la
+performance économique de l’Etat. A notre connaissance, il n’existe à ce jour aucune littérature
+sur la relation entre la maturité d’une BC et la performance économique. Seuls les travaux de
+Bockstette et al. (2002) et (Greir, 1999) comme mentionné précédemment se sont intéressés à
+l’explication contemporaine de la performance économique à partir d’un construit historique et
+institutionnel sur la maturité des Etats ou encore de la durée3de la colonisation.
+3. Nous nous sommes fortement inspiré de cette méthode pour construire également notre indicateur
+de maturité de BC. La durée est obtenue en faisant la différence entre la date de l’indépendance et la
+5
+
+--- Page 7 ---
+La contribution de cet article à la littérature sur la croissance économique se dégage claire-
+ment en deux principaux points. Premièrement, cet article construit et introduit dans la littéra-
+ture un indicateur nouveau portant sur la maturité des BC. Cet apport nous semble le bienvenu
+au regard de la place centrale qu’occupent de plus en plus les autorités monétaires dans le fi-
+nancement des économies et leur croissance. Deuxièmement, cet article est à notre connaissance
+le premier qui adopte une approche cliométrique portant sur la dimension monétaire et non
+coloniale. Il s’agit là d’une originalité dans la mesure où cette démarche nous permet de prendre
+en compte les pays en développement, les pays émergents et les pays développés.
+Lasuitedecetarticles’organisecommesuit.Lapremièresectionestconsacréeauxcanauxde
+transmissions mettant en évidence le rôle de la maturité des BC sur la croissance. La deuxième
+section est une présentation de notre principale variable d’intérêt et de la démarche empirique.
+La troisième section présente les résultats économétriques et les commentaires.
+1 Quels sont les canaux par lesquelles la maturité de
+la BC peut influencer la performance économique ?
+La BC, assure les conditions de la croissance de long terme dans l’économie en favorisant
+par la politique monétaire soit directement la croissance et l’emploi, soit la stabilité des prix,
+ou même l’équilibre extérieur. Toutefois, la stabilité des prix elle-même vise à établir un climat
+adéquat afin de favoriser la croissance. Comme le soulignent Moore (1986), Azariadis et Smith
+(1996) d’un point de vue théorique, lorsque l’inflation est assez élevée, les revenus sur l’épargne
+diminuent du fait des taux d’intérêt réels négatifs. Ce qui implique une réduction du niveau
+d’épargne, une augmentation des frictions informationnelles, et à terme une baisse du crédit au
+secteur privé et de la performance macroéconomique. Boyd et al. (2001) parviennent à la même
+conclusion sur le plan empirique. De ce fait dans notre analyse, nous testerons empiriquement
+l’impact direct de la maturité de la BC sur la croissance, en contrôlant, l’effet de l’inflation; puis
+nous considérerons deux principaux canaux par lesquels cette maturité de la banque centrale
+peutagirsurlacroissance:ledéveloppementfinancierd’unepartetlastabilitéfinancièred’autre
+part.
+La BC par la conduite de la politique monétaire peut favoriser le crédit et en particulier le
+crédit au secteur privé. En effet, un ratio de crédit au secteur privé par rapport au PIB élevé,
+signifie que le secteur privé bénéficie d’opportunités importantes pour le financement de ses
+projets d’investissement. Ce ratio est aussi une mesure du développement financier. Suivant la
+théorie de la croissance endogène, le développement financier favorise une allocation plus effi-
+cientedel’épargneauxprojetslesplusproductifs(GreenwoodetJovanovic,1990;Bencivengaet
+Smith, 1991). Levine (1997)4 met l’accent sur la causalité première du développement financier
+qui favorise la croissance, bien qu’une relation inverse soit aussi envisageable. En effet, d’après
+cet auteur le degré de développement financier est un bon prédicteur de croissance future, d’ac-
+cumulation de capital et de changement technologique. Pour Caporale et al. (2009) la causalité
+entre développement financier et la croissance, se fait du développement financier vers la crois-
+sance plutôt que l’inverse pour dix pays de l’Europe centrale et orientale membres de l’Union
+européenne.
+date de la colonisation.
+4. Voir également Rajan et Zingales (1998), Levine et al. (2000), Beck et al. (2000). Notons aussi que
+Arcand et al. (2015) montrent que lorsque les crédits au secteur privé sont supérieurs à 100% du PIB, le
+développement financier agit négativement sur la croissance.
+6
+
+--- Page 8 ---
+Plus particulièrement, Levine (2005) explique que les institutions financières et les marchés
+financierspeuventfavoriserlacroissanceéconomiquedanslamesureoùilsfacilitentleséchanges
+de biens et services par la provision de moyens de paiement, mobilisent et rassemblent l’épargne
+pour les investisseurs, acquièrent et traitent l’information sur les entreprises et les possibles
+projets d’investissements en allouant l’épargne de manière efficiente, et enfin permettent une
+diversification et réduction des risques ainsi qu’une liquidité du système financier. Ainsi, la
+BC par une supervision adéquate du système financier peut accompagner un développement
+financier sain, qui à son tour va stimuler la croissance. Comme exemple, nous pouvons citer le
+cas des pays de la zone UEMOA (Union Economique et Monétaire Ouest Africaine), où en 2006
+la BC a facilité l’automatisation des moyens de paiements de la compensation et de la centrale
+des incidents de paiements. Ainsi, toutes ces initiatives ont donné aux systèmes de paiement une
+plus grande efficacité, en permettant à des banques locales de faire bénéficier à leurs clients de
+terminaux de paiements (Kablan, 2012). Nous pouvons également parler du rôle de supervision
+joué par la BC du Kenya, lors de l’introduction de la plateforme de paiement M-pesa. En effet,
+la BC du Kenya a fait une étude d’évaluation pour mesurer le risque et adapter l’environnement
+réglementaire dans ce sens. Cela a eu des répercussions remarquables dans l’accès aux services
+financiers, dans un pays où le taux de bancarisation était très bas mais où le taux de personnes
+possédant un téléphone mobile dépassait à l’époque les 54% (AFI, 2010).
+Graphique 1 – Développement financier et maturité de la BC
+Source : Banque mondiale (WDI) et calculs des auteurs.
+Le rôle de la BC sur la croissance économique s’opère également au travers de l’inclusion
+financièrequiestunindicateurdedéveloppementfinancier.Elledésignel’ensembledespolitiques
+publiques en faveur de la promotion des services bancaires de base (ouverture d’un compte
+bancaire, accès au crédit, produits d’épargne et d’assurance). Plusieurs études sont parvenues
+à une relation positive entre le taux d’accès aux services financiers et le taux de croissance
+7
+
+--- Page 9 ---
+économique(Becketal.,2012,Sahayetal.2015,ChauvetetJacolin,2017)L’inclusionfinancière
+est un levier pour l’investissement productif dans la mesure où elle permet aux entreprises
+et notamment, les PME, de limiter la contrainte de financement externe à laquelle elles sont
+généralement soumises. Elle exerce par ailleurs un effet d’entrainement du secteur informel au
+secteurformel.Ellepermetainsid’offrirdesservicesbancairesàdespersonnesoudesentreprises
+quiétaientjusqu’iciexcluesoumaldesserviesdusecteurbancairetraditionnel.L’améliorationde
+l’inclusion financière entraine donc de nombreux avantages au rang desquels nous pouvons citer
+ledéveloppementdeszonesrurales,unehaussedunombredefirmes(PME),uneautomatisation
+croissantedesfemmes,etc.Autantd’aspectsquicontribuentaudéveloppementdelaproductivité
+d’une économie.
+Un autre aspect du développement financier sur lequel une banque centrale peut également
+promouvoirlacroissanceéconomiqueestliéautyped’institutionsfinancières.Ledéveloppement
+des principaux secteurs de l’économie tels que l’industrie, le commerce externe et l’agriculture
+est par exemple associé à une demande de financements sur le long terme. Une banque centrale
+peut donc contribuer au développement de tels secteurs en facilitant la création d’institutions
+financières spécialisées dans le financement d’investissements à long terme.
+Graphique 2 – Inclusion financière et maturité de BC
+Source : Banque mondiale (Findex) et calculs des auteurs.
+Les données confirment notre hypothèse dans la mesure où on observe une relation posi-
+tive entre la maturité de la banque centrale et le développement financier dans son ensemble
+(Graphiques 1 et 2). Le développement financier est mesuré par deux indicateurs : l’indicateur
+traditionnel donné par les crédits au secteur privé en % du PIB; mais aussi par un indicateur
+d’inclusion financière qui mesure le pourcentage d’adultes détenant un compte bancaire auprès
+8
+
+--- Page 10 ---
+d’une institution financière. La maturité de la BC est associée à un meilleur développement
+financier.
+Toutefois, lorsque le développement financier n’est pas suffisamment accompagné, il peut
+conduire à de l’instabilité financière. Plusieurs études qui traitent du développement financier
+et de la croissance, mettent également l’accent sur les possibles effets négatifs de l’instabilité
+financière. Sahay et al., (2015) étudient la relation entre développement financier, stabilité fi-
+nancière et croissance. Ils trouvent que le développement financier favorise la stabilité financière
+et la croissance, d’une manière générale, mais que les effets du développement financier sur la
+croissance s’amoindrissent avec le niveau de développement. Ils montrent également que lorsque
+le développement financier se fait de manière trop rapide, cela peut entraîner de l’instabilité
+économique et financière. Enfin, ils montrent qu’une réglementation trop sévère dans le but de
+préserver la stabilité financière peut gêner le développement financier.
+D’après Schneider et Tornell (2004) ou Aghion et al. (2004), lorsque les banques sur-prêtent
+de l’argent, c’est parce qu’elles ne sont pas suffisamment supervisées ou qu’il n’existe pas de
+mécanismes d’assurance contre la faillite des banques, ou encore qu’elles ne savent pas discerner
+entre les bons et les mauvais projets en période d’expansion économique. Et cela peut aboutir
+à des crises. Toutefois, Loayza et Ranciere (2005) montrent qu’à long terme, le développement
+financier a un impact positif sur la croissance; tandis qu’à court terme, l’effet est plus nuancé du
+faitdepossiblescrisesetfragilitésinduitparlestransformationsdusystèmefinancier.LesBCont
+donc un rôle important à jouer dans ce processus, puisqu’elles participent, par la supervision du
+système financier et la conduite de la politique macro-prudentielle, à l’évolution et la stabilité
+du système financier. Par ailleurs, la gestion des crises et de l’instabilité est le fait des BC,
+qui assurent ainsi que cette instabilité financière ait le moins d’effets néfastes possibles sur
+l’économie. En effet, Bordo et al (2001) ont évalué les pertes de PIB en période de récession
+pour 56 pays entre 1913 et 1973, puis sur 21 pays après 1973. Ils trouvent que les réductions en
+matière de croissance sont de 10% plus élevées lors de récession avec crise comparativement à
+des récessions sans crise. Cela signifie encore une fois que lorsque la Banque centrale a assez de
+maturité pour éviter une crise, elle peut préserver l’économie de cette perte de croissance. Ainsi,
+lorsque par des mesures prudentielles, la BC diminue l’exposition d’une économie aux crises, elle
+contribue à la préservation de la croissance.
+En effet, l’instabilité financière qui se manifeste par des faillites bancaires, une volatilité du
+prix des actifs financiers et éventuellement par une perturbation dans le système de paiement
+et de règlement, a un impact négatif sur la croissance économique dans la mesure où, elle
+accroît l’incertitude sur la valeur fondamentale des actifs et donc sur le comportement des
+investisseurs. Cela rend donc les firmes plus réticentes à investir. Elle a aussi un impact négatif
+sur la consommation des ménages, puisque l’incertitude affecte la valeur nette de leur richesse.
+L’instabilité financière peut aussi affecter l’activité économique à travers la détérioration des
+conditions de crédit (Lown et al., 2000). En effet, l’instabilité financière accroît les taux d’intérêt
+sur les marchés de capitaux, ce qui rend plus couteux l’emprunt des firmes pour financer de
+nouveaux projets d’investissement (Hakkio et Keeton, 2009). C’est pour toutes ces raisons que
+les banques centrales prennent en compte dans leurs objectifs la préservation de la stabilité
+financière. Comme illustration récente, on a pu voir le rôle prépondérant des BC dans la gestion
+de la crise des subprimes. Face à l’incertitude et à la suspicion entre les institutions financières
+surlemarchémonétaire,ellessontintervenuespourledégeleretontconsidérablementbaisséleur
+taux d’intérêt à des seuils historiques, pour faciliter les conditions de refinancement des banques
+commerciales. Ainsi, les BC apparaissent comme des entités importantes pour la préservation
+de la stabilité financière à travers la réglementation et la supervision du système bancaire. Elles
+apparaissent aussi comme des entités qui rétablissent la stabilité financière en des périodes de
+9
+
+--- Page 11 ---
+crises et de fragilité financière. De cette manière, elles accompagnent la croissance des pays et
+y contribuent. Nous venons de discuter le fait que l’instabilité financière est nuisible pour la
+croissance économique. Un indicateur important d’instabilité financière est le pourcentage de
+prêts non performants par rapport à l’ensemble des prêts. C’est un indicateur qui renseigne
+sur la dégradation du portefeuille des banques. Il représente donc un instrument de suivi de la
+stabilité du système bancaire.
+La relation entre le niveau de prêts non-performants (indicateur d’instabilité financière) et
+la maturité de la BC semble à juste titre indiquer l’évidence d’une corrélation négative entre
+ces deux variables selon le graphique 3 ci-dessous. Ceci suggère que plus une BC est mature,
+moinslevolumedeprêtsnon-performantsestélevé.LesBClesplusmaturesontuneplusgrande
+capacité à contrôler les risques d’instabilité financière.
+Graphique 3 – Risque de crédit et maturité de la BC
+Source : FMI-IFS et calculs des auteurs.
+Les graphiques 1 et 2 et 3 illustrent donc l’existence d’une corrélation entre la maturité
+des BC les crédits au secteur privé, l’inclusion financière et les prêts non performants qui sont
+directement liés à la performance économique d’un pays.
+Il est désormais question de montrer par des estimations empiriques comment la maturité
+de la BC impacte positivement la croissance, mais aussi de mettre en évidence les canaux de
+transmission que nous avons discutés plus haut, à savoir : le développement financier, l’inclusion
+financière et la stabilité financière. Ainsi, dans la partie empirique, notre idée est de trouver,
+comme le suggère nos graphiques, un impact positif de la maturité de la BC principalement
+sur le développement financier et sur la stabilité financière. Etant donné que ceux-ci influencent
+positivement la croissance, cela nous permettra d’avoir des évidences empiriques de l’impact
+10
+
+--- Page 12 ---
+indirect de la maturité de la BC sur la croissance économique à travers ces canaux.
+2 Approche empirique et description de la variable
+d’intérêt
+Nous définissons la maturité de la BC comme la différence entre une date contemporaine et
+l’année de création de la banque centrale (date création banque centrale). Les dates de création
+des Banques Centrales sont obtenues par une fouille documentaire des sites web des banques
+Centrales5. Nous définissons la maturité de la Banque Centrale en nous inspirant des études
+de Greir (1999) et Olsson (2009) qui construisent des variables semblables dans une approche
+cliométrique :
+BC = Datecontemporaine6−DatecréationdelaBanqueCentrale
+Maturité
+Dans la logique de notre hypothèse de départ, nous nous attendons à un effet positif de la
+maturité des BC sur la performance économique des différents pays. Les régressions sont faites
+en coupe transversale à l’aide des MCO. Cette approche s’inspire de Greir (1999), Acemoglu et
+al. (2001) puis Nunn (2008) qui traitent de la performance économique des états à l’aide des
+indicateurs invariants dans le temps. De même, le choix de cette méthode se justifie par le fait
+que notre principale variable d’intérêt, c’est à dire la maturité des BC (BC ), ne varie
+Maturitei
+pas dans le temps. En outre, cette approche se prête mieux à notre objet d’étude qui vise à
+expliquer le différentiel de performance économique entre pays. Ainsi, nous estimons l’équation
+suivante :
+Y = α +α BC +X0 β+τ (1)
+i 0 1 Maturitei i i
+Dans cette équation, Y est la moyenne du logarithme du PIB/tête en parité des pouvoirs
+i
+d’achats sur la période 1990 à 2016 du pays i. Le choix de cet indicateur pour capter la per-
+formance économique est inspiré de la littérature (Barro, 1996; Kaufmann et Kraay, 2002;
+Acemoglu et al., 2001, 2016). BC est la mesure de la maturité de la BC en logarithme
+Maturitei
+qui capte son expérience. τ renvoit respectivement au terme d’erreur et aux effets fixes qui
+i
+captent l’hétérogénéité inobservable spécifique aux pays. La matrice X0 comprend la plupart
+i
+des variables de contrôle standard utilisées dans les modèles de croissance économique à savoir,
+les variables économiques, historiques, institutionnelles et socioculturelles que nous discutons
+dans la section 3. Nous utilisons l’ensemble des potentiels déterminants de la croissance existant
+dans la littérature pour éviter tout biais d’endogéneité qui serait dû à une omission de variable.
+De manière globale, nous attendons un effet positif de la maturité des BC sur l’indicateur du
+PIB/tête en parité des pouvoirs d’achats Ceteris Paribus. Dans la régression préliminaire, nous
+5. https ://www.bis.org/cbanks.htm
+6. L’année contemporaine retenue dans notre étude est 2010. Ce choix permet d’éviter les problèmes
+d’endogénéités puisque les variables macroéconomiques couvrent la période 1990-2010 et seul le PIB par
+tête couvre la période 1990-2016.
+11
+
+--- Page 13 ---
+prenons comme variable de contrôle, les principaux indicateurs économiques de la croissance.
+Nous prenons en compte, un indicateur de capital humain (ln−enr−prim) qui est le nombre
+d’enrôlement dans le système scolaire primaire dans la suite des travaux de Barro (1996). De
+même, nous prenons en compte l’ouverture économique (ln − Trade), la formation brute du
+capital fixe comme proxy de l’investissement privé et public (ln−FBCF). Nous prenons éga-
+lement en compte la dotation en ressources naturelles (ln−Natural −rents) en accord avec
+la théorie de la malédiction des ressources naturelles (Sachs et Warner, 2001). Selon la théorie
+de la malédiction des ressources naturelles, les pays avec plus de ressources naturelles ont une
+qualité des institutions médiocres et des mauvaises performances économiques. Nous contrôlons
+de même par la taille de la population (ln−pop) et le taux d’inflation (Inflation). Les variables
+de contrôle macroéconomique sont issus de la base de données World Developpement Indicators
+de la Banque mondiale et sont des moyennes sur la période 1990 à 2010.
+Notre échantillon couvre un ensemble de 90 pays développés, émergents et en développe-
+ment. Pour prendre en compte les pays en Union Monétaire en Afrique comme par exemple la
+Communauté Economique etMonétaire de l’AfriqueCentrale(CEMAC)et l’Union Economique
+et Monétaire Ouest Africaine (UEMOA), nous prenons en compte les pays leaders de la zone.
+Il s’agit du Cameroun pour la zone BEAC (Banque des Etats de l’Afrique Centrale) et de la
+Côte d’Ivoire en ce qui concerne la zone BCEAO (Banque Centrale des Etats de l’Afrique de
+l’Ouest). Ce procédé est retenu pour éviter d’introduire dans l’échantillon plusieurs pays dis-
+posant d’une même maturité des BC ou alors les pays ayant des PIB par tête élevés en raison
+de la faiblesse de la population et qui ne reflètent pas leurs niveaux de développement (Gabon,
+Guinée équatoriale).
+3 Résultats et analyse
+3.1 Résultats préliminaires
+Les résultats d’estimation présentés dans le tableau 1 confirment notre hypothèse selon
+laquelle la maturité des BC exerce un effet positif et significatif sur la performance économique
+des pays.
+Notre principale variable d’intérêt est significative au seuil de 1% dans la première colonne
+du tableau 1. Cette significativité demeure lorsque nous contrôlons par les indicateurs standards
+de croissance de la colonne 2 à la colonne 4. Les variables de capital humain, ouverture éco-
+nomique, formation brute de capital fixe, ressources naturelles, population et inflation ont les
+signes observés dans la littérature.
+12
+
+--- Page 14 ---
+Tableau 1 – Maturité des BC et performance : contrôle par des variables économiques
+(1) (2) (3) (4)
+PIB/tête constant en Parité des pouvoirs d’achats moyenne
+1990 à 2016
+ln_BC_Maturité 0.210*** 0.200** 0.163* 0.234***
+(0.067) (0.092) (0.084) (0.079)
+ln_enr_prim 2.314*** 1.903***
+(0.576) (0.486)
+ln_Trade 0.430*** 0.616**
+(0.121) (0.255)
+ln_FBCF 0.499 0.061
+(0.381) (0.350)
+ln_Pop -0.104* 0.095
+(0.056) (0.065)
+ln_Natural_rents -0.196*** -0.154***
+(0.047) (0.050)
+Inflation -0.030 -0.010
+(0.031) (0.027)
+Constant -2.119* 3.274*** 3.430*** -2.489**
+(1.091) (0.775) (0.371) (1.043)
+Observations 81 86 86 77
+R-squared 0.51 0.37 0.46 0.59
+Effet fixe région oui oui oui oui
+Note : Les chiffres entre parenthèses donnent les écarts types corrigés de l’hétéroscedasticité. ***
+significatif à 1%, ** significatif à 5% et * significatif à 10%. Nous contrôlons par les effets régions. Dans
+la littérature économique, des études sur la croissance mettent en évidence la spécificité de l’Afrique.
+Nous contrôlons par une variable dummy Afrique.
+Afin d’expliquer le différentiel de performance économique entre pays, plusieurs travaux ont
+discuté de l’importance de plusieurs autres variables :
+— variables historiques (La Porta et al. 1999; Acemoglu et al. 2001, 2002; Nunn, 2008);
+— institutionnelles (North et Thomas, 1973; La Porta et al., 1997, 1999; Dollar et Kraay,
+2003; 2003; Stutz et Williamson, 2003; Acemoglu et al., 2005; Rodrik, 2007); et
+— socioculturelles(EasterlyetLevine,1997;Alesinaetal.,2003;BarroetMcCleary,2003).
+Dans la suite de cette abondante littérature, nous confrontons notre hypothèse selon laquelle
+la maturité des BC influence la performance économique.
+3.2 Analyse de sensibilité
+Trois différents tests d’analyse de sensibilité sont menés dans l’optique de s’assurer de la fia-
+bilité de notre hypothèse. Premièrement, nous confrontons notre variable d’intérêt aux variables
+historiques et institutionnelles et deuxièmement nous discutons des variables socio-culturelles.
+13
+
+--- Page 15 ---
+3.2.1 Test de sensibilité avec l’approche historique et institutionnelle
+Les travaux de La Porta et al. (1997, 1998, 1999) montrent que les pays d’origine common
+law ont tendance à être plus performants que ceux de droit civil. De même, en se consacrant au
+cas des pays en développement, Beck et al. (2003) parviennent à valider l’hypothèse que les pays
+qui ont l’origine légale dite de droit civil français assurent moins bien la protection des droits de
+propriété que ceux utilisant un système juridique fondé sur le common law. A la suite de cette
+littérature, Mahoney (2001), sur un échantillon de pays en développement et développés, défend
+l’hypothèseselonlaquellelespaysdedroitcommunonttendanceàenregistrerdesmeilleurstaux
+de croissance économique que les pays de droit civil. Plusieurs autres travaux se sont fondés sur
+l’histoire pour expliquer les performances économiques contemporaine (Bertocchi et Canova,
+2002; Acemoglu et al., 2001, 2002; Nunn, 2008).
+Pour prendre en compte cette dimension historique dans notre analyse, nous contrôlons
+par l’origine légale du droit qui est étroitement corrélé à l’origine coloniale pour les anciennes
+colonies. Nous considérons l’origine de type common law (legor−uk) et l’origine légale de droit
+civil (legor − fr). Les deux variables sont issues de La Porta et al. (1999). De même, nous
+prenons en compte l’indicateur de mortalité des colons (logem4, Acemoglu et al., 2001). Pour
+Acemogluetal(2001),ilexistaitdeuxtypesdecolonie,lescoloniesdepeuplementetlescolonies
+d’extraction.Danslespaysoùlescolonisateursontcréédescoloniesdepeuplement,ilyaeuune
+logiqued’implanterdesbonnesinstitutionssemblablesàcellesdeleurspaysd’origine.Parcontre,
+dans les pays où ils ont constitué des colonies d’extraction, ils n’avaient aucune motivation à
+implanter de bonnes institutions, et donc de transmettre les bonnes pratiques de gouvernances.
+Ainsi, selon Acemoglu et al. (2001) ces arrangements historiques déterminent le différentiel de
+performance économique entre pays.
+Un consensus émerge de même dans la littérature qu’une meilleure qualité des institutions
+favorise la croissance du revenu par habitant dans différents pays (North et Thomas, 1973;
+La Porta et al., 1997, 1999; Dollar et Kraay, 2003; Beck et al., 2003; Stutz et Williamson,
+2003; Acemoglu et al., 2005; Rodrik, 2007). Par exemple, Mauro (1995) va analyser l’effet de la
+corruption sur la croissance économique. Par la suite, Kaufmann et Kraay (2002) s’intéressent
+à la relation entre le revenu par tête et la qualité de la gouvernance économique à travers
+la protection des droits de propriété privée comme va le faire par la suite Acemoglu et al.
+(2001). Sur le lien entre démocratie et croissance économique, certains travaux montrent qu’une
+meilleure démocratie a un effet positif sur le PIB / tête (Barro, 1996; Acemoglu et al., 2016).
+De même, il y a un consensus que la démocratie est une méta-institution qui conditionne la
+meilleure qualité des autres institutions (Robrik, 2000; Acemoglu et al., 2005). Pour prendre en
+compte la dimension institutionnelle dans notre analyse, nous prenons en compte l’indicateur
+de démocratie corrigé de la dictature de Polity IV qui oscille entre -10 (dictature absolue) et
+10 (pleine démocratie). La dimension institutionnel et historique nous semble étroitement liées
+car plusieurs études expliquent la qualité contemporaine des institutions par le passé historique
+(Olsson, 2009, Acemoglu et al., 2001, Omgba, 2015).
+Les résultats obtenus confortent notre hypothèse initiale (Tableau 2). En contrôlant par
+l’origine légale en colonne 1 et 2 puis par la mortalité des colons en colonnes 3, l’effet de la
+maturité des BC sur la performance économique reste significatif. La variable de mortalité des
+colons est significative avec un impact négatif sur la performance économique contemporaine.
+Ce résultat est conforme à la littérature selon laquelle plus il y a eu de morts des colons moins
+ils se sont sédentarisés et cela a permis le développement des mauvaises institutions et continue
+à avoir un effet négatif sur ces économies de nos jours. Malgré la non significativité des variables
+d’origine légales, les signes positifs et négatifs respectivement pour l’origine légale common law
+14
+
+--- Page 16 ---
+et droit civil sont conformes à la littérature (La Porta et al. 1999; Mahoney, 2001).
+Nous trouvons également que la qualité de la démocratie exerce un effet significatif sur le
+PIB/têteauseuilde1%(colonne4),cerésultatconfirmel’étuderécented’Acemogluetal.(2016)
+revenant sur l’ancien débat de l’effet de la démocratie sur la croissance économique. Quel que
+soit les modèles retenus, l’effet de la maturité des BC reste significatif au seuil de 1
+Tableau 2 – Maturité des BC et performance : contrôle par les variables historiques et institutionnelles
+(1) (2) (3) (4)
+PIB/tête constant en Parité des pouvoirs d’achats moyenne 1990
+à 2016
+ln_BC_Maturité 0.236*** 0.234*** 0.298** 0.285***
+(0.081) (0.079) (0.096) (0.066)
+ln_enr_prim 1.906*** 1.903*** 2.177*** 1.201**
+(0.502) (0.489) (0.351) (0.536)
+ln_Trade 0.610** 0.616** 0.492* 0.610**
+(0.263) (0.270) (0.275) (0.237)
+ln_FBCF 0.049 0.061 -0.662 0.166
+(0.342) (0.356) (0.461) (0.429)
+ln_Pop 0.094 0.095 0.062 0.051
+(0.067) (0.066) (0.059) (0.076)
+ln_Natural_rents -0.155*** -0.154*** -0.037 -0.071
+(0.050) (0.050) (0.061) (0.058)
+Inflation -0.007 -0.010 0.014 -0.014
+(0.027) (0.026) (0.026) (0.024)
+legor_uk 0.027
+(0.079)
+legor_fr 0.000
+(0.078)
+logem4 -0.163***
+(0.035)
+polity2 0.028***
+(0.009)
+Constant -2.485** -2.490** -0.976 -1.316
+(1.075) (1.098) (1.055) (1.239)
+Observations 77 77 45 62
+R-squared 0.59 0.59 0.73 0.73
+Effet fixe région oui oui oui oui
+Note : Les chiffres entre parenthèses donnent les écarts types corrigés de l’hétéroscedasticité. ***
+significatif à 1%, ** significatif à 5% et * significatif à 10%.
+3.2.2 Test de sensibilité avec l’approche socioculturelle
+Pour certains auteurs, la performance économique des pays est considérablement condition-
+née par l’importance des facteurs socioculturels. La fragmentation ethnique et linguistique sont
+souvent évoquées comme des obstacles à la croissance économique (Easterly et Levine, 1997,
+Alesina et al., 2003). Mais il faut de même signaler que, l’effet de la fragmentation ethnique
+sur les performances économiques et institutionnelles est remis en cause par Collier (2001). A
+15
+
+--- Page 17 ---
+propos de l’impact de la religion sur la croissance, Grier (1997) en faisant la comparaison entre
+anciennes colonies, il trouve que les anciennes colonies espagnoles et françaises imprégnées de
+la tradition catholique ont de mauvaises performances économiques que les anciennes colonies
+britanniques avec une dominance protestante. Pour ce dernier, le taux de croissance du pro-
+testantisme est corrélé positivement et de manière significative avec la croissance réel du PIB.
+Ce résultat est confirmé par La Porta et al. (1999) pour qui les pays à forte dominance pro-
+testants ont des institutions meilleures et des performances économiques plus importantes que
+les pays à dominance catholique ou musulmane. Dans une étude récente, Barro et McCleary
+(2003) trouvent que l’hindouisme, l’islam, le christianisme orthodoxe et le protestantisme sont
+associés négativement avec la croissance du revenu par habitant par rapport au catholicisme. Ce
+résultat est soutenu par la thèse que les croyances religieuses influencent les traits individuels
+qui améliorent la performance économique. L’ensemble de ces résultats est en outre contredite
+par Sala-i-Martin et al. (2004).
+L’influence des facteurs socioéconomiques dans notre analyse est prise en compte par plu-
+sieurs variables. Nousretenons l’effetdes différentes religionsqui donnele pourcentagede catho-
+lique (catho80), musulmans (muslim80) et protestants (protmg80) dans la population totale.
+Ces données sont extraites de la base de La Porta et al. (1999). Nous prenons également en
+compte la fragmentation ethnique (La Porta et al. 1999) puis la fragmentation linguistique
+(Language, Alesina et al. 2001).
+Notre principal résultat reste robuste au contrôle des variables socioculturelles et socioéco-
+nomiques. La variable protestante est de signe conforme à la littérature avec une significativité
+de l’ordre de 10% selon les travaux de La Porta et al. (1999). La fragmentation ethnique et
+linguistique est de signe conforme à la littérature avec une significativité de l’ordre de 10% pour
+la fragmentation linguistique ce qui rejoint l’analyse d’Easterly et Levine (1997) puis Alesina
+et al. (2003). La religion catholique et musulmane n’a pas d’effet apparent sur la performance
+économique ce qui rejoint les conclusions de Sala-i-Martin et al. (2004). Dans l’ensemble des
+estimations, la maturité des BC reste un déterminant significatif dans l’explication du PIB par
+tête.
+16
+
+--- Page 18 ---
+Tableau 3 – Maturité des BC et performance : contrôle par les variables socioculturelles
+1 2 3 4
+PIB/tête constant en Parité des pouvoirs d’achats moyenne
+1990 à 2016
+ln_BC_Maturité 0.345*** 0.190** 0.199** 0.190**
+(0.082) (0.087) (0.083) (0.087)
+ln_enr_prim 1.724*** 1.772*** 1.828*** 1.772***
+(0.441) (0.516) (0.535) (0.516)
+ln_Trade 0.547** 0.552** 0.673*** 0.552**
+(0.264) (0.276) (0.252) (0.276)
+ln_FBCF 0.051 0.118 0.159 0.118
+(0.349) (0.394) (0.377) (0.394)
+ln_Pop 0.061 0.101 0.128* 0.101
+(0.072) (0.066) (0.065) (0.066)
+ln_Natural_rents -0.162*** -0.164*** -0.155*** -0.164***
+(0.053) (0.049) (0.051) (0.049)
+Inflation -0.010 -0.017 -0.003 -0.017
+(0.028) (0.028) (0.026) (0.028)
+catho80 0.001
+(0.001)
+muslim80 0.001
+(0.002)
+protmg80 0.004**
+(0.002)
+avelf -0.090
+(0.151)
+Language -0.234 -0.234
+(0.164) (0.164)
+Constant -2.229** -1.948* -2.801** -1.948*
+(1.022) (1.159) (1.094) (1.159)
+Observations 70 73 77 73
+R-squared 0.64 0.61 0.61 0.61
+Effet fixe région oui oui oui oui
+Note : Les chiffres entre parenthèses donnent les écarts types corrigés de l’hétéroscedasticité. ***
+significatif à 1%, ** significatif à 5% et * significatif à 10%.
+3.3 Tests de robustesse
+Deux tests de robustesse sont menés dans notre analyse. Premièrement, pour plusieurs au-
+teurs les conditions initiales déterminent la trajectoire de performance économique contempo-
+raine entre les pays. Nous allons prendre en comptes les différents arrangements institutionnelles
+dans des années 1900 et des années d’indépendance pour les anciennes colonies. Deuxièmement,
+nous allons analyser l’effet de la maturité des BC sur les indicateurs de développement financier
+et monétaire.
+17
+
+--- Page 19 ---
+3.3.1 Prise en compte du passé historique et du fonctionnement des BC
+Il est possible d’envisager que c’est le niveau de développement institutionnel des différents
+Etats avantla création dela BCpour certains oule fonctionnement interne desBC qui influence
+la performance économique contemporaine. Pour répondre à cette éventuelle critique, Pour le
+passéhistorique,àl’instard’Olsson(2009),puisd’Acemogluetal.(2001,2002)nousprenonsdes
+variables de contrôles à forte connotation historique. Nous retenons la contrainte sur l’exécutif
+dans les différents pays en 1900 (cons−1900); nous prenons également en compte l’indice de
+démocratie en 1900 (Demo−1900) et pour les anciennes colonies nous considérons de même
+l’indice de démocratie à la date de l’indépendance (Demo − Indp). Ces trois variables sont
+disponibles dans Acemoglu et al. (2001, 2002) et sont utilisées pour discuter de l’importance du
+passéhistoriquepourexpliquerlaperformanceéconomiquecontemporaine.Encequiconcernele
+fonctionnement interne des BC, nous prenons en compte l’indice d’indépendance des BC (BC−
+Indépendance) et le nombre de gouverneurs depuis la création de la BC (ln−Nbre−Gveurs,
+constructions des auteurs).
+Notre échantillon est presque réduit de moitié car nous ne disposons pas énormément de
+données sur les Etats dans les années 1900 et lors des années des indépendances. Malgré ce
+déficit de donnée, Il est à noter que nos résultats confirment l’effet de l’histoire sur le présent
+comme le défend une abondante littérature précèdemment évoquée. Notre principal résultat
+reste robuste à la prise en compte des conditions initiales (tableau 4).
+18
+
+--- Page 20 ---
+Tableau 4 – Maturité des BC et performance : prise en compte des conditions initiales
+(1) (2) (3) (4) (5)
+PIB/tête constant en Parité des pouvoirs d’achats moyenne 1990 à
+2016
+ln_BC_Maturité 0.483*** 0.305** 0.255**
+BC_Indépendance 0.363
+(0.176) (0.132) (0.107) (0.346)
+ln_Nbre_Gveurs 0.090
+(0.066)
+ln_enr_prim 1.925** 1.886*** 2.082*** 2.060*** 4.007***
+(0.720) (0.527) (0.542) (0.728) (0.957)
+ln_Trade 0.602* 0.647** 0.529* 0.342 0.587*
+(0.298) (0.284) (0.304) (0.347) (0.295)
+ln_FBCF 0.015 0.131 0.164 -0.263 -0.274
+(0.426) (0.417) (0.375) (0.661) (0.524)
+ln_Pop 0.063 0.067 0.021 0.089 0.206***
+(0.102) (0.079) (0.073) (0.096) (0.073)
+ln_Natural_rents -0.084 -0.107* -0.107 -0.197** -0.200***
+(0.071) (0.063) (0.066) (0.081) (0.049)
+Inflation -0.018 0.006 0.009 -0.029 -0.044*
+(0.036) (0.032) (0.031) (0.034) (0.023)
+democ1 0.014
+(0.014)
+Afrique -0.158 -0.098 -0.366** -0.089
+(0.106) (0.096) (0.150) (0.107)
+democ00a 0.057**
+(0.024)
+cons00a 0.100**
+(0.037)
+Constant -3.343** -2.915** -2.760** -0.803 -6.105***
+(1.525) (1.172) (1.262) (1.570) (1.741)
+Observations 45 45 49 38 56
+R-squared 0.62 0.68 0.64 0.72 0.64
+Effet fixe région oui oui oui oui oui
+Note : Les chiffres entre parenthèses donnent les écarts types corrigés de l’hétéroscedasticité. ***
+significatif à 1%, ** significatif à 5% et * significatif à 10%.
+19
+
+--- Page 21 ---
+3.3.2 Effet de la maturité des BC sur les indicateurs financiers
+Parmileséventuelscanauxdetransmission(évoquésensection1)parlesquelslamaturitédes
+BCaffectelaperformanceéconomique,nousavonsretenulecréditausecteurprivé(ln−Crédit)
+et le volume de prêts non-performants (ln − Prêt − Nperformant). Dans cette partie nous
+consolidonsnosrésultatsenexplorantd’autresvariablesdeperformancemacroéconomique.Nous
+introduisons également deux nouvelles variables relatives au développement financier : la masse
+monétaire (ln−M2), les ressources du secteur financier (en % du PIB)? ln−Total−assets?
+et le niveau d’inflation (Inflation).
+Les résultats obtenus confortent notre analyse initiale selon laquelle la maturité des BC
+affecte significativement les performances économiques par le truchement de certains indicateurs
+financiers. Nous trouvons que la maturité des BC affecte directement le développement du
+secteur financier. Nous obtenons spécifiquement un effet positif de la maturité des BC sur le
+crédit au secteur privé. Ce résultat suggère que plus une BC est mature plus elle est à même de
+promouvoir une politique monétaire et/ou un cadre règlementaire propice au développement du
+crédit. Lequel développement contribuera à son tour à la croissance du secteur privé et à une
+meilleure performance économique. Nous parvenons à la conclusion en retenant comme autre
+indicateur financier, l’actif du secteur bancaire en pourcentage du PIB.
+Nous trouvons également que la relation entre la maturité des BC et la stabilité bancaire
+(mesuréeparlesprêtsnon-performants)estnégative.CerésultatindiquequelamaturitédesBC
+estassociéeàunfaibleniveaudecréancesdouteuses.CequisuggèrequeplusuneBCestmature,
+plus elle serait en mesure de définir un cadre réglementaire approprié pour le traitement des
+créances douteuses. Cette amélioration de la qualité des portefeuilles bancaires peut également
+s’opérer via la création de registres (ou bureaux) de crédits qui vont à leur tour limiter les
+problèmes d’asymétries d’informations associées à la relation de prêt.
+Tableau 5 – Effet de la maturité des BC sur la performance du secteur monétaire et financier
+(1) (2) (3) (4) (5)
+ln_Crédit ln_Prêt_Nperformant ln_Total_assets ln_M2 Inflation
+ln_BC_Maturité 0.314** -0.457*** 2.003*** 0.547*** -1.053*
+(0.154) (0.150) (0.503) (0.197) (0.589)
+Constante 2.555*** 3.239*** 2.826 -1.082 9.420***
+(0.629) (0.613) (2.095) (0.752) (2.483)
+Observations 84 54 85 78 86
+R-squared 0.23 0.18 0.32 0.18 0.04
+Effet fixe région oui oui oui oui oui
+Note : Les chiffres entre parenthèses donnent les écarts types corrigés de l’hétéroscedasticité. ***
+significatif à 1%, ** significatif à 5% et * significatif à 10%.
+20
+
+--- Page 22 ---
+Conslusion
+Dans cet article nous avons testé l’effet de la maturité des BC, définit comme la différence
+entre l’année contemporaine et l’année de création de la BC, sur les performances économiques.
+NousavonsétablisunliensolideentrelamaturitédelaBCetlesperformancesmacroéconomique
+des pays. Plusieurs tests de robustesse ont été conduits dans le souci de prendre en compte
+l’ensembledespotentielsdéterminantsdelacroissanceetéviterunéventuelrisqued’endogéneité
+dû à l’omission des variables. Notre principal résultat reste robuste à tous les tests de sensibilité
+prenant en compte les variables économiques, historiques, institutionnelles et socioculturelles.
+Demême,nousmontronsquenotreindicateurdematuritédesBCagitsurlesindicateursde
+développement financier. Cet article contribue ainsi de manière innovante à la littérature sur le
+rôledesBCetdeseffetsdeleursactionssurlaperformanceéconomiqueetlastabilitéfinancière.
+21
+
+--- Page 23 ---
+Bibliographie
+[ 1 ] Acemoglu D., Johnson S. and Robinson J. (2001) : «The Colonial Origins of Compa-
+rative Development : An Empirical Investigation», American Economic Review, Vol.91,
+N°4, pp.1369-1401.
+[ 2 ] Acemoglu D., Johnson S. and Robinson J. (2002) : «Reversal of Fortune : Geography
+and Institutions in the Making of the Modern World Income Distribution», Quarterly
+Journal of Economics, Vol.118, N°4, pp.1231-94.
+[ 3 ] Acemoglu D. and Johnson S. (2005a) : «Unbundling Institutions», Journal of Political
+Economy, Vol.113, N°5, pp. 949-995.
+[ 4 ] Acemoglu, D. and Robinson J. (2005b), Economic Origins of Dictatorship and Demo-
+cracy, Columbia University Press, New York.
+[ 5 ] Acemoglu D., Moscona J. and Robinson J. (2016) : «States capacity and American
+technology : Evidence from the 19TH Century», NBER Working paper, N°21932.
+[ 6 ] Aghion P., Bacchetta P. and Banerjee A. (2004) : «financial development and the
+instability of open economies», NBER working paper N° 10246.
+[ 7 ] Alesina A., Devleeschauwer A., Easterly W., Kurlat S. and Wacziarg R. (2003) : «Frac-
+tionalization», Journal of Economic Growth, Vol. 8, N°2, pp. 155-194.
+[ 8 ] Azariadis C. and Smith BD. (1996) : «Private information, money, and growth : In-
+determinacy, fluctuations, and the Mundell-Tobin effect», Journal of Economic Growth,
+1996? Springer.
+[ 9 ] Bank for International Settlements, 2014, «Re-thinking the Lender of Last Resort»,
+BIS Papers No. 79.
+[ 10 ] Barro R. (1996) : «Determinants of economic Growth : A cross-country Empirical
+study», NBER working paper, N°5698, August.
+[ 11 ] Barro R. J. and McCleary R. (2003) : «Religion and economic growth», National
+Bureau of Economic Research No. w9682.
+[ 12 ] Beck, T., Buyukkarabacak, B., Rioja, F., Valev, N. (2012) : «Who gets the credit?
+And does it matter? Household vs. firm lending across countries». B.E. Journal of Ma-
+croeconomics, Vol. 12, pp. 1-46.
+[ 13 ] Bencivenga V. and Smith B. D. (1991) : «Financial intermediation and endogenous
+growth», The Review of economic studies, 58(2); pp. 195-209.
+[ 14 ] Bertocchi and Canova (2002) : «Did colonization matter for growth? An empirical
+explorationintothehistoricalcausesofAfrica’sunderdevelopment»,European Economic
+Review, 46 (2002) 1851? 1871.
+[ 15 ] Bieling, G., Stock, R. M., and Dorozalla, F. (2015) : «Coping with demographic
+change in job markets : How age diversity management contributes to organisational
+performance». German Journal of Human Resource Management : Zeitschrift für Per-
+sonalforschung, 29(1), 5-30.
+22
+
+--- Page 24 ---
+[ 16 ] Bittencourt M., Gupta R., and Stander L. (2014) : «Tax Evasion, Financial Develop-
+ment and Inflation : Theory and Empirical Evidence», Journal of Banking & Finance,
+41 (april) : 194?208.
+[ 17 ] Bockstette V., Chanda A. et Putterman L. (2002) : «State and markets : the early
+start», Journal of Economic Growth, 20 : 347-369.
+[ 18 ] Boyd JH., Levine R. and Smith BD. (2000) : «The Impact of Inflation on Financial
+Sector Performance», Journal of monetary Economics, 2001-Elsevier.
+[ 19 ] Campbell, A. and Lastra R. (2009) : «Revisiting the Lender of Last Resort», Banking
+& Finance Law Review 2008-2009, Thomson Reuters Canada.
+[ 20 ] Caporale G.M., Rault C., Sova R., Sova A. (2009) : «Financial Development and
+EconomicGrowth:EvidencefromTenNewEUMembers»,DIWBerlin Discussion Paper
+940.
+[ 21 ] Chauvet L. and Jacolin L. (2017) : «Financial inclusion, bank concentration and firms
+performance», Word Development, Vol. 97, pp. 1-13.
+[ 22 ]CollierP.andDollarD.(2001):"CantheWorldCutPovertyinHalf?HowPolicyRe-
+formandEffectiveAidCanMeetInternationalDevelopmentGoals",WorldDevelopment,
+Elsevier, vol. 29(11), pages 1787-1802, November.
+[ 23 ] Dollar D., Fisman R. and Gatti R. (2001) : «Are women really the «fairer» sex?
+Corruption and women in government». Journal of Economic Behavior & Organization,
+Vol.46, N°4, pp. 423-429.
+[ 24 ]DollarD.etKraayA.(2003):«Institutions,Trade,andgrowth»,Journal of Monetary
+Economics, 50 (2003) 133-162.
+[ 25 ] Easterly W. and Levine R. (1997) : «Africa’s Growth tragedy : Policies and Ethnic
+divisions», The Quaterly Journal of Economics, vol 112 N°4, 1203-1250.
+[ 26 ]Freixas,X.,C.Giannini,G.Hoggarth,andF.Soussa,(2000):«LenderofLastResort:
+What Have We Learned Since Bagehot?», Journal of Financial Services Research.
+[ 27 ] Garnsey E. (1998) : «A Theory of the Early Growth of the Firm», Industrial and
+Corporates Change, Volume 7, Number 3.
+[ 28 ] Goodhart, C.A.E., (1999) : «Myths about the Lender of Last Resort», Financial
+Markets Group, London School of Economics Special Paper 120.
+[ 29 ] Greenwood, J. and Jovanovic, B. (1990) : «Financial development growth and the
+distribution of income», The journal of political economy, 98(5), pp 1076-1107.
+[ 30 ] Grier R. (1999) : «Colonial legacies and economic growth», Public Choice, Mar 1999;
+98, 3-4, ABI/INFORM Global pg. 317.
+[ 31 ] Humphrey, T.M., (1989) : «Lender of Last Resort : The Concept in History», FRB
+Richmond Economic Review, March/April 1989, pp. 8-16.
+[ 32 ] Kaufmann D. and Kraay A. (2002) : «Growth Without Governance», Economica,
+Vol.3, N°1, pp. 169-215.
+23
+
+--- Page 25 ---
+[ 33 ] Mahoney P. (2001) : «The Common Law and Economic Growth : Hayek Might Be
+Right», Journal of Legal Studies, Vol.30, N°2, pp.503-525.
+[ 34 ] Moore B. (1986) : «How Credit Drives the Money Supply : The Significance of Insti-
+tutional Developments», Journal of Economic Issues, Volume 20, 1986 - Issue 2.
+[ 35 ]Moral-PajaresE.,Mozas-Moral,A.,Bernal-JuradoE.andMedina-Viruel,M.J.(2015):
+«Efficiency and exports : Evidence from Southern European companies», Journal of Bu-
+siness Research, 68(7), 1506-1511.
+[ 36 ] Nakaso, H., 2013, «Financial Crises and Central Banks’ Lender of Last Resort func-
+tion», Remarks at Executive Forum, World Bank, Washington DC, and April 22, 2013.
+[ 37 ]NorthD.andThomasR.(1973):«TheRiseoftheWesternWorld:ANewEconomic»,
+Harvard University Press.
+[ 38 ] Nunn N. (2008) : «The Long-Term Effects Of Africa’s Slave Trades», The Quarterly
+Journal of Economics, February 2008.
+[ 39 ] La Porta R., Lopez-de-Silanes F., Shleifer A. and Vishny R. (1997) : «Legal Determi-
+nants of External Finance», Journal of Finance, Vol.52, N°3, pp.1131-1150.
+[ 40 ] La Porta R., Lopez-de-Silanes F., Shleifer A. and Vishny R. (1998) : «Law and Fi-
+nance», The Journal of Political Economy, Volume 106, Issue 6 (Dec., 1998), 1113-1155.
+[ 41 ] La Porta R., Lopez-de-Silanes F., Shleifer A. and Vishny R. (1999) : «The quality of
+government», Journal of Law Economics and Organization, Vol.15, N°1, pp.222-279.
+[ 42 ]LevineR.(1997):«FinancialDevelopmentandEconomicGrowth:ViewsandAgenda»,
+Journal of Economic Literature, Vol. 35, No. 2. (Jun., 1997), pp. 688-726.
+[ 43 ] Levine, R. and Zervos, S. (1998) : «Stock markets, banks, and economic growth»,
+American Economic Review, 88(3), 537-558.
+[ 44 ] Levine, R. (1998) : «The legal environment, banks, and long-run economic growth»,
+Journal of Money, Credit, and Banking, 30, 688-726.
+[ 45 ] Levine, R. (1998) : «The legal environment, banks, and long-run economic growth»,
+Journal of Money, Credit, and Banking, 30, 688-726.
+[ 46 ] Levine R. (2005) : Finance and growth : Theory and evidence, in Handbook of eco-
+nomic growth.
+[ 47 ] Levine R., Loayza N. and Beck T. (2007) : «Financial intermediation and growth :
+Causality and causes», Journal of Monetary Economics, 46 (2000) 31-77.
+[ 48 ] Loayza N. and Ranciere R. G. (2005) : «Financial development, financial fragility and
+growth», IMF working paper N° 05/170.
+[ 49 ]OmgbaL.D.(2015):«WhyDoSomeOil-ProducingCountriesSucceedinDemocracy
+While Others Fail?», World Development, Elsevier, vol. 76(C), pages 180-189.
+24
+
+--- Page 26 ---
+[ 50 ] Olsson O. (2009) : «On the Democratic Legacy of Colonialism», Journal of Compara-
+tive Economics, Vol.37, N°4, pp.534-551.
+[ 51 ] Over R. (1982) : «Does research productivity decline with age?», Higher Education,
+11(5), 511-520.
+[ 52 ] Rajan R. and Zingales L. (1998) : «The Firm as a Dedicated Hierarchy», University
+of Chicago working paper, 1997.
+[ 53 ] Reinhart, C. and Rogoff K. (2013) : «Financial and Sovereign Debt Crises : Some
+Lessons Learned and Those Forgotten», IMF Working Paper No. WP/13/266.
+[ 54 ] Rodrik D. (2007) : «How to Save Globalization from its Cheerleaders», CEPR Dis-
+cussion Papers 6494.
+[ 55 ] Rodrik D. (2009) : «Growth After the Crisis», CGD working paper N°65.
+[ 56 ] Sahay R., Ćihák M., N’Diaye P., Barajas A., Bi R., Ayala D., Gao Y., Kyobe A.,
+NguyenL.,SaborowskiC.,SvirydzenkaK.andYousefiS.(2015):«RethinkingFinancial
+Deepening : Stability and Growth in Emerging Markets», IMF Staff discussion notes,
+Washington DC.
+[ 57 ] Sala-i-Martin, Casey B. M. and Gil R. (2004) : «Do Democracies Have Different
+Public Policies than Nondemocracies?» , Journal of Economic Perspectives, American
+Economic Association, vol. 18(1), pages 51-74, Winter.
+[ 58 ] Schneider M. and Tornell A. (2004) : «Balance Sheet Effects, Bailout Guarantees and
+Financial Crises», Review of economic studies, 00, pp. 1-31.
+[ 59 ] Skirbekk V. (2004) : «Age and individual productivity : A literature survey», Vienna
+yearbook of population research, 133-153.
+[ 60 ] Stutz M. and Williamson R. (2003) : «Culture, openness and finance», Journal of
+Financial Economics, Volume 70, Issue 3, Pages 313-349.
+[ 61 ] Taylor, R. N. (1975) : «Age and experience as determinants of managerial information
+processing and decision making performance», Academy of Management Journal, 18(1),
+74-81.
+[ 62 ]VassilakisS.(2008):«LearningbydoingLawrence»,In:The New Palgrave Dictionary
+of Economics : Steven N. Durlauf and E (2 ed.). Blume : Palgrave Macmilla.
+25
+
+--- Page 27 ---
+Annexes
+Tableau 6 – Variables et statistiques descriptives
+Variables observationsmin max moyenne écart-type
+ln_BC_Maturité 92 2.890372 5.755742 3.986474 .5600713
+ln_GDP_pc 90 2.835296 4.940023 3.828618 .512044
+ln_Pop 92 4.710323 9.097637 6.798164 .9622395
+ln_enr_prim 84 1.548635 1.999358 1.931947 .0837286
+ln_Trade 89 -.3830877 2.311854 1.8241 .3182985
+ln_FBCF 87 .9197911 1.666811 1.308469 .1333796
+ln_Natural s 87 -3.037596 1.646817 .3580093 .8817882
+Inflation 87 .1972373 7.409183 2.446943 1.460191
+avelf 82 0 .8722529 .3388187 .3059828
+catho80 92 0 96.6 30.83587 35.04476
+muslim80 92 0 99.9 19.29478 33.28588
+protmg80 91 0 96.6 15.25385 22.74187
+Language 86 .0079817 .9226795 .3906931 .2867001
+legor_uk 92 0 1 .4565217 .5008354
+legor_fr 92 0 1 .3586957 .4822457
+logem4 52 .9360933 7.602901 4.52407 1.263746
+polity2 72 -10 10 .8055556 7.378383
+democ1 51 0 10 3.901961 3.832779
+democ00 51 0 10 1.156863 2.54065
+cons00 55 1 7 1.854545 1.747148
+BC_Indépendance 44 .1 .69 .3552273 .1221796
+ln_Nbre_Gveurs 62 1.386294 4.787492 2.410583 .6724292
+ln_Crédit 84 1.364321 5.464736 3.554463 .9122456
+ln_Prêt_Nperformant 54 -.6441022 3.412617 1.507015 .8286088
+ln_Total_assets 85 5.730384 16.97175 10.45537 2.471931
+ln_M2 78 -.4260873 3.898385 1.027518 .7985885
+inflation 86 -2.404639 28.18746 5.642003 4.742364
+26
+
+--- Page 28 ---
+Tableau 7 – listes des pays
+Albanie Djibouti Nigéria Bermuda Inde Soudan
+Algérie Equateur Pakistan Bhoutan Irlande Suriname
+Samoa El Salvador Papouasie Nouvelle Guinée Bolivie Israël Swaziland
+Angola Ethiopie Paraguay Botswana Jamaïque Thaïlande
+Argentine Finlande Pologne Brésil Kenya Trinité et Tobago
+Aruba Gambie Roumanie Burundi Kyrgyzistan Tunisie
+Australie Géorgie Russie Cap Vert Lao Uganda
+Autriche Allemagne Rwanda Cambodge Lesotho Etats Unis
+Bahamas Ghana Sao Tomé et Principes Cameroun Madagascar Uruguay
+Bahreïn Guatemala Seychelles Canada Malaisie Vanuatu
+Bangladesh Guinée Sierra Leone Chine Maldive Venezuela
+Barbade Guyane Tonga Colombie Iles Marshall Yémen
+Belarus Haïti Somalie RD Congo Mauritanie
+Belize Honduras L’Afrique du Sud Cote d’ivoire Maroc
+Islande Ukraine Chypre Mozambique Zambie
+Danemark Myanmar Zimbabwe Emirats Unies Arabe Royaume Uni
+27

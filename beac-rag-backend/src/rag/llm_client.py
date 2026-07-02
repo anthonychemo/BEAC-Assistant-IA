@@ -18,14 +18,14 @@ from src.utils.logger import logger
 _LLM = CONFIG.get("llm", {})
 _MODEL = _LLM.get("model", settings.llm_model)
 _TEMPERATURE = float(_LLM.get("temperature", 0.1))
-_NUM_CTX = int(_LLM.get("num_ctx", 4096))
-_MAX_TOKENS = int(_LLM.get("max_tokens", 1024))
-_KEEP_ALIVE = _LLM.get("keep_alive", "1h")
+_NUM_CTX = int(_LLM.get("num_ctx", 2048))
+_MAX_TOKENS = int(_LLM.get("max_tokens", 512))
+_NUM_THREAD = int(_LLM.get("num_thread", 8))
+_KEEP_ALIVE = _LLM.get("keep_alive", "2h")
 _FAST_MODEL = _LLM.get("fast_model", None)
 
-# Nombre de tentatives en cas d'erreur transitoire (connexion Ollama)
 _MAX_RETRIES = 2
-_RETRY_DELAY = 1.0  # secondes
+_RETRY_DELAY = 1.0
 
 
 class LLMClient:
@@ -36,6 +36,7 @@ class LLMClient:
             "temperature": _TEMPERATURE,
             "num_ctx": _NUM_CTX,
             "num_predict": _MAX_TOKENS,
+            "num_thread": _NUM_THREAD,
         }
 
     # ------------------------------------------------------------------

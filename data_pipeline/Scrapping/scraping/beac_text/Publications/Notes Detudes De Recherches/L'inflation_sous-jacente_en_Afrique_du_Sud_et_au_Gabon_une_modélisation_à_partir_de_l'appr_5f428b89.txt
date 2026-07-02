@@ -1,0 +1,925 @@
+Source PDF : L'inflation_sous-jacente_en_Afrique_du_Sud_et_au_Gabon_une_modélisation_à_partir_de_l'appr_5f428b89.pdf
+Chemin original : scraping\beac_data\Publications\Notes Detudes De Recherches\L'inflation_sous-jacente_en_Afrique_du_Sud_et_au_Gabon_une_modélisation_à_partir_de_l'appr_5f428b89.pdf
+Date extraction : 15/06/2026 21:00:49
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS DE L’AFRIQUE CENTRALE
+NOTES D’ETUDES ET DE RECHERCHE
+N° 1
+Octobre 2002
+L’INFLATION SOUS-JACENTE EN AFRIQUE DU
+SUD ET AU GABON : UNE MODELISATION A
+PARTIR DE L’APPROCHE VAR STRUCTURELLE
+André MIALOU
+Les notes d’Etudes et de Recherche reflètent les idées personnelles de leurs auteurs et n’expriment pas nécessairement la
+position de la Banque des Etats de l’Afrique Centrale. Ces documents ont pour objectifs de stimuler la discussion et recueillir les
+suggestions. Ils sont disponibles sur le site internet de la Banque des Etats de l’Afrique Centrale « www.beac.int ».
+
+--- Page 2 ---
+L’INFLATION SOUS-JACENTE EN AFRIQUE
+DU SUD ET AU GABON : Une modélisation à
+partir de l’approche VAR structurelle
+André MIALOU
+∗
+Octobre 2002
+Abstract
+In the last two decades, several authors have argued that central banks
+should emphasize price stability as a single objective of monetary policy. The
+desiretolimittheobjectivesofmonetarypolicyinthiswayisbasedonthenear-
+unanimity among economists and policy-makers that monetary policy cannot
+affect the long-term growth of the economy. Hence, many central banks have
+adopted price stability as the ultime goal of their monetary policy. However,
+this important goal cannot be achieved by the central bank without controlling
+core inflation because, only this one is due to monetary factors. We try, in this
+paper,todeterminecoreinflationinSouthAfricaandGabonusingdynamicre-
+strictionsonaVARsystem(BlanchardandQuahdecomposition). SouthAfrica
+adopted inflation targeting as its monetary framework while Gabon is one of
+African Zone Franc members with a strategy of monetary policy focused to
+monetary targeting. Following Quah and Vahey (1995) we define core inflation
+as the component of measured inflation that has no medium or long-run im-
+pacton real output. Thepaper resultsareconsistentwiththevertical long-run
+Phillips curve of the comovements in inflation and output. In the case of South
+Africa, the core inflation is consistent with economic explanation of that con-
+cept. Indeed,underlyinginflationremainsneartheobservedinflationbutabove
+measuredinflationinperiodsoflowinflationandbelowonperiodsofhighinfla-
+tion.
+Direction des Etudes, BEAC Services Centraux. Email: mialou@beac.int. Nous tenons à re-
+∗
+mercier Séverin Yves Kamgna et Mesmin Koulet-Vickot pour la pertinence de leurs observations
+au cours de nos ateliers de recherche. Nous remercions également Pascal Jacquinot du Centre de
+Recherche de la Banque de France pour nous avoir fourni son programme permettant de générer
+les écart-types des fonctions d’impulsion des SVAR sur RATS par simulation de Monte Carlo. Nos
+remerciements vont enfin à Nicaise NGuema Obiang et les amis de la DGSEE au Gabon qui nous
+ontgracieusementtransmisleurbasededonnéesrelativeàlaproductionindustrielle. Bienentendu,
+les éventuelles erreurs demeurent le seul fait de l’auteur.
+1
+
+--- Page 3 ---
+Résumé
+Au cours des deux dernières décennies, la plupart des banques centrales se
+sont vues confier la mission principale d’assurer la stabilité des prix. Le recen-
+trage de la politique monétaire à cet objectif vient de la quasi-unanimité des
+économistesetbanquierscentrauxselonlaquellelapolitiquemonétairen’affecte
+pas l’activité à long terme. De ce fait, plusieurs banques centrales ont adopté
+la stabilité des prix comme objectif ultime de leur politique monétaire. Cet
+important rôle ne peut cependant être pleinement joué que si les banques cen-
+trales peuvent maîtriser l’inflation sous-jacente, car c’est cette dernière qui est
+d’origine monétaire. Dans ce papier, nous déterminons l’inflation sous-jacente
+en Afrique du Sud et au Gabon en utilisant un VAR structurel selon la méth-
+ode de Blanchard et Quah. L’Afrique du Sud est certainement l’un des pays
+africainsayantconnudefortstauxd’inflationetquiaffichelaplusgrandedéter-
+mination dans la lutte contre l’inflation en adoptant depuis quelques années un
+ciblage direct de l’inflation. Le Gabon qui appartient à l’Union Monétaire de
+l’Afrique Centrale (UMAC) est soumis au ciblage monétaire de cette zone. Les
+résultats obtenus semblent valider le schéma d’identification basé sur la verti-
+calité à long terme de la courbe de Phillips. De plus, pour le cas de l’Afrique
+du Sud, la série d’inflation sous-jacente obtenue a des évolutions conformes à
+celles que prédit généralement la théorie économique. L’inflation sous-jacente
+est en effet au-dessus de l’inflation observée dans les périodes de désinflation et
+en dessous de celle-ci dans les périodes de forte inflation.
+1 Introduction
+Depuis les années soixante-dix, un consensus semble s’établir dans la littérature
+économique pour reconnaître que l’inflation est coûteuse pour l’équilibre macroé-
+conomique. L’une des raisons régulièrement évoquée, notamment dans les modèles
+monétaires de maximisation simple1, est qu’un taux d’inflation élevé affecte négative-
+mentleséquilibresréels. Cequisetraduitparuneréductiondel’efficiencedesfacteurs
+de production2. Plusieurs études récentes se sont, attelées à estimer empiriquement
+ce coût sur la croissance économique, et la principale conclusion à laquelle aboutis-
+sent la plupart d’entre elles est que, l’inflation exerce une influence négative sur la
+croissance dès qu’elle dépasse un certain seuil3. Selon Kahn et Senhadji (2000), ce
+seuil se situerait à 1-3% pour les pays industriels et 7-11% pour les économies en
+développement. Auparavant, Sarel (1996) avait trouvé un seuil de 7% pour tous les
+pays, alorsqueGroshetPhillips(1998)trouvaientunseuilde2,5%. Ilestvraiqueles
+niveaux de seuil divergent selon les auteurs, mais la liaison négative entre l’inflation
+1Par exemple Fisher (1983)
+2De même le lien entre les dépenses publiques et la taxe d’inflation constitue un autre canal à
+travers lequel l’activité se trouve affectée.
+3Cf. Barro(1995), Fischer (1983, 1993), Bruno et Easterly (1988), Kahn et Senhadji (2000).
+2
+
+--- Page 4 ---
+et la croissance semble, quant à elle, bien établie4. On peut donc s’accorder pour dire
+que l’inflation désorganise la coordination de l’activité économique.
+Devant cette situation et étant donné l’avantage comparatif de la politique moné-
+taire par rapport à la politique budgétaire en matière de lutte contre l’inflation, la
+plupart des banques centrales se sont vues confiées la mission principale d’assurer la
+stabilité des prix5. La politique monétaire peut, en effet, jouer un rôle essentiel dans
+la lutte contre l’inflation, d’abord parce qu’il peut être démontré qu’à long terme
+l’inflation est d’origine monétaire, et aussi parce qu’il existe un fort effet de levier des
+taux d’intérêt sur la demande globale à travers la base monétaire ce qui fait qu’une
+modification, même mineure, des taux d’intérêt se répercute de façon significative
+sur les différents compartiments des marchés monétaire et financier, et in fine sur
+la demande6. Ainsi, une politique monétaire crédible tendra effectivement à baisser
+l’inflation anticipée et à assurer une croissance économique forte, alors que le déficit
+de crédibilité de la politique monétaire renforcera plutôt les anticipations inflation-
+nistes qui se traduisent par une augmentation des taux d’intérêt longs et donc par la
+déprime de l’activité.
+La question du lien entre l’inflation et la croissance, ainsi que celle du pouvoir
+reconnu à la banque centrale de lutter contre l’inflation, ne font donc plus l’objet de
+controverses nourries. Le problème majeur est cependant de connaître la catégorie de
+l’inflation que la banque centrale doit suivre. Doit-elle contrôler l’inflation courante,
+ou au contraire suivre un indicateur des prix reflétant la tendance lourde de ceux-
+ci ? En d’autres termes, les mouvements de l’inflation courante suffisent-ils à faire
+déclencher, de la part des autorités monétaires, des décisions de politique monétaire
+(hausse ou baisse des taux d’intérêt)?
+En effet, l’inflation observée peut ne pas être d’origine monétaire. Des facteurs
+purement transitoires peuvent être à l’origine des mouvements cycliques des prix sans
+pour autant affecter la tendance lourde ou tendance de long terme de ceux-ci. Ainsi,
+une modification de la politique monétaire liée à ces évolutions purement cycliques
+seracertainementinefficace,aveclecaséchéantdeseffetsadversespourlefinancement
+de l’économie. Bryan et Cecchetti [1993], notent à propos que “pendant les périodes
+de mauvaise météo, par exemple, les prix des denrées alimentaires ont tendance à
+augmenterdufaitdeladiminutiondel’offre,provoquantainsideshaussestransitoires
+de l’indice des prix. Compte tenu du fait que ces variations de prix ne constituent
+pas l’inflation monétaire, les autorités monétaires devraient éviter de fonder leurs
+décisionssurcelles-ci”7. Aucontraire, lorsqu’ons’intéresseàl’inflationstructurelleou
+inflationd’originemonétaire, lesdécisionsdepolitiquemonétairevisantàlacontrôler
+4On pourra trouver, chez Fischer (1983), une présentation assez détaillée des arguments analy-
+tiques expliquant cette relation inverse.
+5Plusieursbanquescentralesontd’ailleursadopté,àpartirdudébutdesannéesquatre-vingtdix,
+une stratégie de politique monétaire basée sur le ciblage directe de l’inflation.
+6Voir sur ce point B. Friedman (2000).
+7Bryan et Cecchetti [1993], p.1. Voir aussi Blinder (1997).
+3
+
+--- Page 5 ---
+sont susceptibles de produire tous leurs effets. La banque centrale doit donc suivre
+l’indicedesprixdontletauxdecroissancecorrespondàl’inflationquigénèrelescoûts
+qu’elle cherche justement à éviter en se fixant comme objectif de politique monétaire,
+la stabilité des prix8. La question porte, dès lors, sur la meilleure mesure de cette
+inflation structurelle.
+Les méthodes demeurent à ce jour multiples et variées. Certaines, qualifiées de
+“méthode des poids nuls” procèdent par élimination des composantes jugées trop
+volatiles dans l’indice des prix. D’autres, plus anciennes, ignorent l’information indi-
+viduelle contenue dans les changements de prix en effectuant simplement un lissage
+des valeurs courantes et passées des taux d’inflation, soit par moyennes mobiles,
+soit par utilisation des différents autres filtres disponibles (filtre de Kalman, filtre
+de Hodrick et Prescott, ou encore la décomposition de Beveridge et Nelson). Une
+voie intermédiaire entre ces deux groupes d’approches est celle proposée par Bryan
+et Cecchetti (1993) qui combine l’information sur les caractéristiques temporelles et
+transversales des changements individuels de prix.
+Le principal reproche formulé à l’endroit de ces méthodes, au-delà des interroga-
+tions d’ordre statistique que soulèvent certaines, est que la plupart d’entre-elles re-
+posentsurdeshypothèsesquineseréfèrentgénéralementpasàlathéorieéconomique.
+C’est pour combler cette insuffisance que d’autres travaux, nés à la suite de Quah
+et Vahey (1995), ont développé une méthode d’extraction de l’inflation sous-jacente,
+non seulement basée sur une analyse multivariée, mais qui s’appuie surtout sur la
+théorie économique. Quah et Vahey (1995) et par la suite Fase et Folkertsma (1996),
+Claus (1997) et Jacquinot (1998) exploitent, en effet, la verticalité à long terme de
+la courbe de Phillips, généralement admise en théorie économique, pour déterminer
+l’inflationsous-jacente. Etantdonnéqu’ilestpossiblededémontrerqu’unchocdede-
+mande ne peut avoir des effets sur l’activité qu’à court terme, on peut naturellement,
+identifier l’inflation sous-jacente comme étant la composante de l’inflation n’ayant
+pas d’effet à long terme sur la production. Autrement dit elle est la composante re-
+spectant la neutralité à long terme. L’autre composante de l’inflation qui ne respecte
+pas cette neutralité est assimilée à l’inflation de court terme ou inflation cyclique. On
+se retrouve alors devant un problème d’identification des chocs affectant l’économie
+qu’il est possible de résoudre en utilisant la modélisation VAR structurelle.
+C’estdoncenexploitantcettedernièreapprochequenousvoulons, danscepapier,
+déterminer l’inflation sous-jacente en Afrique du Sud et au Gabon. L’Afrique du Sud
+a adopté depuis quelques années une stratégie de politique monétaire basée sur le
+ciblage direct de l’inflation. Le Gabon, membre de l’Union Monétaire de l’Afrique
+Centrale (UMAC), est parmi les pays francophones où la production industrielle qui
+est calculée mensuellement depuis quelques temps occupe une part relativement im-
+portantedansleproduitintérieurbrutcomparativementauxautrespaysdel’UMAC.
+Cette approche semble par ailleurs mieux répondre, dans notre cas, aux critères de
+choix des méthodes, définis par Wynne (1999). La méthode d’identification retenue
+8Cf. Wynne (1999), p.3.
+4
+
+--- Page 6 ---
+est, comme chez Quah et Vahey (1995), celle de Blanchard et Quah (1989), avec un
+VAR basé sur deux variables.
+Lasuitedupapierseprésentecommesuit. Lasection2présentedefaçondétaillée
+la méthode d’identification des chocs proposée par Blanchard et Quah (1989). La
+troisième discute de la validité du schéma d’identification appliqué à notre cas, alors
+que la quatrième présente la manière de calculer concrètement l’inflation sous-jacente
+issue du schéma d’identification obtenu de l’application de la démarche de Blanchard
+et Quah (1989) ainsi que les résultats obtenus. Enfin la dernière conclut.
+2 Modèle VAR structurel et décomposition de Blan-
+chard et Quah
+La présentation détaillée du modèle VAR structurel utilisé dans cette étude est im-
+portante dans la mesure où la pertinence des résultats sur l’inflation sous-jacente sera
+étroitement liée à la spécification VAR retenue. Nous présentons d’abord le modèle
+VAR avant de pouvoir expliquer la méthode d’identification de Blanchard et Quah.
+2.1 Le modèle VAR
+Nous supposons que les économies sud-africaine et gabonaise considérées ici sont
+gouvernées à différents instants par deux types de chocs : les chocs d’offre et les
+chocsdedemande. Cesdeuxtypesdechocsontdeseffetssurl’évolutiondesgrandeurs
+macroéconomiques et commedecoutume, nousconsidéronsqueseuls leschocsd’offre
+peuvent avoir des effets permanents sur l’activité et que les chocs de demande n’ont
+que des effets transitoires.
+De façon plus générale le modèle VAR structurel d’ordre p est le suivant :
+Ψ(L)X(t) = ε (1)
+t
+Avec : Var(ε) = et Ψ(L) = p Ψ Lj
+ε j=0 j
+P P
+La forme autorégressive (1) admet la représentation de Wold suivante :
+∞
+X(t) = A(0)ε(t)+A(1)ε(t 1)+... = A(j)ε(t j) (2)
+− −
+j=0
+X
+C’est-à-dire :
+X(t) = A(L)ε (3)
+t
+Avec A(L) = A Lj
+∞j=0 j
+P
+5
+
+--- Page 7 ---
+Dans notre cas, le VAR retenu est bivarié et inclut la production industrielle (IPI)
+et l’inflation9. Ce sont alors les observations de ces deux variables qui vont nous per-
+mettre d’identifier les deux types de chocs susmentionnés. Les tests de stationnarité
+et de cointégration10 ont montré, dans le cas de l’Afrique du Sud, que l’IPI et le taux
+d’inflationsontI(1)alorsquedanslecasduGabonl’IPIestI(1) etletauxd’inflation
+I(0). Le fait que les variables en niveau ne soient pas cointégrées nous permet d’écrire
+notre VAR en différences premières sans relations de cointégration pour l’Afrique du
+Sud, et en différences premières sur l’IPI et en niveau pour le taux d’inflation dans le
+cas du Gabon. La forme moyenne mobile bivariée (BMA) peut donc s’écrire comme
+suit :
+∆y = a (j)Ljε + a (j)Ljε
+t ∞j=0 11 1t ∞j=0 12 2t
+(4)
+ P P
+ ∆p
+t
+= ∞j=0a 21(j)Ljε
+1t
++ ∞j=0a 22(j)Ljε
+2t
+∆y
+t
+et ∆p
+t
+sontles différePnces premières de Pla production industrielle et du taux
+d’inflation pour l’Afrique du Sud et les différences premières de l’IPI et l’IPC pour
+le Gabon. ε représente le choc réel11, alors que ε représente le choc monétaire.
+1t 2t
+Etant donné quenos deuxvariablessontstationnaires endifférences premières, a (j)
+12
+sera l’effet de ε (choc monétaire) sur ∆y après j périodes. Or ce qui nous intéresse
+2t
+ici c’est l’effet de ce choc sur le niveau de y. De légers arrangements algébriques
+permettent d’observer rapidement que si a (j) est l’effet du choc monétaire sur ∆y
+12
+après j périodes, alors k a (j) sera l’effet de ε sur le niveau de y et non sur la
+j=0 12 2t
+différence première après k périodes. L’effet de long terme peut donc naturellement
+P
+s’écrire a (j).
+∞j=0 12
+P
+Une fois le modèle VAR structurel défini, il nous faut retrouver les erreurs struc-
+turelles à partir des innovations de la forme réduite du VAR, puisque les ε(t) ne sont
+pas directement observables.
+La forme réduite estimable du modèle VAR peut s’écrire comme suit :
+X(t) = B(L)X(t)+v (5)
+t
+9L’indice de la production industrielle (IPI) a été préférée au PIB en volume pour la même
+raison que Quah et Vahey. Cette variable est en effet disponible en données mensuelles alors que
+les séries du PIB ne sont qu’annuelles. Les données de l’Afrique du Sud proviennent intégralement
+du CD-ROM IFS du FMI, alors que pour le Gabon, seul l’indice des prix à la consommation (IPC)
+a été pris à cette source; l’IPI ayant été directement extrait de la base des données de la DGSEE.
+Les données manquantes sur certains mois des années 1989 et 1990 de l’IPC du Gabon ont été
+estimées en utilisant les données de la DGSEE. Au total, l’étude porte sur les années 1961 à 2000
+pour l’Afrique du Sud et 1984 à 1998 pour le Gabon. L’IPI et l’IPC sont pris en logarithme.
+10Résultats disponibles auprès de l’auteur.
+11Quah et Vahey le qualifie de choc non core car ce choc restedifficile à déterminer en particulier
+lorsqu’on considère la forme standard d’un modèle macroéconomique limité à une équation IS, une
+fonction de réaction de la banque centrale et une courbe de Phillips. Nous retenons tout de même
+le terme de choc réel comme Jacquinot (1998).
+6
+
+--- Page 8 ---
+∆y
+t
+Avec Var(v) = Ω , B(L) = p B Lj et X(t) =
+j=1 j  
+∆p
+P  t 
+La représentation moyennes mobiles sera alors :  
+∞
+X(t) = v(t)+C(1)v(t 1)+... = C(j)v(t j) (6)
+− −
+j=0
+X
+C’est-à-dire :
+X(t) = C(L)v (7)
+t
+où : Var(v) = Ω et C(L) = C Lj
+∞j=0 j
+P
+Si l’on admet que cette représentation est obtenue par inversion de la forme au-
+torégressive stationnaire de X(t), alors cette forme moyenne mobile est unique.
+En comparant les équations (2) et (6) on a :
+v(t) = A(0)ε(t) (8)
+et :
+Ω = A(0) A(0) (9)
+0
+ε
+X
+C’est donc la connaissance de A(0) qui va nous permettre de retrouver ε(t),
+puisque v(t) peut être obtenu à partir du VAR standard.
+De même, en considérant les relations (3), (7) et (8), on détermine A(L). On a
+donc :
+A(L) = C(L)A(0) (10)
+La connaissance de C(L) à partir du VAR standard et A(0) va nous permettre de
+déterminer A(L). Toute la question est donc de savoir si A(0) est identifiable.
+2.2 Le problème de l’identification
+Dufaitdufeed-backinhérentausystème, leséquationsduVARstructurelnepeuvent
+pas être directement estimées. En effet, les erreurs sont correlées avec les variables
+alors que les techniques d’estimation requièrent une absence de corrélation entre les
+régresseurs et les termes d’erreur. Ce problème n’existe pas pour la forme standard
+du VAR, et les moindres carrés ordinaires peuvent parfaitement être utilisés pour
+l’estimation de celle-ci12. La question est donc de savoir s’il est possible de retrou-
+ver l’information recherchée dans le VAR primitif ou d’identifier celui-ci à partir de
+l’estimation par les MCO du VAR standard. La réponse à cette question est, bien
+entendu, non, sauf à poser des restrictions dans le système primitif. Celui-ci com-
+porte, eneffet, plusdeparamètresquelaformestandard, etsiaucunerestrictionn’est
+12On peut ainsi estimer facilement la matrice des variances-covariances du VAR standard.
+7
+
+--- Page 9 ---
+posée, le système structurel restera sous-identifié. En le restreignant, s’il comporte
+autant de paramètres que la forme standard, on dit alors qu’il est juste-identifié. Si
+le nombre de paramètres devient inférieur, le système est dit sur-identifié, et des tests
+de sur-identification doivent être effectués de façon complémentaire. On travaille
+généralement avec des systèmes juste-identifiés pour les modèles VAR.
+Il est très facile, en comptant le nombre des paramètres de notre modèle VAR
+structurel,deserendrecomptequecelui-cicomporten2+n(np+1)+n(n+1) paramètres13,
+2
+alors que le VAR standard n’en compte14 que n(np + 1) + n(n+1). Il y a donc n2
+2
+paramètres de plus dans le premier. Il nous faut donc trouver n2 contraintes identi-
+fiantes.
+Puisque tous les éléments de la diagonale de la matrice des variables contem-
+poraines sont égaux à 1, on gagne n paramètres, et il en reste n2 n. Les autres
+−
+contraintes doivent, pour l’identification d’un VAR structurel, être imposées comme
+contraintes d’orthogonalisation de la matrice des variances-covariances des chocs, et
+comme contraintes empruntées à la théorie économique sur la matrice de coefficients
+des variables contemporaines et / ou sur les multiplicateurs de long terme.
+Encequiconcernelamatricedesvariances-covariancesdeschocs; elleestsupposée
+orthogonale. Sesseulesinconnuessontalorslesparamètresdeladiagonale. Onréduit
+ainsi le nombre de paramètres de n(n 1) paramètres15, il en reste n2 n n(n 1). Ce
+− −
+2 − − 2
+sont ces n(n 1) contraintes supplémentaires qui sont obtenues en se servant de la
+−
+2
+théorie économique.
+Dans notre cas, avec un VAR bi-varié on a : n(n 1) = 1. Cette contrainte supplé-
+−
+2
+mentaire tirée de la théorie économique sera donnée par la restriction de long terme
+selon laquelle le choc monétaire n’a pas d’effet à long terme sur l’activité. Cela re-
+vient, concrètement, à annuler le côté supérieur droit de la matrice d’impact de long
+terme.
+Enfait,enempruntantladémarchedeBlanchardetQuah(1989)onpeutidentifier
+lamatriceA(0)dedeuxmanières. BlanchardetQuahqualifientlapremièreapproche
+d’informelle et la seconde de formelle. Dans les deux cas, les auteurs proposent de
+normaliser par la matrice identité I. La relation (9) devient alors :
+ε
+P
+Ω = A(0)A(0) (11)
+0
+2.2.1 La démarche informelle
+Etant donné (11), on peut écrire :
+13La matrice des variables contemporaines compte n2 paramètres, le vecteur des constantes en
+compte n, les p matrices associées aux variables retardées comportent n2p éléments, et enfin, la
+matricedesvariances-covariancesencompte n(n+1) paramètres. Lasommedecesdifférentsnombres
+2
+nous donne alors ce total.
+14La matrice des contemporaines disparaît dans la forme réduite du VAR.
+15Ces paramètres sont tous égaux à 0.
+8
+
+--- Page 10 ---
+Restriction n 1 :
+◦
+Var(v ) = a (0)2 +a (0)2 (12)
+1t 11 12
+Restriction n 2 :
+◦
+Var(v ) = a (0)2 +a (0)2 (13)
+2t 21 22
+et :
+Restriction n 3 :
+◦
+Ev v = a (0)a (0)+a (0)a (0) (14)
+1t 2t 11 21 12 22
+La dernière relation est donnée par la restriction de long terme :
+Restriction n 4 :
+◦
+∞ ∞
+1 c (k) a (0)+ c (k)a (0) = 0 (15)
+22 11 12 21
+" − #
+k=0 k=0
+X X
+Les quatre restrictions ci-dessus permettent donc d’identifier A(0) et de retrouver
+les erreurs structurelles en résolvant le système d’équations non linéaires suivant :
+Var(v ) = a (0)2 +a (0)2
+1t 11 12
+
+ V Eva 1r t( vv
+22
+tt) == aa
+12 11
+(( 00 )) a2 21+ (0a
+)2
++2(0 a) 12
+2(0)a 22(0)
+(16)
+
+[1
+−
+P∞k=0c 22(k)]a 11(0)+ P∞k=0c 12(k)a 21(0) = 0
+2.2.2 La démarche formelle
+La deuxième démarche plus rigoureuse proposée par Blanchard et Quah est la suiv-
+ante16 :
+Si on note S l’unique matrice triangulaire obtenue par factorisation de Cholesky
+deΩ,toutematriceA(0)tellequeA(0)A(0) = Ωestunetransformationorthonormée
+0
+de S. Aussi la restriction que le côté supérieur droit de la matrice C(j)A(0)
+∞j=0
+est égal à zéro est donc une restriction orthogonale qui détermine de façon unique la
+P
+transformation orthonormée17.
+En considérant (10), on peut écrire la matrice d’impact à long terme comme suit
+16Cette méthode est en particulier facile à générer sur RATS avec un VAR à deux variables.
+17Cf. Blanchard et Quah (1989).
+9
+
+--- Page 11 ---
+A(1) = C(1)A(0) (17)
+Si on considère que le choc de demande n’a pas d’effet à long terme sur la produc-
+tion, alors le coin supérieur droit de A(1) est égal à zéro. A(1) est donc triangulaire
+inférieur et est un facteur de la matrice C(1)ΩC(1). La restriction peut donc être
+0
+obtenue en imposant A(1) comme étant le facteur de Choleski de cette matrice.
+En posant Q = A(1) = C(1)A(0) on a : QQ = C(1)ΩC(1) et donc :
+0 0
+A(0) = C(1) 1Q (18)
+−
+La démarche formelle est en particulier bien adaptée pour un VAR bi-varié avec
+une seule restriction de nature économique (restriction de long terme). En effet, la
+matrice de passage peut, dans ce cas, être obtenue sans passer par le développement
+des algorithmes plus complexes permettant l’estimation des équations non linéaires.
+3 Validité du schéma d’identification
+Etant donné le choix du modèle VAR pour l’extraction de l’inflation sous-jacente, il
+nous faut vérifier à partir de la décomposition de la variance de l’erreur de prévision
+et de l’étude des fonctions d’impulsion que notre schéma d’identification peut être
+considéré comme valide. On s’attend, en effet, à ce que le choc monétaire n’ait pas
+d’effet à long terme sur la production.
+3.1 Décomposition de la variance de l’erreur de prévision
+Nous savons à la suite de Sims (1980) qu’on peut, dans le cas d’une prévision réalisée
+à partir d’un VAR, décomposer la variance de l’erreur de prévision de manière à
+faire ressortir la proportion liée à chaque choc. La décomposition ainsi effectuée est
+interprétée en terme de causalité comme la part de chaque choc dans la variation de
+la variable-cible autour de son sentier d’équilibre. Nous avons calculé pour chaque
+série, la part de la variance due au choc monétaire. La décomposition effectuée
+de la variance de l’erreur de prévision montre effectivement que le choc monétaire
+n’a aucune incidence sur l’activité puisque sur un horizon de 1 à 170 il n’explique
+que moins de 5 % de l’erreur de prévision de l’activité dans le cas de l’Afrique du
+Sud et moins de 2 % dans le cas du Gabon. Ce résultat peut paraître trivial en
+admettantqu’ilestsimplementconformeauschémad’identificationretenuquiimpose
+la neutralité à long terme du choc monétaire sur l’activité. Néanmoins, la quasi
+totalité de la variance de l’inflation est expliquée par le choc ε qui est ici assimilé
+2t
+au choc monétaire.
+10
+
+--- Page 12 ---
+DECOMPOSITION DE LA VARIANCE : POURCENTAGE DE
+LA VARIANCE EXPLIQUEE PAR ε
+t
+AFRIQUE DU SUD GABON
+Horizon
+Production Inflation Production Inflation
+1 0.179 99.970 0.496 98.615
+2 0.524 99.987 0.553 98.424
+3 0.556 98.962 0.955 98.008
+4 1.107 97.763 1.420 98.004
+5 1.334 97.442 1.834 96.653
+10 4.070 96.189 1.799 95.450
+20 4.267 96.003 1.856 95.238
+30 4.273 95.996 1.858 95.199
+170 4.273 95.995 1.856 95.188
+3.2 Fonctions d’impulsion
+L’analyse des réponses impulsionnelles pour les deux pays (figures 1 à 8) confirme
+les résultats obtenus avec la décomposition de la variance de l’erreur de prévision.
+Ces résultats sont, en effet, conformes à notre schéma d’identification et analogues à
+la plupart des travaux sur l’inflation sous-jacente menés à partir de l’approche VAR
+structurel18.
+En ce qui concerne l’inflation, on observe que le choc monétaire ε a un effet per-
+2t
+manent significatif, résultat tout-à-fait conforme avec la théorie, puisqu’il est admis
+que cette composante commande l’inflation à long terme. S’agissant du choc réel,
+l’impact est positif sur l’inflation, ce qui peut paraître paradoxal. Mais cet impact ne
+sesituequ’àunniveaulégèrementsupérieuràzéroetdemeurecommechezJacquinot
+(1998) statistiquement non significatif. Le fait que ε n’ait pas d’effet significatif à
+1t
+long terme sur l’inflation permet de bien distinguer clairement l’effet à long terme des
+chocs : ε sur la production et ε sur l’inflation. Il est bien connu que ce résultat
+1t 2t
+est fondamental pour la validation du schéma d’identification puisqu’il est vérifié a
+posteriori sans avoir préalablement été imposé.
+Pour ce qui est de la production, les graphiques montrent que le choc ε n’a, con-
+2t
+formément à la contrainte d’identification, pas d’effet à long terme sur la production.
+On observe, en outre, que le délai d’ajustement à la situation de long terme reste très
+court, ce qui tend à valider l’hypothèse de verticalité de la courbe de Phillips. Il est
+cependant surprenant que dans les deux pays les intervalles de confiance ne reflètent
+pas la contrainte imposées puisqu’ils ne s’aménuisent pas avec celle-ci au fil du temps
+(figures 3 et 7).
+18Cf. les références citées en bibliographie et plus précisément Quah et Vahey (1995) ainsi que
+Jacquinot (1998).
+11
+
+--- Page 13 ---
+4 Calcul de l’inflation sous-jacente
+4.1 La méthode de calcul
+La lecture des fonctions d’impulsion et de la décomposition de la variance de l’erreur
+de prévision nous a permis de valider notre méthode d’identification. Nous allons à
+présent nous intéresser au calcul de l’inflation sous-jacente.
+Le VAR structurel (1) peut s’écrire sous une forme plus compacte de la manière
+suivante :
+∆y A (L) A (L) ε
+t 11 12 1t
+= (19)
+    
+∆p A (L) A (L) ε
+t 21 22 2t
+    
+    
+Avec : A (L) = A Ls
+ij ∞s=0 ij,s
+L’accroissement des prix se décompose alors comme suit :
+P
+∆p = A (L)ε +A (L)ε (20)
+t 21 1t 22 2t
+L’inflation sous-jacente étant, entre ces deux composantes, celle qui respecte la
+contrainte de neutralité à long terme, elle s’écrit alors comme suit :
+∆psj = A (L)ε (21)
+t 22 2t
+et :
+∆psj = ∞ A ε (22)
+t 22,s t s
+−
+s=0
+X
+Cette dernière relation nous permet de déterminer de façon récursive, pour un
+horizon s quelconque, l’inflation sous-jacente de la manière suivante :
+∆psj = A ε
+0 22,0 2,0
+∆psj = A ε +A ε
+1 22,0 2,1 22,1 2,0
+∆psj = A ε +A ε +A ε
+2 22,0 2,2 22,1 2,1 22,2 2,0
+·
+·
+·
+Une autre manière, plus directe et autant efficace, de procéder est d’utiliser la
+décomposition historique qui éclate la série en deux principales composantes, à savoir
+celle liéee à la simulation de base ou projection de base et celle qui donne les effets
+cumulés des innovations courantes et passées. La décomposition historique est donc
+12
+
+--- Page 14 ---
+basée sur une décomposition de la représentation moyenne mobile selon la formule
+générale suivante :
+j 1
+− ∞
+X = A ε + A ε (23)
+T+j s T+j s s T+j s
+− −
+s=0 s=j
+X X
+La première somme représente la part de Xt+j due aux innovations de T+1 à
+T+j. La seconde constitue la prévision de T+j basée sur l’information disponible à
+la date T. Ainsi, de manière générale, si ε a N composantes, Xt+j se décomposera
+en N+1 parties.
+Pour la série de l’inflation, nous obtenons la décomposition suivante:
+j 1 j 1
+− − ∞
+∆p = A ε + A ε + A ε (24)
+21,s 1,T+j s 22,s 2,T+j s 2 ,s T+j s
+− − ∗ −
+s=0 s=0 s=j
+X X X
+De cette formule est déduite l’inflation sous-jacente, en éliminant simplement la
+composante corrélée avec la production industrielle.
+j 1
+∆psj = − A ε + ∞ A ε (25)
+22,s 2,T+j s 2 ,s T+j s
+− ∗ −
+s=0 s=j
+X X
+4.2 Les résultats
+Les figures 11 et 12 présentent les résultats de l’inflation sous-jacente dans les deux
+pays19. L’inflationsous-jacenten’étantriend’autrequelatendancelourdedel’inflation
+observée, on constate que les deux séries présentent des évolutions proches. Dans le
+casdel’AfriqueduSud, l’inflationsous-jacenteresteen-dessousdel’inflationobservée
+de 1963 à 1990 qui est la période au cours de laquelle l’Afrique du Sud a connu des
+taux d’inflation élevés. En revanche, à partir de 1991 date à partir de laquelle la
+lutte contre l’inflation est devnue une priorité, avec notamment l’adoption du ciblage
+directe de l’inflation en tant que stratégie de politique monétaire de la banque cen-
+trale, on observe que l’inflation sous-jacente se situe au-dessus de l’inflation observée.
+L’inflation sous-jacente prend bien en compte le retournement de l’inflation observée.
+Ce qui semble naturel puisqu’il est généralement observé que pendant les périodes de
+19Ces séries sont présentées en glissement annuel.
+13
+
+--- Page 15 ---
+désinflation l’inflation sous-jacente reste au dessus de l’inflation observée alors que
+pour les périodes de reprise de l’inflation, l’inflation sous-jacente reste raisonnable.
+Ce résultat peut également se justifier au plan théorique par le fait qu’on s’attend
+à ce que l’inflation observée excède l’inflation sous-jacente en période d’accélération
+de la demande et l’inverse en période de faible croissance ou de récession. Le cas du
+gabon est plus complexe car pour ce pays, l’inflation sous-jacente demeure au-dessus
+de l’inflation observée pendant toute la période de l’étude.
+5 Conclusion
+Le but du papier était de déterminer l’inflation sous-jacente en Afrique du Sud et
+au Gabon en utilisant l’approche des VAR structurels. La lecture des graphiques de
+réponsesimpulsionnellesauxchocsmontrequel’identificationdes chocsréel etmoné-
+taire est bienassurée et que, par conséquent, sur labase de la contrainte de neutralité
+à longterme de l’inflation sur la production, l’inflationsous-jacente peut être calculée
+à partir de cette approche des VAR structurels. Les résultats confortent le choix de
+l’approche puisque l’évolution de l’inflation sous-jacente calculée semble globalement
+conforme à celle attendue au plan théorique. Toutefois, la validation de l’approche
+aurait été plus complète en calculant comme Jacquinot (1998) la corrélation entre
+l’inflation de court terme et le cycle économique, mais l’absence des données sur les
+taux d’utilisation des capacités dans les deux pays concernés n’a permis ce travail.
+References
+[1] Andrés J. and I. Hernando [1997]: Does Inflation Harm Economic Growth ?
+Evidence for the OECD, NBER working paper, N 6062.
+◦
+[2] BarroR.[1995]: InflationandEconomicGrowth, NBER working paper, N 5326.
+◦
+[3] Blanchard, O.J. and Quah, D. [1989]: The Dynamic Effects of Aggregate De-
+mand and Supply Disturbances, American Economic Review, September, 79,
+655-73.
+[4] Blinder A. S. [1997], Commentary, Federal Reserve Bank of St. Louis, May /
+June, pp. 157-60.
+[5] Bruno M and W. Easterly [1995]: Inflation Crises and Long-run Growth, NBER
+working paper, N 5326.
+◦
+14
+
+--- Page 16 ---
+[6] Bryan, M.F. and Cecchetti, S.G. [1997] : Inflation and the Distribution of Price
+Changes, NBER working paper N 5793,June .
+◦
+[7] Bryan, M.F. and Cecchetti, S.G. [1993] : Measuring Core Inflation, NBER work-
+ing paper, March, 4303.
+[8] Cecchetti S. [1996]: Measuring short-run Inflation for Central Bankers, NBER
+working paper, N 5786.
+◦
+[9] Cecchetti S. and L. Groshen [2000]: Understanding Inflation: Implications for
+Monetary Policy, NBER working paper, N 7482.
+◦
+[10] Clause I. [1997]: A measure of underlying inflation for the United States, Bank
+of Canada, Working Paper 97-20.
+[11] DGSEE [2001] : Indice de la production industrielle, N 1, Juillet.
+◦
+[12] Enders W. [1995]: Applied Econometric Time Series, John Wliey and Sons.
+[13] Fase, M. M. and Folkertsma C.K. [1996] : Measuring inflation: an attempt to
+operationalize Carl Menger’s concept of the inner value of money, De Nederland-
+sche Bank Staff Reports N 8.
+◦
+[14] Fisher S. [1983]: Inflation and Growth, NBER working paper, N 1235.
+◦
+[15] Fisher S. [1993]: The Role of Macroeconomic factors in Growth, NBER working
+paper, N 4565.
+◦
+[16] Friedman B. M. [2000]: Monetary Policy, NBER working paper, N 8057.
+◦
+[17] Hamilton J. D. [1994]: Times Series Analysis, Princeton University Press.
+[18] Hogan S., M. Johnson, T. Laflèche [2001]: Core Inflation, Bank of Canada,
+Technical Report N 89.
+◦
+[19] JacquinotP. [1998] : L’inflationsous-jacenteàpartird’uneapprochestructurelle
+des VAR : une application à la France l’Allemagne et au Royaume-Uni, Banque
+de France, Notes d’Etudes et de Recherche, Janvier, 51.
+[20] Judge G., R. C. Hill, H. Lütkepohl, T.-C. Lee [1988]: Introduction to the Theory
+and Practice of Econometrics, John Wiley and Sons, Second Edition.
+[21] Khan M. and S. Senhadji [2000]: Treshold effects in the relationship between
+inflation and growth: an overview, IMF Working Paper, N 00-109.
+◦
+[22] Laflèche T. [1997] : Mesures du taux d’inflation tendanciel, Banque du Canada,
+Document de travail, Avril, 97-9.
+15
+
+--- Page 17 ---
+[23] Le Bihan H. et F. Sédillot [1999] : Quatre indicateurs d’inflation sous-jacente :
+Applicationetinterprétation,Banque deFrance, Notesd’Etudes et de Recherche,
+Septembre, 69.
+[24] Lütkepohl, H. [1990]: A note on the asymptotic distribution of impulse response
+functions and forecast error variance decompositions of a vector autoregressive
+models, The Review of Economics and Statistics, February.
+[25] Macklem T. [2001]: Une nouvelle mesure de l’inflation fondamentale, Revue de
+la Banque du Canada, Automne.
+[26] Nessén M. and U. Söderström [2001]: Core Inflation and Monetary Policy,
+Sveriges Riskbank, February.
+[27] Quah D. and S. P. Vahey [1995]: Measuring core inflation, The Economic Jour-
+nal, September, 105.
+[28] Roger S. [1998]: Core Inflation : concepts, uses and measurement, Reserve Bank
+of New Zealand Discussion Paper, G98/9.
+[29] Sarel M. [1996]: Non-linear effects of inflation on economic growth, IMF Staff
+Papers, pp. 199-215.
+[30] SimsC.[1980]: MacroeconomicsandReality, Econometrica, 48(1), 1-48, january.
+[31] Sims C. and T. Zha [1999]: Errors Bands and Impulse Responses, Econometrica,
+vol. 67, N 5, September, 1113-1155.
+◦
+[32] Wynne M.A. [1999] : Core Inflation : A Review of some conceptual issues, BIS,
+Proceedings of the workshop of central bank model builders, 18-19 February
+16
+
+--- Page 18 ---
+REPONSE INFLATION OBSERVEE AU CHOC MONETAIRE
+EN AFRIQUE DU SUD
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+-0.1
+100 200 300 400
+Figure 1:
+17
+
+--- Page 19 ---
+REPONSE INFLATION OBSERVEE AU CHOC REEL
+EN AFRIQUE DU SUD
+0.10
+0.05
+-0.00
+-0.05
+-0.10
+-0.15
+-0.20
+100 200 300 400
+Figure 2:
+18
+
+--- Page 20 ---
+REPONSE DE LA PRODUCTION AU CHOC MONETAIRE
+EN AFRIQUE DU SUD
+2.0
+1.5
+1.0
+0.5
+0.0
+-0.5
+-1.0
+-1.5
+-2.0
+100 200 300 400
+Figure 3:
+19
+
+--- Page 21 ---
+REPONSE DE LA PRODUCTION AU CHOC REEL
+EN AFRIQUE DU SUD
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+-0.5
+-1.0
+100 200 300 400
+Figure 4:
+20
+
+--- Page 22 ---
+REPONSE INFLATION OBSERVEE AU CHOC MONETAIRE
+AU GABON
+25
+20
+15
+10
+5
+0
+-5
+20 40 60 80 100 120 140 160 180
+Figure 5:
+21
+
+--- Page 23 ---
+REPONSE INFLATION OBSERVEE AU CHOC REEL
+AU GABON
+10
+5
+0
+-5
+-10
+-15
+-20
+20 40 60 80 100 120 140 160 180
+Figure 6:
+22
+
+--- Page 24 ---
+REPONSE DE LA PRODUCTION AU CHOC MONETAIRE
+AU GABON
+5.0
+2.5
+0.0
+-2.5
+-5.0
+-7.5
+-10.0
+20 40 60 80 100 120 140 160 180
+Figure 7:
+23
+
+--- Page 25 ---
+REPONSE DE LA PRODUCTION AU CHOC REEL
+AU GABON
+20.0
+17.5
+15.0
+12.5
+10.0
+7.5
+5.0
+2.5
+0.0
+20 40 60 80 100 120 140 160 180
+Figure 8:
+24
+
+--- Page 26 ---
+EFFET DU CHOC MONETAIRE SUR Y RELATIVEMENT PI
+EN AFRIQUE DU SUD
+4
+0
+-4
+-8
+-12
+-16
+-20
+-24
+1961 1965 1969 1973 1977 1981 1985 1989 1993 1997
+Figure 9:
+25
+
+--- Page 27 ---
+EFFET DU CHOC MONETAIRE SUR Y RELATIVEMENT PI
+AU GABON
+0.20
+0.15
+0.10
+0.05
+0.00
+-0.05
+1984 1986 1988 1990 1992 1994 1996 1998
+Figure 10:
+26
+
+--- Page 28 ---
+INFLATION SOUS-JACENTE ET INFLATION OBSERVEE
+EN AFRIQUE DU SUD
+0.200
+0.175
+0.150
+0.125
+0.100
+0.075
+0.050
+0.025
+0.000
+-0.025
+1963 1967 1971 1975 1979 1983 1987 1991 1995 1999
+COREAFR PI_12
+Figure 11:
+27
+
+--- Page 29 ---
+INFLATION SOUS-JACENTE ET INFLATION OBSERVEE
+AU GABON
+0.5
+0.4
+0.3
+0.2
+0.1
+-0.0
+-0.1
+-0.2
+-0.3
+1986 1988 1990 1992 1994 1996
+COREGAB PI_12
+Figure 12:
+28

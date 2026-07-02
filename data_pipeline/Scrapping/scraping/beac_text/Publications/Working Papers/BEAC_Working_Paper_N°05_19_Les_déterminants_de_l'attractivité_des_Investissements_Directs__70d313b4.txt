@@ -1,0 +1,756 @@
+Source PDF : BEAC_Working_Paper_N°05_19_Les_déterminants_de_l'attractivité_des_Investissements_Directs__70d313b4.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°05_19_Les_déterminants_de_l'attractivité_des_Investissements_Directs__70d313b4.pdf
+Date extraction : 15/06/2026 21:22:07
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 05/19 -
+Les déterminants de l’attractivité des Investissements Directs
+Etrangers dans la Communauté Economique et Monétaire de
+l’Afrique Centrale
+KOUAM Jean Cédric NAFE DABA
+Docteur en sciences économiques Et Economiste
+Université de Dschang Direction des Etudes, de la Recherche
+et des Statistiques
+jcedrickouam@yahoo.fr
+nafe@beac.int
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE
+travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E S E T U D E S, D E L A R E C H E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+Les déterminants de l’attractivité des Investissements Directs Etrangers
+dans la Communauté Economique et Monétaire de l’Afrique Centrale
+Kouam Jean Cédric∗ Nafé Daba∗∗
+Décembre 2019
+Résumé
+Cet article propose une évaluation empirique des déterminants de l’attractivité des Inves-
+tissements Directs Etrangers (IDE) dans la CEMAC sur la période allant de 1987 à 2017. En
+faisant usage d’un modèle de données de panel, l’estimation économétrique sur le modèle à effets
+fixes corrobore l’idée selon laquelle les IDE entrants dans la CEMAC sont une fonction crois-
+sante de l’indice de développement financier, du taux d’urbanisation, des ressources naturelles,
+du taux d’endettement public, du taux de croissance de la population, du taux de croissance de
+l’économie, du taux d’investissement public et du dégré d’ouverture commerciale. En revanche,
+ils sont une fonction décroissante du taux de corruption, du système démocratique, de l’inves-
+tissement privé, du niveau de l’inflation, du taux de chômage, et du taux de change effectif réel.
+Les coefficients estimés des différentes équations sont significatifs et apparaissent avec les signes
+attendus et relevés dans la littérature.
+Mots-clés :CEMAC, Investissements directs étrangers, Données de panel.
+Codes JEL : E52, F40 , C23, C33
+Abstract
+This article proposes an empirical evaluation of the determinants of the attractiveness of
+inward foreign direct investment in the CEMAC over the period from 1987 to 2017. Using
+a panel data model, the econometric estimation of the fixed-effects model supports the idea
+that : Inward foreign direct investment in CEMAC is an increasing function of the financial
+development Index, of the rate of urbanization, of the natural resources, of the public debt ratio,
+of the population growth rate, of the public investment rate, of the degree of trade openness. On
+the other hand, they are a decreasing function of the corruption rate, of the democratic system,
+private investment, inflation, unemployment rate, real effective exchange rate. The estimated
+coefficients of most of these variables are significant and appear with the expected signs, and
+found in the literature.
+Keywords : ECCMA, Foreign direct investments, Panel Data.
+JEL Classification :E52, F40, C23, C33.
+Sommaire
+Résumé non technique 3
+∗. Économiste, Ph.D, Université de Dschang, Cameroun
+∗∗. Économiste,BanquedesÉtatsdel’AfriqueCentrale(BEAC),DirectiondesÉtudes,delaRecherche
+et des Statistiques. essiane@beac.int
+1
+
+--- Page 3 ---
+Introduction 4
+1 Brève revue de littérature sur les déterminants de l’attractivité des Investissements
+Directs Etrangers dans les pays en developpement. 6
+2 Méthodologie et données de l’étude. 7
+3 Résultats économétriques et interprétation des estimations 9
+4 Appréciation relative de l’impact des variables de l’étude sur l’attractivité des inves-
+tissements directs étrangers dans la CEMAC 14
+Conclusion 15
+Références 18
+Annexes 20
+2
+
+--- Page 4 ---
+Résumé non technique
+Depuis quelques décennies, les pays de la CEMAC ont amorcé de nombreuses réformes
+afin de bâtir des économies émergentes fondées principalement sur une croissance économique
+inclusive. Si tous visent la transformation rapide des structures de production et l’amélioration
+significative des conditions d’existence des populations dans les années à venir, ils demeurent
+toutefois confrontés à un déficit de financement important. On note par exemple, le recul du
+financementextérieurdeséconomiesde10,68%en2014;9,55%en2015;88,63%en2016(BEAC,
+2017), un niveau d’endettement relativement élevé (FMI, 2016), les fluctuations importantes, et
+plus récemment encore la baisse des cours du baril, principale matière d’exportation des pays
+de la CEMAC. Ces contraintes de financement justifient en grande partie l’intérêt des Etats de
+la CEMAC pour l’attractivité des Investissements Directs Etrangers.
+La présente étude a pour objet d’évaluer empiriquement les déterminants de l’attractivité
+des IDE dans la CEMAC sur la période allant de 1987 à 2017. Avant de procéder à l’estimation
+desdéterminantsdesInvestissementsDirectsEtrangersdanslaCEMACàpartird’unmodèlede
+données de panel, nous implémentons au préalable une régression « stepwise » par pays, fondée
+sur l’existence d’une éventuelle hétéroscédasticité des erreurs (régression robuste). La régression
+« stepwise » permet d’obtenir le meilleur modèle de régression linéaire par la méthode des
+moindres carrés généralisés. Elle procède par sélection pas à pas de variables explicatives avec
+une règle d’arrêt. A chaque étape, on examine s’il convient d’abandonner certaines des variables
+explicativesprécédemmentretenuesetdevenuesinutiles.Cesintroductionsetrejetssefontgrâce
+àdestestsdesignificativitédeStudentàdesniveauxfixésparlemodélisateur.Lesestimations«
+stepwise » par pays sont réalisés à un niveau fixé à 10%. Toutefois, les résultats obtenus doivent
+être considérés avec une certaine prudence en raison des limites en matière de données et de
+modélisation. L’échantillon considéré ici n’est pas très grand, ce qui implique un nombre de
+degrés de liberté faible et donc une mauvaise précision des estimateurs. Ces facteurs justifient
+en partie le choix de l’analyse sur données de panel.
+En faisant usage d’un modèle de données de panel, l’estimation économétrique sur le modèle
+à effets fixes corrobore l’idée selon laquelle, les IDE entrants dans la CEMAC sont une fonc-
+tion croissante de l’indice de développement financier, du taux d’urbanisation, des ressources
+naturelles, du taux d’endettement public, du taux de croissance de la population, du taux de
+croissance de l’économie, du taux d’investissement public et du dégré d’ouverture commerciale.
+En revanche, ils sont une fonction décroissante du taux de corruption, du système démocratique
+des pays considérés, de l’investissement privé , du taux de croissance de l’indice des prix à la
+consommation (de l’inflation), du taux de chômage, et du taux change effectif réel. Les différents
+coefficients estimés sont pour la plupart significatifs et apparaissent avec les signes attendus et
+conforment à la littérature.
+3
+
+--- Page 5 ---
+Introduction
+Depuis plus d’une décennie, les pays de la Communauté Economique et Monétaire de
+l’Afrique Centrale (CEMAC) ont amorcé de nombreuses réformes pour bâtir des économies
+émergentes fondées principalement sur une croissance économique partagée et durable1, le plein
+emploi et un travail décent pour tous. Au-delà de leurs spécificités et hétérogénéités, tous visent
+une transformation rapide des structures de production et l’amélioration significative des condi-
+tionsd’existencedespopulationsdanslesannéesàvenir.Danscecontexte,s’inscriventdegrands
+chantiers de développement économique (notamment « vision 2035 » pour le Cameroun, « vi-
+sion 2025 » pour le Gabon, « vision 2020 » pour la Guinée équatoriale) largement inspirés des
+politiques autrefois mises en place par les pays émergents comme la Chine, le Brésil, etc. Si
+les pays de la CEMAC comptent davantage sur leurs ressources naturelles afin de réaliser ces
+ambitieux projets d’émergence économique (Avom et Ongo, 2013), plusieurs auteurs à l’instar
+de Yoonyoung et Tien (2014) montrent que leur essor macroéconomique ne serait pas exclusive-
+ment lié à la demande des produits de base, qu’il s’agisse ou non du pétrole, mais bien plus des
+Investissements Directs Etrangers. Ces investissements sont nécessaires pour que ces économies
+tirent le meilleur parti de leur atout démographique et s’orientent vers une croissance durable
+et inclusive, tirée par des jeunes, occupant des emplois décents et « verts », et développant des
+compétences pertinentes et des capacités appropriées, tout en permettant à ces derniers d’ac-
+quérir des compétences utiles pour répondre aux demandes actuelles et futures du marché du
+travail (CEA, 2019)2.
+D’après le Fonds Monétaire International (FMI), les Investissements Directs Etrangers re-
+présentent l’ensemble des opérations financières destinées à agir sur le marché et la gestion
+d’entreprises implantées dans un pays différent de celui de la maison mère. Ils occupent une
+place importante dans les politiques de développement, en raison des effets bénéfiques qu’ils ap-
+portent à l’économie du pays d’accueil. En participant par exemple à la réduction du chômage,
+les IDE influencent positivement la croissance économique dans le pays d’accueil, en améliorant
+laproductivitétotaledesfacteursgrâceàuntransfertdetechnologieetdecompétences(Romer,
+1993).
+Encore tributaires des termes des échanges, les pays en développement doivent, à l’instar
+de l’Algérie (Bouyacoub, 1997), privilégier une politique d’attractivité des IDE, parallèlement
+aux recettes naturelles pétrolières ou non par exemple, afin de pouvoir atteindre leurs objectifs
+d’émergence. S’il est admis que les firmes étrangères s’installent généralement là où les « avan-
+tages spécifiques » du pays hôte maximisent leurs avantages propres (Dunning, 2001), tous les
+pays en développement se font aujourd’hui une concurrence acharnée en vue d’attirer les IDE.
+Ces investissements vers la CEMAC restent très volatiles et d’un poids insignifiant au niveau
+mondial. A titre illustratif, si entre 2008 à 2014, le flux des IDE enregistré par les différents pays
+de la CEMAC a progressé de 230 points de pourcentage, passant de 4.2 milliards USD à 9.7
+milliards USD, il convient de préciser qu’ils ont connus une hausse de 209% entre 2001 et 2010
+et de 48% entre 2010 et 2014 (CNUCED, 2016).
+Si les pays de la CEMAC visent une transformation rapide des structures de production et
+l’amélioration significative des conditions d’existence des populations dans les années à venir,
+ils demeurent confrontés à un déficit de financement important. On cite par exemple le recul
+du financement extérieur des économies de 10,68% en 2014; 9,55% en 2015; 88,63% en 2016
+(BEAC, 2017), un niveau d’endettement relativement élevé (FMI, 2016) et la baisse des dons en
+1. Objectif de développement durable (ODD) n° 8
+2. Note conceptuelle de la Conférence Economique Africaine.
+4
+
+--- Page 6 ---
+provenance des organisations internationales et autres. Ces contraintes de financement justifient
+en grande partie l’intérêt des Etats de la CEMAC pour l’attractivité des investissements directs
+étrangers.
+Graphique 1 – Dette publique en % du PIB dans la CEMAC en 2016
+Auteurs, Banque Mondiale (2016)
+Graphique 2 – Relation entre financement extérieur et taux de croissance dans la CEMAC
+Source : Auteurs, BEAC (2017)
+Avec l’essor des économies d’Asie du Sud-Est, les IDE sont considérés comme une source
+d’emploi, de croissance, autant que de financement (Ourvashi, 2011). De plus, ils sont identifiés
+comme des éléments essentiels à la consolidation d’une croissance de longue durée d’une éco-
+nomie. Ils représentent beaucoup pour ces pays qui tirent la plupart de leurs revenus soit des
+taxes des entreprises multinationales, soit des revenus générés dans l’exploitation des ressources
+5
+
+--- Page 7 ---
+produites par celles-ci. Ainsi, la nécessité de s’instéresser aux facteurs susceptibles de rendre la
+région CEMAC plus attractive aux yeux des investisseurs étrangers s’impose. En effet, malgré
+les nombreux efforts déployés jusqu’ici par chacun de ces Etats pour attirer et diversifier les
+investissements directs étrangers, force est de constater qu’ils restent pour l’essentiel concentrés
+dans le secteur primaire (Mouissi, 2015).
+Cette étude propose une évaluation empirique des déterminants de l’attractivité des in-
+vestssements directs étrangers entrants au sein des pays de la zone CEMAC. Sur la base de la
+littérature existante et des spécificités des économies de l’Union, nous recourons à une analyse
+sur données de panel. L’originalité de ce travail est qu’il réexamine les facteurs explicatifs des
+IDE dans l’Union à travers des données macroéconomiques et institutionnelles actuelles, tout
+en explorant les variables nouvelles. La suite de l’article est structurée en cinq sections. La
+première section présente un survol de la littérature sur les déterminants des investissements
+directs étrangers dans les pays en développement; la section 2 s’intéresse à la méthodologie et
+aux données utilisées. La section 3 est réservée à la présentation et l’interprétation des résultats.
+La section 4 est consacrée à l’appréciation relative des déterminants des IDE dans les Etats de
+la CEMAC. La section cinq conclut.
+1 Brève revue de littérature sur les déterminants
+de l’attractivité des Investissements Directs Etran-
+gers dans les pays en developpement.
+Dans la littérature récente, plusieurs études ont tenté de comprendre les raisons pouvant
+justifierlalocalisationdesinvestissementsinternationauxdanslespaysendéveloppement.Parmi
+les principaux travaux, on note celui de Kravis et Lispey (1982), Barro et Sala-i-Martin (2004),
+Lim (2005) et Buckley et al (2007), Dzaka et Bitemo (2006), Ourvashi (2011), Avom et Ongo
+(2013), Hayat (2014) qui répertorient les facteurs explicatifs de l’attractivité des IDE en deux
+grandes catégories : les facteurs économiques et les facteurs institutionnels.
+Parmi les raisons institutionnelles généralement évoquées pour promouvoir les investisse-
+ments directs étrangers au sein d’une économie, on cite principalement le risque-pays (Cecchini,
+2002; Michalet, 1997; Wang et Swain, 1997; Lucas, 1993; McMilan, 1995; Hassane et Zatla,
+2001), la corruption et la mauvaise gouvernance (Moriset et Lumengo, 2002; Globerman et Sha-
+piro, 1999; Wilhelms, 1998; Kaufmann et al, 1999; Habib et Zuracki, 2002). Benassy-Quéré,
+CoupetetMayer(2007)construisentquantàeux,unmodèlegravitationneldepaneletmontrent
+que les institutions du pays d’accueil influencent les IDE avec ou sans la prise en compte du
+PIB dans le modèle. Ils parviennent à mettre en évidence le rôle du secteur public à combattre
+la corruption, à mettre sur pied un bon système fiscal, la transparence, le droit des contrats, la
+sécurité des droits de propriété, l’efficacité de la justice et la surveillance prudentielle.
+En ce qui concerne les déterminants d’ordre économique des investissements directs étran-
+gers souvent rencontrés dans la littérature, on retient par exemple, le taux de change effectif réel
+(Aisenman, 1992; Froot et Stein, 1991, Klein et Rosengen, 1994; Cushman, 1988); l’inflation
+mesurée par l’indice des prix à la consommation (Friedman, 1977; Urata et Kawai, 2000; Yung
+et al, 2000; Ngouhouo, 2005), le taux d’intérêt (Jeon et Rhee, 2006); la taille du marché (Grosse
+et Trevino, 1996; Wang et Swain, 1997; Mallampally et Sauvant, 1999; Basile, 2004; Kruger,
+2004), le taux de croissance du PIB réel (Moriset, 2000), les infrastructures, l’aménagement du
+6
+
+--- Page 8 ---
+territoire, le système de communication (Krugell, 1997; Michalet, 1999) et l’ouverture commer-
+ciale (Serranito, 2000; Agénor, 2001), les ressources naturelles (Dzaka et Bitemo, 2006; Avom
+et Ongo, 2013; Hayat, 2014).
+La présente étude s’inspire de ces travaux pour revisiter, les facteurs explicatifs de l’attrac-
+tivité des investissements directs étrangers dans la CEMAC. Nos analyses se justifient par le
+fait que les pays de la CEMAC ont entrepris, depuis une décennie, de vastes chantiers en vue
+de développer leurs économies, dans plusieurs secteurs clés notamment les infrastructures, et
+l’urbanisation, mais restent encore confrontés à de nombreux problèmes institutionnels, lesquels
+peuvent entraver significativement les résultats visés.
+2 Méthodologie et données de l’étude.
+L’analyse sera faite sur données de panel du fait de la richesse d’informations qu’elle fournit
+sur les sphères individuelle et temporelle. En outre, on peut mentionner le fait que les données
+de panel sont plus variées. Puisqu’elles combinent les dimensions longitudinales et transversales,
+elles fournissent un nombre plus important d’observations, permettant ainsi d’obtenir plus de
+degrédelibertéetuneplusgrandeprécisiondesestimateurs.Onpourraitainsiestimerplusieurs
+spécifications du modèle et choisir la meilleure, ou comparer les différentes estimations en vue
+de mieux comprendre le modèle ou encore, procéder à un encadrement de la vraie valeur du
+paramètre.
+2.1 Spécification du modèle
+Dans la recherche des facteurs explicatifs des Investissements Directs Etrangers dans la
+Communauté Economique et Monétaire de l’Afrique Centrale, nous spécifions le modèle ci-
+après :
+Y = α+X β +v (1)
+it it it
+Où Y de dimension (nT × 1) est la matrice de la variable dépendante (investissement
+it
+direct étranger, IDE); X de dimension (nT ×k) est la matrice de variables explicatives, β de
+it
+dimension (k×1) représente les paramètres à estimer. Nous avons onze paramètres à estimer.
+α de dimension (nT ×1) est le terme constant. Si on considère un modèle à effets aléatoires, les
+résidus, notés v du modèle de panel peuvent être décomposés en trois principales composantes
+it
+de la façon suivante (Hsiao 1986) :
+∀i ∈ [1,n]et∀t ∈ [1,T],v = u +λ +ε (2)
+it i t it
+v t de dimension (nT ×1) le terme d’erreur composé de trois termes, tous aléatoires, indé-
+i
+pendants les uns des autres et indépendants de X , u de dimension (nT ×1) désigne ici les
+it i
+effets individuels qui représentent l’ensemble des spécificités structurelles ou a-temporelles de la
+variable endogène, qui diffèrent selon les individus, λ de dimension (nT×1) représente les effets
+t
+7
+
+--- Page 9 ---
+temporels strictement identiques pour tous les individus, ε de dimension (nT×1) est l’effet des
+it
+autres variables omises (la composante du résidu total v orthogonale aux effets individuels et
+it
+auxeffetstemporels).Cesrésidusv = u +λ +ε sonti.i.detsatisfontlesconditionssuivantes:
+it i t it
+∀i ∈ [1,n] et ∀t ∈ [1,T] :
+E(u ) = E(λ ) = E(ε ) = 0
+i t it
+E(u λ ) = E(λ ε ) = E(ε u ) = 0
+i t t it it i
+E(u u ) = σ2 si i = j,0 si ∀i 6= j
+i j u
+E(λ λ ) = σ2 si t = s,0 si ∀t 6= s
+t s λ
+E(ε ε ) = σ2 si t = s,i = j,0 si ∀t 6= s,∀i 6= j
+it js υ
+E(u x0 ) = E(λ x0 ) = E(ε x0 ) = 0
+i it t it it it
+Sous ces hypothèses, la variance de la variable endogène y conditionnellement aux variables
+it
+explicatives x est alors égale à σ2 = σ2 +σ2 +σ2. Les variances σ2,σ2,σ2 correspondent aux
+it y u λ ε u λ ε
+différentes composantes de la variance totale. En effet, dans la pratique standard de l’analyse
+économétrique,onsupposequ’ilexisteungrandnombredefacteursquipeuventaffecterlavaleur
+de la variable expliquée et qui pourtant ne sont pas introduits explicitement sous la forme de
+variablesexplicatives.Cesfacteurssontalorsapproximésparlastructuredesrésidus.Ilconvient
+également de préciser que la spécification n’incluant que le seul effet individuel spécifique est
+utilisée dans le cadre de cette étude. Les descriptions théoriques entre les différentes variables
+explicatives du modèle et la variable expliquée sont justifiées à l’annexe 1. La variable expliquée
+est naturellement le taux d’investissement direct étranger. Après la description sommaire des
+variables, le modèle à estimer prend la forme ci-après :
+IDE = α+β y +β devfin +β TCE +β ouvcomm +β investprivé +β investpublic +β chomage +β urban +β GIPC +β 0ressourcesnat +β 1popgrowth +β 2debt +β 3corruption +β 3democratie +υ
+it 1 it 2 it 3 it 4 it 5 it 6 it 7 it 8 it 9 it 1 it 1 it 1 it 1 it 1 it it
+2.2 Les données
+Lesdonnéesutiliséesproviennentdequatresourcesprincipales.Premièrement,nousutilisons
+les données annuelles tirées du World Development Indicators (2017) de la Banque Mondiale, de
+l’International Financial Statistics (2017) du FMI et du cadrage macroéconomique de la Banque
+des États de l’Afrique centrale (BEAC). Deuxièmement, les données spécifiques aux variables
+institutionnelles proviennent de Polity IV Project Online (2016). Les séries considérées sont
+annuelles et se présentent sous la forme d’un panel composé des six pays de la CEMAC. Ils
+couvrent la période de 1987 à 2017. Le choix de cette période est principalement justifié par les
+politiqueslibéralesdepromotiondesinvestissements,misesenplacedanslespaysdelaCEMAC
+depuis les années 1980. Les statistiques descriptives de l’annexe 2 suggèrent une faible variation
+pour certaines variables descriptives. En examinant la matrice de corrélation (voir annexe 3),
+il apparaît que toutes les variables sont positivement corrélées aux IDE, à l’exception du taux
+de chômage et de la corruption. Cependant, les corrélations existantes entre ces variables ne
+sont pas élevées pour créer de graves problèmes de muticolinéarité. Toutefois, en raison du fait
+8
+
+--- Page 10 ---
+que le coefficient de corrélation entre les variables gouvernance et démocratie est assez élevé
+(0.764807)3, nous n’intégrons pas ces deux variables dans une même équation afin d’éviter une
+éventuelle colinéarité pouvant exister entre elles.
+2.3 Tests de racine unitaire sur les variables d’analyse
+La vérification de la stationnarité des variables de notre modèle est menée afin d’éviter le
+problème de régression fallacieuse. Dans la mesure où notre cadre méthodologique tient compte
+de l’existence éventuelle des hétérogénéités structurelles entre individus de notre échantillon,
+nous implémentons les tests de racine unitaire de deuxième génération, de Im, Pesaran Shin -
+IPS (2003) et Choi (2001), qui spécifient la prise en compte des hétérogénéités sous l’hypothèse
+alternative d’absence de racine unitaire. Nous avons complété ces deux tests par le test de
+stationnarité de Hadri (2000), dont l’hypothèse alternative consiste plutôt en la présence d’une
+racine unitaire. En effet, les résultats sur la stationnarité des variables étant souvent divergents
+selon la méthode appliquée, une variable n’est stationnaire qu’à partir du moment où deux tests
+au moins sur les trois indiquent que la variable ne possède pas une racine unitaire.
+Alalecturedesrésultatsdelatableci-dessus,ilapparaîtquelesvariablesIDE,π,y,ouv ,
+com
+invest , invest , tce, ressourc , debt et chômage sont stationnaires en niveau, les p-
+public privé nat
+values associées aux statistiques IPS et PP étant inferieures à 5 %. Les probabilités de rejeter
+à tort l’hypothèse nulle de racine unitaire sur les variables en niveau sont supérieures à 5%
+pour les variables urban, démocratie, corruption, pop rowth pour les tests IPS et PP, tandis
+g
+que ces probabilités sont quasiment nulles lorsque les mêmes tests sont implémentés sur leurs
+différences premières. Cela nous amène à conclure que ces trois séries sont affectées d’une racine
+unitaire, ou en d’autres termes, elles sont intégrées d’ordre 1 (I(1)). Ce résultat est d’ailleurs
+confirmé par le test de Hadri, qui conduit au rejet de l’hypothèse nulle de stationnarité au profit
+de l’hypothèse alternative de racine unitaire. Dans la suite du travail, nous retenons le résultat
+du test IPS pour les variables tce et pop rowth dans la mesure où ce dernier prend en compte à
+g
+la fois l’hétérogénéité de la racine autorégressive et l’hétérogénéité d’une racine unitaire dans le
+panel. Seules les variables urban, démocratie, corruption seront prises en différences premières.
+3 Résultats économétriques et interprétation des es-
+timations
+3.1 Analyse des résultats empiriques par pays
+Avant de procéder à l’estimation des déterminants des Investissements Directs Etrangers
+dans la CEMAC à partir d’un modèle de données de panel, nous implémentons au préalable
+une régression « stepwise » par pays, fondée sur l’existence d’une éventuelle hétéroscédasticité
+des erreurs (régression robuste). La régression « stepwise » permet d’obtenir le meilleur modèle
+de régression linéaire par la méthode des moindres carrés généralisés. Elle procède par sélection
+pas à pas de variables explicatives avec une règle d’arrêt. A chaque étape, on examine s’il
+convient d’abandonner certaines des variables explicatives précédemment retenues et devenues
+3. Voir à l’annexe 3.
+9
+
+--- Page 11 ---
+inutiles. Ces introductions et rejets se font grâce à des tests de significativité de Student à des
+niveaux fixés par le modélisateur. Les résultats des estimations par la méthode des moindres
+carrés généralisés de la relation entre la variable dépendante (IDE) et les variables retenues à un
+niveau fixé à 10% sont présentés dans le tableau 2 ci-dessous. Les principaux résultats obtenus
+nous révèlent que :
+— L’impact du taux de croissance réelle de l’économie sur l’attractivité des investissements
+directs étrangers n’est significatif que pour la RCA et la Guinée équatoriale. L’effet
+accélérateur est observé uniquement pour la Guinée Equatoriale (coefficient positif);
+— L’impact du taux d’inflation sur les IDE n’est significatif que pour la RCA et le Tchad.
+Le signeobservé descoefficients obtenus estconforme ànos attentes. Une inflationélevée
+dans la CEMAC aurait tendance à décourager de nouveaux investissements étrangers;
+— La non significativité du taux d’ouverture commerciale sur les investissements directs
+étrangers est observée pour tous les pays sauf pour le Cameroun et le Congo.
+— La significativité du niveau de développement financier sur les investissements directs
+étrangers est observée pour tous les pays excepté le Cameroun et le Gabon. Les co-
+efficients associés sont positifs et donc conformes à ceux observés dans la littérature;
+— La significativité des ressources naturelles sur les IDE est observée uniquement pour le
+Congo, la Gabon et la Guinée équatoriale;
+— La non significativité du taux de croissance de la population sur l’attractivité des inves-
+tissements directs étrangers entrants est observée au Gabon et en Guinée Equatoriale
+uniquement;
+— Le niveau de dette publique est apparu comme une variable influençant positivement et
+significativement les investiissements directs étrangers entrants au Cameroun, et négati-
+vement en Guinée Equatoriale;
+— Le taux d’investissement public n’est apparu comme une variable significative dans l’ex-
+plicationdesIDEàlongtermeuniquementenRCA.Lecoefficientassociéàcettevariable
+est négatif contrairement à nos attentes;
+— L’impact du taux d’investissement privé sur les investissements directs étrangers est
+significatif dans tous les pays à long terme excepté en RCA et au Gabon. Le coefficient
+assocué à cette variable est positif en RCA et négatif au Gabon;
+— Le coefficient du taux de change effectif est apparu non significatif uniquement en RCA
+et au Tchad tandis que l’impact de l’urbanisation sur l’attractivité des IDE est apparu
+significatif pour tous les pays sauf pour le Tchad;
+— La significativité du niveau de chômage sur les IDE est observée en RCA, au Congo,
+et au Tchad. La non significativité du taux de corruption sur les investissements directs
+étrangers est observée pour tous les pays sauf pour la Guinée équatoriale et en Guinée
+Equatorialalorsque,lanonsignificativitédeladémocratieapparaîtuniquementenRCA,
+au Congo et en Guinée équatoriale.
+10
+
+--- Page 12 ---
+Tableau 1 : Déterminants des IDE dans la CEMAC : Régression stepwise par pays
+Note : (ns) : non significatif; (***) significatif au seuil de 1%; (**) significatif au seuil de 5%; (*)
+significatifauseuilde10%.Lavariabledépendanteestlelogarithmedel’InvestissementDirectEtranger.
+sw regressIDEchomageurban democratie corruption GPIBinvest-publicinvest−priveGIPCdev−fin
+ouv−com resour−nat pop−growth debt TCE, ro pr(.1)
+Source : Construction des auteurs
+3.2 Les résultats économétriques sur données de panel
+Les résultats de la régression stepwise par pays présentés précédemment doivent être consi-
+dérés avec une grande prudence en raison des limites en matière de données et de modélisation.
+L’échantillon considéré ici n’est pas très grand (31 points en données annuelles), ce qui im-
+plique un nombre de degrés de liberté faible et donc une mauvaise précision des estimateurs.
+Ces facteurs justifient en partie le choix de l’analyse sur données de panel. Les résultats écono-
+métriquesdu modèle en données de panel portent aussi bien sur les tests de spécification que sur
+l’estimation du modèle empirique soit par la méthode des effets aléatoires, soit par la méthode
+des effets fixes. L’importance de ces tests réside dans le fait qu’ils permettent de vérifier l’égalité
+des coefficients du modèle étudié dans la dimension individuelle. Sur le plan économique, les
+tests de spécification permettent de déterminer si l’on est en droit de supposer que le modèle
+étudié est parfaitement identique pour tous les pays, ou au contraire s’il existe des spécificités
+11
+
+--- Page 13 ---
+propres à chacun. On considère préalablement le Test de Fisher, qui ressort automatiquement
+après l’estimation du modèle à effets fixes et le test du multiplicateur de Lagrange de Breusch
+et Pagan.
+Les résultats de ces tests de spécification se présentent ainsi qu’il suit :
+Tableau 2 : Résultats des tests de spécification sur données de panel
+Source : Calculs des auteurs
+En utilisant la table de Fisher, on trouve un seuil de 2.21 au seuil de 5 %, car (n−1) = 5 et
+(T −n−k) = 171, ce qui est indique par F(5,171). Sur le logiciel, la statistique de Fisher vaut
+30,96. On accepte l’hypothèse de présence d’effets fixes. Ce test suggère que l’estimateur Within
+(modèle à effets fixes) est plus performant que l’estimateur des MCO (modèle sans effets).Il
+convient également de tester l’hypothèse d’absence d’effets aléatoires (H ) contre l’hypothèse
+0
+de présence d’effets aléatoires (H ). La procédure xttest 0 effectue ce test après l’estimation du
+1
+modèle à effets aléatoires. Le test du multiplicateur de Lagrange de Breusch et Pagan dès lors
+realisé indique que l’estimateur des moindres carrés généralisés (MCG) est moins performant
+que celui des moindres carrés ordinaires (MCO) et, rejette logiquement l’estimation du modèle
+à effets aléatoires dans la dimension totale. En effet, la pvalue associé au test vaut 1. On rejette
+l’hypothèse H de présence d’effets aléatoires dans le modèle.Il est donc admis une absence de
+1
+correlation entre les effets aléatoires et les variables explicatives. Le modèle à effets fixes donne
+les meilleurs estimateurs et établit la supériorité du Within sur les MCG. Ce résultat est digne
+d’intérêt car il suggère que les effets spécifiques des pays sont bien significatifs. La fonction des
+investissements directs étrangers n’est pas identique pour tous les pays de la CEMAC.
+Les résultats des estimations économetriques du modèle à effets fixes sont donnés dans le
+tableau 4. Ce tableau presente les résultats de six équations différentes les unes des autres selon
+la combinaison de variables endogènes et exogènes visant à tester les hypothèses. Au terme
+de la revue des différentes équations, il ressort les observations suivantes : Premièrement, le
+modèle à effets fixes apparait être plus robuste au plan des tests statistiques et de l’explication
+économique. Deuxièmement, le coefficient de détermination (R2 within) indique que près de
+77.55% des fluctuations des investissements directs étrangers dans la CEMAC sont expliquées
+parlesvariablesretenuesmacroéconomiques.Troisièmement,laplupartdesvariablesexplicatives
+sont significatives mais n’apparaissent pas toujours avec des signes conformes à nos attentes. La
+variable qui explique le plus l’attractivité des investissements directs étrangers dans la CEMAC
+est le niveau d’urbanisation. En analysant ces résultats variables par variables, il ressort que :
+— Les investissements directs étrangers entrants dans la CEMAC sont correlés positive-
+ment au taux de croissance réelle de l’économie. Nous retrouvons l’effet accélérateur.
+En considérant le modèle (1) du tableau 4 par exemple, le coefficient positif du taux
+de croissance du PIB (0.0082) indique qu’une hausse du PIB dans la CEMAC de 10%
+favorisent l’attractivité de 0.08% des investissements directs étrangers entrants.
+— Les pays de la CEMAC ont globalement respecté le critère de l’inflation de 3% défini
+dans le cadre de la surveillance multilatérale sur la période de l’étude. Le faible niveau
+12
+
+--- Page 14 ---
+observédel’inflationestfavorablepourattirerdenouveauxinvestissementsdirectsétran-
+gers. En effet, un taux d’inflation faible est un indicateur de stabilité macroéconomique.
+L’environnement est par conséquent plus stable et plus propice aux investissements di-
+rects étrangers. Le coefficient associé à cette variable est non significatif et négatif. Ce
+résultat rejoint les résultats obtenus par Schneider et Frey (1985), Yung et al. (2000) et
+Ngouhouo (2005).
+— Sur la période de l’étude, les résultats révèlent que les coefficients associés au degré
+d’ouverturecommerciale,àl’indicededéveloppementfiancier,etautauxd’investisssment
+public sont positifs et significatifs au seuil de 1%. L’indice de développement financier
+apparaît comme la variable ayant le plus d’influence sur l’attractivité des IDE entrants
+dans la CEMAC sur la période de l’étude. Les signes des coefficients associés à ces
+variables sont conformes à nos prédictions.
+— La variable « taux de chômage » est non significative dans chacun des modèles 1, 2 et
+3. Toutefois, le coefficient négatif associé à cette variable indique que cette variable tend
+à décourager de potentiels investisseurs étrangers. Dans le modèle (1) par exemple, une
+baisse du taux de chômage de 10%, entraînerait une hausse des investissements directs
+étrangers entrants de 0.02% dans la sous-région.
+— La corruption a un impact négatif sur l’attractivité des investissements directs étrangers
+entrants dans la CEMAC. Le coefficient négatif associé (-0.8814)observé dans le modèle
+(5) par exemple indique qu’une baisse de la corruption de 10% aurait entraîné une aug-
+mentation des IDE entrants de 8.814%. La corrélation négative observée entre ces deux
+variables dans les différents modèles confirme les résultats obtenus par Del Bo Chiara
+(2009), Wei (2000), Moriset et Neso (2002), Habib et Zuracki (2002).
+— On note également un effet d’entraînement entre urbanisation et investissements directs
+étrangers entrants dans la CEMAC. Le coefficient positif dans chacun des sept modèles
+estimésindiquequ’unehausseduniveaud’urbanisationde10%danslasousrégionaurait
+attiré les investiisements directs étrangers à près de 35% en moyenne.
+— Le taux de change effectif réel observé dans la CEMAC entre 1987 et 2017 est correlé
+négativementetdefaçonnonsignificativeauxinvestissementsdirectsétrangersentrants.
+L’importancedecettevariablesurl’attractivitédesinvestissementsdirectsentrantsdans
+la sous-région reste très faible dans le contexte actuel.
+— Les résultats montrent également que le système démocratique a joué un rôle négatif
+dans la promotion des investissements directs étrangers entrants dans la CEMAC sur
+la période de l’étude. En effet, le coefficient associé à cette variable est apparu négatif
+et statistiquement significatif dans l’estimation du modèle (6). Ce résultat résulterait de
+l’instabilitépolitiqueobservéedanscespaysaucoursdecesdernièresdécennies(troubles
+socio-politiques, guerres civiles, terrorisme, etc.).
+— LesressourcesnaturellesdontsontdotéslespaysdelaCEMACsontfavorablespourl’at-
+tractivité de nouveaux investissements directs étrangers. Cette variable est positivement
+correlés aux IDE entrants ce qui signifierait que la découverte de nouveaux minerais, de
+gissements de pétrole et bien d’autres richesses du sol ou du sous-sol aurait tendance
+à attirer de nouveaux investisseurs étrangers. Le coefficient associé à cette variable est
+significativement au seuil de 1% et son signe est conforme à nos attentes.
+13
+
+--- Page 15 ---
+Tableau 3 : Estimation du modèle sur données de panel : Modèles à effets fixes
+Note : (***) significatif au seuil de 1%; (**) significatif au seuil de 5%; (*) significatif au seuil de 10% .
+Lavariabledépendanteestlelogarithmedel’investissementdirectetranger.Lesvaleursentreparanthèses
+sont les probabilités.
+Source : Construction des auteurs
+4 Appréciation relative de l’impact des variables de
+l’étude sur l’attractivité des investissements directs
+étrangers dans la CEMAC
+L’importance relative de l’impact des variables de l’étude sur l’attractivité des IDE dans
+les Etats de la CEMAC est évaluée à travers des coefficients standardisés. De façon générale,
+un coefficient standardisé mesure le degré de modification dans la variabilité de la variable
+dépendante à la suite d’un changement d’une unité de la variabilité de la variable explicative
+(Lebreton et Tonidantel, 2008; Azen et Traxel, 2009). Autrement dit, si on considère deux
+variables explicatives par exemple, la plus influente est celle qui transmettra une plus grande
+proportion de sa variabilité à la variable dépendante. Pour obtenir le coefficient standardisé
+d’une variable explicative donnée, on multiplie dans un premier temps le coefficient estimé de
+ladite variable par son écart-type. Le résultat que l’on obtient de ce produit est dans un second
+temps rapporté à l’écart-type de la variable dépendante.
+14
+
+--- Page 16 ---
+Considérons les différents modèles estimés dans le tableau 5 précédent. Parmi les variables
+explicatives qui agissent positivement sur les IDE, l’indice de développement financier joue re-
+lativement le rôle le plus important. Son coefficient est significatif au seuil de 1% dans chacun
+des modèles estimés. Viennent ensuite, par ordre d’importance décroissante la variables taux
+d’urbanisation, ressources naturelles, le taux d’endettement public, le taux de croissance de la
+population, le taux de croissance de l’économie, le taux d’investissement public et enfin le dégré
+d’ouverture commerciale.
+S’agissantdesvariablesinfluençantnégativementlesinvestissementsdirectsétrangersdansla
+CEMAC,letauxdecorruptionjouerelativementlerôleleplusimportant.Lecoefficientassociéà
+cettevariableestsignificatifauseuilde1%.Viennentensuiteparordred’importance,lesystème
+démocratique des pays considérés, l’investissement privé, le taux de croissance de l’indice des
+prixàlaconsommation,letauxdechômage,letauxchangeeffectifréel.Lesdifférentscoefficients
+estimés sont pour la plupart significatifs et apparaissent avec les signes attendus et obtenus par
+la plupart des auteurs (Voir tableau 2 en annexe).
+15
+
+--- Page 17 ---
+Tableau 4 : Estimation des coefficients standardisés- Modèles à effets fixes
+Source : Construction des auteurs
+16
+
+--- Page 18 ---
+Conclusion
+Dans cet article nous avons analysé les déterminants de l’attractivité des investissements
+directs étrangers entrants dans la Communauté Economique et Monétaire de l’Afrique Centrale
+(CEMAC) au cours de la période 1987-2017, lesquels sont nécessaires pour que les pays de la
+CEMAC tirent parti de leur atout démographique et s’orientent vers une croissance durable,
+inclusive et tirée par des jeunes occupant des emplois décents. En participant à la création des
+emplois nouveaux, tout en influençant positivement le développement du pays d’accueil, l’afflux
+des investissements directs étrangers représente aujourd’hui une véritable voie d’espérance pour
+l’employabilité des jeunes dans la CEMAC. La capacité de ces pays à générer une croissance
+durable et inclusive dans les années à venir reste fortement tributaire aux mesures prises par les
+gouvernements pour favoriser l’engagement et la réorientation de l’économie vers les activités
+productrices mais davantage à la réaction des investisseurs étrangers.
+Les investigations empiriques menées pour évaluer les déterminants de l’attractivité des
+investissementsdirectsétrangersdanslasous-régionnousconduisentàfaireusaged’unmodèlede
+donnéesenpanel.Lesdonnéesutiliséesproviennentdequatresourcesprincipales.Premièrement,
+nousutilisonslesdonnéesannuellestiréesduWorldDevelopmentIndicators(2017)delaBanque
+Mondiale, de l’International Financial Statistics (2017) du FMI et du cadrage macroéconomique
+de la Banque des États de l’Afrique centrale (BEAC). Deuxièmement, les données spécifiques
+aux variables institutionnelles proviennent de Polity IV Project Online (2017). L’étude fait
+ressortir que les IDE des pays de la CEMAC sont influencés de façon significative à long terme
+par l’indice de developpement financier, le niveau d’urbanisation, le taux de corruption, les
+ressources naturelles, le niveau de la dette publique, le taux de croissance de la population, la
+démocratie,letauxdecroissancedel’économie,l’investissementpublic,l’ouverturecommerciale,
+le niveau de l’inflation, le taux de chômage, le taux de change effectif réel. Toutes ces variables
+sont à l’exception de l’indice de développement financier, du taux d’urbanisation, des ressources
+naturelles, du taux d’endettement public, du taux de croissance de la population, du taux de
+croissance de l’économie, du taux d’investissement public, du dégré d’ouverture commerciale,
+négativement correlées aux investissements directs étrangers entrants dans la sous-région.
+Les principaux enseignements que suggèrent les résultats obtenus peuvent être résumés
+comme suit :
+— L’indice de développement financier apparaît comme étant le déterminant le plus im-
+portant pour que les pays de la CEMAC attirent davantage des investissements directs
+étrangers. S’il est vrai que les pays de la CEMAC sont dotés de ressources naturelles
+abondantes et que celles-ci constituent une plus valeur significative pour attirer de po-
+tentiels investisseurs étrangers, il apparaît tout de même d’après nos résultats que ces
+Etats gagneraient à renforcer le dispositif mis en place depuis quelques années pour ac-
+célérer le développement financier dans la sous-région notamment à travers l’émergence
+du marché financier local et sa connectivité aux autres marchés financiers africaines et
+internationales.
+— L’urbanisation constitue le second déterminant important des IDE entrants dans la CE-
+MAC. L’absence d’une bonne politique d’urbanisation décourage les investisseurs étran-
+gers à s’installer sur le territoire d’accueil. Il est généralement admis que les politiques
+nationales d’investissements dans le continent africain ne tiennent pas compte du respect
+desnormesenvironnementalesenmatièred’urbanisation.D’aprèscetteétude,nousmon-
+trons que toute politique visant à promouvoir l’attractivité des investissements directs
+étrangers aurait des effets limités si elle ne s’accompagnait pas de politiques modernes
+17
+
+--- Page 19 ---
+en matière d’urbanisation et d’aménagement du territoire.
+— Le taux de corruption élevé est le déterminant le plus néfaste à l’attractivité des Investis-
+sementsDirectsEtrangersdanslaCEMAC.Toutepolitiquevisantàattirerdepotentiels
+investisseurs étrangers dans la sous-région pourraient avoir des résultats non escomptés
+si elle ne s’accompagne pas des mesures nécessaires et efficaces pour assainir le climat
+des affaires.
+— Les IDE apparaissent aujourd’hui comme une alternative devant l’impasse grandissante
+des différentes stratégies de réponse conçues pour conjurer le problème de la dette exté-
+rieure, et pourraient constituer une solution efficace aux problèmes de financement d’une
+croissance durable. Dans le cadre de notre étude, il apparaît que les IDE et le niveau
+de dette publique sont corrélés positivement, ce qui traduit une certaine complémenta-
+rité. L’augmentation de l’endettement public dans ce contexte pourrait se justifier pour
+le financement des investissements publics indispensables pour attirer de nouveaux ou
+potentiels investisseurs étrangers.
+— Le taux de croissance réelle de l’économie est également l’une des variables influençant
+positivement l’attractivité des investissements directs étrangers dans la sous-région. En
+conséquence, toute politique visant à promouvoir les investissements directs étrangers
+entrants dans la sous-région pourrait avoir des effets non escomptés si elle ne s’accom-
+pagnait pas de politiques visant à accélérer la croissance économique.
+— D’après nos résultats, le taux d’investissement public influence positivement les IDE
+entrantsdanslaCEMAC.Cerésultatsous-tendquelesinvestissementspublicssontcertes
+très importants pour promouvoir l’attractivité des investissements directs étrangers dans
+la sous-région mais elle doit être orientée de manière à développer les infrastructures
+(transport, télécommunication, énergie, etc.).
+— Le degré d’ouverture commerciale des économies est un autre déterminant important des
+investissements directs étrangers entrants en zone CEMAC, le coefficient associé à cette
+variable étant positif et significatif. Les Etats ont donc des raisons saines et valables
+d’encourager et d’amorcer des politiques de libéralisation des échanges commerciaux
+entre- eux d’une part, et avec ceux du reste du monde d’autre part.
+— Le taux d’inflation joue également un rôle relativement important pour l’attractivité des
+investissements directs étrangers entrants dans la sous-région. Si globalement les pays de
+la CEMAC ont respecté depuis 1994 le critère d’inflation de 3% tel que défini dans le
+cadre de la surveillance multilatérale, la maîtrise de l’inflation demeure un défi à relever
+dans la communauté.
+— Le niveau de chômage des jeunes représente une variable influençant de manière signi-
+ficative les investissements directs étrangers entrants au sein des pays de la CEMAC.
+Toute politique visant à favoriser l’attractivité des investissements directs étrangersdans
+la sous-région aurait sans doute des effets limités sur la croissance économique et le
+développement de la sous-région si elle ne s’accompagnait pas de politiques visant à ré-
+duire le taux de chômage. Il est donc important de mettre en place des réformes pour
+favoriser la création d’opportunités professionnelles nouvelles, renforcer les capacités des
+jeunes, augmenter leur productivité, promouvoir l’innovation et l’esprit d’entreprise afin
+que ceux-ci développent des capacités appropriées, des compétences pertinentes et utiles
+pour répondre aux demandes actuelles et futures du marché du travail.
+18
+
+--- Page 20 ---
+— Le taux de change effectif réel a un impact négatif sur les investissements directs étran-
+gers entrants des pays de la CEMAC sur la période de l’étude. La maîtrise du taux de
+change effectif réel entre les différents pays de la CEMAC et ses principaux partenaires
+commerciaux représente dès lors un grand défi à relever.
+Ces résultats renvoient à la nécessité de renforcer les politiques visant à favoriser de manière
+approfondie l’implication du secteur financier dans le processus de développement, le développe-
+menturbain,laréductiondutauxdechômagedelapopulationenâgedetravailler,l’accélération
+de la croissance, la maitrise de la variabilité du taux de change effectif réel, et à stabiliser les
+prix à des niveaux faibles à orienter de manière efficace les dépenses publiques d’investissement
+(publics et privés), à créer un environnement stable pour les exportateurs et à insister sur les
+mesures pouvant pouvant rendre plus performante et plus compétitive les économies dans la
+perspective d’une promotion des investissements directs étrangers entrants dans les pays de la
+CEMAC.
+Références
+[1] Aizerman, J . (1992). « Exchange Rate Flexibility? Volatility and The Patterns of Do-
+mestic and Foreign Direct Investment?» NBER Working Paper. N° 3853.
+[2] Arndt, C et Omam, C (2006). « Uses and Abuses of Governance Indicators». Etudes du
+Centre de Développement de l’OCDE, Paris.
+[3] Assiedu, E . (2003 a). « Foreign Direct investment to Africa : The Role of Government
+Policy, Governance and Political Instability». Working Paper, University of Kansas.
+[4] Barro , R. Sala-i-Martin, X . (1995). Economic growth. Mc Graw-Hill, Cambridge, MA.
+[5] Basile, A (2004). « Contrainttes et perspectives de l’investissement étranger direct dans
+l’espace CEMAC». Rapport CNUCED, Septembre, 2004, Genève, Suisse.
+[6] Bénassy-Quéré A. Coupet M. Mayer T ., (2007). «Institutional Determinants of Foreign
+Direct Investment». World Economy 30(50); 764-782.
+[7] Bouklia, H.F. et Zatla, N . (2001). « L’IDE dans le Bassin Méditerranéen : Ses Déter-
+minants et Son Effet sur la Croissance Economique». Seconde Conférence du FEMISE,
+Marseille.
+[8] Dupuch, S. (2004). «Les investissements directs étrangers dans les nouveaux pays adhé-
+rentsà l’Union européenne». Région et Développement, n°20, 45-64.
+[9] Globerman, S., Shapiro, D., Tang, Y . (2004). Governance and Foreign Direct Investment
+in Emerging and Transition European Countries. Gordon, 1992.
+[10] Hausman J.A., (1978). Specification Tests in Econometrics. Econometrica, 46, 1251-1271.
+19
+
+--- Page 21 ---
+[11] Hsiao, C., (1986). Analysis of Panel Data. Econometric society Monographs N°11. Cam-
+bridge University Press.
+[12] Im, K.S., Pesaran, M.H., et Shin, Y., (1995). « Testing for Unit Roots in Heterogeneous
+Panels». DAE, Working Paper 9526, University of Cambridge.
+[13] ImK.S.,M.H.PesaranetY.Shin[2003].«Testingforunitrootsinheterogeneouspanels».
+Journal of Econometrics, 115, pp.53-74.
+[14] Froot, K.A., Stein, J.C., (1991). « Exchange Rates and Foreign Direct Investment : A
+Imperfect Capital Market Approach». Quarterly Journal of Economics. Vol. 106, N° 4,
+pp. 1191-1217.
+[15] Kaufmann, D., Kraay, A., Zoido-Lobaton, P. (1999). « Aggregating Governance Indica-
+tors». World Bank Policy Research Paper 2195.
+[16] Klein,M.,Rosengren,E.,(1994).«TheRealExchageRateandForeignDirectInvestment
+intheUnitedStates:relativewealthversusrelativewageeffects».Journal of International
+Economics 36, 373-389
+[17] Morisset, J. (2000). «Foreign Direct Investment in Africa : Policies Also Matter». Policy
+Research Working Paper N°.2481.
+[18] Urata, Kawai, H. (2000). «The determinants of the location of foreign direct investment
+by Japanese small and medium-sized enterprises». Small Business Economics. Vol. 15,
+pp.179 -103.
+20
+
+--- Page 22 ---
+Annexes
+21
+
+--- Page 23 ---
+Annexe 1 : Description et définitions des variables
+Source : Construction des auteurs
+22
+
+--- Page 24 ---
+Annexe 2 : Définition des variables
+23
+
+--- Page 25 ---
+Annexe 3 : Matrice de corrélation
+Source : Calculs des auteurs
+Annexe 4 : Statistiques descriptives
+Source : Calculs des auteurs
+Source : Calculs des auteurs
+Source : Calculs des auteurs
+24
+
+--- Page 26 ---
+Source : Calculs des auteurs
+Annexe 5 : Résultats des tests de racine unitaire sur données de
+panel
+Source : Calculs des auteurs
+Source : Calculs des auteurs
+25

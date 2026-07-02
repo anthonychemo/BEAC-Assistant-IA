@@ -1,0 +1,161 @@
+Source PDF : Méthodologie_d'élaboration_de_l'Indice_Composite_des_Activités_Economiques_(ICAE)_à_la_BEA_3ec27544.pdf
+Chemin original : scraping\beac_data\Publications\Notes de Conjoncture\Méthodologie_d'élaboration_de_l'Indice_Composite_des_Activités_Economiques_(ICAE)_à_la_BEA_3ec27544.pdf
+Date extraction : 15/06/2026 21:08:54
+======================================================================
+
+--- Page 1 ---
+BEAC
+Méthodologie d'élaboration de l'indice Compo
+site des Activités Economiques (ICAE) à la BEAC
+[/indice Composite des Activités Economiques (ICAE) est un indicateur à fréquence
+mensuelle de l'évolution de l'activité économique visant à suivre finement cette dernière, dans
+la mesure où l'agrégat de référence, en l'occurrence le PIB réel, n'est disponible que suivant
+une périodicité annuelle. Le pilotage du TIMP à 7 jours autour du TIAO, dans le corridor
+délimité par les deux facilités de dépôt et des prêts marginal à 24h dans la mise en œuvre de la
+politique monétaire s'effectuant suivant une périodicité hebdomadaire, le PIB réel n'est pas
+indiqué pour analyser la compatibilité des quantités de monnaie à mettre en circulation ou à
+ponctionner hebdomadairement sur le marché monétaire, du fait de l'incohérence dynamique
+entre cet agrégat annuel et les agrégats mensuels de monnaie et de crédit.
+Ainsi, compte tenu des biais importants qui entoureraient les résultats issus d'une tech
+nique de mensualisation du PIB réel, l'ICAE peut être considéré comme un proxy du PIB
+réel à une fréquence mensuelle. A ce titre, il servira d'indicateur de mise en cohérence des
+secteurs monétaire et réel à cette fréquence. Il est d'ailleurs utilisé à cette fin par les Banques
+Centrales du Ghana, de l'Uganda, du Mozambique et du Rwanda, en Afrique.
+Couverture géographique
+L'indicateur projeté aura une couverture nationale au niveau de chaque Etat membre,
+et régional au niveau de la Communauté ( CEMAC) dans son ensemble traitée comme une
+entité indivis.
+Pour chaque Etat, l'économie est décomposée selon une nomenclature emboitée comme
+suit :
+• Secteur d'activité: L'économie comporte trois secteurs d'activités: primaire (2 sections
+A et B), secondaire (4 sections Cà F), tertiaire (15 sections G à U);
+• Section : la nomenclature comporte 21 sections;
+• Division : la nomenclature comporte 88 divisions;
+• Groupe : la nomenclature comporte 157 groupes;
+• Classe/Gamme : la nomenclature comporte 287 classes/Gammes;
+• Produit : la nomenclature comporte 675 Produits;
+@BEAC
+
+--- Page 2 ---
+BEAC
+Echantillon et données
+On considère un échantillon de N gammes-entreprises 1 réparties sur plusieurs secteurs de
+l'activité économique d'un pays. On désigne par Xi,t, la production de la gamme-entreprise
+i, i-, ... ,N à la date t. Pour compiler l'indice composite des activités économiques, après la
+collecte des données nécessaires auprès des entreprises échantillonnées et un travail minutieux
+de nettoyage de la base en vue de la préparer au calcul, on procède en six (6) étapes comme
+suit :
+1ère étape : traitement statistique des données
+Traitement des données et décomposition de la série en composantes permanente, transi
+toire, saisonnière et résiduelle à l'aide d'une démarche statistique. De la sorte, on disposerait
+pour chaque gamme-entreprise qui est la variable élémentaire d'intérêt, d'une série brute et
+d'une série corrigée des variations saisonnières ( cvs) ;
+2ème étape : Calcul du taux de croissance symétrique
+Calcul du taux de croissance mensuel de chaque indicateur (brut et/ou cvs) de l'activité
+(gamme-entreprise) en utilisant la formule de taux de croissance symétrique, tel que :
+xi,t - xi,t-1
+x 100, i = 1, · · · , N t = 1, · · · , T (1)
++
+xi,t xi,t-1
+2
+Cette équation peut encore s'écrire plus simplement comme suit :
+Xt - X·
+Git= x.,,, + x.-i,,t-. ,1 x 200, i = 1, · · · , N t = l, · - · , T (2)
+3ème étape : Normalisation des variations
+Normalisation des variations de chacune des composantes pour ajuster le taux de crois
+sance mensuel ou trimestriel des indicateurs élémentaires de la volatilité de chacune des
+composantes tel que :
+mit= ci,t X sFr i = l,··· ,N, t = l,··· ,T (3)
+où SFt désigne le facteur de normalisation de la gamme-entreprise i = 1, - .. , N , donné
+1. Les produits-entreprises ne sont utilisés que pour les besoins de calcul de l'IPPI pour le secteur secon
+daire.
+@BEAC
+
+--- Page 3 ---
+BEAC
+par
+avec = Pi et où désigne l'écart-type du taux de croissance symétrique d e 1 a
+Wc, 1 O"c, t
+' O"c- t '
+production del; gamme-entreprise i, i = 1, · · · , Nau cours des 12 mois précédents, jusqu'au
+mois t-1, t = 1, · · · , T (respectivement au cours des 4 derniers trimestres jusqu'au trimestre
+p - 1,p = 1, · · · , 4 ).En conséquence, les changements normalisés au mois le mois sont alors
+donnés par:
+Pi 1
+rnit = cit-- * p· , i = 1, · · · , N, t = 1, · · · , T (4)
+O"ci,t L".',,·, _i_
+O" c-;.,t
+étape : calcul de l'ICAE
+4ème
+Calcul de l'indice composite de l'activité économique 2 pour une gamme-entreprise par
+fixation de sa valeur à une date donnée, par calcul de sa valeur aux autres dates en utilisant
+la formule récursive issue de celle du taux de croissance symétrique tel que :
+I::
+I _ I 200 + 1 mi,t t 2:: 1 (5)
+t - t-1 X N ,
+200- Li=l
+mi,t
+avec 1 déterminé pour l'année de base.
+0
+étape : Normalisation de l'ICAE
+5ème
+Normalisation de la valeur de l'indice en base 100 sur une période donnée. On procède
+pour cette étape à la fixation d'une année de base 100 pour l'ICAE; de sorte que l'indice
+composite des activités économiques (ICAE) pour une gamme-entreprise donnée pour le mois
+t, est calculée tel que :
+t,
+I C AEt = 100 x -B , t 2:: 1 (6)
+t[O]
+où Bt[o] est le niveau moyen de l'indice It sur les douze mois de l'année de base.
+Il convient de noter que l'année de base est une année civile non exceptionnelle, jugée
+normale, stable, qui ne présente pas des influences particulières sur l'activité économique.
+2. L'indice composite corrigé des variations saisonnières, calculé à partir des séries corrigée des varia
+tions saisonnières est notamment utile aux fins d'analyse tendancielle. L'indice brut permet notamment la
+conciliation des sphères monétaire et réelle en tenant compte de toute l'information disponible.
+@BEAC
+
+--- Page 4 ---
+BEAC
+Méthodologie de calcul de l'ICAE sur les différents niveaux
+de la nomenclature
+La méthodologie de calcul de l'Inclice Composite des Activités Économique (ICAE) s'ins
+crit clans une structure hiérarchisée à six niveaux, adossée à la nomenclature NAENIA comme
+suit :
+,/ Secteur :premier niveau comprenant les trois (03) secteurs macroéconomiques (pri
+maire, secondaire et tertiaire) et identifiés par un code alphabétique à un caractère (P,
+S, T);
+,/ Section : deuxième niveau comprenant des rubriques identifiées par un code alpha
+numérique à trois (03) caractères, le premier, alphabétique, étant celui du secteur et
+les deux suivants numériques, caractérisant la section ;
+,/ Division : troisième niveau de la nomenclature ICAE comprenant des rubriques
+identifiées par un code alphanumérique à cinq (05) caractères, les trois premiers, al
+phanumériques renseignant sur le secteur et la section, les deux suivants numériques
+caractérisant la division ;
+,/ Groupe : quatrième niveau de la nomenclature ICAE, comprenant des rubriques
+identifiées par un code alphanumérique à six (06) caractères, les cinq premiers, alpha
+numériques, renseignant sur le secteur, la section et la division, le dernier caractérisant
+le groupe;
+,/ Classe/Gamme : cinquième niveau de la nomenclature ICAE, comprenant des ru
+briques identifiées par un code alphanumérique à sept (07) caractères, les six premiers,
+alphanumériques, renseignant sur le secteur, la section, la division et le groupe, le
+dernier caractérisant la classe/Gamme;
+,/ Produit : Dernier niveau de la nomenclature ICAE, comprenant des rubriques iden
+tifiées par un code alphanumérique à huit (08) caractères, les sept premiers, alphanu
+mériques, renseignant sur le secteur, la section, la division, le groupe et la classe, le
+dernier caractérisant le produit.
+Cette structuration permet d'obtenir un code de gamme de produits à huit caractères.
+Pour davantage de détails sur la NAEMA se reporter sur la page : https ://afristat.org/wp
+content/uploads/NAEMA_NOPEMArevl_def _ vers_12maill.pdf.
+@BEAC
+
+--- Page 5 ---
+BEAC
+Méthodologie de calcul de l'ICAE sur les différents niveaux
+de la nomenclature
+Nous verrons ici l'approche de calcul de l'ICAE sur les différents niveaux de la nomen
+clature autres que la gamme. C'est une approche emboitée, qui à chaque niveau, consiste
+en une moyenne pondérée des indices des sous-niveaux précédents avec pour pondération, le
+poids de chaque sous-niveau clans le niveau examiné.
+Prérequis : Calcul de l'ICAE pour les gammes et disponibilité des pondérations pour
+les gammes.
+@BEAC

@@ -1,0 +1,597 @@
+Source PDF : BEAC_Working_Paper_n°03_26_-_Prévision,_Nowcasting_et_Trimestrialisation_du_PIB_au_Tchad_u_6014cb98.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_n°03_26_-_Prévision,_Nowcasting_et_Trimestrialisation_du_PIB_au_Tchad_u_6014cb98.pdf
+Date extraction : 15/06/2026 21:18:40
+======================================================================
+
+--- Page 1 ---
+BEAC WORKING PAPER
+BWP N° 03/26
+Prévision, Nowcasting et
+Trimestrialisation du PIB au
+Tchad : Une approche DFM
+bayésien
+Armand FOSSOUO
+Statisticien-Economiste
+Direction des Etudes, de
+la Recherche, des Statistiques
+et des Relations Internationales
+fossouo@beac.int
+Les opinions émises dans ce document de
+B A N Q U E D E S E T A T S D E
+travail sont propres à leur(s) auteur(s) et ne
+L ’ A F R I Q U E C E N T R A L E
+représentent pas nécessairement la position de la Banque
+des Etats de l’Afrique Centrale.
+7 3 6 , A v e n u e M o n s e i g n e u r V o g t
+B P : 1 9 1 7, Y a o u n d é - C a m e r o u n The opinions expressed in this working paper
+T e l : ( 2 3 7 ) 2 2 2 3 4 0 3 0 / 2 2 2 3 4 0 6 0 are those of the author(s) and do not necessarily
+F a x : ( 2 3 7 ) 2 2 2 3 3 3 2 9 represent the views of the Bank of Central African States.
+w w w . b e a c . i n t
+Direction des Etudes, de la Recherche, des Statistiques et des Relations Internationales
+
+--- Page 2 ---
+PrØvision, nowcasting et trimestrialisation du PIB au Tchad : une approche
+DFM bayØsien
+Armand FOSSOUO KAMGA
+Banque des Etats de l(cid:146)Afrique Centrale
+Avril 2026
+(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)(cid:151)-
+RØsumØ
+Dans un contexte international marquØ par des chocs multiples et tensions gØopolitiques en-
+trainant la volatilitØ de l(cid:146)environnement macroØconomique, le suivi en temps rØel de l(cid:146)activitØ
+Øconomique devient un enjeu majeur, en particulier pour les pays en dØveloppement carac-
+tØrisØs par une disponibilitØ limitØe de donnØes (cid:224) haute frØquence sur les comptes nationaux.
+Cet article propose une approche intØgrØe fondØe sur un modŁle (cid:224) facteurs dynamiques
+(Dynamic Factor Model, DFM) bayØsien, visant (cid:224) produire simultanØment des estimations
+trimestrielles du PIB (trimestrialisation), des prØvisions immØdiate (nowcasting) ainsi que
+des projections du PIB annuel au Tchad. L(cid:146)approche repose sur un mØlange de frØquence
+constituØ du PIB annuel et de l(cid:146)exploitation d(cid:146)un large ensemble d(cid:146)indicateurs Øconomiques
+(cid:224) haute frØquence, permettant de capter de maniŁre plus (cid:133)ne la dynamique conjoncturelle de
+l(cid:146)Øconomie.
+Mots clØs: ModŁle (cid:224) facteurs dynamiques, PrØvisions immØdiates, Trimestrialisation, PIB
+Classement JEL : C32, C53, E37, O11, C11, C55
+Abstract:
+In an international context marked by multiple shocks and geopolitical tensions leading to
+and heightened macroeconomic volatility,the real-time monitoring of economic activity has
+become a major challenge, particularly for developing countries characterized by limited
+availability of high-frequency national accounts data.
+This paper proposes an integrated approach based on a Bayesian Dynamic Factor Model
+(DFM), aimed at simultaneously producing quarterly GDP estimates (temporal disaggrega-
+tion), nowcasts, and annual GDP projections for Chad. The approach relies on a mixed-
+frequency framework combining annual GDP data with a wide range of high-frequency eco-
+nomic indicators, allowing for a more accurate capture of short-term economic dynamics.
+Key words: Dynamic Factor Model, Nowcasting, Temporal Disaggregation (Quarteriza-
+tion), GDP
+JEL Classi(cid:133)cation : C32, C53, E37, O11, C11, C55
+
+--- Page 3 ---
+1 INTRODUCTION
+La conduite de la politique Øconomique et monØtaire requiert une Øvaluation rapide, rØguliŁre
+et (cid:133)able de l(cid:146)activitØ Øconomique, en particulier dans un environnement international car-
+actØrisØ par des chocs rØcurrents, des tensions gØopolitiques et une volatilitØ accrue des
+conditions macroØconomiques . Dans ce contexte, la disponibilitØ d(cid:146)une information con-
+joncturelle pertinente et en temps opportun constitue un enjeu central pour les dØcideurs
+publics, comme l(cid:146)ont soulignØ les travaux fondateurs sur le nowcasting et l(cid:146)analyse en temps
+rØeldel(cid:146)informationmacroØconomique(Giannoneetal.,2008; Banburaetal.,2011; Reichlin
+et al., 2009).
+Cependant, dans de nombreux pays en dØveloppement, et en particulier au Tchad, les sys-
+tŁmes statistiques prØsentent des contraintes structurelles importantes. Les comptes na-
+tionaux y sont principalement disponibles (cid:224) une frØquence annuelle, avec des dØlais de pub-
+lication relativement longs et des rØvisions parfois signi(cid:133)catives. ParallŁlement, un ensemble
+croissant d(cid:146)indicateurs Øconomiques infra-annuels, produits (cid:224) des frØquences mensuelles ou
+trimestrielles, permet de couvrir divers segments de l(cid:146)activitØ Øconomique. Cette con(cid:133)gura-
+tion engendre un dØcalage structurel entre la richesse de l(cid:146)information (cid:224) haute frØquence et
+la disponibilitØ de la variable cible centrale qu(cid:146)est le PIB, limitant ainsi la capacitØ d(cid:146)analyse
+conjoncturelle en temps rØel.
+En outre, les donnØes disponibles prØsentent des caractØristiques complexes, notamment
+l(cid:146)hØtØrogØnØitØ des frØquences, les dØcalages de publication, la prØsence de valeurs man-
+quantes en (cid:133)n d(cid:146)Øchantillon (ragged edge) et un bruit statistique non nØgligeable, autant
+de contraintes largement documentØes dans la littØrature empirique (Mariano et Murasawa,
+2003 ; Doz et al., 2012 ; Banbura et Modugno, 2014 ; Camacho et Perez-Quiros, 2012).
+Ces limitations peuvent altØrer la qualitØ du diagnostic macroØconomique, retarder la dØ-
+tection des retournements du cycle Øconomique et compliquer la formulation des politiques
+Øconomiques.
+Danscecontexte, ledØveloppementd(cid:146)outilsØconomØtriquescapablesd(cid:146)exploitere¢ cacement
+l(cid:146)information (cid:224) haute frØquence a(cid:133)n de produire des estimations cohØrentes et actualisØes
+du PIB appara(cid:238)t comme une nØcessitØ. Les approches de nowcasting, qui visent (cid:224) estimer
+l(cid:146)Øtat courant de l(cid:146)Øconomie (cid:224) partir d(cid:146)informations partielles (Giannone et al., 2008 ; Evans,
+2005 ; Angelini et al., 2011), ainsi que les mØthodes de dØsagrØgation temporelle, telles que
+celles proposØes par Chow et Lin (1971), Fernandez (1981) et Litterman (1983), constituent
+des instruments particuliŁrement pertinents pour rØduire le dØcalage informationnel entre
+l(cid:146)Øvolution rØelle de l(cid:146)Øconomie et sa mesure statistique.
+La problØmatique centrale de cet article consiste ainsi (cid:224) dØterminer comment exploiter de
+maniŁre cohØrente et opØrationnelle un ensemble d(cid:146)indicateurs Øconomiques (cid:224) frØquences
+mixtes, caractØrisØs par des dØcalages de publication et des donnØes incomplŁtes, a(cid:133)n de
+produire une Øvaluation (cid:133)able et en temps rØel de l(cid:146)activitØ Øconomique au Tchad . Plus prØ-
+cisØment, il s(cid:146)agit d(cid:146)analyser dans quelle mesure un modŁle (cid:224) facteurs dynamiques bayØsien
+1
+
+--- Page 4 ---
+permet de reconstituer des sØries trimestrielles cohØrentes du PIB (cid:224) partir de donnØes an-
+nuelles, deproduiredesestimationscontemporaines(nowcasting)etdegØnØrerdesprØvisions
+(cid:224) court terme utiles au cadrage macroØconomique.
+L(cid:146)intØrŒt de cette Øtude est double. Sur le plan scienti(cid:133)que, elle s(cid:146)inscrit dans la littØrature
+relative aux modŁles factoriels et aux approches en donnØes de frØquences mixtes (Stock et
+Watson, 2002 ; Forni et al., 2000 ; Stock et Watson, 2016), en apportant une application
+empirique (cid:224) un pays pour lequel ces mØthodes restent encore peu explorØes. Sur le plan
+opØrationnel, elle rØpond (cid:224) un besoin concret d(cid:146)amØlioration du suivi conjoncturel et d(cid:146)aide
+(cid:224) la dØcision Øconomique.
+L(cid:146)analyse repose sur l(cid:146)hypothŁse selon laquelle un nombre restreint de facteurs latents peut
+rØsumer l(cid:146)information contenue dans un large ensemble d(cid:146)indicateurs Øconomiques (cid:224) haute
+frØquence, permettant ainsi de capturer e¢ cacement la dynamique du PIB (cid:224) court terme
+(Stock et Watson, 2002 ; Forni et al., 2000). L(cid:146)intØgration d(cid:146)un cadre bayØsien permet en
+outredeprendreencompteexplicitementl(cid:146)incertitudeetdetraitere¢ cacementlesproblŁmes
+dedonnØeslimitØes, dedØsynchronisationetdebruitstatistique(Koseetal., 2003; DelNegro
+et Schorfheide, 2011 ; Koop, 2010 ; Karlsson, 2013).
+2
+
+--- Page 5 ---
+2 Revue de la litterature
+La littØrature sur le nowcasting, la prØvision (cid:224) court terme et la trimestrialisation du pro-
+duit intØrieur brut s(cid:146)est progressivement structurØe autour d(cid:146)un enjeu central : exploiter de
+maniŁre e¢ cace une information macroØconomique abondante mais hØtØrogŁne, caractØrisØe
+par des frØquences de publication di⁄Ørentes, des dØcalages temporels et des donnØes incom-
+plŁtes (Mariano et Murasawa, 2003 ; Banbura et al., 2011).
+Les premiŁres contributions empiriques reposent sur les modŁles de type Bridge, dØveloppØs
+notamment dans les banques centrales europØennes (Ba¢ gi et al., 2004 ; Diron, 2008). Ces
+modŁles consistent (cid:224) relier une variable de basse frØquence, telle que le PIB, (cid:224) des indica-
+teurs conjoncturels agrØgØs de plus haute frØquence. Bien que simples et opØrationnels, ils
+prØsentent des limites importantes liØes (cid:224) la perte d(cid:146)information intra-pØriodique et (cid:224) leur
+incapacitØ (cid:224) traiter rigoureusement les donnØes manquantes en temps rØel.
+Les modŁles MIDAS (Mixed Data Sampling), introduits par Ghysels et al. (2004, 2007),
+ont constituØ une avancØe importante en permettant d(cid:146)intØgrer directement des variables de
+haute frØquence dans des Øquations de prØvision (cid:224) basse frØquence. Ils permettent d(cid:146)exploiter
+l(cid:146)information la plus rØcente disponible sans recourir (cid:224) une agrØgation prØalable. Toutefois,
+leurperformancedØpendfortementduchoixdesfonctionsdepondØrationetilsrestentlimitØs
+dans leur capacitØ (cid:224) synthØtiser un grand nombre d(cid:146)indicateurs.
+Face (cid:224) la croissance du volume d(cid:146)information disponible, la littØrature s(cid:146)est orientØe vers les
+approches factorielles, fondØes sur l(cid:146)idØe qu(cid:146)un petit nombre de facteurs latents peut rØsumer
+l(cid:146)information contenue dans un large ensemble de variables macroØconomiques (Stock et
+Watson, 2002 ; Forni et al., 2000 ; Bai et Ng, 2002). Ces approches o⁄rent un compromis
+e¢ cace entre richesse informationnelle et parcimonie, mais leur version statique demeure
+limitØe dans des contextes caractØrisØs par des donnØes manquantes ou des dØcalages de
+publication.
+Les modŁles (cid:224) facteurs dynamiques constituent aujourd(cid:146)hui le cadre de rØfØrence pour le
+nowcastingmacroØconomique(Giannoneetal.,2008; Dozetal.,2012; BanburaetModugno,
+2014). FormulØs en espace-Øtat, ils permettent de modØliser explicitement la dynamique des
+facteurs latents et d(cid:146)intØgrer les donnØes de frØquences mixtes. Leur estimation via le (cid:133)ltre
+de Kalman (Durbin et Koopman, 2012 ; Harvey, 1989) permet de traiter naturellement les
+donnØes manquantes, les dØcalages de publication et les structures de donnØes incomplŁtes
+en temps rØel.
+Ces modŁles ont dØmontrØ des performances ØlevØes en matiŁre de prØvision du PIB, no-
+tamment dans des contextes caractØrisØs par un ragged edge (Banbura et Modugno, 2014
+; Camacho et Perez-Quiros, 2012). Ils permettent en outre une mise (cid:224) jour continue des
+estimations (cid:224) mesure que de nouvelles informations deviennent disponibles, ce qui constitue
+un atout majeur pour le suivi conjoncturel.
+Par ailleurs, l(cid:146)intØgration des approches bayØsiennes reprØsente une avancØe majeure dans
+3
+
+--- Page 6 ---
+cette littØrature (Kose et al., 2003 ; Del Negro et Schorfheide, 2011 ; Koop, 2010 ; Karlsson,
+2013 ; Geweke, 1999). Elle permet de rØgulariser l(cid:146)estimation, d(cid:146)introduire des informations
+a priori (jugement d(cid:146)expert) et d(cid:146)obtenir des distributions complŁtes des prØvisions, o⁄rant
+ainsi une mesure explicite de l(cid:146)incertitude. Cette approche est particuliŁrement adaptØe aux
+Øconomies caractØrisØes par des donnØes limitØes et bruitØes.
+En parallŁle, la littØrature sur la dØsagrØgation temporelle des sØries Øconomiques, initiØe par
+les travaux de Chow et Lin (1971), Fernandez (1981), Litterman (1983) et Denton (1971),
+met en Øvidence l(cid:146)importance de reconstruire des sØries (cid:224) haute frØquence cohØrentes (cid:224) partir
+de donnØes annuelles. Les dØveloppements rØcents privilØgient des cadres intØgrØs combinant
+trimestrialisation, nowcasting et prØvision dans un mŒme dispositif ØconomØtrique.
+Ainsi, la littØrature converge vers des approches intØgrØes capables de traiter simultanØment
+les problØmatiques de frØquences mixtes, de donnØes manquantes et de richesse information-
+nelle. Dans ce contexte, la prØsente Øtude propose une approche fondØe sur un modŁle (cid:224)
+facteurs dynamiques bayØsien, permettant de traiter conjointement la trimestrialisation du
+PIB, le nowcasting et la prØvision (cid:224) court terme. Elle apporte ainsi une contribution (cid:224) la
+fois mØthodologique et empirique en appliquant ces outils au cas du Tchad, un contexte
+encore peu explorØ dans la littØrature, tout en rØpondant (cid:224) un besoin opØrationnel de suivi
+conjoncturel et d(cid:146)aide (cid:224) la dØcision Øconomique.
+4
+
+--- Page 7 ---
+3 DonnØes empiriques
+3.1 Description gØnØrale des donnØes
+L(cid:146)analyse empirique de cette Øtude repose sur un dispositif de donnØes de frØquences mixtes,
+combinant une variable cible (cid:224) basse frØquence et un ensemble d(cid:146)indicateurs conjoncturels
+(cid:224) frØquence plus ØlevØe. Cette con(cid:133)guration est adaptØe (cid:224) l(cid:146)objectif de nowcasting et de
+trimestrialisation du PIB dans un contexte caractØrisØ par des contraintes statistiques.
+La variable d(cid:146)intØrŒt principale est le produit intØrieur brut (PIB) rØel annuel du Tchad,
+disponible sur la pØriode 2014(cid:150)2024. Cette sØrie constitue l(cid:146)ancrage de l(cid:146)analyse macroØ-
+conomique, maissafaiblefrØquenceetsesdØlaisdepublicationlimitentsonutilisationdirecte
+pour le suivi conjoncturel en temps rØel.
+A(cid:133)n de pallier cette contrainte, l(cid:146)Øtude mobilise un ensemble d(cid:146)indicateurs Øconomiques (cid:224)
+haute frØquence trimestrielle, couvrant la pØriode 2014T1 (cid:224) 2025T3. Ces indicateurs perme-
+ttent de capter de maniŁre plus (cid:133)ne la dynamique infra-annuelle de l(cid:146)activitØ Øconomique et
+d(cid:146)enrichir l(cid:146)information disponible pour l(cid:146)estimation et la prØvision du PIB.
+3.2 Indicateurs (cid:224) haute frØquence
+LechoixdesvariablesexplicativesreposesurleurpertinenceØconomique, leurdisponibilitØet
+leur capacitØ (cid:224) re(cid:135)Øter les principaux moteurs de l(cid:146)activitØ au Tchad. Les indicateurs retenus
+couvrent plusieurs dimensions clØs de l(cid:146)Øconomie, notamment les secteurs rØel, ØnergØtique,
+budgØtaire et des services.
+Plus prØcisØment, les variables utilisØes sont les suivantes :
+Production de pØtrole brut (en barils) : indicateur central pour une Øconomie fortement
+dØpendantedusecteurpØtrolier,re(cid:135)Øtantl(cid:146)Øvolutiondelaproductionetdesrecettesd(cid:146)exportation
+;
+Production de coton graine (en tonnes) : proxy de l(cid:146)activitØ agricole, secteur important pour
+l(cid:146)emploi et les revenus ruraux ;
+Production d(cid:146)ØlectricitØ livrØe (en kWh) : indicateur transversal de l(cid:146)activitØ Øconomique,
+souvent corrØlØ (cid:224) la production industrielle et aux services ;
+Recettes budgØtaires (en millions de FCFA) : mesure de la capacitØ de mobilisation des
+ressources publiques, re(cid:135)Øtant indirectement le niveau d(cid:146)activitØ Øconomique ;
+DØpenses de personnel public (en millions de FCFA) : indicateur de la demande publique et
+de la masse salariale de l(cid:146)(cid:201)tat ;
+5
+
+--- Page 8 ---
+DØpenses en biens et services et subventions (en millions de FCFA) : proxy de la politique
+budgØtaire et de son impact sur la demande intØrieure ;
+Ra¢ nage de pØtrole (en tonnes) : indicateur de transformation industrielle et de valorisation
+des ressources ØnergØtiques ;
+Chi⁄re d(cid:146)a⁄aires des tØlØcommunications (en milliards de FCFA) : proxy du dynamisme du
+secteur des services et de la digitalisation de l(cid:146)Øconomie.
+CesvariablesprØsententl(cid:146)avantagedecouvrirunlargespectredel(cid:146)Øconomie,permettantainsi
+de capturer les di⁄Ørentes composantes de la croissance (o⁄re, demande, secteur externe et
+secteur public).
+3.3 Traitement des donnØes et cohØrence des frØquences
+LacombinaisondedonnØesannuellesettrimestriellesimpliquelapriseencomptedeplusieurs
+dØ(cid:133)s mØthodologiques. En particulier, les donnØes disponibles prØsentent :
+des frØquences hØtØrogŁnes (annuelle vs trimestrielle),
+des dØcalages de publication,
+et des valeurs manquantes en (cid:133)n d(cid:146)Øchantillon (ragged edge).
+Dans ce cadre, le modŁle (cid:224) facteurs dynamiques bayØsien est formulØ en espace-Øtat, ce qui
+permetdetraiterexplicitementcescontraintes. Le(cid:133)ltredeKalmanestutilisØpourintØgrerde
+maniŁre cohØrente l(cid:146)information disponible (cid:224) chaque date, en tenant compte des observations
+manquantes et des di⁄Ørences de frØquence.
+Parailleurs, lessØriessontprØalablementtransformØesa(cid:133)nd(cid:146)assurerleurstationnaritØetleur
+comparabilitØ. Selon les cas, des transformations en logarithmes, en taux de croissance ou
+en variations sont appliquØes. Une attention particuliŁre est Øgalement portØe (cid:224) la cohØrence
+temporelle entre les sØries, a(cid:133)n de garantir la compatibilitØ entre les donnØes annuelles du
+PIB et les indicateurs trimestriels.
+3.4 Structure temporelle et dispositif de nowcasting
+La structure des donnØes permet de mettre en place un dispositif de nowcasting en temps
+quasi rØel, dans lequel les estimations du PIB sont actualisØes (cid:224) chaque nouvelle information
+disponible. La pØriode couverte par les indicateurs trimestriels (jusqu(cid:146)(cid:224) 2025T3) dØpasse
+celle du PIB annuel, ce qui permet de produire :
+des estimations contemporaines du PIB en cours (nowcasting),
+6
+
+--- Page 9 ---
+des prØvisions (cid:224) court terme,
+et une reconstitution trimestrielle cohØrente du PIB historique (trimestrialisation).
+CecadrepermetainsiderØduireledØcalageentrel(cid:146)Øvolutione⁄ectivedel(cid:146)activitØØconomique
+et sa mesure statistique o¢ cielle.
+3.5 Extension potentielle (cid:224) la CEMAC
+Bien que l(cid:146)analyse empirique se concentre sur le cas du Tchad, la mØthodologie dØveloppØe
+dans cette Øtude prØsente un potentiel d(cid:146)extension important (cid:224) d(cid:146)autres pays de la Commu-
+nautØ (cid:201)conomique et MonØtaire de l(cid:146)Afrique Centrale (CEMAC), ainsi qu(cid:146)(cid:224) la zone CEMAC
+dans son ensemble.
+En e⁄et, la plupart des pays de la sous-rØgion partagent des caractØristiques communes,
+notamment :
+une disponibilitØ limitØe des comptes nationaux (cid:224) haute frØquence,
+des dØlais de publication relativement longs,
+et une production croissante d(cid:146)indicateurs infra-annuels par les administrations nationales et
+la banque centrale.
+Dans ce contexte, l(cid:146)application d(cid:146)un modŁle (cid:224) facteurs dynamiques bayØsien pourrait permet-
+tre de mettre en place un dispositif harmonisØ de suivi conjoncturel, facilitant la comparaison
+entre pays et renfor(cid:231)ant la cohØrence de l(cid:146)analyse macroØconomique au niveau rØgional.
+UnetelleextensioncontribueraitØgalement(cid:224)amØliorerlaqualitØducadragemacroØconomique
+rØgional et (cid:224) renforcer les outils d(cid:146)aide (cid:224) la dØcision pour la politique monØtaire de la BEAC.
+4 MØthodologie
+4.1 Cadre gØnØral du modŁle
+L(cid:146)analyse repose sur un modŁle (cid:224) facteurs dynamiques bayØsien formulØ en espace-Øtat, per-
+mettant d(cid:146)exploiter conjointement un ensemble d(cid:146)indicateurs Øconomiques (cid:224) haute frØquence
+et une variable cible observØe (cid:224) basse frØquence. Soit V
+t
+RN le vecteur des variables ob-
+2
+servØes, F
+t
+RK le vecteur des facteurs latents et PIBm
+t
+le PIB trimestriel latent. Le
+2
+modŁle vise (cid:224) capturer la dynamique conjointe de ces variables tout en assurant la cohØrence
+entre les frØquences mensuelle et trimestrielle.
+7
+
+--- Page 10 ---
+4.2 (cid:201)quations de mesure
+Les variables observØes sont reliØes aux facteurs latents par une structure factorielle linØaire
+:
+V = (cid:3)F +" (4.1)
+t t t
+Pour chaque variable observØe V :
+i;t
+V = (cid:21) f +(cid:21) f +(cid:21) f +" (4.2)
+i;t i1 1;t i2 2;t i3 3;t i;t
+oø :
+" (0;(cid:27)2) (4.3)
+i;t (cid:24) N i
+4.3 Dynamique des facteurs
+Les facteurs latents suivent un processus autorØgressif vectoriel de premier ordre :
+F = C +AF +u (4.4)
+t t 1 t
+(cid:0)
+Sous forme dØveloppØe :
+f = c +c f +c f +c f +u (4.5)
+1;t f1 11 1;t 1 12 2;t 1 13 3;t 1 1;t
+(cid:0) (cid:0) (cid:0)
+f = c +c f +c f +c f +u (4.6)
+2;t f2 21 1;t 1 22 2;t 1 23 3;t 1 2;t
+(cid:0) (cid:0) (cid:0)
+f = c +c f +c f +c f +u (4.7)
+3;t f3 31 1;t 1 32 2;t 1 33 3;t 1 3;t
+(cid:0) (cid:0) (cid:0)
+avec :
+u (0;(cid:6) ) (4.8)
+t u
+(cid:24) N
+4.4 ModØlisation du PIB mensuel latent
+Le PIB mensuel latent est modØlisØ comme un processus autorØgressif enrichi par les facteurs
+:
+PIBm = (1 (cid:26) )c +(cid:26) PIBm +(cid:12) f +(cid:12) f +(cid:12) f +(cid:17) (4.9)
+t PIBm PIBm PIBm t 1 1 1;t 2 1;t 1 3 2;t 1 t
+(cid:0) (cid:0) (cid:0) (cid:0)
+oø :
+(cid:17) (0;(cid:27)2) (4.10)
+t (cid:24) N (cid:17)
+8
+
+--- Page 11 ---
+4.5 AgrØgation temporelle du PIB
+Le PIB trimestriel observØ est obtenu par agrØgation du PIB mensuel latent :
+PIB = PIBm +PIBm +PIBm +PIBm (4.11)
+t t t 1 t 2 t 3
+(cid:0) (cid:0) (cid:0)
+Cette relation impose une contrainte de cohØrence entre les frØquences et constitue le fonde-
+ment de la trimestrialisation.
+4.6 ReprØsentation en espace-Øtat
+Le modŁle peut Œtre reprØsentØ sous forme compacte :
+Y = HX +" (4.12)
+t t t
+X = TX +R(cid:24) (4.13)
+t t 1 t
+(cid:0)
+avec :
+F
+X = t (4.14)
+t PIBm
+t
+(cid:18) (cid:19)
+et :
+(cid:24) (0;Q) (4.15)
+t
+(cid:24) N
+4.7 Estimation bayØsienne
+L(cid:146)estimation repose sur le cadre bayØsien suivant :
+p((cid:18) Y) p(Y (cid:18))p((cid:18)) (4.16)
+j / j
+Les distributions a priori sont dØ(cid:133)nies comme suit :
+(cid:21) (0;(cid:27)2) (4.17)
+ij
+(cid:24) N
+(cid:26) ((cid:11);(cid:12)) (4.18)
+PIBm
+(cid:24) B
+(cid:27)2 (a;b) (4.19)
+(cid:24) IG
+9
+
+--- Page 12 ---
+4.8 Filtrage, lissage et prØvision
+Le (cid:133)ltre de Kalman permet d(cid:146)obtenir les estimations (cid:133)ltrØes :
+^
+X
+t
+= E(X
+t
+Y 1;:::;Y t) (4.20)
+j
+les estimations lissØes :
+~
+X
+t
+= E(X
+t
+Y 1;:::;Y T) (4.21)
+j
+et les prØvisions :
+E(Y
+t+h
+Y t) (4.22)
+j
+10
+
+--- Page 13 ---
+5 RØsultats Empiriques
+5.1 Dynamique du PIB : cohØrence entre trimestrialisation et now-
+casting
+Les rØsultats issus de l(cid:146)estimation du modŁle (cid:224) facteurs dynamiques bayØsien mettent en
+Øvidence une forte cohØrence entre les di⁄Ørentes mesures du PIB obtenues, (cid:224) savoir le PIB
+observØ, le PIB trimestrialisØ et le nowcast du PIB.
+DemaniŁregØnØrale,lestrajectoiresduPIBnowcastØ(PIB_NOW_FC)etduPIBtrimestriel
+reconstruit (PIB_TRIM_FC) prØsentent une dynamique conjointe relativement stable, car-
+actØrisØe par une phase d(cid:146)expansion progressive suivie d(cid:146)un retournement modØrØ (cid:224) l(cid:146)horizon
+de prØvision.
+11
+
+--- Page 14 ---
+Le PIB observØ, disponible uniquement en (cid:133)n d(cid:146)annØe (T4), s(cid:146)inscrit globalement dans
+l(cid:146)intervalle dØ(cid:133)ni par les estimations issues du modŁle, ce qui traduit une bonne capacitØ
+de celui-ci (cid:224) reproduire les niveaux annuels de l(cid:146)activitØ Øconomique tout en fournissant une
+dØsagrØgation infra-annuelle cohØrente.
+5.2 Analyse de la trajectoire rØcente de l(cid:146)activitØ Øconomique
+Sur la pØriode rØcente, le modŁle met en Øvidence une dynamique de croissance modØrØe de
+l(cid:146)activitØ Øconomique jusqu(cid:146)en 2025, suivie d(cid:146)un ralentissement progressif (cid:224) partir de 2026.
+Plus prØcisØment, le PIB nowcastØ passe d(cid:146)environ 9 579 en 2024T4 (cid:224) un niveau proche
+de 9 700 en 2025T2, traduisant une phase d(cid:146)expansion conjoncturelle. Cette Øvolution est
+cohØrente avec la reprise progressive de l(cid:146)activitØ captØe par les indicateurs (cid:224) haute frØquence
+intØgrØs dans le modŁle.
+Toutefois, (cid:224) partir du second semestre 2025, une in(cid:135)exion de la trajectoire est observØe.
+Le PIB nowcastØ amorce une tendance baissiŁre, pour atteindre environ 9 200 en 2026T4,
+puis 8 867 en 2027T4. Cette Øvolution suggŁre un ralentissement de l(cid:146)activitØ Øconomique (cid:224)
+moyen terme, possiblement liØ (cid:224) une dØgradation des conditions macroØconomiques ou (cid:224) un
+essou› ement des moteurs de croissance.
+5.3 Apport de la trimestrialisation : lecture infra-annuelle de l(cid:146)activitØ
+La trimestrialisation du PIB permet de mettre en Øvidence des (cid:135)uctuations intra-annuelles
+nonobservablesdanslesdonnØesannuelles. Lepro(cid:133)lduPIBtrimestrielreconstruit(PIB_TRIM_FC)
+rØvŁle une dynamique relativement lissØe, caractØrisØe par :
+une progression modØrØe jusqu(cid:146)en 2025 ;
+une phase de stabilisation ;
+puis une baisse graduelle (cid:224) partir de 2026.
+Cette dØsagrØgation temporelle o⁄re une lecture plus (cid:133)ne du cycle Øconomique, en identi(cid:133)ant
+lespointsderetournementconjoncturelavantleurmatØrialisationdanslesdonnØesannuelles.
+Par ailleurs, la cohØrence entre la somme des composantes trimestrielles et le PIB annuel
+observØ con(cid:133)rme la validitØ de la contrainte d(cid:146)agrØgation imposØe dans le modŁle (Øquation
+(3.11) ), garantissant ainsi la compatibilitØ entre les di⁄Ørentes frØquences de donnØes.
+12
+
+--- Page 15 ---
+5.4 Performance du nowcasting et contenu informationnel des fac-
+teurs
+Les rØsultats montrent que le modŁle est capable de produire des estimations contemporaines
+du PIB (nowcasting) en cohØrence avec les rØalisations observØes. La proximitØ entre les
+valeurs du PIB observØ et celles du PIB nowcastØ en (cid:133)n d(cid:146)annØe constitue un indicateur de
+la performance du modŁle.
+Cette performance s(cid:146)explique par la capacitØ du modŁle (cid:224) synthØtiser l(cid:146)information contenue
+dans un large ensemble d(cid:146)indicateurs (cid:224) haute frØquence (cid:224) travers un nombre rØduit de fac-
+teurs latents. Ces facteurs capturent e¢ cacement la dynamique conjoncturelle de l(cid:146)Øconomie,
+permettant d(cid:146)anticiper les Øvolutions du PIB avant la publication des donnØes o¢ cielles.
+5.5 Analyse des perspectives Øconomiques
+LesprojectionsissuesdumodŁlesuggŁrentunscØnarioderalentissementprogressifdel(cid:146)activitØ
+Øconomique (cid:224) l(cid:146)horizon 2026(cid:150)2027. Cette dynamique se traduit par une baisse continue du
+PIB nowcastØ et du PIB trimestriel reconstruit.
+Ce rØsultat met en Øvidence l(cid:146)intØrŒt du cadre proposØ pour la prØvision (cid:224) court terme, en
+permettantd(cid:146)anticiperlesretournementsdecycleØconomiqueetd(cid:146)ØclairerlaprisededØcision
+en matiŁre de politique Øconomique.
+DansuncontextemarquØparuneforteincertitudeetunevolatilitØaccruedel(cid:146)environnement
+macroØconomique, la capacitØ du modŁle (cid:224) fournir des prØvisions actualisØes et cohØrentes
+constitue un atout majeur pour le suivi conjoncturel.
+13
+
+--- Page 16 ---
+6 Conclusion et recommandations
+6.1 Conclusion
+Cet article avait pour objectif de proposer un cadre mØthodologique intØgrØ permettant de
+pallier les insu¢ sances liØes (cid:224) la disponibilitØ limitØe des donnØes macroØconomiques (cid:224) haute
+frØquence au Tchad. En mobilisant un modŁle (cid:224) facteurs dynamiques bayØsien formulØ en
+espace-Øtat, l(cid:146)Øtude a permis de traiter simultanØment trois enjeux majeurs du suivi conjonc-
+turel : la trimestrialisation du PIB, le nowcasting et la prØvision (cid:224) court terme.
+Les rØsultats empiriques obtenus mettent en Øvidence plusieurs enseignements importants.
+PremiŁrement, le modŁle permet de reconstituer une trajectoire trimestrielle cohØrente du
+PIB(cid:224) partir de donnØes annuelles, tout en respectant les contraintes d(cid:146)agrØgation temporelle.
+DeuxiŁmement, il o⁄re des estimations en temps rØel du PIB qui s(cid:146)avŁrent globalement
+proches des rØalisations observØes, ce qui atteste de sa capacitØ (cid:224) capter e¢ cacement la
+dynamique conjoncturelle de l(cid:146)Øconomie. TroisiŁmement, les projections issues du modŁle
+suggŁrent un ralentissement progressif de l(cid:146)activitØ Øconomique (cid:224) moyen terme, mettant en
+Øvidence son potentiel pour l(cid:146)anticipation des retournements de cycle.
+Sur le plan mØthodologique, l(cid:146)approche retenue con(cid:133)rme la pertinence des modŁles (cid:224) fac-
+teurs dynamiques dans un contexte de donnØes de frØquences mixtes, caractØrisØ par des
+dØcalages de publication et des valeurs manquantes. L(cid:146)estimation bayØsienne renforce la
+robustesse du modŁle en permettant d(cid:146)intØgrer l(cid:146)incertitude et de limiter les problŁmes de
+sur-paramØtrisation, particuliŁrement frØquents dans les Øconomies (cid:224) faibles capacitØs statis-
+tiques.
+Dans l(cid:146)ensemble, les rØsultats valident l(cid:146)intØrŒt scienti(cid:133)que et opØrationnel du cadre pro-
+posØ, en montrant qu(cid:146)il constitue un outil pertinent pour amØliorer le suivi en temps rØel de
+l(cid:146)activitØ Øconomique au Tchad.
+6.2 Recommandations
+Au regard des rØsultats obtenus, plusieurs recommandations peuvent Œtre formulØes, tant sur
+le plan analytique qu(cid:146)institutionnel.
+PremiŁrement,ilappara(cid:238)tessentielderenforcerl(cid:146)intØgrationdesindicateurs(cid:224)hautefrØquence
+dans le dispositif de suivi macroØconomique. Les administrations statistiques et les insti-
+tutions Øconomiques devraient encourager la production rØguliŁre et la (cid:133)abilisation de ces
+indicateurs, a(cid:133)n d(cid:146)enrichir l(cid:146)information disponible pour l(cid:146)analyse conjoncturelle.
+DeuxiŁmement, l(cid:146)adoption opØrationnelle du modŁle proposØ par les institutions en charge
+de la politique Øconomique, notamment la banque centrale et les ministŁres sectoriels, per-
+mettrait d(cid:146)amØliorer signi(cid:133)cativement la qualitØ du diagnostic macroØconomique en temps
+14
+
+--- Page 17 ---
+rØel. L(cid:146)utilisation systØmatique d(cid:146)outils de nowcasting contribuerait (cid:224) rØduire le dØcalage
+informationnel entre l(cid:146)Øvolution e⁄ective de l(cid:146)Øconomie et sa mesure statistique.
+TroisiŁmement, il serait pertinent de dØvelopper un dispositif institutionnalisØ de suivi con-
+joncturel basØ sur les modŁles (cid:224) facteurs dynamiques, intØgrant des mises (cid:224) jour rØguliŁres
+des estimations (cid:224) chaque nouvelle publication de donnØes. Un tel dispositif renforcerait la
+rØactivitØ des autoritØs Øconomiques face aux chocs conjoncturels.
+QuatriŁmement,dansuneperspectiverØgionale,l(cid:146)extensiondecetteapprocheauxautrespays
+de la CEMAC constituerait une avancØe majeure. La mise en place d(cid:146)un cadre harmonisØ
+de nowcasting et de trimestrialisation du PIB (cid:224) l(cid:146)Øchelle rØgionale permettrait d(cid:146)amØliorer la
+comparabilitØ des analyses et de renforcer la cohØrence du cadrage macroØconomique au sein
+de la zone.
+En(cid:133)n, des extensions mØthodologiques peuvent Œtre envisagØes pour amØliorer encore la per-
+formance du modŁle. Il s(cid:146)agirait notamment d(cid:146)intØgrer des variables (cid:133)nanciŁres et externes
+supplØmentaires, d(cid:146)explorer des versions non linØaires du modŁle ou encore de combiner
+l(cid:146)approche factorielle avec des techniques issues de l(cid:146)intelligence arti(cid:133)cielle a(cid:133)n d(cid:146)exploiter
+plus (cid:133)nement l(cid:146)information disponible.
+15
+
+--- Page 18 ---
+RØfØrences Bibliographiques
+Angelini, E., Camba-Mendez, G., Giannone, D., Reichlin, L., & Ruenstler, G. (2011).
+Short-term forecasts of euro area gdp growth.
+Econometrics Journal, 14(1), C25(cid:150)C44.
+Ba¢ gi, A., Golinelli, R., & Parigi, G. (2004).
+Bridge models to forecast the euro area gdp.
+International Journal of Forecasting, 20(3), 447(cid:150)460.
+Bai, J. & Ng, S. (2002).
+Determining the number of factors in approximate factor models.
+Econometrica, 70(1), 191(cid:150)221.
+Banbura, M. & Modugno, M. (2014).
+Maximumlikelihoodestimationoffactormodelsondatasetswitharbitrarypatternofmissing
+data.
+Journal of Applied Econometrics, 29(1), 133(cid:150)160.
+Camacho, M. & Perez-Quiros, G. (2012).
+Introducing the euro-sting: Short-term indicator of euro area growth.
+Journal of Applied Econometrics, 27(4), 663(cid:150)694.
+Del Negro, M. & Schorfheide, F. (2011).
+Bayesian macroeconometrics.
+Handbook of Bayesian Econometrics.
+Doz, C., Giannone, D., & Reichlin, L. (2012).
+A quasi-maximum likelihood approach for large approximate dynamic factor models.
+Review of Economics and Statistics, 94(4), 1014(cid:150)1024.
+Durbin, J. & Koopman, S. J. (2012).
+Time Series Analysis by State Space Methods (Second Edition).
+Oxford University Press.
+Evans, M. D. D. (2005).
+Where are we now? real-time estimates of the macro economy.
+International Journal of Central Banking, 1(2), 127(cid:150)175.
+Forni, M., Hallin, M., Lippi, M., & Reichlin, L. (2000).
+The generalized dynamic factor model: Identi(cid:133)cation and estimation.
+Review of Economics and Statistics, 82(4), 540(cid:150)554.
+Forni, M., Hallin, M., Lippi, M., & Reichlin, L. (2005).
+The generalized dynamic factor model: One-sided estimation and forecasting.
+Journal of the American Statistical Association, 100(471), 830(cid:150)840.
+Ghysels, E., Santa-Clara, P., & Valkanov, R. (2004).
+The midas touch: Mixed data sampling regression models.
+Working Paper.
+16
+
+--- Page 19 ---
+Ghysels, E., Sinko, A., & Valkanov, R. (2007).
+Midas regressions: Further results and new directions.
+Econometrics Journal, 10(1), C1(cid:150)C31.
+Giannone, D., Reichlin, L., & Small, D. (2008).
+Nowcasting: The real-time informational content of macroeconomic data.
+Journal of Monetary Economics, 55(4), 665(cid:150)676.
+Harvey, A. C. (1989).
+Forecasting, Structural Time Series Models and the Kalman Filter.
+Cambridge University Press.
+Karlsson, S. (2013).
+Forecasting with bayesian vector autoregressions.
+Handbook of Economic Forecasting, 2, 791(cid:150)897.
+Koop, G. (2010).
+Bayesian Econometrics.
+John Wiley & Sons.
+Kose, M. A., Otrok, C., & Whiteman, C. H. (2003).
+International business cycles: World, region, and country-speci(cid:133)c factors.
+American Economic Review, 93(4), 1216(cid:150)1239.
+Mariano, R. S. & Murasawa, Y. (2003).
+A new coincident index of business cycles based on monthly and quarterly series.
+Journal of Applied Econometrics, 18(4), 427(cid:150)443.
+Stock, J. H. & Watson, M. W. (2002).
+Forecasting using principal components from a large number of predictors.
+Journal of the American Statistical Association, 97(460), 1167(cid:150)1179.
+17
+
+--- Page 20 ---
+7 Annexe
+18

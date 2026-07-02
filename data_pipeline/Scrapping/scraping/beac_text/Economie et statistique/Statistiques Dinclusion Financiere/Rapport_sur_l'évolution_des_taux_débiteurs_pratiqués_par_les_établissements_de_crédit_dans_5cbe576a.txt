@@ -1,0 +1,3013 @@
+Source PDF : Rapport_sur_l'évolution_des_taux_débiteurs_pratiqués_par_les_établissements_de_crédit_dans_5cbe576a.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques Dinclusion Financiere\Rapport_sur_l'évolution_des_taux_débiteurs_pratiqués_par_les_établissements_de_crédit_dans_5cbe576a.pdf
+Date extraction : 15/06/2026 21:49:09
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS DE L’AFRIQUE CENTRALE
+Direction Générale des Etudes, Finances et Relations Internationales
+----------
+Direction de la Stabilité Financière, des Activités Bancaires et du Financement des
+Economies
+Deuxième
+trimestre 2022
+EVOLUTION DES TAUX
+DEBITEURS PRATIQUES PAR LES
+ETABLISSEMENTS DE CREDIT
+DANS LA CEMAC
+
+--- Page 2 ---
+TABLE DES MATIERES
+Liste des tableaux .......................................................................................................................................... 4
+Liste des graphiques ...................................................................................................................................... 5
+Mot du Gouverneur ....................................................................................................................................... 7
+Sigles et abréviations ..................................................................................................................................... 8
+I.Situation d’ensemble dans la CEMAC ................................................................................................... 9
+I- 1. Dynamique de l’offre de crédit dans la CEMAC au cours du 2éme trimestre 2022 ....................... 9
+I- 1.1. Dynamique de l’offre de crédit dans la CEMAC par type de bénéficiaires et par maturité .............. 9
+I- 1.2. Structure du nombre de crédits mis en place au 2ème trimestre 2022 ............................................... 10
+I- 1.3. Répartition par nature des crédits mis en place au 2éme trimestre 2022 ............................................ 11
+I- 2. Evolution des taux d’intérêt débiteurs dans la CEMAC .............................................................. 11
+I- 2.1. Evolution des TEG moyens par pays ............................................................................................... 11
+I- 2.2. Evolution des taux d’intérêt débiteurs par type de bénéficiaire ....................................................... 12
+I-2.3. Charges et commissions liées à la mise en place des prêts dans la CEMAC ................................... 12
+II- Evolution des volumes et taux débiteurs par pays ............................................................................ 13
+II.1. Cameroun .......................................................................................................................................... 13
+II-1.1. Evolution des nouveaux engagements bancaires au Cameroun ...................................................... 13
+II-1.1.1. Evolution des parts de marché par assujettis ................................................................................ 14
+I- 1.1.2. Dynamique de l’offre de crédit au Cameroun par type de bénéficiaire ........................................ 15
+II-1.2. Evolution des taux débiteurs pratiqués au Cameroun ..................................................................... 16
+II-1-2.1 Structure des TEG au Cameroun par type de bénéficiaire ............................................................ 16
+II-1-2.2 Charges et commissions liées à la mise en place des prêts ........................................................... 17
+II.2. République Centrafricaine .............................................................................................................. 18
+II- 2.1. Evolution des nouveaux engagements bancaires en République Centrafricaine ............................ 18
+II- 2.2. Evolution des taux débiteurs pratiqués par les banques centrafricaines ......................................... 19
+II-2-2.1 Structure des TEG en RCA ........................................................................................................... 19
+II-2-2.2 Charges et commissions liées à la mise en place des prêts ........................................................... 20
+II- 3. Congo ............................................................................................................................................... 20
+II- 3.1. Evolution des nouveaux engagements bancaires au Congo ........................................................... 20
+II-3.2. Evolution des taux débiteurs pratiqués par les banques congolaises ............................................... 22
+II-3.3 Charges et commissions liées à la mise en place des prêts .............................................................. 23
+II-4. Gabon ................................................................................................................................................ 23
+II-4.1. Evolution des nouveaux engagements bancaires au Gabon ............................................................ 23
+II-4.2. Evolution des taux débiteurs pratiqués au Gabon ........................................................................... 25
+II-4-2.1 Structure des TEG du Gabon ........................................................................................................ 25
+II-4-2.2 Charges et commissions liées à la mise en place des prêts ........................................................... 26
+II-5. Guinée Equatoriale .......................................................................................................................... 26
+II-5.1. Evolution des nouveaux prêts bancaires en Guinée Equatoriale ..................................................... 26
+2
+
+--- Page 3 ---
+II-5.2. Evolution des taux d’intérêts débiteurs pratiqués en Guinée Equatoriale ....................................... 28
+II-5-2.1 Structure des TEG de la Guinée Equatoriale ................................................................................ 29
+II-5-2.2 Charges et commissions liées à la mise en place des prêts ........................................................... 29
+II-6. Tchad ................................................................................................................................................. 29
+II-6.1. Evolution des nouveaux engagements bancaires au Tchad ............................................................. 29
+II-6.2. Evolution des taux débiteurs pratiqués par les banques tchadiennes .............................................. 31
+II-6.2.1 Structure des TEG du Tchad ......................................................................................................... 31
+II-6.2.2 Charges et commissions liées à la mise en place des prêts ........................................................... 32
+III-Annexes ............................................................................................................................................... 33
+3
+
+--- Page 4 ---
+LISTE DES TABLEAUX
+Tableau 1 : Répartition des nouveaux crédits par type de bénéficiaires au cours du 2ème trimestre 2022
+(CEMAC)………………………………………………………………………………………………… 33
+Tableau 2 : Evolution des prêts par catégorie (en valeurs et en %)…………………….………………… 33
+Tableau 3 : Evolution globale des taux débiteurs pratiqués dans la CEMAC……………………………. 34
+Tableau 4 :Vue d’ensemble des Taux débiteurs pratiqués par les banques dans la CEMAC au cours des
+trois derniers trimestres…………………………………………………………………………………… 35
+Tableau 5 : Vue d’ensemble des Taux débiteurs pratiqués par les établissements financiers dans la CEMAC
+au cours des quatre derniers trimestres …………………………………………………………………….36
+Tableau 6 : Vue d'ensemble du volume des crédits et TEG des banques au Cameroun au cours des qautre
+derniers trimestres ………………………………………………………………………………………...37
+Tableau 7 : Vue d'ensemble du volume des crédits et TEG des établissements financiers du Cameroun au
+cours des quatre derniers trimestres……………………………………………………………………… 38
+Tableau 8 : Vue d'ensemble du volume des crédits et TEG des banques de la RCA au cours des quatres
+derniers trimestres ………………………………………………………………………………………...38
+Tableau 9 : Vue d'ensemble du volume des crédits et TEG des banques du Congo des quatre derniers
+trimestres ………………………………………………………………………………………………….40
+Tableau 10 : Vue d'ensemble du volume des crédits et TEG des banques du Gabon des quatre derniers
+trimestres…………………………………………………………………………………………………. 41
+Tableau 11 : Vue d'ensemble du volume des crédits et TEG des établissements financiers du Gabon au
+cours des quatre derniers trimestres……………………………………………………………………… 42
+Tableau 12 : Vue d'ensemble du volume des crédits et TEG des banques de la Guinée Equatoriale au cours
+des quatre derniers trimestres…………………………………………………………………………….. 43
+Tableau 13 : Vue d'ensemble du volume des crédits et TEG des banques du Tchad des quatre derniers
+trimestres…………………………………………………………………………………………………. 44
+
+--- Page 5 ---
+LISTE DES GRAPHIQUES
+Graphique 1: Répartition par pays des nouveaux crédits octroyés au cours du 2ème trimestre 2022 ............ 9
+Graphique 2 : Structure par maturité des crédits mis en place au cours du deuxième trimestre 2022 dans la
+CEMAC et par type de bénéficiaire (en millions de FCFA) ...................................................................... 10
+Graphique 3 : Structure du nombre des crédits mis en place au 2ème trimestre 2022 par pays ................... 10
+Graphique 4 : Répartition des nouveaux crédits par nature au cours du 2éme trimestre 2022 ..................... 11
+Graphique 5 : Evolution des taux débiteurs moyens par pays .................................................................... 12
+Graphique 6 : Poids du taux nominal dans le TEG des prêts par type de bénéficiaire ............................... 13
+Graphique 7: Répartition des nouveaux crédits entre les banques et les établissements financiers du
+Cameroun au cours du 1er trimestre 2022 ................................................................................................... 13
+Graphique 8 : Evolution des Parts de marché en matière d'offre de crédit des banques du Cameroun entre
+le 1er et le 2ème trimestre 2022 ..................................................................................................................... 14
+Graphique 9: Evolution des parts de marché des établissements financiers du Cameroun entre le 1er et le
+2ème trimestre 2022 ..................................................................................................................................... 14
+Graphique 10: Répartition des nouveaux crédits par type de bénéficiaire au Cameroun (en milliards FCFA)
+.................................................................................................................................................................... 15
+Graphique 11: Répartition des crédit par terme au cours du 2eme trimestre 2022 au Cameroun (en milliards
+FCFA)......................................................................................................................................................... 15
+Graphique 12: Evolution des TEG moyens par type d’assujetti au Cameroun .......................................... 16
+Graphique 13 : Poids du taux nominal dans le TEG des prêts amortissables des banques du Cameroun au
+cours du 1er trimestre 2022 ......................................................................................................................... 17
+Graphique 14 : Parts de marché en matière d'offre de crédit des banques de la RCA au cours du 4ème trimestre
+2021 et 1er trimestre 2022. .......................................................................................................................... 18
+Graphique 15: Répartition des crédits par type de bénéficiaire et par terme au cours du 2ème trimestre 2022
+en RCA ....................................................................................................................................................... 19
+Graphique 16 : Poids du taux nominal dans le TEG des prêts par bénéficiaire en RCA au cours du 1er
+trimestre 2022 ............................................................................................................................................. 20
+Graphique 17: Evolution des parts de marché en matière d'offre de crédit des banques du Congo entre le 1er
+et le 2ème trimestre 2022 .............................................................................................................................. 21
+Graphique 18: Evolution des financements bancaires par types de bénéficiaire au Congo entre le 1er
+trimestre et le 2ème 2022 .............................................................................................................................. 21
+Graphique 19: Répartition des nouveaux crédits par maturité au cours du 2ème trimestre 2022 au Congo 22
+Graphique 20 : Poids du taux nominal dans le TEG des prêts par bénéficiaire au Congo au cours du 1er
+trimestre 2022 ............................................................................................................................................. 23
+Graphique 21 : Parts de marché en matière d'offre de crédit des banques du Gabon au au 4ème trimestre
+2021 et 1er trimestre 2022 ........................................................................................................................... 24
+Graphique 22: Evolution des financements bancaires par type de bénéficiaires au Gabon entre le 4ème
+trimestre 2021 et le 1er trimestre 2022 ........................................................................................................ 24
+Graphique 23: Répartition des nouveaux crédits par maturité au cours du 2nd trimestre 2022 au Gabon .. 25
+5
+
+--- Page 6 ---
+Graphique 24 : Poids du taux nominal dans le TEG des prêts par bénéficiaire au Gabon au cours du 2nd
+trimestre 2022 ............................................................................................................................................. 26
+Graphique 25 : Parts de marché en matière d'offre de crédit des banques de la Guinée Equatoriale au cours
+du 2éme trimestre 2022 ................................................................................................................................ 27
+Graphique 26 : Evolution des financements bancaires par types de bénéficiaire en Guinée Equatoriale entre
+le 1er et le 2éme trimestre 2022 ..................................................................................................................... 27
+Graphique 27: Répartition des nouveaux crédits par maturité au cours du 2éme trimestre 2022 en Guinée
+Equatoriale ................................................................................................................................................. 28
+Graphique 28 : Poids du taux nominal dans le TEG des prêts par bénéficiaire en Guinée Equatoriale au
+cours du 2éme trimestre 2022 ....................................................................................................................... 29
+Graphique 29 : Evolution des Parts de marché en matière de crédit au Tchad entre le 4ème trimestre 2021 et
+le 1er trimestre 2022 ................................................................................................................................... 30
+Graphique 30 : Evolution des financements bancaires par type de bénéficiaires au Tchad entre le 1er et le
+2éme trimestre 2022 ..................................................................................................................................... 30
+Graphique 31: Répartition des nouveaux crédits par maturité au cours du 2éme trimestre 2022 au Tchad . 31
+Graphique 32 : Poids du taux nominal et des autres charges dans le TEG des prêts par bénéficiaire au Tchad
+au au cours du 2éme trimestre 2022 ............................................................................................................. 32
+6
+
+--- Page 7 ---
+Mot du Gouverneur
+La guerre russo-ukrainienne a entraîné un renchérissement des cours des matières
+premières et une perturbation des circuits d’approvisionnement. De ce fait, la Communauté
+Economique et Monétaire de l’Afrique Centrale (CEMAC) a fait face à une résurgence des
+tensions inflationnistes et, donc, un durcissement des conditions monétaires au cours du
+deuxième trimestre 2022. Comme conséquence, l’offre de crédits bancaires a très
+légèrement reculé dans la zone durant la période ci-dessus. En effet, les nouveaux crédits
+octroyés se sont établis à 1 802,03 milliards FCFA, contre 1 832,79 milliards FCFA au 1er
+trimestre 2022, soit une baisse de 1,68 % par rapport au trimestre précédent. Contrastant
+avec cette évolution, le coût moyen global a évolué à la baisse, s’élevant à 9,99 % contre
+11,88 % au 1er trimestre 2022 du fait d’une intensification de la concurrence dans certains
+segments porteurs et de rigidités dans la formation des taux d’intérêt.
+Ce rapport présente l’évolution des nouveaux crédits consentis aux agents
+économiques par les établissements de crédit dans la CEMAC ainsi que les différents taux
+débiteurs moyens pratiqués au cours du deuxième trimestre 2022.
+Les statistiques présentées dans ce document permettent aux lecteurs d’apprécier
+l’évolution du coût moyen des crédits au cours de la période de référence et de se faire une
+idée de l’impact des mesures de politique monétaire sur les sphères financière et réelle dans
+les économies de la sous-région. Comme pour les précédents rapports sur les taux débiteurs
+des trimestres antérieurs, il s’agit pour la Banque Centrale de fournir au grand public des
+informations utiles lui facilitant la prise de décision.
+Bonne lecture.
+7
+
+--- Page 8 ---
+SIGLES ET ABREVIATIONS
+BEAC Banque des Etats de l’Afrique Centrale
+CEMAC Communauté Economique et Monétaire de l’Afrique Centrale
+F CFA Franc de la Coopération Financière en Afrique
+CNEF Comité National Economique et Financier
+DERS Direction des Etudes, de la Recherche et des Statistiques
+DGEFRI Direction Générale des Etudes, Finances et Relations Internationales
+DSFABFE Direction de la Stabilité Financière, des Activités Bancaires et du Financement des
+Economies
+GE Grandes Entreprises
+PME Petites et Moyennes Entreprises
+RCA République Centrafricaine
+TEG Taux Effectif Global
+TIN Taux d’Intérêt Nominal
+CT Court terme
+MT Moyen terme
+LT Long terme
+8
+
+--- Page 9 ---
+I. Situation d’ensemble dans la CEMAC
+I- 1. Dynamique de l’offre de crédit dans la CEMAC au cours du 2ème trimestre 2022
+Le volume global des nouveaux crédits consentis par le système bancaire de la
+CEMAC à l’économie au cours du deuxième trimestre 2022, s’est situé à 1 802,03 milliards
+FCFA contre 1 832,79 milliards FCFA enregistrés au premier trimestre 2022, soit une très
+légère baisse de 1,68 %, en trois mois. Le secteur bancaire a été le principal offreur de
+crédit avec 99,08 % de parts de marché (1 785,45 milliards FCFA), contre seulement
+0,92 % pour les établissements financiers (16,67 milliards FCFA).
+Le marché du crédit bancaire reste dominé par le Cameroun, avec 58,71% de
+nouveaux crédits, contre 55,35% le trimestre précédent. Le plus faible volume de crédit a
+été enregistré en Guinée Equatoriale (2,81 %), contrairement au trimestre précédent ou
+c’était la République Centrafricaine (1,39%). Le graphique ci-après montre la répartition
+de l’enveloppe globale par pays au cours du deuxième trimestre 2022.
+Graphique 1: Répartition par pays des nouveaux crédits octroyés au cours du 2ème
+trimestre 2022
+I- 1.1. Dynamique de l’offre de crédit dans la CEMAC par type de bénéficiaires et
+par maturité
+Au cours de la période sous revue, les grandes entreprises (GE) et les petites et
+moyennes entreprises (PME) ont été les principales bénéficiaires de l’offre de crédits
+bancaires. A l’instar du premier trimestre 2022, les grandes entreprises ont bénéficié de
+58,19 % de crédits mis en place, suivies des PME qui ont reçu 367,82 milliards FCFA, soit
+20,41% du volume total. Les crédits aux particuliers ont progressé au cours du deuxième
+trimestre 2022, s’élevant à 273,50 milliards FCFA contre 216,91 milliards un trimestre
+plus tôt, soit une progression de 26,09 % en trois mois. Les crédits aux administrations
+publiques ont représenté 5,68 % de l’enveloppe globale des nouveaux crédits, pour une
+valeur de 96,87 milliards FCFA. La part des crédits accordés aux administrations publiques
+au premier trimestre 2022 était de 6,8 %, pour une valeur de 124,5 milliards.
+
+--- Page 10 ---
+L’analyse des prêts par maturité, montre une prépondérance des crédits à court
+terme. En effet, les crédits de maturités inférieures à 24 mois ont représenté 80,13 % de
+l’enveloppe globale. Ils sont généralement destinés au financement des besoins de
+consommation des ménages ou de trésorerie pour les personnes morales. La part des prêts
+bancaires à moyen terme (durée comprise entre 24 et 60 mois) dans les nouveaux crédits a
+été de 15,81 %, tandis que celle des prêts à long terme (durée est supérieure à 60 mois) n’a
+représenté que 3,74 %.
+Graphique 2 : Structure par maturité des crédits mis en place au cours du deuxième
+trimestre 2022 dans la CEMAC et par type de bénéficiaire (en millions de FCFA)
+I- 1.2. Structure du nombre de crédits mis en place au 2ème trimestre 2022
+Au cours du deuxième trimestre 2022, 293 190 nouveaux crédits ont été accordés
+par le système bancaire de la CEMAC, contre 287 021 accordés au premier trimestre 2022.
+Comme pour les volumes de crédit, on observe également une forte disparité sur la
+répartition du nombre de dossiers par pays. Au Cameroun, 268 480 nouveaux crédits ont
+été servis par les établissements de crédit, soit 89,56% du total sous-régional. Le Tchad
+vient en deuxième position avec 3,30% des accords, suivi des établissements de crédit
+implantés au Gabon et au Congo avec respectivement 2,94 % et 2,00 % du total des crédits
+accordés. La Guinée Equatoriale et la RCA complètent la liste avec respectivement 1,37 %
+et 0,82 % prêts accordés au cours de la période de référence.
+Graphique 3 : Structure du nombre des crédits mis en place au 2ème trimestre 2022 par
+pays
+10
+
+--- Page 11 ---
+I- 1.3. Répartition par nature des crédits mis en place au 2ème trimestre 2022
+Au deuxième trimestre 2022, les nouveaux prêts ont été essentiellement accordés
+sous forme de crédits amortissables (53,02% contre 51,59 % trois mois auparavant). Les
+découverts ont représenté 25,19 % du total des crédits octroyés, en baisse de 15,55 % en
+variation trimestrielle. S’agissant des engagements par signature, leur volume a progressé
+au cours de la période de référence, s’élevant à 21,78% au deuxième trimestre 2022 contre
+19,06 % un trimestre auparavant.
+Graphique 4 : Répartition des nouveaux crédits par nature au cours du 2ème trimestre
+2022
+I- 2. Evolution des taux d’intérêt débiteurs dans la CEMAC
+I- 2.1. Evolution des TEG moyens par pays
+Malgré le relèvement du TIAO lors de la session ordinaire du Comité de Politique
+Monétaire du 28 mars 2022, passant de 3,50% à 4,00%, les taux débiteurs pratiqués par les
+établissements de crédit dans la CEMAC ont reculé au 2ème trimestre 2022, se situant à
+9,99 % contre 11,88 % un trimestre plus tôt. Cette situation résulterait de l’intensification
+de la concurrence sur certains segments de la clientèle ainsi que de l’existence de forte
+marge entre les taux de base bancaire et les taux de sorties de crédits dans la zone CEMAC.
+Il y a lieu de préciser que la tendance baissière observée des coûts de crédits n’est pas
+uniforme pour toutes les catégories d’assujettis. En effet, le TEG moyen des banques est
+revenu à 9,83 % au 30 juin 2022 contre 11,83 % trois mois plus tôt, tandis que celui des
+établissements financiers est passé de de 18,06 % à 18,55 % sur la période de référence.
+Par ailleurs, bien que les taux aient reculé dans tous les pays de la CEMAC, à
+l’exception de la Guinée Equatoriale où les coûts du crédit ont progressé au deuxième
+trimestre 2022, les amplitudes de baisse varient d’un pays à l’autre. Ainsi, les taux débiteurs
+moyens ont reculé au Cameroun au cours de la période sous revue (9,46 % contre 11,87 %).
+En RCA, les TEG moyens ont substantiellement baissé, revenant de 15,97 % trois mois
+auparavant à 9,61 % en fin juin 2022. Au Congo, les taux débiteurs moyens enregistré au
+11
+
+--- Page 12 ---
+cours du deuxième trimestre 2022 ont baissé à 9,43 % contre 10,27 % trois mois plus tôt.
+Au Gabon, les TEG moyens ont chuté au cours de la période de référence, se situant à
+12,13 % contre 21,96 %. En Guinée Equatoriale, les taux débiteurs moyens ont progressé
+au cours du deuxième trimestre 2022, s’élevant à 14,87 % contre 11,25 % il y a trois mois.
+Au Tchad, les taux débiteurs moyens ont reculé à 7,72 % au 2ème trimestre 2022 contre
+8,47 % au 1er trimestre 2022.
+Graphique 5 : Evolution des taux débiteurs moyens par pays entre le 1er et 2ème trimestre
+2022
+I- 2.2. Evolution des taux d’intérêt débiteurs par type de bénéficiaire
+La baisse des coûts du crédit, enregistrée au deuxième trimestre 2022, s’explique
+principalement par le recul des taux appliqués aux PME. En effet, au cours du 2ème trimestre
+2022, les taux servis aux PME, ayant bénéficié de 20,08% de l’offre de crédit globale, ont
+fortement chuté, s’élevant à 10,82 % contre 17,90 % un trimestre plus tôt. Les TEG
+moyens des crédits distribués aux grandes entreprises se sont situés à 7,61 % contre 7,56 %
+au premier trimestre 2022. Par ailleurs, les taux des crédits octroyés aux autres personnes
+morales se sont situés à 15,20 % au cours de la période de référence, contre 10,24% un
+trimestre plus tôt. Les taux débiteurs servis aux administrations publiques et les
+collectivités territoriales décentralisées ont chuté entre le 31 mars et le 30 juin 2022, se
+situant à 11,82 % contre 23,54 % enregistré à la fin du premier trimestre 2022. Quant aux
+particuliers, ils ont enregistré les taux les plus élevés, se situant à 16,23 % contre 15,41 %
+trois mois auparavant.
+I-2.3. Charges et commissions liées à la mise en place des prêts dans la CEMAC
+Le TEG d’un prêt représente le coût global réel supporté par l’emprunteur, y
+compris l’ensemble des charges liées à l’assurance, aux frais annexes et aux autres frais et
+commissions associés à la mise en place du prêt. Le taux nominal est sa première
+composante. Le graphique ci-dessous montre le poids du taux nominal dans le TEG par
+type de bénéficiaire au sein de la CEMAC au cours du deuxième trimestre 2022.
+12
+
+--- Page 13 ---
+Graphique 6 : Poids du taux nominal dans le TEG des prêts par type de bénéficiaire
+II- Evolution des volumes et taux débiteurs par pays
+II.1. Cameroun
+II-1.1. Evolution des nouveaux engagements bancaires au Cameroun
+Au cours du deuxième trimestre 2022, les établissements de crédit implantés au
+Cameroun ont accordé 261 638 nouveaux crédits, contre 268 480 au cours du premier
+trimestre 2022. En rapport avec le nombre de dossiers validés, le marché du crédit demeure
+dominé par les banques avec 99,50%, tandis que les établissements financiers, dont
+l’activité de crédit reste marginale, n’ont accordé que 0,50 %.
+En valeur, la répartition entre les différents assujettis est identique à celle du nombre
+des accords. L’enveloppe globale des prêts accordés par le système bancaire camerounais
+s’est élevée à FCFA 1 057,99 milliards contre FCFA 1 013,38 milliards, soit une hausse
+de 4,40% sur trois mois. Sur cette même période, l’offre de crédit au Cameroun demeure
+dominée par les banques, qui concentrent 98,65% du total des financements enregistrés
+contre 1,35 % pour les établissements financiers.
+Graphique 7: Répartition des nouveaux crédits entre les banques et les établissements
+financiers du Cameroun au cours du 2ème trimestre 2022
+13
+
+--- Page 14 ---
+II-1.1.1. Evolution des parts de marché par assujettis
+Au deuxième trimestre 2022, le marché du crédit bancaire camerounais est resté
+dominé par quatre banques (Afriland, SGC, BICEC et SCB Cameroun), concentrant
+59,08% des parts. Au premier, ces mêmes banques détenaient 67,93 % des parts de marché.
+Cette baisse montre que les autres banques gagnent en part de marché et devrait
+s’accompagner à terme d’une baisse du coût de crédit au profit de la clientèle.
+Graphique 8 : Evolution des Parts de marché en matière d'offre de crédit des banques du
+Cameroun entre le 1er et le 2ème trimestre 2022
+Au niveau des établissements financiers, le marché est resté dominé par ALIOS
+Finance avec 45,60 % des parts de marché au 2ème trimestre 2022 contre 56,83 % au 1er
+trimestre 2022. Le Crédit Foncier du Cameroun occupe le deuxième rang avec 26,97% des
+parts de marché contre 15,06% un trimestre plus tôt.
+Graphique 9: Evolution des parts de marché des établissements financiers du Cameroun
+entre le 1er et le 2ème trimestre 2022
+14
+
+--- Page 15 ---
+I- 1.1.2. Dynamique de l’offre de crédit au Cameroun par type de bénéficiaire
+Au cours du deuxième trimestre 2022, les nouveaux crédits accordés par les
+établissements de crédit ont majoritairement bénéficié aux grandes entreprises et aux PME.
+Ces deux catégories de clients ont reçu 896,70 milliards FCFA contre 880 milliards FCFA
+trois mois plus tôt. D’une manière générale, la part des grandes entreprises dans
+l’enveloppe globale s’élève à 64,99% tandis que celle des PME se situe à 19,77 %. Les
+crédits aux particuliers, bien que constituant le segment ayant le nombre d’accords le plus
+élevé, n’ont bénéficié que 14,71 % de l’enveloppe globale, soit 155,68 milliards FCFA
+contre 213,42 milliards FCFA un trimestre plus tôt. Les administrations publiques ont
+bénéficié de 4,58 milliards FCFA, alors que les autres personnes morales n’ont reçu que
+1,04 milliard au cours de la période de référence.
+Graphique 10: Répartition des nouveaux crédits par type de bénéficiaire au Cameroun
+(en milliards FCFA)
+La répartition des nouveaux crédits en fonction de leur maturité a montré une
+prédominance des prêts à court terme, avec environ de 62,23% du total des concours
+bancaires. La part des crédits destinés au financement des investissements à moyen et long
+termes n’a représenté que 14,95 % et 1,42 % du total des prêts respectivement. En outre,
+la part des engagements par signature dans le volume global des crédits bancaires s’est
+élevée à 21,40 % au cours de la période de référence.
+Graphique 11: Répartition des crédit par terme au cours du 2ème trimestre 2022 au
+Cameroun (en milliards FCFA)
+15
+
+--- Page 16 ---
+II-1.2. Evolution des taux débiteurs pratiqués au Cameroun
+Dans l’ensemble, les taux débiteurs moyens ont légèrement progressé au cours du
+deuxième trimestre 2022, s’élevant à 9,46 % contre 9,15 % au premier trimestre 2022, soit
+une hausse de 0,31 % en trois mois. Cette hausse a également été enregistrée au niveau du
+secteur bancaire dont les taux débiteurs moyens sont passés de 9,05 % à 9,36 % soit une
+progression de 31 points de base. En revanche, les taux moyens pratiqués par les
+établissements financiers ont reculé au cours de la période de référence, se situant à 17,00
+% contre 17,50 % un trimestre auparavant.
+De manière générale, les taux pratiqués par les établissements financiers sont plus
+élevés que ceux des banques en raison du coût élevé de leurs ressources. Le graphique ci-
+après traduit cette tendance.
+Graphique 12: Evolution des TEG moyens par type d’assujetti au Cameroun
+II-1-2.1 Structure des TEG au Cameroun par type de bénéficiaire
+Au niveau des banques, les TEG moyens nationaux, entre le 1er et le 2ème trimestre
+2022, ont évolué de la manière suivante :
+- pour les particuliers, les taux débiteurs ont baissé, se situant à 15,32 % contre
+15,89 % trois mois plus tôt ;
+- pour les PME, les TEG moyens ont reculé de 75 points de base au cours de la période
+sous revue, se situant à 12,14 % contre 12,89 % ;
+- les taux débiteurs moyens servis aux GE ont progressé, s’élevant à 7,21 % contre
+6,84 % trois mois auparavant ;
+- quant aux « personnes morales autres que les PME et grandes entreprises », les TEG
+moyens ont considérablement augmenté, s’élevant à 21,30 % contre 17,78 % un
+trimestre plus tôt. ;
+- enfin, pour les Administrations publiques et collectivités locales, les taux débiteurs
+moyens sont également en hausse à 11,76 % contre 5,75 % il y a trois mois.
+16
+
+--- Page 17 ---
+Au niveau des établissements financiers, les taux débiteurs servis à leur clientèle,
+entre le 1er et le 2nd trimestre 2022, ont évolué comme ci-après :
+- les taux moyens appliqués aux particuliers ont chuté de 291 points de base, se situant
+à 11,36 % au 1er trimestre 2022 contre 14,27 % trois mois auparavant ;
+- pour les prêts aux PME, les TEG moyens ont légèrement progressé au cours de la
+période de référence, s’élevant à 20,95 % contre 19,93 % en trois mois ;
+- quant aux GE, leurs taux débiteurs moyens ont continué leur progression entamée
+au cours du dernier trimestre 2022. En fin juin 2022, ils s’élèvent 16,08 % contre
+12,47 %, soit une hausse de 360 points en trois mois.
+Il convient de rappeler que les autres personnes morales et les administrations
+publiques n’ont pas bénéficié de crédit de la part des établissements financiers au cours de
+la période de référence.
+Dans l’ensemble, la structure par maturité des taux est ressortie globalement
+inversée pour tous les types de bénéficiaires ; les TEG moyens des prêts à court terme étant
+plus élevés que ceux des crédits à moyen terme, eux-mêmes plus importants que les taux
+des concours à long terme.
+II-1-2.2 Charges et commissions liées à la mise en place des prêts
+Au Cameroun, quel que soit le type de bénéficiaire, le taux nominal a pesé en
+moyenne 69,15 % dans les TEG, tandis que les autres charges ont représenté en moyenne
+30,85% au cours du 2nd trimestre 2022. Les autres personnes morales, les particuliers et les
+PME ont supporté des charges d’un niveau supérieur à la moyenne, avec respectivement
+36,25 %, 31,54 % et 31,08 % au 2nd trimestre 2022. En raison de leur profil de risque
+généralement perçu comme faible, les GE et les Administrations publiques ont bénéficié
+des charges en dessous de la moyenne, soit 25,05 % et 30,33 %, respectivement.
+Graphique 13 : Poids du taux nominal dans le TEG des prêts amortissables des banques
+du Cameroun au cours du 2ème trimestre 2022
+17
+
+--- Page 18 ---
+II.2. République Centrafricaine
+II- 2.1. Evolution des nouveaux engagements bancaires en République
+Centrafricaine
+Au cours du 2ème trimestre 2022, les établissements de crédit en activité en
+République Centrafricaine (RCA) ont accordé 2 727 nouveaux crédits contre 2 897
+dossiers trois mois auparavant. En valeur, l’enveloppe globale des nouveaux crédits s’est
+accrue à 62,65 milliards FCFA au 2ème trimestre 2022 contre 25,48 milliards FCFA au 1er
+trimestre 2022.
+En termes de parts de marché, l’offre de crédit bancaire en RCA est dominée par
+BGFIBANK-CA, dont les crédits distribués représentent 82,65 % du montant des
+nouveaux prêts accordés au 2ème trimestre 2022 contre 70,66 % trois mois auparavant.
+Graphique 14: Parts de marché en matière d'offre de crédit des banques de la RCA au
+cours des 1er et 2ème trimestre 2022.
+Au cours du 2ème trimestre 2022, les GE et les PME ont été les principales
+bénéficiaires des financements bancaires octroyés, avec un montant global de crédits
+octroyés de 53,66 milliards FCFA contre 20,35 milliards FCFA trois mois auparavant, soit
+une hausse de 163,66 %. Les PME ont été les principaux bénéficiaires de ces crédits avec
+45,71% de l’enveloppe globale, en hausse de 98,87% par rapport à fin mars 2022. Quant
+aux GE, la valeur totale de leur financement est passé de 5,96 milliards FCFA à 25,03
+milliards FCFA entre fin mars et fin juin 2022. Les crédits aux particuliers n’ont représenté
+que 9,56 % de la valeur totale des nouveaux concours, soit environ 6,00 milliards FCFA
+contre 5,12 milliards FCFA en mars 2022, en augmentation de 17,07 %. Les crédits aux
+Administrations publiques au cours de cette période se sont élevés à 2,97 milliards FCFA
+contre 8 millions FCFA un trimestre auparavant. Sur la période sous revue, les crédits
+octroyés par les banques centrafricaines aux « personnes morales autres que les GE et les
+PME » ont progressé, mais demeurent faibles à 0,02 milliard FCFA.
+Bien que globalement consentis aux entreprises (PME et GE), les nouveaux
+concours bancaires ont été essentiellement de court terme, représentant 51,10 % des crédits
+mis en place contre 35,09 % pour les crédits à moyen et 14,00 % pour ceux à long terme.
+18
+
+--- Page 19 ---
+Graphique 15: Répartition des crédits par type de bénéficiaire et par terme au cours du
+2ème trimestre 2022 en RCA
+II- 2.2. Evolution des taux débiteurs pratiqués par les banques centrafricaines
+Les taux débiteurs moyens pratiqués par les banques centrafricaines au cours du
+deuxième trimestre 2022 ont chuté à 9,61 % contre à 15,97 % trois mois auparavant.
+II-2-2.1 Structure des TEG en RCA
+Au cours du deuxième trimestre 2022, les prêts aux particuliers et aux
+administrations publiques ont été les plus chers, avec des TEG moyens établis
+respectivement à 20,23 % et 13,95 %. Les TEG moyens nationaux, entre le 1er et le 2nd
+trimestre 2022 ont évolué de la manière suivante :
+- en comparaison avec le premier trimestre 2022, les taux débiteurs moyens des
+particuliers en RCA ont reculé de 59 points de base, se situant à 20,23 % contre
+20,83 % en fin mars 2022 ;
+- quant aux PME, leurs TEG moyen ont considérablement baissé au cours de la
+période sous revue à 8,60%, contre 14,65 % il y a trois mois;
+- les taux débiteurs moyens servis aux GE ont baissé entre le 1er et le 2ème trimestre
+2022, se situant à 7,71 % contre 14,98 % trois mois auparavant ;
+- enfin, pour les Administrations publiques et collectivités locales, les taux débiteurs
+moyens ont reculé, se situant à 13,95 % contre 17,34 %, soit une baisse de 339
+points de base.
+La structure des taux débiteurs par terme en RCA est également inversée quel que
+soit le type de bénéficiaire. En effet, les TEG moyens des crédits à court terme sont
+supérieurs à ceux des crédits à moyen terme, eux-mêmes supérieurs aux coûts effectifs
+moyens des crédits à long terme.
+19
+
+--- Page 20 ---
+II-2-2.2 Charges et commissions liées à la mise en place des prêts
+Au cours de la période sous revue, il ressort qu’en moyenne, le taux nominal, quel
+que soit le type de bénéficiaire, pèse environ 72,71 % dans les TEG tandis que les autres
+charges représentent en moyenne 27,29 %. Les particuliers, les PME et les Administrations
+publiques ont supporté des charges d’un niveau supérieur à la moyenne, avec
+respectivement 40,59 %, 31,20 % et 30,81 % au deuxième trimestre 2022. En revanche,
+les autres personnes morales et les GE ont bénéficié des charges en dessous de la moyenne,
+avec respectivement 11,11 % et 22,74 %. Le graphique ci-dessous montre le poids du taux
+nominal dans les TEG par type de bénéficiaire sur les prêts amortissables.
+Graphique 16 : Poids du taux nominal dans le TEG des prêts par bénéficiaire en RCA au
+cours du 2ème trimestre 2022
+II- 3. Congo
+II- 3.1. Evolution des nouveaux engagements bancaires au Congo
+Au cours du deuxième trimestre 2022, 6 007 accords de financements ont été donnés
+par les banques congolaises contre 6 216 nouveaux prêts au 1er trimestre 2022, légèrement
+en baisse de 3,48 % en trois mois. En valeur, les nouveaux prêts accordés ont baissé de
+29,42 %, se situant à 151,34 milliards FCFA au 2nd trimestre 2022 contre 214,41 milliards
+FCFA au 1er trimestre 2022.
+Le marché du crédit bancaire au Congo reste très concurrentiel. En effet, aucune
+banque ne domine réellement le marché de façon permanente. Au cours de la période de
+référence, le marché a été dominé par Ecobank Congo avec 32,62 % des parts de marché,
+suivi de la Société Générale (16,31 %) et de BSCA (13,35 %). Le reste des parts de marché
+est très fragmenté entre les établissements de crédit restant, comme le démontre le
+graphique ci-après :
+20
+
+--- Page 21 ---
+Graphique 17: Evolution des parts de marché en matière d'offre de crédit des banques du
+Congo entre le 1er et le 2ème trimestre 2022
+A l’instar du 1er trimestre 2022, les GE ont été les principaux bénéficiaires des
+nouveaux financements bancaires, avec 65,01% % contre 74,75 % trois mois auparavant.
+En valeur, la part des GE s’est située à 98,38 milliards FCFA, en baisse de 38,62 % en trois
+mois. De même, l’enveloppe dédiée aux particuliers a régressé de 9,53 % en valeur relative,
+soit 23,41 milliards FCFA contre 25,9 milliards FCFA enregistré au cours du 1er trimestre
+2022. L’enveloppe allouée aux PME quant à elle a reculé de 16,07 % par rapport au 1er
+trimestre 2022, se situant à 21,90 milliards FCFA contre 26,1 milliards FCFA trois mois
+plus tôt. Les administrations publiques et les collectivités locales ainsi que les autres
+personnes morales autres que les PME et les GE ont bénéficié respectivement de 4,22 %
+et 0,87 % de la valeur des nouveaux crédits.
+Graphique 18: Evolution des financements bancaires par types de bénéficiaire au Congo
+entre le 1er et le 2ème trimestre 2022
+21
+
+--- Page 22 ---
+A l’instar des autres pays de la CEMAC, l’offre de crédit au Congo au cours du
+deuxième trimestre 2022 a été essentiellement de court terme, avec 79,05 % des crédits
+mis en place, destinée au financement des besoins de trésorerie des entreprises et au crédit
+à la consommation des ménages. En revanche, la couverture des besoins d’investissement
+des agents économiques par le financement bancaire a progressé au cours du trimestre de
+référence. En effet, les nouveaux concours bancaires à moyen terme ont représenté 15,04
+% contre 11,50 % trois mois plus tôt, tandis que l’offre de crédit à long terme a reculé à
+5,90 % contre 9,28 % trois mois auparavant.
+Graphique 19: Répartition des nouveaux crédits par maturité au cours du 2ème trimestre
+2022 au Congo
+II-3.2. Evolution des taux débiteurs pratiqués par les banques congolaises
+Au cours de la période sous revue, les taux débiteurs pratiqués par les banques
+congolaises ont poursuivi la baisse entamée au cours du deuxième trimestre 2022, se situant
+en moyenne à 9,43% contre 10,27 % enregistrés au cours premier trimestre 2022.
+II-2-3.1 Structure des TEG du Congo
+Par types de bénéficiaire, la structure des taux débiteurs se présente comme ci-
+après :
+- les taux débiteurs moyens servis aux particuliers au cours du 2ème trimestre 2022, se
+sont élevés à 15,65 % contre 15,15 % au 1er trimestre 2022 ;
+- pour les PME, les TEG moyens ont chuté de 508 points de base au cours de la
+période sous revue, s’élevant à 9,31 % contre 14,39 % trois mois auparavant ;
+- les taux débiteurs moyens servis aux GE ont reculé de 33 points de base au cours de
+la période de référence, se situant à 8,49 % contre 8,83 % au 1er trimestre 2022 ;
+- pour la catégorie « autres personnes morales », les TEG moyens ont progressé à
+14,16 % contre 9,23 % un trimestre plus tôt. ;
+22
+
+--- Page 23 ---
+- enfin, les taux débiteurs moyens servis aux Administrations publiques et
+collectivités locales, ont chuté, se situant à 0,51 % contre 10,29 % le trimestre
+précédent.
+II-3.3 Charges et commissions liées à la mise en place des prêts
+Au cours du 2ème trimestre 2022, le taux nominal moyen quel que soit le type de
+bénéficiaire, couvre environ 83,35 % des TEG tandis que les autres charges ont représenté
+en moyenne 16,65%. Les particuliers et les PME ont supporté des charges plus élevées,
+avec respectivement 45,95 % et 15,82 %. En revanche, les Administrations publiques, les
+autres personnes morales et les GE ont bénéficié des charges relativement faibles (5,25 %,
+6,83 % et 13,48 %) comme le montre la graphique ci-dessous.
+Graphique 20 : Poids du taux nominal dans le TEG des prêts par bénéficiaire au Congo
+au cours du 2ème trimestre 2022
+II-4. Gabon
+II-4.1. Evolution des nouveaux engagements bancaires au Gabon
+Au cours du deuxième trimestre 2022, les établissements de crédit en activité au
+Gabon ont mis en place 8 817 nouveaux crédits, dont 8 359 dossiers pour les banques et
+458 dossiers pour l’unique établissement financier en exercice, contre 5 941 dossiers trois
+mois plus tôt. En valeur, l’enveloppe globale des nouveaux crédits octroyés par le système
+bancaire gabonais a reculé de 13,09 % en valeur relative, s’établissant à 305,75 milliards
+FCFA contre 351,79 milliards FCFA au 1er trimestre 2022.
+Les banques ont concentré l’essentiel de l’offre de crédit, avec 99,26 % du volume
+total des financements bancaires contre 0,74 % des concours enregistrés par l’unique
+établissement financier en activité dans ce pays.
+23
+
+--- Page 24 ---
+A l’examen des parts de marchés au 2ème trimestre 2022, il ressort que l’activité
+bancaire a été fortement dominée par quatre banques qui possèdent 77,38 %. Comme au
+précédent trimestre, la dynamique de l’offre de crédit bancaire est demeurée inchangée,
+avec BGFIBANK qui reste en tête avec 21,76 % de part de marché contre 30,42 % au 1er
+trimestre, suivi de Orabank avec 19,53 % contre 17,36 % trois mois plus tôt. CITIBANK
+Gabon occupe la troisième place avec 18,46% contre 22,62% enregistré au premier
+trimestre 2022. Le graphique ci-dessus montre la répartition des parts de marché du crédit
+bancaire au Gabon entre le 1er et le 2ème trimestre 2022.
+Graphique 21 : Parts de marché en matière d'offre de crédit des banques du Gabon au
+au 1er et 2ème trimestre 2022
+Par type de bénéficiaire, les entreprises restent les principales bénéficiaires des
+nouveaux crédits octroyés au cours du deuxième trimestre 2022 avec une enveloppe
+globale en baisse à 184,64 milliards FCFA contre 226,40 milliards FCFA enregistré au 1er
+trimestre 2022. Ce montant est reparti entre les GE (146,98 milliards FCFA) et les PME
+(37,66 milliards FCFA). Les crédits aux particuliers, dont le nombre de dossiers a été plus
+élevé, ne représentent que 18,07 % de la valeur totale des nouveaux concours, soit 55,24
+milliards FCFA contre 29,44 milliards FCFA trois mois plus tôt. Les autres bénéficiaires,
+en l’occurrence les Administrations publiques, ont reçu 62,16 milliards FCFA et les
+autres personnes morales n’ont bénéficié que de 3,71 milliards FCFA au 2nd trimestre 2022.
+Graphique 22: Evolution des financements bancaires par type de bénéficiaires au Gabon
+entre le 1er et 2ème trimestre 2022
+24
+
+--- Page 25 ---
+Les crédits mis en place au deuxième trimestre 2022 ont été majoritairement à court
+terme. Ces prêts sont généralement destinés au financement des besoins de trésorerie pour
+les personnes morales et des crédits de consommation pour les particuliers. Au total,
+79,09 % des prêts déclarés ont une maturité inférieure ou égale à 24 mois, soit 241,81
+milliards FCFA, contre 308,4 milliards FCFA trois mois plus tôt. Les crédits à moyen et
+long terme, essentiellement dédiés à l’investissement, sont restés faibles et n’ont constitués
+respectivement que 20,61 % et 0,30 % du total des nouveaux concours.
+Graphique 23: Répartition des nouveaux crédits par maturité au cours du 2ème trimestre
+2022 au Gabon
+II-4.2. Evolution des taux débiteurs pratiqués au Gabon
+Entre le 1er et le 2ème trimestre 2022, les TEG pratiqués par les banques du Gabon
+ont considérablement baissé, se situant en moyenne à 12,13 % contre 21,93 % il y a trois
+mois. Parallèlement les taux débiteurs pratiqués par l’établissement financier en activité
+ont également chuté au cours de la même période à 23,78 % contre 31,00 % au 31 mars
+2022.
+II-4-2.1 Structure des TEG du Gabon
+Par types de bénéficiaires, la structure des taux débiteurs moyens se présente comme
+ci-après :
+- les taux débiteurs moyens servis aux particuliers au cours du 2ème trimestre 2022 se
+sont élevés à 18,41% contre 18,22 % au 1er trimestre 2022 ;
+- pour les PME, les TEG moyens ont considérablement chuté à 10,90 % au cours du
+deuxième trimestre 2022 contre 35,26 % trois mois auparavant ;
+- les taux débiteurs moyens servis aux GE ont progressé au cours de la période de
+référence, s’élevant à 9,86 % contre 8,64 % au premier trimestre 2022 ;
+- s’agissant des autres personnes morales, les TEG moyens sont en baisse, se situant
+à 11,71 % au cours du 2ème trimestre 2022 contre 12,93 %, un trimestre plus tôt. ;
+25
+
+--- Page 26 ---
+- enfin, les taux débiteurs moyens servis aux Administrations publiques et
+collectivités locales sont retombés à 12,81 % au cours du deuxième trimestre 2022,
+contre 28,31 % le trimestre précédent
+Pour le seul établissement financier du pays, les taux débiteurs moyens aux
+particuliers ont reculé, se situant à 28,22 % contre 31,00 % trois mois plus tôt, tandis que
+les taux moyens servis aux PME ont légèrement progressé au cours de la période de
+référence, à 32,94% contre 31,00 %. Par ailleurs, les TEG moyens servis aux GE se sont
+établis à 26,66 % aux cours du deuxième trimestre 2022. Les autres personnes morales et
+les administrations publiques n’ont pas bénéficié de crédits au cours du deuxième trimestre
+2022.
+II-4-2.2 Charges et commissions liées à la mise en place des prêts
+Au 2ème trimestre 2022, le taux d’intérêt nominal moyen facturé par les
+établissements de crédit en activité au Gabon, quel que soit le type de bénéficiaire, a
+représenté 65,01 % des TEG moyens, tandis que les autres charges ont représenté en
+moyenne 34,99 %. Les autres personnes morales, les administrations publiques et les
+particuliers ont supporté des charges plus élevées respectivement 47,39 %, 34,53 % et
+33,78 % au deuxième semestre 2022. En revanche, les GE et les PME ont bénéficié des
+charges relativement faibles au cours de la même période, soit 27,86 % et 31,37 %.
+Graphique 24 : Poids du taux nominal dans le TEG des prêts par bénéficiaire au Gabon
+au cours du 2ème trimestre 2022
+II-5. Guinée Equatoriale
+II-5.1. Evolution des nouveaux prêts bancaires en Guinée Equatoriale
+Au cours du 2ème trimestre 2022, les banques équato-guinéennes ont accordé 4 116
+nouveaux crédits contre 2 322 dossiers le trimestre précédent, soit une hausse de 77,26 %.
+En valeur, les nouveaux prêts accordés se sont situés à 50,62 milliards FCFA contre 80,5
+milliards FCFA trois mois plus tôt, soit une baisse trimestrielle relative de 37,12 %.
+L’offre de crédits a été dominée au cours du trimestre de référence par BANGE
+(40,78 %) et CCEI BANK GE (38,41 %). Ces deux banques concentrent globalement
+79,20 % de parts de marché de la valeur des nouveaux crédits.
+26
+
+--- Page 27 ---
+Graphique 25 : Parts de marché en matière d'offre de crédit des banques de la Guinée
+Equatoriale au cours du 2ème trimestre 2022
+Les nouveaux engagements bancaires octroyés en Guinée Equatoriale au cours du
+2ème trimestre 2022 ont été en majorité orientés vers le financement des entreprises, qui ont
+bénéficié de 62,45% du volume total des crédits distribués. Toutefois, ce pourcentage est
+en net recul par rapport au précédent trimestre où le volume avait atteint 92,78 % de
+l’enveloppe globale. Les PME ont reçu 6,38 milliards FCFA contre 12,3 milliards FCFA,
+trois mois auparavant, tandis que les GE ont bénéficié de 25,22 milliards FCFA,
+représentant 49,83 % de l’enveloppe globale, contre 62,4 milliards FCFA au premier
+trimestre 2022. Les prêts aux particuliers ont représenté 14,70 % du montant total des prêts
+consentis au cours de cette période, soit 7,44 milliards FCFA contre 5,1 milliards FCFA le
+trimestre précédent. Les administrations publiques et les autres personnes morales ont
+bénéficié respectivement de 9,07 et 2,50 milliards FCFA de nouveaux crédits bancaires,
+soit 17,92 % et 4,93 % du montant total des prêts consentis.
+Graphique 26 : Evolution des financements bancaires par types de bénéficiaire en
+Guinée Equatoriale entre le 1er et le 2ème trimestre 2022
+Les nouveaux crédits bancaires ont été essentiellement à court terme. Ces crédits
+sont généralement consacrés au financement de la consommation et de la trésorerie des
+27
+
+--- Page 28 ---
+principaux bénéficiaires, soit 67,25 % de l’enveloppe globale des nouveaux crédits. Les
+crédits d’investissements à moyen et long terme n’ont respectivement représenté que
+28,19 % et 4,56 % au cours du 2ème trimestre 2022.
+.
+Graphique 27 : Répartition des nouveaux crédits par maturité au cours du 2ème trimestre
+2022 en Guinée Equatoriale
+II-5.2. Evolution des taux d’intérêts débiteurs pratiqués en Guinée Equatoriale
+Les taux débiteurs moyens pratiqués par les banques installées en Guinée
+Equatoriale ont poursuivi la tendance haussière observée de 9,32 % au 4ème trimestre 2021,
+à 14,87% au cours du deuxième trimestre 2022 contre 11,25 % au cours du 1er trimestre
+2022.
+De manière globale, les taux moyens par type de bénéficiaire, entre le 1er et le 2ème
+trimestre 2022, ont évolué de la manière suivante :
+- pour les particuliers, les taux débiteurs moyens ont légèrement progressé, s’élevant
+à 20,16 % au 2ème trimestre 2022 contre 19,37 % trois mois auparavant ;
+- quant aux PME, leurs TEG moyens sont également en hausse à 21,96% contre
+13,45 %, il y a trois mois ;
+- les taux débiteurs moyens servis aux grandes entreprises ont progressé de 138 points
+de base au cours de la période de référence, s’élevant à 11,38% contre 10,00 % trois
+mois auparavant ;
+- pour la catégorie « autres personnes morales », les TEG moyens ont baissé de 732
+points au cours de la période de référence se situant à 16,16 % contre 23,48 % un
+trimestre plus tôt ;
+- enfin, pour les Administrations publiques et collectivités locales, les taux débiteurs
+moyens ont chuté au cours du 2ème trimestre 2022, s’élevant à 11,57 % contre
+24,01 % il y a trois mois.
+28
+
+--- Page 29 ---
+II-5-2.1 Structure des TEG de la Guinée Equatoriale
+La structure par terme des taux débiteurs en Guinée Equatoriale, au cours du
+deuxième trimestre 2022, apparaît globalement inversée, à l’identique de celle des autres
+pays, avec des taux moyens à court terme plus élevés que les taux à moyen terme et ceux
+à long terme.
+II-5-2.2 Charges et commissions liées à la mise en place des prêts
+Au cours du 2ème trimestre 2022, le taux d’intérêt nominal moyen, appliqué par les
+établissements de crédit en Guinée Equatoriale, pour tous les bénéficiaires, a représenté
+environ 66,11 % des TEG moyens induisant une estimation des autres charges en moyenne
+à 33,89 %. Les PME et les particuliers ont supporté des charges supérieures à la moyenne,
+avec respectivement 39,83 %, et 34,39 %. En revanche, les GE ont bénéficié des charges
+relativement faibles, soit 30,50 %, les administrations publiques ont supporté des charges
+supplémentaires de 32,07 % des Taux d’intérêts nominaux. Les charges supportées par les
+autres personnes morales en sus du taux d’intérêt nominal, se sont élevées à 32,67 % du
+taux nominal.
+Graphique 28 : Poids du taux nominal dans le TEG des prêts par bénéficiaire en Guinée
+Equatoriale au cours du 2ème trimestre 2022
+II-6. Tchad
+II-6.1. Evolution des nouveaux engagements bancaires au Tchad
+Au cours du 2ème trimestre 2022, l’activité de crédit au Tchad a été marquée par la
+hausse du volume total des nouveaux financements bancaires à l’économie. Le montant
+des nouveaux crédits octroyés par les banques tchadiennes au cours de cette période s’est
+élevé à 173,68 milliards FCFA contre de 145,8 milliards FCFA un trimestre plus tôt, soit
+une hausse de 19,59 %. Parallèlement, le nombre de demandes de crédit mis en place au
+cours de cette période a progressé, s’élevant à 9 885 demandes contre 8 004 demandes le
+trimestre précédent.
+De l’analyse des parts de marché au cours de la période sous-revue, il ressort que
+trois banques ont dominé le marché du crédit bancaire au Tchad au cours du deuxième
+29
+
+--- Page 30 ---
+trimestre 2022. A cet effet, la BCC occupe la première place avec 28,30 % des parts (en
+rappel, cette banque occupait le 2ème rang lors du premier trimestre 2022). La Société
+Générale arrive en deuxième position avec 18,81 %, tandis que la CBT possède 13,86%.
+Graphique 29 : Evolution des Parts de marché en matière de crédit au Tchad entre le 1er
+et le 2ème trimestre 2021 2022
+La répartition des crédits par type de bénéficiaire a montré que les entreprises ont
+été les principales destinataires des nouveaux financements bancaires octroyés au cours du
+2ème trimestre de l’année 2022 avec une part globale chiffrée à 129,57 milliards FCFA
+contre 103,9 milliards FCFA, au 1er trimestre 2022, soit 74,60 % du cumul des
+financements accordés. Cette enveloppe a été répartie à hauteur de 36,90 % pour les PME
+et 37,70 % pour les GE. Les crédits aux particuliers, bien qu’ayant fait l’objet d’un nombre
+important de dossiers de prêts, n’ont représenté qu’environ 14,82 % de la valeur totale des
+nouveaux concours. Les crédits accordés aux administrations publiques ont représenté
+10,55 % de l’enveloppe globale des crédits. La part des crédits octroyés aux autres
+personnes morales est demeurée marginale au cours du deuxième trimestre 2022 à 0,04
+milliard FCFA.
+Graphique 30 : Evolution des financements bancaires par type de bénéficiaires au Tchad
+entre le 1er et le 2ème trimestre 2022
+30
+
+--- Page 31 ---
+Ces concours bancaires ont été essentiellement de court terme, soit 79,39 % de
+l’enveloppe globale, destinés au financement des besoins de consommation et de trésorerie
+des bénéficiaires. Les crédits à moyen terme ont représenté 10,47 % tandis que ceux à long
+terme se sont établis à 10,13 %.
+Graphique 31: Répartition des nouveaux crédits par maturité au cours du 2ème trimestre
+2022 au Tchad
+II-6.2. Evolution des taux débiteurs pratiqués par les banques tchadiennes
+Les TEG moyens pratiqués par les banques tchadiennes au cours du deuxième
+trimestre 2022 se sont situés à 7,72 % contre 8,47 % le trimestre écoulé, soit une baisse de
+75 points en trois mois. Par type de bénéficiaire, les TEG moyens, entre le 1er et le 2ème
+trimestre 2022, ont évolué de la manière suivante :
+- pour les particuliers, les taux débiteurs ont légèrement augmenté à 15,76 % contre
+15,53 % trois mois plus tôt ;
+- pour les PME, les TEG moyens ont reculé de 284 points de base, se situant à 5,73
+% contre 8,57 % enregistré au cours du premier trimestre 2022 ;
+- les taux débiteurs moyens servis aux GE sont situés à 6,21 % au cours de la période
+de référence, contre 6,33 % trois mois auparavant soit une baisse de 12 points de
+base ;
+- pour la catégorie « autres personnes morales », les TEG moyens ont progressé de
+323 points de base s’élevant à 7,70% contre 4,47 % un trimestre plus tôt. ;
+- enfin, pour les Administrations publiques et collectivités locales, les taux débiteurs
+moyens ont augmenté au cours de la période sous revue, passant de 5,75 % à 8,80
+% entre le premier et le deuxième trimestre 2022, soit une hausse de 305 points de
+base.
+II-6.2.1 Structure des TEG du Tchad
+Indépendamment du type de bénéficiaire, la structure par maturité des taux débiteurs
+est également inversée au Tchad, avec des taux à court terme supérieurs à ceux à moyen et
+à long terme.
+31
+
+--- Page 32 ---
+II-6.2.2 Charges et commissions liées à la mise en place des prêts
+Au cours du deuxième trimestre 2022, le taux d’intérêt nominal moyen appliqué par
+les établissements de crédit en activité au Tchad, quel que soit le type de bénéficiaires, a
+représenté environ 78,75 % des TEG moyens. Ainsi, les autres charges couvrent en
+moyenne 21,25 % des TEG moyens. Les PME et les particuliers ont supporté des charges
+supérieures à la moyenne, avec respectivement 29,42 %, et 25,65 %. En revanche, les GE,
+les autres personnes morales et les Administrations publiques ont bénéficié des charges
+relativement faibles en raison de leur pouvoir de négociation élevé et la maîtrise du
+montage des dossiers des demandes de crédit, avec respectivement 15,50 %, 17,53 % et
+18,15 % des charges supportées.
+Graphique 32 : Poids du taux nominal et des autres charges dans le TEG des prêts par
+bénéficiaire au Tchad au au cours du 2ème trimestre 2022
+32
+
+--- Page 33 ---
+III-Annexes
+Tableau 1 : Répartition des nouveaux crédits par type de bénéficiaires au cours du
+2nd trimestre 2022 (CEMAC)
+(Montants des prêts en milliards FCFA)
+Source : DSFABFE, à partir des reporting TEG des établissements de crédit
+Tableau 2 : Evolution des prêts par catégorie (en valeurs et en %)
+(Montants des prêts en milliards FCFA)
+33
+C
+R
+C
+G
+G
+T
+a
+C
+o
+a
+u
+c
+m e r o u
+A
+n g o
+b o n
+in é e E
+h a d
+n
+q u a to r ia le
+P a r tic u lie
+1 5 5 ,6 8
+5 ,9 9
+2 3 ,4 1
+5 5 ,2 4
+7 ,4 4
+2 5 ,7 4
+2 7 3 ,5 0
+r s P M E
+2 0 9 ,1 5
+2 8 ,6 4
+2 1 ,9 0
+3 7 ,6 6
+6 ,3 8
+6 4 ,0 9
+3 6 7 ,8 2
+G r a n d e s
+e n tr e p r is e s
+6 8 7 ,5 4
+2 5 ,0 3
+9 8 ,3 8
+1 4 6 ,9 8
+2 5 ,2 2
+6 5 ,4 7
+1 0 4 8 ,6 4
+A u tr e s p e rM
+o r a le s
+1 ,0 4
+0 ,0 2
+1 ,3 1
+3 ,7 1
+9 ,0 7
+0 ,0 4
+1 5 ,2 0
+s . A d m in is tr a tiop
+u b liq u e s
+4 ,5 8
+2 ,9 7
+6 ,3 3
+6 2 ,1 6
+2 ,5 0
+1 8 ,3 3
+9 6 ,8 7
+n s
+T o ta l
+1 0 5 7 ,9 9
+6 2 ,6 5
+1 5 1 ,3 4
+3 0 5 ,7 5
+5 0 ,6 2
+1 7 3 ,6 8
+1 8 0 2 ,0 3
+Part dans Part dans Part dans
+PAYS T4 2021 T1 2022 T2 2022
+le total le total le total
+Crédits amortissables 6 40,34 54,1% 9 43,34 51,6% 626,29 34,2%
+Découverts 3 33,09 28,1% 5 37,25 29,4% 205,54 11,2%
+Effets escomptés 82,34 7,0% 1 18,47 6,5% 101,99 5,6%
+Cameroun
+Affacturages 9,43 0,8% 15,03 0,8% 5,71 0,3%
+Cautions 1 19,25 10,1% 2 15,15 11,8% 118,47 6,5%
+Total 1 184,45 1 829,24 1 057,99
+Crédits amortissables 41,16 74,00% 17,98 70,6% 35,14 137,9%
+Découverts 5,25 9,44% 1,53 6,0% 3,68 14,5%
+Effets escomptés 0,69 1,24% 0,62 2,4% 0,79 3,1%
+RCA
+Affacturages - 0,00% - 0,0% - 0,0%
+Cautions 8,52 15,31% 5,34 21,0% 23,05 90,5%
+Total 55,62 25,47 62,65
+Crédits amortissables 1 54,32 69,70% 70,94 33,09% 46,79 21,82%
+Découverts 58,24 26,31% 1 33,84 62,42% 85,39 39,83%
+Effets escomptés 0,40 0,18% 0,17 0,08% 3,87 1,81%
+Congo
+Affacturages - 0,00% - 0,00% - 0,00%
+Cautions 8,44 3,81% 9,47 4,41% 15,29 7,13%
+Total 221,40 214,41 151,34
+Crédits amortissables 1 86,24 51,04% 1 81,50 51,59% 158,18 44,96%
+Découverts 1 48,44 40,68% 1 34,67 38,28% 104,57 29,72%
+Effets escomptés 9,41 2,58% 7,71 2,19% 16,10 4,58%
+Gabon
+Affacturages - 0,00% 0,76 0,22% 2,47 0,70%
+Cautions 20,77 5,69% 27,15 7,72% 24,44 6,95%
+Total 364,85 351,79 305,75
+Crédits amortissables 32,81 48,13% 11,43 14,19% 21,92 27,23%
+Découverts 34,59 50,74% 64,67 80,33% 24,31 30,20%
+Guinée Effets escomptés - 0,00% - 0,00% - 0,00%
+Equatoriale Affacturages 0,00% 0,00% 0,00%
+Cautions 0,77 1,13% 4,41 5,47% 4,39 5,45%
+Total 68,16 100,00% 80,50 50,62
+Crédits amortissables 60,01 35,98% 51,84 35,69% 67,19 46,26%
+Découverts 17,28 10,36% 33,20 22,86% 30,32 20,88%
+Effets escomptés 5,38 3,23% 5,97 4,11% 12,26 8,44%
+Tchad
+Affacturages - 0,00% 6,06 4,18% 5,62 3,87%
+Cautions 84,10 50,43% 48,15 33,16% 58,29 40,13%
+Total 166,76 145,23 173,68
+Crédits amortissables 1 114,86 54,09% 1 277,03 48,25% 955,50 36,10%
+Découverts 5 96,89 28,96% 9 05,16 34,20% 453,81 17,15%
+Effets escomptés 98,21 4,76% 1 32,94 5,02% 135,01 5,10%
+CEMAC
+Affacturages 9,43 0,46% 21,86 0,83% 13,80 0,52%
+Cautions 2 41,85 11,73% 3 09,66 11,70% 243,92 9,22%
+Total 2 061,24 2 646,65 1 802,04
+
+--- Page 34 ---
+Source : DSFABFE, à partir des reporting TEG des établissements de crédit
+Tableau 3 : Evolution globale des taux débiteurs pratiqués dans la CEMAC
+4ème
+3ème trimestre 1er trimestre 2nd trimestre
+Type de bénéficiaires trimestre
+2021 2022 2022
+2021
+Banques 10,24% 10,64% 9,83% 9,83%
+Cameroun 10,03% 9,53% 9,36% 9,36%
+Centrafrique 12,63% 10,83% 9,61% 9,61%
+Congo 8,05% 9,59% 7,72% 9,43%
+Gabon 14,01% 14,88% 12,13% 12,13%
+Guinée Equatoriale 5,14% 9,32% 14,87% 14,87%
+Tchad 8,05% 9,59% 7,72% 7,72%
+Etablissements financiers 16,86% 18,00% 18,06% 18,55%
+Cameroun 15,97% 17,50% 17,00% 17,00%
+Gabon 20,44% 20,65% 31,00% 23,78%
+Sysème bancaire 10,29% 10,69% 11,88% 9,99%
+TIAO 3,25 3,50 4,00 4,00
+Source : DSFABFE, à partir des reporting TEG des établissements de crédit
+34
+
+--- Page 35 ---
+Tableau 4 :Vue d’ensemble des Taux débiteurs pratiqués par les banques dans la CEMAC au cours des quatre derniers trimestres
+Source : DSFABFE, à partir des reporting TEG des établissements de crédit
+PCDEACCCCC
+PCDEACCC
+C
+GCDEACCC
+C
+ACDECCCCCACDEACCCC
+T
+C
+E
+a rtic u lie rsré
+d its à la c o n so m m a tio n , a u tre q u e d é c o u v e rtsé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d its im m o b illie rsré
+d it-b a ila
+u tio n s
+e tite s e t M o y e n n e s E n tre p ris e sré
+d its d e tré so re rie , a u tre q u e le s d é c o u v e rts e t eé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d it-b a il
+a u tio n s
+ra n d e s E n tre p ris e sré
+d its d e tré so re rie , a u tre q u e le s d é c o u v e rts e t eé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d it-b a il
+a u tio n s
+u tre s p e rs o n n e s m o ra le sré
+d its à la c o n so m m a tio n , a u tre q u e d é c o u v e rtsé
+c o u v e rtsffe
+ts e sc o m p té sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d its im m o b illie rsré
+d it-b a ila
+u tio n s
+d m in is tra tio n s p u b liq u e sré
+d its d e tré so re rie , a u tre q u e le s d é c o u v e rtsé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d it-b a ila
+u tio n s
+O T A L G E N E R A L
+ré d its a m o rtissa b le s & d é co u v e rts
+n g a g e m e n ts p a r sig n a tu re
+ffe
+ffe
+ts e
+ts e
+sc
+sc
+o
+o
+m
+m
+p
+p
+té
+té
+s
+s
+T ro is iè m e trim e s tre 2 0 2
+T a u x
+M o n ta n t d e s
+n o m in a u x
+n o u v e a u x p rê ts
+m o y e n s
+3 1 4 1 3 7 0 9 6 3 5 9 1 0 ,4 6 %
+7 5 0 3 2 3 2 9 6 6 3 1 0 ,2 7 %
+3 0 1 0 1 2 3 2 9 4 5 1 4 ,8 3 %
+-
+-
+1 7 6 0 0 4 6 2 4 9 2 1 1 0 ,3 1 %
+2 2 2 2 6 0 6 6 3 7 1 7 ,5 9 %
+7 7 4 1 8 4 4 3 3 2 1 0 ,5 8 %
+6 3 5 7 3 1 0 1 1 1 ,4 0 %
+2 9 6 7 4 2 5 0 2 6 1 ,1 7 %
+3 3 0 0 0 8 2 7 9 4 2 9 7 ,8 6 %
+1 2 2 4 3 4 3 9 1 9 8 2 8 ,8 6 %
+6 7 9 3 3 4 8 5 3 9 8 9 ,8 7 %
+1 9 2 5 6 8 5 8 2 2 0 1 0 ,3 8 %
+5 2 7 2 5 5 0 6 3 4 0 ,0 0 %
+3 8 4 7 2 0 8 4 8 6 9 9 ,1 6 %
+1 0 2 3 9 1 9 2 4 0 5 7 ,7 6 %
+7 4 8 6 6 5 3 0 7 3 1 1 ,3 1 %
+5 8 9 1 3 0 6 2 8 4 8 2 ,0 4 %
+1 1 6 3 8 2 9 7 3 2 1 6 0 6 ,0 9 %
+3 8 8 9 0 5 5 6 9 6 8 8 5 ,8 8 %
+3 9 1 9 5 7 6 8 7 2 7 9 8 ,7 8 %
+6 3 4 4 4 1 8 3 1 8 1 6 ,7 5 %
+8 1 9 4 3 3 0 4 4 5 0 ,0 0 %
+7 0 6 0 7 7 3 5 0 4 7 6 ,8 6 %
+3 8 0 0 0 0 0 0 0 0 5 ,0 0 %
+4 6 2 8 8 6 9 1 7 4 7 ,3 7 %
+2 3 2 2 9 1 3 5 7 3 4 6 1 ,6 8 %
+2 7 9 8 8 0 0 8 6 7 6 8 ,5 3 %
+5 3 4 5 5 5 2 9 9 1 7 ,0 9 %
+4 7 8 6 5 4 7 1 0 9 1 4 ,0 0 %
+3 0 0 0 0 0 0 0 0 9 ,0 0 %
+1 6 9 7 1 5 9 9 9 8 2 7 ,7 8 %
+1 4 1 0 2 9 3 8 2 7 ,0 0 %
+- -
+- -
+4 4 3 2 7 9 2 1 2 1 ,9 1 %
+1 9 1 5 2 9 7 3 2 8 5 7 4 ,3 0 %
+3 3 6 5 1 9 1 3 3 1 9 ,8 6 %
+4 5 8 0 0 0 0 0 0 0 7 ,5 3 %
+- 0 ,0 0 %
+1 6 4 4 9 4 4 5 8 2 6 8 ,3 0 %
+1 9 9 2 0 2 0 6 4 7 9 4 ,9 7 %
+- 0 ,0 0 %
+1 4 7 2 1 4 8 8 9 2 2 1 3 ,5 4 %
+6 ,9 2 % 2 0 2 7 4 9 2 8 4 9 4 8 1
+1 7 2 8 5 4 6 5 8 4 9 5 5 7 ,5 2 %
+2 9 8 9 4 6 2 6 4 5 2 6 1 ,7 2 %
+1
+T E G m o y e
+1 6 ,7 3 %2
+0 ,9 3 %2
+2 ,7 5 %
+1 4 ,9 3 %1
+1 ,8 4 %1
+3 ,2 5 %1
+7 ,3 1 %1
+,4 2 %
+1 1 ,4 1 %1
+4 ,3 8 %1
+1 ,4 2 %1
+2 ,2 9 %9
+,0 6 %1
+2 ,3 4 %8
+,0 8 %2
+4 ,3 9 %
+3 ,4 4 %
+8 ,5 9 %1
+0 ,7 5 %9
+,5 6 %8
+,4 6 %6
+,3 4 %1
+1 ,1 6 %6
+,8 0 %1
+9 ,7 0 %
+2 ,4 5 %
+2 2 ,7 4 %1
+9 ,6 6 %1
+4 ,2 8 %9
+,0 8 %2
+7 ,1 4 %8
+,3 3 %
+-
+-
+2 ,6 5 %5
+,8 2 %1
+2 ,9 8 %8
+,1 3 %0
+,0 0 %
+1 0 ,4 2 %6
+,0 7 %0
+,0 0 %5
+,0 3 %
+1 0 ,2 4 %
+1 1 ,1 3
+2 ,5 9
+n
+%
+%
+Q u a triè m e trim e s tre 2 0 2
+T a u x
+M o n ta n t d e s
+n o m in a u x
+n o u v e a u x p rê ts
+m o y e n s
+2 7 0 6 0 4 2 2 0 9 9 0 1 0 ,2 6 %
+7 4 3 4 0 1 9 4 2 7 5 8 ,6 3 %
+3 1 8 8 4 6 3 7 9 8 0 1 5 ,7 6 %
+-
+-
+1 4 4 8 6 6 2 4 8 2 2 4 1 0 ,2 2 %
+1 1 8 4 4 4 6 1 5 9 7 6 ,1 9 %
+6 9 7 5 0 6 0 9 6 0 1 0 ,9 8 %
+8 9 0 9 3 0 1 4 1 1 ,8 9 %
+6 0 4 5 2 4 9 4 0 2 ,2 6 %
+3 9 2 9 6 1 6 8 7 9 7 4 8 ,2 4 %
+1 2 1 7 7 8 2 5 3 3 4 0 9 ,7 1 %
+1 2 5 1 8 3 2 1 5 1 9 7 9 ,7 5 %
+2 7 3 7 6 6 3 5 7 5 3 8 ,8 5 %
+5 6 2 8 6 9 5 2 9 4 0 ,0 0 %
+3 4 4 7 9 6 1 3 3 2 0 8 ,3 8 %
+8 6 4 2 9 8 7 5 4 5 7 ,4 9 %
+9 2 4 6 3 4 3 4 6 2 1 1 ,9 4 %
+6 0 6 2 5 9 4 4 0 6 3 2 ,1 3 %
+1 2 1 6 8 3 9 3 6 2 6 0 2 5 ,9 2 %
+4 8 4 7 3 1 2 8 6 8 8 4 5 ,9 8 %
+4 0 0 3 3 0 1 7 3 4 7 0 7 ,6 5 %
+7 0 8 3 2 5 8 6 5 6 4 6 ,7 3 %
+3 8 0 2 4 6 5 7 8 8 0 ,0 0 %
+6 7 8 0 0 4 4 8 0 8 1 6 ,6 5 %
+1 2 4 8 3 2 4 6 0 3 2 7 ,9 6 %
+1 9 5 2 3 9 8 7 7 8 8 ,9 9 %
+1 7 4 9 0 6 7 5 7 0 0 5 1 ,1 1 %
+8 6 7 5 2 7 3 6 6 7 0 8 ,1 9 %
+5 3 6 9 1 9 2 0 8 8 7 ,1 3 %
+1 4 3 1 6 2 2 4 9 6 6 1 2 ,7 5 %
+- 0 ,0 0 %
+5 8 6 5 4 5 8 9 6 8 9 6 ,8 8 %
+7 3 5 4 2 4 6 2 9 9 8 ,0 0 %
+- -
+- -
+1 0 5 8 4 8 3 6 2 8 2 6 ,4 9 %
+7 8 6 5 0 8 4 8 6 8 8 8 ,9 8 %
+2 8 4 3 0 5 1 0 3 0 3 6 ,4 5 %
+2 5 1 7 7 0 9 0 9 3 7 1 4 ,4 1 %
+- 0 ,0 0 %
+3 0 0 0 0 0 0 0 0 0 8 ,0 0 %
+1 7 3 9 3 9 3 3 0 5 0 6 ,7 5 %
+- 0 ,0 0 %
+4 6 4 9 3 1 4 3 9 8 4 ,0 5 %
+7 ,1 5 % 2 0 4 5 8 0 8 8 5 6 9 2 3
+1 8 0 3 3 0 1 0 9 4 8 9 5 7 ,9 1 %
+2 4 2 5 0 7 7 6 2 0 2 8 1 ,3 4 %
+1
+T E G m o y e n
+1 5 ,4 1 %1
+4 ,7 6 %2
+2 ,7 8 %
+1 4 ,8 3 %8
+,2 6 %1
+3 ,6 8 %1
+4 ,0 8 %2
+,8 7 %
+1 1 ,4 9 %1
+5 ,5 1 %1
+0 ,8 2 %1
+1 ,2 8 %7
+,0 3 %1
+1 ,0 9 %9
+,4 2 %2
+7 ,7 9 %
+3 ,3 5 %
+8 ,7 9 %1
+1 ,4 9 %8
+,6 5 %8
+,4 1 %6
+,2 8 %9
+,2 4 %1
+1 ,7 1 %2
+0 ,6 8 %
+1 ,3 2 %
+9 ,8 2 %2
+1 ,6 6 %1
+4 ,2 8 %0
+,0 0 %7
+,5 3 %8
+,0 9 %
+-
+-
+2 7 ,9 4 %1
+9 ,5 9 %2
+8 ,7 7 %1
+4 ,4 9 %0
+,0 0 %
+8 ,4 3 %1
+7 ,7 9 %0
+,0 0 %5
+,0 2 %
+1 0 ,6 4 %
+1 1 ,8 0 %
+1 ,7 9 %
+P re m ie r trim
+M o n ta n t d e s T a u
+n o u v e a u x p rê ts
+2 1 0 3 3 9 4 0 9 7 6 6
+1 5 7 5 4 6 3 9 7 7 6
+3 6 7 7 4 9 6 3 7 2 2
+2 7 1 7 6 8 5 9 3
+2 9 5 7 5 0 0 0 0
+1 2 9 5 9 9 0 0 7 1 1 3
+1 0 8 2 3 4 2 4 9 3 5
+1 6 3 5 2 4 6 9 1 1 1
+-
+4 6 7 3 8 6 5 1 6
+3 8 9 7 2 2 4 2 3 5 9 6
+1 3 8 7 2 1 9 5 1 6 5 7
+7 9 5 1 6 5 2 0 5 2 3
+2 9 0 8 0 5 8 3 1 1 0
+7 0 2 1 8 6 4 9 2 2
+3 7 0 7 0 6 8 0 0 0 9
+1 4 9 6 7 1 2 4 0 9 3
+1 3 2 7 7 0 3 6 4 6 0
+7 0 0 6 6 6 6 2 8 2 2
+1 0 9 2 7 1 8 1 3 1 2 5 7
+3 7 8 0 4 3 7 0 4 8 7 7
+4 1 2 1 1 5 1 0 5 2 7 9
+8 9 3 8 6 7 2 4 7 0 3
+7 3 4 2 8 9 6 4 4 2
+5 1 9 0 2 6 5 6 7 8 4
+1 2 4 9 6 0 0 0 0 0 0
+8 0 5 4 3 7 7 2 3 6
+1 3 3 3 7 6 6 6 5 9 3 6
+3 4 4 2 1 8 1 0 3 8
+2 9 0 0 8 7 5 7 7
+4 4 1 7 7 2 9 4 6
+-
+1 8 2 1 5 0 0 0 0 0
+1 6 2 2 0 0 0 0 0
+-
+-
+7 2 6 6 2 0 5 1 5
+1 2 0 9 7 3 2 7 4 1 0 3
+8 8 5 6 1 4 7 2 0 5 4
+8 4 0 1 2 1 5 4 8 3
+-
+3 7 4 0 0 0 0 0 0
+1 3 1 2 4 4 9 4 4 9 6
+-
+-
+1 0 5 1 2 0 9 2 0 7 0
+1 8 1 7 1 9 5 4 1 9 7 6 0
+1 6 0 2 0 4 5 9 9 1 9 0 1
+2 1 5 1 4 9 4 2 7 8 5 9
+e s tre 2 0 2 2
+x n o m in a u xm
+o y e n s
+1 0 ,7 2 %1
+0 ,2 2 %1
+5 ,3 6 %1
+2 ,1 2 %0
+,0 0 %9
+,9 3 %1
+1 ,7 4 %7
+,0 1 %0
+,0 0 %
+2 ,0 1 %8
+,2 5 %9
+,0 5 %1
+0 ,8 9 %1
+0 ,0 3 %0
+,0 0 %8
+,1 0 %7
+,2 2 %1
+1 ,5 1 %
+3 ,4 6 %6
+,1 1 %5
+,4 8 %8
+,3 1 %6
+,3 8 %0
+,0 0 %6
+,3 2 %8
+,2 4 %6
+,2 7 %
+0 ,9 7 %8
+,4 4 %1
+0 ,6 9 %1
+3 ,1 5 %0
+,0 0 %9
+,7 2 %8
+,0 3 %0
+,0 0 %0
+,0 0 %
+1 ,5 8 %1
+3 ,7 8 %1
+6 ,3 7 %1
+2 ,2 0 %0
+,0 0 %0
+,0 0 %6
+,7 0 %0
+,0 0 %0
+,0 0 %
+2 ,5 7 %
+7 ,6 2 %
+8 ,3 9 %
+1 ,8 6 %
+T E G m o y e n
+1 6 ,2 1 %2
+0 ,8 3 %2
+1 ,5 9 %1
+3 ,0 9 %2
+,9 9 %1
+4 ,7 2 %1
+4 ,7 2 %1
+3 ,4 6 %0
+,0 0 %
+2 ,3 7 %1
+7 ,8 3 %3
+0 ,4 4 %1
+2 ,8 1 %1
+2 ,0 8 %4
+,9 2 %1
+2 ,8 7 %8
+,4 6 %2
+8 ,0 4 %
+4 ,9 4 %7
+,5 5 %7
+,7 0 %9
+,2 1 %7
+,6 2 %5
+,3 8 %7
+,8 4 %1
+0 ,7 6 %1
+4 ,7 1 %
+1 ,2 2 %1
+0 ,2 4 %1
+4 ,6 2 %1
+5 ,5 1 %0
+,0 0 %1
+1 ,7 5 %8
+,4 4 %0
+,0 0 %0
+,0 0 %
+1 ,8 9 %2
+3 ,5 3 %2
+9 ,3 1 %1
+3 ,2 8 %0
+,0 0 %4
+,6 4 %7
+,2 9 %0
+,0 0 %0
+,0 0 %
+4 ,1 0 %
+1 1 ,8 3 %
+1 3 ,0 7 %
+2 ,5 8 %
+D e u x iè m e trim
+M o n ta n t d e s
+nn
+o u v e a u x p rê ts
+2 6 6 2 9 1 3 1 6 5 0 1
+4 6 1 6 3 7 3 1 8 8 0
+3 2 2 7 7 0 0 0 9 1 8
+1 4 1 8 5 0 5 0 0
+1 3 4 1 4 9 0 7 3 6
+1 5 2 7 9 2 3 5 6 5 5 2
+1 3 5 2 8 1 3 4 8 0 7
+1 6 3 2 4 4 6 6 8 9 2
+7 7 5 6 8 1 3
+3 7 1 4 5 2 7 4 0 3
+3 5 9 5 8 7 0 8 8 2 6 4
+1 1 7 5 1 2 7 6 0 4 5 1
+6 1 3 4 1 3 7 7 3 1 1
+2 6 6 1 9 9 3 5 9 7 0
+9 0 4 0 8 8 8 9 9 4
+3 5 3 0 8 3 9 0 1 7 5
+1 2 8 5 7 0 1 2 8 7 7
+1 0 2 8 3 7 0 1 3 3 0
+8 6 6 2 3 0 2 1 1 5 6
+1 0 4 7 4 9 9 6 3 0 1 7 6
+4 0 5 2 3 6 9 8 7 3 5 2
+3 2 3 1 8 4 3 1 6 4 6 0
+9 6 6 8 4 1 6 8 9 7 8
+2 8 7 5 2 9 1 9 6 6
+5 1 3 8 6 1 8 9 2 7 9
+1 9 2 1 3 6 1 2 4 7 6
+2 4 0 4 2 7 6 5 1 2
+1 4 6 5 1 4 7 8 7 1 5 3
+1 5 2 0 0 8 5 3 3 5 7
+2 4 1 2 9 3 3 0 5
+1 2 4 7 1 9 3 9 7 9 8
+-
+2 0 0 1 8 5 0 0 0 0
+-
+-
+-
+4 8 5 7 7 0 2 5 4
+9 6 8 6 9 4 6 1 5 3 4
+2 6 0 9 9 0 3 1 7 5 0
+2 4 7 4 3 7 9 7 1 4 6
+1 1 5 5 9 3 5 2 8 1 6
+5 4 3 4 3 5 3 8 5
+2 4 7 9 0 0 0 0 0 0 0
+2 7 6 4 3 5 4 1 1 0
+-
+6 3 6 9 4 9 0 3 2 7
+1 7 8 5 4 4 8 3 4 9 8 3 2
+1 5 4 1 7 4 0 7 5 3 5 3 9
+2 4 3 7 0 7 5 9 6 2 9 3
+e s tre 2 0 2
+T a u x
+o m in a u x
+m o y e n s
+1 0 ,8 9 %1
+1 ,7 3 %1
+5 ,4 4 %1
+4 ,2 8 %0
+,0 0 %1
+0 ,2 9 %1
+1 ,6 0 %7
+,6 9 %0
+,0 0 %
+1 ,1 4 %7
+,3 8 %9
+,1 7 %1
+0 ,3 8 %8
+,9 6 %0
+,0 0 %8
+,6 7 %8
+,1 3 %1
+2 ,5 1 %
+1 ,8 6 %5
+,8 9 %5
+,4 9 %8
+,1 8 %6
+,2 2 %0
+,0 0 %7
+,4 4 %7
+,0 8 %8
+,2 2 %
+1 ,1 0 %1
+0 ,0 8 %6
+,2 8 %1
+0 ,9 3 %0
+,0 0 %7
+,5 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %
+0 ,7 2 %8
+,3 1 %1
+4 ,1 9 %1
+0 ,6 5 %6
+,8 4 %0
+,0 0 %2
+,3 4 %1
+1 ,1 9 %0
+,0 0 %
+0 ,5 2 %
+7 ,1 0 %
+8 ,0 1 %
+1 ,3 5 %
+2
+T E G m o y e n
+1 6 ,2 6 %1
+8 ,7 3 %2
+2 ,8 6 %1
+4 ,5 0 %3
+,7 5 %1
+4 ,9 7 %1
+5 ,4 7 %1
+3 ,3 3 %0
+,0 0 %
+1 ,4 1 %1
+0 ,5 9 %1
+3 ,0 0 %1
+3 ,3 7 %1
+1 ,6 8 %7
+,1 4 %1
+2 ,2 3 %1
+0 ,9 3 %2
+7 ,4 1 %
+2 ,6 5 %7
+,7 5 %7
+,9 1 %9
+,9 6 %7
+,4 6 %7
+,0 4 %9
+,4 7 %8
+,6 9 %1
+5 ,9 6 %
+1 ,7 9 %1
+5 ,2 1 %8
+,3 6 %1
+6 ,2 7 %0
+,0 0 %1
+2 ,9 2 %0
+,0 0 %0
+,0 0 %0
+,0 0 %
+0 ,8 0 %1
+0 ,8 9 %2
+0 ,2 6 %1
+2 ,0 6 %1
+3 ,1 8 %1
+1 ,2 5 %7
+,4 6 %1
+4 ,1 5 %0
+,0 0 %
+0 ,5 2 %
+9 ,8 3 %
+1 1 ,0 5 %
+2 ,0 6 %
+
+--- Page 36 ---
+Tableau 5 : Vue d’ensemble des Taux débiteurs pratiqués par les établissements financiers dans la CEMAC au cours des quatre derniers
+trimestres
+Source : DSFABFE, à partir des reporting TEG des établissements de crédit
+36
+PCDEACCCCCPCDEACCCCGCDEACCCCACDECCCCCACDEACCCCT a rtic u lie rsré
+d its à la c o n so m m a tio n , a u tre q u e d é c o u v e rtsé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d its im m o b illie rsré
+d it-b a ila
+u tio n s
+e tite s e t M o y e n n e s E n tre p ris e sré
+d its d e tré so re rie , a u tre q u e le s d é c o u v e rts e t eé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d it-b a ila
+u tio n s
+ra n d e s E n tre p ris e sré
+d its d e tré so re rie , a u tre q u e le s d é c o u v e rts e t eé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d it-b a ila
+u tio n s
+u tre s p e rs o n n e s m o ra le sré
+d its à la c o n so m m a tio n , a u tre q u e d é c o u v e rtsé
+c o u v e rtsffe
+ts e sc o m p té sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d its im m o b illie rsré
+d it-b a ila
+u tio n s
+d m in is tra tio n s p u b liq u e sré
+d its d e tré so re rie , a u tre q u e le s d é c o u v e rtsé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d it-b a ila
+u tio n s
+O T A L G E N E R A LC
+ré d its a m o rtissa b le s & d é co u v e rtsE
+n g a g e m e n ts p a r sig n a tu re
+ffe
+ffe
+ts e
+ts e
+sc
+sc
+o
+o
+m
+m
+p
+p
+té
+té
+s
+s
+T ro is iè m e trim e s tre 2 0
+T a u x
+M o n ta n t d e s
+n o m in a u x
+n o u v e a u x p rê ts
+m o y e n s
+5 2 5 7 0 2 9 3 2 2 1 0 ,6 4 %
+6 5 6 6 9 4 4 9 1 1 7 ,0 6 %
+- 0 ,0 0 %
+1 2 8 0 2 6 7 9 6 9 1 7 ,6 8 %
+- 0 ,0 0 %
+2 8 5 7 2 9 7 6 3 6 5 ,3 4 %
+4 6 2 7 6 9 2 2 6 1 4 ,7 8 %
+- 0 ,0 0 %
+7 5 0 1 5 0 6 4 3 3 1 4 ,1 7 %
+2 0 2 5 3 4 2 7 1 7 1 4 ,7 3 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+2 3 9 7 8 5 4 2 6 7 1 4 ,3 7 %
+- 0 ,0 0 %
+3 0 7 8 3 0 9 4 4 9 1 3 ,6 5 %
+- 0 ,0 0 %
+1 7 8 5 5 9 7 7 8 3 1 3 ,2 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+1 5 1 4 3 1 8 9 5 9 1 3 ,8 7 %
+- 0 ,0 0 %
+2 7 1 2 7 8 8 2 4 9 ,4 7 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+1 0 0 0 0 0 0 0 0 0 1 ,5 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+1 0 0 0 0 0 0 0 0 0 1 ,5 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %1
+2 ,0 5 % 1 5 5 4 4 1 3 3 5 3 8
+1 5 5 4 4 1 3 3 5 3 8 1 2 ,0 5 %
+- -
+2 1
+T E G m o y e n
+1 6 ,1 1 %2
+7 ,8 6 %0
+,0 0 %
+2 6 ,7 1 %0
+,0 0 %8
+,2 4 %1
+8 ,7 3 %0
+,0 0 %1
+9 ,9 6 %2
+0 ,9 7 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+8 ,6 7 %0
+,0 0 %2
+0 ,2 9 %0
+,0 0 %1
+4 ,4 9 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+5 ,1 7 %0
+,0 0 %1
+0 ,7 1 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+,8 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %
+1 ,8 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+6 ,8 6 %1
+6 ,8 6 %
+-
+Q u a triè m e trim e s tre 2 0
+T a u x
+M o n ta n t d e s
+n o m in a u x
+n o u v e a u x p rê ts
+m o y e n s
+4 1 1 2 0 3 8 5 1 5 1 0 ,7 1 %
+4 9 0 9 4 7 3 1 2 1 7 ,6 4 %
+- 0 ,0 0 %
+1 2 8 2 2 4 5 8 7 4 1 7 ,9 5 %
+- 0 ,0 0 %
+2 3 3 8 8 4 5 3 2 9 5 ,2 9 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+9 3 1 4 0 6 8 0 8 5 1 4 ,1 9 %
+2 2 6 1 4 7 1 0 1 1 1 6 ,5 8 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+4 3 9 5 9 4 4 1 7 6 1 3 ,6 9 %
+- 0 ,0 0 %
+2 6 5 6 6 5 2 8 9 8 1 2 ,9 7 %
+- 0 ,0 0 %
+3 5 2 5 0 1 2 6 1 9 1 3 ,6 4 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+5 1 5 0 1 0 4 8 2 1 0 ,7 4 %
+- 0 ,0 0 %
+3 0 1 0 0 0 2 1 3 7 1 4 ,1 4 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %1
+3 ,2 3 % 1 6 9 5 1 1 1 9 2 1 9
+1 6 9 5 1 1 1 9 2 1 9 1 3 ,2 3 %
+- -
+2 1
+T E G m o y e n
+1 8 ,0 2 %3
+5 ,2 1 %0
+,0 0 %
+2 9 ,6 4 %0
+,0 0 %8
+,0 4 %0
+,0 0 %0
+,0 0 %1
+9 ,2 1 %2
+2 ,6 6 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+7 ,1 7 %0
+,0 0 %1
+9 ,6 5 %0
+,0 0 %1
+4 ,7 6 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+1 ,0 2 %0
+,0 0 %1
+5 ,3 9 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %
+0 ,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+8 ,0 0 %1
+8 ,0 0 %
+-
+P re m ie r trim
+M o n ta n t d e s n o u v e a u x
+p rê ts
+6 5 7 3 1 7 4 8 2 0
+4 5 2 5 9 8 5 5 0
+-
+-
+-
+2 2 2 2 7 8 9 2 8 8
+-
+3 8 6 2 1 4 7 5 6 9
+3 5 6 3 9 4 1 3
+-
+8 2 7 7 1 3 1 8 8 4
+1 5 4 1 4 8 4 0 8 0
+-
+-
+-
+7 8 1 6 6 5 5 9 6
+-
+5 9 5 3 9 8 2 2 0 8
+-
+7 4 9 2 0 9 4 4 0
+2 0 0 0 0 0 0 0
+-
+-
+-
+7 2 9 2 0 9 4 4 0
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1 5 5 9 9 5 1 6 1 4 4
+1 5 5 9 9 5 1 6 1 4 4
+-
+e s tre 2 0 2 2
+T a u x
+n o m in a u x
+m o y e n s
+9 ,6 3 %1
+7 ,8 5 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+7 ,3 3 %0
+,0 0 %4
+,2 2 %1
+0 ,8 2 %0
+,0 0 %1
+3 ,8 3 %1
+4 ,0 7 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+5 ,7 2 %0
+,0 0 %1
+3 ,5 2 %0
+,0 0 %1
+3 ,5 6 %1
+8 ,4 8 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+3 ,4 2 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+2 ,0 4 %1
+2 ,0 4 %
+-
+T E G m o y e n
+1 4 ,5 0 %2
+9 ,7 7 %0
+,0 0 %0
+,0 0 %0
+,0 0 %2
+6 ,2 7 %0
+,0 0 %5
+,8 3 %2
+6 ,9 3 %0
+,0 0 %2
+1 ,0 6 %2
+2 ,6 4 %0
+,0 0 %0
+,0 0 %0
+,0 0 %2
+0 ,9 3 %0
+,0 0 %2
+0 ,6 7 %0
+,0 0 %1
+6 ,0 8 %2
+6 ,9 4 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+5 ,7 8 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+8 ,0 6 %1
+8 ,0 6 %
+-
+D e u x iè m e trim e s tre 2 0 2
+T a u x
+M o n ta n t d e s
+n o m in a u x
+n o u v e a u x p rê ts
+m o y e n s
+7 2 1 3 1 6 1 5 9 2 9 ,9 5 %
+6 0 3 9 0 4 7 5 0 1 6 ,6 8 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+2 6 8 0 0 4 1 2 8 8 1 6 ,5 9 %
+- 0 ,0 0 %
+3 8 6 2 1 4 7 5 6 9 4 ,2 2 %
+6 7 0 6 7 9 8 5 1 3 ,5 1 %
+- 0 ,0 0 %
+8 2 3 5 4 4 9 2 0 6 1 3 ,9 3 %
+1 5 4 1 4 8 4 0 8 0 1 4 ,5 5 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+7 8 1 6 6 5 5 9 6 1 5 ,7 2 %
+- 0 ,0 0 %
+5 9 1 2 2 9 9 5 3 0 1 3 ,5 3 %
+- 0 ,0 0 %
+1 1 3 6 4 9 6 6 6 3 1 3 ,9 8 %
+2 0 0 0 0 0 0 0 1 8 ,4 8 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+7 2 9 2 0 9 4 4 0 1 3 ,4 2 %
+- 0 ,0 0 %
+3 8 7 2 8 7 2 2 3 1 4 ,8 1 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+- 0 ,0 0 %1
+2 ,2 0 % 1 6 5 8 5 1 0 7 4 6 1
+1 6 5 8 5 1 0 7 4 6 1 1 2 ,2 0 %
+- -
+2
+T E G m o y e n
+1 5 ,3 2 %2
+9 ,2 5 %0
+,0 0 %0
+,0 0 %0
+,0 0 %2
+5 ,4 5 %0
+,0 0 %5
+,8 3 %3
+1 ,0 7 %0
+,0 0 %2
+1 ,2 2 %2
+3 ,2 5 %0
+,0 0 %0
+,0 0 %0
+,0 0 %2
+0 ,9 3 %0
+,0 0 %2
+0 ,7 3 %0
+,0 0 %1
+9 ,6 8 %2
+6 ,9 4 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+5 ,7 8 %0
+,0 0 %2
+6 ,6 6 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %0
+,0 0 %1
+8 ,5 5 %1
+8 ,5 5 %
+-
+
+--- Page 37 ---
+Tableau 6 : Vue d'ensemble du volume des crédits et TEG des banques au Cameroun au cours des quatre derniers trimestres
+Troisième trimestre 2021 Quatrième trimestre 2021 Premier trimestre 2022 Deuxième trimestre 2022
+Taux Taux Taux Taux
+Montant des Montant des Montant des nouveaux Montant des
+nominaux TEG moyen nominaux TEG moyen nominaux TEG moyen nominaux TEG moyen
+nouveaux prêts nouveaux prêts prêts nouveaux prêts
+moyens moyens moyens moyens
+Particuliers 196 936 113 785 10,26% 15,83% 150 754 678 824 10,64% 15,94% 125 421 967 780 10,69% 15,79% 150 160 386 856 10,47% 15,32%
+Crédits à la consommation, autre que découverts 45 421 649 088 9,61% 17,00% 17 435 457 710 9,62% 17,56% 7 805 149 426 9,31% 18,58% 23 158 759 640 9,80% 15,96%
+Découverts 28 534 955 295 15,00% 23,16% 29 130 147 013 16,01% 23,29% 29 615 841 532 15,60% 22,65% 27 875 936 582 15,69% 22,79%
+Effets escomptés
+Affacturages
+Crédits à moyen terme 114 172 264 463 9,45% 13,93% 94 478 366 981 9,31% 13,79% 79 784 778 439 9,02% 13,27% 85 316 691 322 9,26% 13,48%
+Crédits à long terme 146 016 456 6,78% 9,07% 3 016 100 000 7,01% 9,52% 36 200 000 11,00% 14,61% 3 3 100 000 11,00% 14,87%
+Crédits immobilliers 6 849 676 000 10,55% 13,03% 6 125 283 034 11,12% 13,83% 7 743 409 973 10,97% 13,47% 10 256 670 196 11,11% 13,72%
+Crédit-bail 19 203 354 10,00% 27,29% 6 4 402 514 12,00% 14,68% 7 756 813 10,00% 36,55%
+Cautions 1 792 349 129 1,92% 2,33% 504 921 572 1,94% 2,32% 4 36 588 410 1,90% 2,27% 3 511 472 303 1,00% 1,19%
+Petites et Moyennes Entreprises 181 030 105 396 8,68% 12,45% 216 352 440 795 8,98% 12,54% 180 965 078 095 8,91% 12,89% 201 100 793 258 8,39% 12,14%
+Crédits de trésorerie, autre que les découverts et effets escomptés 82 578 327 495 9,14% 13,35% 94 828 661 729 10,00% 13,84% 85 853 031 506 9,58% 13,14% 94 025 619 116 9,69% 13,28%
+Découverts 37 931 786 734 9,93% 12,34% 52 091 655 819 10,12% 12,41% 27 748 247 028 10,73% 13,44% 29 244 191 408 10,45% 13,60%
+Effets escomptés 14 370 201 415 10,35% 12,47% 15 328 721 160 9,40% 11,33% 17 471 595 268 9,59% 11,52% 13 069 828 753 8,86% 10,70%
+Affacturages 5 272 550 634 0,00% 9,06% 5 628 695 294 0,00% 7,03% 2 360 082 191 5,69% 4 584 498 490 9,33%
+Crédits à moyen terme 20 726 784 375 9,16% 12,27% 22 991 336 504 7,87% 10,74% 14 094 292 282 9,92% 14,65% 22 041 809 862 8,24% 12,53%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% 909 823 728 5,60% 7,67%
+Crédit-bail 6 076 653 073 12,31% 27,99% 9 246 343 462 11,94% 27,79% 13 277 036 460 11,51% 28,04% 10 283 701 330 12,51% 27,41%
+Cautions 14 073 801 670 1,91% 2,29% 16 237 026 827 1,97% 2,36% 20 160 793 360 1,56% 1,87% 26 941 320 571 1,45% 1,74%
+Grandes Entreprises 671 031 444 654 5,51% 7,66% 800 236 192 172 5,51% 7,50% 689 960 529 284 5,26% 6,84% 686 794 820 685 5,40% 7,21%
+Crédits de trésorerie, autre que les découverts et effets escomptés 295 756 533 105 5,43% 8,28% 3 34 247 832 648 5,40% 8,33% 339 707 781 208 5,44% 7,22% 3 29 641 706 492 5,35% 7,41%
+Découverts 187 275 290 250 6,98% 8,43% 2 51 271 178 218 7,01% 8,43% 111 706 971 190 7,65% 9,34% 1 47 324 658 831 7,45% 9,73%
+Effets escomptés 56 631 896 099 6,47% 7,76% 67 008 620 890 6,54% 7,84% 86 854 297 254 6,27% 7,51% 88 915 721 302 6,05% 7,24%
+Affacturages 8 194 330 445 0,00% 6,34% 3 802 465 788 0,00% 6,28% 5 847 896 442 6,46% 1 128 355 738 9,50%
+Crédits à moyen terme 44 938 396 448 6,78% 9,75% 39 455 923 931 6,85% 9,47% 38 487 597 332 6,41% 7,99% 29 366 957 328 6,91% 9,44%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail 4 628 869 174 7,37% 19,70% 1 952 398 778 8,99% 20,68% 8 054 377 236 6,27% 14,71% 2 404 276 512 8,22% 15,96%
+Cautions 73 606 129 133 1,06% 1,27% 1 02 497 771 919 1,15% 1,37% 99 301 608 622 0,88% 1,05% 88 013 144 482 1,01% 1,21%
+Autres personnes morales 439 008 591 12,68% 16,42% 241 329 947 11,96% 17,78% 339 976 017 11,94% 15,97% 1 038 891 288 13,58% 21,30%
+Crédits à la consommation, autre que découverts 46 599 591 5,70% 18,49% 105 729 947 9,36% 18,93% 1 22 306 229 10,29% 15,79% 5 9 321 416 10,22% 16,00%
+Découverts 381 000 000 13,85% 16,59% 135 000 000 14,04% 16,94% 2 07 127 528 12,82% 15,92% 977 719 872 13,79% 21,63%
+Effets escomptés - 0,00% 0,00%
+Crédits à moyen terme - 0,00% 0,00% - 0,00% 0,00% 10 000 000 14,50% 20,09% 1 850 000 10,59% 17,69%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - -
+Crédits immobilliers - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00%
+Cautions 11 409 000 2,00% 2,39% 600 000 2,00% 2,40% 542 260 0,50% 0,67% 0,50% 0,67%
+Administrations publiques 5 177 191 331 8,11% 11,05% 4 548 125 511 7,96% 11,07% 4 380 665 086 5,04% 5,75% 4 580 440 061 8,20% 11,76%
+Crédits de trésorerie, autre que les découverts 1 647 191 331 12,56% 17,45% 4 072 050 128 7,18% 10,30% 3 592 120 446 5,52% 6,25% 4 421 995 766 7,96% 11,51%
+Découverts 520 000 000 7,31% 8,71% 466 161 037 14,94% 17,95% 52 000 000 15,00% 18,58% 117 494 295 15,00% 18,29%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Affacturages
+Crédits à moyen terme 3 010 000 000 5,80% 7,95% - 0,00% 0,00% - 4 0 000 000 14,50% 20,96%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - -
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - -
+Cautions - 0,00% 0,00% 9 914 346 2,25% 2,75% 7 36 544 640 2,00% 2,41% 950 000 2,00% 2,41%
+TOTAL GENERAL 1 054 613 863 757 6,96% 10,03% 1 172 132 767 249 6,82% 9,53% 1 001 068 216 262 6,60% 9,05% 1 043 675 332 148 6,73% 9,36%
+Crédits amortissables & découverts 960 084 256 954 7,53% 10,89% 1 047 272 685 469 7,49% 10,50% 880 432 138 970 7,37% 10,13% 925 208 444 792 7,45% 10,39%
+Engagements par signature 94 529 606 803 1,14% 1,37% 124 860 081 780 1,21% 1,44% 120 636 077 292 1,00% 1,20% 118 466 887 356 1,11% 1,33%
+Source : DSFABFE, à partir des reporting TEG des établissements de crédit
+
+--- Page 38 ---
+Tableau 7 : Vue d'ensemble du volume des crédits et TEG des établissements financiers du Cameroun au cours des quatre derniers
+trimestres
+Troisième trimestre 2021 Quatrième trimestre 2021 Premier trimestre 2022 Deuxième trimestre 2022
+Taux Taux Taux Taux
+Montant des Montant des Montant des Montant des
+nominaux TEG moyen nominaux TEG moyen nominaux TEG moyen nominaux TEG moyen
+nouveaux prêts nouveaux prêts nouveaux prêts nouveaux prêts
+moyens moyens moyens moyens
+Particuliers 4 408 930 952 9,85% 13,97% 3 497 125 514 9,83% 15,08% 3 084 091 611 10,14% 14,27% 5 519 804 020 8,27% 11,36%
+Crédits à la consommation, autre que découverts 538 769 491 17,54% 27,34% 364 241 311 18,47% 29,68% 419 513 873 17,31% 25,27% 258 195 750 18,58% 24,58%
+Découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Effets escomptés
+Affacturages
+Crédits à moyen terme 782 978 969 19,50% 26,48% 881 818 874 18,78% 28,85% 810 460 625 19,54% 26,11% 1 363 821 288 17,73% 24,10%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits immobilliers 2 645 337 636 4,60% 6,73% 2 251 065 329 4,93% 7,32% 1 854 117 113 4,41% 6,60% 3 862 147 569 4,22% 5,83%
+Crédit-bail 441 844 856 14,82% 18,89% - 0,00% 0,00% 35 639 413 10,82% 26,93%
+Cautions - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Petites et Moyennes Entreprises 6 308 824 006 13,80% 20,22% 8 988 308 853 14,12% 19,22% 7 295 767 791 14,07% 19,93% 8 050 553 138 13,86% 20,95%
+Crédits de trésorerie, autre que les découverts et effets escomptés 1 854 450 384 14,61% 20,80% 2 203 608 511 16,59% 22,51% 911 493 233 16,09% 25,17% 1 496 754 080 14,49% 23,32%
+Découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Affacturages - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme 1 376 064 173 13,05% 19,26% 4 395 944 176 13,69% 17,17% 1 984 601 328 12,96% 15,54% 781 665 596 15,72% 20,93%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail 3 078 309 449 13,65% 20,29% 2 388 756 166 12,65% 19,95% 4 399 673 230 14,15% 20,82% 5 772 133 462 13,45% 20,34%
+Cautions - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Grandes Entreprises 718 708 584 9,49% 10,60% 1 348 490 560 10,30% 11,29% 1 760 396 408 11,65% 12,47% 749 209 440 13,56% 16,08%
+Crédits de trésorerie, autre que les découverts et effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% 20 000 000 18,48% 26,94%
+Découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Affacturages - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme 447 429 760 9,50% 10,54% 515 010 482 10,74% 11,02% 500 000 000 10,73% 10,82% 729 209 440 13,42% 15,78%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail 271 278 824 9,47% 10,71% 833 480 078 10,03% 11,46% 1 260 396 408 12,01% 13,13% - 0,00% 0,00%
+Cautions - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Autres personnes morales - 0,00% 0,00% - 0,00% 0,00% 175 000 000 15,00% 23,97% - 0,00% 0,00%
+Crédits à la consommation, autre que découverts - 0,00% 0,00% - 0,00% 0,00% 175 000 000 15,00% 23,97% - 0,00% 0,00%
+Découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits immobilliers - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions - 2,00% 2,39% - 2,00% 2,39% - 0,00% 0,00% - 0,00% 0,00%
+Administrations publiques 1 000 000 000 1,50% 1,80% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits de trésorerie, autre que les découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Affacturages
+Crédits à moyen terme 1 000 000 000 1,50% 1,80% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+TOTAL GENERAL 12 436 463 542 11,16% 15,97% 13 833 924 927 12,67% 17,40% 12 315 255 810 12,75% 17,50% 14 319 566 598 11,69% 17,00%
+Source : DSFABFE, à partir des reporting TEG des établissements de crédit
+38
+
+--- Page 39 ---
+Tableau 8 : Vue d'ensemble du volume des crédits et TEG des banques de la RCA au cours des quatre derniers trimestres
+Troisième trimestre 2021 Quatrième trimestre 2021 Premier trimestre 2022 Deuxième trimestre 2022
+Taux Taux Taux Taux
+Montant des Montant des Montant des Montant des
+nominaux TEG moyen nominaux TEG moyen nominaux TEG moyen nominaux TEG moyen
+nouveaux prêts nouveaux prêts nouveaux prêts nouveaux prêts
+moyens moyens moyens moyens
+Particuliers 5 750 920 303 13,17% 22,96% 4 712 031 315 13,23% 21,24% 5 118 504 225 13,02% 20,83% 5 992 037 385 12,02% 20,23%
+Crédits à la consommation, autre que découverts 2 130 991 874 13,70% 30,96% 1 281 265 707 14,28% 31,82% 6 71 414 297 13,89% 25,05% 1 413 763 304 11,57% 26,67%
+Découverts 5 9 429 968 7,07% 8,98% 3 2 195 000 15,00% 19,09% 1 44 464 784 13,45% 27,37% 4 7 910 898 14,77% 27,21%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00%
+Affacturages
+Crédits à moyen terme 2 612 822 761 12,88% 17,82% 2 186 676 931 13,02% 17,70% 1 942 449 554 13,13% 19,64% 2 843 903 818 12,31% 18,68%
+Crédits à long terme 728 806 258 13,21% 18,10% 940 626 197 13,42% 16,94% 1 440 602 927 12,76% 18,21% 1 686 459 365 11,83% 17,25%
+Crédits immobilliers 218 869 442 13,11% 26,37% 174 897 580 11,97% 20,09% 9 14 724 663 12,53% 23,42%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% -
+Cautions - 0,00% 0,00% 9 6 369 900 4,00% 5,66% 4 848 000 4,00% 4,96%
+Petites et Moyennes Entreprises 9 837 635 293 4,75% 9,84% 14 088 948 009 7,17% 11,69% 14 398 745 166 8,01% 14,65% 28 635 388 737 5,92% 8,60%
+Crédits de trésorerie, autre que les découverts et effets escomptés 1 634 363 299 11,33% 16,89% 1 616 575 733 12,38% 30,94% 2 480 773 055 12,29% 35,09% 1 722 664 124 11,87% 20,01%
+Découverts 8 7 000 000 13,72% 14,95% 1 895 500 000 10,46% 10,72% 7 33 000 000 12,40% 15,00% 2 634 000 000 6,90% 12,06%
+Effets escomptés 631 000 000 8,23% 9,81% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Affacturages - 0,00% 0,00% - 0,00% 0,00% - 0,00% 7,09% - 0,00% 0,00%
+Crédits à moyen terme 522 757 760 11,65% 15,96% 1 649 453 483 11,02% 14,40% 5 098 240 000 10,19% 14,31% 3 155 450 875 9,93% 14,10%
+Crédits à long terme - 0,00% 0,00% 2 553 000 000 9,34% 11,98% 1 051 850 000 11,14% 15,23% 5 153 760 639 10,00% 12,41%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 6 962 514 234 2,26% 7,66% 6 374 418 793 2,99% 6,27% 5 034 882 111 2,41% 4,74% 15 969 513 099 3,00% 4,48%
+Grandes Entreprises 12 241 848 106 7,26% 9,43% 35 613 438 167 7,29% 9,23% 5 955 049 050 6,89% 14,98% 25 028 896 190 5,96% 7,71%
+Crédits de trésorerie, autre que les découverts et effets escomptés 5 794 000 000 6,93% 10,08% 20 645 612 881 7,05% 8,31% 4 380 789 900 6,71% 17,31% 1 350 000 000 6,50% 7,74%
+Découverts 2 500 000 000 7,72% 7,76% 3 325 000 000 8,33% 8,36% 6 50 000 000 9,77% 12,13% 1 000 000 000 6,62% 13,12%
+Effets escomptés 885 541 950 7,00% 7,02% 688 754 850 7,00% 7,97% 6 23 159 150 7,00% 7,03% 787 148 400 7,00% 7,02%
+Affacturages - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme 2 850 000 000 8,00% 10,26% 1 200 000 000 8,00% 11,52% - 0,00% 0,00% 2 667 104 760 8,06% 10,36%
+Crédits à long terme - 0,00% 0,00% 8 900 000 000 7,94% 11,81% - 0,00% 0,00% 12 379 000 000 8,00% 9,92%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 212 306 156 2,09% 10,58% 854 070 436 1,73% 5,73% 3 01 100 000 3,00% 3,70% 6 845 643 030 1,13% 1,98%
+Autres personnes morales 48 000 000 12,00% 49,62% - 0,00% 0,00% - 0,00% 0,00% 23 445 108 4,00% 4,50%
+Crédits à la consommation, autre que découverts 4 8 000 000 12,00% 49,62% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits immobilliers - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% 2 3 445 108 4,00% 4,50%
+Administrations publiques 6 924 743 360 10,48% 13,43% 1 207 620 283 4,09% 7,66% 8 000 000 12,00% 17,34% 2 972 354 110 11,18% 13,95%
+Crédits de trésorerie, autre que les découverts - 0,00% 0,00% 1 4 000 000 12,00% 49,94% - 0,00% 0,00% - 0,00% 0,00%
+Découverts 400 000 000 11,00% 11,00% - 0,00% 0,00% 8 000 000 12,00% 17,34% 208 000 000 11,05% 11,26%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Affacturages
+Crédits à moyen terme 6 461 446 560 10,51% 13,59% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% 2 764 354 110 11,19% 14,15%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 6 3 296 800 4,00% 12,18% 1 193 620 283 4,00% 7,16% - 0,00% 0,00% - 0,00% 0,00%
+TOTAL GENERAL 34 803 147 062 8,18% 12,63% 55 622 037 774 7,70% 10,83% 25 480 298 441 8,76% 15,97% 62 652 121 530 6,77% 9,61%
+Crédits amortissables & découverts 27 409 457 230 9,78% 13,99% 48 218 650 965 8,34% 11,38% 20 139 468 330 10,43% 18,96% 39 813 520 293 9,25% 12,98%
+Engagements par signature 7 393 689 832 2,19% 7,51% 7 403 386 809 2,83% 6,14% 5 340 830 111 2,45% 4,68% 22 838 601 237 2,44% 3,73%
+Source : DSFABFE, à partir des reporting TEG des établissements de crédits
+39
+
+--- Page 40 ---
+Tableau 9 : Vue d'ensemble du volume des crédits et TEG des banques du Congo des quatre derniers trimestres
+Troisième trimestre 2021 Quatrième trimestre 2021 Premier trimestre 2022 Deuxième trimestre 2022
+Taux Taux Taux Taux
+Montant des Montant des Montant des Montant des
+nominaux TEG moyen nominaux TEG moyen nominaux TEG moyen nominaux TEG moyen
+nouveaux prêts nouveaux prêts nouveaux prêts nouveaux prêts
+moyens moyens moyens moyens
+Particuliers 24 347 685 395 9,42% 15,13% 21 161 313 364 8,31% 12,97% 25 879 169 672 8,78% 15,15% 23 411 666 543 8,46% 15,65%
+Crédits à la consommation, autre que découverts 4 446 401 777 9,93% 18,03% 3 077 871 642 10,58% 19,88% 2 357 736 259 10,39% 19,23% 2 533 212 725 10,77% 19,42%
+Découverts 423 975 021 13,25% 16,09% 641 741 181 13,20% 15,24% 3 650 525 244 14,98% 15,96% 713 645 779 13,78% 17,86%
+Effets escomptés - - - - - -
+Affacturages
+Crédits à moyen terme 14 278 795 058 9,70% 15,03% 12 836 545 012 10,50% 15,85% 13 119 856 003 10,60% 15,43% 14 574 262 493 10,56% 15,67%
+Crédits à long terme 5 188 513 539 7,94% 12,86% 4 601 922 061 0,00% 0,00% 1 002 330 671 8,80% 12,40% 801 077 850 8,77% 15,98%
+Crédits immobilliers - 0,00% 0,00% - 0,00% 0,00% 5 722 771 389 0,00% 12,82% 4 789 467 696 0,00% 13,23%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 1 0 000 000 3,25% 4,58% 3 233 468 0,50% 5,71% 25 950 106 3,49% 3,60% - 0,00% 0,00%
+Petites et Moyennes Entreprises 35 836 066 832 6,92% 8,73% 18 113 889 867 6,72% 9,52% 26 093 268 482 7,91% 14,39% 21 900 629 553 7,83% 9,31%
+Crédits de trésorerie, autre que les découverts et effets escomptés 12 391 333 871 7,72% 10,22% 2 465 081 513 9,31% 20,69% 8 250 000 000 8,20% 26,54% 2 284 278 655 9,74% 14,49%
+Découverts 5 600 481 777 7,63% 9,15% 5 742 642 227 9,27% 10,36% 13 682 432 551 8,67% 9,73% 10 987 292 861 8,84% 10,01%
+Effets escomptés 5 0 460 213 18,25% 40,91% 4 6 554 974 18,25% 40,88% 30 000 000 10,00% 10,19% 4 2 416 630 18,25% 18,66%
+Affacturages - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme 5 249 502 700 7,23% 10,84% 3 270 000 000 8,08% 10,39% 1 461 100 000 8,25% 10,25% 5 710 220 145 8,26% 9,71%
+Crédits à long terme 8 596 856 385 7,50% 7,63% 975 412 014 7,08% 9,93% 5 20 000 000 7,31% 7,64% 100 000 000 10,00% 12,58%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 3 947 431 886 1,56% 2,62% 5 614 199 139 2,02% 2,92% 2 149 735 931 1,77% 1,89% 2 776 421 262 1,17% 1,17%
+Grandes Entreprises 89 287 205 878 8,28% 16,21% 112 329 726 863 8,34% 10,46% 160 270 042 470 7,03% 8,83% 98 381 353 486 7,34% 8,49%
+Crédits de trésorerie, autre que les découverts et effets escomptés 22 285 000 000 8,04% 30,59% 58 877 592 530 7,55% 10,64% 15 769 500 000 6,74% 16,09% 4 050 000 000 6,94% 10,89%
+Découverts 43 360 000 000 9,40% 9,78% 42 806 000 000 10,00% 10,26% 115 851 207 525 7,35% 8,16% 72 432 736 386 7,93% 9,09%
+Effets escomptés 573 697 467 17,61% 39,44% 351 317 754 17,26% 38,56% 1 37 240 999 17,43% 17,77% 3 828 983 164 8,30% 8,49%
+Affacturages - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme 18 972 356 424 7,08% 15,32% 6 202 799 691 6,60% 10,50% 8 966 680 536 5,61% 6,92% 6 946 014 558 7,93% 9,12%
+Crédits à long terme - 0,00% 0,00% 1 493 382 191 8,00% 16,10% 12 496 000 000 8,24% 10,76% 5 000 000 000 5,00% 6,07%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 4 096 151 987 1,93% 6,91% 2 598 634 697 1,82% 2,66% 7 049 413 410 1,84% 2,29% 6 123 619 378 1,17% 1,18%
+Autres personnes morales 11 111 757 467 10,88% 11,59% 53 858 457 995 8,30% 9,06% 980 779 449 7,61% 9,23% 1 314 000 000 13,13% 14,16%
+Crédits à la consommation, autre que découverts 6 5 458 107 6,98% 8,43% 3 7 227 848 7,00% 8,58% 1 165 000 8,83% 18,42% - 0,00% 0,00%
+Découverts 4 021 547 109 13,92% 13,97% 9 052 965 547 13,59% 13,82% 1 05 914 449 15,00% 16,17% 1 258 000 000 13,61% 14,68%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme 6 721 599 982 9,55% 10,63% 37 325 820 701 7,09% 8,12% 6 11 500 000 7,13% 9,32% - 0,00% 0,00%
+Crédits à long terme - 0,00% 0,00% 7 354 246 299 8,00% 8,09% 1 62 200 000 8,03% 8,44% - 0,00% 0,00%
+Crédits immobilliers - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 303 152 269 0,94% 1,92% 8 8 197 600 2,11% 3,01% 1 00 000 000 2,00% 2,54% 5 6 000 000 2,33% 2,35%
+Administrations publiques 3 454 260 140 6,44% 7,60% 15 936 132 277 6,07% 15,26% 1 187 895 196 9,32% 10,29% 6 330 000 000 0,51% 0,51%
+Crédits de trésorerie, autre que les découverts 1 268 000 000 7,00% 8,60% 10 000 000 000 5,99% 15,30% - 0,00% 0,00% - 0,00% 0,00%
+Découverts 2 000 000 000 6,50% 7,39% - 0,00% 0,00% 5 47 937 975 14,31% 15,52%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Affacturages - 0,00% 0,00%
+Crédits à moyen terme - 0,00% 0,00% - 0,00% 0,00% 5 00 000 000 6,00% 6,86% - 0,00% 0,00%
+Crédits à long terme - 0,00% 0,00% 5 803 599 543 6,30% 15,49% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 186 260 140 2,00% 3,07% 132 532 734 2,00% 2,41% 1 39 957 221 1,64% 2,02% 6 330 000 000 0,51% 0,51%
+TOTAL GENERAL 164 036 975 712 8,29% 13,92% 221 399 520 366 8,03% 10,63% 214 411 155 269 7,36% 10,27% 151 337 649 582 7,35% 9,43%
+Crédits amortissables & découverts 155 993 391 839 8,62% 14,38% 213 186 686 530 8,26% 10,93% 204 946 098 601 7,62% 10,65% 136 051 608 942 8,07% 10,39%
+Engagements par signature 8 043 583 873 1,76% 4,81% 8 212 833 836 1,96% 2,84% 9 465 056 668 1,82% 2,20% 15 286 040 640 0,90% 0,90%
+Source : DSFABFE, à partir des reporting TEG des établissements de crédits
+
+--- Page 41 ---
+Tableau 10 : Vue d'ensemble du volume des crédits et TEG des banques du Gabon des quatre derniers trimestres
+Troisième trimestre 2021 Quatrième trimestre 2021 Premier trimestre 2022 Deuxième trimestre 2022
+Taux Taux
+Montant des Montant des Montant des Montant des Taux nominaux
+nominaux TEG moyen Taux nominaux moyens TEG moyen nominaux TEG moyen TEG moyen
+nouveaux prêts nouveaux prêts nouveaux prêts nouveaux prêts moyens
+moyens moyens
+Particuliers 56 843 932 862 10,91% 18,53% 67 586 270 067 9,23% 14,00% 28 385 824 405 10,75% 18,15% 53 547 739 800 12,30% 18,41%
+Crédits à la consommation, autre que découverts 11 043 442 226 13,70% 33,29% 42 913 647 558 7,59% 12,16% 3 029 814 630 10,72% 26,53% 13 100 788 363 15,30% 22,84%
+Découverts 530 153 725 8,82% 11,93% 1 085 700 868 13,88% 20,79% 1 608 927 867 13,65% 14,68% 994 646 134 13,46% 17,10%
+Effets escomptés 136 768 593 14,00% 14,07% 130 850 500 14,81% 14,92%
+Affacturages 295 750 000 0,00% 2,99% 1 324 990 736 0,00% 3,60%
+Crédits à moyen terme 30 586 433 706 12,23% 17,35% 23 205 154 820 12,00% 17,08% 21 549 984 315 10,92% 18,14% 36 941 042 375 11,71% 17,53%
+Crédits à long terme 13 470 957 561 6,66% 11,01% 357 076 321 11,37% 15,21% 1 595 579 000 8,55% 11,50% 789 866 592 10,99% 17,15%
+Crédits immobilliers 3 500 000 15,00% 18,34% - 0,00% 0,00% 169 000 000 10,32% 10,98% 6 2 500 000 10,50% 12,29%
+Crédit-bail 4 4 369 747 12,00% 13,00% 2 4 690 500 11,62% 12,52% 0,00% 0,00% - 0,00% 0,00%
+Cautions 1 165 075 897 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% 203 055 100 3,53% 5,22%
+Petites et Moyennes Entreprises 55 081 251 793 8,02% 12,97% 69 573 315 425 8,50% 13,30% 94 711 073 862 8,10% 35,26% 37 473 774 185 7,51% 10,90%
+Crédits de trésorerie, autre que les découverts et effets escomptés 17 842 833 350 8,08% 19,96% 13 811 120 615 8,53% 26,42% 36 347 472 373 7,59% 74,06% 14 860 765 663 5,73% 9,44%
+Découverts 14 746 338 500 10,40% 10,51% 28 238 067 570 11,74% 11,87% 27 860 200 000 11,82% 12,49% 10 303 800 000 11,53% 11,96%
+Effets escomptés 3 025 719 572 12,00% 13,08% 6 679 030 434 8,74% 13,52% 5 799 660 737 11,83% 14,52% 3 813 930 642 9,55% 17,90%
+Affacturages - 0,00% 0,00% - 0,00% 0,00% 466 383 072 0,00% 2,29% 1 142 409 007 0,00% 3,98%
+Crédits à moyen terme 7 120 198 721 9,97% 12,47% 4 178 643 780 10,01% 11,11% 11 865 000 000 4,29% 10,12% 2 412 000 000 9,44% 11,86%
+Crédits à long terme - 0,00% 0,00% 3 474 026 904 6,00% 7,43% 3 430 074 093 6,00% 7,14% 5 7 958 330 9,00% 10,71%
+Crédit-bail 1 410 000 000 7,00% 8,88% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 10 936 161 650 2,48% 5,70% 13 192 426 122 1,57% 4,74% 8 942 283 587 2,43% 7,83% 4 882 910 543 3,63% 8,78%
+Grandes Entreprises 214 837 251 996 9,38% 12,02% 165 419 603 438 7,70% 17,04% 131 502 547 228 8,13% 8,64% 146 595 416 213 7,13% 9,86%
+Crédits de trésorerie, autre que les découverts et effets escomptés 61 048 759 900 7,06% 15,55% 67 714 565 907 7,04% 28,81% 16 100 000 000 4,24% 5,26% 51 686 980 439 5,76% 10,93%
+Découverts 1 37 422 397 029 10,99% 11,07% 89 995 243 082 8,36% 8,69% 98 617 181 928 9,80% 10,16% 70 984 549 298 9,72% 10,37%
+Effets escomptés 5 353 047 665 8,53% 12,81% 2 727 643 070 9,82% 18,69% 1 772 027 300 10,34% 12,21% 3 152 316 112 8,23% 12,45%
+Affacturages - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme 500 000 000 6,00% 6,30% 1 000 000 000 7,50% 17,11% 197 000 000 7,50% 9,63% 1 800 000 000 7,00% 8,74%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 10 513 047 402 2,38% 3,84% 3 982 151 379 2,57% 4,25% 14 816 338 000 0,99% 1,72% 18 971 570 364 0,98% 4,74%
+Autres personnes morales 16 292 859 253 7,00% 30,71% 31 838 970 423 7,33% 10,36% 1 300 000 000 11,08% 12,93% 3 711 000 000 6,16% 11,71%
+Crédits à la consommation, autre que découverts 5 181 995 293 7,06% 19,53% 5 161 995 293 7,03% 21,90% - 0,00% 0,00% - 0,00% 0,00%
+Découverts 384 000 000 15,00% 15,25% 5 117 000 000 11,23% 15,02% 100 000 000 12,00% 13,19% 1 336 000 000 5,88% 13,19%
+Effets escomptés 300 000 000 9,00% 9,08% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme 10 250 000 000 6,62% 37,97% 21 277 000 000 6,50% 6,50% 1 200 000 000 11,00% 12,91% 2 000 000 000 7,50% 12,91%
+Crédits à long terme 141 029 382 7,00% 8,33% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits immobilliers - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 3 5 834 578 4,62% 5,38% 282 975 130 5,00% 5,53% - 0,00% 0,00% 375 000 000 0,00% 0,00%
+Administrations publiques 3 171 279 516 0,00% 0,00% 27 313 247 035 13,24% 13,27% 94 659 118 313 16,08% 28,31% 62 159 564 368 8,39% 12,81%
+Crédits de trésorerie, autre que les découverts - 0,00% 0,00% - 0,00% 0,00% 84 783 249 296 16,86% 30,34% 14 200 000 000 20,77% 30,34%
+Découverts - 0,00% 0,00% 24 000 000 000 14,50% 14,50% 6 488 000 000 11,77% 11,78% 20 950 000 000 10,74% 11,78%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% 9 000 000 000 6,50% 14,24%
+Affacturages
+Crédits à moyen terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% 18 000 000 000 0,07% 6,57%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions 3 171 279 516 0,00% 0,00% 3 313 247 035 4,15% 4,37% 3 387 869 017 4,80% 8,95% 9 564 368 4,80% 8,95%
+TOTAL GENERAL 346 226 575 420 9,22% 14,01% 361 731 406 388 8,52% 14,88% 350 558 563 808 10,49% 21,93% 303 487 494 566 8,33% 12,13%
+Crédits amortissables & découverts 324 773 866 368 9,67% 14,61% 344 556 828 887 8,81% 15,34% 323 412 073 204 11,21% 23,38% 279 045 394 191 9,14% 12,69%
+Engagements par signature 21 452 709 052 2,43% 4,79% 17 174 577 501 1,80% 4,62% 27 146 490 604 1,94% 4,64% 24 442 100 375 1,52% 5,48%
+Source : DSFABFE, à partir des reporting TEG des établissements de crédits
+
+--- Page 42 ---
+Tableau 11 : Vue d'ensemble du volume des crédits et TEG des établissements financiers du Gabon au cours des quatre derniers trimestres
+Troisième trimestre 2021 Quatrième trimestre 2021 Premier trimestre 2022 Deuxième trimestre 2022
+Taux Taux Taux
+Montant des Montant des Montant des nouveaux Montant des Taux nominaux
+nominaux TEG moyen nominaux TEG moyen nominaux TEG moyen TEG moyen
+nouveaux prêts nouveaux prêts prêts nouveaux prêts moyens
+moyens moyens moyens
+Particuliers 848 098 370 14,75% 27,22% 6 14 913 001 15,72% 34,74% 1 053 370 800 16,73% 31,00% 1 693 357 572 15,40% 28,22%
+Crédits à la consommation, autre que découverts 117 925 000 14,89% 30,22% 126 706 001 15,26% 51,12% 194 402 800 16,88% 36,67% 345 709 000 15,26% 32,74%
+Découverts - 0,00% 0,00% - 0,00% 0,00%
+Effets escomptés
+Affacturages
+Crédits à moyen terme 497 289 000 14,83% 27,06% 400 427 000 16,12% 31,38% 858 968 000 16,69% 29,72% 1 316 220 000 15,41% 26,85%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits immobilliers 211 960 000 14,57% 27,11% 87 780 000 14,58% 26,46% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail 2 0 924 370 14,00% 15,33% - 0,00% 0,00% - 0,00% 0,00% 31 428 572 16,56% 35,76%
+Cautions - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Petites et Moyennes Entreprises 1 192 682 427 16,13% 18,59% 3 25 759 232 15,90% 19,05% 1 81 848 746 15,66% 31,00% 184 896 068 16,79% 32,94%
+Crédits de trésorerie, autre que les découverts et effets escomptés 170 892 333 16,00% 22,80% 57 862 500 16,37% 28,56% - 0,00% 0,00% 44 730 000 16,42% 20,97%
+Découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Affacturages - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme 1 021 790 094 16,16% 17,88% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% 267 896 732 15,80% 17,00% 181 848 746 15,66% 31,00% 140 166 068 16,91% 36,76%
+Cautions - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Grandes Entreprises 1 066 889 199 15,70% 17,11% 2 176 522 059 15,71% 16,90% - 0,00% 0,00% 387 287 223 14,81% 26,66%
+Crédits de trésorerie, autre que les découverts et effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Affacturages - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme 1 066 889 199 15,70% 17,11% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% 2 176 522 059 15,71% 16,90% - 0,00% 0,00% 387 287 223 14,81% 26,66%
+Cautions - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Autres personnes morales - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à la consommation, autre que découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits immobilliers - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Administrations publiques - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits de trésorerie, autre que les découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Découverts - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Effets escomptés - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédits à long terme - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Crédit-bail - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+Cautions - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00% - 0,00% 0,00%
+TOTAL GENERAL 3 107 669 996 10,22% 20,44% 3 117 194 292 15,74% 20,65% 1 235 219 546 16,57% 31,00% 2 265 540 863 12,88% 23,78%
+Source : DSFABFE, à partir des reporting TEG des établissements de crédits
+42
+
+--- Page 43 ---
+Tableau 12 : Vue d'ensemble du volume des crédits et TEG des banques de la Guinée Equatoriale au cours des quatre derniers trimestres
+Troisième trimestre 2021 Quatrième trimestre 2021 Premier trimestre 2022 Deuxième trimestre 2022
+Taux Taux Taux Taux
+Montant des Montant des Montant des Montant des
+nominaux TEG moyen nominaux TEG moyen nominaux TEG moyen nominaux TEG moyen
+nouveaux prêts nouveaux prêts nouveaux prêts nouveaux prêts
+moyens moyens moyens moyens
+Particuliers 13 419 892 105 11,64% 17,29% 10 137 940 239 11,58% 15,06% 5 079 515 649 13,60% 19,37% 7 440 744 980 13,23% 20,16%
+Crédits à la consommation, autre que découverts 7 550 210 627 11,10% 18,26% 7 102 321 444 10,66% 13,72% 791 342 639 11,18% 17,79% 2 106 146 357 11,77% 14,23%
+Découverts 271 427 217 14,58% 16,46% 354 039 130 14,67% 16,86% 1 421 356 170 13,90% 20,89% 2 345 100 506 13,98% 27,53%
+Effets escomptés
+Affacturages
+Crédits à moyen terme 3 294 426 704 13,78% 18,63% 2 681 579 665 13,59% 18,35% 2 851 651 950 14,13% 19,08% 2 961 998 117 13,65% 18,51%
+Crédits à long terme 2 303 827 557 10,00% 12,33% - - - 1 5 164 890 12,30% 15,64% 2 7 500 000 15,00% 23,12%
+Crédits immobilliers - - - - - - - - - - - -
+Crédit-bail - - - - - - - - - - - -
+Cautions - - - - - - - - - - - -
+Petites et Moyennes Entreprises 10 981 589 049 10,74% 12,13% 36 540 924 081 7,77% 8,14% 12 309 949 320 9,95% 13,45% 6 384 968 190 13,21% 21,96%
+Crédits de trésorerie, autre que les découverts et effets escomptés 757 000 000 14,33% 20,13% 700 000 000 13,50% 21,53% 807 766 917 13,69% 16,27% 520 336 000 13,90% 19,16%
+Découverts 7 295 678 387 10,10% 10,41% 34 215 349 581 7,51% 7,57% 5 031 990 944 14,44% 19,53% 4 602 993 042 14,09% 25,24%
+Effets escomptés - - - - - - - - - - - -
+Affacturages - - - - - - - - - - - -
+Crédits à moyen terme 1 323 574 642 14,19% 19,18% 1 225 574 500 11,68% 15,95% 2 509 944 833 11,07% 15,13% 702 377 676 14,05% 16,04%
+Crédits à long terme 1 605 336 020 9,12% 10,37% 400 000 000 8,00% 9,89% 100 000 000 13,00% 15,35% 444 470 180 5,00% 5,84%
+Crédit-bail - - - - - - - - - - - -
+Cautions - - - - - - 3 860 246 626 2,50% 3,79% 114 791 292 1,63% 1,70%
+Grandes Entreprises 119 392 571 611 2,06% 3,13% 18 466 297 006 6,68% 8,64% 62 383 762 517 9,46% 10,00% 25 224 296 017 7,91% 11,38%
+Crédits de trésorerie, autre que les découverts et effets escomptés 160 000 000 13,50% 19,91% 200 000 000 14,75% 21,89% 1 050 000 000 11,00% 31,86% 533 314 533 10,00% 20,92%
+Découverts - - - - - - 57 487 830 636 9,53% 9,67% 8 005 576 775 11,36% 19,76%
+Effets escomptés - - - - - - - 0,00% 0,00% - 0,00% 0,00%
+Affacturages - - - - - - - 0,00% 0,00% - 0,00% 0,00%
+Crédits à moyen terme 846 982 175 8,00% 9,74% 17 495 621 885 6,86% 8,77% 3 300 000 000 9,00% 10,07% 10 606 112 633 8,50% 9,67%
+Crédits à long terme - - - - - - - 0,00% 0,00% 1 834 612 476 6,50% 7,49%
+Crédit-bail - - - - - - - 0,00% 0,00% - 0,00% 0,00%
+Cautions 1 18 385 589 436 2,00% 3,06% 770 675 121 0,57% 2,29% 545 931 881 2,00% 2,34% 4 244 679 600 0,28% 0,34%
+Autres personnes morales - 0,00% 0,00% 11 259 419 15,00% 18,19% 13 730 969 15,00% 23,48% 9 069 191 815 10,88% 16,16%
+Crédits à la consommation, autre que découverts - - - - - - - - - 181 971 889 5,00% 5,87%
+Découverts - - - 1 1 259 419 15,00% 18,19% 1 3 730 969 15,00% 23,48% 8 887 219 926 11,00% 16,37%
+Effets escomptés
+Crédits à moyen terme - - - - - - - - - - - -
+Crédits à long terme - - - - - - - - - - - -
+Crédits immobilliers - - - - - - - - - - - -
+Crédit-bail - - - - - - - - - - - -
+Cautions - - - - - - - - - - - -
+Administrations publiques - 0,00% 0,00% 3 004 847 393 8,01% 8,44% 715 277 508 15,00% 24,01% 2 497 278 810 7,86% 11,57%
+Crédits de trésorerie, autre que les découverts - - - - - - - - - 2 000 000 000 6,50% 7,48%
+Découverts - - - 4 847 393 15,00% 17,38% 715 277 508 15,00% 24,01% 468 302 851 14,00% 29,73%
+Effets escomptés - - - - - - - - - - - -
+Affacturages
+Crédits à moyen terme - - - 3 000 000 000 8,00% 8,43%
+Crédits à long terme - - - - - - - - - - - -
+Crédit-bail - - - - - - - - - - - 2
+Cautions - - - - - - - - - 2 8 975 959 2,21% 0,00%
+TOTAL GENERAL 143 794 052 765 3,61% 5,14% 68 161 268 137 8,05% 9,32% 80 502 235 963 9,85% 11,25% 50 616 479 812 9,89% 14,87%
+Crédits amortissables & découverts 25 408 463 329 11,14% 14,83% 67 390 593 016 8,14% 9,40% 76 096 057 456 10,28% 11,69% 46 228 032 961 10,80% 16,25%
+Engagements par signature 118 385 589 436 2,00% 3,06% 770 675 121 0,57% 2,29% 4 406 178 507 2,44% 3,61% 4 388 446 851 0,33% 0,37%
+Source : DSFABFE, à partir des reporting TEG des établissements de crédits
+
+--- Page 44 ---
+Tableau 13 : Vue d'ensemble du volume des crédits et TEG des banques du Tchad des quatre derniers trimestres
+Source : DSFABFE, à partir des reporting TEG des établissements de crédits
+PCDEACCCCCPCDEACCCCGCDEACCCCACDECCCCCACDEACCCCT a rtic u lie rsré
+d its à la c o n so m m a tio n , a u tre q u e d é c o u v e rtsé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d its im m o b illie rsré
+d it-b a ila
+u tio n s
+e tite s e t M o y e n n e s E n tre p ris e sré
+d its d e tré so re rie , a u tre q u e le s d é c o u v e rts e t eé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d it-b a ila
+u tio n s
+ra n d e s E n tre p ris e sré
+d its d e tré so re rie , a u tre q u e le s d é c o u v e rts e t eé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d it-b a ila
+u tio n s
+u tre s p e rs o n n e s m o ra le sré
+d its à la c o n so m m a tio n , a u tre q u e d é c o u v e rtsé
+c o u v e rtsffe
+ts e sc o m p té sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d its im m o b illie rsré
+d it-b a ila
+u tio n s
+d m in is tra tio n s p u b liq u e sré
+d its d e tré so re rie , a u tre q u e le s d é c o u v e rtsé
+c o u v e rtsffe
+ts e sc o m p té sffa
+c tu ra g e sré
+d its à m o y e n te rm e
+ré d its à lo n g te rm eré
+d it-b a ila
+u tio n s
+O T A L G E N E R A LC
+ré d its a m o rtissa b le s & d é co u v e rtsE
+n g a g e m e n ts p a r sig n a tu re
+ffe
+ffe
+ts e
+ts e
+sc
+sc
+o
+o
+m
+m
+p
+p
+té
+té
+s
+s
+T ro is iè m e trim e s tre 2 0
+T a u x
+M o n ta n t d e s
+n o m in a u x
+n o u v e a u x p rê ts
+m o y e n s
+1 6 8 3 8 5 5 1 9 0 9 1 0 ,9 1 %
+4 4 3 9 6 3 4 0 7 1 5 ,8 0 %
+2 8 1 2 9 1 7 1 9 1 3 ,4 7 %
+1 1 0 5 9 8 8 2 2 2 9 1 2 ,9 6 %
+3 8 7 9 4 5 0 0 0 1 0 ,6 8 %
+6 6 9 7 9 8 8 9 0 1 0 ,0 8 %
+- -
+- -
+3 7 2 4 1 6 3 1 0 6 6 4 ,4 8 %
+7 2 3 0 5 3 3 9 6 7 8 ,5 1 %
+2 2 7 2 2 0 0 0 0 0 1 0 ,2 4 %
+1 1 7 9 4 7 7 0 2 0 7 ,3 1 %
+- -
+3 5 2 9 2 6 6 6 7 1 8 ,1 2 %
+3 7 0 0 0 0 0 0 9 ,8 1 %
+- -
+2 2 9 9 3 1 5 3 4 0 8 1 ,9 3 %
+5 7 0 3 9 4 0 9 9 1 5 5 ,2 8 %
+3 8 6 1 2 7 6 6 8 3 7 ,6 4 %
+2 1 4 0 0 0 0 0 0 0 0 9 ,2 7 %
+- -
+- -
+2 5 0 0 0 0 0 0 0 0 5 ,0 0 %
+3 8 0 0 0 0 0 0 0 0 5 ,0 0 %
+- -
+2 5 4 7 8 1 3 3 2 3 2 1 ,6 3 %
+9 6 3 8 3 3 6 5 4 ,2 9 %
+3 5 0 0 0 0 0 1 2 ,0 0 %
+- -
+- -
+- -
+- -
+- -
+- -
+9 2 8 8 3 3 6 5 4 ,0 0 %
+2 9 0 0 8 2 0 5 7 4 5 5 ,7 6 %
+4 5 0 0 0 0 0 0 0 8 ,0 0 %
+1 6 6 0 0 0 0 0 0 0 7 ,9 9 %
+- -
+6 9 7 7 9 9 9 2 6 6 7 ,3 3 %
+1 9 9 2 0 2 0 6 4 7 9 4 ,9 7 %
+- -
+- -
+5 ,8 4 % 1 4 0 2 2 4 1 8 2 0 0 0
+9 1 0 8 3 0 9 6 4 7 0 8 ,0 4 %
+4 9 1 4 1 0 8 5 5 3 0 1 ,7 5 %
+2 1
+T E G m o y e
+2 0 ,8 0 %3
+2 ,9 9 %2
+0 ,8 5 %
+1 6 ,7 5 %1
+3 ,4 6 %1
+1 ,1 5 %
+-
+-
+6 ,7 7 %1
+8 ,3 2 %1
+0 ,6 0 %8
+,1 3 %
+-
+1 1 ,5 8 %1
+4 ,4 1 %
+-
+1 ,9 4 %5
+,7 6 %1
+0 ,0 0 %9
+,5 1 %
+-
+-
+7 ,4 9 %6
+,8 0 %
+-
+1 ,6 3 %4
+,9 9 %3
+0 ,2 8 %
+-
+-
+-
+-
+-
+-
+4 ,0 4 %6
+,8 3 %9
+,0 0 %8
+,1 4 %
+-
+8 ,5 6 %6
+,0 7 %
+-
+-
+8 ,0 5 %1
+1 ,4 51
+,7 5
+n
+%%
+Q u a triè m e trim e s tre 2 0
+T a u x
+M o n ta n t d e s
+n o m in a u x
+n o u v e a u x p rê ts
+m o y e n s
+1 6 2 5 1 9 8 7 1 8 1 1 1 ,9 0 %
+2 5 2 9 6 3 0 2 1 4 8 ,3 2 %
+6 4 0 8 1 4 7 8 8 1 0 ,6 3 %
+9 4 7 7 9 2 4 8 1 5 1 3 ,0 4 %
+2 9 2 8 7 3 7 0 1 8 1 2 ,1 1 %
+6 7 4 8 8 0 3 4 6 9 ,4 8 %
+- -
+- -
+3 8 2 9 2 1 6 9 7 9 7 5 ,1 9 %
+8 3 5 6 8 1 3 7 5 0 7 ,7 1 %
+3 0 0 0 0 0 0 0 0 0 1 0 ,8 3 %
+5 3 2 2 3 2 9 1 8 5 7 ,3 0 %
+- -
+1 1 6 4 6 0 5 0 5 3 6 ,1 5 %
+1 2 4 0 5 4 8 6 2 7 7 ,9 9 %
+- -
+1 9 2 0 7 8 7 3 1 8 2 2 ,3 9 %
+8 4 7 7 4 1 0 4 9 5 6 2 ,3 4 %
+3 0 4 5 6 8 2 9 1 8 8 ,0 5 %
+1 2 9 3 2 7 5 2 1 7 0 7 ,3 2 %
+5 6 2 5 0 0 0 0 7 ,3 0 %
+- -
+2 4 4 6 1 0 2 5 7 4 1 ,2 3 %
+2 0 8 9 8 6 3 8 4 1 8 ,0 0 %
+- -
+6 4 2 0 3 4 5 3 4 5 3 0 ,9 2 %
+8 0 2 7 1 8 8 8 6 4 ,2 5 %
+6 4 2 3 9 0 0 0 1 1 ,3 8 %
+- -
+- -
+5 1 7 6 8 9 8 8 6 ,2 5 %
+- -
+- -
+- -
+6 8 6 7 1 0 8 9 8 3 ,4 4 %
+2 6 6 4 0 8 7 6 1 8 9 6 ,8 7 %
+1 4 3 4 4 4 6 0 1 7 5 6 ,5 7 %
+7 0 6 0 8 2 5 0 7 1 1 ,1 5 %
+- -
+- -
+1 1 5 9 0 3 3 3 5 0 7 6 ,9 7 %
+- -
+- 2 ,0 0 %4
+,6 6 % 1 6 6 7 6 1 8 5 7 0 0 9
+8 2 6 7 5 6 5 0 0 2 8 8 ,1 0 %
+8 4 0 8 6 2 0 6 9 8 1 1 ,2 5 %
+2 1
+T E G m o y e n
+1 8 ,0 2 %2
+7 ,8 0 %1
+3 ,9 0 %
+1 6 ,7 4 %1
+6 ,3 2 %1
+0 ,6 6 %
+-
+-
+6 ,3 2 %1
+1 ,4 9 %1
+1 ,2 8 %8
+,0 6 %
+-
+9 ,9 9 %9
+,1 5 %
+-
+2 ,4 0 %2
+,4 9 %1
+0 ,9 9 %7
+,5 4 %8
+,0 6 %
+-
+1 ,4 5 %8
+,1 4 %
+-
+0 ,9 2 %4
+,6 7 %1
+4 ,7 1 %
+-
+-
+8 ,1 7 %
+-
+-
+-
+3 ,4 7 %3
+1 ,9 1 %4
+3 ,3 8 %1
+1 ,7 3 %
+-
+-
+1 8 ,9 4 %
+-
+2 ,4 1 %9
+,5 9 %1
+8 ,0 5 %1
+,2 5 %
+P re m ie r trim e s tre 2 0 2
+T a u x
+M o n ta n t d e s
+n o m in a u x
+n o u v e a u x p rê ts
+m o y e n s
+2 0 4 5 4 4 2 8 0 3 5 1 2 ,0 9 %
+1 0 9 9 1 8 2 5 2 5 1 1 ,9 5 %
+3 3 3 8 4 8 1 2 5 1 3 ,7 3 %
+1 3 5 0 0 0 0 0 0 1 0 ,2 2 %
+1 0 3 5 0 2 8 6 8 5 2 1 2 ,3 1 %
+6 7 3 3 5 4 7 4 4 7 1 2 ,7 2 %
+1 8 0 2 5 6 3 0 8 6 9 ,1 5 %
+- -
+- -
+6 1 2 4 4 3 0 8 6 7 1 6 ,4 3 %
+4 9 8 2 9 0 7 8 0 6 9 ,6 4 %
+4 4 6 0 6 5 0 0 0 0 8 ,6 4 %
+5 7 7 9 3 2 7 1 0 5 9 ,5 8 %
+4 1 9 5 3 9 9 6 5 9
+2 0 4 2 1 0 2 8 9 4 8 ,6 2 %
+9 8 6 5 2 0 0 0 0 0 7 ,1 6 %
+- -
+2 9 9 1 8 7 2 1 2 0 7 5 ,4 7 %
+4 2 7 0 2 4 5 0 7 0 8 5 ,1 4 %
+1 0 3 5 6 3 3 7 6 9 6 ,3 6 %
+2 7 8 0 1 9 1 4 0 0 0 7 ,2 0 %
+5 6 2 5 0 0 0 0 7 ,3 0 %
+1 4 9 5 0 0 0 0 0 0
+9 5 1 3 7 8 9 1 6 0 ,0 0 %
+- -
+1 1 3 6 2 2 7 4 0 2 3 1 ,0 8 %
+8 0 7 6 9 4 6 0 3 3 ,6 4 %
+1 6 6 6 1 6 3 4 8 1 1 ,0 0 %
+1 5 0 0 0 0 0 0 1 0 ,6 7 %
+- -
+- 0 ,0 0 %
+- -
+- -
+- -
+6 2 6 0 7 8 2 5 5 1 ,5 1 %
+2 0 0 2 2 3 1 8 0 0 0 5 ,0 7 %
+1 8 6 1 0 2 3 1 2 5 ,0 0 %
+5 9 0 0 0 0 0 0 0 1 1 ,2 4 %
+- -
+3 7 4 0 0 0 0 0 0
+1 2 6 2 4 4 9 4 4 9 6 6 ,7 3 %
+- 0 ,0 0 %
+6 2 4 7 7 2 1 1 9 2 1 ,4 5 %6
+,6 4 % 1 4 5 2 3 1 2 0 0 0 1 7
+9 7 0 7 6 4 0 5 3 4 0 8 ,0 4 %
+4 8 1 5 4 7 9 4 6 7 7 3 ,8 6 %
+2
+T E G m o y e n
+1 5 ,5 3 %2
+4 ,2 1 %2
+2 ,3 5 %1
+2 ,1 0 %
+1 5 ,7 4 %1
+5 ,0 8 %1
+0 ,6 4 %
+-
+-
+8 ,5 7 %1
+6 ,7 8 %1
+2 ,4 4 %1
+1 ,3 2 %
+0
+1 1 ,9 7 %8
+,1 7 %
+-
+6 ,5 4 %6
+,3 3 %1
+1 ,1 9 %8
+,6 1 %8
+,0 6 %1
+,1 6 %2
+,5 6 %
+-
+1 ,2 9 %4
+,4 7 %1
+3 ,7 4 %1
+3 ,3 7 %
+-
+0 ,0 0 %
+-
+-
+-
+1 ,7 9 %5
+,6 9 %5
+,0 2 %1
+4 ,1 6 %
+-
+4 ,6 4 %7
+,3 1 %
+0 ,0 0 %1
+,7 1 %8
+,4 7 %1
+0 ,4 1 %4
+,6 1 %
+D e u x iè m e trim e s tre 2 0
+T a u x
+M o n ta n t d e s
+n o m in a u x
+n o u v e a u x p rê ts
+m o y e n s
+2 5 7 3 8 7 4 0 9 3 7 1 1 ,7 2 %
+3 8 5 1 0 6 1 4 9 1 1 1 ,8 2 %
+2 9 9 7 6 1 0 1 9 1 3 ,9 5 %
+1 1 0 0 0 0 0 0 8 ,0 0 %
+1 6 5 0 0 0 0 0
+1 0 1 5 4 4 5 8 4 2 7 1 1 ,8 6 %
+1 0 1 9 0 1 3 1 0 0 0 1 1 ,8 2 %
+1 2 1 5 8 2 9 0 0 0 8 ,9 3 %
+- -
+- -
+6 4 0 9 1 5 3 4 3 4 1 4 ,0 4 %
+4 0 9 9 0 9 6 8 9 3 7 ,6 0 %
+3 5 6 9 1 0 0 0 0 0 9 ,0 5 %
+9 6 9 3 7 5 9 9 4 5 8 ,8 1 %
+3 3 1 3 9 8 1 4 9 7
+1 2 8 6 5 3 1 6 1 7 1 0 ,3 1 %
+6 1 9 1 0 0 0 0 0 0 7 ,1 3 %
+- -
+3 5 9 3 8 0 6 4 3 8 9 1 ,4 7 %
+6 5 4 7 4 8 4 7 5 8 5 5 ,2 5 %
+1 7 9 7 4 9 8 5 8 8 8 6 ,8 1 %
+2 3 4 3 6 7 9 5 1 7 0 7 ,8 5 %
+- -
+1 7 4 6 9 3 6 2 2 8
+- -
+- -
+- -
+2 2 3 1 6 1 3 0 2 9 9 1 ,6 6 %
+4 4 3 2 5 1 4 6 6 ,3 5 %
+- 0 ,0 0 %
+1 3 0 0 0 0 0 0 1 2 ,0 0 %
+- -
+- -
+- -
+- -
+- -
+3 1 3 2 5 1 4 6 4 ,0 0 %
+1 8 3 2 9 8 2 4 1 8 5 7 ,2 0 %
+5 4 7 7 0 3 5 9 8 4 4 ,9 7 %
+3 0 0 0 0 0 0 0 0 0 9 ,3 3 %
+2 5 5 9 3 5 2 8 1 6 8 ,0 2 %
+5 4 3 4 3 5 3 8 5
+6 7 5 0 0 0 0 0 0 0 8 ,3 3 %
+- 0 ,0 0 %
+- 0 ,0 0 %
+-
+5 ,9 7 % 1 7 3 6 7 9 2 7 2 1 9 4
+1 1 5 3 9 3 7 5 2 3 6 0 8 ,2 0 %
+5 8 2 8 5 5 1 9 8 3 4 1 ,5 5 %
+2 2
+T E G m o y e n
+1 5 ,7 6 %2
+0 ,5 3 %2
+2 ,7 1 %9
+,4 8 %1
+5 ,7 2 %1
+5 ,1 5 %1
+4 ,9 9 %1
+0 ,4 6 %
+-
+-
+5 ,7 3 %1
+4 ,7 9 %1
+1 ,5 4 %1
+0 ,5 3 %5
+,2 0 %1
+2 ,3 1 %1
+0 ,5 2 %
+-
+1 ,8 1 %6
+,2 1 %7
+,4 5 %9
+,3 4 %
+-
+5 ,4 5 %
+-
+-
+-
+1 ,9 8 %7
+,7 0 %0
+,0 0 %1
+4 ,7 5 %
+-
+-
+-
+-
+-
+4 ,7 7 %8
+,8 0 %5
+,8 7 %1
+1 ,0 3 %9
+,4 7 %1
+1 ,2 5 %9
+,7 4 %0
+,0 0 %0
+,0 0 %
+7 ,7 2 %1
+0 ,4 6 %1
+,8 8 %
+
+--- Page 45 ---
+DOCUMENT RÉALISE PAR LA BANQUE DES
+ÉTATS DE L'AFRIQUE CENTRALE
+“ B.E.A.C. ”
+SERVICES CENTRAUX
+BP 1917 YAOUNDÉ - CAMEROUN
+DIRECTION DE LA STABILITÉ FINANCIÈRE, DES
+ACTIVITÉS BANCAIRES ET DU FINANCEMENT DES
+ÉCONOMIES
+TEL : (237) 222 23 40 60 – 222 23 40 35
+E-mail : beac@beac.int
+BIEN VOULOIR NOUS FAIRE PARVENIR VOS
+OBSERVATIONS ET VOS COMMENTAIRES A L’ADRESSE
+CI-DESSUS

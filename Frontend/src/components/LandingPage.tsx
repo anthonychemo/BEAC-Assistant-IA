@@ -169,7 +169,7 @@ export default function LandingPage({
 
           {/* Card 2 - Indicateurs */}
           <div
-            onClick={() => handleCardClick("dashboard")}
+            onClick={() => handleCardClick("chat")}
             className="bg-white p-8 border border-[#c4c6d0]/40 rounded-xl hover:border-[#C8971A] transition-all duration-300 group cursor-pointer relative overflow-hidden flex flex-col justify-between hover:shadow-lg hover:shadow-[#0d2d5e]/5"
           >
             <div>

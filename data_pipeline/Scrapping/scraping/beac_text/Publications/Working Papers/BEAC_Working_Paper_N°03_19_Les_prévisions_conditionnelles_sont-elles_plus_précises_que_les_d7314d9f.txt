@@ -1,0 +1,702 @@
+Source PDF : BEAC_Working_Paper_N°03_19_Les_prévisions_conditionnelles_sont-elles_plus_précises_que_les_d7314d9f.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°03_19_Les_prévisions_conditionnelles_sont-elles_plus_précises_que_les_d7314d9f.pdf
+Date extraction : 15/06/2026 21:22:39
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 03/19 -
+Les prévisions conditionnelles sont-elles plus précises que les prévisions
+inconditionnelles dans les projections de croissance et d’inflation en zone
+CEMAC ?
+BIKAI J. Landry NGOMBA BODI Francis Ghislain
+Docteur en sciences économiques Economiste
+Direction des Etudes, de la Recherche et des
+Direction des Etudes, de la Recherche et des Et
+Statistiques
+Statistiques
+ngomba@beac.int
+b ik a i @ b e a c . i n t
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E S E T U D E S, D E L A R E C H E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+LES PREVISIONS CONDITIONNELLES SONT-ELLES PLUS PRECISES
+QUE LES PREVISIONS INCONDITIONNELLES DANS LES
+PROJECTIONS DE CROISSANCE ET D’INFLATION EN ZONE
+CEMAC?
+BIKAI Jacques Landry∗ et NGOMBA BODI Francis Ghislain∗
+Résumé
+Cette étude compare les performances prédictives de la technique conditionnelle de pré-
+visionparrapportàlatechniqueinconditionnelle.Latechniqueconditionnelleconsisterait
+à tenir compte de l’information disponible sur une variable endogène sur une partie de
+l’horizon de prévision. Nous élaborons un modèle VAR bayésien à trois endogènes, la
+croissance réelle, l’inflation et la croissance monétaire, dans lequel nous conditionnons
+l’évolution de la croissance monétaire en considérant trois types de scénarios : de base,
+optimiste et pessimiste. Nous aboutissons à deux résultats principaux : (i) l’approche
+conditionnelle de prévision est généralement plus précise que l’approche inconditionnelle;
+(ii) l’incertitude autour de la prévision centrale est réduite avec la technique condition-
+nelle de prévision. Ces résultats appellent ainsi la banque centrale à adopter la technique
+conditionnelle de prévision dans les projections de croissance réelle et d’inflation; mais
+également à considérer divers scénarios sur la variable à conditionner.
+Mots-clés : prévision conditionnelle, VAR bayésien, analyse de scenarios, prévisions de croissance
+Codes JEL : C11, C53, E37, E47
+SHOULD CONDITIONAL FORECASTS OF INFLATION AND GROWTH
+MORE ACCURATE THAN UNCONDITIONAL FORECASTS IN CEMAC
+ZONE?
+Abstract
+This study compares the predictive performance of the conditional forecasting tech-
+nique against the unconditional technique. The conditional technique consist of taking
+into account the information available on an endogenous variable over part of the forecast
+horizon. We develop a Bayesian VAR model with three endogenous, real growth, inflation
+and monetary growth, in which we condition the evolution of monetary growth by consi-
+dering three types of scenarios : basic, optimistic and pessimistic. Two main results can
+be draw from our simulations : (i) the conditional forecasting approach is generally more
+precise than the unconditional approach; (ii) the uncertainty around the central forecast
+is reduced with the conditional forecast technique. These results therefore call on the
+central bank to adopt the conditional forecasting technique in projections of real growth
+and inflation; but also to consider various scenarios on the variable to be conditioned.
+Keywords : Conditional forecast, bayesian VAR, scenario analysis, growth and inflation forecasts
+JEL Classification : C11, C53, E37, E47
+∗. Économiste, Banque des Etats de l’Afrique Centrale. Courriel : bikai@beac.int
+∗. Économiste, Banque des Etats de l’Afrique Centrale. Courriel : ngomba@beac.int
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+INTRODUCTION 4
+1 Littérature sur les prévisions conditionnelles 4
+2 Le modèle économétrique et les données 6
+2.1 Le modèle économétrique . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.2 Les données . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.3 Les contraintes opérées sur les variables endogènes . . . . . . . . . . . . . . 9
+3 Résultats empiriques 10
+3.1 L’approche conditionnelle de prévision est généralement plus précise que
+l’approche inconditionnelle . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+3.2 L’incertitude des prévisions est réduite avec l’approche conditionnelle de
+prévision . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Conclusion 15
+Bibliographie 16
+ANNEXES 18
+2
+
+--- Page 4 ---
+Résumé non technique
+Cette étude a pour objectif de comparer les performances prédictives de la technique
+dite conditionnelle, qui consisterait à tenir compte de l’information disponible sur une
+variable endogène sur une partie de l’horizon de prévision. Pour la banque centrale, cette
+information concerne généralement l’évolution des variables monétaires, notamment le
+taux d’intérêt de court terme et/ou la masse monétaire, sur lesquelles elle dispose d’une
+certaine maîtrise. De ce fait, nous élaborons trois scénarios sur l’évolution de la masse
+monétaire en 2018 : (i) un scénario dit de base qui réplique la tendance récente obser-
+vée, (ii) un scénario dit optimiste qui fait l’hypothèse d’une croissance monétaire plus
+forte que celle récemment observée, (iii) un scénario dit pessimiste qui suppose un res-
+serrement monétaire. Nous intégrons ces hypothèses dans le cadre d’un modèle à trois
+variables endogènes : la croissance réelle, l’inflation et la croissance monétaire. Ce modèle
+nous permettra d’effectuer les prévisions de croissance réelle et d’inflation. Ces prévisions,
+effectuées suivant la technique dite conditionnelle, seront comparées à celles fournies par
+Bikai et Ngomba (2018) qui utilisent la technique dite inconditionnelle qui n’incorpore
+pas l’information disponible sur une variable endogène sur une partie de l’horizon de
+prévision.
+Nous aboutissons à deux résultats principaux : (i) l’incorporation d’informations sur la
+croissance monétaire, sur l’horizon de prévision, permet généralement d’améliorer les pro-
+jections de croissance réelle et d’inflation, (ii) cette incorporation d’informations permet
+en outre de réduire l’incertitude autour d’une prévision centrale. Ces résultats appellent
+d’une part à adopter la technique conditionnelle de prévision et d’autre part à considérer
+divers scénarios sur l’évolution des variables sur lesquelles on appliquera les conditions.
+La technique conditionnelle de prévision est susceptible d’accompagner la stratégie de
+communication d’une banque centrale qui veut améliorer sa transparence. En effet, afin
+de guider les anticipations des agents, la banque centrale peut le faire en publiant ses
+prévisions macroéconomiques qui s’appuient nécessairement sur certaines hypothèses et
+sont conditionnées par certains éléments. Ces hypothèses (ou scénarios) doivent être ex-
+plicitées afin que chacun puisse apprécier l’incidence sur la prévision des autres variables
+macroéconomiques. La technique conditionnelle permet ainsi d’incorporer ces hypothèses
+et conditions dans les projections macroéconomiques.
+3
+
+--- Page 5 ---
+INTRODUCTION
+L’exercice de prévision dans les Banques Centrales est primordial en matière de prise
+de décision. A ce titre, ces dernières disposent généralement d’une multitude d’outils de
+prévisions et simulation, les uns plus sophistiqués que les autres. La Banque des Etats de
+l’Afrique Centrale (BEAC) s’est également lancé depuis quelques années dans un vaste
+programme de réforme visant entre autre à étoffer son appareil statistique et ses méthodes
+de prévision et simulations. A ce titre, cette étude vise à proposer un nouvel outil à la
+BEAC afin d’affiner ses scénarios de prévisions d’inflation et de croissance à court et
+moyen terme.
+La présente étude est la continuité de celle menée en 2018 (Bikai et Ngomba, 2018),
+qui montrait la supériorité des approches VAR bayésiennes pour l’exercice de prévision
+de l’inflation et de la croissance dans les pays de la CEMAC. Il est désormais question
+d’améliorer davantage l’approche bayésienne retenue précédemment en tenant compte de
+divers scénarios sur les contraintes à appliquer à certaines variables endogènes.
+Dans la littérature, les travaux sur les modèles BVAR conditionnels ont réellement émer-
+gés avec les travaux de Waggoner et Zha (1999) qui ont pu développer un algorithme
+capable de déterminer les distributions de prévisions conditionnels utiles pour l’élabora-
+tion des intervalles de crédibilité des prévisions. Plusieurs analyses se sont ainsi succédés :
+i) soit pour modifier l’algorithme de Waggoner et Zha (1999) afin d’avoir de meilleurs
+prévisions, surtout pour les modèles larges à plusieurs variables (Andersson et al., 2010;
+Jarocinski, 2010; Camba-Mendez, 2012), ii) soit alors pour montrer la supériorité des mo-
+dèles BVAR conditionnel par rapport aux autres modèles (Banbura et al., 2014; Brazdik
+et Franta, 2017; Higgins et al., 2016).
+Une telle étude est utile pour la Banque Centrale au moins pour trois raisons : i) elle
+permet d’améliorer la précision des prévisions à court et moyen terme et détermine des
+intervalles de crédibilité pour les projections, ii) elle permet d’enrichir la batterie d’outils
+de prévision à la banque centrale, et iii) elle permet d’envisager divers scénarios (base,
+optimiste et pessimiste) dans les projections d’inflation et de croissance.
+La suite de l’article est organisée ainsi qu’il suit : la première section fait un survol de la
+littérature sur les prévisions conditionnelles à l’aide des modèles bayésiens, la deuxième
+section présente l’approche méthodologique ainsi que les données utilisées, et la troisième
+section présente les résultats obtenus.
+1 Littérature sur les prévisions conditionnelles
+La littérature autour des méthodes de prévision conditionnelle avec l’approche bayé-
+sienne est relativement jeune. L’une des premières analyses sur ce sujet remonte à Doan
+et al (1984) qui ont fait usage d’un VAR bayésien conditionnel à 10 variables de l’éco-
+nomie américaine pour des prévisions sur la période 1982 :12 à 1983 :3. Cette étude n’a
+cependant pas pu déterminer les distributions de probabilités nécessaires pour construire
+4
+
+--- Page 6 ---
+des intervalles de crédibilités des prévisions (fanchart). Il a fallu attendre la fin des années
+90 avec les travaux de Waggoner et Zha (1999) qui ont défini, à l’aide des méthodes bayé-
+siennes appliquées sur les VAR, la distribution exacte en petit échantillon des prévisions
+conditionnelles. Suivant ces auteurs, une prévision dans le cadre d’un modèle dynamique
+peut être conditionnée soit par rapport à une variable endogène, soit par rapport à un
+choc structurel. La condition peut être :
+– «forte», c’est-à-dire imposer des valeurs ponctuelles aux valeurs futures des chocs ou
+des variables endogènes;
+– « faible », imposer plutôt un intervalle pour ces valeurs futures.
+Avec l’approche de Waggoner et Zha (1999) il était donc déjà possible d’obtenir des
+fancharts utiles pour la communication en matière de prévision. Seulement, deux princi-
+pales limites subsistaient à cette étude : i) les fancharts produits étaient larges et ii) les
+auteurs ont pris en compte une hypothèse forte d’indépendance entre les densités prédic-
+tives conditionnelles et inconditionnelles. La première limite liée à la largeur des fancharts
+était due au fait que ces derniers ne prenaient pas en compte l’incertitude qui peut en-
+tourer les variables contraintes. Pour résoudre ce problème, il a fallu attendre les travaux
+de Andersson, Palmqvist et Waggoner (2010) qui généralisent la méthode de Waggoner
+et Zha (1999) pour considérer l’incertitude sur les variables contraintes. En effet, la prise
+en compte de cette incertitude permet d’obtenir des intervalles de crédibilité moins larges
+pour les variables non contraintes. La limité liée à la dépendance entre les densités prédic-
+tives a elle été résolue par Jarocinski (2010) qui simplifie la formule de Waggoner et Zha
+(1999) de la distribution conditionnelle des chocs afin de tenir compte de la dépendance
+entrelesdensitésprédictivesconditionnellesetinconditionnelles.Plusieurstravauxsesont
+ainsi succédé avec pour ambition d’obtenir des prévisions satisfaisantes en appliquant des
+conditions sur certaines variables endogènes. L’étude de Camba-Mendez (2012) va plus
+loin et élabore une méthodologie permettant de déterminer des prévisions conditionnelles
+avec des modèles SVAR à l’aide du filtre de Kalman.
+La plupart des applications de ces modèles ont été effectuées davantage dans les pays
+développés. Dans la zone euro par exemple, Banbura, Giannone et Lenza (2014) pro-
+posent un algorithme basé sur le filtre de Kalman , sur un large VAR et un large modèle
+à facteur dynamique de 26 variables macroéconomiques pour prévoir l’inflation de la zone
+euro. Les deux approches fournissent des prévisions assez précises et comparables. Les
+auteurs mettent cependant en lumière l’utilité des prévisions conditionnelles et la prise en
+compte de divers scénarios. Dans la même lancée, Giannone, Lenza, Momferatou et Ono-
+rante (2014) confirment dans leurs analyses que les prévisions de l’inflation à court terme
+dans la zone euro sont plus précises en utilisant les approches conditionnelles à l’aide d’un
+VAR bayésien. D’autres analyses sont menées dans plusieurs autres pays avec pour point
+commun, la supériorité des VAR bayésiens conditionnels. Notamment, Higgins, Zha et
+Zhong (2016) qui mènent la même analyse pour les prévisions d’inflation et de croissance
+en Chine. Selon ces auteurs, le modèle VAR bayésien construit à cet effet permet de bien
+prévoir l’inflation et la croissance à long terme, ainsi que les points de retournement de
+l’activité et peut être utilisé pour l’analyse des politiques économiques selon différents
+scénarios. Brazdik et Franta (2017) montrent à leur tour la supériorité, pour la prévision,
+des modèles BVAR par rapport au modèle en vigueur à la Banque Centrale Tchèque. Sur
+un horizon de 3 à 7 trimestres, ce modèle donne des prévisions très satisfaisantes. Antolin-
+5
+
+--- Page 7 ---
+Diaz, Petrella et Rubio-Ramirez (2017) examinent la question des scénarios structurels,
+c’est-à-dire des conditions faites sur les chocs structurels. Ils trouvent que les résultats
+provenant des scénarios structurels sont différents mais complémentaires avec ceux des
+méthodes traditionnelles de prévisions conditionnelles. Bache, Brubakk, Jore, Maih et Ni-
+colaisen (2010) discutent du système de prévision et d’analyse de politiques économiques
+au sein de la Norges Bank. Ils proposent un nouveau système intégré et performant, de
+prévision et de simulation, qui prend appui sur les prévisions conditionnelles. Plusieurs
+autres types d’analyses sont menés à l’aide des VAR bayésiens conditionnés. Ces analyses
+sont liées notamment au choix de la variable à conditionner, à l’usage des résultats pour
+la communication des banques centrales, ou encore à la conception d’indicateurs pour
+l’orientation de la politique monétaire. A ce titre, Summers (2001) montre que le choix
+de la variable à conditionner est essentiel dans l’optique d’une bonne prévision. En effet,
+en cherchant à comprendre les déséquilibres extérieurs en Australie au cours des années
+1990, l’auteur trouve que les prévisions conditionnées sur le solde commercial sont beau-
+coup moins précises que les prévisions bayésiennes conditionnées sur les exportations et
+les importations. De son côté, Faust et Leeper (2005) montrent que la manière la plus
+simple pour les banques centrales d’accroître leur transparence est de publier, par ordre
+d’importance : leurs prévisions inconditionnelles du taux directeur, leurs prévisions incon-
+ditionnelles des variables macroéconomiques clé, leurs prévisions conditionnelles du taux
+directeur et des variables macroéconomiques clé. Cespedes et al (2005) quant à eux éla-
+borent un indicateur permettant de mesurer l’orientation actuelle et future de la politique
+monétaire. Pour ce faire, ils s’appuient sur la méthodologie de Waggoner et Zha (1999)
+pour élaborer l’indicateur conditionnel des conditions monétaires.
+2 Le modèle économétrique et les données
+2.1 Le modèle économétrique
+Nous partons des principaux résultats de Bikai et Ngomba (2018) qui ont montré la
+supériorité en prévision, des modèles vectoriels autorégressifs bayésiens comportant une
+variable monétaire en endogène.
+De ce fait, nous retenons une spécification VAR avec trois variables endogènes :
+– La croissance réelle;
+– L’inflation;
+– La croissance monétaire .
+S’agissant de la masse monétaire, si son contrôle plus ou moins étroit par la Banque
+Centrale pourrait pousser à la définir comme exogène, il n’en demeure pas moins qu’elle
+est fortement liée aux conditions macroéconomiques dans la CEMAC (Bikai et al., 2016;
+Keungne et Ousman, 2015). Et donc, son évolution est endogène à la dynamique ma-
+croéconomique. Par ailleurs, nous savons que cinq économies de la CEMAC produisent
+et exportent des matières premières, principalement le pétrole. Toutefois, étant donné
+que la production de ces cinq économies est tellement négligeable du point de vue de la
+6
+
+--- Page 8 ---
+production mondiale, et donc ne saurait influencer son prix, nous retenons la croissance
+des prix du pétrole en tant que variable exogène.
+L’objectif de cet exercice empirique est de déterminer si l’application de conditions sur
+les variables endogènes permet d’avoir de meilleures prévisions de la croissance réelle et
+de l’inflation dans les économies de la zone BEAC.
+La nature conditionnelle de nos prévisions nécessite de fixer des contraintes sur la dyna-
+mique de certaines variables endogènes. Toutefois, les contraintes que l’on applique aux
+variables peuvent avoir plusieurs origines :
+– Soit les données récentes sur la variable contrainte sont disponibles, contrairement
+aux autres variables endogènes;
+– Soit la variable contrainte est sous le contrôle plus ou moins étroit de l’institution de
+rattachement du prévisionniste.
+Cedernierpointjustifienotreétude,carnouscontraignonslamassemonétaire,supposée
+souslecontrôledirectetindirectdelaBEAC.Decefait,selonlesscénariosenvisagéspour
+cette variable, nous pouvons inférer quant à l’évolution future de la croissance économique
+et de l’inflation. Assez souvent, c’étaient les variables exogènes qui étaient conditionnées
+sur l’horizon de prévision.
+Deux types de restrictions peuvent être appliqués par rapport aux valeurs futures de la
+variable endogène (Waggoner et Zha, 1999) : (i) les conditions fortes qui consistent à fixer
+des valeurs précises à la variable endogène sur l’horizon de prévision, et (ii) les conditions
+souples permettant de déterminer un intervalle d’évolution pour cette variable endogène.
+Soit la forme réduite du modèle vectoriel autorégressif suivant :
+p
+Y = c+X Y B +(cid:15) A−1 (2.1)
+t t−1 i t 0
+i=1
+La prévision n horizons en avant s’exprime comme suit :
+p n
+Y = cK +X Y N (n)+X (cid:15) Mn−j (2.2)
+T+n n−1 t+1−i i T+j 0
+i=1 j=1
+AvecM lamatricederéactionsdesvariablesendogènesauximpulsionsdesperturbations
+structurelles (matrice des IRFs).
+Cette écriture est constituée de deux composantes : une composante déterministe (les
+deux premiers éléments de l’équation) et une composante stochastique qui représente
+l’influence des chocs structurels sur la dynamique des variables endogènes.
+Contraindre la valeur d’une variable endogène à une période T + n dans le futur, sur
+l’intervalle, [Y∗(j),Y0(j)] revient à contraindre la matrice des IRFs, M, comme suit :
+7
+
+--- Page 9 ---
+n
+X (cid:15) M (.,j) ∈ (Y∗(j)−Z (a),Y0(j)−Z (a)) (2.3)
+T+j n−j n,j n,j
+j=1
+Avec : Z (a) = cK (.,j)+Pp Y N (n)(.,j)
+n,j n−1 i=1 T+1−i i
+Notre modèle sera estimé suivant les techniques bayésiennes. Ce choix est davantage
+conforté par nos précédents résultats qui montrent la supériorité de cette approche par
+rapportauxestimationsclassiquespourlaprévisiondel’inflationetdelacroissance(Bikai
+et Ngomba, 2018). Nous nous appuyons également sur les analyses de Waggoner et Zha
+(1999) qui montrent que la non prise en compte de l’incertitude quant aux paramètres est
+de nature à entraîner un biais dans les prévisions conditionnelles. De ce fait, les méthodes
+bayésiennes semblent plus appropriées pour les prévisions conditionnelles.
+Par ailleurs, lorsqu’on conditionne une variable endogène sur l’horizon de prévision et
+qu’on estime le modèle suivant les méthodes classiques ou bayésienne en échantillon fini, il
+estéquivalentdetransformerl’équationdelavariableendogènecontrainteenunprocessus
+stochastiqueexogène.Decefait,lavariableendogènedevientcommeunevariableexogène.
+Il s’agit dès lors de trouver la distribution de probabilité des prévisions conditionnelles.
+2.2 Les données
+Les données sont issue de la base utilisée dans Bikai et Ngomba (2018). Elles vont du 1er
+trimestre 2000 au 4ème trimestre 2016 et proviennent de la BEAC et des administrations
+publiques.
+Elles sont représentées sur les graphiques (’). On y voit une rupture dans le PIB de la
+Centrafrique autour de fin 2012 ’ début 2013. Ce qui nous pousse à considérer comme
+exogène dans le modèle BVAR de la Centrafrique, plutôt que le prix du pétrole qu’elle ne
+produit pas, une variable binaire pour annuler l’effet des valeurs aberrantes et prendre en
+compte la situation sécuritaire qui prévalait à cette époque.
+Par ailleurs, la masse monétaire du Cameroun et de la Centrafrique exhibe une tendance
+haussière, alors que dans les autres pays, sa dynamique est baissière. La dynamique en
+Centrafrique s’explique par son statut d’économie post-conflit dans laquelle la seule issue
+ne peut être qu’une relance économique après le creux conjoncturel observé en 2012 et
+2013. Et cette relance est portée par l’afflux de liquidité provenant des organisations
+internationales et pays partenaires. Pour le Cameroun, sa structure de dépendance aux
+cours du baril de pétrole est assez réduite. Ce qui lui permet d’afficher une croissance
+réelle robuste malgré l’environnement général de récession dans la sous-région CEMAC.
+8
+
+--- Page 10 ---
+2.3 Les contraintes opérées sur les variables endogènes
+Nous formulons diverses hypothèses quant à l’évolution probable de la masse monétaire
+en 2018. En effet, comme évoqué précédemment, il s’agit d’une variable qui est sous le
+contrôle étroit de la banque centrale qui peut dès lors connaître à l’avance son niveau.
+L’on peut, tout en l’endogénéisant, la contraindre à posséder les valeurs que nous lui
+fixeronssurunepartiedelapériodedeprévision.Cetoutilserévèled’autantpluspuissant
+qu’il peut servir dans un exercice de simulation. Quel effet sur la croissance et l’inflation
+d’une restriction monétaire sur les quatre prochains trimestres ’ Cette question a été
+très actuelle, à la suite de la Conférence des Chefs d’Etat de la CEMAC qui a privilégié
+l’ajustement réel face à la récession causée par la chute des cours du pétrole en 2014. Dans
+le bloc de réformes élaborées dans le cadre du Programme de Réformes Economiques et
+Financières de la CEMAC, la Banque Centrale devait pour sa part restreindre ses apports
+de liquidité aux banques en améliorant le respect de la réglementation de change.
+Nous considérons ainsi trois scénarios :
+– Un scénario de base, relatif à une évolution future en continuité de la dynamique
+récente observée. Pour ce faire, nous avons fixé cette dynamique de la masse moné-
+taire avec une tendance temporelle polynomiale de degré 3. Economiquement, il s’agit
+de se dire que les mesures de restrictions monétaires en vigueur depuis mars 2017
+continueront à avoir cours en 2018, au même rythme.
+– Unscénariooptimiste,danslequellesagrégatsmonétairescroîtrontsubstantiellement.
+Ce scénario correspond à un desserrement (ou une détente) des contraintes monétaires
+pesant sur les économies de la sous-région. Pour obtenir cette prévision, nous ajustons
+la masse monétaire à une tendance polynomiale temporelle de degré 2.
+– Un scénario pessimiste qui prend en compte un resserrement plus marqué de la poli-
+tiquemonétaireen2017.Cescénariopourraitprendreappuisurlanécessitéderaréfier
+la liquidité pour limiter les sorties de capitaux. Nous matérialisons ce scénario par le
+biais d’une tendance polynomiale temporelle d’ordre 4.
+Ces scénarios sont illustrés au niveau du graphique 1. Pour évaluer les performances
+prédictives des diverses approches, nous utilisons la statistique RMSE (Root Mean Square
+Error). L’approche de contrainte appliquée aux prévisions (suivant les trois scénarios)
+sera comparée aux RMSE obtenues dans le papier de Bikai et Ngomba (2018) afin de
+questionner la pertinence de la prise en compte dans les estimations bayésiennes.
+9
+
+--- Page 11 ---
+Figure 1: Hypothèses d’évolution des agrégats monétaires
+3 Résultats empiriques
+Les statistiques de RMSE obtenues sont consignées dans les tableaux ci-dessous. Glo-
+balement, l’approche de prévision conditionnelle permet d’avoir de meilleures prévisions
+surtout à court-moyen terme. De plus, les fancharts obtenus sont plus réduit que ceux
+issus des prévisions conditionnelles ce qui matérialisé la baisse de l’incertitude liée aux
+différents scénarios retenus.
+3.1 L’approche conditionnelle de prévision est généralement plus
+précise que l’approche inconditionnelle
+Nous comparons les RMSE de prévision obtenues avec ceux de Bikai etNgomba (2018).
+(Tableaux 9 à 20) De manière générale, pour tous les pays, l’approche conditionnelle de
+prévision se révèle plus précise à court terme, et passablement à moyen terme.
+S’agissant du Cameroun, son économie a affiché la plus forte résistance face à la réces-
+sion qui a affecté la sous-région à la suite depuis 2015. Les projections de croissance sont
+meilleures lorsqu’on effectue une contrainte sur le principal agrégat monétaire. La masse
+monétaire dispose ainsi d’informations avancées sur la situation de l’inflation, unique-
+ment à court terme, comme en témoigne l’analyse comparée des RMSE entre l’approche
+conditionnelle et l’approche inconditionnelle.
+La nécessité de tenir compte de la masse monétaire dans les projections d’inflation se
+révèle également en ce qui concerne la Centrafrique. Pour la croissance, l’incorporation
+de l’orientation restrictive de la politique monétaire améliore sa prévision, même si les
+RMSE restent encore très élevés.
+10
+
+--- Page 12 ---
+Au Congo, les conditions sur la masse monétaires ne sont utiles, pour la prévision de la
+croissance, qu’à très court terme. Pour l’inflation, il est nécessaire d’opérer des restrictions
+sur la masse monétaire pour mieux la prévoir.
+Au Gabon, l’approche conditionnelle de prévision surpasse l’approche inconditionnelle
+à tous les horizons.
+En Guinée Equatoriale, pour la croissance réelle comme pour l’inflation, l’approche
+conditionnelle domine à court terme. A moyen et long terme, l’information exogène sur
+la croissance monétaire n’est d’aucune utilité et participe même à dégrader la prévision.
+Le constat est plus ou moins le même au Tchad où l’horizon d’efficacité de l’approche
+conditionnelle s’allonge jusqu’au moyen terme. A long terme, l’information de court terme
+sur la masse monétaire ne s’avère pas utile.
+3.2 L’incertitude des prévisions est réduite avec l’approche condi-
+tionnelle de prévision
+Parce que l’approche conditionnelle de prévision participe à accroître la précision des
+projections, alors l’incorporation d’informations exogènes par rapport à l’évolution de cer-
+taines variables endogènes sur l’horizon de prévision permet ainsi de réduire l’incertitude
+par rapport à la prévision centrale. En effet, l’incertitude dans la prévision d’une variable
+est le résultat de l’incertitude notamment des variables explicatives et des chocs, en plus
+de celle du processus générateur des données (du modèle en somme). En réduisant l’in-
+certitude sur une ou plusieurs variables explicatives, cela entraîne la baisse mécanique de
+l’incertitude sur la prévision de la variable endogène.
+Cette constatation se vérifie, en comparant d’une part, les fancharts obtenus avec l’ap-
+proche conditionnelle, et d’autre part ceux précédemment obtenus dans Bikai et Ngomba
+(2018). (Tableaux 1 et 2)
+Etant donné que ce type de modèle ne peut être utilisé que pour la prévision à court
+terme, nous recommandons l’approche conditionnelle de prévision à la banque centrale,
+afin qu’elle puisse faire partie du dispositif actuel d’analyse conjoncturelle. Cette approche
+permetdefixerdiversscénariosquantàl’évolutionmacroéconomiquedanslefuturproche,
+mais aussi de fournir une prévision robuste à ces différents scénarios. Les projections
+fournies par l’approche conditionnelle de prévision avec les modèles VAR pourraient servir
+d’intrants au modèle de projections trimestrielles (QPM) qui fournirait à son tour des
+prévisions de moyen terme.
+L’approche conditionnelle pourrait également soutenir une démarche de transparence de
+la banque centrale à l’endroit des agents économiques, notamment en leur donnant son
+analyse de l’évolution macroéconomique. Cette dernière est naturellement conditionnée
+par la survenance de certains évènements dont la banque centrale doit tenir compte. La
+banque centrale a une connaissance avancée de la dynamique de son taux directeur et
+peut donc contraindre les prévisions inconditionnelles avec cette information disponible
+11
+
+--- Page 13 ---
+sur l’évolution future du taux d’intérêt nominal de court terme.
+Améliorer la précision des prévisions, comme le fait l’approche conditionnelle, participe
+également à mieux ancrer les anticipations des agents, et partant, accroît la crédibilité de
+l’institution.
+Figure 2: Comparaison des fancharts de prévision de la croissance réelle 1
+12
+
+--- Page 14 ---
+Figure 3: Comparaison des fancharts de prévision de la croissance réelle 2
+13
+
+--- Page 15 ---
+Figure 4: Comparaison des fancharts de prévision de l’inflation 1
+14
+
+--- Page 16 ---
+Figure 5: Comparaison des fancharts de prévision de l’inflation 2
+Conclusion
+L’objectif de cet article était de dé terminer l’efficacité relative des techniques condition-
+nelles et inconditionnelles dans les projections de croissance et d’inflation de la CEMAC.
+En effet, l’évolution prévisionnelle des variables macroéconomiques dépend en partie de
+l’action des décideurs pulics qu’ils soient monétaires ou budgétaires. L’action de la banque
+centrale s’imprime principalement sur la dynamique de la masse monétaire. Nous élabo-
+rons ainsi trois hypothèses (optimiste, pessimiste, en cohérence avec la tendance récente)
+sur son évolution. Ces hypothèses sont considérées dans le cadre d’un modèle VAR bayé-
+sien à trois variables endogènes (croissance réelle, inflation et croissance monétaire) dans
+lequel la croissance monétaire est contrainte sur un horizon de prévision de quatre pé-
+riodes. Nous comparons ainsi les performances en termes de Root Mean Square Error
+(RMSE) de ces projections conditionnelles avec les projections inconditionnelles conte-
+nues dans Bikai et Ngomba (2018). Nous aboutisson à deux principaux résultats : (i)
+l’approche conditionnelle de prévision est généralement plus précise que l’approche incon-
+ditionnelle; (ii) l’incertitude autour de la prévision centrale est réduite avec la technique
+conditionnelle de prévision. Ces résultats appellent ainsi la banque centrale à adopter la
+technique conditionnelle de prévision dans les projections de croissance réelle et d’infla-
+15
+
+--- Page 17 ---
+tion; mais également à considérer divers scénarios sur la variable à conditionner.
+Bibliographie
+[1] ANDERSSON, M.K., PALMQVIST, S. et WAGGONER, D.F. (2010); « Density-
+Conditional forecasts in dynamic multivariate models » : Working Paper Series 247, Sve-
+riges Riksbank
+[2] ANTOLIN-DIAZ, J., PETRELLA, I. et RUBIO-RAMIREZ, J.F. (2017); «Structu-
+ral scenario analysis and stress testing with Vector Autoregressions » : Working Papers
+2017-13, FEDEA
+[3] BACHE, I.W., BRUBAKK, L., JORE, A.S., MAIH, J. et NICOLAISEN, J. (2010);
+« Monetary policy analysis in practice : an integrated approcach for conditional forecas-
+ting »
+[4] BANBURA, M., GIANNONE, D. et LENZA, M. (2015); « Conditional forecasts
+and scenario analysis with vector autoregressions for large cross-sections» : International
+Journal of Forecasting, Vol 31, pp 739-756
+[5] BIKAI, J.L. et NGOMBA, F.G. (2018); «Prévisions de l’inflation et de la croissance
+en zone CEMAC » : BEAC Working Paper N°10/17
+[6] BLOOR, C. et MATHESON, T. (2011); «Real-time conditional forecasts with baye-
+sian VARs : an application to New-Zealand» : The North American Journal of Economics
+and Finance, Vol 22, pp 26-42
+[7] BRAZDIK, F. et FRANTA, M. (2017); « A BVAR model for forecasting of Czech
+inflation » : Czech National Bank Working Papers
+[8] CAMBA-MENDES, G. (2012); « Conditional forecasts on SVAR models using the
+Kalman filter » : Economics Letters, Vol 115, pp 376-378
+[9] CESPEDES, B.J.V, LIMA, E.C.R., MAKA, A. et MENDONCA, M.J.C. (2005);
+« Measuring monetary policy stance in Brazil » : Discussion Papers 1128, Instituto de
+Pesquisa Economica Aplicada
+16
+
+--- Page 18 ---
+[10] CHRISTOFFEL, K., COENEN, G. et WARNE, A. (2007); « Conditional versus
+unconditional forecasting with the New Area-Wide Model of the euro area » : MPRA
+Paper 76759, University Library of Munich, Germany
+[11] DOAN, T., LITTERMAN, R.B. et SIMS, C.A. (1984); «Forecasting and conditio-
+nal projection using realistic prior distribution » : Econometric Review, Vol 3, pp 1-100
+[12] FAUST, J. et LEEPER, E.M. (2005); « Forecasts and inflation reports : an eva-
+luation» : in A Conference on Inflation Targeting : Implementation, Communication and
+Effectiveness, Sveriges Riksbank, Stockholm, pp 10-12
+[13] GIANNONE, D., LENZA, M., MOMFERATOU, D. et ONORANTE, L. (2014);
+«Short-term inflation projections : a bayesian vector autoregressive approach» : Interna-
+tional Journal of Forecasting, Vol 30, pp 635-644
+[14] HIGGINS, P.C., ZHA, T. et ZHONG, K. (2016); « Forecasting China’s economic
+growth and inflation » : Federal Reserve Bank Atlanta Working Paper N°2016-7
+[15] JAROCINSKI, M. (2010); « Conditional forecasts and uncertainty about forecast
+revisions in vector autoregressions » : Economics Letters, Vol 108, pp 257-259
+[16] OSTERHOLM, P. et ZETTELMEYER, J. (2008); « The effect of external condi-
+tions on growth in Latin America » : IMF Staff Papers, Vol 55, pp 595-623
+[17] WAGGONER, D.F. et ZHA, T. (1999); « Conditional forecasts in dynamic multi-
+variate models » : The Review of Economics and Statistics, Vol 81, N°4, pp. 639-651
+17
+
+--- Page 19 ---
+ANNEXES
+Figure 6: Prévisions conditionnelles et inconditionnelles de la croissance et de l’inflation
+pour le Cameroun
+18
+
+--- Page 20 ---
+Figure 7: Prévisions conditionnelles et inconditionnelles de la croissance et de l’inflation
+pour le Centrafrique
+19
+
+--- Page 21 ---
+Figure 8: Prévisions conditionnelles et inconditionnelles de la croissance et de l’inflation
+pour le Congo
+20
+
+--- Page 22 ---
+Figure 9: Prévisions conditionnelles et inconditionnelles de la croissance et de l’inflation
+pour le Gabon
+21
+
+--- Page 23 ---
+Figure 10: Prévisions conditionnelles et inconditionnelles de la croissance et de l’inflation
+pour la Guinée Equatoriale
+22
+
+--- Page 24 ---
+Figure 11: Prévisions conditionnelles et inconditionnelles de la croissance et de l’inflation
+pour le Tchad
+Table 1: Comparaison des RMSE entre l’approche conditionnelle et l’approche incondi-
+tionnelle de prévision de la croissance réelle au Cameroun
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 0.95 0.95 0.99 1.60
+2 1.43 1.42 1.52 1.90
+3 0.99 0.99 0.99 1.88
+4 1.14 1.13 1.21 1.35
+5 1.03 1.02 1.10 1.05
+6 1.02 1.01 1.07 1.53
+7 1.19 1.17 1.27 1.19
+8 1.28 1.27 1.31 0.96
+23
+
+--- Page 25 ---
+Table 2: Comparaison des RMSE entre l’approche conditionnelle et l’approche incondi-
+tionnelle de prévision de l’inflation pour le Cameroun
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 0.58 0.57 0.69 1.09
+2 0.61 0.62 0.59 1.32
+3 0.96 0.95 1.05 1.08
+4 1.06 1.05 1.13 0.87
+5 1.15 1.14 1.22 1.34
+6 1.46 1.45 1.50 1.16
+7 1.66 1.65 1.73 1.10
+8 1.82 1.81 1.89 0.91
+Table 3: Comparaison des RMSE entre l’approche conditionnelle et l’approche incondi-
+tionnelle de prévision de la croissance réelle pour la Centrafrique
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 1.59 2.56 1.33 2.61
+2 2.11 3.10 1.86 2.31
+3 1.14 1.86 1.16 2.38
+4 1.61 2.93 1.41 2.26
+5 1.96 3.25 1.79 2.38
+6 1.68 3.80 1.26 3.31
+7 1.65 3.63 1.27 2.64
+8 1.30 3.31 0.88 2.76
+Table 4: Comparaison des RMSE entre l’approche conditionnelle et l’approche incondi-
+tionnelle de prévision de l’inflation pour la Centrafrique
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 2.26 2.29 2.26 5.33
+2 3.88 3.86 3.93 6.80
+3 4.77 4.76 4.79 7.87
+4 4.92 4.67 5.01 5.65
+5 4.73 4.26 4.90 5.04
+6 4.76 4.31 4.92 4.07
+7 4.89 4.40 5.05 3.43
+8 5.17 4.88 5.27 4.44
+Table 5: Comparaison des RMSE entre l’approche conditionnelle et l’approche incondi-
+tionnelle de prévision de la croissance réelle pour le Congo
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 1.01 3.47 0.96 1.37
+2 1.88 4.83 1.71 1.31
+3 2.60 2.78 2.32 2.33
+4 3.79 4.92 3.22 1.73
+5 4.24 3.00 3.69 1.22
+6 4.90 5.67 4.36 2.48
+7 6.01 6.78 5.37 1.24
+8 6.35 7.42 5.70 1.87
+24
+
+--- Page 26 ---
+Table 6: Comparaison des RMSE entre l’approche conditionnelle et l’approche incondi-
+tionnelle de prévision de l’inflation pour le Congo
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 0.97 1.01 0.93 1.77
+2 1.23 1.27 1.19 1.71
+3 1.67 1.77 1.57 1.68
+4 1.56 1.66 1.48 1.59
+5 1.34 1.44 1.25 1.98
+6 1.53 1.67 1.39 1.22
+7 1.40 1.50 1.31 1.80
+8 1.26 1.25 1.27 1.34
+Table 7: Comparaison des RMSE entre l’approche conditionnelle et l’approche incondi-
+tionnelle de prévision de la croissance réelle pour le Gabon
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 1.09 1.28 1.90 2.67
+2 1.59 1.79 2.00 3.67
+3 1.70 2.12 2.43 3.40
+4 2.06 1.88 3.21 2.99
+5 1.78 2.15 2.47 2.99
+6 1.79 2.13 1.86 3.24
+7 2.22 2.39 2.43 3.64
+8 2.09 2.37 2.00 2.67
+Table 8: Comparaison des RMSE entre l’approche conditionnelle et l’approche incondi-
+tionnelle de prévision de l’inflation pour le Gabon
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 0.77 0.93 1.07 1.46
+2 1.45 1.58 1.37 1.63
+3 1.82 2.04 1.70 2.63
+4 1.64 1.81 1.66 2.41
+5 1.51 1.57 1.76 1.98
+6 1.43 1.30 1.99 2.20
+7 1.27 1.12 1.76 1.73
+8 1.33 1.13 1.70 1.26
+Table 9: Comparaison des RMSE entre l’approche conditionnelle et l’approche incondi-
+tionnelle de prévision de la croissance réelle pour la Guinée Equatoriale
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 2.69 2.78 2.61 4.19
+2 3.68 4.06 3.30 4.06
+3 4.75 5.10 4.41 4.69
+4 5.06 5.40 4.72 5.10
+5 6.82 7.28 6.37 3.96
+6 8.23 8.72 7.73 3.82
+7 9.66 10.21 9.11 4.72
+8 11.12 11.71 10.54 3.74
+25
+
+--- Page 27 ---
+Table 10: Comparaison des RMSE entre l’approche conditionnelle et l’approche incon-
+ditionnelle de prévision de l’inflation pour la Guinée Equatoriale
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 0.68 0.67 0.70 0.90
+2 1.10 1.12 1.07 1.31
+3 1.51 1.54 1.49 1.02
+4 1.76 1.82 1.71 1.11
+5 2.10 2.18 2.02 0.64
+6 2.46 2.56 2.37 1.26
+7 2.80 2.89 2.72 0.90
+8 3.06 3.14 2.97 0.81
+Table 11: Comparaison des RMSE entre l’approche conditionnelle et l’approche incon-
+ditionnelle de prévision de la croissance réelle pour le Tchad
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 3.37 4.35 2.79 4.25
+2 3.33 2.50 4.41 4.36
+3 2.98 2.61 3.45 4.63
+4 4.23 3.54 4.99 5.07
+5 5.02 3.94 6.26 5.03
+6 5.59 4.14 7.35 3.55
+7 5.92 4.52 7.46 3.20
+8 6.67 5.22 8.27 4.05
+Table 12: Comparaison des RMSE entre l’approche conditionnelle et l’approche incon-
+ditionnelle de prévision de l’inflation pour le Tchad
+Horizon Scénario de base Scénario optimiste Scénario pessimiste Prévisions inconditionnelles
+1 2.37 1.75 3.13 3.45
+2 2.39 2.85 2.12 4.60
+3 2.71 3.00 2.47 4.60
+4 2.66 3.09 2.42 4.50
+5 2.55 3.10 2.34 4.44
+6 2.81 3.65 2.42 3.54
+7 3.80 4.38 3.53 2.79
+8 3.90 4.43 3.63 2.42
+26

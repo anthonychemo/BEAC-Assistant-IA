@@ -1,0 +1,117 @@
+Source PDF : LC_014_GVR_2019_relative_à_la_rétrocession_des_devises_à_la_Banque_Centrale_c66b1bf2.pdf
+Chemin original : scraping\beac_data\P Des Changes\Circulaires et décisions\LC_014_GVR_2019_relative_à_la_rétrocession_des_devises_à_la_Banque_Centrale_c66b1bf2.pdf
+Date extraction : 15/06/2026 23:41:22
+======================================================================
+
+--- Page 1 ---
+BANQUE DEs ËTÀTS Yooundé, Le
+DË L'ATRIQUE CÊNTRALE
+'/' a/''
+J.
+,/.'z/.r2/-/t2
+A I'attentiotr des Directeurs
+Généraux des établissements de
+crédit
+L':L:JL/GVR
+Lettre Circulaire 20 I 9
+Relative à la rélrocession des devises à Ia Banque Centrale
+Madame/Monsieur le Directeur Général,
+En application du Règlement N"02ll 8/CEMAC^IMAC/CM portant Réglementation
+des changes dans la CEMAC, les devises encaissées par les intermédiaires agréés sont
+rétrocédées à la Banque Centale.
+L'lnstruction n'003/GR/2019 relative à la rétrocession des devises à la BEAC par les
+établissements de crédit détinit ies conditions et modalités de mise en cauvre de cettç
+disposition Églemettaire.
+La présente Lettre Circulaire donne des indjcations pratiques quant aux modalités de
+rétrocession. Vous voudrez bien trouver en annexe les modèles staodardisés de déciaration à
+la Banque Centrale de vos rapatriements et rétrocessions de devises'
+Il s'agit de fiÇhiers sous format Excel qui seront uansmis pal messages électoliques'
+tous les jolrs avatt l0 heures, aux couiriels du Service Etudes des Transferts et Suivi de la
+Réglementation d€s Changes de la Dircrlion Nalionalc du pays de volre ressort el de la
+Ccilule Centrale d'Etudc des Transferts et de Suivi de la Réglementation des Changes aux
+Services Centraux V7..
+
+--- Page 2 ---
+L
+Règles prâtiques de rétrocession
+l,es aspecls ri-après sont à respeclcr au moment de la rétrocession à Ia Banque
+Centrale des devises encaissées cluotidienncment par les établissements de crédit :
+.
+Une rétrocession globale des sommes encaissées aù cours d'une jourrée J en une
+fois à J+3 au plus tard : tous les rapatriements (devises encaissées) reçus en une joumée
+su| un compte de correspondant ibnt I'objet d'une rétrocession en une seuie fbis à J+3 au
+plus tard. Les rétrocessions sonl dues à la BEAC quel que soit le niveau des avoirs
+extéricurs de l'établissem€nt de crédit :
+.
+Les opérations ne faisant pâs l'objet de rétrocession sont renseignées dans l'état
+(
+de rapaûiemenl avec un coefl'lcient de rélrocession égal à 0 > i
+.
+Lâ rétrocession se fâit dans la devise de râpatriement, nolamment pour ce qul est
+de l'€uro et du dollar américain. Pour les rapat ements dans i9s aùtres devises' la
+rétrocession à la BEAC seÉ laite sui le compte en euros domicilié à la Banque de France ;
+' La comrnrnicâtiot des iûformations nécessrires âu suiYi des rétrocessions:
+comme le stipùie l'article 9 dc I'lnstruction n'003iGR-/2019 relative à la rétrocession des
+devises par les étâblissements de crédit, ceux-ci transmettent à la fin de chaque joumée
+ouvrable à la Banque Cenfrale, ies ordrcs de transfert à J-l atlestarlt des rétrocessions des
+devises. Le message SWIFT de rétrocession sera formaté tel qu'indiqué dans le point
+suivant. Il y aura donc autant de messages MT202 que de compt€s de conespondants ayant
+ieçu des opérations sujettes à rétrocession à J-3 au plus tard
+BEAC à i
+Lo.s des rétrocessions, les comptes de la Banque Centrale ci-après sont ceux à
+impacter:
+.
+Compte libellé en dollars et domicilié à la Citibank New York (numéro de compte
+36357124) pour ies réhocessions en dollars ;
+i Compte libellé en euros et domicilié à la Banque de France (IBAN
+FR7630001000640000005I 04277 pour les rétrocessions en devises auÛes que le
+dollar.
+Il est impératif ql:e les intermédiaires agréés formateDt corectement les mcssages
+SWIFT MT202 adressés à leuls correspondattsi-.
+w
+
+--- Page 3 ---
+a) Rétrocessiotr erl dollars ;
+MT 202- Rétrocessiotr en dollars à lâ Citibalk New York
+Sender : BtC - Participant
+Receiver : BIC - Conespondant du participant
+21 : Ref MT I 03 (ou date de rapatriement pour les rén ocessions goupées).
+538 : D/Cornpte à débiter chez le correspondant
+564 : CITIUS33
+51 A : /36357124
+BEACCMCXOgl
+58A ; /Compte de règlement du participant (SYGMA)
+BIC du participant
+72 : ,iACC/ Rétrocession sur rapatriement dujj mm aa
+b) Rétrocession eD euro et autres deYises:
+MT2o2-Rétrocession en euro et aûtres devises à Iâ ùe de France
+Serder : BIC -Padicipart
+Receiver ; BIC - Conespondant du participant
+2 I : Ref MT 103 (ou date de rapatriement pour les tékocessions groupées)
+538 ; D/Compte à débiter chez le correspondant
+564 : BDFEFRPPCCT (er euro) ou BDFEFRPPSRD (autre devises hors dollar)
+57A : FR7630001000640000005 1042'7 7
+BIC BEAC Direction Nationale
+58A : /Compte de règlement du participant (SYGMA)
+BIC du participanl
+7l : /ACC/ Rétroc€ssion sur
+
+--- Page 4 ---
+Les modèles d'états de déciaration en annexe sont consignés dans un fichier Excel
+IDFX l00A) coltenanr deux onglets dont un pour ies rapar ements (DFX II0A\ et I'autre
+pour les .étrocessions (DFX l2AA). Ils seront accompagnés des messages MT202 de
+rétroccssion à J- 1.
+Le premie. onglet (érat DFX I I AA), utlle au calcul des montants à rétrocéder, reprend
+lous les mouvements créditeurs sur chacùn des comptes de con-espondants ainsi que les
+devises obtenues de la BEAC et les nivellements de compte. Le second onglet (érar D,E_y
+./?00) indique les montants rébocédés par comptes de corespondarts.
+L'objet du courriel à envoyer à la BEAC sera structuré qu'il
+DFX1000_Nom de la banque_Pays_Dâte (jjlmm/aaaa).
+La présente Lettre Circulairc abroge Ies dispositions antérieu.es portant sur le même
+objet el prend effet à compter du I 5 juillet 2019.
+Veuillez agréer, MadamelMonsicur le Directe[r Général, I'assurance de ma
+considération distioguée.
+(/,t
+w4/
+ABBAS MAIIAMAT TOLLI
+P.I : 02

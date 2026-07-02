@@ -1,0 +1,137 @@
+Source PDF : Règlement_COBAC_R-93_06_relatif_à_la_liquidité_des_établissements_de_crédit_94a3f1fd.pdf
+Chemin original : scraping\beac_data\Supervision bancaire\Reglements De Cobac\Règlement_COBAC_R-93_06_relatif_à_la_liquidité_des_établissements_de_crédit_94a3f1fd.pdf
+Date extraction : 15/06/2026 19:55:33
+======================================================================
+
+--- Page 1 ---
+REGLEMENT COBAC R-93/06 RELATIF A LA
+LIQUIDITE DES ETABLISSEMENTS DE CREDIT
+La Commission Bancaire de l’Afrique Centrale,
+Vu la Convention du 16 octobre 1990 portant création d’une Commission
+Bancaire de l’Afrique Centrale ;
+Vu l’article 9 alinéa 1 de l’annexe à la Convention du 16 octobre 1990 ;
+DECIDE
+Article 1er Les établissements de crédit mentionnés à l’article 2 de l’annexe à la
+Convention du 16 octobre 1990 portant création d’une Commission Bancaire de
+l’Afrique Centrale sont tenus de respecter un rapport minimum entre leurs
+disponibilités et leurs exigibilités à moins d’un moins, dit “ rapport de liquidité ”.
+Article 2 Le numérateur du rapport de liquidité comprend :
+1°- lorsqu’il est prêteur, le solde de trésorerie tel qu’il est défini à l’article 4 du présent
+règlement ;
+2°- lorsqu’il est prêteur, le solde des comptes de recouvrement ;
+3°- les facultés effectives de tirage auprès de la Banque Centrale, déduction faite des
+mobilisations réalisées. Ces facultés, qui portent sur des effets privés mobilisables,
+sont déterminées à partir du portefeuille déposé en garantie à la BEAC dans la limite
+le cas échéant de la cote globale s’agissant des crédits à court terme.
+Exceptionnellement, lorsqu’un établissement sera clairement incapable de maintenir
+ses facultés de tirage en renouvelant au cours du mois suivant les effets déposés
+auprès de la BEAC, le montant des avances correspondantes viendra en déduction
+des facultés de tirage ; dès lors celles-ci pourront devenir négatives et, à ce titre, être
+retenues au dénominateur du rapport de liquidité, tel qu’il est défini à l’article 3 du
+présent règlement.
+4°- l’excédent éventuel des accords de refinancement d’une validité minimale de six
+mois reçus d’établissements soumis à la présente réglementation et d’autres
+entreprises effectuant à l’étranger à titre de profession habituelle des opérations de
+banque, sur les accords de refinancement consentis à des établissements de même
+nature.
+
+--- Page 2 ---
+Pour pouvoir être retenus, les contrats relatifs à des lignes de refinancement
+en faveur de l’établissement assujetti doivent comprendre des clauses d’irrévocabilité
+durant la période contractuelle de validité et de mise à disposition à première
+demande. Ils doivent, en outre, être communiqués au Secrétariat Général de la
+Commission Bancaire lors de la transmission des rapports de liquidité. Le Secrétaire
+Général peut refuser de les retenir. En pareil cas, ils doivent être exclus des bases
+de calcul du prochain rapport de liquidité.
+5°- 75 % des échéances à moins d’un mois des concours non réescomptables
+consentis à la clientèle.
+Par concours non réescomptables, il faut entendre tous les concours qui ne
+sont pas effectivement admis au refinancement de la Banque Centrale : cela inclut
+les crédit mobilisables non représentés par des effets déposés à la BEAC ou leur
+fraction excédant le plafond de cote globale.
+6°- 10 % des comptes débiteurs et autres sommes dues par la clientèle.
+- 10 % des comptes débiteurs à vue, prêts au jour le jour et autres prêts ayant au
+plus un mois à courir, consentis aux Trésors, aux établissements financiers et aux
+institutions financières diverses autre que le banques.
+Les créances douteuses sur des établissements financiers sont exclues des
+encours débiteurs au sens du présent article.
+Article 3 Le dénominateur du rapport de liquidité comprend :
+1°- lorsqu’il est emprunteur, le solde de trésorerie tel que défini à l’article 4 du
+présent règlement ;
+2°- lorsqu’il est emprunteur, le solde des comptes de recouvrement ;
+3°- lorsqu’il est emprunteur, le solde des comptes de régularisation et des comptes
+de débiteurs et créditeurs divers (exception faite de la fraction éventuellement gelée
+de ces comptes) ;
+4°- lorsqu’il est emprunteur, le solde des comptes de succursales et agences ;
+5°- à titre exceptionnel, le montant des tirages auprès de la BEAC qui ne pourront
+être renouvelés dans le mois, faute d’effets mobilisables ;
+6°- le cas échéant, l’excédent des accords de refinancement donnés à des
+établissements soumis à la présente réglementation et à d’autres entreprises
+effectuant à l’étranger à titre de profession habituelle des opérations de banque sur
+les accords de refinancement d’une validité minimale de six mois reçus
+d’établissements de même nature.
+
+--- Page 3 ---
+Pour pouvoir être retenus au titre du présent article, les contrats relatifs à des
+lignes de refinancement en faveur des établissements assujettis doivent comprendre
+des clauses d’irrévocabilité durant la période contractuelle de validité et de mise à
+disposition à première demande. Ils doivent en outre être communiqués au
+Secrétariat Général de la Commission Bancaire lors de la transmission des rapports
+de liquidité. Le Secrétaire Général peut refuser de les retenir. En pareil cas, ils
+doivent être exclus des bases de calcul du prochain rapport de liquidité;
+7°- 50 % des dépôts à terme et bons de caisse à échoir dans un délai inférieur à un
+mois ;
+8°- 25 % des dépôts à vue ;
+- 25 % des dispositions émises et sommes en attente d’imputation ;
+- 25 % des comptes créditeurs à vue, emprunts au jour le jour et autres emprunts
+ayant au plus un mois à courir obtenus des Etats, des établissements financiers et
+des institutions financières diverses autres que les banques ;
+9°- 10 % des comptes d’épargne et comptes sur livrets ;
+10°- 2 % des engagements hors-bilan en faveur de la clientèle.
+Article 4 Le solde de trésorerie est égal à la différence entre les encours débiteurs et
+les encours créditeurs suivants :
+1°- les encours qui sont considérés comme débiteurs au sens du présent article
+comprennent :
+- les avoirs en caisse,
+- les comptes à vue,
+- les prêts au jour le jour,
+- les autres prêts ayant au plus un mois à courir à l’Institut d’Emission,
+aux CCP et aux banques.
+Les créances douteuses sur des banques sont exclues des encours débiteurs au
+sens du présent article.
+- Les encours qui sont considérés comme créditeurs au sens du présent article
+comprennent les comptes à vue, les emprunts au jour le jour, les autres emprunts
+ayant au plus un mois à courir auprès de l’Institut d’Emission, des CCP et
+organismes étrangers assimilés, et des banques.
+Les concours consentis par l’Institut d’Emission au titre du refinancement de
+créances sont exclus des encours créditeurs au sens du présent article.
+Le solde de trésorerie est considéré comme prêteur lorsque les encours visés
+à la rubrique 1° du présent article excèdent les encours visés à la rubrique 2°. Dans
+le inverse, le solde de trésorerie est considéré comme emprunteur.
+
+--- Page 4 ---
+Article 5 Les établissements assujettis doivent, à tout moment, présenter un rapport
+de liquidité au moins égal à 100 %.
+Article 6 Les établissements de crédit communiquent chaque fin de mois au
+Secrétariat Général de la Commission Bancaire le rapport de liquidité du mois à
+venir, sur un état conforme au modèle défini par instruction. Ils soumettent également
+chaque mois un état complémentaire des emplois, ressources et engagements selon
+la durée restant à courir, conforme au modèle défini par instruction.
+Article 7 En cas de non respect de la norme fixée à l’article 5 du présent règlement,
+la Commission Bancaire peut adresser une injonction à l’effet notamment de prendre
+dans un délai déterminé toutes mesures de nature à mettre l’établissement concerné
+en conformité avec cette norme.
+Si un établissement de crédit n’a pas déféré à une injonction ou n’a pas tenu
+compte d’une mis en garde, ou a enfreint gravement la réglementation, la
+Commission Bancaire peut prononcer une ou plusieurs des sanctions disciplinaires
+prévues à l’article 13 de l’annexe à la Convention du 16 octobre 1990.
+Article 8 La Commission Bancaire peut autoriser un établissement à déroger
+temporairement aux dispositions du présent règlement en lui impartissant un délai
+pour régulariser sa situation.
+Article 9 Le présent règlement entre en vigueur le 1er juillet 1993.
+Article 10 Le Secrétaire Général de la Commission Bancaire est chargé de
+l’exécution du présent règlement.
+Fait à Yaoundé le 19 avril 1993
+Pour la Commission Bancaire,
+Le Président,
+Jean-Félix MAMALEPOT

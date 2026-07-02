@@ -1,0 +1,3655 @@
+Source PDF : BEAC_Working_Paper_n°01_22_-_CEMAC-GLOBAL_Introducing_a_macroeconomic_model_for_a_small_op_2af04b56.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_n°01_22_-_CEMAC-GLOBAL_Introducing_a_macroeconomic_model_for_a_small_op_2af04b56.pdf
+Date extraction : 15/06/2026 21:20:44
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 01/22 -
+CEMAC-GLOBAL : Introducing a macroeconomic model for a small
+open monetary union of oil-exporting developing countries
+ESSIANE Patrick-Nelson Daniel
+Economiste
+Direction des Etudes, de la Recherche et des
+Statistiques
+essiane@beac.int
+B ANQU E D E S E T A T S D E
+L’AF R IQ U E C E NT R ALE
+Les opinions émises dans ce document de
+7 36, Av e n ue M on s e i g n e ur
+travail sont propres à leur (s) auteur (s) et ne
+V og t B P:1 9 1 7 Y a o un d é
+représentent pas nécessairement la position de la
+C a me roun
+Banque des Etats de l’Afrique Centrale.
+T e l :(2 37 ) 2 2 2 34 0 30 /
+2 2 2 34 060 The opinions expressed in this working
+paper are those of the author (s) and don’t
+F a x : (2 37 ) 2 2 2 33 32 9
+necessarily represent the views of the Central Bank
+ww w.be a c.i n t
+of Central Africa States.
+D I R E C T I O N D E S E T U D E S, D E L A R E C H E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+CEMAC-GLOBAL : Introducing a macroeconomic model for a small open
+monetary union of oil-exporting developing countrieszτ
+Essiane Patrick-Nelson Daniel∗
+May 2022
+Abstract
+Evaluating and analyzing the country-specific impacts of the monetary policy and the spillo-
+ver effects of domestic shocks is a key policy concern in monetary unions. In order to address the
+relative lack of consideration of these issues in the literature on the Central African Economic
+and Monetary Community (CEMAC), this paper outlines the key features of a semi-structural
+multi-countrymacroeconomicmodeloftheCEMACeconomiescalledCEMAC-GLOBAL.Here,
+every country of the monetary union is modelled as a small open economy, with a single Cen-
+tral Bank in charge of the monetary policy. Based on a New Keynesian framework, this model
+incorporates (i) a distinction between oil and non-oil sector, (ii) real-financial linkages with cre-
+dit cycles, (iii) CEMAC-specific monetary policy features related to the non-conventional fixed
+exchange rate regime of this monetary union, (iv) an explicit modelling of liquidity injections
+of the Central Bank and (v) national fiscal policies making an arbitrage between closing the
+output gap and stabilizing the public debt. The model is estimated with Bayesian methods in
+order to improve the empirical performances. Model simulations provide illustrations of (i) how
+the Central Bank could respond to various shocks, (ii) the asymmetric effects of the monetary
+impulses on CEMAC economies or (iii) the spillover effects of fiscal policy shocks. Historical
+decompositions replicate key stylized facts about the recent oil-crisis and COVID-19 pandemic.
+Keywords : Semi-structural modeling; Multi-country models; spillover effects; Monetary
+Union; Africa; Monetary Policy; Fiscal Policy; Heterogeneity; Macroeconomic modeling
+JEL Classification : C54; E37; E52; E62; O55
+z. IamdeeplythankfultoJuniorMaihfortheavailability,thepatienceandthepricelesscommentson
+thismodel.IamalsothankfultoCarlosdeResendeandtheAfricanTrainingInstitutestaffoftheIMF’s
+Institute for Capacity Development for having largely inspired the launch of this research project. I am
+also full of gratitude to Désiré Avom, Leo Spencer Keungne and Kenneck Massil for their comments and
+discussionsduringtheBankofCentralAfricanStates’s(BEAC)researchseminars.Iwouldliketoextend
+my sincere thanks to Gabin Afomongono, Jacques Landry Bikai, George Diffo, Blaise Ehowe, Armand
+Fossouo,DorelMaleoBatoumeni,FranckMbaEyene,EvrardMounkala,EmileThierryMvondo,Francis
+Ngomba Bodi, Julie Onomo, Mustafa Taher and my colleagues form the Economic studies, Research and
+Statistics Department of the BEAC for their precious advice, in-depth discussions and their availability
+duringthismodellingprocess.Ialsowishtothanktheparticipantsof23rdCentralBankMacroeconomic
+Modelling Workshop and the 2020 BEAC research seminar for the rich discussions and suggestions. I’d
+alsoliketoextendmygratitudetotheBEAC’sDirectorinchargeofResearch,Mr.HamadouAbdoulaye,
+and the governing board of the BEAC for having allowed the funding of this research.
+τ. This is a working paper, and hence it represents research in progress. It is not meant to represent
+the position or opinions of the BEAC or its Members, nor the official position of any staff members Any
+errors or mistakes are the faults of the author.
+∗. Economist, Bank of Central African States (BEAC), Department of Economic Studies, Research
+and Statistics. essiane@beac.int
+1
+
+--- Page 3 ---
+Résumé
+L’évaluation et l’analyse du degré d’asymétrie des effets de la politique monétaire ainsi
+que des effets de débordement des chocs spécifiques à des pays membres est une préoccupa-
+tion essentielle en union monétaire. Face à la relative faible considération de ces enjeux dans
+la littérature portant sur la CEMAC, ces travaux présentent les principales caractéristiques
+d’un modèle macroéconomique semi-structurel multipays des économies de la CEMAC appelé
+CEMAC-GLOBAL. Ce modèle considère chaque pays de la CEMAC comme une petite éco-
+nomie ouverte disposant d’une Banque Centrale en charge de la politique monétaire commune.
+CEMAC-GLOBALreposesuruncadrethéoriquenouveaukeynésienincorporant(i)unedistinc-
+tion entre secteur pétrolier et non pétrolier ainsi que (ii) des liens entre secteur réel et financier
+intégrant des cycles du crédit. En outre, le modèle prend en considération (iii) les spécificités
+liées au régime de change fixe non conventionnel de la CEMAC, ainsi (iv) qu’une modélisation
+explicite des injections de liquidités dans le comportement de la Banque Centrale en plus de la
+règle de détermination du taux d’intérêt. Également, le modèle incorpore (v) des politiques bud-
+gétairesnationalesquifontfaceàunarbitrageentreannulationdel’écartdeproductionnational
+et maîtrise de leur niveau d’endettement. Le modèle est estimé avec une approche bayésienne
+dans l’optique d’en améliorer les performances empiriques. Les simulations opérées permettent
+entre autres d’illustrer (i) comment la Banque Centrale pourrait répondre à différents chocs,
+(ii) le degré d’asymétrie des effets de la politique monétaire entre les pays membres ainsi que
+(iii) les effets de débordement des chocs de politique budgétaire. En outre, les décompositions
+historiques répliquent les principaux faits stylisés relatifs à la crise pétrolière de 2014 ainsi qu’à
+la pandémie de COVID-19.
+Keywords : Modèles semi-structurels; Modèle multipays; Effets de débordement; Union
+Monétaire; Afrique; Politique monétaire; Politique budgétaire; Hétérogénéités; Modélisation
+macroéconomique
+Classification JEL : C54; E37; E52; E62; O55
+2
+
+--- Page 4 ---
+Résumé non-technique
+Une Banque Centrale conduit sa politique monétaire dans l’optique d’atteindre des
+objectifs macroéconomiques déterminés dans son mandat. A cette fin, elle effectue une
+analyse rétrospective et prospective de l’économie de sa zone d’émission ainsi que de
+l’environnement international. Sur cette base, elle ajuste ses instruments (taux directeurs,
+coefficients de réserves obligatoires, injections de liquidités, etc.) de manière à obtenir la
+réaction la plus en adéquation possible de l’économie de sa zone d’émission vis-à-vis de
+ses objectifs de politique monétaire.
+Exercice habituellement réalisé sur un seul pays, il gagne nettement en complexité
+lorsqu’il est conduit dans le cadre d’une union monétaire. L’un des principaux problèmes
+dans la conduite de la politique monétaire en union monétaire réside dans le degré plus ou
+moinsélevéd’hétérogénéitédespayssurlaquelleelles’exerce.Eneffet,lasituationdevient
+alors semblable à celle d’un pilote de drone devant guider plusieurs appareils en même
+temps avec une seule télécommande : sa réussite dépendrait non seulement de la similarité
+des drones à sa charge, mais également de la nature et du degré de synchronisation
+des évènements qui affecteraient chacun d’eux. C’est la raison pour laquelle les courants
+orthodoxes de la théorie économique suggèrent que seuls des pays similaires fassent partie
+d’une même union monétaire (cf. Théorie des zones monétaires optimales).
+Toutefois,enréalité,ilestrarequetouslespaysmembresd’uneunionmonétaire(voire
+même les régions d’un même pays) soient suffisamment proches économiquement, géogra-
+phiquement ou institutionnellement pour correspondre à 100% à ce que recommande la
+théorie économique standard. En pratique, les États membres d’une union monétaire
+cherchent à faire converger leurs structures et politiques économiques de sorte à atténuer
+leurs dissemblances et faciliter la conduite des politiques économiques et, en particulier,
+celle de la politique monétaire.
+L’hétérogénéité des économies membres d’une union monétaire n’étant jamais tota-
+lement éliminée, il est donc important d’évaluer non-seulement les potentiels effets asy-
+métriques de la politique monétaire sur les économies de ladite union, mais également
+d’apprécier les effets de débordement des chocs économiques spécifiques à chaque écono-
+mie de l’union sur les autres membres. De la sorte, la Banque Centrale peut non seulement
+mieux apprécier l’incidence de son action tant à l’échelle de l’union que sur celle de chaque
+3
+
+--- Page 5 ---
+pays membre, mais également concevoir de meilleures stratégies de réponse lors de la sur-
+venance de chocs affectant un sous-ensemble de sa zone d’émission.
+Les chercheurs en économie se sont depuis longtemps intéressés à ces problèmes. La
+littérature économique a ainsi enregistré de nombreuses contributions dans ce sens, en
+particulier depuis l’entame du processus de création de la zone Euro au cours des années
+1990. Un accent important a tout spécialement été mis sur la création d’outils suscep-
+tibles de répliquer à petite échelle les éléments importants de ces économies à des fins de
+simulations de politiques économiques et de prévisions. Certains de ces outils (ou modèles
+macroéconomiques) ont tout spécialement été conçus pour évaluer et guider la politique
+monétaire dans un environnement relativement complexe.
+Toutefois, l’effort de recherche en matière de modélisation macroéconomique en union
+monétaire s’est essentiellement concentré sur les économies avancées (zone Euro en tête),
+s’intéressantrelativementpeuauxunionsmonétairesdespaysendéveloppement.LaCom-
+munauté Économique et Monétaire des États de l’Afrique Centrale (CEMAC), pourtant
+l’une des plus anciennes unions monétaires de l’Histoire, a ainsi fait l’objet de peu de tra-
+vaux cherchant à la modéliser à des fins d’analyse des effets asymétriques de sa politique
+monétaire ainsi que des effets de débordement des chocs spécifiques à des pays membres
+de l’union monétaire. Le présent travail ambitionne d’adresser ce problème.
+En particulier, cet article présente les principales caractéristiques du modèle CEMAC-
+GLOBAL, un modèle macroéconomique semi-structurel multipays conçu pour les éco-
+nomies de la CEMAC (Cameroun, République Centrafricaine, Congo, Gabon, Guinée
+Équatoriale et Tchad). Il s’agit d’un modèle d’équilibre général dynamique stochastique
+(DSGE) dont la base repose sur les fondements théorique de l’école des nouveaux key-
+nésiens, mais dont plusieurs extensions ont été incorporées pour permettre de prendre
+en compte des caractéristiques spécifiques aux économies de la CEMAC. Ainsi, il inclut
+(i) une distinction entre secteur pétrolier et non pétrolier, (ii) une inter-relation entre
+sphère économique réelle et financière, (iii) des spécificités liées au régime de change fixe
+non conventionnel de la CEMAC, (iv) une prise en compte explicite du comportement
+d’injections de liquidités de la Banque Centrale ainsi (v) que des politiques budgétaires
+nationales faisant face à un arbitrage entre atteinte du potentiel de leurs économies na-
+tionales respectives et maîtrise de leur niveau d’endettement.
+4
+
+--- Page 6 ---
+Afin de faire correspondre le comportement empirique du modèle CEMAC-GLOBAL
+aux principaux faits stylisés des économies de la CEMAC, il est nécessaire de donner des
+valeursauxparamètresdesdifférenteséquationsquilecomposent.Danscetteoptique,une
+approche séquentielle a été adoptée. Tout d’abord, la technique de la limited information
+impulse response matching a été utilisée pour un premier calibrage des paramètres relatifs
+à chacun des pays de la CEMAC. Cette technique vise à déterminer une combinaison de
+paramètresquipermetderépliquerqualitativementet,danslamesuredupossible,quanti-
+tativement, le comportement des économies en terme de réponses à différents chocs. Pour
+y parvenir, le modélisateur doit en général se reposer sur des travaux antérieurs ayant
+partiellement adressé certains aspects du modèle, les résultats de modèles similaires por-
+tant sur d’autres pays, ou encore sa connaissance des économies qu’il modélise. Une fois
+les différentes combinaisons des paramètres pertinentes obtenues, celles-ci sont considé-
+réescommepriorsd’uneestimationbayésienne.Schématiquement,l’estimationbayésienne
+consiste à combiner l’information a priori sur les paramètres à estimer et l’information
+contenue dans les données empiriques des économies étudiées. La combinaison de ces deux
+sources d’informations permet d’obtenir les valeurs dites "a posteriori" des paramètres du
+modèle. Celles-ci sont une sorte de "mise à jour" de la connaissance des économies étu-
+diées sur la base des données utilisées pour l’estimation. Dans le cadre de ces travaux, une
+estimation bayésienne est conduite sur des versions mono-pays de CEMAC-GLOBAL,
+afin d’alléger la charge de calcul. L’estimation repose sur un algorithme d’optimisation
+par biomimétisme répliquant le comportement de recherche de nourriture d’un essaim
+d’abeilles mellifères. Cette technique est particulièrement intéressante pour l’optimisation
+de fonctions complexes à de nombreuses dimensions comme celle relative à la maximisa-
+tion de la distribution a posteriori des paramètres du modèle CEMAC-GLOBAL. Une
+fois ces paramètres obtenus, les versions estimées mono-pays sont consolidées pour obtenir
+le modèle CEMAC-GLOBAL estimé.
+Afin d’apprécier la pertinence du modèle estimé, des analyses de fonctions de réponses
+impulsionnelles suite à des chocs de (i) politique monétaire, (ii) de demande domestique,
+(iii) sur les prix du pétrole, (iv) des biens alimentaires mondiaux ainsi que (v) de politique
+budgétaireontétéréalisées.Lesprincipauxrésultatsmontrentquelapolitiquemonétairea
+deseffetsasymétriquesdanslaCEMAC,avecunimpactrelativementplusimportantdans
+lespaysdotésd’unsecteurpétroliermoinsproéminent.Enoutre,leseffetsdedébordement
+5
+
+--- Page 7 ---
+des chocs spécifiques aux pays semble relativement faible, et sont dépendants de la taille
+des pays d’où ils surviennent. Également, les premières simulations montrent que des
+hausses de dépenses publiques coordonnées ont plus d’impact sur l’activité globale de la
+CEMAC que des choc budgétaires isolés, bien qu’ayant un effet négatif plus important
+sur les réserves de change et augmentant les primes de risque pays. Compte-tenu de la
+taille importante du modèle, il est évident qu’un nombre plus important de chocs et de
+simulations peuvent être simulés, ce qui en fait un outil intéressant pour les analyses de
+politique économique.
+Sur le plan empirique, des décompositions historiques ainsi que des prévisions intra-
+échantillon ont été réalisées sur la base de données trimestrielles officielles publiées par
+la Banque des Etats de l’Afrique Centrale, les Institutions en Charge des Statistiques
+des pays de la CEMAC, le Fonds Monétaire International, la Banque Centrale Euro-
+péenne ainsi que la Réserve Fédérale Américaine allant de 2006 à 2020. Globalement,
+les principaux faits stylisés relatifs à la crise pétrolière de 2014 ou encore l’incidence de
+la pandémie de COVID-19 ont été répliqués. En outre, les performances en matière de
+prévision à moyen terme sont intéressantes, suggérant une certaine utilité en matière de
+prévisions macroéconomiques pour les pays de la CEMAC.
+Comme tous les modèles macroéconomiques, CEMAC-GLOBAL est un outil appelé à
+constamment évoluer tant dans sa structure que sa paramétrisation. Il s’inscrit donc dans
+unprocessusdemodélisationtoujoursencours.Plusieurspistesd’améliorationsubsistent,
+notamment relativement à la modélisation de l’économie étrangère, à une désagrégation
+de son bloc d’analyse de l’inflation, à la prise en compte d’une structure par terme des
+taux d’intérêts ou encore à l’intégration de changements de régimes. Enfin, il est à noter
+que CEMAC-GLOBAL constitue une sorte de module de base pouvant, avec une relative
+facilité(dufaitdesoncaractèresemi-structurel),intégrerdesmodulessupplémentairesliés
+par exemple à des analyses de l’emploi, des agrégats de monnaie ou encore des projections
+sectorielles. N’ayant pas pour objectif l’exhaustivité (ce qui n’est d’aillaurs pas souvent
+recommandé en matière de modélisation macroéconomique), ces différents aspects ne sont
+pas abordés dans les présents travaux. Ils pourraient toutefois être adressés dans des
+recherches ultérieures.
+6
+
+--- Page 8 ---
+Contents
+Introduction 8
+1 A brief overview of CEMAC Economies 12
+1.1 Asmallopenmonetaryunionofoil-exportingdevelopingcountries . . . . . . . . . . . . . . . . . . . . . . . 12
+1.2 Anunconventionalhardpegregime. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+1.3 Lowfinancialdevelopment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+1.4 AnOil-dependentfiscalpolicy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+2 Intuitive Overview of the model 16
+3 Model Equations 19
+3.1 Notations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+3.2 Productionequations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+3.3 PhillipsCurve. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+3.4 Fiscalpolicy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+3.5 Exchangerate. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+3.6 Financialsector . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+3.7 CentralBank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+3.8 Interbankinterestrate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+3.9 ForeignEconomy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+4 Parametrization 31
+4.1 Calibrationofbalancedgrowthpathparameters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+4.2 Tradeandsectoralweights. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+4.3 Estimationofstructuralparameters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+5 Analysis of some shocks 34
+5.1 Monetarypolicyshocks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+5.2 Domesticdemandshocks. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+5.3 Oilpriceshock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+5.4 Internationalfoodpriceshock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+5.5 Fiscalpolicyshocks. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+6 Historical decompositions 44
+7 Future extensions 46
+Conclusion 46
+References 48
+Appendix 56
+7
+
+--- Page 9 ---
+Introduction
+One of the most important economic policy questions when analyzing a monetary
+union is whether the common monetary policy has the same effects in all member states.
+This is because differences in the transmission of the common monetary policy to the
+member economies of a monetary union could lead to asymmetries in the evolution of
+business cycles and thus make the monetary policy decision-making process more difficult
+Clausen and Hayo (2006). In addition, the policymaker in a monetary union needs to
+evaluate the spillover effects of country-specific shocks to design the best stabilization
+policy response. Although these issues have received a fair amount of attention in the
+literature on currency unions in developed countries (mainly the Eurozone), few studies
+havefocusedonthesephenomenaindevelopingcountrycurrencyunions.Inparticular,the
+CEMAC1, despite being among the oldest monetary unions in the world, has not received
+much attention2, especially concerning the construction of macroeconomic models able
+to conduct such analysis.
+To address this issue, this paper introduces CEMAC-GLOBAL, a multi-country semi-
+structural macroeconomic model for policy analysis and forecasting in the CEMAC3.
+In addition, this modelling work is in line with several reforms engaged since the early
+2010’s by the Bank of Central African States (hereafter BEAC4) in order to improve its
+analytical framework for monetary policy purposes (see Mvondo (2019b) for a discussion).
+One of the key aspects of these reforms is the improvement of the macroeconomic mo-
+deling framework. The historical tool for policy analysis at BEAC is based on the financial
+programming framework of the IMF. However, since the beginning of the 2010s, several
+studies conducted by BEAC’s staff have intended to propose new forecasting and simu-
+lation tools mainly based on (i) time series analysis5 and (ii) DSGE modelling. On this
+last point, the studies were essentially focused on analyzing the monetary policy trans-
+1. French acronym for Communauté Economique et Monétaire d’Afrique Centrale (Economic and
+Monetary Community of Central African States)
+2. This same issue in the "twin" monetary union of the Franc Zone, the West African Economic and
+Monetary Union (UEMOA for the French acronym standing for Union Economique et monétaires Ouest
+Africaine) could also be analyzed in future papers.
+3. Thecountrymembersare:Cameroon,CentralAfricanRepublic,Congo,Gabon,EquatorialGuinea,
+and Chad.
+4. French acronym for Banque des Etats de l’Afrique Centrale.
+5. Forpapersbasedontimeseriesanalysis,seeforexampleFossouoKamga(2015),BikaiandKenkouo
+(2019), Bikai and Essiane (2017) or Bikai and Ngomba Bodi (2019).
+8
+
+--- Page 10 ---
+mission channels and the effectiveness of BEAC monetary policy (Keungne K. and al.,
+2016; Mvondo, 2019b).
+However, most of these studies have considered the CEMAC as a single homogeneous
+entity (Keungne K. and al., 2016; Mvondo, 2019b,a), a collection of countries analysed
+separately (Fossouo Kamga, 2015) or both (Bikai and Essiane, 2017; Bikai and Mbohou
+Mama, 2018; Bikai and Ngomba Bodi, 2019; Bikai and Kenkouo, 2019). These approaches
+are quite limited to study the spillover effects of the monetary policy and various other
+shocks through the member states of a monetary union. More, an issue with this ap-
+proach is the relative inability to provide country-specific forecasts and simulations that
+are coherent with monetary-union level forecasts and simulations. Then, the need for a
+comprehensive multi-country modeling approach for policy analysis becomes critical. The
+objective of this paper is to address this issue.
+The CEMAC economy has its own specificities which constitute an interesting case
+for macroeconomic modelling. First, it’s a monetary union of developing countries. There
+is a quite rich literature on semi-structural macroeconomic modelling in the Eurozone
+(Clausen and Hayo, 2006; Dieppe and al., 2018; Lang and Welz, 2018; Georgiadis and al.,
+2021)6, which is a monetary union of developed economies, but few existing papers exten-
+sively focus on monetary unions of developing countries. Second, most CEMAC countries
+are oil exporters, which implies a slightly different behavior of these countries when facing
+oil price shocks compared to oil importers. In particular, the fiscal policies of CEMAC
+countries are strongly dependent on oil revenues, which in turn makes debt sustainability
+heavily dependent on oil sector shocks (Wiegand, 2004). Third, CEMAC economies, like
+many developing countries, record a low level of financial development, which has conse-
+quences on the monetary policy transmission, especially with the low effectiveness of the
+interest rate transmission channel (Mishra and Montiel, 2013; Mishra and al., 2014; Bikai
+andKenkouo,2019).Fourth,theCEMACexchangerateregimeisanunconventionalfixed
+exchange rate regime where the Central Bank doesn’t intervene in the Forex to stabilize
+the parity of the currency. This situation leads to a different design of the monetary po-
+licy framework in a fixed exchange regime. Here, there is still space for monetary policy
+intervention on the economy beyond the currency stability purposes, contrary to standard
+6. The literature on semi-structural models in the developed world also incorporates several papers
+focusing on one country like in Lemoine and al. (2019)
+9
+
+--- Page 11 ---
+fixed exchange regime frameworks (Mvondo, 2019a).
+The model developed in this study is a semi-structural DSGE model. Following the
+seminal works of Poloz and al. (1994); Black and al. (1994); Coletti and al. (1996), it
+consists of a reduced-form New Keynesian general equilibrium model expanded with some
+ad-hoc features (Bokan and Ravnik, 2018). Its structure is largely inspired by the GPM6
+of Carabenciov and al. (2013, 2008a) and ECB-Global of Dieppe and al. (2018). Like these
+works,it’samulti-countrymodelthatconsidersreal-financiallinkagesinaNewKeynesian
+framework. But, contrary to GPM6 and ECB-Global, the model presents a small open
+monetary union where all the member states are explicitly modelled. CEMAC-Global
+is also inspired by the works of Hlédik and al. (2018) and Chafik (2019) which build
+semi-structural models for oil-exporting countries in a fixed exchange rate regime.
+Following the key features of the CEMAC economy, CEMAC-GLOBAL model de-
+parts from these previous models in several ways. First, the specific features of the non-
+conventional fixed exchange rate regime of CEMAC are explicitly modeled, to better
+replicate the policy implications of the CFA Franc (XAF) currency arrangements. Se-
+cond, it develops a more detailed monetary policy transmission mechanism beyond the
+traditional interest rate transmission by including liquidity injections and credit cycles.
+Third, the model distinguishes an oil sector and a non-oil sector and links them through
+fiscal policy. Fourth, the monetary policy rules (interest rate and liquidity injections) inte-
+grate the currency stability and the financial stability objectives, according to the current
+policy orientations of the BEAC.
+This modelling approach has several advantages. First, it permits to take into ac-
+count the asymmetric effects of monetary policy shocks on the monetary union member
+states.Second,itcanbeusedtosimulatevariouscountry-specificshocksandanalyzetheir
+spillovereffectsinthemonetaryunion.Third,asmentionedbyCarabenciovand al.(2013)
+and Dieppe and al. (2018), the semi-structural structure adopted for CEMAC-GLOBAL
+combines the advantages of fully structural models and those composed of reduced-form
+equations. On the one hand, the structural nature of the model makes the equations and
+shocks of the model have an explicit economic interpretation. On the other hand, the
+reduced-form structure of the model "facilitates modifying the model in a flexible manner
+so that it can be adapted relatively straightforwardly" (Dieppe and al., 2018)7.
+7. AsnotedbyCarabenciovand al.(2013),thesemi-structuralapproachofmacroeconomicmodelling
+10
+
+--- Page 12 ---
+Following Carabenciov and al. (2013), CEMAC-GLOBAL parametrization is a com-
+bination of calibrated and estimated parameters. This approach is suitable to increase
+the empirical performances of the model and replicate key stylized facts of the CEMAC
+economy. The main structural parameters and trade-related parameters are calibrated,
+while the rest of the parameters are estimated with a bayesian approach.
+The main properties of the model are illustrated in this paper by examining a set of
+policy-relevant shocks and scenarios. First, monetary policy shocks seem to generate an
+asymmetric response in CEMAC, with a less pronounced asymmetric effect when mani-
+pulating liquidity injections. In addition, liquidity injections seem to have a lower delay
+of impact on CEMAC countries than the interest rate manipulation. Second, domestic
+demand shocks have limited spillover effects in the CEMAC, suggesting a low level of bu-
+siness cycle synchronization in the monetary union. Third, only oil price shocks seem to
+generate a common though heterogeneous response in the monetary union, reflecting the
+high vulnerabilities of the member states to external factors. Fourth, the low level of trade
+integration diminishes the negative expected impact of non-coordinated country-specific
+fiscal policy shocks on the other economies.
+Some empirical properties have been enlightened through historical decompositions.
+Theyreplicatethekeystylizedfactsabouttheimpactoftheoil-pricecrisisof2014andthe
+Covid-19 pandemic. In addition, they show the importance of supply and foreign shocks
+on inflation dynamics. More, the decompositions show asymmetric contributions of the
+CEMAC-countries to economic growth.
+The rest of the paper proceeds as follows. Section 1 presents some stylized facts about
+CEMAC economies, section 2 presents an intuitive overview of CEMAC-Global and sec-
+tion 3 presents the model equations in detail. Section 4 summarises the parametriza-
+tion approach while sections 5 and 6 respectively analyze some shocks and examine the
+historical decompositions of some observed variables. Section 7 mentions some possible
+extensions of the model and the last section concludes.
+allows the researcher to adopt an intermediary position between a DSGE and purely time series model.
+11
+
+--- Page 13 ---
+1 A brief overview of CEMAC Economies
+The CEMAC economy is an economic and monetary union composed of six develo-
+ping countries. Created in 19948, this Community is shaped by two main Unions : (i)
+the Economic Union of Central Africa (UEAC) and (ii) the Monetary Union of Central
+Africa (UMAC). The goal of UEAC is mainly to promote economic cooperation and in-
+tegration within the CEMAC Zone, while UMAC structures monetary cooperation and
+strengthens coordination between monetary and fiscal policies. It should be noted that
+this monetary union exists since 1972 with the adoption of the CFA Franc (XAF) as the
+common currency and the Bank of Central African States (BEAC) as the central bank of
+the CEMAC area. Thus, UMAC is one of the oldest monetary unions in History.
+The CEMAC economy gets some interesting features. Here, we’ll briefly review some
+key stylized facts that CEMAC-global tries to capture. Especially, we insist on the fact
+that (i) CEMAC is a monetary union of developing countries with (ii) an unconventional
+hard peg regime. Besides, the CEMAC experiences a (iii) low financial development and
+(iv) quite ineffective fiscal policy. Also, (v) the CEMAC economies are characterized by
+a low level of unemployment and systemic underemployment evolving in a large informal
+sector.
+1.1 A small open monetary union of oil-exporting developing
+countries
+The member states of the CEMAC9 are small open developing economies (Figure 1).
+All of them, except the Central African Republic (CAR), are oil exporters. Oil and gas
+rent represents on average 24% of CEMAC’s average GDP on 2010-2020 (Figure 2b).
+8. But the economic cooperation amongst the member states started historically in June 1959 with
+the Equatorial Customs Union (UDE for the french acronym), with the Central African Republic, the
+Republic of Congo, Gabon, and Chad as member States. In 1961, Cameroon joined the UDE before the
+creation of the Economic and Customs Union of Central Africa (UDEAC) in December 1964. Equatorial
+Guinea joined UDEAC in march 1984, ten years before the creation of CEMAC.)
+9. Cameroon, Central African Republic (CAR), Congo, Gabon, Equatorial Guinea and Chad
+12
+
+--- Page 14 ---
+Figure 1 – Average GDP per Capita - 2010-2020 (Current USD)
+Source : World Bank, 2022 (World Development Indicators)
+Figure 2 – Some GDP characteristics of CEMAC countries
+(a) Average share of CEMAC countries in CEMAC (b) Share of non oil GDP in global GDP in CEMAC
+GDP(2010-2020) (Average2010-2020)
+Source : Bank of Central African States (2022, Monetary Policy Report of first quarter)
+This economic dependence on oil rents leads to an important exposure to oil price
+volatility. For example, the 2014 oil prices drop had dramatic consequences on fiscal
+revenues and, thus, on the economic performances of CEMAC countries.
+13
+
+--- Page 15 ---
+1.2 An unconventional hard peg regime
+Contrary to conventional fixed exchange rate regimes with imperfect capital mobility,
+the fixed exchange rate regime of CEMAC is ruled by an agreement between the French
+treasury and the member states of UMAC. Simply stated, the Central Bank isn’t obliged
+to defend the parity of the currency with interventions on the Forex. The French Treasury
+guarantees the convertibility of the XAF10 and, in return, the BEAC has a remunerated
+current account opened at the French Treasury where 50% of the international reserves
+are on deposit. The main constraint faced by the Central bank here is to maintain the
+ratio of the foreign asset to the Central bank’s Short-term liabilities (TCE11) superior
+to 20%. But, empirically, the monetary policy authority sets a target quite largely above
+20%.
+These characteristics lead to important changes in the way the fixed exchange rate
+regime is managed and, then, modeled. First, as the nominal exchange rate with the Euro
+is"law-determined"insteadof"market-determined"therearenodirectconnexionsbetween
+the nominal policy rate and the nominal exchange rate. In other words, the Central bank
+is in a fixed exchange rate where it’s not necessary to target the nominal exchange rate :
+the monetary policy can still have some autonomy (at least, in the short run). Second,
+as there’s imperfect capital mobility, the monetary policy autonomy is (again) reinforced.
+Third, the agreement with the French Treasury discourages speculative attacks. The pool
+of international reserves of the monetary union and the convertibility guarantee given
+by the French Treasury lower the probability of a devaluation (relatively to other fixed
+regimes in developing and emerging countries) and then makes speculative attacks more
+costly for financial markets.
+1.3 Low financial development
+Asmentionedintheliterature,Africandevelopingcountrieshavealowleveloffinancial
+development. CEMAC countries are no exception, with an access bank rate estimated at
+15% in 2015. More, the global financial market capitalization is about 0.4% of CEMAC
+GDP in 2018.
+10. Currency code of the CFA Franc of CEMAC
+11. FrenchacronymforTauxdecouvertureexterieuredelamonnaie(Externalcurrencycoverageratio).
+14
+
+--- Page 16 ---
+Figure 3 – Credit to private sector (% of GDP, average 2010-2018)
+Source : World Bank, 2022 (World Development Indicators)
+As a consequence, the bank lending channel12 is generally considered the prominent
+transmission channel of monetary policy in CEMAC (Bikai and Essiane, 2017; Bikai and
+Kenkouo, 2019). However, even if the banking sector is one of the main financing sources
+fortheprivatesectorinCEMAC,thecredittoGDPratioisrelativelylow(Figure3).Thus,
+more than 80% of credit to the private sector is captured by big firms, which reveals some
+limited lending opportunities for small and medium enterprises (SMEs) (Fouopi Djiogap
+and Ngomsi, 2012; Mandiefe Piabuo and al., 2015).
+1.4 An Oil-dependent fiscal policy
+Fiscal policies in CEMAC economies are heavily dependent on the dynamics of the oil
+sector. In most cases, oil production is realized by foreign consortiums that share the oil
+rent with the governments.
+12. See Dwarkasing and al. (2017) for a literature review on banking lending channel of monetary
+policy.
+15
+
+--- Page 17 ---
+Figure 4 – CEMAC fiscal revenues, CEMAC public expenses and oil prices
+Source : IMF, World Economic Outlook (2022) and Bank of Central African States (2022)
+The 2010 decade is an illustration of the structural dependence on oil rent of the
+public sector in CEMAC. It has been characterized by a depletion of oil resources in
+many CEMAC countries, which led to a diminution of global oil production, especially in
+Equatorial Guinea. But the main shock that affected the CEMAC Economy has been the
+oil price drop in 2014, which dramatically impacted the value of oil exports.
+As a consequence, CEMAC countries experienced simultaneous fiscal stress which has
+conducted the governments of CEMAC to adopt fiscal consolidation plans with the IMF
+since 2017.
+2 Intuitive Overview of the model
+The model described in this paper could be classified as a semi-structural gap model
+that takes into account the main features of a Neo-Keynesian model, following the ap-
+proach of Poloz and al. (1994), Berg and al. (2006) and Carabenciov and al. (2008b). The
+model also integrates specific equations in order to capture empirical characteristics of
+the CEMAC economy.
+First, the model is constructed as a small open monetary union of oil-exporting eco-
+nomies. The six countries of CEMAC13 are modeled symmetrically except for the Central
+13. Cameroon, Central African Republic, Congo, Gabon, Equatorial Guinea, Chad
+16
+
+--- Page 18 ---
+AfricanRepublic,whichisnotanoilproducer.Eachcountryhassixblocs:(i)production,
+(ii) prices, (iii) fiscal policy, (iv) financial sector, and (vi) exchange rate and interest rate
+parity. A single Central Bank conducts monetary policy with its impulses on the policy
+interest rate and liquidity injections on a simplified interbank market.
+Second, the specificities of the CFA Franc peg regime are captured with (i) a fixed
+nominal exchange rate with Euro and (ii) a monetary policy rule which sets the inter-
+est rate to manage international reserves dynamics14 beyond traditional output-inflation
+trade-off.
+Third, the model includes real-financial linkages. In particular, following the approach
+proposed by Bianchi and Bigio (2022), the model explicitly includes the credit channel of
+monetary policy, which is also prominent in the CEMAC economy. The interbank rate is
+influenced by the main policy interest rate, the liquidity injections of the Central Bank
+and the bank system stability of CEMAC. The interbank rate in turn affects the real
+interest rate, which is a determinant of the credit cycle dynamics. Then, the credit cycle
+influences the business cycles, which also affects the credit supply, exerting a feedback
+effect on the credit cycle.
+Fourth, the model distinguishes an oil output and a non-oil output for every CEMAC
+country except the Central African Republic. The oil production dynamics are exogenous,
+due to the "offshore" feature of the oil industry in CEMAC. Meanwhile, the oil production
+dynamics influence the fiscal oil revenues, which in turn has an impact on the public ex-
+penses dynamics. This modelling approach permits to assess quite simply the importance
+of the oil prices and production for the fiscal policy, the business cycles and the bank
+stability in CEMAC.
+Fifth, the model includes some hysteresis effects. This is a useful feature to address
+the long-term effects of short-term policies across the monetary union. Hysteresis effect
+in CEMAC-GLOBAL goes mainly through the country-specific fiscal policies. Following
+the results of Delong and Summers (2012) and Fatás and Summers (2018), the potential
+output is affected by the public expenses dynamics, which are themselves affected by the
+economic growth (which takes into account both output gap and potential output). This
+constitutes a supplementary distinction of CEMAC-Global from most semi-structural and
+14. As required by the monetary cooperation agreement between CEMAC countries and France.
+17
+
+--- Page 19 ---
+micro-founded DSGE models in which, as noted by Shaughnessy (2011) usually ignore
+hysteresis effects15.
+For simplification purposes, and considering that CEMAC is a small open economy,
+oil prices and foreign output and prices are modeled as exogenous.
+Figure 5 describes the typical structure of a country in CEMAC-GLOBAL16.
+Figure 5 – CEMAC-GLOBAL Scheme : Structure of each CEMAC country
+Source : Author
+15. Even the orthodox Arrow-Debreu general equilibrium model ignores hysteresis effects, as the equi-
+librium is considered as independent of past shocks (Cross, 1993)
+16. Except for the Central African Republic, which don’t have an oil sector.
+18
+
+--- Page 20 ---
+3 Model Equations
+3.1 Notations
+This section describes the key equations of CEMAC-Global. As mentioned above,
+countries of the CEMAC economy are modeled symmetrically except the Central African
+Republic, which is not an oil producer.
+Deviations from trends (or "gaps") are denoted by hats :
+X
+t
+x = log( ) (1)
+ct ¯
+X
+t
+⇔
+x = x −x¯ (2)
+bt t t
+where x is the log of the level variable X and x¯ the log of its trend.
+t t t
+Trends variables are generally modeled as the sum of its own lagged value plus a
+quarterly growth rate and a disturbance term that permits a permanent level shift :
+x¯ = x¯ +G(x¯)+εx¯t (3)
+t t−1 t t
+The quarterly growth rate is proportional to its long-term value and, when mentioned,
+growth rates of other endogenous variables. This feature is used to link "endogenously"
+trends of some variables of the model :
+G(x¯) = αgxss +(1−α)G(H¯ ) +εG(x¯) (4)
+t t t
+¯
+Where G(H) is the trend growth rate of the variable (or group of variables) H.
+t
+Besides, ∆ refers to the quarterly growth rate and ∆4 to year on year (y-o-y) growth rate.
+Following Carabenciov and al. (2008b) and Benes and al. (2017), the distributed lag
+of some variables could be considered in the model. This feature is used to replicate a
+hump-shaped response of a given variable after a shock and then avoid abrupt reactions
+19
+
+--- Page 21 ---
+of the system. The distributed lag of a given variable x is noted as follows :
+DL(x ) = 0.04x +0.08x +0.12x +0.16x +0.20x
+t t−1 t−2 t−3 t−4 t−5
++0.16x +0.12x +0.08x +0.04x (5)
+t−6 t−7 t−8 t−9
+3.2 Production equations
+The log of headline GDP of country i at time t Y is the weighted sum of the oil and
+it
+non-oil GDP17 (yoil and ynonoil). These two subcomponents are themselves the sum of a
+it it
+"gap" and a trend component. We then have :
+y = shoilyoil +(1−shoil)ynonoil (6)
+it it it it it
+where shoil is the share of oil GDP in the headline GDP of country i ∈ [Cameroon,
+it
+Central African Republic18, Congo, Gabon, Equatorial Guinea and Chad],
+and
+yk = y k +yk,ss , with k ∈ [oil,nonoil]. (7)
+it bt t
+For each CEMAC country i, the non-oil output gap (ynoil) depends on its own lead
+bi,t
+and lagged values, and also depends on the domestic credit gap (cr ), the foreign demand
+ci,t
+(non-CEMAC countries, y∗ , and CEMAC countries, yCEMAC), the real exchange rate gap
+bi,t bi,t
+(z ), the current public expenditures gap (g ), and a domestic demand shock
+(εbynoil
+).
+bi,t bi,t t
+5
+ynoil = a1,iynoil +a1,iynoil +aicr +a1,iz +a1,i[(1−X w )y∗ +yCEMAC]
+bi,t 0 bi,t−1 1 bi,t+1 2ci,t 3 bi,t 4 i,j bi,t bi,t
+j=1
++a1,ig +σbynoil εbynoil (8)
+5 bi,t i i,t
+17. ExceptfortheCentralAfricanRepublic,wheretheheadlineGDPcorrespondstothenon-oilGDP.
+18. As the Central African Republic is not a net oil exporter, this parameters equals to zero in the
+calibration of the model
+20
+
+--- Page 22 ---
+with
+5
+yCEMAC = X w y , with j 6= i
+bi,t i,jbj,t
+j=1
+and w the weight of CEMAC country j in foreign trade of CEMAC country i.
+i,j
+Contrary to the typical IS curve described in the literature (Poloz and al. (1994),
+Carabenciov and al. (2008a), Carabenciov and al. (2008b), Dieppe and al. (2018) or Benes
+and al. (2017)), the output gap here is affected by the credit gap. This feature is adopted
+due to the importance of the credit channel in CEMAC and the low financial markets
+development19. This approach is also inspired by the literature on credit incidence on
+business cycle (Bernanke and Gertler (1995), Borio (2012), Huizinga and Laeven (2019)).
+Also, from a more empirical perspective, the data availability issue on private interest
+rates could be overcome by using credit data, which is available at a monthly frequency.
+noil
+The growth rate of the non-oil sector potential output (G(y) ) is specified as a
+i,t
+function of its long term value (gynoil), its lagged value, the quarterly growth rate of
+i
+public expenditures’s trend (∆g )20 and a productivity shock (εG(ynoil,ss)).
+i,t t
+G(y)noil = a3,iG(y)noil + (1 − a3,i)[(1 − a3,i)gyi + a3,i∆g ] + σG(y)noil εG(y)noil (9)
+i,t 0 i,t−1 0 1 1 i,t t
+The oil industry in CEMAC (like in most African oil-exporting countries) is quite dis-
+connected from other sectors of the economy. The production is quasi exclusively realized
+by foreign multinationals allowed by governments to exploit oil and gas fields (African
+Development Bank and African Union, 2009; Diouf and Laporte, 2018). These multina-
+tionals operate in the vast majority with imported physical and, often, human capital,
+which implies that the oil sector has little connexion with other sectors. In order to simply
+capture this characteristic, the oil output (yoil) dynamics is exogenous :
+i,t
+yoil = yoil +∆proil +σy io ,i tl εy ioil (10)
+i,t i,t−1 i,t i i,t
+19. The global financial market capitalization in CEMAC was about 0.5% of the GDP in 2019, which
+is likely to lower the interest rate transmission channel. See https://www.financialafrik.com/2019/
+10/29/cemac-la-bvmac-se-dote-dun-plan-daction-ambitieux-et-offensif/
+20. See Fatás and Summers (2018) and Cerra and al. (2020).
+21
+
+--- Page 23 ---
+with the growth rate of oil production ∆proil given by :
+i,t
+∆proil = proil −proil (11)
+i,t i,t i,t−1
+with oil production (proil) dynamics described by :
+i,t
+proil = proil +G(pr)oil +σpr ioil εpr ioil (12)
+i,t i,t−1 i,t i i,t
+and
+G(pr)oil = a1,iG(pr)oil +(1−a1,i)gproil +σG(pr)o iil εG(pr)o iil (13)
+i,t 0,o i,t−1 0,o i i i,t
+where gproil is the long-term growth rate of the oil production trend of country i.
+i
+3.3 Phillips Curve
+Headlinequarter-on-quarter(q-o-q)inflation(πq )modellingfollowsaforward-backward
+i,t
+Phillips curve. Its dynamics is defined to be a function of the non-oil output gap, the real
+exchange rate gap (z ), the quarterly world food price dynamics and (πfood) a cost-push
+ci,t i,t
+shock (επq).
+i,t
+πq = b1,iπq +b1,iπq +b1,iynoil +b1,iz +b1,iπfood +σπqεπq (14)
+i,t 0 i,t+1 1 i,t−1 2 bi,t 3 ci,t 4 i,t i i,t
+3.4 Fiscal policy
+Fiscal policy intervention is determined by two opposite objectives. On one side, the
+government aims to stabilize the nonoil sector output gap, and, on the other side, it
+tries to stabilize the public debt dynamics. Here, the key policy instrument is the fiscal
+expenditures21.
+21. It’s assumed that the government has a little influence on fiscal revenues in the short run, so no
+explicit rules are designed to manage them.
+22
+
+--- Page 24 ---
+3.4.1 Public spending gap
+The public spending gap (g ) is a function of its lagged value, the non oil sector
+bi,t
+output gap (ynoil), the public debt growth (∆DEBT ) and a short term fiscal policy
+bi,t i,t−1
+shock (εbg ) :
+i,t
+g = c1,ig +c1,iynoil +c1,i∆DEBT +σbgεbg (15)
+bi,t 0 bi,t−1 1 bi,t 2 i,t−1 i i,t
+3.4.2 Public spending trend
+The structural public spending growth (G(g )) rate is a function of the nominal
+i,t
+output growth :
+G(g ) = c3,iG(g )+(1−rshoil)[c3,i(G(y)noil +πq )]
+i,t 0 i,t−1 i 1 i,t−1 i,t
++rshoil[c3,i(G(y)oil +∆poil +∆USD )]+σG(g)εG(g) (16)
+i 2 i,t−1 t−1 t i i,t
+where rshoil is the share of oil revenues in total fiscal revenues of country i, πq the
+i i,t
+quarterly inflation, ∆poil the yearly average of the oil price q-o-q variation and ∆USD
+t−1 t
+the q-o-q variation of the XAF/USD exchange rate.
+3.4.3 Public debt
+For simplification purposes, the public debt growth (G(debt) ) is a function of the
+i,t
+difference between the public spending growth rate (G(g) ) and the nominal output
+i,t
+growth (G(ny) )22.
+i,t
+G(debt) = cd1,iG(debt) +(1−cd1,i)[G(g) −G(ny) ]+σG(debt)εG(debt) (17)
+i,t 0 i,t−1 0 i,t i,t−1 i i,t
+Thus, equation (18) describes the public debt evolution :
+22. The nominal output growth is considered here as a proxy of the fiscal revenues growth.
+23
+
+--- Page 25 ---
+debt = debt +G(debt) +cd2,i∆USD +σdebtεdebt (18)
+i,t i,t−1 i,t 1 t i i,t
+3.5 Exchange rate
+According to the Franc Zone agreements between France and the CEMAC countries
+members, the parity of the CFA Franc (XAF) is fixed. Nevertheless, this fixed exchange
+rate parity is not a conventional one. As noted in section 1.2, the evolution of the nominal
+exchangeratedoesnotdependontheCentralBank’sinterventionsinthecurrencymarket.
+Thus, CEMAC-GLOBAL considers the general specification of the nominal exchange rate
+presented by Fall and Sy (2019) (through the uncovered interest rate parity) :
+1
+s = γ (s +∆sT/4)+(1−γ )[ζ (s + ∆s¯)
+t 2 t−1 t 2 1 t−1 2 t
++(1−ζ )E s +(i∗ −i +PREM )]/4+εs (19)
+1 t t+1 t t t t
+where S is the nominal exchange rate, ∆ST is the desired exchange rate variation,
+t t
+S¯ is the equilibrium exchange rate variation, i∗ the foreign interest rate, i the domestic
+t t t
+interest rate, E the expectations term, and PREM the country risk premium. The γ
+t 2
+coefficient is the level of fixity of the exchange rate. Fall and Sy (2019) as working on the
+WAEMU zone23 set γ close to 1, according to the fact that the WAEMU evolves in a
+2
+fixed exchange rate regime.
+In this paper, γ is set to 1 and ∆ST is set to 0, since the evolution of the nominal
+2 t
+exchange is exclusively affected by the authorities. As noted by Benlamine and al. (2018),
+the nominal exchange rate "is an exogenous policy choice variable. Without an ad hoc
+policy decision, its value does not change." (p.11). Following the Benlamine and al. (2018)
+approach, the nominal exchange rate between the XAF and the Euro (Seuro) is given by :
+t
+seuro = seuro +σseuroεseuro (20)
+t t−1 i i,t
+23. The"twin"monetaryunionofCEMAC,whosehavebarelythesameexchangerateregimeagreement
+with France.
+24
+
+--- Page 26 ---
+The real effective exchange rate dynamics (∆z ) is simply a weighted average between
+i,t
+the real exchange rate of the XAF relative to the Euro and the dollar24 :
+∆z = d3,i(∆seuro +πeuro,q −πq )+(1−d3,i)(∆susd +πus,q −πq ) (21)
+i,t 0 t i,t i,t 0 t i,t i,t
+where ∆seuro and ∆susd represent the nominal exchange rates dynamics of the XAF
+t t
+relative to the Euro and US Dollar respectively, and πeuro,q and πus,q represent the q-o-q
+i,t i,t
+inflation rates for the eurozone and the US.
+3.6 Financial sector
+3.6.1 Country risk premium
+Thecountryriskpremium(PREM )isafunctionofthespreadbetweenthedomestic
+i,t
+real interest rate (i∗) and the foreign interest rate (π∗), the equilibrium real exchange rate
+t t
+(zss), the gap between the actual and the targeted level of international reserves (in
+i
+months of exports) (RESMIMP −resmimp), the evolution of the public debt (∆Debt )
+t i,t
+and the gap between the current debt-to-GDP ratio (Debtgap) and the multilateral limit
+i,t
+of the debt-to-GDP ratio25 and a risk premium shock (εPREM).
+i,t
+PREM = d4,iPREM +(1−d4,i)[r −(i∗ −π∗)−zss]
+i,t 0 i,t−1 0 i,t t t i
+−d4,i(RESMIMP −resmimp)−d4,i∆Debt −d4,iDebtgap +σPREMεPREM (22)
+1 t 2 i,t 3 i,t i i,t
+3.6.2 Bank Stability
+Since the 2008 global financial crisis, the importance of financial stability in economic
+literature and macroeconomic policy has arisen significantly (Agénor and al., 2011; Smets,
+2014; Bauducco and al., 2014). In Africa and CEMAC in particular, this evolution is
+illustrated by changes in macroprudential and monetary policy (see section 3.7) and a
+24. Forsimplificationpurposes,theotherregionshavebeenignored.Mostofthefinancialinternational
+transaction relations are denominated in Euro and US Dollar in the CEMAC region. Nevertheless, more
+currencies could be incorporated into the model in future versions of the model (see section 7)
+25. This modelling approach is adopted to considerate both the dynamics and the level of the public
+debt in the evolution of the risk premium.
+25
+
+--- Page 27 ---
+greater need for bank (in)stability indicators (see Bikai and Mbohou Mama (2018) for a
+discussion).
+For simplicity purposes, bank stability is affected through 2 main channels : the public
+debt dynamics (see Das and al. (2010) and Assoumou (2017)) and the headline economic
+growth26.
+STAB = h4 STAB +(1−h4 )[−h4 ∆Debt +
+i,t 0,i i,t−1 0,i 1,i i,t−1
+(1−h4 )∆y ]+σSTABεSTAB (23)
+1,i i,t−1 i i,t
+3.6.3 Bank Lending Tightness
+Following Carabenciov and al. (2008a,b, 2013) or Benes and al. (2017), the model
+integrates a bank lending tightness (BLT ) indicator, which captures the country-specific
+i,t
+constraints on credit to private sector27. Here, the bank lending tightness is influenced by
+(i) the expected non-oil sector’s output gap (ynoil ), (ii) the country-specific bank stability
+bi,t+1
+dynamics (∆STAB ), (iii) the evolution of the interbank interest rate (∆iinterbank), (iv)
+i,t−1 i,t
+the progression of the central bank liquidity injections (∆cbinj ) and (v) a credit supply
+i,t
+shock (εBLT).
+i,t
+BLT = h1 BLT +(1−h1 )[−h1 ynoil −h1 ∆STAB
+i,t 0,i i,t−1 0,i 1,ibi,t+1 2,i i,t−1
++h1 ∆iinterbank +h1 ∆cbinj ]+σBLTεBLT (24)
+3,i i,t 4,i i,t i i,t
+26. The rationale behind this modelling approach is quite simple : the banks mainly are exposed to
+credit risk, which in turn are highly dependent on the economic dynamics of the oil and non-oil sector.
+It is well documented that the economic conditions are key determinants of the quality of bank’s credit
+portfolios and the evolution of non-performing loans (NPL) in the economy (Fofack, 2005; Beck and al.,
+2013).Thesefactors,inturn,tendtoexacerbatebankinstability(deBandtandHartmann,2000;Benoit
+and al., 2016). For simplicity purposes, CEMAC-GLOBAL links directly the economic growth dynamics
+to bank stability. Obviously, in future versions of the model, NPL could be explicitly modeled.
+27. According to Abuka and al. (2019)’s results, the bank lending tightness indicator influences both
+volumes and rates of credit in CEMAC-global.
+26
+
+--- Page 28 ---
+3.6.4 Credit
+The credit gap cr is influenced by its lagged value, the bank lending tightness indi-
+ci,t
+cator BLT , and the real interest rate gap r and :
+i,t bi,t
+cr = h2 cr +(1−h2 )[−h2 BLT −h2 r ] (25)
+ci,t 0,ici,t−1 0,i 1,i i,t 2,ibi,t
+andthegrowthrateofcredittoprivatesector’strend(G(cr ))islinkedtothenominal
+i,t
+headline economic growth rate G(ny) .
+i,t
+G(cr ) = h3 G(cr )+(1−h3 )(h3 G(ny) )+σG(cr)εG(cr) (26)
+i,t 0,i i,t−1 0,i 1,i i,t i i,t
+3.7 Central Bank
+The Bank of Central African States28 (BEAC29) sets its nominal interest rate ac-
+cording to its monetary policy objectives : (i) the "internal" monetary stability objective
+(price stability) and (ii) the "external" monetary stability objective (Banque des Etats de
+l’Afrique Centrale, 2017). This latter objective is implied by the particular exchange rate
+regime of the monetary union (see section 1.2).
+Also,theCentralBankalsomonitorsbankstability30.In2017,themonetaryauthority
+createdaspeciallendingfacilitytohelpbanksfacingliquiditystress31.Theliquidityinjec-
+tions of the Central Bank can be seen as a relevant tool for financial stability purposes32.
+Beyond this objective, liquidity injections are used by the Central Bank to minimize the
+gap between the interbank market rate and the nominal policy rate.
+28. The Central Bank of CEMAC.
+29. Acronym for Banque des Etats de l’Afrique Centrale
+30. see Caruana and al. (2011) for a more general discussion on the evolution of central banking in
+Africa
+31. Decision N°17/CPM/2017 of September 17, 2017 (available here https://www.beac.int/
+wp-content/uploads/2016/10/Decision_12_CPM_2017.pdf)
+32. This is even more accuratewith the sharp increase of liquidity injections (+108.3 % for 2020Q1) in
+the interbank market after the Covid-19 shock.
+27
+
+--- Page 29 ---
+3.7.1 Nominal Policy rate
+Itshouldbenotedherethatthereis avividdebateamongstthe policymakers andana-
+lysts about the more appropriate specification of the policy interest rate rule in CEMAC
+and, more globally Franc Zone. In particular, there is no consensus about the way the
+external stability objective of the Central Bank should be modelled. Strictly, the indicator
+considered in the BEAC mandate is the external coverage rate of the money (ECRM)33,
+which is a ratio between the foreign assets and the current liabilities of the CEMAC eco-
+nomy34. But the literature on the interest rate rule of CEMAC shows that alternative
+indicators could be considered to capture the external monetary objective of the Central
+Bank. Some papers integrate into the monetary policy rule the net foreign assets (Bikai
+and Mbohou Mama (2016)), others consider the international reserves (Mvondo, 2019a,
+2020) and, in a few cases, some papers simply ignore the external monetary stability ob-
+jective (Keungne K. and al., 2016; Mvondo, 2019b). When looking at the "twin" monetary
+union of the CEMAC - the West African Economic and Monetary Union (WAEMU)35
+-, researchers are also considering the external monetary objective in various ways. But
+the most common feature is to simply ignore the external coverage rate of the money
+(ECRM) or any other external monetary stability-related aggregate or indicator (Fall and
+Sy, 2019; Diaw and Sall, 2018; Assemien and al., 2019). Instead, the focus is mainly on the
+exchange rate stabilization process and the level of capital controls (Fall and Sy, 2019)36.
+In this version of the CEMAC-GLOBAL model, the policy interest rate rule departs
+from specifications founded in the literature in three ways. First, we consider the interna-
+tional reserves in months of imports as the indicator of external monetary stability. This
+choice is guided by the monetary policy strategy stated in the monetary policy reports
+of BEAC (Banque des Etats de l’Afrique Centrale, 2021) : "From an operational perspec-
+tive, the external monetary stability is achieved when the level of international reserves
+represents 60% of the Central Bank short term liabilities, which is equivalent to at least
+3 months of goods and services imports." (p.6). Second, the monetary policy rule only
+considers the non-oil output gap as the activity indicator. This specification is in line with
+33. "Taux de couverture extérieure de la monnaie" in french.
+34. Which could be proxied by the broad money, see Mvondo (2018b) for a discussion.
+35. Which members are Benin, Burkina Faso, Côte d’Ivoire, Guinea-Bissau, Mali, Niger, Senegal and
+Togo.
+36. which seems to be a general approach for fixed exchange rate regimes for scholars from the Inter-
+national Monetary Fund (see Benlamine and al. (2018); Hamiani and al. (2020)).
+28
+
+--- Page 30 ---
+the fact that the monetary policy transmission process hardly affects the oil sector evolu-
+tion, which is mainly driven by exogenous factors : CEMAC countries are price-takers on
+the global oil market, and the oil production capacities are given by the country-specific
+natural resources endowment. These features should lead the central bank to be focu-
+sed on the behavior of the non-oil sector business cycle when conducting its monetary
+policy37. Third, the monetary policy targets the annual average inflation, instead of the
+q-o-q inflation as considered by Bikai and Mbohou Mama (2016), Keungne K. and al.
+(2016) and Mvondo (2019b). This choice is guided by the official objectives of the Central
+Bank Banque des Etats de l’Afrique Centrale (2017) and the operational framework of
+the monetary policy as clarified in the BEAC’s monetary policy reports Banque des Etats
+de l’Afrique Centrale (2021).
+Thus, in CEMAC-GLOBAL, the Central bank sets the nominal policy interest rate,
+iPOLICY, considering three main objectives : (i) Price stabilization, (ii) International re-
+t
+serves and (iii) output stabilization. In addition, in the long run, the policy rate is equal
+to the neutral interest rate of the CEMAC region (iN,CEMAC)38.
+t
+iPOLICY = e1iPOLICY +(1−e1)[iN,CEMAC +e1(π4m,CEMAC −π)
+t 0 t−1 0 t 1 t+1
++e1ynoil +e1(RESMIMP −resmimp)]+σiPOLICYεiPOLICY (27)
+2bt 3 t t
+where π4m,CEMAC is the yearly average of the CEMAC inflation, π is the inflation "tar-
+t+1
+get" of the Central Bank39, RESMIMP is the level of international reserves (in months
+t
+of imports of goods and services) and resmimp is the Central Bank target of the inter-
+national reserves (in months of imports of goods and services).
+37. This specification of the monetary policy rule should not let the reader think that the oil sector
+dynamicsdoesnotaffectthebehavioroftheCentralBank.CEMAC-GLOBALisstructuredinsuchaway
+that the oil and non-oil sectors interact. For example, the non-oil output gap is affected by the oil sector
+through fiscal policy. In addition, the fluctuations of the international reserves (which are considered in
+the monetary policy rule) depend on the oil exports
+38. which is a linear combination of the country-specific neutral interest rates.
+39. Stricto sensu, the mandate of the BEAC does not define an inflation target. In practice, the Mo-
+netary Policy Committee takes into consideration the inflation criteria of the CEMAC multilateral sur-
+veillance framework (yearly average of 3%).
+29
+
+--- Page 31 ---
+3.7.2 Liquidity injections
+The Central bank sets its liquidity to minimize the spread between the interbank
+interest rate and the policy rate (Mvondo, 2018a)40, manage liquidity in the bank system
+andaddressfinancialstabilityissues(BanquedesEtatsdel’AfriqueCentrale,2019,2021).
+Here, liquidity injections (INBCR ) are set according to the spread between the policy
+t
+rate and the interbank interest rate, and the global bank stability of the monetary union.
+CBINJEC = i2CBINJEC +(1−i2)[i2(IINTERBANK −IPOLICY)
+t 0 t−1 0 1 t t
+−i2∆STABCEMAC]+σCBINJECεCBINJEC (28)
+2 t t
+where
+6
+STABCEMAC = X sh STAB (29)
+t i i,t
+i=1
+withsh theshareofcountryinCEMACrealGDPandsh ∈ [0,1]∀iandP6 sh = 1.
+i i i=1 i
+3.8 Interbank interest rate
+The interbank interest rate evolves according to the nominal policy rate (IPOLICY),
+t
+the Central Bank liquidity injections (INBCR ) and the bank stability index of CEMAC
+t
+(STABCEMAC).
+t
+IINTERBANK = i1IINTERBANK +(1−i1)[IPOLICY −i1CBINJEC
+t 0 t 0 t 1 t
+−i1STABCEMAC]+σIINTERBANKεIINTERBANK (30)
+2 t t
+40. Again, the preamble of the monetary policy reports of BEAC (Banque des Etats de l’Afrique
+Centrale, 2021) states that "To reach its objective, the approach chosen by the BEAC is to intervene on
+theMoneymarket,throughopenmarketoperations,eitherbyliquiditywithdrawalorliquidityinjections,
+in order to drive the interbank interest rate around the main policy interest rate." (p.6)
+30
+
+--- Page 32 ---
+3.9 Foreign Economy
+For simplicity, and as CEMAC could be considered as a small open economy, the
+foreign economy is a collection of exogenous variables41. The foreign demand gap, the
+nominal exchange rates of commercial partners, the world price food index, and the oil
+price are random walks. The nominal foreign interest rates and the foreign inflation rates
+are given by AR(1) processes with constant terms.
+4 Parametrization
+Due to the large dimension of CEMAC-Global, a mixture of calibration and Bayesian
+estimation is envisioned to parametrize the model (see Carabenciov and al. (2013) for
+a discussion on this parametrization approach). Following Dieppe and al. (2018), the
+parameters are divided into three groups : (i) those defining the balanced growth path
+the nonstationary variables, (ii) trade and sectoral weights, and (iii) parameters with a
+structural interpretation.
+The first two groups are calibrated with historical data of CEMAC Countries, and the
+third end fourth ones are estimated through a 3-steps procedure (see section 4.3).
+Model solving and simulations are carried out in RISE Toolbox (Maih, 2019).
+4.1 Calibration of balanced growth path parameters
+CEMAC-GLOBAL is a non stationary model. As a consequence, key parameters for
+the dynamics of the model are the term growth rate of the non stationary variable’s trends
+(cf. parameter equation 4). They are typically computed as follow :
+ˆ ¯
+θ(G(x¯)) = median[HP(∆X ))] (31)
+t t
+¯
+where HP() is an operator for the trend component of the Hodrick-Prescott filter and
+ˆ
+θ() is the symbol for calibrated value.
+41. A key future extension of the model could be the improvement of this bloc. See section 7
+31
+
+--- Page 33 ---
+4.2 Trade and sectoral weights
+All the bilateral trade weights are computed with the international trade data from
+the Atlas of Economic Complexity (The Growth Lab at Harvard University, 2019)42 :
+(imports +exports )
+w = i,j i,j (32)
+i,j P5 ((imports +exports ))
+j=1 i,j i,j
+4.3 Estimation of structural parameters
+Theestimationofstructuralandshocks-relatedparametersfollowsa3-stepsprocedure
+(Figure 6).
+Figure 6 – Estimation procedure of structural parameters of CEMAC-GLOBAL
+4.3.1 Country-specificcalibrationthrough"Limitedinformation"impulseres-
+ponse matching
+The first step of the parametrization of CEMAC-GLOBAL is the calibration of the
+country-specific versions of CEMAC-GLOBAL through the limited information impulse
+42. See Table 10.
+32
+
+--- Page 34 ---
+responsematchingapproach,describedinDieppeand al.(2018).InDieppeand al.(2018),
+the parameters with a structural economic interpretation is calibrated using the limited
+information impulse response matching technique. This technique permits finding a confi-
+guration of the parameter values that are consistent with findings of empirical and theo-
+retical literature concerning the economy studied, especially in terms of the plausibility
+of the impulse response functions for standard shocks. This approach is implemented in
+two key steps. First, initial values are set by drawing on the literature on semi-structural
+models as Carabenciov and al. (2008a, 2013); Dieppe and al. (2018); Benes and al. (2017);
+Hlédik and al. (2018); Chafik (2019) as well as fully-structural models with a focus on
+emerginganddevelopingcountriessuchasLiuand al.(2009),PeirisandSaxegaard(2010),
+Berg and al. (2015), Alpanda and al. (2011) and Mvondo (2019b). In addition, some sty-
+lized facts of CEMAC countries have been considered during the calibration exercise such
+as low price elasticity of foreign trade (Essiane and Ngomba Bodi (2018)), low fiscal mul-
+tipliers ((Bikai and al., 2017)) or high inertia of inflation ((Fossouo Kamga, 2015)). The
+second step consists of fine-tuning the values of the key parameters and assessing the
+plausibility of the impulse response functions. Following Dieppe and al. (2018), the para-
+metersarechosentoinformallyminimizethedistancebetweenimpulse-responsefunctions
+implied by CEMAC-Global and those found in the literature. However, this step appears
+particularly tricky in the case of CEMAC-GLOBAL, due to the relative lack of empiri-
+cal papers on the CEMAC which analyze the macroeconomic relations presented in the
+model. In particular, the spillover effects of the monetary and fiscal policy in CEMAC
+are barely analyzed, analyzing the empirical plausibility of the impulse responses quite
+difficult43.
+4.3.2 Bayesian estimation
+As noted by Carabenciov and al. (2008a), the strength of bayesian estimated models
+resides in the combination of reasonable fit to data, coherent structural results from
+a theoretical perspective, and quite sound insights and results for policy decisions. In
+the case of CEMAC-GLOBAL, parameters’ priors are given by the calibration exercise
+conducted in the first step with limited information impulse response matching approach.
+43. Nevertheless, this situation is challenging and could be a good incentive for further research in this
+particular domain.
+33
+
+--- Page 35 ---
+Then estimation is conducted, using the bees algorithm developed by Yuce and al.
+(2013)44 as an optimization algorithm to obtain the posterior mode and standard devia-
+tions. The bees algorithm is a computational model of swarm intelligence which mimics
+the foraging behavior of honey bees to find the optimal solution to a given optimization
+problem. This algorithm is particularly suitable when facing a high dimension optimiza-
+tion problem, which is the case with a large number of model parameters. The estimation
+procedure has been implemented with 10000 iterations and20 scout bees (see Yuce and al.
+(2013), p.652). The data used for the estimation are presented in the appendix.
+4.3.3 Parametrization of the multicountry version of CEMAC-GLOBAL
+Following the approach of Carabenciov and al. (2013), the estimated modes of the
+country-specific estimation step are used to parametrize the multi-country version of
+CEMAC-GLOBAL.Thenthecommonparameters(especiallythemonetarypolicy-related
+parameters) are calibrated following the "limited information" impulse response matching
+to replicate the key stylized facts of the CEMAC region. The parameters are detailed in
+the appendix.
+5 Analysis of some shocks
+In order to assess key characteristics of CEMAC-GLOBAL, some key shocks will be
+analyzed here : (i) Monetary policy shocks, (ii) Domestic demand shocks, (iii) oil price
+shock (iv) foreign demand shock, (v) international food price shock, and (vi) fiscal policy
+shocks.
+5.1 Monetary policy shocks
+Monetary policy shocks are analyzed through 2 instruments : policy interest rate45
+and liquidity injections.
+When the Central Bank raises its main policy interest rate, the level of liquidity
+44. Coded by Maih (2019) in the RISE toolbox.
+45. Reflecting the manipulation of the TIAO (french acronym for "Taux d’intérêt d’appels d’offres"),
+which is the principal policy rate of BEAC
+34
+
+--- Page 36 ---
+injections is lowered in order to reduce the supply of money in the interbank market
+and exert pressure on the interbank interest rate to minimize the interbank spread. This
+leads to a tightening of the bank credit to the private sector, which negatively affects the
+output gap (and the economic growth) and the inflation (figure 7). In addition, a lower
+demand, combined with a depreciation of the real exchange rate, leads to an increase in
+international reserves46.
+Figure 7 – 100basispointspolicyrateshock:AggregatedimpulseresponsesfunctionsofsomeCEMAC
+variables
+0.01
+Monetary Policy rate - CEMAC Cen 0tra1l 0B-a3nk liquidity injections to GDP ratio
+0
+1C0r-4edit growth (y-o-y) - CEMAC
+0.008 -2 -1
+0.006
+-4 -2
+0.004
+0.002 -6 -3
+0 -8
+2 4 6 8 10 12 2 4 6 8 10 12 2 4 6 8 10 12
+Quarters Quarters Quarters
+0Rea1l0 G-4DP growth rate - CEMAC (y-o-y) 0CE1M0A-4C average annual inflation rate Variati 1on 1o0f -i3nternational reserves - CEMAC (y-o-y)
+-0.5 0.8
+0.6
+-1 -1
+0.4
+-1.5 0.2
+-2 0
+2 4 6 8 10 12 2 4 6 8 10 12 2 4 6 8 10 12
+Quarters Quarters Quarters
+0
+1B0-a5nk Stability index - CEMAC Rea 2l ef1fe0c-4tive exchange rate - CEMAC (y-o-y) Pu10b-l5ic expenses - (y-o-y growth,%)
+15
+-1
+10
+-2 1
+5
+-3
+0
+0
+2 4 6 8 10 12 2 4 6 8 10 12 2 4 6 8 10 12
+Quarters Quarters Quarters
+Source : Author
+When looking at the disaggregated effects of monetary policy shock, the results show
+an asymmetric response of the CEMAC countries (Figure 8). The amplitude of the shocks
+is quite different, with Congo having a greater reaction to the monetary policy tightening.
+The key explanation here is the low level of effectiveness of the fiscal policy reaction to
+interest rates hike. As estimated fiscal multipliers are smaller than the average of CEMAC
+countries, fiscal policy stimulus does not generate enough growth to mitigate the effect
+of the monetary policy tightening. Thus, the combined effect of the recession and the
+increase in public expenses deteriorate the debt situation in Congo more than in the
+46. The intuition behind this dynamics is that a depreciation of the real exchange rate tends to boost
+exports through price competitiveness effect (see Bahmani-Oskooee and Ratha (2004)).
+35
+
+--- Page 37 ---
+other CEMAC countries.
+Figure 8 – 100 basis points policy rate shock : Disaggregated impulse response functions
+Interest rates dynamic (%) Central Bank liquidity injections to annualized GDP ratio (%) Bank lending tightness indicator
+1
+Monetary Policy rate CEMAC 0.03
+Interbank rate -0.4 0.02
+0.5 Neutral Interest rate, CEMAC -0.6 0.01
+0
+0 -0.8 -0.01
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+10B-3ank credit dynamics (q-o-q,%) 10-3Real GDP growth (q-o-q,%) Average inflation (%)
+5 5
+0 0 -0.01
+-5 -5 -0.02
+-10 -0.03
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Internationa1l0 r-4eserves (y-o-y variation, months of imports) 10-3Country Risk Premium (%) Real effective exchange rates (y-o-y variations,%)
+10 5 0.03
+5 CEMAC 0 0.02
+0.01
+0 -5
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+10-3 Bank Stability Index 10-3Public expenses growth (%) 10-3 Public debt growth (%)
+2 5 10
+-20 0 5
+-4 -5 0
+-6 -10 -5
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Cameroon Central African Republic Congo Gabon Equatorial Guinea Chad
+Source : Author
+When the monetary policy shock starts from the central bank liquidity injections
+(Figure 9), the transmission scheme to credit is similar, but the effect on inflation and
+international reserves seems more rapid, with a less heterogeneous impact on the different
+CEMAC countries (except for Congo). This result is similar to those of Bikai and Essiane
+(2017) and Bikai and Kenkouo (2019), who noted that the liquidity channel seems to be
+more effective than the interest rate channel in CEMAC.
+36
+
+--- Page 38 ---
+Figure 9 – Central bank liquidity shock : Disaggregated impulse response functions
+Interest rates dynamic (%) Central Bank liquidity injections to annualized GDP ratio (%) Bank lending tightness indicator
+0.08
+0.06 Monetary Policy rate -0.2 0.02
+0.04 Interbank rate 0.01
+0.02 Neutral Interest rate, CEMAC -0.4 CEMAC 0
+0
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+10B-3ank credit dynamics (q-o-q,%) 10-3Real GDP growth (q-o-q,%) 10-3 Average inflation (%)
+0 2
+0 0
+-5 -2 -5
+-10 -4
+-6 -10
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Internationa1l0 r-4eserves (y-o-y variation, months of imports) 10-3Country Risk Premium (%) Real ef1fe0c-3tive exchange rates (y-o-y variations,%)
+4 2 10
+2 0 5
+0 0
+-2 CEMAC -2 -5
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+10-3 Bank Stability Index 10-3Public expenses growth (%) 10-3 Public debt growth (%)
+2 4 4
+2 2
+0 0 0
+-2 -- 42 -2
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Cameroon Central African Republic Congo Gabon Equatorial Guinea Chad
+Note : For comparability purposes, the size of the liquidity shock has been calibrated in order to have the same negative
+variationoftheliquidityinjectionsattime1thanthepolicyinterestrateshockdescribedinfigure8.
+Source:Author
+Another key message here is that monetary policy can still have some effectiveness
+despite the fixed exchange rate regime of the CFA zone with the eurozone. Contrary to
+the conventional understanding of monetary policy under a fixed exchange rate regime
+(Mundell,1963;Swoboda,1973;Frankeland al.,2004;Obstfeldand al.,2005;Rose,2011),
+the Central Bank in CEMAC still has some ability to manipulate its nominal interest rate
+for stabilization purposes. The key factor behind this characteristic is the unconventional
+peg regime permitted by the legal agreement between the French treasury and the CFA
+countries. This agreement (i) exempts the Central Bank to sterilize its interventions on
+the Forex to maintain the fixed exchange rate and (ii) protects the monetary union from
+speculative attacks. Also, the capital controls applied by the monetary authority reinforce
+this autonomy of the monetary policy.
+5.2 Domestic demand shocks
+Two domestic demand shocks are simulated : (i) Cameroon’s demand shock (Figure
+10) and (ii) Central African Republic’s demand shock (Figure 11). These two countries
+37
+
+--- Page 39 ---
+are respectively the largest and the smallest economies of CEMAC. Two main findings
+could be highlighted.
+First, CEMAC-GLOBAL reproduces typical demand shock reaction identified in the
+literature (see Benes and al. (2017); Benlamine and al. (2018)). After the demand shock,
+output and inflation rise and international reserves fall, leading to a hike in the nominal
+policy interest rate. A higher level of economic activity improves bank stability and sti-
+mulates credit, in line with real-financial linkages literature (see Bernanke and al. (1999)).
+Here, the fiscal policy is counter-cyclical, with public spending decreasing after a positive
+demand shock47.
+Second, the spillover effects are quite small, even though the Cameroonian shock has
+a larger effect on the other CEMAC countries than its Central African Republic’s coun-
+terpart. This could be explained by the low level of trade integration in the monetary
+union (see Table 10). However, the impact of country-specific demand shocks on larger
+economies seems to have a positive impact in the short-run on these economies, and a
+negative impact on the other countries of the region. This is a consequence of the negative
+impact of the demand shock on international reserves, which increases the risk of external
+monetary instability in the monetary union. The monetary policy tightening that follows
+this sequence of responses contributes to bringing the system back to the balanced growth
+path.
+47. This result could appear counter-intuitive, considering several trends in the literature on fiscal
+policy cyclicality in developing countries (see Gavin and Perotti (1997); Kaminsky and al. (2004); Talvi
+andVégh(2005);Carmignani(2010);Bouanzaandal.(2018)),butthismodelshowsthatthefiscalpolicy
+response depends on the nature of the shock that hits the economies of CEMAC (cf. section 5.3)
+38
+
+--- Page 40 ---
+Figure 10 – Cameroon’s demand shock : Disaggregated impulse response functions
+Interest rates dynamic (%) Central Bank liquidity injections to annualized GDP ratio (%) Bank lending tightness indicator
+0.02 -0.005 CEMAC 0.02
+Monetary Policy rate -0.01 0
+0.01 I Nn ete ur tb raa ln Ik n tr ea rt ee st rate, CEMAC -0.015 -0.02
+0 -0.02 -0.04
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Bank credit dynamics (q-o-q,%) Real GDP growth (q-o-q,%) Average inflation (%)
+00 .. 00 46 0.5 0.1
+0.02 0 0.05
+0 0
+-0.02 -0.5 -0.05
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Internationa1l0 r-3eserves (y-o-y variation, months of imports) Country Risk Premium (%) Real effective exchange rates (y-o-y variations,%)
+0.02 0.05
+-202 CEMAC 0 -0.00 5
+-4 -0.02 -0.1
+-6 -0.15
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Bank Stability Index Public expenses growth (%) Public debt growth (%)
+0.2
+0.1 0
+0.1 -0.0 1 -0.05
+0 -- 00 .. 32 -0-0 .1.1 5
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Cameroon Central African Republic Congo Gabon Equatorial Guinea Chad
+Note:Theshockiscalibratedtosimulatea100percentagepointincreaseofthenon-oiloutputgap.
+Source:Author
+Figure 11 – Central African Republic Demand shock : Disaggregated impulse response functions
+10-4Interest rates dynamic (%) Central Bank1 0li-q3uidity injections to annualized GDP ratio (%) Bank lending tightness indicator
+15 -0.5 CEMAC 0
+1 50 M I Nn eo te un r te b rt aaa ln r Iy k
+n
+tP r eao rt el ei sc ty
+r
+r aa tete
+, CEMAC
+-1- .1
+5
+-0 -0.0 .15
+0 -2 -0.15
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Bank credit dynamics (q-o-q,%) Real GDP growth (q-o-q,%) Average inflation (%)
+0.2 0.6 0.1
+0.1 0.4 0.05
+0
+0. 02 0
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Internationa1l0 r-4eserves (y-o-y variation, months of imports) Country Risk Premium (%) Real effective exchange rates (y-o-y variations,%)
+2 0.05 0.05
+0 0 0
+-2 CEMAC -0.05 -0.05
+-4 -0.1 -0.1
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Bank Stability Index Public expenses growth (%) Public debt growth (%)
+0.2 0.1
+0 0
+0.1 -0.1 -0.1
+0 -0.2 -0.2
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Cameroon Central African Republic Congo Gabon Equatorial Guinea Chad
+Source : Author
+39
+
+--- Page 41 ---
+5.3 Oil price shock
+Three main results could be highlighted after a 10 percent increase shock in the oil
+price (Figure 12).
+First, an increase in the oil price leads to higher growth and inflation in oil-exporting
+economies. A higher level of oil prices broadens fiscal revenues, thus extending the fiscal
+policy space of oil-exporting countries. This larger policy space facilitates the expansion
+of public expenses, reduces the country risk premiums of the oil-exporting economies,
+and ease the credit conditions of most countries in the monetary union. These combined
+effects boost the economic activity in the non-oil sector. This transmission scheme is in
+line with several results in the literature on the procyclicality of fiscal policy in Africa or
+oil-exportingdevelopingeconomies(seeThornton(2008);Ilzetzki(2011);Mbemba(2011);
+Berg and al. (2015); Bikai (2015); Bova and al. (2016); Chuku and al. (2018)).
+Second, the results show that monetary policy reaction to an oil price shock is pro-
+cyclical. This reaction stems from the external constraint faced by the Central bank due
+to its policy objectives. The unconventional fixed exchange regime of CEMAC conducts
+the Central Bank to target a level of international reserves (see Mvondo (2019a); Ngomba
+Bodi (2022)). An increase in international reserves after a positive oil price shock leads
+to a monetary easing, which exacerbates the procyclical behavior of the banking system
+and the fiscal policy.
+Third, an increase in the oil price has a positive, though relatively limited, impact
+on the banking sector in Central African Republic, although it’s not an oil exporter
+country. The monetary easing that follows the oil price shock, combined with the lower
+risk premium of the monetary union, lead the banking sector to ease credit conditions in
+Central African Republic.
+40
+
+--- Page 42 ---
+Figure 12 – Response to a 10 % increase in the Oil price
+Interest rates dynamic (%) Central Bank liquidity injections to annualized GDP ratio (%) 10B-3ank lending tightness indicator
+0.15 0
+-0.05 Monetary Policy rate 0.1 -5
+-0.1 Interbank rate 0.05 -10
+-0.15 Neutral Interest rate, CEMAC CEMAC -15
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Bank credit dynamics (q-o-q,%) Real GDP growth (q-o-q,%) 10-3 Average inflation (%)
+0.8 0.05 20
+0.6 0.04
+0.4 0.03 10
+0.2 00 .. 00 12
+0
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+International reserves (y-o-y variation, months of imports) Country Risk Premium (%) Real ef1fe0c-3tive exchange rates (y-o-y variations,%)
+0.15 CEMAC 0
+0.1 -0.5
+-10
+0.05
+0 -1 -20
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Bank Stability Index Public expenses growth (%) Public debt growth (%)
+0.06 1.5 0.5
+0.04 1 0
+0.02 0.5 -0.5
+0 0
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Cameroon Central African Republic Congo Gabon Equatorial Guinea Chad
+Source : Author
+5.4 International food price shock
+Like many developing economies, CEMAC countries are significantly dependent on
+food imports, making food price shock a key policy concern. A food price shock in
+CEMAC-GLOBAL increases headline inflation and reduces the level of international re-
+serves (more expensive imports) (Figure 13). In front of the monetary instability induced
+by the increase in international food prices, the Central Bank tightens its policy by in-
+creasing the interest rate and cutting the liquidity injections, to bring back the inflation
+its the target. This sequence of responses tends to have a recessive effect on the economy,
+increase the risk premium and generate instability in the banking system. In addition,
+the Central African Republic seems to be the most harmed economy of CEMAC after
+an increase in international food prices. This behavior could be explained by a narrower
+supply of domestic food, which exposes the country to international food price shocks
+more than other CEMAC countries.
+41
+
+--- Page 43 ---
+Figure 13 – International food price shock : Disaggregated impulse response functions
+Interest rates dynamic (%) Central Bank liquidity injections to annualized GDP ratio (%) Bank lending tightness indicator
+1.5
+0.2 0 CEMAC
+0.1 Monetary Policy rate -0.1 1
+0 Interbank rate 0.5
+-0.1 Neutral Interest rate, CEMAC -0.2
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Bank credit dynamics (q-o-q,%) Real GDP growth (q-o-q,%) Average inflation (%)
+0.2 0.2 2
+0 0 1
+-0.2 0
+-0.2 -0.4 -1
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+International reserves (y-o-y variation, months of imports) Country Risk Premium (%) Real effective exchange rates (y-o-y variations,%)
+00 .. 00 12
+0
+0000 .... 2468 -101
+-0.01 CEMAC 0 -2
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Bank Stability Index Public expenses growth (%) Public debt growth (%)
+--- 000
+...0
+321
+--
+000000 ......
+0
+422468 -00000 .....
+0
+22468
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Cameroon Central African Republic Congo Gabon Equatorial Guinea Chad
+Source : Author
+5.5 Fiscal policy shocks
+Fiscal policy in a monetary union is a key issue in economic literature both on deve-
+loped and developing countries48. In particular, a key concern is the level of coordination
+of fiscal policy in monetary unions. Two fiscal policy scenarios has been simulated : (i) A
+single country-specific shock (Figure 14) and (ii) a coordinated fiscal policy shock (Figure
+15).
+Country-specificfiscalstimulusincreasesdemand,followingthesameschemedescribed
+in section 5.2, except for public debt, country risk premium, and international reserves.
+Here, the fiscal stimulus in Cameroon increases public debt and the Cameroonian risk
+premium. The expansion of external debt temporarily increases the level of international
+reserves and contributes to mitigating the monetary policy tightening induced by the
+fiscal policy stimulus. Again, the spillover effects is low, with a noticeable effect only on
+the Central African Republic.
+48. See Avom (2007) for a discussion on CEMAC economies.
+42
+
+--- Page 44 ---
+Figure 14 – Cameroon’s fiscal policy shock : Disaggregated impulse response functions
+10-3Interest rates dynamic (%) Central Bank1 0li-q3uidity injections to annualized GDP ratio (%) 10B-3ank lending tightness indicator
+3
+2 Monetary Policy rate -1 CEMAC 0
+1 I Nn ete ur tb raa ln Ik n tr ea rt ee st rate, CEMAC -2 -5
+0 -3 -10
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+10B-3ank credit dynamics (q-o-q,%) Real GDP growth (q-o-q,%) 10-3 Average inflation (%)
+8 0.06 20
+46 00 .. 00 24 10
+2 0 0
+0 -0.02
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Internationa1l0 r-3eserves (y-o-y variation, months of imports 0)
+.04
+Country Risk Premium (%) R 0e .0a 1l effective exchange rates (y-o-y variations,%)
+2 CEMAC 0
+1 0.02 -0.01
+0
+-1 0 -0.02
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+10-3 Bank Stability Index Public expenses growth (%) Public debt growth (%)
+10 0.15
+5 0.5 0.1
+0 0 0.05
+0
+-5 -0.5
+2 4 6 8 10 12 14 2 4 6 8 10 12 14 2 4 6 8 10 12 14
+Quarters Quarters Quarters
+Cameroon Central African Republic Congo Gabon Equatorial Guinea Chad
+Source : Author
+The coordinated fiscal shock impulses have the same qualitative evolution as the
+country-specific ones. This result is not surprising, considering the low level of trade
+and financial integration in CEMAC49.
+49. Another possible reason could be found in the structure of the model, which only connects the
+outputs gaps of the countries of the monetary union. A future extension of the model could address
+this issue by integrating also the trends. Nevertheless, the spillover effects could be a priori similar,
+considering the low level of trade integration in CEMAC.
+43
+
+--- Page 45 ---
+Figure 15 – Coordinated fiscal policy shock : Disaggregated impulse response functions
+Source : Author
+6 Historical decompositions
+The modelling approach of CEMAC-GLOBAL permits analyzing the contribution of
+theshockstothevariables’dynamicsthroughbothgeographicandeconomicperspectives.
+This is an advantage if the policy analyst wants, for example, to understand if the policy
+interest rate evolution responds to symmetric or asymmetric dynamics of the economies
+of a monetary union.
+ThedecompositionofthemainpolicyinterestrateofBEAC50 showsthatthecountry-
+specific economic shocks affected the TIAO in the same direction during the 2010 decade
+(Figure 16). In the early 2010s, CEMAC countries positively contributed to the evolution
+of the policy interest rate, in a context of financial conditions easing and a greater demand
+affecting the economic activity (Figure 31 page 117), inflation (Figure 32 page 118) and
+international reserves (Figure 33 page 119). Then, a second phase followed, characterized
+by a negative contribution to TIAO of every CEMAC country. This phase regrouped
+50. The TIAO, see section 5.1
+44
+
+--- Page 46 ---
+two very different economic situations. First, the favorable profile of oil prices before the
+secondsemesterof2014significantlycontributedtotheevolutionofinternationalreserves,
+thus relaxing the external constraint faced by the Central Bank. In addition, the low level
+of inflation during this period didn’t encourage the Central Bank to tighten its monetary
+policy. Second, the reversal of the oil price dynamics after the 2014 shock deteriorated
+the economic growth in CEMAC (Figure 31). Combined with inflation still low in the
+region, the monetary policy maintained its accommodative stance till late 2016. Then
+the third phase started, with positive contributions to interest rate dynamics of every
+CEMAC country, caused by their negative impact on international reserves evolution and
+the impact of the COVID-19 pandemic.
+Thiskindofanalysiscouldbeconductedforeveryvariableofthemodel.Forparsimony
+purposes, only a few historical decompositions are presented in this paper (see appendix,
+page 117).
+Figure 16 – Historical decomposition of monetary policy rate (variations, y-o-y)
+0.03
+0.03
+MonPolicy
+Cameroon
+CAR
+Congo 0.02
+0.02 Gabon
+Guinea
+Chad
+Foreign
+OilPrices 0.01
+CapitalFlows
+0.01
+others
+init
+0
+0
+-0.01
+-0.01
+Demand
+Supply
+-0.02
+MonetaryPolicy
+OilRevenues
+-0.02 ForeignShocks
+CapitalFlows
+FinancialShocks
+-0.03 others
+init
+-0.03
+Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3
+2010 2011 2013 2014 2016 2017 2019 2020 2010 2011 2013 2014 2016 2017 2019 2020
+Source : Author
+45
+
+--- Page 47 ---
+7 Future extensions
+CEMAC-GLOBAL is an ongoing modelling project and the version presented in this
+paper is a baseline specification. Although this version of CEMAC-GLOBAL is useful for
+spillover analysis of several shocks in CEMAC and the study of the asymmetric effect of
+monetary policy shocks, it could be improved in several ways. First, a more structural
+specification of the foreign economy could be implemented, following Carabenciov and al.
+(2013) or Dieppe and al.(2018). This approach would improve the simulation capacities of
+the model concerning foreign shocks. Second, the model could disaggregate the inflation
+dynamics to analyze the evolution of core, food and energy inflation more explicitly.
+Considering the rising issues concerning inflation since the COVID-19 pandemics, this
+refinement of the inflation analysis could be interesting (see Benlamine and al. (2018)).
+Third, the model could take into consideration the term structure of the interest rates,
+in order to integrate yield curves analysis in the simulations, following Dieppe and al.
+(2018) and Benes and al. (2017). Fourth, this version of CEMAC-GLOBAL does not
+explicitly consider the degree of capital control in the monetary policy rule, contrary to
+Benlamine and al. (2018). Even if the Central Bank does not explicitly apply strict capital
+control, including this feature could serve for policy simulation purposes. Fifth, the model
+could include regime-switching features, to reflect various macroeconomic regimes that
+could lead to different economic policy behaviors, as noted in Mvondo (2019a). These
+limitations can be addressed in future extensions of the model.
+Conclusion
+This paper introduced a semi-structural macroeconomic model for policy analysis, risk
+assessment, and forecasting in the CEMAC monetary union. It departs from previously
+known models of the CEMAC economy mainly by modelling every country of the mo-
+netary union, which allows studying the asymmetric effects of the monetary policy and
+the spillover effect of various shocks like national fiscal policy shocks. The model also (i)
+capturesthefeaturesoftheunconventionalfixedexchangerateregimeoftheCEMAC,(ii)
+distinguishes the oil and non-oil output with an interaction between these sectors through
+fiscal policy, (iii) specifies a detailed monetary policy transmission by considering liqui-
+46
+
+--- Page 48 ---
+dity injections and a simple interbank interest rate dynamics, (iv) includes real-financial
+linkages with a credit cycle dynamics affecting the business cycle and (v) integrates some
+hysteresis effects with fiscal stimulus depending on the headline economic growth.
+The potential use of the model has been illustrated by discussing country-specific
+and monetary-union level responses to monetary policy shocks, demand shocks, oil price
+shock, foreign demand shock, international food price shock, country-specific and coordi-
+nated fiscal shocks and credit supply shock. In addition, the empirical performance has
+been assessed through the historical decomposition of the GDP growth, inflation, interna-
+tional reserves, and bank credit. These simulations showed that monetary policy has an
+asymmetric effect on CEMAC countries, with a greater impact on countries with a less
+prominent oil sector. In addition, the size of the spillover effects seems to increase with
+the size of the country where the shock occurs. Also, coordinated fiscal impulses have a
+greater positive impact on the CEMAC output than country-specific ones, however with
+a negative impact on international reserves and the country risk premium. Obviously, a
+vast variety of simulations and scenarios can be analyzed with CEMAC-GLOBAL, and
+numerous studies could explore specific policy issues based on this model.
+CEMAC-GLOBAL is still an ongoing modelling process and future versions could
+address progressively its limitations, among which are the lack of granularity of inflation
+dynamics, the oversimplified foreign sector modelling, or the absence of regime-switching
+behavior.
+47
+
+--- Page 49 ---
+References
+Abuka, C., Alinda, R. K., Minoiu, C., Peydró, J. L. and Presbitero, A. F. (2019); «Monetary
+policy and bank lending in developing countries : Loan applications, rates, and real effects» :
+Journal of Development Economics, 139(November 2018), p. 185–202
+African Development Bankand African Union(2009);Oil and gas in Africa : OxfordUniversity
+Press, 231 p.
+Agénor, P.-R., da Silva, L. A. P. and da Silva, L. A. P. (2011); « Macroeconomic Stability,
+Financial Stability, and Monetary Policy Rules» : Ferdi Working Papers, (29)
+Alpanda, S., Kotzé, K. and Wolgom, G. (2011); « Forecasting Performance Of An Estima-
+ted Dsge Model For The South African Economy » : South African Journal of Economics,
+79(March), p. 50–67
+Assemien,A.,Esso,L.J.,Kanga,K.D.andEsso,L.J.(2019);«CanMonetaryPolicyInfluence
+Employment? The case of West African States » : Revue d’Economie Politique, 129(5), p.
+777–813
+Assoumou, O. (2017); « Public debt and financial stability : The case of economic community
+and monetary union of central Africa (EMCCA)» : Journal of Economics and International
+Finance, 9(9), p. 89–94
+Avom, D. (2007); « La coordination des politiques budgétaires dans une union monétaire :
+l’expérience récente des pays de la CEMAC» : Revue Tiers Monde, 4(192), p. 871–893
+Bahmani-Oskooee, M. and Ratha, A. (2004); « The J-curve : A literature review » : Applied
+Economics, 36(13), p. 1377–1398
+de Bandt, O. and Hartmann, P. (2000); «Systemic risk : A survey» : SSRN Electronic Journal
+Banque des Etats de l’Afrique Centrale (2017); « Statuts de la Banque des Etats de l’Afrique
+Centrale» :
+Banque des Etats de l’Afrique Centrale (2019); «Bulletin du Marché Monétaire» : Décembre
+BanquedesEtatsdel’AfriqueCentrale(2021);«RapportsurlaPolitiqueMonétaire(Décembre
+2021)» : Rapport technique, Banque des Etats de l’Afrique Centrale
+Bauducco, S., Christiano, L. J. and Raddatz, C. E. (2014); « Macroeconomic and financial
+stability : an overview» : Series on Central Banking Analysis and Economic Policies, (19)
+48
+
+--- Page 50 ---
+Beck, R., Jakubik, P. and Piloiu, A. (2013); «Non-performing loans : What matters in addition
+to the economic cycle?» : ECB Working Paper Series, (1515)
+Benes, J., Clinton, K., George, A., Gupta, P., John, J., Kamenik, O., Laxton, D., Mitra, P.,
+Nadhanael, G., Portillo, R., Wang, H. and Zhang, F. (2017); « Quarterly Projection Model
+for India : Key Elements and Properties» : IMF Working Paper Series, (WP/17/33)
+Benlamine, M., Bulíř, A., Farouki, M., Horváth, Á., Hossaini, F., Szilágyi, K., Taamouti, M.
+and Vávra, D. (2018); « Morocco : A Practical Approach to Monetary Policy Analysis in a
+Country with Capital Controls» : IMF Working Paper Series, (WP/18/27)
+Benoit, S., Colliard, J.-E., Hurlin, C. and Pérignon, C. (2016); « Where the risks lie a survey
+on systemic risk» : Review of Finance, (p. 1–44)
+Berg, A., Karam, P. and Laxton, D. (2006); «Practical Model-Based Monetary Policy Analysis
+— A How-To Guide» : IMF Working Paper Series, (WP/06/81)
+Berg, A., Yang, S.-C. S. and Zanna, L.-F. (2015); « Modeling African Economies : A DSGE
+Approach » : Dans Monga, C. and Lin, J. Y. (Rédacteurs) The Oxford Handbook of Africa
+and Economics, tome 1 : Context, (p. 1–30)
+Bernanke,B.S.andGertler,M.(1995);«InsidetheBlackBox:TheCreditChannelofMonetary
+Policy Transmission» : Journal of Economic Perspectives, 9(4), p. 27–48
+Bernanke,B.S.,Gertler,M.andGilchrist,S.(1999);«Thefinancialacceleratorinaquantitative
+business cycle framework» : Handbook of Macroeconomics, 1(PART C), p. 1341–1393
+Bianchi, J. and Bigio, S. (2022); « Banks, Liquidity Management, and Monetary Policy » :
+Econometrica, 90(1), p. 391–454
+Bikai, J. L. (2015); « Règles de surveillance multilatérales et pro cyclicité de la politique bud-
+gétaire dans la zone CEMAC» : BEAC Working Paper Series, 2015(BWP N°07/15)
+Bikai,J.L.andEssiane,P.-N.D.(2017);«Politiquemonétaire,stabilitémonétaireetcroissance
+économique dans la CEMAC : une approche SVAR bayésienne » : BEAC Working Paper
+Series, (BWP 08/17)
+Bikai, J. L. and Kenkouo, G. A. (2019); «Analysis and evaluation of the transmission channels
+ofmonetary policy inCEMAC :A SPVAR-Xapproach» :Mondes en développement,185(1),
+p. 109–132
+49
+
+--- Page 51 ---
+Bikai, J. L. and Mbohou Mama, M. (2018); « Stabilité bancaire et stabilité macroéconomique
+dans la CEMAC» : BEAC Working Paper Series, (12/18)
+Bikai, J. L. and Ngomba Bodi, F. G. (2019); « Les prévisions conditionnelles sont-elles plus
+précises que les prévisions inconditionnelles dans les projections de croissance et d’inflation
+en zone CEMAC?» : BEAC Working Paper Series, (03/19), p. 30
+Bikai, J. L., Yogo, T. U. and Essiane, P.-N. D. (2017); «Quantification du multiplicateur bud-
+gétaire dans les pays de la CEMAC» : BEAC Working Paper Series, (BWP 07/17)
+Bikai, L. and Mbohou Mama, M. (2016); «Une fonction de réaction pour la Banque des Etats
+de l’Afrique Centrale dans un contexte de dominance budgétaire » : BEAC Working Paper
+Series, (BWP 04/16), p. 1–28
+Black, R., Laxton, D., Rose, D. and Tetlow, R. (1994); «The Steady-State Model : SSQPM» :
+Dans The Bank of Canada’s New Quarterly Projection Model, chapitre The Steady, Bank of
+Canada
+Bokan,N.andRavnik,R.(2018);«QuarterlyProjectionModelforCroatia»:CroatianNational
+Bank Surveys, (S-34)
+Borio, C. (2012); « The financial cycle and macroeconomics : What have we learnt? » : BIS
+Working Papers, (395)
+Bouanza, J. R. F. K., Ngassa, T. C. and Ndinga, M. M. A. (2018); «The Effects of Regulatory
+Quality on the Pro-Cyclicality of Fiscal Policy in Countries in the Central African Economic
+and Monetary Community (CA EMC)» : Modern Economy, 09(07), p. 1228–1246
+Bova, E., Medas, P. and Poghosyan, T. (2016); « Macroeconomic Stability in Resource-Rich
+Countries : The Role of Fiscal Policy» : IMF Working Papers, (WP/16/36)
+Carabenciov, I., Ermolaev, I., Freedman, C., Juillard, M., Kamenik, O., Korshunov, D. and
+Laxton, D. (2008a); « A Small Quarterly Projection Model of the US Economy » : IMF
+Working Papers, 08(278), p. 1
+Carabenciov, I., Ermolaev, I., Freedman, C., Kamenik, O., Juillard, M., Korshunov, D., Laxton,
+D. and Laxton, J. (2008b); « A Small Quarterly Multi-Country Projection Model » : IMF
+Working Papers, 08(279), p. 1
+50
+
+--- Page 52 ---
+Carabenciov, I., Freedman, C., Garcia-Saltos, R., Laxton, D., Kamenik, O. and Manchev, P.
+(2013); « GPM6 : The Global Projection Model with 6 Regions » : IMF Working Papers,
+13(87), p. 1
+Carmignani, F. (2010); «Cyclical fiscal policy in Africa» : Journal of Policy Modeling, 32(2),
+p. 254–267
+Caruana, J., Hawkins, P., Jeanneau, S., Christensen, B. V. V., Christensen, B. V., Rangasamy,
+L.,Mihaljek,D.andYunus,M.(2011);«CentralBankinginAfrica:ProspectsinaChanging
+World» : BIS Papers, (56)
+Cerra,V.,Fatás,A.andSaxena,S.C.(2020);«HysteresisandBusinessCycles»:IMF Working
+Paper Series, (WP/20/73)
+Chafik, O. (2019); « Monetary Policy in oil exporting countries with fixed exchange rate and
+open capital account : expectations matter» : MPRA Paper, (92558), p. 0–33
+Chuku, C., Simpasa, A. and Oduor, J. (2018); « Macroeconomic Consequences of Commodity
+Price Fluctuations in African Economies» : African Development Review, 30(4), p. 329–345
+Clausen, V. and Hayo, B. (2006); « Asymmetric monetary policy effects in EMU » : Applied
+Economics, 38(10), p. 1123–1134
+Coletti,D.,Hunt,B.,Rose,D.andTetlow,R.(1996);«TheDynamicModel:QPM»:DansThe
+Bank of Canada’s New Quarterly Projection Model, chapitre The Dynami, Bank of Canada
+Cross, R. (1993); «On the Foundations of Hysteresis in Economic Systems» : Economics and
+Philosopy, 9(October 2009), p. 53–74
+Das, U. S., Papapioannou, M., Pedras, G., Ahmed, F. and Surti, J. (2010); «Managing Public
+Debt and its Financial Stability Implications» : IMF Working Papers, 10(280), p. 1
+Delong, J. B. and Summers, L. (2012); « Fiscal Policy in a Depressed Economy » : Brookings
+Papers on Economic Activity, 43(1 (Spring)), p. 233–297
+Diaw, A. and Sall, A. K. (2018); «Inflation Targeting : What Rule for the Central Bank of West
+African States ( BCEAO )?» : Revue d’Economie du développement, 26(2), p. 5–49
+Dieppe, A., Georgiadis, G., Ricci, M., Robays, I. V. and van Roye, B. (2018); «ECB-Global :
+introductin ECB’s global macroeconomic model for spillover analysis» : Economic Modelling,
+72(June 2018), p. 78–98
+51
+
+--- Page 53 ---
+Diouf, A. and Laporte, B. (2018); «Oil contracts and government take : Issues for Senegal and
+developing countries» : Journal of Energy and Development, 43(2), p. 213–234
+Dwarkasing, M., Dwarkasing, N. and Ongena, S. (2017); «The Bank Lending Channel of Mo-
+netary Policy : A Review of the Literature and an Agenda for Future Research» : Dans The
+Palgrave Handbook of European Banking, (p. 383–407)
+Essiane, P.-N. D. and Ngomba Bodi, F. G. (2018); « Estimation des élasticités du commerce
+extérieur dans des économies en développement riches en ressources naturelles : le cas des
+pays de la CEMAC» : BEAC Working Paper Series, (BWP 05/15)
+Fall, A. and Sy, D. (2019); « La politique monétaire de la BCEAO face au double ancrage :
+ciblage d’inflation et ciblage du taux de change » : Revue d’Economie du développement,
+27(4), p. 129–175
+Fatás, A. and Summers, L. H. (2018); « The Permanent Effects of Fiscal Consolidations » :
+Journal of International Economics, 112(May 2018)
+Fofack, H. (2005); «Nonperforming loans in Sub-Saharan Africa : causal analysis and macroe-
+conomic implications» : World Bank Policy Research Working Paper Series, (3769)
+Fossouo Kamga, A. L. (2015); «Etude des propriétés de long terme de l’inflation dans les pays
+de la CEMAC : Une approche ARFIMA» : BEAC Working Paper Series, (04/15)
+Fouopi Djiogap, C. and Ngomsi, A. (2012); «Determinants of Bank Long-Term Lending Beha-
+vior in The Central African Economic and Monetary Community ( CEMAC )» : Review of
+Economics and Finance, (May 2012), p. 107–114
+Frankel, J., Schmukler, S. L. and Serven, L. (2004); « Global transmission of interest rates :
+monetaryindependenceandcurrencyregime»:Journal of international Money and Finance,
+23(5), p. 701–733
+Gavin, M. and Perotti, R. (1997); «Fiscal Policy in Latin America» : NBER Macroeconomics
+Annual, 12(1997), p. 11–61
+Georgiadis, G., Hildebrand, S., Ricci, M., Schumann, B. and Roye, B. V. (2021); «ECB-Global
+2.0 : a global macroeconomic model with dominant-currency pricing, tariffs and trade diver-
+sion» : ECB Working Paper Series, March 2021(2530)
+Hamiani, E., Buessing-loercks, M. and Fleuriet, V. (2020); « Monetary Policy Under an Ex-
+change Rate Anchor» : IMF Working Paper Series, (WP/20/180)
+52
+
+--- Page 54 ---
+Hlédik,T.,Musil,K.,Rysanek,J.andJaromir,T.(2018);«AmacroeconomicForecastingModel
+of the FIxed Exchange Rate Regime for the Oil-Rich Kazakh Economy » : Czech National
+Bank Working Paper Series, (11)
+Huizinga, H. and Laeven, L. (2019); «The Procyclicality of Banking : Evidence from the Euro
+Area» : ECB Working Paper Series, (2288)
+Ilzetzki,E.(2011);«Rent-seekingdistortionsandfiscalprocyclicality»:JournalofDevelopment
+Economics, 96(1), p. 30–46
+Kaminsky,G.L.,Reinhart,C.M.andVégh,C.A.(2004);«WhenItRains,ItPours:Procyclical
+Capital Flows and Macroeconomic Policies» : NBER Macroeconomics Annual, 19(October),
+p. 11–53
+Keungne K., L. S., Mounkala, E. U. H. and Mukam M., A. (2016); «Optimalité de la politique
+monétaire de la BEAC depuis 2001» : BEAC Working Paper Series, (03/16)
+Lang,J.H.andWelz,P.(2018);«Semi-structuralcreditgapestimation»:ECB Working Paper
+Series, (2194)
+Lemoine, M., Turunen, H., Lepetit, A., Zhutova, A., Clerc, P. and Laffargue, J.-p. (2019); «The
+FR-BDF Model and an Assessment of Monetary Policy Transmission in France» : Banque de
+France Working Paper Series, (736)
+Liu, G., Gupta, R. and Schaling, E. (2009); «A new-keynesian DSGE model for forecasting the
+South African Economy» : Journal of Forecasting, 28(5), p. 387–404
+Maih, J. (2019); «Rationality In Switching Environments (RISE) Toolbox» :
+URL https://github.com/jmaih/RISE_toolbox
+Mandiefe Piabuo, S., Menjo Baye, F. and Julius, C. T. (2015); «Effects of credit constraints on
+theproductivityofsmallandmedium-sizedenterprisesinCameroon»:Journal of Economics
+and International Finance, 7(9), p. 204–212
+Mbemba, A. (2011); « Fiscal Policy in Selected African Countries : The CFA Franc Zone » :
+International Journal of Economics and Finance, 3(2), p. 101–110
+Mishra, P. and Montiel, P. (2013); « How effective is monetary transmission in low-income
+countries? A survey of the empirical evidence» : Economic Systems, 37(2), p. 187–216
+53
+
+--- Page 55 ---
+Mishra,P.,Montiel,P.,Pedroni,P.andSpilimbergo,A.(2014);«Monetarypolicyandbanklen-
+dingratesinlow-incomecountries:Heterogeneouspanelestimates»:Journal of Development
+Economics, 111, p. 117–131
+Mundell, R. A. (1963); « Capital Mobility and Stabilization Policy under Fixed and Flexible
+Exchange Rates » : The Canadian Journal of Economics and Political Science, 29(4), p.
+475–485
+Mvondo, E. T. (2018a); «A la recherche de l’amplitude optimale du corridor des facilités per-
+manentes de la BEAC» : BEAC Working Paper Series, (BWP 11/18), p. 1–18
+Mvondo, E. T. (2018b); «La pertinence du TIAO comme instrument de politique monétaire de
+la BEAC : Fondements théoriques et évaluation empirique» : BEAC Working Paper Series,
+(03/17)
+Mvondo, E. T. (2019a); « Oil Shocks and Macroeconomic Effects of Occasionally Binding
+Constraint on External Reserves of CEMAC» : International Journal of Business and Eco-
+nomic Research, 8(6), p. 422–438
+Mvondo, E. T. (2019b); «Réformes financières et formation des taux d’intérêt en Afrique Cen-
+trale : une approche à travers le modèle DSGE» : Revue Interventions Economiques, (61)
+Mvondo, E. T. (2020); « Stabilisation et relance macroéconomique post COVID-19 dans la
+CEMAC. Quels instruments pour quels effets dans un modèle DSGE? » : BEAC Working
+Paper Series, (01/20)
+Ngomba Bodi, F. G. (2022); «External Constraints and Procyclicality of the Monetary Policy
+of the Bank of Central African States» : BEAC Working Paper Series, (Forthcoming)
+Obstfeld, M., Shambaugh, J. C. and Taylor, A. M. (2005); «The trilemma in history : tradeoffs
+among exchange rates, monetary policies, and capital mobility » : Review of economics and
+statistics, 87(3), p. 423–438
+Peiris, S. J. and Saxegaard, M. (2010); «An estimated dynamic stochastic general equilibrium
+model for monetary policy analysis in Mozambique» : IMF Staff Papers, 57(1), p. 256–280
+Poloz, S., Rose, D. and Tetlow, R. (1994); « The Bank of Canada’s new Quarterly Projection
+Model (QPM) : An introduction» : Bank of Canada Review, 20, p. 23–38
+Rose, A. K. (2011); « Exchange rate regimes in the modern era : fixed, floating, and flaky » :
+Journal of Economic Literature, 49(3), p. 652–672
+54
+
+--- Page 56 ---
+Shaughnessy,T.O.(2011);«Hysteresisinunemployment»:OxfordReviewofEconomicPolicy,
+27(2), p. 312–337
+Smets, F. (2014); « Financial Stability and Monetary Policy : How Closely Interlinked? » :
+International Journal of Central Banking, 10(2)
+Swoboda, A. K. (1973); « Monetary Policy under Fixed Exchange Rates : Effectiveness , the
+Speed of Adjustment and Proper Use» : Economica, 40(158), p. 136–154
+Talvi, E. and Végh, C. (2005); « Tax Base Variability and Procyclicality of Fiscal Policy » :
+Journal of Development Economics, 78
+The Growth Lab at Harvard University (2019); «International Trade Data (HS,92)» : Harvard
+Dataverse, V2
+Thornton, J. (2008); « Explaining procyclical fiscal policy in African countries » : Journal of
+African Economies, 17(3), p. 451–464
+Wiegand, J. (2004); « Fiscal Surveillance in a Petro Zone : The Case of the CEMAC » : IMF
+Working Papers, 008
+Yuce, B., Packianather, M. S., Mastrocinque, E., Pham, D. T., Lambiase, A. and Parade, T.
+(2013); «Honey Bees Inspired Optimization Method : The Bees Algorithm» : Insects, 4, p.
+646–662
+55
+
+--- Page 57 ---
+Appendix
+Data
+Table 1 – Description of Data
+Observable Variable name Indicator Source Period Observations
+y∗ Foreign output Output gap USA St. Louis Fe- 2000Q1- Cyclical component of the HP-filtered US real GDP
+bi,t
+gap deral Reserve 2021Q2
+https://fred.
+stlouisfed.
+org/graph/?g=
+f1cZ
+Continued on next page
+56
+
+--- Page 58 ---
+– Continued from previous page
+Observable Variable name Indicator Source Period Observations
+poil Oil prices Log of Brend oil US Energy 2000Q1-
+t
+prices (current US Information 2021Q2
+dollars per barrel) Administra-
+tion, https:
+//www.eia.
+gov/outlooks/
+steo/data.
+php?type=
+tables
+i∗ Foreign interest ECB main refi- European Cen- 2000Q1-
+t
+rate nancing rate tral Bank 2021Q2
+πeu Eurozone Q-o-Q Q-o-Qgrowthrate International 2000Q2-
+t
+inflation rate of the Eurozone Monetary Fund, 2021Q2
+consumer price in- International
+dex Financial Sta-
+tistics database
+Continued on next page
+57
+
+--- Page 59 ---
+– Continued from previous page
+Observable Variable name Indicator Source Period Observations
+πus US Q-o-Q infla- Q-o-Qgrowthrate International 2000Q2-
+t
+tion rate of the US consu- Monetary Fund, 2021Q2
+mer price index International
+Financial Sta-
+tistics database
+seur,usd Euro-USD ex- Euro-USD ex- International 2000Q1-
+t
+change rate change rate Monetary Fund, 2021Q2
+International
+Financial Sta-
+tistics database
+πfood International FAO Food Price Food and 2000Q1-
+i,t
+Food prices Index Agriculture 2021Q2
+Organization
+of the United
+Nations
+Continued on next page
+58
+
+--- Page 60 ---
+– Continued from previous page
+Observable Variable name Indicator Source Period Observations
+∆y Headline real Q-o-Q Real GDP Bank of Central 2000Q1- Real GDP published in BEAC Monetary Policy Re-
+it
+economic q-o-q growth of country African States 2021Q2 ports statistical appendix. Chow-Lin temporal disag-
+growth of CE- i (BEAC) gregation has been applied on the annual data using
+MAC country Quarterly data on broad money (M2) data published
+i by the Bank of Central African States
+∆yoil Oil sector Q-o-Q Oil sector Q-o-Q Bank of Central 2000Q1- Q-o-Q growth rate of the real GDP published in
+it
+real GDP of coun- real GDP of coun- African States 2021Q2 BEAC Monetary Policy Reports statistical appendix.
+try i try i (BEAC) Chow-Lin temporal disaggregation has been applied
+on the annual data using Quarterly data on broad
+money (M2) data published by the Bank of Central
+African States
+π4 Y-O-Yinflationof Y-o-Y growth rate Bank of Central 2002Q1- DatapublishedbytheBankofCentralAfricanStates
+i,t
+country i of the Harmoni- African States 2021Q2 based on National Institutions in charge of Statistics
+zed Consumer (BEAC) of CEMAC countries.
+Price index of
+country i
+Continued on next page
+59
+
+--- Page 61 ---
+– Continued from previous page
+Observable Variable name Indicator Source Period Observations
+shoil Share of oil GDP Share of oil GDP Bank of Central 2000Q1- Indicator computed by the author based on annual
+it
+in headline real in headline real African States 2021Q2 data on headline real GDP of country i. The Den-
+GDP of country i GDP of country i (BEAC) ton temporal disaggregation method has been used
+to obtain the quarterly indicator.
+∆g Q-o-Q growth Q-o-Qgrowthrate Bank of Central 2000Q1- DatapublishedbytheBankofCentralAfricanStates
+i,t
+rate of nominal of Current public African States 2021Q2 based on National Treasury data. The quarterly data
+public expenses of expenses of coun- (BEAC) is obtained by using the Denton temporal disaggre-
+country i try i gation method on the annual data.
+debt Debt to GDP ra- External Debt to Bank of Central 2000Q1- DatapublishedbytheBankofCentralAfricanStates
+i,t
+tio of country i GDP Ratio used African States 2021Q2 based on National Treasury data. The quarterly data
+of country i (BEAC) is obtained by using the Denton temporal disaggre-
+gation method on the annual data.
+∆cr Q-o-Q credit Q-o-Q credit to Bank of Central 2006Q1- Author’s calculations based on the monthly Data pu-
+i,t
+growth of country private sector of African States 2021Q2 blished by the Bank of Central African States (Mo-
+i country i (BEAC) netary statistics)
+Continued on next page
+60
+
+--- Page 62 ---
+– Continued from previous page
+Observable Variable name Indicator Source Period Observations
+RESMIMP International Re- International re- Bank of Central 2000Q1- Author’s calculations based on international reserves
+t
+serves of CEMAC serves of CEMAC African States 2021Q2 stocks of CEMAC and quarterly data on current im-
+in months of im- in months of (BEAC) ports of CEMAC (obtained by temporal disaggrega-
+ports exports tion of Annual imports data published by the Bank
+of Central African States). The indicator is the ratio
+of international reserves at time t and the imports at
+time t.
+IPOLICY Central Bank Po- Taux d’intérêt Bank of Central 2000Q1-
+t
+licy interest rate d’Appels d’Offres African States 2021Q2
+(TIAO) (BEAC)
+Continued on next page
+61
+
+--- Page 63 ---
+– Continued from previous page
+Observable Variable name Indicator Source Period Observations
+IINTERBANK Interbank market Taux d’intérêt Bank of Central 2000Q1- The data on the Interbank rate has been compiled
+t
+interest rate moyen pondéré African States 2021Q2 from 2 main sources : (i) the BEAC annual reports
+(TIMP) (BEAC) published from 2001 to 2017 and (ii) the monthly
+interbank rates statistics of the 2018-2021 period pu-
+blished by the Bank of Central African States. The
+BEAC annual reports published from 2001 to 2017
+present annual average interbank rates (except for
+the 2002Q1-2004Q4 period, where monthly data are
+reported). The Denton temporal disaggregation tech-
+nique has been used to obtain quarterly interbank
+rates for the 2001Q1-2001Q4 and 2005Q1-2017Q4
+periods.Forthe2018Q1-2021Q2period,thequarterly
+average of the unsecured interbank rate (Taux Inter-
+bancaire Moyen pondéré sur les opérations en blanc
+for the french denomination) has been considered.
+Continued on next page
+62
+
+--- Page 64 ---
+– Continued from previous page
+Observable Variable name Indicator Source Period Observations
+CBINJEC Central Bank li- Ratio between the Bank of Central 2000Q1- The net liquidity injections have been computed by
+t
+quidity injection net liquidity injec- African States 2021Q2 substracting the liquidity punctions of the Central
+to real GDP ratio tions of the Bank (BEAC) from the total liquidity injection of the Central Bank
+of Central Afri- on the CEMAC money market. The data has been
+canStatesandthe collected from the BEAC website.
+real GDP of CE-
+MAC
+63
+
+--- Page 65 ---
+Table 2 – Descriptive statistics of observables data over the estimation period (2006Q1-2019Q4)
+Observables Mean Std. Min 25th percentile Median 75th percentile Max
+Central Bank liquidity injections to GDP ratio -0.0051 0.05 -0.14 -0.033 0.0012 0.029 0.071
+Credit growth (q-o-q) - Central African Republic 0.021 0.075 -0.13 -0.028 0.014 0.055 0.26
+Credit growth (q-o-q) - Cameroon 0.023 0.031 -0.039 -0.00011 0.016 0.043 0.12
+Credit growth (q-o-q) - Congo 0.048 0.069 -0.094 0.0038 0.045 0.074 0.34
+Credit growth (q-o-q) - Gabon 0.019 0.063 -0.1 -0.025 0.004 0.06 0.24
+Credit growth (q-o-q) - Equatorial Guinea 0.055 0.17 -0.3 -0.023 0.022 0.11 0.54
+Credit growth (q-o-q) - Chad 0.031 0.069 -0.13 -0.0079 0.018 0.072 0.27
+Public debt level - Central African Republic 0.35 0.2 0.15 0.22 0.26 0.32 0.86
+Public debt level - Cameroon 0.14 0.076 0.065 0.077 0.1 0.2 0.29
+Public debt level - Congo 0.53 0.27 0.15 0.23 0.56 0.77 0.99
+Public debt level - Gabon 0.29 0.097 0.15 0.18 0.28 0.38 0.41
+Public debt level - Equatorial Guinea 0.066 0.035 0.0014 0.039 0.078 0.096 0.11
+Public debt level - Chad 0.066 0.035 0.0014 0.039 0.078 0.096 0.11
+Headline GDP growth - Central African Republic (q-o-q) 0.001 0.039 -0.17 0.0051 0.009 0.013 0.061
+Headline GDP growth - Cameroon (q-o-q) 0.011 0.013 -0.026 0.0055 0.01 0.013 0.056
+Headline GDP growth - Congo (q-o-q) 0.0054 0.025 -0.063 -0.01 0.0072 0.026 0.062
+Headline GDP growth - Gabon (q-o-q) 0.0077 0.012 -0.017 -0.0023 0.01 0.016 0.028
+Continued on next page
+64
+
+--- Page 66 ---
+– Continued from previous page
+Observables Mean Std. Min 25th percentile Median 75th percentile Max
+Headline GDP growth - Equatorial Guinea (q-o-q) 0.0017 0.024 -0.057 -0.015 0.0012 0.022 0.048
+Headline GDP growth - Chad (q-o-q) 0.0073 0.019 -0.03 -0.0053 0.0045 0.017 0.07
+Public expenses (log) - Central African Republic 3.5 0.26 3.1 3.3 3.5 3.7 4.1
+Public expenses (log) - Cameroon 6.5 0.39 5.6 6.2 6.5 6.8 7
+Public expenses (log) - Congo 6 0.45 5.3 5.7 5.9 6.4 7
+Public expenses (log) - Gabon 6 0.28 5.5 5.7 6 6.2 6.4
+Public expenses (log) - Equatorial Guinea 6.2 0.47 5.3 5.8 6.4 6.7 6.9
+Public expenses (log) - Chad 5.5 0.33 4.8 5.2 5.4 5.8 6
+Interbank rate - CEMAC 0.039 0.0092 0.02 0.031 0.039 0.046 0.052
+Monetary Policy rate - CEMAC 0.038 0.0096 0.025 0.03 0.04 0.043 0.055
+Foreign Interest rate 0.013 0.017 0.00073 0.0012 0.0019 0.019 0.053
+International food prices variation (percent, q-o-q) 0.0093 0.073 -0.24 -0.023 0.0035 0.03 0.19
+Inflation (y-o-y) - Central African Republic 0.048 0.061 -0.038 0.0027 0.035 0.062 0.3
+Inflation (y-o-y) - Cameroon 0.023 0.017 -0.0086 0.0099 0.023 0.029 0.068
+Inflation (y-o-y) - Congo 0.03 0.024 -0.008 0.013 0.022 0.046 0.11
+Inflation (y-o-y) - Gabon 0.023 0.024 -0.017 0.0037 0.024 0.042 0.074
+Inflation (y-o-y) - Equatorial Guinea 0.032 0.019 -0.007 0.018 0.029 0.049 0.06
+Inflation (y-o-y) - Chad 0.024 0.054 -0.1 -0.019 0.016 0.057 0.19
+Continued on next page
+65
+
+--- Page 67 ---
+– Continued from previous page
+Observables Mean Std. Min 25th percentile Median 75th percentile Max
+Foreign Inflation - Eurozone 0.0037 0.0046 -0.0058 0.0007 0.0034 0.006 0.014
+Foreign Inflation - USA 0.0048 0.0098 -0.039 0 0.0047 0.012 0.025
+Oil prices (100*log) 4.3 0.32 3.5 4.1 4.2 4.7 4.8
+International reserves - CEMAC (months of imports) 4.3 1.2 2 3.3 4.8 5.3 6
+Nominal Exchange rate (log) 2.8 0 2.8 2.8 2.8 2.8 2.8
+Nominal exchange rate EUR/USD (log) -0.24 0.1 -0.45 -0.31 -0.26 -0.13 -0.064
+Share of oil GDP in Total GDP - Central African Republic 0 0 0 0 0 0 0
+Share of oil GDP in Total GDP - Cameroon 0.063 0.0089 0.05 0.055 0.061 0.07 0.08
+Share of oil GDP in Total GDP - Congo 0.39 0.062 0.3 0.33 0.41 0.44 0.53
+Share of oil GDP in Total GDP - Gabon 0.28 0.056 0.19 0.23 0.25 0.33 0.39
+Share of oil GDP in Total GDP - Equatorial Guinea 0.57 0.083 0.43 0.52 0.56 0.64 0.71
+Share of oil GDP in Total GDP - Chad 0.14 0.031 0.091 0.12 0.13 0.15 0.22
+Foreign Output gap (percent) -0.019 0.018 -0.053 -0.033 -0.019 -0.0011 0.011
+Non oil sector Output gap - Central African Republic 0.0014 0.091 -0.25 -0.019 -0.0073 0.028 0.24
+Non oil sector Output gap - Cameroon 0.0014 0.012 -0.036 -0.0054 -0.0014 0.0074 0.037
+Non oil sector Output gap - Congo 0.0014 0.091 -0.25 -0.019 -0.0073 0.028 0.24
+Non oil sector Output gap - Gabon 0.00074 0.041 -0.19 -0.012 0.0038 0.022 0.066
+Non oil sector Output gap - Equatorial Guinea 0.0024 0.04 -0.085 -0.027 0.012 0.025 0.078
+Continued on next page
+66
+
+--- Page 68 ---
+– Continued from previous page
+Observables Mean Std. Min 25th percentile Median 75th percentile Max
+Non oil sector Output gap - Chad -0.0018 0.027 -0.083 -0.016 0.00044 0.019 0.035
+Source : Author’s calculations
+67
+
+--- Page 69 ---
+Figure 17 – Evolution of common data
+Interest rates(%) Central Bank liquidity injections to annualized GDP ratio (%) International reserves (months of imports)
+5 5
+4 0 5
+23 Monetary Policy rate -5 4
+1 I En ute rorb za on nk e r Ina tt ee rest rate -10 3
+2
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Foreign prices(q-o-q,%) EUR/USD exchange rate Oil prices (log)
+2 -0.1
+4.5
+0 -0.2
+-0.3 4
+-2 Eurozone
+USA -0.4 3.5
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Food prices (q-o-q,%)
+10
+0
+-10
+-20
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters
+Source : Bank of Central African States, International Monetary Fund, FAO, US Energy Information
+Administration, St. Louis Federal Reserve
+Figure 18 – Evolution of Cameroon’s observables
+Inflation (y-o-y,%) Headline growth rate (q-o-q,%) Share of oil GDP in total GDP (%)
+8
+6
+4 7.5
+5
+4 7
+2
+3 6.5
+2
+0 6
+1
+0 -2 5.5
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2013Q1 2014Q1 2015Q1 2016Q1 2017Q1 2018Q1 2019Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Public expenses (log) External Public debt to GDP ratio (%) Credit to private sector growth (q-o-q,%)
+6.8 10
+25
+6.6
+6.4 20 5
+6.2
+15
+6 0
+5.8 10
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Source : Author’s calculations based on Bank of Central African States data
+68
+
+--- Page 70 ---
+Figure 19 – Evolution of Central African Republic’s observables
+Inflation (y-o-y,%) Headline growth rate (q-o-q,%) Share of oil GDP in total GDP (%)
+30 1
+5
+25
+20 0 0.5
+15 -5 0
+10
+5 -10 -0.5
+0 -15
+-1
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Public expenses (log) External Public debt to GDP ratio (%) Credit to private sector growth (q-o-q,%)
+4.2 80
+20
+4 70
+3.8 60 10
+50
+3.6
+40 0
+3.4 30
+3.2 20 -10
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Source : Author’s calculations based on Bank of Central African States data
+Figure 20 – Evolution of Congo’s observables
+Inflation (y-o-y,%) Headline growth rate (q-o-q,%) Share of oil GDP in total GDP (%)
+6
+10
+50
+4
+8
+2 45
+6
+0
+4 -2 40
+2 -4 35
+0 -6
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Public expenses (log) External Public debt to GDP ratio (%) Credit to private sector growth (q-o-q,%)
+7
+30
+80
+6.5 20
+60
+6 10
+40
+0
+5.5
+20
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Source : Author’s calculations based on Bank of Central African States data
+69
+
+--- Page 71 ---
+Figure 21 – Evolution of Gabon’s observables
+Inflation (y-o-y,%) Headline growth rate (q-o-q,%) Share of oil GDP in total GDP (%)
+6 2
+35
+4 0 30
+2
+-2 25
+0
+-4 20
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Public expenses (log) External Public debt to GDP ratio (%) Credit to private sector growth (q-o-q,%)
+40
+20
+6.2 35 15
+6 30 10
+5
+5.8 25 0
+5.6 20 -5
+15 -10
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Source : Author’s calculations based on Bank of Central African States data
+Figure 22 – Evolution of Equatorial Guinea’s observables
+Inflation (y-o-y,%) Headline growth rate (q-o-q,%) Share of oil GDP in total GDP (%)
+4 70
+6
+5 2 65
+4 0 60
+3 -2
+55
+2 -4
+1 -6 50
+0 -8 45
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Public expenses (log) External Public debt to GDP ratio (%) Credit to private sector growth (q-o-q,%)
+10
+40
+6.5 8
+20
+6
+6
+4 0
+2
+5.5 -20
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Source : Author’s calculations based on Bank of Central African States data
+70
+
+--- Page 72 ---
+Figure 23 – Evolution of Chad’s observables
+Inflation (y-o-y,%) Headline growth rate (q-o-q,%) Share of oil GDP in total GDP (%)
+15 6 20
+10 4 18
+5 2 16
+0 14
+0
+-5 12
+-2 10
+-10
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Public expenses (log) External Public debt to GDP ratio (%) Credit to private sector growth (q-o-q,%)
+6
+26
+5.8 20
+24
+5.6
+22 10
+5.4 20
+5.2 18 0
+5 16
+14 -10
+2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1 2006Q1 2008Q1 2010Q1 2012Q1 2014Q1 2016Q1 2018Q1 2020Q1
+Quarters Quarters Quarters
+Source : Author’s calculations based on Bank of Central African States data
+71
+
+--- Page 73 ---
+Parameter values
+Country parameters modes
+Table 3 – Country parameters estimated modes
+Parameter Labels CEMAC CMR CAR CNG GAB GEQ TCD
+a1 Non oil Output gap inertia 0.2 0.087 0.74 0.56 0.31 0.5 0.24
+0
+a1 Non oil Output gap expectation 0.085 0.078 0.091 0.11 0.085 0.09 0.095
+1
+a1 Financial conditions output gap sensitiveness 0.51 0.4 0.35 0.92 0.57 0.57 0.59
+2
+a1 Non oil output gap sensitiveness to exchange rate 0.21 0.22 0.31 0.31 0.19 0.25 0.19
+3
+a1 Domestic non oil output gap sensitiveness to foreign output gap 0.56 0.37 0.41 0.31 0.49 0.44 0.36
+4
+a1 Non oil Output gap sensitiveness to public expenses gap 0.11 0.089 0.11 0.13 0.088 0.08 0.091
+5
+a3 Inertia of non oil gdp trend growth 0.75 0.52 0.88 0.92 0.91 0.9 0.89
+0
+a3 Non oil GDP reaction to structural public spending growth 0.13 0.077 0.12 0.083 0.22 0.13 0.16
+1
+a1 Inertia of oil production growth 0.6 0.6 0.6 0.6 0.6 0.6 0.6
+0,o
+b1 Weight of lag inflation 0.64 0.66 0.59 0.62 0.6 0.61 0.57
+0
+b1 Weight of prices expectations 0.094 0.09 0.1 0.093 0.098 0.092 0.1
+1
+b1 Demand price sensitiveness 0.29 0.21 0.063 0.082 0.16 0.2 0.33
+2
+b1 Exchange rate price sensitiveness 0.046 0.043 0.063 0.064 0.083 0.068 0.086
+3
+b1 Sensitiveness of local inflation to Imported Food prices 0.12 0.12 0.3 0.15 0.17 0.16 0.21
+4
+c1 Inertia of public spending gap 0.52 0.52 0.51 0.53 0.52 0.51 0.52
+0
+Continued on next page
+72
+
+--- Page 74 ---
+– Continued from previous page
+Parameter Labels CEMAC CMR CAR CNG GAB GEQ TCD
+c1 Weight of output stabilization in fiscal policy rule 0.53 0.35 0.3 0.42 0.52 0.41 0.55
+1
+c1 Public spending gap response to public debt 0.088 0.092 0.086 0.094 0.096 0.09 0.092
+2
+c3 Inertia of the growth rate of structural public spending 0.31 0.55 0.75 0.7 0.55 0.82 0.64
+0
+c3 Structural public spending growth to non oil GDP growth 1.1 0.49 0.37 0.55 0.65 1 0.59
+1
+c1 Structural public spending growth to oil GDP growth 0.29 0.39 0.94 0.28 0.23 0.26 0.18
+2
+cd1 Public debt growth inertia 0.77 0.79 0.72 0.67 0.74 0.77 0.79
+0
+cd2 Sensitiveness of public debt to exchange rate 0.12 0.071 0.099 0.25 0.15 0.19 0.13
+1
+d3 Weight of eurozone trade in total trade 0.28 0.36 0.39 0.21 0.31 0.31 0.16
+0
+d4 Risk premium inertia 0.8 0.8 0.8 0.8 0.8 0.8 0.8
+0
+d4 Risk premium sensitiveness to oil price shocks 0.0066 0.0066 0.0066 0.0066 0.0066 0.0066 0.0066
+1
+d4 Risk premium sensitiveness to public debt variation 0.2 0.2 0.2 0.2 0.2 0.2 0.2
+2
+d4 Risk premium sensitiveness to public debt gap 0.012 0.012 0.012 0.012 0.012 0.012 0.012
+3
+debttar Debt target 0.7 0.7 0.7 0.7 0.7 0.7 0.7
+e1 Inertia of monetary policy rate 0.9 0.9 0.9 0.9 0.9 0.9 0.9
+0
+e1 Inflation in monetary policy rule 0.8 0.8 0.8 0.8 0.8 0.8 0.8
+1
+e1 Output gap in monetary policy rule 0.2 0.2 0.2 0.2 0.2 0.2 0.2
+2
+e1 International reserves in monetary policy rule 0.0096 0.0096 0.0096 0.0096 0.0096 0.0096 0.0096
+3
+e1 Inertia of structural real interest rate 0.8 0.8 0.8 0.8 0.8 0.8 0.8
+4
+Continued on next page
+73
+
+--- Page 75 ---
+– Continued from previous page
+Parameter Labels CEMAC CMR CAR CNG GAB GEQ TCD
+e2 Financial openess 0.15 0.15 0.15 0.15 0.15 0.15 0.15
+1
+f1 International reserves sensitiveness to economic growth 1.1 1.5 2.1 0.3 4.8 1.1 0.55
+1
+f1 International reserves sensitiveness to oil GDP 2.5 3 3 2 3.2 2.4 2.6
+2
+f1 International reserves sensitiveness to debt dynamics 3.3 1 0.41 4.3 3.9 1.8 1.6
+3
+g1 Inertia of foreign interest rate 0.97 0.97 0.97 0.97 0.97 0.97 0.97
+0
+g2 Inertia of foreign output gap 0.63 0.63 0.63 0.63 0.63 0.63 0.63
+0
+g3 Inertia of foreign inglation - Eurozone 0.097 0.097 0.097 0.096 0.097 0.097 0.097
+0
+g4 Inertia of foreign inglation - USA 0.1 0.1 0.1 0.1 0.1 0.1 0.1
+0
+g6 Inertia of international food prices variation 0.1 0.1 0.1 0.1 0.1 0.1 0.1
+0
+gproil steady state value of oil production growth -0.001 -0.001 0 -0.001 -0.001 -0.001 -0.001
+g¯y Long term value of gdp trend growth 0.0086 0.01 0.0019 0.0019 0.0044 0.014 0.0091
+h1 Bank Lending Tightness inertia 0.75 0.72 0.72 0.73 0.73 0.75 0.75
+0
+h1 Output expectations effect on credit supply 0.49 0.49 0.49 0.48 0.49 0.48 0.48
+1
+h1 Output past dynamics effect on credit supply 0.75 0.76 0.76 0.74 0.77 0.75 0.75
+2
+h1 Interbank rate effect on credit supply 0.059 0.059 0.059 0.059 0.059 0.059 0.059
+3
+h1 Central Bank liquidity effect on credit suply 0.18 0.18 0.18 0.18 0.18 0.19 0.17
+4
+h2 Credit gap inertia 0.56 0.53 0.9 0.83 0.57 0.53 0.49
+0
+h2 Bank-lending tightness effect on credit gap 1 1 1 1 1 1 1
+1
+Continued on next page
+74
+
+--- Page 76 ---
+– Continued from previous page
+Parameter Labels CEMAC CMR CAR CNG GAB GEQ TCD
+h2 Interest rate effect on credit gap 0.059 0.059 0.059 0.059 0.059 0.06 0.059
+2
+h3 Inertia of credit trend growth 0.88 0.79 0.54 0.77 0.62 0.5 0.75
+0
+h3 Nominal growth effect on credit trend 0.42 0.39 0.43 0.37 0.45 0.42 0.44
+1
+h4 Inertia of Bank Stability Index 0.73 0.72 0.72 0.73 0.71 0.72 0.72
+0
+h4 Debt importance in bank stability dynamics 0.097 0.098 0.097 0.097 0.097 0.097 0.097
+1
+i1 Inertia of Interbank rate 0.93 0.94 0.99 0.98 0.96 0.96 0.97
+0
+i1 Liquidity injection influence on Interbank rate 0.49 0.39 0.17 0.43 0.32 0.38 0.32
+1
+i1 Bank stability influence on interbank rate dynamics 0.38 0.44 0.39 0.33 0.4 0.4 0.39
+2
+i2 Central bank liquidity inertia 0.95 0.95 0.89 0.86 0.88 0.87 0.83
+0
+i2 Central bank liquidity reaction to interbank spread 5.6 7 7.5 7.2 7 7.1 7.2
+1
+i2 Central bank liquidity reaction to bank instability 0.17 0.17 0.17 0.16 0.17 0.17 0.17
+2
+in,∗ Foreign neutral interest rate 0.035 0.035 0.035 0.035 0.035 0.035 0.035
+π¯ Inflation target 0.03 0.03 0.03 0.03 0.03 0.03 0.03
+π¯∗ world long term foreign inflation (y-o-y) 0.02 0.02 0.02 0.02 0.02 0.02 0.02
+¯
+poil Oil prices median value 4.1 4.1 4.1 4.1 4.1 4.1 4.1
+resmimp Target of international reserves in months of imports 3 3 3 3 3 3 3
+rshoil Share of oil revenue on headline fiscal revenues 0.5 0.21 0 0.51 0.66 0.84 0.84
+sh share of country GDP in total GDP 1 0.37 0.021 0.14 0.18 0.16 0.16
+Continued on next page
+75
+
+--- Page 77 ---
+– Continued from previous page
+Parameter Labels CEMAC CMR CAR CNG GAB GEQ TCD
+σsusd Size of EUR/USD exchange rate shock 0.037 0.037 0.037 0.037 0.037 0.037 0.037
+σyˆ Size of Demand Shock 0.0072 0.012 0.0058 0.0064 0.0069 0.006 0.0074
+σcbinjec Size of Central Bank liquidity injection 0.006 0.012 0.16 0.029 0.024 0.023 0.033
+σc¯r Size of permament credit supply shock 0.024 0.03 0.074 0.039 0.061 0.12 0.046
+σblt Size of temporary credit supply shock 0.0095 0.0075 0.0072 0.1 0.03 0.031 0.03
+σdebt Size of debt level shock 0.0058 0.0043 0.0059 0.0067 0.006 0.006 0.0059
+σg¯ Size of structural fiscal policy shock (level) 0.03 0.006 0.0081 0.007 0.0067 0.0065 0.0063
+σ∆debt Size of public debt growth shock 0.016 0.0072 0.021 0.048 0.022 0.026 0.021
+σgˆ Size of short term fiscal policy shock 0.007 0.0055 0.0062 0.0066 0.0062 0.0061 0.0059
+σG(g¯) Size of structural fiscal policy shock (growth) 0.0081 0.019 0.04 0.049 0.031 0.034 0.029
+σG(pr)oil size of oil production growth shock 0.007 0.0096 0.019 0.0075 0.019 0.076 0.0079
+Continued on next page
+76
+
+--- Page 78 ---
+– Continued from previous page
+Parameter Labels CEMAC CMR CAR CNG GAB GEQ TCD
+σG(y¯) Size of growth productivity shock 0.0033 0.0031 0.0036 0.0037 0.0033 0.0034 0.0032
+σIPOLICY size of monetary policy shock 0.003 0.0029 0.0039 0.0033 0.003 0.0031 0.0035
+σπ Size of cost push shock 0.0094 0.0071 0.032 0.015 0.012 0.013 0.031
+σπfood Size of International food prices shock 0.064 0.064 0.064 0.064 0.064 0.064 0.064
+σpoil Size of oil price shock 0.19 0.19 0.19 0.19 0.19 0.19 0.19
+σprem Size of risk premium shock 0.0072 0.0073 0.0073 0.19 0.0073 0.0073 0.0073
+σproil Size of oil production shock 0.051 0.0086 0.0059 0.16 0.0066 0.0074 0.042
+σr¯ Size of real interest rate trend shock 0.0067 0.0098 0.014 0.0075 0.0072 0.019 0.013
+σresmimp Size of international reserves shock 0.57 0.58 0.59 0.61 0.56 0.61 0.6
+σy¯ Size of level productivity shock 0.003 0.0031 0.003 0.0031 0.003 0.003 0.003
+σyoil Size of oil production shock 0.0074 0.0087 0.0059 0.0073 0.0065 0.0097 0.0073
+σz¯ Size of Structural exchange rate shock 0.022 0.013 0.079 0.0052 0.0085 0.0076 0.0074
+σc¯r Size of credit trend growth shock 0.007 0.011 0.0072 0.024 0.012 0.0072 0.014
+σIINTERBANK Size of interbank risk shock 0.0059 0.0056 0.0058 0.0052 0.0059 0.0057 0.0057
+σieuro Size of foreign interest rate shock 0.0044 0.0044 0.0044 0.0044 0.0044 0.0044 0.0044
+σπeuro Size of foreign inflation - Eurozone 0.0056 0.0056 0.0056 0.0056 0.0056 0.0056 0.0056
+σπus Size of foreign inflation - USA 0.01 0.01 0.01 0.01 0.01 0.01 0.01
+σseuro Size of nominal exchange rate shock 0.0022 0.0022 0.0022 0.0022 0.0022 0.0022 0.0022
+σy∗ Size of foreign output gap shock 0.017 0.017 0.017 0.017 0.017 0.017 0.017
+a Source : the author, based on CEMAC-GLOBAL estimates
+b The CEMAC column reports the estimated modes of the parameters of the "country-specific" version of the model where CEMAC is considered as a single country
+(aggregated data).
+77
+
+--- Page 79 ---
+Estimation results
+Table 4 – Estimation results - Cameroon
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+a1 Non oil Output gap inertia 0.081 0.25 beta 0.087 0.078
+0
+a1 Non oil Output gap expectation 0.18 0.03 gamma 0.078 0.023
+1
+a1 Financial conditions output gap sensitiveness 0.5 0.15 gamma 0.4 0.027
+2
+a1 Non oil output gap sensitiveness to exchange rate 0.3 0.1 gamma 0.22 0.1
+3
+a1 Domestic non oil output gap sensitiveness to foreign output gap 0.79 0.21 gamma 0.37 0.18
+4
+a1 Non oil Output gap sensitiveness to public expenses gap 0.16 0.05 gamma 0.089 0.098
+5
+a3 Inertia of non oil gdp trend growth 0.4 0.15 beta 0.52 0.074
+0
+a3 Non oil GDP reaction to structural public spending growth 0.77 0.12 beta 0.077 0.066
+1
+b1 Weight of lag inflation 0.79 0.06 beta 0.66 0.084
+0
+b1 Weight of prices expectations 1.1 0.075 gamma 0.09 0.21
+1
+b1 Demand price sensitiveness 3 0.36 gamma 0.21 0.28
+2
+b1 Exchange rate price sensitiveness 0.34 0.05 gamma 0.043 0.048
+3
+b1 Sensitiveness of local inflation to Imported Food prices 0.42 0.15 gamma 0.12 0.27
+4
+c1 Inertia of public spending gap 0.78 0.05 beta 0.52 0.025
+0
+c1 Weight of output stabilization in fiscal policy rule 2.3 0.21 gamma 0.35 0.29
+1
+c1 Public spending gap response to public debt 0.37 0.03 gamma 0.092 0.0037
+2
+Continued on next page
+78
+
+--- Page 80 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+c3 Inertia of the growth rate of structural public spending 0.13 0.1 gamma 0.55 0.14
+0
+c3 Structural public spending growth to non oil GDP growth 1.1 0.5 gamma 0.49 0.21
+1
+c3 Structural public spending growth to oil GDP growth 1.5 0.25 gamma 0.39 0.22
+2
+cd1 Public debt growth inertia 0.63 0.05 beta 0.79 0.097
+0
+cd2 Sensitiveness of public debt to exchange rate 3.4 0.25 gamma 0.071 0.53
+1
+f1 International reserves sensitiveness to economic growth 66 4 gamma 1.5 6.4
+1
+f1 International reserves sensitiveness to oil GDP 2.4 2 gamma 3 1.9
+2
+f1 International reserves sensitiveness to debt dynamics 5 2.4 gamma 1 4.9
+3
+g1 Inertia of foreign interest rate 0.78 0.08 beta 0.97 0.073
+0
+g2 Inertia of foreign output gap 0.44 0.08 beta 0.63 0.14
+0
+g3 Inertia of foreign inglation - Eurozone 0.26 0.04 beta 0.097 0.021
+0
+g6 Inertia of international food prices variation 0.16 0.02 beta 0.1 0.016
+0
+h1 Bank Lending Tightness inertia 0.63 0.07 beta 0.72 0.021
+0
+h1 Output expectations effect on credit supply 0.43 0.05 gamma 0.49 0.03
+1
+h1 Output past dynamics effect on credit supply 0.3 0.16 gamma 0.76 0.11
+2
+h1 Interbank rate effect on credit supply 0.03 0.006 gamma 0.059 0.0022
+3
+h1 Central Bank liquidity effect on credit suply 0.17 0.06 gamma 0.18 0.02
+4
+h2 Credit gap inertia 0.57 0.2 beta 0.53 0.068
+0
+Continued on next page
+79
+
+--- Page 81 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+h2 Interest rate effect on credit gap 0.069 0.006 gamma 0.059 0.0052
+2
+h3 Inertia of credit trend growth 0.11 0.1 beta 0.79 0.12
+0
+h3 Nominal growth effect on credit trend 1.4 0.1 gamma 0.39 0.072
+1
+h4 Inertia of Bank Stability Index 0.37 0.07 beta 0.72 0.039
+0
+h4 Debt importance in bank stability dynamics 0.064 0.02 beta 0.098 0.019
+1
+i1 Inertia of Interbank rate 0.62 0.045 beta 0.94 0.22
+0
+i1 Liquidity injection influence on Interbank rate 1.9 0.24 gamma 0.39 1.3
+1
+i1 Bank stability influence on interbank rate dynamics 1.2 0.2 gamma 0.44 0.42
+2
+i2 Central bank liquidity inertia 0.31 0.08 beta 0.95 0.2
+0
+i2 Central bank liquidity reaction to interbank spread 10 0.75 gamma 7 1.3
+1
+i2 Central bank liquidity reaction to bank instability 0.061 0.08 gamma 0.17 0.031
+2
+σyˆ Size of Demand Shock 1.1 0.005 inv. Gamma 0.012 0.35
+σy¯ Size of level productivity shock 0.66 0.005 inv. Gamma 0.0031 0.084
+σG(y¯) Size of growth productivity shock 1.2 0.005 inv. Gamma 0.0031 0.071
+σyoil Size of oil production shock 0.85 0.005 inv. Gamma 0.0087 0.16
+σproil Size of oil production shock 1.7 0.005 inv. Gamma 0.0086 0.38
+σG(pr)oil size of oil production growth shock 0.021 0.005 inv. Gamma 0.0096 0.079
+σπ Size of cost push shock 2.8 0.005 inv. Gamma 0.0071 0.059
+Continued on next page
+80
+
+--- Page 82 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σgˆ Size of short term fiscal policy shock 0.086 0.005 inv. Gamma 0.0055 0.29
+σG(y¯) Size of structural fiscal policy shock (level) 1.6 0.005 inv. Gamma 0.006 0.21
+σG(g¯) Size of structural fiscal policy shock (growth) 1.9 0.005 inv. Gamma 0.019 0.6
+σ∆debt Size of public debt growth shock 2.2 0.005 inv. Gamma 0.0072 0.41
+σdebt Size of debt level shock 0.67 0.005 inv. Gamma 0.0043 0.32
+σz¯ Size of Structural exchange rate shock 0.66 0.005 inv. Gamma 0.013 0.24
+σprem Size of risk premium shock 1.4 0.005 inv. Gamma 0.0073 0.046
+σseuro Size of nominal exchange rate shock 2.6 0.005 inv. Gamma 0.0022 0.37
+σIPOLICY size of monetary policy shock 0.17 0.005 inv. Gamma 0.0029 0.08
+σr¯ Size of real interest rate trend shock 0.06 0.005 inv. Gamma 0.0098 0.22
+σresmimp Size of international reserves shock 1.3 0.005 inv. Gamma 0.58 0.19
+σieuro Size of foreign interest rate shock 0.24 0.003 inv. Gamma 0.0044 0.013
+σy∗ Size of foreign output gap shock 0.24 0.003 inv. Gamma 0.017 0.0095
+σπeuro Size of foreign inflation - Eurozone 0.15 0.003 inv. Gamma 0.0056 0.014
+σpoil Size of oil price shock 2.8 0.005 inv. Gamma 0.19 0.33
+σsusd Size of EUR/USD exchange rate shock 1.5 0.005 inv. Gamma 0.037 0.13
+σπfood Size of International food prices shock 2.6 0.005 inv. Gamma 0.064 0.19
+σblt Size of temporary credit supply shock 2.6 0.005 inv. Gamma 0.0075 0.024
+Continued on next page
+81
+
+--- Page 83 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σc¯r Size of permament credit supply shock 0.018 0.005 inv. Gamma 0.03 0.3
+σc¯r Size of credit trend growth shock 2.6 0.005 inv. Gamma 0.011 0.055
+σIINTERBANK Size of interbank risk shock 2.6 0.005 inv. Gamma 0.0056 0.6
+σcbinjec Size of Central Bank liquidity injection 2.6 0.005 inv. Gamma 0.012 0.28
+Source : Author’s calculations
+82
+
+--- Page 84 ---
+Table 5 – Estimation results - Central African Republic
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+a1 Non oil Output gap inertia 0.34 0.25 beta 0.74 0.12
+0
+a1 Non oil Output gap expectation 0.25 0.03 gamma 0.091 0.042
+1
+a1 Financial conditions output gap sensitiveness 0.56 0.15 gamma 0.35 0.23
+2
+a1 Non oil output gap sensitiveness to exchange rate 0.95 0.1 gamma 0.31 0.069
+3
+a1 Domestic non oil output gap sensitiveness to foreign output gap 1.1 0.21 gamma 0.41 0.31
+4
+a1 Non oil Output gap sensitiveness to public expenses gap 0.22 0.05 gamma 0.11 0.15
+5
+a3 Inertia of non oil gdp trend growth 0.76 0.15 beta 0.88 0.14
+0
+a3 Non oil GDP reaction to structural public spending growth 0.77 0.12 beta 0.12 0.074
+1
+b1 Weight of lag inflation 0.35 0.06 beta 0.59 0.048
+0
+b1 Weight of prices expectations 0.81 0.075 gamma 0.1 0.095
+1
+b1 Demand price sensitiveness 1.9 0.36 gamma 0.063 0.65
+2
+b1 Exchange rate price sensitiveness 0.45 0.05 gamma 0.063 0.066
+3
+b1 Sensitiveness of local inflation to Imported Food prices 1.3 0.15 gamma 0.3 0.17
+4
+c1 Inertia of public spending gap 0.38 0.05 beta 0.51 0.029
+0
+c1 Weight of output stabilization in fiscal policy rule 2.7 0.21 gamma 0.3 0.3
+1
+c1 Public spending gap response to public debt 0.046 0.03 gamma 0.086 0.018
+2
+c3 Inertia of the growth rate of structural public spending 0.51 0.1 gamma 0.75 0.26
+0
+Continued on next page
+83
+
+--- Page 85 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+c3 Structural public spending growth to non oil GDP growth 0.48 0.5 gamma 0.37 0.18
+1
+c3 Structural public spending growth to oil GDP growth 1.1 0.25 gamma 0.94 0.3
+2
+cd1 Public debt growth inertia 0.65 0.05 beta 0.72 0.1
+0
+cd2 Sensitiveness of public debt to exchange rate 1.6 0.25 gamma 0.099 0.32
+1
+f1 International reserves sensitiveness to economic growth 33 4 gamma 2.1 4.2
+1
+f1 International reserves sensitiveness to oil GDP 21 2 gamma 3 3
+2
+f1 International reserves sensitiveness to debt dynamics 44 2.4 gamma 0.41 1.8
+3
+g1 Inertia of foreign interest rate 0.89 0.08 beta 0.97 0.14
+0
+g2 Inertia of foreign output gap 0.36 0.08 beta 0.63 0.057
+0
+g3 Inertia of foreign inglation - Eurozone 0.36 0.04 beta 0.097 0.07
+0
+g6 Inertia of international food prices variation 0.19 0.02 beta 0.1 0.01
+0
+h1 Bank Lending Tightness inertia 0.87 0.07 beta 0.72 0.05
+0
+h1 Output expectations effect on credit supply 0.75 0.05 gamma 0.49 0.049
+1
+h1 Output past dynamics effect on credit supply 2 0.16 gamma 0.76 0.26
+2
+h1 Interbank rate effect on credit supply 0.098 0.006 gamma 0.059 0.0031
+3
+h1 Central Bank liquidity effect on credit suply 0.16 0.06 gamma 0.18 0.03
+4
+h2 Credit gap inertia 0.49 0.2 beta 0.9 0.13
+0
+h2 Interest rate effect on credit gap 0.085 0.006 gamma 0.059 0.0039
+2
+Continued on next page
+84
+
+--- Page 86 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+h3 Inertia of credit trend growth 0.68 0.1 beta 0.54 0.12
+0
+h3 Nominal growth effect on credit trend 0.77 0.1 gamma 0.43 0.16
+1
+h4 Inertia of Bank Stability Index 0.4 0.07 beta 0.72 0.052
+0
+h4 Debt importance in bank stability dynamics 0.15 0.02 beta 0.097 0.029
+1
+i1 Inertia of Interbank rate 0.76 0.045 beta 0.99 0.12
+0
+i1 Liquidity injection influence on Interbank rate 0.71 0.24 gamma 0.17 0.9
+1
+i1 Bank stability influence on interbank rate dynamics 1.3 0.2 gamma 0.39 0.32
+2
+i2 Central bank liquidity inertia 0.63 0.08 beta 0.89 0.11
+0
+i2 Central bank liquidity reaction to interbank spread 4.2 0.75 gamma 7.5 1.4
+1
+i2 Central bank liquidity reaction to bank instability 0.77 0.08 gamma 0.17 0.063
+2
+σyˆ Size of Demand Shock 2.3 0.005 inv. Gamma 0.0058 0.21
+σy¯ Size of level productivity shock 1.5 0.005 inv. Gamma 0.003 0.5
+σG(y¯) Size of growth productivity shock 0.55 0.005 inv. Gamma 0.0036 0.02
+σyoil Size of oil production shock 1.8 0.005 inv. Gamma 0.0059 0.34
+σproil Size of oil production shock 1.2 0.005 inv. Gamma 0.0059 0.43
+σG(pr)oil size of oil production growth shock 0.65 0.005 inv. Gamma 0.019 0.43
+σπ Size of cost push shock 0.42 0.005 inv. Gamma 0.032 0.23
+σgˆ Size of short term fiscal policy shock 2.1 0.005 inv. Gamma 0.0062 0.24
+Continued on next page
+85
+
+--- Page 87 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σG(y¯) Size of structural fiscal policy shock (level) 0.23 0.005 inv. Gamma 0.0081 0.41
+σG(g¯) Size of structural fiscal policy shock (growth) 1.2 0.005 inv. Gamma 0.04 0.095
+σ∆debt Size of public debt growth shock 0.59 0.005 inv. Gamma 0.021 0.13
+σdebt Size of debt level shock 1.2 0.005 inv. Gamma 0.0059 0.64
+σz¯ Size of Structural exchange rate shock 0.56 0.005 inv. Gamma 0.079 0.29
+σprem Size of risk premium shock 2.2 0.005 inv. Gamma 0.0073 0.26
+σseuro Size of nominal exchange rate shock 0.76 0.005 inv. Gamma 0.0022 0.29
+σIPOLICY size of monetary policy shock 1.2 0.005 inv. Gamma 0.0039 0.15
+σr¯ Size of real interest rate trend shock 0.93 0.005 inv. Gamma 0.014 0.3
+σresmimp Size of international reserves shock 0.77 0.005 inv. Gamma 0.59 0.35
+σieuro Size of foreign interest rate shock 0.14 0.003 inv. Gamma 0.0044 0.022
+stdystar Size of foreign output gap shock 0.25 0.003 inv. Gamma 0.017 0.014
+σπeuro Size of foreign inflation - Eurozone 0.19 0.003 inv. Gamma 0.0056 0.014
+σpoil Size of oil price shock 2.3 0.005 inv. Gamma 0.19 0.32
+σsusd Size of EUR/USD exchange rate shock 1.1 0.005 inv. Gamma 0.037 0.28
+σπfood Size of International food prices shock 1.7 0.005 inv. Gamma 0.064 0.23
+σblt Size of temporary credit supply shock 2 0.005 inv. Gamma 0.0072 0.07
+σc¯r Size of permament credit supply shock 2.7 0.005 inv. Gamma 0.074 0.25
+Continued on next page
+86
+
+--- Page 88 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σc¯r Size of credit trend growth shock 1 0.005 inv. Gamma 0.0072 0.15
+σIINTERBANK Size of interbank risk shock 2.3 0.005 inv. Gamma 0.0058 0.38
+σcbinjec Size of Central Bank liquidity injection 0.66 0.005 inv. Gamma 0.16 0.41
+Source : Author’s calculations
+87
+
+--- Page 89 ---
+Table 6 – Estimation results - Congo
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+a1 Non oil Output gap inertia 0.87 0.25 beta 0.56 0.17
+0
+a1 Non oil Output gap expectation 0.32 0.03 gamma 0.11 0.097
+1
+a1 Financial conditions output gap sensitiveness 1.6 0.15 gamma 0.92 0.27
+2
+a1 Non oil output gap sensitiveness to exchange rate 1.2 0.1 gamma 0.31 0.17
+3
+a1 Domestic non oil output gap sensitiveness to foreign output gap 0.74 0.21 gamma 0.31 0.15
+4
+a1 Non oil Output gap sensitiveness to public expenses gap 0.27 0.05 gamma 0.13 0.13
+5
+a3 Inertia of non oil gdp trend growth 0.96 0.15 beta 0.92 0.17
+0
+a3 Non oil GDP reaction to structural public spending growth 0.14 0.12 beta 0.083 0.068
+1
+b1 Weight of lag inflation 0.3 0.06 beta 0.62 0.049
+0
+b1 Weight of prices expectations 1.1 0.075 gamma 0.093 0.003
+1
+b1 Demand price sensitiveness 0.73 0.36 gamma 0.082 1.2
+2
+b1 Exchange rate price sensitiveness 0.6 0.05 gamma 0.064 0.056
+3
+b1 Sensitiveness of local inflation to Imported Food prices 1.6 0.15 gamma 0.15 0.12
+4
+c1 Inertia of public spending gap 0.28 0.05 beta 0.53 0.054
+0
+c1 Weight of output stabilization in fiscal policy rule 3 0.21 gamma 0.42 0.87
+1
+c1 Public spending gap response to public debt 0.094 0.03 gamma 0.094 0.004
+2
+c3 Inertia of the growth rate of structural public spending 0.41 0.1 gamma 0.7 0.21
+0
+Continued on next page
+88
+
+--- Page 90 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+c3 Structural public spending growth to non oil GDP growth 3.9 0.5 gamma 0.55 0.097
+1
+c3 Structural public spending growth to oil GDP growth 1.1 0.25 gamma 0.28 0.58
+2
+cd1 Public debt growth inertia 0.63 0.05 beta 0.67 0.063
+0
+cd2 Sensitiveness of public debt to exchange rate 2.3 0.25 gamma 0.25 0.054
+1
+f1 International reserves sensitiveness to economic growth 58 4 gamma 0.3 0.17
+1
+f1 International reserves sensitiveness to oil GDP 4.6 2 gamma 2 3.6
+2
+f1 International reserves sensitiveness to debt dynamics 15 2.4 gamma 4.3 10
+3
+g1 Inertia of foreign interest rate 0.94 0.08 beta 0.97 0.091
+0
+g2 Inertia of foreign output gap 0.72 0.08 beta 0.63 0.04
+0
+g3 Inertia of foreign inglation - Eurozone 0.3 0.04 beta 0.096 0.082
+0
+g6 Inertia of international food prices variation 0.14 0.02 beta 0.1 0.02
+0
+h1 Bank Lending Tightness inertia 0.84 0.07 beta 0.73 0.026
+0
+h1 Output expectations effect on credit supply 0.77 0.05 gamma 0.48 0.036
+1
+h1 Output past dynamics effect on credit supply 0.45 0.16 gamma 0.74 0.2
+2
+h1 Interbank rate effect on credit supply 0.076 0.006 gamma 0.059 0.007
+3
+h1 Central Bank liquidity effect on credit suply 0.68 0.06 gamma 0.18 0.12
+4
+h2 Credit gap inertia 0.75 0.2 beta 0.83 0.049
+0
+h2 Interest rate effect on credit gap 0.03 0.006 gamma 0.059 0.0015
+2
+Continued on next page
+89
+
+--- Page 91 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+h3 Inertia of credit trend growth 0.22 0.1 beta 0.77 0.13
+0
+h3 Nominal growth effect on credit trend 0.61 0.1 gamma 0.37 0.31
+1
+h4 Inertia of Bank Stability Index 0.56 0.07 beta 0.73 0.076
+0
+h4 Debt importance in bank stability dynamics 0.25 0.02 beta 0.097 0.017
+1
+i1 Inertia of Interbank rate 0.96 0.045 beta 0.98 0.14
+0
+i1 Liquidity injection influence on Interbank rate 2.2 0.24 gamma 0.43 0.91
+1
+i1 Bank stability influence on interbank rate dynamics 2.2 0.2 gamma 0.33 0.21
+2
+i2 Central bank liquidity inertia 0.91 0.08 beta 0.86 0.16
+0
+i2 Central bank liquidity reaction to interbank spread 7.2 0.75 gamma 7.2 1.2
+1
+i2 Central bank liquidity reaction to bank instability 0.25 0.08 gamma 0.16 0.073
+2
+σyˆ Size of Demand Shock 1.5 0.005 inv. Gamma 0.0064 0.018
+σy¯ Size of level productivity shock 2.6 0.005 inv. Gamma 0.0031 0.52
+σG(y¯) Size of growth productivity shock 0.6 0.005 inv. Gamma 0.0037 0.24
+σyoil Size of oil production shock 2.8 0.005 inv. Gamma 0.0073 0.081
+σproil Size of oil production shock 1.2 0.005 inv. Gamma 0.16 0.64
+σG(pr)oil size of oil production growth shock 0.76 0.005 inv. Gamma 0.0075 0.43
+σπ Size of cost push shock 2.1 0.005 inv. Gamma 0.015 0.18
+σgˆ Size of short term fiscal policy shock 1.5 0.005 inv. Gamma 0.0066 0.27
+Continued on next page
+90
+
+--- Page 92 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σG(y¯) Size of structural fiscal policy shock (level) 1.1 0.005 inv. Gamma 0.007 0.03
+σG(g¯) Size of structural fiscal policy shock (growth) 1.1 0.005 inv. Gamma 0.049 0.038
+σ∆debt Size of public debt growth shock 0.62 0.005 inv. Gamma 0.048 0.39
+σdebt Size of debt level shock 2.4 0.005 inv. Gamma 0.0067 0.66
+σz¯ Size of Structural exchange rate shock 0.21 0.005 inv. Gamma 0.0052 0.21
+σprem Size of risk premium shock 1 0.005 inv. Gamma 0.19 0.79
+σseuro Size of nominal exchange rate shock 0.31 0.005 inv. Gamma 0.0022 0.074
+σIPOLICY size of monetary policy shock 2.6 0.005 inv. Gamma 0.0033 0.035
+σr¯ Size of real interest rate trend shock 0.12 0.005 inv. Gamma 0.0075 0.32
+σresmimp Size of international reserves shock 0.65 0.005 inv. Gamma 0.61 0.59
+σieuro Size of foreign interest rate shock 0.091 0.003 inv. Gamma 0.0044 0.034
+stdystar Size of foreign output gap shock 0.23 0.003 inv. Gamma 0.017 0.0075
+σπeuro Size of foreign inflation - Eurozone 0.12 0.003 inv. Gamma 0.0056 0.008
+σpoil Size of oil price shock 0.6 0.005 inv. Gamma 0.19 0.42
+σsusd Size of EUR/USD exchange rate shock 0.9 0.005 inv. Gamma 0.037 0.27
+σπfood Size of International food prices shock 2.6 0.005 inv. Gamma 0.064 0.021
+σblt Size of temporary credit supply shock 0.022 0.005 inv. Gamma 0.1 0.47
+σc¯r Size of permament credit supply shock 0.5 0.005 inv. Gamma 0.039 0.25
+Continued on next page
+91
+
+--- Page 93 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σc¯r Size of credit trend growth shock 2.2 0.005 inv. Gamma 0.024 0.42
+σIINTERBANK Size of interbank risk shock 0.5 0.005 inv. Gamma 0.0052 0.067
+σcbinjec Size of Central Bank liquidity injection 1.4 0.005 inv. Gamma 0.029 0.67
+Source : the author
+92
+
+--- Page 94 ---
+Table 7 – Estimation results - Gabon
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+a1 Non oil Output gap inertia 0.86 0.25 beta 0.31 0.099
+0
+a1 Non oil Output gap expectation 0.23 0.03 gamma 0.085 0.014
+1
+a1 Financial conditions output gap sensitiveness 1.5 0.15 gamma 0.57 0.14
+2
+a1 Non oil output gap sensitiveness to exchange rate 0.097 0.1 gamma 0.19 0.18
+3
+a1 Domestic non oil output gap sensitiveness to foreign output gap 1.1 0.21 gamma 0.49 0.48
+4
+a1 Non oil Output gap sensitiveness to public expenses gap 0.7 0.05 gamma 0.088 0.16
+5
+a3 Inertia of non oil gdp trend growth 0.72 0.15 beta 0.91 0.12
+0
+a3 Non oil GDP reaction to structural public spending growth 0.16 0.12 beta 0.22 0.063
+1
+b1 Weight of lag inflation 0.52 0.06 beta 0.6 0.044
+0
+b1 Weight of prices expectations 1 0.075 gamma 0.098 0.049
+1
+b1 Demand price sensitiveness 1.7 0.36 gamma 0.16 0.43
+2
+b1 Exchange rate price sensitiveness 0.17 0.05 gamma 0.083 0.077
+3
+b1 Sensitiveness of local inflation to Imported Food prices 1.5 0.15 gamma 0.17 0.14
+4
+c1 Inertia of public spending gap 0.54 0.05 beta 0.52 0.021
+0
+c1 Weight of output stabilization in fiscal policy rule 2.7 0.21 gamma 0.52 0.41
+1
+c1 Public spending gap response to public debt 0.14 0.03 gamma 0.096 0.053
+2
+c3 Inertia of the growth rate of structural public spending 0.13 0.1 gamma 0.55 0.18
+0
+Continued on next page
+93
+
+--- Page 95 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+c3 Structural public spending growth to non oil GDP growth 2.1 0.5 gamma 0.65 0.25
+1
+c3 Structural public spending growth to oil GDP growth 0.9 0.25 gamma 0.23 0.5
+2
+cd1 Public debt growth inertia 0.73 0.05 beta 0.74 0.07
+0
+cd2 Sensitiveness of public debt to exchange rate 3.7 0.25 gamma 0.15 0.19
+1
+f1 International reserves sensitiveness to economic growth 32 4 gamma 4.8 8.6
+1
+f1 International reserves sensitiveness to oil GDP 16 2 gamma 3.2 3.2
+2
+f1 International reserves sensitiveness to debt dynamics 2.4 2.4 gamma 3.9 9.8
+3
+g1 Inertia of foreign interest rate 0.94 0.08 beta 0.97 0.086
+0
+g2 Inertia of foreign output gap 0.59 0.08 beta 0.63 0.15
+0
+g3 Inertia of foreign inglation - Eurozone 0.16 0.04 beta 0.097 0.1
+0
+g6 Inertia of international food prices variation 0.12 0.02 beta 0.1 0.035
+0
+h1 Bank Lending Tightness inertia 0.36 0.07 beta 0.73 0.035
+0
+h1 Output expectations effect on credit supply 0.53 0.05 gamma 0.49 0.029
+1
+h1 Output past dynamics effect on credit supply 0.18 0.16 gamma 0.77 0.33
+2
+h1 Interbank rate effect on credit supply 0.047 0.006 gamma 0.059 0.00073
+3
+h1 Central Bank liquidity effect on credit suply 0.58 0.06 gamma 0.18 0.094
+4
+h2 Credit gap inertia 0.3 0.2 beta 0.57 0.21
+0
+h2 Interest rate effect on credit gap 0.034 0.006 gamma 0.059 0.01
+2
+Continued on next page
+94
+
+--- Page 96 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+h3 Inertia of credit trend growth 0.5 0.1 beta 0.62 0.083
+0
+h3 Nominal growth effect on credit trend 0.2 0.1 gamma 0.45 0.16
+1
+h4 Inertia of Bank Stability Index 0.58 0.07 beta 0.71 0.05
+0
+h4 Debt importance in bank stability dynamics 0.068 0.02 beta 0.097 0.011
+1
+i1 Inertia of Interbank rate 0.66 0.045 beta 0.96 0.19
+0
+i1 Liquidity injection influence on Interbank rate 0.66 0.24 gamma 0.32 1.5
+1
+i1 Bank stability influence on interbank rate dynamics 1.4 0.2 gamma 0.4 0.51
+2
+i2 Central bank liquidity inertia 0.99 0.08 beta 0.88 0.18
+0
+i2 Central bank liquidity reaction to interbank spread 9 0.75 gamma 7 1.4
+1
+i2 Central bank liquidity reaction to bank instability 0.2 0.08 gamma 0.17 0.09
+2
+σyˆ Size of Demand Shock 2.1 0.005 inv. Gamma 0.0069 0.36
+σy¯ Size of level productivity shock 2.5 0.005 inv. Gamma 0.003 0.019
+σG(y¯) Size of growth productivity shock 1.5 0.005 inv. Gamma 0.0033 0.28
+σyoil Size of oil production shock 1.3 0.005 inv. Gamma 0.0065 0.32
+σproil Size of oil production shock 0.9 0.005 inv. Gamma 0.0066 0.35
+σG(pr)oil size of oil production growth shock 0.02 0.005 inv. Gamma 0.019 0.81
+σπ Size of cost push shock 0.19 0.005 inv. Gamma 0.012 0.5
+σgˆ Size of short term fiscal policy shock 0.17 0.005 inv. Gamma 0.0062 0.44
+Continued on next page
+95
+
+--- Page 97 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σG(y¯) Size of structural fiscal policy shock (level) 2.1 0.005 inv. Gamma 0.0067 0.35
+σG(g¯) Size of structural fiscal policy shock (growth) 1.5 0.005 inv. Gamma 0.031 0.34
+σ∆debt Size of public debt growth shock 0.86 0.005 inv. Gamma 0.022 0.33
+σdebt Size of debt level shock 2 0.005 inv. Gamma 0.006 0.55
+σz¯ Size of Structural exchange rate shock 1.5 0.005 inv. Gamma 0.0085 0.15
+σprem Size of risk premium shock 0.91 0.005 inv. Gamma 0.0073 0.24
+σseuro Size of nominal exchange rate shock 1.9 0.005 inv. Gamma 0.0022 0.25
+σIPOLICY size of monetary policy shock 2.6 0.005 inv. Gamma 0.003 0.14
+σr¯ Size of real interest rate trend shock 2.6 0.005 inv. Gamma 0.0072 0.54
+σresmimp Size of international reserves shock 0.96 0.005 inv. Gamma 0.56 0.29
+σieuro Size of foreign interest rate shock 0.045 0.003 inv. Gamma 0.0044 0.016
+stdystar Size of foreign output gap shock 0.22 0.003 inv. Gamma 0.017 0.053
+σπeuro Size of foreign inflation - Eurozone 0.098 0.003 inv. Gamma 0.0056 0.0015
+σpoil Size of oil price shock 0.27 0.005 inv. Gamma 0.19 0.11
+σsusd Size of EUR/USD exchange rate shock 0.11 0.005 inv. Gamma 0.037 0.46
+σπfood Size of International food prices shock 1.4 0.005 inv. Gamma 0.064 0.46
+σblt Size of temporary credit supply shock 0.15 0.005 inv. Gamma 0.03 0.26
+σc¯r Size of permament credit supply shock 2.1 0.005 inv. Gamma 0.061 0.4
+Continued on next page
+96
+
+--- Page 98 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σc¯r Size of credit trend growth shock 0.61 0.005 inv. Gamma 0.012 0.47
+σIINTERBANK Size of interbank risk shock 0.48 0.005 inv. Gamma 0.0059 0.24
+σcbinjec Size of Central Bank liquidity injection 0.55 0.005 inv. Gamma 0.024 0.034
+Source : the author
+97
+
+--- Page 99 ---
+Table 8 – Estimation results - Equatorial Guinea
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+a1 Non oil Output gap inertia 0.45 0.25 beta 0.5 0.082
+0
+a1 Non oil Output gap expectation 0.16 0.03 gamma 0.09 0.064
+1
+a1 Financial conditions output gap sensitiveness 1.1 0.15 gamma 0.57 0.12
+2
+a1 Non oil output gap sensitiveness to exchange rate 0.38 0.1 gamma 0.25 0.11
+3
+a1 Domestic non oil output gap sensitiveness to foreign output gap 0.96 0.21 gamma 0.44 0.33
+4
+a1 Non oil Output gap sensitiveness to public expenses gap 0.077 0.05 gamma 0.08 0.17
+5
+a3 Inertia of non oil gdp trend growth 0.84 0.15 beta 0.9 0.18
+0
+a3 Non oil GDP reaction to structural public spending growth 0.94 0.12 beta 0.13 0.07
+1
+b1 Weight of lag inflation 0.83 0.06 beta 0.61 0.068
+0
+b1 Weight of prices expectations 0.93 0.075 gamma 0.092 0.2
+1
+b1 Demand price sensitiveness 0.0021 0.36 gamma 0.2 1.3
+2
+b1 Exchange rate price sensitiveness 0.8 0.05 gamma 0.068 0.033
+3
+b1 Sensitiveness of local inflation to Imported Food prices 1.8 0.15 gamma 0.16 0.32
+4
+c1 Inertia of public spending gap 0.64 0.05 beta 0.51 0.064
+0
+c1 Weight of output stabilization in fiscal policy rule 0.8 0.21 gamma 0.41 0.71
+1
+c1 Public spending gap response to public debt 0.029 0.03 gamma 0.09 0.069
+2
+c3 Inertia of the growth rate of structural public spending 0.43 0.1 gamma 0.82 0.3
+0
+Continued on next page
+98
+
+--- Page 100 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+c3 Structural public spending growth to non oil GDP growth 2.9 0.5 gamma 1 0.4
+1
+c3 Structural public spending growth to oil GDP growth 0.23 0.25 gamma 0.26 0.12
+2
+cd1 Public debt growth inertia 0.68 0.05 beta 0.77 0.14
+0
+cd2 Sensitiveness of public debt to exchange rate 0.41 0.25 gamma 0.19 0.61
+1
+f1 International reserves sensitiveness to economic growth 27 4 gamma 1.1 1.2
+1
+f1 International reserves sensitiveness to oil GDP 24 2 gamma 2.4 1.7
+2
+f1 International reserves sensitiveness to debt dynamics 40 2.4 gamma 1.8 3.9
+3
+g1 Inertia of foreign interest rate 0.34 0.08 beta 0.97 0.014
+0
+g2 Inertia of foreign output gap 0.31 0.08 beta 0.63 0.18
+0
+g3 Inertia of foreign inglation - Eurozone 0.19 0.04 beta 0.097 0.0047
+0
+g6 Inertia of international food prices variation 0.096 0.02 beta 0.1 0.011
+0
+h1 Bank Lending Tightness inertia 0.7 0.07 beta 0.75 0.041
+0
+h1 Output expectations effect on credit supply 0.56 0.05 gamma 0.48 0.034
+1
+h1 Output past dynamics effect on credit supply 1.8 0.16 gamma 0.75 0.058
+2
+h1 Interbank rate effect on credit supply 0.03 0.006 gamma 0.059 0.0062
+3
+h1 Central Bank liquidity effect on credit suply 0.83 0.06 gamma 0.19 0.11
+4
+h2 Credit gap inertia 0.26 0.2 beta 0.53 0.072
+0
+h2 Interest rate effect on credit gap 0.091 0.006 gamma 0.06 0.0039
+2
+Continued on next page
+99
+
+--- Page 101 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+h3 Inertia of credit trend growth 0.29 0.1 beta 0.5 0.089
+0
+h3 Nominal growth effect on credit trend 0.79 0.1 gamma 0.42 0.074
+1
+h4 Inertia of Bank Stability Index 0.49 0.07 beta 0.72 0.093
+0
+h4 Debt importance in bank stability dynamics 0.12 0.02 beta 0.097 0.011
+1
+i1 Inertia of Interbank rate 0.72 0.045 beta 0.96 0.21
+0
+i1 Liquidity injection influence on Interbank rate 0.85 0.24 gamma 0.38 1.2
+1
+i1 Bank stability influence on interbank rate dynamics 2.4 0.2 gamma 0.4 0.1
+2
+i2 Central bank liquidity inertia 0.27 0.08 beta 0.87 0.2
+0
+i2 Central bank liquidity reaction to interbank spread 11 0.75 gamma 7.1 1.5
+1
+i2 Central bank liquidity reaction to bank instability 0.22 0.08 gamma 0.17 0.22
+2
+σyˆ Size of Demand Shock 2.7 0.005 inv. Gamma 0.006 0.29
+σy¯ Size of level productivity shock 2.2 0.005 inv. Gamma 0.003 0.45
+σG(y¯) Size of growth productivity shock 1.2 0.005 inv. Gamma 0.0034 0.4
+σyoil Size of oil production shock 1.9 0.005 inv. Gamma 0.0097 0.049
+σproil Size of oil production shock 2.4 0.005 inv. Gamma 0.0074 0.4
+σG(pr)oil size of oil production growth shock 0.77 0.005 inv. Gamma 0.076 0.072
+σπ Size of cost push shock 1.4 0.005 inv. Gamma 0.013 0.23
+σgˆ Size of short term fiscal policy shock 1.2 0.005 inv. Gamma 0.0061 0.052
+Continued on next page
+100
+
+--- Page 102 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σG(y¯) Size of structural fiscal policy shock (level) 1.2 0.005 inv. Gamma 0.0065 0.24
+σG(g¯) Size of structural fiscal policy shock (growth) 0.016 0.005 inv. Gamma 0.034 0.087
+σ∆debt Size of public debt growth shock 0.26 0.005 inv. Gamma 0.026 0.034
+σdebt Size of debt level shock 1.2 0.005 inv. Gamma 0.006 0.0093
+σz¯ Size of Structural exchange rate shock 1.6 0.005 inv. Gamma 0.0076 0.2
+σprem Size of risk premium shock 2.6 0.005 inv. Gamma 0.0073 0.19
+σseuro Size of nominal exchange rate shock 2 0.005 inv. Gamma 0.0022 0.18
+σIPOLICY size of monetary policy shock 0.21 0.005 inv. Gamma 0.0031 0.041
+σr¯ Size of real interest rate trend shock 2.2 0.005 inv. Gamma 0.019 0.37
+σresmimp Size of international reserves shock 0.97 0.005 inv. Gamma 0.61 0.32
+σieuro Size of foreign interest rate shock 0.092 0.003 inv. Gamma 0.0044 0.011
+stdystar Size of foreign output gap shock 0.21 0.003 inv. Gamma 0.017 0.048
+σπeuro Size of foreign inflation - Eurozone 0.056 0.003 inv. Gamma 0.0056 0.021
+σpoil Size of oil price shock 2 0.005 inv. Gamma 0.19 0.2
+σsusd Size of EUR/USD exchange rate shock 2.7 0.005 inv. Gamma 0.037 0.084
+σπfood Size of International food prices shock 0.36 0.005 inv. Gamma 0.064 0.1
+σblt Size of temporary credit supply shock 1.6 0.005 inv. Gamma 0.031 0.097
+σc¯r Size of permament credit supply shock 0.93 0.005 inv. Gamma 0.12 0.54
+Continued on next page
+101
+
+--- Page 103 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σc¯r Size of credit trend growth shock 1.6 0.005 inv. Gamma 0.0072 0.2
+σIINTERBANK Size of interbank risk shock 0.093 0.005 inv. Gamma 0.0057 0.36
+σcbinjec Size of Central Bank liquidity injection 1.2 0.005 inv. Gamma 0.023 0.17
+Source : the author
+102
+
+--- Page 104 ---
+Table 9 – Estimation results - Chad
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+a1 Non oil Output gap inertia 0.043 0.25 beta 0.24 0.094
+0
+a1 Non oil Output gap expectation 0.38 0.03 gamma 0.095 0.084
+1
+a1 Financial conditions output gap sensitiveness 0.46 0.15 gamma 0.59 0.12
+2
+a1 Non oil output gap sensitiveness to exchange rate 0.32 0.1 gamma 0.19 0.056
+3
+a1 Domestic non oil output gap sensitiveness to foreign output gap 1.4 0.21 gamma 0.36 0.29
+4
+a1 Non oil Output gap sensitiveness to public expenses gap 0.74 0.05 gamma 0.091 0.054
+5
+a3 Inertia of non oil gdp trend growth 0.29 0.15 beta 0.89 0.23
+0
+a3 Non oil GDP reaction to structural public spending growth 0.13 0.12 beta 0.16 0.073
+1
+b1 Weight of lag inflation 0.79 0.06 beta 0.57 0.08
+0
+b1 Weight of prices expectations 1 0.075 gamma 0.1 0.18
+1
+b1 Demand price sensitiveness 0.053 0.36 gamma 0.33 1
+2
+b1 Exchange rate price sensitiveness 0.79 0.05 gamma 0.086 0.097
+3
+b1 Sensitiveness of local inflation to Imported Food prices 2 0.15 gamma 0.21 0.16
+4
+c1 Inertia of public spending gap 0.67 0.05 beta 0.52 0.045
+0
+c1 Weight of output stabilization in fiscal policy rule 1.2 0.21 gamma 0.55 0.39
+1
+c1 Public spending gap response to public debt 0.26 0.03 gamma 0.092 0.034
+2
+c3 Inertia of the growth rate of structural public spending 0.89 0.1 gamma 0.64 0.23
+0
+Continued on next page
+103
+
+--- Page 105 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+c3 Structural public spending growth to non oil GDP growth 4.7 0.5 gamma 0.59 1
+1
+c3 Structural public spending growth to oil GDP growth 2.5 0.25 gamma 0.18 0.26
+2
+cd1 Public debt growth inertia 0.33 0.05 beta 0.79 0.13
+0
+cd2 Sensitiveness of public debt to exchange rate 1.5 0.25 gamma 0.13 0.81
+1
+f1 International reserves sensitiveness to economic growth 0.68 4 gamma 0.55 6.3
+1
+f1 International reserves sensitiveness to oil GDP 21 2 gamma 2.6 3.7
+2
+f1 International reserves sensitiveness to debt dynamics 31 2.4 gamma 1.6 3.7
+3
+g1 Inertia of foreign interest rate 0.84 0.08 beta 0.97 0.13
+0
+g2 Inertia of foreign output gap 0.57 0.08 beta 0.63 0.16
+0
+g3 Inertia of foreign inglation - Eurozone 0.24 0.04 beta 0.097 0.029
+0
+g6 Inertia of international food prices variation 0.12 0.02 beta 0.1 0.028
+0
+h1 Bank Lending Tightness inertia 0.6 0.07 beta 0.75 0.033
+0
+h1 Output expectations effect on credit supply 0.57 0.05 gamma 0.48 0.045
+1
+h1 Output past dynamics effect on credit supply 2.3 0.16 gamma 0.75 0.079
+2
+h1 Interbank rate effect on credit supply 0.05 0.006 gamma 0.059 0.005
+3
+h1 Central Bank liquidity effect on credit suply 0.35 0.06 gamma 0.17 0.023
+4
+h2 Credit gap inertia 0.74 0.2 beta 0.49 0.16
+0
+h2 Interest rate effect on credit gap 0.1 0.006 gamma 0.059 0.0099
+2
+Continued on next page
+104
+
+--- Page 106 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+h3 Inertia of credit trend growth 0.64 0.1 beta 0.75 0.13
+0
+h3 Nominal growth effect on credit trend 0.75 0.1 gamma 0.44 0.096
+1
+h4 Inertia of Bank Stability Index 0.9 0.07 beta 0.72 0.093
+0
+h4 Debt importance in bank stability dynamics 0.19 0.02 beta 0.097 0.019
+1
+i1 Inertia of Interbank rate 0.98 0.045 beta 0.97 0.033
+0
+i1 Liquidity injection influence on Interbank rate 3.6 0.24 gamma 0.32 0.28
+1
+i1 Bank stability influence on interbank rate dynamics 0.49 0.2 gamma 0.39 0.34
+2
+i2 Central bank liquidity inertia 0.62 0.08 beta 0.83 0.054
+0
+i2 Central bank liquidity reaction to interbank spread 4.1 0.75 gamma 7.2 0.94
+1
+i2 Central bank liquidity reaction to bank instability 0.53 0.08 gamma 0.17 0.2
+2
+σyˆ Size of Demand Shock 1.1 0.005 inv. Gamma 0.0074 0.35
+σy¯ Size of level productivity shock 1.7 0.005 inv. Gamma 0.003 0.53
+σG(y¯) Size of growth productivity shock 1.5 0.005 inv. Gamma 0.0032 0.26
+σyoil Size of oil production shock 2.3 0.005 inv. Gamma 0.0073 0.24
+σproil Size of oil production shock 2.6 0.005 inv. Gamma 0.042 0.19
+σG(pr)oil size of oil production growth shock 1.3 0.005 inv. Gamma 0.0079 0.39
+σπ Size of cost push shock 2.1 0.005 inv. Gamma 0.031 0.091
+σgˆ Size of short term fiscal policy shock 2 0.005 inv. Gamma 0.0059 0.49
+Continued on next page
+105
+
+--- Page 107 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σG(y¯) Size of structural fiscal policy shock (level) 2.5 0.005 inv. Gamma 0.0063 0.074
+σG(g¯) Size of structural fiscal policy shock (growth) 0.056 0.005 inv. Gamma 0.029 0.3
+σ∆debt Size of public debt growth shock 0.44 0.005 inv. Gamma 0.021 0.2
+σdebt Size of debt level shock 0.35 0.005 inv. Gamma 0.0059 0.58
+σz¯ Size of Structural exchange rate shock 2 0.005 inv. Gamma 0.0074 0.59
+σprem Size of risk premium shock 0.055 0.005 inv. Gamma 0.0073 0.7
+σseuro Size of nominal exchange rate shock 0.56 0.005 inv. Gamma 0.0022 0.022
+σIPOLICY size of monetary policy shock 0.67 0.005 inv. Gamma 0.0035 0.52
+σr¯ Size of real interest rate trend shock 1.8 0.005 inv. Gamma 0.013 0.41
+σresmimp Size of international reserves shock 1.6 0.005 inv. Gamma 0.6 0.28
+σieuro Size of foreign interest rate shock 0.13 0.003 inv. Gamma 0.0044 0.022
+stdystar Size of foreign output gap shock 0.062 0.003 inv. Gamma 0.017 0.036
+σπeuro Size of foreign inflation - Eurozone 0.18 0.003 inv. Gamma 0.0056 0.01
+σpoil Size of oil price shock 1.8 0.005 inv. Gamma 0.19 0.18
+σsusd Size of EUR/USD exchange rate shock 0.2 0.005 inv. Gamma 0.037 0.46
+σπfood Size of International food prices shock 1.4 0.005 inv. Gamma 0.064 0.33
+σblt Size of temporary credit supply shock 0.12 0.005 inv. Gamma 0.03 0.55
+σc¯r Size of permament credit supply shock 2.7 0.005 inv. Gamma 0.046 0.37
+Continued on next page
+106
+
+--- Page 108 ---
+– Continued from previous page
+Param name Labels Prior mean Prior std Prior Dist. Estim. Mode Estim. std.
+σc¯r Size of credit trend growth shock 2.6 0.005 inv. Gamma 0.014 0.47
+σIINTERBANK Size of interbank risk shock 1.6 0.005 inv. Gamma 0.0057 0.37
+σcbinjec Size of Central Bank liquidity injection 0.93 0.005 inv. Gamma 0.033 0.1
+Source : the author
+107
+
+--- Page 109 ---
+Table 10 – Intra-CEMAC trade parameters
+Cameroon Central Congo Gabon Eq.Guinea Chad
+African
+Republic
+Cameroon - 0,11696 0,00010 0,00792 0,00818 0,03990
+Central 0,00449 - 0,00003 0,00001 0,00001 0,00009
+African
+Republic
+Congo 0,00995 0,00853 - 0,02583 0,03080 0,00010
+Gabon 0,00573 0,00012 0,00002 - 0,00000 0,00000
+Eq.Guinea 0,00463 0,00009 0,00002 0,00000 - 0,00000
+Chad 0,00702 0,00039 0,00002 0,00000 0,00000 -
+Source : the author
+108
+
+--- Page 110 ---
+In-sample forecasts
+Figure 24 – In-sample unconditional forecasts of some CEMAC variables
+Source : Author
+109
+
+--- Page 111 ---
+Figure 25 – In-sample unconditional forecasts of some Cameroon’s variables
+Source : Author
+110
+
+--- Page 112 ---
+Figure 26 – In-sample unconditional forecasts of some Central African Republic’s variables
+Source : Author
+111
+
+--- Page 113 ---
+Figure 27 – In-sample unconditional forecasts of some Congo’s variables
+Source : Author
+112
+
+--- Page 114 ---
+Figure 28 – In-sample unconditional forecasts of some Gabon’s variables
+Source : Author
+113
+
+--- Page 115 ---
+Figure 29 – In-sample unconditional forecasts of some Equatorial Guinea’s variables
+Source : Author
+114
+
+--- Page 116 ---
+Figure 30 – In-sample unconditional forecasts of some Chad’s variables
+Source : Author
+115
+
+--- Page 117 ---
+116
+
+--- Page 118 ---
+Historical decompositions
+Shocks grouping
+Economic Growth
+Figure 31 – Historical decomposition of CEMAC economic growth
+0.06
+0.04
+0.04
+0.02
+0.02
+0
+0
+MonPolicy -0.02
+-0.02
+Cameroon
+CAR
+Congo
+Gabon
+-0.04
+G Chu ain dea -0.04 D Sue pm pa lynd
+Foreign MonetaryPolicy
+OilPrices OilRevenues
+CapitalFlows ForeignShocks
+others CapitalFlows
+-0.06 init -0.06 F otin ha en rscialShocks
+init
+2010Q1 2011Q3 2013Q1 2014Q3 2016Q1 2017Q3 2019Q1 2020Q3 2010Q1 2011Q3 2013Q1 2014Q3 2016Q1 2017Q3 2019Q1 2020Q3
+Source : Author
+117
+
+--- Page 119 ---
+Inflation
+Figure 32 – Historical decomposition of CEMAC annual average inflation rate
+0.06
+0.04
+0.04
+0.02
+0.02
+0
+0
+-0.02 -0.02
+MonPolicy
+Cameroon
+CAR
+-0.04 Congo
+Gabon -0.04
+Guinea Demand
+Chad Supply
+-0.06 F Oo ilr Pe ri ig cn
+es
+M Oio lRn ee vta er ny uP eo slicy
+CapitalFlows ForeignShocks
+others -0.06 CapitalFlows
+init FinancialShocks
+-0.08 others
+init
+2010Q1 2011Q3 2013Q1 2014Q3 2016Q1 2017Q3 2019Q1 2020Q3 2010Q1 2011Q3 2013Q1 2014Q3 2016Q1 2017Q3 2019Q1 2020Q3
+Source : Author
+118
+
+--- Page 120 ---
+International Reserves
+Figure 33 – Historical decomposition of CEMAC international reserves (absolute y-o-y variation)
+Demand
+2.5 2.5 Supply
+MonPolicy MonetaryPolicy
+Cameroon OilRevenues
+2 C CA onR go 2 F Co ar pe ii tg an lFS loh woc sks
+Gabon FinancialShocks
+1.5 G Chu ain dea
+1.5
+o int ih ters
+Foreign
+OilPrices
+1 CapitalFlows
+others 1
+init
+0.5
+0.5
+0
+0
+-0.5
+-0.5
+-1
+-1
+-1.5
+-1.5
+-2
+-2
+-2.5
+2010Q1 2011Q3 2013Q1 2014Q3 2016Q1 2017Q3 2019Q1 2020Q3 2010Q1 2011Q3 2013Q1 2014Q3 2016Q1 2017Q3 2019Q1 2020Q3
+Source : Author
+119
+
+--- Page 121 ---
+Credit to private sector
+Figure 34 – Historical decomposition of CEMAC credit growth rate (y-o-y)
+0.25 0.25 Demand
+Supply
+MonPolicy MonetaryPolicy
+Cameroon OilRevenues
+CAR ForeignShocks
+0.2 Congo 0.2 CapitalFlows
+Gabon FinancialShocks
+Guinea others
+Chad init
+Foreign
+0.15 OilPrices 0.15
+CapitalFlows
+others
+init
+0.1 0.1
+0.05 0.05
+0
+0
+-0.05
+-0.05
+-0.1
+-0.1
+2010Q1 2011Q3 2013Q1 2014Q3 2016Q1 2017Q3 2019Q1 2020Q3 2010Q1 2011Q3 2013Q1 2014Q3 2016Q1 2017Q3 2019Q1 2020Q3
+Source : Author
+120
+
+--- Page 122 ---
+121

@@ -1,0 +1,1179 @@
+Source PDF : BEAC_Working_Paper_N°08_17_Politique_monétaire,_stabilité_monétaire_et_croissance_économiq_086e44e8.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°08_17_Politique_monétaire,_stabilité_monétaire_et_croissance_économiq_086e44e8.pdf
+Date extraction : 15/06/2026 21:25:18
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 08/17 -
+Politique monétaire, stabilité monétaire et croissance économique
+dans la CEMAC : une approche SVAR bayésienne
+BIKAI J. Landry ESSIANE Patrick-Nelson Daniel
+Docteur en sciences économiques Economiste
+Et
+Direction de la Recherche Direction de la Recherche
+bikai@beac.int essiane@beac.int
+B ANQ U E D E S E T A T S D E
+L’AF R IQ U E C E NT R ALE Les opinions émises dans ce document de
+travail sont propres à leur (s) auteur (s) et ne
+7 36, Av e n ue M on s e i g n e ur
+représentent pas nécessairement la position de la
+V og t B P:1 9 1 7 Y a o un d é
+Banque des Etats de l’Afrique Centrale.
+C a me roun
+T e l :(2 37 ) 2 2 2 34 0 30 / The opinions expressed in this working
+2 2 2 34 060 paper are those of the author (s) and don’t
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9
+of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E L A R E C H E R C H E
+
+--- Page 2 ---
+Politique monétaire, stabilité monétaire et croissance économique dans la
+CEMAC : une approche SVAR bayésienne
+Bikai Jacques Landry∗. Essiane Patrick-Nelson Daniel∗∗
+Décembre 2017
+Résumé
+L’objectif de ce travail est d’apprécier l’incidence des chocs de politique monétaire sur la stabilité
+monétaire interne (inflation), la stabilité monétaire externe (taux de couverture extérieur, réserves de
+change) et la croissance économique dans la CEMAC. Pour atteindre cet objectif, nous spécifions et esti-
+monsunmodèleVARstructurelavecdestechniquesbayésiennes(BSVAR)surdesdonnéestrimestrielles
+allantdupremiertrimestre2001auquatrièmetrimestre2016.Lastratégied’identificationdeschocss’est
+inspirée des travaux de Binning (2013) qui permet de combiner à la fois des restrictions de signes et de
+zéros pour des VAR sous identifiés. Trois résultats majeurs se dégagent de notre travail. Premièrement,
+il apparait que le canal du taux d’intérêt est limité dans la CEMAC et les chocs sur la base monétaire
+ont davantage d’incidence sur la stabilité monétaire que les chocs sur le taux directeur. Deuxièmement,
+les chocs de politique monétaire ne semblent pas exercer d’influence sur la croissance économique dans
+les différents pays de la CEMAC mais ont des effets différenciés sur les prix et les réserves de change
+selon l’instrument utilisé, les chocs sur la base monétaire ayant des effets plus significatifs que les chocs
+sur les taux. Troisièmement, les chocs de demande semblent exercer une influence plus importante sur la
+dynamique de la stabilité monétaire externe que les chocs monétaires quantitatifs.
+Mots-clés : Politique monétaire; Inflation; Réserves internationales de changes; Croissance écono-
+mique; CEMAC; Analyse bayésienne.
+Codes JEL : E52; E58; E31; C11; C22; O55
+Monetary Policy, Monetary Stability and Economic Growth in CEMAC : A Bayesian
+Structural VAR approach
+Abstract
+The aim of this paper is to study the effects of monetary policy shocks on monetary stability (infla-
+tion and international reserves) and economic growth in CEMAC countries. We specify and estimate a
+structural bayesian VAR (BSVAR) on quarterly data of CEMAC countries from 2001Q1 to 2016Q4. Our
+identification strategy is borrowed from Binning (2013) which combine both sign and zero restrictions
+for underidentified VARs. We find three main results. First, our results suggest that shocks on central
+bank’s interest rate are less effective than quantitative monetary shocks in CEMAC. Second, economic
+growth appears insensible to monetary policy shocks, while inflation and international reserves dynamic
+aremoreaffectedbyquantitativemonetaryshocksthaninterestrateshocks.Third,demandshocksseem
+to influence more the dynamic of international reserves than quantitative monetary shocks.
+Keywords : Monetary Policy; Inflation; International reserves; Economic growth; CEMAC; Baye-
+sian analysis.
+JEL Classification : E52; E58; E31; C11; C22; O55
+∗. Économiste, Direction de la Recherche, BEAC
+∗∗. Économiste, Direction de la Recherche, BEAC
+Nous remercions Junior MAIH (Norges Bank), Désiré AVOM (Université de Dschang, Came-
+roun), ainsi que les cadres de la BEAC pour leurs précieuses observations sur notre travail. Les erreurs
+et omissions éventuellement contenues dans le document relèvent de la seule responsabilité des auteurs.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 5
+1 Politique monétaire et stabilisation des économies 7
+2 Méthodologie et données 11
+3 Résultats et discussion 15
+3.1 Effets des chocs de politique monétaire dans les pays de la CEMAC . . . . 16
+3.2 Décomposition de la variance des variables d’intérêt . . . . . . . . . . . . . 20
+3.3 Décomposition historique des variables d’intérêt . . . . . . . . . . . . . . . 22
+Conclusion 26
+Références 27
+A Annexes 32
+A.1 Méthodologie de calcul du coefficient de Polak . . . . . . . . . . . . . . . . 32
+A.2 Comparaison des fonctions de réponses impulsionnelles (IRF) des différents
+modèles estimés. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+A.3 Distribution des fonctions de réponse impulsionnelles des différents pays de
+la CEMAC aux chocs de politique monétaire . . . . . . . . . . . . . . . . . 35
+A.4 Décomposition historique des variables d’intérêt pour les différents pays de
+la CEMAC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+2
+
+--- Page 4 ---
+Résumé non technique
+La préservation d’un cadre macroéconomique stable est au cœur des préoccupations
+d’une banque centrale. La Banque des Etats de l’Afrique Centrale (BEAC) suit donc
+étroitement la dynamique du produit intérieur brut, de l’inflation, des réserves de changes
+(en raison essentiellement du régime de change fixe) mais également d’autres variables
+pertinentes liées aux grands équilibres macroéconomiques.
+La plupart des études qui analysent les effets de la politique monétaire dans la Com-
+munauté Economique et Monétaire de l’Afrique Centrale (CEMAC) s’intéressent le plus
+souvent à l’activité (croissance du PIB) et aux prix (inflation). La particularité de cette
+étude est d’évaluer, à l’aide des techniques économétriques récentes, les effets de la poli-
+tique monétaire de la BEAC, non seulement sur l’activité et les prix, mais également sur
+la dynamique des réserves de change.
+Particulièrement, l’objectif de ce travail est d’apprécier l’incidence des chocs de poli-
+tique monétaire (chocs sur le taux d’intérêt, choc sur la base monétaire) dans la CEMAC :
+(i) sur la stabilité monétaire interne (inflation), (ii) la stabilité monétaire externe (taux
+de couverture extérieur ou réserves de change) et (iii) la croissance économique.
+Pour atteindre notre objectif, nous spécifions et estimons un modèle VAR structurel
+avec des techniques bayésiennes (BSVAR) sur des données trimestrielles des économies
+de la CEMAC et sur les données agrégées de la sous-région, allant du premier trimestre
+2001 au quatrième trimestre 2016. La stratégie d’identification des chocs s’est inspirée des
+travaux de Binning (2013) qui permet de combiner à la fois des restrictions de signes et
+de zéros pour des VAR sous identifiés.
+Trois résultats majeurs se dégagent de notre travail :
+— premièrement, et comme le démontre la plupart des travaux dans ce domaine,
+le canal du taux d’intérêt est limité dans la CEMAC et les chocs sur la base
+monétaire ont davantage d’incidence sur la stabilité monétaire (inflation et réserves
+de changes) que les chocs sur le taux directeur;
+— deuxièmement,leschocsdepolitiquemonétairenesemblentpasexercerd’influence
+sur la croissance économique dans les différents pays de la CEMAC mais ont des
+effets différenciés sur les prix et les réserves de change selon l’instrument utilisé
+(les chocs sur la base monétaire ayant des effets plus significatifs que les chocs sur
+les taux);
+— troisièmement, les chocs de demande semblent exercer une influence plus impor-
+tante sur la dynamique de la stabilité monétaire externe (réserves de changes) que
+les chocs monétaires quantitatifs (chocs sur la base monétaire).
+Le dernier résultat interpelle particulièrement les Etats de la sous-région sur la né-
+cessité de diversifier les économies afin de substituer progressivement les importations
+gourmades en réserves de changes. Quant aux deux premiers résultats, ils permettent de
+conforter la décision de la BEAC de resserrer sa politique monétaire depuis mars 2017
+3
+
+--- Page 5 ---
+car cette dernière influence les réserves de change. Ces résultats permettent également de
+constater les effets limités de l’action de la BEAC sur l’activité économique. Ainsi il serait
+judicieux de poursuivre des réformes visant l’amélioration de l’efficacité de la politique
+monétaire tant au niveau de la banque centrale (redynamisation du marché interbancaire,
+mise en place des centrales d’information financières, etc) qu’au niveau des Etats (climat
+des affaires, bonne gouvernance, accélération du commerce intrarégional, etc).
+4
+
+--- Page 6 ---
+Introduction
+L’objectif principal de la politique monétaire de la Banque des Etats de l’Afrique
+Centrale(BEAC)estd’assurerlastabilitémonétairequisedéclineendeuxsous-objectifs:
+lastabilitéinterne(inflationfaible1 )etlastabilitéexterne(tauxdecouvertureextérieure2
+de la monnaie suffisante). Les statuts de la BEAC autorisent également à la banque
+centrale, sans préjudice à son objectif de stabilité monétaire, d’apporter son soutien aux
+politiques économiques générales élaborées par les Etats. Pour atteindre ses objectifs, la
+BEAC utilise notamment (i) la manipulation de son principal taux directeur; le Taux
+d’Intérêt d’Appel d’Offres (TIAO) et (ii) agit sur les quantités de à travers la fixation
+d’un plafond de refinancement par pays et la manipulation des coefficients de réserves
+obligatoires. Il est donc primordial pour la BEAC de savoir si son action affecte ses
+principales variables d’intérêt à savoir : l’inflation, les réserves de change (ou le taux
+de couverture extérieur de la monnaie), et l’activité. Le présent article s’intéresse donc
+à l’incidence des chocs de politique monétaire (taux d’intérêt et base monétaire) sur
+la stabilité monétaire et la croissance dans la Communauté Economique et Monétaire de
+l’AfriqueCentrale(CEMAC)etrejointdecefaitlaplupartdestravauxsurlesmécanismes
+de transmission de la politique monétaire dans les pays en développement.
+Deux champs d’analyse de la politique monétaire apparaissent prioritaires pour cette
+étude : (i) l’analyse de l’impact des chocs monétaires sur l’activité et l’inflation (Sims,
+1992; Bernanke et Gertler, 1995; Mishkin, 1996; Bernanke et al., 2005; Uhlig, 2005;
+Rafiq et Mallick, 2008; Dimitrijevic et Lovre, 2013; Roberts, 2004; Mishkin, 2007, 2009;
+Reynard, 2007; Bonga-Bonga et Kabundi, 2015; Bikai et Kenkouo 2015; Ngerebo, 2016);
+et (ii) l’analyse de l’influence des impulsions monétaires sur l’équilibre monétaire externe
+(Artus, 1986; Aghion et al., 2000; Lane et Burke, 2001; Kim, 2003; Mohanty et Turner,
+2006; BCE, 2006; Khan, 2008).
+La question de l’efficacité de la politique monétaire dans les pays en développement
+n’est pas tranchée dans la littérature économique. Certains auteurs mettent en exergue
+la faiblesse des canaux de transmission de la politique monétaire et particulièrement le
+canal du taux d’intérêt, en raison de la faiblesse du cadre institutionnel, des marchés
+financiers embryonnaires, de la surliquidité bancaire et de la prépondérance du secteur
+bancaire, (Mishra et al. 2010; Saxegaard, 2006; Lungu, 2008; Buigut, 2009; Mishra et
+al., 2016). D’autres auteurs par contre aboutissent à l’efficacité des canaux de transmis-
+sion dans certains pays en développement (Uanganta et Ikhide, 2002; Cheng, 2006; Saad,
+Mohammed et Zakaria, 2011; Berg et al 2013). Un consensus semble toutefois se dégager
+selon lequel, le canal du taux d’intérêt est plus efficace dans les pays ayant des marchés
+financiers suffisamment développés (Peiris et Saxegaard, 2007; Mohanty et Turner, 2008;
+Mishra et al., 2010, 2011, 2012; Davoodi et al., 2013). Dans la CEMAC3, la plupart
+1. La norme communautaire retenue dans le cadre de la surveillance multilatérale est de 3%.
+2. Le taux de couverture extérieur est le rapport entre les avoirs extérieurs de la banque centrale et
+ses engagements vis à vis du secteur bancaire et des Etats. Pour préserver la stabilité externe, la BEAC
+a également adopté en 2017, une cible de réserves équivalentes à 3 mois d’importations et de couverture
+de la dette publique extérieure à court terme.
+3. Comprendsixpays:leCameroun,laRépubliqueCentrafricaine,larépubliqueduCongo,leGabon,
+la Guinée Equatoriale et le Tchad.
+5
+
+--- Page 7 ---
+des études confirment la faiblesse du canal du taux d’intérêt (Fielding, 1994; Saxegaard,
+2006; Kamgna et Ndambendia, 2008; Montiel et al. 2012; Bikai et Kenkouo, 2015). En
+d’autres termes, les modifications du taux directeur de la BEAC n’ont presque pas ou
+très peu d’effets sur l’activité et les prix. Aucune de ces études ne s’est cependant inté-
+ressée à l’impact du taux d’intérêt sur la stabilité monétaire externe et principalement
+sur les réserves de change. De plus, la plupart des études utilisent des approches clas-
+siques d’estimation qui laissent très peu de place au jugement d’expert largement utilisé
+dans les banques centrales et qui peut être rendu possible grâce à l’usage des techniques
+d’estimation bayésiennes.
+Il faut cependant rappeler que les travaux de Davoodi et al. (2013) montrent que
+l’usage des inférences statistiques standards abouti toujours à la faiblesse des mécanismes
+de transmission dans les pays en développement. Ces auteurs utilisent ainsi les modèles
+de type VAR4 bayésiens et FAVAR5, et parviennent à démontrer que le canal du taux
+d’intérêt,ducréditetdutauxdechangedanslespaysd’Afriquedel’Estsontfonctionnels.
+Toutefois, ils retrouvent le résultat largement partagé dans la littérature selon lequel,
+le canal du taux d’intérêt semble plus pertinent dans les pays ayant une importante
+profondeur des marchés financiers.
+Avec l’usage des techniques bayésiennes dans les modèles VAR structurels appliqués
+à chaque pays de la CEMAC, cette étude est une contribution à l’analyse des effets
+de la politique monétaire de la BEAC sur ses principaux objectifs. A ce titre, l’étude
+innove sur le type de modèle utilisé (VAR Bayésien) qui donne davantage de poids à
+l’expériencedesexpertssurleséconomiesétudiées,maisellepermetégalementd’apprécier
+les effets de la politique monétaire sur la stabilité monétaire externe. La CEMAC étant
+en régime de change fixe, l’évaluation d’un tel effet est d’une importance capitale car elle
+permet d’apprécier l’action de la banque centrale sur les réserves de change et donc sa
+capacitéàpréserverlaparitédelamonnaieparrapportàlamonnaied’ancrage(l’euro).La
+stratégie d’identification des chocs utilisée dans notre approche méthodologique s’inspire
+des travaux de Binning (2013), qui combine à la fois des restrictions de signes, de zéros, de
+court terme et de long terme. L’usage des contraintes de signe sur l’inflation en particulier
+permetderésoudreleproblèmede«PricePuzzle»quiesttrèsrencontrédanslalittérature
+etmatérialisel’augmentationdel’inflationàlasuited’uneaugmentationdutauxd’intérêt
+(Sims, 1992; Bernanke et al., 2005; Rabanal, 2007).
+La suite de l’article est structurée en trois sections. La première fait un état des objec-
+tifs poursuivis par la Banque Centrale ainsi que leurs liens potentiels avec les actions de
+politique monétaire. La deuxième section présente la modélisation utilisée pour apprécier
+les effets de la politique monétaire sur la stabilité monétaire externe et interne et sur la
+croissance économique ainsi que les données utilisées. Quant à la troisième section, elle
+présente les résultats et recommandations de politiques économiques.
+4. Vector Auto Regressive
+5. Factor Augmented Vector Autoregressive
+6
+
+--- Page 8 ---
+1 Politique monétaire et stabilisation des économies
+Depuis les réformes des années quatre-vingt-dix, la politique monétaire de la BEAC
+viseàmaintenirunestabilitémonétaireetunsoutienauxpolitiqueséconomiquesgénérales
+desEtats.Pouratteindresesobjectifs,laBEACutiliseplusieursinstrumentsnotamment:
+(i) la politique de refinancement (manipulation des taux d’intérêt et fixation des plafonds
+de refinancement par Etat)6 , et (ii) la politique des réserves obligatoires.
+A la lumière des mesures prises par le Comité de Politique Monétaire depuis le mi-
+lieu des années 2000, nous pouvons remarquer que la politique monétaire de la BEAC a
+été accommodante jusqu’en 2016. Parmi les mesures prises par la BEAC, relevant tant
+de la politique monétaire stricto sensu que de mesures visant globalement à faciliter le
+financement des économies, nous pouvons citer notamment :
+— L’assouplissement des taux directeurs : de 20077 à 2016, le principal taux
+directeur de la BEAC a été revu huit (08) fois à la baisse. Le taux d’intérêt des
+appels d’offres (TIAO) est passé de 5,25 % en 2007 à 2,45 % en juillet 2015;
+— L’élargissement des conditions de refinancement des banques : en octobre
+2013, le CPM a décidé d’inclure les titres publics à la gamme des actifs admis
+comme collatéral aux opérations de refinancement. De plus, les plafonds des objec-
+tifs de refinancement des États ont été régulièrement rehaussés, de 61,5 milliards
+au troisième trimestre 2014 à 1 050 milliards au premier trimestre 2016 permettant
+ainsi aux banques de souscrire plus facilement aux émissions des titres publics;
+— L’assouplissement significatif des conditions de financement des États8 :
+en rapport avec la chute des cours du pétrole qui a entrainé d’importants déficits
+budgétaires des Etats de la CEMAC, le Comité de Politique Monétaire (CPM) a
+décidé en 2015 de suspendre, à titre provisoire, le principe de la réduction progres-
+sive des avances statutaires aux États. De plus, le Conseil d’Administration de la
+BEAC a décidé de retenir, comme base de calcul des avances statutaires, le niveau
+des recettes budgétaires ordinaires d’origine nationale atteint au cours de l’exercice
+20149 , année la plus favorable pour les Etats de la CEMAC;
+— L’octroi d’avances exceptionnelles : en 2016 le CPM a décidé d’accorder des
+avances exceptionnelles fixé à 50 % des plafonds d’avances directes révisés en 2015,
+ces avances ont été accordées aux États en programme avec le FMI et engagé dans
+un processus d’ajustement budgétaire cohérent (Tchad et la République centrafri-
+caine);
+6. Il faut rappeler qu’une nouvelle réforme de la Politique monétaire est en cours à la BEAC et vise
+à moderniser son cadre institutionnel, stratégique, analytique et opérationnel.
+7. Début des activités du Comité de Politique Monétaire (CPM)
+8. Jusqu’en2016lesstatutsdelaBEACautorisaientunfinancementdirectdelaBanquecentraleaux
+Etats. Ce mode de financement inflationniste a été suspendu par la résolution des Chefs d’Etats le 23
+décembre 2016.
+9. Selonlestextesenvigueuràcettepériode,lesavancesdelaBEACauxEtatsdevraientreprésenter
+20% des recettes de l’année précédente.
+7
+
+--- Page 9 ---
+— La promotion des crédits à moyen terme10 : la BEAC a décidé de maintenir
+le Guichet B dans son dispositif d’intervention du marché monétaire afin d’aider
+au développement des crédits productifs;
+— La réduction de moitié des coefficients des réserves obligatoires : en avril
+2016, les coefficients de réserves obligatoires ont été baissés afin de libérer environ
+500 milliards de francs CFA de liquidité additionnelle pour les établissements de
+crédit en raison de la baisse de l’activité induite par la chute des cours du pétrole,
+principale ressource des Etats de la CEMAC;
+— L’augmentation du financement de la BEAC à la BDEAC11 : En plus de
+la hausse de 50 à 150 milliards de FCFA du plafond de refinancement établi par la
+Banque centrale, l’institution de développement communautaire bénéficie depuis
+janvier 2016 d’un compte courant d’associé dont le montant a atteint 120 milliards
+en juin 2016.
+Commeonpeutleconstater,l’ensembledecesmesuresvisaitprioritairementàsoutenir
+les Etats en difficulté et à assouplir les conditions de crédit afin de relancer la croissance.
+Toutes ces mesures ayant pour conséquence un accroissement de la base monétaire, ont
+assurément eu des effets autant sur la stabilité monétaire interne que sur la stabilité
+monétaire externe.
+L’observation des graphiques ci-après, ne permet pas d’établir une relation claire entre
+les manipulations du taux directeur et les objectifs de la BEAC principalement en ce qui
+concerne le PIB12 et l’inflation. On s’attendrait donc à une faiblesse des mécanismes de
+transmission de la politique monétaire et principalement du canal du taux d’intérêt.
+Graphique 1 – Politique monétaire et croissance économique dans la CEMAC
+10. Il s’agit d’un compartiment du marché monétaire destiné au financement des gros investissements.
+11. Banque de Développement des Etats de l’Afrique Centrale
+12. Produit Intérieur Brut.
+8
+
+--- Page 10 ---
+Graphique 2 – Politique monétaire et inflation dans la CEMAC
+Graphique 3 – Politique monétaire et stabilité monétaire externe dans la CEMAC (2001T1-2016T4)
+IlestcependantpossiblequelespolitiquesaccommodantesmisesenplaceparlaBEAC
+aient eu un impact.
+Théoriquement, pour mettre en exergue la relation entre la politique monétaire, et
+stabilité externe, l’on fait généralement recours à « l’approche monétaire de la balance
+des paiements » (Polak, 1957; Mundell, 1968; Frenkel et Johnson, 1976). Selon cette
+approche et en raison de la faible diversification des économies de la CEMAC, un assou-
+plissement des conditions de crédit à l’économie devrait se traduire à court terme par une
+augmentation des dépenses d’importation qui devrait entrainer la baisse des réserves de
+change de la Banque Centrale. Ce cadre met en lien trois variables : la masse monétaire,
+les actifs intérieurs nets et les réserves de change, suivant la relation ci-après.
+9
+
+--- Page 11 ---
+Variation de la masse monétaire − Variation des actifs intérieurs nets
+= Variation des réserves de change (1)
+Lavariationdesactifsintérieursnetsestmatérialiséeiciparl’augmentationdescrédits
+à l’Etat et au secteur privé. En d’autres termes, une augmentation non contrôlée du crédit
+intérieur est susceptible d’entrainer une chute des réserves et compromettre par là même,
+la capacité de la Banque Centrale à assurer la stabilité externe de la monnaie.
+Uneconclusionsimilairepeutêtretiréed’uneautreapprochethéorique:celledel’écart
+« Epargne-Investissement » en économie ouverte, et généralement utilisée par le FMI
+pour l’analyse des déséquilibres extérieurs. Elle met en relation l’épargne, l’investissement
+et le solde de la Balance des transactions courantes suivant la relation ci-après :
+Epargne intérieure −Investissements intérieurs
+= Solde de la Balance des transactions courantes (2)
+Ici, un durcissement de la politique monétaire (relèvement du taux directeur) peut dé-
+courager les investissements et améliorer la stabilité monétaire externe. Cette relation met
+également en exergue le fait que dans un environnement où l’épargne est faible et où l’on
+veutrelancerl’investissementpourstimulerlacroissance,laconséquenceimmédiateestun
+creusement du déficit extérieur courant et donc, une érosion des réserves de change. Ainsi,
+pour atténuer l’effet de dilution des réserves, les ressources nécessaires pour couvrir l’ex-
+cédent de l’investissement intérieur par rapport à l’épargne domestique doivent provenir
+de l’étranger. En d’autres termes, il faudrait recourir à une stratégie optimale d’emprunts
+libellés en devises (à l’épargne extérieure) pour relancer l’investissement domestique sans
+dégrader l’équilibre extérieur et contribuer ainsi à stabiliser la situation monétaire de la
+CEMAC. Le recours des Etats de la CEMAC aux financements du FMI13 au cours de
+l’année 2017 témoigne assurément de ce désir de renforcer la stabilité monétaire externe.
+Au regard de ces aspects théoriques, on peut comprendre pourquoi la BEAC a entamé
+un durcissement de sa politique monétaire depuis le début de l’année 2017. En effet, face à
+la chute des réserves de changes14 dans la sous-région, la BEAC a entamé depuis le CPM
+de mars 2017 un resserrement de sa politique monétaire (augmentation du taux directeur,
+suppression des avances aux Etats) justifié par l’incidence négative sur la dynamique des
+réserves de change que pourrait avoir la politique monétaire accommodante appliquée
+jusque-là.
+Une politique monétaire trop expansionniste pour des économies en régime de change
+13. Fonds Monétaire International
+14. Entre 2015 et 2017, le stock de réserves de changes de la BEAC s’est fortement dégradé passant
+de 6241,52 milliards de F CFA en 2015 à 2983,60 milliards de FCFA, soit une baisse nette de près de
+3257,91 milliards de FCFA.
+10
+
+--- Page 12 ---
+fixe, faiblement diversifiées et extraverties comme celles de la CEMAC, se traduit assuré-
+mentparuneérosiondesréservesdechanges.Letableau1ci-dessous,présentel’estimation
+des pertes en réserves de change découlant des avances accordées aux Etats d’une part et
+aux crédits à l’économie d’autre part. Ces estimations ont été obtenues sur la base du mo-
+dèle de Polak (1957). De ce modèle peut être dérivé un coefficient dénommé « Coefficient
+de Polak » permettant de mesurer la perte des réserves de change due à la croissance des
+crédits accordés à l’économie (voir méthode de calcul en annexe 1).
+L’analyse du tableau 1 révèle ainsi que sur la période 2006 à 2016, les crédits à l’éco-
+nomie ont augmenté de près de 6218,11 milliards de FCFA. Entrainant ainsi une perte
+de réserves de change au niveau de la CEMAC d’environ 3419,96 milliards. Les avances
+accordés par la BEAC aux Etats ont quant à eux entrainé une perte en réserves de près
+de 1209.44 milliards sur la même période. La période de mise en œuvre de la politique
+monétaire accommodante a donc été marquée par des sorties de devises importantes. Par
+ailleurs,prèsde26%despertesenréservesestimputableauxavancesaccordéesauxEtats.
+Tableau 1 – Estimation des baisses des avoirs extérieurs dues aux avances accordées aux États de
+2006 à 2016
+CMR RCA Congo Gabon GE* Tchad CEMAC
+Moyennecoef.Polak(2006-2016) 0,49 0,45 0,58 0,46 0,7 0,65 0,55
+AvancesdirectsdelaBEACauxEtats
+(MilliardsFCFA) 266 18,49 572 452 610,36 279,97 2198,82
+Pertedesréservesliéesauxavances
+(MilliardsdeFCFA) 131,37 8,27 334,2 209,98 427,68 180,86 1209,44**
+Variationdescréditsàl’économie
+(2006-2016) 2032,45 79,28 1142,25 613,35 1020,84 497,62 6218,11
+Pertedesréservesliéesauxcréditsàl’économie
+(MilliardsdeFCFA) 1117,85 43,6 628,24 337,34 561,46 273,69 3419,96
+Source:Estimationdesauteurs
+2 Méthodologie et données
+Pour apprécier l’incidence de la politique monétaire sur la stabilité monétaire et la
+croissance dans la CEMAC, nous estimons pour chacun des pays de la CEMAC et pour
+les données communautaires de la sous-région, un modèle VAR Structurel (SVAR) à 5
+endogènes de fréquence trimestrielle : le taux de croissance du prix du pétrole (DOILP),
+le taux de croissance des réserves de change (GRES), le taux de croissance du PIB réel
+(GPIB), le taux d’inflation en glissement annuel (INFL) et un indicateur de politique
+monétaire (le Taux d’Intérêt d’Appel d’Offres (TIAO)15 et, alternativement, le taux de
+croissance de la base monétaire GBM16 ).
+Le modèle SVAR utilisé pour chaque pays de la CEMAC ainsi que pour les données
+sous régionales agrégées peut être spécifié comme suit :
+15. Principal taux directeur de la politique monétaire de la BEAC.
+16. Eneffet,labasemonétaireconstitueuninstrumentdepolitiquemonétairepourlaBEACencesens
+que celle-ci l’influence directement dans le cadre de la détermination des objectifs de refinancement du
+systèmebancaire.Ils’avèredonctoutaussipertinentd’appréciersonincidencesurlastabilitémonétaire.
+11
+
+--- Page 13 ---
+p
+A z = α+X A z +ε (3)
+0 t i t−1 t
+i=1
+Oùlevecteurdesvariablesendogènesz = (DOILP ,GRES ,GPIB ,INFL ,TIAO )0,
+t t t t t t
+ε 17 renvoie à un vecteur d’innovations non-corrélées représentant les chocs structurels du
+t
+modèle.
+La matrice A est telle que le vecteur des résidus de l’estimation de la forme réduite
+0
+du modèle VAR estimé avec les endogènes z et noté e peut être décomposé de sorte que
+t t
+e = A−1ε .
+t 0 t
+On a ainsi :
+ eDOILP   εoil 
+t t
+ eGRES   εres 
+ t   t 
+e t ≡    eG t PIB    = A− 01   εa td   
+ eINFL   εas 
+ t   t 
+eTIAO εpolmon
+t t
+Avec oil, le choc sur le prix du pétrole, res, un choc idiosyncratique sur les réserves
+de change18 , ad le choc de demande, as le choc d’offre, polmon le choc de politique
+monétaire.
+Afin de déterminer la matrice A , nous allons suivre l’approche de Binning (2013), qui
+0
+permet d’identifier les chocs structurels en imposant des restrictions à la fois des signes et
+de zéros, à court terme et à long terme. Cette approche, plus flexible pour l’identification
+des chocs d’un SVAR, propose un cadre unifié pour l’identification des chocs dans un mo-
+dèle VAR sous-identifié. Cette approche permet de lever la contrainte d’une imposition
+d’un nombre précis de restrictions par les zéros lors du processus d’identification des chocs
+(Binning, 2013, p.2). Il s’agit d’une évolution par rapport à la méthode de Rubio-Ramirez
+and al. (2010), qui proposent un algorithme d’identification des chocs à court terme et
+à long terme pour les modèles exactement identifiés. L’approche de Binning (2013) per-
+met ainsi une plus grande liberté dans la définition des chocs, comme la combinaison de
+restrictions sur les délais d’impact, sur les signes ou l’amplitude attendue de la réaction
+d’une variable donnée à un choc. Cette méthode d’identification a été implémentée sur le
+logiciel RISE Toolbox.
+La présentation du schéma d’identification des chocs de notre modèle est présentée au
+Tableau 2 ci-dessous :
+17. Lorsque nous utilisons la base monétaire comme indicateur de politique monétaire, le vecteur des
+variables endogènes z =(DOILP ,GRES ,GPIB ,INFL ,GBASE )0, ε
+t t t t t t t
+18. Unchocnedépendantpasd’unevariationd’unedesvariablesdusystème.Parexemple,unchocsur
+le commerce; l’endettement extérieur. Peuvent aussi être rangés comme autres facteurs, le rapatriement
+desréservesdechange,quiestunenjeuparticulièrementimportantpourlastabilitémonétaireextérieure
+dans la CEMAC.
+12
+
+--- Page 14 ---
+Tableau 2 – Schéma d’identification des chocs structurels du modèle SVAR
+Type de restrictions Variable Impactée Délai d’impact (trimestre) Choc Signe
+DOILP 0 oil +
+GRES 0 res +
+GPIB 0 ad +
+GPIB 0 as +
+INF 0 ad +
+Signes INF 0 as -
+INF 1 polmon -
+TIAO 0 polmon +
+DOILP 0 ad 0
+DOILP 0 as 0
+DOILP 0 res 0
+DOILP 0 polmon 0
+GRES 0 as 0
+Court terme GRES 0 polmon 0
+Zéros GPIB 0 polmon 0
+INF 0 polmon 0
+Long terme - - - -
+* Source : construction des auteurs. Les signes « + » et « -» renvoient aux sens de
+l’incidence du choc sur la variable impactée.
+Cette spécification des chocs reprend les résultats théoriques du modèle offre agrégée
+- demande agrégée où les chocs d’offre induisent un accroissement de la production et une
+baisse de l’inflation et les chocs de demande un accroissement conjoint de la demande
+et de l’inflation à court terme19 . Par ailleurs, nous avons spécifié un choc de politique
+monétaire qui a une influence retardée sur l’inflation, ce qui permet de prendre en compte
+les délais dans la transmission de la politique monétaire. Cette approche est recommandée
+par Estrella (2015) non seulement pour se conformer aux faits stylisés qui montrent que la
+politique monétaire ne réagit qu’après un délai sur l’activité et les prix (Friedman, 1961;
+Bernanke et Gertler, 1995; Svensson, 1997; Baltini et Nelson, 2001) mais permet égale-
+ment de s’affranchir du problème de « Price Puzzle » observé au cours de nos analyses. En
+effet Estrella (2015), suggère de résoudre le problème de « Price Puzzle » en introduisant
+une restriction prenant en compte l’effet retardé de la politique monétaire sur l’économie.
+Ainsi, nous avons identifié le choc de politique monétaire en imposant un délai dans sa
+transmission à l’inflation et à l’activité, et en imposant une contrainte de signe sur son
+effet retardé sur l’inflation (Tableau 2).
+Le modèle spécifié à l’équation 1 suppose l’endogénéité de l’ensemble des variables du
+modèle.Cettehypothèseimpliquequelesvariablesdomestiquestellesqueletauxdirecteur
+de la Banque Centrale auraient une influence sur le cours du pétrole. Les pays de la
+CEMAC étant des petites économies ouvertes, cette éventualité n’est vraisemblablement
+19. Toutefois, à la différence du modèle Offre agrégée-Demande Agrégée, nous n’avons pas imposé de
+restrictions quant à l’effet de long terme des chocs d’offre et de demande sur la croissance. Ainsi, seules
+les implications à court terme du modèle ont été considérées.
+13
+
+--- Page 15 ---
+pas réaliste.
+Pour résoudre ce problème, nous avons imposé des restrictions visant à annuler les
+coefficients de retard associés aux variables endogènes dans l’équation du prix du pétrole
+de la forme réduite du modèle VAR. Ce faisant, aucune variable du système ne pourra
+impacter le prix du pétrole.
+L’estimation de l’équation (1) quant à elle s’est effectuée suivant une approche bayé-
+sienne. Elle a été préférée à l’approche classique parce qu’elle permet d’adjoindre à l’ana-
+lyse, l’information connue a priori (les priors) sur le comportement des variables étudiées
+dans le processus d’estimation des paramètres, ce qui permet de combiner à la fois l’ex-
+périence de l’analyste et l’information contenue dans les données (Hamilton, 1994). La
+différence fondamentale entre l’estimation classique et bayésienne réside sur le traitement
+des paramètres à estimer. Ainsi, là où l’approche classique ne fera reposer l’estimation que
+sur l’information contenue dans les données, l’approche bayésienne , elle, repose sur le fait
+que la distribution des paramètres à estimer sera proportionnelle à leur vraisemblance au
+regard de l’information contenue dans les données et à l’information a priori, formulée par
+l’analyste (hypothèses sur les distributions de probabilité des paramètres). Formellement,
+soit :
+z = c+β z +β z +···+β z +e (4)
+t 1 t−1 2 t−2 p t−p t
+La forme réduite du VAR structurel spécifié en (1). En posant X le vecteur de format
+t
+[(np+1)×1] des variables contenant un terme constant ainsi que les retards des variables
+endogènes, on a :
+ 1   c 
+ z   β 
+ t−1   1 
+X t ≡   z t−2  , De même en posant Π ≡   β 2  
+   
+ :   : 
+   
+z β
+t−p p
+Le modèle 4 peut se réécrire sous forme matricielle :
+z = Π0X +e (5)
+t t t
+Ici, les paramètres inconnus sont Π et Ω , où Ω ≡ E(e e0) désigne la matrice de
+t t
+variance-covariance des résidus. Ainsi, la distribution a posteriori des paramètres à esti-
+mer, peut être formulée suivant le théorème de Bayes :
+F(z | Π,Ω)×P(Π,Ω)
+f(Π,Ω | z ) = t (6)
+t F(z )
+t
+14
+
+--- Page 16 ---
+Où F(z | Π,Ω) renvoit à la vraisemblance du modèle, P(Π,Ω) le prior ou la distribu-
+t
+tion de probabilité des paramètres à estimer issue des informations a priori de l’analyste
+et F(z ) la densité des données ou vraisemblance marginale.
+t
+Dans le cadre de nos travaux, nous avons eu recours au prior de Minnesota pour
+formaliser l’introduction de l’information a priori dans les modèles estimés. Celui-ci in-
+corpore au modèle la croyance selon laquelle les variables sont stationnaires ou non. Plus
+précisément, le prior de Minnesota permet d’introduire l’information selon laquelle les
+variables composant le vecteur suivent un processus autorégressif d’ordre 1 (AR(1)) ou
+une marche aléatoire.
+Le choix du prior de Minnesota se justifie entre autres dans ce travail par l’incorpora-
+tion du TIAO en niveau dans notre modèle. Celui-ci possédant une tendance baissière sur
+l’essentiel de la période d’étude, il est par conséquent nécessaire lors de l’estimation de
+prendre en compte cette non stationnarité. C’est ainsi qu’il a été affecté une valeur égale
+à 1 pour le coefficient relatif au TIAO dans le vecteur de paramètres du prior et 0,9 pour
+les autres variables du modèle. Enfin, en ce qui concerne le vecteur des hyperparamètres
+Λ20 relatif à la spécification de la matrice de variance-covariance du prior, nous lui avons
+attribuédesvaleursgénéralementutiliséesdanslalittérature(voirCanova,2007),l’hyper-
+paramètre utilisé prend la valeur 0,1, traduisant une certaine certitude dans la croyance
+relative au comportement des variables étudiées. Ainsi, on a :
+ λ   0,1 
+1
+ λ   0,5 
+Λ =  2  =  
+ λ   1 
+ 3   
+λ 100
+4
+Enfin, nous avons simulé les distributions postérieures des paramètres à travers un ré-
+échantillonnageparlaméthodeMarkovChainMonteCarlo21 .Ainsi,nousreprésentonsla
+distribution de la décomposition de la variance ainsi que la décomposition historique avec
+intervalles de crédibilité22, ce qui permet d’apprécier le degré d’incertitude de l’incidence
+des différents chocs identifiés sur les comportements des variables étudiées.
+3 Résultats et discussion
+Dans le cadre de nos travaux, nous avons estimé trois (03) versions du modèle 3 :
+20. Ces hyperparamètres permettent de formaliser le degré de certitude avec lequel on estime que les
+variables suivent ou non l’hypothèse de stationnarité. L’hyperparamètre λ contrôle la précision générale
+1
+duprioretunevaleurfaibletraduitdavantagedecertitudequantaucomportementsupposédelavariable.
+λ contrôle le niveau d’interaction entre les variables du modèle. Plus il est faible, moins on suppose
+2
+d’interactionentrelesvariables.λ traduitledegréaveclequelonsupposequelescoefficientsdesretards
+3
+supérieurs à 1 tendent vers 0. Enfin, plus λ est faible, plus on suppose que l’influence du terme constant
+4
+dans la dynamique des variables dépendantes est faible.
+21. Calibré pour effectuer 1000 rééchantillonnages.
+22. Pour des seuils de 30%, 50%, 68% et 90%.
+15
+
+--- Page 17 ---
+— uneversiondanslaquellenousn’avonspasimposéderestrictionslinéairessurl’effet
+des autres variables du modèle sur le prix du pétrole;
+— une version améliorée dans laquelle nous imposons une restriction supplémentaire
+indiquant qu’aucune variable du modèle ne peut influencer les prix du pétrole.
+Nous procédons dans cette version à une estimation classique; et
+— une version inspirée de la précédente, dans laquelle nous avons imposé des restric-
+tions sur la dynamique du prix du pétrole et procédé à une estimation bayésienne
+avec prior de Minnesota.
+Nous présentons ici les résultats de l’analyse bayésienne, car faisant l’objet principal
+de notre étude.
+Par ailleurs, ils présentent des résultats plus cohérents en ce sens qu’un choc sur les
+variables domestiques (le TIAO par exemple), n’influence pas la dynamique du prix du
+pétrole, contrairement à l’estimation classique sans restrictions (voir annexe).
+Les résultats de l’analyse classique avec restrictions et de l’analyse bayésienne ne
+semblent pas contradictoires au regard de l’analyse de la décomposition de la variance
+et de décomposition historique23. Nous avons toutefois observé un problème de « Price
+puzzle » dans l’estimation classique que nous avons résolu en imposant des restrictions de
+signe sur l’impact du taux d’intérêt sur l’inflation24 (voir le Tableau 2 ).
+3.1 Effets des chocs de politique monétaire dans les pays de la
+CEMAC
+Les chocs de politique monétaire seront appréciés à travers les chocs sur le princi-
+pal taux d’intérêt directeur de la BEAC (le TIAO) d’une part, et les chocs sur la base
+monétaire d’autre part.
+Globalement, il ressort que la stabilité monétaire semble plus affectée par les chocs
+de politique monétaire que la croissance économique. Par ailleurs, l’action sur la base
+monétaire semble plus efficace que celle sur le taux d’intérêt directeur. Ce résultat se
+rapproche de ceux obtenus par Bikai et Mbohou (2016) où ils mettent en évidence la
+sensibilité de la base monétaire aux fluctuations de l’activité et des prix et montrent la
+supériorité de l’instrument quantitatif par rapport au taux d’intérêt.
+Les résultats par pays (voir annexes) semblent toutefois montrer une hétérogénéité
+dans les fonctions de réponses, spécialement en ce qui concerne leurs amplitudes.
+23. Les résultats des autres estimations sont par ailleurs disponibles sur demande.
+24. L’ensemble des estimations est disponible à la demande.
+16
+
+--- Page 18 ---
+3.1.1 Chocs sur le taux d’intérêt
+A l’échelle de la sous-région, les chocs sur le taux d’intérêt semblent avoir des effets
+significatifssurl’inflationetlesréserves(Graphique4).Toutefois,l’effetsurlesprixsemble
+plus faible que l’effet sur les réserves.
+En ce qui concerne la stabilité externe, les chocs positifs sur le taux directeur affectent
+positivement la dynamique des réserves de change. Bien que cet effet soit faible à court
+terme, son importance s’accroit à moyen/long terme. Une augmentation du taux directeur
+de 0,1% a une incidence proche de 1% en valeur médiane à partir du deuxième trimestre.
+Cet effet reste persistant et proche de 3% à moyen/long terme.
+L’effet du TIAO sur la croissance semble quant à lui très faible et non significatif.
+Graphique 4 – Représentation de la distribution des fonctions de réponses impulsionnelles suite à un
+choc sur le TIAO - Espace Géographique : CEMAC
+Source : Estimation des auteurs. Les intervalles de crédibilité sont représentés par les bandes bleues. De
+la bande la plus foncée à la plus claire nous avons respectivement les intervalles de crédibilité aux seuils
+de 30%, 50%, 68% et 90%.
+Ces résultats obtenus à l’échelle de la CEMAC se répliquent avec une certaine régula-
+17
+
+--- Page 19 ---
+rité dans les différents pays de la CEMAC.
+Au Cameroun, l’effet d’une augmentation du TIAO de 0,1 point engendrerait une
+baisse de 0,7% du taux d’inflation en valeur médiane25. L’effet serait significatif, mais
+d’amplitude relativement variable et il s’estomperait au bout de huit trimestres environ.
+Cette dynamique est sensiblement identique au Gabon et en Guinée Equatoriale. Dans
+le cas de Centrafrique et du Congo, l’effet serait plus prononcé, avec une baisse de 2%
+et 1% respectivement. Néanmoins une certaine incertitude demeure quant à ces derniers
+résultats. Le Tchad est le pays où l’incidence des chocs sur le TIAO sur l’inflation est
+la moins prononcée. Ce phénomène peut être expliqué par la nature de l’inflation, assez
+marquée par l’évolution des conditions climatiques affectant le rendement (et donc l’offre)
+des produits agricoles.
+Concernant l’effet du TIAO sur les réserves de change, le Gabon semble être le pays
+où il est le plus marqué, suivi de la Guinée Equatoriale et du Tchad. L’impact y serait
+maximum au bout de trois trimestres et relativement persistant dans le temps. Le déve-
+loppement financier relativement important (comparé à d’autres pays de la sous-région)
+pourrait être une explication de ce résultat au Gabon, comme le suggèrent les travaux de
+Davoodi et al. (2013) qui pensent que le canal du taux est plus significatif dans les pays
+ayant un système financier plus développé. Le cas du Tchad et de la Guinée Equatoriale
+semble par contre moins en phase avec ces résultats, ce qui soulève des interrogations
+quant aux mécanismes de transmission des impulsions monétaires à l’évolution de la sta-
+bilité monétaire externe dans ces pays. Le Cameroun, le Congo et la Centrafrique quant à
+eux ne semblent pas voir la stabilité monétaire externe sensiblement affectée par les chocs
+sur le taux directeur. Cette situation mettrait ainsi en lumière une hétérogénéité dans la
+sensibilité de la stabilité monétaire extérieure aux mouvements du taux directeur dans la
+CEMAC.
+Au total, en dehors de l’effet marqué des chocs de politique monétaire sur les réserves
+de change, il semble se dégager que les chocs sur le taux directeur de la BEAC n’auraient
+pas d’effets significatifs sur la croissance économique mais un léger effet sur l’inflation, ce
+qui renforce l’idée d’une faiblesse des canaux de transmission de la politique monétaire à
+l’activité réelle, notamment le canal du taux d’intérêt. Ce résultat corrobore ceux obtenus
+par Fielding, 1994; Saxegaard, 2006; Kamgna et Ndambendia, 2008; Montiel et al. 2012;
+Bikai et Kenkouo, 2015.
+3.1.2 Chocs sur la base monétaire
+Les résultats obtenus montrent un effet plus significatif des chocs sur la base monétaire
+par rapport aux chocs sur le taux d’intérêt. Au niveau global, on note qu’une augmen-
+tation de 3% de la base monétaire se traduirait par une hausse de l’inflation de 0.4% à
+l’impact, et cet effet se dissiperait au bout de cinq trimestres. Néanmoins, bien que l’in-
+cidence semble significative, nous observons beaucoup d’incertitude quant à l’amplitude
+25. Valeur prise par la fonction de réponse impulsionnelle telle qu’elle divise la distribution des valeurs
+probablesdesfonctionsderéponsesimpulsionnellesclasséesparordrecroissantendeuxgroupesdemême
+densité. Sauf mention contraire, les valeurs avancées dans le texte font référence aux valeurs médianes.
+18
+
+--- Page 20 ---
+des effets (Graphique 5). Nous observons également qu’un accroissement de la base moné-
+taire entraine une dégradation de même ampleur des réserves de change, ce qui corrobore
+les analyses de l’approche monétaire de la balance des paiements (voir équation 1 de la
+section 1). Les résultats par pays (voir annexes) corroborent ces analyses.
+Graphique 5 – Représentation de la distribution des fonctions de réponses impulsionnelles suite à un
+choc sur la base monétaire - Espace Géographique : CEMAC
+Source : Estimation des auteurs. Les intervalles de crédibilité sont représentés par les bandes bleues. De
+la bande la plus foncée à la plus claire nous avons respectivement les intervalles de crédibilité aux seuils
+de 30%, 50%, 68% et 90%.
+L’incidence de la base monétaire dans chaque pays suit quasiment le même schéma
+que celui relatif à la sous-région dans son ensemble, ce qui suggère une certaine homo-
+généité dans la réaction aux chocs monétaires quantitatifs. Ce résultat corroborerait en
+outre l’idée selon laquelle le système financier, notamment le système bancaire, serait
+plus sensible aux modifications des instruments quantitatifs (limites de refinancement et
+réserves obligatoires) qu’aux modifications du taux d’intérêt dans la CEMAC. Cette si-
+tuation peu probablement découler du fait que durant la période sous revue, les banques
+étaient essentiellement surliquides et n’intégraient pas forcément le taux directeur de la
+Banque Centrale dans la détermination du taux de base bancaire (Mounkala, 2013). Par
+ailleurs, comme le suggèrent Bikai et Kenkouo (2015), le canal du crédit bancaire serait
+19
+
+--- Page 21 ---
+plus opérant dans la CEMAC, ce qui expliquerait que les chocs sur la base monétaire
+auraient relativement plus d’effets que l’action sur le taux directeur.
+3.2 Décomposition de la variance des variables d’intérêt
+3.2.1 Cas du TIAO comme instrument de politique monétaire
+L’analyse de la décomposition de la variance des variables d’intérêt de notre étude
+semble corroborer les résultats obtenus dans la littérature. En effet, l’inflation semble être
+influencée par les chocs de politique monétaire à un peu plus de 20% au niveau de la
+CEMAC, ce qui va dans le même sens que les résultats obtenus par Bikai, Batoumen et
+Fossouo (2016) (Graphique 6). Les chocs d’offre semblent également exercer une influence
+prépondérante dans l’explication de l’inflation, posant des défis pour la Banque Centrale
+dans l’atteinte de son objectif de stabilité monétaire interne. En effet, la BEAC, en agis-
+sant sur son taux directeur, vise essentiellement à influencer la demande agrégée. Si l’on
+considère que la dynamique de l’inflation est essentiellement dictée par des chocs d’offre,
+il pourrait s’avérer par conséquent difficile pour la Banque Centrale d’agir sur la stabilité
+des prix avec son taux directeur. Par ailleurs, nous pouvons noter que les chocs sur le prix
+du pétrole semblent ne pas beaucoup influencer l’inflation à court terme dans la CEMAC,
+ce qui rejoint les résultats de Kenkouo (2015).
+En ce qui concerne la dynamique des réserves de change, celle-ci semble principale-
+ment influencée par les chocs de demande et les chocs sur les réserves. Ce résultat peut
+s’expliquer par le caractère extraverti de la demande intérieure de la CEMAC, qui exer-
+cerait des pressions importantes sur les avoirs extérieurs. A moyen-long terme, les chocs
+de politique monétaire sont de plus en plus perceptibles sur la dynamique des réserves de
+change.
+Lacroissanceéconomiquequantàellenesemblepasêtreimpactéeparladynamiquedu
+taux directeur. Les chocs d’offre, les chocs sur le taux de couverture (Commerce extérieur,
+endettement extérieur, etc.) et les chocs de demande sont ceux qui contribueraient le plus
+à la dynamique de la croissance dans la CEMAC. Les chocs sur le prix du pétrole semblent
+donc ici avoir un impact indirect sur le PIB de la CEMAC. Ce résultat tend à montrer la
+nécessitéd’améliorerlaproductivitédeséconomiespoursoutenirlacroissanceéconomique
+dans la sous-région d’une part, et la faible opérabilité du canal du taux d’intérêt d’autre
+part.
+20
+
+--- Page 22 ---
+Graphique 6 – Décomposition de la variance des variables d’intérêt (CEMAC)
+Source : estimation des auteurs
+Lesrésultatsobtenussemblentrelativementhomogènesdanslespaysdelasous-région,
+bien que le modèle mette en lumière une certaine incertitude dans la contribution rela-
+tive des chocs d’offre, de demande et de politique monétaire dans l’explication de l’infla-
+tion dans les différents pays (voir annexe). Egalement, il semble se dégager des résultats
+une certaine homogénéité dans l’explication de la dynamique des réserves de change, qui
+semble être essentiellement expliqué par des chocs de demande et des chocs sur les ré-
+serves. Enfin, la contribution des chocs de politique monétaire sur la croissance serait très
+faible dans l’ensemble des pays de la sous-région, traduisant une certaine homogénéité
+dans la faible opérabilité de la transmission des chocs sur le taux d’intérêt à la croissance
+dans la sous-région. Ce résultat peut s’expliquer par le faible développement financier de
+la CEMAC, comme suggéré par les travaux de Peiris et Saxegaard (2007) ou de Mishra,
+Montiel et Spilimbergo (2012).
+3.2.2 Cas de la base monétaire comme instrument de politique monétaire
+En ayant recours à la base monétaire comme instrument d’appréciation des chocs
+de politique monétaire dans la CEMAC, il apparait que l’incidence sur les objectifs de
+politique monétaire est plus marqués, ce qui corrobore l’hypothèse d’une plus grande
+21
+
+--- Page 23 ---
+efficacitédel’actionsurlesquantitésplutôtquesurletauxdanslaconduitedelapolitique
+monétaire de la BEAC (Graphique 7). L’action sur la base monétaire aurait ainsi une
+plus grande incidence sur la dynamique des réserves et de l’inflation et l’activité dans la
+CEMAC. Par ailleurs, l’ampleur des chocs de politique monétaire sur la croissance reste
+très faible dans la sous-région. Ce résultat a également été observé dans le cas du taux
+d’intérêtetsuscitetoutefoisdesinterrogationsquantàlal’incidencevéritabledesconcours
+aux banques sur la croissance économique, et nécessite éventuellement des analyses plus
+approfondies.
+Graphique 7 – Décomposition de la variance des variables d’intérêt - Espace géographique : CEMAC
+- Base monétaire comme instrument de politique monétaire
+Source : Estimation des auteurs.
+3.3 Décomposition historique des variables d’intérêt
+L’analyse de la décomposition historique permet d’apprécier la contribution cumulée
+des différents chocs spécifiés à la dynamique historique des variables étudiées.
+22
+
+--- Page 24 ---
+3.3.1 Prise en compte de l’instrument du taux d’intérêt
+Le Graphique 8 présente les contributions relatives des différents chocs au niveau de la
+CEMAC. On peut ainsi noter que la dynamique des réserves de change a été fortement et
+négativement affectée à partir de 2014 par les chocs sur le prix du pétrole et les chocs de
+demande, illustrant bien la dépendance de la stabilité monétaire externe de la sous-région
+au cours mondial de l’or noir.
+L’inflationquantàelleaétérelativementvolatiledanslasous-région.Sadécomposition
+historiquemontrequeleschocsauraientétéinfluencésparlapolitiquemonétaire,bienque
+le graphique 29 nuance son importance dans l’explication de la dynamique observée. Sur
+la fin de période, l’inflation semble connaître une certaine modération par la combinaison
+de chocs négatifs sur la demande et le prix du pétrole.
+Enfin, il est à noter que les chocs de politique monétaire ne semblent pas avoir sub-
+stantiellement affecté la croissance économique sur la période sous-revue, ce qui pourrait
+traduire une certaine inefficacité de la politique d’assouplissement du taux d’intérêt me-
+née depuis la seconde moitié des années 2000. Toutefois, on ne pourrait conclure sur cette
+base à une inefficacité complète des impulsions monétaires sur la croissance, principa-
+lement du fait que la période étudiée est caractérisée par une certaine surliquidité du
+système bancaire. Celle-ci rendant les banques relativement insensibles aux modifications
+de taux d’intérêt, elle pourrait expliquer, entre autres, la dynamique observée26.
+26. Uneanalysedeladynamiquedel’incidencedelapolitiquemonétairerestrictivemenéedepuis2017
+serait à ce titre fort intéressante.
+23
+
+--- Page 25 ---
+Graphique 8 – Décomposition historique des variables étudiées - CEMAC- TIAO comme instrument
+de politique monétaire
+Source : Estimation des auteurs
+3.3.2 Prise ne compte de l’instrument quantitatif
+En considérant l’influence de la dynamique de la base monétaire, on peut apprécier
+l’incidence sur l’inflation et les réserves de change de l’action de la Banque Centrale sur les
+quantités offertes dans la sous-région (Graphique 9). Ainsi, on peut noter que la politique
+d’assouplissement monétaire adoptée dès la fin des années 2000 a en moyenne contribué
+négativement à la dynamique des réserves de change et exercé, bien qu’en des proportions
+moindres,despressionsinflationnistesdanslasous-région.Enparticulier,onpeutobserver
+que jusqu’en 2014, la bonne tenue des cours du pétrole a assez bien contrebalancé l’érosion
+des réserves induites par la politique monétaire accommodante dans la sous-région. La
+conjugaison, dès le second semestre 2014, d’un prolongement de cette politique monétaire
+avec la chute des cours du pétrole a fortement contribué à dégrader la stabilité monétaire
+externe dans la CEMAC. Par ailleurs, la pression de la demande semble également avoir
+joué un rôle non négligeable dans l’érosion des réserves de change dans la CEMAC. La
+demande intérieure ne s’est pas immédiatement ajustée après la chute du cours du baril
+24
+
+--- Page 26 ---
+de pétrole et a contribué à dégrader la stabilité monétaire externe27.
+Ce résultat met en exergue les contraintes pesant sur la Banque Centrale dans l’at-
+teinte de son objectif de stabilité monétaire externe et est riche d’enseignement quant à
+la conduite et la réussite de la politique monétaire restrictive menée par la BEAC depuis
+2017. En effet, la pression sur les réserves de change exercée par la demande intérieure,
+essentiellement extravertie, peut potentiellement nuire à l’efficacité de la politique mo-
+nétaire restrictive menée par la BEAC depuis le début de l’année 2017 pour défendre la
+stabilité monétaire externe de la sous-région. Les Etats devraient donc songer à diver-
+sifier davantage leurs économies afin de développer les structures productives locales et
+substituer progressivement les importations consommatrices de réserves de change.
+27. Des mesures budgétaires restrictives ont été adoptées par différents Etats de la CEMAC dès 2017.
+Ainsi, en 2017, le Congo a réduit son budget de 27% par rapport à 2016. Au Tchad, les dépenses budgé-
+tairessontpasséesde1455milliardsdeFCFAen2016à936milliardsdeFCFAen2017(loisdesfinances),
+soitunebaissed’environ35%.LaGuinéeEquatoriale,quiatoutefoisréagipluspromptementenajustant
+ses dépenses de fonctionnement dès 2015, a abaissé des dépenses publiques de près de 23% entre 2016 et
+2017 (source BEAC).
+25
+
+--- Page 27 ---
+Graphique 9 – Décomposition historique des variables étudiées - CEMAC - base monétaire comme
+indicateur de politique monétaire
+Source : estimation des auteurs
+Conclusion
+L’objectif de ce travail était d’apprécier l’incidence de la politique monétaire sur la
+stabilité monétaire (interne et externe) et la croissance économique dans la CEMAC.
+Pour y parvenir, nous avons eu recours à l’estimation bayésienne de modèles VAR
+structurels (BSVAR) sur les données individuelles de chaque pays et sur les données de
+la sous-région globale. L’identification des chocs du modèle est inspirée des travaux de
+Binning (2013) qui permettent de combiner les restrictions de signes et de zéros tant à
+court terme qu’à long terme dans le cadre de modèles VAR structurels sous-identifiés.
+26
+
+--- Page 28 ---
+Dans notre travail, nous avons spécifiés 5 chocs : un choc de demande, un choc d’offre, un
+choc sur le prix du pétrole, un choc sur les réserves de change et un choc sur la politique
+monétaire. Deux versions du modèle ont été estimées conformément aux instruments
+utilisés par la BEAC, l’une intégrant le taux directeur de la BEAC (le TIAO) comme
+instrument de politique monétaire, et l’autre intégrant la base monétaire.
+Plusieurs résultats clés se dégagent de nos travaux. Premièrement, il apparait que le
+canal du taux d’intérêt est limité dans la CEMAC et les chocs sur la base monétaire au-
+raient davantage d’incidence sur la stabilité monétaire que les chocs sur le taux directeur.
+Deuxièmement, les chocs de politique monétaire ne semblent pas exercer d’influence forte
+sur la croissance économique dans les différents pays de la CEMAC. Troisièmement, les
+chocs de demande semblent exercer une influence plus importante sur la dynamique de la
+stabilité monétaire externe que les chocs de politique monétaire.
+Ces résultats indiquent qu’une action sur la base monétaire serait plus efficace pour
+la BEAC qu’une action sur le taux d’intérêt afin d’atteindre ses objectifs de politique
+monétaire tant internes qu’externes. Toutefois, les contraintes que font peser la demande
+intérieuresurlastabilitémonétaireexternedanslasous-régionplaidentpourunemeilleure
+coordination des politiques monétaires et budgétaires et une plus grande diversification
+des économies.
+Références
+[1 ]Aghion,P.,Bacchetta,P.,&Banerjee,A.(2000):«CurrencyCrisesandMonetary
+Policy in an Economy with Credit Constraints », Working Paper, Study Center
+Gerzensee No. 00.07. Study Center Gerzensee.
+[2 ] Artus, P. (1986) : «Crises de balance des paiements, politique monétaire, controle
+des changes », Revue Economique, 37(4), pp.637-358.
+[3 ] Batini, N., & Nelson, E. (2001) : « The lag from monetary policy actions to
+inflation : Friedman revisited », International Finance, 4(1), pp.381-400.
+[4 ] BCE (Banque Centrale Européenne). (2006) : « The Accumulation of Foreign
+Reserves », Occasional Paper No. 43.
+[5 ] Berg, A., Charry, L., & Portillo, R. (2013) : « The Monetary Transmission
+Mechanism in the Tropics : A Narrative Approach », IMF Working Paper No.
+WP/13/197 », International Monetary Fund.
+[6 ] Bernanke, B. S., Boivin, J., & Eliasz, P. (2005) : « Measuring the Effects of Mo-
+netary Policy : A Factor Augmented Vector Autoregressive (FAVAR) Approach »,
+The Quarterly Journal of Economics, 120(1), pp.387-422.
+[7 ] Bernanke, B. S., & Gertler, M. (1995) : « Inside the Black Box : The Credit
+Channel of Monetary Policy Transmission », The Journal of Economic Perspec-
+tives, 9(4), pp.27-48.
+27
+
+--- Page 29 ---
+[8 ] Bikai, J. L., Batoumen, M. H., & Fossouo Kamga, A. (2016) : «Déterminants de
+l’inflation dans la CEMAC : le rôle de la Monnaie », BEAC Working Paper No.
+BWP 05/16 Yaoundé : BEAC.
+[9 ] Bikai, J. L., & Kenkouo, G.-A. (2015) : « Analyse et évaluation des canaux de
+transmission de la politique monétaire dans la CEMAC? : Une approche SVAR et
+SPVAR », BEAC Working Paper No. 2/2015, BEAC.
+[10 ] Bikai, J. L., & Mbohou Mama, M. (2016) : « Une fonction de réaction pour la
+Banque des Etats de l’Afrique Centrale dans un contexte de dominance budgé-
+taire», BEAC Working Paper No. 04/16, Banque des Etats de l’Afrique Centrale.
+[11 ] Binning, A. (2013) : « Underidentified SVAR Models : A framework for Combi-
+ning Short and Long-run Restrictions with Sign-Restrictions», Norges Bank Wor-
+king Paper No. 14/2013,
+[12 ] Blake, A., & Mumtaz, H. (2012) : « Applied Bayesian econometrics for central
+bankers », CCBS Technical Handbook No. 4, Bank of England.
+[13 ] Bonga-Bonga, L., & Kabundi, A. (2015) : « Monetary Policy Instrument and
+Inflation in South Africa : Structural Vector Error Correction Approach», MPRA
+Paper No. 63731,
+[14 ] Buigut, S. (2009) : « Monetary Policy Transmission Mechanism : Implications
+for the proposed East African Community (EAC) Monetary Union», Presented at
+the CSAE Conference.
+[15 ] Canova, F. (2007) : «Methods for Applied Macroeconomic Research». Princeton
+University Press.
+[16 ]Cheng,K.C.(2006):«AVARAnalysisofKenya’sMonetaryPolicyTransmission
+Mechanism : How Does the Central Bank’s REPO Rate Affect the Economy? »,
+IMF Working Paper No. WP/06/300, International Monetary Fund.
+[17 ] Chox, G. C., & Lin, A.-L. (1971) : « Best Linear Unbiaised Interpolation, Dis-
+tribution, and Extrapolation of Time Series by Related Series », The Review of
+Economics and Statistics, 53(4), pp.372-375.
+[18 ] Davoodi, H. R., Dixit, S., & Pinter, G. (2013) : «Monetary Transmission Mecha-
+nism in the East African Community : An Empirical Investigation», IMF Working
+Paper No. WP/13/39, International Monetary Fund.
+[19 ] Dimitrijevic, B., & Louvre, I. (2013) : «Essay on Monetary Policy and Economic
+Growth. Journal of Central Banking Theory and Practice », 1, pp.111-138.
+[20 ]Estrella,A.(2015):«ThePricePuzzleandVARIdentification»,Macroeconomic
+Dynamics, 19, pp.1880-1887.
+[21 ] Fielding, D. (2004) : « The characteristics of macroeconomic shocks in the CFA
+Franc zone », Journal of African Economies, 13, pp.488-517.
+28
+
+--- Page 30 ---
+[22 ] Friedman, M. (1961) : «The lag effect of Monetary Policy», Journal of Political
+Economy, 69, pp.447-466.
+[23 ] Garcia-Escribano, M., & Han, F. (2015) : «Credit Expansion in Emerging Mar-
+kets : Propeller of Growth?», IMF Working Paper No. WP/15/212, International
+Monetary Fund.
+24 Hamilton, J. D. (1994) : Time Series Analysis. Princeton, New Jersey : Princeton
+University Press.
+[25 ] Harisson, P., Sussman, O., & Zeira, J. (1999) : Finance and Growth : Theory
+and New Evidence.
+26 Johnson, H. G. (1977) : «The Monetary Approach to Balance of Payments Theory
+and Policy : Explanation and Policy Implications », Economica, 44(175), pp.217-
+229.
+[27 ] Kamgna, S. Y., & Ndambendia, H. (2008) : « Excess liquidity and monetary
+policy effectiveness : The case of CEMAC countries », MPRA Paper No. 9599,
+[28 ] Kenkouo, G.-A. (2015) : « Dynamique du prix du pétrole et inflation dans la
+CEMAC », BEAC Working Paper No. N°8/2015,
+[29 ] Khan, M. A. (2008) : « Long-run and Short-Run Dynamics of Foreign Reserves
+and Domestic Credit in Pakistan», International Journal of Applied Econometrics
+and Quantitative Studies, 5(1), pp.61-84.
+[30 ] Kim, S. (2003) : « Monetary policy, foreign exchange intervention, and the ex-
+change rate in a unifying framework», Journal of International Economics, 60(2),
+pp.335-386.
+[31 ] Lane, P., & Burke, D. (2001) : « The Empirics of Foreign Reserves », Open
+Economies Review, 12, pp.423-434.
+[32 ] Levine, R. (2004) : « Finance and Growth : Theory and Evidence », NBER
+Working Paper No. 10766, National Bureau of Economic Research.
+[33 ]Mezui-Mbeng,P.(2012):«CycleduCréditetCycledesAffairesdanslesPaysde
+la CEMAC», (N°1202). CEREFIGE, Centre Européen de Recherche en Economie
+Financière et Gestion des Entreprises. Université de Lorraine
+[34 ] Mishkin, F. (1996) : « The Channels of Monetary Transmission : Lessons for
+Monetary Policy », NBER Working Paper No. 5464,
+[35 ]Mishkin,F.(2007):«HousingandtheMonetaryTransmissionMechanism»NBER
+Working Paper No. 13518. National Bureau of Economic Research.
+[36 ] Mishkin, F. (2009) : « Is Monetary Policy Effective during Financial Crisis? »,
+NBER Working Paper No. 14678, National Bureau of Economic Research.
+29
+
+--- Page 31 ---
+[37 ] Mishra, P., & Montiel, P. (2013) : « How Effective is Monetary Policy in low-
+income Countries? A Survey of the Empirical Evidence », Economic Systems,
+37(2013), pp.187-216.
+[38 ] Mishra, P., Montiel, P., & Sengupta, R. (2016) : «Monetary Transmission in De-
+veloping Countries : Evidence from India», IMF Working Paper No. WP/16/167,
+International Monetary Fund.
+[39 ] Mishra, P., Montiel, P., & Spilimbergo, A. (2013) : « Monetary Transmission
+in low-income Countries : Effectiveness and Policy Implications », IMF Economic
+Review, 60, pp.270-302.
+[40 ] Mohanty, M., & Turner, P. (2006) : « Foreign exchange reserve accumulation in
+emerging markets : what are the domestic implications?», BIS Quarterly Review,
+24(2006), pp.39-42.
+[41 ] Mounkala, E. U. (2013) : « Estimation d’une demande de monnaie dans la CE-
+MAC», BEAC Working Paper No. BWP N°01/15, Banque des Etats de l’Afrique
+Centrale.
+[42 ] Mundell, R. A. (1968) : Man and Economics : The Science of Choice, McGraw-
+Hill Company.
+[42 ] Ngerebo-A, T. A. (2016) : « Monetary Policy and Inflation in Nigeria », Inter-
+national Journal of Finance and Accounting, 5(2), pp.67-76.
+[43 ]Peiris,S.J.,&Saxegaard,M.(2007):«AnEstimatedDSGEModelforMonetary
+Policy Analysis in Low-Income Countries», IMF Working Paper No. WP/07/282,
+International Monetary Fund.
+[44 ] Polak, J. J. (1957) : « Monetary Analysis of Income Formation and Payments
+Problems », IMF Staff Papers, 6(1), pp.1-50.
+[45 ]Rabanal, P. (2007) : «Does inflationincrease aftera monetary policy tightening?
+Answers based on an estimated DSGE model», Journal of Economic Dynamic and
+Control, 31, pp.906-937.
+[46 ]Rafiq,M.S.,&Mallick,S.K.(2008):«Theeffectofmonetarypolicyonoutputin
+EMU3 A sign restriction approach », Journal of Macroeconomics, 30(4), pp.1756-
+1791.
+[47 ] Reynard, S. (2007) : « Maintaining low inflation : Money, interest rates, and
+policy stance », Journal of Monetary Economics, 54(5), pp.1441-1471.
+[48 ] Roberts, J. M. (2004) : «Monetary Policy and Inflation Dynamics», Discussion
+paper No. 2004-62, Washington D.C. : Federal Reserve Bank.
+[49 ] Rubio-Ramirez, J. F., Wagooner, D. F., & Zha, T. (2000) : « Structural Vector
+Autoregressions : Theory of Identification and Algorithms for Inference », The
+Review of Economic Studies, 77, pp.665-696.
+30
+
+--- Page 32 ---
+[50 ] Saâd, B., Mohammed, A., & Zakaria, F. (2011) : « Dynamic Stochastic General
+Equilibrium Model with Financial Frictions Case of Morocco», British Journal of
+Economics, Finance and Management Sciences, 3(1), pp.79-107.
+[51 ] Saxegaard, M. (2006) : « Excess Liquidity and Effectiveness of Monetary Po-
+licy : Evidence from Sub-Saharan Africa », IMF Working Paper No. WP/06/115,
+International Monetary Fund.
+[52 ] Sims, C. (1992) : « Interpreting the Macroeconomic Time Series Facts : The
+Effects of Monetary Policy », Cowles Foundation Discussion Paper No. 1011.
+[53 ] Svensson, L. E. O. (1997) : « Inflation Forecast targeting : Implementing and
+monitoring inflation targets », European Economic Review, 41, pp.1111-1146.
+[54 ] Uhlig, H. (2005) : «What are the effects of monetary policy on output? Results
+fromanagnosticidentificationprocedure»,Journal of Monetary Economics,52(2),
+pp.381-319.
+31
+
+--- Page 33 ---
+A Annexes
+A.1 Méthodologie de calcul du coefficient de Polak
+Le calcul de ce coefficient provient de diverses équations et fonctions de comporte-
+ment macroéconomiques. Il s’agit spécifiquement de la demande de monnaie de type
+monétariste (M ), l’offre de monnaie (M ), l’équation des importations (M), l’équation
+d 0
+des réserves issues des transactions avec l’extérieur (Res) et l’équation d’équilibre entre
+offre et demande de monnaie. Les équations respectives sont les suivantes :
+1
+M = Y, où Yest la production et v la vitesse de circulation de la monnaie (7)
+d
+v
+M = C +Res, où C représente le crédit intérieur et Res les avoirs extérieurs (8)
+0
+M = mY, où m est la propension marginale à importer (9)
+Res = (X−M)+K, où X représente les exportations et K le solde de la balance des capitaux.
+(10)
+M = M (11)
+d 0
+En variation, on obtient :
+1 mv
+∆Res = ∆(X +K)− ∆C (12)
+(1+mv) (1+mv)
+Le coefficient de Polak est donc représenté par mv qui est la diminution des réserves
+(1+mv)
+due à une variation des crédits à l’économie.
+32
+
+--- Page 34 ---
+A.2 Comparaison des fonctions de réponses impulsionnelles (IRF)
+des différents modèles estimés.
+Dans les graphiques ci-dessous, estmsr= Modèle avec estimation classique sans res-
+trictions sur les retards de la variable prix du pétrole; estm= Modèle avec estimation
+classique et restrictions sur les retards de la variable prix du pétrole; estmbaye= Modèle
+avec estimation bayésienne et restriction sur les retards de la variable prix du pétrole.
+Graphique 10 – Fonctionsderéponsesimpulsionnellesdesdifférentsmodèlesestimés-CEMAC-TIAO
+comme instrument de politique monétaire
+Source : Estimation des auteurs
+33
+
+--- Page 35 ---
+Graphique 11 – Fonctions de réponses impulsionnelles des différents modèles estimés - CEMAC- Base
+monétaire comme instrument de politique monétaire
+Source : Estimations des auteurs
+34
+
+--- Page 36 ---
+A.3 Distribution des fonctions de réponse impulsionnelles des
+différents pays de la CEMAC aux chocs de politique mo-
+nétaire
+Graphique 12 – IRF choc TIAO et Base monétaire - Cameroun
+Source : Estimation des auteurs
+35
+
+--- Page 37 ---
+Graphique 13 – IRF choc TIAO et base monétaire - Centrafrique
+Source : Estimation des auteurs
+Graphique 14 – IRF choc TIAO et base monétaire - Congo
+Source : Estimation des auteurs
+36
+
+--- Page 38 ---
+Graphique 15 – IRF choc TIAO et base monétaire - Gabon
+Source : Estimation des auteurs
+Graphique 16 – IRC choc TIAO et base monétaire - Guinée Equatoriale
+Source : Estimation des auteurs
+37
+
+--- Page 39 ---
+Graphique 17 – IRF choc TIAO et base monétaire - Tchad
+Source : Estimation des auteurs
+A.4 Décomposition historique des variables d’intérêt pour les
+différents pays de la CEMAC
+Graphique 18 – Décompositionhistoriquedesvariablesétudiées-Cameroun-TIAOcommeinstrument
+de politique monétaire
+Source : Estimation des auteurs
+38
+
+--- Page 40 ---
+Graphique 19 – Décomposition historique des variables étudiées - Cameroun- Base monétaire comme
+instrument de politique monétaire
+Source : Estimation des auteurs
+Graphique 20 – Décompositionhistoriquedesvariablesétudiées-Centrafrique-Basemonétairecomme
+instrument de politique monétaire
+Source : Estimation des auteurs
+39
+
+--- Page 41 ---
+Graphique 21 – Décomposition historique des variables étudiées - Congo- TIAO comme instrument de
+politique monétaire
+Source : Estimation des auteurs
+Graphique 22 – Décomposition historique des variables étudiées - Congo- Base monétaire comme
+instrument de politique monétaire
+Source : Estimation des auteurs
+40
+
+--- Page 42 ---
+Graphique 23 – Décompositionhistoriquedesvariablesétudiées-Gabon-TIAOcommeinstrumentde
+politique monétaire
+Source : Estimation des auteurs
+Graphique 24 – Décomposition historique des variables étudiées - Gabon- Base monétaire comme
+instrument de politique monétaire
+Source : Estimation des auteurs
+41
+
+--- Page 43 ---
+Graphique 25 – Décomposition historique des variables étudiées - Guinée Equatoriale- Base monétaire
+comme instrument de politique monétaire
+Source : Estimation des auteurs
+Graphique 26 – Décomposition historique des variables étudiées - Guinée Equatoriale- TIAO comme
+instrument de politique monétaire
+Source : Estimation des auteurs
+42
+
+--- Page 44 ---
+Graphique 27 – Décomposition historique des variables étudiées - Tchad- Base monétaire comme
+instrument de politique monétaire
+Source : Estimation des auteurs
+Graphique 28 – Décomposition historique des variables étudiées - Tchad- TIAO comme instrument de
+politique monétaire
+Source : Estimation des auteurs
+43

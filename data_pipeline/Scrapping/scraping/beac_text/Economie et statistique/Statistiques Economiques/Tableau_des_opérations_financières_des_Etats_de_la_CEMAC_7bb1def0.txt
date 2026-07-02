@@ -1,0 +1,7 @@
+Source PDF : Tableau_des_opérations_financières_des_Etats_de_la_CEMAC_7bb1def0.xlsx
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques Economiques\Tableau_des_opérations_financières_des_Etats_de_la_CEMAC_7bb1def0.xlsx
+Date extraction : 15/06/2026 20:35:01
+======================================================================
+
+[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
+Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

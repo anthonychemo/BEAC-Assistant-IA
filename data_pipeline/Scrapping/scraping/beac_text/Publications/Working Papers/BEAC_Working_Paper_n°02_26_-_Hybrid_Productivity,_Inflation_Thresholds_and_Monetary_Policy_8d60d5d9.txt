@@ -1,0 +1,1036 @@
+Source PDF : BEAC_Working_Paper_n°02_26_-_Hybrid_Productivity,_Inflation_Thresholds_and_Monetary_Policy_8d60d5d9.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_n°02_26_-_Hybrid_Productivity,_Inflation_Thresholds_and_Monetary_Policy_8d60d5d9.pdf
+Date extraction : 15/06/2026 21:18:52
+======================================================================
+
+--- Page 1 ---
+BEAC WORKING PAPER
+BWP N° 02/26
+Hybrid Productivity, Inflation Thresholds and Monetary Policy in
+a Nonlinear Multi-Country DSGE Model of CEMAC
+Thierry MVONDO
+Docteur en sciences
+économiques
+Direction des Études,
+de la Recherche, des Statistiques
+et des Relations Internationales
+Mvondot@beac.int
+Les opinions émises dans ce document de
+B A N Q U E D E S E T A T S D E
+travail sont propres à leur(s) auteur(s) et ne
+L ’A F R I Q U E C E N T R A L E
+représentent pas nécessairement la position de la Banque
+des Etats de l’Afrique Centrale.
+7 3 6, A v e n u e M o n s e i g n e u r V o g t
+B P: 1 9 1 7, Y a o u n d é - C a m e r o u n
+The opinions expressed in this working paper
+T e l: (2 3 7) 2 2 2 3 4 0 3 0 / 2 2 2 3 4 0 6 0
+are those of the author(s) and do not necessarily
+F a x: (2 3 7) 2 2 2 3 3 3 2 9
+represent the views of the Bank of Central African States.
+w w w. b e a c. i n t
+Direction des Etudes, de la Recherche, des Statistiques et des Relations Internationales
+
+--- Page 2 ---
+Hybrid Productivity, Inflation Thresholds and Monetary Policy in a Nonlinear Multi-Country
+DSGE Model of CEMAC
+Dr. Thierry Mvondo
+December 2025
+Abstract:
+This paper develops and estimates a nonlinear multi-country DSGE model for the Central African Economic
+and Monetary Community (CEMAC), explicitly accounting for inflation threshold effects and hybrid
+productivity dynamics under a common monetary policy. On one hand, inflation thresholds and the
+monetary policy aggressiveness are estimated via a logistic function for each CEMAC country. On the other
+hand, it demonstrates how the hybridization of productivity shapes inflation thresholds in CEMAC
+economies by examining the impact of its components on the slope of the Phillips curve, marginal cost,
+sensitivity to external supply shocks, monetary policy transmission, and international price volatility.
+Specifically, estimated inflation thresholds appears to be heterogeneous across CEMAC countries, often
+higher than the official 3% target: Cameroon (4.06%), Congo (5.86%), Gabon (6.03%), Equatorial Guinea
+(5.45%), RCA (5.40%), Chad (5.40%). Country’s logistic function slope suggests differences in monetary
+policy aggressiveness and accommodative transition. Countries with inflation threshold relatively low (e.g.,
+Cameroon), suggests a weak endogenous productivity response to investment and a negative sensitivity to
+inflation. Conversely, countries with relatively higher inflation threshold (e.g., Gabon) suggests more
+pronounced learning and capitalization effects, with productivity reacts positively to cyclical variations. This
+heterogeneity poses a major challenge for a single monetary policy and shed light for: (i) a monetary policy
+rule that should be "state-dependent"; (ii) a re-evaluation of the 3% inflation target; (iii) structural reforms to
+improve the monetary policy transmission mechanism and; (iv) a strengthened coordination between the
+common monetary policy and national fiscal policies.
+Key Words ---------------------------------------------------------------------------------------------------------
+Hybrid Productivity – Inflation Threshold – Nonlinear DSGE – Monetary policy Effects
+JEL Classification E31, E52, E62, O40
+Résumé :
+Cet article développe et estime un modèle DSGE non linéaire multi-pays pour la Communauté Economique
+et Monétaire de l'Afrique Centrale (CEMAC), en tenant compte explicitement des effets de seuil d'inflation
+et de la dynamique hybride de la productivité sous une politique monétaire commune. D'une part, les seuils
+d'inflation et la réaction de la politique monétaire sont estimés via une fonction logistique pour chaque pays
+de la CEMAC. D'autre part, l'étude montre comment l'hybridation de la productivité façonne les seuils
+d'inflation dans les économies de la zone en examinant l'impact de ses composantes sur la pente de la courbe
+de Phillips, le coût marginal, la sensibilité aux chocs d'offre externes, la transmission de la politique monétaire
+et la volatilité des prix internationaux. Plus précisément, les seuils d'inflation estimés apparaissent
+hétérogènes entre les pays de la CEMAC et sont souvent supérieurs à l'objectif officiel de 3 % : Cameroun
+(4,06 %), Congo (5,86 %), Gabon (6,03 %), Guinée Equatoriale (5,45 %), RCA (5,40 %) et Tchad (5,40 %). La
+pente de la fonction logistique par pays suggère des différences dans la réaction de la politique monétaire et
+dans la souplesse de de la transition. Les pays ayant un seuil d'inflation relativement bas (ex : le Cameroun)
+présentent une faible réponse endogène de la productivité à l'investissement et une sensibilité négative à
+l'inflation. A l'inverse, les pays ayant un seuil plus élevé (ex : le Gabon) suggèrent des effets d'apprentissage
+et de capitalisation plus prononcés, où la productivité réagit positivement aux variations cycliques. Cette
+hétérogénéité pose un défi majeur pour une politique monétaire unique et plaide pour : (i) une règle de
+politique monétaire qui devrait être « dépendante de l'état » (state-dependent) ; (ii) une réévaluation de
+l'objectif d'inflation de 3 % ; (iii) des réformes structurelles pour améliorer le mécanisme de transmission de
+la politique monétaire ; et (iv) un renforcement de la coordination entre la politique monétaire commune et
+les politiques budgétaires nationales.
+Mots-clés ------------------------------------------------------------------------------------------------------------------------
+Productivité hybride – Seuil d'inflation – DSGE non linéaire – Effets de la politique monétaire
+Classification JEL : E31, E52, E62, O40
+1
+
+--- Page 3 ---
+1. Introduction
+Understanding the nonlinear dynamics of inflation is a central issue for monetary policy,
+particularly in emerging monetary unions where structural heterogeneity and recurrent
+inflationary pressures coexist. Since the pioneering works of Sarel (1996), Bruno & Easterly
+(1998), and later Khan & Senhadji (2001), a significant field of research has structured itself
+around identifying an inflation threshold beyond which inflation becomes detrimental to real
+growth. These studies suggest that moderate inflation can stimulate activity in low-income
+economies [Bernanke (2020) and Gern & al (2023)]. Particularly, they have shown that this
+threshold is not a universal constant; it varies considerably across time and space. Existing
+research places them between 7% and 11% for developing economies, compared to 1% to 3%
+for advanced economies. Crucially, findings specifically targeting African monetary unions
+conclude there is spatial-temporal variability, even between countries within the same union.
+In the CEMAC zone, Bikaï & Kamgna (2012), Mebenga (2017), Mongeli & Tsopmo (2017), and
+Mounkala (2021) identify country-specific thresholds ranging between 5.4% and 8%. This
+spatial-temporal heterogeneity —which, moreover, exceed the sub-regional convergence
+criterion of 3%— reveals high costs in terms of the sacrifice ratio that a single monetary policy
+could impose on member countries with intrinsically higher inflation thresholds. Structural
+diversities of economies and complexities in transmission mechanisms [Sanga (2020),
+Dholakia (2020), and Azam & Khan (2022)] are consequently identified as key factors. In this
+context, the fundamental question is no longer whether an inflation threshold exists, but
+rather to understand what determines it and how it varies according to the structural
+characteristics of CEMAC economies: a branch of literature that remains less explored in the
+context of inflation analysis in the zone, which would allow for a better articulation of the
+common monetary policy.
+Among these characteristics, productivity plays a central role. However, the literature has
+essentially focused on its exogenous nature [Solow (1956), Gali & Gertler (1999), Basdevant
+& Björksten (2005), Stiroh (2009)], treating it as an imposed technological trend and often
+ignoring endogenous dynamics due to learning, innovation, and productive accumulation
+[Romer (1990), and Aghion & Howitt (1992)]. This simplification is problematic for CEMAC
+economies, where imported technological shocks coexist with local productive dynamics that
+are still fragile. Felt to account of this hybridization lead to a misunderstood of how it
+simultaneously influences several key determinants of inflation: the Phillips curve, marginal
+cost dynamics, sensitivity to external supply shocks, monetary policy transmission, and
+international price volatility [Jones (1995a), Fernald (2014), Hallonsten & Ziesemer (2016),
+Bernanke & Gourkaynak (2001), Anzoategui & al (2019), and Cozzi (2017a, 2017b, 2023)].
+To overcome this limitation, we develop and estimates a nonlinear multi-country DSGE
+model for the Central African Economic and Monetary Community (CEMAC), explicitly
+accounting for inflation threshold effects and hybrid productivity dynamics under a common
+monetary policy. Then, into this framework with Ricardian and non-Ricardian households,
+nominal rigidities, public finance, and a Taylor rule, we characterize how hybrid productivity
+shapes inflation thresholds in CEMAC. More precisely, we show how some economies
+tolerate higher inflation without compromising growth, while others quickly suffer inflation
+pressures distorting effects. Finally, we estimate inflation thresholds and the monetary policy
+2
+
+--- Page 4 ---
+aggressiveness for each CEMAC country and measure how they vary when hybrid
+productivity improves or deteriorates. The CEMAC provides a particularly relevant
+laboratory, as its member countries share a single central bank (the BEAC) but display
+substantial heterogeneity in productive structures, fiscal positions, and exposure to external
+shocks.
+The remainder of the document is organized as follows: the related literature is presented in
+section 2; Section 3 construct the nonlinear DSGE model with the transmission mechanisms
+between productivity and inflation thresholds; Section 4 presents data and estimation
+procedure; Section 5 discusses the results; Section 6 discuss the policy implications; and
+Section 7 concludes.
+2. Relate literature
+2.1 Inflation Thresholds and Nonlinearities
+The pioneering research of Fisher (1993), Barro (1996), and Bruno & Easterly (1998) proposed
+the idea that the effect of inflation on growth depends on its initial level. These empirical
+works demonstrate that moderate inflation does not have the same impact as high inflation,
+already pointing towards the existence of inflation thresholds. The rigorous formalization of
+this non-linearity was provided by Sarel (1996) and Khan & Senhadji (2001), who empirically
+identified specific thresholds for developing and advanced countries.
+More recently, nonlinear panel models [Hansen (2000), Kremer & al (2013)] enriched the
+analysis by showing that thresholds vary according to macroeconomic and institutional
+structures. These studies highlight the importance of characteristics such as financial depth,
+institutional quality, trade openness, and the composition of production. This
+methodological evolution emphasizes a key result: there is no universal threshold; it depends
+on the structural foundations of the economy.
+The economic literature identifies several structural determinants of inflation thresholds
+including: (i) nominal rigidities (Gali, 2015); (ii) trade openness (Alvarez & al, 2019); (iii)
+sectoral composition (Woodford, 2003); (iv) financial depth (Aghion & al, 2009) and; (v)
+vulnerability to external shocks (Izquierdo & al, 2019).
+Despite this growing empirical evidence, most DSGE models continue to rely on linear
+approximations, implicitly assuming symmetric policy transmission across inflation regimes.
+This gap motivates recent efforts to incorporate explicit nonlinearities into structural
+macroeconomic models.
+2.2 Nonlinear Phillips Curves and DSGE Models
+Incorporating nonlinear inflation dynamics into DSGE frameworks has become an active
+research area. Ascari & Ropele (2009) and Ball & Mazumder (2011) argue that the slope of the
+Phillips curve may increase with inflation, reflecting stronger nominal rigidities and higher
+price dispersion. Benkovskis & al. (2018) provide empirical support for state-dependent
+Phillips curves in both advanced and emerging economies.
+3
+
+--- Page 5 ---
+From a theoretical perspective, Gali & Gertler (1999) introduce a hybrid Phillips curve
+combining forward- and backward-looking inflation dynamics, which has become a
+benchmark in applied DSGE modelling. More recent contributions extend this framework by
+allowing key parameters—such as the slope of the Phillips curve—to vary across regimes.
+Debortoli & Galí (2017) show that ignoring nonlinearities may lead to biased estimates of
+policy effectiveness, especially in high-inflation environments.
+Smooth transition mechanisms, particularly logistic functions, are increasingly used to model
+regime changes in a continuous manner. This approach avoids unrealistic discrete jumps and
+allows the economy to move gradually between low- and high-inflation regimes, consistent
+with observed inflation dynamics.
+2.3 Monetary Policy, Thresholds, and Regime-Dependent Taylor Rules
+The literature on monetary policy rules also highlights important nonlinearities. Taylor (1993)
+originally proposes a linear interest rate rule, but later studies show that central banks
+respond asymmetrically to inflation depending on its level. Clarida, Galí, & Gertler (2000)
+emphasize the importance of policy credibility, while Cukierman & Muscatelli (2008) provide
+evidence of regime-dependent monetary reactions.
+More recently, Bianchi & Melosi (2017) and Aruoba & al. (2020) demonstrate that nonlinear
+Taylor rules can significantly alter macroeconomic stability properties. In particular, when
+inflation exceeds a critical threshold, central banks tend to respond more aggressively,
+amplifying both nominal and real effects.
+Within DSGE frameworks, allowing the policy response coefficient to vary smoothly with
+inflation has been shown to improve model fit and forecasting performance. This approach
+is particularly relevant for monetary unions and emerging economies, where inflation
+expectations are less anchored and policy transmission is heterogeneous.
+2.4 Hybrid Productivity and Inflation Dynamics
+In standard models, productivity influences inflation and thus its thresholds through: real
+marginal costs, the Phillips curve, and supply conditions. Gordon (1998), Basu & Fernald
+(2002), and De Loecker & al. (2020) show how productivity affects inflation via production
+costs and markups. On the DSGE models side, Gali & Gertler (1999) and Smets & Wouters
+(2007) demonstrate that productivity is a crucial factor in determining the dynamics of prices
+governed by the hybrid Phillips curve. More recently, contributions on emerging economies
+[(Mishkin, (2008) and Anand & al (2014)] have highlighted that weak productivity increases
+the sensitivity of inflation to supply shocks, making economies more vulnerable to imported
+inflationary dynamics. In this context, productivity appears as a stabilizing or destabilizing
+force, depending on its nature.
+However, these works rarely distinguish between the exogenous and endogenous
+components of productivity, which limits the analysis of their differentiated effects on
+inflation: which is what we focus on below. While traditional DSGE models focus on
+4
+
+--- Page 6 ---
+exogenous total factor productivity shocks, recent literature emphasizes the importance of
+endogenous components such as human capital accumulation, learning-by-doing, and
+technological diffusion.
+Benigno & Fornaro (2018) and Comin & Gertler (2006) highlight how endogenous
+productivity amplifies business cycle fluctuations and interacts with monetary policy. Human
+capital accumulation, in particular, affects marginal costs and wage dynamics, thereby
+influencing inflation persistence.
+Hybrid productivity frameworks—combining exogenous and endogenous components—
+provide a richer description of supply-side dynamics. Aghion & al (2019) show that
+productivity-enhancing policies can reduce inflation volatility by mitigating cost-push
+pressures. However, when inflation is already high, productivity shocks may have nonlinear
+effects, reinforcing threshold mechanisms in the Phillips curve.
+However, very few studies explicitly integrate productivity as a factor modifying these
+determinants. A notable gap is that productivity is generally treated as an exogenous state
+variable, without dynamic interaction with the parameters that determine the optimal
+inflation threshold. This study precisely fits into this void.
+2.5 DSGE Models for Monetary Unions and Developing Economies
+Applying DSGE models to monetary unions and developing economies poses specific
+challenges. Structural heterogeneity, fiscal dominance, and exposure to external shocks
+often weaken standard policy transmission mechanisms. Studies focusing on the Euro Area
+(e.g., Smets & Wouters, 2007) highlight the importance of cross-country heterogeneity, while
+applications to African monetary unions remain limited.
+For the CEMAC region, (Mvondo, 2020) existing studies typically rely on linear models or
+reduced-form approaches, which may fail to capture nonlinear inflation dynamics. Given the
+historical episodes of inflation volatility and fiscal stress, incorporating thresholds and
+regime-dependent behaviour is particularly relevant.
+2.6 Contribution of This Paper
+This paper contributes to the literature along several dimensions. First, it develops a
+nonlinear multi-country DSGE model for CEMAC economies with an explicit inflation
+threshold embedded in the Phillips curve via a smooth logistic function. Second, it integrates
+hybrid productivity dynamics to analyse supply-side interactions with inflation regimes.
+Third, the model incorporates a regime-dependent Taylor rule, allowing monetary policy
+responses to vary smoothly with inflation.
+Applied to the six CEMAC countries, the framework provides new insights into
+heterogeneous policy transmission within a monetary union and highlights the risks of relying
+on linear approximations in high-inflation environments. By bridging nonlinear theory and
+applied DSGE modelling, this study aligns closely with the methodological and empirical
+focus of Economic Modelling.
+5
+
+--- Page 7 ---
+3. The model
+We develop a nonlinear DSGE model of a six-country monetary union with oil producing
+sector. Countries are structurally similar but subject to idiosyncratic shocks and national fiscal
+policies, while monetary policy is conducted centrally.
+3.1 Households
+The model typically features two types of households for each country (j): Ricardian
+households that optimize intertemporally and non-Ricardian (rule-of-thumb) households
+that consume their current labour income. Aggregate consumption is a weighted average of
+the two groups.
+The Ricardian household’s FOC’s (derived from maximizing expected lifetime utility subject
+to the budget constraint and capital accumulation equations) generally include:
+▪ Euler equation relates current consumption to expected future consumption, the real
+interest rate, and the degree of habits (h):
+U′(C ,H )
+λ = E [β j,t+1 j,t+1 Rr ] (1)
+j,t t j U′(C j,t,Hj,t) j,t+1
+Where 𝜆 is the marginal utility of consumption, β is the discount factor, Rr is the
+j,t j j,t+1
+real return on assets and H represents habits (e.g., H = h C )
+j,t j,t j j,t−1
+▪ Labor supply equates the marginal rate of substitution between consumption and
+leisure to the real wage (after tax).
+−U′(C ,L )
+L j,t j,t = W (1−τL ) (2)
+U′(C ,H ) j,t j,t
+C j,t j,t
+Where U′ is marginal utility of leisure, U′ is margional utility of consumption, W is
+L C t
+the real wage, and τL is the labor tax rate.
+j,t
+▪ Physical capital accumulation relates the marginal benefit of accumulating physical
+capital (Tobin’s Q) to its cost and future return.
+λ
+Q = E [β j,t+1(RK (1−τK )+Q (1−δ ))] (3)
+j,t t j j,t+1 j,t+1 j,t+1 j
+λ
+j,t
+Where Q is the real price of capital, RK is the real rental rate, τK is the capital tax
+j,t j,t j,t
+rate, and δ is the depreciation rate. This is linked to investment (I,) via the capital
+j j t
+accumulation equation K = I +(1−δ )K and investment adjustment costs.
+j,t+1 j,t 𝑗 j,t
+▪ Human Capital Accumulation: an additional FOC governs the optimal investment in
+human capital (HC) vs. supplying labour, considering the returns to skills in the future.
+t
+▪ International Debt/Net Exports: in an open economy, an FOC linked to debt
+accumulation and net exports (via the Uncovered Interest rate parity condition)
+determines the relationship between domestic and foreign interest rate, the
+exchange rate, and net foreign assets.
+6
+
+--- Page 8 ---
+The non-Ricardian households FOC’s current consumption equals current disposable
+income.
+3.2 Production and Hybrid Productivity
+Output is produced using physical capital and human capital, augmented by hybrid
+productivity composed of an exogenous component and a persistent human-capital-related
+component. Both processes follow autoregressive dynamics and generate heterogeneous
+supply-side fluctuations across countries.
+The firm producing intermediate good (i) operates under monopolistic competition and
+produces a differentiated good by combining capital (K), human capital (H), and labour ((N),
+while facing Calvo-style rigidities. His production function is:
+1−α
+Y (i) = A K (i)α(H N (i)) (4)
+j,t j,t j,t j,t j,t
+Where (H N (i)) represents the effective labour factor and A the hybrid technology:
+j,t j,t j,t
+A = AForeign ADomestic (5)
+j,t j,t j,t
+And therefore:
+Log(A ) = Log(AForeign )+Log(ADomestic) (6)
+j,t j,t j,t
+Foreign
+Thus, A is an autoregressive process that benefits from foreign
+j,t
+productivity dynamics and is considered the exogenous part, whereas ADomestic
+j,t
+follows an endogenous evolution. Their expressions are provided by:
+AEtranger
+=
+εEtranger AρA,Etranger
+(7)
+j,t j,t j,t−1
+Domestique
+A = ℱ(R&D ,A ) (8)
+j,t j,t j,t−1
+3.3 Price Setting, Inflation Dynamics and Thresholds
+▪ Cost minimization under the production function constraint by the firm, by choosing
+(K ) and (N ) gives the following marginal costs:
+t,j t,j
+MC =
+1 (R jK ,t)α j
+(
+Wt )1−α j
+(9)
+j,t
+A α 1−α
+j,t j j
+Prices are sticky à la Calvo (193). Inflation follows a nonlinear Gali–Gertler (1992) Phillip’s
+curve:
+π = κ MC +β E [π ]+γ π (10)
+j,t j j,t j t j,t+1 j j,t−1
+To explicitly introduce the channels through which productivity components impact the
+inflation threshold in a DSGE model, it is necessary to modify the standard linear model to
+make it specifically non-linear. Indeed, a log-linearized model does not allow for the explicit
+visualization of a threshold or a regime change, as it approximates all relationships as linear
+7
+
+--- Page 9 ---
+around a steady state. To this end, three complementary approaches are available: the first
+based on the Taylor rule, the second on the slope of the Phillips Curve, and third on an explicit
+threshold within the production function or marginal costs. For his popularity, we choose the
+second.
+This approach challenges the constancy of the slope of the New Keynesian Phillips Curve. To
+introduce this channel, it is assumed that this slope depends on productivity (A ). The idea is
+t,j
+that for countries during periods where productivity is high (due to strong endogenous R&D
+or favourable exogenous shocks), firms are more flexible, competition may be more intense,
+or price adjustment costs are lower. This makes inflation more sensitive to economic
+conditions (steeper slope). Conversely, low productivity is associated with a flatter slope and
+greater inertia. We redefine the slope of the Phillips curve (κ ) as a linear function:
+j
+κ (π ) = κlow +(κhigh −κlow).ℱ(π ,π̅ ) (11)
+j j,t−1 j j j j,t j
+Where (κhigh ) and (κlow) are the maximum and minimum values of (κ ), and (ℱ(.) is a
+j j j
+transition function (logistic in our case) that depends on the level of inflation (π ) relative to
+j,t
+its steady state (π̅ ). The introduction of (κ ) into the Phillips curve makes the inflation
+j j
+equation explicitly non-linear and state-dependent:
+π = γ E [π ]+γ π +κ MCréel +επ (12)
+j,t j,f t j,t+1 j,b j,t−1 j j,t j,t
+Two hypotheses are subsequently made to assess the impact on the threshold:
+▪ If hybrid productivity is low, κ is low, and inflation becomes highly inertial (dominated
+j
+by the term (γ π ). Shocks are absorbed slowly, increasing the risk of inflationary
+b t−1,j
+spirals if inflation exceeds a certain level.
+▪ If hybrid productivity is high, conversely, κ is high, and inflation is more flexible and
+j
+responsive to central bank control (dominated by the term γ E [π ] and marginal
+j,f t j,t+1
+costs). The inflation comfort zone (the threshold) is higher before stability is
+threatened.
+The role of endogenous R&D in this channel, through the investment made therein,
+influences productivity (A,) and consequently the slope (κ ) and the inflation threshold:
+j t j
+▪ Exogenous shocks (εa ) modify (A,) directly and immediately
+j,t j t
+▪ Endogenous R&D decisions modify (A ) progressively over time (technological
+jt
+accumulation).
+A CEMAC country that structurally invests more in R&D will see its average productivity (A )
+jt
+increase, structurally modifying its average (κ ), thereby allowing it to tolerate a higher
+j
+inflation threshold without compromising macroeconomic stability. When inflation exceeds
+the threshold, marginal cost pass-through increases sharply, capturing regime-dependent
+inflation dynamics.
+8
+
+--- Page 10 ---
+The inflation threshold is derived endogenously within a DSGE model, rather than being
+estimated statistically [Hansen, (1999) or Kremer (2013)]. It is therefore the result of
+interactions between:
+▪ hybrid productivity;
+▪ the structure of the Phillips curve;
+▪ marginal costs;
+▪ nominal distortions; and
+▪ public policies.
+In a DSGE model, endogenous productivity and the threshold are approximately:
+ℱ(R&D ) = χ Y +χ Invest +χ π +ν (13)
+j,t j,1 j,t−1 j,2 t−1 j,3 j,t−1 j,t
+πthreshold = χ j,3 (14)
+j,t φ+κ′ (A )−χ′
+j j,3 𝑗 j,3
+Thus:
+▪ the more χ > 0 (inflation stimulates productivity), → the threshold increases;
+j,3
+▪ the more κ′ (A ) > 0 (steep Phillip’s curve), → the threshold decreases; and
+j,3 j
+▪ the stronger the nominal distortions (φ ), →the threshold decreases.
+j
+In the CEMAC region, where economies are increasingly characterized by structural rigidities,
+heavy dependence on exogenous shocks, and low sensitivity of endogenous productivity to
+economic policies, it is logical to expect low thresholds (3% - 8%).
+3.4 Fiscal Policy and External Sector
+Each government follows a simple countercyclical fiscal rule and issues public debt subject to
+an intertemporal budget constraint. Net exports close the resource constraint.
+▪ Government Budget Constraint: the government finances spending, debt interest,
+and transfers through taxes and new issuance.
+▪ Resource Constraint/Market Clearing: total output must equal total demand
+(consumption, investment, government spending, and net exports).
+3.5 Monetary Policy
+The BEAC sets a common policy rate according to a Taylor rule reacting to union-wide
+inflation and output, in respond to deviation of inflation from target and the output gap.
+R = ρ R +(1−ρ )(R̅ +ϕ (π −π∗)+ϕ (y −y∗))+εR
+t R t−1 R π t y t t
+Where R̅ is the steady-state nominal rate, π∗ is the inflation target, y∗ is potential output, and
+εR is a monetary policy shock.
+t
+The inflation coefficient itself depends on whether inflation is above or below the estimated
+threshold. Further model details and derivations are provided in Appendix A.
+9
+
+--- Page 11 ---
+4. Data and estimation
+This section outlines the Bayesian methodology employed to estimate the parameters of the
+multi-country DSGE model with hybrid productivity and nonlinear inflation thresholds. We
+follow standard practices in the DSGE literature, adapting the approach for our model's
+specific features, particularly the nonlinearities.
+4.1 Data and Observables
+The model is estimated using a panel of quarterly macroeconomic time series for the six
+CEMAC member states over the 2000Q1 to 2024Q4. The observable variables mapped to
+their model counterparts are:
+▪ Union output gap
+▪ Union and national CPI inflation rate
+▪ Common nominal interest rate (BEAC policy rate)
+▪ Global oil price index (as an external common shock)
+▪ Eurozone output growth and inflation (to capture external conditions given the fixed
+exchange rate regime)
+The data sources include the World Bank, International Monetary Fund (IMF), BEAC and
+national statistics institutes, and all data is processed to ensure stationarity and consistency
+across countries.
+4.2 Prior Distributions and Parameter Identification
+Prior distributions for structural parameters are selected based on existing microeconomic
+evidence, general macroeconomic literature, and previous studies on African economies,
+particularly those in the CFA franc zone. The model is calibrated to reflect the structural
+features of CEMAC economies as documented by the BEAC and IMF. Table 1 (not shown
+here) would detail the assumed distributions (e.g., Beta, Inverse Gamma, Normal), their key
+moments (mean, standard deviation), and justification.
+Particular attention is paid to the identification of the nonlinear inflation threshold
+parameters. We conduct formal identification analysis using the approach proposed by Koop
+& al. (2013), which assesses the rate at which posterior precision increases with sample size
+using simulated data to ensure parameters are not weakly identified.
+4.3 Likelihood Function and Estimation Algorithm
+Given the model's nonlinear structure, we employ advanced computational techniques
+beyond the standard linearized DSGE approach:
+▪ State-Space Representation: The model is cast into a state-space form, utilizing
+a Particle Filter to approximate the likelihood function accurately in the presence of
+the endogenous inflation thresholds and nonlinear dynamics. This is crucial for robust
+10
+
+--- Page 12 ---
+inference compared to linear approximations that might misrepresent the threshold
+behaviour.
+▪ Posterior Sampling: The posterior distribution of the parameters is sampled using
+a Sequential Monte Carlo (SMC) sampler, which is well-suited for high-dimensional,
+complex, and nonlinear models where the posterior might be irregular or multi-
+modal, outperforming traditional Random Walk Metropolis-Hastings’s algorithms.
+We employ multiple chains and standard diagnostics (e.g., Gelman-Rubin criterion,
+Effective Sample Size) to ensure convergence of the Markov chains to the target
+posterior distribution.
+4.4 Model Evaluation and Robustness
+We evaluate the model's empirical fit and validity using Marginal Likelihood
+Comparisons: The non-linear model's fit is compared against a linearized version using
+marginal likelihoods via the Laplace approximation to determine which model is most
+favoured by the data.
+5. Results
+5.1 Superiority of the nonlinear model
+The marginal Likelihood for the nonlinear model (1284.614617) seems greater than the one
+of the linear models (1196.517093). therefore, the Log Bayes Factor (88.097524) calculated as
+the difference between the two confirm the superiority of the nonlinear model for CEMAC
+economies.
+5.2 Logistic functions Slope and Thresholds Estimations by Country
+The graph below summarizes the country-specific estimates of the logistic function
+parameters within our DSGE model: these are the inflation thresholds per country and the
+slope of the logistic transition curve.
+11
+
+--- Page 13 ---
+The vertical dashed lines indicate the specific estimated inflation thresholds for each country,
+at which point the effect of monetary policy likely changes. The representation of the logistic
+function primarily informs us about the slope of the underlying curve. It thus appears that the
+state of the economy -that is, the point at which monetary policy becomes more aggressive-
+differs among these countries: Cameroon (4.06%), Congo (5.85%), Gabon (6.03%), Equatorial
+Guinea (5.45%), Central African Republic (5.40%), and Chad (5.40%). Moreover, these
+thresholds are relatively higher than the sub-regional convergence criterion, suggesting the
+possibility of raisin this criterion to allow more room for monetary policy.
+Furthermore, the slope of the logistic function differs by country: Cameroon (15.53), Congo
+(7.15), Gabon (17.61), Equatorial Guinea (7.12), Central African Republic (12.28), and Chad
+(21.63). Although generally flat, it suggests varying degrees of monetary policy
+aggressiveness when inflation approaches thresholds, and a smooth transition that could
+reflect considerable inertia, particularly in Equatorial Guinea and Congo.
+Finally, the country-specific intersection between the logistic function and the dashed
+vertical lines representing the thresholds offer five key insights for CEMAC region in terms of
+price stability:
+▪ Cost-Push Inflation Trigger: When the slope of marginal cost becomes so steep that it
+matches or exceeds the economy’s "inflation threshold," firms are forced to pass
+these rapidly rising costs to consumers. This marks the transition from stable
+production to cost-push inflation.
+▪ Profit vs. Growth Trade-off: At the firm level, producing beyond the point where
+marginal costs spike may be profit-maximizing in the short term. However, if this
+12
+
+--- Page 14 ---
+spike is systemic across an industry, it pushes the overall inflation rate past the
+threshold where it begins to erode aggregate economic growth.
+▪ Capacity Constraints: The intersection often signals that the economy or firm has
+reached its maximum efficient capacity. Pushing production further causes costs (and
+thus prices) to rise at a rate the broader economy cannot absorb without detrimental
+inflationary effects.
+▪ For Central Banks: This intersection suggests that the "real" side of the economy
+(production costs) is now driving the "nominal" side (inflation) past safe limits, often
+triggering a need for tighter monetary policy to cool demand.
+▪ For Firms: It represents a "red zone" where further expansion may contribute to an
+unstable macroeconomic environment, even if individual unit sales are still marginally
+profitable.
+5.3 Impulse Responses of Common Policy Rate, Productivity and External Shocks
+The comparative analysis of Impulse Response Functions (IRFs) reveals marked
+heterogeneity among CEMAC countries in the face of various shocks, although general
+trends (return to equilibrium) remain similar.
+Monetary Policy Shock Responses
+Following a monetary policy shock (e.g., a rate hike), the response is consistent: Inflation and
+Output Gap both decrease in all countries, returning toward zero over approximately 10-20
+quarters. The graphs show subtle differences in the speed of convergence and the magnitude
+of the initial fluctuation between countries. The "Baseline" and "Threshold" lines diverge
+slightly, indicating that non-linearity affects monetary policy effectiveness differently
+depending on the country and its specific inflation threshold.
+Oil Price Shock Responses
+An oil shock has varying effects: Inflation initially rises in all countries, likely due to the impact
+on production and transport costs, before stabilizing. Output Gap (for net oil-exporting
+countries - Congo, Gabon, Equatorial Guinea, Cameroon, Chad) likely see an initial
+improvement in economic activity, while the impact on others (CAR) may differ. The graphs
+show initial positive fluctuations before returning to normal.
+Foreign Inflation Shock Responses
+An inflation shock from trading partners is transmitted to the CEMAC economy, causing an
+initial rise in inflation across all countries. The impact on economic activity (output gap) is
+generally moderate, with minor fluctuations around zero, suggesting that imported inflation
+has a more direct impact on prices than on production.
+Foreign Demand Shock Responses
+A demand shock from trading partners stimulates both inflation and economic activity
+(output gap) in CEMAC countries, with initial positive fluctuations before converging toward
+13
+
+--- Page 15 ---
+equilibrium. Comparisons reveal that while all countries in the union react to the same
+shocks, the amplitude and dynamics of these responses are influenced by national
+specificities (such as oil dependency or inflation thresholds).
+The interaction between inflation and the output gap is particularly clear here: A positive
+monetary policy shock (tightening) aims to reduce inflation. The graphs show that inflation
+(top-left lines for each country) initially decreases. Simultaneously, the output gap (top-right
+lines) becomes negative, indicating a slowdown or contraction in economic activity ("slack").
+The decline in economic activity (negative output gap) puts downward pressure on prices,
+helping stabilize inflation toward zero. This is the classic Phillips Curve relationship: lower
+activity reduces inflationary pressures. Non-linear models ("Threshold"/"State-dependent")
+show that the magnitude of the inflation drop can differ from the linear model ("Baseline"),
+suggesting that monetary policy is more or less effective depending on whether the economy
+is in a high or low inflation regime at the time of the shock.
+Oil Price Shocks
+In this case, inflation and the output gap react differently: An oil price shock (a supply shock)
+increases inflation (all inflation graphs). The impact on the output gap is more varied and
+nuanced. For oil exporters, economic activity may initially hold steady or even increase
+(positive or near-zero output gap), benefiting from foreign currency inflows. For net
+importers, rising costs may weigh on activity (negative output gap). The effect on the output
+gap depends on each country's economic structure.
+Foreign Demand and Foreign Inflation Shocks
+Inflation and the output gap generally move in the same direction (positive correlation)
+following a foreign demand shock: higher demand leads to increased activity and upward
+pressure on prices. After a foreign Inflation Shock, Inflation is directly impacted positively,
+while the effect on the output gap is often weaker or transient. The graphs thus illustrate how
+the output gap acts as a key indicator of inflationary pressures in the economy, but the
+relationship between the two is complex and depends on the type of shock and the structural
+characteristics of each country.
+The non-linear results influence the CEMAC central bank's monetary policy rule by
+suggesting that a "one-size-fits-all" (linear) approach is sub-optimal.
+Non-Linear Monetary Policy Rule
+The model suggests the adoption of a modified or "state-dependent" Taylor rule
+(Differentiated Response). The central bank should not react the same way to a 1% inflation
+deviation if the economy is in a "low inflation" regime (well below the threshold) versus a
+"high inflation" regime (above the threshold). The national thresholds identified in the graphs
+(4.5% to 7%) act as critical inflection points. If inflation exceeds these thresholds, the central
+bank may need to implement a more aggressive monetary policy response (a larger interest
+rate hike) to control inflation, as economic dynamics change beyond this point. Conversely,
+a more moderate response might suffice below the threshold. The "Threshold" and "State-
+14
+
+--- Page 16 ---
+dependent" lines in the impulse response graphs diverge from the "Baseline" (linear), visually
+demonstrating that the effect of monetary policy changes. The non-linear model better
+captures the reality of inflation dynamics in the region.
+In short, the optimal monetary policy rule for CEMAC should be conditional on the prevailing
+inflation regime, moving away from a simple linear rule that ignores these critical tipping
+points.
+5.4 Union Level Implications of Monetary Policy Shock
+The plot below shows the union-level inflation IRFs for the entire CEMAC region. It compares
+three different scenarios: (i) Baseline- The standard response without considering the specific
+thresholds; (ii) Threshold- The response when the threshold is accounted for and; (iii) State-
+dependent- The response based on the economy's specific state (e.g., above or below the
+inflation threshold).
+The plot reveals the nonlinear behaviour of inflation at the regional level, highlighting the
+importance of the inflation threshold for accurately modelling the effects of monetary policy
+within the union.
+5.5 Counterfactual Analysis of Inflation Response by Country (Monetary Policy
+Shock)
+15
+
+--- Page 17 ---
+6. Policy implications
+From a BEAC monetary policy perspective, the results suggest that effectiveness depends
+not only on the reaction to inflation gaps but also on the ability to prevent the inflationary
+threshold from being crossed. A monetary reaction that is too aggressive once the threshold
+is exceeded can generate disproportionate real costs for certain member economies. These
+findings argue for reinforced coordination between monetary policy and national fiscal
+policies, as well as the use of complementary instruments aimed at mitigating structural
+rigidities and stabilizing inflation expectations.
+Specifically, the following key implications are underlined:
+Realistic Inflation Target: the estimated real inflation thresholds for most countries (between
+4.5% and 7%) are higher than the 3% target adopted by the central bank. This implies that
+the current target might be too low or that monetary authorities must be aware that inflation
+dynamics change significantly at these higher levels.
+Monetary Policy Effectiveness: The effectiveness of monetary policy (its ability to control
+inflation and economic activity) is state-dependent, meaning it depends on whether inflation
+is above or below the threshold. The central bank must adjust its communication and actions
+based on the prevailing inflation regime.
+Heterogeneity and Coordination: The existence of different inflation thresholds for each
+country (ranging from 4.5% in Cameroon to 7% in Chad) poses a major challenge for a single
+monetary policy at the union level. A policy that is optimal for one country might not be for
+another.
+Need for Complementary Tools: The model highlights the need for complementary policies
+or increased coordination within the union to manage this structural heterogeneity. Specific
+national fiscal or structural policies might be necessary to maintain inflation around the
+union's target.
+16
+
+--- Page 18 ---
+These results argue for a more nuanced and potentially more flexible approach to inflation
+management within CEMAC.
+Recommendations for achieving the 3% inflation target within CEMAC, based on related
+research (Mvondo, 2019) include:
+Reassessing the Target's Relevance: The current 3% objective is deemed significantly lower
+than the empirically assessed inflation threshold for the zone (estimated at approximately
+4.53% on average). Monetary authorities may therefore need to re-evaluate whether this
+target is realistic given the region's current economic structure.
+Improving the Transmission Mechanism: Research suggests that monetary policy
+effectiveness is compromised by the banking system's high immunity to monetary shocks.
+For central bank decisions (such as interest rate changes) to translate effectively into the real
+economy and inflation, financial reforms and financial system development are necessary to
+revitalize credit channels.
+Policy Coordination: Close and effective coordination between monetary and fiscal policies
+is crucial for managing structural challenges and ensuring price stability.
+Transparency and Communication: Clear communication regarding inflation targets helps
+anchor the inflation expectations of economic agents, contributing to the long-term
+credibility and effectiveness of monetary policy.
+7. Conclusion
+This article analyses the impact of hybrid productivity and inflationary non-linearities on
+monetary policy transmission within the CEMAC zone, using a multi-country DSGE model
+that integrates Ricardian and non-Ricardian households, physical and human capital, a non-
+linear Galí-Gertler Phillips (1992) curve, and a Taylor rule dependent on the inflation regime.
+The main innovation of the proposed framework lies in the introduction and estimation of a
+structural inflation threshold directly affecting the transmission of marginal costs to prices.
+Bayesian estimation results indicate the existence of an inflation threshold around 5%,
+beyond which the pass-through from costs to inflation intensifies significantly. Below this
+threshold, nominal rigidities remain high and inflationary dynamics stay moderate. Above it,
+the Phillips curve becomes steeper, reflecting a partial de-anchoring of inflation expectations
+and a loss of effectiveness in traditional stabilization mechanisms. Generalized impulse
+response functions conditional on the inflation regime show that the transmission of a
+common BEAC monetary policy shock is highly dependent on the initial state of inflation.
+When the union’s average inflation is below the estimated threshold, output and inflation
+responses are moderate and relatively homogeneous across countries. In contrast, when
+inflation exceeds the threshold, adjustments become more persistent and more costly in
+terms of real activity, with significantly heterogeneous responses among member countries.
+17
+
+--- Page 19 ---
+This heterogeneity reflects the structural asymmetries inherent to CEMAC economies,
+particularly regarding production rigidities, import dependence, and initial fiscal positions.
+Despite a single monetary policy, some countries cross the inflationary threshold more
+quickly and suffer greater output losses, thus highlighting the limits of a uniform monetary
+rule in a monetary union characterized by differentiated economic structures. From a BEAC
+monetary policy perspective, the results suggest that effectiveness depends not only on the
+reaction to inflation gaps but also on the ability to prevent the inflationary threshold from
+being crossed. A monetary reaction that is too aggressive once the threshold is exceeded can
+generate disproportionate real costs for certain member economies. These findings argue for
+reinforced coordination between monetary policy and national fiscal policies, as well as the
+use of complementary instruments aimed at mitigating structural rigidities and stabilizing
+inflation expectations.
+Finally, this work opens several research perspectives. A natural extension would consist of
+further endogenizing the inflation threshold by linking it to institutional credibility or financial
+conditions, or integrating climate and financial shocks that could temporarily shift the
+threshold. These avenues would allow for a deeper understanding of non-linear inflation
+mechanisms in emerging economy monetary unions and strengthen the operational
+relevance of DSGE models for macroeconomic policy conduct.
+Références
+1. Acemoglu, D. (2009) – Introduction to Modern Economic Growth.
+2. Aghion, P. & Howitt, P. (1992) – A Model of Growth Through Creative Destruction.
+3. Anzoategui, D., Comin, D., Gertler, M. & Martinez, J. (2019) – Endogenous Technology,
+Globalization and Business Cycles.
+4. Avom D., et al. (2024) - "Déterminants de la Recherche et Développement (R&D) des
+entreprises au Cameroun", Revue Française d'Économie et de Gestion.
+5. Avom, D., & Nguena, C. (2012) - Chocs exogènes et croissance économique dans la
+CEMAC.
+6. Ball, L. & Mankiw, N. (2002) – The NAIRU in Theory and Practice.
+7. Basdevant, O., Björksten, N. (2005) – Productivity and Inflation Dynamics in New
+Zealand.
+8. Basu, S., Fernald J. (2001) – Why Is Productivity Procyclical?
+9. Benhabib, J., Schmitt-Grohé, S. & Uribe, M. (2001) – The Perils of Taylor Rules.
+10. Bernanke, B. & al. (1997, 1999) – Financial Accelerator.
+11. Bick, A. (2010) – Threshold Effects of Inflation on Economic Growth in Developing
+Countries.
+12. Biya, A. & al. (2020) – Inflation Dynamics in Central Africa.
+13. Borio, C., Filardo, A. (2007) – Globalisation and Inflation: New Cross-Country Evidence.
+14. Bruno, M. & Easterly, W. (1998) – Inflation Crises and Long-Run Growth.
+15. Comin, D. & Hobijn, B. (2010) – Technology Adoption and Productivity.
+18
+
+--- Page 20 ---
+16. Dholakia, R. H. (2020) - “A Theory of Growth and Threshold Inflation with Estimates”,
+(Presidential Address by Ravindra H. Dholakia to the annual conference of The Indian
+Econometric Society, Madurai on Jan.8, 2020), Journal of Quantitative Economics,
+18(3), Sept. 2020, pp.471-493.
+17. Drukker, D., Gomis-Porqueras, P. & Hernandez-Verme, P. (2006) – Threshold Models
+in Growth.
+18. Espinoza, R., Leon, H. & Prasad, A. (2011) – When Should We Worry About Inflation?
+The Threshold Level of Inflation for MENA Countries.
+19. Fernald, J. (2014) – A Quarterly, Utilization-Adjusted Series on Total Factor Productivity.
+20. Fernandez-Villaverde, J. et al. (2015–2020) – travaux sur non-linear DSGE,
+productivité, et ajustements asymétriques.
+21. Gali, J., Gertler, M., & López-Salido, D. (2001–2005) – New Keynesian Phillips Curve.
+22. Ghosh, A. & Phillips, S. (1998) – Warning: Inflation May Be Harmful to Your Growth.
+23. GOMBA E. Borgia, Kenkouo G. A., Mvondo E. T., et Nafe Daba (2016) - « Chocs et
+fluctuations macroéconomiques au Cameroun », BEAC Working Paper.
+24. IMF Regional Economic Outlook – Sub-Saharan Africa (annuel)
+25. Itchoko Motande Mondjeli Mwa Ndjokou et P. C. Tsopmo (2017) - Non-linéarité entre
+inflation et croissance économique : quels enseignements pour la zone BEAC ? Revue
+d’Economie du Développement.
+26. Khan, M. & Senhadji, A. (2001) – Threshold Effects in the Relationship Between Inflation
+and Growth – IMF WP.
+27. Ndiaye, A. & Mubonzi, J. (2017) – Inflation and Monetary Policy in the CEMAC Region.
+28. Njimanted, G. & al. (2020) – Inflation and Growth Thresholds in Africa: A Panel Smooth
+Transition Model.
+29. Romer, P. (1990) – Endogenous Technological Change.
+30. Sarel, M. (1996) – Nonlinear Effects of Inflation on Economic Growth – IMF Staff
+Papers.
+31. Stéphane Adjemian, Michel Juillard, Frédéric Karamé, Willi Mutschler, Johannes
+Pfeifer, Marco Ratto, Normann Rion and Sébastien Villemot (2024) - “Dynare:
+Reference Manual, Version 6,” Dynare Working Papers, 80, CEPREMAP.
+32. Stiroh, K. (2002, 2009) – Information Technology and Productivity; Reassessing U.S.
+Productivity Growth.
+33. Thanh, S. (2015) – Inflation Threshold and Economic Growth in Developing Asia.
+34. Tobin J. (1969) - « A general equilibrium approach to monetary theory », Journal of
+Money Credit and Banking, Vol 1, No 1, pp 15-29.
+35. Vaona, A. & Schiavo, S. (2007) – Nonparametric and Semiparametric Evidence on the
+Relationship Between Inflation and Growth.
+19
+
+--- Page 21 ---
+Appendix A. Model details
+Households
+The model features two types of households: Ricardian (R) and Non-Ricardian (NR).
+Ricardian Household
+A fraction 𝜆 of households is Ricardian and maximizes its expected utility such that:
+∞
+max E ∑ βtU(CR,CN)
+C tR,C tNR,It,Kt+1,Bt+1,B t∗,Ht+1 0 t=0 t t
+Instantaneous utility is given by:
+U(CR,CN) = 1 ( C tR
+)1−σC
+− χ (H NR)1+σc
+t t 1−σC C tR −1γ 1+σ
+l
+t t
+Where (H NR) represents effective labour.
+t t
+The budget constraint is given by:
+PCR +PI +PIH +B +ϵ S B∗ ≤ WH NR +RKK +RBB +ϵ S R∗B∗ +ΠR +PTrR
+t t t t t t t+1 t t t+1 t t t t t t t t t t t t t t
+▪ 𝜖 is the nominal exchange rate.
+𝑡
+• 𝑆 is the price of the foreign asset in foreign currency.
+𝑡
+• 𝑃 𝐼 is the household's investment expenditure.
+𝑡 𝑡
+• 𝐾 is the capital stock, whose law of motion is given by:
+𝑡
+2 2
+K = (1−δ)K
++[1−ϕI( It
+) ]I
+−ϕπmax[( Pt −π̄),
+0] I
+t+1 t t t
+2 It−1 2 Pt−1
+The last term of this expression represents the dependence of inflation on the capital
+adjustment cost.
+The dynamics of human capital are provided by an expression allowing for endogenous
+growth, namely:
+H = (1−δ )H +ψ (I tH
+)ζH
+H +ψ (GE)ηHH
+t+1 H t H t HE t t
+Ht
+The first-order conditions for this program (with 𝛬𝑅 as the marginal utility of income) are as
+𝑡
+follows:
+Consumption
+ΛR = UR −βγE [UR C tR +1( C tR
+)−σC
+]
+t C,t t C,t+1 CR CR γ
+t t−1
+With UR = ( C tR
+)−σC
+1 as the marginal utility of consumption.
+C,t CR γ CR γ
+t−1 t−1
+20
+
+--- Page 22 ---
+Labor Supply
+WtΛR = UR ⟹ WtΛR = χ(NR)σ l
+t C,t t t
+Pt Pt
+Domestic Bonds
+ΛR = βRBE [Λ tR +1]
+t t t
+πt+1
+Foreign Bonds
+ϵ S ΛR = βR∗E [ϵ S ΛR ]
+t t t t t t+1 t+1 t+1
+Capital Investment
+2 2
+1 = q [1−ϕ (
+It
+−1)
+It −ϕI( It
+)
+−ϕπmax[( Pt −π̄),
+0] ]−β[q ϕ
+(It+1−1)It+1]
+t I t+1 I
+It−1 It−1 2 It−1 2 Pt−1 It It
+Where 𝑞 , which stems from the work of Tobin (1969), is the marginal value of installed
+𝑡
+capital.
+Capital
+q = βE [Λ tR +1(RK +q (1−δ))]
+t t ΛR t t+1
+t
+Non-Ricardian Household
+A fraction 1−𝜆 of households is non-Ricardian and does not optimize. Its budget constraint
+is:
+PCNR = WNNR +PTrNR
+t t t t t t
+Firms
+The Final Good Producing Firm
+It operates under perfect competition and aggregates a continuum of differentiated
+intermediate goods (Y(j)) to produce the final good (Y).
+t t
+Production Function
+−ϵ
+Y(j) =
+(Pt(j)
+) Y
+t t
+Pt
+21
+
+--- Page 23 ---
+𝜖 is the elasticity of substitution between intermediate goods.
+Profit Maximization
+The firm maximizes its profit by choosing the demand for each intermediate good:
+1
+max[PY −∫ P (j)Y(j)dj]
+t t 0 t t
+The first-order condition for the demand for intermediate good (j) yields the following
+demand function:
+−ϵ
+Y(j) =
+(Pt(j)
+) Y
+t t
+Pt
+The aggregate price index resulting from the zero-profit condition is:
+1
+P = (∫1 P(j)1−ϵdj)1−ϵ
+t 0 t
+The Intermediate Good Producing Firm
+It operates under monopolistic competition and produces a differentiated good by combining
+capital (K ), human capital (H), and labour (N), and faces Calvo-type (1983) rigidities.
+Production Function
+Y(j) = A K (j)α(H N (j))1−α
+t t t t t
+Where (H N (j)) represents the effective labor factor and 𝐴 represents the hybrid
+t t 𝑡
+technology.
+Cost Minimization
+Subject to the production function constraint, the firm chooses 𝐾 (𝑗) and 𝑁 (𝑗), given factor
+𝑡 𝑡
+costs:
+min [RKK (j)+WN (j)]
+t t t t
+Kt(j),Nt(j)
+Hence the marginal cost:
+mc =
+1 (R tK )α (Wt)1−α
+t
+At α 1−α
+Profit Maximization and Calvo Principle
+Following Calvo (1983), firms optimize their prices with probability 1−𝜉 and index them to
+the previous period with probability 𝜉. The first-order condition of the optimization program
+is:
+E ∑∞ (βξ)kΛ [(P∗ −ϵP t,t+kmc )Y (j)] = 0
+t k=0 t,t+k t P∗ t+k t+k
+t
+22
+
+--- Page 24 ---
+Resulting in the hybrid Phillips curve:
+π = (1−ξ)(1−βξ) mc +βE π +χ π +ϵπ j
+t,j ξ t t t+1 p t−1 t,j
+With:
+▪ 𝜒 as the degree of Calvo (1983) indexation.
+𝑝
+▪ κlow = (1−ξ)(1−βξ)
+j
+ξ
+▪ κ = κlow +(κhigh −κlow)F(A ,Ā )
+j j j j t,j j
+▪ F(A ,Ā ) = 1
+t,j j 1+exp[R&D −Ā ]
+t,j j
+The R&D Sector Firm
+The R&D sector creates new technological products, thus contributing to the dynamics of the
+hybrid productivity (𝐴) given by:
+A = AForeign ADomestic
+t,j t,j t,j
+And therefore:
+log(A ) = log(AForeign )+log(ADomestic)
+t,j t,j t,j
+Foreign
+Thus, A is an autoregressive process that benefits from foreign productivity dynamics
+t
+and is considered the exogenous part, while ADomestic follows endogenous evolution. Their
+t
+expressions are provided by:
+AForeign = ϵForeign Aρ A,Foreign
+t,j t,j t−1,j
+ADomestic = F(R&D ,A )
+t,j t,j t−1,j
+The State
+PG +B +PTr = Tax +RBB +Tr
+t t t+1 t t t t t t+1
+The Central Bank
+The standard Taylor rule (1993) is given by:
+RB = R̄ (Pt⁄Pt−1)ϕ π (Yt)ϕy
+t π̄ Y∗
+t
+Open Economy
+Net exports depend on the real effective exchange rate (Q =
+ϵtP t∗
+) and relative demand
+t
+Pt
+conditions:
+NX = f(Q ,Y,Y∗) = ψ Y∗ −ψ Y +Q,Q
+t t t t NX t NX,Y t t
+The resource constraint is:
+Y = CR +CNR +I +IH +G +NX
+t t t t t t t
+23
+
+--- Page 25 ---
+Appendix B. Multivariate convergence diagnostic
+LINEAR MODEL
+NONLINEAR MODE
+24
+
+--- Page 26 ---
+Appendix C. Impulse Response Functions for specific shocks
+25
+
+--- Page 27 ---
+26
+
+--- Page 28 ---
+Appendix D. Impulse Response Functions of hybrid productivity shocks
+27

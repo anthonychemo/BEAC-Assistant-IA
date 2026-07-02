@@ -1,0 +1,703 @@
+Source PDF : BEAC_Working_Paper_N°08_18_Mobilité_intra-régionale_des_personnes_et_des_biens_et_chocs__0b143c10.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°08_18_Mobilité_intra-régionale_des_personnes_et_des_biens_et_chocs__0b143c10.pdf
+Date extraction : 15/06/2026 21:23:42
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 08/18 -
+Mobilité intra-régionale des personnes et des biens et chocs
+asymétriques au sein de la CEMAC
+GNIM ASSOUN Blaise KENECK MASSIL BIKAI J. Landry
+Maître de conférences Docteur en sciences économiques D o c t e u r en sciences économiques
+Université de Paris-Nanterre Université de Yaoundé 2 E t Direction des Etudes, de la
+blaise.gnimassoun@univ-lorraine.fr j oseph.keneckmassil@gmail.com Recherche et des Statistiques
+bikai@beac.int
+B ANQ U E D E S E T A T S D E
+L’AF R IQ U E C E NT R ALE Les opinions émises dans ce document de
+travail sont propres à leur (s) auteur (s) et ne
+7 36, Av e n ue M on s e i g n e ur
+représentent pas nécessairement la position de la
+V og t B P:1 9 1 7 Y a o un d é
+C a me roun Banque des Etats de l’Afrique Centrale.
+T e l :(2 37 ) 2 2 2 34 0 30 / The opinions expressed in this working
+2 2 2 34 060 paper are those of the author (s) and don’t
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9
+of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E S E T U D E S, D E L A R E CH E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+Mobilité intra-regionale des personnes et des biens et chocs
+aysmétriques au sein de la CEMAC
+Gnimassoun Blaise∗,Keneck Massil Joseph∗∗, & Bikai J. Landry∗∗∗
+Décembre 2018
+Résumé
+Les chocs aysmétriques sont une préoccupation majeure lorsque les pays sont membres d’une
+mêmeunionmonétaireetéconomique.Lathéoriedeszonesmonétairesoptimalesconsidèrequela
+mobilité intra-régionale des biens et des personnes devrait créer les conditions d’une atténuation
+deschocsasysmétriques.Danscepapier,nousétudionsleseffetsdel’intégrationdanslaCEMAC
+à travers l’analyse de la mobilité des personnes et des biens sur les chocs asymétriques au sein
+de la zone. En particulier, nous examinons l’effet du commerce intra-régionale sur l’écart absolu
+de croissance et d’inflation d’une part et nous analysons l’effet de la migration sur l’écart absolu
+de chômage. A l’aide de modèles de gravité appliqués sur un panel constitué des six pays de
+la zone, nous parvenons aux résultats que, le commerce intra-CEMAC permet une réduction
+des chocs asymétriques de croissance économique et d’inflation. Nous trouvons également que
+la migration des personnes entre les pays de la CEMAC est susceptible d’atténuer les pressions
+de chômage dans les Etats.
+Mots-clés : Intégration régionale, Union monétaire et économique, Chocs asymétriques.
+Codes JEL : F15, F45.
+Intra-regional mobility of people and goods and shocks within
+the CEMAC countries
+Abstract
+Asymmetricshocksanalysisareveryimportantinamonetaryandeconomicunion.Thetheoryof
+optimal currency areas has stated that intra-regional mobility of goods and people should create
+conditions for mitigating asymmetric shocks. In this paper, we study the effects of integration
+in CEMAC countries and the effects of mobility of people and goods on asymmetric shocks
+within this area. In particular, we examine the effect of intra-regional trade on the absolute
+gap of growth and inflation on the one hand, and on the second hand we analyse the effect of
+migration on the absolute gap of unemployment. Using gravity models applied on a panel of six
+countries of the CEMAC area, we found that the intra-CEMAC trade leads to a reduction of
+the asymmetrical shocks of economic growth and inflation. We also found that the migration
+of people between CEMAC countries likely to ease the pressures of unemployment within the
+economies.
+Keywords : Regional Integration, Monetary and Economic Union, Asymmetric Shocks.
+JEL Classification : F15, F45.
+∗. BETA-CNRS, Université de Lorraine et EconomiX-CNRS, Université Paris Nanterre, France.
+∗∗. CEREG -Université de Yaouné II- Soa, Cameroun et CEMOTEV-Université de Versailles
+∗∗∗. Direction de la Recherche de la Banque des Etats de l’Afrique Centrale (BEAC).
+Les auteurs remercient le Pr. AVOM ainsi que les cadres de la BEAC pour leurs observations et
+commentaires,leséventuelleserreursetomissionscontenuesdanscetteétudesontduseulfaitdeceux-ci.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non technique 3
+Introduction 4
+1 Révue de la littérature 6
+2 Méthodologie empirique 7
+3 Les données 9
+4 Résultats et analyses 9
+4.1 Analyse des résultats du modèle de gravité . . . . . . . . . . . . . . . . . . . . . 10
+4.2 Intégration et chocs asymétriques en zone CEMAC . . . . . . . . . . . . . . . . . 12
+Conclusion 16
+Bibliographie 17
+2
+
+--- Page 4 ---
+Résumé non technique
+La théorie des zones monétaires optimales nous enseigne que la constitution d’une zone mo-
+nétaire peut permettre d’attenuer les tensions de chômage entre les pays, et conduire également
+à une plus grande convergence des cycles à travers le commerce intra régional qu’il induit.
+L’objectifdecetteétudeestdoncdevérifiersilerenforcementducommerceetdelamigration
+intra-CEMAC permet une plus grande stabilité dans la zone. Nous procédons ainsi en deux
+étapes et examinons (i) l’impact du commerce intra-régional sur les écarts absolus de croissance
+et d’inflation entre les pays de la CEMAC, et (ii) nous analysons l’impact de la migration
+intra-régionale sur l’écart absolu de chômage entre les pays de la sous-région.
+Notre approche méthodologique repose sur une estimation préalabre de modèles de gravité
+pour obtenir des valeurs corrigées de l’endogéneité du commerce et de la migration, que nous
+regressons ensuite sur les écarts de croissance, d’inflation et de migration par la méthode des
+moindres carrés ordinaires (MCO) et par celle des variables instrumentales sur la période 1995-
+2015.
+Nos résultats indiquent que, l’accroissement du commerce intra régional agit en faveur de la
+réduction des chocs de croissance économique et d’inflation. Nous trouvons aussi que l’accrois-
+sement de la migration des personnes entre les pays de la CEMAC est susceptible d’atténuer les
+pressions de chômage dans ces Etats.
+Les résultats obtenus interpellent à la fois les autorités monétaires mais également les Etats
+de la sous-région :
+— En mettant en avant l’effet du commerce intracommunautaire sur l’inflation, cette étude
+permet d’identifier un potentiel canal d’inflation dans la zone CEMAC qui est celui du
+faible niveau d’échange justifié par une absence d’infrastructure. La BEAC en mainte-
+nant son soutien aux entités œuvrant pour le développement des Etats de la sous-région
+(BDEAC), pourrait contribuer à réduire ces pressions inflationnistes;
+— En mettant en lumière le rôle positif de la migration intra régionales des personnes sur
+la réduction du chômage, l’étude permet aussi de faire une évaluation positive de la
+décision des Etats en 2017 de supprimer les contraintes à la mobilité des personnes dans
+la CEMAC.
+3
+
+--- Page 5 ---
+Introduction
+Danscetarticlenousétudionsl’effetdel’intégrationsousrégionalesurleschocsasymétriques
+au sein de la Communauté Économique et Monétaire de l’Afrique Centrale (CEMAC)1. Plus
+précisément nous cherchons à vérifier si le renforcement du commerce et de la migration intra-
+CEMAC permettent une plus grande stabilité dans la zone. Nous examinons ainsi (i) l’impact
+du commerce intra-régional sur les écarts absolus de croissance et d’inflation entre les pays de
+la CEMAC, et (ii) nous analysons l’impact de la migration intra-régionale sur l’écart absolu de
+chômage entre les pays de la région.
+Les avantages associés à une intégration économique et/ou monétaire régionale sont nom-
+breux.Outrelesavantageséconomiquesetthéoriquesrelatifsàl’intensificationdeséchanges,àla
+mobilité des personnes et des capitaux, l’intégration régionale est considérée comme un outil de
+synchronisationdescycles,decroissanceetdestabilitépolitique.PourlespaysdelaCEMACqui
+n’ont individuellement qu’une influence limitée sur le plan mondial, les avantages d’une intégra-
+tionéconomiqueetmonétairesontencoreplusimportants.L’intégrationconstitueuninstrument
+de diplomatie et d’expression de pouvoir notamment dans un contexte mondial marqué par des
+mutations économiques et technologiques majeures. Cependant, l’intégration économique et/ou
+monétaire a aussi des désavantages notamment en ce qui concerne l’expression individuelle de
+la politique monétaire et de change. Seules les politiques budgétaires sont du ressort des Etats
+bien que parfois soumises à des règles communautaires utiles pour la convergence des économies.
+L’inconvénient majeur à l’échelle d’un pays reste donc la perte de souveraineté sur certains ins-
+truments de politique économique en particulier (i) l’instrument monétaire et de change, (ii) les
+contraintes budgétaires imposées dans la conduite de la politique budgétaire, ou encore (iii) la
+gestion des flux migratoires dans le cadre d’une intégration économique.
+Les risques associés à une intégration régionale sont considérablement réduits lorsque celle-
+ci contribue réellement à l’amélioration du niveau de vie des populations des pays membres.
+Pour que les coûts associés à une intégration ne l’emportent pas sur les avantages, plusieurs
+conditions économiques sont requises. Ces conditions ont été théorisées par Mundell (1961) dans
+sa théorie des zones monétaires optimales (ZMO). Mundell considère que les pays candidats
+à une intégration économique (principalement monétaire) doivent avoir des liens commerciaux
+très étroits, et des cycles économiques positivement corrélés et doivent supprimer les entraves à
+la mobilité du facteur travail. En d’autres termes, les coûts associés à une intégration monétaire
+sont considérablement réduits lorsque les pays ne sont pas confrontés à des chocs asymétriques.
+Dans le cas contraire une forte mobilité des biens et surtout des personnes est requise pour
+contrer les effets des chocs asymétriques.
+Dès lors, une question centrale se pose dans le cadre de l’intégration de la CEMAC. Plutôt
+que de se focaliser sur l’optimalité dont la pertinence est antérieure à la formation d’une union
+monétaire, la question fondamentale nous semble celle désormais a posteriori de l’asymétrie des
+chocs.Plusclairement,lamobilitédespersonnesetdesbiensauseindelaCEMACfavoriset-elle
+la réduction des chocs asymétriques? Cette interrogation apparait d’autant plus fondamentale
+que l’intensité de l’intégration au sein de la CEMAC apparaît singulière. En effet, malgré la
+longévité de l’Union, les échanges intra-communautaires de biens et services restent limités (en
+dessous de 10 % du commerce total de la zone en 2016).
+1. La CEMAC est un espace économique et monétaire, dont la politique monétaire est assurée par
+la Banque des États de l’Afrique Centrale (BEAC) et comprend six pays que sont le Cameroun, la
+République centrafricaine, le Congo, la Guinée équatoriale, le Gabon, et le Tchad.
+4
+
+--- Page 6 ---
+Tableau 1 – Commerce intra et inter communautaire en Afrique (en % des exportations totales et des
+importations totales)
+ZONES UMA CEMAC COMESA CEEAC CEDEAO SADC UEMOA AFR
+Exportationsvers...
+UMA 4,5 5,7 1,6 0 0,4 0,2 0,2 6,9
+CEMAC 2,1 8 2,4 0,7 1,4 0,9 3,8 14
+COMESA 2,7 5,9 11 3 2,7 3,9 9,8 18,2
+CEEAC 0,4 9,7 28,9 18,4 9,3 13,2 16,6 40
+CEDEAO 0 0,7 1,8 0,1 1 0 4,2 5,5
+SADC 0,3 11,5 18,1 10,7 3,2 13,6 8 27,2
+UEMOA 0,2 1,9 8 1,1 2,6 0,8 19,3 21,9
+AFRIQUE 1,6 5,3 4,4 0,9 1,8 1 9,1 15,7
+Importationsvers...
+UMA 3,5 3,6 2 0 0 0,1 0,3 5,8
+CEMAC 3,2 6,4 1,8 0,3 0,3 0,6 1,1 10,3
+COMESA 2,6 3,8 6,1 2,3 1,1 2,1 9 15,3
+CEEAC 0,1 5,5 8 7,1 0,2 6 5,4 12,7
+CEDEAO 5,1 4,8 3,2 1 2,4 0,2 7,6 19,6
+SADC 0,3 4,7 6,4 2,9 0 3,9 2,8 9,1
+UEMOA 0,4 3,9 4,5 1,1 2,2 0,7 19 23,6
+AFRIQUE 2,3 5,4 2,8 0,9 1 0,8 7 14,6
+Source : Auteurs à partir de l’annuaire statistique BAD-CEA-UA, Edition 2016.
+Note : UMA :Union du Maghreb arabe, CEMAC :Communauté Economique et Monétaire de l’Afrique
+centrale, COMESA : Marché Commun de l’Afrique Australe et Orientale, CEEAC : Communauté
+Economique des Etats de l’Afrique Centrale, CEDEAO : Communauté Economique des Etats d’Afrique
+de l’Ouest, SADC : Communauté pour le Développement de l’Afrique Australe, UEMOA : Union
+Economique et monétaire Ouest-Africaine.
+Cependant, la mobilité intra-régionale des personnes est relativement importante puisque
+près de la moitié de la migration totale de la CEMAC est intra-communautaire. Dans ces condi-
+tions, la capacité de l’intégration régionale – via le commerce et la migration intra CEMAC –
+à réduire les chocs asymétriques est sujette à questionnement et suscite une investigation. La
+CEMAC offre un cadre d’étude intéressant et approprié pour étudier cette question puiqu’elle
+totalise plus d’un demi-siècle d’intégration monétaire couplée d’une intégration économique de
+plus de deux décennies.
+L’étude est utile pour la conduite de la politique monétaire car une mobilité plus importante
+des personnes et des biens dans une union accroit théoriquement la synchronisation des cycles
+utile à l’efficacité de la politique monétaire. La problématique abordée ici est centrale pour les
+paysdelaCEMACetsejustifiepar:(i)l’officialisationdelalibrecirculationdespersonnesactée
+au cours de la Conférence des Chefs d’Etat du 31 octobre 2017, et (ii) la necessité d’intensifier
+les échanges intrarégionales encore très faibles.
+Notre étude s’appuie en particulier sur la théorie de l’endogénéité des zones monétaires
+développée par Frankel et Rose (1998). Outre les flux commerciaux utilisés par Frankel et Rose
+(1998), la principale innovation de cette étude est l’usage de la mobilité des personnes qui est un
+pilier fondamental de la théorie des ZMO de Mundell (1961) et donc de l’intégration. En effet, si
+lesfluxcommerciauxpeuvents’intensifieraprèsuneintégrationéconomiqueetmonétaire,iln’en
+est pas moins pour la mobilité des travailleurs. En plus du commerce, la mobilité des personnes
+est donc potentiellement un facteur endogène d’une intégration. D’ailleurs, l’idée de considérer
+à la fois le commerce et la migration est plus fidèle à la théorie des ZMO.
+L’approche empirique de cette étude repose sur une estimation préalabre de modèles de
+gravité pour obtenir des valeurs corrigées de l’endogéneité du commerce et de la migration, que
+nous regressons ensuite sur les écarts de croissance, d’inflation et de migration par les moindres
+carrés ordinaires (MCO) et par la méthode des variables instrumentales. Nous parvenons à
+5
+
+--- Page 7 ---
+deux principaux résultats. Prémièrement, le renforcement du commerce intra-régional permet
+de réduire les chocs asymétriques de croissance et d’inflation. Deuxièmement, l’accroissement de
+la migration intra-régionale permet de réduire l’écart absolu du taux de chômage entre les pays.
+La suite de l’article s’organise comme suit : la première section fait une revue de littérature
+et positionne notre étude dans un ancrage théorique et empirique. La deuxième section expose
+la démarche empirique. La troisième section présente les données et la quatrième section est
+réservée à l’analyse et la discussion des résultats.
+1 Révue de la littérature
+La question de la mobilité intra-regionale des personnes et des biens dans la zone CE-
+MAC s’inscrit dans la littérature des zones monétaires optimales traditionnelle (Mundell, 1961;
+McKinnon, 1963; Kenen, 1969) et de la théorie de l’endogénéité des unions monétaire (Frankel
+et Rose, 1998).
+Dans la théorie des zones monétaires traditionnelles, Mundell (1961) considère que les pays
+candidats à une intégration économique doivent remplir un certain nombre de conditions éco-
+nomiques pour profiter de la baisse des coûts de transactions et minimiser ceux liés à la perte
+de l’instrument de politique économique notamment l’autonomie de la politique monétaire pour
+mener une politique contra-cyclique. Parmi ces conditions figurent au premier plan l’absence
+de chocs asymétriques fréquents et de grande ampleur et la mobilité des facteurs de produc-
+tion en particulier le facteur travail. Par conséquent, pour former une intégration économique
+et monétaire "optimale", il est souhaitable que les pays candidats aient des cycles économiques
+positivement corrélés et qu’il n’y ait pas d’entraves à la mobilité du facteur travail entre ces
+pays. McKinnon (1963) et Kenen (1969) ont complété les travaux de Mundell (1961). Alors que
+McKinnon (1963) met l’accent sur la nécessité d’une forte ouverture des pays candidats à une
+intégration économique, Kenen (1969) souligne l’importance de la diversification des économies.
+Selon ce dernier, une diversification des économies permet d’atténuer les chocs asymétriques qui
+pourraient frapper les pays candidats à la formation d’une union monétaire et compromettre la
+soutenabilité de cette dernière. La principale limite de ces approches traditionnelles est qu’elles
+imposent des conditions préalables pour la constitution d’une union alors qu’il existe plusieurs
+unions qui ne remplissent pas nécessairement les conditions énoncées.
+LestravauxdeFrankeletRose(1998)contribuentàunrenouvellementdelathéoriedeszones
+monétaire traditionnelle. Plutôt que de cibler des critères à respecter pour former une union,
+ces derniers remarquent que les conditions associées aux ZMO sont endogènes dans la mesure
+où le commerce entre les pays tend à croître après l’intégration. Mieux encore, du fait des liens
+commerciauxcroissantsentrelespays,lescycleséconomiquesdeviennentdeplusenpluscorrélés
+(cette thèse de Frankel et Rose a donné lieu à la théorie de l’endogénéité de l’intégration). Ces
+arguments ont des implications majeures pour la politique économique puisqu’ils désacralisent
+largement les conditions requises pour les ZMO et montrent que l’on ne peut pas uniquement se
+baser sur des données historiques pour juger de la pertinence d’une intégration économique et
+monétaire. Cependant, cette hypothèse ne fait pas l’unanimité. En effet, Eichengreen (1992) et
+Krugman (1993) soutiennent que lorsque le commerce devient plus fortement intégré entre les
+pays membres d’une union monétaire, ceux-ci se spécialisent davantage dans la production pour
+laquelle ils ont un avantage comparatif; ce qui réduit la corrélation de leurs cycles économiques
+en raison des divergences de chocs d’offre.
+6
+
+--- Page 8 ---
+LaplupartdestravauxempiriquesquiontsuiviceuxdeFrankeletRose(1998)sesontconcen-
+trés pour plusieurs sur le cas des pays industrialisés ou émergents. Imbs (2004) en utilisant un
+système d’équations simultanées pour 24 pays développés et émergents, il montre que le com-
+mercefavoriselasynchronisationdescycleséconomiquesmaisqueceteffetpasseessentiellement
+par le commerce intra-industriel. Duval et al. (2014) réexaminent la relation entre l’intégration
+commerciale et la synchronisation des cycles économiques en utilisant des techniques de panel
+pour 63 économies avancées et émergentes sur la période 1995-2012. Ils montrent que, même
+contrôlée des chocs mondiaux communs et de l’hétérogénéité, l’intensification des échanges a
+un impact positif sur la synchronisation des cycles notamment en période de crise. Leurs résul-
+tats confirment également ceux de Shin et Wang (2003) et Imbs (2004) sur le rôle majeur du
+commerce intra-industriel.
+Les travaux sur l’intégration et les chocs asymétriques dans les pays d’Afrique sont quelque
+peuraresmaisilfautsoulignerlaprésencedestravauxsurlasynchronisationdescycles.Tapsoba
+(2009) examine le degré de synchronisation des cycles de croissance économique dans les unions
+monétaires envisagées en Afrique. Bien qu’ayant mis en évidence une faible synchronisation des
+cycles entre les pays membres des blocs régionaux constitués, il montre que l’intensification du
+commerce entre les pays permettrait d’augmenter la synchronisation des cycles économiques.
+Carmignani (2010) examine le degré de synchronisation des cycles économiques dans les pays de
+laCEMACsurlapériode1960-2007etmontrequeleniveauglobaldesynchronisationdescycles
+reste faible. Bikai et Afomognono (2017) aboutissent également à la conclusion selon laquelle,
+malgré un commerce intra régional faible, une intensification du commerce permet une plus
+grande synchronisation des cycles dans la CEMAC.
+D’autres travaux ont mis en évidence, sur la base de modèles de gravité, que les accords
+régionaux ont un impact significatif sur le commerce en Afrique (Carrere, 2004; Masson et Pat-
+tillo, 2004 et Tsangarideset al, 2006). Carrere (2004) montre à travers l’estimation des modèles
+de gravité en panel que l’impact des accords commerciaux préférentiels sur le commerce est plus
+important lorsque les pays sont en union monétaire comme ceux de la Zone Franc. Masson et
+Pattillo (2004) montrent que, comparativement aux Etats africains disposant de leur souverai-
+neté monétaire, le volume des échanges au sein des unions monétaires africaines est environ trois
+fois plus élevé. Tsangarides et al (2006) confirment ce résultat en indiquant que l’effet des unions
+monétaires africaines engendrent presqu’un doublement des échanges entre les pays membres.
+Gnimassoun et al. (2018) montrent que la soutenabilité est modèrée à long terme dans les pays
+delaZoneFranc.Cequipeineàinduireunefortesynchronisationdescyclesmacroéconomiques.
+Les travaux existants examinent le degré de synchronisation des cycles économiques sans
+toutefoissepréoccuperdel’importancedeschocsasymétriquesdanslespaysdelazoneCEMAC
+d’unepartetl’ensembledecesétudesprennentencomptelecommercesansjamaissepréoccuper
+de la mobilité des personnes. Cette étude vise donc à combler ce gap empirique.
+2 Méthodologie empirique
+Compte tenu de l’objectif visé dans cet article, nous regresserons les écarts absolus des va-
+riables macroéconomiques (croissance, inflation et chômage) sur le degré d’intégration régionale
+(commerce et migration intra-CEMAC). Notre modèle de base est estimé avec l’approche des
+moindres carrés ordinaires (MCO). Cependant pour faire face à d’éventuels biais d’endogénéité,
+nous pousserons l’investigation plus loin en utilisant une approche par les variables instrumen-
+tales basée sur les modèles de gravité. Le commerce et la migration bilatéraux seront donc
+7
+
+--- Page 9 ---
+estimés à travers des modèles de gravité dans lesquels les facteurs géographiques et culturels
+serviront de variables explicatives. Dès lors, nous pourrions estimer la composante exogène du
+commerce et de la migration intra-régionaux qui servira dans notre stratégie d’identification.
+Le modèle de base que nous estimons est de la forme suivante :
+G = γ +γ lnI +γ X0B +e (1)
+ij 0 1 ij 2 i ij
+Dans cette équation, G est une mesure des effets de chocs asymétriques. Il s’agit des écarts
+ij
+absolus des variables macroéconomiques (croissance, chômage, inflation).
+Notre principale variable d’intérêt est I qui est :
+ij
+— soitlecommercebilatéral(exportations+importation–entrelepaysietlepaysjdevisé
+par le PIB du pays d’origine i);
+— soit la migration bilatérale (mesurée par le stock de migrants nés dans un pays i (j) et
+résidents dans un pays j (i) en pourcentage de la population du pays d’origine).
+La matrice X contient les variables de contrôle que nous spécifions ci-dessous et e est le
+ij
+terme d’erreur.
+Le modèle de gravité est inspiré de celui de Orgeta et Peri (2014) qui lui-même étend la
+spécification initiale de Frankel et Romer (1999). Les déterminants du commerce bilatéral (dans
+le cas d’Ortega et Peri, 2014) sont essentiellement des facteurs géographiques. Dès lors, les
+valeurs prédites à travers les estimations sont utilisées comme instruments pour le commerce
+et la migration pour traiter la bi-causalité; Le modèle est estimé avec les MCO et l’estimateur
+PPML (Poisson pseudo maximum likelihood). La spécification de notre modèle de gravité est la
+suivante :
+lnI = γ +γ lnDist +γ lnPop +γ lnPop +γ lnArea +γ lnArea +
+ij 0 1 ij 2 i 3 j 4 i 5 j (2)
+γ Landlocked +γ Landlocked +γ Border +γ ComLang +e
+6 i 7 j 8 ij 9 ij ij
+Les variables explicatives impliquées dans ce modèle sont les suivantes : Dist est la dis-
+ij
+tance entre le pays d’origine i et le pays de destination j, Pop désigne la population, Area est
+la superficie du pays, Landlocked est une variable dummy pour distinguer les pays enclavés,
+ComLang variables dummy pour le partage de la langue commune, Border est une variable
+dummy qui désigne l’existence ou non d’une frontière commune entre les pays. L’objectif ici est
+d’identifier l’influence des facteurs géographiques sur l’intégration dans la zone CEMAC.
+Une fois que les modèles de gravité décrits dans l’équation 2 sont estimés, nous en extrayons
+les valeurs prédites du commerce et de la migration pour chaque pays i par simple addition
+des valeurs bilatérales estimées à travers les pays de destination j. Ces valeurs prédites sont par
+la suite introduites dans l’estimation de l’équation 1 (de l’écart absolu du taux de croissance,
+d’inflation et de chômage).
+8
+
+--- Page 10 ---
+3 Les données
+Plusieurs sources ont été mobilisées pour collecter les données nécessaires pour cet article.
+Concernant les modèles de gravité, nos données sur le commerce bilatéral proviennent de la
+Direction des Statistiques Commerciales (DOTS) du FMI. La base de données DOTS contient
+des données sur la valeur des exportations et des importations de marchandises entre chaque
+pays et tous ses partenaires commerciaux. Les données sur la migration bilatérale sont issues
+des bases de données "Global Bilateral Migration Database" de la Banque Mondiale et "United
+Nations Global Migration Database" des Nations Unies. Après avoir vérifié la conformité de
+ces bases, nous les avons combinées pour obtenir des données sur la période 1995 à 2015. Les
+données sur les variables géographiques des pays sont extraites de la base de données du CEPII
+(Centre d’Etudes Prospectives et d’Informations Internationales). Cette source est également
+utilisée pour les variables culturelles (langues officielles et ethniques communes).
+Pour l’étude du lien entre l’intégration et les chocs asymétrique, nous utilisons l’écart absolu
+de croissance du PIB, l’écat absolu d’inflation, et l’écart absolu de chomâge. Le taux d’inflation
+provient du World Economic Outlook du FMI tandis que la croissance est issue de la base de
+données de la CNUCED. Le chômage est calculé par nos soins en faisant la différence entre
+la population âgée de 25 ans et plus, et la population active2. Le tableau ci-dessous fait une
+illustration des statistiques descriptives de notre étude.
+Tableau 2 – Statistiques descriptives
+Variable Obs Moy EC. type Min Max
+Ecart ab crois 75 8,11 9,22 0,02 35,15
+Com intra-CEMAC 75 0,35 0,57 0 3,42
+Ecart abs TEC 75 36,18 38,01 0,03 148,73
+Ecart abs IDE 75 11,64 17,73 0,1 76,64
+Ecart abs inflation 75 4,25 8,34 0,1 37,34
+Ln pop. orig. 75 1,88 0,94 0,8 3,024
+Ln pop. dest. 75 0,58 0,93 0,8 2,47
+Ln sup orig. 75 6,19 0,87 3,3 7,13
+Ln Sup. Totale 75 5,28 1,29 3,33 7,13
+Ln distance 75 6,8 0,4 5,86 7,46
+Enclavement 75 0,66 0,6 0 2
+Frontière 75 3,95 3,26 0 7,08
+Ln Pop. Totale 75 2,47 2,46 0,71 5,5
+4 Résultats et analyses
+Les résultats sont structurés en deux points. Premièrement, nous présentons et commentons
+les résultats du modèle de gravité pour le commerce et la migration. Deuxièmement, nous ex-
+posons et discutons les résultats sur l’impact de l’intégration sur les chocs asymétrique dans la
+zone CEMAC.
+2. Nousavonsenvisagél’utilisationdelapopulationâgéede18etplus,maisnousnoussommesheurtés
+à l’indisponibilité des données
+9
+
+--- Page 11 ---
+4.1 Analyse des résultats du modèle de gravité
+Les résultats du modèle de gravité estimé pour le commerce bilatéral et la migration intra-
+CEMAC sont présentés dans le Tableau 2. Pour s’assurer de la robustesse de nos résultats nous
+utilisonslesMCOetl’estimateurPPML(Poissonpseudomaximumlikelihood,enfrançais"Pois-
+sonpseudomaximumdevraisemblance").L’estimateurPPMLestrecommandéparSilva-Santos
+et Tenreyro (2006) dans le cadre des modèles de gravité pour tenir compte d’une éventuelle sur-
+représentation des flux commerciaux bilatéraux nuls et du biais d’hétéroscédasticité que cela
+induit.
+Tableau 3 – Résultats des modèles de gravité
+Commerce intra- Migration intra-
+CEMAC CEMAC
+VARIABLES PPML OLS PPML OLS
+Ln distance -2.933*** -3.422*** 0.475 -0.979
+(0.469) (0.870) (1.103) (0.861)
+Ln pop. orig. -0.963*** -0.407** -0.541* -0.764***
+(0.125) (0.174) (0.297) (0.197)
+Ln pop. dest. 1.000*** 0.795 0.077 0.341
+(0.302) (0.577) (0.924) (0.434)
+Ln sup orig. 2.095*** 1.523*** -0.919** -0.401
+(0.224) (0.423) (0.446) (0.339)
+Ln sup. dest. 0.384*** 0.712*** 0.629* 0.964***
+(0.124) (0.228) (0.351) (0.208)
+Enclavement -2.943*** -2.436*** 0.453 0.201
+(0.285) (0.504) (0.620) (0.386)
+Langue commune -0.652** 0.255 -0.160 0.437
+(0.271) (0.392) (0.676) (0.551)
+Frontière -0.604 -0.852 2.020* -0.178
+(0.481) (0.771) (1.067) (0.815)
+Constant 6.509** 9.452** -3.873 2.439
+(2.560) (4.353) (7.066) (5.095)
+Observations 315 247 75 58
+R-squared 0.666 0.410 0.956 0.910
+Notes : L’intensité du commerce bilatéral est mesurée par la somme des exportations et des
+importations rapportée au PIB du pays d’origine. L’intensité de la migration bilatérale est mesurée par
+la somme de l’émigration et de l’immigration rapportée à la population du pays d’origine.
+Les écarts-types entre parenthèses sont robustes à l’hétéroscédasticité et à l’autocorrélation des résidus.
+*, **, et *** font référence à la significativité au seuil de 10 %, 5 % et 1 % d’erreur, respectivement.
+Plusieurs enseignements peuvent être tirés de ces résultats. Premièrement, sur le commerce
+(colonnes PPML et MCO), la distance a un impact significatif et négatif sur le commerce bi-
+latéral. L’élasticité estimée du commerce par rapport à la distance dans la CEMAC est plus
+faible que celles estimée par Frankel et Rose (1998) ou Ortega et Peri (2014) pour un ensemble
+10
+
+--- Page 12 ---
+plus large de pays. Il faut de même préciser que l’importance de la distance peut avoir été sur-
+estimée en raison de l’insuffisance et/ou la faible qualité des infrastructures routières inter-pays
+dans la CEMAC. Comme dans les études précédentes, nous trouvons également que les échanges
+commerciaux entre deux pays dépendent positivement de la taille (population) du pays de des-
+tination (Frankel et Romer, 1999). L’un des points également consensuels dans cette littérature
+est que l’enclavement réduit la possibilité de commerce entre les pays et ce résultat est clai-
+rement mis en évidence (ce résultat nous semble d’autant plus logique que les infrastructures
+intra-communautaire peu nombreuses et parfois de mauvaise qualité). De même, il était attendu
+que les pays qui partagent une frontière commune commercent davantage, mais ce résultat ne
+ressort pas dans notre analyse. Il est possible de l’expliquer par le fait que la plupart des pays
+de la zone CEMAC sont des producteurs de matière prémières en direction des pays développés.
+Ainsi, il n’existe que très peu de commerce entre les pays même quand ceux-ci disposent d’une
+frontière commune et lorsque c’est le cas, il s’agit généralement d’un commerce informel non
+pris en compte dans les statistiques douanières.
+En ce qui concerne la migration, les résultats du modèle de gravité estimé pour la migration
+inter-pays au sein de la CEMAC montre que : la population du pays d’origine, la superficie du
+pays d’origine et de destination ainsi que l’existance de fontière commune influencent l’intensité
+des migrations entre pays de la CEMAC. Ces résultats sont intéressants à plusieurs titres. Nous
+observons une différence assez frappante entre nos résultats sur la migration et le commerce. Ce
+quinecorroborepaslathèsedeOrtegaetPeri(2014)quiestimentquelesfacteursgéographiques
+valables pour le commerce, le sont également pour la migration. Ces résultats nous semblent
+logique dans la mesure où sur la période 1995 et 2015 la migration des pays de la CEMAC est
+en direction des pays développés ou autres pays africains et plusieurs pays de la zone CEMAC
+même appartenant à une même union disposent d’une obligation de demande de VISA pour
+être en mesure d’entrée dans leurs pays (c’était le cas par exemple du Gabon et de la Guinée
+Equatoriale jusqu’en 2017, et bien que cette restriction soit levée, les migrations vers ces pays
+restent toujours limitées).
+Lafigure1et2ci-dessousmetenévidenceunecorrélationbienforteentrelesvaleursobservée
+et les valeurs estimée du commerce et de la migration en zone CEMAC.
+Graphique 1 – Lien entre commerce observé et commerce estimé
+11
+
+--- Page 13 ---
+Graphique 2 – Lien entre migration observée et migration estimée
+Ensomme,lesrésultatsdesmodèlesdegravitésontcohérentsaveclalittératureéconomique.
+L’enseignementquiendécouleestquelespaysdelazoneCEMACsontdeplusenplusconfronté
+à un probléme d’enclavement qui empêche le développement du commerce intracommunautaire.
+4.2 Intégration et chocs asymétriques en zone CEMAC
+La présentation et la discussion des résultats sur l’effet de l’intégration sur les chocs asy-
+métriques en zone CEMAC se structure en deux points. Premièrement, nous analysons l’effet
+du commerce sur les chocs asymétriques de croissance et d’inflation (à travers l’écart absolu
+de ces variables). Deuxièmement, nous analysons l’effet de l’écart de chômage sur le niveau de
+migration intra-communautaire.
+Effet du commerce sur les chocs asymétriques de croissance et d’inflation en
+zone CEMAC
+Le tableau 4 illustre l’effet du commerce intra-CEMAC sur l’écart absolu de croissance. Il
+en résulte que le commerce dans la zone CEMAC a un effet négatif et significatif (à un seuil de
+1 %) sur l’écart absolu de croissance. Ainsi, le commerce entre les pays de la zone Franc est en
+mesure d’atténuer les chocs asymétries de croissance entre les pays.
+Le tableau ci-dessous met en évidence l’effet du commerce intra-CEMAC sur l’écart absolu
+d’inflation dans la zone. Il est établi une significativité de l’ordre de 5 % lorsque les variables
+de contrôle superficie totale et de population totale ne sont pas prises en considération. L’en-
+seignement de ce résultat pour les pays de la zone CEMAC consiste à prendre connaissance
+que l’intensification des échanges intra-communautaire permet de réduire le niveau d’inflation.
+Au lieu de laisser cet objectif à l’unique ressort de la BEAC, il serait peut-être important que
+des politiques sous régionales soient développées pour intensifier le commerce entre les différents
+pays.
+12
+
+--- Page 14 ---
+Tableau 4 – Commerce intra-CEMAC et écart absolu de croissance
+(1) (2) (3) (4)
+VARIABLES OLS OLS IV IV
+Commerce intra-CEMAC -2.357*** -2.029** -3.942*** -3.370***
+(0.867) (0.801) (1.180) (1.143)
+Ecart abs TEC 0.011 0.005 0.009 0.004
+(0.023) (0.023) (0.023) (0.022)
+Ecart abs IDE 0.140*** 0.118*** 0.138*** 0.117***
+(0.034) (0.034) (0.034) (0.034)
+Ln Sup. Totale -0.577 -1.078
+(2.435) (2.500)
+Ln Pop. Totale -3.745** -3.454**
+(1.510) (1.581)
+Constante 4.009* 75.531** 4.262** 77.791**
+(2.192) (37.811) (2.146) (37.002)
+Observations 315 315 315 315
+R-squared 0.174 0.197 0.171 0.195
+Effet Fixe dest. Oui Oui Oui Oui
+K-P F-stat 160.7 149.1
+SW F-stat 160.7 149.1
+SY 10% max IV size 16.38 16.38
+SY 25% max IV size 5.530 5.530
+Notes : Les écarts-types entre parenthèses sont robustes à l’hétéroscédasticité et à l’autocorrélation des
+résidus. *, **, et *** font référence à la significativité au seuil de 10 %, 5 % et 1 % d’erreur,
+respectivement.
+13
+
+--- Page 15 ---
+Tableau 5 – Commerce intra-CEMAC et écart absolu d’inflation
+(1) (2) (3) (4)
+VARIABLES OLS OLS IV IV
+Commerce intra-CEMAC -0.726** -0.229 -1.152** -0.222
+(0.334) (0.311) (0.481) (0.441)
+Ecart abs TEC 0.015* 0.014 0.015* 0.014
+(0.009) (0.009) (0.009) (0.009)
+Ecart abs IDE 0.007 0.002 0.006 0.002
+(0.012) (0.012) (0.012) (0.012)
+Ln Sup. Totale 2.132*** 2.134***
+(0.658) (0.646)
+Ln Pop. Totale -1.847*** -1.848***
+(0.475) (0.485)
+Constante 4.097** 5.677 4.165** 5.666
+(1.803) (9.159) (1.777) (8.882)
+Observations 315 315 315 315
+R-squared 0.027 0.053 0.026 0.053
+Effet Fixe dest. Oui Oui Oui Oui
+K-P F-stat 160.7 149.1
+SW F-stat 160.7 149.1
+SY 10% max IV size 16.38 16.38
+SY 25% max IV size 5.530 5.530
+Notes : Les écarts-types entre parenthèses sont robustes à l’hétéroscédasticité et à l’autocorrélation des
+résidus. *, **, et *** font référence à la significativité au seuil de 10 %, 5 % et 1 % d’erreur,
+respectivement.
+14
+
+--- Page 16 ---
+Effet de la migration sur les chocs asymétriques de chômage en zone CEMAC
+Le tableau 6 ci-dessous met en évidence l’effet de la migration intra-CEMAC sur l’écart
+absolu de chômage. Les résultats montrent que le mouvement de personnes entre les pays de
+la zone CEMAC permet d’atténuer les chocs asymétriques de chômage. Lorsque les conditions
+économiques se dégradent sur le marché du travail dans un pays, par le processus de mobilité de
+personnes, les agents économiques qui ont perdu leurs emplois peuvent se repositionner sur le
+marché du travail du pays voisin. Ce résultat est également cohérent avec la migration des em-
+ployés issus des institutions sous-régionales. Dans ce dernier cas, la migration n’est pas justifiée
+par une recherche d’emploi, mais par des nécessités de service.
+La récente mesure prise par les autorités politiques de la zone CEMAC en vue de rendre
+effective la parfaite mobilité des personnes dans la zone CEMAC semble être la bienvenue pour
+lutter efficacement contre l’ampleur du chômage dans les pays de la zone CEMAC.
+Tableau 6 – Migration intra-CEMAC et écart absolu de chômage
+(1) (2) (3) (4)
+VARIABLES OLS OLS IV IV
+Migration intra-CEMAC -1.252** 0.158 -1.403*** 0.068
+(0.576) (0.841) (0.523) (0.788)
+Ecart abs TEC 0.097*** 0.114*** 0.097*** 0.114***
+(0.022) (0.019) (0.020) (0.018)
+Ecart abs IDE -0.177*** -0.135** -0.174*** -0.135***
+(0.045) (0.053) (0.043) (0.049)
+Ln Sup. Totale -1.273 -1.399
+(2.069) (1.943)
+Ln Pop. Totale 6.909*** 6.843***
+(1.983) (1.859)
+Constante -1.613 -102.282** -1.566 -99.374***
+(1.852) (38.968) (1.768) (37.050)
+Observations 75 75 75 75
+R-squared 0.597 0.671 0.597 0.671
+Effet Fixe dest. Oui Oui Oui Oui
+K-P F-stat 195.3 154.1
+SW F-stat 195.3 154.1
+SY 10% max IV size 16.38 16.38
+SY 25% max IV size 5.530 5.530
+Notes : Les écarts-types entre parenthèses sont robustes à l’hétéroscédasticité et à l’autocorrélation des
+résidus. *, **, et *** font référence à la significativité au seuil de 10 %, 5 % et 1 % d’erreur,
+respectivement.
+Ensomme,l’intensificationducommerceetdelamigrationintra-CEMACsontdessolutions
+envisageables pour la réduction des chocs asymétriques de croissance, d’inflation et de chômage
+pour les différents pays constitutifs de la zone CEMAC. Ainsi, nous pouvons recommander
+quelques mesures de politique économiques à savoir :
+15
+
+--- Page 17 ---
+— intensifier les échanges intracommunautaires pour plus de convergence. Cela passe assu-
+rément par le développement des infrastructures modernes de transports;
+— l’effet sur l’inflation du niveau du commerce intra-CEMAC, permet de comprendre que
+l’objectif d’inflation faible dévolue à la BEAC ne peut être efficacement atteint que si
+des efforts sont fait en matière de renforcement de l’intégration avec notamment un com-
+merce intra-CEMAC plus prononcé. La BEAC pourrait donc encourager le financement
+des projets intégrateurs. L’appui à la Banque de Développement des Etats de l’Afrique
+Centrale (BDEAC) est d’ailleurs une action salutaire;
+— la suppression effective des visas et autres barrières à la mobilité des personnes sont
+importantes car ces derniers contribuent à réduire les pressions interne sur le marché du
+travail des différents pays.
+Conclusion
+Cet article avait pour objectif de tester l’effet du commerce et de la migration intra-CEMAC
+sur les chocs asymétriques de croissance, d’inflation et de chômage. En adoptant une approche
+empirique en deux étapes qui consiste à estimer un modèle de gravité pour le commerce et la
+migration et par la suite à utiliser les valeurs estimées pour analyser les effets sur les chocs
+asymétriques, nous parvenons aux résultats selon lesquels, le commerce agit en faveur de la
+réduction des chocs de croissance économique et d’inflation. Nous trouvons également que la
+migration des personnes entre les pays de la CEMAC est susceptible d’atténuer les pressions de
+chômage dans les Etats.
+NosrésultatsinterpellentàlafoislesautoritésmonétairesmaiségalementlesEtatsdelasous-
+région.Enmettantenlumièrel’effetducommerceintracommunautairesurl’inflation,cetteétude
+permet d’identifier un potentiel canal d’inflation dans la zone CEMAC qui est celui du faible
+niveau d’échange justifié par une absence d’infrastructure. La BEAC devrait donc maintenir
+son soutien aux entités œuvrant pour le développement des Etats (BDEAC) ontribuant ainsi
+à réduire les pressions inflationnistes. En mettant en lumière le rôle positif de la migration
+intra régionales des personnes sur la réduction du chômage, l’étude permet aussi de faire une
+évaluation positive de la décision des Etats en 2017 de supprimer les contraintes à la mobilité
+des personnes dans la CEMAC.
+16
+
+--- Page 18 ---
+Bibliographie
+[ 1 ] Bikai, J. L. et Afomognono, G. F. (2017) : «Commerce et synchronisation des cycles
+dans les pays de la CEMAC», BEAC Working papers N°05/17.
+[ 2 ] Carrère, C. (2004) : «African regional agreements : impact on trade with or without
+currency unions», Journal of African Economies 13, 199-239.
+[ 3 ] Carmignani, F. (2010) : «Endogenous optimal currency areas : The case of the Central
+African Economic and Monetary Community», Journal of African Economies 19, 25-51.
+[ 4 ] Duval, R., Cheng K.,Oh H., Saraf, R. and Seneviratne D. (2014) : «Trade Integration
+and Business Cycle Synchronization : A Reappraisal with Focus on Asia», IMF Working
+Paper WP/14/52.
+[ 5 ] Eichengreen, B. (1992) : «Should the Maastricht Treaty Be Saved?», Princeton Studies
+in International Finance 74, International Finance Section, Princeton Univ. December
+[ 6 ] Frankel, J. and Rose, A. (1998) : «The endogenity of the optimum currency area
+criteria», Economic Journal 108, 1009-1025.
+[ 7 ] Frankel, J. and Rose, A. (2002) : «An estimate of the effect of common currencies on
+trade and income», Quarterly Journal of economics 117, 437-466.
+[ 8 ] Frankel, J. and Romer, D. (1999) : «Does trade cause growth?», American Economic
+Review 89, 379-399.
+[ 9 ] Gnimassoun, B., Avom, D. and Keneck Massil, J. (2018) : «Is regional integration in
+the CFA zone sustainable?», Applied Economics, 1-18.
+[ 10 ] Imbs, J. (2004) : «Trade, finance, specialization, and synchronization», Review of
+Economics and Statistics 86, 723-734.
+[ 11 ] Kenen, P. (1969) : «The Theory of Optimum Currency Areas : An Eclectic View», in.
+Monetary Problems of the International Economy , 86, 723-734. R.A. Mundell and A.K.
+Swoboda (eds.), (University of Chicago Press), 41-60
+[ 12 ]Kleibergen,F.andPaap,R.(2006):«Generalizedreducedranktestsusingthesingular
+value decomposition», Journal of Econometrics 133, 97-126.
+[ 13 ] Krugman, P. (1993) : «Lessons of Massachusetts for EMU», in F. Giavazzi and F.
+Torres, eds. The Transition to Economic and Monetary Union in Europe, Cambridge
+University Press, New York, 241-261.
+[ 14 ] Masson, P. R. and Pattillo, C. (2004) : «The Monetary Geography of Africa», Broo-
+kings Institution Press, Washington, DC.
+[ 15 ] McKinnon, R. (1963) : «Optimum Currency Areas», American Economic Review 53,
+717-725.
+[ 16 ] Mundell, R. (1961) : «A Theory of Optimum Currency Areas», American Economic
+Review 51, 509-517.
+17
+
+--- Page 19 ---
+[ 17 ] Ortega, F. and Peri, G. (2014) : «Openness and income : The roles of trade and
+migration», Journal of international Economics 92, 231-251.
+[ 18 ]Shin,K.andWang,Y.(2003):«TradeIntegrationandBusinessCycleSynchronization
+in East Asia», Asian Economic Papers 2, 1-20.
+[ 19 ] Silva, J.S. and Tenreyro, S. (2006) : «The log of gravity», Review of Economics and
+Statistics 88, 641-658.
+[ 20 ]Stock,J.andYogo,M.(2005):«TestingforweakinstrumentsinlinearIVregression»,
+In : Stock, J.H., Andrews, D.W.K. (Eds.).Identification and Inference for Econometric
+Models : Essays in Honor of Thomas J. Rothenberg, Chapter 5. Cambridge University
+Press.
+[ 21 ]Tapsoba,S.J.A.(2009):«TradeintensityandbusinesscyclesynchronicityinAfrica»,
+Journal of African Economies 18, 287-318.
+[ 22 ] Tsangarides, C. G., Ewenczyk, P. and Hulej, M. (2006) : «Stylized Facts on Bilate-
+ral Trade and Currency Unions : Implications for Africa», IMF Working Paper 06/31,
+International Monetary Fund.
+[ 23 ] Vamvakidis, A. (1998) : «Regional integration and economic growth», World Bank
+Economic Review 12, 251-270.
+[ 24 ]Vamvakidis,A.(1999):«RegionalIntegrationArrangementsorBroadLiberalization:
+Which Path Leads to Faster Growth?», IMF Staff Papers 46, 42-68.
+[ 25 ] Venables, A. (2003) : «Winners and Losers from Regional Integration Agreements»,
+Economic Journal 113, 747-761.
+18

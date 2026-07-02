@@ -1,0 +1,7 @@
+Source PDF : Résultat_de_l'appel_d'offres_N°02-BEAC-SG-DOP-PRCIPRC-UGRIF-2020-F_du_12_05_2020_e0168a22.pdf
+Chemin original : scraping\beac_data\La beac\Mises_En_Concurrence\Résultat_de_l'appel_d'offres_N°02-BEAC-SG-DOP-PRCIPRC-UGRIF-2020-F_du_12_05_2020_e0168a22.pdf
+Date extraction : 15/06/2026 19:03:33
+======================================================================
+
+[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
+Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

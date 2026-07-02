@@ -1,0 +1,567 @@
+Source PDF : LC_013_GVR_2019_relative_à_la_déclaration_quotidienne_des_avoirs_extérieurs_et_des_besoins_a7dc67d2.pdf
+Chemin original : scraping\beac_data\P Des Changes\Circulaires et décisions\LC_013_GVR_2019_relative_à_la_déclaration_quotidienne_des_avoirs_extérieurs_et_des_besoins_a7dc67d2.pdf
+Date extraction : 15/06/2026 23:41:42
+======================================================================
+
+--- Page 1 ---
+yaoundé, Le
+BANQUE DES ÉTATS hl 11 :l:t Z0ig
+DE L'AFRIQUE CENTRALE
+/. /'./'-
+J. )ttzzt2
+.fr/rzzzq
+A l'attention des Directeurs Généraux
+des établissements de crédit
+Lettre Circulaîre o"{, ll /GYR 20tg
+Relative à la déclaration quotidienne des ovoirs extérieurs et des besoins courants
+des intermédiaires agréés
+MadamellVlonsieu r Ie Directeur Général,
+Je vous prie de trouver ci-joint les modèles standardisés de déclaration à la Banque
+Centrale de vos avoirs extérieurs, d'une part, et de vos besoins courants, d'autre part.
+Il s'agit de fichiers sous format Excel qui seront transmis par message électronique,
+tous les jours avant 10 heures, aux courriels du Service Etudes des Transferts et Suivi de [a
+Réglementation des Changes de la Direction Nationale du pays de votre ressort et de la
+Cellule Centrale d'Etude des Transferts et de Suivi de la Réglementation des Changes des
+Services Centrau.x de la BEAC.
+l. Le fichier déclaratif des tvoirs extérieurs (DFX2I00)
+Ce premier f,rchier, utile au calcul des avoirs extérieurs, prévoit trois onglets
+notamment
+l'état (DFX 2lAD récapitulatif les soldes de comptes nostri hors zone de la veille
+(à J-l)
+;
+l'état (DFX 2102) des préfinancements de la BEAC ayant impacté les comptes de
+àJ-l
+correspondants ;
+l'état (DFX 2103) des nivellements effectués entre comptes de correspondants
+hors zone CEMAC à J-1.
+Ce fichier sera accompagré des extraits de tous les comptes de correspondants hors
+zone à J-l
+ÿ
+
+--- Page 2 ---
+2. Le Iichier déclaratif des besoins courants (DFX2200)
+Ce fichier Excel comporte les opérations admises dans les besoins courants
+conformément à l'lnstruction N.0041GR/2019 relati't'e aux conditions et modalités de
+détention, par les établissements de crédit, des avoirs en devises auprès des correspondants
+extérieurs.
+Ce fichier comporte autant d'onglets que d'opérations listées dans ladite Instruction.
+Pour mémoire, cette instruction admet les 10 catégories d'opérations suivantes au titre des
+besoins courants auxquels sont affectes des codes :
+a) les ordres de paiement de la clientèle à exécuter dans un délai maximum de 03 jours
+ouvrés pour les règlements des importations des biens et services domiciliées dans
+les liwes de l'établissement de crédit concerné, y compris les échéances des crédits
+documentaires (DFX 2 20 1) ;
+b) les ordres de paiement de la clientèle inferieurs à 100 millions de FCFA à exécuter
+dans un délai maximum de 03 jours ouwés pour les opérations autres que celles
+relatives aux importations domiciliées (DFX 2202);
+c) le solde des comptes en devises autres que l'Euro et les autres monnaies de la Zone
+Franc, ouverts au sein de l'établissement de crédit concerné en faveur de la clientèle
+non-résidente implantée dans la CEMAC (DFX 2203);
+d)
+les dépôts de la clientèle résidente dans les comptes en devises autorisés ouverts
+dans les liwes de l'établissement de crédit concerné, à l'exception des dépôts en euro
+et dans les autres monnaies de la Zone Franc (DFX 220û ;
+e) les dépôts de garantie à constituer dans un délai de 5 jours, en application des accords
+conclus à l'effet d'obtenir des établissements de crédit étrangers confirmation des
+crédits documentaires (DFX 2205);
+0 les sommes en devises déposées en garantie des crédits documentaires confirmés sur
+une période ne dépassant pas 1 an et demeurant dans les livres de la banque, en
+application des accords conclus à cet effet (DFX 2206);
+g) les crédits documentaires à we confirmés et payables dans un délai estimé à 15 jours
+pour les montants n'excédant pas 100 millions de Francs CFA (DFX
+220k7);,-
+2
+
+--- Page 3 ---
+h) les soldes débiteurs engendrés par les opérations de paiement effectuées par les
+instruments de paiement électroniques tels que les cartes à débit immédiat et les
+cartes prépayés (DFX 2208):
+i) les soldes débiteurs des opérations de transfert de fonds réalisées par le biais
+d'opérateurs adossés à la banque concemée, pour les montants ne dépassant pas 100
+millions de Francs CFA (DFX 2209)
+j) les tombées d'échéances, survenant dans un délai de 5 jours, des emprunts des
+établissements de crédit dûment déclarés, rapatriés et cédés à la Banque Centrale
+(DFX 2210).
+Je vous engage à renseigner, minutieusement et avec exactitude, les opérations
+réputées être des besoins courants. La BEAC se réserve le droit des contrôles inopinés in
+situ sur I'exactitude des besoins courants quotidiennement déclarés. Concernant les
+opérations prévoyant les paiements échelonnés comme les lettres de crédit, seule la tranche
+immédiatement exigible dewa être renseignée. Pour les tranches échues, elles ne sont
+indiquées qu'avec la foumiture de la preuve du défaut de paiement. Bien plus, il n'est pas
+autorisé qu'une même opération se retrouve dans deux états séparés.
+Par ailleurs, les opérations déclarées dans les besoins courants ne poulront plus être
+présentées à la BEAC dans le cadre des préfinancements.
+Tout montant lié à une opération déclarée corlme besoin courant d'une journée, qui
+n'aura pas été réglé au cours de cette journée devra être rétrocédé à la Banque Centrale dès
+le lendemain sous peine d'être considéré et traité comme avoir extérieur non justifié.
+Toute déclaration non fondée expose les établissements de crédit à l'exclusion
+temporaire du marché des devises sans préjudice d'autres sanctions pécuniaires et
+administratives prévues en la matière-
+A l'occasion des contrôles, vous devez metEe à la disposition de la BEAC les
+Il
+messages SWIFT attestant l'exécution sous bonne date des opérations déclarées. s'agit
+des messages liés aux crédits documentaires (MT700, MT740, MT202, etc-), ceux relatifs
+aux transferts (MTl03) ainsi que tous les avis d'exécution (MT900 et extraits de comptes
+MT940/950). Vous êtes également tenus de communiquer les justificatifs afférents à ces
+opérations, notamment les ordres des clients, les factures, contrats ou tout élément attestant
+le bien-fondé des opérations exécutéesrp
+tÿ7
+-,
+J
+
+--- Page 4 ---
+L'objet du courriel à envoyer à la BEAC sera formaté ainsi qu'il suit:
+DFX2000_Nom de Ia banq ue_Pays_Date (y/ mm/ aaaa).
+Les présentes dispositions, qui abrogent les précédentes, concernent toutes les
+banques de la CEMAC, qu'elles présentent ou non des demandes de transferts auprès de la
+Banque Centrale, et prennent effet à compter du 15 juillet 2019.
+Veuillez agréer, Madame/l!{onsieur le Directeur Général, l'assurance de ma
+considération distinguée.
+ffi lr Gfinælrârt
+TOLLI
+PJ:02
+4
+
+--- Page 5 ---
+Etat DFX 2101
+RECAPITUTATIF DES SOLDES DES COMPTES NOSTRI
+Pays
+Nom de la banque:
+Code banque
+Code BIC
+Date Correspondant Btc Compte (1) Devise Solde devise Sens (D/Cl Cours Solde XAF
+1
+2
+3
+(1) Champs 25 extrait SWIFT
+(2| Opérations au crédit des MT940/950
+(3) joindre messages MT202 de rétrocession relatifs aux rapatriement de J-3
+{,
+
+--- Page 6 ---
+ad
+Etat DFX 2102
+RECAPITUTATIF DES PREFINANCEMENTS BEAC
+Pays
+Nom de la banque:
+Code banque
+Code BIC
+Date (11 téférence MTn98 (2 Correspondant Brc Compte (3) Devise Client donner d'ordre Client bénéficiaire Montant Motifs
+(1) Date de l'extrait MT940/950
+(2) Référence du transfert accordé
+(3) Champs 25 extrait SWIFT
+
+--- Page 7 ---
+Etat DFX 2103 *
+RECAPITULATIF DES OPERATIONS OE COMPTE A COMPTE DE CORRESPONDANTS
+Pays
+Nom de la banque:
+Code banque
+Code BIC
+Date {11 Référence (2) BIC émetteur Compte (3) Devise Montant émis 8lC Bénéficaire Compte (3) Devise Montânt reçu Motifs
+(1) Date de l'extrait MT940/950
+(2) Champ 20 du MI202 de nivellement
+(3) Champs 25 extrait SWtFT
+
+--- Page 8 ---
+b-
+DFX 22OO - RECAPITULATIF DES BESOINS COURANTS
+tr*O}I DE L ET.\BLISSEIIE}'T DE CR.f,DTT
+coDE B.{r..Qt:}:
+P-.\!'S
+D..\'IE l:-rÿr.-l 9
+soltlrf DEs DUpo ti .r vt f DL L.\ ( Llf\ I ËL!
+ECrR',r ( 5.,i ûES DEPOT Â r'trE Df, LA CLTEXTELE - 8E§OrNS COLIRÂNI'S )
+CA ECORIE§ DE BESODIS COL:&{§T§ ITOTÂL CODE
+LE§ ORDRES DE rAlEllÊNT DE LÀ CLIENTELE Â EXECUTER DÀtiS LjN DEt!{r llÀXrlrui\r DE TROIS (03)
+JOt:RS Ot'vRES. POUR LES REGLEIIEf,-T§ DE§ tllPORTATIOf,"S DES Blf,li§ ET SERvtCÊS DOlttCIt,tEES
+1 D..I}-S I.ES I-I1'RfS DE T..ET..I8LISSf,}If,IT DE CREDIT COXCER\E, Y CO]IIPRI§ LES ËCIIf,ANCE§ DES DFXI!01
+CREDITS DOCI,'}If, IiTAIRES
+LES ORDRE§ DE PÂIE}If,:§T DË L.I CLIE}TELE I:{I'ERIEI:R§ A IOO }IILLIOI{S DE FR{.I{C§ CTA..\ E\ECTITER
+2 D,\\S I.'N DEL,{I }IA\TTI[J}I DE CI§Q (O§) JOTiRS OTVRES, POT:R Lf,S OPER.TTIO:IS ..\T'TRES Qt'E Cf,LLES DH(T]02
+RELÂ"nvES Atr\ lllPORTATlOr-S DOIItCILIEES
+LE SOLDE DES COIITTES Er DE\ISES AUTRI§ Qt]E L'f,trRO ET LES At'TRES ilO\:{.{IfS DE Lt ZO|§E
+3 rL{TiC, OI.'Vf,RTS .{t] SEIN DE L'ETABLISSEùIENT DE CREDIT CO:{CER§E ETi FAvEtIR DE LÂ CLIf,NTELE DFÏ2]03
+NOli-RESIDET*TE lllPLÂ§TEf, D.{:{S L{ CE}l^C
+I.ES DUPOTS DE L,.{ CLIf,IiTf,LE RESIDEIiTE DA)iS I-ES COTIPTES EN Df,VISES Àt'TORISES OI]\'ERTS D.tIiS
+4 Lf,S LIVRES DE L'ETÂBLISSE}IE§T DE CREDTT CONCERf,..E,,t L'EXCETTION Df,S Df,POTS EN EI.]RO ET DlTt20{
+DANS LES AI"TTRES UONli.{lE§ DE Lr Zor-f, FR.INC
+l-ES DEPOT§ DE G,tR\r-T'lE.t CONSTITUER DANS Uri DELÂ, DE CI§Q (05) JOURS, Eli APPLICATTON D[§
+5 .{CCORDS CONCLIIS Â L'fT'FET D'OBTEXIR DE§ ETABLISSE]IIf,:{TS DE CRf,DIT ETR\XGER§ DFI!20§
+CONFIRUATION DES CRXDIT§ DOCI'IIE:{TAIRIS
+LU§ SO}I}IES EN Df,VI§ËS Df,POSEE§ EIi GÂR.\\TIf, DES CREDITS DOCUIIf,NT,{IRf,S CO)iFIR}IES SI.'R tiIiE
+6 PERTODI: :{E DEPÂSSÀ:i]' PÂ§ UN (0r) Ar.. ET DE}IEUR{NT DAriS LES LII'RES DE L.{ 8Â:iQUE, El§ DFX2?06
+..\PPLICÂTION DES ÂCCORDS CONCLUS..l CET EFFET
+I LE§ CREDITS DOCT'}ITN'TAIRf,S A VI]E CONFIRTIES ET PAI.{BI-ES DÂI{S t'N D[I.ÂI ESTI}II: À Qt'INZ,[' (IS) tlt'\tl0l
+JOt'RS POtIR l.E§ IION'rÀNT§ li'EICfD..{f,.'T PÀS 100 lllLLlONS DE FR"t:,iCS Ct'^
+l.ES SOLDES DEBITEI"TRS E§GEr*DRE§ PAR l-ES OPER-rTlON§ DE PÂlEtlEr..T EFTECTLTEES P..\R LES
+I II\|STRI.;:Uf,NTS DE ?AIE}IET..T ELECTROIiIQT:85'TEI§ QUE LE§ C.{RTES À DËAIT I}I}IÊDI,T'T ÊT LÊ§ Dtx220t
+C,tRTES PREP.{YES
+LES SOLDES DEBTTEURS DES OPTR{TIONS DE TR{NSI'f,RT DE T'O§DS Rf,,.{LTsf,ES PAR Lf, BI,\IS
+9 D'OPf,l{.\TEL)R§ ADOSS[S A LÂ B.-\NQt]E CONCER\EE, POUR Lf,S ]lO:{TAr..TS §E DEPA§SÀN..T PAS 100 DF\2:09
+UILLIO:\,i§ DE FR.ÀNC§ CFÂ
+LÊS TOIIBEE§ D'ECttEÂNCES, StTRVENÂr-T D..\-\S LrN DEL,\l DE CIIiQ (05) JOL:RS, DES EIIPRUN'rS DES
+1o ETÀBT,I§§E}IE}iTS DÊ CREDIT Dt]}IEIiT DECL\RIiS. R,\PÂTRIf,S ET CEDE§ A I.Â BÂ§QtIE Cf,NTR.\LE. Dltx!2t0
+
+--- Page 9 ---
+'t
+3:
+- .r:
+:4.'-;,
+7.ÿ
+F<
+32
+7s=
+àa'1i-.
+?-.
+'_i -
+a-Z
+âI
+Y,E
+'â
+'i) 7a-
+=v
+\la
+I
+! -.2
+*?
+-i..-i2.
+e*
+47" ,
+:,] L
+à7
+à
+â
+l7
+<- â
+à2.
+<=
+).-
+7.-
+7.:
+:,
+,>
+:_i
+-
+1't
+,_' 3
+'è,2 .t
+'-Z
+z.<
+,1:
+<-:
+::;
+7_Z
+'j-
+d
+Id
+\
+=- 'a,._
+I
+
+--- Page 10 ---
+J
+POtIR l,ES OPER^TtONS QUS Cf,t,t,IS RI:L^ VUS AUX tMPOll IAItONS DOMIClt,tr;DS
+^UTRtis
+( oDl; It(tilER DI.'X2202 ll.r, :lll,
+NOM Dâ U NQUX
+mmamTolar
+xl:IT*}( (r ' LDtt[r\ §oRDxl:§ Dl] DTTI D I:\}:(1TIO\ D\T' DE \XT.H'N tR û} r: MER tmD\(]1 lB§r..tt RD'oRllRX It§ilrL\tflx oNtiTr \loîtl Bl( (ÛRRl:inr\o§r Df,iI§T3
+
+--- Page 11 ---
+LE SOLDE DES COMPTES EN DIIVISES AUTTi.ES QUtr L trURO E'r LES AUTRES MONNATES DE LA ZONI1
+FITANC I'OUR LES NON.IIESIDENTS
+(r)lrÈ It( trttR DF'X2203
+nott oE lA t^xQlrf,
+\.,é (srlmf, DI (Ltf,\r \o\t(n.Èllqr\qxt\t.r oB(n\l:/s.rr()\.\t.ulrx'ïlltr.lrxr: "*t*tltiillrl:Ï,1l;irRrrrr\ol (1,t R\ t)l: l,r Drlt§l: lnrl^\'J f,À \rt
+
+--- Page 12 ---
+I
+t_
+,-â,
+z
+F
+a
+.e
+r-
+=
+1^
+=2lYz
+*ü
+i
+tz)
+Z=
+AY
+"*
+a:--
+x<
+1
+'u. 7-\
+\a
+ê<
+z=
+:2e
+a
+,û
+=-
+F
+a
+z 4a
+i<
+U 1É,
+(â ,Z
+Aa
+EU
+" Ja Ë
+êl
+i=z4
+êxt
+,*
+ts{
+a
+z
+ts
+z
+
+--- Page 13 ---
+,.â
+F
+Z
+â
+- ,
+o
+=
+a!
+a
+3,a
+77
+YZ
+-u, ,à
+42.
+.- |h
+{t-
+7-- dtÀ
+?r
+I
+3tI Uâ :
+)Z
+,l
+<-
+Z>
+Èrà
+,ô=
+É,'*
+3Z
+îa
+!
+Z7
+v.)
+---
+* ir:
+z=Él),
+a
+aà
+2,3
+<-
+àZ
+*'à
+'*]z t-
+-':t
+46
+ts<
+I
+V,
+|-
+N
+Z ôIl
+}:
+t
+(n
+ù *
+è
+,a .t
+§
+a
+J a
+\
+
+--- Page 14 ---
+,'
+:
+F
+z
+É
+<i:
+r Z vr-r
+tI a'
+'Lil ZU
+zv
+="1
+=g
+..JîI: ,JI
+:lw
+E<
+4a
+7z
+3î
+*a
+?J
+âi
+>=
+Uü
+âO
+,îZ
+F<
+3t<
+Urr
+tc 2
+i,n
+->
+zÀ
+4.e
+<J
+Q,T
+>Z
+=<
+,àz
+'c. <
+at
+e,3 \ê
+êl
+êl
+>;-. *, a
+aZ
+z<
+.^a
+?z
+è,=
+2. .(
+a
+.,. z
+J
+
+--- Page 15 ---
+c$
+LNS CREDITS DOCUMENTAIRES A VUE CON}'IRMES ET PAYÂBLES DÀNS UN DDLAI ESTI MI] A QUINZE (I5) JOUR§ POUR LES MONTANTS N'EXCII)AN'I'
+PAS IOO MILLIONS DE FRANCS CFA
+( oot rx nt!:R DFX2207
+NOmO[UB JiQUX
+nrli,nl \r \( \[ l [ D \[f n l 0llt \ri;t \o\t (l Rllg)l y {,x xr l, R\l l. L Dt ü,\\] l n D Rl:rlkl \(.l Df, t. ! f t(ît.&]: oul:Ï . x)* ur tl ll LF t^I Tro 0\; _ \0\! Dt Bl:\[f(a\l§:
+r
+
+--- Page 16 ---
+d
+LES SOLDNS DEtsITEURS ENGENDRES PAR T,ES OPEITATIONS DE PAIEMENT ET'FECTUEES PAR LES INSTITUMENTS DE
+PAIEMENT ELECTRONIQUES TEI,S QUE LES CAR'I'ES A DET}IT IMMEDIAT ET LIiS CARTES PREPAYES
+( our flalllf,[ DFX2208
+iloM D[ l^ t§QüE
+MilIAM TOÏAL
+[[tül]:\C[: [r.'mr llM{r§ $l{ (ORRt$nr\nlr''1 'llli,iîJ]t D.rrliDrlRrn D\lÀ lrt(!n ti:Rn Rc loy IrE L§Pt.&rlll.l. toNlnQt I llo\T.r\Ts)t.Dt (tnRrDIl-rnt:\1\Itllf tm\r.\\It:\\,ir
+r
+
+--- Page 17 ---
+?<
+=u
+?e
+1z
+!
+I a
+2
+'t), 2 â
+aZ
+E=
+t>
+,.
+'*;
+=<
+I
+'iz
+,:<
+a
+'a 4.
+z'à
+=\,
+i t: i. zg.;
+àe
+iz
+ez
+za
+jè.
+Ce
+:. li.:
+,= *4
+z=
+,5
+iêl,
+<;
+;7
+CF
+=z
+ii
+!-1 Z
+;t
+e,
+'-z
+N
+dI
+I
+â1 h
+tr<
+îr
+a
+e
+e
+'Ja
+4 â a
+(
+zI
+r<
+z
+
+--- Page 18 ---
+'a
+'a
+'a
+7.
+a_-
+-
+?
+?-
+3î:
+'t
+!.
+)t
+'L
+'î
+7,: Z
+i:
+}:
+=
+'a Z
+t
+7.
+I
+t
+Z
+.,
+7.
+1.
+7. È
+7.
+!,i
+=
+'1. a
+'a
+ôl aa
+7. ê/.l ta
+:1
+,z
+§
+'a
+3.1 \
+q z :;
+{
+ÿ
+ri
+'a
+z

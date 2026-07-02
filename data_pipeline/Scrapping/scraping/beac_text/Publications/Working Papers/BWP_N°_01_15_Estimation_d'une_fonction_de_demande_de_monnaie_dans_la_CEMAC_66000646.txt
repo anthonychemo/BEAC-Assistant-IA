@@ -1,0 +1,1228 @@
+Source PDF : BWP_N°_01_15_Estimation_d'une_fonction_de_demande_de_monnaie_dans_la_CEMAC_66000646.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BWP_N°_01_15_Estimation_d'une_fonction_de_demande_de_monnaie_dans_la_CEMAC_66000646.pdf
+Date extraction : 15/06/2026 21:28:53
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 01/15 -
+Estimation d’une fonction de demande de monnaie dans la CEMAC
+MOUNKALA Evrard Ulrich
+Statisticien-Economiste
+Direction de la recherch e
+mounkala@beac.int
+B ANQ U E D E S E T A T S D E
+Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE
+travail sont propres à leur (s) auteur (s) et ne
+7 36, Av e n ue M on s e i g n e ur représentent pas nécessairement la position de la
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9
+of Central Africa States.
+ww w.be a c.i n t
+DIRECTION DE LA RECHERCHE
+
+--- Page 2 ---
+Estimation d’une fonction de demande de monnaie
+dans la CEMAC
+Evrard Ulrich MOUNKALA∗
+Octobre 2013
+Résumé
+Avec l’introduction indirecte de la monnaie dans la fonction d’utilité du consommateur, nous
+dérivons une fonction de demande de monnaie dans l’UMAC. Pour tenir compte des hétérogé-
+néités structurelles entre les Etats membres de l’Union, nous estimons les paramètres de cette
+fonction à partir de la méthode DOLS sur données de panels cointégrés. Nos résultats montrent
+que la fonction de demande de monnaie dans l’UMAC est compatible, aussi bien à court qu’à
+long terme, avec les conclusions de la Nouvelle synthèse. De plus, nous discutons du caractère
+actif et/ou passif de la monnaie dans l’UMAC. Les observations empiriques ne suffisent pas à
+discriminerentrecesdeuxcaractères,tousdeuxvalidesdanscetespace.Ceconstatconduitalors
+à la conclusion que la BEAC devrait aussi accorder une attention particulière à l’évolution de
+l’écart monétaire dans la conduite de sa politique monétaire.
+Mots clés : Demande de monnaie, hétérogénéités structurelles, cointégration sur données de
+panel, DOLS, FMOLS, monnaie active, monnaie passive.
+Classification JEL : C23, E41, E52.
+Abstract
+From the consumer’s general equilibrium theory and with money indirectly in the consumer’s
+utility function, we derive a money demand function for the UMAC. In order to account for
+structural heterogeneities between Union Member States, we estimate the parameters of this
+function with DOLS method applied to cointegrated panel data. Our results show that the
+money demand function in the UMAC is consistent with New Synthesis, both in the short and
+the long term. In addition, we discuss the active and/or passive property of money in this area.
+Empirical evidence shows that these two properties of money are both valid in the UMAC.
+We then conclude that the Central Bank (BEAC) should also pay attention to monetary gap
+dynamics while conducting its monetary policy.
+Key words : Money demand, structural heterogeneities, cointegration on pooled data, DOLS,
+FMOLS, active money, passive money.
+JEL codes : C23, E41, E52.
+* Economiste, Statisticien. CoordinateurduPôleMéthodesQuantitativesetNumériquesàlaDirectiondelaRecherche
+Courriel:mounkala@beac.int.
+L’auteurremercieparticulièrementM. Aimé-Dominique BIDA-KOLIKA,poursesobservationsavisées,etM. Justin BEM,
+poursonaidedanslaprogrammationdesméthodesFMOLSetDOLSsurR.Ilresteseulresponsabledesavisexprimésdanscepapier.
+1
+
+--- Page 3 ---
+Sommaire
+Résumé non-technique 3
+Introduction 5
+1 Revue succincte de la littérature sur quelques spécifications de fonctions
+de demande de monnaie 7
+2 Spécification du modèle théorique dans la CEMAC 10
+3 Approche économétrique 14
+3.1 Le modèle de base de panels dynamiques hétérogènes . . . . . . . . . . . 16
+3.2 La méthode DOLS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+4 Implémentation de la méthodologie et résultats empiriques 17
+4.1 Tests de racine unitaire sur les variables d’analyse . . . . . . . . . . . . . 18
+4.2 Résultats des tests de cointégration . . . . . . . . . . . . . . . . . . . . . 19
+4.3 Résultats d’estimation des MCE sur panels dynamiques hétérogènes . . . 21
+Conclusion 25
+Références 27
+Annexe 31
+2
+
+--- Page 4 ---
+Résumé non-technique
+La stratégie de politique monétaire de la BEAC consacre une attention particulière à
+l’information fournie par l’évolution des agrégats de monnaie et de crédit, en plus de
+s’appuyer sur l’hypothèse de stabilité de la vitesse de circulation de la monnaie . En effet,
+la vitesse étant stable, les évolutions des agrégats monétaires constituent des indicateurs
+de l’évolution du niveau général des prix à long terme. De ce fait, pour la BEAC, la
+recherche de relations empiriques stables entre la monnaie et les prix éclairerait le fon-
+dement théorique de sa stratégie, comme le soulignent Dreger, Reimers & Roffia (2007)
+pour les nouveaux états membres de l’Union Européenne. Cette quête est d’autant plus
+justifiéequel’existence,parexemple,d’unedemandedemonnaiestableconstituelapierre
+de voûte dans la formulation et la conduite de la politique monétaire.
+Sur la base de tout ce qui précède, et en s’appuyant sur le fait que le taux de banca-
+risation dans la CEMAC est encore très faible, ce qui limiterait la portée du canal du
+taux d’intérêt, l’auteur s’est engagé dans la détermination d’une fonction de demande de
+monnaie stable dans l’UMAC. Pour ce faire, partant de la théorie de l’équilibre général de
+la demande du consommateur avec introduction indirecte de la monnaie dans la fonction
+d’utilité ainsi que le propose Wickens (2010), l’auteur dérive une fonction de demande de
+monnaie théorique de forme implicite. La log-linéarisation de cette dernière au voisinage
+de l’état régulier lui permet d’aboutir à une fonction de demande de monnaie théorique
+de type keynésienne. En tenant compte de l’unicité de la politique monétaire de la BEAC
+dans les Etats membres de l’UMAC, et après une revue critique de la littérature sur les
+méthodes économétriques d’estimation des modèles théoriques, il est retenu la méthode
+des moindres carrés dynamiques sur panels hétérogènes cointégrés. Pour tester statisti-
+quement l’hypothèse de cointégration, l’auteur recourt à une combinaison de tests suivant
+les méthodes de Pedroni (1999, 2004) et McCoskey & Kao (1998).
+Les résultats d’estimation du modèle sur les données annuelles de la période 1972-2012
+des Etats membres de la CEMAC , pour les séries de PIB réel, de l’indice des prix à
+la consommation, de la masse monétaire M2 et du TIAO (taux directeur de la BEAC),
+sont compatibles avec les conclusions théoriques. A court terme en effet, la demande de
+monnaie dans la CEMAC est de type keynésien, avec pour une variation d’un point de
+pourcentage du TIAO, (i) un impact négatif cumulé sur deux périodes très faible (-24
+points de base) du taux d’intérêt, (ii) une réaction négative du taux d’inflation anticipée
+qui pousserait les agents à réduire leur demande d’encaisses réelles de 32 points de base,
+et (iii) une augmentation de 25 points de base de cette dernière demande en réponse à
+une amélioration des performances économiques au cours des deux dernières années.
+3
+
+--- Page 5 ---
+Alongtermeparcontre,lademandedemonnaiedanslaCEMACestdetypemonétariste,
+avec des élasticités unitaires par rapport au revenu et au prix respectivement. Ce résultat
+confirme la validité de l’hypothèse de stabilité à long terme de la vitesse de circulation de
+la monnaie, telle qu’obtenue par Mounkala (2012). Au regard de ces résultats, la BEAC
+pourrait mener efficacement une politique monétaire commune à ses Etats membres,
+en tenant compte des hétérogénéités de la structure de leur économie, en exploitant
+plutôt les informations véhiculées par la courbe LM, dans la mesure où, du fait de la très
+faible bancarisation des économies, la transmission des impulsions monétaires via le taux
+directeur de la Banque centrale à l’activité et aux prix est encore très incertaine.
+Dans une démarche d’ouverture pour des recherches futures, l’auteur soulève la question
+du caractère actif et/ou passif de la monnaie dans la CEMAC dans l’identification des
+mécanismes de transmission de la politique monétaire. Les résultats empiriques qu’il a
+obtenus sont compatibles avec chacun de ces deux caractères, et il en résulterait un
+écart monétaire (différence entre l’offre de monnaie du système bancaire et demande de
+monnaie exprimée par les agents économiques). Ce dernier devrait faire l’objet d’une
+analyse empirique plus fine, dans le cadre du renforcement du cadre analytique de la
+BEAC, pour voir s’il pourrait servir d’indicateur de position de la politique monétaire de
+la BEAC.
+4
+
+--- Page 6 ---
+Introduction
+La Banque des Etats de l’Afrique Centrale (BEAC) conduit la politique monétaire com-
+mune aux six Etats membres de l’Union Monétaire de l’Afrique Centrale (UMAC). Sa
+stratégie de politique monétaire assigne un rôle important au suivi de l’évolution des
+agrégats monétaires, pour réaliser son objectif final de stabilité monétaire. C’est le cas
+notammentavecladéterminationdes objectifsprévisionnelsderefinancementdusystème
+bancaire en monnaie centrale, de manière compatible avec les prévisions de croissance,
+d’inflation et d’équilibre extérieur dans chaque Etat de sa zone d’émission. A ce titre, elle
+assume la validité à tout instant de la théorie quantitative de la monnaie dans cette zone.
+Cependant, les premières tentatives de vérification de la validité de cette hypothèse por-
+teraient à croire que la vitesse de circulation de la monnaie serait stable à long terme
+dans chacun des Etats membres de la CEMAC, mais n’y serait pas prédictible à court
+terme (Mounkala, 2012a). Sans ôter à l’approche de la BEAC sa pertinence, il n’est pas
+superflu que soit consacré du temps à la recherche de relation(s) empirique(s) stable(s)
+entre monnaie et prix dans l’UMAC. En effet, l’existence d’une relation bien spécifiée
+et stable entre monnaie et prix peut-être perçue comme un pré-requis pour l’utilisation
+des agrégats monétaires dans la conduite de la politique monétaire (Dreger, Reimers &
+Roffia, 2007). Pour Sriram (2001), une demande de monnaie stable constitue même la
+pierre angulaire dans la formulation et la conduite de la politique monétaire, notamment
+dans les pays en développement et à marché financier étroit.
+Faudrait-il voir dans de telles études une tentative de réhabilitation des instruments
+directs(quantitatifs)danslaconduitedelapolitiquemonétairedelaBEAC?Acepropos,
+depuis la réforme du système bancaire du début des années 1990 dans la CEMAC, la
+stratégie de la BEAC fait cohabiter des instruments direct et indirect, à savoir le taux
+d’intérêt des appels d’offres (TIAO), devenu depuis lors son principal taux directeur, et
+les objectifs de refinancement différenciés par pays. Or, le contexte et les caractéristiques
+hétérogènes des économies des Etats membres de l’UMAC tendent à limiter la portée des
+impulsions monétaires indirectes sur l’activité et les prix.
+En ce qui concerne le contexte de la zone d’émission de la BEAC, il convient de relever
+fondamentalement que le taux de bancarisation est très faible dans chaque Etat membre
+etlemarchéfinanciereststructurellementembryonnaire.Cetétédefaitporteraitàpenser
+à l’existence d’une demande de monnaie pour motif de transaction très élevée. De plus,
+dans son système bancaire qui est surliquide depuis plus de 10 ans, la grande majorité
+des établissements de crédit n’intégrant pas toujours le TIAO dans la détermination des
+taux de base bancaire (TBB). Cette situation tend à résulter en un système bancaire
+5
+
+--- Page 7 ---
+“hors Banque”. Enfin, la non disponibilité de données historiques et actuelles fiables sur
+les conditions de banque et les concours à la clientèle, par type d’agents économiques et
+par secteur d’activités, ne permet pas encore de clarifier les mécanismes de transmission
+des impulsions monétaires à la sphère réelle et aux prix de façon convaincante.
+Au titre des éléments contextuels de l’UMAC, sans toutefois prétendre à l’exhaustivité, il
+peut être évoqué l’incidence, sur la conduite de la politique monétaire, de l’arrimage du
+F CFA à l’euro via une parité fixe de 655.957 F CFA pour 1 euro. Depuis 1972, année de
+création de la BEAC, le F CFA était arrimé au franc français (FF) au taux de 50 F CFA
+pour1FF,puis,aprèsladévaluationde1994,100FCFApour1FF.L’UMACestunezone
+monétaire dans laquelle un contrôle de change sur la mobilité des capitaux est en vigueur
+et qui a un régime de change fixe à ancrage nominal sur la monnaie unique européenne.
+Aussi, au regard du Triangle des incompatibilités de Mundell, il y existerait une certaine
+marge de manœuvre pour la conduite d’une politique monétaire. Cette dernière n’est
+toutefois pas autonome car, en tenant compte du différentiel d’inflation, le taux d’intérêt
+de la BEAC, banque centrale de petites économies ouvertes, ne peut pas durablement
+s’éloigner de celui de la Banque Centrale de sa zone d’ancrage - la BCE (Rapport Padoa-
+Schioppa, 1987, au moment de l’étude sur la faisabilité de la zone Euro).
+A propos des autres caractéristiques de la CEMAC, il peut être souligné (i) la couverture
+géographique de cet espace qui s’étend de la frontière libyenne, dans le désert du Sahara,
+à la rive droite du fleuve Congo, en couvrant la Grande forêt Equatoriale du Bassin
+du Congo, (ii) les économies structurellement hétérogènes et peu diversifiées, dont quatre
+fondamentalement pétrolières (Congo, Gabon, Guinée Equatoriale et Tchad, où le pétrole
+représente plus de 70% de la production totale), et cinq, à l’exception du Cameroun, qui
+dépendentfortementdel’exploitationdeminerais,demétauxetdepierresprécieuses,(iii)
+un secteur informel très important dans tous les pays, et (iv) une situation de liquidité
+disparateentrelessystèmesbancairesdesEtatsmembres.Cettedernièrehétérogénéitéest
+prise en compte à la BEAC, à travers la fixation des coefficients des réserves obligatoires
+et des objectifs de refinancement différenciés en fonction de la situation de liquidité dans
+les Etats membres.
+Enfin,danslamesureoùlescadresinstitutionneletopérationneldelapolitiquemonétaire
+de la BEAC ne sauraient encore s’accommoder de règles de politique monétaire de type
+“règles de Taylor”1, d’une part, et compte tenu de tout ce qui précède, d’autre part,
+nous prenons le risque de nous positionner à contre-courant de l’orientation actuelle de
+la littérature économique qui plaide désormais en faveur de l’abandon de la courbe LM
+1. Cf. Rapport Final du Groupe de travail sur la Réforme de la politique monétaire de la BEAC, à
+l’Hôtel Mont Fébé (Yaoundé), du 11 au 15 juillet 2011.
+6
+
+--- Page 8 ---
+dans la conduite de la politique monétaire, notamment dans un cadre marqué par une
+abondance d’innovations financières. Cette dernière précision ne concernant pas encore la
+CEMAC, l’objectif de cette étude est de rechercher l’existence d’une fonction de demande
+de monnaie “bien-spécifiée et stable”, tenant nécessairement compte des hétérogénéités
+structurelles des économies de l’UMAC, qui pourrait aider, un tant soit peu, à clarifier le
+cadre analytique de la politique monétaire de la BEAC dans sa zone d’émission.
+La suite de ce papier passe en revue quelques études sur la spécification de fonctions
+de demande de monnaie, dans une première section, avant de présenter successivement
+dans deux sections, le cadre théorique de notre étude et la méthodologie économétrique
+que nous employons pour évaluer empiriquement le modèle théorique spécifié. La qua-
+trième section rapporte les résultats d’estimation et commente ceux-ci. Les principaux
+enseignements et la conclusion de l’étude sont présentés dans la dernière section.
+1 Revue succincte de la littérature sur quelques spéci-
+fications de fonctions de demande de monnaie
+A l’instar de Lütkepohl & Wolters (1999), Sriram (2001) fait un survey de la littérature
+théorique, mais aussi empirique, sur la demande de monnaie. Celui-ci est particulière-
+ment intéressant sur la théorie, car il permet de présenter succinctement les principales
+approches rencontrées dans l’explication éventuelle de la demande de monnaie exprimée
+par les agents économiques. De plus, il expose, de façon synoptique, un grand nombre
+de méthodologies appliquées au plan empirique à travers la littérature, notamment celles
+couvrant les expériences des pays en développement.
+Ainsi, considérant que la monnaie n’est qu’un voile qui masque la réalité des échanges à
+l’équilibre néoclassique2, les tenants de cette approche dérivent une relation de propor-
+tionnalitéentrelaquantitédemonnaieetleniveaudesprix,àpartirdedeuxformulations
+alternatives équivalentes, avec d’une part l’équation des échanges de Fisher (1920), et
+d’autre part l’équation de Cambridge de Pigou (1917) et Marshall (1923). Cette relation
+deproportionnalité,quin’estpasunmodèleéconomique,n’apaspourvocationdefournir
+une explication au comportement de demande de monnaie par les agents économiques.
+2. L’équilibre néoclassique soutient que tous les marchés sont continûment équilibrés, du fait de la
+flexibilité des prix relatifs qui, en s’ajustant, permettent le maintien de cet état. De la sorte, l’économie
+est toujours à son niveau de plein-emploi, sauf cas exceptionnels liés à des perturbations réelles qui
+pourraient l’en écarter temporairement. Bien entendu, cette théorie a largement été critiquée. (Voir par
+exemple Greenwald & Stiglitz, 1987, pour un aperçu de certaines critiques).
+7
+
+--- Page 9 ---
+Esquissant des tentatives de réponse à cette préoccupation, les économistes Néoclassiques
+reconnaissentunrôlederéservedevaleuràlamonnaie,enplusdeceluid’intermédiairedes
+échanges retenu par les Classiques. Partant de ces deux considérations, ils expliquent que
+tout en facilitant les transactions, plusieurs facteurs affecteraient la demande de monnaie
+comme réserve de valeur, dont l’incertitude liée aux évolutions futures des prix3. Cannan
+(1921) établit à ce propos une relation négative entre demande de monnaie et inflation
+anticipée. Ce courant de pensée est le premier à parler de demande de monnaie en termes
+d’encaisses réelles.
+Dans ses travaux de 1930 et 1936, John Maynard Keynes est le premier économiste à
+véritablement jeter les bases d’une théorie formalisée de la demande de monnaie. En
+effet, il évoque trois motifs qui expliqueraient le comportement de demande de monnaie
+par les agents économiques, à savoir les motifs de transaction et de précaution, qui font
+dépendre ce comportement du niveau du revenu réel, et le motif de spéculation, pour
+lequel les agents conservent des encaisses réelles pour pouvoir saisir des opportunités de
+plus-value que leur permettrait l’achat d’obligations, en fonction des évolutions des taux
+d’intérêt qui rémunèrent celles-ci. C’est la théorie de la préférence pour la liquidité, qui
+fait dépendre négativement la demande de monnaie du coût d’opportunité de la détention
+de la liquidité, c.à.d les taux d’intérêt.
+A la suite de Keynes, plusieurs autres approches ont formalisé les comportements de
+demande d’encaisses réelles des agents économiques, en partant de l’un ou l’autre des
+motifs évoqués par Keynes, et en postulant certaines hypothèses ou en imposant quelques
+restrictions.C’estlecasnotammentdeBaumol(1952)qui,considérantlamonnaiecomme
+intermédiaire des échanges, recourt aux modèles d’inventaires, pour spécifier la demande
+d’encaisses réelles des agents économiques, tout en supposant connu avec certitude le
+niveau des transactions.
+Au total, même si Baumol parvient à une spécification d’une fonction de demande d’en-
+caisses réelles compatible avec les déterminants identifiés par Keynes, à savoir le revenu
+réel et le taux d’intérêt, il ne parvient pas à fournir une explication convaincante à la
+détention de la monnaie, et Howitt (1992) relève l’inadéquation des restrictions imposées
+par Baumol sur l’intervalle et le timing entre deux transactions successives, par rapport
+à la réalité observée dans les comportements des agents.
+3. Pour une synthèse des conclusions des Néoclassiques, voir Laidler (1993, p.53), cité par Sriram
+(1999).
+8
+
+--- Page 10 ---
+Une approche de solution pour lever les insuffisances des modèles se fondant sur le motif
+de transaction a été les modèles avec contrainte cash-in-advance proposés par Clower
+(1967),etmieuxformalisésparLucas(1980),aveclapriseencomptedemicrofondements,
+pour mieux caler le timing et la structure des transactions requis pour une formalisation
+satisfaisante de l’utilisation de la monnaie comme intermédiaire des échanges.
+En partant des motifs de précaution et de spéculation, Tobin (1958) considère la monnaie
+comme une composante d’un portefeuille d’actifs financiers, puis mobilise les modèles de
+gestion de portefeuille pour spécifier une fonction de demande d’encaisses réelles, en sup-
+posant incertains les flux nets de revenus risqués rapportés par les autres actifs. Il trouve
+alors que la demande d’encaisses réelles dépendrait négativement des rendements atten-
+dus respectivement des autres actifs (actions et obligations) et de l’inflation anticipée, et
+positivement de la richesse réelle correspondant à une augmentation du volume du por-
+tefeuille. Plusieurs autres auteurs post-keynésiens, se fondant sur le motif de précaution,
+ont développé des approches différentes, à l’instar des modèles à générations imbriquées
+(Samuelson, 1958, Sargent & Wallace, 1982), qui considèrent incertaines les périodes de
+paiement et de perception de revenus. Toutefois, ils aboutissent aux mêmes conclusions
+keynésiennes4 quant aux déterminants de la demande d’encaisses réelles, avec toutefois
+des amplitudes différentes. La principale critique faite aux modèles se fondant sur le motif
+de précaution, due à McCallum (1989), relève que ceux-ci ne parviennent pas à expliquer
+la tendance observée dans la persistance de la détention d’encaisses réelles par les agents
+alors qu’il existerait en même temps des actifs non risqués et liquides qui rapporteraient
+pourtant des rendements positifs. Il y a lieu de noter ici que les approches qui s’appuient
+sur la diversification des portefeuilles avec des actifs concurrents à la monnaie citées
+dans Sriram (1999) ne sont pas abordées en raison de la très faible diversification des
+instruments financiers dans la CEMAC.
+Enfin, diverses alternatives développées par certains économistes post-keynésiens, parmi
+lesquels Friedman (1956), Barnett (1980) et Ljungqvist & Sargent (2004), qui s’affran-
+chissent des motifs de la demande d’encaisses réelles, analysent plutôt cette dernière dans
+le cadre de la théorie générale du consommateur. En effet, depuis Lucas (1980), ce cadre
+repose sur des fondements microéconomiques solides et postule que les agents détiennent
+des biens, au nombre desquels la monnaie, parce qu’ils en retirent une certaine utilité.
+En nous fondant sur ce dernier postulat, nous retiendrons en ce qui concerne la CEMAC,
+une variante du modèle de Ljungqvist & Sargent (2004), présentée dans Wickens (2010).
+4. Sriram (1999, p.12) cite Barro & Fisher (1976) et Cuthbertson & Barlow (1976) pour un résumé
+des travaux dans cet axe de recherche.
+9
+
+--- Page 11 ---
+2 Spécification du modèle théorique dans la CEMAC
+Dans le cadre de la théorie de l’équilibre général de la demande du consommateur, nous
+considérons deux types d’agents économiques, les ménages et les entreprises.
+S’agissant des ménages, on considère un ménage représentatif qui répartit son temps
+entre trois activités, à savoir le travail (n ), les loisirs (l ) et les achats (s ), de sorte que
+t t t
+sa contrainte temporelle normalisée est :
+n +l +s = 1 (1)
+t t t
+A l’opposée de Ljungqvist & Sargent (2004), Wickens (2010) propose une variante sur le
+temps consacré aux achats (s ), en le faisant dépendre de façon non linéaire du niveau de
+t
+la consommation (c ) et des encaisses monétaires (m ) détenues par les ménages, selon la
+t t
+formulation suivante :
+cα
+s = ψ t (2)
+t mδ
+t
+avec ψ, α, δ > 0.
+Dans la formulation (2) ci-dessus, différente toutefois de celle proposée par Ljungqvist et
+Sargent, qui retiennent plutôt les encaisses réelles prospectives (m ) déflatées par le ni-
+t+1
+veau général des prix courants, nous avons opté pour les encaisses réelles contemporaines
+(m ), tel que le propose Wickens. Ce choix a été motivé par une réalité dans la CEMAC
+t
+exposée fort à propos par Ondo Ossa (2002), selon laquelle l’inflation étant relativement
+faible dans la zone franc africaine, donc dans la CEMAC a fortiori, l’on ne devrait pas
+s’attendre à ce que les évolutions anticipées du niveau général des prix y soient un déter-
+minant significatif de la demande de monnaie. Cette hypothèse sera testée à la lumière
+de nos résultats.
+Nous considérons également qu’à chaque instant, le ménage représentatif retire une cer-
+taine utilité de sa consommation (c ) et de ses loisirs (l ), suivant la fonction d’utilité de
+t t
+type CES suivante :
+(cid:2) (cid:3) 1
+U (c , l ) = χ c1−σ +(1−χ) l1−σ 1−σ , 0 < χ < 1, σ > 0 (3)
+t t t t
+Lesrelations(1)−(3)caractérisentlamodélisationdelamonnaiedanslafonctiond’utilité
+indirecte.
+10
+
+--- Page 12 ---
+A chaque instant, le ménage représentatif fait face à la contrainte budgétaire suivante,
+exprimée en termes nominaux :
+P c +∆M +∆B = P ω n +R B (4)
+t t t+1 t+1 t t t t t
+où ω est le taux horaire réel de rémunération du travail (n ), B est la dépense totale en
+t t t
+obligations effectuée en début de période t−1, R est le taux de rendement nominal des
+t
+obligations, et R B est le revenu des intérêts des obligations perçus en début de période
+t t
+contemporaine, t.
+Nous considérons à chaque instant que le logarithme des encaisses réelles (M /P ) est
+t t
+positif; ce qui dans la CEMAC, n’est pas une hypothèse invraisemblable, compte tenu
+du faible niveau d’inflation qui y est observé.
+Ainsi, en termes réels, la contrainte budgétaire déflatée par le niveau général des prix
+courants (P ) s’écrit :
+t
+(1+π )b +(1+π )m +c = ω n +m +(1+R )b (5)
+t+1 t+1 t+1 t+1 t t t t t t
+X ∆P
+t t+1
+où ≡ x et = π désigne le taux d’inflation à la période t+1.
+t t+1
+P P
+t t
+Sur la base de tout ce qui précède, le ménage représentatif maximise son utilité intertem-
+porelle, par la résolution du programme d’optimisation dynamique suivant :
+∞
+(cid:88)
+max βjU (c ,l ) (6)
+t+j t+j
+{ct,lt,nt,mt,bt}
+j=0
+nt+lt+st=1
+st=S(ct,mt)=ψcα tm− tδ
+(1+πt+1)bt+1+(1+πt+1)mt+1+ct=ωtnt+mt+(1+Rt)bt
+avec β > 0, le taux de préférence temporelle, et ψ un paramètre positif. Dans la suite,
+S (·) > 0 et S (·) > 0 désigneront les dérivées partielles de S(·,·) par rapport à l’argu-
+C m
+ment en indice respectivement.
+La résolution algébrique de ce problème d’optimisation dynamique par la méthode du
+Lagrangienpermetd’obtenir,àpartirdesconditionsd’optimalitédu1er ordreparrapport
+à c , l , n , b et m respectivement, avec j ≥ 0, l’équation suivante5 :
+t+j t+j t+j t+j t+j
+U (c ,l )
+c t+j t+j
+R = R S (c ,m )−S (c ,m ), j ≥ 0 (7)
+t+j t+j c t+j t+j m t+j t+j
+U (c ,l )
+l t+j t+j
+5. Voir les détails algébriques dans Wickens (2010, chapitre 8, pp. 218-221).
+11
+
+--- Page 13 ---
+Entenantcomptede(1)et(2),ilvientaprèscalculdesdérivéespartiellesetmanipulations
+algébriques, la forme implicite suivante de cette équation :
+χ lσ cα (cid:18) R δ (cid:19)
+t+j t+j t+j
+R = ψ α + (8)
+1−χ t+j cσ mδ c m
+t+j t+j t+j t+j
+Pour boucler enfin l’équilibre du consommateur, nous examinons le comportement des
+entreprises. Nous considérons pour ce faire que la fonction de production des entreprises
+est de type Cobb-Douglas, et s’écrit sous la forme d’intensité capitalistique suivante :
+y = f (k ) = κ kη, 0 < η < 1 (9)
+t t t
+où, k et y désignent respectivement, par unité de travail, le stock de capital et le revenu
+t t
+réel. La condition de maximisation du profit par les entreprises fournit alors l’expression
+suivante du taux de rémunération du travail (ω ) :
+t
+ω 1−η
+t
+= k (10)
+t
+r η
+t
+Ducôtédesproducteurs,nousretenons,entermesdeproductivitédufacteurtravail,l’hy-
+pothèse d’existence d’une relation non linéaire entre production réelle (y ) et population
+t
+active (n ), de la forme :
+t
+y = ς nθ, 0 < θ < 1 (11)
+t t
+Pour finir, en tenant compte de la faible diversification de la base productive des éco-
+nomies de la CEMAC, nous considérons que celles-ci sont essentiellement tirées par la
+demande, de telle sorte que, sans perte de généralité, nous pouvons retenir dans une
+optique keynésienne, la relation de proportionnalité suivante :
+c = ν y , 0 < ν < 1 (12)
+t t
+A partir des relations (8) à (10), nous dérivons pour j = 0, la forme implicite de la
+demande d’encaisses réelles comme suit :
+χ R t (cid:20) 1− 1 yθ1 −ψ να y tα (cid:21)σ = ψ να y tα (cid:20) α R t + δ (cid:21) (13)
+1−χ y tσ ς θ1 t mδ t mδ t ν y t m t
+La log-linéarisation de cette dernière équation au voisinage de l’état régulier (permanent)
+permet d’aboutir à la relation suivante :
+Γ Θ
+˜
+m˜ (cid:39) y˜ − R (14)
+t t t
+Ψ Ψ
+12
+
+--- Page 14 ---
+Les expressions des fonctions de paramètres dans (14) sont fournies dans la note en bas
+de page6.
+Comme m˜ désigne les encaisses réelles en déviation par rapport à l’état régulier de long
+t
+terme, (14) peut être réécrite explicitement telle que :
+Γ Γ Θ Θ
+¯
+m −p −m¯ +p¯(cid:39) y − y¯− R + R
+t t t t
+Ψ Ψ Ψ Ψ
+auquel cas, en posant
+Γ Θ
+¯
+ν ≡ m¯ −p¯− y¯+ R,
+Ψ Ψ
+le terme constant, la relation précédente s’écrit :
+Γ Θ
+m −p (cid:39) ν + y − R (15)
+t t t t
+Ψ Ψ
+Afin d’estimer ce modèle sur panel dynamique de pays hétérogènes, (15) peut être légère-
+ment modifiée en tenant compte de la possibilité d’existence d’éventuels effets spécifiques
+individuels liés à chaque pays, ϑ , i = 1,...,N. De plus, l’égalité n’étant pas parfaite
+i
+du fait de l’approximation précédente au voisinage de l’état régulier dont les déviations
+peuvent se faire en excès ou en défaut, mais de moyenne nulle, un terme idiosyncratique
+peut y être ajouté, en sorte que le modèle s’écrive :
+m −p = ν +ϑ +γy −θR +ε (16)
+it it i it it it
+Dans la mesure où la politique monétaire est commune à tous les individus du panel, le
+tauxdirecteurdelabanquecentraleestindépendantdei,telqueR = R , ∀i = 1,...,N.
+it t
+Par ailleurs, pour être en mesure de tester l’existence d’une demande d’encaisses réelles
+danslaCEMAC,etenl’absenced’untauxd’intérêtexplicitesurlecoûtréellementfacturé
+parlesétablissementsdecréditàleurclientèle,nousestimeronslemodèlegénéralsuivant,
+en supposons, faute de mieux qu’il existe une relation linéaire entre ce taux effectif et le
+taux directeur de la Banque centrale :
+m = ν +ϑ +λp +γy −θR +ε (17)
+it i it it t it
+(cid:20) (cid:18) (cid:19)(cid:21) (cid:18) (cid:19)
+A 1 n¯
+6. Les fonctions de paramètres sont Γ = s¯ ν B+α B+D+σ + σA ν+ > 0,
+¯l θ ¯l
+(cid:20) (cid:18) (cid:19)(cid:21)
+A
+Θ = A − s¯ B ≤ 0 (de préférence) et Ψ = s¯ D+δ B+D+σ > 0, avec les grandeurs sur-
+¯l
+χ R¯ ¯l
+montées d’une barre, les valeurs des variables correspondantes à l’état régulier, et A = ;
+1−χ ν y¯
+α R¯ δ y¯α
+B = ; D = et s¯=ψ να .
+ν y¯ m¯ m¯δ
+13
+
+--- Page 15 ---
+dans lequel le non rejet de l’hypothèse nulle H : λ = 1, conduirait à cette conclusion, si
+0
+de plus, θ est non significativement non nul; les paramètres ν, ϑ , γ étant tous positifs
+i
+ou nuls.
+3 Approche économétrique
+A propos de l’estimation des paramètres structurels de (14), en l’absence de données
+d’enquêtes sur les comportements des ménages et des entreprises, il ne nous est pas
+possible de procéder à un calibrage pour obtenir des approximations plausibles de toutes
+les fonctions de paramètres. En parcourant la littérature empirique sur les techniques
+d’estimation des fonctions de demande de monnaie en union monétaire toutefois, nous
+retenons au mieux trois approches. La première, de Kontolemis (2002), utilise un modèle
+vectoriel à correction d’erreurs (VECM) sur données agrégées de la zone Euro prise dans
+son ensemble, à l’instar de Koulet-Vickot (2002) pour la CEMAC. Cette approche ne
+saurait correspondre à notre environnement, dans lequel pour une meilleure conduite de
+la politique monétaire par la BEAC, nous souhaiterions tenir compte des hétérogénéités
+structurelles entre les Etats membres de l’UMAC.
+La deuxième approche, implémentée par Ondo Ossa (2002) sur la Zone Franc Africaine
+dans son ensemble, mais aussi sur les zones d’émission de la BCEAO7 et de la BEAC
+respectivement, recourt à l’utilisation de modèles instantanés à erreurs composées sur
+données de panel, avec correction autorégressive du terme d’erreur. Cette dernière cor-
+rection est effectuée pour blanchir les résidus d’estimation d’une éventuelle endogénéité
+dans les régresseurs de la fonction de demande de monnaie. Néanmoins, il convient de
+souligner que le caractère instantané de sa spécification occulte principalement la dimen-
+sion transitoire mise en évidence dans notre modèle théorique, tout en laissant de côté
+la recherche d’une racine unitaire dans les variables retenues, s’exposant ainsi au risque
+de mise en œuvre d’une régression fallacieuse. Ces insuffisances constituant des limites
+certaines, cette deuxième approche ne saurait non plus convenir à nos préoccupations.
+Latroisièmeapproche,imputableàDreger,Reimers&Roffia(2007),estime,danslecadre
+de 10 nouveaux pays8 membres de l’Union Européenne, les coefficients de long terme
+d’une fonction de demande de monnaie sur données trimestrielles de la période 1995q1
+- 2004q2 à partir des méthodes de cointégration sur données de panel hétérogène. Elle
+emploie notamment les méthodes des moindres carrés ordinaires dynamiques (DOLS),
+7. Banque Centrale des Etats de l’Afrique de l’Ouest.
+8. Chypre, Estonie, Hongrie, Lettonie, Lithuanie, Malte, Pologne, République Tchèque, Slovaquie et
+Slovénie.
+14
+
+--- Page 16 ---
+développées par Saïkkonen (1991) et les estimateurs pleinement modifiés (FMOLS) de
+Phillips (1995) et Pedroni (2001). Carrera (2012) utilise la même approche pour estimer
+avec succès une fonction de demande de monnaie de long terme de type keynésien dans
+15 pays d’Amérique Latine.
+Adéfautdefournirdesestimateursdesfonctionsdeparamètresstructurels,cettedernière
+approche en panels dynamiques cointégrés est celle qui se rapproche le mieux de nos
+préoccupations. En effet, l’approche en panels dynamiques cointégrés et hétérogènes nous
+permet d’une part, de prendre en compte les deux dimensions transitoire et régulière
+évoquées supra, et d’autre part, de mieux cadrer avec la nécessité de l’unicité de la
+politique monétaire de la BEAC, dans un environnement idiosyncrasique hétérogène.
+Enfin, ce choix présente également l’avantage de s’affranchir a priori de la distinction
+entre monnaie passive et monnaie active évoquée par Ondo Ossa (2002), et de la tester a
+posteriori,enfonctiondelasignificativitéstatistiquedesfonctionsdesparamètresestimés
+comme de simples scalaires.
+S’agissant de la troisième approche ci-dessus décrite, à défaut d’utiliser conjointement
+les méthodes FMOLS et DOLS, Kao & Chiang (2000) procèdent plutôt à une évalua-
+tion comparative de la précision de leur estimateur respectif sur petits échantillons pour
+l’estimation des relations de cointégration sur données de panels aussi bien homogènes
+qu’hétérogènes. Ils aboutissent à la conclusion de la supériorité de l’estimateur DOLS
+sur l’estimateur FMOLS. Ainsi, en rapport avec tout ce qui précède, nous estimerons
+la formulation générale suivante au moyen de la méthode DOLS sur panels dynamiques
+hétérogènes, où l’hypothèse nulle d’absence de relation de cointégration sera au préalable
+testée à l’aide de l’approche de Pedroni (1999, 2004), et celle alternative d’existence de
+relation de cointégration, par la méthode de McCoskey & Kao (1998)9 :
+m = υ +ϑ +γ y +λ p −φ R +ε (18)
+it i it it t it
+où les lettres en minuscules désignent les logarithmes respectivement de la masse moné-
+taire M2 (m), du PIB réel (y) et du niveau général des prix (p), pour chaque Etat membre
+i de la CEMAC; (R) désigne le TIAO de la BEAC, donc une variable commune à ses
+Etats membres; υ est le terme constant commum; ϑ est l’effet spécifique propre à l’Etat
+i
+i, pour tenir compte de l’hétérogénéité entre pays; ε est le terme d’erreur stationnaire
+it
+et de matrice de covariance asymptotique Ω ; et λ, γ et φ sont des paramètres scalaires
+i
+mesurant les effets de chaque variable explicative sur la demande d’encaisses.
+9. Pour de plus amples informations sur les méthodes de cointégration sur données de panel se re-
+porter à Hurlin, C. & V. Mignon (2006), “Une synthèse des Tests de Cointégration sur Données
+de Panel,” Note de cours, disponible à l’adresse http://www.univ-orleans.fr/deg/masters/ESA/CH/
+cointegration_v5.pdf, consultée le 29 janvier 2013.
+15
+
+--- Page 17 ---
+3.1 Le modèle de base de panels dynamiques hétérogènes
+Pedroni (2000) considère un modèle de régression sur panels dynamiques hétérogènes de
+la forme :
+z = α +α t+λ +x(cid:48) β +u , i = 1,...,N; t = 1,...,T (19)
+it 0i 1i t it it
+x = x +ε (20)
+it it−1 it
+où z est une 1×1 variable endogène intégrée d’ordre 1, (I(1)); x est un k×1 vecteur de
+it it
+régresseurs I(1) non cointégrés entre eux; {u } est un 1×1 processus stationnaire repré-
+it
+sentant une perturbation, et {ε } est un k×1 vecteur d’erreurs stationnaires, iid(0,Σ ).
+it iε
+Saïkkonen (1991) montre que le processus {u } dans (16) peut être réécrit sous la forme
+it
+∞ ∞
+(cid:88) (cid:88)
+u = c ε +ν , pour tout i, avec ||c || < ∞
+it ij it+j it ij
+j=−∞ j=−∞
+où {ν } est un processus stationnaire de moyenne nulle et décorrelé temporellement avec
+it
+{ε }.
+it
+Soit ω = (u , ε(cid:48) )(cid:48), le vecteur des innovations, tel que : ω = Π (L)ε = (cid:80)∞ Π ε ,
+it it it it i it j=0 ij it−j
+i = 1,...,N,
+avec (cid:80)∞ ja||Π || < ∞ et |Π (1)| (cid:54)= 0, ∀ a > 1. Les expressions des matrices de cova-
+j=0 ij i
+riance de long terme (Ω ), de court terme (Σ ) et inconditionnelle (Γ ) du vecteur ω sont
+i i i it
+données à l’annexe A.
+L’estimateur des moindres carrés ordinaires des paramètres du modèle (16) est :
+(cid:34) (cid:35)−1(cid:34) (cid:35)
+N T N T
+(cid:88)(cid:88) (cid:88)(cid:88)
+βˆ = (x −x¯ )(x −x¯ )(cid:48) (x −x¯ )(z −z¯) (21)
+OLS it i it i it i it i
+i=1 t=1 i=1 t=1
+A l’aide des estimateurs des MCO des paramètres scalaires et de la matrice de variance-
+covariance du terme d’erreur, on définit les transformations suivantes des variables du
+modèle :
+x∗ = Ωˆ−1/2 x ; z∗ = Ωˆ−1/2 zˆ++;
+it iε it it iu.ε it
+(cid:20) (cid:21)
+(cid:16) (cid:17)(cid:48)
+zˆ++ = z −Ωˆ Ωˆ−1 ∆x −Ωˆ1/2 Ωˆ−1/2 x(cid:48) − Ωˆ−1/2x βˆ .
+it it iuε iε it iu.ε iu.ε it iε it OLS
+où Ωˆ et Ωˆ sont des estimateurs efficaces de Ω et Ω = Ω − Ω Ω−1 Ω
+iε iu.ε iε iu.ε iu iuε iε iεu
+respectivement.
+16
+
+--- Page 18 ---
+3.2 La méthode DOLS
+A partir des notations exposées ci-dessus, l’estimateur DOLS du vecteur de paramètres β
+dans le modèle de cointégration sur panels hétérogènes, (16), noté
+βˆ∗,
+est obtenu à partir
+D
+des MCO sur le modèle de régression transformé suivant :
+(cid:88)qi
+z∗ = α +α t+x∗ β + c ∆x∗ +ν˙∗ (22)
+it 0i 1i it ij it+j it
+j=−qi
+où ν˙∗ = ν + (cid:80) c ε . Hurlin & Mignon (2006) soulignent que dans la pratique,
+it it j>qi ij it+j
+la valeur du paramètre de troncature q donnant le nombre de retards et avances dans
+i
+l’estimateur DOLS est relativement faible. Il convient de relever que les deux estimateurs
+βˆ∗
+et
+βˆ∗
+ont la même distribution asymptotique pour des valeurs graduelles de T et
+FM D
+N grandes. Aussi, pour les tests d’hypothèses nulles sur les paramètres, de la forme,
+H : R β = r, pour l = {FM,D}, la statistique de Wald est :
+0 l
+1 (cid:16) (cid:17)(cid:48) (cid:16) (cid:17) loi
+W∗ = R βˆ∗ −R [R R(cid:48)]−1 R βˆ∗ −R −−−−−−−−−−→ χ2(m)
+l 6 l l T→∞; N→∞
+4 Implémentation de la méthodologie et résultats em-
+piriques
+Les données nécessaires aux évaluations empiriques et à l’implémentation de la méthodo-
+logie décrite précédemment sont issues principalement de deux sources, avec d’une part,
+la base de données de la Banque mondiale (WDI), consultable en ligne à l’adresse10
+http://data.worldbank.org/country, et d’autre part, du fichier de la Programmation
+Monétaire de la BEAC.
+Pour la période d’analyse que nous avons retenue, à savoir, 1972-2012, les données an-
+nuellesontétécollectéesàpartirdelasourceWDIjusqu’en2009,etontétécomplétéesen
+variations jusqu’en 2012 à partir de la base de la BEAC. Plus précisément, les séries par
+pays de la masse monétaire M2, du taux d’intérêt des appels d’offres (ancien taux d’es-
+compte,jusqu’en1994),duPIBréeletdel’indicedesprixàlaconsommationdesménages,
+que nous avons reconstituées sont respectivement identifiées par les codes suivants dans
+la base WDI : FM.LBL.MQMY.CN; FR.INDR.DPST; NY.GDP.MKTP.KD et
+FP.CPI.TOTL.
+10. Lapagehttp://data.worldbank.org/countryaétéconsultéele28janvier2013,pourlacollecte
+des données.
+17
+
+--- Page 19 ---
+S’agissant des données manquantes des indices des prix à la consommation des ménages
+avant 1975 voire 1978, dans la mesure où en termes d’évolutions temporelles, l’IPC et le
+déflateur du PIB donnent un même aperçu tendanciel (Mankiw, 1999, chap.2, p.39), nous
+avons utilisé la série disponible du taux d’inflation calculé à partir de la variation annuelle
+du déflateur du PIB (NY.GDP.DEFL.KD.ZG, dans le WDI) pour reconstituer un
+proxy desdites données de l’IPC.
+Il convient de relever que pour la CEMAC, nous n’avons retenu que cinq pays sur six aux
+fins d’analyse. En effet, pour la Guinée Equatoriale, seul pays non retenu, les statistiques
+ne sont pas disponibles de 1972 à 1984, cette dernière correspondant à l’année où ce pays
+a rejoint le Cameroun, la République Centrafricaine, le Congo, le Gabon et le Tchad, au
+sein de la BEAC. Au total donc, nous travaillons sur un panel rigoureusement équilibré
+de cinq pays, dans la dimension individuelle, et 41 observations (1972-2012), dans la
+dimension temporelle.
+4.1 Tests de racine unitaire sur les variables d’analyse
+Dans la mesure où notre cadre méthodologique tient compte de l’existence éventuelle des
+hétérogénéités structurelles entre individus de notre échantillon, nous implémentons les
+tests de racine unitaire de deuxième génération, de Im, Pesaran & Shin - IPS (2003)
+et Choi (2001), qui spécifient la prise en compte des hétérogénéités sous l’hypothèse
+alternative d’absence de racine unitaire. Nous avons complété ces deux tests par le test de
+stationnarité de Hadri (2000), dont l’hypothèse alternative consiste plutôt en la présence
+d’une racine unitaire.
+Table 1 – Résultats des tests de racine unitaire sur la CEMAC (1972-2012)
+LogM2 TIAO LogIPC LogPIBR
+Var.niveau Stat. P −val. Stat. P −val. Stat. P −val. Stat. P −val.
+IPS 1.7894 0.9632 0.8538 0.8034 -3.4638 0.0003 3.0948 0.9990
+Perron) 10.6294 0.3871 3.8214 0.9550 33.9091 0.0002 9.4454 0.4904
+Hadri 11.5911 0.0000 2.4407 0.0073 11.7189 0.0000 10.9429 0.0000
+Var.diff. Stat. P −val. Stat. P −val. Stat. P −val. Stat. P −val.
+IPS -7.3724 0.0000 -12.0080 0.0000 - - -9.4227 0.0000
+Perron 99.6580 0.0000 178.9465 0.0000 - - 103.0457 0.0000
+Hadri 1.4784 0.0697 5.2088 0.0000 4.26.4 0.0000 0.7839 0.0000
+Source:Estimationsdel’auteuravecSTATA12.1.
+18
+
+--- Page 20 ---
+A la lecture des résultats de la table 1 ci-dessus, les probabilités de rejeter à tort l’hy-
+pothèse nulle de racine unitaire sur les variables en niveau sont supérieures à 5% pour
+les variables LogM2, TIAO et LogPIBR, pour les tests IPS et Fisher-type, tandis que
+ces probabilités sont quasiment nulles lorsque les mêmes tests sont implémentés sur leurs
+différences premières. Cela nous amène à conclure que ces trois séries sont affectées d’une
+racine unitaire, ou en d’autres termes, elles sont intégrées d’ordre 1 (I(1)). Ce résultat
+est d’ailleurs confirmé par le test de Hadri, qui conduit au rejet de l’hypothèse nulle de
+stationnarité au profit de l’hypothèse alternative de racine unitaire.
+Pour la série LogIPC en revanche, les tests IPS et Fisher-type conduisent au rejet de
+l’hypothèse nulle de racine unitaire, tandis que le test de stationnarité de Hadri conduit
+au rejet de l’hypothèse de stationnarité, pour l’alternative de racine unitaire. Dans la
+mesure où cette situation a priori ambigüe pourrait être liée à la prise en compte d’une
+éventuelle hétérogénéité sous H dans les tests de racine unitaire, nous avons procédé
+1
+au test de racine unitaire de Levin-Lin-Chu (2002), qui retient plutôt une homogénéité
+du panel sous l’hypothèse alternative. Les résultats obtenus indiquent une statistique
+de test ajustée (avec correction non paramétrique à la Newey-West) de −1.3928 et une
+probabilité critique de 8.18%. Ce qui conduit au non rejet de l’hypothèse nulle de racine
+unitaire. Par conséquent, nous retenons au seuil critique de 5% que la série LogIPC est
+intégrée d’ordre un (I(1)). En définitive, toutes nos variables d’intérêt sont I(1), ce qui
+nous amène à tester l’existence de relations de cointégration entre ces variables.
+4.2 Résultats des tests de cointégration
+Pour la détection d’éventuelles relations de cointégration entre nos k = 4 variables d’in-
+térêt, dans le panel constitué de N = 5 Etats membres de la CEMAC, sur la période
+1972 − 2012, nous utilisons le test de cointégration multiple de Groen & Kleibergen
+(2003). Ce test11, qui est le pendant sur données de panel du test de Johansen sur sé-
+ries chronologiques, se base sur l’utilisation des statistiques du ratio de vraisemblance
+de modèles vectoriels à correction d’erreur individuels, pour détecter des vecteurs coin-
+tégrants homogènes et hétérogènes, en testant séquentiellement l’hypothèse nulle d’exis-
+tence de r relations cointégrantes, contre l’hypothèse alternative de k relations cointé-
+grantes, r = 0, 1,..., k −1.
+La table 2 ci-dessous reprend succinctement les principaux résultats de ce test pour la
+statistique de Fisher associée à la valeur propre maximale.
+11. Pour de plus amples éclaircissements sur le principe de ce test et davantage de détails, se reporter
+par exemple à Hurlin & Mignon (2006).
+19
+
+--- Page 21 ---
+Table 2 – Résultats des tests de cointégration multiple sur la CEMAC (1972-
+2012)
+Johansen Fisher Panel Cointegration Test
+Series : LM2 LIPC TIAO LPIBR
+Included observations : 205
+Trend assumption : No deterministic trend (restricted constant)
+Lags interval (in first differences) : 1 2
+Unrestricted Cointegration Rank Test (Maximum Eigenvalue)
+Hypothesized No. of CE(s) Fisher Stat.∗ (from max-eigen test) Prob.crit.
+None 42.62 0.0000
+At most 1 13.99 0.1735
+At most 2 14.70 0.1433
+At most 3 12.81 0.2345
+* Probabilities are computed using asymptotic Chi-square distribution.
+Individual cross section results
+Cross Section Fisher Stat.∗ (from max-eigen test) Prob.crit.
+Hypothesis of no cointegration
+Cameroun 1 45.3335 0.0002
+Rép. Centrafricaine 2 22.7344 0.2335
+Congo 3 37.4563 0.0056
+Gabon 4 34.8896 0.0068
+Tchad 5 20.4245 0.3804
+Hypothesis of at most 1 cointegration relationship
+Cameroun 1 13.7690 0.4833
+Rép. Centrafricaine 2 19.7238 0.1101
+Congo 3 19.6146 0.1137
+Gabon 4 16.9257 0.2375
+Tchad 5 12.1711 0.6380
+**MacKinnon-Haug-Michelis (1999) p-value
+Source:Estimationsdel’auteursousEVIEWS7.
+A la lumière des résultats des tests séquentiels consignés dans la table 2, l’hypothèse
+nulle d’absence de relation de cointégration pour le panel est rejetée, au profit de l’hy-
+pothèse alternative d’existence d’au moins une relation de cointégration dans le panel,
+la probabilité critique correspondante étant inférieure à 10−4. De même, au niveau des
+Etats membres, les variables d’analyse exhiberaient une relation de cointégration au Ca-
+meroun, au Congo et au Gabon, alors que cette dernière n’existerait pas en République
+Centrafricaine et au Tchad, deux pays enclavés à l’histoire politique assez tumultueuse
+sur la période sous revue.
+Toutefois, dans la mesure où nous nous intéressons à la conduite de la politique monétaire
+commune dans la CEMAC considérée dans sa globalité, il ne sera pas accordé davantage
+d’attention aux spécificités de chaque Etat membre dans la suite de notre analyse.
+20
+
+--- Page 22 ---
+4.3 Résultats d’estimation des MCE sur panels dynamiques hé-
+térogènes
+En rapport avec la supériorité de l’estimateur DOLS par rapport à l’estimateur FMOLS
+dans la correction du biais de lestimateur OLS, tel que le stipulent Kao & Chiang, nous
+présentons les résultats d’estimation de la fonction de demande de monnaie de long terme
+à partir de ces trois méthodes dans le tableau ci-dessous.
+Les résultats d’estimation de la fonction de demande de monnaie de long terme des agents
+économiquesdelaCEMAC,àpartirdelaméthodeDOLSappliquéeàunpanelhétérogène
+cointégré, montrent que celle-ci, plutôt stable compte tenu de la robustesse de la méthode
+utilisée, est de type “monétariste”. En effet, si le taux d’intérêt des appels d’offres de la
+BEAC (TIAO) n’a aucune influence12 à long terme sur la demande d’encaisses, au seuil
+de confiance de 5% dans la CEMAC, les élasticités prix (0.933) et revenu (1.107) de la
+demande d’encaisses ne sont pas significativement différentes de l’unité. Ce résultat, qui
+va dans le même sens que les conclusions de la Nouvelle Synthèse, corrobore également
+la vérification de l’hypothèse de stabilité à long terme de la vitesse de circulation de la
+monnaie dans cet espace communautaire, telle que rapportée dans chaque Etat membre
+par Mounkala (2012a).
+Table 3 – Résultats d’estimation des paramètres du modèle de cointégration
+Oneway (individual) effect Within Model
+Balanced Panel : n=5 T =41 N =205
+Endogenous variable : Log(M2)
+it
+Fonction de demande de monnaie de long-terme par la méthode DOLS (a)
+Variable Estimate Std. Error t−value Pr(>|t|)
+TIAO 0.043121 0.025507 1.6906 0.092806 .
+it
+Log(IPC) 0.933317 0.032822 28.4355 <2.2e-16 ∗∗∗
+it
+Log(PIBR) 1.107296 0.060702 18.2416 <2.2e-16 ∗∗∗
+it
+Adj. R2 =0.87637 F −statistic=620.948 on 15 and 165 DF
+Note : (a) 2 lags and 2 leads are used for the DOLS estimator.
+∗∗∗ paramètre fortement significatif.
+Source:Estimationsdel’auteursurR.Lecodeestdisponibleàlademandeauprèsdel’auteur.
+12. Au seuil de confiance de 10%, seuil relativement “lâche” par contre, le TIAO influencerait plutôt
+positivement la demande d’encaisses, avec une sémi-élasticité de 0.043. Ce résultat plutôt contraire à la
+théoriekeynésienne,seraitimputableàl’importancedelafinanceinformelledanslaCEMAC,oùletaux
+de bancarisation ne dépasse pas 3%. Pour plus de détails sur la finance informelle et son incidence sur la
+demanded’encaissesvoirparexempleMvondo(2011),Chandavakar(1988),Eboué(1988)etTchamanbe
+Djine & Tamba (1995).
+21
+
+--- Page 23 ---
+Sur la question pertinente de la distinction entre “monnaie active” et “monnaie passive” à
+l’œuvre dans la CEMAC, il convient de relever avec Laidler (1999) que les termes “actif”
+et “passif” ne sont pas synonymes d’exogénéité et d’endogénéité, mais sont plutôt utiles
+pour l’identification des mécanismes de transmission de la politique monétaire. Ainsi,
+pour Laidler, la monnaie serait “passive” si la transmission des impulsions de politique
+monétaire se fait par le truchement des taux d’intérêt, alors qu’elle serait “active” à
+travers les effets directs des encaisses excédentaires sur la dépense. Il ressort donc de
+cette distinction, la nécessité d’analyser la fonction de demande d’encaisse de la CEMAC
+aussi bien à long terme qu’à court terme.
+La table 4 ci-dessous présente les résultats complémentaires de l’estimation de cette fonc-
+tion à court terme par la méthode DOLS.
+Table 4 – Résultats d’estimation de la fonction de demande de monnaie de
+la CEMAC
+Oneway (individual) effect Within Model
+Balanced Panel : n=5 T =37 N =185
+Long-run Money Demand : Log(M2) =Log(IPC) +Log(PIBr) +ε
+it it it it
+Short-run dynamic obtained by DOLS estimation
+Variable Estimate Std. Error t−value Pr(>|t|)
+∆TIAO -0.749981 0.084444 -8.8815 1.078e-15 ∗∗∗
+it−1
+∆TIAO 0.506869 0.083381 6.0789 8.122e-09 ∗∗∗
+it−2
+∆Log(IPC) -0.318096 0.105565 -3.0133 0.002992 ∗∗
+it+1
+∆Log(PIBr) 0.610904 0.117092 5.2173 5.388e-07 ∗∗∗
+it−1
+∆Log(PIBr) -0.356149 0.114698 -3.1051 0.002239 ∗∗
+it−2
+∆Log(PIBr) 0.239984 0.119018 2.0164 0.045384 ∗
+it+1
+Adj. R2 =0.87637 F −statistic=620.948 on 15 and 165 DF
+Le nombre d’astérisques désigne le degré de significativité des paramètres.
+Source:Estimationsdel’auteursurR.Lecodeestdisponibleàlademandeauprèsdel’auteur.
+L’examen des résultats à court terme met en exergue quelques faits stylisés de la demande
+de monnaie de la CEMAC, toutes choses étant égales par ailleurs. (1) les variations du
+TIAO retardées d’une période influencent négativement la demande de monnaie à court
+terme, avec une sémi-élasticité de −0.75. De plus, le TIAO présente une certaine inertie,
+avec ses variations retardées de deux périodes dont l’influence sur la demande d’encaisses
+est plutôt positive, mais l’impact cumulé du TIAO jusqu’à la période courante reste
+négatif13, de l’ordre de −24 points de base. (2) L’anticipation à la période t + 1 d’une
+13. Ce résultat va dans le même sens que celui obtenu par Mounkala (2012b), dans le cas de l’éconmie
+gabonaise face à la France.
+22
+
+--- Page 24 ---
+variation positive d’un point de pourcentage du niveau général des prix conduit les agents
+économiques de la CEMAC à réduire leur demande d’encaisses de 32 points de base à la
+période courante, t. Ce résultat contredit celui trouvé par Ondo Ossa (2002) sur la Zone
+Franc africaine. (3) Les agents économiques de la CEMAC augmentent leur demande
+d’encaisses de 24 points de base lorsqu’ils anticipent une augmentation d’un point de
+pourcentage du PIB réel dans la Sous-région. (4) L’impact cumulé des variations du PIB
+réel au cours des périodes t−2 et t−1 est positif, de l’ordre de 25 points de base sur la
+demande d’encaisses par les agents économiques de la CEMAC. Au total, la fonction de
+demande de monnaie des agents économiques de la Zone d’émission de la BEAC, estimée
+sur panels hétérogènes cointégrées, met bien en évidence les conclusions de la Nouvelle
+Synthèse,aussibienàcourtterme,selonuneoptiquekeynésienne,qu’àlongtermesuivant
+l’approche Néoclassique.
+Sur la base de ces résultats conformes à la théorie économique contemporaine, d’une
+part, et compte tenu de la stabilité de la fonction de demande de monnaie estimée dans
+la CEMAC, d’autre part, l’agrégat de monnaie M2 constituerait un indicateur utile pour
+l’orientation de la politique monétaire de la BEAC. Toutefois, comme le souligne Laidler
+(1999), cet agrégat ne jouerait aucun rôle causal vu son mode de détermination fonc-
+tion du taux d’intérêt à court terme. Dans ces conditions, la conception d’une “monnaie
+passive” à l’œuvre dans la CEMAC serait une “bonne” approximation de la réalité.
+Au regard des pratiques actuellement en cours à la BEAC en matière de création moné-
+taire, ce résultat mérite quelque peu d’être nuancé, car comme le relève Laidler (1999),
+les faits stylisées mis en évidence à court terme par notre fonction de demande de mon-
+naie estimée peuvent aussi être générés par une monnaie nominale entièrement exogène.
+En effet, la surliquidité du système bancaire de la CEMAC, les opérations sur le Marché
+Monétaire, essentiellement entre la Banque Centrale et les établissements de crédit ne dé-
+pendent pas fondamentalement du taux directeur, ces derniers sollicitant davantage des
+placements auprès de l’Institut d’Emission que des refinancements. La BEAC, au regard
+de son compte d’exploitation, est confrontée à des capacités d’absorption limitée pour
+accepter la totalité des placements soumis par les établissements de crédit. De la sorte,
+l’offre de monnaie à la BEAC pourrait être considérée comme étant fortement exogène.
+En nous référant aux résultats de Mounkala (2012a, 2012c), la monnaie exercerait une
+influence sensible, aussi bien à court qu’à long terme sur le niveau général des prix et
+sur le revenu réel dans les Etats membres de la CEMAC, et a fortiori sur la dépense.
+Suivant ces considérations, il peut être retenu que l’agrégat M2 jouerait plutôt un rôle
+causal, ce qui in fine militerait plutôt pour une “monnaie active” dans cette zone, pour
+la transmission des impulsions monétaires.
+23
+
+--- Page 25 ---
+Au total, nos résultats empiriques semblent aussi bien compatibles avec l’assignation
+d’un rôle purement passif à la monnaie qu’avec celle d’un rôle purement actif, mais
+aussi avec une relation jouant dans les deux sens entre la monnaie et l’économie. Cette
+constatation peut laisser perplexe de prime abord en matière de conduite de la politique
+monétaire. Néanmoins, dans la mesure où cette dernière devrait agir à la marge et dans
+un seul sens, un compromis opérationnel pour l’appréciation des impulsions monétaires à
+l’économie pourrait consister à utiliser l’écart monétaire. Celui-ci peut être défini comme
+la différence entre la “monnaie active”, i.e. l’offre exogène de monnaie, déterminée sur le
+Marché Monétaire et les statistiques monétaires, et la “monnaie passive”, i.e. l’agrégat
+M2 calculé de manière endogène à partir des valeurs retardées, courantes et prospectives
+du TIAO, de l’IPC et du PIB réel, en utilisant le modèle estimé ci-dessus.
+Dans la pratique, en admettant que les banques ne sont pas frileuses pour faire du crédit,
+un écart monétaire positif signifierait une offre de monnaie excédentaire qui, à court
+terme pourrait accompagner la croissance économique, mais résulterait intégralement en
+une hausse du niveau général des prix à long terme. Inversement, un écart monétaire
+négatif correspondrait à une offre insuffisante de monnaie par rapport à la demande
+exprimée par les agents économiques. Au cas où la vitesse de circulation de la monnaie ne
+serait pas sensible à court terme d’une part, et compte tenu de la rigidité des prix à cette
+dimension temporelle d’autre part, il pourrait en résulter un ralentissement de l’activité
+économique. La persistance de cet écart négatif résulterait à long terme en une récession.
+A la lumière de ce qui précède, une attention particulière devrait donc être portée à
+l’analyse de l’écart monétaire dans la CEMAC. Pour ce faire, la fonction de demande
+de monnaie estimée sur panels hétérogènes cointégrés et l’écart monétaire incident vien-
+draient enrichir le cadre analytique actuel de la politique monétaire de la BEAC. Cette
+approche présente en effet l’avantage d’éclairer la conduite de la politique monétaire com-
+mune dans l’UMAC, tout en tenant compte des hétérogénéités structurelles de ses Etats
+membres.
+24
+
+--- Page 26 ---
+Conclusion
+L’objectif de cette étude était de rechercher une fonction de demande de monnaie cor-
+rectement spécifiée et tenant compte des hétérogénéités structurelles des économies de
+l’UMAC, fonction qui aiderait à clarifier le cadre analytique de la politique monétaire
+commune de la BEAC dans cette zone. Pour ce faire, après une revue de la littérature
+théorique sur les fonctions de demande de monnaie, nous avons retenu une variante de
+l’approche proposée par Ljungqvist & Sargent (2004), qui s’inscrit dans le cadre de la
+théorie de l’équilibre général du consommateur. Ce cadre, qui permet de s’affranchir des
+motifs de détention de la monnaie, postule plutôt que celle-ci est demandée parce que
+les agents en retirent une utilité certaine. Ainsi, en introduisant de façon indirecte la
+monnaie dans la fonction d’utilité du consommateur, nous avons dérivé une formulation
+théorique générale qui décrirait la demande de monnaie des agents de la CEMAC. L’im-
+plémentation de la méthode des moindres carrés dynamiques (DOLS) sur données de
+panels hétérogènes équilibrés et cointégrés a permis d’estimer empiriquement la fonction
+de demande spécifiée dans ce papier, en prenant notamment les données annuelles des
+Etats membres de la CEMAC (hormis la Guinée Equatoriale), sur la période 1972−2012.
+Compte tenu de la robustesse de la méthode d’estimation utilisée, les résultats obtenus
+peuvent être considérés comme stables. Ceux-ci mettent en évidence une fonction de
+demandedemonnaiedetypemonétaristeàlongterme,avecrespectivementdesélasticités
+prix et revenu unitaires et une sémi-élasticité intérêt de la demande de monnaie nulle.
+A court terme en revanche, la fonction de demande de monnaie estimée décrit bien les
+conclusions de la Nouvelle Synthèse, avec en effet une variation d’un point de base du
+taux d’intérêt (le TIAO en l’occurrence) dont l’impact cumulé sur deux périodes est
+négatif de l’ordre de 24 points de base, et une augmentation du taux d’inflation anticipée
+d’une période qui pousserait les agents à réduire leur demande d’encaisses courantes de
+32 points de base. Enfin, lorsque les performances économiques de la CEMAC au cours
+des deux dernières années sont positives, les agents économiques tendent à augmenter
+leur demande courante d’encaisses de 25 points de base.
+Afin de mieux clarifier l’utilisation de ces résultats dans la formulation et la conduite
+de la politique monétaire commune de la BEAC, nous nous sommes interrogé sur le
+caractère “actif” ou “passif” de la monnaie dans l’UMAC. A cette fin, en procédant à un
+examen attentif de ces deux concepts au regard des résultants obtenus, il est ressorti que
+l’assignation d’un rôle purement actif ou purement passif à la monnaie est compatible à la
+réalité économique observée dans la CEMAC. Dans cet espace, la monnaie influencerait
+les dépenses des agents économiques (rôle actif) et serait aussi sensible aux modifications
+du TIAO (rôle passif). En accord avec Laidler (1999), nous avons également admis la
+25
+
+--- Page 27 ---
+possibilité d’une relation qui jouerait dans les deux sens entre la monnaie et l’activité.
+C’est ainsi que face à cette ambivalence du rôle de la monnaie dans la CEMAC, un
+compromis opérationnel pour la BEAC dans la formulation de sa politique monétaire
+consisterait à accorder une attention particulière à l’écart monétaire, i.e. la différence
+entre son offre de monnaie et la demande d’encaisses des agents.
+En définitive, avec la fonction de demande de monnaie que nous avons spécifiée dans la
+CEMAC, la politique monétaire commune de la BEAC pourrait être menée dans un cadre
+unifiée tenant effectivement compte des hétérogénéités structurelles entre les économies
+des Etats membres de l’UMAC. Toutefois, afin d’enrichir davantage le cadre analytique
+de la politique monétaire de la BEAC, des recherches futures sur (i) l’estimation d’une
+fonction d’offre de monnaie, et partant de l’écart monétaire, et (ii) la détermination d’un
+niveauoptimalduTIAOquiminimiseraitl’écartmonétaireétantdonnél’ancragenominal
+du F CFA à l’euro, entre autres, devraient être menées. De plus, au cas où des données
+microéconomiques seraient disponibles sur une période statistiquement suffisante, il sera
+intéressant d’estimer un modèle d’équilibre général intertemporel stochastique (MEGIS
+ou DSGE) pour contourner la difficulté rencontrée dans notre étude où, à défaut de ce
+type de données, nous avons été amené à estimer des fonctions scalaires de paramètres.
+De la sorte, les analyses des mécanismes de transmission des impulsions monétaires, mais
+aussi de propagation des chocs seraient mieux documentés.
+26
+
+--- Page 28 ---
+Références
+[1] Barnett W.A. [1990] “Developments in Monetary Aggregates : An Application of Index
+Number and Aggregation Theory,” Journal of Econometrics, Vol. 14, No. 1, pp. 11-48,
+Summer.
+[2] Barro R.J. & S. Fisher [1976] “Recent Developments in Monetary Theory,” Journal of
+Monetary Economics, Vol. 2, No. 2, pp. 133-67, April.
+[3] Baumol W.J. [1952], “The Transaction Demand for Cash : An Inventory Theoretic Ap-
+proach,” Quarterly Journal of Economics, Vol. 66(4), pp. 545-556.
+[4] Cannan E. [1921] “The Application of the Theoretical Apparatus of Supply and Demand
+to Units of Currency,” The Economic Journal, Vol. 31, No. 124, December.
+[5] Carrera C. [2012] “Long-Run Money Demand in Latin-American Countries : A Nonsta-
+tionary Panel Data Approach,” Working Papers 2012-016, Banco Central de Reserva del
+Perú.
+[6] Chandavakar A.G. [1988] “The role of informal credit markets,” in Support of micro
+businessmen in developing countries, Washington, june.
+[7] Clower R.W. [1967] “A Reconsideration of the Microfoundations of Monetary Theory,”
+Western Economic Journal, Vol. 6, pp. 1-9, December.
+[8] Choi I. [2001] “Unit Root Tests for Panel Data,” Journal of International Money and
+Finance, 20, pp. 249-72.
+[9] Cuthbertson K. [1988] “The Demand for M1 : A Forward Looking Buffer Stock Model,”
+Oxford Economic Papers, Vol. 40, No. 1, pp. 110-31, March.
+[10] Dreger C., Reimers H.-E. & Roffia B. [2007], “Long-Run Money Demand in the
+New EU Member States with Exchange Rate Effects,” Eastern European Economics, M.E.
+Sharpe, Inc., vol. 45(2), pp. 75-94, April.
+[11] Eboué C. [1988] “Epargne informelle et développement en Afrique,” Mondes en dévelop-
+pement, tome 16, N° 62-63, pp.35-64.
+[12] Fisher I. [1920], The Purchasing Power of Money : its Determination and Relation to
+Credit Interest and Crises, assisted by H.G. Brown, The MacMillan Company, New &
+Revised Edition, New York.
+[13] Friedman M. “The Quantity Theory of Money - A Restatement,” in Studies in the Quan-
+tity Theory of Money, ed. by Milton Friedman (Chicago : University of Chicago Press).
+[14] Greenwald B. & J.E. Stiglitz [1987], “Keynesian, New Keynesian and New Classical
+Economics,” Oxford Economic Papers, Oxford University Press, Vol. 39(1), pp. 119-33,
+March.
+[15] Groen J.J.J. & F. Kleibergen[2003]“Likelihood-basedcointegrationanalysisinpanels
+of vector error correction models,” Journal of Business and Economic Statistics, 21(2),
+pp.295-318.
+27
+
+--- Page 29 ---
+[16] Hadri K. [2000] “Testing for stationarity in heterogeneous panel data,” The Econometrics
+Journal, Royal Economic Society, Vol. 3(2), pp.295-318.
+[17] Howitt P.[1992] “Cash-in-Advance Economy,” inThe New Palgrave Dictionary of Money
+& Finance : Volume 1, ed. by Peter Newman, Murray Milgate, and John Eatwell (London :
+The Macmillan Press Limited) pp. 318-20.
+[18] Hurlin C. & V. Mignon [2006] “Une synthèse des Tests de Cointégration sur Données
+de Panel,” Note de cours, Université d’Orléans.
+[19] ImK.S.,M.H.Pesaran&Y.Shin[2003]“Testingforunitrootsinheterogeneouspanels,”
+Journal of Econometrics, 115, pp.53-74.
+[20] Kao C. & M.H. Chiang [2000] “On the estimation and inference of a cointegrated re-
+gression in panel data,” Advances in Econometrics, 15, edited by B. Baltagi & C. Kao, pp.
+179-222, Elsevier Science.
+[21] Kao C. & M.-H. Chiang [2000], “On the Estimation and Inference of a Cointegrated
+regressioninPanelData,” Nonstationary Panels, Panel Cointegration and Dynamic Panels,
+Vol. 15, pp. 179-222.
+[22] Kontolemis Z.G. [2002] “Money Demand in the Euro Area : Where Do We Stand (To-
+day)?,” IMF Working Papers 02/185, International Monetary Fund.
+[23] Koulet-Vickot M. [2002] “Analyse d’une relation cointégrante de demande de monnaie
+de la CEMAC,” NER n° 2 BEAC, Novembre.
+[24] Laidler D.E.W. [1993] The Demand for Money : Theories, Evidence and Problems, New
+York, NY : HarperCollins College Publishers, 4th edition.
+[25] Laidler D.E.W. [1999] “La monnaie comme variable passive ou active et la politique
+monétaire”, Revue de la Banque du Canada, pp. 17-29, Eté.
+[26] Levin A., C.F. Lin & J. Chu [2002] “Unit root tests in panel data : Asymptotic and
+finite sample properties,” Journal of Econometrics, 108, pp. 1-24.
+[27] Lütkepohl H. & J. Wolters [1999], Money Demand in Europe, Physica-Verlag Heidel-
+berg, New York.
+[28] Lucas R.E. Jr [1980] “Equilibrium in a Pure Currency Economy,” Economic Inquiry, Vol.
+18, No. 2, pp. 203-20, April.
+[29] Ljungqvist L. & T.J. Sargent [2004] Recursive Macroeconomic Theory, 2nd ed., Cam-
+bridge, USA : MIT Press.
+[30] Mankiw G.N. [1999] Macroéconomie, Ouvertures Economiques, Prémisses, 3ème édition,
+traduction de la 5ème édition américaine par Houard J., de boeck.
+[31] Marshall A. [1923] Money Credit & Commerce, Macmillan & Co, London, First Edition.
+[32] McCallum B.T. [1989] Monetary Economics : Theory and Policy, New York : Macmillan
+Publishing Company.
+28
+
+--- Page 30 ---
+[33] McCoskey S. & C. Kao [1998] “A residual-based test of the null of cointegration in panel
+data,” Econometric Reviews, Taylor and Francis Journals, Vol. 17(1), pp. 57-84.
+[34] Mounkala E.U.H. [2012a], “Dynamique de la vitesse de circulation de la monnaie dans
+la CEMAC,” BEAC Working Paper (forthcoming), Version révisée, Janvier.
+[35] Mounkala E.U.H. [2012b], Politique monétaire et croissance : une évaluation sur l’éco-
+nomie gabonaise face à la France, Editions Universitaires Européennes.
+[36] Mounkala E.U.H. [2012c], “Monnaie, Inflation et Croissance au Cameroun : Quel(s) sens
+de causalité?” manuscrit, Version révisée, Juillet.
+[37] MvondoE.T.[2011]L’hypothèsedeneutralitémonétaire:uneapplicationàlaZoneFranc,
+Thèse pour le Doctorat en Sciences Economiques, soutenue publiquement le 24 novembre
+2011 sous la direction du Pr Chicot Eboué, Université de Nancy 2.
+[38] Ondo Ossa A. [2002], “La demande de monnaie dans les pays de la zone franc africaine,”
+Economie & Gestion, Vol. 3(1), Janvier-Juin, pp. 3-31.
+[39] Padoa-Schioppa T. [1987], Efficiency, stability, and equity. A strategy for the evolution
+of the economic system of the European community : a report, Oxford University Press,
+New York.
+[40] Pedroni P. [1999] “Critical Values for Cointegration Tests in Heterogeneous Panels with
+Multiple Regressors,” Oxford Bulletin of Economics and Statistics, Vol. 61, No. 4, pp. 653-
+670.
+[41] Phillips P.C.B. [1995] “Fully Modified Least Squares and Vector Autoregression,” Eco-
+nometrica, 63, pp. 1023-78.
+[42] Pedroni P.[2000]“FullyModifiedOLSforHeterogeneousCointegratedPanels,” Advances
+in Econometrics, Vol. 15, pp. 93-130.
+[43] Pedroni P. [2001] “Purchasing Power Parity Tests in Cointegrated Panels,” The Review
+of Economics and Statistics, Vol. 83, No. 4, pp. 727-731.
+[44] Pedroni P.[2001]“PanelCointegration:AsymptoticandFiniteSamplePropertiesofPoo-
+led Time Series Tests with an Application to the PPP Hypothesis,” Econometric Theory,
+Vol. 20, No. 3, pp. 597-627.
+[45] Pigou A.C. [1917], “The Value of Money,” Quarterly Journal of Economics, Vol. 32(1),
+pp. 38-65.
+[46] Saikkonen P. [1991] “Asymptotically Efficient Estimation of Cointegration Regressions,”
+Econometric Theory, Cambridge University Press, vol. 7(01), pp. 1-21, March.
+[47] Samuelson P. [1958] “An Exact Consumption Loan Model of Interest With or Without
+the Social Contrivance of Money,” Journal of Political Economy, Vol. 66, No. 6, pp. 467-82,
+December.
+[48] Sargent T. & N. Wallace[1982]“TheReal-BillsDoctrineversustheQuantityTheory:
+A Reconsideration,” Journal of Political Economy, Vol. 90, No. 6, pp. 1212-36, December.
+29
+
+--- Page 31 ---
+[49] Sriram S.S. [2001], “A Survey of Recent Empirical Money Demand Studies,” IMF Staff
+Papers, Vol. 47(3), pp. 334-65.
+[50] Tchamanbé Djiné L. & I. Tamba [1995] “De la crise à la réforme des insti-
+tutions bancaires africaines : l’expérience du Cameroun,” Revue Tiers-Monde, tome
+XXXVI,N°144,pp.813-35,octobre-décembre.(htt://www.persee.fr/web/revues/home/
+prescript/article/tiers_0040-7356_1995_num_36_144_5002)
+[51] Tobin J.[1958]“LiquidityPreferenceasBehaviorTowardsRisk,” The Review of Economic
+Studies, Vol. 25, No. 67, pp. 65-86, February.
+[52] Wickens M. [2010] Analyse macroéconomique approfondie : Une approche par l’équilibre
+général dynamique, Traduction de la 1ère édition américaine par Sangnier M., M. Sy & H.
+Tabarraei, Ouvertures Economiques, Editions De Boeck Université.
+30
+
+--- Page 32 ---
+Annexe
+(cid:32) (cid:33)
+u
+La matrice de covariance de long terme, Ω , du processus {w }, avec w = it , est définie
+i it it
+ε
+it
+par :
+∞ (cid:34) (cid:35)
+Ω = (cid:88) E(cid:0) ω ω(cid:48) (cid:1) = Π (1) Σ Π (1)(cid:48) = Σ +Γ +Γ(cid:48) = Ω iu Ω iuε
+i ij i0 i iε i i i i
+Ω Ω
+j=−∞ iεu iε
+La matrice de covariance de court terme, Σ , du processus {w }, est définie par :
+i it
+∞ (cid:34) (cid:35)
+Σ = (cid:88) E(cid:0) ω ω(cid:48) (cid:1) = Σ iu Σ iuε
+i i0 i0
+Σ Σ
+j=1 iεu iε
+La matrice de covariance inconditionnelle, Γ , du processus {w }, est définie par :
+i it
+∞ (cid:34) (cid:35)
+Γ = (cid:88) E(cid:0) ω ω(cid:48) (cid:1) = Γ iu Γ iuε
+i ij i0
+Γ Γ
+j=1 iεu iε
+Aux fins de facilitation des écritures, il est défini la matrice ∆ telle que :
+i
+∞ (cid:34) (cid:35)
+∆ = Σ +Γ = (cid:88) E(cid:0) ω ω(cid:48) (cid:1) = ∆ iu ∆ iuε .
+i i i ij i0
+∆ ∆
+j=0 iεu iε
+31

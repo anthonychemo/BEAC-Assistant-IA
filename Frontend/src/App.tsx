@@ -1,8 +1,3 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
-
 import { useState, useEffect } from "react";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
@@ -18,171 +13,139 @@ export default function App() {
   const [currentTab, setTab] = useState<string>("accueil");
   const [documents, setDocuments] = useState<Document[]>(INITIAL_DOCUMENTS);
   const [logs, setLogs] = useState<Log[]>(INITIAL_LOGS);
-  
-  // App metrics
   const [metrics, setMetrics] = useState<DashboardMetrics>({
     documentsIndexed: INITIAL_DOCUMENTS.length,
     ragChunks: 435012,
     feedbackSatisfaction: "94.8%",
     avgResponseTime: "1.2s",
-    systemStatus: "Actif"
+    systemStatus: "Actif",
   });
-
-  // Admin and Login States
-  const [isAdminLoggedIn, setIsAdminLoggedIn] = useState<boolean>(false);
-  const [showAdminLogin, setShowAdminLogin] = useState<boolean>(false);
-
-  // Chat Conversational States
-  const [chatMessages, setChatMessages] = useState<ChatMessage[]>([
-    {
-      id: "welcome-1",
-      role: "assistant",
-      content: "Bonjour et bienvenue sur l'assistant sémantique de la **Banque des États de l'Afrique Centrale**. Je suis instruit sur les rapports annuels, les communiqués officiels et la réglementation bancaire COBAC.\n\nPosez-moi votre question pour démarrer l'analyse de vos données.",
-      timestamp: new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" })
-    }
-  ]);
-  const [isThinking, setIsThinking] = useState<boolean>(false);
-  const [suggestedPrompt, setSuggestedPrompt] = useState<string>("");
+  const [isAdminLoggedIn, setIsAdminLoggedIn] = useState(false);
+  const [showAdminLogin, setShowAdminLogin] = useState(false);
+  const [chatMessages, setChatMessages] = useState<ChatMessage[]>([{
+    id: "welcome-1",
+    role: "assistant",
+    content: "Bonjour et bienvenue sur l'assistant de la BEAC. Posez-moi votre question.",
+    timestamp: new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }),
+  }]);
+  const [isThinking, setIsThinking] = useState(false);
+  const [suggestedPrompt, setSuggestedPrompt] = useState("");
   const [preSelectedDocType, setPreSelectedDocType] = useState<string | null>(null);
+  const [isPipelineActive, setIsPipelineActive] = useState(true);
 
-  // Pipeline execution state
-  const [isPipelineActive, setIsPipelineActive] = useState<boolean>(true);
-
-  // Log injection effect on boot
   useEffect(() => {
-    // Sync metrics counts to document list size dynamically so everything is cohesive!
-    setMetrics((prev: DashboardMetrics) => ({
+    setMetrics((prev) => ({
       ...prev,
       documentsIndexed: documents.length,
-      ragChunks: documents.length * 3421
+      ragChunks: documents.length * 3421,
     }));
   }, [documents]);
 
+  useEffect(() => {
+    fetch("/api/health")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((data) => {
+        if (!data) return;
+        setMetrics((prev) => ({
+          ...prev,
+          documentsIndexed: data.documents ?? prev.documentsIndexed,
+          ragChunks: data.chunks ?? prev.ragChunks,
+          systemStatus: data.status === "ok" ? "Actif" : "Degrade",
+        }));
+      })
+      .catch(() => {});
+  }, []);
+
+  const handleAddLog = (message: string, type: "success" | "warning" | "error", targetDoc?: string) => {
+    setLogs((prev) => [{
+      id: "log-" + Date.now(),
+      timestamp: new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit", second: "2-digit" }),
+      type,
+      message,
+      targetDoc,
+    }, ...prev]);
+  };
+
   const handleSendMessage = async (text: string) => {
-    // 1. Add user message
-    const userMsg: ChatMessage = {
-      id: `user-msg-${Date.now()}`,
+    setChatMessages((prev) => [...prev, {
+      id: "user-" + Date.now(),
       role: "user",
       content: text,
-      timestamp: new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" })
-    };
-    
-    setChatMessages((prev: ChatMessage[]) => [...prev, userMsg]);
+      timestamp: new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }),
+    }]);
     setIsThinking(true);
 
+    const aId = "assistant-" + Date.now();
+    setChatMessages((prev) => [...prev, {
+      id: aId,
+      role: "assistant",
+      content: "",
+      sources: [],
+      timestamp: new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }),
+    }]);
+
     try {
-      // 2. Call local full-stack server API
-      const res = await fetch("/api/chat", {
+      const res = await fetch("/api/chat/stream", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-          message: text,
-          history: chatMessages.slice(-8) // pass last 8 messages for context
-        })
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question: text }),
       });
 
-      if (!res.ok) {
-        throw new Error("Erreur de communication avec l'assistant.");
+      if (!res.ok) throw new Error("Erreur backend");
+      if (!res.body) throw new Error("Streaming indisponible");
+
+      const reader = res.body.getReader();
+      const decoder = new TextDecoder();
+      let firstChunk = true;
+      setIsThinking(false);
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        const chunk = decoder.decode(value, { stream: true });
+
+        if (firstChunk) {
+          firstChunk = false;
+          const nl = chunk.indexOf("\n");
+          if (nl !== -1) {
+            try {
+              const meta = JSON.parse(chunk.slice(0, nl));
+              if (meta.type === "meta") {
+                setChatMessages((prev) => prev.map((m) =>
+                  m.id === aId ? { ...m, sources: meta.sources ?? [], query_type: meta.query_type } : m
+                ));
+                const rest = chunk.slice(nl + 1);
+                if (rest) setChatMessages((prev) => prev.map((m) =>
+                  m.id === aId ? { ...m, content: m.content + rest } : m
+                ));
+                continue;
+              }
+            } catch { /* token normal */ }
+          }
+        }
+
+        setChatMessages((prev) => prev.map((m) =>
+          m.id === aId ? { ...m, content: m.content + chunk } : m
+        ));
       }
-
-      const data = await res.json();
-      
-      // 3. Add AI message response
-      const assistantMsg: ChatMessage = {
-        id: `assistant-msg-${Date.now()}`,
-        role: "assistant",
-        content: data.response,
-        timestamp: new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" })
-      };
-
-      setChatMessages((prev: ChatMessage[]) => [...prev, assistantMsg]);
-
-      // Write a log in background
-      handleAddLog(
-        `Interrogation IA réussie pour la requête : "${text.substring(0, 30)}..."`,
-        "success"
-      );
-
+      handleAddLog("Reponse IA : " + text.substring(0, 30) + "...", "success");
     } catch (err: any) {
-      console.error(err);
-      
-      const assistantMsg: ChatMessage = {
-        id: `assistant-msg-${Date.now()}`,
-        role: "assistant",
-        content: "Une erreur de communication est survenue. Veuillez vérifier votre clé d'API.",
-        timestamp: new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" })
-      };
-      setChatMessages((prev) => [...prev, assistantMsg]);
-      
-      handleAddLog(`Échec de traitement IA : ${err.message}`, "error");
+      setChatMessages((prev) => prev.map((m) =>
+        m.id === aId ? { ...m, content: "Erreur de communication. Veuillez reessayer." } : m
+      ));
+      handleAddLog("Echec IA : " + err.message, "error");
     } finally {
       setIsThinking(false);
     }
   };
 
   const handleUploadDocument = (newDoc: Document) => {
-    setDocuments((prev: Document[]) => [newDoc, ...prev]);
-    
-    // Inject success log
-    handleAddLog(
-      `Le document "${newDoc.title}" a été traité avec succès et indexé en chunks.`,
-      "success",
-      `${newDoc.title.substring(0, 24)}.${newDoc.fileType.toLowerCase()}`
-    );
-  };
-
-  const handleAskDocInChat = (text: string) => {
-    setSuggestedPrompt(text);
-    setTab("chat");
-  };
-
-  const handleSelectSuggestion = (text: string) => {
-    setSuggestedPrompt(text);
-    setTab("chat");
-  };
-
-  const handleAddLog = (message: string, type: "success" | "warning" | "error", targetDoc?: string) => {
-    const newLog: Log = {
-      id: `log-custom-${Date.now()}`,
-      timestamp: new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit", second: "2-digit" }),
-      type,
-      message,
-      targetDoc
-    };
-    setLogs((prev: Log[]) => [newLog, ...prev]);
-  };
-
-  const handleClearLogs = () => {
-    setLogs([]);
-  };
-
-  const handleTogglePipeline = () => {
-    const nextState = !isPipelineActive;
-    setIsPipelineActive(nextState);
-    if (nextState) {
-      handleAddLog("Le pipeline automatique RAG d'indexation hebdomadaire a été redémarré.", "success");
-    } else {
-      handleAddLog("Le pipeline RAG a été suspendu manuellement par l'administrateur.", "warning");
-    }
-  };
-
-  const handleClearHistory = () => {
-    setChatMessages([
-      {
-        id: "welcome-1",
-        role: "assistant",
-        content: "Historique réinitialisé. Comment puis-je vous éclairer sur l'économie de la zone CEMAC aujourd'hui ?",
-        timestamp: new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" })
-      }
-    ]);
+    setDocuments((prev) => [newDoc, ...prev]);
+    handleAddLog("Document indexe : " + newDoc.title.substring(0, 30), "success");
   };
 
   return (
     <div className="min-h-screen flex flex-col bg-[#f8f9fa] pt-16">
-      
-      {/* Universal Institutional Top Bar */}
       <Header
         currentTab={currentTab}
         setTab={setTab}
@@ -190,69 +153,73 @@ export default function App() {
         isAdminLoggedIn={isAdminLoggedIn}
         onLogoutAdmin={() => {
           setIsAdminLoggedIn(false);
-          handleAddLog("Superviseur DSI déconnecté de la console sécurisée.", "warning");
+          handleAddLog("Admin deconnecte", "warning");
         }}
       />
 
-      {/* Main routed screen area */}
       <main className="flex-1 flex flex-col mt-0 select-text">
-        {currentTab === "accueil" && (
+        <div className={currentTab === "accueil" ? "" : "hidden"}>
           <LandingPage
-            onSelectSuggestion={handleSelectSuggestion}
+            onSelectSuggestion={(t) => { setSuggestedPrompt(t); setTab("chat"); }}
             setTab={setTab}
             setPreSelectedDocType={setPreSelectedDocType}
           />
-        )}
-        
-        {currentTab === "chat" && (
+        </div>
+
+        <div className={currentTab === "chat" ? "" : "hidden"}>
           <IAAssistant
             messages={chatMessages}
             onSendMessage={handleSendMessage}
             isThinking={isThinking}
-            onClearHistory={handleClearHistory}
+            onClearHistory={() => setChatMessages([{
+              id: "welcome-1",
+              role: "assistant",
+              content: "Historique reinitialise.",
+              timestamp: new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }),
+            }])}
             suggestedPrompt={suggestedPrompt}
             setSuggestedPrompt={setSuggestedPrompt}
           />
-        )}
+        </div>
 
-        {currentTab === "bibliotheque" && (
+        <div className={currentTab === "bibliotheque" ? "" : "hidden"}>
           <DocumentLibrary
             documents={documents}
             onUploadDocument={handleUploadDocument}
-            onAskDocInChat={handleAskDocInChat}
+            onAskDocInChat={(t) => { setSuggestedPrompt(t); setTab("chat"); }}
             preSelectedType={preSelectedDocType}
             setPreSelectedType={setPreSelectedDocType}
           />
-        )}
+        </div>
 
-        {currentTab === "dashboard" && (
+        <div className={currentTab === "dashboard" ? "" : "hidden"}>
           <AdminDashboard
             metrics={metrics}
             logs={logs}
             onAddLog={handleAddLog}
-            onClearLogs={handleClearLogs}
+            onClearLogs={() => setLogs([])}
             isPipelineActive={isPipelineActive}
-            onTogglePipeline={handleTogglePipeline}
+            onTogglePipeline={() => {
+              const next = !isPipelineActive;
+              setIsPipelineActive(next);
+              handleAddLog(next ? "Pipeline redemarre" : "Pipeline suspendu", next ? "success" : "warning");
+            }}
           />
-        )}
+        </div>
       </main>
 
-      {/* Shared Footer block */}
       <Footer />
 
-      {/* Login Portal Trigger overlay modal */}
       {showAdminLogin && (
         <LoginPortal
           onClose={() => setShowAdminLogin(false)}
           onLoginSuccess={() => {
             setIsAdminLoggedIn(true);
             setTab("dashboard");
-            handleAddLog("Superviseur DSI authentifié avec succès pour la maintenance.", "success");
+            handleAddLog("Admin connecte", "success");
           }}
         />
       )}
-
     </div>
   );
 }
-

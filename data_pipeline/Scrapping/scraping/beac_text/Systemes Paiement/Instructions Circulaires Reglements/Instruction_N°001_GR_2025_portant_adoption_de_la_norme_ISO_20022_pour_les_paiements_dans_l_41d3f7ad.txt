@@ -1,0 +1,200 @@
+Source PDF : Instruction_N°001_GR_2025_portant_adoption_de_la_norme_ISO_20022_pour_les_paiements_dans_l_41d3f7ad.pdf
+Chemin original : scraping\beac_data\Systemes Paiement\Instructions Circulaires Reglements\Instruction_N°001_GR_2025_portant_adoption_de_la_norme_ISO_20022_pour_les_paiements_dans_l_41d3f7ad.pdf
+Date extraction : 15/06/2026 19:27:10
+======================================================================
+
+--- Page 1 ---
+B€AC
+g"*r*r,r*r*
+-t"
+BANQUE §ES ETATS DE
+LAFRIQUE CENTR,ALE
+ir
+uov
+Yaoundé, le 2025
+I
+INSTRUCTION L lcruzozs
+NO
+Portant adoption de la norme ISO 20022 pour les paiements dans les
+systèmes de paiement de la CEMAC
+Le Gouverneur de la Banque des Etats de l'Afrique Centrale,
+Vu la Convention régissant l'Union Monétaire de l'Afrique Centrale (UMAC)
+;
+Vu les Statuts de la Banque des Etats de l'Afrique Centrale (BEAC) notamment en leur
+article premier
+;
+Vu le Règlement N"03/02ICEMAC^JMAC/CM du 15 mars 202 portant homologation
+du Comité Régional de Normalisation Financière
+;
+Vu le Règlement N'03/16/CEMACruMAC/CM dt 2l décembre 2016 relatif aux
+Systèmes, Moyens et Incidents de Paiement
+;
+Considérant I'Accord Constitutif du Comité Régional de Normalisation Financière du
+juillet
+07 2021
+;
+Considérant la migration mondiale de la Communauté Financière Internationale à la
+norrne ISO 20022'
+Considérant la résolution du CORENOFI N' 002 du 17 novembre2025
+;
+Considérant la nécessité d'arrimer le système financier de la CEMAC aux standards et
+meilleures pratiques en matière de systèmes de paiement
+;
+Soucieux de garantir la continuité de l'interopérabilité des systèmes de paiement de la
+CEMAC avec le reste de la Communauté financière internationale
+;
+Conscient des enjeux de sécurité et de continuité de service liés à la migration mondiale
+20022. t
+vers ISO -
+N":SEQ .æ,1/,1a2{
+Banquc dcs Etats dc l'Afriquc Ccntralc - Services CentraurÇ
+736 Ave Monseigneur Vogt - 8.P.1 91 7 Yaoundé (Cameroun) -1él (237) 222 23 40 30 - www.beac.int - beac@beac.int
+
+--- Page 2 ---
+Prend l'Instruction dont la teneur suit
+:
+Article premier. - Il est institué dans les systèmes de paiement de la CEMAC la norme
+ISO 20022 sous la variante ISO Accelerator Pack, en abrégé « IAP ».
+Article 2.-La présente Instruction s'applique à tous les assujettis du système financier
+de la CEMAC, dont les plateformes de paiement interagissent avec les systèmes de
+paiement et de règlement gérés parlaBEAC, le système de règlement brut en temps réel
+RTGS dénommé SYGMA (Système de Gros Montants Automatisé) et SYSTAC2.
+Sont notamment concernés, les participants aux systèmes de la Banque Centrale ci-après
+les établissements de crédit
+;
+les établissements de microfinance
+;
+les établissements de paiement
+;
+les gestionnaires de système de paiement interbancaire autorisés par la
+Banque Centrale (BEAC)
+;
+les Trésors Publics
+;
+les Services Financiers des Administrations Postales Nationales
+;
+les institutions financières.
+La présente Instruction s'applique également à toute autre structure qui dans le cadre
+des systèmes de paiement, interagit avec SYGMA.
+Article 3.- Les Formats des messages BEAC de la noûne ISO 20022 se présentent
+comme suit:
+-
+règles du Cross Border Payment Reporting Plus (CBPR+) de SWIFT pour les
+flux internationaux
+;
+-
+règles BEAC_SYGMA_ 15020022 de SYGMA pour les flux domestiques de
+gros montants
+;
+-
+règles BEAC_SYSTAC ISO20022 de SYSTAC 2 pour les flux domestiques
+de détails.
+Les formats BEAC_SYGMA_ 15C20022 des messages échangés dans le Système de
+Gros Montants Automatisé (SYGMA) sont publiés sur le portail
+https ://www2. swift com/mystandards/.
+.
+Les conditions et modalités d'accès à ce portail sont précisées par lettre circulaire de la
+Banque Centrale.
+r.A.ænppàt
+N":S
+#
+Banquc des Etats de !'Afriquc Ccntrale - Services Centrau:ç
+736 Ave Monseigneur Vogt - 8.P.191 7 Yaoundé (Cameroun) -Têl (237) 222 23 40 30 - www.beac.int - beac@beac.int
+2
+
+--- Page 3 ---
+Article 4.- Les assujettis du système financier de la CEMAC prennent les dispositions
+nécessaires pour la mise en conformité de leurs processus avec les formats édictés par
+la présente Instruction conformément au calendrier régional de la migration, joint en
+annexe de celle-ci. A cet effet, ils respectent les spécifications techniques prescrites par
+la Banque Centrale.
+Article 5.- La Banque Centrale assure à travers ses équipes en charge des projets
+SYSTAC2 et SYGMA V10 le support technique aux participants dans le cadre de la
+migration à ISO 20022.
+Article 6.- La présente Instruction peut être précisée par Lettre circulaire de la Banque
+Centrale.
+Article 7.-Laprésente Instruction entre en vigueur à compter de sa date de signature. /-
+tÉ GOU
+GUI
+N':SEQao,t/)n.25
+Banquc dae Etatg da l'Afriquc Ccntralc . Scrviccs Ccntran:ç
+736 Ave Monseigneur Vogt - 8.P.1 91 7 Yaoundé (Cameroun) -Tél (237\ 222 23 40 30 - www.beac.int - beac@beac.int 3
+
+--- Page 4 ---
+. i-a{. /\,
+.at"
+BANQUE DES ETATS DE L'AFRIQUE CENTRALE
+Direction Générale de l'Exploitation
+Direction des Systèmes et Moyens de Paiement
+CHRONOGRAMME DE MISE EN OEUVRE DE LA MIGRATION DE SYGMA AU FORMAT ISO 20022
+NOVEMBRE2O2S
+Echéance /
+# Tâches Responsable(s) Observations
+Période
+Valider les différents formats ISO
+NOV- 25 BEAC
+1 20022 BEAC au CORENOFIE
+Transmettre aux participants la
+2 documentation relative aux NOV - 2025 BEAC
+formats SYGMAVl0
+La rencontre vise à répondre aux besoins de compréhension et aux
+Organiser une réunion technique avec demandes d'éclaircissements des participants sur la documentation
+les participants
+élaborée par l'éditeur de solutions SYGMA V10 et l'équipe de la BEAC en
+JANV
+3 2026 BEAC charge des formats.
+Les participants seront invités à transmettre au préalable leurs demandes
+de clarifications avant la réunion.
+Le portail Mystandard permettra aux banques après adhésion, d'avoir accès
+Publier les formats sur la plateforme aux formats des messages ISO 20022 de la BEAC avec des Uses cases. Elle
+4 MyStandard de la BEAC et recueillir les NOV- 2025 BEAC offre également aux banques un espace permettant de tester de manière
+demandes d'adhésion des participants itérative la conformité des messages générés par leurs Core banking.
+Mettre à jour le Système d'lnformation Chaque participant procède à la mise à jour de son Système d'lnformation
+Bancaire (ou la plateforme de Bancaire (SlB) sur la base du format BEAC_SYGMA_1SO20022 et
+raccordement le cas échéant) en vue de
+la prise en charge NOV - FEV des autres éléments de la documentation transmise. Le participant prend en
+5 (en Participants
+émission/réception) des nouveaux 2025 charge, de manière autonome, I'interfaçage de son SIB avec le système cité
+formats de messages ISO 20022 de supra en exploitant la documentation communiquée.
+SYGMA
+Sensibiliser les participants et les équipes Un séminaire régional sera effectué à l'endroit des dirigeants de banque et
+6 de la BEAC sur les enjeux de la migration FEV-2025 BEAC une formation des ressources de la BEAC
+tso20022
+No: S EQ.2o/t
+
+--- Page 5 ---
+Echéance /
+# Tâches Responsable(s) Observations
+Période
+Format CBPR+
+Mettre en conformité, le cas échéant, la
+7 NOV 2025 Participants/BEAC
+plateforme SWIFT à la norme ISO 20022
+Le planning détaillé du projet avec les jalons sera communiqué aux
+I Déployer la nouvelle version SYGMAVl0 NOV-DEC
+BEAC participants.
+en environnement de tests/recette 2025
+I Effectuer les tests de qualification de la DEC-JANV
+nouvelle version de SYGMA 2025 BEAC Les tests de qualification sont effectués par la BEAC
+Crganiser pour les participants la
+10 [ormation sur le fonctionnement de la JANV-FEV BEAC Les nouvelles fonctionnalités du système, les modalités d'accès et la nouvelle
+2025 plateforme sera revisitée pour les participants.
+nouvelle plateforme SYGMA V10
+Effectuer les sites Pilote de la nouvelle MARS-
+11 Participants La BEAC supervisera les travaux
+version de SYGMA 2025
+Déployer la nouvelle version S /Y GMA en AVRIL- La BEAC procède en relation avec l'éditeur à son déploiement dans
+12 environnement de production Disaster BEAC
+MAt 2025 L'environnement de production / Disaster Recovery
+Recovery et Go Live
+12 Assistance post-production J+30 BEAC
+Annexe : Evolutions de SYGMA Vl0 - Documentation à exploiter par les participants
+# Désignation Description
+Lettre circulaire portant mise en ligne du portail « My
+I Collection de message Mystandard BEAC_SYG MA_l SO20022_BEAC_|AP_TIA
+standard »» aux formats ISO 20022 de la BEAC
+2 Documentation de l'éditeur CMA-I 3005-21 PTD 002 SYGMA Spécifications de l'APl REST (MT-MX)
+Documentation de l'éditeur
+3 CMA-I 3005-21 PTD 001 SYGMA Guide de signature électronique MX
+4 Documentation de l'éditeur CMA-I 3005-21 MFR 003 SYGMA Formats des messases
+N.:SEQ

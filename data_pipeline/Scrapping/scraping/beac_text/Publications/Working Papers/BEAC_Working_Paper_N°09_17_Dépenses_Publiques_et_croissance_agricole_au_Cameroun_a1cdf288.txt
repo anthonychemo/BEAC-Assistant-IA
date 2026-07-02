@@ -1,0 +1,711 @@
+Source PDF : BEAC_Working_Paper_N°09_17_Dépenses_Publiques_et_croissance_agricole_au_Cameroun_a1cdf288.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_N°09_17_Dépenses_Publiques_et_croissance_agricole_au_Cameroun_a1cdf288.pdf
+Date extraction : 15/06/2026 21:25:04
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s E t a t s d e
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 09/17 -
+Dépenses Publiques et croissance agricole au Cameroun
+BILIGIL G. Gaël Diane
+Economiste
+Direction des Relations Internationales
+biligil@beac.int
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+Nov e mbre 2 01 5
+D I R E C T I O N D E L A R E C H E R C H E
+
+--- Page 2 ---
+Dépenses publiques et croissance agricole au Cameroun
+Biligil Georgette Gaël Diane∗
+Décembre 2017
+Résumé
+L’objectif de cette étude est d’évaluer l’impact du financement public du secteur agri-
+cole au Cameroun sur la croissance du produit agricole. Dans un premier temps, l’analyse
+statistiqueapermisdevoirunerelationpositivedansletempsentrelesdépensespubliques
+allouées au secteur agricole et la croissance de la production agricole au Cameroun. En
+effet, uneaugmentation desdépenses publiques agricolesest suivie d’uneaugmentation du
+niveaudeproduction,lespériodessuivantes.Enoutrelestestsd’autocorrélationmontrent
+une relation entre la production et ses valeurs passées et une relation entre les dépenses
+publiques et leurs valeurs passées. Dans un second temps, cette corrélation a été testée
+à l’aide d’un modèle à Correction d’erreur (MCE) à partir des données de 1971 à 2012.
+Les estimations par la méthode des moindres carrés ordinaires (MCO) ont montré que
+l’accroissement des dépenses publiques se traduit par un accroissement de la production
+agricole de la période suivante, quoique moins que proportionnellement (de l’ordre de
+0.3% pour une augmentation de 1% des dépenses publiques). Cet effet s’étale sur deux
+ansavantdes’estomper.Ainsi,lefinancementpublicdusecteuragricolesemblecontribuer
+à la croissance de la production agricole au Cameroun.
+Mots-clés : dépenses publiques agricoles, croissance du produit agricole, MCE.
+Codes JEL : H54, O13
+Public Expenditures and Agricultural Growth in Cameroon
+Abstract
+The objective of this study is to evaluate the impact of public financing of the agri-
+cultural sector in Cameroon on agricultural product growth. First, the statistical analysis
+showedapositiverelationshipovertimebetweenthepublicspendingallocatedtotheagri-
+culturalsectorandthegrowthofagriculturalproductioninCameroon.Indeed,anincrease
+in public agricultural expenditure is followed by an increase in the level of production, the
+following periods. In addition, autocorrelation tests show a relationship between output
+and its past values and a relationship between public spending and their past values. In a
+second step, this correlation was tested using an error correction model (ECM) from the
+1971 to 2012 data. Ordinary least squares (OLS) estimates, showed that the increase of
+publicexpenditureresultsinanincreaseinagriculturalproductioninthefollowingperiod,
+although less than proportionally (around 0.3% for a 1% increase in public expenditure).
+This effect spreads over two years before fading. Thus, public financing of the agricultural
+sector seems to contribute to the growth of agricultural production in Cameroon.
+Keywords : public expenditure on agriculture, agricultural product growth, ECM.
+JEL Classification : H54, O13
+∗. Économiste à la Cellule en Charge du Suivi du Programme des Réformes Économiques et
+Financières, BEAC.
+L’auteur remercie les cadres de la BEAC pour leurs observations et commentaires. Les erreurs et
+omissions éventuellement contenues dans le document relèvent du seul fait de l’auteur.
+1
+
+--- Page 3 ---
+Sommaire
+Introduction 3
+1 Une revue de la littérature 4
+2 Cadre conceptuel de l’étude 5
+3 Analyse statistique 6
+3.1 Evolution du niveau et de la structure des dépenses publiques agricoles . . 6
+3.2 Structure des dépenses publiques agricoles . . . . . . . . . . . . . . . . . . 9
+3.3 Liens entre dépenses publiques et production agricole . . . . . . . . . . . . 10
+4 Spécification du modèle 13
+5 Variables et données utilisées 14
+6 Méthode d’estimation 15
+6.1 Tests de stationnarité . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+6.2 Nombre optimal de retards et test de cointégration . . . . . . . . . . . . . 15
+7 Résultats d’estimation 16
+Conclusion 17
+Références 18
+A Annexes 20
+2
+
+--- Page 4 ---
+Introduction
+L’agriculture a très longtemps été négligée par les pays d’Afrique subsaharienne. Ceci
+se traduit par un faible investissement public dans le secteur. Au Cameroun, seulement
+4% du budget est alloué au secteur agricole contre 13% pour l’éducation1. Pourtant,
+tout comme la plupart des pays d’Afrique subsaharienne, l’économie Camerounaise est en
+majorité agricole. L’agriculture contribue à elle seule à 24% du PIB et représente plus de
+50% de l’emploi en 20142.
+L’agriculture est d’une importance capitale pour la nutrition des peuples et la lutte
+contre la pauvreté. C’est dans ce contexte que les chefs d’État des pays de l’Union Afri-
+caine ont ratifié en juillet 2003 à Maputo la déclaration sur l’agriculture et la sécurité
+alimentaire. Dans cette déclaration, les États se sont engagés à allouer au moins 10% de
+leur budget au secteur agricole afin d’atteindre une croissance agricole de 6%. Cependant,
+le taux de croissance du secteur est de 3% en moyenne depuis 2004 tandis que les dépenses
+publiques allouées au secteur telles que définies par le CADDP représentent moins de 5%
+en moyenne du budget totale du pays sur la même période3
+Dans le contexte de l’effondrement du prix du pétrole, première source de revenu
+du pays, l’agriculture est au centre de l’intérêt pour lever de nouvelles ressources. Elle
+constitue une source importante de devises pour le Cameroun. L’agriculture représente à
+elle seule, le tiers des exportations non pétrolières en 2014 . Toutefois, la première source
+de financement du secteur c’est l’Etat. Il représente près de la moitié de l’investissement
+dans le secteur et est au c’ur de la dynamique agricole. Dans le cadre de l’assainissement
+budgétaire et des besoins de financement sans cesse croissants, il faut améliorer la qualité
+des dépenses et redynamiser les autres sources de revenu.
+Il est ainsi nécessaire de s’interroger sur l’impact des dépenses publiques sur la per-
+formance du secteur agricole. En effet, des analyses ont considéré que la situation fragile
+de l’agriculture en Afrique subsaharienne était le fruit d’un niveau faible d’investissement
+public dans le secteur4. Il serait opportun d’évaluer les effets réels de cet investissement
+sur la croissance du secteur agricole au Cameroun. Notamment analyser l’effectivité des
+canaux de transmission des effets des dépenses publiques sur la croissance du produit
+agricole.
+Cette étude se donne l’objectif d’analyser les effets à court et long termes des dépenses
+publiques agricoles sur la croissance du secteur agricole au Cameroun, d’évaluer l’effec-
+tivité de cet instrument et d’en mesurer l’impact. Ce travail présente dans la suite une
+revue de littérature, le cadre conceptuel, l’analyse statistique, la spécification du modèle,
+les données utilisées, la méthode d’estimation et les résultats. Une dernière section conclut
+en évoquant les limites de ce travail.
+1. Loi des finances du Cameroun 2015
+2. WDI 2015
+3. CAADP,«Revuediagnostiquedesdépensespubliquesdebasedanslesecteuragricole(2003-12)».
+4. World Bank, 2010
+3
+
+--- Page 5 ---
+1 Une revue de la littérature
+S’il a toujours été considéré que l’activité de l’Etat a des effets sur la performance
+du secteur privé, il est généralement admis que les effets négatifs l’emportent sur les
+effets positifs (Kwanashie et al. 1997; Damais, 2007). En effet, la croissance de l’Etat
+est connue pour réduire les incitations individuelles, l’efficience économique et l’agilité du
+marché à remplir de façon effective sa fonction allocative et d’ajustement (Barro, 1986,
+1990; Aschauer, 1989a et 1989b). Ces effets résulteraient des programmes de taxation et
+de dépenses publiques (Barro, 1990). La taille et la structure des dépenses et des revenus
+publiques sont souvent connues pour créer des distorsions à l’économie.
+Toutefois récemment, s’agissant du secteur agricole, ce point de vue est abandonné,
+mettant en avant l’impact positif des politiques publiques sur le secteur agricole (Rada
+et Buccola, 2012;Piesse et Thirtle, 2010;Thorat et Fan, 2007). En effet pendant que les
+taxes permettraient de décourager les activités devenues moins productives, les dépenses
+gouvernementales allouées au secteur, amélioreraient la productivité des facteurs et aug-
+menteraientlesmotivationsdesagriculteurs.Cependant,lesystèmedetaxationdusecteur
+agricole n’est pas suffisamment développé dans les pays en développement comparative-
+ment aux pays développés, ainsi, les dépenses publiques sont considérées comme le moyen
+d’intervention de l’Etat dans le secteur agricole (Benin et al. 2009). C’est pourquoi l’ac-
+cent est mis sur les dépenses publiques dans le secteur agricole et l’aspect de taxes est
+laissé de côté dans l’analyse des effets des dépenses publiques dans le secteur agricole au
+Cameroun.
+Si à l’échelle macroéconomique, des modèles économétriques des pays émergents tels
+que la Chine, le Brésil et l’Inde (Thorat et Fan, 2007; Zhang and Fan 2004; Fan, 2007),
+suggèrent des liens probants entre les dépenses publiques agricoles et les bonnes per-
+formances enregistrées par le secteur agricole dans ces pays, quelques analyses ont pu
+montrer ces résultats en Afrique subsaharienne notamment au Ghana (Benin et al 2009)
+et au Burkina Faso (Ouedraogo et Bako 2010).
+Certaines analyses décomposent les dépenses publiques en plusieurs composantes afin
+d’analyser leurs effets sur la croissance du produit agricole (Dewbre et Borot de Bat-
+tisti,2008; Piesse et Thirtle, 2010; Africa Progress Panel, 2010; Rada et Buccola, 2012).
+Les principales conclusions de ces développements sont que, les dépenses gouvernemen-
+tales dans le secteur de l’agriculture peuvent avoir un impact à court terme et à long
+terme, échelonné dans le temps sur la performance du secteur agricole. En outre, Il faut
+toutefois relever des différenciations des effets selon les composantes. Les dépenses en
+infrastructures, la technologie, la R&D, formations et vulgarisation, sont connues pour
+accroitre la productivité agricole dans le temps, la composante R&D ayant des effets re-
+tardés. Tandis que les aides et subventions diverses et le crédit visent davantage le revenu
+des agriculteurs que la productivité des facteurs.
+A la lumière de ces analyses, ce papier s’interroge sur des aspects propres au secteur
+agricole au Cameroun. Il s’agit d’évaluer les effets à court et à long termes des dépenses
+publiques sur la croissance du produit agricole au Cameroun.
+4
+
+--- Page 6 ---
+2 Cadre conceptuel de l’étude
+Etant donné que l’objectif dans ce travail est d’analyser comment les dépenses pu-
+bliques peuvent affecter la croissance du produit agricole à travers l’allocation du budget
+de l’Etat à plusieurs niveaux du secteur, en l’occurrence la production, l’innovation et
+les revenus des agriculteurs, il est important de souligner par quels canaux les dépenses
+publiques peuvent influencer la croissance du produit agricole.
+C’est avec le développement de la théorie de la croissance endogène que le rôle des
+dépenses publiques dans le secteur privé s’est renforcé. Les dépenses publiques sont alors
+considérées comme un facteur de croissance économique (Barro, 1986, 1990).Pour plu-
+sieurs auteurs, elles ont des effets externes sur le secteur privé à travers l’amélioration
+de la productivité marginale des facteurs (Timmer et al,2012; Rada and Buccola, 2012).
+Ainsi les dépenses publiques entrent dans la fonction de production comme améliorant la
+technologie.
+Cependant d’autres auteurs relèvent l’impact direct sur l’efficacité du secteur privé
+(Piesse et Thirtle, 2010; Rada et Buccola, 2012). Elles sont ici considérées comme un
+facteur de production à part entière.
+Bien que les théories développées dans le cadre des pays industrialisés suggèrent qu’il
+faut aussi considérer les effets distorsionnaires du système de taxation, dans le cadre des
+pays en développement à l’occurrence le Cameroun, le système de taxation du secteur
+agricole n’est pas développé et de ce fait ne sera pas pris en compte dans l’analyse.
+On peut ainsi distinguer deux canaux par lesquels les dépenses publiques influencent
+la croissance du secteur agricole :
+— Le canal direct : de manière directe, les dépenses publiques augmentent le ca-
+pital du secteur agricole à travers l’investissement public. Les dépenses publiques
+contribuent ainsi directement à la croissance en tant que facteur de production.
+Toutefois, elles peuvent se substituer à l’investissement privé et avoir des effets
+négatifs par éviction;
+— Le canal indirect :demanièreindirecte,lesdépensespubliquesviennentaugmen-
+ter la productivité marginale des facteurs de production en améliorant le capital
+humain, la technologie et les infrastructures.
+5
+
+--- Page 7 ---
+3 Analyse statistique
+3.1 Evolution du niveau et de la structure des dépenses pu-
+bliques agricoles
+Les dépenses publiques agricoles dont il est question sont définies ici comme étant
+les fonds publics allouées au secteur agricole. Il s’agit du financement de toute l’activité
+agricole par l’Etat. Il faut noter que certaines dépenses dans d’autres secteurs ont un
+impact sur le développement de l’agriculture. Il s’agit des infrastructures routières et
+électriques, les dépenses d’éducation et de santé. Celles-ci ne sont pas incluses dans les
+dépenses publiques agricoles mais sont considérées comme biens publics5.
+Les dépenses publiques accordées au secteur agricole de 1975 à 2013 sont reportés dans
+le tableau 3 des annexes. Elles sont tirées des données budgétaires des ministères de l’agri-
+culture, des forêts et de la pêche. Ces données représentent probablement les meilleures
+données en termes de dépenses gouvernementales dans le secteur agricole. Cependant
+bien que les dépenses gouvernementales sont importantes dans le secteur agricole, il y a
+d’autres importantes sources de financement des activités agricoles qui ne sont pas prises
+en compte par ces données. Notamment parmi ces sources ont peut citer les fonds PPTE
+qui viennent en appui au financement des projets et programmes PPTE du MINADER
+depuis l’admission du Cameroun au Programme PPTE en1997, il s’agit aussi des finan-
+cements des partenaires extérieurs tels que les ONG et les fonds privées. L’intérêt de ces
+autres sources de financement est probant, cependant leur capture et leurs mesures sont
+liéesàd’importantesdifficultésstatistiquesetconceptuelles.Lesdonnéesliéesàcessources
+sont très peu disponibles particulièrement des données temporelles. Etant donnée la pé-
+riode de notre étude, les données PPTE ne peuvent pas être disponibles sur l’ensemble de
+la période. Celles relatives aux ONG et au secteur privé peuvent être considérées comme
+de sources non gouvernementales et sont accessoirement disponibles. L’utilisation de ces
+données risquerait alors d’altérer la réelle analyse de l’impact des dépenses publiques agri-
+coles dans le temps. La vraie envergure des dépenses publiques agricoles au Cameroun
+est ainsi différente des dépenses budgétaires allouées au ministère de l’agriculture et les
+ministères des forêts et de la pêche. Cependant bien qu’il y ait une différence entre les
+dépenses publiques, les dépenses gouvernementales et les dépenses budgétaires, ces termes
+seront employés de façon interchangeable dans le cadre de ce travail.
+données en termes de dépenses gouvernementales dans le secteur agricole. Cependant
+bien que les dépenses gouvernementales sont importantes dans le secteur agricole, il y a
+d’autres importantes sources de financement des activités agricoles qui ne sont pas prises
+en compte par ces données. Notamment parmi ces sources ont peut citer les fonds PPTE
+qui viennent en appui au financement des projets et programmes PPTE du MINADER
+depuis l’admission du Cameroun au Programme PPTE en1997, il s’agit aussi des finan-
+cements des partenaires extérieurs tels que les ONG et les fonds privées. L’intérêt de ces
+autres sources de financement est probant, cependant leur capture et leurs mesures sont
+liéesàd’importantesdifficultésstatistiquesetconceptuelles.Lesdonnéesliéesàcessources
+sont très peu disponibles particulièrement des données temporelles. Etant donnée la pé-
+5. Ces biens publics peuvent avoir un impact indirect.
+6
+
+--- Page 8 ---
+riode de notre étude, les données PPTE ne peuvent pas être disponibles sur l’ensemble de
+la période. Celles relatives aux ONG et au secteur privé peuvent être considérées comme
+de sources non gouvernementales et sont accessoirement disponibles. L’utilisation de ces
+données risquerait alors d’altérer la réelle analyse de l’impact des dépenses publiques agri-
+coles dans le temps. La vraie envergure des dépenses publiques agricoles au Cameroun
+est ainsi différente des dépenses budgétaires allouées au ministère de l’agriculture et les
+ministères des forêts et de la pêche. Cependant bien qu’il y ait une différence entre les
+dépenses publiques, les dépenses gouvernementales et les dépenses budgétaires, ces termes
+seront employés de façon interchangeable dans le cadre de ce travail.
+Les dépenses publiques ont évoluées de manière irrégulière sur toute la période d’étude
+comme le montre le graphique 1.
+Graphique 1 – Evolution des dépenses publiques agricoles.
+Source : Estimation des auteurs
+Les dépenses publiques agricoles ont évolué en dents de scie tout au long de la pé-
+riode d’étude. Elles ont connu une faible croissance moyenne pendant beaucoup d’années
+avant de décoller plus tard. Le graphique 1 montre une envolée dès 2005 avec un taux
+de croissance de plus de 23% en moyenne par an. Cela peut être justifié par la prise de
+conscience en 2003 lors de la déclaration de Maputo. Une analyse globale sur la longue
+période d’étude montre une tendance à une augmentation. Cependant l’on peut envisa-
+ger trois phases majeures de politique agricole où les dépenses publiques agricoles sont
+affectées de manières différentes.
+7
+
+--- Page 9 ---
+Graphique 2 – Trois phases de politique de dépenses agricoles
+Source : Estimation des auteurs
+3.1.1 Phase 1 : plans quinquennaux de développement
+Dès 1960, le Cameroun se lance dans une vague de six plans quinquennaux de dévelop-
+pement jusqu’à la fin des années 1980 (voir à ce propos les documents officiels du Came-
+roun)6. Durant ces plans de développement, les autorités considèrent le secteur agricole
+comme le moteur de l’économie camerounaise. Ces plans sont orientés vers l’agriculture
+et ont pour objectifs fondamentaux l’accroissement de la productivité et de la production
+agricole (aussi bien les produits vivriers et les produits d’exportation), l’accroissement des
+revenus des paysans, l’amélioration de la qualité des produits agricoles et leur valorisa-
+tion par une transformation locale. L’Etat s’implique fortement dans l’activité agricole
+à travers la mise en place d’entreprises agricoles publiques, les investissements dans les
+projets agricoles, les subventions des intrants agricoles, des exploitants et des entreprises
+agricoles, les politiques de stabilisation des prix etc. cependant le financement du sec-
+teur reste problématique à cause des projets surestimés et peu ou pas du tout rentable.
+Bien qu’elle soit marquée par deux chocs pétroliers, les effets n’ont pas marqué cette
+période. Néanmoins l’exploitation des gisements pétroliers dès la fin des années 1970 per-
+met d’augmenter les montants alloués au secteur. L’on peut ainsi voir sur le graphe une
+augmentation significative des dépenses publiques agricoles dès 1981.
+3.1.2 Phase 2 : programmes d’ajustement structurels
+Après l’échec du sixième plan quinquennal pendant la crise économique, la banque
+mondiale et le FMI encouragent les pays en développement à développer des programmes
+d’ajustement structurel (PAS) soutenus par les accords de Breton Wood. Dès 1990, une
+nouvelle politique agricole est mise en place au Cameroun. Elle vise la dérèglementation
+du secteur, la privatisation d’un certain nombre d’entreprises publiques et la liquidation
+d’autres. Ces entreprises sont jugées improductives. L’Etat se désengage du secteur agri-
+cole pour créer un cadre favorable à l’initiative privé. Les ressources de l’Etat sont allouées
+en majorité aux secteurs industriel et tertiaire. Cependant le pays est secoué par une crise
+6. Les documents rédigés des six propositions des plans quinquennaux sont disponibles à la biblio-
+thèque de l’Institut national de la statistique. Le premier plan quinquennal va de 1960 à 1965, le second
+planvade1966à1971,letroisièmeplanvade1971à1976,lequatrièmeplanvade1976à1981,le5eplan
+va de 1981 à 1986 et le 6eplan va de 1986 à 1991. Ce dernier est un avorton et n’a pas pu être mis en
+place à cause de la crise économique qui a secoué l’économie camerounaise.
+8
+
+--- Page 10 ---
+économique. Les dépenses publiques d’agriculture passent de plus de 15% du budget na-
+tional avant 1990 à moins de 5% du budget national après la crise. Le graphique 2 montre
+la chute progressive des dépenses publiques agricoles à partir de 1990 avec un pic en 1994
+après la dévaluation du franc CFA.
+3.1.3 Phase 3 : Après la déclaration de Maputo en 2003
+Néanmoins, le financement privé ne suffit pas à développer le secteur agricole. En 2003
+lors de la conférence de Maputo, les pays africains reconnaissent l’important rôle de l’in-
+vestissement public dans l’agriculture. Cette phase est marquée par un regain d’intérêt
+pour l’agriculture. Les autorités voient en l’agriculture un moyen de relever la croissance
+du pays. Ils décident de consacrer à l’agriculture au moins 10% du budget national pour
+atteindre un taux de croissance de 6%. Ces dernières années, l’Etat s’implique fortement
+dans toutes les étapes du processus d’industrialisation du secteur. En effet une politique
+agricole régionale est mise en place. Elle se focalise sur l’utilisation des capacités et des
+atouts de chaque région. Cette politique agricole met l’accent sur le développement in-
+frastructurel du secteur et la mécanisation pour passer à une agriculture de seconde gé-
+nération. Bien que les dépenses publiques agricoles représentent encore moins de 5% du
+budget national, elles sont croissantes depuis la déclaration de Maputo.
+Indépendamment de ces trois grandes phases de politiques agricoles, il y a soupçon
+de trois changements structurels relativement visibles. Le premier apparait dès la fin des
+années 1970. Ce changement est marqué par une augmentation relative des dépenses
+publiques agricoles comparativement aux années précédentes qui connaissent une plus ou
+moins constance des dépenses publiques agricoles. Il peut être justifié par une exploitation
+subite et abondante des ressources pétrolières et minières dès les années 1975 et proba-
+blement l’injection de nouveaux capitaux dans le secteur agricole. Le changement le plus
+notable est la dévaluation du franc CFA en 1994 survenue pendant la crise économique
+des années 1990 qu’a connu le Cameroun et d’autres pays en voie de développement. La
+monnaie ayant perdu la valeur, cela a entrainé par la même une perte de la valeur des dé-
+penses publiques agricoles de l’année suivante. On constate aussi une forte augmentation
+des dépenses publiques agricoles des 2005 jusqu’à nos jours. Comme précédemment dit,
+cela serait lié à la prise de décision des chefs d’Etat d’augmenter à 10% leurs dépenses
+agricoles.
+3.2 Structure des dépenses publiques agricoles
+L’on peut regrouper trois types de biens financés par les dépenses publiques qui sont
+liées aux performances agricoles. Il s’agit des biens publics généraux (routes, électricité,
+éducation,santé) qui sont des biens dont l’acquisition et l’utilisation ont un impact indi-
+recte sur la performance du secteur agricole; les biens publics agricoles (R&D, marchés
+agricoles, la technologie, entreprises agricoles).Les fonds budgétaires alloués au secteur
+agricole sont utilisés pour le fonctionnement et l’investissement public. Ce dernier re-
+présente en général moins de 50peut être réparti entre plusieurs projets. Il s’agit de la
+fourniture des infrastructures et des facteurs de production agricole, de la vulgarisation,
+9
+
+--- Page 11 ---
+la médiation et la recherche agricole. Dans le cadre de certains programmes et projets de
+filières, les semences, pesticides et engrais sont fournis gracieusement aux paysans. Il en
+est de même de l’acquisition de certains équipements par les organisations de producteurs
+travaillant avec ces programmes et projets. Un Projet National de Vulgarisation Agricole
+(PNVA) a été lancé par le gouvernement en 1990. Dans sa seconde phase, le PNVA est
+devenu le Programme National de Vulgarisation et de Recherche Agricole (PNVRA).Il a
+couvertl’ensembledupaysetavaitjusqu’àclôtureenjuin2004bénéficiéde29.241.211.000
+francs CFA dont 23.596.603.000 pour le volet vulgarisation et 5.644.608.000 francs CFA
+pour la recherche.
+Tableau 1 – Répartition du budget de l’agriculture
+2004 2005 2006 2007 2008 2009
+%fonctionnement 68,6 67,7 72,7 70 69 62,1
+%investissement 31,4 32,3 27,3 30 31 37,9
+Budget total 2.81E+10 2.17E+10 2.40E+10 4.01E+10 3.98E+10 5.58E+10
+Source : Le MINADER en chiffres
+3.3 Liens entre dépenses publiques et production agricole
+3.3.1 Relation graphique
+Graphique 3 – Evolution comparée de la production et des dépenses agricoles
+Source : Estimation des auteurs
+Le graphique 3 laisse entrevoir un lien entre les dépenses publiques d’agriculture et
+la production agricole. Les courbes ont à certains points du temps des pentes presque
+similaires. Sur une grande partie du graphique, les pics et les creux de la ligne de dépenses
+publiques semblent correspondre à ceux de la ligne de production avec des années d’écart.
+En effet, certains pics et creux de production surviennent un an avant ceux des dépenses
+correspondants (c’est le cas par exemples des creux de production de 1976 et 1987 qui
+10
+
+--- Page 12 ---
+correspondent aux creux de dépenses de 1977 et 1988) ou deux ans après (c’est le cas de
+creux de production de 1983 et 1997 correspondant aux creux de dépenses de 1979 et 1981
+pour 1983 et 1993 et 1995 pour 1997). Tout comme un choc de baisse de production est lié
+à un ou plusieurs chocs de dépenses, la croissance soutenue de la production agricole est
+traduite par une croissance moyenne des dépenses publiques agricoles. Selon le graphique
+du moins jusqu’en 2003, les dépenses publiques semblent conforme à la théorie selon
+laquelle les dépenses publiques sont à la fois une réponse et une cause de l’activité agricole
+(un an pour la réponse et un a deux ans pour la cause). La politique agricole semble être
+conjoncturelle. Le reste du graphique montre une forte croissance de la production liée
+à une forte croissance moyenne des dépenses. Cependant l’effet de causalité ne peut être
+détermine graphiquement.
+3.3.2 Corrélation entre dépenses et production agricoles
+Lecoefficientdecorrélationpermetdevérifiersieffectivementilyauneffetdecausalité
+entre les dépenses publiques et la production agricoles l’effet de causalité sans spécifier le
+sens de causalité. Dans le cas présent il est égal à 0.9474. Il est assez proche de 1 et donc
+significatif. Il y a effectivement effet de corrélation entre les dépenses publiques agricoles
+et la production agricole comme le suggère le graphique.
+Pour connaitre le signe de corrélation, le corrélogramme croisé est tracé à partir d?un
+logiciel approprié (Stata).
+Graphique 4 – Corrélation entre dépenses publiques agricole et production agricole au Cameroun
+Source : Estimation des auteurs
+La corrélation entre les dépenses publiques agricoles et la production agricole est une
+relation positive. Autrement dit, l’augmentation des dépenses entraine une augmenta-
+11
+
+--- Page 13 ---
+tion de la production agricole (ou la relation inverse) ou vice-versa (une croissance de la
+production pourrait entrainer une augmentation des dépenses publiques agricoles).
+CependantlesensdecausalitéestdéterminépardestestsdecausalitédeGrangerdans
+les équations de régression. Cependant le niveau de dépenses publiques est aussi fonction
+du niveau des dépenses passées. Etant donné que l’Etat se souvient des investissements
+déjà effectués. Dans le cas présent le lien est établi avec le niveau de dépenses des trois
+années précédentes comme le montre le test d’autocorrélation suivant.
+Graphique 5
+Il faut aussi remarquer que tout comme les dépenses publiques, la production agricole
+dépend elle aussi du niveau de production des années précédentes. Ici le lien est établi
+avec quatre années passées comme le montre le test d’autocorrélation.
+12
+
+--- Page 14 ---
+Graphique 6
+4 Spécification du modèle
+Au regard de cette analyse, l’approche retenue pour la spécification du modèle est
+celle utilisée par Nubukpo (2007) qui s’inspire des travaux de Ojo et Oshikoya (1995),
+de Ghura et Hadjimichael (1996) et de Tenou (1999) sur la croissance du PIB réel dans
+les pays africains. Elle considère les deux canaux des effets des dépenses publiques sur
+la croissance du secteur agricole susmentionnés. La formulation générale met en relation
+la production agricole et des facteurs susceptibles d’influencer la croissance du secteur.
+Il s’agit en l’occurrence des facteurs directs et des facteurs indirects. Les facteurs directs
+sont le travail, le capital privé, la terre et les dépenses publiques agricoles. Les facteurs
+indirects sont les biens publics généraux tels que l’électricité et l’éducation.
+La spécification générale s’écrit alors :
+Prod = f(DPA,Lab,Land,Priv,Elec,Edu)
+Avec, Prod : Prduction agricole
+DPA : Dépenses publiques agricoles
+Lab : Travail
+Land : Terre
+Priv : Capital privé
+Elec : Electricité
+Edu : Education
+13
+
+--- Page 15 ---
+5 Variables et données utilisées
+La production : Il s’agit de la production totale en volume du secteur agricole
+notamment la production végétale et la production animale.
+Les dépenses publiques agricoles : Il s’agit des dépenses budgétaires des trois
+ministères du développement rural, c’est-à-dire le Ministère de l’Agriculture et du Dé-
+veloppement Rural (MINADER), le Ministère de l’Elevage, des Pêches et des Industries
+Animales(MINEPIA)etleMinistèredesForêtsetdelaFaune(MINFOF).C’estdépenses
+ne suffisent pas à elles seules à représenter les dépenses publiques agricoles. Le NEPAD as-
+socieà ces dépenses,lesdépenses desautresministères,lessubventionsauxétablissements
+publics administratifs et aux projets non budgétaires qui contribuent à l’activité agricole.
+Pour cette étude qui nécessite une période relativement longue des données, seules les
+dépenses des ministères du développement rural seront utilisées. Elles sont données en
+milliards de franc CFA.
+Le travail : Il s’agit du travail du secteur agricole. Pour des raisons de simplification,
+nous allons considérer la population rurale active comme force de travail dans le secteur
+agricole. Il est donné en millions de travailleurs.
+La terre : Le facteur terre est l’ensemble des terres allouées à l’agriculture. Ce facteur
+estconsidérédanslamodélisationétantdonnéquel’agricultureauCamerounestextensive
+et donc la croissance des terres agricoles à l’agriculture est susceptible d’influencer la
+croissance du produit agricole. En général, l’on considère que la production s’accroit avec
+la superficie cultivée. Elle est donnée en kilomètre carré de terre agricole.
+Capital privé : C’est l’un des facteurs traditionnels de production. Il s’agit ici du
+stock de capital net du secteur agricole.
+Electricité : l’électricité est considérée comme une infrastructure participant au
+désenclavement des zones rurales et donc à l’amélioration des conditions de l’activité
+agricole. Toutefois, l’avancée de l’urbanisation pourrait créer le recul de l’activité agricole
+qui se substituerait aux activités industrielles. Elle est donnée par le nombre de kilowatt
+produits.
+Education : L’éducation est un élément important dans l’amélioration de la pro-
+ductivité du facteur travail. Elle sera prise en compte ici par la part de la population
+ayant le niveau d’éducation secondaire. Etant donné que les agriculteurs ont en moyenne
+une éducation au niveau du primaire, l’accroissement de la part des populations ayant le
+niveau d’éducation secondaire peut traduire une amélioration du niveau d’éducation des
+populations du secteur rural et donc des agriculteurs. Elle est donnée par le pourcentage
+de la scolarisation secondaire.
+Les données utilisées sont issues de la base de données FAOSTAT, World Development
+Indicators (WDI), African Development Indicators (ADI) 2016 de la Banque Mondiale et
+les dépenses publiques sont issues des lois des finances du Cameroun. Elles vont de 1971
+à 2012.
+14
+
+--- Page 16 ---
+6 Méthode d’estimation
+La nature des variables suggère l’utilisation d’un modèle à correction d’erreur afin de
+prendre en compte les dynamiques de court et de long terme. Pour capter les effets des
+dépenses publiques sur la croissance de la production, la variable Prod est mise sous la
+forme logarithmique comme suggéré par plusieurs travaux (Ouedraogo et Bako, 2010;Nu-
+bukpo, 2007). Pour valider le modèle, les tests de stationnarité, de cointégration et sur
+les résidus ont été menés.
+6.1 Tests de stationnarité
+Les tests de racine unitaire de Dickey Fuller augmenté (ADF) et de Phillip Perron
+ont été menés sur les variables, l’hypothèse nulle étant la présence de racine unitaire. Ils
+montrent que les variables sont stationnaires en différence et sont donc intégrées d’ordre
+1 excepté la variable Lab qui est stationnaire en niveau (voir tableau 2 annexes).
+6.2 Nombre optimal de retards et test de cointégration
+Il est important de choisir le nombre de retard adéquat au risque de mal évaluer le
+nombre de cointégration et créer l’autocorrélation des erreurs. Les critères Akaike (AIC)
+et Schwarz sont minimum en utilisant un nombre de retards maximum de 3 (étant donné
+le nombre réduit de nos observations) pour le nombre de retard égale à 2. En utilisant le
+test de cointégration de Johansen, la statistique de la trace montre l’existence d’au plus
+3 relations de cointégration entre les variables.
+L’équation à estimer s’écrit alors plus spécifiquement :
+∆lnProd = a ∆DPA+a Lab+a ∆lnLand+a ∆lnPriv+
+1 2 3 4
+a ∆lnEdu+a ∆lnElec+a ∆lnProd+a ∆DPA
+5 6 7 8 −1
++a Lab +a ∆lnLand +a ∆lnPriv +a lnEdu+a lnElec (1)
+9 −1 10 −1 11 −1 12 13 −1
+Danscetteexpression,∆estlefacteurdedérivéeparrapportautemps.Lescoefficients
+a sont des élasticités. Les coefficients a à a caractérisent la dynamiquede court terme,
+i 1 6
+tandis que les coefficients a à a permettent de dériverles comportements d’équilibre
+8 13
+de long terme du taux de croissance de la production agricole. Le coefficient a est le
+7
+coefficient de correction d’erreur. Les signes théoriques attendus des coefficients sont les
+suivants :a ,a eta sont mitigés et les autres coefficients seraient tous positifs.
+1 6 8
+15
+
+--- Page 17 ---
+7 Résultats d’estimation
+A l’aide de la régression par les moindres carrés ordinaires (MCO), tel que proposée
+par Hendry (1995), les paramètres du modèles ont été estimés. Ceci en s’assurant de la
+stationnarité des résidus de l’équation. Les résultats de l’estimation sont donnés dans le
+tableau suivant :
+Tableau 2 – Résultats de l’estimation
+Variables Coefficient Std. Error t-Statistic Prob.
+D(DPA) 0.000206 0.001357 0.152012 0.8803
+LAB 0.587422 0.729537 0.805197 0.4277
+D(LNEDU) -0.089725 0.108812 -0.824587 0.4168
+D(LNELEC) 0.080410 0.107337 0.749135 0.4603
+D(LNPRIV) 0.048970 0.321156 0.152480 0.8799
+D(LNLAND) 2.173885 0.960952 2.262220** 0.0319
+LNPROD(-1) -0.514119 0.178251 -2.884242** 0.0076
+DPA(-1) 0.002972 0.001359 2.186261** 0.0376
+LAB(-1) -0.463538 0.733808 -0.631688 0.5329
+LNEDU(-1) -0.215279 0.121557 -1.771005* 0.0878
+LNELEC(-1) 0.071869 0.078761 0.912495 0.3696
+LNPRIV(-1) -0.213032 0.281692 -0.756257 0.4560
+LNLAND(-1) 0.821105 0.797254 1.029916 0.3122
+C -0.924181 7.956372 -0.116156 0.9084
+Estimation de l’auteur
+Source :
+Le coefficient d’erreur est négatif et permet ainsi le rappel vers l’équilibre de long
+terme. Il est significatif à 5% (p-value=0,0076) et stipule l’existence d’un mécanisme à
+correction d’erreur. En outre, les résidus sont stationnaires. De ce fait, le choix du modèle
+à correction d’erreur est un choix judicieux.
+Acourtterme,lecoefficientdelavariableterreestlaseulestatistiquementsignificative
+à 5%. L’accroissement d’1% de la superficie des terres agricoles, résulte en l’accroissement
+de 2,17% de la production agricole. Ceci confirme la théorie et le fait que l’agriculture au
+Cameroun est encore extensive.
+A long terme, le coefficient de la variable dépenses publiques agricoles est significatif
+à 5% et positif. Une augmentation de 1% dans le budget du secteur agricole résulte en
+une croissance du produit agricole de 0,3% à long terme. Cet effet s’estompe au bout de
+deux ans comme le suggère les critères d’information AIC et Schwarz.
+Lecoefficientdelavariableretardéedel’éducationestsignificatifà10%etnégatif.Une
+augmentation de 100% de la scolarisation au secondaire, résulte en une baisse de 21,5%
+de la production agricole. Cela se traduit par le fait que lorsque le niveau d’éducation des
+populations rurales augmente, cela se traduit par un recul de l’activité agricole l’année
+suivante.Celapeutsejustifierparlefaitquel’activitéagricoleauCamerounestconsidérée
+comme une activité rurale ou la majorité de la population est sous-scolarisée.
+16
+
+--- Page 18 ---
+Conclusion
+L’agriculture revêt une importance capitale pour les économies de l’Afrique subsaha-
+rienne, notamment le Cameroun. Cela se traduit par l’implication des autorités dans le
+processus de développement du secteur. Toutefois, la principale question que soulève cette
+étude est relative au financement de l’agriculture. Les dépenses publiques semblent à cet
+effet l’instrument adéquat pour booster la croissance de la production. Les résultats de
+cette étude viennent confirmer l’existence à long terme, d’un impact positif des dépenses
+publiques sur la croissance du produit agricole au Cameroun bien que ces effets soient
+globalement moindres. Pour accroitre la production agricole, l’Etat devrait d’avantage
+injecter des ressources dans le secteur agricole. Comme le montre les résultats de cette
+étude, à chaque 1% d’augmentation du budget alloué à l’agriculture, le produit agricole
+croit de 0,3%. De ce fait pour atteindre une croissance annuelle de 6% telle que préconisée
+par le CADDEP, il faudrait accroitre les dépenses publiques dans le secteur agricole de
+20% chaque année provenant des revenus de l’Etat.
+Dans le contexte de la restructuration des finances publiques, ces résultats soulèvent
+deux questions importantes, d’une part, la qualité des dépenses publiques et d’autre part,
+l’exploration d’autres sources de financement du secteur agricole.
+La question de la qualité des dépenses est relative à l’affectation de ces ressources
+publiquesdanslesecteur.Eneffetpourpallierlafaiblessedesmarchésprivés,l’Etatalloue
+ses revenus dans le secteur à travers plusieurs composantes. Bien que cette étude n’ait
+pas distingué les dépenses de fonctionnement des dépenses d’investissement, il demeure
+important de le faire. En effet les dépenses de fonctionnement sont connues pour n’avoir
+pas d’impact sur la croissance ou nuisant à celle-ci et de ce fait peuvent être détachées
+des dépenses d’investissement. Ces dernières se subdivisent en plusieurs composantes.
+Elles peuvent être affectées aux subventions des intrants tels que les semences, engrais
+et machinerie et aux aides directes aux producteurs. Elles peuvent aussi constituer les
+infrastructures rurales de marché telles que les routes, les équipements de stockage. En
+outre, l’Etat intervient dans la recherche, l’innovation technologique et le processus de
+transformation des produits agricoles. Dans un contexte de raréfaction des ressources,
+il est crucial de distinguer les composantes les plus effectives dans l’amélioration de la
+productivité du secteur. Il s’agit à cet effet d’évaluer de manière exhaustive l’impact des
+composantes des dépenses publiques sur la croissance du produit agricole au Cameroun.
+D’un autre côté, dans le contexte d’une baisse des revenus de l’Etat, et donc de l’in-
+capacité à accroitre régulièrement ses dépenses en agriculture, il est impératif d’explorer
+d’autres sources de financement du secteur agricole. L’une des limites de cette étude est de
+ne pas pouvoir distinguer et évaluer les autres sources de financements du secteur agricole
+afin de juger de l’efficacité de celles-ci. En effet, en dehors des dépenses publiques qui sont
+la plus grande ressource du secteur agricole, les autres ressources sont privées. Il s’agit du
+financement formel, via le canal des banques et du financement informel. Au Cameroun,
+le financement privé le plus répandu, c’est le financement privé du fait des risques élevés
+liés à l’activité agricole et du manque d’accès par les agriculteurs aux collatéraux néces-
+saires au financement formel. La nécessité est ici de pouvoir évaluer toutes les sources de
+financement du secteur agricole afin de renforcer le système de financement axé sur la
+17
+
+--- Page 19 ---
+croissance du secteur agricole qui est un secteur prioritaire pour le Cameroun.
+Références
+[1] AfricanUnion(2003):«AssemblyoftheAfricanUnion:MaputoDeclaration»,NE-
+PAD,10-12July2003.Availableonlineatwww.africaunion.org/root/au/Documents/Decisions
+/hog/12HoGAssembly2003.LDCsf(Assem bly/AU/Decl.7 (II)
+[2] AfricaProgressPanel(2010):«AméliorerlaproductivitéagricoleenAfriqueChamp
+d’actionetrôledessubventionsAméliorerlaproductivitéagricoleenAfriqueQuelles
+actions? Quel rôle pour les subventions? », Africa Progress Panel, Brief politique.
+[3] Aschauer, D.A. (1989a) : « Is Public expenditure Productive? », Journal of Mone-
+tary Economics 23, 177?200.
+[4] Aschauer, D. A. (1989b) : « Does Public Capital Crowd Out Private Capital? »,
+Journal of Monetary Economics , 24, 171?188.
+[5] Barro, R.J. (1990) : « Government spending in a simple model of endogenous
+growth », Journal of Political Economy, 98, n°5, Part II, 103-125.
+[6] Barro, R.J. (1986) : « Government Spending, Interest Rates, Prices and Budget
+Deficits in the United Kingdom, 1701-1918 », NBER, Working Paper 2005.
+[7] Benin and al.(2009) : «Public expenditures and agricultural productivity growth in
+Ghana », Contributed paper, IAAE, Beijing 2009.
+[8] Damais G. (2007) : « Dépenses publiques, gestions stratégiques et responsabilité
+financière dans le secteur agricole », PEMFAR Review :48
+[9] Dewbre, J. and Borot de Battisti, A. (2008) : «Agricultural Progress in Cameroon,
+Ghana and Mali : Why It Happened and How to Sustain It »,
+OECD Food, Agriculture and Fisheries Working Papers, No.9, OECD Publishing.
+http ://dx.doi.org/10.1787/241275631215
+[10] Hendry, D. F. (1995) : Dynamic Econometrics, Oxford University Press, Oxford.
+[11] Kwanashie, M., Abdul-Ganiyu, G. and Ajilima, I. (1997) : « Policy modelling in
+agriculture : testing the response of agriculture to adjustment policies in Nigeria »,
+AERC Research Paper, 57, Nairobi.
+[12] Nubukpo, K.K. (2007) : «Dépenses publiques et croissance des économies de l’UE-
+MOA », Décembre.
+18
+
+--- Page 20 ---
+[13] Ouedraogo, S. and Bako, D. (2010) : «Public expenditures and agricultural growth
+in Burkina Faso », Asian Journal of Agriculture and Rural development.
+[14] Piesse, J. and Thirtle, C. (2010) : « Agricultural R&D, technology and producti-
+vity », Phil. Trans. R. Soc. rstb.royalsocietypublishing.org on April 8.
+[15] Radaa, N.E. and Buccola, S.T. (2012) : « Agricultural policy and productivity :
+evidence from Brazilian censuses », Agricultural Economics, 43 (2012) : 355?367.
+[16] RépubliqueduCameroun(2013etprecedents):LoidesFinances2013etprecedents:
+Rapport Economique et Financier Exercice 2013 et precedents, Yaoundé.
+[17] Thorat,S.andFan,S.(2007):«PublicInvestmentandPovertyReduction:Lessons
+from China and India », Economic and Political Weekly, 42 (8) : 704-710.
+[18] Timmer, P., McMillan, M., Badiane, O., Rodrik, D., Binswanger-Mkhize, Wouterse.
+(2012) : «Patterns of Growth and Structural Transformation in Africa, Trends and
+Lessons for Future Development Strategies », WCAO , thematic research note 02,
+April.
+[19] World Bank (2015) : World Development Indicators 2015, Washington DC, World
+Bank.
+[20] World Bank (2012) : World Development Indicators 2012, Washington DC : World
+Bank. http ://devdata.worldbank.org/data-query/.
+[21] World Bank. (2010) : « Renforcement des Systèmes Nationaux des Dépenses Agri-
+coles Publiques en Afrique Sub-Saharienne : Evaluation d’Impact de la Composante
+Dépenses»,ModèledeTermesdeRéférence.www.worldbank.org/afr/agperprogram
+[22] Zhang, X. and Fan, S. (2004) : « Public investment and regional inequality in rural
+China », Agricultural Economics, 30 (2004) :89?100.
+www.elsevier.com/locate/agecon
+19
+
+--- Page 21 ---
+A Annexes
+Tableau 3 – Dépenses publiques allouées au secteur agricole de 1975 à 2013 (E +10 FCFA)
+1975 1976 1977 1978 1979 1980 1981 1982
+0,76 0,287 0,13 0,367 0,249 0,753 0,203 0,613
+1983 1984 1985 1986 1987 1988 1989 1990
+0,827 1,0308 1,2496 1,5313 1,7542 1,3515 1,4812 1,6542
+1991 1992 1993 1995 1994 1996 1997 1998
+1,8084 2,1984 1,9234 1,1447 1,9841 1,2489 1,6471 1,6682
+1999 2000 2001 2002 2003 2004 2005 2006
+1,9256 1,9697 2,0835 2,2138 2,2613 2,8056 2,1697 2,4043
+2007 2008 2009 2010 2011 2012 2013
+4,0129 3,9786 5,5752 5,2512 7,1424 7,8863 10,169
+Source : les lois de finances de la République de Cameroun
+Tableau 4 – Tests de racine unitaire ADF
+variables Nombres de retard tendance constante En niveau En différence conclusion
+lnprod 1 non non 5% 5% I(1)
+dpa 1 non non 5% 5% I(1)
+lnedu 2 non non 5% 5% I(1)
+lnelec 2 non non 5% 5% I(1)
+lab 1 oui oui 5% / I(0)
+lnland 1 non non 5% 5% I(1)
+lnpriv 1 non non 5% 5% I(1)
+Source : estimation de l’auteur
+20

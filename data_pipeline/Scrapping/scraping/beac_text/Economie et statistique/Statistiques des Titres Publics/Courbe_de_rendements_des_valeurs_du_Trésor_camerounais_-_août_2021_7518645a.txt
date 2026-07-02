@@ -1,0 +1,53 @@
+Source PDF : Courbe_de_rendements_des_valeurs_du_Trésor_camerounais_-_août_2021_7518645a.pdf
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbe_de_rendements_des_valeurs_du_Trésor_camerounais_-_août_2021_7518645a.pdf
+Date extraction : 15/06/2026 20:22:18
+======================================================================
+
+--- Page 1 ---
+,,
+BANQUE DES ETATS
+Courbe de rendements des valeurs du Trésor public camerounais
+DE L'AFRIQUE CENTRALE
+'
+~ ~-~ -août-21
+9.00
+8,28 8,37 8,44
+8,17
+8,01
+7,80
+8,00
+7,00
+6,00
+~
+0
+=
+~ 5,00
+..C.-...i..l
+< =...:., 4,00
+~
+"'=O
+~ 3,00
+~
+2,00
+1,00
+0,00
+3 mois 6mois l an 1,5 ans 2 ans 3 ans 3,5A 4 ans 5 ans 6 ans 7 ans 8 ans 9 ans 10 ans
+Maturités
+
+--- Page 2 ---
+Courbe de rendements des valeurs du Trésor public camerounais (août 2021)
+Maturités Rendements
+3 mois 2,08
+6 mois 2,58
+1 an 3,96
+1,5 ans 5,12
+2 ans 5,95
+3 ans 6,94
+3,5A 7,24
+4 ans 7,47
+5 ans 7,80
+6 ans 8,01
+7 ans 8,17
+8 ans 8,28
+9 ans 8,37
+10 ans 8,44

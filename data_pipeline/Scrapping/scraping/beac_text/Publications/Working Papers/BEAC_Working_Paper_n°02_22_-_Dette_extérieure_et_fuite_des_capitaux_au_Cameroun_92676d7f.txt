@@ -1,0 +1,1271 @@
+Source PDF : BEAC_Working_Paper_n°02_22_-_Dette_extérieure_et_fuite_des_capitaux_au_Cameroun_92676d7f.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_n°02_22_-_Dette_extérieure_et_fuite_des_capitaux_au_Cameroun_92676d7f.pdf
+Date extraction : 15/06/2026 21:20:01
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 02/22 -
+Dette extérieure Et fuite Des Capitaux au Cameroun
+BENDOMA Marius BIKAI J. Landry
+Docteur en sciences économiques Docteur en sciences économiques
+Et
+Ecole Supérieure des Sciences Economiques Direction des Etudes, de la Recherche
+et Commerciales (ESSEC), et des Statistiques
+Université de Douala
+bikai@beac.int
+b endoma@yahoo.fr
+Les opinions émises dans ce document de
+B ANQ U E D E S E T A T S D E
+travail sont propres à leur (s) auteur (s) et ne
+L’AF R IQ U E C E NT R ALE
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+Banque des Etats de l’Afrique Centrale.
+V og t B P:1 9 1 7 Y a o un d é
+C a me roun
+The opinions expressed in this working
+paper are those of the author (s) and don’t
+T e l :(2 37 ) 2 2 2 34 0 30 /
+2 2 2 34 060 necessarily represent the views of the Central Bank
+of Central Africa States.
+F a x : (2 37 ) 2 2 2 33 32 9
+ww w.be a c.i n t
+D I R E C T I O N D E S E T U D E S, D E L A R E CH E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+DETTE EXTERIEURE ET FUITE DES CAPITAUX AU
+CAMEROUN
+BENDOMA Marius∗ & BIKAI J. Landry∗∗
+Décembre 2022
+Résumé
+La nature bidirectionnelle de la relation entre la dette extérieure et la fuite des capitaux a
+été suffisamment explorée dans la littérature, en particulier dans les pays d’Amérique du Sud,
+d’Europe de l’Est et d’Asie du Sud-Est. Nonobstant cette prolifération de travaux, il reste à
+creusercephénomènetaxéportefinancièretournante,pourlecasdespaysafricains.Desanalyses
+récentes menées dans les économies d’Afrique subsaharienne ont révélé que la fuite des capitaux
+est étroitement liée à la dette extérieure. Dans cet article, nous abordons la même question,
+mais pour le cas particulier du Cameroun sur la période 1980-2020. En utilisant les approches
+SVAR et ARDL, cet article parvient aux conclusions suivantes : premièrement, nous constatons
+qu’il existe une relation bidirectionnelle entre la dette extérieure et la fuite des capitaux. Une
+augmentation de la dette extérieure d’un franc CFA accélère la fuite des capitaux de 45 à 70
+centimes. De plus, cet effet d’accélération est induit par les variations des composantes privée
+et publique de la dette extérieure. Deuxièmement, l’existence de rentes pétrolières et forestières
+est aussi source de fuite des capitaux. Il convient de noter que la fuite des capitaux induite par
+les rentes pétrolières et forestières est d’une ampleur plus importante, comparée à celle de la
+dette extérieure. Enfin, l’environnement institutionnel importe dans cette relation. Alors que la
+corruption exacerbe la relation, le renforcement de la loi et de l’ordre contribue à en réduire les
+effets négatifs.
+Mots-clés : fuite des capitaux, dette extérieure, rentes naturelles, économétrie des séries
+temporelles, économie politique.
+Codes JEL : C32, H63.
+∗. Docteur en Economie, Enseignant-Chercheur à l’Ecole Supérieure des Sciences Economiques et
+Commerciales (ESSEC) de l’Université de Douala, Conseiller Technique au Laboratoire d’Analyses et de
+Recherche en Economie Mathématique (LAREM), Université de Yaoundé II, Consultant économique du
+Consortium pour la Recherche Economique en Afrique (CREA), Chargé de Cours Associé à l’Université
+Catholique d’Afrique Centrale (UCAC)
+∗∗. Docteur en économie et Cadre à la Direction des Etudes, de la Recherche et des Statistiques de la
+Banque des Etats de l’Afrique Centrale (BEAC).
+LesauteursremercientlescadresdelaBEACpourleursobservationsetcommentaires,leséventuelles
+erreurs et omissions contenues dans cette étude sont du seul fait de ceux-ci.
+1
+
+--- Page 3 ---
+EXTERNAL DEBT AND CAPITAL FLIGHT IN
+CAMEROON
+Abstract
+The bidirectional nature of the relationship between external debt and capital flight has been
+sufficiently explored in the literature, especially in the countries of South America, Eastern
+Europe and Southeast Asia. Notwithstanding this proliferation of works, it remains to dig into
+this phenomenon taxed as a financial revolving door, for the case of African countries. Recent
+analyzes conducted in Sub-Saharan African economies have revealed that capital flight is closely
+linked to external debt. In this article, we address the same question, but for the particular
+case of Cameroon over the period 1980-2020. Using SVAR and ARDL approaches, this paper
+reachesthefollowingconclusions:first,wefindthatthereisabidirectionalrelationshipbetween
+externaldebtandcapitalflight.AnincreaseinexternaldebtofoneCFAfrancacceleratescapital
+flight by 45 to 70 cents. In addition, this acceleration effect is driven by changes in the private
+and public components of external debt. Second, the existence of oil and forest rents is also a
+source of capital flight. It’s worth noting that the flight induced by oil and forest rents is of a
+greater magnitude, compared to that of the external debt. Finally, the institutional environment
+matters in this relationship. While corruption exacerbates the relationship, strengthening law
+and order helps to reduce the negative effects.
+Keywords : Capital Flight, External Debt, Natural Rents, Time Series Econometrics, Po-
+litical Economy.
+JEL Classification : C32, H63.
+2
+
+--- Page 4 ---
+Sommaire
+Résumé non technique 4
+Introduction 5
+1 Fuite des capitaux et littérature 6
+1.1 Analyse de la fuite des capitaux au Cameroun . . . . . . . . . . . . . . . . . . . . 6
+1.2 Revue de littérature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+2 Analyse économétrique de la porte financière tournante 13
+2.1 Le modèle empirique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+2.2 Données et stratégies d’estimations . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+3 Résultats et interprétations 15
+3.1 Propriétés des données et du modèle . . . . . . . . . . . . . . . . . . . . . . . . . 15
+3.2 La relation dette extérieure-fuite des capitaux : une approche SVAR . . . . . . . 16
+3.3 La relation dette extérieure-fuite des capitaux : une approche ARDL . . . . . . . 18
+3.4 Dette extérieure et fuite des capitaux : Effets de composition . . . . . . . . . . . 20
+3.5 Dette extérieure et fuite des capitaux : Effets des rentes . . . . . . . . . . . . . . 21
+3.6 Dette extérieure et fuite des capitaux : le rôle des institutions . . . . . . . . . . . 23
+Conclusion et implications de politique économiques 26
+Bibliographie 27
+Annexe 1 : Construction de variables institutionnelles 29
+Annexe 2 : Propiétés du modèle 31
+3
+
+--- Page 5 ---
+Résumé non technique
+La fuite des capitaux est considérée comme une partie de l’épargne domestique qui échappe
+au circuit économique (Boyce et Ndikumana, 2012). Cette définition ne distingue pas les fuites
+licites des illicites, difficiles à déterminer (Gordon et Levine, 1989). Dans la littérature, certains
+auteurs estiment que les sorties licites ne doivent pas être considérées comme fuites de capitaux.
+D’autres par contre considèrent comme fuites de capitaux toute sortie normale ou anormale
+de capitaux car ces dernières limitent la capacité d’importation, de remboursement de la dette
+et d’investissement des pays (Erbe, 1985; Banque mondiale, 1985; Morgan Guaranty, 1986;
+Hermes et al., 2002; Ndiaye, 2011; Ndikumana et Boyce, 2013). Cette dernière définition est
+celle sur laquelle nous nous appuyons dans cette étude pour analyser le lien qu’il pourrait avoir
+entre la fuite des capitaux et le niveau d’endettement au Cameroun.
+La présente étude aborde la question du mécanisme de la porte financière tournante (PFT),
+selon lequel la dette extérieure et la fuite des capitaux s’engendreraient mutuellement. Nous
+nous focalisons sur le cas particulier du Cameroun sur la période 1980-2020, dans un contexte
+où le pays : (i) est fortement doté en ressources naturelles notamment pétrolières; (ii) subit un
+environnement institutionnel perfectible sur la dernière décennie et (iii) fait face à une tendance
+à la hausse de sa dette extérieure (en lien notamment avec les travaux d’organisation de la CAN
+2021, les dépenses liées à la COVID-19 et les dépenses sécuritaires), propice au mécanisme de
+la PFT.
+Danscetarticle,nousutilisonslesapprochesSVARetARDL,etparvennonsauxconclusions
+suivantes : premièrement, nous constatons qu’il existe une relation bidirectionnelle entre la dette
+extérieure et la fuite des capitaux. Une augmentation de la dette extérieure d’un franc CFA
+accélère la fuite des capitaux de 45 à 70 centimes. De plus, cet effet d’accélération est induit
+par les variations des composantes privée et publique de la dette extérieure. Deuxièmement,
+l’existence de rentes pétrolières et forestières est aussi source de fuite des capitaux. Il convient
+denoterquelafuitedescapitauxinduiteparlesrentespétrolièresetforestièresestd’uneampleur
+plus importante, comparée à celle de la dette extérieure. Enfin, l’environnement institutionnel
+importe dans cette relation. Alors que la corruption exacerbe la relation, le renforcement de la
+loi et de l’ordre contribue à en réduire les effets négatifs.
+A la lumière de ces résultats, nous proposons des recommandations pour atténuer la fuite
+des capitaux. Les autorités devraient ainsi poursuivre les efforts en faveur de la réduction du
+phénomène de corruption dans la scène publique et promouvoir une gestion transparente des
+ressources naturelles du pays, et principalement les ressources pétrolières et forestières. Cela
+pourrait passer par l’exigence des sociétés pétrolières de s’arrimer à la nouvelle règlementation
+des changes qui permet de mieux contrôler les sorties et entrées de capitaux. En outre, une
+conditionnalité adéquate accompagnant la dette extérieure, de la part des bailleurs de fonds
+pourrait réduire la fuite des capitaux. Cette conditionnalité devrait se concentrer sur la façon
+d’assurer une meilleure gestion des finances publiques. La poursuite de la diversification des
+économiesetdesréformesinstitutionnelles,tantauniveaunationalqu’auniveaucommunautaire
+serait aussi indispensable.
+4
+
+--- Page 6 ---
+Introduction
+La fuite des capitaux est considérée comme une partie de l’épargne domestique qui échappe
+au circuit économique (Boyce et Ndikumana, 2012). Cette définition ne distingue pas les fuites
+licites des illicites, difficiles à déterminer (Gordon et Levine, 1989). Dans la littérature, certains
+auteurs1 estiment en général que les sorties licites ne doivent pas être considérées comme fuites
+de capitaux. D’autres par contre considèrent comme fuites de capitaux toute sortie normale ou
+anormale de capitaux car ces dernières limitent la capacité d’importation, de remboursement de
+la dette et d’investissement des pays (Erbe, 1985; Banque mondiale, 1985; Morgan Guaranty,
+1986; Hermes et al., 2002; Ndiaye, 2011; Ndikumana et Boyce, 2013). Cette dernière définition
+est celle sur laquelle nous nous appuyons dans cette étude pour analyser le lien qu’il pourrait
+avoir entre la fuite des capitaux et le niveau d’endettement au Cameroun.
+Le Cameroun n’a pas échappé à la crise d’endettement des années 80-90 amplifiée par la
+dévaluation de 1994 qui a pratiquement fait doubler la dette de façon mécanique. Comme dans
+la plupart des pays de la Zone Franc, après son indépendance en 1960, le pays a mis en place
+une politique de développement basée sur de grands projets d’infrastructures (routes, indus-
+tries, hôpitaux, centres de recherche, réseaux téléphoniques et électriques). La mise en œuvre
+de ces projets de développement a nécessité des ressources importantes provenant de diverses
+sources, à savoir : les rentes issues de l’exploitation des matières premières, l’épargne intérieure,
+l’investissement direct étranger et la dette extérieure. Au Cameroun, les revenus issus des ma-
+tières premières sont très volatiles, l’épargne intérieure est faible2 et peu mobilisée, il en est
+de même pour les investissements directs étrangers3. Avec une quasi-inexistence d’un marché
+de capitaux local, la dette extérieure est apparue comme l’ultime alternative pour les autorités
+afin de financer leur développement. La crise des années 90 couplée aux dérapages budgétaires
+et à la forte implication de l’Etat dans le circuit productif a donc abouti à la signature des
+programmes d’ajustement structurels qui ont menés à l’atteinte du point d’achèvement de l’ini-
+tiative pays pauvre très endetté (IPPTE) en 2006. Cette dernière étape a permis un important
+allègement4 deladetteextérieure,maisforceestdeconstaterquecesdernièresannées,leniveau
+d’endettement, bien que maitrisé, commence à avoir des proportions préoccupantes.
+Selon les données de la banque mondiale5, l’encours de la dette extérieure publique garantie
+par l’Etat est passé de 2,18 milliards de dollars en moyenne sur la période 2006-2011 pour
+atteindre 11,46 milliards de dollars en 2020. En outre, les indicateurs de développement ne
+croissent pas au même rythme que le niveau d’endettement, ce qui peut laisse penser à une
+potentielle fuite de capitaux préjudiciable pour le processus de développement du pays. Ce
+soupçon est d’autant plus avéré que, diverses études ont montré que le niveau de fuite des
+capitaux est important en période de hausse de la dette extérieure (Boyce, 1992; Hermes et
+Lensink, 1992; Chipalkatti et Rishi, 2001; Ndikumana et Boyce, 2001 et 2013; Beja, 2006;
+Fofack, 2009 et Gankou et al., 2016). Toutefois, il est également possible que d’importantes
+fuites de capitaux créent des conditions d’endettement supplémentaires.
+1. Deppler et Williamson, 1987; Walter, 1987; Kindleberger, 1987.
+2. Selon les données de la Banque Mondiale (WDI), en 2020 l’épargne en pourcentage du PIB a
+représenté 13% au Cameroun contre 20% pour l’ensemble de l’Afrique Subsaharienne ou encore 45%
+pour la Chine.
+3. Selon les données de la Banque Mondiale (WDI), en 2020 sur 30,15 milliards d’entrées nettes en
+termes d’investissements direct étrangers, seulement 675,18 millions de dollars concernent le Cameroun.
+4. L’encours de la dette extérieure publique garantie par l’Etat est passé de 10,05 milliards de dollars
+en 2003 à 2,39 milliards de dollars en 2006.
+5. https://data.worldbank.org/indicator/DT.DOD.DPPG.CD?locations=CM
+5
+
+--- Page 7 ---
+La présente étude aborde la question du mécanisme de la porte financière tournante (PFT),
+selon lequel la dette extérieure et la fuite des capitaux s’engendreraient mutuellement pour une
+provision de sorties massives de capitaux hors du circuit domestique. Nous nous focalisons sur
+le cas particulier du Cameroun sur la période 1980-2020, dans un contexte où le pays : (i)
+est fortement doté en ressources naturelles notamment pétrolières; (ii) subit un environnement
+institutionnel perfectible sur la dernière décennie et (iii) fait face à une tendance à la hausse
+de sa dette extérieure (en lien notamment avec les travaux d’organisation de la CAN 2021, les
+dépenses liées à la COVID-19 et les dépenses sécuritaires), propice au mécanisme de la PFT.
+L’intérêt d’une telle étude est d’approfondir la compréhension de la problématique de la
+gestion de la dette publique, afin de mieux cerner les contours du concept de fuite des capitaux
+(taille et fréquence des sorties illicites de capitaux); mais l’étude permet aussi de procéder à une
+vérification contemporaine de l’hypothèse de PFT en tenant compte des principales variables
+institutionnelles (corruption, instabilité politique et sociale, respect de la loi et de l’ordre).
+Elle prend donc appui sur les faiblesses institutionnelles pour justifier les sorties massives de
+capitaux. Plusieurs facteurs nous confortent dans cette voie, notamment avec les conclusions
+assez complexes du dernier Rapport sur l’audit du fonds de solidarité nationale pour la lutte
+contre le Coronavirus, et ses répercussions économiques et sociales de la Chambre des Comptes
+(2021)ouencoreleRapportsurl’étatdelaluttecontrelacorruptionauCameroundelaCONAC
+(2021).
+La principale contribution de ce travail est de combler le gap sur la littérature autour de
+l’analyse de l’hypothèse de Porte Financière Tournante (PFT) en se focalisant sur le Cameroun.
+Cettehypothèsen’apasétéconcluantedanslestravauxdeGankouetal.(2016)dontlesdonnées
+s’arrêtent en 2010, toutefois, les évènements récents cités précédemment, tendent à montrer
+que cette hypothèse pourrait être vérifiée à présent; nous actualisons notamment les variables
+institutionnelles en mettant un accent sur l’instabilité politique et sociale en remplacement de la
+stabilitédugouvernementauvudeschocssécuritairessubisparlepaysaucoursdecesdernières
+années.
+Le reste du papier est structuré comme suit. La section 1 présente quelques faits stylisés
+et passe en revue la littérature existante. La section 2 expose l’analyse empirique. La section 3
+examine les résultats des estimations avant de conclure avec les principales recommandations de
+politique économique.
+1 Fuite des capitaux et littérature
+1.1 Analyse de la fuite des capitaux au Cameroun
+Du fait de la forte extraversion due en partie à la faible transformation structurelle du pays,
+le Cameroun est amené à importer d’énormes quantités de produits, rendant ainsi la balance
+des paiements structurellement déficitaire. Il se caractérise ainsi par d’importantes sorties de
+capitaux, pouvant provenir de plusieurs sources, notamment : (i) l’endettement extérieur, (ii)
+les faiblesses du cadre institutionnel, (iii) les transactions commerciales et financières avec le
+reste du monde, et (iv) les ressources issues des rentes de l’exploitation des matières premières.
+6
+
+--- Page 8 ---
+1.1.1 Fuite de capitaux et dette extérieure
+L’endettement extérieur est parfois évoqué comme l’un des facteurs pouvant entrainer une
+fuite des capitaux importante. Dans les faits, l’endettement extérieur au Cameroun a une évo-
+lution en dents de scie. Comme le montre le graphique 1, le ratio de la dette extérieure a connu
+quatre phases : (i) une phase de stabilité de la dette jusqu’aux années 1988 (inférieure à 40%
+du PIB), (ii) une phase d’endettement élevé entre 1989 et 2005 (avec un pic à 125% du PIB en
+1995), cette phase a également été marquée par la mise en place des programmes d’ajustement
+structurels aboutissant à divers allègements sanctionnés par l’atteinte du point d’achèvement
+de l’IPPTE en 2006; (iii) une phase d’endettement faible entre 2006 et 2016; et (iv) une phase
+préoccupante de reprise de l’endettement de 2017 à nos jours. Au cours de ces différentes phases,
+la plupart des pics de fuite des capitaux coïncident avec des niveaux d’endettement élevé. On
+peut ainsi observer un pic important de fuite des capitaux en pleine année de dévaluation en
+1994 alors que le niveau de dette extérieure atteignait 100,1% du PIB pour la première fois. Il
+faut rappeler que des capitaux sont sortis parfois de manière frauduleuse durant cette période
+par anticipation à une éventuelle dévaluation. Le pic le plus important de fuite des capitaux
+(équivalent à 63,2% du PIB) a eu lieu sans surprise pendant la phase d’endettement élevée
+lorsque le niveau de dette extérieur était de 101,1% en 2001. Ces dernières années (depuis 2018)
+onobserveunerecrudescencedefuitedecapitauxcorrespondantaussiàunepériodeoùleniveau
+d’endettement devient de plus en plus préoccupant.
+Graphique 1 – Dette extérieure et fuite des capitaux
+Source : Auteurs.
+La fuite des capitaux peut être associée à la dette extérieure à travers quatre canaux de
+transmission. Ceux-ci sont illustrés dans le tableau ci-dessous. Le lien est plus étroit lorsque l’un
+alimente directement l’autre, c’est-à-dire que ce sont les mêmes fonds qui entrent et qui sortent
+par la PFT.
+7
+
+--- Page 9 ---
+Tableau 1 – Liens entre la dette extérieure et la fuite des capitaux
+Dette à Fuite des capitaux Fuite des capitaux à dette
+Motivation et finance- Fuite des capitaux alimentée Emprunt étranger alimenté par la
+ment par la dette fuite des capitaux
+Motivation uniquement Fuite des capitaux induite par Emprunt à l’étranger induit par la
+la dette fuite des capitaux
+Source : Ndikumana et Boyce (2013)
+Le casde la fuite descapitaux alimentée par ladette extérieure, estcelui où legouvernement
+camerounais s’endette pour financer l’accumulation d’avoirs privés via les mécanismes illicites
+que sont les détournements de fonds des comptes publics vers les comptes privés, les dessous-de-
+table (commissions) lors de la passation des marchés publics, les gonflements des prix d’achat
+(mercuriale) et les projets fantômes. Ensuite, les bénéficiaires de ces dispositifs détournent l’ar-
+gent de prêts qui est placé en lieu sûr dans des comptes extérieurs. Dans le cas de l’emprunt
+étranger alimenté par la fuite des capitaux, le lien direct s’opère en sens inverse : les détenteurs
+d’actifs privés commencent par déplacer les fonds sur un compte offshore, avant de réemprunter
+l’argent auprès de cette même banque, une manœuvre permettant de blanchir l’argent, en dis-
+simulant l’origine des fonds en question afin de n’éveiller aucun soupçon sur l’autorité publique.
+Outre ces liens directs, il en existe des indirects qui vont également dans les deux sens. Dans
+le cas de la fuite des capitaux induite par la dette, l’emprunt étranger explique la fuite des
+capitaux mais ne produit pas la fuite des capitaux. L’explication provient de deux facteurs. A
+court terme, l’entrée de fonds entraîne une appréciation de la monnaie nationale. En revanche,
+à long terme, à mesure que le stock de dette s’accumule, la perspective que le transfert net
+devienne négatif augmente aussi, induisant une dépréciation de la monnaie locale. En plaçant
+les capitaux sur des comptes offshore en monnaie forte tandis que la valeur de la monnaie locale
+estgonfléeartificiellement,lesauteursdelafuitedescapitauxseprotègentnonseulementcontre
+le risque de change, mais ils engrangent aussi un bénéfice en cas de dévaluation. De même, un
+endettement croissant peut éveiller parmi les individus à capacité de financement la crainte
+qu’une augmentation d’impôts ou d’autres réglementations ne dévalorisent les actifs détenus
+dans le pays, les incitant ainsi à placer leurs fonds à l’extérieur. Cette pratique est très répandue
+dans le secteur pétrolier. Enfin, dans le cas de l’emprunt induit par la fuite des capitaux, c’est la
+fuite des capitaux qui génère une demande de fonds de remplacement, lesquels sont empruntés
+auprès des bailleurs de fonds, puisque l’assiette fiscale est érodée par la fuite des capitaux. Les
+autorités locales ont alors recours aux prêts étrangers pour financer les dépenses publiques.
+Hormis la dette extérieure, d’autres facteurs peuvent contribuer à accentuer la fuite des
+capitaux.
+1.1.2 L’environnement institutionnel
+Le cadre institutionnel apparaît comme un paramètre fondamental dans notre étude, d’au-
+tant plus que le Cameroun est classé parmi les pays les plus corrompus avec un cadre institu-
+tionnel assez faillible, selon Transparency International (TI)6.
+6. En 1998, sur 85 pays classés, le Cameroun occupe la dernière place pour être considéré comme le
+premier pays corrompu de l’échantillon choisi avec un indice de perception de la corruption (IPC) de
+8
+
+--- Page 10 ---
+Théoriquement, on devrait s’attendre à ce qu’un bon climat des affaires et un bon environ-
+nement institutionnel soit propices aux afflux massifs de capitaux. Les fonds étrangers affluent
+dans le pays pendant que les fonds locaux restent. En présence d’un environnement défavorable
+aux affaires, les capitaux étrangers désertent le pays et les fonds locaux partent à la quête de
+meilleurs rendements en dehors des frontières.
+Le graphique 2 montre ainsi que l’indice de perception de la corruption n’a pas beaucoup
+changé dans le temps mais le rang mondial du Cameroun s’est progressivement dégradé dans le
+temps, indiquant ainsi une stagnation du pays et une amélioration des compétences des autres
+pays en matière de lutte contre la corruption. De plus, les périodes marquées par un indice de
+corruption faible sont globalement associées à des périodes de faibles fuites de capitaux. Les
+récentes années caractérisées par un niveau d’endettement préoccupant sont aussi associées à un
+niveau de fuite important et une dégradation du classement mondial du Cameroun en matière
+de lutte contre la corruption.
+Graphique 2 – Corruption et fuite des capitaux
+Calculs des auteurs et données de Transparency International
+Cependant,depuis2014,deuxcrisessécuritairesetasymétriques(BokoHaram7,criseanglophone-
+NOSO8)auxfrontièresdupaysfontsupporterauCameround’énormescoûtssurleplanhumain,
+1,4 sur 10. Ce qui est d’ailleurs reconduit en 1999, avec un score de 1,5 sur 10; le Cameroun occupe
+la 99ème place sur 99 pays considérés dans le classement de TI. Depuis lors, le Cameroun est resté au
+bas de l’échelle et occupe toujours un rang défavorable sur les pays concernés par le sondage de cette
+organisation. En 2021 il est classé 144ème sur 180 avec un score de 27/100.
+7. C’est un groupe armé terroriste né aux confins du Nigéria et qui sévit sérieusement dans frontières
+septentrionales du pays depuis 2014.
+8. Ils’agitdelacriseorchestréeparcertainsgroupesséparatistesdanslesrégionsduNord-Ouestetdu
+Sud-Ouestdupaysquiréclamentl’indépendancedecespartiesduterritoire,etfontrecoursauxviolences
+comme observé depuis 2016.
+9
+
+--- Page 11 ---
+matériel et partant, économique; le ressentiment d’ une instabilité politique et sociale engendre
+une augmentation de la fuite des capitaux depuis 2018 qui s’ établit de nouveau à 13,3% et
+11,2% du PIB respectivement en 2019 et 2020. Le comportement du secteur public avec un
+respect approximatif des lois et règles établies peut également avoir un impact sur la fuite des
+capitaux avec le risque et l’incertitude en ce qui concerne l’environnement politique et les effets
+escomptés de l’orientation des politiques adoptées.
+1.1.3 Les flux de capitaux
+Les flux de capitaux issus des transactions commerciales ou financières peuvent également
+jouer un rôle important dans la fuite des capitaux.
+De plus, tous les mouvements de capitaux ne sont pas toujours traçables et ne sont pas
+toujours acquis de façon honnête : certains proviennent de fraudes, de pots-de-vin et de contrats
+artificiellement gonflés. Aussi, les mouvements transfrontaliers de capitaux ne sont pas tous
+déclarés aux autorités monétaires : certains passent par de fausses factures, par des transferts
+monétaires clandestins ou par la contrebande d’espèces.
+L’acquisition illicite de capitaux et leurs mouvements sont interconnectés. Ceux qui accu-
+mulent des fortunes par des moyens douteux choisissent généralement d’envoyer les capitaux
+hors du pays, dans des paradis fiscaux. Ainsi, ils créent un besoin de financement qui est comblé
+par le recours à la dette qui elle-même, dans un contexte institutionnel défaillant marqué par
+la corruption, l’instabilité politique et sociale et une réglementation fragile peut se retrouver
+détournée sous forme de fuite de capitaux. Il s’en suit donc un cercle vicieux entre la fuite des
+capitaux et l’endettement encore connu comme phénomène de porte financière tournante : les
+flux de capitaux émanant de prêteurs étrangers et destinés au financement d’investissements
+locaux, entrent dans le pays et ressortent sous forme de fuite des capitaux créant ainsi un besoin
+de financement qui pourrait se combler par de nouveaux emprunts.
+Pour réduire les sorties illicites de capitaux, il faut rappeler que la BEAC9 a renforcé son
+dispositif de contrôle des capitaux dans le cadre de la règlementation des changes depuis 2017.
+L’application rigoureuse de cette règlementation a permis de mieux contrôler les transferts sor-
+tants et de rejeter des dossiers frauduleux et non conformes d’une valeur d’environ 229,1310
+milliards de FCFA entre janvier et novembre 2017 seulement, sur un total de 1296,56 milliards
+de FCFA.
+1.1.4 Les ressources naturelles
+Les recettes issues de l’extraction des ressources naturelles peuvent aussi servir à alimenter
+la fuite des capitaux sous trois formes. Il peut s’agir entre-autres de primes de signature qui
+sont des paiements ponctuels effectués par les entreprises en échange de droits d’exploitation,
+ou encore de redevances ou de taxes sur les exportations pétrolières et minières, ou enfin, de
+prêts adossés à des ressources naturelles, tels que les prêts adossés à des actifs pétroliers avec
+tout le risque de corruption lié à l’opacité de leur gestion. Il faut rappeler que, depuis 2017, la
+9. Banque des Etats de l’Afrique Centrale.
+10. VoirétudedeY.B.EBEMOLINA:«l’orientationdelapolitiquemonétaireen2017»,Lettredela
+Recherche n°3, Janvier 2018. https://www.beac.int/wp-content/uploads/2018/05/LR_03_2018.pdf
+10
+
+--- Page 12 ---
+BEAC essaye d’étendre l’application de la règlementation des changes au secteur pétrolier de
+la CEMAC mais jusqu’à présent, certains opérateurs de ce secteur restent réticents malgré les
+accords issus des différentes réunions.
+Enoutre,lacaractéristiquestructurelleduCameroun,quiestunpaysbiendotéenressources
+naturelles (pétrole, bois, etc.) rendrait le pays vulnérable à la fuite des capitaux. Le graphique
+3, ci-dessous indique la structure des rentes naturelles et montre que depuis 1980, les rentes
+pétrolière et forestière représentent à elles seules l’essentiel de la rente naturelle, soient respecti-
+vement 74,6% et 21,6% en moyennes. En analysant le graphique 4, nous constatons qu’au début
+des années 1980, où les rentes pétrolières sont au niveau le plus élevé avec un pic de 21% du PIB
+en 1984, la fuite des capitaux connait une tendance à la hausse. Il en est de même sur plusieurs
+années et notamment les années récentes.
+Graphique 3 – Structure des rentes, pétrole et fuite des capitaux
+Source : Auteurs à partir des données de la BEAC et des administrations nationales.
+1.2 Revue de littérature
+Plusieurs études, à l’instar de celles de Boyce (1992), Kant (1996), Chipalkatti Rishi (2001),
+Beja(2006),Fofack(2009),NdikumanaetBoyce(2013),Gankouetal.(2016)suggèrentuneforte
+corrélation entre la dette extérieure et la fuite des capitaux. Dans cette section, nous donnons
+un aperçu de la littérature théorique et empirique existante.
+Théoriquement, on peut distinguer les auteurs qui mettent directement en liaison la dette
+extérieure et la fuite des capitaux à ceux qui en établissent le lien indirect. Les liens directs
+supposent que la fuite des capitaux est alimentée par la dette extérieure. C’est le cas lorsque
+les autorités s’appuient sur la dette extérieure pour financer l’accumulation d’actifs privés par
+le biais de mécanismes d’investissement de capitaux illicites (Ndikumana et Boyce 2013). A l’in-
+verse, la dette extérieure peut être alimentée par la fuite des capitaux; ce mécanisme fonctionne
+lorsque les détenteurs d’actifs privés transfèrent leurs fonds à une banque offshore, avant de
+les prêter au même pays d’où proviennent les fonds. Boyce (1992) a remarqué que les créan-
+ciers étrangers peuvent être disposés à combler le déficit (de financement) créé par la fuite des
+capitaux s’ils perçoivent des avantages comparatifs. Lessard et Williamson (1987) appuient ce
+11
+
+--- Page 13 ---
+point de vue en notant que les disparités dans les plafonds d’imposition et de taux d’intérêt
+peuvent entraîner des différences systématiques dans les rendements ajustés en fonction des
+risques nationaux et étrangers.
+La liaison indirecte fonctionne également sur deux canaux. Lorsque la fuite des capitaux est
+induiteparladetteextérieure,onanticipel’effetdeladetteextérieuresurlafuitedescapitauxà
+courtetàlongterme.SelonlaMorganGuarantyTrustCompanyBank(1986;1988),desfacteurs
+indirects tels qu’une faible croissance du PIB, combinés à des taux de change surévalués et à une
+charge fiscale élevée, non seulement provoquent la fuite des capitaux, mais génèrent également
+le besoin de financement externe, augmentant ainsi le taux d’endettement extérieur. En effet,
+un scénario de la nature indirecte du lien est que l’augmentation de la dette peut contribuer à la
+détérioration des conditions économiques locales, détériorant le profil d’investissement du pays,
+déclenchant ainsi la fuite des capitaux (Henry, 1986; Cuddington, 1987 et Ajayi, 1995). Dans le
+cas où la dette extérieure est alimentée par la fuite des capitaux, l’explication vient du fait que
+c’estlafuitedescapitauxenelle-mêmequicréelebesoindefinancementsupplémentaire,etdonc
+augmentelespassifsextérieurs.C’estlecaslorsqu’unemauvaisegestiondesressourcesnationales
+créeunenvironnementrisquéetincertain.Parconséquent,lafuitedescapitauxapparaîtcomme
+une réponse à de telles conditions. Avec un environnement politique et institutionnel incertain,
+le seul recours au financement de l’économie du pays bien doté en ressources naturelles n’est
+autre que l’endettement extérieur (Dooley et Kretzer, 1994).
+Empiriquement, le débat entre les partisans de la relation bidirectionnelle (PFT) et ceux
+d’un lien unilatéral entre la dette extérieure et la fuite des capitaux persiste. Les faits ont
+largement montré que la dette extérieure est fortement liée à la fuite des capitaux, bien qu’avec
+descontroverses.Aumilieudesannées80,Cuddington(1986)aconstatéquelafuitedescapitaux
+du Mexique était fortement corrélée à sa dette publique. Dans le même ordre d’idées, Hermes
+et Lensink (1992) ont indiqué que la dette publique extérieure a contribué de 75% à 91% à
+l’évolution de la fuite des capitaux. Vos (1992) trouve que le stock de dette n’a pas un impact
+statistiquement significatif sur la fuite des capitaux des Philippines. Selon lui, c’est uniquement
+le flux de dette qui est significatif pour ce pays. Ajayi (1995) établit une relation significative
+entre la fuite des capitaux et la dette extérieure pour le cas du Nigeria. Ndikumana et Boyce
+(2002)ontconstatéqueladetteextérieurede30paysendéveloppementd’Afriquesubsaharienne
+(ASS) explique 80% des sorties de capitaux de ces pays. En plus, si l’on se réfère à Boyce et
+Ndikumana (2001) et Ndikumana et Boyce (2013), pour le cas de l’Afrique, la dette extérieure
+est la principale cause de la fuite des capitaux. L’Afrique serait ainsi créditeur net vis-à-vis de
+l’extérieur. Selon Gankou et al. (2016), l’hypothèse de PFT ne semble pas étayée dans le cas
+du Cameroun sur la période 1970-2010; les auteurs trouvent qu’une augmentation de la dette
+extérieure encourage la fuite des capitaux, pendant qu’il n’y a pas d’impact statistiquement
+significatif de la fuite des capitaux sur la dette extérieure.
+Chipalkatti et Rishi (2001) valident l’hypothèse de la porte financière tournante dans le
+cas de l’Inde sur la période 1971-1997. Cette relation avait préalablement été établit par Boyce
+(1992)pourlesPhilippinessurlapériodeallantde1962à1986.Larelationbidirectionnelleentre
+fuite des capitaux et endettement extérieure est aussi établie dans les travaux de Beja (2006)
+pour le cas des pays de l’Asie du Sud-Est.
+Sur la base de ces illustrations, l’analyse empirique de la relation entre la dette extérieure et
+la fuite des capitaux s’avère utile. La section suivante développe les modèles économétriques et
+les techniques d’estimation utilisés tout au long de notre recherche.
+12
+
+--- Page 14 ---
+2 Analyse économétrique de la porte financière tour-
+nante
+2.1 Le modèle empirique
+Pour évaluer la causalité entre les flux de capitaux et la fuite des capitaux, nous nous
+inspirons des travaux de Chipalkatti et Rishi (2001) et optons pour un modèle principal à
+équations simultanées. Notre réflexion s’articule sur le lien (vice-versa) entre la dette extérieure
+etlafuitedescapitaux,entestantl’hypothèsedePFT.Nousutilisonsdonclemodèleci-dessous:
+
+I J
+DEX
+t
+= α
+a+X
+i=1δ iDEX t−i+
+jX
+=1δ jDEX
+t−j
++(cid:15)
+a,t
+(1)
+
+FC
+t
+= α
+b+XI
+δ iFC
+t−i+XJ
+δ jFC
+t−j
++(cid:15)
+b,t
+(2)
+i=1 j=1
+DEX correspondàladetteextérieure.LavariableFC mesurelafuitedescapitaux,α etα
+t t a b
+sont les constantes de nos modèles, et (cid:15) et (cid:15) les termes d’erreurs. Selon l’hypothèse de PFT,
+a,t b,t
+nousnousattendonsàcequelavariableFC affectepositivementetsignificativementlavariable
+t
+DEX (équation 1), mais en retour la variable DEX devrait aussi avoir un effet significatif sur
+t t
+la variable FC (équation 2). Par la suite, nous introduisons un ensemble de variables de contrôle
+qui pourraient avoir un effet significatif soit sur la dette extérieure, soit sur la fuite des capitaux.
+Cela permet de mieux appréhender le lien entre la dette extérieure et la fuite des capitaux, et
+éviter tout biais de variables omises. La spécification suivante est alors adoptée :
+
+I J J
+DEX
+t
+= α
+a+X
+i=1δ iDEX t−i+
+jX
+=1δ jDEX
+t−j
++
+jX
+=1β jZ
+t−j
++(cid:15)
+a,t
+(3)
+
+FC
+t
+= α
+b+XI
+δ iFC
+t−i+XJ
+δ jFC
+t−j
++XJ
+β jZ
+t−j
++(cid:15)
+b,t
+(4)
+i=1 j=1 j=1
+Dans les équations (3) et (4), Z représente un ensemble de variables de contrôle dont
+t−j
+nous discutons de l’intérêt de leur introduction dans notre modèle et des signes attendus dans
+la section suivante.
+2.2 Données et stratégies d’estimations
+Cette étude couvre la période 1980-202011. Les données utilisées dans ce travail proviennent
+denoscalculsetdesbasesdedonnéesdelaBanqueMondiale(WDI,WITS),duFMI(WEO,IFS,
+GFS), etc. Les données concernant la fuite des capitaux sont calculées par nos soins en adoptant
+la méthodologie de Boyce et Ndikumana (2012), tandis que celles relatives à la structure des
+11. Notrehorizontemporelinitialétait1970-2020maisilaétéréduità1980-2020enraisondumanque
+de données pour certaines variables.
+13
+
+--- Page 15 ---
+exportations proviennent principalement des administrations publiques et de la BEAC12.
+Parmi les variables explicatives, l’on note les variables dépendantes retardées DEX et
+t−1
+(FC ), dont nous attendons un impact positif sur la fuite des capitaux (Boyce et Ndikumana,
+t−1
+2002).NousnousattendonsintuitivementàcequeletauxdecroissanceduPIB(CRO)décourage
+lessortiesdecapitaux(NdikumanaetBoyce,2003et2011;Ndikumana,BoyceetNdiaye,2015).
+Une variable toute aussi importante dans l’analyse de la fuite des capitaux à savoir l’ouverture
+du compte capital est aussi prise en compte dans notre modélisation. Nous introduisons séquen-
+tiellement d’autres variables de contrôle (service de la dette, ouverture commerciale, termes de
+l’échange), selon la spécification retenue. En raison du large horizon temporel de notre échan-
+tillon, nous commençons par faire des tests de racine unitaire, afin d’explorer la stationnarité de
+nos variables et éviter ainsi toute régression fallacieuse. Pour ce faire, nous appliquons les tests
+de Dickey-Fuller Augmenté (ADF)13. De la conclusion de nos tests de racine unitaire, différents
+scénarios peuvent être envisagés :
+— Premièrement, si nos principales variables sont stationnaires : nous estimons alors les
+équations (1) à (4) en utilisant soit la technique VAR ou la méthode des variables ins-
+trumentales comme les triples moindres carrés (3SLS) ou la méthode de régression sans
+corrélation apparente (SURE);
+— Deuxièmement, si les variables contiennent une racine unitaire. Nous effectuons alors
+un test de co-intégration en utilisant la méthode Engel-Granger (équations 1 et 2) ou
+l’approche de Johansen (équations 3 et 4). A cet effet, si les variables contiennent une
+racine unitaire et sont co-intégrées du même ordre, nous estimons alors un modèle à
+correction d’erreur (MCE) pour capturer la relation de court terme ainsi que la relation
+de long terme entre nos variables d’intérêt :
+∆FC = µ(cid:15)ˆ +PK Φ ∆(FC )+PS γ ∆(DEX )+PJ δ ∆Z +ω (5)
+t t−1 k=1 k t−k s=0 s t−s j=0 j t−j t
+Avec : (cid:15)ˆ = FC −α −δ DEX
+t−1 t−1 a 1 t−1
+ω est un bruit blanc, et (cid:15)ˆ le terme de déséquilibre résultant de la relation de co-
+t t−1
+intégration. Le paramètre µ mesure la vitesse d’ajustement du déséquilibre à long terme.
+Si nos variables sont co-intégrées, mais avec un ordre différent d’intégration, il semble
+plus approprié d’estimer un modèle autorégressif à retards échelonnés (ARDL(p, q, r))
+spécifié ci-dessous :
+FC = α +PP α (FC )+PQ β (DEX )+PR γ Z +µ (6)
+t 0 J=1 j t−j j=0 j t−j j=0 j t−j t
+— Finalement,silesvariablescontiennentuneracineunitaire,maisnesontpasco-intégrées,
+nousutilisonsalorslesprocéduresdestationarisationappropriéesetutilisonssimplement
+la méthode des MCO ou la méthode VAR.
+12. Banque des Etats de l’Afrique Centrale.
+13. Nous utiliserons alternativement les tests de racine unitaire de Phillips et Perron et celui de
+Kwiatkowski-Phillips-Schmidt et Shin.
+14
+
+--- Page 16 ---
+3 Résultats et interprétations
+3.1 Propriétés des données et du modèle
+Il ressort de nos tests reportés dans le tableau 3 que les principales variables utilisées dans
+nos régressions présentent des ordres d’intégration différents.
+Les tests d’ADF montrent que certaines variables (la dette extérieure, ainsi que sa com-
+posante publique, la dette extérieure de court terme, la rente pétrolière et la rente naturelle)
+contiennent des racines unitaires. En d’autres termes ces variables ne sont pas stationnaires. Par
+ailleurs, les variables fuite des capitaux réelle, dette extérieure privée, rente forestière et rente
+des autres ressources naturelles) sont des variables stationnaires. Cependant, les variables insti-
+tutionnelles(instabilitépolitiqueetsocialeetl’existencedelaloietdesrègles)sontstationnaires
+pendant que la corruption présente une racine unitaire.
+Tableau 2 – Tests de racines unitaires
+Stationnarité des variables Stationnarité des variables en
+à niveau différence première
+Variables Sans tendance Avec tendance Sans tendance Avec tendance
+Fuite des Capitaux -5,038108*** -5,482339*** - -
+Dette Extérieure -1,053241 -1,28242 -4,804866*** -4,783742***
+Dette Extérieure pri- -2,731199* -3,691166* - -
+vée
+Dette Extérieure pu- -1,077557 -1,265272 -4,875962*** -4,854204***
+blique
+Dette à court terme -1,375927 -1,627953 -5,367458*** -5,269465***
+Rente pétrolière -2,644846* -2,609138 -7,083543*** -7,079387***
+Rente forestière -3,631338*** -3,582026** - -
+Autres rentes -4,307626*** -4,248922*** - -
+Rente totale -2,851754* -2,825012 -7,164203*** -7,142241***
+Corruption -1,709154 -1,758931 -6,135428*** -6,052169***
+Instabilité politique -3,301186** -3,260836* - -
+Loi -7,646015*** -7,883132*** - -
+Ouverture -2,207162 -2,177354 -5,769714*** -5,684662***
+Croissance -1,393611 -1,380471 -5,818064*** -5,789478***
+Source:Calculsdesauteurs.Notes:NousutilisonslestestsderacineunitairedeDickey-FullerAugmenté
+(ADF) et en guise de robustesse, nous utilisons des méthodes alternatives de Phillips Perron et KPSS.
+∗∗∗; ∗∗; ∗ indiquent respectivement la significativité au seuil de 1%; 5%; et 10%.
+Compte tenu du pic observé dans la série de la fuite des capitaux en 2001 et de l’évolution
+concordante de la dette extérieure sur la même période, nous effectuons au préalable un test de
+Chow dont les résultats sont consignés dans le tableau ci-dessous afin de détecter un point de
+rupture structurelle.
+15
+
+--- Page 17 ---
+Tableau 3 – Test de rupture structurelle de Chow
+Chow Breakpoint Test : 2001
+Null Hypothesis : No breaks at specified breakpoints
+Varying regressors : All equation variables
+Equation Sample : 1 41
+F-statistic 2,304735 Prob. F(2,37) 0,1139
+Log likelihood ratio 4,813804 Prob. Chi-Square(2) 0,0901
+Wald Statistic 4,609469 Prob. Chi-Square(2) 0,0998
+Source:Travauxdesauteurs.Note:F héorique(2,37)=3,23;onadonc:F <F ,soit:2,304
+t stat théorique
+< 3,23.
+Les résultats du test indiquent qu’on ne peut pas rejeter l’hypothèse nulle d’absence de
+rupture structurelle. Il n’existe pas de rupture de tendance en ce point précis. Eu égard au
+précédent résultat, nous estimons la relation entre la dette extérieure et la fuite des capitaux.
+Pour cela, l’on commence par présenter des estimations naïves des équations (1) et (2), utilisant
+une spécification par la méthode VAR. Nous utilisons la spécification VAR structurelle avec une
+identification récursive14 et une contrainte de signe15 .
+3.2 La relation dette extérieure-fuite des capitaux : une ap-
+proche SVAR
+Les résultats de l’estimation du SVAR confirment l’hypothèse de PFT et donc de la relation
+bidirectionnelle entre la dette extérieure et la fuite des capitaux.
+14. Nous prenons la dette extérieure ici comme la variable la plus exogène.
+15. Lacontraintedesigneimposéeicisupposequeladetteextérieurepeutêtreaffectéeparlafuitedes
+capitaux à court terme.
+16
+
+--- Page 18 ---
+Graphique 4 – Réponse de la dette extérieure à un choc positif sur la fuite des capitaux
+Source : Auteurs à partir de la boite à outil RISE et Matlab. Notes : les fonctions de réponse impulsion-
+nelles sont obtenues grâce à 10 000 réplications de bootstrap compte tenu de la faiblesse de l’échantillon.
+Les intervalles de crédibilités sont rangées en pourcentage ainsi qu’il suit : [30, 50, 68, 90].
+Graphique 5 – Réponse de la fuite des capitaux à un choc sur la dette extérieure
+Source : Auteurs à partir de la boite à outil RISE et Matlab. Notes : les fonctions de réponse impulsion-
+nelles sont obtenues grâce à 10 000 réplications de bootstrap compte tenu de la faiblesse de l’échantillon.
+Les intervalles de crédibilités sont rangées en pourcentage ainsi qu’il suit : [30, 50, 68, 90].
+Il ressort de cette estimation qu’ à l’issue d’un choc positif sur la fuite des capitaux, la
+dette extérieure n’ a que 50% de chance d’ augmenter, ce qui dénote d’ une relative faible
+significativité de la fuite des capitaux sur la dette. Cependant, une augmentation de la dette
+entraine une augmentation significative de la fuite des capitaux avec 90% de chance au cours des
+trois premières années. Ces résultats confirment dans l’ensemble l’hypothèse de PFT. De plus,
+la décomposition historique (Graphique 5 ci-dessous) des chocs montre au cours des récentes
+années qu’ un accroissement de la dette contribue positivement à l’accroissement de la fuite des
+capitaux mais avec un niveau plus faible que dans les années 94.
+17
+
+--- Page 19 ---
+Graphique 6 – Réponse de la fuite des capitaux à un choc sur la dette extérieure
+Source : Auteurs à partir de la boite à outil RISE et Matlab
+Il est important de noter que la spécification VAR adoptée ici nous permet de ne décrire
+qu’ une relation de court terme entre la dette extérieure et la fuite des capitaux. Une autre mé-
+thode permettant d’ estimer l’hypothèse de PFT est l’approche ARDL. Cette dernière possède
+l’avantage de combiner des variables intégrées de différents ordres dans la même spécification,
+contrairement aux modèles VAR qui nécessitent d’avoir des variables stationnaires ou une sta-
+bilité du VAR. Plus important encore, la modélisation ARDL permet de décrire la dynamique
+de long terme qui existerait entre la dette extérieure et la fuite des capitaux, comparativement
+à la modélisation VAR qui ne décrit qu’une relation de court terme.
+3.3 La relation dette extérieure-fuite des capitaux : une ap-
+proche ARDL
+Le tableau 4 présente les résultats de l’estimation du premier modèle (équations 1 et 2). No-
+tons que cette modélisation ARDL est préférable à la modélisation VAR précédemment utilisée.
+Enpremierlieu,nousnotonsqu’ilexisteunerelationdelongtermeentrelafuitedescapitaux
+et la dette extérieure.
+Lacolonne2dutableau4donnel’impactdeladetteextérieuresurlafuitedescapitaux.Nous
+notons tout d’abord que le niveau de fuite des capitaux passé affecte négativement l’actuel. Plus
+important encore, le coefficient positif et statistiquement significatif de la dette extérieure révèle
+qu’une hausse de la dette extérieure encourage la fuite des capitaux. Ce résultat a également été
+confirmé avec la modélisation VAR précédemment utilisée. Ce phénomène peut être quantifié de
+la manière suivante : une hausse d’un dollar de la dette extérieure entraine une augmentation
+de la fuite des capitaux d’environ 50 centimes de dollar16 . Ce phénomène s’observe sur le court
+terme. Cet effet accélérateur de la dette extérieure sur la fuite des capitaux s’estompe au fil du
+temps et finit par disparaitre sur le long terme.
+16. L’élasticité de variation de la fuite des capitaux suite à une augmentation d’un dollar de dette
+extérieure s’obtient ainsi : 49,947 = (0,472/0,985)*100 (Tableau 4, colonne 2). Le même calcul n’est pas
+indiqué pour l’élasticité de variation de la dette extérieure suite à une augmentation d’un dollar de fuite
+des capitaux du fait de la non significativité de la dette extérieure dans l’équation 1.
+18
+
+--- Page 20 ---
+Tableau 4 – Estimations ARDL des hypothèses de la porte financière tournante
+Variable dépendante Dette extérieure Fuite des capitaux
+1 2
+FC(t-1) 0,322* -0,945***
+(0,146) (0,177)
+DEX(t-1) -0,073 0,013
+(0,062) (0,072)
+∆[FC(t − 1)] 0,300** -
+(0,115) -
+∆[DEX(t − 1)] 0,132 0,472**
+(0,185) (0,189)
+Constant 1,746 14,591**
+(3,975) (8,166)
+MCE (-1)* -1,0025 (0,038)*** -1,003 (0,054)***
+R2 0,53 0,6
+Observations 39 37
+Log LL -147,493 -146,055
+F-test (stat) 8,95 9,47
+F-test (p-value) 0 0
+Source : Auteurs. Note : Significativité ∗ 10%, ∗∗ 5% et ∗∗∗ 1%. Les écarts-types sont donnés entre
+parenthèses.LastatistiqueissuedutestdeWald(X)estau-dessusdelabornesupérieuredutestdeBond.
+Ainsi, nous rejetons l’hypothèse nulle d’absence de relation de long terme entre la fuite des capitaux et
+la dette extérieure. ∆ indique la différence première.
+Tableau 5 – Test Wald découlant du test de l’existence d’une relation de long terme entre les variables
+du modèle (Bound test)
+Variabledépendante Fonction Wald Statut de la cointé-
+gration
+OUI
+Fuitedescapitaux(FC) F(FC,FC(t-1),DEX(t-1),∆DEX(t-1)) 12,264***
+Il existe une rela-
+tion de long terme
+1% 5% 10%
+Valeurs critiques asymptotiques I(0) I(1) I(0) I(1) I(0) I(1)
+3,41 4,68 2,62 3,79 2,26 3,35
+Notes : ∗∗∗; ∗∗; ∗ indiquent respectivement la significativité au seuil de 1%; 5%; et 10%. Les valeurs
+asymptotiques proviennent de Pesaran et al.(2001), p. 300,Table CI (iii) Case III
+19
+
+--- Page 21 ---
+Le tableau 4 donne aussi l’estimation de l’impact de la fuite des capitaux sur la dette exté-
+rieure (colonne 1). Les résultats de cette relation semblent ne pas corroborer ceux de Gankou et
+al. (2016) car à court terme, la fuite des capitaux a un impact positif et statistiquement signifi-
+catifsurladetteextérieure,etceteffetsembleseréitérersurlelongterme.L’hypothèsedeporte
+financière tournante est donc confirmée pour le cas du Cameroun sur la période 1980-2020. Cela
+peut être justifié en partie par la récente actualité, avec les suspicions de détournement dans
+la gestion des fonds alloués à la riposte au Coronavirus comme souligné par le rapport de la
+Chambre des Comptes qui déplorait déjà beaucoup d’écarts entre les projets et les réalisations.
+Nous retrouvons ainsi les résultats de Chipalkatti et Rishi (2001) pour le cas de l’Inde.
+Les tests de diagnostic réalisés consignés en annexe 1, pour évaluer la robustesse du modèle
+choisi, récapitulés dans le tableau 11 nous présentent toutes des probabilités supérieures à 5%,
+révélanttouràtourque:lesrésidusnesontpasautocorrélées,iln’yapasd’erreurdespécification
+du modèle en ce qui concerne la forme fonctionnelle, les résidus suivent une loi normale et enfin
+queleserreurssonthomoscédastiques.Lecoefficientdelaforcederappelaprèsunan(MCE(-1))
+serévèlenégatif,etstatistiquementsignificatif.Cependant,lavaleurdeMCEsensiblementégale
+à -1,003 selon les deux spécifications du modèle simultané, informe de la vitesse des processus
+estimés de s’aligner à l’équilibre après un choc à court terme. En effet, 100% de déséquilibre de
+ce choc à l’année antérieure est corrigé après un an. Autrement dit, une déviation de l’équilibre
+à long terme suite à un choc de court terme pourrait être corrigée approximativement à 100%
+après un an.
+Enfin, l’étude de la stabilité de notre modèle, est réalisée à l’aide des tests du Cusum et
+du Cusum square représentés respectivement par le graphique 8 en annexe 2, qui montrent
+que le modèle est globalement stable sur sa forme structurelle, et donc nous pouvons conclure à
+l’hypothèsedestabilitédescoefficientsdelarégression.L’annexe3quantàluiprésentelecritère
+d’information Aikake (graphique 9) conduisant à la sélection du modèle ARDL (1, 3) optimal
+sur la base du critère bayésien de Schwarz (SBC).
+Etant donné que nous observons un impact causal et bidirectionnel de la dette extérieure
+sur la fuite des capitaux, nous proposons de prendre en compte différents aspects de la dette
+extérieure. Dans ce qui suit, nous présentons les résultats d’estimation de l’impact de la dette
+extérieure de court terme sur la fuite des capitaux. De même, nous distinguons les effets de la
+dette extérieure privée et ceux de la dette extérieure publique.
+3.4 Dette extérieure et fuite des capitaux : Effets de composi-
+tion
+Nous notons d’abord que la dynamique de la fuite des capitaux précédemment observée est
+persistante. Cet effet négatif observé au Cameroun proviendrait d’un effort indirect de lutte
+contre la fuite des capitaux, passant par une amélioration de l’environnement institutionnel ou
+un contrôle des mouvements de capitaux.
+D’après la colonne (1), la dette extérieure contractée sur le court terme contrairement aux
+résultats de Gankou et al. (2016) impacte positivement et significativement la fuite des capitaux
+sur la période 1980-2020. En s’appuyant sur la colonne (2), nous notons que la dette extérieure
+privée et la dette extérieure publique affectent également la fuite des capitaux.
+Cettedécompositiondeladetteextérieuretotaleencomposantesprivéeetpublique(colonne
+20
+
+--- Page 22 ---
+2) mène à la conclusion selon laquelle l’effet accélérateur de la dette extérieure sur la fuite des
+capitaux semble induite par toutes les composantes (privée et publique) de la dette extérieure
+contrairement aux travaux de Gankou et al. (2016) qui n’identifiaient que le rôle nocif de la
+dette extérieure privée.
+Tableau 6 – Fuite des capitaux et dette extérieure : effets de composition
+Fuite des capitaux Fuite des capitaux
+1 2
+FC(t-1) -0,93*** FC(t-1) -1,163***
+(0,223) (0,221)
+DEX_ct(t-1) 0,992** DEX_priv (t-1) 2,496**
+(0,695) (0,937)
+∆[FC(t-1)] 0,077 DEX_pub (t-1) -0,005
+(0,168) (0,063)
+∆[DEX_ct(t-1)] 1,819 ∆[FC(t-1)] 0,084
+(1,549) (0,152)
+∆[DEX_priv(t-1)] -1,838
+(2,249)
+∆[DEX_pub (t-1)] 0,426*
+(0,225)
+R2 0,45 0,61
+Observations 39 39
+Log LL -159,47 -152,44
+F-test (stat) 8,69 9,384
+F-test (p-value) 0 0
+3.5 Dette extérieure et fuite des capitaux : Effets des rentes
+Le Cameroun est un pays connu pour être bien doté en ressources naturelles, notamment en
+pétroleetgaz.Ilestalorsainsiintéressantd’analyserlelienéventuelentrelesrentesnaturelleset
+la fuite des capitaux. Le tableau 7 ci-dessous présente les résultats associés. Nous observons que
+l’introduction de ces rentes augmente significativement le pouvoir explicatif du modèle. Ainsi, la
+dette extérieure et les rentes naturelles prises ensemble expliquent 90% de l’évolution de la fuite
+des capitaux. Les résultats de l’estimation valident également l’inertie caractérisant l’évolution
+de la fuite des capitaux. Le niveau actuel de fuite des capitaux, estimé en pourcentage du PIB,
+est fortement et négativement corrélé, au seuil de signification de 1%, avec le niveau antérieur
+de fuite des capitaux. Cette relation peut être interprétée comme une tendance à la baisse de la
+fuite des capitaux observée au Cameroun sur la période 1980-2020.
+21
+
+--- Page 23 ---
+En nous appuyant sur la colonne (1), nous observons une relation de long terme entre la
+fuite des capitaux les rentes pétrolière et forestière. De façon quantitative, la fuite des capitaux
+augmente de 1,06 point de pourcentage, suite à une hausse de la rente forestière de 1 point de
+pourcentage du PIB, cette augmentation est sensiblement quatre fois plus proportionnelle à une
+hausse de la rente pétrolière. Ces résultats observés sur le long terme sont similaires sur le court
+terme, avec la fuite des capitaux qui se révèle deux fois plus sensible à une hausse de la rente
+forestière qu’à une hausse de la dette extérieure17 .
+Tableau 7 – Fuite des capitaux et rentes
+Fuite des capitaux Fuite des capitaux
+1 2
+FC(t-1) -0,992** FC(t-1) -1,017***
+(0,228) (0,203)
+DEX(t-1) 0,526*** DEX(t-1) 0,487***
+(0,083) (0,071)
+RENT_petrol (t-1) 4,207*** CRO(t-1) -0,192
+(0,917) (0,888)
+RENT_forest 1,052***
+(0,275)
+RENT_autres 10,475
+(11,719)
+∆[FC(t-1)] 1,102*** OUV (t-1) -0,065
+(0,3) (0,104)
+∆[DEX(t-1)] 0,496** ∆[FC(t-1)] 0,876***
+(0,186) (0,23)
+∆[ RENT_petrol(t-1)] 3,547** ∆[DEX(t-1)] 0,617***
+(0,936) (0,139)
+∆[ RENT_forest(t-1)] 0,927** ∆[OUV (t-1)] 0,541*
+(0,342) (0,3)
+∆[RENT_autres(t-1)] -2,606 ∆[CRO(t-1)] -1,366*
+(5,558) (0,676)
+R2 0,9 0,85
+Observations 37 35
+Log LL -120,55 -100,28
+Note : Significativité ∗ 10%, ∗∗ 5% et ∗∗∗ 1%. Les écarts-types sont donnés entre parenthèses.
+17. Les résultats interprétés sont dérivés des élasticités de long et court terme calculés sur la base des
+résultats de la colonne 1.
+22
+
+--- Page 24 ---
+Nousré-estimonslemodèledebaseenintroduisantdesvariablesdecontrôletellesqueletaux
+decroissanceduPIBainsiqueletauxd’ouverture(colonne2).Lescoefficientsdescolonnes(1)et
+(2) montrent que l’évolution à la hausse de la dette extérieure provoque une intensification de la
+fuite des capitaux, allant de 4,5 à 7 points de pourcentage du PIB, suite à une hausse de la dette
+de 10 points de pourcentage du PIB18 . L’ouverture de l’économie à l’extérieur semble favoriser
+la fuite des capitaux, et les taux positifs de croissance économique, conformément aux travaux
+de Mikkelsen (1991) atténuent le phénomène de la fuite des capitaux même si cela ne s’observe
+qu’à court terme au Cameroun. Dans ce court terme, nous retrouvons un effet d’habitudes qui
+tend à encourager la fuite des capitaux, conformément aux travaux de Ndikumana et Boyce
+(2013).
+Il ressort de nos estimations que la fuite des capitaux aurait un effet positif et significatif sur
+la dette extérieure, tout comme la dette extérieure impacte positivement et significativement la
+fuite des capitaux, qui est très sensible à l’évolution des rentes pétrolière et forestière. L’hypo-
+thèse de PFT se voit ainsi confirmée au Cameroun entre 1980 et 2020. Il est aussi à souligner
+que la fuite des capitaux est quatre fois plus sensible à une hausse de la rente pétrolière, qu’à
+une augmentation de la rente forestière. Aussi, la fuite des capitaux est deux fois plus sensible à
+une hausse de la rente forestière qu’à une hausse de la dette extérieure. Cet effet accélérateur de
+la dette extérieure sur la fuite des capitaux s’effectue aussi bien à court terme qu’à long terme.
+La suite de notre investigation s’appesanti davantage sur le rôle de l’environnement politico-
+institutionnel dans la relation entre la dette extérieure et la fuite des capitaux, compte tenu du
+fait que le Cameroun est un pays riche en ressources naturelles.
+3.6 Dette extérieure et fuite des capitaux : le rôle des institu-
+tions
+Après avoir analysé l’hypothèse de la PFT, nous nous intéressons à l’influence de l’environ-
+nement institutionnel dans le lien entre la dette extérieure et la fuite des capitaux. Pour ce faire,
+nous spécifions le modèle ci-après :
+FC = α+δFC +βDEX +φ EI +φ (DEX ∗EI )+PK γ Z +µ (7)
+t t−1 t 1 t 2 t t k=1 k k,t t
+L’équation inclut la variable EI , indicateur de l’environnement institutionnel, mesuré par le
+t
+niveaudecorruption,lastabilitédugouvernement,lescontraintessurl’exécutif,etbiend’autres
+variables. La spécification adoptée dans l’équation (7) nous permet de capter deux aspects de
+l’environnement institutionnel. Dans un premiers temps, le coefficient φ mesure l’effet direct de
+1
+l’environnement institutionnel sur la fuite des capitaux. Plus important encore, le coefficient φ
+2
+capte l’effet de l’environnement institutionnel sur la relation dette extérieure-fuite des capitaux.
+Nousattendonsquelecoefficientβ soitpositifetsignificatif,ainsiladetteextérieureaccentuerai
+la fuite des capitaux. Dans ce cas, nous nous attendrons à un coefficient φ négatif. Cela voudra
+2
+dire qu’un meilleur environnement institutionnel serait un frein à la fuite des capitaux induit
+par la dette extérieure.
+Nous considérons trois aspects institutionnels et politiques tels que la corruption (COR),
+l’instabilité politique et sociale (INSTAB) et le respect de la loi et de l’ordre (LOI), que nous
+18. Leraisonnementesteffectuéentermesd’élasticitésdevariationdelafuitedescapitauxsuiteàune
+augmentation d’un dollar de dette extérieure à court terme et à long terme (colonnes 1 et 2).
+23
+
+--- Page 25 ---
+construisons en tenant compte des caractéristiques intrinsèques du pays, de son histoire, des
+cycles juridiques et politico-économiques et des chocs macroéconomiques ayant affecté le com-
+portement des agents économiques, actualisant ainsi les travaux de Gankou et al. (2016) que
+nous consignons dans les tableaux 8 et 9.
+La corruption (tableau 9) est interprétée suivant l’histoire du pays dont l’économie est tri-
+butaire du secteur public. Le phénomène s’est davantage répandu en 1993 suite à la baisse des
+salairesdesfonctionnaires(environ66%)ets’estaccentuésuivantladévaluationdufrancCFAen
+1994 sans mesures correctrices sur le niveau de revenu des agents publics. Cependant, nous sou-
+lignons que depuis 2008, les autorités contribuent à réduire activement ce phénomène, à travers
+« l’opération épervier »19 même s’il conviendrait de relever le rebondissement du phénomène
+dans le pays en 2018, avec des scandales autour de la gestion des infrastructures de la Coupe
+d’Afrique des Nations 2021 et des fonds destinés à la riposte à la Covid 19. Nous définissons
+ainsi une variable muette qui prend la valeur 0 (faible corruption) sur les périodes 1970-1992 et
+2008-2017; et la valeur 1 (corruption répandue) sur les périodes 1993-2007 et 2018-2020.
+L’instabilité politique et sociale (tableau 9 en annexe) dépend non seulement des remanie-
+ments ministériels (trente-cinq observés depuis 1982) mais surtout du Premier Ministre à la
+tête du gouvernement qui, impulse une dynamique nouvelle. La tentative de coup d’Etat (Avril
+1984),lesoulèvementpopulaire(Février2008)etl’instabilitépolitiqueetsocialedupaysobservé
+depuis2014,coïncidentavecl’avènementdenouveauxgouvernements,etconstituentunemesure
+complémentaire de la stabilité du gouvernement. Nous construisons ainsi une variable muette
+quiprendlavaleur1àchaquenominationd’unnouveaupremierministre,ouencasd’instabilité
+dans le pays, ou encore, à chaque vacance du poste (période d’instabilité); et 0 pendant la durée
+de son mandat, en cas de stabilité dans le pays (période de stabilité).
+Pour ce qui est du respect de la loi et de l’ordre, nous nous appuyons sur l’évolution de
+la Constitution du pays. Nous construisons alors une variable muette qui prend la valeur 0 en
+période de relative stabilité institutionnelle (absence de modification); et la valeur 1 en cas de
+modification de la Constitution ou d’application non consensuelle (Statut spécial des régions du
+Nord-Ouest et du Sud-Ouest). Les diverses modifications constitutionnelles du Cameroun ainsi
+que la variable LOI sont consignées dans le tableau 10 en annexe.
+Dans le tableau 8, on constate que l’environnement institutionnel importe en effet dans la
+relation entre la fuite des capitaux et la dette extérieure. La colonne (2) montre qu’un accroisse-
+ment de la dette extérieure augmente la fuite des capitaux. Cependant, la variable d’interaction
+afficheunsignepositifquipeutêtreinterprétécommesuit:unenvironnementtrèscorrompuac-
+célère la fuite des capitaux hors de l’économie nationale. Cet effet d’aggravation de la corruption
+est dû à ce que cette variable fausse l’évolution de l’environnement économique et financier et
+réduit le potentiel d’investissement et l’efficacité du gouvernement et des entreprises. A travers
+le phénomène de la corruption, par la promotion de la demande pour les paiements spéciaux et
+des pots de vin liés à des licences d’importation et d’exportation, le contrôle des changes, les
+cotisations fiscales, la protection de certains agents publics véreux, il est difficile de faire des
+affaires efficacement, et dans certains cas, l’on peut assister au retrait ou à la suspension d’un
+investissement.
+19. Opération menée sous le joug du Contrôle Supérieur de l’Etat visant à sanctionner radicalement
+tout responsable des affaires publiques ayant détourné des fonds ou s’étant enrichi de façon illicite.
+24
+
+--- Page 26 ---
+Tableau 8 – Dette extérieure et fuite des capitaux : impact de l’environnement institutionnel
+Fuite des capitaux
+1 2 3 4
+FC(t-1) -0,985*** -0,849*** -0,923*** -0,905***
+(0,18) (0,25) (0,25) (0,25)
+DEX(t-1) 0,013 0,209 0,078 0,094*
+(0,07) (0,13) (0,05) (0,05)
+∆ [FC(t-1)] - -0,0208 0,029 0,01
+- (0,16) (0,17) (0,17)
+∆ [DEX(t-1)] 0,472** 0,520** 0,531* 0,522**
+(0,19) (0,19) (0,25) (0,16)
+DEX_COR(t-1) -0,156
+(0,14)
+∆ [DEX_ COR (t-1)] 0,647**
+(0,24)
+DEX_INSTAB(t-1) 0,044
+(0,13)
+∆ [DEX_INSTAB(t-1)] -0,085
+(0,10)
+DEX_LOI(t-1) -0,037
+(0,25)
+∆ [DEX_LOI(t-1)] -0,641*
+(0,34)
+Observations 37 38 39 39
+R2 0,6 0,65 0,52 0,51
+Log LL -146,055 -146,89 -156,51 -156,96
+F-stat 9,47 4,005 4,66 5,18
+F test (p-value) 0 0,025 0,01 0
+Note : Significativité ∗ 10%, ∗∗ 5% et ∗∗∗ 1%. Les écarts-types sont donnés entre parenthèses.
+25
+
+--- Page 27 ---
+Alors que notre résultat principal met en évidence le lien positif entre la dette extérieure
+et la fuite des capitaux, nous remarquons ici que l’existence de la règle de droit agit comme
+une couverture contre la fuite des capitaux induite par les variations de la dette extérieure. Ce
+constat est intéressant dans la mesure où il fournit aux autorités un moyen efficace de contrôler
+la fuite des capitaux à travers le respect de la LOI (impact négatif sur la fuite des capitaux).
+Conclusion et implications de politique économiques
+La question au centre de cette recherche est de savoir si l’hypothèse de porte financière tour-
+nante entre la dette extérieure et la fuite des capitaux est empiriquement vérifiée pour le cas du
+Cameroun. Notre étude est réalisée sur un horizon temporel, allant de 1980 à 2020. En utilisant
+les techniques d’estimation appropriées, l’étude met en évidence des résultats nouveaux pour
+le Cameroun. Tout d’abord, nous constatons un impact significatif de la dette extérieure sur la
+fuite des capitaux et vice-versa, confirmant l’hypothèse de la porte financière tournante. Quan-
+titativement, nous notons qu’une augmentation de la dette extérieure d’un franc CFA entraine
+une hausse de la fuite des capitaux comprise entre 45 et 70 centimes. Cet effet d’accélération
+est autant lié à des changements dans les composantes privée et publique de la dette extérieure.
+Il est aussi à souligner que la fuite des capitaux est quatre fois plus sensible à une hausse de la
+rente pétrolière qu’à une augmentation de la rente forestière et est deux fois plus sensible à une
+hausse de la rente forestière qu’à une augmentation de la dette extérieure.
+Les résultats sont robustes au contrôle des variables institutionnelles. En effet, le phéno-
+mène de corruption, qui est assez répandue au Cameroun, accélère la fuite des capitaux. Cet
+effet d’aggravation de la corruption est principalement dû au fait que la corruption détériore
+l’environnement économique et financier et réduit l’efficacité du secteur privé, mais aussi du
+gouvernement. Nous n’observons pas le même effet d’aggravation pour l’instabilité politique et
+sociale. Cependant, l’existence de la règle de droit agit comme une couverture contre la fuite
+des capitaux induite par les variations de la dette extérieure. Ce constat est intéressant dans la
+mesure où il fournit aux autorités un moyen efficace de contrôler la fuite des capitaux induite
+par la dette extérieure.
+A la lumière de ces résultats, ce papier propose un nombre de recommandations pour atté-
+nuer la fuite des capitaux. Les autorités devraient agir en faveur de la réduction du phénomène
+de corruption dans la scène publique et promouvoir une gestion transparente des ressources na-
+turelles du pays, et principalement les ressources pétrolières et forestières. Cela pourrait passer
+par l’exigence des sociétés pétrolières de s’arrimer à la nouvelle règlementation des changes qui
+permet de mieux contrôler les sorties et entrées de capitaux. En outre, une conditionnalité adé-
+quateaccompagnantladetteextérieure,delapartdesbailleursdefondspourraitréduirelafuite
+des capitaux. Cette conditionnalité devrait se concentrer sur la façon d’assurer une meilleure
+gestiondesfinancespubliquespourréduirelafuitedescapitaux,dueaucommercedesressources
+naturelles et aussi aux défaillances institutionnelles. La poursuite de la diversification des éco-
+nomies et des réformes institutionnelles, tant au niveau national qu’au niveau communautaire
+serait aussi indispensable.
+26
+
+--- Page 28 ---
+Bibliographie
+[ 1 ] Ajayi, S. I. (1995) : «Capital flight and external debt in Nigeria», Research Paper 35,
+African Economic Research Consortium (AERC), Nairobi, Kenya.
+[ 2 ] Beck, T., Levine, R. (2003) : «Legal institutions and financial development», National
+Bureau of Economic Research, Cambridge, Working Paper n°10126, December 2003.
+[ 3 ] Beja, Jr. L. E. (2006) : «Revisiting the Revolving Door : Capital Flight from Southeast
+Asia», DESA Working Paper N°16, ST/ESA/2006/DWP/16.
+[ 4 ]Boyce,J.K.(1992):«Therevolvingdoor?Externaldebtandcapitalflight:Philippine
+case study», World Development, 20 (3) : 335-349.
+[ 5 ] Boyce, J. K., Ndikumana, L. (2001) : «Is Africa a Net Creditor? New Estimates of Ca-
+pital Flight from Severely Indebted Sub-Saharan African Countries, 1970-1996», Journal
+of Development Studies, 38 (2), 27-56.
+[ 6 ] Boyce, J. K., Ndikumana, L. (2002) : «Public Debts and Private Assets : Explaining
+Capital Flight from Sub-Saharan African Countries», World Development.
+[ 7 ] Boyce, J. K., Ndikumana, L. (2012) : «Capital Flight from Sub-Saharan African Coun-
+tries : Updated Estimates, 1970-2010», PERI Research Report, October, 24pages.
+[ 8 ] Chambre des Comptes de la Cour Suprême du Cameroun (2021) : «Rapport sur l’audit
+du fonds de solidarité nationale pour la lutte contre le Coronavirus, et ses répercussions
+économiques et sociales», Yaoundé, Juin 2021.
+[ 9 ] Chipalkatti, N., Rishi M. (2001) : «External Debt and Capital Flight in the Indian
+Economy», Oxford Development Studies, 29.
+[ 10 ] CONAC (2011) : «Rapport sur l’état de la lutte contre la corruption au Cameroun»,
+Commission Nationale Anti-Corruption, Yaoundé, parution annuelle.
+[ 11 ] CONAC (2021) : «Rapport sur l’état de la lutte contre la corruption au Cameroun»,
+Commission Nationale Anti-Corruption, Yaoundé, parution annuelle.
+[ 12 ] Dooley, M. P., Kletzer, K. M. (1994) : «Capital flight, external debt, and domestic
+policies», FRBSF Economic Review, pp. 29-37.
+[ 13 ] Erbe, S. (1985) : «The Flight of Capital from Developing Countries», Intereconomics
+(November/December), pp. 268-275.
+[ 14 ] Fofack, H. (2009) : «Causality between External Debt and Capital Flight in Sub-
+Saharan Africa», World Bank, Policy Research Working Paper 5042, September 2009.
+[ 15 ]Gankou,J-M.,Bendoma,M.,Sow,M.N.(2016):«TheInstitutionalEnvironmentand
+the Link between Capital Flows and Capital Flight in Cameroon», African Development
+Review, Vol. 28, N°S1, 65-87.
+[ 16 ] Gordon, D. B., Levine, R. (1989) : «The Problem of Capital Flight : A Cautionary
+Note», The World Economy, 12(2) : 237-52.
+27
+
+--- Page 29 ---
+[ 17 ] Henry, L. (1996) : «Capital Flight from beautiful places : The case of three Caribbean
+countries», International Review of Applied Economics, 10, pp. 263-272.
+[ 18 ]Hermes,N.,Lensink,R.(1992):«TheMagnitudeandDeterminantsofCapitalFlight:
+The Case for six Saharan African Countries», De Economist, ABI/INFORM Global.
+[ 19 ] Hermes, N. R., Lensink, R., Murinde, V. (2002a) : «Flight Capital and its Reversal
+for Developing Financing», UNU/WIDER Discussion Paper N°2002/99.
+[ 20 ]Hermes,N.R.,Lensink,R.,Murinde,V.(2002b):«CapitalFlight,PolicyUncertainty,
+and the Instability of the International Financial System», In Handbook of International
+Banking, Mullineux A. and Murinde V. (Eds). Cheltenham : Edward EIger.
+[ 21 ] Kant, C. (1996) : «Foreign Direct Investment and Capital Flight», Princeton Studies
+in International Finance, 80. Princeton, NJ : Princeton University.
+[ 22 ] Lessard, D. R., Williamson, J. (1987) : «Capital Flight and Third World Debt»,
+Washington, DC : Institute of International Economics.
+[ 23 ] Mikkelsen, J. (1991) : «An econometric investigation of capital flight», Applied Eco-
+nomics, 23 : 73-85.
+[ 24 ] Morgan Guaranty Trust Company (1986) : «LDC Capital Flight», World Financial
+Markets, 2 : 13-16.
+[ 25 ] Ndiaye, A. S. (2011) : «Capital Flight from Sub-Saharan Africa : Linkages with Ex-
+ternal Borrowing and Policy Options», International Review of Applied Economics 25
+(2) : 149-170.
+[ 26 ] Ndikumana, L., Boyce, J. K. (2003) : «Public debts and private assets : Explaining
+capital flight from sub-Saharan African countries», World Development, 31 (1) : 107-30.
+[ 27 ] Ndikumana, L., Boyce, J. K. (2011) : «Capital Flight from Sub-Saharan Africa :
+Linkages with External Borrowing and Policy Options», International Review of Applied
+Economics 25 (2) : 149-170.
+[ 28 ] Ndikumana, L., Boyce, J. K. (2013) : «La dette odieuse de l’Afrique : comment l’en-
+dettementetlafuitedescapitauxontsaigneuncontinent»,EditionsAmalion,188pages.
+[ 29 ] Ndikumana, L., Boyce, J. K., Ndiaye, A. S. (2015) : « Capital Flight : Measurement
+and Drivers». In S. I. Ajayi and L. Ndikumana (Eds.), Capital Flight from Africa :
+Causes, Effects and Policy Issues. Oxford : Oxford University Press, 15-54.
+[ 30 ] Pesaran, M. H., Shin, Y., Smith, R. J. (2001) : « Bounds testing approaches to the
+analysis of level relationships», Journal of Applied Econometrics, special issue in honor
+of J D Sargan on the theme :?Studies in Empirical Macroeconometrics?, (Eds) D.F.
+Hendry and M.H. Pesaran, Vol. 16, 289-326.
+28
+
+--- Page 30 ---
+Annexe 1 : Construction de variables institutionnelles
+Tableau 9 – Instabilité politique et sociale, et corruption
+Instabilitépolitiqueetsociale Corruption
+PremiersMinistres(depuis1960) Prisedefonction Fin (variablemuette) (variablemuette)
+AhmadouAhidjo 01-janv-60 15-mai-60 1970 0 1994 0 1970 0 1994 1
+1971 0 1995 0 1971 0 1995 1
+CharlesAssalé 15-mai-60 19-juin-65
+1972 1 1996 1 1972 0 1996 1
+Vincent-de-PaulAhanda 19-juin-65 20-nov-65 1973 1 1997 0 1973 0 1997 1
+1974 1 1998 0 1974 0 1998 1
+SimonPierreTchoungui 20-nov-65 02-juin-72
+1975 1 1999 0 1975 0 1999 1
+1976 0 2000 0 1976 0 2000 1
+Postevacant 02-juin-72 30-juin-75
+1977 0 2001 0 1977 0 2001 1
+1978 0 2002 0 1978 0 2002 1
+PaulBiya 30-juin-75 06-nov-82
+1979 0 2003 0 1979 0 2003 1
+BelloBoubaMaigari 06-nov-82 22-août-83 1980 0 2004 0 1980 0 2004 1
+LucAyang 22-août-83 25-janv-84 1981 0 2005 0 1981 0 2005 1
+1982 1 2006 0 1982 0 2006 1
+Postevacant 25-janv-84 26-avr-91
+1983 0 2007 0 1983 0 2007 1
+1984 1 2008 0 1984 0 2008 1
+SadouHayatou 26-avr-91 09-avr-92
+1985 1 2009 1 1985 0 2009 0
+1986 1 2010 0 1986 0 2010 0
+SimonAchidiAchu 09-avr-92 19-sept-96
+1987 1 2011 0 1987 0 2011 0
+1988 1 2012 0 1988 0 2012 0
+PeterMafanyMusonge 19-sept-96 08-déc-04
+1989 1 2013 0 1989 0 2013 0
+EphraimInoni 08-déc-04 30-juin-09 1990 1 2014 1 1990 0 - 0
+1990 1 2015 1 1990 0 2017 0
+PhilémonYang 30-juin-09 04-janv-19
+1991 1 2016 1 1991 0 2018 1
+1992 1 - 1 1992 0 - 1
+JosephDionNgute 04-janv-19 Présent
+1993 0 2020 1 1993 1 2020 1
+Administrations nationales et calculs des auteurs
+29
+
+--- Page 31 ---
+Tableau 10 – Evolution de la Constitution du Cameroun et variable "respect de la Loi"
+1959.UnitéetindivisibilitéduCameroundontlasouverainetéappartientaupeuplecamerounais.
+1961.PremièrerévisionadaptantlanouvelleConstitutionauxréalitésduCamerounréunifié.L’autoritéfédéraleest
+exercéeparleprésidentdelaRépublique,secondéparunvice-présidentetleprésidentdel’Assembléenationale.
+1969.CettemodificationtendàpréciserlesconditionsdevacancedelaprésidencedelaRépubliquepourcausede
+démissionainsiquelesmodalitésdedémissionduPremierministreencasderefusdelaconfianceoudecensure
+parl’Assemblée.
+1972.UnenouvelleConstitutionadoptéeparvoieréférendaireconsacrel’EtatunitaireduCameroun.Ellemaintient
+lerégimeprésidentiel.Encasd’empêchementtemporaireduprésident,n’importequelministrepeutlesuppléeralors
+qu’encasd’empêchementdéfinitif,leprésidentdel’Assembléenationaleexercesonpouvoirjusqu’àl’électiondu
+nouveauprésident.LeprésidentparintérimnepeutmodifiernilaConstitutionnilacompositiondugouvernement.
+1975.LeCamerouninstaurelepostedePremierministre,avecdesprérogativeslimitées.
+1979.UneautremodificationdelaConstitutionalieu;ellefaitduPremierministreledauphinconstitutionnel
+duchefdel’Etat.C’estluiquisuccèdedésormaisauprésidentdelaRépubliqueencasdevacanceausommetde
+l’Etat.Ilexercepourladuréedumandatprésidentielencours.C’estcettedispositionquiapermisàPaulBiyade
+succéderàAhmadouAhidjoàlaprésidencedelaRépubliqueen1982.
+1983.Lenombrededéputésàl’Assembléenationalepassede120à150.Lesnouvellesdispositionsconstitutionnelles
+donnentlapossibilitéauprésidentdelaRépubliquedeconvoquerlecorpsélectoralpouruneélectionprésidentielle
+anticipée.
+1984.PassagedelaRépubliqueunieduCamerounàlaRépubliqueduCameroun;avecsuppressiondupostede
+Premierministre.Encasd’empêchement,leprésidentdelaRépubliquealapossibilitédechoisirimporteleministre,
+pourexercersesfonctionspardélégationexpresse.L’intérimencasdevacanceàlaprésidencedelaRépubliqueest
+constatéeparlaCoursuprêmeestassuréparleprésidentdel’Assembléenationale.
+1988. La Constitution donne la possibilité au chef de l’Etat d’abréger son mandat et d’organiser des élections
+anticipées.Lenombrededéputéspassede150à180.
+1991.Suiteauxperturbationséconomiquesetsociales,lepostedePremierministre(Chefdegouvernement)est
+rétabli.Cederniern’estcependantpaslesuccesseurconstitutionnelduprésidentdelaRépublique.
+1996.LaConstitutiongarantitlesdroitsdel’hommeaveclapossibilitédesuppressionduParlementetdeconvoquer
+desélectionsanticipées.Lemandatprésidentielpasseduquinquennatauseptennatetestrenouvelableunefois.
+Surleplanlégislatif,leParlementestélargiàdeuxchambres,avecl’instaurationduSénat.Lenombredesessions
+ordinairesestrevuàlahausse,passantdedeuxàtroisparannéelégislative.Surleplanjudiciaire,lespouvoirs
+delaCoursuprêmes’élargissentavecl’instaurationdelaChambredescomptes.Lesprovinces,surleplande
+l’organisationterritorialedel’Etat,doiventêtretransforméesenrégions.Auniveauconstitutionnel,l’onnotela
+créationduConseilconstitutionnel.
+2008.Ladouzièmemodificationdeloifondamentalerestaurelemandatprésidentielillimité.
+LOI (Variable
+muette)
+1970 0
+1971 0
+1972 1
+1973 0
+1974 0
+1975 1
+1976 0
+1977 0
+1978 0
+1979 1
+1980 0
+1981 0
+1982 0
+1983 1
+1984 1
+1985 0
+1986 0
+1987 0
+1988 1
+1989 0
+1990 0
+1991 1
+1992 0
+1993 0
+1994 0
+1995 0
+1996 1
+1997 0
+1998 0
+1999 0
+2000 0
+2001 0
+2002 0
+2003 0
+2004 0
+2005 0
+2006 0
+- 30 0
+2018 0
+2019 1
+2020 0
+
+--- Page 32 ---
+Annexe 2 : Propiétés du modèle
+Graphique 7 – Stabilité du modèle
+Graphique 8 – Stabilité du modèle
+31

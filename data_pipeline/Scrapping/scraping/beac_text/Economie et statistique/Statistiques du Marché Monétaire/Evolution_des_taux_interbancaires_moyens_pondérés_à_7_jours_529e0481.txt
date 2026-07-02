@@ -1,0 +1,7 @@
+Source PDF : Evolution_des_taux_interbancaires_moyens_pondérés_à_7_jours_529e0481.xlsx
+Chemin original : scraping\beac_data\Economie et statistique\Statistiques du Marché Monétaire\Evolution_des_taux_interbancaires_moyens_pondérés_à_7_jours_529e0481.xlsx
+Date extraction : 15/06/2026 20:44:00
+======================================================================
+
+[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
+Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

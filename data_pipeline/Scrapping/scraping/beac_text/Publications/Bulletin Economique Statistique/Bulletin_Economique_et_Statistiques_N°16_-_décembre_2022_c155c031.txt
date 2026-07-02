@@ -1,0 +1,4416 @@
+Source PDF : Bulletin_Economique_et_Statistiques_N°16_-_décembre_2022_c155c031.pdf
+Chemin original : scraping\beac_data\Publications\Bulletin Economique Statistique\Bulletin_Economique_et_Statistiques_N°16_-_décembre_2022_c155c031.pdf
+Date extraction : 15/06/2026 23:17:08
+======================================================================
+
+--- Page 1 ---
+Bulletin Economique
+et Statistique
+8102
+erbmecéd
+-
+30
+°N
+SEB
+Bulletin Economique
+et Statistique
+BBuulllleettiinn
+EEccoonnoommiiqquuee
+eett SSttaattiissttiiqquuees
+Bulletin Economique et Statistique Page 1
+2202
+erbmecéd
+-
+61
+°N
+SEB
+
+--- Page 3 ---
+TABLE DES MATIÈRES
+Liste des tableaux  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Liste des graphiques .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Liste des sigles et abréviations  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Comité de validation  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+Avant-propos  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+I. EVOLUTIONS ECONOMIQUES, MONETAIRES ET FINANCIERES RECENTES . . 15
+1 . Environnement international  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+2 . Secteur réel de la CEMAC  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 24
+3 . Balance des paiements et compétitivité  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30
+4 . Finances publiques et endettement .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 33
+5 . Monnaie et crédit .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 35
+6 . Marchés monétaire et des titres publics  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 37
+7 . Réserves des banques  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 39
+8 . Situation des réserves de change .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 43
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43
+II. ETUDE : LES CONSEQUENCES DE LA DEPRECIATION
+DU TAUX DE CHANGE EURO/DOLLAR DANS LA CEMAC.............44
+Bulletin Economique et Statistiques Page 3
+
+--- Page 5 ---
+LISTE DES TABLEAUX
+T1 : Taux de croissance mondiale réel et des principaux pays partenaires  .  .  .  . 15
+T2 : Cours des principaux produits de base exportés par la CEMAC .  .  .  .  .  .  .  .  . 18
+T3 : Taux directeurs des principales Banques Centrales  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
+T4 : Contribution à la croissance de la CEMAC  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 24
+T5. Taux d’inflation sur les 12 derniers mois  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27
+T6 . Indice des prix de la CEMAC par fonction de consommation  .  .  .  .  .  .  .  .  .  .  . 28
+T7 : Soldes de la balance des paiements  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30
+T8 : Solde de la balance commerciale  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 31
+T9 : Compétitivité .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 32
+T10 : Evolution des finances publiques des pays de la CEMAC  .  .  .  .  .  .  .  .  .  .  .  .  .  . 34
+T11 : Evolution de la dette publique extérieure des pays de la CEMAC .  .  .  .  .  .  .  . 34
+T12 : Agrégats de monnaie et de crédit (en millions de FCFA) .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 36
+T13 : Agrégats de monnaie et de crédit (en glissement annuel) .  .  .  .  .  .  .  .  .  .  .  .  .  . 36
+T14 : Taux directeurs de la BEAC .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 38
+T15 : Evolution des principaux indicateurs de la liquidité  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 40
+Bulletin Economique et Statistiques Page 5
+
+--- Page 7 ---
+LISTE DES GRAPHIQUES
+G1 . Taux de croissance réelle des pays industrialisés  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+G2 . Taux de croissance réelle des pays en développement .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+G3 . Cours du pétrole .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+G4 : Cours des produits agricoles d’exportations .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+G5 . Cours des métaux non précieux .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+G6 . Indice composite des cours des produits de bases exportées par la CEMAC .  .  . 17
+G7 . Cours moyen mensuel de l’euro  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19
+G8 . Cours moyen mensuel de l’euro (suite)  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19
+G9 . PIB nominal des pays de la CEMAC  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25
+G10 . Contribution absolue des fonctions de consommation à l’indice des prix
+à la consommation de la CEMAC (en moyenne annuelle)  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+G11 . Contribution absolue des fonctions de consommation à l’indice des prix
+à la consommation de la CEMAC (en glissement annuel)  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+G12 . Evolution du TCER/TCEN  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 32
+G13 . Evolution de l’indice composite du TCER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 32
+G14 . Evolution comparée du TISP et du taux de la facilité de dépôts de la BCE  . 38
+G15 . Evolution comparée du TIAO et du taux d’appels d’offres de la BCE  .  .  .  .  . 38
+G16 . Evolution de la structure des réserves des banques de la CEMAC .  .  .  .  .  .  . 41
+G17 . Evolution du volume des interventions de la BEAC
+sur le marché monétaire de la CEMAC  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 41
+Bulletin Economique et Statistiques Page 7
+
+--- Page 9 ---
+LISTE DES SIGLES ET ABREVIATIONS
+BCC : Banque Centrale du Congo
+BCE : Banque Centrale Européenne
+BCEAO : Banque Centrale des Etats de l’Afrique de l’Ouest
+BDEAC : Banque de Développement des Etats de l’Afrique Centrale
+BEAC : Banque des Etats de l’Afrique Centrale
+BES : Bulletin Economique et Statistiques
+BCN : Banque Centrale du Nigéria
+BdC : Banque du Canada
+BoE : Bank of England
+BoJ : Bank of Japan
+CEMAC : Commission Economique et Monétaire de l’Afrique Centrale
+CPM : Comité de Politique Monétaire
+FALB : Facteurs Autonomes de Liquidité Bancaire
+FED : Federal Reserve
+FMI : Fonds monétaire international
+ICAE : Indice Composite de l’Activité Economique
+LPR : Loan Prime Rate
+PIB: : Produit Intérieur Brut
+SARB : South African Reserve Bank
+TCER : Taux de Change Effectif Réel
+TCEN : Taux de Change Effectif Nominal
+TCM : Taux Créditeur Minimum
+TIAO : Taux d’Intérêt des Appels d’Offres
+TIMP : Taux Interbancaire Moyen Pondéré
+UEMOA : Union Economique et Monétaire Ouest Africaine
+WEO : World Economic Outlook
+Bulletin Economique et Statistiques Page 9
+
+--- Page 11 ---
+COMITÉ DE VALIDATION
+Le Comité de validation du Bulletin Economique et Statistiques (BES) est créé par Décision du
+Gouverneur N°065/GR/2017 du 03 juillet 2017 et il en assure la coordination . Ce Comité a pour
+responsabilité principale d’examiner les propositions d’articles et d’études devant être publiées dans
+le Bulletin . Le respect des dates de parution du Bulletin revient au Comité de validation . Pour ce
+seizième numéro, le Comité de validation s’est réuni le mardi 27 décembre 2022 à 11 heures par
+visioconférence .
+Ont pris part à cette réunion, les membres nommés ci-après :
+Président :
+HAMADOU ABDOULAYE : Directeur Central des Etudes, de la Recherche et des Statistiques
+Membres :
+DIFFO NIGTIOPOP Georges : Adjoint au Directeur Central des Etudes, de la Recherche et des
+Statistiques, en charge du pôle « Etudes » ;
+MVONDO Emile Thierry : Adjoint au Directeur Central des Etudes, de la Recherche et des Statis-
+tiques, en charge du pôle « Recherche » ;
+LONKENG Simplice Duclair : Adjoint à la Cellule Centrale d’Etudes des transferts et suivi de la
+règlementation des changes ;
+MBOHOU Louisa : Chef de Service de l’environnement international de l’Environnement Interna-
+tional, en charge de la Publication et de la Documentation ;
+KENKOUO Guy Albert : Chef du Service Gestion de la liquidité à la Direction de la Stabilité Finan-
+cière, des Activités Bancaires et du Financement des Economies ;
+BIKAI Jacques Landry : Chef du Service de l’Analyse et de la Modélisation des Economies ;
+NGOMBA BODI Francis : Service de l’Analyse et de la Modélisation des Economies ;
+ESSIANE Patrick-Nelson : Service de la Conjoncture Sous-Régionale et Etudes Sectorielles .
+Ont également pris part à ces travaux :
+GOMBA EBIKILI Claise Borgia : Service de l’Environnement International, en charge de la Publi-
+cation et de la Documentation ;
+AYONGWA ANYE Priscilla : Service de l’Environnement International, en charge de la Publication
+et de la Documentation .
+Bulletin Economique et Statistiques Page 11
+
+--- Page 13 ---
+AVANT-PROPOS
+Au cours de l’année 2022, l’environne- 1,7 % un an plus tôt, iii) un redressement du solde
+ment international s’est caractérisé par de nom- budgétaire base engagements, dons compris, qui de-
+breuses incertitudes pouvant entacher une bonne viendrait excédentaire à 0,7 % du PIB en 2022, après
+reprise économique au niveau mondial . En effet, - 1,3 % du PIB en 2021, ainsi que celui du solde du
+avec les tensions géopolitiques actuelles en Eu- compte courant qui passerait d’un déficit de 0,6 % du
+rope, consécutivement à la guerre entre l’Ukraine PIB en 2021 à un excédent de 5,6 % du PIB en 2022 .
+et la Russie, et la poursuite des contaminations à la Sur le plan de la monnaie, la masse monétaire aug-
+COVID-19 en Chine, les incertitudes suivantes en- menterait de 15,7 % tandis que les avoirs extérieurs
+tourent l’environnement international : i) l’impact de nets bondiraient de 74,8 % .
+la crise sanitaire de la COVID-19, ii) les contraintes
+pesant sur les circuits d’approvisionnement et iii) la Pour ce qui est de la dette, le ratio du service
+poussée de l’inflation dans les pays avancés provo- de la dette publique extérieure reviendrait de 29,2 %
+quée par la guerre russo-ukrainienne . des recettes budgétaires en 2021 à 19,5 % en 2022
+et de 14,6 % des exportations de biens et services en
+Fort de tout ce qui précède, les Perspectives 2021 à 8,8 % en 2022 . Quant au taux d’endettement
+de l’économie mondiale, mises à jour en octobre 2022 public extérieur, il reculerait de 28,7 % % en 2021 à
+par le FMI, situent la croissance à 3,2 % en 2022 et 26,4 % en 2022 .
+2,7 % en 2023, contre 6,1 % en 2021 et une récession
+de 3,1 % en 2020 . Pour limiter la hausse des pres- Les évolutions économiques, monétaires
+sions inflationnistes dans les pays avancés, la plupart et financières internationales et sous-régionale sont
+des banques centrales ont maintenu l’orientation res- exposées dans ce seizième numéro du Bulletin Eco-
+trictive de leur politique monétaire . nomique et Statistiques (BES) pour le quatrième tri-
+mestre de l’année 2022 . Ce Bulletin, diffusé par la
+En termes de réalisations, les pays de la Banque des Etas de l’Afrique Centrale (BEAC) est
+Communauté Economique et Monétaire de l’Afrique organisé de la manière suivante :
+Centrale (CEMAC) ont enregistré les performances
+ci-après au troisième trimestre 2022 : i) une hausse • Partie I : « Evolutions économiques, monétaires
+de l’Indicateur Composite des Activités Economiques et financières récentes »
+(ICAE) de la CEMAC, en glissement trimestriel de
+0,8 %, après une stagnation un trimestre plus tôt ; • Partie II : « Etudes », réalisées principalement par
+ii) un accroissement de l’inflation à fin septembre les cadres de la BEAC et les chercheurs ressor-
+2022 à 4,3 % en moyenne annuelle, et à 7,0 % en tissants de la CEMAC .
+glissement annuel, contre respectivement 1,8 % et
+1,7 % un an plus tôt . ; iii) une augmentation des dis- Pour ce numéro, le Comité de validation
+ponibilités monétaires et quasi-monétaires (M2) de du BES, a retenu comme étude un article qui s’inti-
+14,7 % pour s’établir à 16 420,2 milliards à fin sep- tule «Les consequences de la depreciation du taux
+tembre 2022 contre 14 310,9 milliards un an aupa- de change euro/dollar dans la CEMAC » écrit par la
+ravant . DERS et présenté à la Conférence des Chefs d’État du
+17 mars 2023 .
+En termes de perspectives, les performances
+des pays de la CEMAC pour l’année 2022 devraient
+se présenter comme suit : i) une croissance écono-
+mique qui passerait de 1,7 % en 2021 à 2,9 % en
+2022, portée principalement par un rebond de la
+croissance pétrolière, en dépit d’une décélération HAMADOU ABDOULAYE
+de la croissance non pétrolière, ii) une accélération
+des pressions inflationnistes à 5,5 % en 2022, contre Président du Comité de Validation
+Bulletin Economique et Statistiques Page 13
+
+--- Page 15 ---
+I. EVOLUTIONS ECONOMIQUES,
+MONETAIRES ET FINANCIERES R ECENTES
+1. Environnement international
+Selon les Perspectives de l’économie mondiale mises à jour en octobre 2022 par le FMI, la croissance
+se situerait à 3,2 % en 2022 et reviendrait à 2,7 % en 2023, contre 6,1 % en 2021 et une récession de
+3,1 % en 2020 . Par espace géographique, le taux de croissance réel de l’activité dans les économies avancées
+devrait descendre à 2,4 % en 2022, après une croissance de 5,2 % en 2021 . En 2023, elle devrait baisser à
+1,0 % . Dans les pays émergents et en développement, le taux de croissance du PIB réel s’établirait à 3,7 %
+en 2022 et 2023, après un bond de 6,6 % en 2021 . En Afrique subsaharienne, le taux de croissance du PIB
+réel diminuerait à 3,6 % en 2022, après une remontée à 4,7 % en 2021 .
+Le taux de variation du volume des échanges commerciaux devrait fléchir à 4,3 % en 2022, après une
+croissance de 10,1 % en 2021 et une récession de 7,9 % en 2020 . Cet amoindrissement observé en 2022
+s’expliquerait en partie par la diminution, au niveau mondial, de l’activité dans le secteur manufacturier,
+induite par le recul de la demande et les problèmes sur les chaînes d’approvisionnement . Ce taux devrait
+atteindre 2,5 % en 2023 .
+S’agissant des prix, au niveau des pays avancés, l’inflation devrait s’élever à 7,2 % en 2022, après 3,1 %
+en 2021 et 0,7 % en 2020 . Les pays émergents et en développement quant à eux, devraient enregistrer une
+inflation de 9,9 % en 2022, après 5,9 % en 2021 et 5,2 % en 2020
+ .
+1.1 Activité économique
+La croissance devrait ralentir en 2022, après une reprise observée dans plusieurs pays .
+T1 : Taux de croissance réelle des principaux pays partenaires
+INDICATEURS (en %, sauf indication contraire) 2020 2021 2022 2023
+Taux de croissance
+Economie mondiale -3,1 6,1 3,2 2,7
+Pays avancés -4,5 5,2 2,4 1,1
+Etats-Unis -3,4 5,7 1,6 1,0
+Zone Euro -6,4 5,2 3,1 0,5
+Pays émergents et en développement -2,0 6,6 3,7 3,7
+Chine 2,2 8,1 3,2 4,4
+Inde -6,6 8,7 6,8 6,1
+Russie -2,7 4,7 -3,4 -2,3
+Afrique Sub-saharienne -1,6 4,7 3,6 3,7
+Nigeria -1,8 3,6 3,2 3,0
+Afrique du Sud -6,3 4,9 2,1 1,1
+Taux de croissance du commerce mondiale -7,9 10,1 4,3 2,5
+Prix du baril de pétrole1 (dollar/baril) 41,8 69,42 98,19 85,52
+Taux d’inflation
+Pays avancés 0,7 3,1 7,2 4,4
+Pays émergents et en développement 5,2 5,9 9,9 8,1
+Pays d’Afrique subsaharienne
+12,2 9,6
+10,19 10,99
+Source : Perspectives économiques du FMI (mise à jour octobre 2022)
+1 Le cours du pétrole est basé sur la moyenne des cours pour les qualités suivantes : Brent du Royaume-Uni, Dubaï et WTI.
+Bulletin Economique et Statistiques Page 15
+
+--- Page 16 ---
+G1. Taux de croissance réelle des pays industrialisés
+10,0
+8,5
+7,0
+5,5
+4,0
+2,5
+1,0
+-0,5
+-2,20016 2017 2018 2019 2020 2021 2022
+-3,5
+-5,0
+-6,5
+-8,0
+-9,5
+Economie mondiale Pays industrialisés Etats-Unis
+Zone Euro France CEMAC
+Source : Perspectives économiques du FMI (mise à jour d’octobre 2022)
+G2. Taux de croissance réelle des pays en développement
+9,0
+7,5
+6,0
+4,5
+3,0
+1,5
+0,0
+-- 31 ,,2 05016 2017 2018 2019 2020
+2021
+Estim
+2022
+Prév
+-4,5
+-6,0
+-7,5
+-9,0
+Pays émergents et en développement d'Asie Pays d'Afrique Subsaharienne
+Pays d'Amérique Latine CEMAC
+UEMOA
+Source : Perspectives économiques du FMI (mise à jour d’octobre 2022)
+Bulletin Economique et Statistiques Page 16
+
+--- Page 17 ---
+1.2 Marché des produits de base
+Au troisième trimestre 2022, l’indice global des cours des produits de base exportés par la
+CEMAC s’est accru de 0,5 s’établissant à 111,03, impulsée par la progression des cours des produits
+énergétiques (14,1 %) . L’indice des cours hors produits énergétiques a régressé de 5,3 %, revenant
+de 125,4 au deuxième trimestre à 118,7 au troisième trimestre, du fait d’une baisse généralisée
+des prix des produits sur ce segment . Dans cette catégorie de produits, les plus fortes baisses des
+prix sont observées sur les marché des produits forestiers (- 6,1 %), des métaux et minerais (-5,8)
+et des produits agricoles (- 4,9 %) . Le cours du baril est revenu de 107,9 dollars en moyenne au
+deuxième trimestre 2022 à 96,4 au troisième trimestre tandis que le cours du gaz naturel s’est situé
+en moyenne à 40,4 $/mmbtu à la fin du troisième trimestre, après 19,0 $/mmbtu au précédent.
+G3. Cours du pétrole G4 : Cours des produits agricoles d’exportations
+130,0
+5,0
+120,0 Crude oil, average $/baril
+4,5
+110,0
+4,0
+100,0
+3,5
+90,0
+3,0
+80,0
+2,5
+70,0
+2,0
+60,0
+1,5
+50,0
+1,0
+40,0
+30,0 0,5
+20,0 0,0
+sept-21 oct-21 nov-21 déc-21 janv-22 févr-22 mars-22 avr-22 mai-22 juin-22 juil-22 août-22 sept-22 sept-21 oct-21 nov-21 déc-21 janv-22 févr-22 mars-22 avr-22 mai-22 juin-22 juil-22 août-22 sept-22
+Cacao Riz Caoutchouc
+Coton Huile de palme Banane
+Sucre Tabac Café
+G6. Indice composite des cours des produits
+G5. Cours des métaux non précieux de bases exportés par la CEMAC
+(Base 100 : janvier 2012)
+10,0 4,0 140,0
+9,0
+3,5
+120,0
+8,0
+3,0
+7,0
+100,0
+2,5
+6,0
+5,0 2,0 80,0
+4,0
+1,5
+60,0
+3,0
+1,0
+2,0
+40,0
+0,5
+1,0
+0,0 0,0 20,0
+sept-21 oct-21 nov-21 déc-21 janv-22 févr-22 mars-22 avr-22 mai-22 juin-22 juil-22 août-22 sept-22 sept-21 oct-21 nov-21 déc-21 janv-22 févr-22 mars-22 avr-22 mai-22 juin-22 juil-22 août-22 sept-22
+Indice global
+Indice hors produits énergétique
+Fer Aluminium Manganèse Indices des produits énérgétiques s
+Indices des métaux et minéraux
+Indices des produits forestiers
+Indice des produits agricoles
+Source : Banque Mondiale
+Bulletin Economique et Statistiques Page 17
+
+--- Page 18 ---
+Bulletin Economique et Statistiques Page 18
+CAMEC
+al
+rap
+sétropxe
+esab
+ed
+stiudorp
+xuapicnirp
+sed
+sruoC
+:
+2T
+22-tpes
+22-tûoa
+22-liuj
+22-niuj
+22-iam
+22-rva
+22-sram
+22-rvéf
+22-vnaj
+12-céd
+12-von
+12-tco
+12-tpes
+étinU
+tiudorP elortéP
+2,88
+0,69
+1,501
+8,611
+1,011
+4,301
+4,211
+5,39
+9,38
+9,27
+9,97
+1,28
+8,27
+lirab/$
+egareva
+,lio
+edurC
+lonahtém
+te
+lerutan zaG
+1,95
+0,07
+3,15
+4,43
+8,92
+2,23
+4,24
+2,72
+3,82
+0,83
+6,72
+1,13
+8,22
+)utbmm/$(
+eporuE
+8,7
+8,8
+3,7
+7,7
+1,8
+5,6
+9,4
+7,4
+3,4
+7,3
+0,5
+5,5
+1,5
+)utbmm/$(
+sinU-statE
+7,12
+2,12
+9,81
+1,71
+7,61
+2,71
+1,51
+0,71
+7,41
+3,51
+3,51
+4,21
+4,11
+)utbmm/$(
+nopaJ sioB
+,sécrocé
+emêm
+,sturb
+sioB
+4,762
+5,762
+8,762
+6,172
+5,772
+4,382
+9,592
+6,403
+8,403
+7,303
+8,503
+1,013
+7,513
+3m/$
+sirrauqé
+uo
+séréibuaséd
+ed
+selliueF
+pcy(
+séics
+sioB
+0,345
+5,475
+6,475
+7,095
+8,695
+5,026
+2,136
+8,846
+7,946
+9,736
+9,446
+2,656
+2,856
+3m/$
+-alp-ertnoc
+ruop
+selliuef
+& egacalp )séuq
+8,99
+9,801
+6,801
+7,031
+2,131
+3,151
+1,251
+8,241
+5,231
+0,711
+2,69
+9,221
+5,421
+)utmd/$(
+reF
+1,822
+2
+8,034
+2
+4,804
+2
+4,365
+2
+3,038
+2
+4,442
+3
+4,894
+3
+8,542
+3
+0,600
+3
+5,596
+2
+5,636
+2
+4,439
+2
+6,438
+2
+)tm/$(
+muinimulA
+2,122
+2,122
+2,122
+2,122
+2,122
+2,122
+2,122
+2,122
+2,122
+2,122
+2,122
+2,122
+2,122
+)tarac/$(
+tnamaiD
+8,086
+1
+6,467
+1
+7,237
+1
+6,638
+1
+5,848
+1
+9,639
+1
+8,749
+1
+3,658
+1
+0,618
+1
+4,097
+1
+8,128
+1
+9,677
+1
+1,577
+1
+)zo
+yort/$(
+rO
+4,2
+4,2
+4,2
+6,2
+6,2
+6,2
+6,2
+6,2
+6,2
+6,2
+3,2
+5,2
+5,2
+gk/$
+esènagnaM
+3,2
+3,2
+2,2
+3,2
+4,2
+5,2
+5,2
+6,2
+5,2
+4,2
+4,2
+6,2
+6,2
+gk/$
+oacaC
+6,024
+1,514
+7,114
+1,134
+8,244
+9,714
+0,014
+8,904
+3,114
+2,493
+0,693
+8,593
+9,983
+)tm/$(
+ziR
+5,1
+6,1
+8,1
+0,2
+1,2
+1,2
+1,2
+1,2
+0,2
+9,1
+9,1
+9,1
+8,1
+)gk/$(
+cuohctuoaC
+6,2
+7,2
+9,2
+4,3
+6,3
+4,3
+1,3
+1,3
+9,2
+6,2
+8,2
+6,2
+3,2
+)gk/$(
+notoC
+3,909
+0,620
+1
+6,650
+1
+1,105
+1
+9,617
+1
+7,286
+1
+0,777
+1
+4,225
+1
+8,443
+1
+3,072
+1
+7,043
+1
+3,013
+1
+4,181
+1
+)tm/$(
+emlap
+ed eliuH
+9,0
+9,0
+9,0
+0,1
+0,1
+0,1
+0,1
+0,1
+9,0
+9,0
+9,0
+9,0
+9,0
+)gk/$(
+enanaB
+4,0
+4,0
+4,0
+3,0
+3,0
+4,0
+4,0
+4,0
+4,0
+4,0
+4,0
+4,0
+4,0
+)gk/$(
+ercuS
+2,731
+4
+4,841
+4
+4,862
+4
+7,351
+4
+5,361
+4
+7,561
+4
+7,771
+4
+6,912
+4
+6,481
+4
+3,312
+4
+5,422
+4
+7,142
+4
+2,980
+4
+)tm/$(
+cabaT
+2,4
+2,4
+9,3
+2,4
+0,4
+1,4
+0,4
+3,4
+2,4
+2,4
+1,4
+8,3
+6,3
+)gk/$(
+éfaC
+1,944
+2
+9,205
+2
+0,415
+2
+0,806
+2
+8,806
+2
+1,766
+2
+1,317
+2
+6,297
+2
+7,587
+2
+2,387
+2
+9,908
+2
+5,658
+2
+9,798
+2
+ennot/$
+euqibara
+emmoG
+6,5
+7,5
+8,5
+0,6
+1,6
+1,6
+2,6
+2,6
+0,6
+0,6
+0,6
+7,5
+7,5
+)gk/$(
+fuœb
+ed ednaiV
+2102
+reivnaj
+:
+001
+esaB
+- )srallod
+ne
+sémirpxe
+sruoc(
+etisopmoc
+ecidnI
+3,701
+1,811
+2,611
+7,111
+3,801
+7,58
+9,78
+5,19
+5,18
+8,47
+2,67
+0,47
+6,56
+labolg
+ecidnI
+4,711
+9,911
+0,911
+7,721
+7,521
+8,921
+4,031
+4,921
+6,521
+0,721
+8,721
+9,321
+0,911
+seuqtiégrené
+stiudorp
+sroh ecidnI
+3,011
+7,221
+6,021
+1,011
+3,68
+9,98
+1,87
+3,07
+5,27
+7,96
+0,46
+0,06
+7,83
+seuqtiégréné
+stiudorp
+sed secidnI
+5,76
+1,86
+4,86
+2,27
+6,46
+8,86
+2,17
+1,27
+0,96
+0,76
+7,66
+1,26
+4,15
+xuarénim
+te
+xuatém
+sed secidnI
+4,17
+9,47
+9,47
+8,08
+3,48
+8,58
+2,68
+6,68
+5,68
+9,78
+3,88
+9,68
+vs
+sretiserof
+stiudorp
+sed secidnI
+2,111
+9,211
+4,111
+0,711
+0,021
+0,811
+5,811
+1,221
+7,121
+5,911
+1,511
+5,711
+3,611
+selocirga
+stiudorp
+sed ecidnI
+elaidnoM
+euqnaB
+: ecruoS
+
+--- Page 19 ---
+1.3 Marchés financiers et orientations des principales banques centrales
+Sur le marché des changes, l’euro s’est dépréciée par rapport aux principales monnaies depuis le début de
+l’année 2022 . Par rapport au dollar américain, cette évolution résulte des différences de politique monétaire
+menées par la Banque Centrale Européenne (BCE) et la Fédéral Reserve (Fed) ; les investisseurs ayant de
+plus en plus tendance à vendre l’euro pour acheter le dollar . En outre, les mouvements de capitaux qui se
+dirigent davantage vers la zone dollar exercent un effet de dépréciation de l’euro vis-à-vis du dollar .
+Au final, depuis janvier 2022, l’euro s’est déprécié vis-à-vis du real brésilien (12,2 %), du dollar américain
+(11,1 %), du naira (8,9 %), du dollar canadien (4,8 %), du franc suisse (4,6 %), et de la roupie indienne (1,5 %) .
+En revanche, il s’est apprécié par rapport la livre turque (23,6 %), au yen japonais (14,5 %), au rand sud-afri-
+cain (3,6 %), à la livre sterling (3,6 %) et au yuan chinois (2,0 %) .
+G7. Cours moyen mensuel de l’euro G 8. Cours moyen mensuel de l’euro (suite)
+1,2 19,0 510,0 145,0
+1,2 490,0
+17,0
+140,0
+1,1 470,0
+15,0
+1,1 450,0
+135,0
+1,0 13,0 430,0
+1,0 410,0 130,0
+11,0
+0,9 390,0
+9,0 125,0
+0,9 370,0
+0,8 7,0 350,0 120,0
+sept-21 oct-21 nov-21 déc-2 j1 anv-2 f2 évr-22 mars-22 avr-22 mai-2 j2 uin-22 juil-2 a2 oût-2 s2 ept-22 sept-21 oct-21 nov-21 déc-2 j1 anv-2 f2 évr-2 m2 ars-22 avr-22 mai-2 j2 uin-22 juil-2 a2 oût-2 s2 ept-22
+Dollar (USA) Livre sterling (GBP)
+Franc suisse (CHF) Rand (RSA) Naira* (Nigeria) Yen (Japon)
+Yuan (Chine)
+Rand (RSA), Yuan (Chine) et Yen (Japon) : échelle de gauche
+Source : Banque de France
+1.4 Politique monétaire des autres Banques Centrales
+Face aux pressions inflationnistes, la plupart des banques centrales des pays avancés et des pays en dé-
+veloppement, à l’exception des banques centrale du Japon et de la Chine ont maintenu l’orientation restrictive
+de leur politique monétaire . En effet, le Comité de politique monétaire de la Banque Centrale du Japon (BoJ),
+réuni le 28 octobre 2022, a maintenu son principal taux d’intérêt à -0,1 % . De plus, la Banque poursuivra sa po-
+litique d’achat illimité des obligations du Gouvernement (JGB) à 10 ans qui vise à plafonner leurs rendements
+à 0,25 % . L’institution nippone a donc maintenu sa politique monétaire ultra-accommodante, et ce, malgré la
+chute brutale du yen liée aux relèvements des taux d’autres grandes banques centrales .
+En Chine, le 25 novembre 2022, la Banque Centrale a annoncé son désir d’abaisser le taux des réserves
+bancaires obligatoires . En effet, à partir du 05 décembre 2022, la Banque Centrale a diminué de 25 points
+de base le ratio des réserves bancaires afin de le porter à un taux moyen pondéré d’environ 7,8 %. Cela a
+permis l’injection de 500 milliards de yuans (environ 67 milliards d’euros) dans l’économie, très impactée par
+la politique « zéro COVID » que mène le pays . L’OCDE table sur un PIB chinois en hausse de 3,3 % en 2022,
+4,6 % en 2023 . Pour rappel, le 22 août 2022, la Banque Centrale chinoise avait abaissé une fois de plus cette
+année, deux de ses taux d’intérêt de référence . Le Loan Prime Rate (LPR) à un an, qui constitue la référence
+des taux les plus avantageux que les banques peuvent offrir aux entreprises et aux ménages, a été réduit de
+3,70 % à 3,65 %, et celui à cinq ans, référence pour les prêts hypothécaires, a été abaissé de 4,45 % à 4,3 % .
+Il avait été abaissé en janvier 2022, et celui à cinq ans en mai 2022 .
+Bulletin Economique et Statistiques Page 19
+
+--- Page 20 ---
+En revanche, le Comité de politique monétaire de la Banque du Canada (BdC), réuni le 07 décembre 2022,
+a décidé d’augmenter une fois de plus son taux cible du financement à un jour pour le faire passer à 4,25 %,
+en hausse de 50 points de base. Le taux officiel d’escompte s’établit désormais à 4,25 %, et le taux de rému-
+nération des dépôts, à 4,25 % . Aussi, la Banque poursuit sa politique de resserrement quantitatif comme outil
+complémentaire aux hausses du taux directeur .
+Le Comité de politique monétaire de la Fed (Federal Open Market Committee), lors de sa réunion du
+14 décembre 2022, a décidé de relever, et pour la quatrième fois consécutive, ses taux directeurs . La four-
+chette cible est ainsi passée à 4,25 % - 4,50 % . Le Comité prévoit que des augmentations continues de sa
+fourchette cible seront appropriées afin d’atteindre une orientation de la politique monétaire suffisamment res-
+trictive pour ramener l’inflation à 2 %. Pour déterminer le rythme des augmentations futures de sa fourchette
+cible, le Comité tiendra compte du resserrement cumulé de la politique monétaire, des décalages avec les-
+quels la politique monétaire affecte l’activité économique et l’inflation, ainsi que des évolutions économiques
+et financières. En outre, le Comité continuera de réduire ses avoirs en titres du Trésor, en dette d’agence et en
+titres adossés à des créances hypothécaires d’agence, comme décrit dans les plans de réduction de la taille
+du bilan de la Réserve fédérale publiés en mai 2022. Le Comité est fermement déterminé à ramener l’inflation
+à son objectif de 2 % .
+A l’issue de sa réunion de politique monétaire du 14 décembre 2022, la Banque d’Angleterre (Bank of En-
+gland ou BoE), a décidé d’augmenter son taux directeur de 0,50 point de pourcentage à 3 % . En effet, le mar-
+ché du travail reste tendu et il y a eu des signes continus de raffermissement de l’inflation des prix intérieurs et
+des salaires qui pourraient indiquer une plus grande persistance . La majorité des membres du Comité estime
+que, si l’économie évolue conformément aux dernières projections évoquées dans le Rapport sur la politique
+monétaire, de nouvelles augmentations du taux d’escompte pourraient être nécessaires pour un retour du-
+rable de l’inflation à l’objectif, bien qu’à un pic inférieur à celui fixé sur les marchés financiers.
+Le Conseil des gouverneurs de la Banque Centrale Européenne (BCE) a décidé, le 15 décembre 2022,
+d’augmenter ses trois taux d’intérêt directeurs de 50 points de base . Il s’agit du quatrième relèvement consé-
+cutif des taux directeurs depuis le début de l’année. Les taux d’intérêt des opérations principales de refi-
+nancement, de la facilité de prêt marginal et de la facilité de dépôt seront relevés à respectivement 2,50 %,
+2,75 % et 2,00 % à compter du 21 décembre 2022 . Le Conseil des gouverneurs prévoit de continuer à relever
+les taux d’intérêt directeurs, pour assurer le retour au plus tôt de l’inflation vers son objectif de 2 % à moyen
+terme. Il fondera la trajectoire des taux d’intérêt sur l’évolution des perspectives d’inflation et économiques,
+réunion par réunion .
+En Afrique subsaharienne, la plupart des banques centrales ont poursuivi le resserrement de leurs condi-
+tions monétaires, dans un contexte d’accroissement des prix induit notamment par la guerre en Ukraine .
+Le Comité de politique monétaire de la Banque Centrale du Nigéria (BCN), réuni les 21 et 22 novembre
+2022, a décidé de manière unanime : i) d’accroitre son taux directeur de 100 points de base à 16,5 %, ii) de
+conserver le corridor asymétrique de +100/-700 points de base autour du MPR ; iii) d’augmenter son coeffi-
+cient de réserves obligatoires (cash reserve requirement ou CRR) à un minimum de 32,5 % ; et iv) de maintenir
+le ratio de liquidité de 27,5 % à 30,0 % . Cette décision intervient après celle prise lors des réunions des 26 et
+27 septembre 2022, au cours desquelles le Comité a décidé : i) d’augmenter son taux directeur de 14,50 % à
+15,50 %, ii) de conserver le corridor asymétrique de +100/-700 points de base autour du MPR ; iii) d’augmenter
+son coefficient de réserves obligatoires (cash reserve requirement ou CRR) à un minimum de 32,5 % ; et iv)
+de maintenir le ratio de liquidité de 27,5 % à 30,0 % .
+En Afrique du Sud, la South African Reserve Bank (SARB), a décidé d’augmenter le taux de rachat, le
+24 novembre 2022, de 75 points de base à 7,0 %, avec effet le 25 novembre 2022 . Cette hausse intervient
+après celle du 22 septembre 2022, où le taux a été porté à 6,25 % (+75 points de base) . Le niveau du taux de
+rachat est désormais proche de celui qui prévalait avant le début de la pandémie de COVID-19 . La trajectoire
+Bulletin Economique et Statistiques Page 20
+
+--- Page 21 ---
+révisée du taux de rachat reste favorable à la demande de crédit à court terme, tout en augmentant les taux à
+des niveaux plus conformes à la vision actuelle de risques pesant sur l’inflation. L’objectif de la politique étant
+d’ancrer plus solidement les anticipations d’inflation.
+Le Comité de politique monétaire de la Banque Centrale du Congo (BCC), réuni le 24 novembre 2022, a
+décidé de relever son principal taux directeur de 7,50 % à 8, 25 % . Par ailleurs, il a été décidé du maintien des
+coefficients des réserves obligatoires sur les dépôts à vue et à terme en monnaie nationale. Pour rappel, lors
+de la réunion du 04 aout 2020, ces coefficients ont été revue à la baisse. Avant la baisse, le coefficient des
+réserves obligatoires sur les dépôts en devises à vue et à terme étaient respectivement à 13,0 % et 12,0 % et
+ceux des dépôts en monnaie nationale à vue et à terme à 0 % .
+La Banque Centrale des États de l’Afrique de l’Ouest (BCEAO), a décidé, le 09 décembre 2022, de rele-
+ver de 25 points de base les taux directeurs de la Banque Centrale, à compter du 16 décembre 2022 . Ainsi,
+le principal taux directeur auquel la Banque Centrale prête ses ressources aux banques passe de 2,50 % à
+2,75 % . Cette décision constitue la troisième hausse de cette année, s’inscrivant dans le cadre du processus
+de normalisation graduelle de la politique monétaire de la BCEAC, entamée depuis juin 2022 . Elle devrait
+contribuer à ramener progressivement l’inflation dans l’intervalle cible de la Banque Centrale (1 % à 3 %) sur
+le moyen terme .
+1.5 Politique monétaire de la BEAC
+Le Comité de Politique Monétaire, réuni en sa séance ordinaire du 15 décembre 2022 à Douala, après
+analyse des facteurs de risques pesant sur la stabilité monétaire et des développements observés sur le marché
+monétaire, d’une part, et au regard des perspectives macroéconomiques de la CEMAC à court et moyen termes,
+d’autre part, décide de maintenir inchangés :
+- le Taux d’Intérêt des Appels d’Offres à 4,50 % ;
+- le Taux de la facilité de prêt marginal à 6,25 % ;
+- le Taux de la facilité de dépôt à 0,00 % ; et
+- les coefficients des réserves obligatoires à 7,00 % sur les exigibilités à vue et 4,50 % sur les exigibilités à
+terme . /-
+Bulletin Economique et Statistiques Page 21
+
+--- Page 23 ---
+Bulletin Economique et Statistiques Page 23
+selartneC
+seuqnaB
+selapicnirp
+sed
+sruetcerid
+xuaT
+:
+3T
+22-von
+22-tco
+22-tpes
+22-tûoa
+22-liuj
+22-niuj
+22-iam
+22-rva
+22-sram
+22-rvéf
+22-vnaj
+12-céd
+12-von
+)deF( evreseR
+larédéF
+00,4-57,3
+52,3-00,3
+52,3-00,3
+05,2-52,2
+05,2-52,2
+57,1-05,1
+00,1-57,0
+05,0-52,0
+05,0-52,0
+52,0-00,0
+52,0-00,0
+52,0-00,0
+52,0-00,0
+xuarédéF
+sdnoF
+sed
+xuaT
+)JoB( nopaJ
+fo
+knaB
+01,0
+-
+01,0
+-
+01,0
+-
+01,0
+-
+01,0
+-
+01,0
+-
+01,0
+-
+01,0
+-
+01,0
+-
+01,0-
+01,0-
+01,0
+-
+01,0
+-
+ruoj el ruoj
+ua
+xuaT
+)EoB( dnalgnE
+fo
+knaB
+000,3
+052,2
+052,2
+57,1
+57,1
+52,1
+00,1
+57,0
+57,0
+05,0
+52,0
+52,0
+01,0
+noisnep
+ne esirp
+ed
+xuaT
+adanaC
+ud
+euqnaB
+057,3
+057,3
+052,3
+05,2
+05,2
+05,1
+00,1
+05,0
+05,0
+52,0
+52,0
+52,0
+52,0
+tnemecnanfier
+ed
+xuaT
+)ECB(
+enneéporuE
+elartneC
+euqnaB
+-ecnanfier
+ed
+snotiarépo
+selapicnirp
+sed
+xuaT
+00,2
+00,2
+052,1
+05,0
+05,0
+00,0
+00,0
+00,0
+00,0
+00,0
+00,0
+00,0
+00,0
+tnem
+OAECB
+05,4
+05,4
+05,4
+52,4
+52,4
+52,4
+00,4
+00,4
+00,4
+00,4
+00,4
+00,4
+00,4
+snoisnep
+sed
+xuaT
+05,2
+05,2
+05,2
+52,2
+52,2
+52,2
+00,2
+00,2
+00,2
+00,2
+00,2
+00,2
+00,2
+sétidiuqil
+ed noticejni'd
+xuaT
+52,8
+5,7
+5,7
+5,7
+5,7
+5,7
+5,7
+5,7
+5,7
+5,7
+5,7
+5,8
+5,8
+CCB
+al ed ruetcerid
+xuaT
+5,61
+5,51
+05,51
+0,31
+0,31
+0,31
+0,31
+5,11
+5,11
+5,11
+5,11
+5,11
+5,11
+NCB
+al ed sruetcerid
+xuaT
+52,6
+5,5
+5,5
+5,5
+5,5
+57,4
+57,4
+52,4
+0,4
+0,4
+0,4
+57,3
+57,3
+BRAS
+al ed sruetcerid
+xuaT
+BRAS
+te
+NCB
+,CCB
+,OAECB
+,
+ECB
+,adanaC
+ud
+euqnaB
+,JoB
+,EoB ,deF
+:
+secruoS
+
+--- Page 24 ---
+2. Secteur Réel de la CEMAC
+2.1 Activité économique récente
+Au troisième trimestre 2022, l’Indicateur Composite des Activités Economiques de la CEMAC,
+en glissement annuel, s’est inscrit en hausse de 5,3 %, en recul par rapport à la même période un
+an plus tôt (+ 6,1 %) qui était alors caractérisée par une situation de sortie de crise sanitaire . En
+glissement trimestriel, l’ICAE s’est accru de 0,8 % au troisième trimestre 2022, après une stagnation
+un trimestre plus tôt. Cette progression de l’ICAE reflète une certaine résilience du secteur réel dans
+la Sous-Région, en dépit d’un contexte économique international préoccupant et d’une atonie de la
+demande intérieure. Dans le même temps, l’inflation à fin septembre 2022 s’est hissée à 4,3 % en
+moyenne annuelle, et à 7,0 % en glissement annuel, contre respectivement 1,8 % et 1,7 % un an
+plus tôt . Néanmoins, d’importantes disparités demeurent au niveau des pays .
+En effet, à la fin du troisième trimestre 2022, en glissement annuel, la République Centrafricaine
+a enregistré un rebond d’activité (+10,8 %, contre 2,0 % un an plus tôt) en lien avec une situation
+sécuritaire relativement plus favorable qu’en 2021 . Le Tchad a consolidé sa bonne progression,
+avec une hausse de l’ICAE de 11,1 % au troisième trimestre 2022, contre 9,4 % un an auparavant .
+Dans un contexte de bonne tenue des cours des hydrocarbures et en dépit d’une évolution timide de
+la production de gaz et de pétrole brut, la Guinée Equatoriale enregistre de bonnes performances
+au troisième trimestre 2022 avec un ICAE en hausse de 7,9 % en glissement annuel, contre
+- 3,3 % un an plus tôt . L’activité a également connu une progression favorable au Cameroun bien
+que moins importante que les performances du troisième trimestre 2022 et en dépit des tensions
+inflationnistes significatives, avec une augmentation de l’ICAE de 5,2 % en glissement annuel au
+troisième trimestre 2022, contre 6,7 % un an plus tôt . Dans la même veine, l’activité est ressortie
+favorable au Gabon, puisque l’ICAE s’est accru de 4,3 % au troisième trimestre 2022 en glissement
+annuel, moins que 7,9 % un an plus tôt . L’activité au Congo s’est repliée au troisième trimestre
+2022, avec un ICAE en baisse à -1,9 % en glissement annuel, en lien avec un secteur pétrolier qui
+ne parvient pas en 2022 à stimuler significativement l’activité économique dans le pays.
+Les évolutions enregistrées au troisième trimestre bénéficient d’un contexte favorable des prix
+des hydrocarbures, avec des répercussions positives sur les finances publiques et les stimulis
+budgétaires. Les entreprises du secteur privé font toujours face à des difficultés d’approvisionnement,
+avec une incidence défavorable sur les coûts de production . Toutefois, elles font preuve de résilience,
+ce qui leur a permis d’accroître leur niveau d’activité par rapport au troisième trimestre 2022 . Sur
+la base de ces éléments, le taux de croissance du PIB réel en glissement annuel de la CEMAC au
+troisième trimestre 2022 est estimé à 3,2 %, contre 4,3 % un an plus tôt . En variation trimestrielle,
+le PIB de la CEMAC a enregistré une hausse de 0,6 % au terme du troisième trimestre 2022, contre
+0,3 % au trimestre précédent .
+2.2 Perspectives macroéconomiques à court terme
+L’atonie de la demande intérieure, en proie à des tensions inflationnistes, de même que l’incidence
+toujours prononcée de la crise russo-ukrainienne et les perturbations des chaînes d’approvisionnement
+mondiales devraient continuer à affecter négativement l’activité dans la CEMAC . A contrario, les
+activités sylvicoles, minières et gazières resteraient de solides soutiens à la croissance dans la Sous-
+Région, de même que le dynamisme saisonnier de la demande intérieure, en lien avec les festivités
+de fin d’année. Les estimations pour le quatrième trimestre 2022, en glissement annuel, prévoient
+ainsi une hausse sensiblement moins importante de l’ICAE de la CEMAC à 1,7 % (contre 7,7 % un an
+plus tôt) . En glissement trimestriel, l’ICAE devrait enregistrer la plus forte hausse de l’année à 1,1 %,
+au quatrième trimestre 2022, contre 0,8 % un trimestre plus tôt .
+Bulletin Economique et Statistiques Page 24
+
+--- Page 25 ---
+Sur l’ensemble de l’année 2022, les prévisions mises à jour à fin novembre 2022 par les services de
+la BEAC tablent sur : i) une croissance économique qui passerait de 1,7 % en 2021 à 2,9 % en 2022 (au
+lieu de 3,2 % attendu), portée principalement par un rebond de la croissance pétrolière, et en dépit d’une
+décélération de la croissance non pétrolière, ii) une accélération des pressions inflationnistes à 5,5 % en
+2022, contre 1,7 % un an plus tôt, iii) un redressement du solde budgétaire base engagements, dons compris,
+qui deviendrait excédentaire à 0,7 % du PIB en 2022, après -1,3 % du PIB en 2021, ainsi que celui du solde
+du compte courant qui passerait d’un déficit de 0,6 % du PIB en 2021 à un excédent de 5,6% du PIB en 2022.
+Sur le plan de la monnaie, la masse monétaire augmenterait de 15,7 % tandis que les avoirs extérieurs nets
+bondiraient de 74,8 % .
+G9. PIB nominal des pays de la CEMAC (en milliards de FCFA)
+7 786
+Tchad
+6 770
+8 833
+Guinée Eq.
+6 944
+12 376
+Gabon
+9 916
+2022Prév. 2021
+10 320
+Congo
+7 848
+1 478
+RCA
+1 384
+28 617
+Cameroun
+25 172
+0 5 000 10 000 15 000 20 000 25 000 30 000 35 000
+Sources : Administrations nationales et BEAC
+T4 : Evolution des taux de croissance infra-annuels du PIB réel de la CEMAC
+Secteur primaire Secteur secondaire Secteur tertiaire Taxes nettes sur les produits
+2020 2021 2022 2020 2021 2022 2020 2021 2022 2020 2021 2022
+Estim. Prev. Estim. Prev. Estim. Prev. Estim. Prev.
+Cameroun 0,2 0,5 0,4 0,9 0,9 0,8 - 0,4 2,1 2,1 -0,1 0,2 0,5
+République Centrafricaine 1,2 1,5 2,4 - 0,9 0,0 - 0,2 0,9 - 0,6 - 0,8 - 0,6 0,1 0,4
+Congo - 3,9 - 4,5 -1 ,3 - 0,3 0,8 0,6 - 1,7 1,6 1,2 - 0,2 0,2 0,2
+Gabon 0,9 - 0,7 1,7 - 1,3 1,1 0,4 - 1,0 0,7 1,0 - 0,3 0,5 0,2
+Guinée Equatoriale - 0,2 - 4,5 -0,7 - 2,9 1,6 3,2 - 1,5 3,6 1,8 0,0 0,2 0,2
+Tchad 0,5 - 3,0 1,9 - 0,6 0,4 -0,2 - 2,0 0,5 0,5 0,0 0,2 -0,1
+CEMAC - 0,5 - 1,2 0,5 -0,2 0,8 0,7 - 1,0 1,6 1,7 0,1 0,4 0,3
+Sources: Administrations nationales et BEAC
+Bulletin Economique et Statistiques Page 25
+
+--- Page 26 ---
+2.3 Prix
+Au troisième trimestre 2022 , le niveau général des prix dans la CEMAC a été encore révisé
+au-dessus des attentes présentées lors du dernier CPM. En effet, l’inflation s’est hissée à 4,3 %
+en moyenne annuelle et 7,0 % en glissement annuel, contre respectivement 1,8 % et 1,7 % un
+an plus tôt . Pour l’essentiel, en glissement annuel, la dynamique projetée à court terme serait
+impactée à fin septembre 2022 principalement par une contribution en hausse de la fonction
+« produits alimentaires et boissons non alcoolisées » (3,0 points en moyenne annuelle en
+septembre 2022, contre 1,0 point douze mois plus tôt) .
+Les estimations au troisième trimestre 2022 sont marquées par une accentuation des
+pressions inflationnistes dans la CEMAC, dans un contexte d’inflation mondiale toujours forte,
+une dépréciation de l’euro, des cours mondiaux des biens alimentaires élevés et des perturbations
+dans les circuits d’approvisionnements internationaux. Sur le plan externe, l’inflation alimentaire
+importée s’est accrue, en lien avec des tensions persistantes au niveau mondial dans le sillage
+du conflit ukrainien, et en dépit d’une modération du coût du fret maritime depuis juin. Sur le plan
+interne, les aléas climatiques perturbent significativement l’offre alimentaire domestique, tandis que
+le coût des engrais demeure élevé exerçant une pression sur les coûts de la production agricole
+dans la Sous-Région, inhibant ainsi les efforts d’encadrement des prix ainsi que les mesures
+fiscalo-douanières prises par les gouvernements de la Sous-région pour modérer les tendances
+inflationnistes dans la Zone. Ainsi, en dépit d’une demande atone, les prix s’accroissent fortement
+dans la CEMAC, portés par une instabilité de l’offre, notamment dans l’alimentaire
+Bulletin Economique et Statistiques Page 26
+
+--- Page 27 ---
+Bulletin Economique et Statistiques Page 27
+siom
+sreinred
+21
+sel
+rus
+noitaflni'd
+xuaT
+.5T
+notiammosnoC
+al
+à
+xirP
+sed
+ecidnI'l
+ed
+elleunna
+enneyom
+ne
+notiairaV
+22-tpes
+22-tûoa
+22-liuj
+22-niuj
+22-iam
+22-rva
+22-sram
+22-rvéf
+22-vnaj
+12-céd
+12-von
+12-tco
+12-tpes
+1,5
+7,4
+3,4
+0,4
+6,3
+3,3
+0,3
+7,2
+5,2
+3,2
+2,2
+2,2
+2,2
+nuoremaC
+9,4
+5,4
+1,4
+7,3
+5,3
+5,3
+6,3
+7,3
+0,4
+3,4
+3,4
+1,4
+1,4
+eniacirfartneC
+euqilbupéR
+8,2
+7,2
+6,2
+6,2
+6,2
+5,2
+4,2
+2,2
+3,2
+3,2
+2,2
+1,2
+8,1
+ognoC
+1,3
+7,2
+3,2
+9,1
+6,1
+4,1
+3,1
+2,1
+1,1
+1,1
+1,1
+1,1
+2,1
+nobaG
+2,4
+8,3
+3,3
+8,2
+1,2
+5,1
+1,1
+6,0
+2,0
+1,0-
+3,0
+-
+4,0-
+4,0
+-
+elairotauqE
+eéniuG
+4,3
+7,2
+8,1
+2,1
+7,0
+2,0
+2,0-
+6,0-
+8,0
+-
+8,0
+-
+6,0
+-
+3,0
+6,1
+-
+dahcT
+3,4
+8,3
+4,3
+0,3
+7,2
+4,2
+1,2
+9,1
+8,1
+7,1
+6,1
+7,1
+8,1
+*CAMEC
+5,6
+1,6
+8,5
+5,5
+2,5
+9,4
+5,4
+2,4
+8,3
+5,3
+3,3
+1,3
+AOMEU
+1,7
+5,6
+0,6
+4,5
+9,4
+4,4
+9,3
+3,3
+9,2
+6,2
+2,2
+7,1
+4,1
+oruE enoZ
+2,4
+8,3
+5,3
+0,3
+7,2
+4,2
+1,2
+9,1
+7,1
+5,1
+3,1
+1,1
+9,0
+ecnarF
+9,7
+7,7
+4,7
+2,7
+9,6
+6,6
+2,6
+7,5
+2,5
+7,4
+2,4
+8,3
+3,3
+sinU statE
+CAEB
+te
+selanoitan
+snoitartsinimdA
+,IMF
+:
+secruoS
+notiammosnoC
+al
+à
+xirP
+sed
+ecidnI'l
+ed
+leunna
+tnemessilg
+ne
+notiairaV
+22-tpes
+22-tûoa
+22-liuj
+22-niuj
+22-iam
+22-rva
+22-sram
+22-rvéf
+22-vnaj
+12-céd
+12-von
+12-tco
+12-tpes
+8,7
+0,7
+3,6
+2,6
+1,6
+7,5
+8,4
+6,4
+2,4
+6,3
+5,2
+3,2
+5,2
+nuoremaC
+7,7
+2,8
+2,7
+8,4
+3,5
+3,21
+5,2
+9,1
+5,1-
+7,2
+2,4
+8,2
+9,3
+eniacirfartneC
+euqilbupéR
+7,3
+8,3
+6,2
+3,3
+4,3
+9,2
+9,3
+7,1
+7,1
+5,1
+9,1
+9,2
+6,2
+ognoC
+8,5
+6,5
+9,4
+3,4
+3,3
+8,2
+8,2
+3,2
+8,1
+6,1
+2,1
+8,0
+7,0
+nobaG
+6,5
+1,6
+3,5
+2,6
+3,5
+6,4
+0,4
+4,3
+9,2
+9,2
+0,2
+8,1
+6,0
+elairotauqE
+eéniuG
+2,7
+7,7
+1,6
+3,5
+0,5
+0,4
+5,3
+2,2
+0,2
+0,1
+8,
+1-
+5,1
+-
+9,0
+-
+dahcT
+0,7
+7,6
+8,5
+4,5
+2,5
+3,5
+0,4
+3,3
+8,2
+6,2
+7,1
+5,1
+7,1
+*CAMEC
+5,8
+1,8
+5,7
+8,6
+8,6
+6,6
+1,6
+4,6
+9,5
+9,4
+1,5
+9,4
+AOMEU
+9,9
+1,9
+9,8
+6,8
+1,8
+4,7
+4,7
+9,5
+1,5
+0,5
+9,4
+1,4
+4,3
+oruE enoZ
+6,5
+9,5
+1,6
+8,5
+2,5
+8,4
+5,4
+6,3
+9,2
+8,2
+8,2
+6,2
+2,2
+ecnarF
+2,8
+3,8
+5,8
+1,9
+6,8
+3,8
+5,8
+9,7
+5,7
+0,7
+8,6
+2,6
+4,5
+sinU statE
+CAEB
+te
+selanoitan
+snoitartsinimdA
+,IMF
+:secruoS
+
+--- Page 28 ---
+Bulletin Economique et Statistiques Page 28
+noitammosnoc
+ed
+noitcnof
+rap
+CAMEC
+al
+ed
+xirp
+sed
+ecidnI
+.6T
+1102
+eénnA
+:
+001
+esaB
+**.nnA
+.ilG
+*.nnA
+.yoM
+22-tpes
+22-tûoa
+22-liuj
+22-niuj
+22-iam
+22-rva
+22-sram
+22-rvéf
+22-vnaj
+12-céd
+12-von
+12-tco
+12-tpes
+NOITAMMOSNOC
+ED
+SETSOP
+-iloocla
+non
+snossiob
+te seriatnemila
+stiudorP
+%
+7,11
+%7,7
+9,041
+1,041
+9,831
+8,731
+9,531
+4,331
+6,131
+7,921
+3,821
+4,721
+2,521
+3,521
+2,621
+seés
+%
+0,1
+%4,2
+5,331
+8,331
+0,331
+3,431
+5,331
+3,331
+1,331
+8,031
+2,031
+5,921
+7,821
+5,821
+3,821
+cabat
+te seésiloocla
+snossioB
+%
+2,5
+%2,3
+4,521
+7,421
+1,421
+9,321
+1,321
+5,221
+7,121
+6,121
+2,121
+4,021
+9,911
+5,911
+2,911
+serussuahc
+te tnemellibah'd
+selctirA
+-moc
+sertua
+te
+éticirtcelé
+,zag
+,uae
+,tnemegoL
+%
+4,2
+%1,1
+5,721
+7,721
+7,621
+2,621
+2,721
+7,621
+3,621
+6,521
+7,521
+6,521
+0,521
+7,421
+6,421
+selbtisub
+-uoc
+netiertne
+te
+eganém
+ed
+selctira
+,selbueM
+%
+5,6
+%1,3
+9,621
+4,621
+5,521
+5,421
+4,321
+2,221
+4,121
+0,121
+4,021
+2,021
+6,911
+3,911
+1,911
+nosiam
+al ed
+tnar
+%
+7,1
+%1,1
+0,911
+8,811
+4,811
+8,811
+6,811
+1,811
+7,711
+5,711
+5,711
+3,711
+2,711
+3,711
+0,711
+étnaS
+%
+8,3
+%2,2
+6,431
+6,431
+4,431
+9,431
+7,331
+7,231
+6,231
+9,131
+6,131
+9,031
+5,031
+0,031
+8,921
+stropsnarT
+%
+0,1
+%4,0
+2,59
+0,59
+0,59
+0,59
+8,49
+7,49
+6,49
+6,49
+5,49
+5,49
+4,49
+4,49
+4,49
+snotiacinummoC
+%
+2,2
+%5,1
+6,811
+4,811
+4,811
+1,811
+9,711
+4,711
+2,711
+0,711
+9,611
+7,611
+5,611
+2,611
+1,611
+erutluc
+te
+srisioL
+%
+9,4
+%7,1
+9,541
+6,441
+0,041
+0,041
+0,041
+9,931
+0,041
+9,931
+8,931
+8,931
+6,931
+5,931
+1,931
+tnemengiesnE
+%
+3,7
+%1,4
+4,241
+6,141
+3,141
+8,931
+0,931
+5,731
+0,631
+4,531
+0,531
+6,431
+4,331
+3,331
+8,231
+sletôh
+te
+stnaruatseR
+%
+8,4
+%6,2
+9,131
+4,131
+8,031
+2,921
+8,821
+2,821
+7,721
+4,721
+2,721
+3,621
+0,621
+1,621
+9,521
+srevid
+secivres
+te
+sneiB
+%
+0,7
+%3,4
+9,231
+5,231
+6,131
+9,031
+0,031
+6,821
+6,721
+6,621
+9,521
+3,521
+2,421
+1,421
+3,421
+larénég
+ecidnI
+%
+0,7
+-
+9,231
+5,231
+6,131
+9,031
+0,031
+6,821
+6,721
+6,621
+9,521
+3,521
+2,421
+1,421
+3,421
+xuacol
+stiudorP
+-
+-
+sétropmi
+stiudorP
+%
+0,4
+%1,2
+9,721
+7,721
+9,621
+6,621
+3,621
+6,521
+1,521
+6,421
+4,421
+0,421
+5,321
+3,321
+1,321
+notiatnemila
+sroh
+ecidnI
+%
+2,4
+%2,2
+7,321
+4,321
+7,221
+1,221
+7,121
+0,121
+5,021
+1,021
+9,911
+5,911
+1,911
+9,811
+7,811
+stropsnarT
+sroh
+ecidnI
+%
+0,4
+%1,2
+7,621
+4,621
+6,521
+1,521
+9,421
+3,421
+8,321
+3,321
+1,321
+8,221
+3,221
+1,221
+8,121
+stropsnart
+te
+notiatnemila
+sroh
+ecidnI
+%
+1,6
+%6,3
+4,721
+0,721
+2,621
+8,521
+0,521
+8,321
+0,321
+0,221
+5,121
+0,121
+1,021
+0,021
+1,021
+tnecaj-suos
+ecidnI
+CAEB
+te
+selanoitan
+snoitartsinimdA
+: secruoS
+leunna
+tnemessilG
+)**(
+,elleunna
+enneyoM
+)*(
+
+--- Page 29 ---
+G10. Contribution absolue des fonctions de consommation
+à l’indice des prix à la consommation de la CEMAC
+(en moyenne annuelle)
+5%
+3%
+1%
+sept-21 oct-21 nov-21 déc-21 janv-22 févr-22 mars-22 avr-22 mai-22 juin-22 juil-22 août-22 sept-22
+-1%
+Biens et services divers Restarants et hotels
+Enseignement Loisirs et culture
+Communications Transports
+Santé Meubles, articles de ménage et entretien courant de la maison
+Logement, eau, gaz, électricité et autres combustibles Articles d'habillement et chaussures
+Boissons alcoolisees et tabac Produits alimentaires et boissons non alcoolisees
+Indice général national (échelle de droite)
+Sources : Administrations nationales et BEAC
+G11. Contribution absolue des fonctions de consommation à l’indice des prix à
+la consommation dans la CEMAC
+(en glissement annuel)
+7%
+5%
+3%
+1%
+sept-21 oct-21 nov-21 déc-21 janv-22 févr-22 mars-22 avr-22 mai-22 juin-22 juil-22 août-22 sept-22
+-1%
+Biens et services divers Restarants et hotels
+Enseignement Loisirs et culture
+Communications Transports
+Santé Meubles, articles de ménage et entretien courant de la maison
+Logement, eau, gaz, électricité et autres combustibles Articles d'habillement et chaussures
+Boissons alcoolisees et tabac Produits alimentaires et boissons non alcoolisees
+Indice général national (échelle de droite)
+Sources : FMI, Administrations nationales et BEAC
+Bulletin Economique et Statistiques Page 29
+
+--- Page 30 ---
+3. BALANCE DES PAIEMENTS ET COMPETITIVITE
+3.1 Balance des paiements
+Le solde du compte courant dons compris s’améliorerait sensiblement, passant d’un déficit de 0,6 % du
+PIB en 2021 à un excédent de 5,6% du PIB en 2022 . Cette évolution favorable serait principalement portée
+par l’augmentation des exportations pétrolières (+9,4 points) et non pétrolières (+ 5,1 points), malgré l’apport
+négatif des importations de biens (- 4,1 points), du solde net débiteur de la balance des services (- 2,1 points)
+et du solde net débiteur de la balance des revenus (- 2,3 %) .
+En particulier, l’augmentation des exportations devrait être portée par le pétrole (+ 63,2 % à 16 912,7 mil-
+liards), le gaz (+ 118,7 % à 2518,1 milliards) et le manganèse (+29,6 % à 883,6 milliards) dans un contexte de
+hausse sensible des cours sur les marchés internationaux . Les importations de biens et services progresse-
+raient de 31,3 % à 12 077,1 milliards, en lien avec la hausse des dépenses budgétaires (+ 12,4 %), dans un
+contexte marqué par l’organisation ou la préparation d’évènements politiques majeurs dans plusieurs pays, et
+l’augmentation des importations de biens des entreprises pétrolières et minières .
+Au final, le solde global de la balance des paiements de la CEMAC ressortirait créditeur net de
+1 000,7 milliards en 2022, soit environ 1,4 % du PIB, contre un déficit de 1,4 % du PIB une année plus tôt.
+T7 : Soldes de la balance des paiements (en % du PIB)
+Solde du compte de capital et d'opé-
+Solde des transactions courantes Solde global
+rations financières
+2020 2021 2022 Prev. 2020 2021 2022 Prev. 2020 2021 2022 Prev.
+Cameroun - 3,8 - 3,3 - 0,7 2,0 2,2 -1,0 -1,9 - 0,5 - 1,7
+République Centrafricaine - 6,9 - 10,0 - 10,6 6,6 6,2 10,2 0,4 - 4,7 - 0,3
+Congo 12,7 11,4 16,3 - 13,6 -14,3 -18,6 - 1,2 - 1,3 - 2,4
+Gabon - 1,5 5,5 4,2 2,0 -5,8 -3,5 - 2,7 - 2,9 0,2
+Guinée Equatoriale 2,5 -8,2 0,8 -2,6 11,9 2,9 -2,4 1,1 3,7
+Tchad 3,0 0,2 6,1 -3,8 -5,3 -5,2 - 1,3 - 3,3 1,5
+CEMAC 0,4 -0,7 5,3 -1,0 -1,0 -3,8 -1,6 - 1,0 1,5
+Sources : Administrations nationales et BEAC
+Bulletin Economique et Statistiques Page 30
+
+--- Page 31 ---
+T8 : Solde de la balance commerciale
+Exportations Importations Balance commerciale
+(variation en %) (variation en %) (en milliards de FCFA)
+2020 2021 2022 Prev. 2020 2021 2022 Prev. 2020 2021 2022 Prev.
+Cameroun - 21,6 25,8 44,7 - 20,2 18,3 26,3 -391,3 - 272,2 242,3
+République Centrafricaine - 11,4 -3,3 11,2 - 18,9 -8,2 12,6 -213,9 - 192,5 - 217,9
+Congo - 41,1 44,2 52,4 - 19,4 12,6 16,1 1 248,2 2 307,8 4 171,2
+Gabon - 18,5 28,7 48,6 - 5,9 -1,2 58,2 963,5 1 860,2 2 567,1
+Guinée Equatoriale - 48,8 52,5 70,6 - 39,6 77,4 47,5 837,3 1 092,5 2 169,5
+Tchad - 32,4 46,7 73,5 -3,5 3,1 1,1 239,9 678,6 1 737,5
+CEMAC - 32,9 32,5 66,4 - 10,0 14,4 30,5 2 868,3 5 251,1 12 046,5
+Sources : Administrations nationales et BEAC
+3.2 Compétitivité
+Au cours du troisième trimestre 2022, la compétitivité prix des économies de la CEMAC, appréciée à partir du
+taux de change effectif réel (TCER) global, s’est caractérisée par une réduction des gains de positions concur-
+rentielles enregistrés au deuxième trimestre 2022 . Au total, le TCER global est passé de - 2,4 % au deuxième
+trimestre 2022 à - 1,5 % au troisième trimestre 2022 .
+En outre, l’examen de la compétitivité prix des pays de la CEMAC entre le premier trimestre et le deuxième
+trimestre 2022, fait déduire une dépréciation notable du franc CFA par rapport aux monnaies de la plupart des
+principaux partenaires commerciaux . Ainsi, le TCEN s’est inscrit en diminution de 5,1 % au deuxième trimestre
+2022, contre un recul de 0,2 % au trimestre précédent .
+En termes de contributions à la variation du TCER global de la CEMAC au troisième trimestre 2022, l’analyse
+du graphique G12 montre que la contribution absolue du TCER des importations a été de - 1,0 % et celle des
+exportations de - 0,5 % .
+Bulletin Economique et Statistiques Page 31
+
+--- Page 32 ---
+G12. Evolution du TCER/TCEN
+130
+125
+120
+115
+110
+105
+100
+95
+90
+85
+80
+2019Q2 2019Q3 2019Q4 2020Q1 2020Q2 2020Q3 2020Q4 2021Q1 2021Q2 2021Q3 2021Q4 2022Q1 2022Q2 2022Q3
+TCEN_global (hors pétrole et gaz) TCER_global (hors pétrole et gaz)
+Sources : Administrations nationales et BEAC
+T9 : Compétitivité
+(variations en %)
+TCER composite (*) TCER des exportations TCER des importations
+2021Q4 2022Q1 2022Q2 2022Q3 2021Q4 2022Q1 2022Q2 2022Q3 2022Q1 2022Q1 2022Q2 2022Q3
+Cameroun - 2,8 - 0,5 - 4,0 - 1,6 - 3,4 - 0,3 - 6,2 - 2,9 - 0,7 - 0,7 - 2,5 - 0,7
+République
+- 3,1 - 3,2 - 0,5 - 3,7 - 4,2 - 3,3 - 6,8 - 6,3 - 3,1 - 3,1 1,3 - 3,0
+Centrafricaine
+Congo - 2,5 - 0,9 - 3,3 - 3,2 - 3,6 - 0,3 - 8,5 - 6,0 - 1,0 - 1,0 - 1,9 - 2,5
+Gabon - 1,2 - 1,9 - 4,8 0,0 - 0,5 - 2,2 - 6,5 0,0 - 1,5 - 1,5 - 1,8 0,0
+Guinée Equa-
+- 3,2 - 0,5 - 6,7 - 3,7 - 3,5 - 0,2 - 9,1 - 5,0 - 1,1 - 1,1 - 2,0 - 1,4
+toriale
+Tchad - 3,7 - 2,2 - 0,7 2,1 - 5,4 - 3,7 - 0,3 5,5 - 0,8 - 0,8 - 1,1 - 1,0
+CEMAC - 2,4 - 1,1 - 2,4 - 1,5 - 2,4 - 1,2 - 5,2 - 1,7 - 2,3 - 1,1 - 1,1 - 1,4
+(*) Cotation au certain du FCFA par rapport aux autres monnaies.
+Source : BEAC
+G13. Evolution de l’indice composite du TCER
+12,0
+7,0
+2,0
+-3,0
+-8,0
+2020Q4 2021Q1 2021Q2 2021Q3 2021Q4 2022Q1 2022Q2 2022Q3
+Cameroun République Centrafricaine Congo Gabon Guinée Equatoriale Tchad CEMAC
+Sources : Administrations nationales et BEAC
+Bulletin Economique et Statistiques Page 32
+
+--- Page 33 ---
+4. SECTEUR PUBLIC
+Finances publiques et endettement
+La gestion des finances publiques devrait se traduire par une consolidation de l’excédent du
+solde budgétaire, base engagements, dons compris, qui se situerait en moyenne autour de 0,8 %
+du PIB sur la période 2023-2025, après 0,7 % du PIB en 2022 . Concernant le compte extérieur,
+l’excédent du solde extérieur courant, dons inclus, reculerait de 1,4 % du PIB en 2023 à 0,3 %
+du PIB en 2024 puis à 0,0 % du PIB en 2025, après un pic de 5,6 % du PIB en 2022, en relation
+essentiellement avec la détérioration anticipée des termes de l’échange sur la période .
+Au plan stratégique, la variation du solde budgétaire en pourcentage du PIB serait induite
+essentiellement par l’accroissement des recettes budgétaires . En effet, le solde budgétaire, base
+engagements, dons compris, en pourcentage du PIB, augmenterait de 2,1 points en 2022 en
+relation principalement avec la hausse des recettes pétrolières (contribution de 1,2 points) et non
+pétrolières (contribution de 1,2 point) . Des contributions négatives seraient observées au niveau
+des dépenses courantes (- 0,1 point) et dépenses en capital (- 0,6) . La hausse des recettes pétro-
+lières est liée à la bonne tenue des cours du baril (98,2 dollar le baril en 2022 contre 69,4 dollar
+le baril en 2021). Les recettes non pétrolières tireraient profit des efforts réalisés pour mobiliser
+des recettes fiscales, notamment avec l’informatisation accrue de la collecte des impôts et taxes
+dans la plupart des pays de la CEMAC, et la formalisation de plusieurs entreprises informelles
+dans certains pays de la CEMAC, favorisée par l’application plus rigoureuse de la réglementation
+de change .
+Bulletin Economique et Statistiques Page 33
+
+--- Page 34 ---
+T10 : Evolution des finances publiques des pays de la CEMAC (en % du PIB)
+Solde budgétaire global, base
+Recettes globales Dépenses globales
+engagements, dons compris
+2020 2021 2022 Prev. 2020 2021 2022 Prev. 2020 2021 2022 Prev.
+Cameroun - 3,3 - 3,1 - 1,4 14,0 14,3 14,7 12,5 11,9 11,0
+République Centrafricaine - 2,5 - 6,9 - 2,3 68,7 61,4 81,2 52,1 59,4 57,8
+Congo - 1,0 1,8 5,1 19,9 21,4 23,1 19,1 17,6 15,3
+Gabon - 2,1 - 1,8 1,9 19,2 15,8 17,6 18,6 16,3 13,2
+Guinée Equatoriale - 1,8 3,0 - 1,0 14,2 15,1 13,3 12,0 9,6 10,9
+Tchad 1,2 - 2,8 2,1 14,3 12,6 16,1 10,8 12,2 11,4
+CEMAC - 2,0 - 1,5 0,6 15,5 15,3 16,3 14,1 13,2 12,1
+Sources : Administrations nationales et BEAC
+T11 : Evolution de la dette publique extérieure des pays de la CEMAC (en % du PIB)
+Encours de la dette extérieure Service de la dette extérieure Service de la dette extérieure
+(en % du PIB) (en % des Xbsnf) (en % des recettes budgétaires)
+2020 2021 2022 Prev. 2020 2021 2022 Prev. 2020 2021 2022 Prev.
+Cameroun 29,6 30,1 29,5 13,3 18,3 9,8 15,2 26,1 17,5
+République Centrafricaine 24,3 23,8 25,6 2,9 0,5 0,6 6,0 2,9 3,5
+Congo 62,5 48,5 39,1 16,3 11,3 11,2 37,5 28,5 28,4
+Gabon 34,8 28,5 25,7 21,6 19,0 7,4 50,1 51,2 19,1
+Guinée Equatoriale 9,1 6,3 4,1 15,9 6,1 4,2 41,1 17,5 15,1
+Tchad 25,6 25,2 23,7 11,8 10,5 8,1 13,6 19,5 15,6
+CEMAC 31,6 28,7 26,4 16,6 14,6 8,8 28,4 29,2 19,5
+Sources : Administrations nationales et BEAC
+Bulletin Economique et Statistiques Page 34
+
+--- Page 35 ---
+5. MONNAIE ET CREDIT
+L’évolution de la masse monétaire (M2) de la CEMAC et de ses contreparties, en glissement
+annuel, à fin septembre 2022 a été marquée par :
+• une hausse des avoirs extérieurs nets du système monétaire de 85,9 % . Cette évolution
+est tirée par la forte progression des avoirs extérieurs bruts (32,5 %) du fait des rapatrie-
+ments de devises effectués par les opérateurs économiques que la hausse des engage-
+ments extérieurs (11,6 %) du système monétaire n’ont pas pu compenser . Les réserves de
+change se sont situées à 6 111,3 milliards à fin septembre 2022, contre 4 612,9 milliards
+un an plus tôt, et ont représenté environ 3,68 mois d’importations de biens et services . Le
+taux de couverture extérieure de la monnaie est passé de 65,86 % en septembre 2021 à
+72,01 % un an plus tard ;
+• une expansion des créances nettes du système monétaire sur les États de la CEMAC
+de 17,4 % à 8 461,1 milliards, en raison de l’intensification par les Etats des émissions de
+titres publics qui sont détenus par les banques de la sous-région ainsi que de ceux détenus
+par la BEAC dans le cadre de son programme de rachat des titres publics sur le marché
+secondaire ;
+• une hausse des crédits à l’économie, qui sont passés de 8 659,0 milliards à 9 613,6
+milliards, soit une progression de 11,0 % . Cette évolution est principalement liée à celle
+des concours au secteur privé non financier (contribution de 11,3 points), aux entreprises
+publiques non financières (1,1 point) nonobstant la baisse des crédits octroyés aux institu-
+tions financières non monétaires (- 1,3 point).
+En définitive, les disponibilités monétaires et quasi-monétaires (M2) se sont accrues
+de 14,7 % pour s’établir à 16 420,2 milliards à fin septembre 2022 contre 14 310,9 milliards un an
+auparavant . En termes de contributions, les créances nettes sur les États, les crédits à l’économie
+ainsi que les avoirs extérieurs nets ont eu une influence positive sur l’évolution de la masse mo-
+nétaire au sens large (M2) à hauteur respectivement de 6,9 points, 8,8 points et 6,7 points . Les
+ressources non monétaires ont contribué négativement à cette évolution (- 7,6 points) . Toutes les
+composantes de la masse monétaire ont contribué positivement à son expansion, avec 9,9 points
+pour la monnaie scripturale, 3,1 points pour la monnaie fiduciaire et 1,7 point pour les dépôts à
+terme monétaires .
+De l’analyse de l’évolution des crédits par maturité, il ressort une augmentation des crédits
+suivant divers horizons temporels . Sur la période, il est observé une hausse des crédits à long
+terme de 40,1 %, une expansion des crédits à moyen terme à hauteur de 11,7 % et une hausse
+des crédits à court terme de 9,2 % . Les contributions des crédits à court, moyen et long termes à
+l’expansion des concours bancaires à l’économie sont respectivement de 4,9 points, 5,1 points et
+1,0 point .
+Bulletin Economique et Statistiques Page 35
+
+--- Page 36 ---
+Bulletin Economique et Statistiques Page 36
+)AFCF
+ed
+snoillim
+ne(
+tidérc
+ed
+te
+eiannom
+ed
+stagérgA
+:
+21T
+0202
+1202
+CAMEC
+22-peS
+22-tûoa
+22-liuj
+22-niuj
+22-iam
+22-rva
+22-sram
+22-rvéf
+22-vnaj
+12-céd
+12-von
+12-tco
+12-tpes
+675
+531
+2
+388
+721
+2
+170
+449
+1
+263
+728
+1
+918
+104
+1
+535
+464
+1
+109
+773
+1
+080
+631
+1
+232
+382
+1
+815
+313
+1
+616
+311
+1
+495
+154
+1
+310
+941
+1
+sten srueirétxe
+sriovA
+677
+724
+2
+277
+053
+2
+373
+991
+2
+500
+080
+2
+827
+527
+1
+486
+767
+1
+418
+216
+1
+932
+064
+1
+567
+935
+1
+051
+845
+1
+590
+553
+1
+550
+483
+1
+115
+313
+1
+CAEB
+tnod
+911
+164
+8
+268
+113
+8
+386
+652
+8
+317
+620
+8
+918
+211
+8
+757
+476
+8
+290
+983
+8
+095
+980
+8
+299
+686
+7
+285
+691
+8
+982
+232
+7
+560
+482
+7
+357
+502
+7
+tatE'l
+rus setten
+secnaérC
+754
+316
+9
+016
+755
+9
+295
+835
+9
+163
+964
+9
+125
+812
+9
+006
+450
+9
+722
+071
+9
+395
+522
+9
+288
+881
+9
+015
+991
+9
+448
+619
+8
+167
+605
+8
+420
+956
+8
+eimonocé'l
+à stidérC
+289
+690
+5
+770
+390
+5
+882
+390
+5
+153
+960
+5
+737
+979
+4
+165
+019
+4
+061
+489
+4
+574
+211
+5
+592
+510
+5
+988
+770
+5
+425
+509
+4
+130
+335
+4
+135
+866
+4
+emret truoc
+à
+stidérC
+430
+722
+4
+381
+671
+4
+076
+751
+4
+561
+211
+4
+560
+959
+3
+234
+168
+3
+682
+409
+3
+123
+038
+3
+658
+588
+3
+569
+728
+3
+086
+208
+3
+442
+367
+3
+529
+387
+3
+emret
+neyom
+à
+stidérC
+144
+982
+053
+882
+436
+782
+548
+782
+917
+972
+706
+282
+187
+182
+797
+282
+137
+782
+656
+392
+046
+802
+684
+012
+865
+602
+emret gnol
+à
+stidérC
+071
+024
+61
+586
+860
+61
+689
+799
+51
+990
+186
+51
+224
+264
+51
+307
+734
+51
+105
+253
+51
+474
+661
+51
+031
+161
+51
+612
+952
+51
+243
+456
+41
+409
+354
+41
+158
+013
+41
+)2M( eriaténom
+essaM
+730
+286
+3
+456
+207
+3
+372
+607
+3
+709
+906
+3
+965
+316
+3
+625
+736
+3
+288
+065
+3
+565
+174
+3
+011
+565
+3
+166
+266
+3
+213
+693
+3
+079
+813
+3
+731
+932
+3
+eriaicudfi
+eiannoM
+949
+893
+8
+949
+893
+8
+021
+970
+8
+933
+528
+7
+425
+106
+7
+424
+094
+7
+460
+816
+7
+005
+425
+7
+712
+265
+7
+360
+865
+7
+905
+151
+7
+528
+070
+7
+543
+289
+6
+elarutpircs
+eiannoM
+481
+933
+4
+481
+933
+4
+119
+682
+4
+358
+542
+4
+923
+742
+4
+357
+903
+4
+555
+371
+4
+904
+071
+4
+308
+330
+4
+294
+820
+4
+125
+601
+4
+901
+460
+4
+963
+980
+4
+eiannom-isauQ -xe erutrevuoc
+ed
+xuaT
+10,27
+14,07
+14,07
+83,86
+50,76
+96,56
+76,66
+42,56
+42,56
+69,36
+06,66
+77,56
+68,56
+eiannom al
+ed
+erueirét )%
+ne(
+CAEB
+: ecruoS
+)leunna
+tnemessilg
+ne(
+tidérc
+ed
+te
+eiannom
+ed
+stagérgA
+:
+31T
+2202
+1202
+CAMEC
+22-peS
+22-tûoa
+22-liuj
+22-niuj
+22-iam
+22-rva
+22-sram
+22-rvéf
+22-vnaj
+12-céd
+12-von
+12-tco
+12-tpes
+%
+9,58
+%
+3,27
+%
+0,72
+%
+7,01
+%
+0,72
+-
+%
+4,41
+-
+%
+5,31
+-
+%
+8,03
+-
+%
+8,22
+-
+%
+4,23
+-
+%
+5,64
+-
+%
+2,33
+-
+%
+1,25
+-
+sten srueirétxe
+sriovA
+%
+8,48
+%
+6,06
+%
+3,52
+%
+1,91
+%
+6,22
+-
+%
+1,8
+-
+%
+2,6
+-
+%
+0,51
+-
+%
+8,11
+-
+%
+6,42
+-
+%
+7,73
+-
+%
+8,93
+-
+%
+6,74
+-
+CAEB
+tnod
+%
+4,71
+%
+4,31
+%
+4,02
+%
+0,21
+%
+0,02
+%
+0,92
+%
+6,42
+%
+7,52
+%
+7,61
+%
+3,52
+%
+7,42
+%
+4,52
+%
+4,53
+tatE'l
+rus setten
+secnaérC
+%
+0,11
+%
+8,21
+%
+1,31
+%
+6,41
+%
+4,11
+%
+1,9
+%
+4,9
+%
+0,11
+%
+1,51
+%
+0,21
+%
+9,01
+%
+5,7
+%
+1,11
+eimonocé'l
+à stidérC
+%
+2,9
+%
+6,9
+%
+7,01
+%
+6,21
+%
+0,9
+%
+4,6
+%
+4,6
+%
+4,9
+%
+7,9
+%
+6,9
+%
+7,7
+%
+7,1
+%
+9,5
+emret truoc
+à
+stidérC
+%
+7,11
+%
+2,51
+%
+3,41
+%
+5,51
+%
+7,21
+%
+7,01
+%
+7,11
+%
+4,11
+%
+2,12
+%
+6,31
+%
+8,51
+%
+2,61
+%
+0,02
+emret
+neyom
+à
+stidérC
+%
+1,04
+%
+1,44
+%
+5,44
+%
+2,64
+%
+8,44
+%
+4,34
+%
+8,04
+%
+3,44
+%
+8,04
+%
+8,14
+%
+3,3
+%
+5,2
+-
+%
+5,21
+-
+emret gnol
+à
+stidérC
+%
+7,41
+%
+9,11
+%
+8,01
+%
+3,01
+%
+9,8
+%
+3,11
+%
+9,11
+%
+7,21
+%
+0,31
+%
+8,11
+%
+0,21
+%
+1,11
+%
+5,11
+)2M( eriaténom
+essaM
+%
+7,31
+%
+2,41
+%
+3,51
+%
+2,41
+%
+9,41
+%
+3,51
+%
+5,51
+%
+0,51
+%
+5,71
+%
+0,61
+%
+4,41
+%
+8,31
+%
+0,31
+eriaicudfi
+eiannoM
+%
+3,02
+%
+3,51
+%
+4,01
+%
+8,01
+%
+2,8
+%
+8,11
+%
+4,41
+%
+2,51
+%
+5,51
+%
+2,41
+%
+1,11
+%
+6,9
+%
+5,9
+elarutpircs
+eiannoM
+%
+1,6
+%
+5,4
+%
+0,8
+%
+4,6
+%
+6,5
+%
+3,7
+%
+7,4
+%
+8,6
+%
+2,5
+%
+2,4
+%
+6,11
+%
+7,11
+%
+9,31
+eiannom-isauQ
+-ruop
+ed
+tniop
+nE(
+2M
+ed
+ecnassiorc
+al à notiubirtnoC
+)egatnec
+9,6
+2,6
+9,2
+2,1
+7,3
+-
+8,1
+-
+6,1
+-
+8,3
+-
+8,2
+-
+6,4
+-
+4,7
+-
+5,5
+-
+7,9
+-
+sten srueirétxe
+sriovA
+8,8
+9,6
+7,9
+0,6
+5,9
+1,41
+1,21
+3,21
+2,8
+1,21
+9,01
+3,11
+7,41
+tatE'l
+rus setten
+secnaérC
+7,6
+6,7
+6,7
+5,8
+6,6
+4,5
+8,5
+8,6
+0,9
+2,7
+7,6
+6,4
+7,6
+eimonocé'l
+à
+stidérC
+6,7
+-
+7,8
+-
+4,9
+-
+5,5
+-
+6,3
+-
+4,6
+-
+4,4
+-
+7,2
+-
+3,1
+-
+0,3
+-
+9,2
+7,0
+1,0
+-
+sten setsop
+sertuA
+CAEB
+: ecruoS
+
+--- Page 37 ---
+6. Marchés monétaire et des titres publics
+Le marché monétaire a été caractérisé par : i) une densification du réseau interbancaire, avec la
+participation de 31 établissements de crédit aux transactions en octobre 2022 contre 29 trois mois plus
+tôt ; ii) une augmentation de l’encours moyen mensuel des transactions interbancaires qui s’est établi à
+372,9 milliards en octobre 2022 (dont 255,2 milliards d’opérations de pension-livrée et 117,7 milliards d’opéra-
+tions en blanc) ; en octobre 2021, il s’élevait à 231,9 milliards (dont 140,1 milliards d’opérations de pension-li-
+vrée et 91,7 milliards d’opérations en blanc) ; iii) un taux interbancaire moyen pondéré de référence (TIMP à
+7 jours) des opérations en blanc qui est resté presque inchangé à 6,09 % entre juillet et octobre 2022 alors
+que celui des opérations de pension-livrée a reculé de 5,75 % à 4,50% sur la période de référence. A fin
+octobre 2021, le TIMP à 7 jours des opérations en blanc s’était situé à 6,25 % et celui des opérations de
+pension-livrée à 4,25 % .
+Entre octobre 2021 et octobre 2022, le marché des valeurs du Trésor s’est caractérisé par : (i) une
+poursuite du dynamisme des opérations sur les marchés primaire et secondaire, (ii) une baisse des taux
+de couverture des émissions et (iii) un accroissement des coûts des émissions pour l’ensemble des ins-
+truments mobilisés par les Trésors publics . En effet, les encours ont augmenté de 13,3 % passant de
+4 526,4 milliards en octobre 2021 à 5 129 milliards en octobre 2022, malgré la baisse des montants le-
+vés par les Trésors nationaux qui sont revenus à 3 110,2 milliards entre octobre 2021 et octobre 2022,
+contre 4 345,4 milliards entre octobre 2020 et octobre 2021 . La part des titres en circulation détenue par les
+investisseurs institutionnels et les personnes physiques est passée de 7,7 % à 16,7 % en un an .
+Bulletin Economique et Statistiques Page 37
+
+--- Page 38 ---
+T14 : Taux directeurs de la BEAC
+2022
+avr-21 mai-21 juin-21 juil-21 août-21 sept-21 oct-21 nov-21 déc-21 janv-22 fev-22 mars-22 avr-22 mai-22 juin-22
+Taux d'intérêt
+des appels 3,25 3,25 3,25 3,25 3,25 3,25 3,25 3,50 3,50 3,50 3,50 3,50 3,50 3,50 3,50
+d'offres (TIAO)
+Taux interban-
+caire moyen 4,87 4,42 4,38 4,09 3,98 4,12 3,92 4,34 4,21 4,47 4,47 4,47 4,47 4,47 4,47
+pondéré (TIMP)
+Taux créditeur
+2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45 2,45
+minimim (TCM)
+Taux d'intérêt
+de la zone Euro
+Taux d'appels
+0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00
+d'offre
+Facilité de
+- 0,50 - 0,50 - 0,50 - 0,50 - 0,50 - 0,50 - 0,50 - 0,50 - 0,50 - 0,50 - 0,50 - 0,50 - 0,50 - 0,50 - 0,50
+dépots
+* Les taux du marché monétaire sont les taux de fin de période
+Source : BEAC
+G14. Evolution comparée des taux de facilité de prêt marginal de la BCE et de la BEAC
+6,25
+5,75 5,75 5,75 5,75 5,75 5,75
+5,25 5,25 5,25 5,25 5,25
+5,00
+1,50 1,50
+0,75
+0,25 0,25 0,25 0,25 0,25 0,25 0,25 0,25 0,25 0,25
+1 1 1 2 2 2 2 2 2 2 2 2 2
+oct-2 nov-2 déc-2 janv-2 févr-2 mars-2 avr-2 mai-2 juin-2 juil-2 août-2 sept-2 oct-2
+taux de la facilité de prêt marginal BEAC taux de la facilité de prêt marginal BCE
+Sources : BEAC et BCE
+G15. Evolution comparée du TIAO et du taux d’appels d’offres de la BCE
+5,0
+4,0
+3,0
+2,0
+1,0
+0,0
+-1,0
+oct-21 nov-21 déc-21 janv-22 févr-22 mars-22 avr-22 mai-22 juin-22 juil-22 août-22 sept-22 oct-22
+-2,0
+TIAO Taux d'appels d'offre
+Sources : BEAC et BCE
+Bulletin Economique et Statistiques Page 38
+
+--- Page 39 ---
+7. RÉSERVES DES BANQUES
+Au cours des trois derniers mois, les réserves brutes du système bancaire de la CEMAC, avant les
+opérations monétaires, ont progressé de 19,4 % (300 milliards) pour s’établir à 1 844,6 milliards en oc-
+tobre 2022 . Ces réserves se situaient à 1 544,5 milliards trois mois plus tôt (juillet 2022) . Cette évolution
+a été soutenue par l’accroissement de la liquidité injectée à travers les facteurs autonomes de la liquidité
+bancaire (FALB), dont le solde net est passé de 1 782 milliards à 2 101 milliards sur la période . Cette évo-
+lution s’explique principalement par les avoirs extérieurs et les autres postes nets dont les effets expansifs
+de leur hausse sur la liquidité bancaire n’ont pas pu être contrecarrés par les effets restrictifs induits par
+la dynamique des autres facteurs (créances nettes sur les gouvernements et circulation fiduciaire). En
+effet, les contributions des avoirs extérieurs nets et des autres postes nets à l’évolution du solde net des
+FALB ont été de
+Avec la hausse de la liquidité du système bancaire, les établissements de crédit ont moins eu recours
+aux ressources de la Banque Centrale sur la période de référence, entrainant un recul de l’encours moyen
+des interventions de la BEAC sur le marché monétaire de 18,27 % (102,2 milliards) . En effet, l’encours
+moyen des avances de l’Institut d’émission aux contreparties du marché monétaire est passé de 559,2
+milliards en juillet 2022 à 457 milliards en octobre 2022 . Ces concours sont constitués (i) des avances
+au titre de l’opération principale d’injection de liquidité, dont l’encours moyen a reculé de 146,6 milliards
+à 78,4 milliards ; (ii) des concours accordés au titre des opérations de maturité longue, qui sont passées
+de 50 milliards à 19,3 milliards entre les deux périodes ; (iii) de la facilité de prêt marginal dont le volume
+a légèrement progressé de 304,3 milliards à 304,5 milliards ; et (iv) des avances octroyées via le guichet
+spécial de refinancement, profitant principalement à la BDEAC, qui a diminué de 58,3 milliards en juillet
+2022 à 54,7 milliards trois mois plus tard .
+Par ailleurs, l’encours des opérations de reprise de liquidité du système bancaire par la BEAC a re-
+culé, passant de 43,5 milliards à 38,7 milliards sur la période de référence . Ainsi, le volume des injections
+nettes de la Banque Centrale dans le système bancaire a diminué de 515,7 milliards à 418,3 milliards
+entre juillet et octobre 2022, en baisse de 18,9 % (113,9 milliards) .
+Le volume des réserves obligatoires à constituer par les assujettis a augmenté de 38,9 milliards au
+cours de la période de référence pour s’établir à 939,7 milliards en octobre 2022 . Pour ce même mois,
+l’encours moyen des réserves libres du système bancaire (1 361,9 milliards) a représenté 144,9 % des
+réserves requises contre 113,9 % un an auparavant . Cependant, le nombre d’établissements de crédit en
+déficit de constitution des réserves obligatoires est demeuré à sept entre les deux périodes.
+Bulletin Economique et Statistiques Page 39
+
+--- Page 40 ---
+Bulletin Economique et Statistiques Page 40
+)AFCF
+ed
+snoillim
+ne(
+étidiuqil
+al
+ed
+sruetacidni
+xuapicnirp
+sed
+noitulovE
+:
+51T
+2202
+1202
+22-tpes
+22-tûoa
+22-liuj
+22-niuj
+22-iam
+22-rva
+22-sram
+22-rvéf
+22-vnaj
+12-céd
+12-von
+12-tco
+12-tpes
+490
+914
+2
+909
+962
+2
+555
+544
+2
+480
+914
+2
+909
+962
+2
+159
+544
+2
+589
+562
+2
+783
+692
+2
+801
+332
+2
+420
+513
+2
+534
+793
+2
+888
+082
+2
+820
+471
+2
+*selatot
+sevreséR
+039
+725
+1
+134
+983
+1
+539
+185
+1
+029
+725
+1
+134
+983
+1
+133
+285
+1
+619
+504
+1
+130
+064
+1
+148
+593
+1
+827
+584
+1
+554
+395
+1
+606
+384
+1
+647
+673
+1
+serbil
+sevreséR
+461
+198
+874
+088
+126
+368
+461
+198
+874
+088
+126
+368
+960
+068
+653
+638
+762
+738
+692
+928
+089
+308
+282
+797
+282
+797
+**seriotagilbo
+sevreséR
+%
+6,02
+%
+7,91
+%
+2,12
+%
+6,02
+%
+7,91
+%
+2,12
+%
+7,91
+%
+2,02
+%
+8,91
+%
+4,02
+% 6,12
+%
+8,02
+%
+9,91
+stôpéD
+/ sevreséR
+%
+5,031
+%
+5,031
+%
+5,031
+%
+6,621
+%
+7,131
+%
+9,331
+%
+1,231
+%
+9,921
+%
+4,921
+%
+5,031
+% 6,131
+%
+9,631
+%
+6,331
+eimonocé'l
+à stidérC
+/stôpéD
+%
+7,41
+%
+7,41
+%
+7,41
+%
+0,31
+%
+4,21
+%
+4,31
+%
+6,21
+%
+3,21
+%
+1,21
+%
+5,21
+% 3,31
+%
+8,21
+%
+9,21
+nalib
+latoT
+/sevreséR
+sevreséR
+/ serbil
+sevreséR
+%
+8,802
+%
+2,702
+%
+2,702
+%
+5,171
+%
+8,751
+%
+2,381
+%
+5,361
+%
+6,471
+%
+7,661
+%
+2,971
+% 2,891
+%
+1,681
+%
+7,271
+seriotagilbO
+à stidérC
+/ serbil
+sevreséR
+%
+7,02
+%
+5,02
+%
+5,02
+%
+5,61
+%
+9,51
+%
+4,81
+%
+1,61
+%
+7,61
+%
+0,61
+%
+1,71
+% 9,81
+%
+5,81
+%
+8,61
+eimonocé'l
+CAEB
+: ecruoS
+AFCF
+ed
+snoillim
+ne*
+erbmecéd
+11
+el
+siuped
+seéuttisnoc
+tnos
+seriotagilbo
+sevresér
+sel
+,8102/MPC/11°n
+MPC
+ud
+noisicéD
+al
+à tnemémrofnoC
+**
+sttiejussa
+tidérc
+ed
+stnemessilbaté
+sed
+tnaruoc
+etpmoc
+el
+rus
+7102
+
+--- Page 41 ---
+G16. Evolution de la structure des réserves des banques de la CEMAC
+G17. Evolution du volume des interventions de la BEAC sur le marché monétaire
+de la CEMAC
+(en millions de FCFA)
+Bulletin Economique et Statistiques Page 41
+%6,62
+%4,37
+%4,92
+%6,07
+%3,13
+%7,86
+%0,82
+%0,27
+%6,23
+%4,76
+%2,03
+%8,96
+%9,82
+%1,17
+%8,82
+%2,17
+%9,92
+%1,07
+%8,72
+%2,27
+%4,82
+%6,17
+%2,72
+%8,27
+%7,82
+%3,17
+100%
+80%
+60%
+40%
+20%
+0%
+sept-21 oct-21 nov-21 déc-21 janv-22 févr-22 mars-22 avr-22 mai-22 juin-22 juil-22 août-22 sept-22
+Réserves libres Réserves obligatoires**
+Source : BEAC
+718 392
+683 671
+645 669 662 494 659 335
+624 948 628 715
+578 689 574 528
+559 170 548 075
+511 767
+oct-21 nov-21 déc-21 janv-22 févr-22 mars-22 avr-22 mai-22 juin-22 juil-22 août-22 sept-22
+Source : BEAC
+
+--- Page 43 ---
+8. SITUATION DES RÉSERVES DE CHANGE
+Les réserves de change de la BEAC se sont établies à 6 240 milliards au 31 octobre 2022,
+contre 4 519 milliards au 31 octobre 2021, soit une progression de 38,1 % . Cette évolution favorable
+s’explique par la hausse des cours du baril de pétrole brut et les efforts de rapatriement des
+recettes d’exportation et la hausse sensible des rétrocessions des banques primaires en devises
+pour le compte de leur clientèle autorisée à détenir des comptes en devises, et pour la gestion
+des fonds de remises en états des sites (Fonds RES) . Ainsi, le taux de couverture extérieure de la
+monnaie est remonté à 71,8 % au 31 octobre 2022, contre 65,77 % au 31 octobre 2021 .
+Conclusion
+Selon les Perspectives de l’économie mondiale, mises à jour en octobre 2022 par le FMI, la
+croissance se situerait à 3,2 % en 2022 et reviendrait à 2,7 % en 2023, contre 6,1 % en 2021 et
+une récession de 3,1 % en 2020
+Au plan régional, à court terme, au quatrième trimestre 2022, l’économie de la CEMAC devrait
+globalement enregistrer une décélération de l’activité en comparaison aux performances de fin
+2021, bien qu’elle devrait être plus vigoureuse qu’au troisième trimestre 2022 . Les estimations en
+glissement annuel, tablent ainsi sur une hausse sensiblement moins importante de l’ICAE de la
+CEMAC à 1,7 % (contre 7,7 % un an plus tôt) . En glissement trimestriel, l’ICAE devrait enregistrer
+la plus forte hausse de l’année à 1,1 %, au quatrième trimestre 2022, contre 0,8 % un trimestre
+plus tôt. L’atonie de la demande intérieure en proie à des tensions inflationnistes, de même que
+l’incidence toujours prononcée de la crise russo-ukrainienne et les perturbations des chaînes d’ap-
+provisionnement mondiales devraient continuer d’affecter négativement l’activité dans la CEMAC .
+Les poussées inflationnistes se sont fait ressentir au troisième trimestre 2022. Les prévisions
+à court terme de l’inflation sous-jacente suggèrent une poursuite de la remontée des pressions
+inflationnistes à fin décembre 2022. En effet, le taux d’inflation sous-jacente s’établirait à 4,7 %
+en moyenne annuelle et 5,5 % en glissement annuel, contre respectivement 1,5 % et 2,1 % un
+an plus tôt .
+Sur l’ensemble de l’année 2022, les prévisions mises à jour à fin novembre 2022 par les ser-
+vices de la BEAC tablent sur : i) une croissance économique qui passerait de 1,7 % en 2021 à
+2,9 % en 2022 (au lieu de 3,2 % attendu), portée principalement par un rebond de la croissance
+pétrolière, en dépit d’une décélération de la croissance non pétrolière, ii) une accélération des
+pressions inflationnistes à 5,5 % en 2022, contre 1,7 % un an plus tôt, iii) un redressement du
+solde budgétaire base engagements, dons compris, qui deviendrait excédentaire à 0,7 % du PIB
+en 2022, après - 1,3 % du PIB en 2021, ainsi que celui du solde du compte courant qui passerait
+d’un déficit de 0,6 % du PIB en 2021 à un excédent de 5,6 % du PIB en 2022. Sur le plan de la
+monnaie, la masse monétaire augmenterait de 15,7 % tandis que les avoirs extérieurs nets bon-
+diraient de 74,8 % .
+Bulletin Economique et Statistiques Page 43
+
+--- Page 44 ---
+II. ETUDE
+LES CONSEQUENCES DE LA DEPRECIATION DU TAUX
+ETUDE : les conseDquEe nCcHesA dNe GlaE d eEpUreRciOat/iDonO dLuL tAauRx dDeA cNhaSn gLeA e CurEo/MdoAllCar dans la cemac
+SySnythnèthsèes dee d lae nlao nteo t: ec e: tctee tnteo tneo etex aemxainmei nlees lceosn csoénqsuéeqnuceensc deus mdua imntaieinnt ideun tdauu xt aduex d déep rdéécpiaréticoina taiocntu aecl tduee l
+l’Eduero l ’pEaurr ora ppapro rrat papuo Drto allua rD doallnasr ldaa CnsE MlaA CCE sMuAr Cun s uarn uenn amno eyne nmnoey, esnonues, lseosu asn lgelse sa nfignlaensc fiienra entc riéeer le. tI lr éeen l.
+ressort que :
+Il en ressort que :
+• Sur le plan financier
+• La rémunération au titre de la facilité marginale de prêt augmenterait par rapport à une situation de
+référence où il n’y aurait pas eu de dépréciation : soit 0,25 point de base par Euro. La tranche de
+réserves comprise entre un et 121 959 213,79 Euros rapporterait 2,5 % d’intérêt. Le principe ici est
+que lorsque le taux de la facilité de prêt marginal de la BCE est supérieur ou égal à 0,50 %, un taux
+de rémunération plancher de 2,5 % s’applique à cette tranche. Le Compte Spécial de Nivellement
+qui a commencé à produire des intérêts dès juillet 2022 serait rentable sur toute l’année.
+• Pour un taux de dépréciation de ( ), un taux d’intérêt moyen de ( ) et un taux de croissance de
+𝐔𝐔 𝐔𝐔
+( ), la dépréciation de l’Euro face
+𝛆𝛆
+𝐭𝐭au Dollar accroît l’encours de l 𝐫𝐫a𝐭𝐭 dette d’une valeur de
+𝐔𝐔 𝐔𝐔
+𝛆𝛆𝐭𝐭$𝟏𝟏&𝐫𝐫𝐭𝐭(
+p 𝐠𝐠a𝐭𝐭r unité monétaire (1 Euro = 655,957 F CFA). En définitive, l’on devrait s’attendre à des ten (𝟏𝟏s &io 𝐠𝐠n 𝐭𝐭)s
+grandissantes sur les dettes souveraines, dont la situation actuelle n’est pas loin d’être
+préoccupante.
+• Les États de la CEMAC devraient se tourner vers les marchés de titres publics domestiques pour
+éviter un endettement onéreux à court terme, étant entendu que le service de la dette l’est déjà.
+• La BEAC pourrait conclure des accords de swaps de devises avec d’autres Banques Centrales
+(notamment la FED) pour se protéger du risque de change à court terme.
+• Sur le plan réel
+• La dépréciation du taux de change Euro/Dollar n’alimenterait l’inflation dans la CEMAC que de
+0,61 % : une valeur inférieure au niveau moyen mondial trouvé par Gopinath et Gourinchas (2022),
+soit 1 %.
+• Les effets sur les échanges avec l’extérieur diffèreraient selon le type d’agent considéré : (i) négatifs
+pour les ménages avec le renchérissement des importations incompressibles ; (ii) ambiguës pour
+les Etats avec d’une part l’accroissement des recettes pétrolières et, d’autre part l’alourdissement
+du fardeau de la dette et enfin ; (iii) positifs pour les firmes avec leurs comportements de rentiers
+sous-jacents.
+• La croissance s’essoufflerait suivant le principe du ratio de sacrifice de 0,48 % environ.
+• En rapport avec les mécanismes d’ajustement automatiques, il est montré que les caractéristiques
+structurelles actuelles, associées à plus de flexibilité du change induiraient davantage de volatilité
+de la croissance et de l’inflation : d’où la nécessité de passer préalablement par une diversification
+des sources de la croissance dans la zone pour plus de stabilité.
+Après près de vingt ans en faveur de l’Euro à partir de novembre 2002, la parité Euro/Dollar s’est
+inversée depuis août 2022. Cette évolution s’expliquerait par deux facteurs : (i) une meilleure résilience de
+l’économie américaine face aux chocs issus de l’invasion de l’Ukraine par la Russie et ; (ii) le durcissement
+1
+Bulletin Economique et Statistiques Page 44
+
+--- Page 45 ---
+plus prononcép dlues lap rpoonloitniqcuée d me olan éptoaliirteiq duee lma oRneéstaeirrvee d feé dlaé rRalees1e prvaer rfaépdpéorartl eà1 cpealrle r adpep loar tB àa ncqeullee dcee nlatr aBlea nque centrale
+européenne, deeusrtoinpééee nàn ceo, ndteresrti nl’éinef laàt icoonn gtraelro pl’iannfltaet idoénc goaulloapnat ndtees d pélcaonusl adnet rdeelas npclea nbsu ddgeé rtealiarensc em bausdsgifés.t aires massifs.
+Comme conséCqoumemncee sc,o lnes édqifuféernecnetise,l lde’ indfilfafétiroenn tieenl trde’i nleflast iodne uexn ztroen eless ad eduéxs ézqounileibsr éa leduérs ébqaulailinbcreé dleeu r balance de
+paiements bilaptéarieamlee, ncotsn btriilbautéarnatl eà, lcao hnatruibsusaen dt eà lala dheamusasned ed ed ela d doellmara pnoduer ddee sd oblelasro pinosu rs pdéecsu blaetsifosi nest psopuérc ulatifs et pour
+l’achat des prlpo’aldu cus hi tapst r opdnéeotsrno c pliéero rdsde ue il tta s d p puo é lgti rtai oqzlu i eepr sam re olt’n Edéuutra oi grpe ae z d ee pn al a rr aR l’iEseousnre o rdpveees f e ésnda é rnarca itslieoo1nn sp d aseru srr a spleap nopcrétt i toàron clsee slrl ueur s dsle ee .l p aLé Betrsa o n leq u re u sc se en . tr La ele s
+capitaux ont ae cinausprio itap afé ufleuxn éon nae tu, axd ineUssSit iAn a,é f fàe lu élàa acrueo xcn ht Uree Srrc Alh’ ,ie n à fd la leat i omrenec gihlla eel ruo crp hsa e rn edtne ed d meémec ieo llenu utlasr.n s Lt red e e nms d aeprmlcahenéns t dsde.e L cerhe amlann agc rece h aéb p u dad erg élcaht a air ne gs e m aa ps as ri f ls a.
+suite entretenuC s uco iem tettm ee e nn torc euo tvenenslulée q cdu eye tntn eac mne osiq, u uvleee lldedu if d fté yanrue axn m tdi ieeql u cd eh’ ai dnnufgl a teati uodxne sde edn ectruhexa nlme gsoe n d dne eau siex ds e.z uo xn e ms o na n d aé ies sé . quilibré leur balance de
+paiemen ts bilatérale, contribuant à la hausse de la demande de dollar pour des besoins spéculatifs et pour
+La prelm’acièhraet pd Lae arst i epp rderoemd liuaèi rtceso ppuaérbrt treio e le i dener sJ l aere t c laodtuuivr beg e aa z eu n pc a Jrer r uel’sE laeu tmir voeepn aet u de ucn r deréuafsiisceoimtn ce od nme t s dm use ardcn éicafitlci o idtn ecs ol ’mEsuumrr oeleprc ep i avé li tsdro-el e l’ Eru us ros pe e. L vie ss -
+à-vis des USAc à da -vep ivsitr aaduietx sm o Uén Sct aAani n diqs eui v ea ramff il teu mnét é aecuta xpn aU iqrStuieA elm,l eà em nlaet nerte t ac phpaeprtraic erhalleîet rmdee e d nmat ne asi pl llpeaau Crr asEî trMre enA ddCae,nm dseu ln afta s Ci.t ELdMeu ArmaCatt,ra c dch uhé ef amd ie te dnc uth a ran tg tae c a h ep mar e nla t
+du franc CFA s dàu u i tlf’eEr aeunnrcot r.e C Ut FenAneu à tce e ll’lEtete u c rn ooo .n ujUevcnetelule rte ed ly lpene arcmm oneiq jteturceat iutd ruae l toa pru esx r md deee t ctc roahnia tc n alug loreer d s à e d sde de ceso uenxfc fmeluto rsen nn àéa gi deaests.i f se fdfeet sc entéteg atifs de cette
+dépréciation ddaénpsr élacdiai tteio zno dnaen. sT olaudteitfeo izso, ndee.s T poaurtteicfouilsa,r idtéess ppraérsteicnutleasri tdéasn psr élas esnotuess- rdéagniosn l as osnotu às -mréêgmioen dseo nt à même de
+rendre ambigurëesn dsrineo anL m apb op igsre uitim ëfssi,è slreie ns op enaf rfpeti oetss d idte i’fus ln,a el ec sote u ellrefb f eedt sée pn dr ’éJ uc nrieea lta tioetinlv le es dua éru pl ec rsére cmu iaséte inomang e sen ust r , d lleeu ss d mféirf émic niet a sc g,o elmess,m lfeiensra c fnii racmle d ese s , l’ lE esu r fo inp ae n cv eis s-
+publiques et lapà u-vbbias lin qdqueueses U ceSet Anlat rd abelaevr n. a qEit un m e eé cfc efea ntn t,r iq aleu le ec. maEreannc t et èe ffrt ee p t ,ae lrxetti re cal alve rem arcteit n èdt re ea psepexastr r aaévîct eore rnt iod dma enie s ss l e aes C t éEsceM osnA oiCmm,p id eou srt af eattii ot snd esu s ra imtt pa och rte am tioe nn st
+incompressibleid nsu c nofer ma ppnerc eu sCvseF inbAtle qà su nle’E e c u por eno ut.r viUbeun nee t r q tàue elcle rce ouc nosten rirj be cuceetu rdr àée f cipcreiet r ucm soeemrt tmcra eei trd ca éial fo ilc.r isMt cdieoeum xc m oeennrccclou iarrele . , M là’ai edloueuxsr ede nisf cfse oet rsme ,ne lén’agtl oa uti rfs d isd se e mce ett ne t
+du service de ddlaué pdsreeétrctveia i cltieibo ednle léd ela a n edsn el a tdtd eei vt le iibs ez eosllé nneeo . e tTanmo dumete vef ino sti es ls,e d nde oos tla lap mra mrptioecunurtlra aleriit t déposlo llp amr réb psee or n ulat re r ass ii ttd upaaln otis mo nl ba ef is rn oalaun s sc- iir tèé urg aei t o idonen s lfao in n at nà c m ièrê em de e d lae
+CEMAC. ToutCree EfnoMdisr Ae, C lae.m sT broieg ucu teeëtfstoe s issi n , do le’nes xp po roesrcitt eaif tstti, eo l sne ss d e ’eefnxfe ptdoso rd tllaa’u trin o ecno stm e ellpe nt ad dné otp llrpaéorc ui car otipmornèp sts a u ndr t e le ps8o 0m u ré %n p a rèdg sue s dt,o elet as 8l 0fei rtm % lea s d, u l e ts o f ti an la en tc e las
+convention decp Couonbmvli eqpnutteeios dn ’e odtp eléa Cr ab otaimonnpqstu e je od u’c oee prnaétirreaantle ito .en nE s ncjo oe umf efpe raet, in elsneat tc eioa nnr a c. c ot mèr pe e ne sx atr ta iov ne .r ti de ses économies et ses importations
+incompr essibles ne peuvent que contribuer à creuser ce déficit commercial. Mieux encore, l’alourdissement
+Pour mduie suexr vsiéc Pre oie udrr e c melasie deuefxft et setés l,rib ielearl lpcéreeés se eennf fdteee t svn,i sole ates p én révoasta elum netm ed eannnotst el eu énd v o apll lra uer em p dioeaurn rtr sea muit npp sl po, rm elembse iecr orl ante ss méitqu pua set ,i no lecn se f si cn oa nn sc éiè qr ue e d ne c ela s
+financières defC icnEeaMtntecA idèCér. e pT sro éducetiea cftoieoi tsnte,, lae dus é prreerécgceaitratde ti s od nde,’ elaax u pr eo renrt gtaaatbi ro dilni tdsé e ed n lua d Cro eol nlma tr ap c btoeilim tdép’ odtapuné Ctr ap otoimounpr stp e re è dt s ’do depe él ar8 a 0dt% ieotn tdesu le itbto et dalellé eelat l da e c to ten v lie bn et li lo én e
+en dollar. Daneds neu Cnd oodlm leaup r.xt eiDè admn’oesp tuéenrma dtpi eosun, xsei lèjloemu see’i rnta etiémerneptss es, nee lcaleou mxs ’p icneoténnrsseaéstqi souene . an ucex sc orénesléleqsu, eanucsessi bréieenll essu,r al’uinsfslai tbioienn, lseu r l’inflation, le
+solde commerscoialdl eq uceo msumr elar cciarol iqsusaen scuer élac ocnrooimssiaqnucee. Déecos nsoimmuiqlauteio. nDse sso snitm pualar tliao nssu isteo nfat ipteasr alau ssueitine dfa’uitnees au sein d’une
+approche plusa laprpgreo cdheP e c o peu lusr sem lfafieergutsex i ndsceél rucieaerns t c eleefs fse e tmsf féie nnt csal, ug l aea ns ,tp llreeésss efminrméte ne ansg,o eltae s , b é laevnsaq l fu iure me dceea sn,n lts ar a u blen a, n plqer ues emU ciSe eAr n t tee ratm lle’pE,s ul, er osle pUse S.c o An es té lq ’Eu ue rn oc pe es .
+Il est admis iIfcli ni eacsnotc miè amr de mes isdle e i cFc i eMcttIoe m qduméep e,r éll’c eini afFltai MotinoI ,n qa uuae ur ,xe g l’Uia nrSfd laA d t ioean tlta ea irnuedxnr taa U b SsiloAitné adptu tiec C i neo dnm r apf itnse o 2d n0’ o2pp2ié c rea ett n io dn féis nc ée 2ltè 0dr2ee 2r al a e d t e dtt ée c élib lèe rl elé rae
+progressivemepenrn ot d g: o rcelel sa qsr. iuv Die pa men ersmn u te n :t t crdaee àu q x ulai iè pmBeCe rm Ete e dm tt’arp ans nà, u e llalel erB ls Ca’i End tédép’r areénscnsiueal teaioru nlx a d c deo é nspsaré émq cu ioaentinnocanei eds ear éuse apl lre mesmo, niaenura ssis eei mab uiee spntr rs eeu m r iel’i rn sfl ea mtio en s, t rl ee
+2023 grâce à u2sno 0 l 2dre3es gcsroeâmrcreemm àee r ucnnita prl eqlususse ep rsrruoernm ola en ncctré o p di ls ues s as pnarc ope no é olictnioqcnuéoe dm mei qosu ane ép.t oaD liire teiqs q usueime m ucolea nltléeio t andiser e sla o q nRut eé p scaeerrl vll eae dsféeud it laeé rRfaaléiet se. es r va eu fs ée din é rd a’ lu en . e
+approche plus large de ces effets incluant les ménages, les firmes, la banque centrale, les USA et l’Europe.
+1. ILl eess tc oandsmé1iqs . u ieLcni e csce o csm o fm ninseaé nqlecu ieèF nrMecsI e sdq uefie nl,aa nld’i cén ipf èlarréetico sin ad teaio u lnax ddU éuS p tA raé ucaxit a tde tiei on cndhr daa uns gto aen u Expu i dcreo e/cDn ho aflnilnag re 2 0 E2 u2 r oe /Dt od lé lacé r lèrera
+progress ivement : ce qui permettra à la BCE d’annuler la dépréciation de sa monnaie au premier semestre
+Le res2s0e2rr3e mgreâ Lnc ete rp eàlus ussn ep rrrreoesnmsoe enr ncr teé pm dlueesn l tap p rpoluonsloi tp niqr cuo éen d omen oc laén épdtoeal iirs teia q dupeeo llmiati q oFu nee éd tmeario raenl éRdt eea si lr aee r Fvq eeu d e(eF c rEaeDll l Re) epd sae er l rarva eRp pé (Fos Eertr D v )e p f aé rd é rara pl pe o. rt
+à la Banque Cà elan trBaalen qEuuer oCpéeenntrnaele (EBuCrEo)p éeesnt nàe l(aB CbaEs)e e dset àla l ad ébparséec iadteio nla ddeé pl’rEéucriaot.i oPno udre clo’Enutrreor. lPeos ur contrer les
+différentiels d’idnifflfaétrieonnt ieetl sd eds’i ntaflautxio qnu ei et nd eosn tta ruéxs uqlutéi ,e lna oBnCt Eré as uàl tséo, nla t oBuCr Ea ma oàr cséo nu nto ruerl èavmeomrceén tu dne r eselèsv etamuex nt de ses taux
+pour, si l’on s’peonu trie, nsti la’ounx sa’neanl ytisetnets ,a uinxv earnsaelry slate tse,n idnavenrcsee ar clatu teelnled adnec sea a pcaturietéll ea vdeec s lae pDaorliltaér .a Dve’ucn lee pDaorltl,a r. D’une part,
+la remontée dleas rteamuxo nvtaé 1 eim. dpL easec s ttae c uro xlan v sraéé qmimuupenanéccrtae ets ri o lf anin raa éun m cCuioè nmr ée rpastt eid o edn ’ loaapu dé Créap otimroénpc tieeat t,di od’on’ap uédtrurae tt ia opu nax ret ,d t ,l ead c ’dahéuaptrnreég cpeiaa trEito,u nlr a,o d/D éo prll éa cr i ation,
+si elle perdures,i aeullera pu enrd eufrfee,t asuurra l au nd yenfafemt isquure lad ed ylan admetitqeu ed adnes llaa dCeEttMe AdCan :s c l’ae sCt EceM AquC’ e: xca’mesint ec ec eqtute’e xamine cette
+section. section. Le resserrement plus prononcé de la politique monétaire de la Federal Reserve (FED) par rapport
+à la Banqu2e. CEevnotlruatlieo nE 2ud.re o Eplaé v eroén lumn teuio n( nBé CrdaeEt i) lo aen rs éat muà u Cl naoé mb rapa tstieoe ndd ’aeOu pl a Cé rodamétipoprnté esc i da ’t Oio pn é d rae t il o’E nu sr o. Pour contrer les
+différent iels d’inflation et des taux qui en ont résulté, la BCE a à son tour amorcé un relèvement de ses taux
+Le Compoputer, ds’iO Ll’po eén Cr as o’tmeion pn tst ei ee dns’t Ot aupunéx cr aoa tmn ioapnlytses e tàe s svt ,uu ienn voce our mvsee prr tt e ala àu pt verunèeds a odn uuc v Te e rraét csatouurpe frlrèlae sn d dçeau i ssTa raé up s a onr roi t fmé ra adnveçe alcais lB e aE uDA noColl.ma r . d D e ’ lu an Be E p Aa Crt .,
+Il est rémunéréIla l eer ste tom rféformnet uélane ép d roées sse ittb a oiuliftx fér e vd a l’au i nm p odp séa scc iot beuilr iv tl éea r dtr é ’iulmlnim u dintééé c.r oaSutei vosen rm ta iou lld imCalo iittémé.s p S tde ee sd r’ méomp oé dur ana léit tiréoasnt i odenet, srd éo’ manutu tpnreréé rpcaaitsir oét, ne l sa s od né tp pré réc cia isti éo en s,
+dans l’article 6ds di a ene slllae l ’ Cap roe tinr cdvleeu nr 6et i, do ean u ldarea C cu oon nm ve epf ntfee ti t od n’so u dpr eé l ra ca otdimoynpnsta e,m sdui ’q oivu pae én rdta qe tiu ol’nails ed , se stt u tde ivé abd niatten qus ur ’loia l u eC sctEr édMdéiA bteC itue r: u . rcL ’ ooe urss t c qrcuée’di li q teeusu’te r.x La om ri sn qe u ’c ile ett se t
+débiteur, les indste ééc brêt ii tto esn u à. r , pleasy einr tpéarêr tpsa àli epra, yseorn pt aliré sp aaluie tra, usox ndte lisé so paéur atatiuoxn sd epsri nocpiépraaletiso ndse prreinfinciapnacleesm deen tr edfein laan cement de la
+BCE. Lorsqu’iBl CesEt . cLréo drsitqeuu’ril, eils et sctr érédmiteuunré, riél easut rtaéumxu ndéer éla afua ctialituéx ddee plarê fta mcialitrég indael pdreê tl am BarCgEin,a al vdeec lau nB CE, avec un
+mécanisme dem téacuaxn pislamnech deer ttaeul qx upela :n (ci2)h .0e ,rE7 t5v e o l% qlu ultoeior s:n q( iud ) e0e , l7lea 5 t ra%éum xlo udrnesqé laura efta i leoci nltiat éa u u xd eC d epo rm lêat p f mate ca ildrigt’ éOin dpaeél dr paert ê iltoa m nBs aC rEgi neaslt de la BCE est
+inférieur à ce innifvéeraieuu re tà ; c(eii) n1iv%e alour seqt u; e( iil)e 1t%au xlo drseq ulae falec itlaituéx d dee p lraê tf amcailirtgéi ndael pdreê tla m BaCrgEin easl td seu lpaé BrieCuEr oeust supérieur ou
+égal à ce niveéagua. lE àn coeLu etnr C iev,o e lm aourps.t qe Eu nde ’ oOleup ttréaeru,a xlt oi odrn seqs l uae e sf at l ecu in tlia tcéuo xdm edp ept erlaê à tf avmu caie lri tgo éiu ndvaeel rdpt era ê ulta p m rBè aCs rg Ed i nuea sT lt r désesu oplaré frBriaeCnuEçr aoeius s taé sugu an plo éàm r ie d ue r ola u B éE gA alC à.
+0,50 %, un tau0Ilx ,e 5 ds 0et % rréé,m muu nun nté aér uréax te idot eno f rpf érleam nl uacn hp éeo rras ds tiei ob ni2l i,pt5é la %d n’ cu shn’e ad rp é dpc eloiq u 2uv ,e5e rà%t il lal si m ’tariapténp.cl iS qhuee e sd àem so l aad va trol aitinréscs h cd eoe md r epé srmi sauevn oeé inr ra str tei co onum ns p o rn ist ep r eé nc ti rs eé ue ns
+euro et 121 95ed9ua rn o2s 1 el3’a t, 7r 1t9i 2c 1lee u 96r5 od 9se .2 lLa 1e 3C ,C7o 9no vmeepuntrteoio sSn . pLdéeec ciCao olm mdpept e tNe d ivS’oepplléeé cmr ia aet li no dtn ese ,sN sti u vreéiv lma lenumtn q eéu nré’ ti l eae sus t t trdaééumbxui tde neu ésr r é oo u ap uéc rrtéaadtuioit xen usd r e. sL o or ps éq ru a’ ti il o e ns st
+principales de pdrréeinbfincit ieapunarcl, ee l sme s de einn trt é edr feiê n tlasan àBc Cep maEy.e e nr t p da er lp aa Blie Cr E, s . ont liés au taux des opérations principales de refinancement de la
+BCE. Lorsqu’il est créditeur, il est rémunéré au taux de la facilité de prêt marginal de la BCE, avec un
+mécanisme de taux plancher tel q ue : (i) 0,75% lorsque le taux de la facilité de prêt marginal de la BCE est
+La Réserve fédérailneL faaé cRroiéemsuemrrve enà cf éécd àeé rr aenlsesi veare rceaorm usam epeotn lc;iét i (qàiu ir)ee s1mse%ornreé rltoa sirares p qboilueitnei qa uvleea n mtt aolanu éBxtaC idrEee, bq iuleain n afeva vacani tli inltaiét Bi eCdr lEea, hqpauruiê snstee mvdaea isnreigst iitenaru alxal dhdiareuecs stleeau d rBse qsCeuseE tla eue 2xs1 dt irseuc2 tpe uérsr iqeuue rl eo 2u1 2
+1j cu ei l qle ut
+e
+2 l0
+a
+2 B2 C. L Ea
+f
+aF ie
+t
+d j1j cé
+u
+u ea sgi ql qala ue uu 'tl eg
+à
+2 m à lp0 are 2 éc Bn2 st e Ce.é
+n
+L Es n tae f:i s avF
+u
+itee tna d eu ja
+u
+xa psu qrda e. uiu mr 'Eg àe
+i
+mc èpnt re re
+e
+éuno shrt eés u
+an
+udst tre
+s
+e :e ss 0
+eu
+,t , na d2 l eu e5 o x
+p
+0rp rds ,o e2i mqir 5ne u itc
+pè
+tl oe ree eiu
+n
+1 l hr te7s
+ap
+udm ut sea isa s0 eur us , d2x,
+n
+e5d
+e
+de 0p
+d
+,eo0 e2i u, 5n5 l
+x
+at pil èle
+o
+e
+m
+f i5 a n1
+e
+tm7c
+,p
+dima ul ei i
+i
+ta sp 0ér u us
+,
+2,i nd s 5d
+e
+ede
+od
+e u0 ep 0 u, 05r, x,7 ê 5il5 èe t
+pm
+l5 ome
+e i
+m n,1 a td6a ,er i ej g up 0ni iu
+,
+n n 2si e,s 5a ps d oo l te eui d mt 0 0u e, b,7n
+5r
+5e el a
+p
+.l i oen iB t n1e t6Cn
+,
+s eji Eu ntéi n
+s
+es e, u psspo tt eéi mtr s iue bunu rpe ere .é i nà rt ieenusitré osuup éérigeuarle àà
+La Réserve fédérale a commencé à resserrer sa politique monétaire bien avant la BCE, qui ne va initier la hausse de ses taux directeurs que le 21 2
+1 juillet 2022. La Fed a augmenté ses taux directeurs de 0,25 point le 17 mars, de 0,5 le 5 mai puis de 0,75 le 16 juin, soit une intensité supérieure à
+c e que la BCE fait jusqu'à présent : une première hausse de 0,25 point puis une deuxième, de 0,25 ou 0,5 point, en septembre.
+Bulletin Economique et Statistiques Page 45
+
+--- Page 46 ---
+Le mécanisme de taux plancher ci-dessus est à mettre en parallèle avec l’évolution des Taux
+Directeurs de la BCE. Ainsi, le taux de facilité de prêt marginal de la BCE, resté inchangé depuis le 16 mars
+2016 à 0,25 %, a augmenté par pallier successif de 0,75 %, 1 %, 1,50 %, 2,25%, 2,75 % et 3,25 %
+respectivement à compter du 27 Juillet 2022, 14 Septembre 2022, 02 Novembre 2022, 21 Décembre 2022
+et 08 Février 2023. Par conséquent, les Taux Directeurs de la BCE (taux d'intérêt des opérations principales
+de refinancement, de facilité de prêt marginal et de la facilité de dépôt) ont été relevés respectivement à
+ces dates citées plus haut de 50 points de base, 75 points de base, 75 points de base, 50 points de base
+et enfin 50 points de base. Si l’on s’en tient à la mise à jour des données sur les prévisions de l’inflation
+globale du FMI suivant lesquelles le pic d'inflation a été atteint en fin d‘année 2022, l’on peut s’attendre à
+ce que les principaux Taux Directeurs de la BCE restent tout au moins à ces niveaux sinon augmentent (le
+cas de la dernière hausse du 08 Février 2023) jusqu’au premier semestre 2023.
+Pour déterminer les implications et, sachant que le solde du Compte d’Opérations est à ce jour
+créditeur, l’on devrait comparer la situation sans dépréciation (maintien des conditions avant juillet 2022) à
+la situation après démarrage de la dépréciation :
+Tableau 1 : Evolution de la rémunération aux Comptes d’Opérations
+et Compte Spécial de Nivellement
+DATES 16/03/2016 27/07/2022 14/09/2022 02/11/2022 21/12/2022 08/02/2023
+Compte d’Opérations
+Avant
+Facilité de prêt 07/22
+marginal Après 0,75% 0,75% 0,75% 0,75% 0,75% 0,75%
+1,50% 2,25% 2,75% 3,25%
+07/22
+0,75%
+Tranche 0,75%
+21,,5000%% 2,50% 2,50% 2,50% 2,50%
+[1 - 121959213,79]
+Compte Spécial de Nivellement (Rémunéré au taux des opérations principales)
+Avant
+Opérations
+07/22
+principales de
+Après 0% 0% 0% 0% 0% 0%
+Refinancement 0,50% 1,25% 2,00% 2,50% 3,00%
+07/22
+0%
+L’examen du tableau ci-dessus montre qu’à partir de septembre 2022, la rémunération au titre de
+la facilité marginale de prêt a augmenté par rapport à une situation de référence où il n’y aurait pas eu de
+dépréciation de l’Euro par rapport au Dollar : soit 0,25 point de base par Euro. Toujours au titre du Compte
+d’opérations, la tranche de réserves comprise entre un et 121 959 213,79 Euros a rapporté 2,5 % d’intérêt.
+Le principe ici est que lorsque le taux de la facilité de prêt marginal de la BCE est supérieur ou égal à
+0,50 %, un taux de rémunération plancher de 2,5% s’applique à cette tranche. Enfin, le Compte Spécial de
+Nivellement a commencé à produire des intérêts dès juillet 2022. Ici de même, ces intérêts sont liés à
+l’évolution du taux des opérations principales de refinancement de la BCE qui est passé de 0 % à 0,50 %
+puis 1,25 %, puis 2,00 %, 2,50 % et enfin 3 %.
+En définitive, l’on ne peut que souhaiter que cette situation de hausse des taux perdure, à condition
+toutefois que la dynamique de la dette ne prenne un sérieux coup.
+3
+Bulletin Economique et Statistiques Page 46
+
+--- Page 47 ---
+2.1 Dynamique de la dette souveraine de la CEMAC
+La dette des États de la CEMAC est libellée en plusieurs devises, les principales étant l’Euro, le
+Dollar et le Yuan. D2a.n1s lDe ycnaadmrei qdue es odne slae rdveictete ( nsoomuvinearla eint ein dtéer êlats C), EleMs AtrCan sactions y afférentes passent
+par l’Eur o dont la parité avec le Dollar est en question. De ce fait, à conditions inchangées, le service de la
+dette serLaait dseotutes ld’iensfl uEetnactse ddee lcae CtaEuMx AdCe cehsat nligbee.l lMéea ies,n i lp nlu’ys iae uprass dqeuveis cees ,s elersv icperi,n icl iepna leesst éétgaanlet ml’Eeunrto d, eles
+Dnooullvaer aeut xle e Ymuparnu.n Dtsa qnusi lsee c faedrareie dnet às odne ss etarvuixc ep l(unso mélienvaél se tq iuneté lraê tpsé),r iloedse t rda’nasvaacntti odnésp ryé acifafétiroenn tceasr ,p laas FseEnDt
+epta lra l ’BECurEo pdoounrt clao nptarreitré l easv etecn lsei oDnosl lianrf leastito ennn isqtueess, tsioonn.t Dcoen ctrea finatits, dàe c orenldeivtieorn lse uinrsc htaaunxg édeirse,c ltee usersr v:i clees d tea ulax
+dsuert tele sse mraaitr scohuéss ls’inufivlueennt ceet dlea cdee tttaeu xp eduet cahlaonrsg es.’ aMvaéirse,r i l nno’yn as poauste qnuaeb lcee2. sCer’evsicte d, eil eçna eqsut eé graelnedm ceonmt dpetes
+ln’aonuavleyasuex d eem lap rduynntasm qiuqiu see d fee rlaai ednett tàe ddees l ata zuoxn pel.u s élevés que la période d’avant dépréciation car, la FED
+et la BCE pour contrer les tensions inflationnistes, sont contraints de relever leurs taux directeurs : les taux
+sur les mEna rlcah térsa nssucirvievannt te at ulax tdreotiste pprienucti paalloerss ms’oanvnéareier sn poanr sroauptpeonrat baleux2.q uCe’ellsets dlees çÉat aqtuse d ree nlad CcEomMpAtCe
+ls’aonnat leynsdee dtteé sla, lday dnyanmaimquiqeu dee d lea ldae dtteet tdee p leau zto sn’eex. primer telle que :
+En la transcrivant aux trois principales monnaies par rapport auxquelles les Etats de la C E (M1)A C
+$ $ ' ' ( ( ) ) $ ' ' ' 𝐔𝐔 ( 𝐔𝐔 ) ( )
+sont endettés, la $d-#y.n#a%&m&i-q#u.#e% &d&e-# l.a# %d&e&t-t#e. #p%e&(u&t/ #s.’#e%x&&p0r#im$1e&r- #t(e.l#l%e& &q𝛆𝛆u𝐭𝐭e$𝟏𝟏 :& -#(𝐝𝐝𝐭𝐭%𝟏𝟏&0#$1&-#%&(.#%&
+D a ∆n ds, c =ette expression : (1&/#) −sp,+af,
+= variation du ratio dette/PIB (1)
+$ $ ' ' ( ( ) ) $ ' ' ' 𝐔𝐔 ( 𝐔𝐔 ) ( )
+$-#.#%&&-#.#%&&-#.#%&&-#.#%&(&/#.#%&&0#$1&-#(.#%&&𝛆𝛆𝐭𝐭$𝟏𝟏&-#(𝐝𝐝𝐭𝐭%𝟏𝟏&0#$1&-#%&(.#%&
+∆D 𝐝𝐝a ∆𝐭𝐭n= ds t , ac =uextt ed ’einxtpérreêst sréioenl s: ur la dette domes (1ti &q /u #)e −sp,+af,
+𝐃𝐃 = taux d’intérêt réel sur la dette libellée en Euros
+𝐫𝐫𝐭𝐭
+𝐄𝐄 = = t avuaxri adt’iionnté drêut rraéteiol sduert tlea/ PdeIBtt e libellée en Dollars
+𝐫𝐫𝐭𝐭
+𝐔𝐔 == ttaauuxx dd’’iinnttéérrêêtt rrééeell ssuurr llaa ddeettttee ldiboemlleéset ieqnu eY uan
+∆𝐫𝐫𝐭𝐭 𝐃𝐃𝐀𝐀𝐝𝐝 =𝐭𝐭 = ttaauuxx dde’in ctréoriêsts raénecl es urér elal ddue tPteIB li bellée en Euros
+𝐫𝐫𝐫𝐫𝐭𝐭𝐭𝐭
+𝐄𝐄 == dtaéupxré dc’iianttiéornê td rué teal usxu rd ela cdheatnteg elib reélelél ed aenns D lao lzlaornse i = [E, U, A]
+𝐫𝐫𝐠𝐠𝐭𝐭 𝐢𝐢𝐔𝐔𝐭𝐭
+= = t asuoxld de’ ipnrtiémrêati rreé esul sr uPrI Bla dette libellée en Yuan
+𝐫𝐫𝛆𝛆𝐭𝐭𝐭𝐭
+𝐀𝐀 == t aauuxtr edse fclurox iscsréaantceeu rrsé edle d due PttIeB s ur PIB
+𝐫𝐫𝐬𝐬𝐭𝐭𝐬𝐬 𝐭𝐭
+= dépréciation du taux de change réel dans la zone i = [E, U, A]
+L𝐠𝐠𝐚𝐚 𝐢𝐢𝐚𝐚 a𝐭𝐭𝐭𝐭
+r=e lsaotilodne cpir-idmeasisreu ss umr oPnIBtre que la dépréciation de l’Euro face au Dollar accroît l’encours de la
+𝛆𝛆𝐭𝐭
+dette libellé= e anu Dtroelsla frlsu xd ’curnéea tveaulresu dr ed ed ette sur PpaIBr unité monétaire (1 Euro = 655,957 F CFA). En d’autres
+𝐬𝐬𝐬𝐬𝐭𝐭 𝐔𝐔 𝐔𝐔
+𝛆𝛆𝐭𝐭$𝟏𝟏&𝐫𝐫𝐭𝐭 (
+termes, L𝐚𝐚le𝐚𝐚
+a
+𝐭𝐭t a reu lx
+a
+d tioe
+n
+d é cp i-r dé ec sia st uio sn
+m
+im onp ta rect e
+q
+ua (eu
+𝟏𝟏
+&s ls 𝐠𝐠a𝐭𝐭i
+)
+b di ée pn
+r
+éle
+c
+in ao tim onin a dl
+e
+q lu ’Ee
+u
+l re os fi an cté er ê at us. DA
+o
+c le
+la
+rs u aj ce ct,
+r
+oF îy
+t
+a
+l
+’( e2 n0 c1 o9 u)
+r
+sm o dn et r le
+a
+que les transactions avec les trois blocs s’effectuent suivant les parts ci-après :
+dette libellé en Dollars d’une valeur de par unité monétaire (1 Euro = 655,957 F CFA). En d’autres
+𝐔𝐔 𝐔𝐔
+𝛆𝛆𝐭𝐭$𝟏𝟏&𝐫𝐫𝐭𝐭 (
+termes, le taux de dépréciation impacte aussi bien le nomi nal que les intérêts. A ce sujet, Fya (2019) montre
+(𝟏𝟏&𝐠𝐠𝐭𝐭)
+que les transactions avec Glersa tprohiisq buleo c1s : s P’eafrfetsc truéeenltl essu ievta fnitn laensc pièarrtess c di-easp rtèrsa n: sactions
+de la CEMAC avec ses partenaires
+Graphique 1 : Parts réelles et financières des transactions
+de la CEMAC avec ses partenaires
+La dette p ublique est soutenable quand l'État peut continuer à en assumer le service sans nécessiter une correction irréaliste (du point de vue social 4
+2et politique) de ses revenus ou de ses dépenses primaires dans le futur. En pratique, la soutenabilité de la dette est évaluée en se demandant si la
+p olitique budgétaire en cours (politiques d'imposition et de dépenses) peut se poursuivre sans risquer de voir la dette augmenter de façon permanente
+(en proportion du PIB).
+La dette publique est soutenable quand l'État peut continuer à en assumer le service sans nécessiter une correction irréaliste (du point de vue social 4
+2et politique) de ses revenus ou de ses dépenses primaires dans le futur. En pratique, la soutenabilité de la dette est évaluée en se demandant si la
+p olitique budgétaire en cours (politiques d'imposition et de dépenses) peut se poursuivre sans risquer de voir la dette augmenter de façon permanente
+(en proportion du PIB).
+Bulletin Economique et Statistiques Page 47
+
+--- Page 48 ---
+Ainsi, 40 % du stock de la dette souveraine de la CEMAC connaîtrait une évolution liée au coefficient
+de dépréciation ci-dessus. Pour limiter son impact, les pays de la zone pourrait compter sur une croissance
+réelle forte (le dénominateur de l’expression). Enfin, contracter une nouvelle dette au cours de cette période
+de taux élevés, aussi bien en Euro qu’en Dollar ou en Yuan pourrait s’avérer onéreux : la question est alors
+de savoir si le marché des titres publics permet de compenser les besoins notés dans la CEMAC.
+En conclusion, l’on pourrait s’attendre à des tensions grandissantes sur les dettes souveraines,
+dont la situation n’est pas loin d’être préoccupante. De nombreux pays, et en particulier les plus pauvres,
+ne peuvent pas emprunter dans leur propre monnaie pour les montants ou les échéances qu'ils souhaitent,
+car les prêteurs ne veulent pas assumer le risque d'être remboursés dans une devise instable. Donc ces
+pays empruntent généralement en Dollar, en promettant de rembourser leurs dettes dans cette même
+devise, quel que soit le taux de change. Ainsi, à mesure que le Dollar se renforce par rapport aux autres
+monnaies, ces remboursements deviennent beaucoup plus coûteux : le « péché originel ».
+La BEAC pourrait conclure des accords de swaps de devises avec d’autres Banques Centrales
+(notamment la FED) pour se protéger du risque de change à court terme. Les accords de swap entre
+banques centrales sont populaires depuis la crise de 2008 et permettent aux Banques Centrales de protéger
+leurs réserves de change à court terme. Ainsi, même si la charge de la dette des États augmente
+mécaniquement, l’usage de l’accord de swap pour le règlement de la dette permet de protéger également
+les finances publiques et limiter les frais liés à la charge de la dette.
+3. Les conséquences réelles de la dépréciation du taux de change Euro/Dollar
+Cette section s’intéresse aux effets de la dépréciation du taux de change Euro/Dollar sur le
+commerce extérieur, l’inflation et la croissance. Usage est fait ici des relations découlant d’un modèle de la
+nouvelle synthèse keynésienne en économie ouverte.
+3.1 Implications pour le commerce extérieur, l’inflation et la croissance
+De 2000 à 2022, le Dollar s'est apprécié de 22 % face au Yen, 13 % face à l'Euro et 6 % face aux
+devises des marchés émergents. Un tel raffermissement a des implications macroéconomiques importantes
+pour tous les pays, compte tenu de la prédominance de cette monnaie dans le commerce et la finance
+internationaux. C’est ce que nous analysons ci-dessous pour le commerce extérieur, l’inflation et la
+croissance dans la CEMAC.
+En rapport avec le commerce extérieur, les effets de la dépréciation diffèreraient selon le type
+d’agents économiques concernés. Ainsi, pour des économies structurellement importatrices de biens de
+première nécessité, le consommateur de la CEMAC devrait se retrouver pénalisé, avec notamment une
+courbe en J à pente négative en début de période du fait de l’impact de la dépréciation sur la valeur des
+importations. Il est à souligner ici que les firmes de la zone tournées vers l’importation pour la revente ne
+feront que répercuter la hausse des prix en Dollar sur les prix domestiques. Pour ce qui est de l’État,
+l’appréciation du Dollar induirait une augmentation de ses recettes pétrolières en monnaie domestique.
+Cette augmentation serait équivalente au taux de dépréciation de l’Euro à un signe prêt. La banque centrale
+quant à elle devrait observer l’effet net entre la sortie de devises imputable aux importations et les entrées
+de devises liées à l’exportation du pétrole.
+A court terme, un Dollar fort peut également peser sur le commerce, car le billet vert domine les
+échanges internationaux. Les entreprises opérant dans des économies hors de la zone du Dollar l'utilisent
+pour chiffrer et régler les transactions. D'ailleurs, les principales matières premières comme le pétrole sont
+achetées et vendues en Dollar. En outre, de nombreuses économies en développement sont des « preneurs
+de prix » : elles ne sont pas en mesure de négocier et leurs prix et leurs actions n'ont aucun impact sur les
+marchés mondiaux. Elles sont aussi largement tributaires du commerce mondial et un Dollar fort peut avoir
+des répercussions majeures sur leur économie nationale, notamment une flambée de l'inflation.
+5
+Bulletin Economique et Statistiques Page 48
+
+--- Page 49 ---
+Quand le Dollar s'apprécie, les importations deviennent plus chères (dans la monnaie nationale),
+ce qui oblige les entreprises à réduire leurs investissements ou à dépenser davantage pour des importations
+indispensables.
+Toutefois, si le panorama commercial à long terme est plus favorable pour certains, dans l'ensemble
+il est contrasté. En effet, les importations sont plus chères dans un contexte de Dollar fort, mais les
+exportations sont relativement moins onéreuses pour les acheteurs étrangers. Les économies exportatrices
+pourraient en profiter, car l'augmentation des exportations stimule la croissance du PIB et les réserves de
+change, ce qui contribue à atténuer bon nombre des problèmes décrits ici.
+Sur le front des prix, Gopinath et Gourinchas (2022)i soulignent que la part des États-Unis dans
+les exportations mondiales de marchandises est passée de 12 à 8 % depuis 2000, alors que la part du
+Dollar dans les exportations mondiales s'est maintenue à environ 40 %. Ainsi, pour de nombreux pays qui
+luttent pour faire baisser l'inflation, l'affaiblissement de leur monnaie par rapport au Dollar a rendu la lutte
+plus difficile. En moyenne poursuivent-ils, la répercussion estimée d'une appréciation du Dollar de 10 % sur
+l'inflation est de 1 %. Ces pressions sont particulièrement aiguës sur les marchés émergents, reflétant leur
+plus grande dépendance à l'égard des importations et une plus grande part des importations facturées en
+Dollars par rapport aux économies avancées. Logiquement l’on peut supposer que cet impact est similaire
+sinon, plus élevé pour la CEMAC par rapport à ces pays émergents.
+Plus explicitement, l’impact final de la dépréciation Euro/Dollar sur l’inflation dans la zone passe par
+un canal direct et un canal indirect. Le canal direct transite par la formation des prix domestiques avec la
+prise en compte de la dépréciation par les firmes suivant la relation (2). Ce pass-through direct
+s’accompagne d’effets indirects transitant par la dynamique des prix aux USA et donc les termes de
+l’échange qui impactent le niveau général des prix dans la zone. Les deux relations sous-jacentes sont
+reprises ci-dessous :
+π7,, =βE,π7,,&1+κm9c7,,
+7:;⁄€ 7:;⁄€ 7:;⁄€ 7:;⁄€
+−β:λ9<=E,e,&1 −e, ?+=e, −e,>1 ?@
+7:;⁄$ 7:;⁄$ 7:;⁄$ 7:;⁄$
++λ?<=E,e,&1 −e, ?+=e, −e,>1 ?@
+7:;⁄¥ 7:;⁄¥ 7:;⁄¥ 7:;⁄¥
++λ;<=E,e,&1 −e, ?+=e, −e,>1 ?@A (2)
+π, =𝛌𝛌𝐂𝐂𝛑𝛑𝐂𝐂,𝐭𝐭+λ9π9,,+𝛌𝛌𝐔𝐔𝛑𝛑𝐔𝐔,𝐭𝐭+λ;π;,, (3)
+Il faut rappeler ici que les principales devises se sont dépréciées par rapport au Dollar mais, cette
+dynamique n’a pas été notée entres-elles. Ainsi, toutes choses égales par ailleurs, le niveau général des
+prix dans la CEMAC devrait varier sous l’effet de la dépréciation tel que :
+7:;⁄$ 7:;⁄$ 7:;⁄$ 7:;⁄$
+π, =−βλ7:+λ?<=E,e,&1 −e, ?+=e, −e,>1 ?@A+λ?π?,, (4)
+Pour évaluer la relation (4), nous retenons un paramètre d’actualisation trimestriel de 0,92 comme
+déterminé dans les travaux de Berg et al (2012)ii, la part des transactions américaines vers la CEMAC de
+23 % conformément aux travaux de Fya (2019)iii, un taux d’inflation aux Etats-Unis de 8,2 % et un taux de
+dépréciation de 13 % :
+6
+Bulletin Economique et Statistiques Page 49
+
+--- Page 50 ---
+Tableau 2 : Contribution de la dépréciation du taux de change
+Euro/Dollar à l’inflation dans la CEMAC
+0,91 0,6 0,092 8,2%
+𝛃𝛃 𝛌𝛌𝐂𝐂 𝛌𝛌𝐔𝐔 𝛑𝛑𝐔𝐔,𝐭𝐭
+13%
+=E,e,7 &: 1;⁄$ −e,7:;⁄$ ?+=e,7:;⁄$ −e,7 >: 1;⁄$
+?
+0,61%
+𝐂𝐂𝐂𝐂𝐂𝐂⁄$ 𝐂𝐂𝐂𝐂𝐂𝐂⁄$ 𝐂𝐂𝐂𝐂𝐂𝐂⁄$ 𝐂𝐂𝐂𝐂𝐂𝐂⁄$
+𝛑𝛑𝐭𝐭 =−𝛃𝛃𝛌𝛌𝐂𝐂:+𝛌𝛌𝐔𝐔<=𝐄𝐄𝐭𝐭𝐞𝐞𝐭𝐭&𝟏𝟏 −𝐞𝐞𝐭𝐭 ?+=𝐞𝐞𝐭𝐭 −𝐞𝐞𝐭𝐭>𝟏𝟏 ?@A+𝛌𝛌𝐔𝐔𝛑𝛑𝐔𝐔,𝐭𝐭
+En conclusion, la dépréciation du taux de change Euro/Dollar n’alimenterait l’inflation dans la
+CEMAC que de 0,61 % : une valeur nettement inférieure au niveau moyen trouvé par Gopinath et
+Gourinchas (2022), soit 1 %.
+Concernant la croissance, il est à noter qu’à mesure que la FED augmentera ses taux d'intérêt
+pour contrer les tensions inflationnistes, la BCE devra en faire autant pour d’une part défendre la parité de
+sa monnaie et, d’autre part, réagir à l’inflation. Sachant que les capitaux convergent vers des taux rentables
+et moins risqués, il se posera un dilemme à la BCE et, partiellement à la BEAC : préserver les
+investissements étrangers dans son économie par la poursuite de la hausse des taux ou, éviter le
+renchérissement du coût des emprunts domestiques pour modérer les effets de la dépréciation sur la
+croissance. A ce sujet, le Financial Times d’après les données de l'Institute of International Finance
+souligne : « les investisseurs étrangers ont retiré leurs fonds des marchés émergents pendant cinq mois
+consécutifs, ce qui constitue la plus longue série de retraits jamais enregistrée ». Ce sont là poursuit-il, des
+capitaux d'investissement essentiels qui quittent les marchés émergents pour se mettre en sécurité. En
+outre, un ralentissement affecterait à terme les recettes publiques et pourrait ainsi exacerber les problèmes
+d'endettement préexistants.
+Pour quantifier l’effet de la dépréciation sur la croissance dans la CEMAC, usage est fait de deux
+concepts à savoir le ratio de sacrifice et la cible d’inflation. Le premier désigne la perte en croissance d’une
+réduction de 1 % de l’inflation alors que le deuxième renvoie au seuil à partir duquel l’inflation devient nocive
+pour l’économie. En d’autres termes, réduire l’inflation en dessous du seuil coûterait autant en termes de
+croissance que la laisser s’accroître au-dessus de ce seuil comme à l’heure actuelle. De ce fait, les travaux
+de Ahiadorme (2020)iv situent le ratio de sacrifice en Afrique Subsaharienne entre - 0,4 et - 1,3 et, ceux de
+Dhramani (2019)v l’estime à - 0,78 pour la Zone franc. La dépréciation ayant entrainé un supplément
+d’inflation de 0,61 %, la perte de croissance équivalente serait de - 0,78 x 0,61 = - 0,48 % : soit un demi-
+point de croissance environ.
+3.2 Comparaison à une situation de flottement par rapport à ces deux monnaies
+Une question qui revient sans cesse et, qui trouve tout son écho avec la situation actuelle est de
+savoir ce qui se serait passé si le franc CFA flottait par rapport à ces deux devises. D’une part, tous les
+avantages en termes de rémunération tirés du Compte d’opérations seraient perdus et, d’autre part, les
+effets réels et financiers seraient à sérier. Pour cela, nous avons recours à un modèle d’équilibre général
+dynamique stochastique en vue de comparer de manière contrefactuelle les accords de coopération actuels
+à un panier de devises, une flexibilité administrée et une flexibilité parfaite.
+Le modèle construit comporte trois blocs à savoir la CEMAC, la zone Euro et les USA (auxquels
+est associé l’Asie en supposant que le Dollar est la monnaie forte et, de manière à isoler l’Europe). Chaque
+zone met en relation trois types d’agents que sont les ménages, les firmes (produisant le bien final, les
+biens intermédiaires et le pétrole) et la banque centrale. L’évolution du cours du pétrole impacte celle des
+avoirs extérieurs nets dans le bilan simplifié de la banque centrale. Le modèle est estimé sur la période
+1995Q1-2021Q4. Une simulation est menée, destinée à l’examen des effets d’un choc sur le taux de change
+Euro/Dollar. Comme variables d’intérêt à suivre : les deux taux de change (CFA/Dollar et CFA/Euro),
+l’inflation, la croissance et le taux directeur.
+7
+Bulletin Economique et Statistiques Page 50
+
+--- Page 51 ---
+Graphique 2 : Choc sur le taux de change Euro/Dollar
+suivant trois scénarios contrefactuels
+Suivant les fonctions de réponses impulsionnelles obtenues, les effets d’un choc sur le taux de
+change Euro/Dollar diffèrent selon que l’on considère une situation d’ancrage à un panier de devises, de
+flexibilité administrée ou de flexibilité pure. De manière générale, l’économie semble plus volatile en
+situation de flexibilité administrée qu’en toute autre situation. L’ancrage à un panier de devises produit les
+mêmes réactions pour ce qui est de la croissance, l’inflation et le taux directeur. L’ajustement des taux de
+change est plus prononcé en présence de flexibilité que pour le panier de devises. En flexibilité administrée,
+seule la dynamique de l’inflation produit des effets similaires à un régime d’arrangements monétaires. Le
+taux d’intérêt doit pour cela réagir très fort pour contrer cette volatilité. Cela est aussi notable pour la
+flexibilité pure. Les autres variables s’avèrent en outre très volatiles. En définitive, ces résultats corroborent
+la thèse suivant laquelle, la flexibilité s’accompagne de plus de volatilité en matière d’inflation et de
+croissance. C’est ce que reflètent les graphiques ci-dessous :
+Graphique 3 : Performances comparées des pays d’Afrique centrale CEMAC et hors CEMAC
+8
+Bulletin Economique et Statistiques Page 51
+
+--- Page 52 ---
+Source : BDF
+Il apparaît suivant le graphique ci-dessus qu’autant les pays d’Afrique centrale non membres de la
+CEMAC p e r f o r m e n t e n mSoautirècree :d BeD cFro issance, autant l’inflation est mal maîtrisée : se pose alors la nécessité
+d’arbitre r entre stabilité et volatilité, probablement en passant par la diversification des sources de la
+croissanIcl ea pdpaanrsa îlta szuoivnaen. t le graphique ci-dessus qu’autant les pays d’Afrique centrale non membres de la
+CEMAC performent en matière de croissance, autant l’inflation est mal maîtrisée : se pose alors la nécessité
+d’arbitreEr ne nctornec lsutsaiboinlit ésu er tl ev pollaantil iftién,a npcroiebra, blale dméepnrét ceiant iopna sdsua tnatu px adre l ac hdainvgeers Eifiucraot/ioDno lldaer sa suonu ercffeest pdoes itlaif
+scuror isles aCnocme pdtaen ds’ olap ézoranteio. ns alors que le service de la dette va s’alourdir à court terme. Il serait à cet effet
+opportun pour les États de se retourner sur le marché domestique pour contracter de nouvelles dettes,
+notammEennt cleo nmclaurscihoén dsuers letit rpelas np fuinbalicnsc.i eLra, lBa EdAépCr épcoiautriroanit dàu c teatu exf fdeet ccohnacnlguere E dueros /aDcoclloarrd as udne esfwfeatp p aovseitcif
+sdu’aru lter eCso Bmapntqeu de’so pCéernattrioanless a(lnoorsta qmume elen t slae rFviEceD )d peo luar dseet tper ovtaé gse’arl oduur driisr qàu eco duer tc thearmngee. Iàl sceoruaritt tàe rcmeet .e Sffuert
+olep pploarntu rné eplo, ulers l eesff eEtsta stse rdaeie nste m reittigoéusrn, earv esuc rd l’eu nme apracrhté d edso mteensstiioqnuse inpfolautri ocnonnistrtaecst eert ld’ees snoouufvfleelmlese ndt edtete lsa,
+ncrootiasmsamnecnet elet, md’aaurctrheé pdaerst, tditeress e pffuebtsli cnsé.g Laati fBs EpAouCr pleosu mrraéint aàg ceest aevffeect lceo rnecnlucrheé rdisesse amceconrt ddse sd eim spwoarpta atiovencs
+din’acoumtrepsre Bsasnibqleuse,s Camenbtirgauleëss (npootuarm lmese nÉt ltaa tFs EaDv)e pco ul’ra scec rporisostéegmeer ndtu driessq uree cdeet tcehsa npgéet rào licèoruerst tearinmsei . qSuuer
+lle’a lpoluarnd irséseel,m leesn te fdfeut sfa sredreaaieun dt em iltaig édse,t taev eect edn’ufinne, ppaorsti tdifess ptoeunrs iolenss fiinrmflaetsio nanviescte lse uert sl’ ecsosmoupfoflretemmeennt tdse d lae
+creronitsiesrasn cseo uest-, jadc’aeunttrse. pEanrt ,r daepsp oerftf eatvse ncé gleast ifms épcoaunr ilsems emsé dn’aagjuesst eamveecn tle a ruetnocmhaétriiqsuseesm, elenst dceasr aimctpéorirstatiqtiouness
+isntcruocmtuprreelslessib alecstu, eallmesb, igausësso cipéoeusr àl epslu sE tdaets f leaxviebcili tél’ adcuc rcohisasnegmee inntd udireasie nret cdeatvteasn tapgéetr odlieè rveosl atailiintés i deq ulea
+lc’aroloisusradniscsee mete dnet ld’iun flfaatridoena :u d ’doeù llaa ndéecttees seitt ée dnefin p, apsosseirt ifpsr épaolaubr lelems efnirtm peasr uanvee cd ilveeurrssi ficcoamtiopno rdteems seonutsr cdees
+rdeen ltaie crsro sisosuasn-cjaec ednatnss. lEan z oranpep poorut ra pvleucs ldees smtaébcilaitnéi.s mes d’ajustement automatiques, les caractéristiques
+s tructurelles actuelles, associées à plus de flexibilité du change induiraient davantage de volatilité de la
+c roissance et de l’inflation : d’où la nécessité de passer préalablement par une diversification des sources
+d e la croissance dans la zone pour plus de stabilité.
+i Quelles mesures les pays doivent-ils prendre face au Dollar fort ? FMI.
+ii « Public Investment in Resource-Abundant Developing Countries », IMF Working Paper.
+iii iQ Cuoenlsletrsu mcteiosnu rde’su lne sp panayiesr ddoei vdeenvti-sielss p: rqeunedlrlee ifmacpeo artua nDcoel lpaor ufro rlat ?C FEMMIA. C ? Mémoire professionnel de fin d’études, ISSEA.
+iv Inflation, output and unemployment trade-offs in Sub-Saharan Africa countries, MPRA.
+ii « Public Investment in Resource-Abundant Developing Countries », IMF Working Paper.
+v iii RCaotniost rduec stiaocnri dfi’cuen d paannsi elers d pea dyesv disee lsa :Z qouneell efr aimncp,o Rrteavnucee dp’oEucro lnao CmEieM AApCpl i?q Muééem, vooirl.e 2p.r ofessionnel de fin d’études, ISSEA.
+iv Inflation, output and unemployment trade-offs in Sub-Saharan Africa countries, MPRA.
+9
+v Ratio de sacrifice dans les pays de la Zone franc, Revue d’Economie Appliquée, vol. 2.
+9
+Bulletin Economique et Statistiques Page 52
+
+--- Page 54 ---
+Mise en page et impression :
+SERVICE DE L’IMPRIMERIE DE LA BEAC
+736 avenue Monseigneur Vogt - B .P . 1917, Cameroun
+Téléphone : (237) 22 23 40 30/60
+Fax : (237) 22 23 33 29/50
+E-mail : beac@beac .int
+Site web : www .beac .int

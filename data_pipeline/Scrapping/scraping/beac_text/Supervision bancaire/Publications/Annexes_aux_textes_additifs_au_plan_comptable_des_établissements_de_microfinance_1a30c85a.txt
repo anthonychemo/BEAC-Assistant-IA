@@ -1,0 +1,3270 @@
+Source PDF : Annexes_aux_textes_additifs_au_plan_comptable_des_établissements_de_microfinance_1a30c85a.pdf
+Chemin original : scraping\beac_data\Supervision bancaire\Publications\Annexes_aux_textes_additifs_au_plan_comptable_des_établissements_de_microfinance_1a30c85a.pdf
+Date extraction : 15/06/2026 20:07:40
+======================================================================
+
+--- Page 1 ---
+COMMISSION BANCAIRE
+DE L’AFRIQUE CENTRALE
+-----------------------
+SECRETARIAT GENERAL
+PROJET
+DU PLAN COMPTABLE
+DES ETABLISSEMENTS DE MICROFINANCE
+( PCEMF )
+ETATS FINANCIERS DE SYNTHESE
+
+--- Page 2 ---
+2
+SOMMAIRE
+Pages
+Liste des états déclaratifs …………………..………………………………….. 2
+Situation bilantielle ……………………………………………………….. 4
+Comptes de résultat ………………………………………………….…… 11
+Hors-bilan ………………………………………………………………...18
+Soldes intermédiaires de gestion ……………………………………….. 20
+Consolidation ou combinaison des comptes ………….………………… 21
+Normes prudentielles ……………………………………………..……… 39
+Statistiques ………….……………………………………………..…….. 53
+Tables de correspondance …….…………..…………………………………… 54
+Situation bilantielle ……………………………………………………… 56
+Comptes de résultat ………………………………………………….….. 66
+Hors-bilan ………………………………………………………………. 73
+Soldes intermédiaires de gestion ………………………………………... 75
+Consolidation ou combinaison des comptes ………….………………… 76
+Normes prudentielles ……………………………………………..…….. 83
+Comptes annuels
+Bilan social
+Compte de résultat social
+Etat des engagements de hors-bilan (comptabilité sociale)
+Tableau d’emplois et ressources
+Bilan consolidé ou combiné
+Compte de résultat consolidé ou combiné
+Etat des engagements de hors-bilan (comptabilité consolidée ou combinée)
+Annexe comptable : contenu indicatif
+
+--- Page 3 ---
+3
+SITUATION BILANTIELLE
+
+--- Page 4 ---
+4
+1-MODELE GENERAL DE BILAN: EMF de 2ème et 3ème CATEGORIE
+ACTIF
+Réf. Intitulé Brut Amort. NetN Net N-1
+Prov.
+EG01 IMMOBILISATIONS
+EG02 Frais immobilisés
+EG03 Valeurs incorporelles immobilisées
+EG04 Terrains
+EG05 Autres immobilisations corporelles
+EG06 Immobilisations en cours Avances et Acomptes
+EG07 Dépôts et cautionnements
+EG08 Titres de participation et titres publics
+EG09 CREDITS A LA CLIENTELE
+EG10 Crédits sains à long terme
+EG11 Crédits sains à moyen terme
+EG12 Crédits sains à court terme
+EG13 Comptes débiteurs sains
+EG14 Crédits impayés
+EG15 Crédits immobilisés
+EG16 Crédits douteux
+EG17 STOCK DE MARCHANDISES ET AUTRES OPERATIONS
+ASSIMILEES
+EG18 COMPTES DE TIERS
+EG19 Fournisseurs
+EG20 Personnel
+EG21 Etat
+EG22 Actionnaires
+EG23 Débiteurs divers
+EG24 Créances diverses en souffrance
+EG25 ENCAISSEMENTS
+EG26 Valeurs à encaisser
+EG27 Valeur à l’encaissement en souffrance
+EG28 COMPTE DE REGULARISATION
+EG29 Charges comptabilisées d’avance
+EG30 Produits à recevoir
+EG31 Autres opérations de régularisations
+EG32 COMPTES DE LIAISON
+EG33 Liaison siège et agences
+EG34 Liaison organe faîtier et EMF affiliés
+EG35 Liaison entre EMF affiliés
+EG36 Liaison entre agences hors réseau
+EG37 Liaison interne
+EG38 Opérations diverses en souffrance réseau
+EG39 COMPTE DE TRESORERIE
+EG40 Titres de trésorerie
+EG41 Marché monétaire
+EG42 Comptes à vue et à terme auprès des EMF
+EG43 Comptes à vue et à terme auprès des banques et établissements financier
+EG44 Autres comptes à vue et à terme de correspondants
+EG45 Créances en souffrance sur les correspondants
+EG46 Caisse
+EG47 RESULTAT EN ATTENTE D’APPROBATION
+EG48 EXCEDENT DE CHARGES SUR LES PRODUITS
+TOTAL GENERAL
+
+--- Page 5 ---
+5
+1-MODELE GENERAL DE BILAN: EMF de 2ème et 3ème CATEGORIE
+PASSIF
+Réf. Intitulé N N-1
+RG01 CAPITAUX PROPRES
+RG02 Capital social
+RG03 Actionnaires, capital souscrit non appelé (-)
+RG04 Primes liées au capital
+RG05 Réserves légales
+RG06 Réserves obligatoires et réglementaires
+RG07 Réserves libres
+RG08 Report à nouveau
+RG09 Provisions et réserves réglementées
+RG10 Fonds constitués
+RG11 Subventions d’investissement
+RG12 Provisions pour risques généraux
+RG13 Résultat après certification
+RG14 PROV. POUR RISQUES ET CHARGES
+RG15 EMPRUNT A L.T. et M.T.
+RG16 DEPOTS DE LA CLIENTELE
+RG17 Dépôts à régime spécial
+RG18 Dépôts à terme
+RG19 Dépôts à vue
+RG20 Autres comptes de la clientèle
+RG21 DETTES A COURT TERME
+RG22 Fournisseurs
+RG23 Personnel
+RG24 Etat
+RG25 Associés
+RG26 Créditeurs divers
+RG27 COMPTES D’ENCAISSEMENT
+RG28 COMPTES DE REGULARISATION
+RG29 Charges à payer
+RG30 Produits comptabilisés d’avance
+RG31 Autres opérations de régularisation
+RG32 COMPTES DE LIAISON
+RG33 Liaison siège et agences
+RG34 Liaison organe faîtier et EMF affiliés
+RG35 Liaison entre EMF affiliés
+RG36 Liaison entre agences hors réseau
+RG37 Liaison interne
+RG38 COMPTES DE TRESORERIE
+RG39 Valeur de trésorerie reçue
+RG40 Marché monétaire
+RG41 Comptes à vue et à terme des autres EMF
+RG42 Comptes à vue et à terme des banques et
+établissements financiers
+RG43 Autres comptes à vue et à terme de correspondants
+RG44 BENEFICE EN ATTENTE D’APPROBATION
+RG45 EXCEDENT DE PRODUITS SUR LES
+CHARGES
+TOTAL GENERAL
+
+--- Page 6 ---
+6
+2- MODELE DE BILAN: ORGANE FAITIER DE RESEAU D’EMF
+ACTIF
+Réf. Intitulé Brut Amort. Net N Net N-1
+Prov.
+EF01 IMMOBILISATIONS
+EF02 Frais immobilisés
+EF03 Valeurs incorporelles immobilisées
+EF04 Terrains
+EF05 Autres immobilisations corporelles
+EF06 Immobilisations en cours Avances et Acomptes
+EF07 Dépôts et Cautionnements
+EF08 Titres de participations et titres publics
+EF09 CREDITS AUX EMF AFFILIES
+EF10 Crédits sains à .L.T.
+EF11 Crédits sains à M. T.
+EF12 Crédits sains à C.T.
+EF13 Comptes débiteurs sains
+EF14 Crédits impayés
+EF15 Crédits immobilisés
+EF16 Crédits douteux
+EF17 Autres crédits sains
+EF18 Autres crédits en souffrance
+EF19 STOCK MARCHANDISES ET AUTRES
+OPERATIONS ASSIMILEES
+EF20 COMPTES DE TIERS
+EF21 Fournisseurs
+EF22 Personnel
+EF23 Etat
+EF24 Sociétaires
+EF25 Débiteurs divers
+EF26 Créances diverses en souffrance
+EF27 ENCAISSEMENTS
+EF28 Valeurs à encaisser
+EF29 Valeur à l’encaissement en souffrance
+EF30 COMPTE DE REGULARISATION
+EF31 Charges comptabilisées d’avance
+EF32 Produits à recevoir
+EF33 Autres opérations de régularisation
+EF34 COMPTES DE LIAISON AFFILIES
+EF35 Liaison siège et agences
+EF36 Liaison organe faîtier et EMF affiliés
+EF37 Liaison entre EMF affiliés
+EF38 Liaison entre agences hors réseau
+EF39 Liaison interne
+EF40 Opérations diverses en souffrance réseau
+EF41 COMPTES DE TRESORERIE
+EF42 Titres de trésorerie
+EF43 Marché monétaire
+EF44 Comptes à vue et à terme auprès des EMF affiliés
+au réseau
+EF45 Comptes à vue et à terme auprès d’autres EMF
+EF46 Comptesà vue et à terme auprès des banques et
+établissements financiers
+EF47 Autres comptes à vue et à terme de correspondants
+EF48 Créances en souffrance sur les correspondants
+EF49 Caisse
+EF50 RESULTAT EN ATTENTE
+D’APPROBATION
+EF51 EXCEDENT DE CHARGE SUR LES
+PRODUITS
+TOTAL GENERAL
+
+--- Page 7 ---
+7
+2- MODELE DE BILAN: ORGANE FAITIER DE RESEAU D’EMF
+PASSIF
+Réf. Intitulé N N-1
+RF01 FONDS PATRIMONIAUX
+RF02 Parts sociales souscrites appelées et fonds de dotation
+RF03 Parts sociales souscrites appelées non versées (-)
+RF04 Réserves légales
+RF05 Réserves libres
+RF06 Réserves obligatoires et réglementaires
+RF07 Fonds de solidarité
+RF08 Autres fonds constitués
+RF09 Provisions et réserves réglementées
+RF10 Subvention d’équipement
+RF11 Report à nouveau
+RF12 Provisions pour risques généraux
+RF13 Résultat après certification
+RF14 PROV. POUR RISQUES ET CHARGES
+RF15 EMPRUNT A L.T. ET M.T.
+RF16 DEPOTS
+RF17 Dépôts à régime spécial
+RF18 Dépôts à terme des affiliés
+RF19 Dépôts à vue des affiliés
+RF20 Autres dépôts
+RF21 DETTES A COURT TERME
+RF22 Fournisseurs
+RF23 Personnel
+RF24 Etat
+RF25 Sociétaires
+RF26 Créditeurs divers
+RF27 COMPTES D’ENCAISSEMENT
+RF28 COMPTE DE REGULARISATION
+RF29 Charges à payer
+RF30 Produits comptabilisés d’avance
+RF31 Autres opérations de régularisations
+RF32 COMPTES DE LIAISON AFFILIES
+RF33 Liaison siège et agences
+RF34 Liaison organe faîtier et EMF affiliés
+RF35 Liaison entre EMF affiliés
+RF36 Liaison entre agences hors réseau
+RF37 Liaison interne
+RF38 COMPTES DE TRESORERIE
+RF39 Valeur de trésorerie reçue
+RF40 Marché monétaire
+RF41 Comptes à vue et à terme des EMF affiliés au réseau
+RF42 Comptes à vue et à terme d’autres EMF
+RF43 Comptes à vue et à terme des banques
+RF44 Autres comptes à vue et à terme de correspondants
+RF45 RESULTAT EN ATTENTE D’APPROBATION
+RF46 EXCEDENT DE PRODUITS SUR LES
+CHARGES
+TOTAL GENERAL
+
+--- Page 8 ---
+8
+3- MODELE DE BILAN: EMF DE 1ère CATEGORIE ET EMF AFFILIES A UN RESEAU
+ACTIF
+Réf. Intitulé Brut Amort. Net N Net N-1
+Prov.
+EP01 IMMOBILISATIONS
+EP02 Frais immobilisés
+EP03 Valeurs incorporelles immobilisées
+EP04 Terrains
+EP05 Autres immobilisations corporelles
+EP06 Immobilisations en cours Avances et Acomptes
+EP07 Dépôts et Cautionnements
+EP08 Titres de participations et titres publics
+EP09 CREDITS AUX MEMBRES
+EP10 Crédits sains à long terme
+EP11 Crédits sains à moyen terme
+EP12 Crédits sains à court terme
+EP13 Comptes débiteurs sains
+EP14 Crédits impayés
+EP15 Crédits immobilisés
+EP16 Crédits douteux
+EP17 STOCK DE MARCHANDISES ET AUTRES
+OPERATIONS ASSIMILEES
+EP18 COMPTES DE TIERS
+EP19 Fournisseurs
+EP20 Personnel
+EP21 Etat
+EP22 Sociétaires
+EP23 Débiteurs divers
+EP24 Créances diverses en souffrance
+EP25 ENCAISSEMENTS
+EP26 Valeurs à encaisser
+EP27 Valeurs à l’encaissement en souffrance
+EP28 COMPTE DE REGULARISATION
+EP29 Charges comptabilisées d’avances
+EP30 Produits à recevoir
+EP31 Autres opérations de régularisation
+EP32 COMPTES DE LIAISON
+EP33 Liaison siège et agences
+EP34 Liaison organe faîtier et EMF affiliés
+EP35 Liaison entre EMF affiliés
+EP36 Liaison entre agences hors réseau
+EP37 Liaison interne
+EP38 Opérations diverses en souffrance
+EP39 COMPTES DE TRESORERIE
+EP40 Titres de trésorerie
+EP41 Marché monétaire
+EP42 Comptes à vue et à terme auprès de l’organe faîtier
+EP43 Comptes à vue et à terme auprès des EMF affiliés au
+réseau
+EP44 Comptes à vue et à terme auprès d’autres EMF
+EP45 Comptes à vue et à terme auprès des banques et
+établissements financiers
+EP46 Autres comptes à vue et à terme de correspondants
+EP47 Créances en souffrance sur les correspondants
+EP48 Caisse
+EP49 RESULTAT EN ATTENTE D’APPROBATION
+EP50 EXCEDENT DE CHARGE SUR LES
+PRODUITS
+TOTAL GENERAL
+
+--- Page 9 ---
+9
+3- MODELE DE BILAN: EMF DE 1ère CATEGORIE ET EMF AFFILIES A UN RESEAU
+PASSIF
+Réf. Intitulé N N-1
+RP01 FONDS PATRIMONIAUX
+RP02 Parts sociales souscrites appelées et fonds de dotation
+RP03 Parts sociales souscrites appelées non versées
+RP04 Réserves légales
+RP05 Réserves libres
+RP06 Réserves obligatoires et réglementaires
+RP07 Fonds de solidarité
+RP08 Autres fonds constitués
+RP09 Provisions et réserves réglementées
+RP10 Subvention d’équipement
+RP11 Report à nouveau
+RP12 Provisions pour risques généraux
+RP13 Résultat net de l’exercice après certification
+RP14 PROVISIONS POUR RISQUES ET CHARGES
+RP15 EMPRUNTS HORS RESEAU
+RP16 EMPRUNT AUPRES DU RESEAU
+RP17 Emprunt à L.T.
+RP18 Emprunt à M.T.
+RP19 DEPOTS DES MEMBRES
+RP20 Dépôts à régime spécial
+RP21 Dépôts à terme des EMF affiliés
+RP22 Dépôts à vue des EMF affiliés
+RP23 Autres dépôts
+RP24 DETTES A COURT TERME
+RP25 Fournisseurs
+RP26 Personnel
+RP27 Etat
+RP28 Sociétaires
+RP29 Créditeurs divers
+RP30 COMPTES D’ENCAISSEMENT
+RP31 COMPTE DE REGULARISATION
+RP32 Charges à payer
+RP33 Produits comptabilises d’avance
+RP34 Autres opérations de régularisation
+RP35 COMPTES DE LIAISON
+RP36 Liaison siège et agences
+RP37 Liaison organe faîtier et EMF affiliés
+RP38 Liaison entre EMF affiliés
+RP39 Liaison entre agences hors réseau
+RP40 Liaison interne
+RP41 COMPTES DE TRESORERIE
+RP42 Valeur de trésorerie
+RP43 Marché monétaire
+RP44 Comptes à vue et à terme de l’organe faîtier
+RP45 Comptes à vue et à terme des EMF affiliés au réseau
+RP46 Comptes à vue et à terme d’autres EMF
+RP47 Comptes à vue et à terme des banques et
+établissements financiers
+RP48 Autres comptes à vue et à terme des correspondants
+RP49 RESULTAT EN ATTENTE D’APPROBATION
+RP50 EXCEDENT DE PRODUITS SUR LES
+CHARGES
+TOTAL GENERAL
+
+--- Page 10 ---
+10
+COMPTES DE RESULTAT
+
+--- Page 11 ---
+11
+1-MODELE GENERAL DE COMPTE DE RESULTAT: EMF de 2ème et 3ème CATEGORIE
+CHARGES
+Réf. CHARGES Montant N Montant N-1
+XG01 Charges d’exploitation financière
+XG02 Intérêts sur opérations de trésorerie et inter bancaire
+XG03 Intérêts sur les dépôts à vue clientèle
+XG04 Intérêts sur les dépôts à terme clientèle
+XG05 Intérêts sur les emprunts
+XG06 Commissions et frais sur opérations de transfert de fonds
+XG07 Autres commissions et frais bancaires
+XG08 Charges liées aux opérations accessoires
+XG09 Charges de personnel
+XG10 Frais de personnel
+XG11 Charges sociales
+XG12 Autres charges générales d’exploitation
+XG13 Fournitures de bureau
+XG14 Eau, électricité, gaz et carburant
+XG15 Locations
+XG16 Entretiens et réparations
+XG17 Primes d’assurances
+XG18 Publicité, relations publiques, réceptions
+XG19 Transports et déplacements
+XG20 Frais de télécommunication
+XG21 Frais de formation
+XG22 Frais de mission
+XG23 Cotisations à l’association professionnelle des EMF
+XG24 Frais de Conseil d’Administration, Assemblées Générales et jetons
+de présence
+XG25 Autres charges consommées
+XG26 Impôts et taxes
+XG27 Amortissements et Provisions
+XG28 Dotations aux amortissements
+XG29 Dotations aux provisions sur créances clientèle
+XG30 Dotations autres provisions
+XG31 Charges exceptionnelles
+XG32 Valeurs comptables des éléments d’actifs cédés
+XG33 Autres charges exceptionnelles
+XG34 Impôt sur le bénéfice
+XG35 Bénéfice de l’exercice avant certification
+TOTAL DES CHARGES
+
+--- Page 12 ---
+12
+1-MODELE GENERAL DE COMPTE DE RESULTAT: EMF de 2ème et 3ème CATEGORIE
+PRODUITS
+Réf. PRODUITS Montant N Montant N-1
+YG01 Produits d’exploitations financières
+YG02 Produits sur opérations de trésorerie et inter bancaire
+YG03 Intérêts sur les crédits à L.T. clientèle
+YG04 Intérêts sur les crédits à M.T. clientèle
+YG05 Intérêts sur les crédits à C.T. clientèle
+YG06 Intérêts sur les comptes débiteurs clientèle
+YG07 Intérêts sur les prêts
+YG08 Commissions et frais perçus sur opérations de transfert de fonds
+YG09 Autres commissions et produits bancaires
+YG10 Produits sur les opérations accessoires
+YG11 Autres produits et subventions
+YG12 Produits divers
+YG13 Subvention d’exploitation
+YG14 Produits exceptionnels
+YG15 Reprise sur subvention d’investissement
+YG16 Produits de cessions d’éléments d’actif
+YG17 Autres produits exceptionnels
+YG18 Reprises Amortissements et Provisions
+YG19 Reprises d’amortissements
+YG20 Reprises de provisionssur créances clientèle
+YG21 Autres Reprises de provisions
+YG22 Pertes de l’exercice
+TOTAL DES PRODUITS
+
+--- Page 13 ---
+13
+2- MODELE DE COMPTE DE RESULTAT: EMF de 1ère CATEGORIE + EMF AFFILIES A UN RESEAU
+CHARGES
+Réf. CHARGES Montant N Montant N-1
+ZP01 Charges d’exploitation financière
+ZP02 Intérêts sur opérations de trésorerie et inter bancaire
+ZP03 Intérêts sur les dépôts à vue sociétaires
+ZP04 Intérêts sur les dépôts à terme sociétaires
+ZP05 Intérêts sur les emprunts
+ZP06 Commissions et frais sur opérations de transfert de fonds
+ZP07 Autres commissions et frais bancaires
+ZP08 Charges liées aux opérations accessoires
+ZP09 Charges de personnel
+ZP10 Frais de personnel
+ZP11 Charges sociales
+ZP12 Autres charges générales d’exploitation
+ZP13 Fournitures de bureau
+ZP14 Eau, électricité, gaz et carburant
+ZP15 Locations
+ZP16 Entretiens et réparations
+ZP17 Primes d’assurances
+ZP18 Publicité, relations publiques, réceptions
+ZP19 Transports et déplacements
+ZP20 Frais de télécommunication
+ZP21 Frais de formation
+ZP22 Frais de mission
+ZP23 Cotisations à l’association professionnelle des EMF
+ZP24 Frais de Conseil d’Administration, Assemblées Générales et jetons
+de présence
+ZP25 Autres charges consommées
+ZP26 Contribution à l’organe faîtier
+ZP27 Impôts et taxes
+ZP28 Amortissements et Provisions
+ZP29 Dotations aux amortissements
+ZP30 Dotations aux provisions sur créances de la clientèle
+ZP31 Dotations autres provisions
+ZP32 Charges exceptionnelles
+ZP33 Valeurs comptables des éléments d’actifs cédés
+ZP34 Autres charges exceptionnelles
+ZP35 Bénéfice net de l’exercice avant certification
+TOTAL DES CHARGES
+
+--- Page 14 ---
+14
+2- MODELE DE COMPTE DE RESULTAT: EMF de 1ère CATEGORIE + EMF AFFILIES A UN RESEAU
+PRODUITS
+Réf. PRODUITS Montant N Montant N-1
+LP01 Produits d’exploitation financière
+LP02 Intérêts sur opérations de trésorerie et inter bancaire
+LP03 Intérêts sur les créditsà L.T. sociétaires
+LP04 Intérêts sur les crédits à M.T. sociétaires
+LP05 Intérêts sur les crédits à C.T. sociétaires
+LP06 Intérêts sur les comptes débiteurs sociétaires
+LP07 Intérêts sur les prêts
+LP08 Commissions et frais perçus sur opérations de transfert de fonds
+LP09 Autres commissions et produits bancaires
+LP10 Produits sur les opérations accessoires
+LP11 Autres produits et subventions
+LP12 Droits d’adhésion
+LP13 Subvention d’exploitation et d’équilibre
+LP14 Divers produits
+LP15 Produits exceptionnels
+LP16 Reprises sur subvention d’équipement
+LP17 Produits de cessions d’éléments d’actifs
+LP18 Autres produits exceptionnels
+LP19 Reprises Amortissements et Provisions
+LP20 Reprises d’amortissements
+LP21 Reprises de provisions sur créances clientèle
+LP22 Autres reprises de provisions
+LP23 Pertes de l’exercice
+TOTAL DES PRODUITS
+
+--- Page 15 ---
+15
+3-MODELE DE COMPTE DE RESULTAT: ORGANE FAITIER D’UN RESEAU
+CHARGES
+Réf. CHARGES Montant N Montant N-1
+TD01 Charges d’exploitation financières
+TD02 Intérêts sur opérations de trésorerie et inter bancaire
+TD03 Intérêts sur les dépôts à vue EMF affiliés
+TD04 Intérêts sur les dépôts à terme EMF affiliés
+TD05 Intérêts sur les emprunts
+TD06 Commissions et frais sur opérations de transfert de fonds
+TD07 Autres commissions et frais bancaires
+TD08 Charges liées aux opérations accessoires
+TD09 Charges de personnel
+TD10 Frais de personnel
+TD11 Charges sociales
+TD12 Autres charges générales d’exploitation
+TD13 Fournitures de bureau
+TD14 Eau Electricité Gaz et Carburants
+TD15 Locations
+TD16 Entretiens et réparations
+TD17 Primes d’assurances
+TD18 Publicité et relations publiques Réceptions
+TD19 Transports et déplacements
+TD20 Frais de télécommunication
+TD21 Frais de formation
+TD22 Frais de mission
+TD23 Cotisations à l’association professionnelle des EMF
+TD24 Frais de Conseil d’Admin. Assemblées Générales et jetons de
+présence
+TD25 Autres charges consommées
+TD26 Impôts et taxes
+TD27 Amortissements et provisions
+TD28 Dotations aux amortissements
+TD29 Dotations aux provisions sur créances de la clientèle
+TD30 Dotations autres provisions
+TD31 Charges exceptionnelles
+TD32 Valeurs comptables des éléments d’actifs cédés
+TD33 Autres charges exceptionnelles
+TD34 Résultat net de l’exercice avant certification
+TOTAL DES CHARGES
+
+--- Page 16 ---
+16
+3-MODELE DE COMPTE DE RESULTAT: ORGANE FAITIER D’UN RESEAU
+PRODUITS
+Réf. PRODUITS Montant N Montant N-1
+BD01 Produits d’exploitation financière
+BD02 Intérêts sur opérations de trésorerie et interbancaire
+BD03 Intérêts sur les crédits à L.T. sociétaire
+BD04 Intérêts sur les crédits à M.T. sociétaire
+BD05 Intérêts sur les crédits à C.T. sociétaire
+BD06 Intérêts sur les comptes débiteurs sociétaires
+BD07 Intérêts sur les prêts
+BD08 Commissions et frais perçus sur opérations de transfert de fonds
+BD09 Autres commissions et produits bancaires
+BD10 Produits sur les opérations accessoires
+BD11 Autres produits et subventions
+BD12 Droits d’adhésion
+BD13 Subvention d’exploitation et d’équilibre
+BD14 Contribution des EMF à l’organe faîtier
+BD15 Divers produits
+BD16 Produits exceptionnels
+BD17 Reprises sur subvention d’investissement
+BD18 Produits de cessions d’éléments d’actif
+BD19 Autres Produits exceptionnels
+BD20 Reprises Amortissements et Provisions
+BD21 Reprises d’amortissements
+BD22 Reprises de provisions sur créances clientèle
+BD23 Autres reprises de provisions
+BD24 Pertes de l’exercice
+TOTAL DES PRODUITS
+
+--- Page 17 ---
+17
+OPERATIONS HORS BILAN
+
+--- Page 18 ---
+18
+ETAT DES ENGAGEMENTS HORS BILAN
+Raison sociale et sigle de l’EMF déclarant :
+Pays :
+Ville :
+Bénéficiaires Avals, cautions et autres garanties données Avals, cautions et autres garanties reçues
+et
+Montant Montant
+débiteurs
+Total
+
+--- Page 19 ---
+19
+ETATS DE CONSOLIDATION
+OU DE
+COMBINAISON DES COMPTES
+
+--- Page 20 ---
+20
+1- BILAN ACTIF CONSOLIDEOU COMBINE : ORGANE FAITIER + EMF AFFILIES A UN RESEAU
+Réf. Intitulé BILANS CUMULES RETRAITEMENTS BILAN COMBINE
+Brut Amort. Net N Brut Amort. Net N
+Prov. Prov.
+AC01 IMMOBILISATIONS
+AC02 Frais immobilisés
+AC03 Valeurs incorporelles immob.
+AC04 Terrains
+AC05 Autres immob. corporelles
+AC06 Immobilisations en cours Avances et
+Acomptes
+AC07 Dépôts et Cautionnements
+AC08 Titres de participations et titres publics
+AC09 CREDITS AUX MEMBRES
+AC10 Crédits sains à LT
+AC11 Crédits sains à MT
+AC12 Crédits sains à CT
+AC13 Comptes débiteurs
+AC14 Crédits impayés
+AC15 Crédits immobilisés
+AC16 Crédits douteux
+AC17 CREDITS AUX EMF AFFILIES
+AC18 Crédits sains à LT
+AC19 Crédits sains à MT
+AC20 Crédits sains à CT
+AC21 Comptes débiteurs
+AC22 Crédits impayés
+AC23 Crédits immobilisés
+AC24 Crédits douteux
+AC25 Autres crédits sains
+AC26 Autres crédits en souffrance
+AC27 STOCK DE MARCHANDISES
+AC28 COMPTE DE TIERS
+AC29 Fournisseurs
+AC30 Personnel
+AC31 Etat
+AC32 Sociétaires
+AC33 Débiteurs divers
+AC34 Créances diverses en souffrances
+AC35 ENCAISSEMENTS
+AC36 Valeurs à encaisser
+AC37 Valeurs àl’encaissement en souffrance
+AC38 COMPTE DE REGULARISATION
+AC39 Charges comptabilisées d’avance
+AC40 Produits à recevoir
+AC41 Autres opérations de régula.
+AC42 COMPTES DE LIAISON
+AC43 Liaison siège et agences
+AC44 Liaison organe faîtier et EMF affiliés
+AC45 Liaison entre EMF affiliés
+AC46 Liaison entre agences hors réseau
+AC47 Liaison interne
+AC48 Opérations diverses en souffrances
+réseau
+AC49 COMPTES DE TRESORERIE
+AC50 Titres de trésorerie
+AC51 Marché monétaire
+AC52 Comptes à vue et à terme auprès de
+l’organe faîtier
+AC53 Comptes à vue et à terme auprès des
+EMF affiliés au réseau
+AC54 Comptes à vue et à terme auprès
+d’autres EMF
+AC55 Comptes à vue et à terme auprès des
+banques et établissements financiers
+AC56 Autres comptes à vue et à terme auprès
+de correspondants
+AC57 Créances en souffrance sur les
+correspondants
+AC58 Caisse
+
+--- Page 21 ---
+21
+AC59 RESULTAT EN ATTENTE
+D’APPROBATION
+AC60 EXCEDENT DE CHARGE SUR
+LES PRODUITS
+TOTAL GENERAL
+
+--- Page 22 ---
+22
+1- BILAN CONSOLIDEOU COMBINE : ORGANE FAITIER + EMF AFFILIES A UN RESEAU
+PASSIF
+Réf. Intitulé BILANS RETRAITEMENTS BILAN
+CUMULES COMBINE
+Année: N Année: N
+PC01 FONDS PATRIMONIAUX
+PC02 Parts sociales libérées
+PC03 Réserves légales
+PC04 Réserves obligatoires et réglementaires
+PC05 Réserves libres
+PC06 Fonds de solidarité
+PC07 Autres fonds constitués
+PC08 Subvention d’équipement
+PC09 Report à nouveau créditeur
+PC10 Provisions pour risques généraux
+PC11 Pertes et report débiteur (-)
+PC12 Résultat net après certification
+PC13 PROV. POUR RISQUES ET CHARGES
+PC14 EMPRUNT HORS RESEAU
+PC15 EMPRUNT AUPRES DU RESEAU
+PC16 Emprunt à LT
+PC17 Emprunt à MT
+PC18 DEPOTS
+PC19 Dépôts à régime spécial des membres
+PC20 Dépôts à terme des membres
+PC21 Dépôts à vue des membres
+PC22 Dépôts à régime spécial des affiliés
+PC23 Dépôts à terme des EMF affiliés
+PC24 Dépôts à vue des EMF affiliés
+PC25 Autres dépôts
+PC26 DETTES A COURT TERME
+PC27 Fournisseurs
+PC28 Personnel
+PC29 Etat
+PC30 Sociétaires
+PC31 Créditeurs divers
+PC32 COMPTES D’ENCAISSEMENT
+PC33 COMPTE DE REGULARISATION
+PC34 Charges à payer
+PC35 Produits comptabilisées d’avances
+PC36 Autres opérations de régularisation
+PC37 COMPTES DE LIAISON
+PC38 Liaison siège et agences
+PC39 Liaison organe faîtier et EMF affiliés
+PC40 Liaison entre EMF affiliés
+PC41 Liaison entre agences hors réseau
+PC42 Liaison interne
+PC43 COMPTES DE TRESORERIE
+PC44 Valeurs de trésorerie reçues
+PC45 Marché monétaire
+PC46 Comptes à vue et à terme de l’organe faîtier
+PC47 Comptes à vue et à terme des EMF affiliés du réseau
+PC48 Comptes à vue et à terme d’autres EMF
+PC49 Comptes à vue et à terme des banques et établissements
+financiers
+PC50 Autres comptes à vue et à terme de correspondants
+PC51 RESULTAT EN ATTENTE D’APPROBATION
+PC52 EXCEDENT DE PRODUITS SUR LES CHARGES
+TOTAL GENERAL
+
+--- Page 23 ---
+23
+2- COMPTE DE RESULTAT CONSOLIDEOU COMBINE :
+ORGANE FAITIER + EMF AFFILIES A UN RESEAU
+CHARGES
+CHARRGES Compte de Retraitements Compte de
+Réf. Résultat cumulé Résultat combiné
+Montant N Montant
+QC01 Charges d’exploitation financières
+QC02 Intérêts sur opérations de trésorerie et inter bancaire
+QC03 Intérêts sur les dépôts à vue sociétaires
+QC04 Intérêts sur les dépôts à terme sociétaires
+QC05 Intérêts sur les emprunts
+QC06 Commissions et frais sur opérations de transfert de fonds
+QC07 Autres commissions et frais bancaires
+QC08 Charges liées aux opérations accessoires
+QC09 Charges de personnel
+QC10 Frais de personnel
+QC11 Charges sociales
+QC12 Autres charges générales d’exploitation
+QC13 Fournitures de bureau
+QC14 Eau et électricité Gaz et carburant
+QC15 Locations
+QC16 Entretiens et réparations
+QC17 Primes d’assurances
+QC18 Publicité et relations publiques
+QC19 Transports et déplacements
+QC20 Frais de télécommunication
+QC21 Frais de formation
+QC22 Frais de mission
+QC23 Cotisations à l’association professionnelle des EMF
+QC24 Frais de Conseil d’Administration, Assemblée Générale
+et jetons de présence
+QC25 Autres charges consommées
+QC26 Contribution à l’organe faîtier
+QC27 Impôts et taxes
+QC28 Amortissements et Provisions
+QC29 Dotations aux amortissements
+QC30 Dotations aux provisions sur créances de la clientèle
+QC31 Dotations autres provisions
+QC32 Charges exceptionnelles
+QC33 Valeurs comptables des éléments d’actifs cédés
+QC34 Autres charges exceptionnelles
+QC35 Bénéfice net de l’exercice
+TOTAL DES CHARGES
+
+--- Page 24 ---
+24
+2- COMPTE DE RESULTAT CONSOLIDEOU COMBINE :
+ORGANE FAITIER + EMF AFFILIES A UN RESEAU
+PRODUITS
+Réf. PRODUITS Compte de Retraitements Compte de
+Résultat cumulé Résultat combiné
+Montant N Montant N
+SC01 Produits d’exploitation financières
+SC02 Intérêts sur opérations de trésorerie et inter bancaire
+SC03 Intérêts sur les crédits à L.T. clientèle
+SC04 Intérêts sur les crédits à M.T. clientèle
+SC05 Intérêts sur les crédits à C.T. clientèle
+SC06 Intérêts sur les comptes débiteurs clientèle
+SC07 Intérêts sur les prêts
+SC08 Commissions et frais perçus sur opérations de transfert
+de fonds
+SC09 Autres commissions et produits bancaires
+SC10 Produits sur les opérations accessoires
+SC11 Autres produits et subventions
+SC12 Droits d’adhésion
+SC13 Subvention d’exploitation
+SC14 Contribution des EMF l’organe faîtier
+SC15 Divers produits
+SC16 Produits exceptionnels
+SC17 Reprises sur subvention d’équipement
+SC18 Produits de cessions d’éléments d’actif
+SC19 Autres Produits exceptionnels
+SC20 Reprises Amortissements et Provisions
+SC21 Reprises d’amortissements
+SC22 Reprises de provisions sur créances clientèleet
+correspondants
+SC23 Autres reprises de provisions
+SC24 Pertes de l’exercice
+TOTAL DES PRODUITS
+
+--- Page 25 ---
+25
+LIASSES DE CONSOLIDATION A L’UTILISATION DE L’ORGANE FAITIER ET DES EMF DE 1ère CATEGORIE AFFILIES
+LIASSE DE CONSOLIDATION 1
+COMPTES RECIPROQUES – ACTIF (Organe faîtier)
+Immobilisations Crédits aux Autres Comptes de Encaissements Comptes de Comptes de Correspondants Créances en
+ENTITES financières EMF affiliés opérations tiers (AC 36) régularisation liaison réseau à vue souffrance sur
+(AC 07, AC 08) (AC 18, AC 19, pour compte (AC 29, AC 32, (AC 39, AC 40) (AC 44, AC 47) (AC 52) les
+AC 20, AC 21, clientèle (AC AC 33) correspondants
+AC 22, AC 23, 27) (AC 55)
+AC 24)
+
+--- Page 26 ---
+26
+LIASSE DE CONSOLIDATION 2
+COMPTES RECIPROQUES – PASSIF (Organe faîtier)
+Parts sociales Autres fonds Emprunts Dépôts Dettes à court Comptes Comptes de Comptes de
+ENTITES (PC 02) patrimoniaux auprès du (PC 22, PC 23, terme d’encaissement régularisation liaison
+(PC 07, PC 08) réseau PC 24, PC 25) (PC 27, PC 30, PC (PC 32) (PC 34, PC 35, PC (PC 39)
+(PC 16, PC 17) 31) 36)
+
+--- Page 27 ---
+27
+LIASSE DE CONSOLIDATION 3
+COMPTES NON RECIPROQUES – ACTIF ET PASSIF (Organe faîtier)
+ENTITES Stocks (AC 27) Provisions Amortissements
+
+--- Page 28 ---
+28
+LIASSE DE CONSOLIDATION 4
+COMPTES RECIPROQUES – CHARGES (Organe faîtier)
+Charges d’exploitation Charges liées aux Charges de personnel Autrescharges générales Autres charges
+ENTITES financière opérations accessoires (QC 09) d’exploitation exceptionnelles
+(QC 02, QC 03, QC 04, QC (QC 07) (QC 12 à QC 24) (QC 33)
+05, QC 06)
+
+--- Page 29 ---
+29
+LIASSE DE CONSOLIDATION 5
+COMPTES RECIPROQUES – PRODUITS (Organe faîtier)
+ENTITES Produits d’exploitation financière Produits sur les opérations Autres produits et subventions Produits exceptionnels
+(SC 03 à SC 08) accessoires (SC 12, SC 13) (SC 16)
+(SC 09)
+
+--- Page 30 ---
+30
+LIASSE DE CONSOLIDATION 6
+COMPTES NON RECIPROQUES – CHARGES ET PRODUITS (Organe faîtier)
+ENTITES Charges liées aux Dotations aux provisions Valeur comptable des Reprises de provisions
+opérations accessoires (QC 32) éléments d’actif cédés (SC 21)
+(QC 07 = variation des (QC 32)
+stocks)
+
+--- Page 31 ---
+31
+LIASSE DE CONSOLIDATION 7
+COMPTES RECIPROQUES – ACTIF (EMF 1ère Catégorie affiliés)
+Immobilisations Autres Comptes de Compte de Comptes de Opérations Correspondants Correspondants Créances en
+ENTITES financières opérations tiers Encaissements régularisation liaison (AC diverses en réseau à terme réseau à vue souffrance sur
+(AC 07, AC 08) compte (AC 29, AC (AC 36) (AC 39, AC 40) 44, AC 45) souffrance (AC 51) (AC 52) les
+clientèle 32, (AC 47) correspondants
+(AC 27) AC 33) (AC 55)
+ORGANE
+FAITIER
+
+--- Page 32 ---
+32
+LIASSE DE CONSOLIDATION 8
+COMPTES RECIPROQUES – PASSIF (EMF 1ère Catégorie affiliés)
+Fonds Emprunts à LT et Dépôts (à régime Dettes à court Comptes Comptes de Comptes de Comptes de
+ENTITES patrimoniaux MT auprès du spécial des terme d’encaissement régularisation liaison trésorerie
+(PC 07, PC 08) réseau membres) (PC 19) (PC 27, PC 31) (PC 32) (PC 34, PC 35, PC (PC 39, PC 40) (PC 45, PC 46, PC 47)
+(PC 16, PC 17) 36)
+ORGANE
+FAITIER
+
+--- Page 33 ---
+33
+LIASSE DE CONSOLIDATION 9
+COMPTES NON RECIPROQUES – ACTIF ET PASSIF (EMF 1ère Catégorie affiliés)
+ENTITES Stocks(AC 27) Provisions Amortissements
+Organe faîtier
+
+--- Page 34 ---
+34
+LIASSE DE CONSOLIDATION 10
+COMPTES RECIPROQUES – CHARGES (EMF 1ère Catégorie affiliés)
+ENTITES Charges d’exploitation Charges liées aux Charges de personnel Autres charges Contribution à l’organe Autres charges
+financière opérations accessoires (QC 09) générales d’exploitation faîtier exceptionnelles (QC 33)
+(QC 02, QC 05, QC 06) (QC 07) (QC 12 à QC 24) (QC 25)
+ORGANES FAITIER
+
+--- Page 35 ---
+35
+LIASSE DE CONSOLIDATION 11
+COMPTES RECIPROQUES – PRODUITS (EMF 1ère Catégorie affiliés)
+ENTITES Produits d’exploitation financière Produits sur les opérations Autres produits et subventions Produits exceptionnels
+(SC 02, SC 07, SC 08) accessoires (SC 12, SC 13) (SC 16)
+(SC 09)
+ORGANE FAITIER
+
+--- Page 36 ---
+36
+LIASSE DE CONSOLIDATION 12
+COMPTES NON RECIPROQUES – CHARGES ET PRODUITS (EMF 1ère Catégorie affiliés)
+ENTITES Charges liées aux Dotations aux provisions Valeur comptable des Reprises de provision
+opérations accessoires (QC 30) éléments d’actif cédés (SC 21)
+(QC 07 = variation de (QC 32)
+stocks)
+ORGANE FAITIER
+
+--- Page 37 ---
+NORMES PRUDENTIELLLES
+
+--- Page 38 ---
+38
+CALCUL DES FONDS PATRIMONIAUX NETS
+(Règlement EMF 2002/03)
+Première catégorie
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+Référence Montant
+JT01 Parts sociales souscrites, appelées, versées
+JT02 Réserves légales
+JT03 Réserves obligatoires et réglementaires
+JT04 Réserves libres
+JT05 Fonds de solidarité
+JT06 Fonds de garantie et d’assurance mutuelle
+JT07 Autres fonds de financement
+JT08 Subventions à caractère de réserve (équipement)
+JT09 Provisions pour risques généraux (non affectées )
+JT10 Report à nouveau créditeur
+JT11 Excédent net du dernier exercice clos avant distribution
+JT12 Sous total A
+JT13 Report à nouveau débiteur
+JT14 Perte du dernier exercice clos
+JT15 Déficit de l’exercice en cours (perte en attente d’approbation)
+JT16 Frais et immobilisations incorporelles
+JT17 surplus d’exercice à distribuer
+JT18 Provisions complémentaires à constituer
+JT19 Sous total B
+JT20 Réserves de réévaluation
+JT21 Comptes bloqués d’associés à plus d’un an
+JT22 Emprunts participatifs et dettes subordonnés
+JT23 Sous total C
+JT24 FONDS PATRIMONIAUX NETS
+A-B+C
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 39 ---
+39
+CALCUL DES FONDS PROPRES NETS
+(Règlement EMF 2002/04)
+Deuxième et Troisième catégorie
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+Référence Libellé Montant
+KL01 Capital social libéré ou dotation
+KL02 Primes liées au capital
+KL03 Réserves légales
+KL04 Réserves obligatoires et réglementaires
+KL05 Réserves libres
+KL06 Fonds de garantie et assurance mutuelle
+KL07 Autres fonds de financement
+KL08 Subventions à caractère de réserve (équipement)
+KL09 Provisions pour risques généraux (non affectées)
+KL10 Report à nouveau créditeur
+KL11 Bénéfice net du dernier exercice clos avant distribution
+KL12 Sous total A
+KL13 Actions propres rachetées et titres d’EMF détenus
+KL14 Report à nouveau débiteur
+KL15 Pertes du dernier exercice clos en attente d’approbation
+KL16 Résultat déficitaire intermédiaire de l’exercice en cours
+KL17 Dividendes à distribuer
+KL18 Frais et immobilisations incorporelles
+KL19 Provisions complémentaires
+KL20 Sous total B
+KL21 Réserves de réévaluation
+KL22 Comptes bloqués d’associés à plus d’un an
+KL23 Titres et emprunts subordonnés
+KL24 Sous total C
+KL25 FONDS PROPRES NETS
+A-B+C
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 40 ---
+40
+NORMES SUR LA CONSTITUTION DU FONDS DE SOLIDARITE
+(Règlement EMF 2002/05)
+Première catégorie
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+Montant des parts sociales souscrites et libérés = ………………………………….
+Référence Montant
+Année Année Année
+N N – 1 N - 2
+HS01 Fonds de solidarité Constitué en N-1 (A)
+(40% des parts sociales libérées en N-1)
+HS02 Déficit de l’exercice ( - ) en N ( B )
+HS03 FONDS DE SOLIDARITE DISPONIBLES en N (C)
+C = A + B
+HS04
+HS05 Parts Sociales libérées en N (D)
+HS06 NORME SUR LE FONDS DE SOLIDARITE en N (E)
+E = (C / D) > ou = 40 %
+HS07
+HS08 BESOIN EN FONDS DE SOLIDARITEen N (F)
+F= (D x 40%)- C
+HS09
+HS10 Réserves obligatoires constituées en N (pour mémoire)
+Norme minimale : le Fonds de Solidarité, après imputation du déficit de l’exercice, doit
+représenter au minimum 40% des parts sociales libérées
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 41 ---
+41
+CALCUL DU RATIO DE COUVERTURE DES RISQUES
+(Règlement EMF 2002/07)
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+Référence Libellé Montant
+VL01 Fonds patrimoniaux nets ou fonds propres nets
+VL02 Sous total A
+VL03 Crédits à la clientèle sains
+VL04 Titres de participation non déduits des fonds propres
+ou des fonds patrimoniaux
+VL05 Crédits en souffrance nets de provisions
+VL06 Créances en souffrance sur les correspondants net
+de provision
+VL07 Sous total B
+VL08 Provisions complémentaires à constituer
+VL09 Sous total C
+VL10 A / (B – C)
+(Minimum : 10%)
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 42 ---
+42
+CALCUL DE LA NORME DE DIVISION DES RISQUES
+(Règlement EMF 2002/08)
+Première catégorie
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+I- Fonds Patrimoniaux Nets: ……………………………….……..…………..
+II- ENCOURS INDIVIDUEL
+Plus gros encours de crédit sur un seul membre:………….…………….
+Norme minimale: maximum autorisé< 15% x Fonds patrimoniaux nets
+III- TOTAL DES ENCOURS SUR LES PLUS GROS BENEFICIAIRES DE CREDITS
+Total des plus gros encours de crédit :…………………………………….
+Norme minimale : maximum autorisé < 8% x Fonds patrimoniaux nets
+Liste de bénéficiaires dont les encours de risques dépassent 10% des fonds patrimoniaux nets :
+Type de risques Total
+Bénéficiaire
+Crédits par Titres de Engagements sur Engagements
+caisse participation les correspondants par signature
+Total Général (A)
+Maximum autorisé: (A) doit être inférieur à 8 x Fonds patrimoniaux nets
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 43 ---
+43
+CALCUL DE LA NORME DE DIVISION DES RISQUES
+(Règlement EMF 2002/08 BIS)
+Deuxième et troisième catégorie
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+I- Fonds Propres Nets: ……………………………….……..…………..
+II- ENCOURS INDIVIDUEL
+Plus gros encours de crédit sur un seul membre:………….…………….
+Norme minimale: maximum autorisé< 15% x Fonds propres nets
+III- TOTAL DES ENCOURS SUR LES PLUS GROS BENEFICIAIRES DE CREDITS
+Total des plus gros encours de crédit :…………………………………….
+Norme minimale : maximum autorisé < 8% x Fonds propres nets
+Liste de bénéficiaires dont les risques dépassent 10% des fonds propres nets :
+Type de risques Total
+Bénéficiaire de
+crédits
+Crédits par Titres de Engagements sur Engagements
+caisse participation les correspondants par signature
+Total Général (A)
+Maximum autorisé: (A) doit être inférieur à 8 x Fonds propres nets
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 44 ---
+44
+CALCUL DU RATIO DE COUVERTURE DES IMMOBILISATIONS
+(Règlement EMF 2002/09)
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+Référence Libellé Montant
+MN01 Fonds patrimoniaux nets ou fonds propres nets
+MN02 Emprunts à plus de cinq ans affectés au financement
+des immobilisations
+MN03 Sous total (A)
+MN04 Immobilisations nettes
+MN05 Sous total (B)
+MN06 Ratio: A / B
+Norme minimale : 100%
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 45 ---
+45
+CALCUL DE LA NORME DES ENGAGEMENTS DES APPARENTES
+(Règlement EMF 2002/10)
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+Fonds propres nets (ou fonds patrimoniaux nets) : ………………………………
+Encours des engagements au profit des apparentés
+N° Nom du bénéficiaire Nature du crédit Montant du pourcentage
+crédit par rapport
+aux fonds
+patrimoniaux nets
+Total ( T ) =
+Norme minimale : Total (T) / Fonds propres nets (ou fonds patrimoniaux nets) = Maximum 5%
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 46 ---
+46
+COEFFICIENT DE COUVERTURE DES CREDITS PAR LES RESSOURCES
+DISPONIBLES
+(Règlement EMF 2002/12)
+Première et deuxième catégorie
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+Référence Montant
+Encours net de crédits accordés sur ressources propres
+(A)
+Encours net de crédits refinancés (B)
+Solde C = A - B
+Fonds patrimoniaux ou fonds propres nets (D)
+Dépôts des membres ou de la clientèle (E)
+Dépôts auprès de l’organe faîtier (F)
+Immobilisations nettes (G)
+Solde H = D + E - F - G
+C/H
+Norme minimale = 70% pour les EMF indépendants
+65% pour les EMF affiliés à un réseau
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 47 ---
+47
+COEFFICIENT DE COUVERTURE DES CREDITS PAR LES RESSOURCES
+DISPONIBLES
+(Règlement 2002/12 BIS)
+ORGANE FAITIER
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+Référence Intitulé Montant
+HK01 Encours net de crédits, y compris aux sociétaires des
+EMF affiliés, accordés sur ressources propres
+(A)
+HK02 Encours net de crédits, y compris aux sociétaires des
+EMF affiliés, accordés sur des lignes de refinancement
+externes
+(B)
+HK03 Solde C = A- B
+HK04 Fonds patrimoniaux ou fonds propres nets (D)
+HK05 Dépôts des EMF affiliés (E)
+HK06 Immobilisations nettes (F)
+HK07 Solde G = D + E- F
+HK08 Ratio = C/G
+Norme minimale = 70%
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 48 ---
+48
+CALCUL DU RATIO RELATIF AUX LIGNES DE FINANCEMENT RECUS
+(Règlement EMF 2002/13)
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+Référence Intitulé Montant
+SM01 Fonds propres nets ou fonds patrimoniaux nets :
+(A)
+SM02 Solde des financements remboursables obtenus :
+(B)
+SM03 (A)/(B)
+Le rapport (A)/(B) doit être supérieur ou égal à 50%.
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 49 ---
+49
+CALCUL DU COEFFICIENT DE LA LIQUIDITE
+(Règlement 2002/14)
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+Référence Ressources Pondération Montant
+VQ01 Crédits sains à échoir dans les trois mois à venir 100%
+VQ02 Comptes débiteurs sains 75%
+VQ03 Accords de refinancement irrévocables (sous réserve) 100%
+VQ04 Avoirs chez les correspondants locaux à moins de 3 mois 100%
+d’échéance
+VQ05 Disponibilité en caisse 100%
+VQ06 TOTAL DES RESSOURCES MOBILISABLES (A)
+VQ07 Dépôts des correspondants locaux 100%
+VQ08 Dépôts à terme à échoir dans les trois mois 100%
+VQ09 Dépôts à vue de la clientèle ou des membres 50%
+VQ10 Emprunts à échoir dans les trois mois 100%
+VQ11 Refinancements à échoir dans les trois mois
+VQ12 TOTAL DES BESOINS A COUVRIR (B)
+A/B
+(Minimum requis = 100%)
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 50 ---
+50
+CALCUL DE LA NORME DE PRISE DE PARTICIPATION
+(Règlement 2002/16)
+Raison sociale et sigle de l’EMF déclarant :
+Pays:
+Ville:
+I- PARTICIPATION DANS UNE ENTREPRISE
+Maximum autorisé: 5% x Fonds patrimoniaux ou fonds propres nets
+II- ENSEMBLE DES PARTICIPATIONS
+Liste des entreprises bénéficiant des prises de participations
+Montant de la % rapport aux fonds
+Identité de l’entreprise participation patrimoniaux ou
+fonds propres nets
+Total (A)
+Maximum autorisé: (A) doit être inférieur à 15% x Fonds propres ou fondspatrimoniaux nets
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 51 ---
+51
+INFORMATIONS STATISTIQUES
+Raison sociale et sigle de l’EMF déclarant :
+Pays :
+Ville :
+Adresse :
+Tél / Fax :
+2006 2007 ………... ………..
+Capital social souscrit et libéré
+Nombre de membres ou actionnaires
+Hommes
+Femmes
+Nombres de salariés
+Nombres d’agences
+Noms des agences et lieux d’implantation
+Encours des dépôts
+Nombre de comptes de dépôts
+Encours des crédits bruts
+Provisions constituées
+Encours des crédits nets
+Trésorerie
+Banque
+Dépôts auprès des EMF non associés
+Dépôts auprès de l’organe faîtier
+Caisses
+Taux de rémunération des dépôts
+Taux maximum sur les dépôts
+Taux minimum sur les dépôts
+Taux de rémunération des crédits
+Taux maximum sur les crédits
+Taux minimum sur crédits
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 52 ---
+52
+TABLES DE CORRESPONDANCE
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 53 ---
+53
+LES TABLES DE CORRESPONDANCE
+Les tables de correspondance permettent de renseigner avec exactitude les états
+déclaratifs, ou réglementaires, ou de synthèse exigés par l’Autorité de contrôle. Ils
+indiquent ligne par ligne les numéros de compte du Plan Comptable des
+établissements de microfinance (PCEMF) à retenir. En d’autres termes ils permettent
+de faciliter le passage de la Balance comptable aux états de synthèse, sous réserve
+de la bonne application du PCEMF.
+Ces tables de correspondance concernent l’élaboration des états déclaratifs
+suivant:
+ le bilan,
+ le compte de résultat,
+ les états de détermination des normes prudentielles,
+ les états (bilan et comptes de résultat) consolidés ou combinés pour les
+réseaux,
+ et les soldes caractéristiques de gestion
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 54 ---
+54
+SITUATION BILANTIELLE
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 55 ---
+55
+1-MODELE GENERAL DE BILAN:EMF de 2ème et 3ème CATEGORIE
+ACTIF
+Réf. Intitulé Numéros de comptes du PCEMF
+Montant Bruts Provisions et
+Amortissements
+EG01 IMMOBILISATIONS -- --
+EG02 Frais immobilisés 201 (6801) / (6807)
+EG03 Valeurs incorporelles immobilisées 202 (2021) / (280) / (290)
+EG04 Terrains 21 (291)
+EG05 Autres immobilisations corporelles 22 (282) / (292)
+EG06 Immobilisations en coursAvances et Acomptes 2021 / 23 / 24 (293) / (294)
+EG07 Dépôts et cautionnements 25 (sauf 25 109 et 25 119) (295) sauf 29 519 et 29 529
+EG08 Titres de participation et titres publics 26 / 27 (sauf 26 219, 26 409, 26 619, 26 629, (296) / (297) sauf 29 669
+26 819, 26 829, 26 919, 26 929)
+EG09 CREDITS A LA CLIENTELE -- --
+EG10 Crédits sains à long terme 30 (sauf 30 139 à 30 939) --
+EG11 Crédits sains à moyen terme 31 (sauf 31 139 à 31 939) --
+EG12 Crédits sains à court terme 32 (sauf 32 019 à 32 949) --
+EG13 Comptes débiteurs sains 371dr / 372dr / 375 / 376 / 378dr / 386 / 387 --
+(sauf 37 139 à 37 539, 37 809)
+EG14 Crédits impayés 331 / 336 (sauf 33 119, 33 619) --
+EG15 Crédits immobilisés 332 (sauf 33 219) --
+EG16 Crédits douteux 333 / 334 / 335 / 337 (sauf 33 319, 33 419, (391) / (392) / (393) / (394)
+33 519, 33 719) (39 109, 39 299, 39 399)
+EG17 STOCK DE MARCHANDISES ET AUTRES 34 (sauf 34 009, 34 109) (397) (sauf 39 709)
+OPERATIONS ASSIMILEES
+EG18 COMPTES DE TIERS -- --
+EG19 Fournisseurs 409 (sauf 40 919) --
+EG20 Personnel 421 / 425dr --
+EG21 Etat 430dr / 432dr / 433dr / 434 / 435 / 431dr --
+EG22 Actionnaires ou sociétaires, opérations sur le 4410 / 4411 / 4412 / 4413 / 4414dr / 442dr / 448 --
+capital (sauf 44 209, 44 809, 44 709)
+EG23 Débiteurs divers 460 / 461dr / 462dr / 463dr / 464dr / 466 / 467 / --
+468dr / 469 (sauf 46 019, 46 609, 46 709, 46 809,
+46 909)
+EG24 Créances diverses en souffrance 480 / 482 / 483 (490) / (493)
+EG25 ENCAISSEMENTS -- --
+EG26 Valeurs à encaisser 411 / 419 (sauf 41 119, 41 129, 41 139, 41 939) --
+EG27 Valeurs à l’encaissement en souffrance 481 491
+EG28 COMPTES DE REGULARISATION --
+EG29 Charges comptabilisées d’avance 4711 (sauf 47 119)
+EG30 Produits à recevoir 4712 (sauf 47 129)
+EG31 Autres opérations de régularisation 476 / 477dr
+EG32 COMPTES DE LIAISON
+EG33 Liaison siège et agences 45 100dr
+EG34 Liaison organe faîtier et EMF affiliés
+EG35 Liaison entre EMF affiliés
+EG36 Liaison entre agences 45 200dr
+EG37 Liaison interne 459dr
+EG38 Opérations diverses en souffrance 485 (sauf 48 509) 495 (sauf 49 999)
+EG39 COMPTES DE TRESORERIE -- --
+EG40 Titres de trésorerie 51 / 53dr --
+EG41 Marché monétaire 52dr --
+EG42 Comptes à vue et à terme auprès des EMF 5419 / 5429dr / 5439dr ( sauf 54 199 / 54 299 / --
+54 399)/ 54 810 / 5519dr / ( sauf 55 199) / 55
+810/56 090dr/ 56 190dr/56 310dr/ 56 810
+EG43 Comptes à vue et à terme auprès des banques et 5412 / 5413 / 5415 / 5416 / 5422dr / 5423dr / --
+établissements financiers 5425dr / 5426dr / 5432dr / 5433dr / 5435dr /
+5436dr / 5513 / 5514 / 5516 / 5517 / 5602dr/
+5603dr/ 5605dr/ 5606dr/ 5612dr/ 5613dr/ 5615dr/
+5616dr
+EG44 Autres comptes à vue et à terme de 5410 / 5414 / 5417 /5418 / 5420dr / 5421dr /
+correspondants 5424dr / 5427dr / 5428dr / 5430dr / 5431dr /
+5434dr / 5437dr / 5438dr / 5511/ 5512 / 5515 /
+5518 / 5600dr/ 5601dr/ 5604dr/ 5607dr/ 5608dr/
+5610dr/ 5611dr/ 5614dr/ 5617dr/ 5818dr
+EG45 Créances en souffrance sur les correspondants 58 (sauf 58 119, 58 219, 58 319) 59 (sauf 59 219)
+EG46 Caisse 57
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 56 ---
+56
+EG47 RESULTAT EN ATTENTE 87 --
+D’APPROBATION
+EG48 EXCEDENT DE CHARGES SUR LES -- --
+PRODUITS
+TOTAL GENERAL
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 57 ---
+57
+1-MODELE GENERAL DE BILAN:EMF de 2ème et 3ème CATEGORIE
+PASSIF
+Réf. Intitulé Numéros de comptes du PCEMF
+RG01 CAPITAUX PROPRES --
+RG02 Capital social 101 / 102 (sauf 10 129, 10 139)
+RG03 Actionnaires, capital souscrit non appelé (-) (103)
+RG04 Primes liées au capital 104
+RG05 Réserves légales 111
+RG06 Réserves obligatoires et réglementaires 112
+RG07 Réserves libres 113/ 114
+RG08 Report à nouveau 121 / ou 122
+RG09 Provisions et réserves réglementées 14
+RG10 Fonds constitués 161 / 162 / 163 (sauf 16 109, 16 209, 16 309)
+RG11 Subventions d’investissement 15 (sauf 15 119, 15 219)
+RG12 Provisions pour risques généraux 164
+RG13 Résultats après certification 131 ou 132
+RG14 PROV. POUR RISQUES ET CHARGES 19 (sauf 19 199, 19 399)
+RG15 EMPRUNT A L.T et M.T. 17 / 18 (sauf 17 909, 18 199, 18 219, 18 209, 18 519, 18 529, 18 829)
+RG16 DEPOTS DE LA CLIENTELE --
+RG17 Dépôts à régime spécial 351 / 352 / 353 / 354 / 355 / 359 (sauf 35 109, 35 219, 35 909)
+RG18 Dépôts à terme 36 (sauf 36 119 et 36 909)
+RG19 Dépôts à vue 371cr / 372cr / 373 / 374 / 377 / 378cr (sauf 37 139, 37 439, 37 809)
+RG20 Autres comptes de la clientèle 381 / 382 / 383 / 384
+RG21 DETTES A COURT TERME --
+RG22 Fournisseurs 401 / 402 / 403 (sauf 40 119, 40 219, 40 319)
+RG23 Personnel 422 / 423 / 424 / 425cr
+RG24 Etat 430cr / 431cr / 432cr / 433cr
+RG25 Associés 4415 / 4416 / 4417 / 442cr / 443 / 445 / 449 (sauf 44 199, 44 209,
+44 509, 44 309, 44 909)
+RG26 Créditeurs divers 461cr / 462cr / 464cr / 4631cr /4633cr / 465 / 468cr (sauf 46 809)
+RG27 COMPTES D’ENCAISSEMENT 412 (sauf 41 239)
+RG28 COMPTES DE REGULARISATION --
+RG29 Charges à payer 4721 (sauf 47 219)
+RG30 Produits comptabilisés d’avance 4722 (sauf 47 229)
+RG31 Autres opérations de régularisation 475 / 473 / 477cr / 474 (sauf 47 399, 47 499)
+RG32 COMPTES DE LIAISON
+RG33 Liaison siège et agences 45 100cr
+RG34 Liaison organe faîtier et EMF affiliés
+RG35 Liaison entre EMF affiliés
+RG36 Liaison entre agences 45 200cr
+RG37 Liaison interne 459cr
+RG38 COMPTES DE TRESORERIE --
+RG39 Valeur de trésorerie reçue 53cr
+RG40 Marché monétaire 52cr
+RG41 Comptes à vue et à terme des autres EMF 5429cr / 5439c r (sauf 54 299 / 54 399) / 54 910 / 55 290 / 55 910/
+56 090cr/ 56 190cr/ 56 410/ 56 910
+RG42 Comptes à vue et à terme des banques et établissements 5422cr / 5423cr / 5425cr / 5426cr / 5432cr / 5433cr / 5435cr / 5436cr
+financiers / 5442 / 5443 / 5445 / 5446 / 5523 / 5524 / 5526 / 5527 / 54 910 /
+55 910/ 5602cr/ 5603cr/ 5605cr/ 5606cr/ 5612cr/ 5613cr/ 5615cr/
+5616cr
+RG43 Autres comptes à vue et à terme de correspondants 5420cr / 5421cr / 5424cr / 5427cr / 5428cr / 5430cr / 5431cr / 5434cr
+/ 5437cr / 5438cr/ 5440 /5441 / 5444 / 5447 / 5448 / 5521 / 5522/
+5525/ 5528/ 5600cr/ 5601cr/ 5604cr/5607cr/5608cr/ 5610cr/ 5611cr/
+5614cr/ 5617cr/ 5618cr
+RG44 RESULTAT EN ATTENTE D’APPROBATION 87
+RG45 EXCEDENT DE PRODUITS SUR LES CHARGES --
+TOTAL GENERAL
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 58 ---
+58
+2- MODELE DE BILAN: ORGANE FAITIER DE RESEAU D’EMF
+ACTIF
+Réf. Intitulé Numéros de comptes du PCEMF
+Montant Bruts Provisions et
+Amortissements
+EF01 IMMOBILISATIONS -- --
+EF02 Frais immobilisés 201 (6801) / (6807)
+EF03 Valeurs incorporelles immobilisées 202 (2021) / (280) / (290)
+EF04 Terrains 21 (291)
+EF05 Autres immobilisations corporelles 22 (282) / (292)
+EF06 Immobilisations en cours Avances et Acomptes 2021 / 23 / 24 (293) / (294)
+EF07 Dépôts et Cautionnements 25 (295)
+EF08 Titres de participations et titres publics 26 / 27 (296) / (297)
+EF09 CREDITS AUX EMF AFFILIES -- --
+EF10 Crédits sains à LT 30139 / 30239 / 30339 / 30439 / 30539 / 30639 / 30839 / --
+30939
+EF11 Crédits sains à MT 31139 / 31239 / 31339 / 31439 / 31539 / 31639 / 31839 / --
+31939
+EF12 Crédits sains à CT 32019 / 32029 / 32049 / 32149 / 32239 / 32349 / 32419 / --
+32429 / 32539 / 32639 / 32749 / 32849 / 32949
+EF13 Comptes débiteurs sains 37139dr / 37539 / 37809dr --
+EF14 Crédits impayés 33119 / 33619 --
+EF15 Crédits immobilisés 33219 --
+EF16 Crédits douteux 33319 / 33419 / 33519 / 33719 (39109) / (39299) /
+(39399)
+EF17 Autres Crédits sains 30 / 31 / 32 / 37dr (personnel et sociétaires)
+EF18 Autres crédits en souffrance 33 (personne et sociétaires ) 3312 / 3322 / 3332 / 3342 / 39 (sauf 397 / 39 109 / 39
+3352 / 3362 / 3372 299 / 39 399)
+EF19 STOCK MARCHANDISES ET AUTRES 34 (397)
+OPERATIONS ASSIMILEES
+EF20 COMPTES DE TIERS -- --
+EF21 Fournisseurs 409 --
+EF22 Personnel 421 / 425dr --
+EF23 Etat 430dr / 432dr / 433dr / 434 / 435 / 431dr --
+EF24 Sociétaires 4410 / 4411/ 44 209dr / 44 709/ 44 809 --
+EF25 Débiteurs divers 460 / 461dr / 462dr / 463dr / 464dr / 466 / 467 / 468 / --
+469
+EF26 Créances diverses en souffrance 480 / 482 / 483 (490) / (493) / (49 999)
+EF27 ENCAISSEMENTS -- --
+EF28 Valeurs à encaisser 411 / 419 --
+EF29 Valeurs à l’encaissement en souffrance 481 (491)
+EF30 COMPTES DE REGULARISATION --
+EF31 Charges comptabilisées d’avance 4711
+EF32 Produits à recevoir 4712
+EF33 Autres opérations de régularisation 476 / 477dr
+EF34 COMPTES DE LIAISON AFFILIES
+EF35 Liaison siège et agences
+EF36 Liaison organe faîtier et EMF affiliés 45 109dr
+EF37 Liaison entre EMF affiliés
+EF38 Liaison entre agences hors réseau
+EF39 Liaison interne 459dr
+EF40 Opérations diverses en souffrance réseau 48 509 (49 509)
+EF41 COMPTES TRESORERIE -- --
+EF42 Titres de trésorerie 51 / 53dr --
+EF43 Marché monétaire 52dr --
+EF44 Comptes à vue et à terme auprès des EMF 56 099dr/56 199dr / 56 319 / 56 819 --
+affiliés au réseau
+EF45 Comptes à vue et à terme auprès d’autres EMF 54 190 / 54 290dr / 54 390dr/ 54 810 / 55 190 / 55 810 / --
+56 090 / 56 190 / 56 310 / 56 810
+EF46 Comptes à vue et à terme auprès des banques et 5412 / 5413/ 5415/ 5416/ 5422dr /5423dr /5425dr/ --
+établissements financiers 5426dr / 5432dr / 5433dr / 5435dr / 5436dr / 5513 /
+5514 / 5516 / 5517/ 5602dr/ 5603dr/ 5605dr/ 5606dr/
+5612dr/ 5613dr/ 5615dr/ 5616dr
+EF47 Autres comptes à vue et à terme de 5410 / 5414 / 5417 /5418 / 5420dr / 5421dr / 5424dr /
+correspondants 5427dr / 5428dr / 5430dr / 5431dr / 5434dr / 5437dr /
+5438dr / 5511/ 5512 / 5515 / 5518 / 5600dr/ 5601dr/
+5604dr/5607dr/ 5608dr/5610dr/5611dr/5614dr/5617dr/
+5618dr
+EF48 Créances en souffrance sur les correspondants 58 (59)
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 59 ---
+59
+EF49 Caisse 57
+EF50 RESULTAT EN ATTENTE 87 --
+D’APPROBATION
+EF51 EXCEDENT DE CHARGE SUR LES -- --
+PRODUITS
+TOTAL GENERAL
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 60 ---
+60
+2-MODELE DE BILAN: ORGANE FAITIER DE RESEAU D’EMF
+PASSIF
+Réf. Intitulé Numéros de comptes du PCEMF
+RF01 FONDS PATRIMONIAUX --
+RF02 Parts sociales souscrites appelées et fonds de dotation 10 009 / 102
+RF03 Parts sociales souscrites appelées non versées (-) (10 019)
+RF04 Réserves légales 111
+RF05 Réserves libres 114
+RF06 Réserves obligatoires et réglementaires 112
+RF07 Fonds de solidarité 160
+RF08 Autres fonds constitués 161 / 162 / 163
+RF09 Provisions et réserves réglementées 14
+RF10 Subvention d’équipement 15
+RF11 Report à nouveau 121 ou 122
+RF12 Provisions pour risques généraux 164
+RF13 Résultat après certification 131 ou 132
+RF14 PROV. POUR RISQUES ET CHARGES 19
+RF15 EMPRUNT A LT et MT 17 / 18
+RF16 DEPOTS --
+RF17 Dépôts à régime spécial 350 / 35 109 / 35 219 / 35 909
+RF18 Dépôts à terme des EMF affiliés 36 119 / 36 909
+RF19 Dépôts à vue des EMF affiliés 37 139cr / 37439/ 37 809cr
+RF20 Autres dépôts 3711 / 3721 / 3723 / 3741 / 377 / 381 / 382 / 383 / 38 809 / 355 /
+37 800 / 384
+RF21 DETTES A COURT TERME --
+RF22 Fournisseurs 401 / 402 / 403
+RF23 Personnel 422 / 423 / 424 / 425cr
+RF24 Etat 430cr / 431cr / 432cr / 433cr
+RF25 Sociétaires 4417 / 44 199cr / 44 409 / 44 909 / 44 209cr / 44 509
+RF26 Créditeurs divers 461cr / 462cr / 4631cr / 4633cr / 468cr / 465
+RF27 COMPTES D’ENCAISSEMENT 4122 / 4123
+RF28 COMPTE DE REGULARISATION --
+RF29 Charges à payer 4721
+RF30 Produits comptabilisés d’avance 4722
+RF31 Autres opérations de régularisation 473 / 474 / 475 / 477cr
+RF32 COMPTES DE LIAISON AFFILIES
+RF33 Liaison siège et agences
+RF34 Liaison organe faîtier et EMF affiliés 45 109cr
+RF35 Liaison entre EMF affiliés
+RF36 Liaison entre agences hors réseau
+RF37 Liaison interne 459cr
+RF38 COMPTES DE TRESORERIE --
+RF39 Valeur de trésorerie reçue 53cr
+RF40 Marché monétaire 52cr
+RF41 Comptes à vue et à terme des EMF affiliés au réseau 56 099cr / 56 199cr / 56 419 / 56 919
+RF42 Comptes à vue et à terme d’autres EMF 54 290cr/ 54 390cr/ 54 490/ 54 910/ 55 290/ 55 910/ 56 090cr/
+56 190cr/ 56 410/ 56 910
+RF43 Comptes à vue et à terme des banques et établissements 5422cr/ 5423cr/ 5425cr/ 5426cr/ 5432cr/ 5433cr/ 5435cr/ 5436cr/
+financiers 5442/ 5443/ 5445/ 5446/ 5523/ 5524/ 5526/ 5527/5602cr/ 5603cr/
+5605cr/ 5606cr/ 5612cr/ 5613cr/ 5615cr/ 5616cr
+RF44 Autres comptes à vue et à terme de correspondants 5420cr / 5421cr / 5424cr / 5427cr / 5428cr / 5430cr / 5431cr /
+5434cr / 5437cr / 5438cr/ 5440 /5441 / 5444 / 5447 / 5448 / 5521 /
+5522/ 5525/ 5528/ 5600cr/ 5601cr/ 5604cr/5607cr/ 5608cr/ 5610cr/
+5611cr/ 5614cr/ 5617cr/ 5618cr
+RF45 RESULTAT EN ATTENTE D’APPROBATION 87
+RF46 EXCEDENT DE PRODUITS SUR LES CHARGES --
+TOTAL GENERAL
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 61 ---
+61
+3- MODELE DE BILAN: EMF de 1ère CATEGORIE ET EMF AFFILIES A UN RESEAU
+ACTIF
+Réf. Intitulé Numéros de comptes du PCEMF
+Montants Bruts Provisions et Amortissements
+EP01 IMMOBILISATIONS -- --
+EP02 Frais immobilisés 201 (6801)/ (6807)
+EP03 Valeurs incorporelles immobilisations 202 (2021) / (280) / (290)
+EP04 Terrains 21 (291)
+EP05 Autres immobilisations corporelles 22 (282) / (292)
+EP06 Immobilisations encours Avances et 2021 /23 /24 (293) / (294)
+Acomptes
+EP07 Dépôts et cautionnements 25 (295)
+EP08 Titres de participations et titres publics 26 /27 (296) / (297)
+EP09 CREDITS AUX MEMBRES -- --
+EP10 Crédits sains à long terme 30 --
+EP11 Crédits sains à moyen terme 31 --
+EP12 Crédits sains à court terme 32 --
+EP13 Comptes débiteurs sains 371dr / 372dr / 375 / 376 / 378dr / 386 /387 --
+EP14 Crédits impayés 331 / 336 --
+EP15 Crédits immobilisés 332 --
+EP16 Crédits douteux 333 / 334 / 335 / 337 (391) / (392) / (393) / (394)
+EP17 STOCK MARCHANDISES ET AUTRES 34 (397)
+OPERATIONS ASSIMILEES
+EP18 COMPTES DE TIERS -- --
+EP19 Fournisseurs 409 --
+EP20 Personnel 421 / 425dr --
+EP21 Etat 430dr / 432dr / 433dr / 434dr / 435dr / 4312 --
+EP22 Sociétaires 4410 / 4411 / 442dr / 447 / 448 / 44199dr --
+EP23 Débiteurs divers 460 / 461dr / 462dr / 463dr / 464dr / 466 / 467 / --
+468dr / 469
+EP24 Créances diverses en souffrance 480 / 482 / 483 (490)/ (493) / (49 999)
+EP25 ENCAISSEMENTS -- --
+EP26 Valeurs à encaisser 411 / 419 --
+EP27 Valeurs à l’encaissement en souffrance 481 (491)
+EP28 COMPTE DE REGULARISATION
+EP29 Charges comptabilisées d’avance 4711
+EP30 Produits à recevoir 4712
+EP31 Autres opérations de régularisation 476 / 477dr
+EP32 COMPTES DE LIAISON
+EP33 Liaison siège et agences 45 100dr
+EP34 Liaison organe faîtier et EMF affiliés 45 109dr
+EP35 Liaison entre EMF affiliés 45 209dr
+EP36 Liaison entre agences hors réseau 45 200dr
+EP37 Liaison interne 459dr
+EP38 Opérations diverses en souffrance 485 (495)
+EP39 COMPTES DE TRESORERIE -- --
+EP40 Titres de trésorerie 51 / 53dr --
+EP41 Marché monétaire 52dr --
+EP42 Comptes à vue et à terme auprès de l’organe 54 199 / 54 299dr / 54 399dr/ 54 819 / 55 199 / --
+faîtier 55 819/ 56 319/ 56 819
+EP43 Comptes à vue et à terme auprès des EMF 56 099dr / 56 199dr --
+affiliés au réseau
+EP44 Comptes à vue et à terme auprès d’autres 54 190/ 54 290dr/ 54 390dr/ 54 490/ 54 810/ 55 --
+EMF 190/ 55 290/ 55 810/ 56 090dr/ 56 190dr/ 56 310/
+56 810
+EP45 Comptes à vue et à terme auprès des banques 5412 / 5413/ 5415/ 5416/ 5422dr /5423dr /5425dr --
+et établissements financiers /5426dr / 5432dr / 5433dr / 5435dr / 5436dr /
+5513 / 5514 / 5516 / 5517/ 5602dr/ 5603dr/
+5605dr/ 5606dr/ 5612dr/ 5613dr/ 5615dr/ 5616dr
+EP46 Autres comptes à vue et à terme de 5410/ 5411 / 5414 / 5417 /5418 / 5420dr / 5421dr /
+correspondants 5424dr / 5427dr / 5428dr / 5430dr / 5431dr /
+5434dr / 5437dr / 5438dr / 5511/ 5512 / 5515 /
+5518 / 5600dr/ 5601dr/ 5604dr/5607dr/ 5608dr/
+5610dr/ 5611dr/ 5614dr/ 5617dr/ 5618dr
+EP47 Créances en souffrance sur les 58 (59)
+correspondants
+EP48 Caisse 57
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 62 ---
+62
+EP49 RESULTAT EN ATTENTE 87 --
+D’APPROBATION
+EP50 EXCEDENT DE CHARGE SUR LES -- --
+PRODUITS
+TOTAL GENERAL
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 63 ---
+63
+3- MODELE DE BILAN: EMFde 1ère CATEGORIE ET EMF AFFILIES A UN RESEAU
+PASSIF
+Réf. Intitulé Numéros de comptes du PCEMF
+RP01 FONDS PATRIMONIAUX --
+RP02 Parts sociales souscrites appelées et fonds de dotation 100, 102
+RP03 Parts sociales souscrites appelées non versées (-) (1001)
+RP04 Réserves légales 111
+RP05 Réserves libres 114
+RP06 Réserves obligatoires et réglementaires 112
+RP07 Fonds de solidarité 160
+RP08 Autres fonds constitués 161 / 162 / 163
+RP09 Provisions et réserves réglementées 14
+RP10 Subvention d’équipement 15
+RP11 Report à nouveau 121 ou 122
+RP12 Provisions pour risques généraux 164
+RP13 Résultat net de l’exercice après certification 131 ou132
+RP14 PROV. POUR RISQUES ET CHARGES 19
+RP15 EMPRUNT HORS RESEAU 17 sauf 17909 / 18 sauf 1821, 18 199, 18 229, 18 529, 18 519, 18 709,
+18 719, 18 829
+RP16 EMPRUNTS AUPRES DU RESEAU --
+RP17 Emprunt à L.T. 17 909/ 18 519 / 18 199 / 18 229 / 18 829
+RP18 Emprunt à M.T. 18 529 / 18 709
+RP19 DEPOTS DES MEMBRES --
+RP20 Dépôts à régime spécial 351 / 352 / 354 / 355 / 359 / 353
+RP21 Dépôts à terme 36
+RP22 Dépôts à vue 371cr / 372cr / 373cr / 374 / 377 / 378cr
+RP23 Autres dépôts 382 / 383 / 384
+RP24 DETTES A COURT TERME --
+RP25 Fournisseurs 401 / 402 / 403
+RP26 Personnel 422 / 423 / 424 / 425cr
+RP27 Etat 430cr / 431cr / 432cr / 433cr
+RP28 Sociétaires 4417 / 444 / 445 / 449 / 44 199 / 442cr
+RP29 Créditeurs divers 461cr / 462cr / 464cr / 4631cr / 4633cr / 4651 / 468cr
+RP30 COMPTES D’ENCAISSEMENT 412
+RP31 COMPTE DE REGULARISATION --
+RP32 Charges à payer 4721
+RP33 Produits comptabilisés d’avance 4722
+RP34 Autres opérations de régularisation 473 / 474 / 475 / 477cr
+RP35 COMPTES DE LIAISON --
+RP36 Liaison siège et agences 45 100cr
+RP37 Liaison organe faîtier et EMF affiliés 45 109cr
+RP38 Liaison entre EMF affiliés 45 209cr
+RP39 Liaison entre agences hors réseau 45 200cr
+RP40 Liaison interne 459cr
+RP41 COMPTES DE TRESORERIE --
+RP42 Valeur de trésorerie 53cr
+RP43 Marché monétaire 52cr
+RP44 Comptes à vue et à terme de l’organe faîtier 54 299cr/ 54 399cr/ 54 499 / 54 919 / 55 299 / 55 919/ 56 419/ 56 919
+RP45 Comptes à vue et à terme des EMF affiliés au réseau 56 099cr / 56 199cr
+RP46 Comptes à vue et à terme d’autres EMF 54 290cr / 54 390cr/ 54 490/ 54 910/ 55 290/ 55 910/ 56 410/ 56 910
+RP47 Comptes à vue et à terme des banques et établissements 5422cr/ 5423cr/ 5425cr/ 5426cr/ 5432cr/ 5433cr/ 5435cr/ 5436cr/ 5442/
+financiers 5443/ 5445/ 5446/ 5523/ 5524/ 5526/ 5527/ 5602cr/ 5603cr/ 5605cr/
+5606cr/ 5612cr/ 5613cr/ 5615cr/ 5616cr
+RP48 Autres comptes à vue et à terme de correspondants 5420cr / 5421cr / 5424cr / 5427cr / 5428cr / 5430cr / 5431cr / 5434cr /
+5437cr / 5438cr/ 5440 /5441 / 5444 / 5447 / 5448 / 5521 / 5522/ 5525/
+5528/ 5600cr/ 5601cr/ 5604cr/5607cr/ 5608cr/ 5610cr/ 5611cr/ 5614cr/
+5617cr/ 5618cr
+RP49 RESULTAT EN ATTENTE D’APPROBATION 87
+RP50 EXCEDENT DE PRODUITS SUR LES CHARGES --
+TOTAL GENERAL
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 64 ---
+64
+COMPTES DE RESULTAT
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 65 ---
+65
+1-MODELE GENERAL DE COMPTE DE RESULTAT: EMF de 2ème et 3ème CATEGORIE
+CHARGES
+Réf. CHARGES Numéros de comptes du PCEMF
+XG01 Charges d’exploitation financière --
+XG02 Intérêts sur opérations de trésorerie et inter bancaire 601 / 602 / 603 / 604 / 605
+XG03 Intérêts sur les dépôts à vue clientèle 613 / 614 / 619
+XG04 Intérêts sur les dépôts à terme clientèle 611 / 612
+XG05 Intérêts sur les emprunts 631 (sauf 63 199)
+XG06 Commissions et frais sur opérations de transfert de 624
+fonds
+XG07 Autres commissions et frais bancaires 606 / 62 (sauf 62 719 ) / 632 (sauf 63 289)
+XG08 Charges liées aux opérations accessoires 64 010 / 64 020 / 64 030 / 641 (sauf 64 169)
+XG09 Charges de personnel --
+XG10 Frais de personnel 6510 / 6511 / 6512 / 6513 / 6516 / 6517 / 6518 / 65 190
+XG11 Charges sociales 6514 / 6515
+XG12 Autres charges générales d’exploitation --
+XG13 Fournitures de bureau 65 213 / 65 214 / 65 215
+XG14 Eau, électricité, gaz et carburant 65 211
+XG15 Locations 65 234 / 65 237
+XG16 Entretiens et réparations 65 236
+XG17 Primes d’assurances 65 252
+XG18 Publicité, relations publiques, réceptions 65 233
+XG19 Transports et déplacements 65 220
+XG20 Frais de télécommunication 65 231
+XG21 Frais de formation 25 255
+XG22 Frais de mission 65 232
+XG23 Cotisations à l’association professionnelle des EMF 65 254
+XG24 Frais de Conseil d’Admin. Assemblées Générales et 65 251
+jetons de présence
+XG25 Autres charges consommées 65 212 / 65 235 / 65 238 / 6524 (sauf 65 249) / 65 256
+XG26 Impôts et taxes 66
+XG27 Amortissements et provisions --
+XG28 Dotations aux amortissements 68
+XG29 Dotations aux provisions sur créances clientèle 6913 / 69 160
+XG30 Dotations autres provisions 69 (sauf 69 169 / 69 239 / 6971 / 6913 / 6916)
+XG31 Charges exceptionnelles --
+XG32 Valeurs comptables des éléments d’actifs cédés 676 (sauf 67 639)
+XG33 Autres charges exceptionnelles 671 (sauf 67 149) / 672 (sauf 67 269) / 673 (sauf 67 339) 677 (sauf 67
+739) / 679 (sauf 67 999) / 6971
+XG34 Impôt sur le bénéfice 86
+XG35 Bénéfice net de l’exercice avant certification 87
+TOTAL DES CHARGES
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 66 ---
+66
+1-MODELE GENERAL DE COMPTE DE RESULTAT: EMF de 2ème et 3ème CATEGORIE
+PRODUITS
+Réf. PRODUITS Numéros de comptes du PCEMF
+YG01 Produits d’exploitations financières --
+YG02 Produits sur opérations de trésorerie et inter bancaire 701 / 702 / 703 / 704 / 705 / 70 709
+YG03 Intérêts sur les crédits à L.T. clientèle 711
+YG04 Intérêts sur les crédits à M.T. clientèle 712
+YG05 Intérêts sur les crédits à C.T. clientèle 713
+YG06 Intérêts sur les comptes débiteurs clientèle 714
+YG07 Intérêts sur les prêts 731 / 732 / 733 / 734 (sauf 73 179 / 73 279 / 73 389 / 73 479
+YG08 Commissions et frais perçus sur opérations de transfert 724
+de fonds
+YG09 Autres commissions et produits bancaires 706 / 715 / 716 / 7140 / 72 (sauf 72 919)
+YG10 Produits sur les opérations accessoires 74 (sauf 74 019 / 74 029 / 74 169)
+YG11 Autres produits et subventions --
+YG12 Autres Produits 75 (sauf75 619)
+YG13 Subvention d’exploitation et d’équilibre 76 (sauf 76 319)
+YG14 Produits exceptionnels --
+YG15 Reprises sur subvention d’investissement 774
+YG16 Produits de cessions d’éléments d’actif 775 / 77 910
+YG17 Autres Produits exceptionnels 77 (sauf 774 / 775 / 77 910) / 7971 / 792
+YG18 Reprises Amortissements et Provisions --
+YG19 Reprises d’amortissements 78
+YG20 Reprises de provisions sur créances clientèles 7913 / 79 910
+YG21 Autres reprises de provisions 79 (sauf 7913 / 7971 / 792 / 79 910)
+YG22 Pertes de l’exercice 87
+TOTAL DES PRODUITS
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 67 ---
+67
+2- MODELE DE COMPTE DE RESULTAT: EMF de 1ère CATEGORIE + EMF AFFILIES A UN RESEAU
+CHARGES
+Réf. CHARGES Numéros de comptes du PCEMF
+ZP01 Charges d’exploitation financières --
+ZP02 Intérêts sur opérations de trésorerie et inter bancaire 60 709/ 61 510 / 61 511 / 601 / 602 / 603 / 604 / 605
+ZP03 Intérêts sur les dépôts à vue sociétaires 613 / 614 / 619 / 61 519
+ZP04 Intérêts sur les dépôts à terme sociétaires 611 / 612 / 61 529
+ZP05 Intérêts sur les emprunts 631
+ZP06 Commissions et frais sur opérations de transfert de 634
+fonds
+ZP07 Autres commissions et frais bancaires 606 / 60 719 / 62 / 632
+ZP08 Charges liées aux opérations accessoires 64
+ZP09 Charges de personnel --
+ZP10 Frais de personnel 651 ( sauf 6514 et 6515 )
+ZP11 Charges sociales 6514 / 6515
+ZP12 Autres charges générales d’exploitation --
+ZP13 Fournitures de bureau 65 213 / 65 214 / 65 215 / 65 219
+ZP14 Eau Electricité Gaz et Carburants 65 211
+ZP15 Locations 65 234 / 65 237
+ZP16 Entretiens et réparations 65 236
+ZP17 Primes d’assurances 65 252
+ZP18 Publicité et relations publiques Réceptions 65 233
+ZP19 Transports et déplacements 6522
+ZP20 Frais de télécommunication 65 231
+ZP21 Frais deformation 65 255
+ZP22 Frais de mission 65 232
+ZP23 Cotisations à l’association professionnelle des EMF 65 254
+ZP24 Frais de Conseil d’Admin. Assemblées Générales 65 251
+et jetons de présence
+ZP25 Autres charges consommées 65 212 / 65 235 / 65 238 / 65256 / 6524 ( sauf 65 249 ) / 65 239 / 65 259
+ZP26 Contribution à l’organe faîtier 65 249
+ZP27 Impôts et taxes 66
+ZP28 Amortissements et provisions --
+ZP29 Dotations aux amortissements 68
+ZP30 Dotations aux provisions et pertes sur créances 69 13 / 6916 / 692
+de la clientèle
+ZP31 Dotations autres provisions 69 sauf 6913 / 6916 / 692 / 6971
+ZP32 Charges exceptionnelles --
+ZP33 Valeurs comptables des éléments d’actifs cédés 676
+ZP34 Autres charges exceptionnelles 671 / 672 / 673 / 677 / 679 / 6971
+ZP35 Résultat net de l’exercice avant certification 87
+TOTAL DES CHARGES
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 68 ---
+68
+2- MODELE DE COMPTE DE RESULTAT: EMF de 1ère CATEGORIE + EMF AFFILIES A UN RESEAU
+PRODUITS
+Réf. PRODUITS Numéros de comptes du PCEMF
+LP01 Produits d’exploitation financière --
+LP02 Intérêts sur opérations de trésorerie et interbancaire 70 (sauf 706)
+LP03 Intérêts sur les crédits à L.T. sociétaire 711
+LP04 Intérêts sur les crédits à M.T. sociétaire 712
+LP05 Intérêts sur les crédits à C.T. sociétaire 713
+LP06 Intérêts sur les comptes débiteurs sociétaires 714
+LP07 Intérêts sur les prêts 73
+LP08 Commissions et frais perçus sur opérations de transfert 724
+de fonds
+LP09 Autres commissions et produits bancaires 71 719 / 715 / 716 / 72 / 706
+LP10 Produits sur les opérations accessoires 74
+LP11 Autres produits et subventions --
+LP12 Droits d’adhésion 7551
+LP13 Subvention d’exploitation et d’équilibre 76
+LP14 Divers produits 7552
+LP15 Produits exceptionnels --
+LP16 Reprises sur subvention d’investissement 774
+LP17 Produits de cessions d’éléments d’actif 775 / 779
+LP18 Autres Produits exceptionnels 77 (sauf 774 / 775 / 779) / 792 / 7971
+LP19 Reprises Amortissements et Provisions --
+LP20 Reprises d’amortissements 78
+LP21 Reprises de provisions sur créances clientèle 7913 / 799
+LP22 Autres reprises de provisions 79 (sauf 792 / 7913 / 7971 / 799)
+LP23 Pertes de l’exercice 87
+TOTAL DES PRODUITS
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 69 ---
+69
+3-MODELE DE COMPTE DE RESULTAT: ORGANE FAITIER D’UN RESEAU
+CHARGES
+Réf. CHARGES Numéros de comptes du PCEMF
+TD01 Charges d’exploitation financières --
+TD02 Intérêts sur opérations de trésorerie et inter bancaire 601 / 602 / 603 / 604 / 605 / 606 / 60 709
+TD03 Intérêts sur les dépôts à vue EMF affiliés 614 / 619
+TD04 Intérêts sur les dépôts à terme EMF affiliés 612 / 611 (sauf 6113 / 6114)
+TD05 Intérêts sur les emprunts 631
+TD06 Commissions et frais sur opérations de transfert de 624
+fonds
+TD07 Autres commissions et frais bancaires 606 / 60 719 / 62 / 632
+TD08 Charges liées aux opérations accessoires 64
+TD09 Charges de personnel --
+TD10 Frais de personnel 651 (sauf 6514 / 6515)
+TD11 Charges sociales 6514 / 6515
+TD12 Autres charges générales d’exploitation --
+TD13 Fournitures de bureau 65 213 / 65 214 / 65 215 / 65 219
+TD14 Eau Electricité Gaz et Carburants 65 211
+TD15 Locations 65 234 / 65 237
+TD16 Entretiens et réparations 65 236
+TD17 Primes d’assurances 65 252
+TD18 Publicité et relations publiques Réceptions 65 233
+TD19 Transports et déplacements 6522
+TD20 Frais de télécommunication 65 231
+TD21 Frais de formation 65 255
+TD22 Frais de mission 65 232
+TD23 Cotisations à l’association professionnelle des EMF 65 254
+TD24 Frais de Conseil d’Admin. Assemblées Générales 65 251
+et jetons de présence
+TD25 Autres charges consommées 65 212 / 65 235 / 65 238 / 6524 / 65 241 / 65 239 / 65 259 / 65 256
+TD26 Impôts et taxes 66
+TD27 Amortissements et provisions --
+TD28 Dotations aux amortissements 68
+TD29 Dotations aux provisions sur créances de la clientèle 6913 / 6916 / 692
+TD30 Dotations autres provisions 69 (sauf 6913 / 6916 / 692 / 6971)
+TD31 Charges exceptionnelles --
+TD32 Valeurs comptables des éléments d’actifs cédés 676
+TD33 Autres charges exceptionnelles 675 / 672 / 673 / 677 / 679 / 6971
+TD34 Résultat net de l’exercice avant certification 87
+TOTAL DES CHARGES
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 70 ---
+70
+3-MODELE DE COMPTE DE RESULTAT: ORGANE FAITIER D’UN RESEAU
+PRODUITS
+Réf. PRODUITS Numéros de comptes du PCEMF
+BD01 Produits d’exploitation financière --
+BD02 Intérêts sur opérations de trésorerie et interbancaire 70 sauf 706
+BD03 Intérêts sur les crédits à L.T. sociétaire 711
+BD04 Intérêts sur les crédits à M.T. sociétaire 712
+BD05 Intérêts sur les crédits à C.T. sociétaire 713
+BD06 Intérêts sur les comptes débiteurs sociétaires 714
+BD07 Intérêts sur les prêts 73
+BD08 Commissions et frais perçus sur opérations de transfert 724
+de fonds
+BD09 Autres commissions et produits bancaires 706 / 715 / 716 / 717 / 72
+BD10 Produits sur les opérations accessoires 74
+BD11 Autres produits et subventions --
+BD12 Droits d’adhésion 7551
+BD13 Subvention d’exploitation et d’équilibre 76
+BD14 Contribution des EMF à l’organe faîtier --
+BD15 Divers produits 7552
+BD16 Produits exceptionnels --
+BD17 Reprises sur subvention d’investissement 774
+BD18 Produits de cessions d’éléments d’actif 775 / 779
+BD19 Autres Produits exceptionnels 77 (sauf 774 / 775 / 779) 792 / 7971)
+BD20 Reprises Amortissements et Provisions --
+BD21 Reprises d’amortissements 78
+BD22 Reprisesde provisions sur créances clientèle 793 / 799
+BD23 Autres reprises de provisions 79 (sauf 792 / 793 / 7971 / 799)
+BD24 Pertes de l’exercice 87
+TOTAL DES PRODUITS
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 71 ---
+71
+ETATS DE CONSOLIDATION
+OU DE
+COMBINAISON DES COMPTES
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 72 ---
+72
+1-BILAN CONSOLIDEOU COMBINE : ORGANE FAITIER + EMF AFFILIES A UN RESEAU
+ACTIF
+Réf. Intitulés Réf. des lignes Numéros de comptes à retraiter
+de bilan à cumuler
+Organe EMF Organe faîtier EMF Affiliés
+faîtier Affiliés
+AC01 IMMOBILISATIONS EF01 EP01 -- --
+AC02 Frais immobilisés EF02 EP02 -- --
+AC03 Valeurs incorporelles EF03 EP03 -- --
+immobilisées
+AC04 Terrains EF04 EP04 -- --
+AC05 Autres immobilisations EF05 EP05 -- --
+corporelles
+AC06 Immobilisations en cours EF06 EP06 -- --
+Avances et Acomptes
+AC07 Dépôts et cautionnements EF07 EP07 25 109 / 25 119 25 109 / 25 119
+AC08 Titres de participations et titres EF08 EP08 26 409 / 26 619 / 26 629/ 26 819 26 219 / 26 409 / 26 619 / 26629
+publics / 26 819 / 26 829 / 26 919 /
+26 929
+AC09 CREDITS AUX MEMBRES EP09
+AC10 Crédits sains à LT EP10
+AC11 Crédits sains à MT EP11
+AC12 Crédits sains à CT EP12
+AC13 Comptes débiteurs sains EP13
+AC14 Crédits impayés EP14
+AC15 Crédits immobilisés EP15
+AC16 Crédits douteux EP16
+AC17 Crédits AUX EMF EF09
+AFFILIES
+AC18 Crédits sains à LT EF10 30139 / 30239 / 30339 / 30439 / 30539
+/ 30639 / 30839 / 30939
+AC19 Crédits sains à MT EF11 31139 / 31239 / 31339 / 31439 / 31539
+/ 31639 / 31839 / 31939
+AC20 Crédits sains à CT EF12 32019 / 32029 / 32049 / 32149 / 32239
+/ 32349 / 32419 / 32429 / 32539 /
+32639 / 32749 / 32849 / 32949
+AC21 Comptes débiteurs sains EF13 37 139dr/ 37 539dr/ 37 809dr
+AC22 Crédits impayés EF14 33 119/ 33619
+AC23 Crédits immobilisés EF15 33 219
+AC24 Crédits douteux EF16 33 319/ 33 419/ 33 519/ 33 719
+AC25 Autres crédits sains EF17 --
+AC26 Autres crédits en souffrance EF18 --
+AC27 STOCK DE EF19 EP17 34 009 / 34 109 34009 / 34 109
+MARCHANDISES
+AC28 COMPTE DE TIERS EF20 EP18 -- --
+AC29 Fournisseurs EF21 EP19 40 919 40 919
+AC30 Personnel EF22 EP20 -- --
+AC31 Etat EF23 EP21 -- --
+AC32 Sociétaires EF24 EP22 44 199dr / 44 209dr/ 44 709/ 44 809 44 199dr / 44 209dr/44 809
+AC33 Débiteurs divers EF25 EP23 46 019/46 609/46 709/46 809dr / 46 019/46 609/46 709/46 809dr /
+46 909dr 46 909
+AC34 Créances diverses en EF26 EP24 -- --
+souffrance
+AC35 ENCAISSEMENTS EF27 EP25 -- --
+AC36 Valeurs à encaisser EF28 EP26 41 119 / 41 129 / 41 139 / 41 939 41 119 / 41 129 / 41 139 / 41 939
+AC37 Valeurs à l’encaissement en EF29 EP27 -- --
+souffrance
+AC38 COMPTE DE EF30 EP28 -- --
+REGULARISATION
+AC39 Charges comptabilisées EF31 EP29 47 119 47 119
+d’avance
+AC40 Produits à recevoir EF32 EP30 47 129 47 129
+AC41 Autres opérations de EF33 EP31 -- --
+régularisation
+AC42 COMPTES DE LIAISON EF34 EP32 -- --
+AC43 Liaison siège et agences EF35 EP33 -- --
+AC44 Liaison organe faîtier et EMF EF36 EP34 45 109dr 45 109dr
+affiliés
+AC45 Liaison entre EMF affiliés EF37 EP35 -- 45 209dr
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 73 ---
+73
+AC46 Liaison entre agences hors EF38 EP36 -- --
+réseau
+AC47 Liaison interne EP37 -- --
+AC48 Opérations diverses en EF39 EP38 48 509 48 509dr
+souffrance réseau
+AC49 COMPTES DE EF40 EP39 -- --
+TRESORERIE
+AC50 Titre de trésorerie EF41 EP40 -- --
+AC51 Marché monétaire EF42 EP41 -- --
+AC52 Comptes à vue et à terme EF43 EP42 -- 54 199/54 299dr/ 54 399dr/
+auprès de l’organe faîtier 54 819/ 55 199 / 55 819
+AC53 Comptes à vue et à terme EF44 EP43 56 099dr/ 56 199dr/ 56 319/ 56 819 56 099dr / 56 199dr/ 56 319 /
+auprès des EMF affiliés au 56 819
+réseau
+AC54 Comptes à vue et à terme EF45 EP44 -- --
+auprès d’autres EMF
+AC55 Comptes à vue et à terme EF46 EP45 -- --
+auprès des banques et
+établissements financiers
+AC56 Autres comptes à vue et à EF47 EP46
+terme de correspondants
+AC57 Créances en souffrances sur les EF48 EP47 58 119/ 58 219/ 58 319 58 119/ 58 219/ 58 319
+correspondants
+AC58 Caisse EF49 EP48 -- --
+AC59 Résultat en attente EF50 EP49 -- --
+d’approbation
+AC60 EXCEDENT DE CHARGE EF51 EP50 -- --
+SUR LES PRODUITS
+TOTAL GENERAL
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 74 ---
+74
+1-BILAN CONSOLIDEOU COMBINE : ORGANE FAITIER + EMF AFFILIES A UN RESEAU
+PASSIF
+Réf. Intitulé Référence des lignes Numéros de comptes à retraiter
+de bilan à cumuler
+Organe EMF Organe faîtier EMF Affiliés
+Faîtier Affiliés
+PC01 FONDS PATRIMONIAUX RF01 RP 01 -- --
+PC02 Parts soc. souscrites appelées et fonds de RF02 RP02 10 009 --
+dotations
+PC03 Parts soc. Souscrites appelées non versées RF03 RP03 (10 019)
+(-)
+PC04 Réserves légales RF04 RP04 -- --
+PC05 Réserves libres RF05 RP05 -- --
+PC06 Réserves obligatoires et réglementaires RF06 RP06 -- --
+PC07 Fonds de solidarité RF07 RP07 -- --
+PC08 Autres fonds constitués RF08 RP08 16 109/ 16 209/ 16 309 16 209
+PC09 Subvention d’équipement RF09 RP09 15 119/ 15 219 15 119/ 15 219
+PC10 Provisions et réserves réglementées RF10 RP10 -- --
+PC11 Report à nouveau RF11 RP11 -- --
+PC12 Provisions pour risques généraux RF12 RP12 -- --
+PC13 Résultat net après certification RF13 RP13 -- --
+PC14 PROV. POUR RISQUES ET RF14 RP14 19 199/ 19 399 19 199/ 19 399
+CHARGES
+PC15 EMPRUNT HORS RESEAU RF15 RP15 -- --
+PC16 EMPRUNT AUPRES DU RESEAU RP16 -- --
+PC17 Emprunt à LT RP17 17 909/ 18 199/ 18 229/ 17 909/ 18 199/ 18 229/
+18 519/ 18 709/ 18 719 18 519/ 18 709
+PC18 Emprunt à MT RP18 18 529/ 18 829 18 529/ 18 829
+PC19 DEPOTS RF16 RP19 -- --
+PC20 Dépôts à régime spécial des membres RP20 -- 35 219
+PC21 Dépôts à terme des membres RP21 -- --
+PC22 Dépôts àvue des membres RP22 -- --
+PC23 Dépôts à régime spécial des affiliés RF17 35 109/ 35 219/ 35 909 --
+PC24 Dépôts à terme des EMF affiliés RF18 36 119/ 36 909 --
+PC25 Dépôts à vue des EMF affiliés RF19 37 139cr/ 37 439/37809cr --
+PC26 Autres dépôts RF20 RP23 38 809 --
+PC27 DETTES A COURT TERME RF21 RP24
+PC28 Fournisseurs RF22 RP25 40 119/ 40 219/ 40 319 40 119/ 40 219/ 40 319
+PC29 Personnel RF23 RP26 -- --
+PC30 Etat RF24 RP27 -- --
+PC31 Sociétaires RF25 RP28 44 199cr/ 44 209cr/ --
+44 409/ 44 509/ 44 909
+PC32 Créditeurs divers RF26 RP29 46 509 46 509
+PC33 COMPTES D’ENCAISSEMENT RF27 RP30 41 239 41 239
+PC34 COMPTE DE REGULARISATION RF28 RP31 -- --
+PC35 Charges à payer RF29 RP32 47 219 47 219
+PC36 Produits comptabilisés d’avances RF30 RP33 47 229 47 229
+PC37 Autres opérations de régularisation RF31 RP34 47 399/ 47 409 47 399/ 47 409
+PC38 COMPTES DE LIAISON RF32 RP35 -- --
+PC39 Liaison siège et agences RF33 RP36 -- --
+PC40 Liaison organe faîtier et EMF affiliés RF34 RP37 45 109cr 45 109cr
+PC41 Liaison entre EMF affiliés RF35 RP38 -- 45 209cr
+PC42 Liaison entre agences hors réseau RF36 RP39 -- --
+PC43 Liaison interne RF37 RP40 -- --
+PC44 COMPTES DE TRESORERIE RF38 RP41 -- --
+PC45 Valeurs de trésorerie reçues RF39 RP42 -- --
+PC46 Marché monétaire RF40 RP43 -- --
+PC47 Comptes à vue et à terme de l’organe RP44 -- 54 399cr/ 54 499/ 54 919/
+faîtier 55 299cr/ 55 919
+PC48 Comptes à vue et à terme des EMF affiliés RF41 RP45 56 099cr/ 56 199cr 56 099cr/ 56 199cr/ 56 419/
+au réseau 56 919
+PC49 Comptes à vue et à terme d’autres EMF RF42 RP46 -- --
+PC50 Comptes à vue et à terme des banques et RF43 RP47 -- --
+établissements financiers
+PC51 Autres comptes à vue et à terme de RF44 RP48 --
+correspondants
+PC52 RESULTAT EN ATTENTE RF45 RP49 -- --
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 75 ---
+75
+D’APPROBATION
+PC53 EXCEDENT DE PRODUITS SUR LES RF46 RP50 -- --
+CHARGES
+TOTAL GENERAL
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 76 ---
+76
+2-COMPTE DE RESULTAT CONSOLIDEOU COMBINE:
+ORGANE FAITIER + EMF AFFILIES A UN RESEAU
+CHARGES
+Référence des lignes
+Réf. CHARGES du compte de résultat Numéros des comptes à retraiter
+à cumuler
+Organe EMF Organe EMF
+Faîtier Affiliés faîtier Affiliés
+QC01 Charges d’exploitation financières TD01 ZP01
+QC02 Intérêts sur opérations de trésorerie TD02 ZP02 60 709 60 709
+et inter bancaire
+QC03 Intérêts sur les dépôts à vue sociétaires TD03 ZP03 61 519
+QC04 Intérêts sur les dépôts à terme sociétaires TD04 ZP04 61 529
+QC05 Intérêts sur les emprunts TD05 ZP05 63 199 63 199
+QC06 Commissions et frais sur opérations de TD06 ZP06 --
+transfert de fonds
+QC07 Autres commissions et frais bancaires TD07 ZP07 60 719/ 62 819/ 63 289 60 719/ 62 819/ 63 289
+QC08 Charges liées aux opérations accessoires TD08 ZP08 64 019/ 64 029/ 64 039 64 019/ 64 029/ 64 039/
+/ 64 169 64 169
+QC09 Charges de personnel TD09 ZP09 -- --
+QC10 Frais de personnel TD10 ZP10 65 199 65 199
+QC11 Charges sociales TD11 ZP11 -- --
+QC12 Autres charges générales d’exploitation TD12 ZP12 -- --
+QC13 Fournitures de bureau TD13 ZP13 65219
+--
+QC14 Eau et électricité Gaz et carburant TD14 ZP14 -- --
+QC15 Locations TD15 ZP15 65 239 65 239
+QC16 Entretiens et réparations TD16 ZP16 -- --
+QC17 Primes d’assurances TD17 ZP17 -- 65 259
+QC18 Publicité et relations publiques TD18 ZP18 -- --
+QC19 Transports et déplacements TD19 ZP19 65 229 65 229
+QC20 Frais de télécommunication TD20 ZP20 -- --
+QC21 Frais de formation TD21 ZP21 -- --
+QC22 Frais de mission TD22 ZP22 -- --
+QC23 Cotisations à l’association professionnelle TD23 ZP23 -- --
+des EMF
+QC24 Frais de Conseil d’Administration TD24 ZP24 -- --
+Assemblée Générales et jetons de
+présence
+QC25 Autres charges consommées ZP25 65 259 --
+QC26 Contribution à l’organe faîtier TD25 ZP26 -- 65 249
+QC27 Impôts et taxes TD26 ZP27 -- --
+QC28 Amortissements et Provisions TD27 ZP28 -- --
+QC29 Dotations aux amortissements TD28 ZP29 -- --
+QC30 Dotations aux provisions sur créances de TD29 ZP30 69 169/ 69 239 --
+la clientèle
+QC31 Dotations autres provisions TD30 ZP31 -- 69 169/ 69 239
+QC32 Charges exceptionnelles TD31 ZP32 -- --
+QC33 Valeurs comptables des éléments d’actifs TD32 ZP33 67 639 67 639
+cédés
+QC34 Autres charges exceptionnelles TD33 ZP34 67 149/ 67 269/67 339/ 67 149/ 67 269/ 67 339/
+67 739/ 67 999 67 739/ 67 999
+QC35 BENEFICE NET DE L’EXERCICE TD34 ZP35 -- --
+TOTAL DES CHARGES
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 77 ---
+77
+2-COMPTE DE RESULTAT CONSOLIDEOU COMBINE :
+ORGANE FAITIER + EMF AFFILIES A UN RESEAU
+PRODUITS
+Référence des lignes
+Réf. PRODUITS du compte de résultat Numéros des comptes à retraiter
+à cumuler
+Organe EMF
+Faîtier Affiliés Organe faîtier EMF Affiliés
+SC01 Produits d’exploitations financières BD01 LP01 -- --
+SC02 Intérêts sur opération de trésorerie et BD02 LP02 -- 70 709
+interbancaires
+SC03 Intérêts sur les crédits à L.T clientèle BD03 LP03 71 719 --
+SC04 Intérêts sur les crédits à M.T. clientèle BD04 LP04 -- --
+SC05 Intérêts sur les crédits à C.T. clientèle BD05 LP05 -- --
+SC06 Intérêts sur les comptes débiteurs clientèle BD06 LP06 -- --
+SC07 Intérêts sur les prêts BD07 LP07 73 179/ 73 279/ 73 89/ 73 179/ 73 279/ 73 389/
+73 479 73 479
+SC08 Commissions et frais perçus sur BD08 LP08 -- --
+opérations de transfert de fonds
+SC09 Autres commissions et produits bancaires BD09 LP09 72 919 70 719
+SC10 Produits sur les opérations accessoires BD10 LP10 74 019/ 74 029/ 74 169 74 019/ 74 029/ 74 169
+SC11 Autres produits et subventions BD11 LP11 -- --
+SC12 Droit d’adhésion BD12 LP12 -- --
+SC13 Subvention d’exploitation BD13 LP13 76 319 76 319
+SC14 Contribution des EMF à l’organe faîtier BD14 LP14 -- --
+SC15 Divers produits BD15 LP15 75 619 75 619
+SC16 Produits exceptionnels BD16 LP16 -- --
+SC17 Reprises sur subvention d’équipement BD17 LP17 -- 77 919
+SC18 Produits de cessions d’éléments d’actif BD18 LP18 77 919 --
+SC19 AutresProduits exceptionnels BD19 LP19 -- --
+SC20 Reprises Amortissements et Provisions BD20 LP20 -- --
+SC21 Reprises d’amortissements BD21 LP21 -- --
+SC22 Reprises de provisions sur créances BD22 LP22 79 909 --
+clientèle et correspondants
+SC23 Autres reprises de provisions BD23 LP23 -- 79 909
+SC24 Pertes de l’exercice BD24 LP24 -- --
+TOTAL DES PRODUITS
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 78 ---
+78
+NORMES PRUDENTIELLLES
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 79 ---
+79
+CALCUL DES FONDS PATRIMONIAUX NETS(Règlement EMF 2002/03) Première catégorie
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+Réf. Intitulé Référence états Numéro de
+financiers comptes du
+( Bilan ) PCEMF
+Parts sociales souscrites, appelées et versées 1000
+JT01
+JT02 Réserves légales 111
+JT03 Réserves obligatoires et réglementaires 112
+JT04 Réserves libres 113/114
+JT05 Fonds de solidarité 160
+JT06 Fonds de garantie et assurance mutuelle 163
+JT07 Autres fonds de financement 161/162
+JT08 Subventions à caractère de réserve (équipement) 15
+JT09 Provisions pour risques généraux (non affectées) 164
+JT10 Report à nouveau créditeur 121
+JT11 Excédent net du dernier exercice clos, après certification et avant 131
+distribution
+JT12 Sous total A
+JT13 Report à nouveau débiteur 122
+JT14 Perte du dernierexercice clos 132
+JT15 Déficit de l’exercice en cours (perte en attente d’approbation) 87
+JT16 Frais et immobilisations incorporelles 201/202
+JT17 Surplus d’exercice à distribuer 443
+JT18 Provisions complémentaires à constituer --
+JT19 Sous total B
+JT20 Réserves de réévaluation 14
+JT21 Comptes bloqués d’associés à plus d’un an 182
+JT22 Emprunts et dettes subordonnés 181
+JT23 Sous total C
+JT24 FONDS PATRIMONIAUX NETSA– B + C
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 80 ---
+80
+CALCUL DES FONDS PROPRES NETS
+(Règlement EMF 2002/04)
+Deuxième et Troisième catégorie
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+Réf. Intitulé Référence états Numéro de
+financiers compte du
+( Bilan ) PCEMF
+KL01 Capital social libéré ou dotation 1013
+KL02 Primes liées au capital 104
+KL03 Réserves légales 111
+KL04 Réserves obligatoires et réglementaires 112
+KL05 Réserves libres 113/114
+KL06 Fonds de garantie et assurance mutuelle 163
+KL07 Autres fonds de financement 161/162
+KL08 Subventions à caractère de réserve (équipement) 15
+KL09 Provisions pour risques généraux (non affectées) 164
+KL10 Report à nouveau créditeur 121
+KL11 Bénéfice net du dernier exercice clos après certification et avant 131
+distribution
+KL12 Sous total A
+KL13 Actions propres rachetées et détenues 267
+KL14 Report à nouveau débiteur 122
+KL15 Pertes du dernier exercice clos en attente d’approbation 132
+KL16 Résultat déficitaire intermédiaire de l’exercice en cours 87
+KL17 Dividendes à distribuer 443
+KL18 Frais et immobilisations incorporelles 201/202
+KL19 Provisions complémentaires --
+KL20 Sous total B
+KL21 Réserves de réévaluation 14
+KL22 Comptes bloqués d’associés à plus d’un an 182
+KL23 Titres et emprunts subordonnés 181
+KL24 Sous total C
+KL25 FONDS PROPRES NET A– B + C
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 81 ---
+81
+NORMES SUR LA CONSTITUTION DU FONDS DE SOLIDARITE
+(Règlement EMF 2002/05)
+Première catégorie
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+Montant des parts sociales souscrites et libérées = ………………………………………
+Réf. Intitulé Référence états Numéro de comptes du
+financiers PCEMF
+( Bilan )
+HS01 Fonds de solidarité Constitué en N-1 (A) 160
+(40% des parts sociales libérées en N-1)
+HS02 Déficit de l’exercice (- ) en N (B) 132
+HS03 Fonds de Solidarité Disponible en N (C) --
+C = A + B
+HS04 Parts Sociales libérées en N (D) 1000
+HS05 Norme sur le Fonds de Solidarité en N (E) --
+E = ( C / D ) > ou = 40%
+HS06 Besoin en Fonds de Solidaritéen N (F) --
+F= (D x 40%)- C
+HS07 Réserves obligatoires constituées en N (pour 112
+mémoire)
+Norme minimale: le Fonds de Solidarité, après imputation du déficit de l’exercice,
+doit représenter au minimum 40% des parts sociales libérées
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 82 ---
+82
+CALCUL DU RATIO DE COUVERTURE DES RISQUES
+(Règlement EMF 2002/07)
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+Réf. Intitulé Référence états Numéro de comptes
+financiers du PCEMF
+(Bilan )
+VL01 Fonds patrimoniaux nets ou fonds propres nets
+VL02 Sous total A
+VL03 Crédits à la clientèle sains Partiel:
+30/31/32/37dr
+VL04 Titres de participation non déduits des fonds propres ou Partiel: 26/ (29)
+des fonds patrimoniaux
+VL05 Crédits en souffrance net de provisions Partiel:
+331/332/333/334/335
+/336/337/(39)
+VL06 Créances en souffrance sur les correspondants nets de 58/ (592)
+provisions
+VL07 Sous total B
+VL08 Provisions complémentaires àconstituer --
+VL09 Sous total C
+VL10 A / (B– C)
+(Minimum : 10%)
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 83 ---
+83
+CALCUL DE LA NORME DE DIVISION DES RISQUES
+(Règlement EMF 2002/08)
+Première catégorie
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+I- Fonds patrimoniaux nets: …………………………….
+II- ENCOURS INDIVIDUEL
+Plus gros encours sur un membre:
+Norme minimale: maximum autorisé < 15% x Fonds patrimoniaux nets
+III- PLUS GROS BENEFICIAIRES DE CREDITS
+Total des plus gros encours de crédit: …………………………….
+Norme minimale: maximum autorisé < 8% x Fonds patrimoniaux nets
+Liste de bénéficiaires dont les encours de risques dépassent 10% des fonds patrimoniaux nets:
+Type de risques Total
+Crédits par Titres de Engagements sur Engagements par
+caisse participation les correspondants signature
+Numéro de 30/31/32/33/ 26/ (29) 541/ 542dr/ 543dr/ 90/92/942
+comptes du 37dr 548/ 551/558/560dr/
+PCEMF 561dr/563/ 568 /
+(59)
+Total Général (A)
+Maximum autorisé: (A) doit être inférieur à 8 x Fonds patrimoniaux nets
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 84 ---
+84
+CALCUL DE LA NORME DE DIVISION DES RISQUES
+(Règlement EMF 2002/08 BIS)
+Deuxième et troisième catégorie
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+I- Fonds propres nets: …………………………….
+II- ENCOURS INDIVIDUEL
+Plus gros encours sur un membre:
+Norme minimale: maximum autorisé < 15% x Fonds propres nets
+III- PLUS GROS BENEFICIAIRES DE CREDITS
+Total des plus gros encours de crédit: …………………………….
+Norme minimale: maximum autorisé < 8% x Fonds propres nets
+Liste de bénéficiaires dont les risques dépassent 10% des fonds propres nets :
+Type de risques Total
+Crédits par caisse Titres de Engagements sur les Engagements
+participation correspondants par signature
+Numéro de 30/31/32/33/37dr 26/ (29) 541/ 542dr/ 543dr/ 90/92/942
+comptes du 548/ 551/558/560dr/
+PCEMF 561dr/563/ 568 /
+(59)
+Total Général (A)
+Maximum autorisé: (A) doit être inférieur à 8 x Fonds propres nets
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 85 ---
+85
+CALCUL DU RATIO DE COUVERTURE DES IMMOBILISATIONS
+(Règlement EMF 2002/09)
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+Réf. Intitulé Référence états Numéro de comptes
+financiers du PCEMF
+( Bilan )
+MN01 Fonds patrimoniaux nets ou fonds propres nets --
+MN02 Emprunts à plus de cinq ans affectés au financement des 185/186/188/192/193
+immobilisations
+MN03 Sous total (A)
+MN04 Immobilisations nettes 21/22/23/26/ (29)
+MN05 Sous total (B)
+MN06 Ratio: A / B
+Norme minimale: 100%
+CALCUL DE LA NORME DES ENGAGEMENTS DES APPARENTES
+(Règlement EMF 2002/10)
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+Fonds propres nets (ou fonds patrimoniaux nets) : …………………………………………
+Liste nominative et montants des encours individualisés de crédit
+Numéro de
+comptes du
+PCEMF Partiel: 30/31/32/33/37dr
+Pour les EMF 2ème et 3ème cat.: Encours de crédit en faveur des actionnaires, membres du Conseil
+d’Administration, des dirigeants, et des salariés de l’EMF
+Pour lesEMF 1èrecat.: Encours de crédit en faveur des membres du Conseil d’Administration, des
+membres du comité de crédits, des dirigeants, et des salariés de l’EMF
+TOTAL = T =
+Norme minimale :Total / Fonds propres nets ou fonds patrimoniaux nets = Maximum5%
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 86 ---
+86
+COEFFICIENT DE COUVERTURE DES CREDITS PAR LES RESSOURCES DISPONIBLES
+(Règlement EMF 2002/12)
+Première et deuxième catégorie
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+Réf. Intitulé Référence états Numéro de
+financiers comptes du
+(Bilan ) PCEMF
+Encours net de crédits accordés sur ressources propres (A) Partiel:
+NJ01 30/31/32/33/37dr/
+386/ 38 819/ (39)
+NJ02 Encours net de crédits refinancés (B) Partiel:
+30/
+31/32/33/37dr/
+386/ 38 819/ (39)
+NJ03 Solde C = A- B
+NJ04 Fonds patrimoniaux ou fonds propres nets (D) --
+NJ05 Dépôts des membres ou de la clientèle (E) 35/36/37cr/381/
+382/383/384
+NJ06 Dépôts auprès de l’organe faîtier (F) 54 299cr/
+54 399cr/ 54 499/
+54 919/ 55 299/
+55 919/ 56 419/
+56 919
+NJ07 Immobilisations nettes (G) 21/22/23/26/ (29)
+NJ08 Solde H = D + E- F- G
+NJ09 C/H
+NB: (A) + (B) = encours total des crédits nets
+Norme minimale = 70% pour les EMF indépendants
+65% pour les EMF affiliés à un réseau
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 87 ---
+87
+COEFFICIENT DE COUVERTURE DES CREDITS PAR LES RESSOURCES DISPONIBLES
+(Règlement 2002/12 BIS)
+ORGANE FAITIER
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+Réf. Intitulé Référence états Numéro de comptes
+financiers du PCEMF
+(Bilan )
+Encours net de crédits y compris aux sociétaires des EMF Partiel:
+HK01 affiliés, accordés sur ressources propres 30/31/32/33/37dr/
+(A) 386/ 38 819/ (39)
+HK02 Encours net de crédits y compris aux sociétaires des EMF Partiel:
+affiliés, accordés sur lignes de refinancement externes 30/ 31/32/33/37dr/
+(B) 386/ 38 819/ (39)
+HK03 Solde C = A- B
+HK04 Fonds patrimoniaux nets (D) --
+HK05 Dépôts des EMF affiliés (E) 35 029/ 35 109/
+35 219/ 35 909/
+36 119/ 36 909/
+37 439/ 37 809cr/
+3711cr/ 3721cr/
+3723cr/ 3741/ 377/
+381/ 382/389/
+38 809/ 355/
+37 800/ 384/
+56 099cr/56199cr/
+56 419/ 56 919
+HK06 Immobilisations nettes (F) 21/22/23/26/ (29)
+HK07 Solde G = D + E- F
+HK08 Ratio = C/G
+Norme minimale = 70%
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 88 ---
+88
+CALCUL DU RATIO RELATIF AUX LIGNES DE FINANCEMENT RECUS
+(Règlement EMF 2002/13)
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+Réf. Intitulé Référence états Numéro de compte
+financiers du PCEMF
+( Bilan )
+SM01 Fonds propres nets ou fonds patrimoniaux nets : (A) --
+SM02 Solde des financements remboursables obtenus: (B) 183/ 184/185/186
+SM03 (A)/(B)
+Le rapport (A)/(B) doit être supérieur ou égal à 50%.
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 89 ---
+89
+CALCUL DUCOEFFICIENT DE LA LIQUIDITE
+(Règlement 2002/14)
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+Réf. Ressources Référence états Numéro de
+financiers comptes du
+( Bilan ) PCEMF
+VQ01 Crédits sains à échoir dans les trois mois à venir Partiel: 30/
+31/32/33/ (39)
+VQ02 Comptes débiteurs sains Partiel: 371dr/
+372dr/ 376/ (39)
+VQ03 Accords de refinancement irrévocables (sous réserve) 434
+VQ04 Avoirs chez les correspondants locaux à moins de 3 mois Partiel:
+d’échéance 541/ 542dr/
+543dr/548/551/
+558/560dr/
+561dr/563/568
+VQ05 Disponibilité en caisse 57
+VQ06 TOTAL DES RESSOURCES MOBILISABLES (A)
+VQ07 Dépôts des correspondants locaux 542cr/ 543cr/ 544/
+549/552/559/
+560cr/ 561cr/ 564/
+569
+VQ08 Dépôts à terme à échoir dans lestrois mois Partiel: 35/36
+VQ09 Dépôts à vue de la clientèle ou des membres 37cr/381/384/388
+VQ10 Emprunts à échoir dans les trois mois 181/ 182/ 187/
+188
+VQ11 Refinancements à échoir dans les trois mois 17/183/184/185/
+186
+VQ12 TOTAL DES BESOINS A COUVRIR (B)
+A/B =
+(Minimum requis = 100%)
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 90 ---
+90
+CALCUL DE LA NORME DE PRISE DE PARTICIPATION
+(Règlement 2002/16)
+Raison sociale et sigle de l’EMF déclarant:
+Pays:
+Ville:
+I- PARTICIPATION DANS UNE ENTREPRISE
+Maximum autorisé: 5% x Fonds patrimoniaux ou fonds propres nets
+II- ENSEMBLE DES PARTICIPATIONS
+Liste des entreprises bénéficiant des prises de participations
+Montant de la participation % rapport aux fonds
+patrimoniaux ou fonds
+propres nets
+Numéro de comptes du PCEMF 262/ 263/ (267)
+Total (A)
+Maximum autorisé: (A) doit être inférieur à 15% x Fonds propres ou fonds patrimoniaux nets
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 91 ---
+91
+COMPTES ANNUELS
+PUBLIABLES
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 92 ---
+92
+BILAN-ACTIF (comptabilité sociale) N
+Note Brut Amort. Net N-1
+Prov.
+Frais immobilisés
+Valeurs incorporelles immobilisées
+Immobilisations corporelles
+Immobilisations financières
+FRAIS ET VALEURS IMMOBILISES
+Crédits à long terme
+Crédits à moyen terme
+Crédits à court terme
+Découverts et comptes débiteurs de la clientèle
+Autres comptes de la clientèle
+Créances en souffrance
+OPERATIONS AVEC LA CLIENTELE
+STOCKS DE MARCHANDISES ET OPERATIONS ASSIMILEES
+Valeurs à recouvrer
+Comptes de tiers
+Comptes de liaison
+Comptes de régularisation
+Comptes de tiers et d’opérations diverses en souffrance
+COMPTES DE TIERS ET DE REGULARISATION
+Titres de trésorerie
+Marché monétaire
+Comptes à terme des EMF
+Comptes à terme des banques et établissements financiers
+Comptes à vue des EMF
+Comptes à vue des banques et établissements financiers
+Titres et créances en souffrance
+Caisse
+COMPTES DE TRESORERIE ET DE CORRESPONDANTS
+TOTAL ACTIF
+BILAN-PASSIF (comptabilité sociale) Note N N-1
+Capital social
+Actionnaires, capital souscrit non appelé (-)
+Primes liées au capital
+Réserves et reports à nouveau
+Résultat de l’exercice
+CAPITAUX PROPRES
+Provisions et réserves réglementées
+Ecarts de réévaluation
+Fonds constitués, fonds d’affectation, fonds de garantie
+Subventions d’investissement
+Provisions pour risques généraux
+Emprunts participatifs et dettes subordonnées
+Comptes courants d’associés bloqués
+QUASI FONDS PROPRES
+PROVISIONS POUR RISQUES ET CHARGES
+EMPRUNTS A LONG TERME
+Dépôts à régime spécial et à terme
+Dépôts à vue
+Autres comptes de la clientèle
+OPERATIONS AVEC LA CLIENTELE
+Comptes d’encaissement
+Comptes de tiers et divers
+Comptes de liaison
+Comptes de régularisation
+COMPTES DE TIERS ET DE REGULARISATION
+Valeur de trésorerie reçue
+Marché monétaire
+Comptes à vue et à terme des autres EMF
+Comptes à vue et à terme des banques et établissements financiers
+Autres comptes à vue et à terme de correspondants
+COMPTES DE TRESORERIE ET DE CORRESPONDANTS
+TOTAL PASSIF
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 93 ---
+93
+COMPTE DE RESULTAT (Comptabilité sociale) Note N N-1
+Intérêts sur opérations de trésorerie et avec les correspondants
+Intérêts sur crédits amortissables
+Intérêts sur découverts et comptes débiteurs de la clientèle
+Commissions et produits divers
+Produits financiers sur emprunts et dividendes
+Produits financiers
+Intérêts sur opérations de trésorerie et avec les correspondants
+Intérêts sur dépôts à régime spécial et à terme
+Intérêts sur dépôts à vue
+Commissions et charges diverses
+Charges financières sur emprunts
+Charges financières
+PRODUIT NET FINANCIER
+Produits sur opérations accessoires
+Charges sur opérations accessoires
+PRODUIT D’EXPLOITATION GLOBAL
+Charges de personnel
+Charges de l’exploitation générale
+Impôts et taxes
+Frais généraux
+RESULTAT D’EXPLOITATION
+Dotations nettes aux amortissements
+Coût du risque
+RESULTAT COURANT
+Produits de cessions d’éléments d’actif
+Charges sur cession d’éléments d’actif
+Autres produits exceptionnels
+Autres charges exceptionnelles
+Résultat exceptionnel
+Impôts sur les bénéfices
+RESULTAT NET
+ETAT DES ENGAGEMENTS DE HORS BILAN
+Note N N-1
+Engagements donnés aux correspondants
+Engagements donnés sur ordre de la clientèle
+Engagements de crédit-bail donnés
+Autres engagements donnés
+TOTAL ENGAGEMENTS DONNES
+Engagements reçus des correspondants
+Engagements reçus de la clientèle
+Engagements de crédit-bail reçus
+Autres engagements reçus
+TOTAL ENGAGEMENTS RECUS
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 94 ---
+94
+TABLEAU D'EMPLOIS ET RESSOURCES DE TRESORERIE (modèle 1)
+FLUX DE TRESORERIE Note Exercice N Exercice N-1
+Resultat d'exploitation
+Produits de cession d'éléments d'actifs
+Produits exceptionnels encaissables
+Charges exceptionnelles décaissables
+Impôts sur les sociétés
+Capacité d'autofinancement
+Trésorerie induite par la variation du besoin en fonds de roulement d'exploitation
+VARIATION DE TRESORERIE LIEE A L'EXPLOITATION
+Acquisitions d'immobilisations
+Cession d'immobilisations
+Flux de trésorerie d'investissement
+Trésorerie induite par la variation du besoin en fonds de roulement lié à l'investissement
+VARIATION DE TRESORERIE LIEE A L'ACTIVITE D'INVESTISSEMENT
+Augmentation de capital et de primes liées au capital
+Emissions d'emprunts
+Subventions d'investissement reçues
+Remboursements d'emprunts
+Dividendes distribués
+VARIATION DE TRESORERIE LIEE A L'ACTIVITE DE FINANCEMENT
+VARIATION GLOBALE DE LA TRESORERIE
+TRESORERIE A L'OUVERTURE DE L'EXERCICE
+TRESORERIE A LA CLOTURE
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 95 ---
+95
+TABLEAU D'EMPLOIS ET RESSOURCES DE TRESORERIE (modèle 2)
+FLUX DE TRESORERIE Note Exercice N Exercice N-1
+Résultat net de l'exercice
+Produits non encaissables
+Charges non décaissables
+Capacité d'autofinancement
+Trésorerie induite par la variation du besoin en fondsde roulement d'exploitation
+VARIATION DE TRESORERIE LIEE A L'EXPLOITATION
+Acquisitions d'immobilisations
+Cession d'immobilisations
+Flux de trésorerie d'investissement
+Trésorerie induite par la variation du besoin en fonds de roulement lié à l'investissement
+VARIATION DE TRESORERIE LIEE A L'ACTIVITE DINVESTISSEMENT
+Augmentation de capital et de primes liées au capital
+Emissions d'emprunts
+Subventions d'investissement reçues
+Remboursements d'emprunts
+Dividendes distribués
+VARIATION DE TRESORERIE LIEE A L'ACTIVITE DE FINANCEMENT
+VARIATION GLOBALE DE LA TRESORERIE
+TRESORERIE A L'OUVERTURE DE L'EXERCICE
+TRESORERIE A LACLOTURE
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 96 ---
+96
+BILAN-ACTIF (comptes consolidés ou combinés) Note N N-1
+Ecart d’acquisition
+Valeurs incorporelles immobilisées
+Immobilisations corporelles
+Immobilisations financières
+Titres mis en équivalence
+FRAISET VALEURS IMMOBILISES
+Crédits à long terme
+Crédits à moyen terme
+Crédits à court terme
+Découverts et comptes débiteurs de la clientèle
+Autres comptes de la clientèle
+Créances en souffrance
+OPERATIONS AVEC LA CLIENTELE
+STOCKS DE MARCHANDISES ET OPERATIONS
+ASSIMILEES
+Valeurs à recouvrer
+Comptes de tiers
+Créances d’impôts différés
+Comptes de liaison
+Comptes de régularisation
+Comptes de tiers et d’opérations diverses en souffrance
+COMPTES DE TIERS ET DE REGULARISATION
+Titres de trésorerie
+Marché monétaire
+Comptes à terme des EMF
+Comptes à terme des banques et établissements financiers
+Comptes à vue des EMF
+Comptes à vue des banques et établissements financiers
+Titres et créances sur correspondants en souffrance
+Caisses
+COMPTES DE TRESORERIE ET DE CORRESPONDANTS
+TOTAL ACTIF
+BILAN-PASSIF(comptes consolidés ou combinés) Note N N-1
+Capital social
+Primes liées au capital
+Réserves consolidées
+Résultat consolidé
+Intérêts minoritaires
+CAPITAUX PROPRES
+PROVISIONS POUR RISQUES ET CHARGES
+EMPRUNTS ET DETTES FINANCIERES
+Dépôts à régime spécial et à terme
+Dépôts à vue
+Autres comptes de la clientèle
+OPERATIONS AVEC LA CLIENTELE
+Comptes d’encaissement
+Comptes de tiers et divers
+Dettes d’impôts différés
+Comptes de liaison
+Comptes de régularisation
+COMPTES DE TIERS ET DE REGULARISATION
+Valeur de trésorerie reçue
+Marché monétaire
+Comptes à vue et à terme des autres EMF
+Comptes à vue et à terme des banques et établissements financiers
+Autres comptes à vue et à terme de correspondants
+COMPTES DE TRESORERIE ET DE CORRESPONDANTS
+TOTAL PASSIF
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 97 ---
+97
+COMPTE DE RESULTAT(Comptes consolidés) Note N N-1
+Intérêts sur opérations de trésorerie et avec les correspondants
+Intérêts sur crédits amortissables
+Intérêts sur découverts et comptes débiteurs de la clientèle
+Commissions et produits divers
+Produits financiers sur emprunts et dividendes
+Produits financiers
+Intérêts sur opérations de trésorerie et avec les correspondants
+Intérêts sur dépôts à régime spécial et à terme
+Intérêts sur dépôts à vue
+Commissions et charges diverses
+Charges financières sur emprunts
+Charges financières
+PRODUIT NET FINANCIER
+Produits sur opérations accessoires
+Charges sur opérations accessoires
+PRODUIT D’EXPLOITATION GLOBAL
+Charges de personnel
+Charges d’exploitation générale
+Impôts et taxes
+Frais généraux
+RESULTAT D’EXPLOITATION
+Dotations aux amortissements
+Coût du risque
+RESULTAT COURANT
+Produits de cessions d’éléments d’actif
+Charges sur cession d’éléments d’actif
+Autres produits exceptionnels
+Autres charges exceptionnelles
+Résultat exceptionnel
+Impôts sur les bénéfices
+RESULTAT NET DES ENTREPRISES INTEGREES
+Quote-part des entreprises mises en équivalence
+Dotations aux amortissements des écarts d’acquisition
+Résultat net consolidé
+Intérêts minoritaires
+RESULTAT NET PART DU GROUPE
+ETAT DES ENGAGEMENTS DE HORS BILAN N N-1
+Engagements donnés aux correspondants
+Engagements donnés sur ordre de la clientèle
+Engagements de crédit-bail donnés
+Autres engagements donnés
+TOTAL ENGAGEMENTS DONNES
+Engagements reçus des correspondants
+Engagements reçus de la clientèle
+Engagements de crédit-bail reçus
+Autres engagements reçus
+TOTAL ENGAGEMENTS RECUS
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 98 ---
+98
+ANNEXE COMPTABLE : CONTENU INDICATIF
+L’annexe comptable fait partie intégrante des comptes annuels. Deux missions essentielles lui
+sont assignées : participer au renforcement de la communication financière, en précisant le
+contenu des comptes annuels et favoriser la transparence financière, en fournissant à la fois
+aux décideurs et aux tiers l’information indispensable à l’appréciation de la situation et des
+performances de l’établissement.
+L’annexe comptable arbore, sous forme de notes au bilan, au compte de résultat ou au tableau
+d’emplois et ressources, le détail et l’explication des éléments significatifs. Elle fait mention
+des faits marquants de l’exercice et indique les politiques générales et opérationnelles mises
+en œuvre ainsi que les principales activités exercées et les risques drainés par ces dernières.
+Les informations de gestion contenues dans l’annexe comptable sont d’autant plus nécessaires
+que les comptes annuels ne sont pas accompagnés d’un rapport de gestion.
+L’annexe peut être élaborée selon le plan indicatif suivant :
+1. Référentiels, principes, organisation et contrôle des comptes
+2. Détail des actifs et passifs et explication des principaux comptes
+3. Détail des comptes de hors-bilan et explication des principaux comptes
+4. Détail du compte d’exploitation et explication des soldes intermédiaires de gestion
+5. Engagements de crédit-bail
+6. Analyse du tableau des emplois et ressources de trésorerie
+7. Annexes aux comptes consolidés
+8. Information de gestion
+I- REFERENTIEL, PRINCIPES, ORGANISATION ET CONTROLE DE COMPTES
+Référentiels comptables
+Doivent être indiqués, les référentiels comptables (PCEMF, PCEC, OHADA) appliqués par
+l’établissement, ainsi que les référentiels utilisés en raison de son appartenance à un groupe
+d’entreprises. L’explication des dérogations aux règles en vigueur qui en découle est donnée.
+Principes et règles comptables
+L’établissement précise s’il applique l’ensemble des principes, règles et méthodes comptables
+tant en matière de tenue et de présentation des comptes que d’évaluation des actifs et passifs.
+Le cas échéant, les dérogations aux principes et aux règles sont expliquées en mettant en
+évidence l’impact sur les comptes de l’exercice et éventuellement du précédent exercice.
+Organisation et contrôle comptables
+Une note succincte décrit l’organisation comptable, en indiquant le caractère centralisé ou non
+de la comptabilité et en précisant les moyens matériels et humains mis en œuvre.
+Les principales règles, procédures et dates d’inventaire, d’arrêté et de clôture des comptes
+mises en œuvre pour la tenue des comptes et pour la présentation des états financiers annuels
+doivent être rappelées.
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 99 ---
+99
+Sont en particulier précisés les livres comptables obligatoires dont la tenue n’est pas observée
+du fait de l’utilisation d’une comptabilité informatisée et les moyens retenus pour assurer le
+respect de la conformité aux lois et règlements et garantir la fluidité de la piste d’audit.
+Les EMF indiquent les moyens mis en œuvre pour assurer le contrôle comptable : personnel
+et matériels affectés au contrôle des comptes, périodicités et types de contrôles mis œuvre.
+Le cas échéant, le type de contrôle exercé est précisé avec mention des noms ou
+dénominations des professionnels qui en ont la charge.
+II- DETAIL DES ACTIFS ET PASSIFS
+2.1. Capitaux permanents
+Mention doit être faite dans l’annexe du tour de table, notamment de tout actionnaire, associé
+ou membre détenant au moins 5% de participation dans le capital de l’EMF.
+Constituent des faits marquants de l’exercice les modifications du tour de table qui entraînent,
+pour un associé ou membre, la détention directe ou indirecte d’une quotité du capital social
+supérieure à 10%, à 20%, à 33%, à 40%, à 50% ou à 75%.
+Le cas échant, les variations des capitaux permanents sont données : causes, modalités et
+affectations. Cette information comprend à tout le moins un tableau de variation des fonds
+propres.
+Tableau indicatif de variation des capitaux permanents
+Situation à Augmentation Diminution Situation à la
+l’ouverture clôture
+Capital
+Primes liées au capital
+Réserves
+Résultat de l’exercice
+Autres capitaux propres
+Sous total capitaux propres
+Quasi-fonds propres
+Sous total fonds propres
+Provisions pour R&C
+Emprunts
+Sous total emprunts et autres cap. perm.
+Total capitaux permanents
+2.2. Immobilisations
+L’information détaille les immobilisations en fonction de leur nature : charges activées,
+valeurs incorporelles, corporelles ou financières. Les principales acquisitions et cessions sont
+mentionnées, de même que les titres et dépôts de garantie présentant un caractère significatif.
+Des tableaux de variation des immobilisations, amortissements et provisions donnent une vue
+d’ensemble des immobilisations et de leur niveau de dépréciation.
+Tableau de variationdes immobilisations
+Solde à l’ouverture Augmentation Diminution Solde à la clôture
+Frais immobilisés
+Immobilisations incorporelles
+Immobilisations corporelles
+Immobilisations financières
+Avances et acomptes sur immobilisations
+Total frais et valeurs immobilisés
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 100 ---
+100
+Tableau de variation des amortissements
+Solde à l’ouverture Dotations Diminutions Solde à la
+clôture
+Amortissements des frais immobilisés
+Amortissements des immobilisations incorporelles
+Amortissements des immobilisations corporelles
+Total amortissements des immobilisations
+Tableau de variation de provisions sur immobilisations
+Solde à l’ouverture Dotations Reprises Solde à la
+clôture
+Provisions sur immobilisations incorporelles
+Provisions sur immobilisations corporelles
+Provisions sur immobilisations financières
+Provisions sur avances et acomptes sur immo.
+Total provisions sur immobilisations
+2.3. Opérations avec la clientèle
+2.3.1. Comptes de crédits
+Les crédits doivent être répartis par nature et par type de contrepartie (particuliers, entreprises
+et secteur publique, dont administration centrale) et en fonction de leur durée. Les principaux
+engagements sont mis en évidence.
+La distinction entre crédits courants et créances en souffrance est indispensable.
+Des tableaux de variation des créances en souffrance et des provisions donnent une vue
+d’ensemble du portefeuille et de la qualité des crédits en souffrance.
+Tableau de variation des crédits
+Encours 01/01/N Octroi Remboursement Encours 31/12/N
+Crédits à long terme
+Crédits à moyen terme
+Crédits à court terme
+Créances impayées
+Créances immobilisées
+Créances douteuses
+Total crédits
+Tableau de variation des provisions sur créances douteuses
+Encours Octroi Remboursement Encours
+01/01/N 31/12/N
+Provisions sur créances douteuses assorties de garanties
+hypothécaires
+- depuis moins d’un an
+- depuis plus d’un an et moins de deux ans
+- depuis plus de deux ans et moins de trois ans
+- depuis plus de trois ans et moins de quatre ans
+- depuis au mois quatre ans
+Provisions sur créances douteuses assorties de garanties réelles
+Provisions sur créances douteuses non garanties
+Total crédits provisions sur créances douteuses
+2.3.2. Comptes de dépôts
+Les comptes de dépôts de la clientèle sont détaillés par nature et pat type de contreparties, en
+distinguant les particuliers des entreprises et l’Etat des entreprises publiques.
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 101 ---
+101
+2.4. Comptes de tiers et de régularisation
+Outre le détail des comptes de tiers et de régularisation, des explications concernant les
+principaux comptes de tiers sont données en tant que de besoin.
+Le traitement opéré sur les comptes de liaison et « différé ordinateur » sont précisés.
+Des précisions sont, le cas échéant, apportées sur les sommes inscrites dans les comptes de
+différences de caisse.
+2.5. Comptes de trésorerie et de correspondants
+Le détail de ces comptes doit permettre d’identifier les différentes opérations ou contreparties
+(banques centrales, correspondants, EMF et banques associés, EMF et banques non associés,
+autres établissements financiers) en fonction de la nature à vue ou à terme des comptes visés.
+Les opérations de refinancement sont mises en évidence, selon qu’elles se réalisent dans le
+cadre d’un groupe ou sur le marché.
+III- DETAIL DES COMPTES DE HORS-BILAN
+La distinction entre engagements donnés aux correspondants et engagements donnés à la
+clientèle, d’une part et entre engagement reçus des correspondants et engagement reçus de la
+clientèle, d’autre part, reste de rigueur.
+La présentation des engagements de hors-bilan doit permettre de comprendre les articulations
+des activités et opérations : engagements de refinancement, engagements de garantie ou
+crédits par signature, etc.
+IV- DETAIL DU COMPTE D’EXPLOITATION ET ANALYSE DES SOLDES
+INTERMEDIAIRES DE GESTION
+L’établissement détail les principales rubriques, en donnant les explications qui s’imposent
+sur les variations significatives. Il analyse en relation notamment avec l’évolution de ses
+activités les principaux soldes intermédiaires de gestion.
+V- ENGAGEMENTS DE CREDIT-BAIL
+Lorsque l’activité de crédit-bail est réalisée, les EMF indiquent le montant des engagements
+contractés à ce titre. Sont notamment mis en évidence, la valeur d’origine et le cumul des
+amortissements du bien objet du crédit-bail et la décomposition des redevances prévues au
+contrat selon qu’elles sont échues, perçues au titre de l’exercice en cours ou dues.
+VI- TABLEAU D’EMPLOIS ET RESSOURCES DE TRESORERIE
+Les EMF expliquent les politiques reflétées dans les tableaux d’emplois et ressources de
+trésorerie.
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 102 ---
+102
+VII- INFORMATIONS DE GESTION
+7.1. Politique générale, stratégies, activités et politiques opérationnelles
+L’information de gestion doit suppléer l’absence d’un rapport de gestion.
+Doivent être décrites, les politiques générales et les stratégies commerciale, financière et
+d’investissement, ainsi que les métiers et activités développés en mettant en évidence les
+principaux risques encourus.
+La description des activités, des produits et opérations bancaires, ainsi que des principaux
+risques dont les coûts sont mis en exergue constitue une information minimale.
+L’établissement détaille en particulier les activités drainant les risques de crédit ou de
+contrepartie, les risques opérationnels et les risques de bilan (marché, change et taux).
+L’établissement indique s’il dispose de procédures, outils et moyens de gestion des risques
+bilan et, le cas échéant, présente les statistiques qui s’y rattachent et l’évaluation des coûts
+induits.
+7.2. Qualité, coût et structure des risques
+Le risque de concentration sur crédits et correspondants doit être mis en évidence. Les crédits
+sont ventilés par zones géographiques et par secteurs d’activité économiques.
+Les engagements doivent également être analysés en fonction de leurs caractères productifs
+ou douteux, en mettant en évidence le coût annuel du risque de crédit.
+La mise en évidence du risque opérationnel nécessite la présentation de statistiques d’activités
+(transferts, change manuel, ventes de chèques de voyage, etc.) et des occurrences de pertes, en
+liaison avec l’identification ou la cartographie des risques. Le coût annuel du risque
+opérationnel est extériorisé par ce biais.
+7.3. Gestion du bilan, structure des taux et évolution des commissions
+L’établissement met en évidence sa marge d’intermédiation financière sur plusieurs exercices.
+Au titre des deux précédents exercices écoulés, le coût moyen des ressources et le taux moyen
+de sortie des emplois sont fournis, ainsi que l’évolution des commissions.
+L’établissement indique, notamment en cas de recours au refinancement, les modalités de
+gestion du bilan.
+VIII- INFORMATION RELATIVE AUX COMPTES CONSOLIDES OU COMBINES
+L’établissement présente le groupe d’entreprises entrant dans le périmètre de consolidation ou
+de combinaison.
+L’organisation et les modalités de consolidation ou de combinaison sont brièvement
+rappelées : plan comptable groupe et conditions de reporting, en particulier.
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC
+
+--- Page 103 ---
+103
+L’information financière donne des indications précises sur les principaux retraitements
+effectués, ainsi que sur la variation des capitaux propres « groupe ». Un tableau de variation
+des fonds propres est établi à cet effet.
+Tableau indicatif de variation des fonds propres
+Situation à Augmentation Diminution Situation à la
+l’ouverture clôture
+Capital
+Primes liées au capital
+Réserves
+Résultat de l’exercice
+Autres capitaux propres
+Sous total capitaux propres
+Ecarts de réévaluation
+Provisions pour risques bancaires généraux
+Emprunts participatifs et dettes subordonnées
+Comptes courants d’actionnaires bloqués
+Sous total fonds quasi fonds propres
+Total fonds propres
+________________________________________________________________________________________________
+Commission Bancaire de l’Afrique Centrale– COBAC

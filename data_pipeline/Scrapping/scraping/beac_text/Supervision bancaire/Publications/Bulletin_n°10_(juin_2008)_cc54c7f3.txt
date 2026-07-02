@@ -1,0 +1,1489 @@
+Source PDF : Bulletin_n°10_(juin_2008)_cc54c7f3.pdf
+Chemin original : scraping\beac_data\Supervision bancaire\Publications\Bulletin_n°10_(juin_2008)_cc54c7f3.pdf
+Date extraction : 15/06/2026 20:11:25
+======================================================================
+
+--- Page 1 ---
+Bulletin
+de la Commission Bancaire
+de l'Afrique Centrale
+N° 10
+Juin
+2008
+• Secrétariat Général de la COBAC • B.P.: 1917 Yaoundé - Cameroun • Tél.: (237) 22 23 40 60 • Fax : (237) 22 23 82 16
+
+--- Page 2 ---
+Sommaire
+I.Avant-propos ___________________________________________________________2
+II.Réglementation comptable et prudentielle_____________________________________3
+Mise en place d'un plan de continuité dans les établissements de crédit de la Communauté
+Economique et Monétaire de l'Afrique Centrale _________________________________3
+III.Situation du système bancaire de la CEMAC au 30 juin 2008_____________________7
+1.Situation d'ensemble_____________________________________________________7
+1.1.Evolution de la situation bilantielle _________________________________________7
+1.2.Respect des normes prudentielles ________________________________________13
+1.3.Résultats de la cotation ________________________________________________14
+2.Situation par pays ______________________________________________________15
+2.1.Le système bancaire camerounais ________________________________________15
+2.2.Le système bancaire centrafricain_________________________________________20
+2.3.Le système bancaire congolais ___________________________________________23
+2.4.Le système bancaire gabonais____________________________________________27
+2.5.Le système bancaire équato-guinéen ______________________________________31
+2.6.Le système bancaire tchadien____________________________________________35
+Annexe :Statistiques du système bancaire _____________________________________40
+IV.Règlement ___________________________________________________________46
+Règlement COBAC R-2008/01 portant obligation d'élaboration par les établissements
+de crédit d'un plan de continuité de leurs activités ______________________________46
+3
+
+--- Page 3 ---
+I.Avant-propos
+Le bulletin n° 10 de la Commission Bancaire de l'Afrique Centrale (COBAC) est organisé
+en trois (3) grandes rubriques.Il débute par un exposé des motifs ayant conduit à l’adoption
+par la Commission Bancaire du règlement portant obligation aux établissements de crédit
+d’élaborer un plan de continuité de leurs activités.
+Dans le cadre de l'arrimage de ses pratiques aux normes internationales (25 principes
+fondamentaux de Bâle), la COBAC a entrepris de revoir certaines de ses dispositions
+réglementaires. C'est dans ce cadre que le Règlement portant mise en place d'un plan de
+continuité de l'activité des établissements de crédit a été adopté.
+La situation du système bancaire de la Communauté Economique et Monétaire de l’Afrique
+Centrale (CEMAC), objet de la deuxième rubrique, est analysée sur la base des données
+arrêtées à fin juin 2008. Les principaux agrégats ont enregistré des évolutions positives
+comparativement à la situation qui prévalait un an plus tôt. Le total de bilan du système
+bancaire a progressé de 21,3 % ;les dépôts collectés se sont accrus de 22,6 % et les crédits
+distribués ont progressé de 14,2 %.
+Sur le plan du respect de la Réglementation prudentielle,la situation du système bancaire
+de la CEMAC est apparue globalement satisfaisante.
+Enfin, le lecteur trouvera à la fin de ce bulletin le texte intégral du Règlement COBAC
+R-2008/01 portant obligation d'élaboration par les établissements de crédit d'un plan de
+continuité de leurs activités.
+IDRISS AHMED IDRISS
+Secrétaire Général de la COBAC
+5
+
+--- Page 4 ---
+II. Réglementation comptable et prudentielle
+Mise en place d'un plan de continuité dans les établissements de crédit de la
+Communauté Economique et Monétaire de l'Afrique Centrale
+Le système bancaire constitue,à plusieurs égards,le point névralgique du tissu économique
+d'un pays parce qu'il en est l’une des principales sources de financement.Dans cette optique,
+il s'avère judicieux qu'au sein de la Communauté Economique et Monétaire de l'Afrique
+Centrale (CEMAC), les efforts entrepris par la Commission Bancaire pour restaurer les
+équilibres fondamentaux des établissements de crédit ébranlés par les crises bancaires
+continuent à être soutenus pour entretenir la confiance retrouvée auprès du public.
+Ainsi, la supervision bancaire participe de la sauvegarde des dépôts des épargnants et
+permet au système bancaire de continuer à garantir à la clientèle un minimum de services
+bancaires.
+Or,ce système bancaire n'est pas à l'abri de toute perturbation opérationnelle majeure qui
+pourrait affecter les infrastructures physiques et/ou les ressources humaines soit d'un
+établissement de crédit,soit d'autres pans de l'économie globale.Les événements susceptibles
+d'impacter l'accomplissement normal des activités d'un établissement de crédit peuvent être
+d'origine naturelle (cataclysme, inondation, séisme, pandémie) ou même humaine (attaque
+terroriste,attaque informatique).
+Compte tenu de l'étroitesse des liens existant entre les systèmes bancaires des Etats de la
+CEMAC induits surtout par la présence d'un même groupe dans plusieurs Etats ou de
+l'interdépendance opérationnelle des économies de la Communauté et fonctionnelle des
+institutions financières, une perturbation opérationnelle majeure touchant une banque
+pourrait impacter la situation des autres banques et influer sur leur capacité à assurer les
+opérations et services critiques.
+Pour faire face à une pareille éventualité qui aurait pour conséquence d'effondrer le crédit
+placé dans le système bancaire dans son ensemble, les normes internationales engagent les
+autorités de contrôle et de supervision à impulser un mouvement général vers la mise en
+place par leurs assujettis d'un plan de continuité des activités.
+Cette étude se propose d'analyser la pertinence des mécanismes actuels au regard de
+l'impératif de mise en place d'un plan de continuité (II), après avoir fait au préalable un état
+des lieux de la situation (I).Il présente également les principes directeurs qui sous-tendent le
+règlement sur le plan de continuité d'activités (III).
+7
+
+--- Page 5 ---
+I - Etat actuel de la réglementation en matière d'exigence d'élaboration d'un plan de
+continuité
+Le législateur de l'espace OHADA a aménagé un certain nombre de mécanismes juridiques
+ayant pour finalité de permettre aux sociétés commerciales et aux établissements de crédit de
+poursuivre ou, à tout le moins,de rétablir leurs opérations en cas de perturbations.Il en est
+ainsi notamment de l'abus de majorité ou de minorité, de l'expertise de gestion, de la
+procédure d'alerte, de la possibilité de poser des questions orales ou encore de l'obligation
+faite aux actionnaires de se prononcer formellement sur la poursuite ou la cessation des
+activités en cas de perte substantielle des fonds propres.
+Sur le plan réglementaire, le dispositif applicable autorise la Commission Bancaire à
+nommer un administrateur provisoire dans un établissement de crédit lorsque notamment les
+conditions normales d'exploitation ne sont plus réunies, ce qui est le cas entre autres dans
+l'hypothèse de mésintelligence grave entre les actionnaires ou les dirigeants entraînant la
+paralysie des organes sociaux.
+En outre, la Commission Bancaire met à la charge de ses assujettis, au travers de l'article
+41 du Règlement COBAC R-2001/07 relatif au contrôle interne dans les établissements de
+crédit, l'obligation « de se doter de dispositifs permettant, selon des procédures formalisées
+d'assurer la continuité de l'exploitation en cas de difficultés graves affectant les opérations de
+l'établissement ».
+II - Pertinence des mécanismes actuels au regard de l'impératif de mise en place d'un
+plan de continuité
+Au sens du droit commun,tout comme dans le dispositif réglementaire,les perturbations
+visées se rapportent davantage aux événements d'origine endogène liés notamment à la
+défaillance de la gestion des établissements de crédit concernés.
+Toutefois, l'on pourrait considérer que l'expression «difficultés graves affectant les
+opérations de l'établissement» sus-mentionnée est susceptible de s'appliquer aux
+perturbations opérationnelles majeures dont la définition est donnée par les standards
+internationaux.Mais,à la lecture de l'article 27 du Règlement COBAC R-2001/07,l'on se rend
+à l'évidence que le système de management de la continuité de l'exploitation apparaît
+exclusivement centré sur les systèmes d'information. Cet article énonce en effet que les
+systèmes d'information doivent être soumis à un contrôle régulier permettant notamment de
+s'assurer que : « les procédures de secours informatique sont disponibles afin d'assurer la
+continuité de l'exploitation en cas de difficultés graves dans le fonctionnement des systèmes
+informatiques ».
+8
+
+--- Page 6 ---
+Au plan international, le plan de continuité d'activité désigne “un plan d'action écrit,
+complet, qui expose les procédures et détermine les processus et les systèmes nécessaires
+pour poursuivre ou rétablir les opérations d'une organisation en cas de perturbation”.
+De cette définition consacrée dans les principes directeurs en matière de continuité
+d'activité élaborés par le Forum Conjoint du Comité de Bâle,il vient que le plan de continuité
+se distingue fondamentalement :
+- du business plan dont la présentation est requise pour l'agrément d'un nouvel
+établissement de crédit ;
+- du plan de réhabilitation ou plan de redressement ou encore de restructuration dont les
+grandes orientations sont souvent précisées par la Commission Bancaire dans le cadre
+du suivi de l'assainissement d'un établissement de crédit éprouvant quelques difficultés
+à se conformer à une ou plusieurs normes prudentielles ;
+- et surtout du plan de secours informatique qui n'est qu'une composante bien que non
+négligeable de l'ensemble.
+Or,en l'état actuel de nos textes,le fondement légal de l'obligation pour les établissements
+de crédit de se doter d'un plan de continuité semble se limiter à l'aspect du système
+d'information. En conséquence, les dispositions afférentes contenues dans le Règlement
+COBAC R-2001/07 ne paraissent pas prendre en compte convenablement toutes les
+hypothèses de perturbation opérationnelle majeure pouvant affecter le fonctionnement d'un
+établissement de crédit et compromettre de manière durable,voire définitive,la poursuite de
+ses activités.
+Au total, eu égard aux possibilités d'occurrence de phénomènes caractéristiques de
+perturbation opérationnelle majeure, la COBAC a élaboré un texte obligeant les
+établissements de crédit à mettre en place un plan de continuité de leurs activités et couvrant
+tous les aspects de la gestion.
+III - Présentation succincte du texte sur le plan de continuité des activités
+Bâti autour des sept principes directeurs définis par le Forum Conjoint du Comité de Bâle,
+le règlement comprend la définition des notions essentielles dont dépend la compréhension
+du texte.Il comporte en préambule un exposé des motifs mettant en exergue l'intérêt d'un
+plan de continuité des activités des établissements de crédit.
+9
+
+--- Page 7 ---
+Ce texte comprend 28 articles répartis dans 9 titres,chacun des grands principes directeurs
+en matière de continuité des activités adoptés par le Forum Conjoint du Comité de Bâle étant
+repris dans l'un de ces titres.
+Le champ d'application du texte est constitué des établissements de crédit de la CEMAC.
+A cet égard, la responsabilité de l'élaboration d'un plan de continuité des activités incombe
+solidairement aux organes délibérant et exécutif. Ainsi, tout établissement de crédit doit
+mettre en oeuvre des approches appropriées pour une gestion adéquate de continuité des
+activités.
+Par ailleurs, la gestion de la continuité des activités doit refléter le niveau de risque que
+l'établissement pourrait faire courir au fonctionnement continu du système bancaire en cas de
+perturbation opérationnelle majeure.
+En conclusion,ce texte devra permettre à la COBAC,d'une part,de déterminer un niveau
+approprié de résilience systémique et, d'autre part, de s'assurer que des opérations précises
+peuvent être poursuivies ou récupérées par les établissements de crédit dans un laps de temps
+raisonnable en cas de perturbation produite sur les opérations normales ou sur les
+infrastructures physiques.
+10
+
+--- Page 8 ---
+III. Situation du système bancaire
+de la CEMAC au 30 juin 2008
+Au 30 juin 2008, le système bancaire de la Communauté Economique et Monétaire de
+l'Afrique Centrale (CEMAC) compte 39 banques en activité. Elles sont réparties au Cameroun
+(12 banques), en Centrafrique (4 banques), au Congo (5 banques), au Gabon (7 banques), en
+Guinée Equatoriale (4 banques) et au Tchad (7 banques).
+La présente analyse ne couvre que les banques qui se conforment aux dispositions du système
+de Collecte Exploitation et Restitution aux Banques des Etats Réglementaires (CERBER). La
+Banque Sahélo-Saharienne pour l'Investissement et le Commerce - Centrafrique (BSIC RCA) en
+est exclue.
+1.SITUATION D'ENSEMBLE
+1.1.Evolution de la situation bilantielle
+1.1.1.Evolution des principaux agrégats
+Le total agrégé des bilans s'établit à 5 597 Mds FCFA.Il a progressé de 31,9 % par rapport au
+30 juin 2007.
+Les dépôts collectés s'élèvent à 4 506 Mds FCFA (87,6 % du total du bilan).Ils sont en hausse
+de 22,6 % en variation annuelle par rapport à 2007.
+Les crédits bruts à la clientèle sont de 2 514 Mds FCFA.Ils sont en expansion de 14,2 % par
+rapport à juin 2007.
+11
+
+--- Page 9 ---
+Les provisions pour dépréciation des comptes clientèle se sont accrues de 14,9 % par
+rapport au niveau atteint l'année précédente à la même date. Elles s'établissent à 239 Mds
+FCFA.En conséquence,les crédits nets se fixent à 2 275 Mds FCFA (44,2 % du total du bilan),
+soit une variation annuelle de 14,1 %.
+Les créances en souffrance s'élèvent à 268 Mds FCFA.Elles représentent 10,7 % des crédits
+bruts contre 11,3 % douze mois auparavant.Ainsi, la qualité apparente du portefeuille s'est
+améliorée,comparée à la situation qui prévalait en juin 2007.
+12
+
+--- Page 10 ---
+Le taux de couverture des créances en souffrance par les provisions se situe à 89,1 %,
+contre 83,2 % en juin 2007. Les déclarations des banques et les résultats des dernières
+vérifications font ressortir un besoin de provisions complémentaires de 9 Mds FCFA.
+La couverture des crédits par les dépôts s'établit à 198,0 % (contre 184,3 % en juin 2007).
+Ainsi,les opérations avec la clientèle dégagent un excédent de ressources de 2 230 Mds FCFA.
+On relevait un excédent de 1 680 Mds FCFA en juin 2007.
+Les banques de la CEMAC dégagent un excédent des capitaux permanents de 91 Mds
+FCFA par rapport aux valeurs immobilisées.A fin juin 2007,cet excédent s'élevait à 105 Mds
+FCFA.
+13
+
+--- Page 11 ---
+1.1.2.Evolution des opérations avec la clientèle
+1.1.2.1.Les ressources collectées
+Les ressources à vue (y compris les comptes d'épargne sur livrets) sont en augmentation
+de 26,7 % par rapport à juin 2007.Elles s'établissent à 3 568 Mds FCFA,soit 79,2 % des dépôts
+collectés contre 76,6 % un an plus tôt.
+Constituées des comptes à terme et des comptes de dépôts à régime spécial (bons de
+caisse notamment), les ressources à terme collectées auprès de la clientèle s'établissent à
+761 Mds FCFA, soit 16,9 % du total des dépôts contre 19,4 % à fin juin 2007. Elles sont en
+augmentation de 6,9 % par rapport au niveau atteint l'année précédente à la même date.
+Les dépôts des administrations publiques sont en hausse de 6,4 % en comparaison avec leur
+niveau de juin 2007. Ils s'élèvent à 584 Mds FCFA, soit 13,0 % du total des dépôts contre
+14,9 % en juin 2007. De leur côté, les dépôts des entreprises publiques se fixent à 231 Mds
+FCFA,soit 5,1 % des dépôts collectés contre 4,0 % douze mois plus tôt.Ils se sont accrus de
+58,9 % comparés à la situation de juin 2007. Enfin, les dépôts du secteur privé représentent
+72,2 % du total des dépôts contre 73,9 % un an plus tôt.Ils se sont établis à 3 252 Mds FCFA
+à fin juin 2008. Cependant, par rapport à leur niveau de juin 2007, ils sont en hausse de
+19,7 %.
+14
+
+--- Page 12 ---
+1.1.2.2.Les crédits distribués
+Les crédits aux administrations publiques ressortent à 69 Mds FCFA,soit 2,7 % du total des
+crédits bruts contre 3,6 % en juin 2007.En valeur absolue,ils se sont contractés de 14,6 % par
+rapport à leur niveau de juin 2007. Les crédits aux entreprises publiques s'établissent à
+164 Mds FCFA,soit 6,5 % des crédits distribués contre 6,6 % douze mois plus tôt.En valeur
+absolue,ils ont progressé de 12,2 % comparés à la situation de juin 2007.Quant aux crédits
+au secteur privé,ils s'élèvent à 2 059 Mds FCFA,et représentent 81,9 % du total des crédits
+bruts contre 83,0 % douze mois plus tôt.Ils se sont accrus de 12,6 % comparés à leur niveau
+de l'année écoulé.
+15
+
+--- Page 13 ---
+1.1.3.Evolution des opérations de trésorerie
+Les ressources de trésorerie se fixent à 263 Mds FCFA contre 295 Mds FCFA douze mois
+auparavant. Elles sont constituées de ressources à terme à concurrence de 33,7 % et de
+ressources à vue à hauteur de 66,0 %. Les contributions respectives étaient de 43,1 % et
+56,6 % en juin 2007.
+Ajoutées à l'excédent des ressources clientèle,ces ressources (ressources de trésorerie et
+ressources clientèle) alimentent les emplois de trésorerie qui s'élèvent à 2 683 Mds FCFA,dont
+54,0 % d'emplois à terme et 44,1 % d'emplois à vue (y compris l'encaisse).A la fin juin 2007,
+les emplois de trésorerie se fixaient à 2 149 Mds FCFA et étaient constitués d'emplois à terme
+à hauteur de 41,2 % et d'opérations à vue de l'ordre de 56,8 %.
+16
+
+--- Page 14 ---
+Les opérations avec la Banque des Etats de l'Afrique Centrale (BEAC) se caractérisent par
+un placement net des banques primaires de 1 636 Mds FCFA.Le solde de ces opérations s'est
+accru de 32,7 % par rapport au niveau atteint l'année précédente à la même date.
+Quant aux opérations avec les correspondants associés (autres établissements de crédit
+implantés dans la CEMAC ou correspondants extérieurs appartenant, dans les deux cas, au
+même réseau), elles se traduisent par un placement net de 275 Mds FCFA. Ce solde est en
+hausse de 4,5 % comparé au niveau atteint en juin 2007.
+1.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle, sur les 38 banques figurant dans le champ d'analyse
+contre 36 banques l'année précédente à la même date :
+- 34 banques sont en conformité avec les dispositions relatives à la représentation du
+capital minimum (comme un an auparavant) ;
+- en matière de solvabilité, 31 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 %, contre
+29 banques l'année précédente à la même date ;
+- dans le cadre des normes de division des risques,33 banques parviennent à respecter
+la limite globale en maintenant en dessous de l'octuple des fonds propres nets la somme
+des risques pondérés supérieurs à 15 % desdits fonds propres (contre 29 banques
+l'année précédente à la même date) et 19 banques se conforment à la limite individuelle
+en n'entretenant pas de risques pondérés encourus sur un même bénéficiaire excédant
+45 % des fonds propres nets (contre 15 banques l'année précédente à la même date);
+- s'agissant de la couverture des immobilisations par les ressources permanentes,
+28 banques réalisent un ratio supérieur ou égal au minimum de 100 % (contre
+25 banques l'année précédente à la même date) ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 35 banques (contre 36 banques l'année précédente à la même
+date);
+- quant au respect du coefficient de transformation à long terme,33 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois à plus
+de cinq ans de durée résiduelle par des ressources permanentes (le nombre de banques
+en conformité était de 30 l'année précédente à la même date) ;
+17
+
+--- Page 15 ---
+- enfin, 32 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond
+réglementaire de 15 % des fonds propres nets (le nombre de banques en conformité
+était de 27 l'année précédente à la même date).
+Au total, 18 banques seulement disposent de fonds propres nets suffisants pour honorer
+l'ensemble des normes prudentielles assises sur cet agrégat (contre 17 banques l'année
+précédente à la même date). La norme prudentielle respectée par le plus grand nombre
+d'établissements est celle se rapportant au rapport de liquidité.La norme relative à la limitation
+des risques encourus sur un même bénéficiaire constitue celle à l'égard de laquelle on observe
+le plus grand nombre de banques en infraction.
+18
+
+--- Page 16 ---
+1.3.Résultats de la cotation
+En raison de l'absence de données relatives à la rentabilité et/ou à la qualité du
+management,6 banques de création récente, figurant dans le champ d'analyse,n'ont pas été
+cotées.La situation des 32 banques analysées à travers le système de cotation (SYSCO) de la
+Commission Bancaire se présente comme suit :
+- 3 banques présentent une situation financière solide (cote 1) ;la situation était identique
+au 30 juin 2007 ;
+- 24 banques sont classées en cote 2 (bonne situation financière) ; au 30 juin 2007, cet
+effectif était de 23 banques ;
+- 4 banques figurent en cote 3 (situation financière fragile) ; au 30 juin 2007, cet effectif
+était de 5 banques ;
+- la situation financière est critique (cote 4) pour une banque ;au 30 juin 2007,cet effectif
+était également d'une banque.
+La situation d'ensemble du système bancaire apparaît satisfaisante.
+19
+
+--- Page 17 ---
+2.SITUATION PAR PAYS
+2.1.Le système bancaire camerounais
+Le système bancaire camerounais compte 12 banques en activité au 30 juin 2008.Il s'agit
+de :Afriland First Bank (First Bank),Amity Bank Cameroun (Amity),Banque Internationale du
+Cameroun pour l'Epargne et le Crédit (BICEC), Citibank Cameroon (CITI-C), Commercial
+Bank of Cameroon (CBC), Ecobank Cameroun (ECOBANK), National Financial Credit Bank
+(NFC Bank), Société Commerciale de Banque Cameroun (CA-SCB (ex-SCB)), Société
+Générale de Banques au Cameroun (SGBC), Standard Chartered Bank Cameroun (SCBC),
+Union Bank of Cameroon Limited (UBC) et United Bank For Africa Cameroon (UBA).
+2.1.1.Evolution de la situation bilantielle
+Le total agrégé des bilans des banques camerounaises s'établit à 2 058 Mds FCFA. Il a
+progressé de 11,8 % par rapport au 30 juin 2007.Les dépôts collectés s'élèvent à 1 854 Mds
+FCFA (90,1 % du total du bilan).Ils se sont accrus de 13,5 % en variation annuelle.Les crédits
+bruts à la clientèle sont de 1 144 Mds FCFA. Ils sont en expansion de 16,1 % par rapport à
+juin 2007.
+Les créances en souffrance s'élèvent à 143 Mds FCFA.Elles représentent 12,5 % des crédits
+bruts contre 13,3 % douze mois auparavant.Ainsi, la qualité apparente du portefeuille s'est
+améliorée,comparée à la situation qui prévalait en juin 2007.
+20
+
+--- Page 18 ---
+Les provisions pour dépréciation des comptes clientèle se sont accrues de 20,7 % par
+rapport au niveau atteint l'année précédente à la même date. Elles s'établissent à 137 Mds
+FCFA.En conséquence,les crédits nets se fixent à 1 007 Mds FCFA (49,0 % du total du bilan),
+soit une variation annuelle de +15,5 %.
+Le taux de couverture des créances en souffrance par les provisions se situe à 95,4 %
+contre 86,3 % en juin 2007. Les déclarations des banques et les résultats des dernières
+vérifications font ressortir un besoin de provisions complémentaires de 3 Mds FCFA. Ce
+besoin était estimé à 10 Mds FCFA l'année précédente à la même date.
+21
+
+--- Page 19 ---
+La couverture des crédits par les dépôts s'établit à 184,1 % (contre 187,2 % en juin 2007).
+Ainsi,les opérations avec la clientèle dégagent un excédent de ressources de 847 Mds FCFA.
+Cet excédent s'est établi à 761 Mds FCFA en juin 2007.
+Les banques camerounaises dégagent un déficit des capitaux permanents de 9 Mds FCFA
+par rapport aux valeurs immobilisées.A fin juin 2007,ce dernier s'élevait à un milliard FCFA.
+L'excédent de trésorerie se situe à 871 Mds FCFA (42,3 % du total du bilan).Il s'est accru
+de 10,4 % par rapport à la situation qui prévalait douze mois plus tôt.
+2.2.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle,la situation des 12 banques en activité se présente comme
+suit :
+- 10 banques sont en conformité avec les dispositions relatives à la représentation du
+capital minimum (comme un an auparavant) ;
+- en matière de solvabilité, 9 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 % (comme un
+an auparavant) ;
+- dans le cadre des normes de division des risques,9 banques parviennent à respecter la
+limite globale en maintenant en dessous de l'octuple des fonds propres nets la somme
+des risques pondérés supérieurs à 15 % desdits fonds propres (comme un an
+auparavant) et 7 banques se conforment à la limite individuelle,en n'entretenant pas de
+risques pondérés encourus sur un même bénéficiaire excédant 45 % des fonds propres
+nets (comme un an auparavant) ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes,
+8 banques réalisent un ratio supérieur ou égal au minimum de 100 % (situation
+identique qu'à celle de l'année écoulée) ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 11 banques ;
+- quant au respect du coefficient de transformation à long terme,11 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois ayant
+plus de cinq ans de durée résiduelle par des ressources permanentes ;
+22
+
+--- Page 20 ---
+- enfin, 10 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond
+réglementaire de 15 % des fonds propres nets.
+Au total,6 banques disposent de fonds propres nets suffisants pour honorer l'ensemble des
+normes prudentielles assises sur cet agrégat (comme douze mois auparavant). Les normes
+prudentielles respectées par le plus grand nombre d'établissements sont celles se rapportant
+au coefficient de transformation et au rapport de liquidité.La norme relative à la limitation des
+risques encourus sur un même bénéficiaire constitue celle à l'égard de laquelle on observe le
+plus grand nombre de banques en infraction.
+2.1.3.Résultats de la cotation
+La situation du système bancaire camerounais apparaît, dans l'ensemble, satisfaisante au
+regard du système de cotation (SYSCO) de la Commission Bancaire. En raison de l'absence
+de données relatives à la rentabilité et/ou à la qualité du management,une banque de création
+récente, figurant dans le champ d'analyse, n'a pas été cotée. En définitive, la situation des
+différents établissements de crédit se présente ainsi qu'il suit :
+- une banque affiche une situation financière solide (cote 1) ;au 30 juin 2007,cet effectif
+était de 3 ;
+- 8 banques sont classées en cote 2 (bonne situation financière) contre 5 banques au
+30 juin 2007 ;
+- une banque figure en cote 3 (situation financière fragile) ; au 30 juin 2007, cet effectif
+était de 2 banques ;
+- la situation financière est critique (cote 4) pour une banque,comme à fin juin 2007.
+23
+
+--- Page 21 ---
+2.2.Le système bancaire centrafricain
+Le système bancaire centrafricain compte 4 banques en activité au 30 juin 2008.Il s'agit de:
+Banque Populaire Maroco-Centrafricaine (BPMC), Banque Sahélo-Saharienne pour
+l'Investissement et le Commerce - Centrafrique (BSIC RCA),Commercial Bank Centrafrique
+(CBCA) et Ecobank Centrafrique (ECOBANK RCA).
+2.2.1.Evolution de la situation bilantielle
+Le total agrégé des bilans s'établit à 93 Mds FCFA.Il a progressé de 31,5 % par rapport à
+la situation qui prévalait le 30 juin 2007. Les dépôts collectés s'élèvent à 73 Mds FCFA
+(78,2 % du total du bilan).Ils se sont accrus de 33,1 % en variation annuelle.Les crédits bruts
+à la clientèle sont de 89 Mds FCFA.Ils sont en expansion de 18,9 % par rapport à juin 2007.
+Les provisions pour dépréciation des comptes clientèle n'ont quasiment pas varié par
+rapport au niveau atteint l'année précédente à la même date.Elles se sont établies à 19 Mds
+FCFA.En conséquence,les crédits nets se fixent à 70 Mds FCFA (74,7 % du total du bilan),soit
+une variation annuelle de 25,1 %.
+24
+
+--- Page 22 ---
+Les créances en souffrance s'élèvent à 23 Mds FCFA.Elles représentent 26,3 % des crédits
+bruts contre 30,2 % un an plus tôt.Ainsi,la qualité apparente du portefeuille s'est améliorée
+par rapport à la situation prévalant en juin 2007.
+Le taux de couverture des créances en souffrance par les provisions se situe à 81,0 %
+contre 83,5 % en juin 2007. Les déclarations des banques et les résultats des dernières
+vérifications font ressortir un besoin de provisions complémentaires de 0,3 Md FCFA contre
+1 Md FCFA l'année précédente à la même date.
+25
+
+--- Page 23 ---
+Les banques de la CEMAC dégagent un excédent des capitaux permanents de 12 Mds
+FCFA par rapport aux valeurs immobilisées.A fin juin 2007, cet excédent s'élevait à 8 Mds
+FCFA.
+La couverture des crédits par les dépôts s'établit à 104,6 % (contre 98,3 % en juin 2007).
+Ainsi, les opérations avec la clientèle dégagent un excédent de ressources de 3 Mds FCFA
+contre un déficit d'un milliard FCFA en juin 2007.
+2.2.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle,sur les 3 banques figurant dans le champ d'analyse :
+- 3 banques sont en conformité avec les dispositions relatives à la représentation du capital
+minimum (comme un an auparavant) ;
+- en matière de solvabilité, 3 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 %, contre
+2 banques l'année précédente à la même date ;
+- dans le cadre des normes de division des risques,3 banques parviennent à respecter la
+limite globale en maintenant en dessous de l'octuple des fonds propres nets la somme
+des risques pondérés supérieurs à 15 % desdits fonds propres (comme un an
+auparavant) et seulement une banque se conforme à la limite individuelle en
+n'entretenant pas de risques pondérés encourus sur un même bénéficiaire excédant
+45 % des fonds propres nets ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes,
+3 banques réalisent un ratio supérieur ou égal au minimum de 100 % (contre 1 banque
+l'année précédente à la même date) ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 2 banques (contre 3 banques l'année précédente à la même date) ;
+- quant au respect du coefficient de transformation à long terme,2 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois à plus de
+cinq ans de durée résiduelle par des ressources permanentes (le nombre de banques en
+conformité était de 3 l'année précédente à la même date) ;
+26
+
+--- Page 24 ---
+- enfin, 3 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond
+réglementaire de 15 % des fonds propres nets (nombre identique à celui de l'année
+précédente à la même date).
+Au total, une banque seulement dispose de fonds propres nets suffisants pour honorer
+l'ensemble des normes prudentielles assises sur cet agrégat (sans changement par rapport à
+l'année précédente à la même date). Les normes prudentielles respectées par le plus grand
+nombre d'établissements sont celles se rapportant aux engagements sur les apparentés, à la
+couverture des immobilisations par les ressources permanentes, à la limitation de la somme
+des grands risques,à la couverture des risques par les fonds propres nets et à la représentation
+du capital minimum. La norme relative à la limitation des risques encourus sur un même
+bénéficiaire constitue celle à l'égard de laquelle on observe le plus grand nombre de banques
+en infraction.
+2.2.3.Résultats de la cotation
+Selon le système de cotation (SYSCO) de la Commission Bancaire, la situation des
+établissements de crédit de la RCA se présente comme suit :
+- aucune banque ne présente une situation financière solide (cote 1) ;au 30 juin 2007,cet
+effectif était également nul ;
+- 2 banques sont classées en cote 2 (bonne situation financière) ; la situation était
+identique au 30 juin 2007 ;
+- une banque figure en cote 3 (situation financière fragile) ;la situation était identique au
+30 juin 2007 ;
+- aucune banque ne se trouve dans la zone critique (cote 4) ;au 30 juin 2007,cet effectif
+était également nul.
+27
+
+--- Page 25 ---
+2.3.Le système bancaire congolais
+Le système bancaire congolais compte 5 banques en activité au 30 juin 2008.Il s'agit de :
+Banque Commerciale Internationale (BCI), BGFIBANK Congo (BGFI-Congo), Crédit du
+Congo (CDC),Ecobank Congo et La Congolaise de Banque (LCB).
+2.3.1.Evolution de la situation bilancielle
+Le total agrégé des bilans des banques congolaises s'établit à 602 Mds FCFA.Il a progressé
+de 21,9 % par rapport au 30 juin 2007.Les dépôts collectés s'élèvent à 535 Mds FCFA
+(88,9 % du total du bilan).Ils sont en hausse de 20,7 % en variation annuelle.Les crédits bruts
+à la clientèle sont de 175 Mds FCFA. Ils sont en expansion respectivement de 62,6 % par
+rapport au mois précédent et à juin 2007.
+Les provisions pour dépréciation des comptes clientèle sont en augmentation de 41,1 %
+par rapport au niveau atteint l'année précédente à la même date.Elles s'établissent à 3 Mds
+FCFA.En conséquence,les crédits nets se fixent à 172 Mds FCFA (28,6 % du total du bilan),
+soit une variation annuelle de +63,0 %.
+28
+
+--- Page 26 ---
+Les créances en souffrance s'élèvent à 4 Mds FCFA. Elles représentent 2,0 % des crédits
+bruts contre 6,3 % douze mois auparavant. Ainsi, la qualité apparente du portefeuille s'est
+améliorée,comparée à la situation qui prévalait en juin 2007.
+La couverture des crédits par les dépôts s'établit à 311,1 % (contre 420,1 % en juin 2007).
+Ainsi,les opérations avec la clientèle dégagent un excédent de ressources de 363 Mds FCFA.
+Cet excédent est ressorti à 338 Mds FCFA en juin 2007.
+29
+
+--- Page 27 ---
+Les banques congolaises dégagent un excédent des capitaux permanents de 11 Mds FCFA
+par rapport aux valeurs immobilisées contre un excédent de 7 Mds FCFA observé à fin juin
+2007.
+L'excédent de trésorerie se situe à 392 Mds FCFA (65,2 % du total du bilan).Il s'est inscrit
+en hausse de 9,2 % par rapport à la situation de juin 2007.
+2.3.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle,la situation se présente ainsi qu’il suit :
+- 5 banques sont en conformité avec les dispositions relatives à la représentation du
+capital minimum (comme un an auparavant) ;
+- en matière de solvabilité, 5 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 % (comme un
+an auparavant) ;
+- dans le cadre des normes de division des risques,5 banques parviennent à respecter la
+limite globale en maintenant en dessous de l'octuple des fonds propres nets la somme
+des risques pondérés supérieurs à 15 % desdits fonds propres (comme un an
+auparavant) et seulement 2 banques se conforment à la limite individuelle, en
+n'entretenant pas de risques pondérés encourus sur un même bénéficiaire excédant
+45 % des fonds propres nets,comme un an auparavant ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes,
+4 banques réalisent un ratio supérieur ou égal au minimum de 100 % (comme un an
+auparavant) ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 5 banques (comme un an auparavant) ;
+- quant au respect du coefficient de transformation à long terme,5 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois ayant
+plus de cinq ans de durée résiduelle par des ressources permanentes (nombre identique
+à celui de l'année précédente) ;
+30
+
+--- Page 28 ---
+- enfin, 5 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond
+réglementaire de 15 % des fonds propres nets (nombre identique à celui de l'année
+précédente à la même date).
+Au total, 2 banques seulement disposent de fonds propres nets suffisants pour honorer
+l'ensemble des normes prudentielles assises sur cet agrégat (sans changement par rapport à
+l'année précédente à la même date). Les normes prudentielles respectées par le plus grand
+nombre d'établissements sont celles se rapportant aux engagements sur les apparentés, au
+coefficient de transformation, au rapport de liquidité, à la limitation de la somme des grands
+risques,à la couverture des risques par les fonds propres nets et à la représentation du capital
+minimum. La norme relative à la limitation des risques encourus sur un même bénéficiaire
+constitue celle à l'égard de laquelle on observe le plus grand nombre de banques en infraction.
+2.3.3.Résultats de la cotation
+Selon le système de cotation (SYSCO) de la Commission Bancaire, la situation des
+établissements de crédit du Congo se présente ainsi qu'il suit :
+- une banque affiche une situation financière solide (cote 1) ;au 30 juin 2007,cet effectif
+était nul ;
+- 2 banques sont classées en cote 2 (bonne situation financière) ; au 30 juin 2007, cet
+effectif était de 3 banques ;
+- aucune banque ne figure en cote 3 (situation financière fragile) ; au 30 juin 2007, cet
+effectif était également nul ;
+- aucune banque ne se trouve dans la zone critique (cote 4) ;au 30 juin 2007,cet effectif
+était également nul.
+31
+
+--- Page 29 ---
+2.4.Le système bancaire gabonais
+Le système bancaire gabonais compte 7 banques en activité au 30 juin 2008. Il s'agit de :
+Banque de l'Habitat du Gabon (BHG),Banque Gabonaise de Développement (BGD),Banque
+Internationale pour le Commerce et l'Industrie du Gabon (BICIG),BGFIBANK (BGFI-Gabon),
+Citibank,N.A.(CITI-G),Financial Bank Gabon (FBG) et Union Gabonaise de Banque (UGB).
+2.4.1.Evolution de la situation bilantielle
+Le total agrégé des bilans des banques gabonaises s'établit à 1 217 Mds FCFA. Il est en
+progression de 9,0 % par rapport au 30 juin 2007.Les dépôts collectés s'élèvent à 977 Mds
+FCFA (80,3 % du total du bilan).Ils sont en hausse de 8,1 % en variation annuelle.Les crédits
+bruts à la clientèle sont ressortis à 642 Mds FCFA.Ils sont en contraction de 4,8 % comparés
+à leur niveau de juin 2007.
+Les provisions pour dépréciation des comptes clientèle se sont accrues de 3,5 % par
+rapport au niveau atteint il y a un an.Elles se sont établies à 39 milliards FCFA.En conséquence,
+les crédits nets ressortent à 603 milliards FCFA contre 636 Mds FCFA un an plus tôt.
+32
+
+--- Page 30 ---
+Les créances en souffrance s'élèvent à 53 Mds FCFA.Elles représentent 8,3 % des crédits
+bruts contre 7,2 % douze mois auparavant. Ainsi, la qualité apparente du portefeuille s'est
+dégradée par rapport à la situation prévalant en juin 2007.Le taux de couverture des créances
+en souffrance par les provisions se situe à 73,6 % contre 77,6% à juin 2007.Les déclarations
+des banques et les résultats des dernières vérifications font ressortir un besoin de provisions
+complémentaires de 2 Mds FCFA,contre 7 milliards FCFA l'année précédente.
+33
+
+--- Page 31 ---
+La couverture des crédits par les dépôts s'établit à 162,2 % (contre 142,0 % en juin 2007).
+Ainsi,les opérations avec la clientèle dégagent un excédent de ressources de 375 Mds FCFA.
+On relevait un excédent de 268 Mds FCFA en juin 2007.
+Les banques gabonaises dégagent un excédent des capitaux permanents par rapport aux
+valeurs immobilisées de 32 Mds FCFA (49,5 % du total du bilan),soit une baisse de 5,3 % en
+glissement annuelle.Il ressortait un excédent de 53 Mds FCFA à fin juin 2007.
+L'excédent de trésorerie se situe à 441 Mds FCFA (36,2 % du total du bilan).Il a progressé
+de 31,2 % par rapport à la situation de juin 2007.
+2.4.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle,il ressort ce qui suit :
+- 7 banques sont en conformité avec les dispositions relatives à la représentation du
+capital minimum (comme un an auparavant) ;
+- en matière de solvabilité, 7 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 %,comme un
+an auparavant ;
+- dans le cadre des normes de division des risques,7 banques parviennent à respecter la
+limite globale en maintenant en dessous de l'octuple des fonds propres nets la somme
+des risques pondérés supérieurs à 15 % desdits fonds propres (comme un an
+auparavant) et 7 banques se conforment à la limite individuelle,en n'entretenant pas de
+risques pondérés encourus sur un même bénéficiaire excédant 45 % des fonds propres
+nets contre 7 banques l'année précédente à la même date ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes,
+7 banques réalisent un ratio supérieur ou égal au minimum de 100 % (comme un an
+auparavant) ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 6 banques (comme l'année écoulée) ;
+- quant au respect du coefficient de transformation à long terme,7 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois ayant
+plus de cinq ans de durée résiduelle par des ressources permanentes (nombre identique
+à celui de l'année précédente à la même date) ;
+34
+
+--- Page 32 ---
+- enfin, 7 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond
+réglementaire de 15 % des fonds propres nets (nombre identique à celui de l'année
+précédente à la même date).
+Au total, toutes les banques analysées disposent de fonds propres nets suffisants pour
+honorer l'ensemble des normes prudentielles assises sur cet agrégat (comme douze mois
+auparavant).A l'exception de la norme relative au rapport de liquidité qui n'est pas respecté
+par un établissement de crédit de la place, toutes les autres normes prudentielles sont
+respectées par tous les établissements de crédit.
+2.4.3.Résultats de la cotation
+Selon le système de cotation (SYSCO) de la Commission Bancaire, la situation des
+établissements de crédit du Gabon apparaît comme suit :
+- une banque affiche une situation financière solide (cote 1) ;au 30 juin 2007,cet effectif
+était de 2 ;
+- 5 banques sont classées en cote 2 (bonne situation financière) ; la situation était
+identique au 30 juin 2007 ;
+- aucune banque ne figure en cote 3 (situation financière fragile) ; au 30 juin 2007, cet
+effectif était d'une banque ;
+- aucune banque ne se trouve dans la zone critique (cote 4) ;comme au 30 juin 2007,cet
+effectif était également nul.
+35
+
+--- Page 33 ---
+2.5.Le système bancaire équato-guinéen
+Le système bancaire équato-guinéen compte 4 banques en activité au 30 juin 2008.Il s'agit
+de : Banco Nacional de Guinea Ecuatorial (BANGE), BGFIBANK Guinée Equatoriale
+(BGFIGE),CCEI BANK GE (CCEI GE) et Société Générale de Banques en Guinée Equatoriale
+(SGBGE).
+2.5.1.Evolution de la situation bilantielle
+Le total agrégé des bilans des banques équato-guinéennes s'établit à 858 Mds FCFA. Il a
+progressé de 77,7 % par rapport au 30 juin 2007. Les dépôts collectés s'élèvent à 786 Mds
+FCFA (91,6 % du total du bilan).Ils sont en hausse de 80,1 % en variation annuelle.Les crédits
+bruts à la clientèle sont de 250 Mds FCFA.Ils sont en expansion de 29,4 % par rapport à juin
+2007.
+Les provisions pour dépréciation des comptes clientèle se sont accrues de 24,7 % par
+rapport au niveau atteint l'année précédente à la même date. Elles s'établissent à 26 Mds
+FCFA.En conséquence,les crédits nets se fixent à 224 Mds FCFA (26,1 % du total du bilan),
+soit une variation annuelle de +30,0 %.
+36
+
+--- Page 34 ---
+Les créances en souffrance s'élèvent à 28 Mds FCFA.Elles représentent 11,1 % des crédits
+bruts contre 12,0 % douze mois auparavant.Ainsi, la qualité apparente du portefeuille s'est
+améliorée comparée à la situation qui prévalait en juin 2007. Le taux de couverture des
+créances en souffrance par les provisions se situe à 94,8 % contre 90,5 % en juin 2007. Les
+déclarations des banques et les résultats des dernières vérifications font ressortir un besoin de
+provisions complémentaires de 0,5 Md FCFA.
+37
+
+--- Page 35 ---
+La couverture des crédits par les dépôts s'établit à 350,7 % (contre 253,2 % en juin 2007).
+Ainsi,les opérations avec la clientèle dégagent un excédent de ressources de 562 Mds FCFA.
+En juin 2007,cet excédent s'était établi à 264 Mds FCFA.
+Les banques équato-guinéennes dégagent un excédent des capitaux permanents de
+27 Mds FCFA par rapport aux valeurs immobilisées. En juin 2007, il est ressorti à 23 Mds
+FCFA.
+L'excédent de trésorerie se situe à 600 Mds FCFA (70,0 % du total du bilan).Il a progressé
+de 104,2 % par rapport à la situation observée en juin 2007.
+2.5.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle,il ressort ce qui suit :
+- 3 banques sont en conformité avec les dispositions relatives à la représentation du capital
+minimum (comme un an auparavant) ;
+- en matière de solvabilité, 3 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 %,comme un
+an auparavant ;
+- dans le cadre des normes de division des risques,3 banques parviennent à respecter la
+limite globale en maintenant en dessous de l'octuple des fonds propres nets la somme
+des risques pondérés supérieurs à 15 % desdits fonds propres (comme un an
+auparavant) et seulement une banque se conforme à la limite individuelle, en
+n'entretenant pas de risques pondérés encourus sur un même bénéficiaire excédant
+45 % des fonds propres nets contre une banque l'année précédente à la même date ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes, une
+banque réalise un ratio supérieur ou égal au minimum de 100 % (comme un an
+auparavant) ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 4 banques (comme un an auparavant) ;
+- quant au respect du coefficient de transformation à long terme,3 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois ayant plus
+de cinq ans de durée résiduelle par des ressources permanentes (nombre identique à
+celui de l'année précédente) ;
+38
+
+--- Page 36 ---
+- enfin, 2 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond
+réglementaire de 15 % des fonds propres nets (nombre identique à celui de l'année
+précédente à la même date).
+Au total,parmi les banques analysées,un seul établissement dispose de fonds propres nets
+suffisants pour honorer l'ensemble des normes prudentielles assises sur cet agrégat (sans
+changement par rapport à l'année précédente à la même date). La norme prudentielle
+respectée par le plus grand nombre d'établissements est celle se rapportant au rapport de
+liquidité. Les normes relatives à la couverture des immobilisations par les ressources
+permanentes et à la limitation des risques encourus sur un même bénéficiaire constituent
+celles à l'égard desquelles on observe le plus grand nombre de banques en infraction.
+2.5.3.Résultats de la cotation
+Selon le système de cotation (SYSCO) de la Commission Bancaire, la situation des
+établissements de crédit de la Guinée Equatoriale se présente comme suit :
+- aucune banque n'affiche une situation financière solide (cote 1) ; au 30 juin 2007, cet
+effectif était également nul ;
+- 3 banques sont classées en cote 2 (bonne situation financière) ; au 30 juin 2007, cet
+effectif était également de 3 banques ;
+- aucune banque ne figure en cote 3 (situation financière fragile),comme au 30 juin 2007;
+- aucune banque ne se trouve dans la zone critique (cote 4),comme au 30 juin 2007 ;
+39
+
+--- Page 37 ---
+2.6.Le système bancaire tchadien
+Le système bancaire tchadien compte 7 banques en activité au 30 juin 2008. Il s'agit de :
+Banque Agricole et Commerciale (BAC (ex-BAST)), Banque Commerciale du Chari (BCC),
+Banque Sahélo-Saharienne pour l'Investissement et le Commerce (BSIC), Commercial Bank
+Tchad (CBT), ECOBANK TCHAD (ECOBANK ex-BIAT), Financial Bank Tchad (FBT) et
+Société Générale Tchadienne de Banque (SGTB).
+2.6.1.Evolution de la situation bilantielle
+Le total agrégé des bilans des banques tchadiennes s'établit à 318 Mds FCFA.Il a progressé
+de 33,5 % par rapport au 30 juin 2007. Les dépôts collectés s'élèvent à 279 Mds FCFA
+(87,7 % du total du bilan).Ils se sont accrus de 38,2 % en variation annuelle.
+Les crédits bruts à la clientèle sont de 214 Mds FCFA.Ils sont en expansion de 28,3 % par
+rapport à juin 2007. Les provisions pour dépréciation des comptes clientèle se sont accrues
+de 0,3 % par rapport au niveau atteint l'année précédente à la même date.Elles s'établissent
+à 15 Mds FCFA.En conséquence,les crédits nets se fixent à 199 Mds FCFA (62,5 % du total
+du bilan),soit une variation annuelle de +31,1 %.
+40
+
+--- Page 38 ---
+Les créances en souffrance s'élèvent à 17 Mds FCFA.Elles représentent 8,0 % des crédits
+bruts contre 10,5 % douze mois auparavant.Ainsi, la qualité apparente du portefeuille s'est
+améliorée, comparée à la situation de juin 2007. Le taux de couverture des créances en
+souffrance par les provisions se situe à 87,5 % contre 85,0 % en juin 2007. Les déclarations
+des banques et les résultats des dernières vérifications font ressortir un besoin de provisions
+complémentaires de 2 Mds FCFA contre 3 Mds FCFA l'année précédente à la même date.
+41
+
+--- Page 39 ---
+La couverture des crédits par les dépôts s'établit à 140,3 % (contre 133,1 % en juin 2007).
+Ainsi, les opérations avec la clientèle dégagent un excédent de ressources de 80 Mds FCFA.
+On relevait un excédent de 50 Mds FCFA en juin 2007.
+Le système bancaire tchadien dégage un excédent des capitaux permanents de 19 Mds
+FCFA par rapport aux valeurs immobilisées.A fin juin 2007,il s'élevait à 14 Mds FCFA.
+L'excédent de trésorerie se situe à 98 Mds FCFA (30,9 % du total du bilan).Il a enregistré
+des fluctuations de +48,1 % par rapport à juin 2007.
+2.6.2.Respect des normes prudentielles
+Au plan de l'analyse prudentielle,il ressort ce qui suit :
+- 6 banques sont en conformité avec les dispositions relatives à la représentation du capital
+minimum (contre 7 banques l'année précédente à la même date) ;
+- en matière de solvabilité, 4 banques extériorisent un ratio de couverture des risques
+pondérés par les fonds propres nets supérieur ou égal au minimum de 8 %, contre
+6 banques l'année précédente à la même date ;
+- dans le cadre des normes de division des risques,6 banques parviennent à respecter la
+limite globale en maintenant en dessous de l'octuple des fonds propres nets la somme
+des risques pondérés supérieurs à 15 % desdits fonds propres (contre 5 banques l'année
+précédente à la même date) et seulement 1 banque se conforme à la limite individuelle
+en n'entretenant pas de risques pondérés encourus sur un même bénéficiaire excédant
+45 % des fonds propres nets (nombre identique à celui relevé l'année dernière à la
+même date) ;
+- s'agissant de la couverture des immobilisations par les ressources permanentes,
+5 banques réalisent un ratio supérieur ou égal au minimum de 100 % (comme un an
+auparavant) ;
+- en ce qui concerne le rapport de liquidité,les disponibilités à vue ou à moins d'un mois
+sont supérieures ou égales au minimum réglementaire de 100 % des exigibilités de
+même terme pour 7 banques (comme un an auparavant) ;
+42
+
+--- Page 40 ---
+- quant au respect du coefficient de transformation à long terme,5 banques parviennent
+à financer à hauteur de 50 % au moins (minimum réglementaire) leurs emplois à plus
+de cinq ans de durée résiduelle par des ressources permanentes (contre 6 banques en
+conformité l'année précédente) ;
+- enfin, 5 banques maintiennent la somme des engagements sur les actionnaires,
+administrateurs et dirigeants ainsi que sur le personnel en dessous du plafond
+réglementaire de 15 % des fonds propres nets (contre 4 banques en conformité l'année
+précédente à la même date).
+Au final, une banque seulement dispose de fonds propres nets suffisants pour honorer
+l'ensemble des normes prudentielles assises sur cet agrégat (sans changement par rapport à
+l'année précédente à la même date). La norme prudentielle respectée par le plus grand
+nombre d'établissements est celle se rapportant au rapport de liquidité.La norme relative à
+la limitation des risques encourus sur un même bénéficiaire constitue celle à l'égard de laquelle
+on observe le plus grand nombre de banques en infraction.
+2.6.3.Résultats de la cotation
+Selon le système de cotation (SYSCO) de la Commission Bancaire, la situation des
+établissements de crédit du Tchad se présente ainsi qu’il suit :
+- aucune banque ne présente une situation financière solide (cote 1) ;au 30 juin 2007,cet
+effectif était également nul ;
+- 4 banques sont classées en cote 2 (bonne situation financière) comme au 30 juin 2007;
+- 2 banques figurent en cote 3 (situation financière fragile) contre 2 banques au 30 juin
+2007 ;
+- aucune banque ne se trouve dans la zone critique (cote 4) ;la situation était également
+identique un an plus tôt à la même date.
+43
+
+--- Page 41 ---
+Annexe : Statistiques du système bancaire
+CEMAC
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
+DEPOTS DE LA CLIENTELE 3 332 939 3 674 556 4 505 514
+Crédits bruts 1 897 804 2 201 893 2 513 590
+Créances en souffrance 254 673 249 562 267 887
+Provisions pour dépréciation des comptes
+de la clientèle 211 005 207 566 238 569
+CREDITS NETS 1 686 799 1 994 327 2 275 021
+CAPITAUX PERMANENTS 439 417 500 151 542 342
+VALEURS IMMOBILISEES 359 943 395 389 450 862
+AUTRES POSTES NETS 26 314 68 840 549 555
+EXCEDENT / DEFICIT DE TRESORERIE 1 751 928 1 853 831 2 419 666
+TOTAL DU BILAN 3 798 670 4 243 547 5 597 411
+Evolution des dépôts de la clientèle par type de comptes (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
+Comptes à vue 2 457 543 2 815 107 3 567 961
+Comptes à terme 503 883 485 768 542 022
+Comptes de dépôts à régime spécial 230 312 225 531 218 643
+Autres comptes 126 313 134 329 162 443
+Dettes rattachées 14 888 13 821 14 445
+TOTAL DES DEPOTS 3 332 939 3 674 556 4 505 514
+45
+
+--- Page 42 ---
+Evolution des dépôts de la clientèle par type de déposants (en millions de FCFA)
+30/06/2006 30/06/2007 30/06/2008
+Dépôts publics 509 686 548 607 583 571
+Dépôts des entreprises publiques 243 727 145 217 230 821
+Dépôts privés 2 353 285 2 716 782 3 252 425
+Dépôts des non résidents 85 037 115 798 261 809
+Dépôts non ventilés 141 201 148 150 176 888
+TOTAL DES DEPOTS 3 332 939 3 674 556 4 505 514
+Evolution des crédits bruts par type de bénéficiaires (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
+Crédits à l'Etat
+Crédits aux entreprises publiques 76 214 80 310 68 553
+Crédits au secteur privé 122 113 146 365 164 249
+Crédits aux non résidents 1 598 206 1 828 354 2 058 761
+Encours financier des opérations de crédit-bail 74 052 97 312 150 958
+Autres créances (valeurs non imputées et
+créances 9 402 15 739 26 822
+TOTAL CREDITS BRUTS 17 810 33 812 44 245
+1 897 804 2 201 893 2 513 590
+46
+
+--- Page 43 ---
+Evolution des opérations de trésorerie (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
+Caisse 126 657 127 402 166 146
+Opérations à vue 1 190 397 1 094 138 1 016 806
+Opérations au jour le jour et à terme 637 096 885 837 1 447 531
+Titres de placement et de transaction 26 719 28 926 39 233
+Créances en souffrance nettes 9 297 8 837 8 569
+Créances rattachées 3 756 3 664 4 708
+Emplois de trésorerie 1 993 922 2 148 804 2 682 993
+Opérations à vue 128 510 166 978 173 757
+Opérations au jour le jour et à terme 112 582 127 146 88 622
+Dettes rattachées 902 849 948
+Ressources de trésorerie 241 994 294 973 263 327
+EXCEDENT / DEFICIT DE TRESORERIE 1 751 928 1 853 831 2 419 666
+Evolution des opérations avec la BEAC (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
++ BEAC Compte-courant débiteur 660 324 641 847 512 321
++ Placements à la BEAC 215 353 619 547 1 129 209
+- BEAC Compte-courant créditeur 217 24 935 1 731
+- Refinancement BEAC 22 190 4 000 4 000
+SOLDE DES OPERATIONS AVEC LA BEAC 853 270 1 232 459 1 635 799
+Evolution des opérations avec les correspondants associés (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
++ Comptes à vue débiteurs 196 888 234 945 504 45
++ Prêts et comptes à terme 219 103 125 785 295 250
+- Comptes à vue créditeurs 51 403 57 475 172 026
+- Emprunts et comptes à terme 15 172 40 017 54 236
+SOLDE CORRESPONDANTS ASSOCIES 349 416 263 238 573 473
+47
+
+--- Page 44 ---
+Nombre de banques en conformité avec les normes prudentielles
+Norme prudentielle 30/06/2006 30/06/2007 30/06/2008
+Capital minimum 29 34 34
+Couverture des risques 26 29 31
+Plafond global des risques 28 29 33
+Plafond individuel des risques 10 15 19
+Couverture des immobilisations 26 25 28
+Rapport de liquidité 32 36 35
+Coefficient de transformation 27 30 33
+Engagements sur les apparentés 25 27 32
+Adéquation des fonds propres 8 17 18
+NOMBRE TOTAL DES BANQUES 34 36 38
+Evolution de la cotation SYSCO
+Nombre de banque ayant obtenue la Cote 30/06/2006 30/06/2007 30/06/2008
+1 - Situation financière solide 7 3 3
+2 - Situation financière bonne 16 23 24
+3A - Situation financière légèrement fragile 2 3 1
+3B - Situation financière moyennement fragile 2 1 2
+3C - Situation financière très fragile 2 1 1
+4A - Situation financière critique 0 0 0
+4B - Situation financière très critique 2 1 1
+Non coté 2 4 6
+NOMBRE TOTAL DES BANQUES 33 36 38
+COTE MOYENNE 2 2 2
+48
+
+--- Page 45 ---
+CAMEROUN
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
+DEPOTS DE LA CLIENTELE 1 455 145 1 633 775 1 854 448
+Crédits bruts 961 720 985 852 1 144 234
+Créances en souffrance 118 161 131 250 143 374
+Provisions pour dépréciation des comptes
+de la clientèle 107 099 113 277 136 773
+CREDITS NETS 854 621 872 575 1 007 461
+CAPITAUX PERMANENTS 173 312 179 293 169 862
+VALEURS IMMOBILISEES 185 786 179 916 179 269
+AUTRES POSTES NETS 15 185 28 049 254 530
+EXCEDENT / DEFICIT DE TRESORERIE 603 235 788 626 870 898
+TOTAL DU BILAN 1 643 642 1 841 117 2 278 840
+RCA
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
+DEPOTS DE LA CLIENTELE 45 727 54 863 73 035
+Crédits bruts 66 770 74 593 88 690
+Créances en souffrance 21 676 22 520 23 324
+Provisions pour dépréciation des comptes
+de la clientèle 16 540 18 803 18 894
+CREDITS NETS 50 230 55 790 69 796
+CAPITAUX PERMANENTS 11 370 13 943 18 387
+VALEURS IMMOBILISEES 3 863 5 564 6 307
+AUTRES POSTES NETS -56 2 227 19 010
+EXCEDENT / DEFICIT DE TRESORERIE 2 948 9 679 17 328
+TOTAL DU BILAN 57 097 71 033 110 432
+49
+
+--- Page 46 ---
+CONGO
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
+DEPOTS DE LA CLIENTELE 454 692 443 387 535 265
+Crédits bruts 85 238 107 642 175 035
+Créances en souffrance 3 235 6 758 3 529
+Provisions pour dépréciation des comptes
+de la clientèle 2 614 2 104 2 969
+CREDITS NETS 82 624 105 538 172 066
+CAPITAUX PERMANENTS 28 097 36 089 48 598
+VALEURS IMMOBILISEES 16 439 29 143 37 696
+AUTRES POSTES NETS -6 818 14 492 48 138
+EXCEDENT / DEFICIT DE TRESORERIE 376 908 359 287 392 351
+TOTAL DU BILAN 482 789 493 968 632 001
+GABON
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
+DEPOTS DE LA CLIENTELE 854 651 903 958 977 507
+Crédits bruts 500 873 673 911 641 622
+Créances en souffrance 70 222 48 348 52 975
+Provisions pour dépréciation des comptes
+de la clientèle 52 603 37 518 38 825
+CREDITS NETS 448 270 636 393 602 797
+CAPITAUX PERMANENTS 167 676 197 159 205 633
+VALEURS IMMOBILISEES 123 064 144 197 173 688
+AUTRES POSTES NETS 12 786 15 445 140 455
+EXCEDENT / DEFICIT DE TRESORERIE 463 779 335 972 440 647
+TOTAL DU BILAN 1 035 113 1 116 562 1 323 595
+50
+
+--- Page 47 ---
+GUINEE EQUATORIALE
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
+DEPOTS DE LA CLIENTELE 384 281 436 785 786 455
+Crédits bruts 128 623 193 517 250 469
+Créances en souffrance 22 150 23 247 27 693
+Provisions pour dépréciation des comptes
+de la clientèle 15 959 21 040 26 245
+CREDITS NETS 112 664 172 477 224 224
+CAPITAUX PERMANENTS 30 600 39 626 60 850
+VALEURS IMMOBILISEES 11 086 16 309 33 583
+AUTRES POSTES NETS 4 283 6 403 41 576
+EXCEDENT / DEFICIT DE TRESORERIE 295 414 294 028 600 318
+TOTAL DU BILAN 419 164 482 814 888 881
+TCHAD
+Evolution de la situation bilantielle (en millions de francs CFA)
+30/06/2006 30/06/2007 30/06/2008
+DEPOTS DE LA CLIENTELE 138 443 201 788 278 804
+Crédits bruts 154 580 166 378 213 540
+Créances en souffrance 19 229 17 439 16 992
+Provisions pour dépréciation des comptes
+de la clientèle 16 190 14 824 14 863
+CREDITS NETS 138 390 151 554 198 677
+CAPITAUX PERMANENTS 28 362 34 041 39 012
+VALEURS IMMOBILISEES 19 705 20 260 20 319
+AUTRES POSTES NETS 934 2 224 45 846
+EXCEDENT / DEFICIT DE TRESORERIE 9 644 66 239 98 124
+TOTAL DU BILAN 167 739 238 053 363 662
+51
+
+--- Page 48 ---
+IV. Règlement
+Règlement COBAC R-2008/01 portant obligation d'élaboration par les établissements de
+crédit d'un plan de continuité de leurs activités.
+Considérant notamment que les ruptures des processus de compensation et de règlement
+peuvent avoir des conséquences fâcheuses et importantes pour le système financier et empêcher
+des acteurs significatifs du marché d'achever des transactions et de satisfaire à leurs obligations ;
+Convaincue que des interruptions répétées ou prolongées sur l'exploitation d'un système
+bancaire altèrent la confiance et pourraient aboutir à un retrait de capitaux de ce système par
+des utilisateurs nationaux ou internationaux ;
+Admettant pourtant que les efforts entrepris par la Commission Bancaire pour restaurer les
+équilibres fondamentaux des établissements de crédit ébranlés par les crises bancaires méritent
+d'être soutenus pour entretenir la confiance retrouvée auprès du public ;
+Affirmant qu'une supervision bancaire efficace permet au système bancaire de continuer à
+garantir à la clientèle un minimum de services bancaires ;
+Relevant que les normes internationales engagent les autorités de contrôle et de supervision
+à impulser un mouvement général vers la mise en place par leurs assujettis d'un plan de
+continuité d'activité ;
+Considérant qu'à cet effet,le Forum Conjoint du Comité de Bâle pour la Supervision Bancaire
+a publié en août 2006 des Principes Directeurs en matière de continuité d'activité ;
+Soulignant qu'en raison de l'imprécision, voire de l'inadéquation des mécanismes actuels au
+regard de l'impératif de mise en place d'un plan de continuité, il est primordial, eu égard aux
+possibilités de survenance de phénomènes caractéristiques de perturbation opérationnelle
+majeure,d'élaborer un texte obligeant les établissements de crédit à mettre en place un plan de
+continuité de leurs activités et couvrant tous les aspects de la gestion ;
+Convenant qu'un texte adopté par l'organe de supervision bancaire devrait lui permettre,
+d'une part, de déterminer un niveau approprié de résilience systémique et, d'autre part, de
+s'assurer que des opérations précises peuvent être poursuivies ou récupérées par les
+établissements de crédit dans un laps de temps raisonnable en cas de perturbation produite sur
+les opérations normales ou sur les infrastructures physiques ;
+53
+
+--- Page 49 ---
+ADOPTE LE REGLEMENT DONT LA TENEUR SUIT :
+Titre I - Principes directeurs en matière de continuité d'activité
+Chapitre I - Définitions
+Article 1-Au sens du présent Règlement,les expressions suivantes s'entendent ainsi qu'il est
+précisé ci-après :
+1. Acteurs critiques :acteurs exécutant des opérations critiques ou fournissant des services
+critiques ;
+2. Analyse d'impact sur l'activité : processus qui consiste à évaluer et à mesurer
+quantitativement et qualitativement l'impact sur l'activité ou les pertes dans les processus
+métiers en cas de perturbation,afin d'identifier les priorités dans la reprise des activités ;
+3. Continuité d'activité :état d'activité où les opérations ne sont pas interrompues ;
+4. Délai de reprise : durée cible nécessaire à la reprise d'une opération professionnelle
+spécifique après un désastre ou une interruption ;
+5. Gestion de la continuité d'activité : approche globale comprenant des politiques, des
+standards et des procédures pour s'assurer que des opérations spécifiées peuvent être
+maintenues ou reprises dans un délai raisonnable en cas de perturbation ;
+6. Infrastructure physique :actifs,équipements et services fournis par des entités autres que
+les établissements de crédit et dont dépendent largement les activités quotidiennes des
+agents économiques ;
+7. Niveau de reprise : niveau de service cible, relatif à une opération professionnelle
+spécifique,qui sera fourni après un désastre ou une interruption ;
+8. Objectif de reprise : objectif prédéterminé de reprise des opérations professionnelles
+spécifiques et des systèmes de support des opérations à un niveau de service fixé dans une
+durée définie de reprise après un désastre ou une interruption ;
+9. Opération ou service critique : activité, fonction, processus ou service, dont l'absence ou
+l'arrêt aurait des conséquences substantielles pour la continuité des opérations d'un
+établissement de crédit ou du système financier considéré dans son ensemble ;
+54
+
+--- Page 50 ---
+10. Perturbation opérationnelle majeure : perturbation à fort potentiel d'impact sur les
+opérations normales d'un établissement de crédit ou du système financier affectant les
+infrastructures physiques ou les personnes dans une large zone géographique ou des
+communautés économiquement intégrées ;
+11. Plan de continuité d'activité :plan d'action écrit et détaillé,décrivant les procédures et les
+systèmes nécessaires pour poursuivre ou rétablir les opérations d'une organisation en cas
+de désastre ou de interruption ;
+12. Protocole de communication : procédures de communication établies et approuvées à
+l'avance par deux ou plusieurs parties internes ou externes à un établissement de crédit.
+Ces procédures précisent les moyens de transmission, d'écriture et de lecture des
+données, ainsi que le type d'informations partagées entre ces différentes parties et la
+manière de les traiter selon leur caractère public ou non public ;
+13. Reprise :rétablissement des conditions d'activités spécifiques après une perturbation,à un
+niveau suffisant pour satisfaire les obligations professionnelles essentielles ;
+14. Résilience : capacité d'un établissement de crédit ou d'un système financier à absorber
+l'impact d'une perturbation opérationnelle majeure et à continuer ou à maintenir en
+fonction les opérations ou les services critiques ;
+15. Risque opérationnel :risque de pertes résultant de l'inadéquation ou de la défaillance des
+processus internes,des personnes et des systèmes,ou d'événements externes ;
+16. Site alternatif : espace de travail et équipements technologiques tenus prêts en
+permanence pour une utilisation en cas d'événement nécessitant la mise en œuvre du plan
+de continuité d'activité d'un établissement de crédit lorsque le site primaire devient
+inopérable.
+Chapitre II - Objet et champ d'application
+Article 2- Le présent Règlement définit les principes généraux devant guider l'élaboration,par
+les établissements de crédit, d'un plan de continuité de leurs activités en cas de perturbation
+opérationnelle majeure.
+Article 3-Les dispositions du présent Règlement sont applicables aux établissements assujettis
+opérant, sous quelque forme que ce soit, dans l'un des territoires des Etats de la CEMAC et
+soumis au contrôle de la COBAC.
+55
+
+--- Page 51 ---
+Chapitre III - Responsabilités des organes sociaux des établissements de crédit
+Article 4- Les établissements de crédit doivent mettre en place des politiques et des
+procédures prenant en compte les aspects techniques et humains de la gestion de la continuité
+d'activité qui fait partie intégrante de la gestion des risques.
+Article 5- Les organes délibérant et exécutif sont collectivement responsables de la définition
+d'approches efficaces et complètes de la gestion de la continuité d'activité.
+Ils ont la responsabilité de gérer efficacement, même en cas d'externalisation, la continuité
+d'activité et de développer et approuver la politique appropriée pour renforcer la résilience et la
+continuité en cas de perturbations opérationnelles majeures.
+Article 6- Les établissements de crédit doivent mettre en place une organisation permettant
+d'informer les organes délibérant et exécutif sur la mise en œuvre de la gestion de la continuité
+d'activité, les incidents constatés, le résultat des tests, et les plans d'action pour renforcer la
+résilience de l'institution et sa capacité à reprendre les activités spécifiques.
+Article 7- La manière dont est organisée la gestion de la continuité de l'activité doit être
+régulièrement examinée de manière indépendante par le contrôle interne ou l'audit externe et
+l'organe délibérant doit être informé au moins une fois par an, de l'appréciation portée sur
+l'efficacité des dispositifs en place.
+Chapitre IV - Politique de gestion de la continuité d'activité
+Article 8- Tout établissement de crédit doit mettre en oeuvre des approches appropriées
+pour une gestion adéquate de la continuité d'activité.
+La politique de gestion de la continuité d'activité comprend des analyses d'impact, une
+stratégie de reprise de l'activité et des plans de continuité d'activité.
+Article 9- Les analyses d'impact sur les activités doivent identifier les activités et services
+essentiels,les principales situations de dépendance par rapport à des sources internes et externes
+à l'établissement de crédit ainsi que les niveaux de résilience appropriés.Elles doivent permettre
+d'évaluer les risques et conséquences de différents scénarios de désastre ou de perturbation
+opérationnelle majeure sur les activités de l'établissement de crédit et sa réputation.
+Article 10- La stratégie de reprise doit définir,sur la base des analyses d'impact, des objectifs
+de reprise et les priorités,ainsi que le niveau de service minimum fourni par l'établissement de
+crédit en cas de désastre ou de perturbation opérationnelle majeure ainsi que le cadre dans
+lequel il rétablira les conditions normales d'activité.
+56
+
+--- Page 52 ---
+Article 11- Le plan de continuité doit fournir dans le détail les indications formalisées et
+documentées sur la manière de mettre en œuvre la stratégie de reprise,en établissant les rôles
+et en définissant les responsabilités dans la gestion des désastres et perturbations opérationnelles
+et en fournissant des indications précises sur les plans de succession, de substitution ou
+délégations de pouvoirs dans le cas où le désastre ou la perturbation aurait créé une distorsion
+dans la chaîne de commandement.Le plan de continuité de l'activité doit préciser le périmètre
+des activités couvertes, les activités traitées en priorité en cas de perturbation opérationnelle
+majeure, les risques résiduels non couverts, les délais de mise en oeuvre de ce plan, la
+formalisation des procédures,ainsi que la description synthétique du ou des sites alternatifs.
+Article 12- La gestion de la continuité d'activité d'un établissement de crédit doit être adaptée
+à son profil de risque et prendre en compte sa taille, l'ampleur et la portée de ses opérations
+ainsi que le risque qu'il fait courir au fonctionnement continu du système bancaire et à la sécurité
+des déposants.
+La politique de gestion de la continuité d'activité doit considérer les nouveaux risques liés aux
+évolutions socio-économiques, sur les plans national et international et couvrir les exigences
+inhérentes aux activités externalisées.
+Article 13- Les politiques,les standards et les processus de la gestion de continuité d'activité
+doivent être pris en compte et mis en oeuvre dans le programme complet de gestion du risque
+et de réalisation des opérations critiques de l'établissement de crédit.
+Chapitre V - Gestion du risque de perturbation opérationnelle majeure
+Article 14- Les établissements de crédit doivent intégrer le risque d'une perturbation
+opérationnelle majeure dans leurs approches de gestion de la continuité d'activité.
+Article 15- Les approches de la gestion de la continuité d'activité élaborées par les
+établissements de crédit doivent comporter les modes de réponse à une perturbation
+opérationnelle majeure pouvant affecter leurs opérations.
+Article 16- L'anticipation des mesures appropriées pour se remettre d'une perturbation
+opérationnelle majeure doit être basée sur les caractéristiques propres et sur le profil de risque
+de l'établissement de crédit.
+Chapitre VI - Elaboration d'objectifs de reprise
+Article 17- Les objectifs de reprise doivent servir de points de référence pour l'évaluation
+de l'efficacité de la gestion de la continuité d'activité et permettre d'atteindre un niveau cohérent
+de résilience.
+57
+
+--- Page 53 ---
+Article 18- Les organes délibérant et exécutif ont la responsabilité d'établir des objectifs de
+reprise proportionnés au risque que l'établissement de crédit concerné représente pour le
+fonctionnement du système financier dans son ensemble ainsi que pour la sécurité des déposants.
+Article 19- Les objectifs de reprise doivent comporter la poursuite de la fourniture des
+services critiques et, le cas échéant en fonction de la situation spécifique de l'établissement de
+crédit,répondre à des exigences supérieures à celles des autres participants du système bancaire.
+Chapitre VII - Elaboration des protocoles de communication interne et externe
+Article 20- Les établissements de crédit doivent inclure dans leur plan de continuité d'activité
+les protocoles et procédures de communication d'urgence en leur sein et à l'égard de toutes les
+parties prenantes,y compris internationales,en cas de perturbation opérationnelle majeure.
+Chapitre VIII - Conduite des tests d'évaluation de la gestion de la continuité d'activité
+Article 21- Tout établissement de crédit doit procéder selon une périodicité appropriée aux
+risques et conséquences des différents scénarios de perturbation opérationnelle majeure,à une
+évaluation de son dispositif de gestion de continuité d'activité au regard de sa capacité à
+supporter des perturbations opérationnelles majeures,en s'assurant notamment que :
+- le site alternatif se trouve dans une région distincte de l'emplacement primaire et ne
+dispose pas des mêmes composants au niveau de l'infrastructure physique ;
+- le site alternatif dispose de données actualisées suffisantes,d'un équipement au point et des
+systèmes nécessaires pour récupérer et entretenir les opérations et services critiques
+pendant un laps de temps suffisant ;
+- le plan de continuité d'activité définit les moyens de transport et les modalités de
+remplacement du personnel suffisant en termes d'effectif et d'expertise pour reprendre les
+opérations et services critiques compatibles avec les objectifs de reprise.
+Article 22- Chaque établissement de crédit qui présente un risque pour le système bancaire
+doit conduire de manière indépendante des gestionnaires opérationnels, des tests de ses sites
+alternatifs et participer à des tests au niveau du système bancaire pour évaluer le niveau de
+résilience à travers ce système et la compatibilité des stratégies de reprise des autres
+établissements de crédit.
+Article 23- La portée et la fréquence des tests doivent être déterminées en fonction du
+caractère critique des applications et des fonctions pour l'établissement de crédit, ainsi qu'au
+58
+
+--- Page 54 ---
+regard de la place de cet établissement dans le système bancaire et financier et en fonction des
+changements significatifs survenus dans l'environnement national,régional et international.
+Article 24- Les constats significatifs découlant des tests périodiques des plans de continuité
+d'activité doivent être soumis aux organes délibérant et exécutif dans un délai raisonnable afin
+que des mesures correctrices nécessaires soient apportées et le dispositif de gestion de la
+continuité d'activité mis à jour.
+Titre II - Phases méthodologiques d'un management de la continuité d'activité
+Chapitre IX - Caractéristiques du dispositif de continuité d'activité
+Article 25- Les établissements de crédit disposent d'un plan de continuité d'activité
+documenté,homogène et éprouvé.A cet effet,ils s'assurent de la cohérence et de l'efficacité des
+plans de continuité d'activité dans le cadre d'un plan global qui intègre les objectifs définis par
+l'organe exécutif et,le cas échéant,par l'organe délibérant.
+Article 26- L'organisation et la disponibilité des ressources humaines, immobilières,
+techniques et financières des établissements de crédit font l'objet d'une appréciation régulière au
+regard des risques liés à la continuité de l'activité.
+Article 27- Les mesures adoptées par les établissements de crédit dans le cadre de la gestion
+de continuité de l'activité figurent dans les rapports de contrôle interne, conformément aux
+dispositions de l'article 47 du Règlement 2001/07 relatif au contrôle interne des établissements
+de crédit.
+Article 28- La Commission Bancaire s'assure de la conformité des plans de continuité
+d'activité avec les dispositions du présent Règlement.
+Article 29- Les établissements de crédit définissent un cadre unifié pour la planification de la
+continuité d'activité qui vise à assurer la cohérence globale du dispositif et son caractère
+opérationnel.
+Article 30- Les établissements de crédit mettent en œuvre un processus de management de
+la continuité d'activité fondé notamment sur :
+- l'analyse des risques et des vulnérabilités ;
+- la classification des activités critiques et la définition des besoins fonctionnels ;
+- la prise en compte des enjeux en matière de sécurité et des impacts des sinistres potentiels
+sur l'activité de l'établissement de crédit et le secteur financier ;
+- la définition d'une stratégie de continuité d'activité cohérente avec les objectifs ;
+- le transfert éventuel de certains risques sur les polices d'assurance appropriées ;
+59
+
+--- Page 55 ---
+- la mise à jour,la maintenance,le test et l'évaluation des dispositifs prévus ;
+- la définition des responsabilités et des procédures en cas d'urgence ;
+- la mise en place des procédures dégradées prenant en compte les impératifs
+réglementaires ;
+- la sensibilisation du personnel ;
+- le bilan d'impact sur l'activité.
+Article 31- Les établissements de crédit procèdent à la nomination d'un Responsable de plan
+de continuité d'activité et en informent la Commission Bancaire.
+Article 32- Le Responsable de plan de continuité d'activité est chargé de l'administration du
+plan en régime établi,de la participation à la gestion de la crise,de la tenue à jour,du contrôle et
+de la mise en œuvre des actions correctives associées ainsi que de la réalisation des campagnes
+de formation et de test du plan.
+Article 33- L'organe exécutif doit impulser, promouvoir, rendre visible et contrôler le
+management de la continuité d'activité.
+Chapitre X - Méthodologie de management de la continuité d'activité
+Section I - Connaissance de l'activité
+Article 34- En vue de définir et de mettre en place un plan de mesures visant à prévenir ou
+à minimiser les sinistres majeurs et réduire ainsi l'étendue des risques résiduels à couvrir dans le
+plan de continuité d'activité, les établissements de crédit identifient leurs pôles de fragilités au
+travers d'audits et inspections.
+Article 35- Les établissements de crédit définissent la cartographie et les scénarios de
+sinistres devant être pris en compte dans leur plan de continuité d'activité.A cet effet,ils doivent
+:
+- identifier les activités essentielles de l'établissement de crédit pour sa survie ou le bon
+fonctionnement du système financier ;
+- identifier les menaces qui pèsent sur ces activités et qui pourraient en causer la
+discontinuité;
+- évaluer pour chaque risque la probabilité d'occurrence et l'impact potentiel (échelle
+d'évaluation des sinistres,grille d'évaluation des impacts des sinistres,typologie des risques
+et sinistres) ;
+- définir la stratégie de gestion des risques pour chaque risque caractérisé ;
+- définir les hypothèses d'élaboration de leur plan de continuité d'activité en prenant en
+compte l'ampleur des scénarios de sinistres.
+60
+
+--- Page 56 ---
+La cartographie des sinistres doit être régulièrement mise à jour et notamment à l'occasion
+de chaque changement important survenant dans la vie de l'établissement.
+Article 36- Les établissements de crédit déterminent l'impact des sinistres potentiels sur leurs
+activités et sur le fonctionnement du système bancaire et précisent une stratégie de continuité
+d'activité qui prenne en compte les enjeux définis.
+Le bilan d'impact sur l'activité est établi sur la base de :
+- l'identification et la classification des activités et fonctions critiques ainsi que des risques qui
+pèsent sur chaque activité ou fonction critique ;
+- la validation des objectifs de reprise ou de continuité pour chaque activité ou fonction
+critique ;
+- la détermination des processus et des ressources clés liées aux activités et fonctions
+critiques afin de déduire les modes dégradés de fonctionnement ;
+- l'identification des points de défaillance uniques et des dépendances internes et externes;
+- l'évaluation des impacts d'interruption de l'activité.
+Article 37- L'analyse des risques sur les activités et les ressources est orientée par le bilan
+d'impact sur l'activité et permet de définir les plans de réduction des risques pour les processus,
+activités et ressources identifiées comme critiques.
+L'analyse des risques est mise à jour à chaque changement important de l'organisation de
+l'établissement, notamment dans la création de nouveaux sites ou implantations et lors de la
+modification de l'infrastructure existante.
+Section II- Orientation de la stratégie de continuité de l'activité
+Article 38- Les établissements de crédit définissent les méthodes et moyens qui leur
+permettent de continuer leur activité en cas de sinistre majeur.
+Article 39- Un dispositif efficace de continuité d'activité repose sur les éléments suivants :
+- une organisation de gestion de crise avec un Responsable du plan de continuité d'activité;
+- un système documentaire détaillé, testé, largement diffusé au sein de l'établissement de
+crédit et régulièrement mis à jour ;
+- une stratégie de sauvegarde établie en fonctions des résultats des analyses d'impact sur
+l'activité de l'établissement de crédit et le fonctionnement du système financier, et
+périodiquement testée.L'organisation de la sauvegarde repose notamment sur la création
+d'un site alternatif distant et se trouvant dans un environnement technique distinct de
+l'environnement initial ;
+- une gestion rationalisée des ressources humaines ;
+- une solution technique de secours testée et couvrant les besoins de continuité.
+61
+
+--- Page 57 ---
+Article 40- Le choix de la stratégie de continuité est la résultante de l'analyse comparative
+des scénarios possibles de gestion de la continuité d'activité.Ces scénarios doivent être alignés
+sur la stratégie de l'établissement prenant en compte ses missions, ses objectifs, les évolutions
+attendues, ses relations d'affaires, le niveau de ses risques et ses axes de développement
+privilégiés,ainsi que sa place dans le système financier et son impact sur son bon fonctionnement.
+Article 41- Les besoins de l'établissement inscrits dans un cahier des charges fonctionnel et
+technique permettent de définir la ou les solutions techniques de secours.
+Section III- Mise en place du plan de secours informatique
+Article 42- Les établissements de crédit définissent l'organisation et le mode de réaction
+aptes à assurer le caractère opérationnel de la solution technique de secours en cas d'activation
+du plan de continuité d'activité.
+Ils définissent notamment les rôles,les responsabilités et les autorités en charge de la mise en
+place du plan de secours informatique et déterminent les solutions de substitution ou de
+remplacement du personnel avec une définition et une planification de leurs tâches.
+Article 43- Un test des solutions techniques et du plan de secours informatique est effectué
+pour permettre leur validation d'un point de vue technique et organisationnel et, ainsi, vérifier
+leur aptitude à répondre aux besoins définis et apprécier les délais de reprise.
+A défaut de validation de la solution technique,toutes les informations possibles doivent être
+recueillies afin de mettre en œuvre les mesures correctives qui permettront de rendre
+opérationnelle cette solution de secours.
+Article 44- Le périmètre, l'étendue, les objectifs et les conditions de réalisation du test
+doivent être préalablement définis. Les principales conclusions du test doivent être
+communiquées aux parties intéressées et les actions correctives issues des constats mises en
+œuvre.
+Section IV- Développement du plan de continuité d'opérations
+Article 45- Les établissements de crédit définissent l'organisation apte à gérer la crise,depuis
+son occurrence jusqu'à sa résorption et au retour à la normale.A cet effet,une cellule de crise
+composée des décideurs ainsi que des équipes d'intervention définies par thème et chargées des
+opérations de gestion de crise sont mises en place.
+62
+
+--- Page 58 ---
+Article 46- Le développement du plan de continuité d'opérations définit les stratégies de
+gestion des ressources humaines, de la sécurité des personnes et des biens ainsi que celle des
+prestations externalisées.
+Article 47- Les établissements de crédit mettent en place une stratégie de communication
+de crise disponible et opérationnelle.
+Article 48- Les établissements de crédit définissent les modalités de détection et d'évaluation
+rapide de la crise,d'alerte des acteurs concernés et d'activation éventuelle du plan de continuité
+d'activité.
+Ils déterminent les tâches et leur enchaînement logique, depuis l'occurrence d'un sinistre
+jusqu'à la décision de déclencher ou non le plan de continuité d'activité.
+Ils définissent le mode de remontée d'alerte,les acteurs du processus d'analyse et de décision,
+leurs rôles et leurs responsabilités, les critères d'évaluation des sinistres, les étapes, les
+responsabilités et autorités du processus de décision d'activation du plan de continuité d'activité,
+les modes de communication et d'interaction avec les services publics de crise, les actions de
+communication interne et externe au voisinage immédiat de la crise,établir.
+Ils valident et communiquent le schéma de déclenchement du plan de continuité d'activité.
+Article 49- Pour une gestion efficace de la crise, les établissements de crédit anticipent les
+modes de réaction aux sinistres et précisent les critères et responsabilités pour assurer le retour
+à la normale dans les meilleures conditions.A cet effet,ils procèdent à la :
+- définition des tâches génériques de gestion de crise à effectuer ;
+- répartition des tâches sur les acteurs de l'organisation de crise ;
+- définition des critères,conditions et responsabilités pour assurer le retour à la normale;
+- rédaction et validation des manuels et procédures de gestion de crise.
+Article 50- Les établissements de crédit rédigent et valident les procédures fonctionnelles
+dégradées pour tous les processus critiques identifiés lors des analyses d'impact sur les activités
+et fonctions critiques.
+Article 51- Les établissements de crédit mettent en œuvre la stratégie locale et/ou globale
+de continuité d'activité pour les processus critiques.
+Article 52- Les établissements de crédit tiennent à jour les résultats des analyses d'impact sur
+les activités et fonctions crituques, la liste des contacts utiles, les coordonnées de toutes les
+parties prenantes, l'inventaire des ressources critiques, les informations sur les sauvegardes de
+données,les références des procédures opérationnelles pertinentes,la matrice d'évaluation des
+63
+
+--- Page 59 ---
+dégâts et des impacts, les premières consignes de sécurités et procédures d'urgence, les fiches
+signalétiques des sites concernés par le plan de continuité d'activité.
+Section V- Maintien en conditions opérationnelles
+Article 53- Les établissements de crédit assurent la conduite du changement,le déploiement
+du plan de continuité d'activité et son maintien en conditions opérationnelles.
+Article 54- Le transfert et l'appropriation d'informations, de connaissances et de
+compétences en lien avec le management de la continuité d'activité s'opèrent grâce aux actions
+de sensibilisation,de formation et de communication.
+Article 55- Pour concevoir le programme et les supports et vecteurs de sensibilisation, de
+formation et de communication,les établissements de crédit définissent :
+- le périmètre,les objectifs et les enjeux,;
+- les moyens nécessaires à la réalisation des objectifs fixés ;
+- les cibles et les modalités du programme,notamment la fréquence,les supports,les formats
+et la durée.
+Ils conçoivent et mettent en œuvre un plan de communication interne et externe.
+Article 56- Les établissements de crédit s'assurent que leur plan de continuité d'activité reste
+opérationnel malgré les évolutions internes et, dans une moindre mesure, l'évolution de leur
+environnement. Dans cette optique, ils définissent les conditions et réalisent les opérations de
+mise à jour et de maintien en condition opérationnelle.
+Article 57- Pour déceler les incohérences et insuffisances du dispositif,compléter,améliorer
+et affiner les procédures en vigueur,les établissements de crédit s'assurent que les acteurs de la
+continuité d'activité sont formés, familiarisés avec leurs rôles et responsabilités dans le plan de
+continuité des opérations et capables de le mettre en œuvre rapidement et efficacement.
+Article 58- Les établissements de crédit définissent la stratégie de test du plan de continuité
+d'activité en tenant compte de son périmètre, de ses acteurs, de sa nature et son
+ordonnancement,de ses divers scénarios et hypothèses.
+Les résultats des tests sont analysés et des actions de correction et d'amélioration proposées
+et mises en œuvre.
+Article 59- Les établissements de crédit valident les pratiques de management de la
+continuité activité conformes aux exigences définies et aux besoins exprimés. Ils identifient les
+64
+
+--- Page 60 ---
+écarts avec les référentiels en vigueur, proposent des améliorations du management de la
+continuité d'activité et élaborent un programme annuel d'audit du plan de continuité d'activité.
+Section VI- Pilotage du management de la continuité d'activité
+Article 60- Les établissements de crédit mettent en œuvre une démarche efficace de gestion
+du projet de plan de continuité d'activité pour qu'il atteigne ses objectifs.
+Article 61- Les établissements de crédit définissent,mettent en œuvre et suivent la politique
+de management de la continuité d'activité.
+Article 62- L'attribution de la responsabilité globale sur le management de la continuité
+d'activité à un dirigeant de l'établissement garantit l'efficacité de son pilotage.
+Article 63- Le Responsable chargé du pilotage du management de la continuité d'activité
+définit la stratégie de déploiement des mesures inscrites dans ce cadre, prend en compte les
+résultats de test et de contrôle du plan de continuité d'activité,veille à ce que la stratégie précisée
+s'accorde avec les évolutions stratégiques et les objectifs de l'entreprise,s'assure de la conformité
+des pratiques aux exigences réglementaires,décide de la stratégie de communication interne et
+externe de la démarche, assure le reporting pour le déroulement du management de la
+continuité d'activité.
+Titre III - Dispositions finales
+Article 64- Les modalités d'application de certaines dispositions du présent Règlement
+seront,en tant que de besoin,précisées par Instructions du Président de la COBAC.
+Article 65- Le présent Règlement qui entre en vigueur à compter de son adoption, sera
+notifié par le Secrétaire Général de la Commission Bancaire aux Ministres en charge de la
+Monnaie et du crédit et à l'ensemble des établissements de crédit sis dans les Etats de l'Afrique
+Centrale ainsi qu'aux Associations Professionnelles constituées entre ces établissements.
+Article 66- Le Secrétaire Général de la Commission Bancaire est chargé de l'exécution du
+présent du Règlement.
+65
+
+--- Page 61 ---
+COMMISSION BANCAIRE DE L’AFRIQUE CENTRALE
+Secrétariat Général
+B.P.:1917 Yaoundé - Cameroun
+Tél.:(237) 22 23 40 30 / 22 23 40 60 - Fax :(237) 22 23 82 16 / 22 23 82 56
+Télex :8343 KN / 8505 KN - Site internet :www.beac.int

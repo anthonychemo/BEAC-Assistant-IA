@@ -1,0 +1,1173 @@
+Source PDF : BEAC_Working_Paper_n°04_22_-_Opportunité_du_Policy-mix_Effet_sur_la_productivité_en_zone_C_5685b124.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_n°04_22_-_Opportunité_du_Policy-mix_Effet_sur_la_productivité_en_zone_C_5685b124.pdf
+Date extraction : 15/06/2026 21:19:33
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 04/22 -
+Opportunité du Policy-mix : Effet sur la
+productivité en zone CEMAC
+Célestin BALLA MEKONGO Dessy-Karl TADADJEU Guy Albert KENKOUO
+Docteur en sciences économiques D o c t e u r en sciences économiques D o c t e u r en sciences économiques
+Université de Dschang Institut de Recherches et d’Analyses Banque des Etats de l’Afrique Centrale
+pour le Développement Durable en
+Juniorjordan.balla95@gmail.com kenkouo@beac.int
+Afrique Centrale
+dessykarl@yahoo.fr
+Ibrahim HAMZA ABBA
+Economiste
+Ministère des Finances / Université
+Et
+de Maroua
+abbaibraha mza@gmail.com
+B ANQ U E D E S E T A T S D E Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE
+travail sont propres à leur (s) auteur (s) et ne
+représentent pas nécessairement la position de la
+7 36, Av e n ue M on s e i g n e ur
+V og t B P:1 9 1 7 Y a o un d é Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working
+T e l :(2 37 ) 2 2 2 34 0 30 /
+paper are those of the author (s) and don’t
+2 2 2 34 060
+necessarily represent the views of the Central Bank
+F a x : (2 37 ) 2 2 2 33 32 9 of Central Africa States.
+ww w.be a c.i n t
+D I R E C T I O N D E S E T U D E S, D E L A R E CH E R C H E E T D E S S T A T I S T I Q U E S
+
+--- Page 2 ---
+Opportunité du Policy-mix : Effet sur la
+productivité en zone CEMAC*
+Célestin Balla Mekongo† Dessy-Karl Tadadjeu‡
+Université de Dschang IRADDAC
+Guy Albert Kenkouo § Hamza Abba Ibrahim ¶
+Banque des États de l’Afrique Centrale Ministère des Finances
+14 novembre 2022
+Résumé
+Un Policy-mix caractérisé par une politique monétaire dont l’objectif principal est la
+stabilité des prix, et une politique budgétaire caractérisée par une maîtrise des finances
+publiques, peut-il favoriser la croissance économique au sein de la Communauté Écono-
+miqueetMonétairedel’AfriqueCentrale?Danscepapier,l’objectifestd’analyserl’effet
+duPolicy-mixsurlaproductivitéenzoneCEMACenpérioded’expansion(2007-2012)et
+de crise (2014-2018). A partir d’un modèle spatial inspiré des travaux de Combey (2014)
+etChihetal.(2022),nousmobilisonslesdéveloppementsméthodologiquesrécentsnotam-
+mentlestechniquesd’estimationdesmodèlesdepanelspatiaux-dynamiques.Lesrésultats
+montrent que le Policy-mix expansif accroît la productivité à travers une augmentation
+*Les auteurs tiennent à remercier vivement les participants aux ateliers de recherche 2022 de la BEAC pour
+leurscritiquesetsuggestionspertinentes,quiontpermisd’améliorersubstantiellementlaversionpréliminairede
+cetarticle.Lesauteursrestent,toutefois,seulsresponsablesdeséventuelleserreursouinsuffisancesquipourraient
+encoresubsisterdansletexte.
+†Auteur correspondant : Économiste, Centre d’Etudes et de Recherche en Management et Économie
+(CERME),UniversitédeDschang.Mail:juniorjordan.balla95@gmail.com
+‡Consultantpermanentetéconomisteàl’InstitutdeRecherchesetd’AnalysespourleDéveloppementDurable
+enAfriqueCentrale(IRADDAC).
+§Chef de service de la gestion de la liquidité bancaire, Direction de la Stabilité Financières, des Activités
+BancairesetduFinancementdesÉconomies(DSFABFE),BanquedesÉtatsdel’AfriqueCentrale(BEAC)
+¶Économiste,contrôleurprincipaldesrégiesfinancières(Trésor),Chefdebureaudesmarchés,PaierieGénérale
+deYaoundé,DirectionGénéraleduTrésoretdelaCoopérationFinancièreetMonétaire(DGTCFM),Ministèredes
+Finances,Doctorant-chercheur,UniversitédeMaroua
+1
+
+--- Page 3 ---
+duniveaudel’accumulationducapitaletdelaproductivitéglobaledesfacteursprincipale-
+mentenpériodedecrise.Lepapierplaidepourlamiseenœuvredescritèresdesurveillance
+multilatérale contra-cycliques et un alignement des conditions monétaires et le niveau des
+financespubliquesdesÉtatsmembresdelaCEMAC.
+Motsclés:Policy-mix,l’accumulationducapital,laproductivitéglobaledesfacteurs,
+panelspatiaux-dynamiques,CEMAC.
+2
+
+--- Page 4 ---
+Abstract
+Can a policy mix characterised by a monetary policy whose primary aim is price sta-
+bilityandafiscalpolicycharacterisedbythecontrolofpublicfinancespromoteeconomic
+growth in the Economic and Monetary Community of Central Africa (EMCCA)? In this
+paper,theobjectiveistoanalysetheeffectofthepolicymixonproductivityintheEMCCA
+zone during the expansion (2007-2012) and the crisis (2014-2018). Using a spatial model
+inspiredbytheworkofCombeyCombey(2014)andChihetal.(2022),wemobilizerecent
+methodologicaldevelopments,notablytheestimationtechniquesofspatial-dynamicpanel
+models. The results show that the expansive policy mix increases productivity through an
+increase in the level of capital accumulation and total factor productivity, mainly in times
+ofcrisis.Thepaperarguesforimplementingcounter-cyclicalmultilateralsurveillancecri-
+teriaandanalignmentofmonetaryconditionsandthelevelofpublicfinancesofEMCCA
+memberstates.
+Keywords:Policy-mix,capitalstock,totalfactorproductivity,spatial-dynamicpanels,
+EMCCA.
+.
+3
+
+--- Page 5 ---
+Résuménontechnique
+Enunionmonétaire,lePolicy-mixpeutêtredéfinicommelacoordinationentrelespoli-
+tiquesbudgétairesnationalesetlapolitiquemonétairecommune.Lapolitiquemonétaireen
+unionconsisteàrégulerl’évolutiondelamassemonétaireenfonctiondesobjectifstelsque
+lastabilitédesprixoularelancedel’activitééconomique.Alorsquelapolitiquebudgétaire,
+seul instrument à la disposition de l’État procède à des changements dans la structure des
+impôts, des taxes et des dépenses publiques pour influencer l’activité économique. La co-
+ordinationdespolitiqueséconomiquess’appuienonseulementsurl’expérienceempirique,
+maisaussisurdesolidesargumentsthéoriques.Lespolitiquesbudgétairessontnécessaires
+pour assurer la stabilisation de l’activité à court terme, face à des chocs spécifiques aux-
+quels ne peut répondre la banque centrale commune, puis qu’en leur absence l’ajustement
+se ferait par les quantités et cela provoquerait la récession et le chômage (Wyplosz et al.,
+1991).
+LarécentecrisesanitairemondialedelaCOVID-19,coupléeaveclamauvaiseperfor-
+mance des dernières années des économies des pays membres de la Communauté Écono-
+miqueetMonétairedel’AfriqueCentrale(CEMAC)interpellentlalittératureéconomique
+sur les conditions d’optimalité de l’articulation de la politique monétaire unique et les po-
+litiques budgétaires décentralisées, dans la réalisation des objectifs macroéconomiques de
+court,moyenetdelongstermes.DepuislestravauxdeKaldor,quatre(4)principauxobjec-
+tifs sont toujours assignés aux politiques économiques conjoncturelles. Il s’agit d’œuvrer
+pour : une croissance économique forte; un plein-emploi des facteurs de production; une
+stabilité des prix; et un équilibre des échanges extérieurs voire même un excédent. Mais,
+la question qui a toujours fait débats tant sur le plan théorique qu’empirique est le dosage
+des seuls instruments disponibles : la politique monétaire et la politique budgétaire pour
+l’atteinte de ces objectifs. De façon générale, les discussions ont porté sur les questions
+suivantes:lesdeuxpolitiquesmonétaireetbudgétairedevraient-ellesêtrerestrictives?Ou
+l’une doit-elle être restrictive et l’autre expansionniste? Et si oui, laquelle? L’articulation
+desdeuxpolitiquesdevrait-elleêtredynamiqueoustatique?
+Dans ce papier, nous construisons un indice du policy-mix de la zone CEMAC qui
+permet de regrouper en un seul indicateur, les interactions des décisions des autorités mo-
+nétaires et budgétaires sur les conditions monétaires de la Zone. Ensuite, nous mobilisons
+les développements méthodologiques récents, notamment les techniques d’estimation des
+modèles de panel spatiaux-dynamiques, qui offrent des opportunités de tenir compte des
+effets de voisinage et d’hétérogénéité inobservés des pays membres de la zone, pour ana-
+lyser les effets du Policy-mix sur la productivité. A partir d’un modèle empirique adopté
+parCombey(2014)etmodifié,lesrésultatsdesestimationssurlapériode1994-2018four-
+nissentunepreuveempiriquequel’articulationdelapolitiquemonétaireetbudgétaire,dans
+l’étatactuelaccroîtlaproductivitéàtraversuneaugmentationduniveaudel’accumulation
+4
+
+--- Page 6 ---
+ducapitaletdelaproductivitéglobaledesfacteurs.Bienplus,leseffortsd’améliorationde
+la productivité dû au Policy-mix affectent positivement les autres pays voisins de la com-
+munauté.Aceteffet,nousrecommandonsuneaméliorationdesinfrastructures(transports,
+télécommunications)afindefaciliterl’ouverturecommercialedespaysdelaCEMACsans
+littoral; d’aligner les conditions monétaires et le niveau des finances publiques des États
+membres à des objectifs précis notamment ceux relatives à l’ouverture commerciale; de
+poursuivrelesréformesvisantàdémantelertoutesformesdebarrièresinstitutionnellesqui
+entraveraient le transit entre les pays de la CEMAC; de poursuivre avec les mesures de
+stabilisation des prix tout en luttant contre l’insécurité transfrontalière; de développer les
+chainesdevaleurrégionalesafinquelespaysdelaCEMACpuissentsatisfairelademande
+de certains biens et services mutuellement au sein de la communauté et afin, améliorer la
+qualitédelagouvernance.
+5
+
+--- Page 7 ---
+1 Introduction
+Lorsqu’en 1999 le prix Nobel de sciences économiques est décerné au canadien Robert
+Mundell1 l’Académie Royale des sciences de Suède justifie son choix en ces termes : « Pour
+son analyse de la politique monétaire et fiscale dans différents systèmes de taux de change ...
+». Les travaux de Mundell ont jeté les bases du bien-fondé (c’est-à-dire de la logique ou de
+la rationalité économique) de l’architecture des plans de convergence des politiques fiscales
+(tels que, en Europe le Traité de Maastricht, en zone CEMAC2 les « critères de la surveillance
+multilatérale ») en union monétaire. Mais qu’à cela ne tienne, la question qui a toujours fait
+débatstantsurleplanthéoriquequ’empiriqueestledosagedesdeuxpolitiquesconjoncturelles
+disponibles à travers leurs instruments respectifs, pour l’atteinte de ces objectifs : il s’agit du
+Policy-mix.
+LePolicy-mixestdéfinicommeétantlacoordinationentrelespolitiquesbudgétairesnatio-
+nales et la politique monétaire commune, nécessaire en union monétaire (Wade, 2015). Il est
+aussiperçucommeuneactionglobalevisantàfaireinteragir,demanièreprudente,desmesures
+monétaire et budgétaire dans des conditions et des proportions pré-convenues dont la finalité
+est la stabilisation de l’activité économique (Strauss-Kahn et al., 2003). De manière générale,
+la littérature économique cherche à orienter les différents scénarios de Policy-mix susceptibles
+d’impacter les agrégats économiques (Tanimoune et al., 2012). Dans cette littérature, la nature
+dynamiqueoustatiqued’untelPolicy-mixaétéproblématique(Combey,2014).Cependant,le
+débat reste ouvert au sein de cette littérature qui se préoccupe à expliciter la nature du Policy-
+mix susceptible de stabiliser les chocs asymétriques (permanent ou transitoire). En dépit des
+récents développements qu’a connus la littérature sur ce sujet, la tendance dominante semble
+retenir qu’une meilleure organisation du Policy-mix doit être conçue dans le cadre d’un jeu
+entre trois acteurs (l’État, la banque centrale et les agents privés). L’enjeu d’un tel Policy-mix
+se concentre au degré de coordination entre ces acteurs et non plus en termes d’affectation
+(Yamani, 2012). Dès cet instant, le Policy-mix devient un jeu entre des agents rationnels qui
+s’analyse dans un cadre stratégique et non un jeu contre la nature (Desquilbet and Villieu,
+1998).
+1. Eneffet,dansuncontextedeglobalisationcaractériséeparunemobilitéaccruedescapitaux,Mundellmontre
+queplacéenrégimedetauxdechangeflottantlapolitiquemonétaireestefficaceetlapolitiquefiscaleimpuissante
+alors que l’inverse est vrai en régime de taux de change fixe : en régime de taux de change flottant, la valeur
+du taux de change résulte du marché et, de ce fait, la politique fiscale devient impuissante puisqu’elle affecte
+sensiblement l’offre et la demande de monnaie alors que en régime de change fixe la politique fiscale devient
+puissantecontrairementàlapolitiquemonétairepuisquel’autoritémonétaireperddésormaislecontrôledel’offre
+demonnaieconformémentauxenseignementsduthéorèmedu«triangled’incompatibilité».
+2. LacommunautéÉconomiqueetMonétairedel’AfriqueCentrale(CEMAC)estunespacegéographiqueet
+économiqueconstituéparsixpaysmembresquesont:leCameroun,leCongo,leGabon,laGuinée-Équatoriale,la
+RépubliqueCentrafricaineetleTchad.CetteZoneestdotéed’unemonnaiecommuneleFrancCFA(Coopération
+FinancièreAfricaine),émisparlaBanquedesÉtatsdel’AfriqueCentrale(BEAC).
+6
+
+--- Page 8 ---
+Fautedecoordination3 cespolitiquespeuventproduiredeseffetsdedébordementouspillo-
+verssousformed’uneconcurrenceentrelespolitiquesbudgétairesdesdifférentspaysmembres
+de l’union monétaire, avec des comportements stratégiques et des dépenses publiques exces-
+sives ou insuffisantes, selon que les autorités soient préoccupées par le chômage ou la balance
+commerciale(VanderPloegandMarkink,1991).Detellesdépenses,liéesaufaitquelestrésors
+publicsnationauxtententd’exporterleurchômage(BensaïdandGavrel,1993),peuventengen-
+drer à leur tour, un développement de l’inflation et porter atteinte à la crédibilité de la politique
+monétairecommunedel’union(BuiterandKletzer,1991).
+L’évolutionrécenteducadreconceptueletanalytiqueduPolicy-mix,s’agissantd’uneunion
+monétaire s’articule autour de trois (03) préoccupations majeures (Bekolo Ebe, 2016) : L’op-
+portunité du Policy-mix4; les objectifs et les instruments de Policy-mix, et les modalités et
+conditions de mise en œuvre de Policy-mix. Ainsi se pose-t-on entre autres des questions rela-
+tives à la gestion de la dette publique, aux implications de la dette sur la monnaie, au rôle de la
+Banque Centrale dans le financement de la dette, aux conséquences possibles sur la croissance
+de l’économie, aux conditions d’appui et d’assistance aux pays en difficulté, aux implications
+surlastabilitémacroéconomiquedel’ensembledel’union.Cettedernièrequestionestdevenue
+d’autant plus préoccupante que les risques d’un élargissement de la crise à des économies de
+plusgrandeampleur.
+Dans le cas des zones Franc5 UEMOA et CEMAC par exemple, la question des objectifs à
+assigner à la politique budgétaire en relation avec la lutte contre la pauvreté et la poursuite des
+investissements à travers la dépense publique d’une part, et d’autre part, celle du financement
+decesdépensesenrelationaveclesimportantesréservesaccumuléesparlesbanquescentrales,
+ont conduit, là aussi, à souligner l’actualité des réflexions relatives au Policy-mix. Au sein de
+la zone CEMAC, un Policy-mix trop rigide ou déséquilibré au cours de la décennie 1990 a
+contraint les sources de financement interne des pays membres, et a conduit à un endettement
+public excessif sur les marchés internationaux des capitaux qui ont conduit à de nombreuses
+3. Leproblèmedelacoordinationdespolitiquesbudgétaires:Leséconomiesdel’Unionontdesstructuresdif-
+férentesetsontcaractériséesparunebaseproductivenonélargie,unefragilitéconjoncturelleetunecompétitivité
+réduite,quilimitentl’efficacitédespolitiquesbudgétairesdurantlespériodesdecrisesoudechocs.
+4. VoirlafigureA1enannexe.
+5. Al’issuedeladévaluationdesfrancsCFAenJanvier1994,lesÉtatsmembresdelazoneFrancdécident,
+d’uncommunaccord,d’améliorerleprocessusd’intégrationrégionale.L’objectifpoursuiviestalorsdouble,d’une
+partréduirelerisqueélevédedésagrégationdel’unionmonétaireliéàcetajustementduchange,d’autrepartpré-
+venirlarésurgencedesdéséquilibresmacroéconomiquesàl’originedecetajustement.Cettevolontéd’approfondir
+leprocessusd’intégrationrégionale,enzoneFrancàl’issuedeladévaluation,setraduitauseindelazoned’émis-
+sionBEACparlasignature,le16Mars1994àN’DjamenaauTchad,duTraitédemiseenplacedelaCEMAC;
+commerelaisàladéfunteUDEAC(UniondouanièredesÉtatsdel’Afriquecentrale)crééejadisle08décembre
+1964 à Brazzaville au Congo. Au nombre des objectifs de cette communauté figure, en lieu et bonne place, la
+réalisation de la convergence (autrement dit de la coordination ou de la cohérence) des politiques nationales au
+moyendudispositifdelasurveillancemultilatéral.
+7
+
+--- Page 9 ---
+conséquencessocialeséconomiquesquisemanifestentencoreactuellement.
+Cette problématique reste centrale en zone CEMAC pour les raisons suivantes : le retour
+depuis 2011 des trésors publiques nationaux des États membres de la CEMAC sur le marché
+des titres publiques de la BEAC; l’importance de la situation des finances publiques des États
+membres dans la fonctionde réaction de la politique monétaire de la BEAC; la survenance des
+crisesnotammentéconomique,financièreetsanitaireexigeunniveauélevédecoordinationdes
+politiques économiques des pays membres afin de préserver la stabilité macroéconomique au
+sein de la communauté; l’obsolescence de la règle d’affectation des instruments qui postule
+une indépendance des deux politiques conjoncturelles dans le cadre d’une union monétaire
+(Sargent et al., 1981)6 et afin, la réforme de la politique monétaire survenue en 2013 marquée
+par l’élargissement de la liste des collatéraux admis au titre des contreparties notamment les
+titresd’empruntspublics.
+C’estaussiunsujetdoublementpertinentdanslamesureoù:d’unepart,devantunauditoire
+de banques centrales, membres d’unions monétaires, il revêt une dimension particulière parce
+que l’association d’une politique monétaire unique avec des politiques budgétaires nationales
+différentes requiert la mise en œuvre de solutions originales et d’autre part, il s’impose dans
+toute réflexion de fond sur l’avenir économique de l’Afrique à côté d’autres thèmes fondamen-
+taux,liésnotammentauxréformesstructurelles.
+L’objectif principal de ce papier est d’analyser les effets du Policy-mix sur la productivité
+en Zone CEMAC. Cette étude est d’une grande importante car, elle vise une amélioration de la
+coordinationdesinstrumentsdepolitiquesmonétaireetbudgétairepouruneimpulsionsensible
+surlesfacteursdelacroissanceéconomique.Anotreconnaissance,unetelleproblématiquen’a
+pas encore été étudiée empiriquement dans le contexte de la CEMAC. Cette étude est dans une
+certainemesureinnovatricecar,ellepermetde:(i)construireunindiceduPolicy-mixdelazone
+CEMAC permettant de regrouper en un seul indicateur, les interactions entre les impulsions
+monétairesetbudgétaires;(ii)d’analyserl’effetdecetindicesurl’accumulationducapitaletla
+productivité globale des facteurs7; de mobiliser les développements méthodologiques récents,
+notamment les techniques d’estimation des modèles de panel spatiaux-dynamiques, qui offrent
+desopportunitésdetenircomptedeseffetsdevoisinageetd’hétérogénéitéinobservésdespays
+membresdelazone,pouranalyserleseffetsduPolicy-mixsurlaproductivité.
+Au terme de notre analyse, les résultats montrent que le Policy-mix expansif accroît la pro-
+ductivitéàtraversuneaugmentationduniveaudel’accumulationducapitaletdelaproductivité
+6. Onadmettaitainsileprincipeque«chacundevaitbalayerdevantsaporte»expressionrégulièrementutilisée
+parJean-ClaudeTrichet,alorsPrésidentdelaBanqueCentraleEuropéenne(BCE),pourrepoussertouteidéede
+coordinationexantedesdeuxpolitiques.
+7. VoirlesfiguresA2etA3enannexe.
+8
+
+--- Page 10 ---
+globale des facteurs. Bien plus, les efforts d’amélioration de la productivité dus au Policy-mix,
+affectentpositivementlesautrespaysvoisinsdelacommunauté.
+Le reste du papier est structuré de la manière suivante : une revue de littérature relative
+à l’effet du Policy-mix sur les variables macroéconomiques est présentée dans la deuxième
+section;lasection3estconsacréeauxaspectsméthodologiques;lasection4décritlesdonnées;
+la section 5 procède à la présentation et discussion des résultats d’estimation, puis le papier se
+termineparuneconclusion.
+2 Revue de la littérature
+Nousexaminonslesdébatsthéoriquesrelatifsaulienentrelapolitiquemonétaireetlapoli-
+tiquebudgétairedanslecadredel’adoptiond’unPolicy-mixdanslapremièrepartiedelarevue
+de littérature. Par la suite, les principales études empiriques abordant l’effet du Policy-mix sur
+lesagrégatséconomiquesvontfairel’objetdeladeuxièmepartie.
+2.1 Débats théoriques sur le Policy-mix
+Le débat sur le Policy-mix est essentiellement orienté sur les questions suivantes : les po-
+litiques monétaire et budgétaire devraient-elles être expansionnistes ou restrictives? Ou l’une
+doit-elleêtrerestrictiveetl’autreexpansionniste?L’articulationdesdeuxpolitiquesdevrait-elle
+être dynamique ou statique? A ces interrogations non totalement élucidées, les expériences de
+Policy-mix menées montrent qu’une telle configuration est non seulement dynamique; mais
+aussi hétérogène d’une union monétaire à une autre. Toutefois, comme le montre Combey
+(2014), la différence est souvent liée à la nature de la configuration (restrictive, expansion-
+niste ou mix), au cadre institutionnel de gestion et surtout aux instruments utilisés ainsi qu’aux
+mécanismesdecoordinationdesautoritésmonétaireetbudgétaire.
+Dans sa vision traditionnelle, la question du Policy-mix se pose comme un problème de la
+gestion de la demande globale à travers des politiques de stabilisation (Mundell, 1962). Ainsi,
+il s’agit de mettre en évidence le dosage optimal des politiques monétaire et budgétaire qu’il
+faut pour stimuler non seulement l’activité économique, mais aussi stabiliser l’inflation. Le
+modèle keynésien postule qu’étant donné que ces deux instruments de politique économique
+transitent par le même canal (demande globale), aucune affectation optimale des instruments
+auxobjectifsnepeutêtreisolée.Ilseraitdoncindifférentd’affecterlapolitiquemonétaireoula
+politique budgétaire aux prix ou à l’activité. C’est ce que la littérature désigne par l’entonnoir
+keynésienoule«principedel’entonnoircommun»deTobin.
+9
+
+--- Page 11 ---
+Cette question soulève deux types d’enjeux; celui du type d’objectifs et d’instruments de-
+vant être utilisés et celui du bon usage des instruments. Ceci a conduit à l’émergence du théo-
+rèmed’affectationdeTinbergen(1952)8 etceluiduprincipedesavantagescomparatifsauxpo-
+litiques économiques de Mundell (1962). Toutefois, une extension de ce modèle dans le cadre
+d’une économie ouverte; et ce, en présence d’un régime de change (fixe ou flexible) et d’un
+degré de mobilité des capitaux; a donné naissance au modèle IS-LM-BP (Mundell-Fleming)
+dontlesenseignementsontétélargementdiscutésdanslalittérature.
+Dans ce nouveau cadre d’analyse, Mundell (1969) préconise l’affectation de la politique
+monétaire à l’équilibre externe et celle de la politique budgétaire à l’équilibre interne. Une
+telle règle génère quatre types de déséquilibres dont seules les situations d’excès de demande
+intérieure et d’excédent extérieur, puis d’excès d’offre intérieure et de déficit extérieur exigent
+l’emploiduPolicy-mixaccommodant.Celui-ciétantindifférentdanslecasd’excèsdedemande
+intérieureetdéficitextérieur,puisd’excèsd’offreintérieureetexcédentextérieur.Cependant,en
+présencedelatrappeàliquidité,Keynes(1936)subordonnelapolitiquemonétaireàlapolitique
+budgétaire. Ainsi, une telle politique d’accompagnement permet d’éviter l’effet d’éviction par
+letauxd’intérêttoutenconservantl’effetstimulantsurl’activité.
+Bien que constituant la référence de la doctrine du Policy-mix, le modèle de Mundell-
+Fleming ne semble plus en accord avec plusieurs caractéristiques des économies contempo-
+raines au regard de ses hypothèses parfois circonscrites9. En effet, face à la stagflation des an-
+nées70,lePolicy-mixkeynésienaétéremisencauseparnonseulementlesmonétaristes,mais
+aussi par la Nouvelle Economie Classique. Toutefois, l’essentiel de leurs recommandations a
+été affaibli par des évidences empiriques (Blinder, 1982); donnant plus d’échos à l’adoption
+du Policy-mix car les autorités ont des doutes sur la capacité de l’économie à s’auto-stabiliser
+comme le montrent ses détracteurs. Ainsi, à la suite du modèle d’incohérence temporelle des
+politiques optimales de Kydland and Prescott (1977), l’enjeu du Policy-mix se déplace du pro-
+blème de l’affectation vers celui de la coordination stratégique entre les autorités de politique
+économique.
+Au total, la formalisation théorique des différentes combinaisons d’un Policy-mix cohérent
+8. LethéorèmedeTinbergenouprincipedecohérence,établitlanécessaireégalitédunombred’instruments
+etd’objectifsindépendantsvisés.LarègledeMundell,ouprinciped’efficience,préconisequechaqueinstrument
+doitêtreaffectéàl’objectifoùsonefficacitérelativeestlaplusgrande.
+9. L’hypothèsederigiditédesprixestdésormaisdifficileàadmettre;(ii)-Mundellnesepréoccupepasdelady-
+namiquedumodèle:peut-onvraimentsesatisfaired’uneaugmentationpermanentedestauxd’intérêtpoursoigner
+un déficit externe, sans se soucier d’effets secondaires? (iv)- le modèle occulte l’inflation dans sa formalisation.
+Notons qu’une autre littérature a mis en évidence un policy-mix basé sur des régimes ricardien vs non ricardien
+(Confèrel’articledeBrand(2012)).
+10
+
+--- Page 12 ---
+a permis de noter trois scénarios10 possibles. Le tableau ci-après synthétise les différents scé-
+nariosetleurcadrethéoriquederéférence.
+TABLEAU 1 –RégimesdePolicy-mixetleurcadrethéoriquederéférence
+Naturesdespolitiques Politique Monétaire Politique Monétaire
+Expansionniste restrictive
+PolitiqueBudgétaireExpansionniste Policy-mixoptimalKeynésien Policy-mixoptimaldesmonétaristes
+PolitiqueBudgétaireRes- Policy-mix optimal de Cas atypique : pas de ré-
+trictive la Nouvelle Ecole Clas- férencethéorique
+sique
+Source:AuteursàpartirdeHoungbedji(2017).
+Ilestàfaireremarquerquel’adoptiond’unPolicy-mixdevientuneévidencesurleplanthéo-
+rique. Toutefois, la littérature a identifié deux types de risques qui lui soient associés. D’abord,
+la coordination entre les États : le risque est que certains pays ne participent pas à l’effort de
+stabilisation conjoncturelle (passager clandestin). Postérieurement, le second risque est que la
+banque centrale annule les efforts des États pour stabiliser la conjoncture en relevant (ou en
+n’abaissant pas) les taux d’intérêt lorsque la demande ralentit sous prétexte que les déficits
+augmentent (Schalck, 2006). Ces deux risques ont été très présents dans les débats de poli-
+tique économique et qui suggèrent l’adoption d’un Policy-mix concerté; dans la mesure où
+lesdits instruments sont interdépendants (Bénassy-Quéré et al., 2016). Mieux, cette littérature
+démontrequelelienentrelapolitiquemonétaireetbudgétairefonctionnedanslesdeuxsenset
+peutêtreaffaiblirauseind’uneunionmonétairehétérogène.
+Sil’approched’unecoordinationestretenuecommesolutionalternativepourfairefaceaux
+défis dans une union monétaire hétérogène, celle-ci dépend de la capacité des autorités moné-
+taires et budgétaires à s’engager de manière crédible (Gali and Monacelli, 2008; Grimm and
+Ried, 2007). En revanche, lorsqu’on s’intéresse aux problèmes de crédibilité, de stabilisation
+des chocs; la politique monétaire doit prendre en compte les données nationales et aussi les
+donnéesmoyennesdelazone(Villieu,1998;BadarauandLevieuge,2011).
+Au-delà, de cette littérature tumultueuse, Houngbedji (2017) dans une contribution récente
+débouche sur un résultat intéressant. A l’aide d’un modèle théorique (néo-keynésien), l’auteur
+montre qu’un Policy-mix concerté entre les autorités dans un modèle néo-keynésien, débouche
+sur un niveau plus élevé de production, associé d’une part, à un taux d’intérêt réel faible et
+10. Le4imescénariooùlesdeuxpolitiquessontrestrictivesestsouventécarté.Unetellestratégieestpréconisée
+dèslorsquel’originedel’inflationsesitueducôtédelademandeetnondel’offredemonnaie.
+11
+
+--- Page 13 ---
+d’autre part, à un niveau efficient de la dépense publique en présence d’un niveau d’inflation
+modérée.
+De toute évidence, la littérature théorique en la matière est riche en enseignements qui
+convergent vers une adoption d’un Policy-mix mais dont l’efficacité est conditionnée par plu-
+sieursfacteursnotammentledegréd’hétérogénéitédel’unionmonétaire.Telestlerésultatque
+nousmontrentlesétudesempiriquesyafférentes.
+2.2 Revue empirique
+Les études empiriques sur le Policy-mix adoptent des méthodologies variées et visent à
+appréhender les conditions de leur efficacité sous différents scénarios. Ces études peuvent
+être regroupées suivant trois grandes approches méthodologiques. Un premier groupe d’études
+cherche à mettre en évidence une éventuelle relation de complémentarité ou de substituabi-
+lité entre les instruments de politique économique à l’aide d’un modèle vectoriel autorégressif
+structurel.Auseindecegrouped’étudesrelativesauxpaysafricainsdelazonefrancCFA,l’on
+peutciterlesarticlesdeDramani(2007);Sarr(2011)puisNdiayeandKonte(2012).Cesétudes
+montrentque,lapolitiquebudgétairesecomportecommeunsubstitutàcellemonétaireenzone
+UEMOA,alorsqu’enzoneCEMAC,c’estl’effetdecomplémentaritéquil’emporte.
+Le deuxième groupe s’attèle à mettre en évidence les conditions d’efficacité d’un Policy-
+mix en adoptant trois types d’approches (Modèle d’Equilibre Général Calculable; le modèle
+d’équilibre général dynamique stochastique noté DSGE; et l’approche de Nordhaus, 1994;
+basé sur la théorie des jeux) auxquels l’on associe des calibrations numériques. A ce groupe,
+l’onassocielesarticlesde:Menguy(2005);BadarauSemenescuetal.(2008);Gaffard(2010);
+CombeyandNubukpo(2013).
+Ainsi,Menguy(2005)montrequ’enprésenced’unehétérogénéitéstructurelleentrelespays
+membres, les fonctions de réactions budgétaires se trouvent modifiées. Ceci peut inciter la po-
+litique budgétaire à devenir restrictive et complémentaire à la politique monétaire dans l’un
+des pays membres. D’où naît une source potentielle de conflits d’objectifs entre les autori-
+tés débouchant sur une inefficacité du Policy-mix. Par contre, Villieu (2008) dans un contexte
+d’hétérogénéité,soutientl’idéeselonlaquelleunsystèmedeciblaged’inflationetdesdépenses
+publiquespeutsesubstitueràlacoopérationbudgétaireetprocurerunoptimumdesecondrang
+pour l’union monétaire. A sa suite, Forlati (2009) révèle que, pour qu’un Policy-mix soit effi-
+cace,letauxd’intérêtnominaldevraitêtreutilisépourstabiliserl’inflationmoyennedel’union
+monétaire alors que les fluctuations moyennes en dépenses de l’État devraient assurer une pro-
+vision en biens publics. Cette conclusion a suscité une réaction dans la littérature. Ainsi, alors
+12
+
+--- Page 14 ---
+que Badarau Semenescu et al. (2008) indique qu’une réponse optimale de la politique moné-
+taire à une expansion budgétaire serait une modification de ses cibles d’inflation et de revenu;
+Schalck (2006), quant à lui, souligne que, pour avoir un Policy-mix efficace, la gestion des
+chocs d’offre doit être attribuée à la politique monétaire, et celle des chocs de demande à la
+politiquebudgétaire.
+A la lumière de la récente crise économique et financière de 2007-2008, Combey and Nu-
+bukpo (2013) ont cherché à apprécier l’effet d’un Policy-mix sur les principales variables ma-
+croéconomiquesàl’aidedessimulationsissuesdelathéoriedejeu.Lesrésultatsdecetteétude
+montrentque,l’équilibreensituationdecoordinationpermetd’obtenirdesniveauxd’optimum
+sociaux des principales variables macroéconomiques (la production, l’inflation, le taux d’inté-
+rêt et le déficit). Par contre, l’équilibre de Stackelberg produit un niveau de déficit et de taux
+d’intérêtinférieuràceluidel’équilibredeNash.
+Autotal,lesrésultatsissusdecesapproches,mêmes’ilssontpertinents,peuventêtreremis
+encauseauregarddesparamètresdecalibrationutiliséspourlesdifférentessimulations.Enef-
+fet,lesparamètresutilisés(pourlaplupart)nereposentpassurdesjustificationsniéconomiques
+ni empiriques. Ils sont considérés comme des variables aléatoires auxquelles l’analyste affecte
+des distributions apriori afin depouvoir procéderaux estimations. De même, les valeurs prises
+par ces paramètres sont identiques à celles que l’on retient dans les études de ce genre au sein
+despaysindustriels.Toutetentativedetranspositiondecesparamètresdanslesétudesrelatives
+aux économies n’ayant pas les mêmes structures que celles des pays industriels, biaiserait les
+résultats.
+Mieux, bien que le modèle DSGE donne des résultats pertinents dans la portée du Policy-
+mix,ilnepermetpasd’avoirunerésolutiondemanièreanalytiqueetl’intuitionestdoncdifficile
+àpercevoir.Ilseconcentresurlesrésultatsdestabilisation,desfluctuationsetneconsidèrepas
+les niveaux à moyen et long terme (Hallett et al., 2011). Pour contourner ces limites évoquées,
+une autre littérature empirique aborde des techniques innovantes. Il s’agit de l’évaluation des
+indicateurs monétaire et budgétaire. Ce troisième groupe d’études repose sur une extension de
+la théorie néo-keynésienne du Policy-mix. Une telle extension se fonde sur l’évaluation, puis à
+l’estimationdesindicateursdeconditionsbudgétaireetmonétaire.
+Par la suite, l’on procède à des spécifications de type effet croisé et de discrimination des
+différents régimes de Policy-mix ou de calcul d’un indicateur synthétique de Policy-mix11. Si
+lalittératureenlamatièreestflorissanteauseindespaysindustrialisésnotammentdanslazone
+11. L’IPM synthétise en une seule variable, les indices de condition monétaire et budgétaire. Il est calculé à
+l’aidedelaformulesuivante:IPM=ICM−k∗ICB.LePolicy-mixestrestrictif(expansif)siIPM<0(IP>0).Le
+Policy-mixestneutre(siIP=0).Aveckreprésentel’effetmultiplicateurdesimpulsionsbudgétairessurl’activité
+économique.
+13
+
+--- Page 15 ---
+EURO, elle est très peu abondante dans la zone UEMOA. Les études faites suivant cette ap-
+proche à notre connaissance pour cette union, sont celles d’Tanimoune et al. (2012) puis Com-
+bey (2014). En effet, Tanimoune et al. (2012) ont cherché à apprécier l’impact réel du Policy-
+mix sur l’activité économique de la Communauté Économique des États de de l’Afrique de
+l’Ouest(CEDEAO).LesrésultatsdecetteétudemontrentquelacohérenceduPolicy-mixn’agit
+surl’activitééconomiquequelorsquecelle-ciestdanssaphaseexpansionniste.Parcontre,l’in-
+fluencedelacohérenceduPolicy-mixsurl’activitééconomiques’exerceraitavecplusd’acuité
+au sein de l’UEMOA dans tous les régimes à l’exception de celui de la politique monétaire
+expansionnisteetdelapolitiquebudgétairerestrictive.
+Contrairement à l’étude précédente et sur la base des travaux de L’Angevin and Montagné
+(2006), Combey (2014) évalue un indice synthétique de Policy-mix qu’il utilise pour appré-
+cier son effet sur l’inflation et la croissance économique dans un modèle de panel spatiaux-
+dynamiques. Les résultats d’estimation montrent que le Policy-mix de l’UEMOA dans l’état
+actuel,neconcourtqu’àlastabilitédesprixsanspourautantproduireuneffetsurlacroissance
+économiquedelongterme.Bienquelerésultatissudesonétudesoitd’uneportéeavérée,cette
+contributionn’apassumettreenévidencedemanièreexplicite,lerégimeduPolicy-mixappro-
+prié à adopter afin de faire face à la mission de stabilisation macroéconomique et de soutien à
+l’économie de la zone. Ceci est dû à la méthode d’évaluation du Policy-mix qui ne permet pas
+de mettre en évidence la nature du régime du Policy-mix adopté. Toutefois, la démarche sui-
+vie par Tanimoune et al. (2012) nous paraît plus intéressante. Celle-ci confère au modélisateur
+uneflexibilitéenmatièredediscriminationdesrégimessuivantd’autreshypothèsessupplémen-
+taires.Enfin,Houngbedji(2017)caractériselesdifférentsrégimesdePolicy-mix(accommodant
+ounon)susceptiblesdemieuxstabiliserleschocsasymétriques(transitoiresoupermanents)au
+sein des pays de l’Union Économique et Monétaire Ouest Africaine (UEMOA) sur la période
+1982-2014.Apartird’unmodèleempiriqueadoptéparTanimouneetal.(2012)auquell’auteur
+aadjointdeshypothèsessupplémentairesaussibiendansl’évaluationdel’indicedesconditions
+monétaireetbudgétairequedanslesdifférentesspécificationssurlesdonnéesdepanel,l’étude
+montre que l’adoption d’un régime de Policy-mix est tributaire dans son efficacité à la nature
+et à l’horizon des chocs asymétriques. Ainsi au regard de la vulnérabilité très poussée de l’UE-
+MOA aux chocs asymétriques permanents (extérieurs et d’offre). Les résultats des estimations
+révèlent que l’adoption d’un Policy-mix dans lequel la politique monétaire est restrictive alors
+que la politique budgétaire est expansionniste, pourrait mieux stabiliser lesdits chocs plus que
+toutautrescénario.
+Autotal,ilressortdecettelittératurequel’effetdelastabilisationdeschocsasymétriquesà
+partir d’un Policy-mix est conditionné par non seulement, l’hétérogénéité structurelle, le degré
+d’asymétrie des chocs, mais aussi et surtout par la dimension temporelle des chocs (temporels
+14
+
+--- Page 16 ---
+ou permanents) et leur nature (les chocs d’offre externe). Il s’ensuit que plus l’union monétaire
+estimons hétérogène, en présence d’une convergence des chocs, plus la stabilisation des chocs
+asymétriques par une telle politique se renforce mutuellement. Ceci appelle une synergie d’ac-
+tion entre les autorités monétaire et budgétaire dans le but de réduire le niveau d’hétérogénéité
+structurelleauseindecetteunion.
+3 Stratégie méthodologique
+3.1 Cadre théorique d’analyse
+L’inclusion des effets spatiaux dans la modélisation de la croissance économique est géné-
+ralement motivée par des considérations à la fois théorique et empiriques liées aux données.
+Le cadre théorique de la modélisation économétrique spatiale de la croissance économique re-
+monte à Barro and Sala-i Martin (1990); Quah (1996), en particulier sur la notion de club de
+convergence spatiale Rey (2001); Chih et al. (2022). L’effet indirect de la valeur de la produc-
+tion/revenudanslafonctionobjectived’unpaysprisindividuellementest:
+U(y,z,M,P,X) (1)
+i i i i i
+y estlavariablededécisionchoisieparlepaysi,z estlaquantitédefacteursdeproductionen
+i i
+facteurs de production disponible pour le pays i, M et P désigne les conditions monétaires et
+i i
+la situation des finances publiques du pays i. X est un vecteur de caractéristiques exogènes du
+i
+paysiquiaffectentlaprisededécisiondemanièreexogène.L’interactionentrelespaysdépend
+desfacteursdeproductiondistribuésentreeux,c’est-à-diredescaractéristiquesdel’appareilde
+production de chaque pays, des conditions monétaires et de la situation des finances publiques
+despaysdesortequeladécisionpriseparlesautrespaysest:
+z =F(y,y ,M,M ,P,P ,X) (2)
+i i −i i −i i −i i
+y est la variable de décision prise par tous les autres pays autres que le pays i. M et P
+−i −i −i
+représentent les conditions monétaires et la situation des finances publiques des autres pays
+autres le pays i. En considérant Y comme la variable intégrant y, M, P et Y la variable
+i i i i −i
+intégranty ,M,P,aprèsavoirinséré(2)dans(1),lesvariablesd’interactionY fontpartiede
+−i i i −i
+lafonctionobjective,cequidonnelafonctionderéaction(3)pourleseffetsdedébordement:
+Y =Z(Y ,X) (3)
+i −i i
+15
+
+--- Page 17 ---
+La fonction de réaction spatiale (3) indique comment la magnitude d’une variable de décision
+économique pour un pays dépend de la magnitude de la variable de décision économique fixée
+par d’autres pays. Il s’agit d’un modèle à décalage spatial ou modèle autorégressif spatial (An-
+selin and Florax, 1995; Combey, 2014). Ainsi, nous avons donc décidé d’utiliser un modèle
+autorégressifspatialpourmesurerleseffetsduPolicy-mixsurlaproductivitédelaCEMAC.
+3.2 Spécification empirique
+Nous utilisons des modèles autorégressifs spatiaux incorporant l’accumulation du capital
+et la productivité globale des facteurs (PGF) comme variables dépendantes ont été développés
+dans le but de saisir les effets du Policy-mix sur la productivité dans la CEMAC. Pour cela,
+Nous débutons l’analyse par un test de corrélation spatiale de l’accumulation du capital et la
+PGF, en utilisant la valeur I de Moran (Moran, 1948). Ensuite, Nous avons exécuté le modèle
+autorégressif spatial généralisé en panel pour saisir les effets du Policy-mix sur la producti-
+vité en zone CEMAC. Selon Anselin (2002) et Combey (2014), le modèle autorégressif spatial
+s’écritcommesuit:
+Y =ρWY +γIPM+Xβ +ε (4)
+W estunematricedepoidsspatiauxn×n,ρ estlecoefficientautorégressif,IPM estl’indicede
+Policy-mixspatialetε estletermed’erreur.LaformeWY estlamoyennespatialepondéréedela
+valeurdeY dansleslieuxvoisins,oudécalagespatial.X estlevecteurdesvariablesexplicatives.
+L’accumulation du capital et la PGF sont supposés être des fonctions de leur décalage spatial
+et de variables exogènes supplémentaires. Les modèles empiriques régressifs de panel spatial
+respectifspourl’accumulationducapitaletlaPGF sontalors:
+Kstock =ρWKstock +γIPM +X β +ε (5)
+it it it it it
+PGF =ρWPGF +γIPM +X β +ε (6)
+it it it it it
+oùKstock désignel’accumulationducapital,PGF estlaproductivitétotaledesfacteurs,iest
+it it
+lepaysettdésignelapériodedetemps.W estunematricedepoidsspatialnormaliséeparligne
+avecunélémenttypiquew :
+ij
+ 
+0 w ...w
+12 1n
+ w 0 ...w 
+ 21 2n 
+W =  . . . ... . . .  
+ 
+w w ...0
+n1 n2
+16
+
+--- Page 18 ---
+Chaque élément w représente une mesure de proximité entre l’emplacement i et l’emplace-
+ij
+ment de j. Nous avons défini le critère de contiguïté de telle sorte que w soit égal à 1/ni; ni
+ij
+étant le nombre d’éléments non nuls dans la ime ligne deW. L’élément de la ligne est non nul
+si l’emplacement i et l’emplacement j sont des emplacements adjacents, et nul sinon (voir ta-
+bleauA1enannexe).WKstock etWPGF représententlesvaleursdeseffetsdelaproductivité
+it it
+voisine pour l’accumulation du capital et la PGF, respectivement, et sont égales à Kstock et
+PGF multipliéesparW,respectivement.Nousconsidéronsunematricedepoidsspatialavecun
+élément typique w . Avant d’être normalisé par ligne, l’élément de la matrice de poids spatial
+ij
+estégalà1lorsquelepaysietlepays j sontdespayspartageantlamêmefrontière,età0dans
+le cas contraire. Les variables exogènes supplémentaires sont données par X , qui couvre les
+it
+variables économiques, financières et institutionnelles, qui ont été sélectionnées ici en fonction
+delalittératureempirique.
+Nous avons recours à une spécification log-linéaire. En effet, elle a l’avantage de donner
+une forme réduite pour l’estimation, où les coefficients représentent l’élasticité. Comparée à
+une spécification linéaire, la spécification log-linéaire est plus appropriée pour les modèles im-
+pliquantdesinteractionsspatiales(Huang,2019).
+Pour estimer le modèle autorégressif spatial généralisé en panel, nous avons utilisé une
+méthodedesmoindrescarrésàdeuxétapes(2SLS)(Shehata,2012):
+K
+1
+ln(Kstock )=ρ ln(WKstock )+γIPM +β ∑ ln(X )+ε (7)
+it i it it i it it
+k =1
+1
+K
+1
+ln(PGF )=ρ ln(PTF )+γIPM +β ∑ ln(X )+ε (8)
+it i it it i it it
+k =1
+1
+4 Description des données et aire géographique d’étude
+L’étudeportesurdeuxpériodesetquidéterminentdeuxmodèles.Lepremiermodèleintègre
+lapériode2007-2012etledeuxièmemodèleportesurlapériode2014-2018.Cettedivisionper-
+met de capter l’effet du Policy-mix sur la productivité (activité économique) à différentes posi-
+tions de l’économie dans le cycle afin d’étudier les effets de coordination des deux politiques
+économiquesconjoncturellessurlaproductivité.
+Afin de capter l’accumulation du capital nous avons recours au stock de capital aux prix
+nationaux constants de 2011 évalué en millions de dollars US. Il est constitué des installations,
+des équipements et des autres actifs qui contribuent à la production. La PGF quant à elle est
+17
+
+--- Page 19 ---
+une mesure de l’efficacité de la production (activité économique), en ce sens qu’elle mesure
+la quantité d’extrants pouvant être produite à partir d’une certaine quantité d’intrants. Elle est
+calculée en divisant la production par la moyenne géométrique pondérée des intrants travail
+et capital, avec une pondération standard de 0,7 pour le travail et de 0,3 pour le capital. Les
+données de ces variables sont issues de la base Penn World Table 9.1 (Feenstra et al., 2015).
+L’observation du niveau de l’accumulation du capital et de la PGF dans la CEMAC soulève
+bien un contraste. En effet, l’accumulation du capital est évoluée à la hausse alors que la PGF
+diminue progressivement (voir figure A3 en annexe). Cette situation peut s’expliquer par les
+nombreux chocs exogènes, particulièrement les cours du pétrole qui ont frappé les pays de la
+CEMAC.
+LavariablepermettantdecapterlePolicy-mixestobtenueàpartirdel’indicedeconditions
+monétairesetlesoldebudgétairedebasesuivantlaformulesuivante:
+IPM =∆ICM−χ∆SBB (9)
+avec χ représente est un paramètre qui traduit l’effet multiplicateur des impulsions budgétaires
+sur l’activité économique. ICM est l’indice des conditions monétaires12 et SBB est le solde
+budgétairede basestructurel.Surla basedesvaleurs obtenuesparl’indicede Policy-mix,nous
+apportonsuneinterprétationbaséesurlesanalysesdeCombey(2014).
+— Pour un IPM ≻ 0, le Policy-mix est qualifié d’expansif dans la mesure où les condi-
+tionsmonétairespermettentnonseulementàlapolitiquebudgétairedejouersonrôlede
+stabilisation en plus de ceux d’allocation et de redistribution, mais aussi de favoriser la
+relancedurabledel’activitééconomique;
+— Pour un IPM ≺0, le Policy-mix est restrictif, dans ce cas l’effet des conditions moné-
+tairesnepermettentmêmepasàlapolitiquebudgétairedejouersonrôledestabilisation
+delademandeetdesoutienàl’activitééconomique;
+— Pour unIPM =0, le Policy-mix est neutre. Ni les conditions monétaires, ni la politique
+budgétaire ne peuvent jouer leur rôle de stabilisation de la demande et de soutien à
+l’activitééconomique.
+L’ICM est considéré comme un indicateur du degré d’assouplissement ou de durcissement
+des conditions monétaires, qui, de par sa construction permet de mesurer l’impact des impul-
+sionsdepolitiquesmonétairessurl’activitééconomique.L’évolutiondel’indicedesconditions
+monétaire et du solde budgétaire de base dépend dans une grande mesure de la conjoncture
+économie.C’estpourquoi,cetteévolutionestendentsdescie(voirfigureA2).
+12. Nousnoussommesbaséssurlaméthodologiedelaconstructiondel’ICMdelaBEACenyapportantdes
+modifications.Laconstructiondel’ICMestenannexe3.
+18
+
+--- Page 20 ---
+Par la suite nous recourons à cinq variables de contrôle. Premièrement, les dépenses gou-
+vernementales en pourcentage du PIB. Il s’agit des dépenses de consommation des biens finals
+réalisées par l’État et les collectivités territoriales décentralisées. Cette variable permet de cap-
+ter à la fois la stabilité macroéconomique et l’importance du rôle de l’État dans l’appareil de
+production nationale. Deuxièmement, le crédit intérieur accordé au secteur privé en pourcen-
+tage du PIB pour capter le niveau de développement financier. L’idée derrière cette variable
+est de montrer l’effet du financement bancaire dans la création des richesses. Troisièmement,
+l’ouverture commerciale captée par la somme des exportations et des importations en pourcen-
+tageduPIB.Ilpermetdecapterl’importanceduphénomèned’inflationimportéequijustifieles
+prix des intrants et donc les coûts de production dans certain secteur d’activité d’une part et le
+niveau de compétitivité de l’économie nationale d’autre part. Quatrièmement, l’investissement
+privé capté par la formation brute du capital fixe en pourcentage du PIB. La relation entre l’in-
+vestissement privé et la productivité (activité économique) tient au fait que des investissements
+sectoriels engendrent une hausse du stock du capital et de l’innovation nécessaire pour rentre
+lessecteursd’activitéplusproductifsetdefactopluscompétitifs(Creeletal.,2015).Cesquatre
+variables proviennent de la base World Development Indicator (WDI) de la Banque Mondiale
+édition 2020. Enfin, nous utilisons la variable Polity2 pour capter la qualité des institutions.
+Cette variable met en exergue l’importance du régime politique dans l’appareil productif de
+l’économienationale.ElleestissuedePOLITYIVProject(Marshalletal.,2018).
+Lesstatistiquesdescriptivessontprésentéesdansletableau2.Ilressortdecetableauquela
+variable IPM présente des niveaux d’écart-types (modèle 1 et 2) relativement plus élevés que
+les autres variables. Cela suggère qu’il existe une relative hétérogénéité dans la distribution de
+lavariableenfonctiondespaysdelasous-région.
+TABLEAU 2 –Statistiquesdescriptives
+Modèle1 Modèle2
+Moyenne Ecart-type Moyenne Ecart-type
+Kstock 11,036 0,848 11,461 0,702
+PGF 0,415 0,071 0,393 0,141
+IPM 0,461 29,788 -2,875 27,324
+Depgouv 2,298 0,305 2,489 0,508
+Findev 1,889 0,480 2,592 0,265
+Openness 4,357 0,484 4,341 0,406
+FBCF 3,174 0,374 3,172 0,246
+Polity2 5,340 1,234 4,023 1,001
+Source:Auteurs.
+L’airegéographiqueregroupelessixpaysdelaCEMACàsavoirleCameroun,larépublique
+Centrafricaine, la république du Congo, le Gabon, la Guinée-Équatoriale et le Tchad. La figure
+19
+
+--- Page 21 ---
+1,présentelacartegéo-référencéedelaCEMAC.Apartirdecettecarte,nousavonsressortiun
+ensemble d’éléments permettant de capter les différentes relations spatiales entre les pays. Les
+graphesdeconnectivitésspatialesétablissentlesliensunpaysetlesautressurlabasedupartage
+de la frontière (Voir figure A4 en annexe). Ainsi, il en ressort que seul le Cameroun est lié aux
+autres pays de la CEMAC. De plus, la république Centrafricaine est liée à quatre autres pays
+de la CEMAC alors la Guinée-Équatoriale et le Tchad ne sont liés qu’à deux pays. Ce résultat
+montre que sur le plan spatial, l’activité des autres pays de la CEMAC pourrait être corrélée
+aveccelleduCamerounnotammentsurleplanducommerceextérieuretdudéveloppementpar
+exemple.
+FIGURE 1 –Cartegéo-référencéedelaCEMAC
+Source:Auteursàpartirdesdonnéescartographiques.
+5 Résultat et discussion
+Pour estimer les équations (7) et (8), nous avons utilisé l’estimateur GS2SLSAR (Gene-
+ralized Spatial Panel Autoregressive Two-Stage Least Squares Regression) sur la base de la
+codificationeffectuéeparShehata(2012)surStata.Apartirdecettecodification,nouspouvons
+présenter les résultats des paramètres du modèle spatial en panel. Cependant, il est judicieux
+20
+
+--- Page 22 ---
+de présenter au préalable le test d’autocorrélation spatiale de Moran I (Chen, 2013) pour les
+deux modèles avec les régresseurs endogènes (Tableau 3). L’autocorrélation spatiale peut être
+positive ou négative. Dans le cas d’une autocorrélation positive, les valeurs élevées d’un pays
+i sont en corrélation avec des valeurs élevées des pays voisins. C’est également le cas pour les
+valeurs faibles du pays i qui sont en corrélation avec les valeurs faibles des pays voisins. En ce
+quiconcerneuneautocorrélationspatialenégative,lesvaleursélevéesd’unpaysisontcorrélés
+avecdesvaleursfaiblesdespaysvoisinsetviceversa(Huang,2019).
+5.1 Analyse de la corrélation spatiale de l’accumulation du capital et la
+productivité globale des facteurs
+Le tableau 3 présente un résumé des résultats des tests de corrélation spatiale pour l’accu-
+mulationducapitaletlaproductivitéglobaledesfacteursparmodèle.
+LesvaleursdutestIdeMoranpourl’accumulationducapitaldanslesmodèles1et2étaient
+de 0,725 et 0,548 (statistiquement significative) respectivement, ce qui indique une forte corré-
+lation spatiale positive entre l’accumulation du capital élevée du pays i et celle de ses voisins
+en 2007-2012 et 2014-2018. La corrélation spatiale de la productivité globale des facteurs était
+statistiquementsignificativedanslemodèle1,avecunIdeMorande0,795.Celasignifiequ’un
+niveau de productivité globale des facteurs élevé dans un pays i était corrélé à un niveau de
+productivité globale des facteurs élevé dans les pays voisins. Toutefois, la corrélation spatiale
+correspondantedanslemodèle2n’estpasstatistiquementsignificative.Laperformancedutest
+aconfirmél’existenced’uneautocorrélationspatialedansletermed’erreurdesdeuxéquations.
+Ces corrélations spatiales positives de l’accumulation du capital et de la productivité globale
+desfacteursjustifientl’utilisationdumodèleautorégressifspatialenpanel.
+TABLEAU 3 –RésultatsdutestIdeMoranpourlacorrélationspatiale.
+Variable TestIMoran P-value
+Accumulationducapital(modèle1) 0,725 0,004
+PGF(modèle1) 0,795 0,009
+Accumulationducapital(modèle2) 0,548 0,011
+PGF(modèle2) 0,677 0,156
+Source:Auteurs.
+21
+
+--- Page 23 ---
+5.2 Analyse et discussion des facteurs de l’accumulation du capital et de
+la productivité globale des facteurs
+Sur la base de la matrice de contiguïté conçue pour traduire la relation de voisinage, nous
+avonsestimélemodèleautorégressifenpanelspatial.Lescoefficientsdestermesspatiaux(ma-
+trice de poids spatial multipliée par l’accumulation du capital et matrice de poids spatial mul-
+tipliée par la productivité globale des facteurs) dans les deux modèles étaient statistiquement
+significatifs (tableau 4). La valeur des coefficients du terme spatial pour l’accumulation du ca-
+pital dans le modèle 1 a été estimée à 0.0624, et dans le modèle son coefficient de la valeur du
+termespatialestde0.0410.Cescoefficientssontstatistiquementsignificatifsà10et5%respec-
+tivement. En ce qui concerne la productivité globale des facteurs, les coefficients de la valeur
+dutermespatialsontrespectivementde0.0140(modèle1)et0.0189(modèle2)avecunesigni-
+ficativitéde5%et10%.Cesrésultatssuggèrentquel’accumulationducapitaletlaproductivité
+globale des facteurs des pays voisins ont affecté celles de l’économie du pays i. Cela confirme
+bien l’importance des analyses géographiques des modèles de croissance économiques (Chih
+etal.,2022).
+L’un des facteurs les plus important et qui constitue la pierre angulaire de cette étude est
+le Policy-mix. Le but est d’identifier l’influence du Policy-mix sur la productivité dans la CE-
+MAC. En effet, les coefficients associés à la variable IPM sont positifs et significatifs pour le
+modèle2alorsqu’ilssontnon-significatifspourlemodèle1.Lesrésultatsmontrentainsiquele
+Policy-mix affecte positivement la productivité. Ainsi, les conditions monétaires permettent à
+lapolitiquebudgétaireàtraverslesfinancespubliquesdesÉtatsmembresderéaliserdesinves-
+tissementsproductifsencapitalàforteffetd’entrainementd’unepartetd’améliorerl’efficacité
+techniqueetallocativeduprogrèstechniqueetdeschangementsderendementsd’échelle(Com-
+bary and Savadogo, 2014; Tule et al., 2020). L’existence d’une politique monétaire et le retour
+des trésors nationaux sur le marché des titres publics alignent les conditions monétaires et la
+réactiondesfinancespubliquesdesÉtatsàunniveaucompatibleavecl’acquisitiondenouveaux
+équipements,lerenforcementdesstocksetledéveloppementdelarechercheetdéveloppement
+auseindesentreprises.Unfaitmarquantqu’ilestimportantdesoulignerestquelasynchronisa-
+tionentrelespolitiquesmonétaireetbudgétaireestrelativementplusélevéeenpériodedecrise.
+Celas’expliqueprincipalementparlefaitqu’enpériodedecrise,lemécanismecommunautaire
+destabilisationetderelanceéconomiqueallantjusqu’àdesrencontresinter-états.
+Ces mécanismes impliquent une forte coordination des politiques monétaire et budgétaire
+afin de mettre en place un cadre économique permettant de relancer les investissements (privé
+et public), les dépenses gouvernementales et l’acquisition de nouveaux procédés au sein des
+entreprises pour une sortie de crise. Cependant, en période de bonne conjoncture le besoin de
+22
+
+--- Page 24 ---
+coordination des deux politiques conjoncturelles connaît un relâchement ce qui pourrait expli-
+querlanon-significativitéduPolicymixsurlaproductivitéen2010.
+TABLEAU 4 –EffetdePolicy-mixsurlaproductivitédanslaCEMAC
+Variabledépendante:Productivité
+GS2SLSAR
+Modèle1 Modèle2
+Kstock PGF Kstock PGF
+Wy 0,0624* 0,0104** 0,0410** 0,0189*
+(0,01605) (0,0147) (0,0654) (0,0420)
+IPM 0,00751** 0,0104 0,053*** 0,01547***
+(0,07201) (0,0147) (0,04018) (0,0287)
+Depgouv 0,2275* 0,0274** 0,0124** 0,075
+(0,1147) (0,1109) (0,01245) (0,0214)
+Findev -0,0257** 0,001047 -0,0210** 0,02104
+(0,01748) (0,02641) (0,01845) (0,0472)
+Openness 0,02104** 0,0117*** 0,0419* 0,00167**
+(0,04137) (0,01024) (0,02145) (0,0219)
+FBCF 0,2389** 0,01054* 0,0374* -0,0715
+(0,04178) (0,02104) (0,04127) (0,0681)
+Polity2 0,0312* 0,029* 0,0214** 0,00174*
+(0,0214) (0,0845) (0,01233) (0,0401)
+Constance 1,5712** 1,0845* 0,2145* 0,0286
+(0,124) (1,0478) (0,0215) (0,1007)
+Observations 144 136 144 136
+Testdevaliditéglobaldumodèle
+TestdeWald 1021,42*** 1219,231* 801,1045*** 789,549***
+Rajusté 0,6037 0,6117 0,556 0,589
+Notes:GS2SLSAR=GeneralizedSpatialPanelAutoregressiveTwoStage
+LeastSquaresRegression,***p<0,01,**p<0,05,*p<0,1.
+Lesvariablesdecontrôleutiliséeslivrentégalementdesrésultatsimportants.Premièrement,
+il existe une relation positive et significative entre la valeur des dépenses gouvernementales et
+la productivité. Ainsi, l’augmentation de la valeur des dépenses gouvernementales en pourcen-
+tage du PIB accroit le niveau d’accumulation du capital et celui de la productivité globale des
+facteurs de 0,2274 et 0,0274 point de pourcentage dans le modèle 1. Toutefois, seul l’effet de
+la valeur des dépenses gouvernementales est positif et significatif sur le niveau d’accumula-
+tion du capital dans le modèle 2 (0,0124 point de pourcentage). Ces résultats suggèrent que les
+dépenses publiques accroissent le niveau de la productivité dans un contexte marquée par une
+bonneconjoncture(haussedesprixdesmatièrespremièresparexemple).Cependant,enpériode
+de crise, la valeur des dépenses gouvernementales augmentent certes l’accumulation du capital
+23
+
+--- Page 25 ---
+maisl’effetestmoinsimportant.Ilenestdemêmepourl’investissementprivécaptéparlafor-
+mation brute de capital fixe en pourcentage du PIB. Deuxièmement, la relation entre niveau de
+développementfinanciercaptéparlecréditintérieuraccordéausecteurprivéetl’accumulation
+du capital est négative et significative. Cependant, aucune relation significative n’a été trouvée
+entre le développement financier et la productivité globale des facteurs. Une augmentation du
+Malgrélefaitquelafinanceindirectesoitlaprincipalemodalitédefinancementdeséconomies
+delaCEMAC,lecréditbancairesembleêtreévincéauprofitdestitrespublicspourlesquelsles
+spécialistes en valeur du trésor sont principalement les banques commerciales. C’est pourquoi,
+le financement bancaire alloué au secteur privé et public pour l’acquisition de nouveaux équi-
+pements,l’entretiendesstocksetledéveloppementdesnouvellescapacitéscognitive,auneffet
+plusfaiblesurl’accumulationducapitalcomparativementauxdépensesgouvernementales.
+Troisièmement, la relation entre l’ouverture commerciale et la productivité est positive et
+significative pour les deux modèles. Ce résultat suggère qu’une augmentation du degré d’ou-
+verturecommercialeparlerenforcementduniveaud’absorptiondel’économieaccroîtleniveau
+d’accumulation du capital (0,0214 et 0,0117 point de pourcentage) et celui de la productivité
+globale des facteurs (0,0419 et 0,00167 point de pourcentage). En fin quatrièmement, la va-
+riablePolity2affectepositivementetsignificativementlaproductivitédanslaCEMAC(modèle
+1 et 2). Une augmentation de Polity2 accroît le niveau d’accumulation du capital (0,0312 et
+0,029 point de pourcentage) et de la PGF (0,0214 et 0,00174 point de pourcentage). En ef-
+fet, un régime démocratique marqué par une bonne gouvernance implique une diminution de
+la recherche de rentes politiques, économiques et juridiques, ce qui peut baisser les coûts de
+transaction. Cela aboutit à des niveaux élevés d’application des règles notamment en matière
+d’investissements dans le développement de l’allocation des ressources pour une amélioration
+duniveaud’accumulationducapitaletlaPGF.Alasuitedecesrésultatsdebase,nouspassons
+àl’analysedelarobustesse.
+5.3 Analyse de la robustesse des résultats du modèle de base
+Notre analyse de la robustesse se base principalement sur le changement de la technique
+d’estimation. En effet, nous avons recours à la méthode linéaire sur données de panel spa-
+tialesdynamiquesd’Arellano-Bond(ArellanoandBond,1991;KukenovaandMonteiro,2008;
+Bouayad-Agha and Vedrine, 2010). En effet, l’estimateur GS2SLSAR développé par Shehata
+(2012) peut être limité lorsqu’il s’agit de traiter le biais de simultanéité et d’endogénéité, dû à
+la présence d’une variable autoregressive d’où l’intérêt de l’estimer d’Arellano-Bond sur don-
+nées de panel spatiales. Afin de traiter ces deux biais, cet estimateur instrumente le terme de
+retard spatial et le terme autorégressif par leurs valeurs retardées, par les valeurs retardées des
+24
+
+--- Page 26 ---
+variablesdépendantesainsiqueparlesvariablesexplicativespondéréesspatialement13.
+TABLEAU 5 – Effet de Policy-mix sur la productivité dans la CEMAC suivant l’estimateur
+dynamiquelinéairespatiald’ArellanoandBond(1991)
+Variabledépendante:Productivité
+Arellano-BondLinearspatialDynamicPanelData
+Modèle1 Modèle2
+Kstock PGF Kstock PGF
+Y 0,0319** 0,0201* 0,0412** 0,0362*
+t−1
+(0,0795) (0,03245) (0,0412) (0,02147)
+Wy 0,0309* 0,0219*** 0,06721** 0,03107*
+(0,01712) (0,01895) (0,0471) (0,02310)
+IPM 0,0132* 0,00418* 0,24943* 0,027*
+(0,07124) (0,02791) (0,03107) (0,03124)
+Depgouv 0,1963** 0,0401* 0,01374* 0,0841
+(0,17124) (0,20147) (0,0479) (0,04120)
+Findev -0,0479* -0,0075** 0,0041* 0,0012**
+(0,027549) (0,0610) (0,0174) (0,01207)
+Openness 0,0291** 0,0187*** 0,02308** 0,0147*
+(0,0526) (0,01824) (0,0107) (0,0301)
+FBCF 0,0579** 0,0124* 0,00814* -0,0527
+(0,05412) (0,0279) (0,051374) (0,1241)
+Polity2 0,05876* 0,01219* 0,03195* 0,0155
+(0,0452) (0,07134) (0,0174) (0,0104)
+Constance 1,249* 1,02975* 0,05102* 0,04120**
+(0,19536) (1,0621) (0,0318) (0,18547)
+Observations 144 135 144 138
+Testdevaliditéglobaldumodèle
+TestdeWald 852,021* 1103,021* 847,715* 771,145*
+RMR2 ajusté 0,6189 0,51023 0,448 0,5012
+SarganTest 0.1875 0,1233 0,1044 0,1367
+Note:Notes:p<0,01,**p<0,05,*p<0,1.
+Les résultats issus du tableau 5 mettent en évidence quatre principaux constats. Première-
+ment, le coefficient de la variable dépendante retardée est positif et significatif (inférieur à 1).
+Ce résultat montre que la productivité de l’année précédente améliore la productivité de la pé-
+riode actuelle, et confirme le caractère autoentretenu de la productivité sur la base d’un effet
+de mémoire (Bekaert et al., 2011). Deuxièmement, les coefficients du terme spatial pour les
+deux variables de la productivité sont positifs et significatifs. Cela confirme que le niveau de
+productivité observé au sein des pays voisins a affecté celui du pays i. Il existe une dynamique
+13. Ceciensupposantquetouteslesvariablesexplicativessontexogènesàl’exceptiondutermederetardspatial
+(Bouayad-AghaandVedrine,2010).
+25
+
+--- Page 27 ---
+et des effets de proximité géographique des systèmes de production des pays membres surtout
+pendant des périodes de crise (modèle 2)14 par rapport à la période de « bonne conjoncture »
+de la CEMAC. Troisièmement, les coefficients de l’indice de Policy-mix sont tous significatifs
+et positifs. L’introduction d’une structure intégrant les moments et les instruments a permis de
+mieux capter la dynamique incluse dans chaque modèle, ce qui a permis d’améliorer la signi-
+ficativité des coefficients de l’IPM. Toutefois, les coefficients du modèle 2 restent supérieurs à
+ceuxdumodèle1.Cerésultatconfirmeceluiobtenuauniveaudutableau3.
+Quatrièmement, les coefficients de la variable des dépenses gouvernementales (Depgouv)
+et d’investissement privé (FBCF) sont également positifs et significatifs surtout au niveau de
+l’accumulation du capital. Ce résultat confirme bien l’importance de ces deux concepts pen-
+dant la période où les recettes de l’Etat sont élevées conformes à une augmentation des prix
+des matières premières. Cela est conforme au résultat obtenu au tableau 4. Cinquièmement, les
+coefficients de la variable de développement financier sont négatifs et significatifs dans le mo-
+dèle 1. Cependant, Ces coefficients sont positifs et significatifs dans le modèle 2. Bien que le
+résultatsembleêtrecorroboréenpartiepourlavariableaccumulationducapitalpourlemodèle
+1,untoutautrerésultatémergepourlemodèle2.Eneffet,uneaugmentationdudéveloppement
+financier capté par le crédit intérieur accordé au secteur privé en pourcentage du PIB entraine
+une augmentation de l’accumulation du capital et de la PGF. Ce résultat s’explique par le fait
+qu’en période de « bonne conjoncture » l’activité d’intermédiation financière diminue dans la
+mesure où les banques s’orientent vers l’activité de recyclage des recettes issues des exporta-
+tionsdesmatièrespremièresdansuncontextedehaussedesprixdecesdernières.Toutefoisen
+période relance, les banques sont soutenues pour ne pas restreindre leur portefeuille de crédit,
+afin qu’elles puissent maintenir un certain niveau d’intermédiation financière afin de soutenir
+l’activitééconomique15 (Wanda,2007;BikaiandKenkouo,2019).
+6 Conclusion
+Ensomme,ilétaitquestionpournousd’analyserl’effetduPolicy-mixsurlaproductivitéen
+zoneCEMAC.Cetteétuderemetaugoûtdujourl’importancedelacoordinationdespolitiques
+économiquesconjoncturellesdanslaréductiondeshétérogénéitésdansuneunionmonétaire.En
+nousappuyantsurunmodèleautorégressifspatialpourlessixpaysdelaCEMACsuivantdeux
+périodes 2007-2012 et 2014-2018. Nous avons utilisé la régression GS2SLSAR (Generalized
+SpatialAutoregressiveTwoStageLeastSquaresRegression)quiestunestimateurdesmoindres
+carrésspatiauxautorégressifsgénéralisésendeuxétapes.Ilétablitunerelationlinéairespatiale
+entre le Policy-mix et la productivité dans la CEMAC. Le principal résultat obtenu suggère
+14. Cecis’observeàtraversdescoefficientsplusélevésauniveaudumodèle2parrapportaumodèle1.
+15. Toutefois,lescoefficientsauniveaudumodèle2restenttrèsfaibles.
+26
+
+--- Page 28 ---
+qu’unPolicy-mixexpansifaccroitl’accumulationducapitaletlaPGF.Deplus,ceteffetsemble
+nettement plus important pendant la période de crise. Ce résultat résiste bien au changement
+d’estimateur.
+Alasuitedecerésultatimportant,nousrecommandonsunensembledemesures:(i)lamise
+en œuvre des critères de surveillance multilatérale contra-cycliques; (ii) l’adoption d’un cadre
+normatif pour la conduite de la politique monétaire et budgétaire en situation de crise et en
+situationde«bonneconjoncture»,enétablissantletypedecoordinationetlesmesuresàadop-
+ter; (iii) la maitrise des taux d’intérêt sur les différents compartiments du marché où les trésors
+nationaux interviennent à la banque centrale; (iv) l’harmonisation des mesures de viabilité du
+niveau d’endettement des États membres de la communauté afin de garantir une politique bud-
+gétaire prudente; (v) l’ajustement des programmations budgétaires entre les États membres de
+la CEMAC; (vi) une amélioration des infrastructures (transports, télécommunications) afin de
+faciliter l’ouverture commerciale des pays de la CEMAC sans littoral; (vii) le développement
+des chaines de valeur régionales afin que les pays de la CEMAC puissent satisfaire la demande
+decertainsbiensetservicesmutuellementauseindelacommunautéetafin,améliorerlaqualité
+delagouvernance.
+27
+
+--- Page 29 ---
+A Annexes
+Annexe 1
+FIGURE A1 –DébatssurlesopportunitésduPolicy-mix
+Source:BekoloEbe(2016)
+Annexe 2
+Sur la base de l’ICM conçue par la BEAC, nous avons apporté des modifications pour pal-
+lier à l’insuffisance liée à la faible profondeur de temporelle de certaines notamment les taux
+d’intérêt pratiqués sur le marché interbancaire sous-régional (TIMP) à partir desquels on cal-
+cule les taux d’intérêt proportionnels (TP) et les taux de change effectif, nous les remplaçons
+par les spreads de taux d’intérêts sur le marché du crédit bancaire de la CEMAC et le taux de
+changeeffectifréelrespectivement.Apartirdecesinformations,lenouvelindicedesconditions
+monétairesetfinancièresseprésentecommesuit:
+ICM =c(1)∗TIAO+c(2)∗spcredit+c(3)∗TCER+c(4)∗EV (10)
+avec c(j), j =1,2,3,4 positifs et c(1) négatif, EV l’incertitude de l’environnement internatio-
+nal.Laméthodologiedecalculdel’ICMdelaCEMACsefaitendeuxgrandesétapes:
+— Construction d’un indicateur composite d’incertitudes des principaux marchés interna-
+tionaux, à partir des indicateurs des principaux marchés financiers et boursiers interna-
+tionaux;
+— Constructiondel’ICM-CEMACetpays,àpartirdel’indicateurcomposited’incertitudes
+de l’environnement international (EV), du TCER et des spreads de taux d’intérêt du
+marchéducrédit.
+28
+
+--- Page 30 ---
+Les poids et agrégations des indices composites (régional et pays) sont déterminés avec l’Ana-
+lyseencomposanteprincipale(ACP).
+Annexe 3
+FIGURE A2 – Évolution de l’indice des conditions monétaires et celle du solde budgétaire de
+basestructurelenZoneCEMACentre1994-2018.
+Source: Construction des auteurs à partir des données du cadrage macroéconomique de la
+BEAC.
+29
+
+--- Page 31 ---
+Annexe 4
+FIGURE A3 – Évolution de l’accumulation du capital et celle de la productivité globale des
+facteursenzoneCEMACentre1994et2014.
+Source: Construction des auteurs Construction des auteurs à partir des données du Penn World
+Table9.1
+30
+
+--- Page 32 ---
+Annexe 5
+FIGURE A4 –GraphedeConnectivitéspatialedanslaCEMAC
+Source:AuteursàpartirdulogicielGeoDa.
+TABLEAU A1 –Matricedecontiguïté
+CMR RCA Congo Gabon GE Tchad
+CMR 0 1 1 1 1 1
+RCA 1 0 1 0 0 1
+Congo 1 1 0 1 0 0
+Gabon 1 0 1 0 1 0
+GE 1 0 0 1 0 0
+Tchad 1 1 0 0 0 0
+31
+
+--- Page 33 ---
+Références
+Anselin, L. (2002). Under the hood issues in the specification and interpretation of spatial
+regressionmodels. Agriculturaleconomics,27(3):247–267.
+Anselin, L. and Florax, R. J. (1995). Small sample properties of tests for spatial dependence in
+regression models : Some further results. In New directions in spatial econometrics, pages
+21–74.Springer.
+Arellano, M. and Bond, S. (1991). Some tests of specification for panel data : Monte carlo
+evidence and an application to employment equations. The review of economic studies,
+58(2):277–297.
+Badarau, F.-C. and Levieuge, G. (2011). Which policy-mix to mitigate the effects of financial
+heterogeneityinamonetaryunion?
+Badarau Semenescu, C., Gregoriadis, N., and Villieu, P. (2008). Monetary policy transmission
+asymmetries in a heterogeneous monetary union : a simple contractual solution. Economics
+Bulletin,5(20):1–7.
+Barro, R. J. and Sala-i Martin, X. (1990). Economic growth and convergence across the united
+states.
+Bekaert, G., Harvey, C. R., and Lundblad, C. (2011). Financial openness and productivity.
+WorldDevelopment,39(1):1–19.
+Bekolo Ebe, B. (2016). Policy-mix en union monétaire, évolution du cadre conceptuel et ana-
+lytique:séminairedoctoral.
+Bénassy-Quéré, A., Ragot, X., and Wolff, G. (2016). Quelle union budgétaire pour la zone
+euro? Notesduconseildanalyseeconomique,(2):1–12.
+Bensaïd,J.andGavrel,F.(1993). Uemetcoordinationdespolitiquesbudgétaires. Économie&
+prévision,109(3):47–56.
+Bikai, J. L. and Kenkouo, G. A. (2019). Analyse et évaluation des canaux de transmission de
+la politique monétaire dans la cemac : une approche spvar-x. Mondes en développement,
+(1):109–132.
+Blinder, A. S. (1982). Issues in the coordination of monetary and fiscal policy. NBER working
+paper,(w0982).
+32
+
+--- Page 34 ---
+Bouayad-Agha, S. and Vedrine, L. (2010). Estimation strategies for a spatial dynamic panel
+usinggmm.anewapproachtotheconvergenceissueofeuropeanregions. SpatialEconomic
+Analysis,5(2):205–227.
+Brand, T. (2012). Politique budgétaire en équilibre général : une analyse appliquée à la zone
+euro. DocumentdetravailduCentred’AnalyseStratégique,(3).
+Buiter,W.H.andKletzer,K.M.(1991). Thewelfareeconomicsofcooperativeandnoncoope-
+rativefiscalpolicy. JournalofEconomicDynamicsandControl,15(1):215–244.
+Chen,Y.(2013). Newapproachesforcalculatingmoran’sindexofspatialautocorrelation. PloS
+one,8(7):e68336.
+Chih,Y.-Y.,Kishan,R.P.,andOjede,A.(2022). Begoodtothyneighbours:Aspatialanalysis
+offoreigndirectinvestmentandeconomicgrowthinsub-saharanafrica. TheWorldEconomy,
+45(3):657–701.
+Combary, O. S. and Savadogo, K. (2014). Les sources de croissance de la productivité glo-
+bale des facteurs dans les exploitations cotonnières du burkina faso. Revue d’économie du
+développement,22(4):61–82.
+Combey,A.(2014). Doesthewaemuzonepolicymixguaranteesinternalstabilityandgrowth?
+Combey, A. and Nubukpo, K. (2013). Coordination des politiques economiques au sein de la
+zoneuemoa:Bilanetperspectives.
+Creel, J., Hubert, P., and Saraceno, F. (2015). Une analyse empirique du lien entre investisse-
+mentpublicetprivé. Revuedel’OFCE,(8):331–356.
+Desquilbet, J.-B. and Villieu, P. (1998). La théorie du policy-mix : un bilan critique. Revue
+d’économiefinancière,(45):31–62.
+Dramani,L.(2007). Multicountrymodelincfazone. MPRAPaper,(3201).
+Feenstra, R. C., Inklaar, R., and Timmer, M. P. (2015). The next generation of the penn world
+table. Americaneconomicreview,105(10):3150–82.
+Forlati,C.(2009). Optimalmonetaryandfiscalpolicyintheemu:Doesfiscalpolicycoordina-
+tion matter? Center for Fiscal Policy, EPFL, Chair of International Finance (CFI) Working
+Paper,(2009-04).
+Gaffard,J.-L.(2010). Politiquemonétaire,stabilitémacroéconomiqueetchangementstructurel.
+33
+
+--- Page 35 ---
+Gali, J. and Monacelli, T. (2008). Optimal monetary and fiscal policy in a currency union.
+Journalofinternationaleconomics,76(1):116–132.
+Grimm,O.R.andRied,S.(2007). Macroeconomicpolicyinaheterogeneousmonetaryunion.
+CER-ETH-CenterofEconomicResearchatETHZurich,WorkingPaper,(07/67).
+Hallett, A. H., Libich, J., and Stehlík, P. (2011). Welfare improving coordination of fiscal and
+monetarypolicy. AUCOCzechEconomicReview,5(1).
+Houngbedji, H. S. (2017). Interactions of economic policy instruments in waemu : The role of
+theeconomiccycle. JournalofInternationalBusinessandEconomics,5(2):48–62.
+Huang, W. (2019). Forest condition change, tenure reform, and government-funded eco-
+environmentalprogramsinnortheastchina. ForestPolicyandEconomics,98:67–74.
+Keynes,J.M.(1936). Thegeneraltheoryofemployment,interest,andmoney. Springer.
+Kukenova, M. and Monteiro, J.-A. (2008). Spatial dynamic panel model and system gmm : a
+montecarloinvestigation. AvailableatSSRN1300871.
+Kydland, F. E. and Prescott, E. C. (1977). Rules rather than discretion : The inconsistency of
+optimalplans. Journalofpoliticaleconomy,85(3):473–491.
+L’Angevin, C. and Montagné, F. (2006). Le policy-mix en zone euro et aux états-unis de 1999
+àaujourd’hui. Economieprevision,(2):179–186.
+Marshall,M.G.,Gurr,T.R.,andJaggers,K.(2018). Polityivproject:Politicalregimecharac-
+teristicsandtransitions,1800–2017. Centerforsystemicpeace.
+Menguy,S.(2005). Hétérogénéitéstructurelledespaysmembresetconflitd’objectifsentreles
+autoritéséconomiquesdansl’uem. Economieprevision,(3):41–58.
+Moran, P. A. (1948). The interpretation of statistical maps. Journal of the Royal Statistical
+Society.SeriesB(Methodological),10(2):243–251.
+Mundell, R. (1969). Toward a better international monetary system. Journal of Money, Credit
+andBanking,1(3):625–648.
+Mundell, R. A. (1962). The appropriate use of monetary and fiscal policy for internal and
+externalstability. StaffPapers,9(1):70–79.
+Ndiaye,C.T.andKonte,M.A.(2012). Politiquesmacroéconomiquesetstabilisationdeschocs
+danslazoneuemoa.
+34
+
+--- Page 36 ---
+Quah, D. T. (1996). Empirics for economic growth and convergence. European economic
+review,40(6):1353–1375.
+Rey, S. J. (2001). Spatial empirics for economic growth and convergence. Geographical ana-
+lysis,33(3):195–214.
+Sargent,T.J.,Wallace,N.,etal.(1981).Someunpleasantmonetaristarithmetic.Federalreserve
+bankofminneapolisquarterlyreview,5(3):1–17.
+Sarr, F. S. (2011). Analysis of the budgetary and monetary policy interaction within the west
+africaneconomicandmonetaryunion.
+Schalck,C.(2006). Coordinationdespolitiquesbudgétairesdansuneunionmonétaireshétéro-
+gène:Modélisationetapplicationàl’uem.
+Shehata, E. (2012). Gs2slsarxt : Stata module to estimate generalized spatial panel autoregres-
+sivetwostageleastsquarescrosssectionsregression.
+Strauss-Kahn,M.-O.etal.(2003). Policymixetglobalisationfinancière. BulletindelaBanque
+deFrance,(111):27–46.
+Tanimoune, N. A., Combes, J.-L., and Tapsoba, R. (2012). Policy mix coherence : What does
+itmeanformonetarypolicyinwestafrica? halshs.archives-ouvertes.
+Tinbergen,J.(1952). Onthetheoryofeconomicpolicy. Books(JanTinbergen).
+Tule,M.K.,Onipede,S.F.,andEbuh,G.U.(2020). Monetaryandfiscalpolicymixinasmall
+openeconomy:Evidencefromnigeria. ScientificAfrican,8:e00346.
+Van der Ploeg, F. and Markink, A. J. (1991). Dynamic policy in linear models with rational
+expectations of future events : A computer package. Computer Science in Economics and
+Management,4(3):175–199.
+Villieu, P. (1998). Les mécanismes de la croissance endogène. P. VILLIEU et G. SEMEDO
+(éds), Mondialisation, intégration et croissance. Nouvelles approches, L’Harmattan, Paris,
+Chapitre,1:7–42.
+Villieu, P. (2008). Quelle gouvernance pour une union monétaire asymétrique? un modèle
+simple. BrusselsEconomicReview,51(1).
+Wade, A. (2015). Policy-Mix et croissance économique dans la zone UEMOA. PhD thesis,
+Universitéd’Auvergne-Clermont-FerrandI;UniversitédeSaint-Louis(Sénégal).
+35
+
+--- Page 37 ---
+Wanda, R. (2007). Risques, comportements bancaires et déterminants de la surliquidité. La
+RevuedesSciencesdeGestion,42(228):93.
+Wyplosz,C.etal.(1991). Monetaryunionandfiscalpolicydiscipline. Technicalreport,CEPR
+DiscussionPapers.
+Yamani, N. (2012). Politique économique et piège du sous-développement au Maroc. PhD
+thesis,UniversitédeGrenoble.
+36

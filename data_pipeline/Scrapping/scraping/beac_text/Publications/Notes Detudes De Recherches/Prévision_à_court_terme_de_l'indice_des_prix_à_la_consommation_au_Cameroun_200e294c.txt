@@ -1,0 +1,1234 @@
+Source PDF : Prévision_à_court_terme_de_l'indice_des_prix_à_la_consommation_au_Cameroun_200e294c.pdf
+Chemin original : scraping\beac_data\Publications\Notes Detudes De Recherches\Prévision_à_court_terme_de_l'indice_des_prix_à_la_consommation_au_Cameroun_200e294c.pdf
+Date extraction : 15/06/2026 21:00:19
+======================================================================
+
+--- Page 1 ---
+BANQUE DES ETATS DE L’AFRIQUE CENTRALE
+NOTES D’ETUDES ET DE RECHERCHE
+N° 4
+Février 2005
+PREVISION A COURT TERME DE L’INDICE
+DES PRIX A LA CONSOMMATION
+AU CAMEROUN
+Evrard Ulrich MOUNKALA
+Les Notes d’Études et de Recherche reflètent les idées personnelles de leurs auteurs et n’expriment pas
+nécessairement la position de la Banque des Etats de l’Afrique Centrale. Ces documents ont pour objectif de
+stimuler la discussion et recueillir les suggestions. Ils sont disponibles sur le site Internet de la Banque des Etats
+de l’Afrique Centrale, www.beac.int.
+
+--- Page 2 ---
+PREVISION A COURT TERME DE
+L’INDICE DES PRIX A LA
+CONSOMMATION AU CAMEROUN
+Evrard Ulrich MOUNKALA
+∗
+Février 2005
+Résumé :
+Le but de cet article est la mise en oeuvre d’une méthode de projection des
+tendances de court terme de l’indice général des prix à la consommation des mé-
+nages du Cameroun. A travers une modélisation analytique de l’indice général
+et ses principales composantes au niveau d’agrégation le plus élevé se fondant sur
+uneméthodologiecombinantprogressivementuntestderacineunitaireàplusieurs
+breaksstructurels,laméthodeTRAMO/SEATSetlatechnologieREGARIMA,cet
+indiceestsimulédansl’échantillonethors-échantillon, directement, puisindirecte-
+ment à partir de ses composantes et leur pondération respective. Des intervalles
+de confiance au seuil de 5% sont construits autour des projections hors-échantillon
+à partir des simulations “bootstrap récursifs”. La discrimination entre les deux
+méthodes directe et indirecte, focalisée essentiellement sur des critères statistiques
+d’erreurquadratiquemoyenneminimumetdespropriétésstochastiquesdesindices
+analysés, conduitàlaconclusionquel’approcheindirecteestcellequipermetd’at-
+teindre le but assigné à cette étude.
+Direction des Etudes, Cellule de Recherche E-mail : mounkala@beac.int. Je tiens à
+∗
+remercier les membres de la Cellule de Recherche pour leurs observations au cours de nos
+discussions. Je suis le seul responsable de toute erreur résiduelle dans ce papier.
+0Mots clé : Break structurel, TRAMO/SEATS, REGARIMA, Bootstrap.
+1
+
+--- Page 3 ---
+Abstract :
+The goal of this survey is the implementation of a projection method for short
+termtendenciesofthegeneralconsumer’spricesindexincameroonianhouseholds.
+Through analytical modeling of the general index and its principal components at
+the highest level of aggregation being based on a methodology gradually combin-
+ing a unit root test with several structural breaks, method TRAMO/SEATS and
+technology REGARIMA, this index are simulated in the sample and out-sample,
+directlyandindirectlystartingfromitscomponentsandtheirrespectiveweighting.
+Confidence intervals at the threshold of 5% are built around out-sample’s projec-
+tions starting from recursive bootstrap simulations. Comparison between the two
+direct and indirect methods, focused on statistical criteria of MSE and stochastic
+properties of the analyzed indices, leads to conclusion which indirect approach is
+that which makes possible to achieve the goal assigned to this work.
+2
+
+--- Page 4 ---
+1 Introduction
+La stabilité des prix constitue l’objectif prioritaire de la plupart des Banques
+Centrales modernes. Cet objectif porte, bien sûr, sur le moyen terme, mais
+les Banques Centrales se préoccupent également de l’évolution à court terme
+des prix. Il paraît, en effet, essentiel pour une Banque Centrale d’avoir une
+excellente connaissance de cette dynamique de court terme dans la mesure
+où elle permet de mieux apprécier la trajectoire de la cible fixée, mais aussi,
+d’avoirlespremiersélémentsd’appréciationsurdesproblématiquesbeaucoup
+pluslargesvisantparexempleàséparerlescomposantestransitoiresdecelles
+considérées comme permanentes, dans les séries des prix1.
+A la BEAC, les prévisions de l’inflation portent essentiellement sur un
+horizonde unà trois ans dans le cadre de l’exercice de programmationmoné-
+taire qui peut globalement s’insérer dans un modèle explicatif. Il est cepen-
+dant difficile, dans cette optique, de réaliser des prévisions à court terme, la
+plupart des variables explicatives étant annuelles et pas toujours disponibles
+en temps réel.
+Dans la présente étude, nous proposons d’exploiter la dynamique interne
+des prix pour leur prévision à court terme au Cameroun. Ce travail peut se
+faire, soit en considérant directement la dynamique de l’indice global, soit en
+considérant plutôt les dynamiques des composantes de l’indice général et par
+une agrégation de celles-ci, parvenir à la prévision de l’indice global.
+Plusieurs études empiriques montrent que les deux approches ne con-
+duisent à des résultats équivalents que sous des hypothèses très restrictives,
+notamment lorsque (i) la série étudiée est parfaitement décomposable sous
+formeadditiveavecunecomposantetendancielle,unecomposantesaisonnière
+et une perturbation résiduelle aléatoire, (ii) aucun traitement préalable des
+observationsatypiquesn’estfaitsurlasérieet(iii) aucunerétropolationn’est
+faite sur la série afin de compléter d’éventuelles données manquantes.
+1Voir par exemple Mialou (2002) pour la problématique de l’inflation sous-jacente.
+3
+
+--- Page 5 ---
+Toutesceshypothèsesn’étantpasvérifiéesdanslecasduCameroun, nous
+adopteronsuneapprochecomparativevisantàdiscriminerlesdeuxméthodes
+sur la base des critères statistiques suivants :
+i)- l’erreur de révision minimum, c’est-à-dire l’écart minimum entre les
+simulations empiriques et les observations ;
+ii)- l’exactitude de la prévision hors-échantillon, c’est-à-dire l’écart mini-
+mum entre les prévisions empiriques et les réalisations hors-échantillon ;
+iii)- les propriétés stochastiques des sous-indices ;
+iv)- le degré de corrélation entre les sous-indices ;
+v)-la variance résiduelle la plus faible.
+La “meilleure” approche prévisionnelle sera celle qui vérifiera le plus de
+critères parmi ceux énumérés ci-dessus.
+La suite de ce papier est organisée comme suit : la section 2 présente
+la désagrégation retenue de l’indice général des prix à la consommation des
+ménages au Cameroun; la section 3 rappelle le modèle statistique utilisé.
+La section 4 présente les résultats. La section 5 enfin, est consacrée à la
+conclusion de l’étude.
+2 Désagrégation retenue de l’indice des prix
+La Direction de la Statistique et de la Comptabilité Nationale (DSCN) pub-
+lie chaque mois, depuis décembre 1993, un nouvel indice des prix à la con-
+sommation des ménages au Cameroun, base 100 décembre 1993, obtenu par
+agrégation de six sous-indices. Le tableau 1, ci-dessous, donne les poids af-
+fectés à chacun de ces sous-indices. Chaque poste de l’indice général est
+lui-même une moyenne pondérée des indices de mêmes noms issus des cinq
+villes représentatives de l’ensemble des prixà la consommation, pondérés par
+les poids démographiques respectifs des différentes provinces où sont situées
+ces villes.
+4
+
+--- Page 6 ---
+Tableau 1: Composantes de l’IPC au niveau d’agrégation le plus
+haut
+Poste Abréviation Libellé Poids
+1 Albota Alimentation, boissons, tabacs 4 360
+2 Depmai Dépenses de maison 1 760
+3 Habcha Habillement et chaussures 1 120
+4 Sansoi Santé et soins personnels 560
+5 Trscom Transport et communication 1 470
+6 Eduloi Education et loisirs 730
+Indgen Indice général national 10 000
+P
+Les sous-indices présentés dans ce tableau portent sur les prixde l’ensem-
+bledesbiensdeconsommationsuivisparlaDSCN.Parrapportautravailque
+nousvoulonsfaire, nousdevrionsplutôtconsidérerdesindicesnecomprenant
+pas les produits dont les prix sont réglementés. Toutefois, compte tenu du
+fait que leurs poids respectifs sont négligeables par rapport à l’ensemble des
+biens suivis, le gain marginal que l’on obtiendrait en élaborant de nouveaux
+sous-indices n’incluant pas ces produits reste très faible. Ainsi, nous avons
+choisi de travailler sur les indices bruts de la DSCN.
+Lesdonnées àutilisersontdonc celles dessept séries retenues. Lapériode
+d’étude va d’août 1994 à décembre 2003, soit 113 observations.
+3 Méthodologie utilisée
+Prévoir l’évolution d’une chronique à court terme suivant une approche au-
+toprojective nécessite l’utilisation d’un outil performant de modélisation.
+On peut, pour des chroniques caractéristiques des prix, utiliser des mod-
+èles SARIMA (Seasonal Autoregresive Integrated Moving Average). Ces
+modèles présentent le double avantage de s’affranchir des contraintes liées
+à la disponibilité en temps réel de certaines données pouvant servir de vari-
+ables explicatives2, et de fournirune précisionparfois bien meilleure que celle
+des”grosmodèlesmacroéconomiques”detyperégressionmultipledéveloppés
+dans les années 1960 à des fins prévisionnelles de court terme3.
+2Même lorsqu’elles existent, ces séries ne sont pas mensuelles.
+3Voir par exemple Mills (1990).
+5
+
+--- Page 7 ---
+Il est aussi possible d’utiliser les méthodes prédictives de lissages expo-
+nentiels de type Holt-Winters ou généralisés de type modélisation de Brown.
+Néanmoins, ces méthodes qui peuvent être considérées comme des cas très
+particuliers des modèles SARIMA, fournissent de moins bons résultats que
+ces derniers4. Enfin, les modèles SARIMA ont l’avantage d’être simples et
+efficaces pour les projections de court terme.
+L’identification des modèles SARIMA à partir des fonctions d’autocor-
+rélation étant délicate, compte tenu du fait que dans ces fonctions il est qua-
+siment impossible de distinguer les paramètres distinctifs des composantes
+régulières et aléatoires, nous utiliserons une spécification particulière appelée
+par Box et Jenkins “modèle multiplicatif saisonnier - non saisonnier”.
+Etant donnée une chronique X T , SARIMA(p,d,q)(P,D,Q) , où
+{ t }t=1 → s
+p,d,q,s,P,D,Q sont des entiers naturels.
+On a :
+Ψ (B)Φ (Bs) d D(X µ) = Θ (B)Ω (Bs)ε (1)
+p P s t q Q t
+∇ ∇ −
+avec :
+Bk(X ) = X , k N ;
+t t k
+d = (1
+B)−d
+;
+∈
+∇ −
+D = (1 Bs)D ;
+s
+∇ −
+µ = E(X ) ;
+t
+Ψ (B),Φ (Bs),Θ (B),Ω (Bs) étant des polynômes de degrés respectifs
+p P q Q
+p, Ps,qet Qs,les termes constants de ces polynômes sont égaux à 1; et
+ε T est un processus de bruit blanc tel que
+{ t }1
+E(ε ) = 0, t
+t
+∀
+V(ε ) = σ2, t (2)
+t
+⎧ ∀
+Cov(ε ,ε ) = 0, t = t.
+⎨ t t 0
+0 ∀ 6
+Les polynômes Ψ (B)Φ (Bs) d D et Θ (B)Ω (Bs) étant de degrés
+p ⎩ P s q Q
+∇ ∇
+respectifs m = p+d+s (P +D) et n = q +sQ, le modèle (1) peut encore
+s’écrire sous la forme
+m m n
+X = µ α + α Bi 1 X + θ Bj ε (3)
+t i i − t 1 j t
+Ã ! − Ã !
+i=0 i=1 j=0
+X X X
+4Voir Vaté (1993, Chapitre 8).
+6
+
+--- Page 8 ---
+avec α = θ = 1.
+0 0
+On pourrait penser, par ailleurs, que la chronique X T peut dépendre
+{ t }t=1
+également de facteurs déterministes tels des outliers, une tendance linéaire
+et bien d’autres éléments exogènes. Dans ce cas, afin de réduire la variance
+résiduelle du modèle SARIMA ci-dessus et tenir compte de ces éventuels fac-
+teurs exogènes, une solution alternative consisterait à retenir la formulation
+REGARIMA suivante :
+m n
+X = Z β + α X + θ ε (4)
+t t i t i j t j
+− −
+i=1 j=0
+X X
+avec Z une matrice de régresseurs exogènes incluant le terme constant.
+t
+La détermination des paramètres de ce modèle se fera à partir des trois
+étapes ci-dessous :
+i)- L’examen graphique des séries5 retenues révélant d’éventuelles rup-
+tures de tendance, des tests de racines unitaires avec breaks structurels mul-
+tiples, type Kapetanios6 (2002) permettront de caractériser les propriétés
+stochastiques de chaque série analysée ;
+ii)- La mise en oeuvre de la méthode TRAMO/SEATS7 fournira d’une
+part, les entiers p, d, q, s, P, D et Q de la partie SARIMA de la chronique,
+et d’autre part, d’éventuels outliers sur la série. Ces outliers et les dates
+de ruptures relevées par la technique de calcul du τm de Kapetanios, seront
+min
+introduites comme variables indicatrices dans les modèles correspondants, en
+vue d’une réduction de la variance des erreurs d’estimation ;
+iii)- Les résultats des deux étapes précédentes auront permis de déter-
+miner exactement les paramètres m et n ainsi que les colonnes de la matrice
+Z qui ne sont autres que les dates de ruptures et les outliers. L’application
+t
+de la méthode des moindres carrés non linéaires au modèle (4) permettra
+enfin d’estimer tous les autres paramètres du modèle.
+5cf Annexe A.1.
+6Le principe du test de Kapetanios est décrit sommairement à l’annexe du présent
+document.
+7TRAMO : Time series Regression with ARIMA noise, Missing observations and Out-
+liers ; SEATS : Signal Extraction in ARIMA Time Series.
+7
+
+--- Page 9 ---
+Le “meilleur modèle estimé” sera retenu en fonction des critères de parci-
+monie et d’information. Sur la base donc de ces modèles, l’indice général
+des prix sera projeté suivant les approches directe et indirecte, en précisant
+toutefois les intervalles de confiance autour des valeurs prédites. En effet, il
+convient de remarquer que quelques manipulations algébriques de l’expres-
+sion (4) permettent d’établir la relation (5)8 :
+m m m n
+X = Z β + α X α (X X )+ θ ε (5)
+t t i t 1 i t j+1 t j i t i
+Ã ! − − − − − −
+i=1 j=2 i=j i=0
+X X X X
+m n
+En posant : ρ = α et ρ = α , j = 1,2,...,λ, il vient que :
+1 i j i
+−
+i=1 i=j
+X X
+m n
+X = Z β +ρ X + ρ ∆X + θ ε (6)
+t t 1 t 1 j t j+1 i t i
+− − −
+j=2 i=0
+X X
+Soit X la prédiction de X basée sur l’estimation du modèle (4)
+T+h T+h
+précédent. A une date T + h donnée, l’erreur de prévision9 commise en
+prédisantbX par X est donnée par :
+T+h T+h
+h 1 h j
+b − −
+e = X X = ω θ ε (7)
+T+h T+h T+h j i T+h i j
+− Ã −− !
+j=0 i=0
+X X
+b
+où la séquence des ω satisfait les équations suivantes :
+j
+m
+ω + α ω = 0, avec ω = 1
+j j j i 0
+−
+⎧ i=1 (8)
+Xm
+⎪
+⎪
+⎪ ⎨ ω j + α jω j i = 0, j = 1,2,...,λ 1
+− −
+i=1
+⎪ X
+La variance e⎪ ⎪stimée de cette erreur de prévision notée
+⎩
+σ2(h) = V X X
+e T+h − T+h
+n o
+est donnée par : b b b
+8cf Hamilton (1994), chapitre 17.
+9cf Fuller (1996), Chapitre 10.
+8
+
+--- Page 10 ---
+h −1 h −j 2 h −1 h −1 h −j h −j 0
+σ2(h) = σ2⎧ θ ω + ω ω θ θ ⎫ (9)
+e i j j j 0 i i 0
+⎪ ⎪
+⎪ ⎨Xj=0 Xi=0 ³ ´ Xj=0 j X0=0 Xi=0 i 0= Xj −j 0 ⎪ ⎬
+b b b b j > j 0 b b bb
+⎪ ⎪
+⎪ ⎪
+Ainsi, les interv⎩alles de confiance autour des valeurs prédites, a⎭u niveau
+de confiance α sont de la forme :
+P X X u σ (h) ; X +u σ (h) = 1 α (10)
+T+h T+h 1 α/2 e T+h 1 α/2 e
+∈ − − − −
+n h io
+b b
+Dans la mesure où certainbs résidus d’estimationbpourraient suivre des
+distributions non standards, la méthode ”bootstrap récursif” sera utilisée
+pour construire ces intervalles de confiance, après s’être au préalable assuré
+en utilisant le test de Ko˘cenda (2001)10 que les résidus restandardisés sont
+indépendants et identiquement distribués (iid). Ce test se base sur le con-
+cept théorique de “corrélation intégrale” décrit par Grassberger et Procaccia
+(1983). Il est une alternative plus puissante au BDS test usuel de Brock et
+al (1996).
+4 Résultats d’estimation11 et approche prévi-
+sionnelle retenue
+Avant de décrire les résultats d’estimation issus de la méthodologie décrite
+précédemment, il convient de souligner que le test de Kapetanios12 a conduit
+à la conclusion que seule la composante ”alimentation, boissons, tabacs” est
+stationnaire autour d’une tendance déterministe avec 3 breaks structurels
+comme illustré dans le tableau 2 suivant :
+10Voir présentation succincte de ce test à l’annexe A.4. du présent article.
+11Les estimations économétriques, les tests statistiques et les simulations bootstrap ont
+été faits à l’aide des logiciels Eviews et Gauss.
+12Le test de Kapetanios (2002) sur une série à deux breaks conduit généralement à la
+même décision que les tests de racine unitaire avec breaks de Zivot et Andrews (1992) et
+Lumsdaine et Papell (1997). Par ailleurs, il convient de signaler que pour ce test, plus m
+est grand, plus il devient difficile de rejeter l’hypothèse nulle de racine unitaire.
+9
+
+--- Page 11 ---
+Tableau 2 : Résultats du test de racine unitaire avec m breaks
+structurels de Kapetanios (2002)
+Série breaks (m) Modèle τmin cv 5% Concl.
+m
+Indgen 2 (A) -3.609 -5.685 NS
+Habcha 5 (A) -1.108 -7.636 NS
+Albota 3 (C) -8.046 -7.006 S
+Sansoi 2 (A) -5.491 -5.685 NS
+Trscom 5 (A) 5.288 -7.636 NS
+Eduloi 5 (A) -7.245 -7.636 NS
+Depmai 3 (A) -0.209 -6.529 NS
+Lesrésultatsdesestimationsobtenusaprèslamiseenoeuvredelaméthodolo-
+gie décrite plus haut, pour les approches directe et indirecte sont respective-
+ment présentés ci-après.
+4.1 Approche directe
+Tableau 3 : Résultats d’estimation de l’indice général national
+DependentVariable : INDGEN
+Method : LeastSquares
+Variable Coeff. Std.Error t-stat Prob
+C 29.392 8.837 3.326 0.001
+1 (t) 3.620 1.471 2.462 0.015
+Avr95
+1 (t) 2.838 1.159 2.448 0.016
+Mai2001
+@trend 0.075 0.024 3.164 0.002
+INDGEN( 1) 0.796 0.062 12.832 0.000
+−
+MA(12) 0.452 0.087 5.178 0.000
+R2 = 0.99 Q (12) = 12.13
+stat
+F = 2087.70 JB = 0.34
+T = 112 V res = 1.64
+1, sit = mm yy
+où 1 (t) =
+mmyy 0, sinon
+½
+10
+
+--- Page 12 ---
+Sur la base du modèle ci-dessus estimé dont les résidus sont gaussiens
+et iid eu égard aux statistiques JB de Jarque-Bera et K2K de Ko˘cenda
+(annexe A.5.1) respectivement, les valeurs prédites de cet indice de janvier
+à juin 2004 ainsi que les intervalles de confiance à 5 % sont donnés dans le
+tableau 4 suivant :
+Tableau 4 : Prédictions directes et intervalles de confiance à 5%
+de l’indice général national, de janvier à juin 2004
+Horizon (h) Prédiction Borne inf. Borne sup.
+1 182.36 179.85 184.87
+2 182.93 179.12 186.14
+3 183.69 180.11 187.27
+4 183.87 180.07 187.67
+5 184.04 180.46 188.33
+6 184.82 180.81 188.83
+4.2 Approche indirecte
+Les prédictions de l’indice général national des prix suivant la méthode in-
+directe sont la moyenne pondérée des prédictions des différents sous-indices
+retenus dans notre étude qui elles-mêmes, ont été obtenues à partir des mod-
+èles caractéristiques de leur dynamique respective, dont les résultats sont
+présentés à l’annexe A.3.
+Tableau 5 : Prédictions indirectes et intervalles de confiance à
+5 % de l’indice général national, de janvier à juin 2004
+Horizon (h) Prédiction Borne inf. Borne sup.
+1 179,99 169,11 188,35
+2 180,00 166,20 191,75
+3 180,02 162,99 195,56
+4 180,11 159,82 199,29
+5 180,16 156,71 202,99
+6 180,26 153,55 206,72
+11
+
+--- Page 13 ---
+4.3 Analyse comparée des deux approches
+Au regard des résultats issus des deux approches ci-dessus, il apparaît claire-
+ment, comme on devait s’y attendre, que ceux-ci ne sont pas équivalents.
+Comme annoncée dans la partie introductive de ce travail, la discrimination
+entre les méthodes directe et indirecte sera essentiellement basée sur les cinq
+critères que nous y avons présentés.
+(i)- S’agissant de l’erreur quadratique moyenne de révision, on la définit
+comme la moyenne des carrés des écarts entre la série simulée à partir du
+modèle, sachant les observations à l’instant initial, et la série effectivement
+observée. Formellement, elle peut être notée comme suit:
+T
+1 2
+EQM = X(simul) X(observ)
+T t − t
+t=1
+X³ ´
+L’application numérique de cette formule aux indices simulés à partir des
+méthodes directe et indirecte respectivement montre que la méthode directe
+conduit à une erreur de révision plus faible (1.55) que la méthode indirecte
+(3.00). De plus, les figures 1 et 2 à l’annexe 7 confirment ce résultat, dans
+la mesure où il y apparaît clairement que l’écart entre la courbe de la série
+simulée suivant l’approche indirecte et la série observée est plus grand que
+celui entre la série simulée suivant l’approche directe et la série observée.
+(ii)-S’agissantdel’erreurquadratiquemoyennedeprévisionhors-échantillon
+quisedéfinitdemanièreanalogueàl’EQMprécédentesurlapériodedeprévi-
+sion, il ressort par contre que la méthode indirecte conduit à une erreur de
+prévision très faible (0.77) comparée à celle de la méthode directe (12.95).
+Toutefois, l’intervalle de confiance autour des valeurs prédites à partir de la
+méthode indirecte est relativement large, ce qui correspond à une certaine
+perte de précision. L’illustration de ce constat est donnée à la figure 3 de
+l’annexe 7.
+(iii)- Sagissant des propriétés stochastiques des sous-indices, les résul-
+tats des modèles économétriques estimés pour chaque composante montre
+que celles-ci ne sont pas similaires. A ce titre, l’approche indirecte serait
+préférable à l’approche directe.
+(iv)- Sagissant des corrélations entre les six sous-indices, le tableau 6 ci-
+dessous montre assez clairement que celles-ci sont relativement élevées. Sur
+cette base, l’approche directe serait préférable à l’approche indirecte.
+12
+
+--- Page 14 ---
+Tableau 6 : Matrice de corrélation des sous-indices
+albota depmai eduloi habcha sansoi trscom
+albota 1.00
+depmai 0.89 1.00
+eduloi 0.71 0.61 1.00
+habcha 0.84 0.81 0.79 1.00
+sansoi 0.96 0.88 0.68 0.68 1.00
+trscom 0.83 0.79 0.81 0.79 0.79 1.00
+(v)- S’agissant enfin de la plus petite variante résiduelle, les résultats
+d’estimation des modèles de l’indice général (1.64), d’une part, et des trois
+composantes les plus lourdes à savoir “Albota” (7.24), “Depmai” (1.32) et
+“Trscom” (1.61), d’autre part, montrent que le niveau d’agrégation le plus
+élevé, c’est-à-dire l’indice général n’a pas la variance résiduelle la plus faible.
+Dans ce cas, la méthode indirecte est préférable à la méthode directe.
+Le bilan des résultats des cinq critères statistiques ci-dessus révèle que
+la discrimination entre les méthodes directe et indirecte conduit à retenir
+comme “meilleure” méthode autoprojective de la dynamique des prix à la
+consommation au Cameroun, la méthode indirecte qui avec trois critères
+favorables contre deux, fournit des prédictions hors-échantillon plus proches
+des réalisations que la méthode directe.
+5 Conclusion
+Cette étude visait la prédiction des tendances de court terme de l’évolution
+du niveau général des prix à la consommation des ménages au Cameroun en
+comparant les méthodes autoprojectives directe et indirecte. Les résultats
+obtenus montrent que la méthode de projection de l’indice général des prix à
+partir de ses sous-indices au niveau d’agrégation le plus élevé est préférable à
+la méthode autoprojective directe sur l’indice général lui-même. La méthode
+indirecte fournit à court terme, de bonnes prédictions hors-échantillon du
+niveau général des prix à la consommation des ménages au Cameroun. De
+plus, elle présente l’avantage d’isoler, dans l’analyse conjoncturelle, les chocs
+exogènes susceptibles d’affecter certains sous-indices, d’une part, et d’an-
+ticiper l’évolution des prix de certains produits de consommation courante à
+très court terme, d’autre part.
+13
+
+--- Page 15 ---
+Un prolongement envisageable de ce travail serait de combiner les pré-
+dictions des deux méthodes avec celles d’autres méthodes de type Lissages
+exponentiels simple, double ou généralisés, comme dans Bates et Granger
+(1969), Granger et Newbold (1986) ou Granger (1989).
+14
+
+--- Page 16 ---
+References
+[1] Aerts, M. & Claeskens, G. [2001],. “Bootstrap Tests for Misspecified
+Models, with Application to Clustered Binary Data”, Journal of Com-
+putational Statistics and Data Analysis, 36, 383-401.
+[2] Bai J. and Perron P. [1998], “Estimating and Testing Linear Models
+with Multiple Structural Changes”, Econometrica, 66(1), 47-78.
+[3] Banerjee A., Lumsdaine R.L. and Stock J.H. [1992], “Recursive and Se-
+quential Tests of the Unit root and Trend Break Hypotheses : Theory
+and International Evidence”, Journal of Business and Economic Statis-
+tics, 10(3), 271-288.
+[4] Bates J. and Granger C.W.J. [1969], “The Combination of Forecasts”,
+Operational Research Quarterly, 20, 451-468.
+[5] Bergström P. [1999], “Bootstrap Methods and Applications in Econo-
+metrics - A Brief Survey”, Working Paper, Department of Economics,
+Uppsala University.
+[6] Bresson G. et Pirotte A. [1995], Econométrie des séries temporelles, 1e`re
+édition, PUF.
+[7] Brock W., Dechert W., Scheinkman J. and LeBaron B. [1996], “A Test
+for Independence Based on the Correlation Dimension”, Econometric
+Reviews, 15, 197-235.
+[8] Elliot G., Rothenberg T. and Stock H-J. [1996],“Efficient Test for an
+Autoregressive Unit Root”, Econometrica, Vol.64,No. 4, 813-836.
+[9] Flachaire E. [2000], “Les méthodes du bootstrap dans les modèles de
+régression”, Economie et Prévision, n 142 2000-1, pp 183-194.
+◦
+[10] Fuller A.W. [1996], Introduction to Statistical Time Series, Second edi-
+tion, Iowa State University, A Wiley-Interscience Publication.
+[11] Gouriéroux C. et Monfort A. [1995], Séries temporelles et modèles dy-
+namiques, 2e`me édition, Economica.
+[12] Granger C.W.J. [1989], “Combining Forecasts - Twenty Years Later”,
+Journal of Forecasting, 8, 167-173.
+15
+
+--- Page 17 ---
+[13] Granger C.W.J. and Newbold P. [1986], Forecasting Economic Time
+Series, Second edition, Academic Press.
+[14] Grassberger P. and Procaccia I. [1983], “Measuring the Strangeness of
+Strange Attractors”, *physica 9D, 189-208.
+[15] HamiltonJ.D. [1994], Time Series Analysis, Princeton UniversityPress.
+[16] Johnston J. [1998], Méthodes économétriques, Tome 2, 3ie`me édition,
+Economica.
+[17] Jondeau E., Le Bihan H. et Sédillot F.[1999], “Modélisation et prévision
+des indices des prix sectoriels”, Banque de France, Notes d’Etudes et de
+Recherche.
+[18] Kaiser R. and Maravall A. [1999a], “Seasonal Outliers in Time Series”,
+Banco de Espana, Documento de Trabajo n. 9915.
+[19] Kaiser R. and Maravall A. [1999b], “A Reflection on Direct Versus Indi-
+e
+rect Adjustment from Model Based Perspective”, Manuscript.
+[20] Kapetanios G. [2002], “Unit Root Testing against the Alternative Hy-
+pothesis of up to m Structural Breaks,” Working Papers wp469, Queen
+Mary, University of London, Department of Economics.
+[21] Kennedy E.P. [nov.1999], “Bootstrapping Student Understanding of
+What is Going on in Econometrics”, Jouranl of Economic Education,
+Middlebury College, pp.110-123.
+[22] Ko˘cendaE.[2001],“AnAlternativetotheBDSTest: IntegrationAcross
+the Correlation Integral”, Economic Research and Graduate Education,
+Charles University, Czech Republic.
+[23] Loungani P. and Swagel P. [1998], “Sources of Inflation in Developping
+Countries”, International Monetary Fund, Working Paper, WP/01/98.
+[24] Mialou A. [2002], “L’inflation sous-jacente en Afrique du sud et au
+Gabon: une modélisation à partir de l’approche VAR structurelle”,
+Banque des Etats de l’Afrique Centrale, Notes d’Etudes et de Recherche,
+n 1.
+◦
+16
+
+--- Page 18 ---
+[25] Park J.Y. [2003], “Bootstrap Unit Root Tests”, Econometrica, Vol. 71,
+No. 6, 1845-1895.
+[26] PlanasC.andCampolongoF.[1999],“TheSeasonalAdjustmentofCon-
+temporaneously Aggregated Series”, Manuscript, Institue for Systems,
+Informatics and Safety.
+[27] StockJ-H. [1994], “UnitRoots, Structural BreaksandTrends”, inEngle
+R.F. & McFadden D.L, Handbook of Econometrics, Elsevier Science
+B.V. Vol. IV.
+[28] Zivot A. and Andrews D.W.K. [1992], “Further Evidence on the Great
+Crash, the Oil Price Shock and the Unit Root Hypothesis”, Journal of
+Business and Economic Statistics, 10(3), 251-270.
+17
+
+--- Page 19 ---
+ANNEXES
+A.1.- Représentations graphiques des séries analysées
+190
+180
+170
+160
+150
+140
+130
+95 96 97 98 99 00 01 02 03
+INDGEN
+210 170
+200
+160
+190
+180 150
+170 140
+160
+130
+150
+140 120
+95 96 97 98 99 00 01 02 03 95 96 97 98 99 00 01 02 03
+ALBOTA DEPMAI
+170
+190
+180 160
+170 150
+160
+140
+150
+130
+140
+120
+130 95 96 97 98 99 00 01 02 03
+95 96 97 98 99 00 01 02 03
+EDULOI
+HABCHA
+155 180
+150 170
+145 160
+140 150
+135 140
+130 130
+125 120
+95 96 97 98 99 00 01 02 03 95 96 97 98 99 00 01 02 03
+SANSOI TRSCOM
+18
+
+--- Page 20 ---
+A.2.-Testderacineunitairevsm breaksstructurels; Kapetanios
+(nov.2002)
+Il s’agit d’un test récursif et séquentiel de racine unitaire versus une hy-
+pothèse à m breaks structurels. Ce test s’appuie sur la technique “DF t-
+statistic minimum” proposée par Banerjee, Lumsdaine et Stock (1992), et
+Zivot et Andrews (1992) pour le cas à un seul break. De plus, il se base sur
+les modèles suivants sous H :
+1
+k m
+(A) y = µ +µ t+αy + γ ∆y + Φ DU +ε
+t 0 1 t 1 i t i i i,t t
+− −
+i=1 i=1
+X X
+k m
+(B) y = µ +µ t+αy + γ ∆y + Ψ DT +ε
+t 0 1 t 1 i t i i i,t t
+− −
+i=1 i=1
+X X
+k m m
+(C) y = µ +µ t+αy + γ ∆y + Φ DU + Ψ DT +ε
+t 0 1 t 1 i t i i i,t i i,t t
+− −
+i=1 i=1 i=1
+X X X
+1 γ(L) a toutes ses racines à l’extérieur du cercle unité, où
+−
+k
+γ(L) = γ Lj.
+j
+j=1
+X
+DU = 1(t > T ) et DT = 1(t > T )(t T ) avec T + 1, la date
+i,t b,i i,t b,i b,i b,i
+−
+du ie`me break structurel.
+Les hypothèses du test sont :
+H : α = 1,µ = Φ = ... = Φ = Ψ = ... = Ψ = 0
+0 1 1 m 1 m
+vs H : α < 1,Φ = ... = Φ = Ψ = ... = Ψ = 0, i = 1,2,...,m 1
+i i+1 m i+1 m
+⎧ −
+H : α < 1
+⎨ m
+¯
+¯
+¯
+⎩
+Le¯s breaks étant endogénéisés, la procédure de détection de ceux-ci est
+identique à la méthode de balayage proposée par Bai et Perron (1998). Elle
+peut être résumée comme suit :
+1.- Etant donné un nombre maximum m de breaks, on commence par
+rechercher un seul break entre les dates 2,3,...,T 1, puis on calcule la t
+− −
+statistique de l’hypothèse nulle α = 1 pour chacune des partitions possibles
+19
+
+--- Page 21 ---
+de l’échantillon. On désigne par τa, l’ensemble des partitions possibles de
+1
+l’échantillon, et par τ1, l’ensemble des t statistiques ainsi calculées.
+−
+2.- On choisit comme date du premier break, celle correspondant au min-
+imum de la somme des carrés des résidus (SCR) donnée, dans le cas du
+modèle (C) -le plus général-, par :
+2
+T k m m
+SCR = y µ µ t αy γ ∆y Φ DU Ψ DT
+t 0 1 t 1 i t i i i,t i i,t
+Ã − − − − − − − − !
+t=k+2 i=1 i=1 i=1
+X X X X
+b b b b b b
+où k est supposée connu.
+3.- On impose à l’échantillon, la date de break retenue, puis on recom-
+mence la recherche de la date du deuxième break dans toutes les partitions
+du sous-échantillon restant. On désigne l’ensemble de toutes ces partitions
+par τa. On obtient l’ensemble des t statistiques de l’hypothèse nulle α = 1
+2 −
+pour toutes les partitions et on le note τ2. On joint τ1 et τ2 pour obtenir
+l’ensemble τ2 = τ1 τ2.
+1
+4.- On choisit la date associée à la plus petite SCR comme la date du
+S
+deuxième break.
+5.- On répète les étapes 3. et 4. jusqu’à obtenir m dates de breaks
+estimées. On désigne l’ensemble résultant de toutes les partitions possibles
+de l’échantillon par τa,i = 3,...,m.
+i
+6.- On retient enfin comme statistique de test, la t-stistique minimum
+m
+τm de l’ensemble τm = τi
+min 1
+i=1
+[
+m
+τm = min τi
+min
+( )
+i=1
+[
+20
+
+--- Page 22 ---
+EnréécrivantlesdatesdebreakssouslaformeTδ ,Tδ ,...,Tδ ,Kapetan-
+1 2 m
+iosmontreque, sousl’hypothèsenullederacineunitaire, lastatistiquedetest
+ci-dessus retenue est correctement définie par une distribution asymptotique
+qui sera la même que celle du minimum de
+1
+W δ ,r dW (r)
+i∗ i
+Z 0 ³ ´
+b 1/2
+1
+W δ ,r dr
+⎛
+i∗ i
+⎞
+Z 0 ³ ´
+⎝ b ⎠
+en δ , où δ = δ , δ = δ ,...,δ ,δ , i = 2,...,m et W (δ ,r),δ = δ ,
+i 1 1 i 1 i 1 i i∗ i 1 1
+−
+δ
+i
+= (δ 1,...,δ i), i = 2,...³,m, est le rés´idu temporel continu de la projection
+d’ubn mouvbemenbt brbownienbsur lbes fonctions
+[1,r,1(r > δ ),(r δ )1(r > δ ),...,1(r > δ ),(r δ )1(r > δ )]
+1 1 1 i i i
+− −
+Dans δ le seul paramètre variant avec la minimisation est δ . Les autres
+i i
+fractions des dates de breaks sont données par les estimations à partir des
+minimisatbions des SCR.
+La région critique de ce test au seuil α est donnée par :
+Wα = τi,i = 1,2,...,mÁτ mm
+in
+< Kp
+1
+α(m)
+−
+© ª
+où Kp (m) désigne le fractile d’ordre 1 α (en fonction du nombre m
+1 α
+− −
+de breaks) tabulé par Kapetanios à partir de simulations Monte Carlo.
+21
+
+--- Page 23 ---
+A.3.- Résultats des estimations des modèles caractéristiques de
+la dynamique des différents sous-indices
+A.3.1.- Composante Alimentation, boissons et tabacs
+Dependent Variable : ALBOTA
+Method : Least Squares
+Variable Coeff. Std.Error t-stat Prob
+C 83.367 17.009 4.901 0.000
+DU aou01 22.465 8.679 2.588 0.011
+1 (t) 9.513 2.537 3.780 0.000
+Mai00
+@trend 0.251 0.055 4.569 0.000
+Du aou @trend 0.207 0.088 2.346 0.021
+∗ − −
+ALBTOTA( 1) 0.453 0.112 4.036 0.000
+−
+MA(1) 0.381 0.120 3.180 0.001
+R2 = 0.97 Q (12) = 4.50
+stat
+F = 692.07 JB = 1.31
+T = 112 V res = 7.24
+où DU aou01 = 1(t Aout2001)
+≥
+A.3.2.- Composante Dépenses de maison
+Dependent Variable : DEPMAI
+Method : Least Squares
+Variable Coeff. Std.Error t-stat Prob
+C 15.618 6.161 2.535 0.013
+1 (t) 4.739 1.168 4.056 0.000
+Fev95
+1 (t) 2.874 1.171 2.453 0.016
+Dec96
+− −
+1 (t) 3.147 1.172 2.685 0.008
+Jan03
+@trend 0.030 0.012 2.556 0.012
+Depmai( 1) 0.698 0.088 7.922 0.000
+−
+Depmai( 2) 0.182 0.090 2.029 0.045
+−
+R2 = 0.98 Q (12) = 10.83
+stat
+F = 878.82 JB = 1.00
+T = 111 V res = 1.32
+22
+
+--- Page 24 ---
+A.3.3.- Composante Santé et soins personnels
+Dependent Variable : SANSOI
+Method : Least Squares
+Variable Coeff. Std.Error t-stat Prob
+1 (t) 6.154 1.101 5.590 0.000
+Jan02
+DU JaJun2 -0.654 0.277 -2.363 0.020
+Sansoi( 1) 1.001 0.000 5842.879 0.000
+−
+MA(1) -0.607 0.054 -11.203 0.000
+MA(12) -0.368 0.052 -7.061 0.000
+R2 = 0.97 Q (12) = 12.81
+stat
+F = 903.17 JB = 4.49
+T = 112 V res = 1.59
+où DU jajun2 = 1(2002 : 01 t 2002 : 06)
+≤ ≤
+A.3.4.- Composante Education et loisirs
+Dependent Variable : EDULOI
+Method : Least Squares
+Variable Coeff. Std.Error t-stat Prob
+C 8.960 2.968 3.018 0.003
+1 (t) 17.092 2.069 8.261 0.000
+Sep95
+1 (t) 4.681 1.986 2.357 0.020
+Oct97
+− −
+1 (t) 11.221 1.983 5.567 0.000
+Sep98
+1 (t) 6.199 2.001 3.098 0.002
+Oct01
+DU JaJun2 2.409 0.974 2.473 0.015
+Eduloi( 1) 0.937 0.020 45.762 0.000
+−
+MA(6) 0.329 0.095 3.452 0.001
+− −
+R2 = 0.95 Q (12) = 10.52
+stat
+F = 303.26 JB = 332.16
+T = 112 V res = 3.69
+23
+
+--- Page 25 ---
+A.3.5.- Composante Habillement et chaussures
+Dependent Variable : HABCHA
+Method : Least Squares
+Variable Coeff. Std.Error t-stat Prob
+C 5.524 1.784 3.097 0.002
+1 (t) -7.316 1.934 -3.783 0.000
+Jan95
+1 (t) 4.094 1.958 2.091 0.039
+Dec95
+1 (t) -5.129 1.944 -2.638 0.010
+Fev96
+1 (t) 9.388 1.888 4.972 0.000
+Jan02
+1 (t) -11.073 1.902 -5.820 0.000
+Juil02
+Habcha( 1) 0.968 0.011 87.919 0.000
+−
+MA(2) -0.241 0.100 -2.434 0.017
+R2 = 0.98 Q (12) = 7.30
+stat
+F = 765.64 JB = 11.48
+T = 112 V res = 4.33
+A.3.6.- Composante Transport et communication
+Dependent Variable : TRSCOM
+Method : Least Squares
+Variable Coeff. Std.Error t-stat Prob
+1 (t) 4.557 1.300 3.504 0.001
+Juil95
+1 (t) 6.372 1.274 5.000 0.000
+Sep99
+1 (t) 6.211 1.276 4.869 0.000
+Jan02
+− −
+1 (t) 4.852 1.274 3.805 0.000
+Juil02
+@trend DU AO94MAR96 0.118 0.027 4.276 0.000
+∗
+Trscom( 1) 1.000 0.001 1246.882 0.000
+−
+R2 = 0.99 Q (12) = 5.86
+stat
+F = 1635.47 JB = 17.22
+T = 112 V res = 1.27
+où DU AO94MAR96 = 1(1994 : 08 t 1996 : 03)
+≤ ≤
+24
+
+--- Page 26 ---
+A.4.- Une alternative au BDS test : le test de Ko˘cenda (2001)
+Une approche non-paramétrique de test des cas non linéaires en séries
+temporelles, conçue par Brock, Dechert et Scheinkman (1987) et développée
+dans Brock, Dechert, Scheinkman et LeBaron (1996), est connue sous le nom
+BDS test. L’hypothèse nulle suppose que les données sont indépendantes
+et identiquement distribuées (iid). Ce test est unique dans son habileté à
+détecter les indépendances non linéaires dans les séries linéairement dépen-
+dantes.
+Ko˘cenda (2001) suggère un test alternatif dont les objectifs sont d’offrir
+plusieurs améliorations du BDS test. Toutefois, les deux méthodes se basent
+sur le concept théorique de “corrélation intégrale” décrit par Grassberger et
+Procaccia (1983). Afin de réaliser le BDS test, certains paramètres doivent
+êtrechoisisarbitrairement,exante, avecdesmargesdemanoeuvrethéoriques
+limitées. De ce fait, il pourrait vraisemblablement conduire au choix de
+valeurs inappropriées pour ces paramètres. La proposition alternative de
+Ko˘cenda vise donc à éliminer les sélections arbitraires autour du paramètre
+ε,ensebasantsurlacorrélationintégrale,pourdiscriminerentrelessystèmes
+chaotiques déterministes et les systèmes stochastiques. La définition de cette
+corrélation intégrale est simple :
+Soit x T unesérietemporellescalairegénéréedefaçonaléatoireàpartir
+{ t }1
+de sa densité f. Formons un m-vecteur que nous appellerons m-histoires,
+xm = (x ,x ,...,x ).
+t t t+1 t+m 1
+−
+La corrélation intégrale pour m fixée est donnée par :
+Tm 1 Tm
+−
+2 Iε(xm,xm)
+t s
+t=1 s=t+1
+C (ε)= X X
+m,T
+T (T 1)
+m m
+−
+où T = T m+1 et Iε(xm,xm) est une fonction indicatrice de l’événe-
+m t s
+−
+ment xm xm = max x x < ε.
+k t − s k i=0,1,...,m 1 | t+i − s+i |
+−
+Ainsi, la corrélation intégrale mesure le pourcentage de paires comprises
+dans un intervalle de largeur ε pour une valeur particulière de m.
+LastatistiqueduBDStest,pourunéchantillondetailleT estalorsdéfinie
+par :
+25
+
+--- Page 27 ---
+[C (ε) C (ε)m]
+BDS (ε)=√T m,T − 1,T
+m,T
+σ (ε)
+m,T
+le paramètre de proximité ε est choisi arbitrairement et σ (ε) est l’écart-
+m,T
+type empirique de la statistique au numérateur, qui varie en fonction de
+m. En utilisant les paires du vecteur m-histoires, il arrive très souvent, en
+classifiant celles-ci par rapport à un ε spécifique que le BDS test est capable
+de révéler des éléments cachés qui n’apparaîtraient pas clairement dans une
+distribution purement aléatoire. Toutefois, quoique le BDS test soit facile à
+mettre en oeuvre, il souffre néanmoins d’un inconvénient majeur; les valeurs
+des paramètres m et ε doivent être déterminées ex ante.
+Le test alternatif de Ko˘cenda suggère de considérer un estimateur des
+MCO de la dimension de corrélation sur un intervalle de valeurs de ε, et
+ainsi, être intuitivement proche de la vraie dimension de corrélation que le
+BDS test.
+Pour résumer, ce test alternatif de l’hypothèse iid est développée, pour
+différentes valeurs de m et ε, en calculant les rapports du logarithme de
+la corrélation intégrale sur le logarithme du paramètre de proximité. Les
+coefficients ainsi calculés peuvent être estimés par :
+ε ln(ε) ln(ε) ln(C (ε)) ln(C (ε))
+m m
+− −
+β m = X n³ ´³ 2 ´o
+ε ln(ε) ln(ε)
+−
+X ³ ´
+où ln(ε) est le logarithme du paramètre de proximité, ln(C (ε)) est la
+m
+valeur de la corrélation intégrale, m est la dimension fixée, et les variables
+avec une barre au-dessus désignent la moyenne de leur contrepartie sans
+barre. Tant que l’intervalle des valeurs du seuil de tolérance ε sont utilisées,
+les coefficients β ne dépendront pas d’un choix arbitraire de ε. La même
+m
+remarque est valable pour m. En effet, un intervalle de valeurs de m est
+aussi utilisé, ce qui offre suffisamment de variétés pour saisir une structure
+dimensionnelle plus complexe sans éliminer des opprotunités inexplorées.
+Théoriquement,lescoefficientsβ ,sousH ,devraientêtrerespectivement
+m 0
+égaux à la dimension m à laquelle cette statistique est calculée. Ko˘cenda
+montre effectivement que ces estimateurs sont toujours tels que β m.
+m
+≤
+26
+
+--- Page 28 ---
+Ainsi, si les observations sont iid, alors les β sont à l’intérieur de certains
+m
+intervalles de confiance par rapport à m.
+Soient Lα et Uα les bornes inférieure et supérieure respectives de l’inter-
+valle de confiance de niveau (1 α). Alors, la région critique au niveau α de
+−
+l’hypothèse nulle est donnée par :
+Wα = β mÁ(β
+m
+< Lα) (β
+m
+> Uα)
+{ ∨ }
+Les valeurs critiques de ce test ont été tabulées par Ko˘cenda.
+Ce test peut être effectué automatiquement à partir du K2K-program
+téléchargeableàl’adresseinternethttp://home.cerge-ei.cz/kocenda/software.htm.
+27
+
+--- Page 29 ---
+A.5.- Résultats du test de Kocenda appliqué aux résidus re-
+standardisés des différents modèles estimés
+A.5.1.- Résidus restandardisés du modèle de l’indice général INDGEN
+Epsilon range : 0.50 - 1.50
+Set of critical values : 500
+Dimension (m) K2K Signif.(1%) Signif.(5%)
+2 1.671 reject do not reject
+3 2.364 reject do not reject
+4 3.083 reject do not reject
+5 3.533 reject do not reject
+A.5.2.- Résidus restandardisés du modèle du sous-indice ALBOTA
+Epsilon range : 0.50 - 1.50
+Set of critical values : 500
+Dimension (m) K2K Signif.(1%) Signif.(5%)
+2 1.730 do not reject do not reject
+3 2.535 do not reject do not reject
+4 3.473 do not reject do not reject
+5 4.386 do not reject do not reject
+A.5.3.- Résidus restandardisés du modèle du sous-indice DEPMAI
+Epsilon range : 0.50 - 1.50
+Set of critical values : 500
+Dimension (m) K2K Signif.(1%) Signif.(5%)
+2 1.718 do not reject do not reject
+3 2.606 do not reject do not reject
+4 3.570 do not reject do not reject
+5 4.462 do not reject do not reject
+28
+
+--- Page 30 ---
+A.5.4.- Résidus restandardisés du modèle du sous-indice EDULOI
+Epsilon range : 0.50 - 1.50
+Set of critical values : 500
+Dimension (m) K2K Signif.(1%) Signif.(5%)
+2 1.497 reject do not reject
+3 2.257 reject do not reject
+4 2.984 reject do not reject
+5 3.509 reject do not reject
+A.5.5.- Résidus restandardisés du modèle du sous-indice HABCHA
+Epsilon range : 0.50 - 1.50
+Set of critical values : 500
+Dimension (m) K2K Signif.(1%) Signif.(5%)
+2 1.472 reject do not reject
+3 2.254 reject do not reject
+4 3.115 reject do not reject
+5 3.553 reject do not reject
+A.5.6.- Résidus restandardisés du modèle du sous-indice SANSOI
+Epsilon range : 0.50 - 1.50
+Set of critical values : 500
+Dimension (m) K2K Signif.(1%) Signif.(5%)
+2 1.408 reject do not reject
+3 1.955 reject do not reject
+4 2.503 reject do not reject
+5 2.943 reject do not reject
+29
+
+--- Page 31 ---
+A.5.7.- Résidus restandardisés du modèle du sous-indice TRSCOM
+Epsilon range : 0.50 - 1.50
+Set of critical values : 500
+Dimension (m) K2K Signif.(1%) Signif.(5%)
+2 1.517 reject do not reject
+3 2.363 reject do not reject
+4 3.200 reject do not reject
+5 3.367 reject do not reject
+30
+
+--- Page 32 ---
+A.6.- Intervalles de confiance à 5 % pour les différents sous-
+indices
+A.6.1.- Intervalles de confiance à 5% de la composante ALBOTA
+Horizon (h) Prédiction Borne inf. Borne sup.
+1 201.60 196.33 206.88
+2 201.72 194.85 208.58
+3 201.81 194.66 208.96
+4 201.89 194.68 209.09
+5 201.97 194.75 209.18
+6 202.04 194.82 209.26
+A.6.2.- Intervalles de confiance à 5% de la composante DEPMAI
+Horizon (h) Prédiction Borne inf. Borne sup.
+1 157.77 155.53 160.02
+2 157.95 155.21 160.69
+3 158.14 154.76 161.52
+4 158.33 154.56 162.10
+5 158.53 154.80 162.25
+6 158.73 154.85 162.82
+A.6.3.- Intervalles de confiance à 5% de la composante SANSOI
+Horizon (h) Prédiction Borne inf. Borne sup.
+1 151.70 149.24 154.16
+2 152.00 149.35 154.64
+3 152.30 149.51 155.08
+4 152.38 149.47 155.30
+5 152.65 149.61 155.69
+6 153.13 149.97 156.29
+31
+
+--- Page 33 ---
+A.6.4.-Intervallesdeconfiancebootstrapà5%delacomposanteHABCHA
+Nombre de réplications faites 50000.
+Horizon (h) Prédiction Borne inf. Borne sup.
+1 172.22 157.66 187.09
+2 171.55 152.54 195.09
+3 171.65 140.40 210.87
+4 171.75 127.76 227.18
+5 171.84 114.96 243.54
+6 171.94 102.19 259.33
+A.6.5.-Intervallesdeconfiancebootstrapà5%delacomposanteEDULOI
+Nombre de réplications faites 50000.
+Horizon (h) Prédiction Borne inf. Borne sup.
+1 149.98 141.22 167.80
+2 149.41 130.54 177.79
+3 148.22 119.17 188.60
+4 147.97 107.47 199.95
+5 147.21 95.48 211.76
+6 146.91 83.21 223.84
+A.6.6.-Intervallesdeconfiancebootstrapà5%delacomposanteTRSCOM
+Nombre de réplications faites 50000.
+Horizon (h) Prédiction Borne inf. Borne sup.
+1 174.11 134.81 191.50
+2 174.22 128.91 197.57
+3 174.33 122.99 203.75
+4 174.45 117.07 209.94
+5 174.55 111.07 216.16
+6 174.67 105.04 222.39
+32
+
+--- Page 34 ---
+A.7.- Représentations graphiques conjointes des séries observée
+et simulée respectivement selon les approches directe et indirecte
+A.7.1.- Indice général observé et indice général simulé selon la méthode
+directe dans l’échantillon
+190
+180
+170
+160
+150
+140
+130
+95 96 97 98 99 00 01 02 03
+INDGEN INDG_DIR
+Figure 1
+33
+
+--- Page 35 ---
+A.7.2.- Indice général observé et indice général simulé selon la méthode
+indirecte dans l’échantillon
+190
+180
+170
+160
+150
+140
+130
+95 96 97 98 99 00 01 02 03
+INDG_DIR INDG_IND
+Figure 2
+34
+
+--- Page 36 ---
+A.7.3.- Indice général observé et indice général simulé selon les méthodes
+directe et indirecte hors-échantillon avec intervalles de confiance respectifs à
+5 %
+210,0
+200,0
+190,0
+C
+P180,0
+I
+170,0
+160,0
+150,0
+1 2 3 4 5 6 7
+Horizo
+Pred_dir Dir_binf dir_bsup Pred_ind Ind_binf Ind_bsup Réa
+Figure 3
+35

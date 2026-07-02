@@ -1,0 +1,1135 @@
+Source PDF : BEAC_Working_Paper_n°01_25_-_Évaluation_du_taux_d'intérêt_naturel_dans_la_CEMAC_8292823e.pdf
+Chemin original : scraping\beac_data\Publications\Working Papers\BEAC_Working_Paper_n°01_25_-_Évaluation_du_taux_d'intérêt_naturel_dans_la_CEMAC_8292823e.pdf
+Date extraction : 15/06/2026 21:19:14
+======================================================================
+
+--- Page 1 ---
+BEAC
+Banque de s Etats de
+l’Afrique Centrale
+BEAC Working Paper
+- BWP N° 01/25 -
+Évaluation du taux d’intérêt naturel dans la CEMAC
+Evrard Ulrich MOUNKALA
+Docteur en sciences économiques
+Direction des Etudes, de la Recherche, des Statistiques
+et des Relations Internationales
+Mounkala@beac.int
+B ANQ U E D E S E T A T S D E
+Les opinions émises dans ce document de
+L’AF R IQ U E C E NT R ALE
+travail sont propres à leur(s) auteur(s) et ne
+7 36, Av e n ue M on s e i g n e ur représentent pas nécessairement la position de la
+V og t B P:1 9 1 7 Y a o un d é
+Banque des Etats de l’Afrique Centrale.
+C a me roun
+The opinions expressed in this working paper
+T e l :(2 37 ) 2 2 2 34 0 30 /
+are those of the author(s) and do not necessarily
+2 2 2 34 060
+represent the views of the Bank of Central Africa
+F a x : (2 37 ) 2 2 2 33 32 9
+States.
+ww w.be a c.i n t
+LA DIRECTION DES ETUDES, DE LA RECHERCHE, DES STATISTIQUES ET DES RELATIONS
+INTERNATIONALES
+
+--- Page 2 ---
+Évaluation du taux d’intérêt naturel dans la CEMAC
+Evrard Ulrich MOUNKALA, Ph.D
+3 mars 2025
+Résumé
+Dans ce papier, nous traitons du problème de la détermination d’une mesure
+du taux d’intérêt neutre dans la CEMAC à l’effet de fournir à l’autorité monétaire
+une mesure de l’orientation ex post de la politique monétaire de la BEAC, en s’ap-
+puyant sur le modèle proposé par Lewis & Vazquez-Grande (2018). Ainsi, à l’aide
+des données de la CEMAC sur la période 1991Q1-2024Q4, les résultats obtenus
+fournissent un taux d’intérêt neutre médian déterminé fondamentalement par des
+facteurs hors-croissance potentielle du PIB, qui comme pour les petites économies
+ouvertes, s’inscrit sur une tendance globalement décroissante, moins pentue tou-
+tefois pour la CEMAC. L’orientation de la politique monétaire de la BEAC qui
+en découle met particulièrement en évidence un caractère restrictif depuis 2019Q3
+qui est cohérent avec ses objectifs de consolidation de ses réserves de change et de
+mitigation de l’inflation apparue en 2021 à la suite de la crise de la covid-19.-
+Abstract
+In this paper, we address the problem of determining a measure of the neutral
+interest rate in the CEMAC in order to provide the monetary authority with an
+indicator of the the BEAC’s ex post monetary policy stance, based on the model
+proposed by Lewis & Vazquez-Grande (2018). Using CEMAC data over the period
+1991Q1-2024Q4, our results provide a median NIR that is fundamentally deter-
+mined by factors other than potential GDP growth, and which, as for small open
+economies, follows an overall downward trend, albeit less steeply for the CEMAC.
+TheBEAC’sresultingmonetarypolicystancehasbeenparticularlyrestrictivesince
+2019Q3,inlinewithitsobjectivesofconsolidatingitsforeignexchangereservesand
+mitigating inflation that emerged in 2021 after the covid-19 crisis.-
+Classification JEL : E31, E43, E52.
+1
+
+--- Page 3 ---
+1 Introduction
+Dans la Communauté Économique et Monétaire de l’Afrique Centrale (CEMAC), les
+médias, dans leurs reprises des communiqués de presse de chaque session du Comité de
+Politique Monétaire (CPM) font fréquemment référence à l’orientation restrictive ou ex-
+pansionnisteouencoreneutredelapolitiquemonétairedécidéeaucoursdesditessessions.
+Si une telle appréciation est essentielle aussi bien pour les autorités monétaires que pour
+les observateurs comme le souligne De Doncker & al. (2003), que ce soit d’un point de vue
+général que d’un point de vue spécifique à une zone monétaire, l’exercice d’une évaluation
+de l’orientation de la politique monétaire est rendu difficile par la complexité doublée du
+caractère changeant de l’environnement dans lequel opère celle-ci. Le caractère indirect
+de l’action de la politique monétaire dont les délais d’impact sur les sphères réelle et
+financière et sur les prix sont relativement longs, et la grande distance qui existe entre
+les instruments et les objectifs de cette politique, au nombre desquels la stabilité des
+prix et la stabilisation de l’économie sont également d’autres facteurs contribuant à cette
+difficulté.
+A l’effet de lever un tant soit peu cette difficulté, De Doncker & al. présente une série
+d’indicateurs de mesure1 dont (i) la déviation de la masse monétaire par rapport à sa tra-
+jectoire tendancielle, (ii) les indices des conditions monétaires, (iii) les règles de politique
+monétaire voire les fonctions de réaction des banques centrales issues de problèmes d’op-
+timisation de fonctions de perte de l’autorité monétaire par rapport à ses objectifs, (iv)
+les anticipations d’inflation à moyen et long termes (5 ou 10 ans) qui pourraient découler
+de la mesure du point mort de l’inflation2 ou des enquêtes auprès des professionnels de
+la finance, et (v) le taux d’intérêt réel à court terme, dont la détermination est rendue
+ardue du fait de la multiplicité des mesures de prix utilisables comme déflateur du taux
+nominal et de l’incertitude caractérisant chacune d’elles.
+S’agissant particulièrement du taux d’intérêt réel à court terme, il serait intéressant
+pour la CEMAC dans la mesure où, pour décrire l’orientation de la politique monétaire,
+1. Pourunerevueexhaustivedesindicateursmentionnésetdeleursspécificitésrespectivesentermes
+de construction, d’avantages, d’inconvénients, d’interprétation et de limites, la lecture du papier est
+recommandée.
+2. Le point mort de l’inflation est déduit de l’écart entre les taux de rendement des obligations
+nominales à 10 ans et des taux de rendement des obligations indexées de même durée émise par l’Etat.
+2
+
+--- Page 4 ---
+relève De Doncker & al. (2003), il est tout à fait naturel de partir des instruments utilisés
+par la banque centrale. A ce propos, depuis la troisième génération de réformes de sa
+politique monétaire en 2018, la BEAC utilise désormais des instruments de politique
+monétaire synthétisés par le taux d’intérêt des appels d’offres - TIAO, son principal taux
+directeur. Par extension, l’évolution des taux d’intérêt à très court terme du marché
+monétaire de la CEMAC peut être pour l’essentiel considérée comme le reflet de l’action
+de la Banque Centrale.
+Le choix du taux d’intérêt réel à court terme étant pertinent pour l’analyse, c’est
+davantage son écart par rapport à son niveau naturel qui est l’indicateur de référence
+dans l’appréciation de l’orientation de la politique monétaire (Mésonnier, 2005). Dès lors,
+tout l’enjeu de l’exercice consiste à rechercher une mesure fiable pour calculer le niveau
+naturel du taux d’intérêt réel. D’un point de vue historique, il peut être remarqué que le
+concept de taux d’intérêt naturel a été vulgarisé dans Wicksell (1936), une traduction de
+son ouvrage initial édité en 1898, par R.F. Kahn, lorsqu’il écrivit :
+Il existe un certain taux d’intérêt sur les prêts qui est neutre par rapport aux
+prix des marchandises et qui ne tend ni à les augmenter ni à les diminuer. Ce
+taux est nécessairement le même que celui qui serait déterminé par l’offre et
+la demande si l’argent n’était pas utilisé et si tous les prêts étaient effectués
+sous la forme de biens d’équipement réels.
+Il est intéressant de noter que dans la conception wicksellienne, le taux d’intérêt naturel
+ou taux d’intérêt neutre est indépendant de la monnaie, donc de la politique monétaire.
+Par la suite, d’autres définitions du taux d’intérêt naturel ont été proposées dans
+la littérature économique. Selon Bomfim (1997), le taux d’intérêt naturel est le taux
+d’intérêt réel de court terme qui est compatible avec l’output convergeant vers son niveau
+potentiel, c’est-à-dire le niveau de l’output compatible avec une inflation stable. De ce
+pointdevuerelèveLaubach&Williams(2001),letauxd’intérêtnaturelreprésenteletaux
+réel à moyen terme qui servirait d’« ancre » pour la conduite de la politique monétaire
+et correspondrait à l’ordonnée à l’origine dans les règles de type Taylor.
+Woodford(2003),dansl’appareillageNéo-keynésiendesmodèlesDSGE3 parexemple,
+définitletauxd’intérêtneutrecommeletauxd’intérêtd’équilibrequiprévaudraitenl’ab-
+sencederigiditésnominales,c’est-à-direquandlesprix(etlessalaires)sontcomplètement
+3. Dynamic Stochastic General Equilibrium models.
+3
+
+--- Page 5 ---
+flexibles. L’absence de rigidités des prix fait que ce concept de taux d’intérêt naturel ôte
+toute pertinence à la politique monétaire. Cette définition met également en exergue
+l’indépendance du taux d’intérêt neutre de la politique monétaire comme indiqué précé-
+demment par Wicksell (1936). Pour Holston & al. (2017), le concept de taux d’intérêt
+naturel estimé dans les modèles DSGE est défini comme le taux d’intérêt réel qui atteint
+la stabilité des prix période après période, et qui est de ce fait considéré comme une com-
+binaison linéaire stationnaire des chocs transitoires sur la technologie et les préférences
+des agents économiques. Plus récemment enfin, Brubakk & al. (2018) définit le taux d’in-
+térêt naturel comme le niveau du taux d’intérêt réel cohérent avec l’output à son niveau
+potentiel et le taux d’inflation à son niveau cible, après que toutes les perturbations cy-
+cliques se soient dissipées, normalement entre 5 et 10 ans. Il précise par ailleurs que leur
+définition du taux d’intérêt naturel est aussi équivalente avec le taux d’intérêt réel qui
+équilibre le marché des capitaux à moyen et long terme.
+Une fois le concept de taux d’intérêt naturel ou taux d’intérêt neutre ou encore taux
+d’intérêt réel d’équilibre défini, l’appréciation ex post de l’orientation de la politique
+monétaire se fait, comme souligné plus haut, à partir de la mesure de l’écart entre le
+taux d’intérêt réel à court terme et le taux d’intérêt naturel. Ainsi, l’orientation de la
+politique monétaire est dite expansionniste (resp. restrictive) si cet écart est positif (resp.
+négatif) ou en d’autres termes, si le taux d’intérêt réel à court terme est au-dessus (resp.
+au-dessous) du taux d’intérêt naturel. Elle est dite neutre en cas d’écart nul, c’est-à-dire
+d’égalité des deux taux d’intérêt.
+L’opérationnalisation de cette démarche pour évaluer l’orientation de la politique mo-
+nétaire est rendue difficile par le caractère inobservable du taux d’intérêt naturel, dont
+la détermination nécessite alors de recourir à un mix d’hypothèses identifiantes et de
+techniques quantitatives d’extraction de signal. Dès lors, l’objectif de cette réflexion sur
+l’économie de la CEMAC est de déterminer une mesure du taux d’intérêt naturel de-
+vant permettre dorénavant à l’autorité monétaire et aux médias d’évaluer empiriquement
+l’orientation de la politique monétaire décidée par la BEAC à l’issue des sessions de son
+Comité de Politique Monétaire.
+La suite de ce papier passe succinctement en revue quelques travaux de même na-
+ture réalisés dans d’autres banques centrales (1) afin d’en dégager une spécification d’un
+modèle théorique implémentable sur l’économie de la CEMAC (2), et pour lequel la stra-
+4
+
+--- Page 6 ---
+tégie d’estimation empirique sur les données économiques pertinentes sera présentée (3).
+La quatrième section sera consacrée à la présentation et la discussion des résultats de
+l’évaluation ex post de l’orientation de la politique monétaire de la BEAC sur la période
+d’analyse. La dernière section conclut cette étude.
+2 Revue succincte de la littérature
+La détermination empirique du taux d’intérêt naturel ou d’équilibre ou neutre fait
+l’objet d’une littérature abondante parmi les banques centrales qui, afin d’accroître et de
+renforcer la crédibilité de leur engagement d’atteindre leur(s) objectif(s) final(s), commu-
+niquent abondamment sur la conduite et surtout l’orientation de leurs politiques moné-
+taires respectives. Pour ce faire, il leur est impératif de disposer d’au moins une mesure
+du taux d’intérêt naturel. C’est en relation avec cette nécessité que depuis la contribution
+séminale de Laubach & Williams (2003), plusieurs auteurs ont procédé à des mesures du
+taux d’intérêt neutre des banques centrales dans le monde4 avec différentes approches
+méthodologiques.
+D’une manière générale, les approches mobilisées dans les différents travaux théo-
+riques et empiriques sur l’estimation du taux d’intérêt neutre peuvent être rangées en
+trois principales catégories, ainsi que l’a noté Fuentes & Gredig (2007), à savoir, (i) les
+approches adossées à la théorie économique pure, (ii) les approches extrayant le taux
+d’intérêt naturel implicitement dans le prix des actifs financiers, et (iii) les approches
+s’appuyant sur des modèles d’économétrie des séries temporelles.
+S’agissant premièrement des approches adossées à la théorie économique pure, deux
+sous-catégories se dégagent, avec d’une part les approches semi-structurelles, et d’autre
+part les modèles DSGE. En ce qui concerne les approches semi-structurelles, elles re-
+montent à la contribution pionnière de Laubach & Williams (2001), qui a été régulière-
+4. Sans être exhaustif, il peut être cité notamment Laubach & Williams (2003) sur le Canada, les
+Etats-Unisetl’Europe;Mésonnier(2005)surlaBanqueCentraleEuropéenne;Fuentes&Gredig(2007)
+sur la Banque du Chili; Lubik & Matthes (2015), revisité dans Lubik & Matthes (2023), sur la Federal
+Reserve américaine; Brubakk & al. (2018) sur la Banque de Norvège; Wynne & Zhang (2018) sur
+l’économie globale; Lee & al. (2020) sur les Banques du Japon et de Corée du Sud; Céspedes & Coria
+(2021) sur la Banque de Bolivie; Dahlberg (2023) et Buncic (2024) sur la Sveridge Riksbank; et Maka
+(2023) sur la Banque du Brésil.
+5
+
+--- Page 7 ---
+ment revisitée dans Laubach & Williams (2003), Laubach & Williams (2016) et Holston
+& al. (2017), pour en affiner le cadre théorique de modélisation du taux d’intérêt naturel
+comme un processus temporellement variable puis, plus récemment dans Holston & al.
+(2023), pour y intégrer l’incidence de la pandémie de la Covid-195 sur la conduite de
+la politique monétaire par les banques centrales. Les approches relevant de cette sous-
+catégorie combinent la référence à un petit modèle semi-structurel simple de l’économie
+avec un filtre statistique, en l’occurrence le filtre de Kalman, pour en extraire la mesure
+du taux d’intérêt neutre défini comme le taux d’intérêt réel orienté vers la stabilité des
+prix à moyen terme, tout en permettant la prise en compte de ses fluctuations lentes,
+note Mésonnier (2005). A quelques variantes et hypothèses spécifiques supplémentaires
+apportées au cadre séminal de Laubach & Williams (2001), plusieurs travaux à sa suite
+peuvent être classés dans cette sous-catégorie, dont Pescatori & Turunen (2016) qui uti-
+lise des priors assez resserrés des paramètres de certaines composantes inobservées et
+apportent quelques aménagements tels qu’une estimation de l’output gap hors du mo-
+dèle, l’introduction de taux d’intérêt fictifs pour faciliter la prise en compte de la borne
+inférieure à zéro et des données sur l’épargne et l’incertitude économique devant sous-
+tendre la composante hors-croissance du taux d’intérêt naturel; Johannsen & Mertens
+(2018) qui introduit une volatilité stochastique et une limite inférieure effective aux taux
+d’intérêt aussi bien dans les équations des variables observées que dans celles des com-
+posantes inobservables, tout en maintenant l’hypothèse de marche aléatoire gouvernant
+la dynamique du taux de croissance potentiel de l’output; et Kiley (2020) qui retire la
+dépendance de r∗ du taux de croissance potentiel pour en identifier la composante ré-
+siduelle, à savoir les autres déterminants hors-croissance réelle. Il convient de souligner
+que nombre de travaux empiriques régulièrement réalisés dans les banques centrales se
+rangent dans cette sous-catégorie.
+Dans la sous-catégorie des modèles DSGE, il peut être cité Woodford (2003), Giam-
+marioli & Valla (2004), Barsky & al. (2014) et Okazaki & Sudo (2018), qui s’appuyant
+sur le modèle néo-keynésien, intègrent directement la détermination du taux d’intérêt
+neutre en démontrant qu’il y est lié aux fondamentaux économiques tels que les chocs
+5. Benigno & al. (2024) a également mené une réflexion dans cette optique pour voir comment les
+modifications incidentes de la Covid-19 sur l’équilibre épargne-investissement conjuguées avec un envi-
+ronnement plus inflationniste, qui a suscité une forte réaction de la politique monétaire, peuvent avoir
+été des facteurs d’augmentation du taux d’intérêt naturel (r∗) et de ses perceptions.
+6
+
+--- Page 8 ---
+de productivité ou les changements dans les préférences des consommateurs; Gali (2008)
+qui part du modèle de croissance néoclassique pour illustrer l’ancrage théorique du mo-
+dèlesemi-structurelproposédansLaubach&Williams(2003);maisaussiCanzoneri&al.
+(2015) qui examine deux modèles DSGE dont un modèle standard et un autre dans lequel
+les obligations d’État fournissent des liquidités pour l’analyse des mouvements soutenus
+du taux d’intérêt naturel induits par les chocs budgétaires; Lewis & Vazquez-Grande
+(2018) avec la prise en compte de chocs transitoires; Andrade & al. (2019) dans un cadre
+d’optimalité du ciblage d’inflation; Neri & Gerali (2019) dans un DSGE de taille médiane
+présentant un riche assortiment de chocs cohérents avec les explications avancées dans
+la littérature pour sous-tendre la tendance séculaire à la baisse des taux d’intérêt; et
+Lopez-Salido & al. (2020) avec le rôle des anticipations d’inflation.
+Dans la deuxième catégorie des travauxqui extraient le taux d’intérêt naturel de façon
+implicite dans les prix des actifs financiers, il peut être mentionné Hordahl & Tristani
+(2014), qui développe un modèle de structure des taux utilisant des informations sur
+l’ensemble des échéances des obligations afin d’en déduire la trajectoire des taux d’intérêt
+futurs attendus et la prime à terme qui compense le risque de détention d’obligations
+à long terme; Krustev (2019), qui étend le modèle de Laubach & Williams (2003) en y
+introduisant un rôle explicite pour le cycle financier dans l’estimation conjointe des taux
+d’intérêtnaturels,duchômageetdelaproduction,ainsiquedutauxdecroissancedurable
+de l’économie américaine; et Ajevskis (2020) qui estime le taux d’intérêt naturel à l’aide
+d’un modèle de structure à terme d’un taux d’intérêt fictif conjugué avec des informations
+surlesrendementsnominauxdanslaZoneeuro.Enfin,letravaildeDelNegro&al.(2017)
+est à cheval sur cette deuxième catégorie et la sous-catégorie précédente des modèles
+DSGE.
+La troisième catégorie enfin regroupe les approches qui utilisent l’économétrie des sé-
+ries temporelles pour en extraire le taux d’intérêt naturel. Dans cette catégorie l’on peut
+retenir Lubik & Matthes (2015), qui utilise la modélisation vectorielle autorégressive avec
+des paramètres temporellement variables (TVP-VARs6) sur un système à trois endogènes
+dont le taux d’inflation, le taux de chômage et le taux d’intérêt nominal. De ce fait, en re-
+courant à une estimation bayésienne des paramètres temporellement variables du modèle,
+6. Cette technique de modélisation a été introduite en macroéconomie par Cogley & Sargent (2001)
+et Primiceri (2005) pour permettre l’exploration de davantage de relations non-linéaires dans le modèle.
+7
+
+--- Page 9 ---
+le taux d’intérêt neutre est alors extrait à partir de restrictions identifiantes sur l’impact
+nul à long-terme des grandeurs nominales sur les grandeurs réelles. La spécification du
+modèle espace-état de Holston & al. (2017), estimé avec un filtre de Kalman, relève aussi
+de cette catégorie. A leur suite, plusieurs travaux ont utilisé l’une ou l’autre voire ces
+deux approches pour mesurer le taux d’intérêt naturel dans différentes économies, au
+nombres desquels (i) Brubakk & al. (2018) sur l’économie norvégienne, avec les deux
+approches et pour variables endogènes le taux de croissance réelle, le taux d’inflation et
+le taux d’intérêt réel - correspondant au taux directeur de la Banque de Norvège à 3
+mois minoré du taux d’inflation; (ii) Wang (2019) qui emploie le modèle TVP-VAR-SV
+avec prise en compte d’une volatilité stochastique pour mesurer r∗ sur l’économie chi-
+noise; (iii) Fu & Wang (2020) qui étend le modèle TVP-VAR-SV à la prise en compte
+des changements de régimes de politique monétaire de la Banque Nationale Populaire de
+Chine; (iv) Dahlberg (2023) qui reprend Brubakk & al. (2018) sur l’économie suédoise;
+(v) Lubik & Matthes (2023) qui actualise son modèle de 2018 pour tenir compte de la
+volatilité induite par le choc de la COVID-19; et Armelius & al. (2024) qui procède à une
+estimation bayésienne d’un modèle factoriel dynamique, lié à des indicateurs économiques
+clés pour une meilleure identification des fluctuations du cycle des affaires, pour mesurer
+r∗ dans les pays scandinaves (Danemark, Norvège et Suède).
+En définitive, à la revue des approches regroupées dans ces trois catégories, il y a lieu
+de remarquer qu’aucune d’elles est supérieure à toutes les autres, chacune fournissant une
+mesure du taux d’intérêt neutre qui permet d’apprécier ex post l’orientation de la poli-
+tique monétaire. Par conséquent, discriminer parmi elles pour retenir celle implémentable
+sur l’économie de la CEMAC doit prendre en considération la simplicité de la méthode,
+la disponibilité des données et la pertinence économique des résultats. A propos de la
+simplicité de la méthode, les approches DSGE sont plutôt complexes pour la caractéri-
+sation des comportements des agents économiques et de leurs interactions respectives,
+gourmandes en données aussi bien micro que macroéconomiques, supposent l’existence
+d’un état stationnaire ou régulier et impliquent une multitude de paramètres structurels,
+entre autres. A ce titre, elles ne sauraient être envisagées dans le cas de la CEMAC. En
+revanche, les approches semi-structurels et celles adossées aux méthodes d’économétrie
+des séries temporelles, dont la simplicité est comparativement établie, cochent également
+les cases en ce qui concerne la disponibilité des données nécessaires à leur estimation et
+8
+
+--- Page 10 ---
+la pertinence économique des résultats des mesures de r∗ qui en découleraient. Dans ce
+papier, le choix est fait de retenir une approche semi-structurelle tandis que l’approche
+VAR-TVP est réservée pour un futur papier.
+3 Cadre théorique et stratégie d’estimation
+Dans la sous-catégorie des modèles semi-structurels pour la mesure et l’extraction
+du taux d’intérêt naturel, le modèle de Laubach & Williams (2003) s’est imposé comme
+cadre théorique de référence. Découlant du cadre néo-keynésien, avec comme principales
+caractéristiques dans sa forme réduite, une courbe IS intertemporelle et une courbe de
+Phillips, il décrit les dynamiques sous-tendant l’output gap, l’inflation et le taux d’intérêt
+neutre. Parmi les adaptations et aménagements qui y ont été apportés, la spécification
+de Lewis & Vazquez-Grande (2018) nous semble la plus simple et la moins gourmande
+en données pour pouvoir être implémentée sur l’économie de la CEMAC. Elle se présente
+comme suit :
+a
+r
+y˜ = a y˜ +a y˜ + (r˜ −r˜ )+σ ε (1)
+t 1 t−1 2 t−2 t−1 t−2 1 1,t
+2
+4 π
+X t−i
+π = b π +(1−b ) +b y˜ +σ ε (2)
+t 1 t−1 1 y t−1 2 2,t
+3
+i=2
+r∗ = g +z (3)
+t t t
+z = µ (1−ρ )+ρ z +σ ε (4)
+t z z z t−1 3 3,t
+y∗ = y∗ +g +σ ε (5)
+t t−1 t−1 4 4,t
+g = µ (1−ρ )+ρ g +σ ε (6)
+t g g g t−1 5 5,t
+où y est le logarithme du PIB réel, y∗ est le logarithme du PIB potentiel et y˜ ≡ y −y∗
+est l’output gap; r˜≡ r−r∗ où r est le taux d’intérêt réel de court terme, avec r∗ le taux
+d’intérêt naturel et r˜l’écart de taux d’intérêt; g est le taux de croissance du PIB potentiel
+et z désigne les autres déterminants persistants hors-croissance réelle du taux d’intérêt
+naturel qui ne sont pas explicitement identifiés, comme l’a remarqué Laubach & Williams
+(2016); et les ε , i = 1,2,...,5, sont des termes d’erreurs aléatoires indépendants et
+i,t
+identiquement distribués suivant une loi N(0, 1).
+En termes de signification, (1) est l’expression de la courbe IS intertemporelle dans
+laquelle a est un paramètre négatif; (2) est une courbe de Phillips; (3) est l’équation de
+r
+définition du taux d’intérêt neutre déterminé par le taux de croissance du PIB potentiel,
+9
+
+--- Page 11 ---
+g , et les autres variables non explicitement définies, z ; les équations (4) à (6) décrivent
+t t
+les processus dynamiques des variables inobservables z , y∗ et g respectivement. Dans les
+t t t
+autres déterminants possibles du taux d’intérêt neutre désignés par z , Del Negro & al.
+t
+(2019) et Hamilton & al. (2016) notamment y regroupent, entre autres, les changements
+démographiques, la politique budgétaire et les retombées de l’économie mondiale sur la
+situation domestique.
+Cette spécification de Lewis & Vazquez-Grande coïncide avec le modèle de Laubach
+& Williams (2003) si l’on retient les restrictions suivantes : ρ = ρ = 1; µ = µ = 0 et
+z g z g
+u ≡ ε ,pouri = 1,...,6oùlesu sontdesprocessusd’erreursaléatoiresindépendants,
+i,t i,t i,t
+de moyenne zéro et de variance σ2.
+i
+En suivant Hamilton (1994) après quelques manipulations algébriques, le modèle (1)-
+(6) peut être réécrit sous la forme espace-état suivante :
+s = As +Bu +Cω (7)
+t t−1 t t
+x = Ds +Fu +Gω (8)
+t t t t
+où s ≡
+h
+y∗,y∗ ,y∗ ,g ,g ,z ,z
+i0
+est le vecteur des états; x ≡ [y ,π ]0 est
+t t t−1 t−2 t−1 t−2 t−1 t−2 t t t
+(cid:20) π (cid:21)0
+le vecteur des espaces; u ≡ 1,y ,y ,r ,r ,π ,P4 t−i est le vecteur des
+t t−1 t−2 t−1 t−2 t−1 i=2 3
+variables exogènes; et ω = [ε ,ε ,ε ,ε ,ε ]0 est le vecteur des chocs aléatoires. Les
+t 1,t 2,t 3,t 4,t 5,t
+matrices des paramètres A, B, C, D,F, et G sont explicitement fournies à l’annexe A.
+En termes de stratégie d’estimation, à la différence de la procédure en trois étapes
+proposée par Laubach & Williams (2016) pour corriger le problème du biais d’empile-
+ment inhérent à l’approche bayésienne, Lewis & Vazquez-Grande (2018), à partir des
+modifications apportées à l’expression générique du terme d’erreur aléatoire, propose une
+procédure d’estimation bayésienne complète, avec l’utilisation du filtre de Kalman, de
+tous les paramètres du modèle, s’affranchissant ainsi du « pile-up problem »ou problème
+du biais d’empilement. Pour ce faire, les auteurs retiennent des distributions a priori très
+générales des paramètres du modèle telles que reprises dans le tableau 1.
+Dans le cas de l’économie de la CEMAC particulièrement, deux spécifications dis-
+tinctes du modèle de Lewis & Vazquez-Grande (2018) seront estimées, dont un modèle
+de base qui s’inscrit dans la direction de Laubach & Williams (2016) avec ρ = ρ = 1,
+g z
+puis un autre dit alternatif dans lequel ρ est contraint égal à 1, donc avec incidemment
+g
+µ non-identifié, tandis que ρ est librement estimé comme dans (4) qui décrirait alors la
+g z
+10
+
+--- Page 12 ---
+dynamique de z comme gouvernée par un processus autorégressif, avec 0 < ρ ≤ 1.
+t z
+Table 1 – Distributions théoriques des priors des paramètres du modèle
+Désignation Domaine Densité Moyenne Ecart-type
+a R Normale 0 2
+1
+a R Normale 0 2
+2
+a R− Normale 0 2
+r
+b [0, 1] Uniforme(a) 0 1
+1
+b R+ Normale 0 2
+y
+ρ R+ Normale 1 2
+g
+µ R Normale 0 2
+g
+ρ R+ Normale 1 2
+z
+µ R Normale 0 2
+z
+σ [0,5] Uniforme 0 5
+1
+σ [0,5] Uniforme 0 5
+2
+σ [0,5] Uniforme 0 5
+3
+σ [0,5] Uniforme 0 5
+4
+σ [0,5] Uniforme 0 5
+5
+(a) Le deuxième paramètre de la loi uniforme correspond à la borne supérieure de l’intervalle
+de définition des valeurs possibles du paramètre. Les domaines pour les paramètres a , b , ρ
+r y g
+et ρ sont les distributions tronquées des densités a priori correspondantes.
+z
+Enfin, pour que le modèle semi-structurel fasse sens en termes d’interprétation éco-
+nomique des résultats, comme l’a fait Lewis & Vazquez-Grande (2018) en s’inspirant de
+Laubach & Williams (2003), quelques restrictions identifiantes sont imposées sur certains
+paramètres structurels.
+Dans l’équation (1) de la courbe IS intertemporelle, il est imposé la négativité du
+coefficient du taux d’intérêt réel retardé, avec une contrainte plus forte encore d’être
+plus faible, a < −0.0025. Dans l’équation (2) correspondant à la courbe de Phillips,
+r
+pour que les coefficients des valeurs retardées de l’inflation se somment à l’unité, il est
+imposé que b soit compris entre 0 et 1. De même, étant donné que l’effet attendu de
+1
+l’output gap retardé sur l’inflation est positif et assez faible, il est imposé la restriction
+b > 0.025. Pour finir, dans l’équation (3) de définition du taux d’intérêt neutre, en vue
+y
+11
+
+--- Page 13 ---
+d’obtenir une auto-covariance positive entre ses composantes g et z dans l’éventualité
+t t
+d’une stationnarité, il est imposé que les paramètres ρ et ρ doivent être positifs.
+z g
+4 Les données
+Pour les besoins de l’évaluation empirique du modèle semi-structurel proposé par
+Lewis & Vazquez-Grande (2018) sur l’économie de la CEMAC, les séries trimestrielles
+observées sont construites à partir des données du PIB réel, du taux d’inflation et du
+taux d’intérêt des appels d’offres, et sur la période s’étendant du troisième trimestre 1991
+au quatrième trimestre 2024, elles sont représentées sur la figure 1.
+Figure 1 – Évolution des variables observées sur la période 1991Q1-2024Q4 dans la
+CEMAC
+La variable représentant l’output trimestriel est le logarithme du PIB réel trimes-
+trialisé (y ) avec la librairie RJDemetra proposée par Quartier-la Tente & al. (2024). Le
+t
+taux d’inflation trimestriel annualisé, noté π , est construit à partir des taux d’inflation
+t
+h i
+trimestriels, {π } , au moyen de la formule π ≡ (1+π )4 −1 × 100. Le taux
+t−1,t t≥1 t t−1,t
+d’intérêt des appels d’offres (TIAO) annualisé est construit à partir de la série observée
+du TIAO pondéré par le nombre de jours de chaque trimestre durant lesquels il est resté
+constant (n ), rapporté au nombre de jours total de l’année (N ), soit 365 pour les années
+t t
+n
+classiques et 366 pour les années bissextiles, tel que : iAnn ≡ i × t . Enfin, le taux
+t t N
+t
+12
+
+--- Page 14 ---
+d’intérêt réel (r ) est obtenu par l’écart du TIAO annualisé avec le taux d’inflation en
+t
+moyenne annuelle observé suivant une périodicité trimestrielle, dans la CEMAC.
+Une caractéristique particulièrement notable sur la dynamique de ces séries est leur
+fortes variations pendant la décennie 1990-1999, en lien avec les perturbations fortes
+induites par la dévaluation nominale de 50% du franc CFA vis-à-vis du franc français en
+janvier 1994, après la crise de la dette de la fin de la décennie précédente. A partir du
+milieu des années 2000, toutes les séries de la CEMAC ci-dessus représentées affichent
+une évolution peu erratique, signe d’une certaine stabilité économique dans la région.
+5 Résultats et discussion
+La table 2 ci-dessous présente les valeurs estimées a postériori7 des paramètres des
+modèles de base et alternatif après 60000 itérations à chaque fois, avec pour chacun
+d’eux les intervalles de confiance à 90% autour de la moyenne. Ainsi, si l’intervalle de
+confiance ne recouvre pas la valeur 0, alors nous pouvons être relativement confiant que
+le paramètre correspondant serait significativement différent de 0. C’est ce qui est bien
+le cas pour tous les paramètres estimés des deux modèles comme illustré dans la table 2.
+A titre de rappel, le modèle de base considère que les dynamiques des déterminants
+g et z du taux d’intérêt neutre sont toutes deux des marches aléatoires avec dérive
+t t
+respectivement, soit ρ = 1 et ρ = 1, tandis que pour le modèle alternatif, qui main-
+g z
+tient le processus de marche aléatoire avec dérive pour g , retient plutôt un processus
+t
+autorégressif pour la dynamique de z , soit ρ = 1 et 0 < ρ ≤ 1. Ainsi, la comparaison
+t g z
+des résultats d’estimation a posteriori de ces deux spécifications met particulièrement
+en évidence deux singularités. Premièrement, dans la courbe de Phillips estimée, l’effet
+ˆ
+empirique moyen de l’output gap retardé sur l’inflation (b ) est de l’ordre de 2.887 dans
+y
+un intervalle de confiance à 90% entre 2.573 et 3.194, pour le modèle de base, contre
+0.218 entre 0.065 et 0.435, pour le modèle alternatif. A l’évidence ces deux intervalles ne
+se recouvrent pas, et au sens de l’interprétation économique les résultats obtenus dans
+l’estimation du modèle de base paraissent peu vraisemblables au regard de ceux obtenus
+sur la CEMAC dans Daba & al. (2016), Keungne Kouotang & al. (2016) et Mvondo
+7. Les autres caractéristiques comme la médiane, le mode et l’écart-type a postériori de chacun des
+paramètres estimés sont reprises à l’annexe B.
+13
+
+--- Page 15 ---
+(2018), entre autres. Deuxièmement, l’estimation a posteriori du facteur autorégressif ρ
+z
+sous le modèle alternatif montre que l’hypothèse nulle d’un processus générateur de type
+marche aléatoire pour la dynamique des autres déterminants non clairement explicités
+(z ) du taux d’intérêt neutre dans la CEMAC peut être rejetée au seuil de confiance de
+t
+90%. En effet, ρˆ = 0.913 en moyenne, dans l’intervalle de confiance correspondant entre
+z
+0.830 et 0.971, résultat qui permet également de conclure que les simulations faites ne
+suffisent pas pour rejeter l’hypothèse nulle ρ < 1.
+z
+Table 2 – Résultats de l’estimation a posteriori des paramètres
+Modèle de base Modèle Alternatif
+Paramètre
+Moyenne Intervalle à 90% Moyenne Intervalle à 90%
+Courbe IS
+a 0.418 [0.248,0.563] 1.620 [1.549,1.685]
+1
+a 0.289 [0.167,0.438] -0.791 [−0.842,−0.730]
+2
+a -0.005 [−0.008,−0.003] -0.041 [−0.048,−0.035]
+r
+a +a 0.707 [0.599,0.809] 0.829 [0.777,0.871]
+1 2
+Courbe de Phillips
+b 0.539 [0.484,0.599] 0.539 [0.478,0.584]
+1
+b 2.887 [2.573,3.194] 0.218 [0.065,0.435]
+y
+Variances
+s 0.017 [0.004,0.034] 0.072 [0.045,0.098]
+1
+s 4.971 [4.939,4.997] 4.973 [4.943,4.996]
+2
+s 1.455 [0.264,3.004] 4.750 [4.463,4.975]
+3
+s 0.073 [0.062,0.086] 0.042 [0.025,0.060]
+4
+s 0.310 [0.285,0.340] 0.067 [0.031,0.105]
+5
+λ 4.318 [3.661,4.883] 1.804 [0.638,3.275]
+g
+λ 0.738 [0.067,1.838] 2.950 [1.855,4.341]
+z
+Paramètre du terme autorégressif de z
+t
+ρ - - 0.913 [0.830,0.971]
+z
+Log vraisemblance
+logL -532.32 - -438.99 -
+14
+
+--- Page 16 ---
+Au plan visuel, la densité de probabilité a posteriori est reprise sur la figure 2. L’im-
+plication de ce résultat indique de ce fait que les chocs qui gouvernent la dynamique des
+autres déterminants non clairement explicités du taux d’intérêt neutre auraient plutôt un
+effet assez persistant dans le temps, s’amenuisant après une très longue période, mais pas
+permanent comme cela aurait été le cas en présence d’une marche aléatoire. Cependant,
+ainsi que l’a relevé Lewis & Vazquez-Grande (2018), la valeur estimée de ρ est moins
+z
+précise après 60000 réplications, la distribution a posteriori étant très étalée à gauche,
+un constat partagé sur l’économie américaine par Laubach & Williams (2003) et leurs
+papiers subséquents. Ce résultat comme les leurs illustre que l’estimation de ρ demeure
+z
+un défi d’autant plus que ses caractéristiques dépendent fortement de la distribution a
+priori retenue.
+Figure 2 – Densité a posteriori de ρ
+z
+Au regard de tout ce qui précède, la comparaison des résultats délivrés par les deux
+spécificationsexploréesdanscetteétudemetenévidencelavraisemblance,entermesd’in-
+terprétation économique dans la CEMAC, les résultats du modèle alternatif qui considère
+la résorption des effets des chocs sur les déterminants hors croissance potentielle du taux
+d’intérêt neutre. En conséquence, les résultats présentés dans la suite de cette réflexion
+sont ceux issus de l’estimation du modèle alternatif8.
+8. Lesrésultatscorrespondantsdumodèledebasesontreprisàl’annexeC,etnefontl’objetd’aucun
+commentaire eu égard à l’hypothèse, peu vraisemblable empiriquement, de la présence d’une racine
+unitaire dans le processus dynamique des autres déterminants structurels hors-croissance potentielle du
+taux d’intérêt neutre.
+15
+
+--- Page 17 ---
+Figure 3 – Évolution des variables inobservées extraites empiriquement, sur la période
+1991Q1-2024Q4, dans un intervalle de confiance à 90%
+(a) Taux d’intérêt neutre (b) PIB potentiel
+(c) Autres déterminants z (d) Taux de croissance du PIB potentiel
+t
+— Le taux d’intérêt neutre r∗ et ses composantes z et g
+t t t
+Sur la figure 3 (a), l’on peut remarquer, à partir du deuxième trimestre 2001, un profil
+d’évolution du taux d’intérêt naturel médian de la CEMAC cohérent avec l’observation
+faite, dans les petites économies ouvertes de l’impact négatif des facteurs étrangers, par
+Holston & al. (2017) et Zhang & al. (2021), entre autres. En effet, dans les petites écono-
+mies ouvertes, la trajectoire du taux d’intérêt naturel depuis le début des années 2000 est
+fortement décroissante, bien que celle de la CEMAC le soit également, mais moins pentue
+comparativement. Si dans le reste du monde, la baisse tendancielle des taux d’intérêt na-
+turel est en relation étroite avec la réponse des banques centrales pour contenir les effets
+négatifs sur l’économie des chocs exogènes forts comme la pandémie de la Covid-19 et
+les tensions géopolitiques mondiales notamment, dans la CEMAC en revanche, la faible
+pente descendante du taux d’intérêt naturel médian est à mettre surtout en rapport avec
+un contexte économique émaillé par (i) le desserrement de la politique monétaire par la
+BEAC de 2014 à 2019 pour aider ses États membres à faire face aux effets de second tour
+de la crise des subprimes de 2008 sur les cours du pétrole qui, à leur tour, ont plongé
+dès fin 2013 ceux-ci dans un creusement sensible de leurs déficits budgétaires, et (ii) des
+16
+
+--- Page 18 ---
+relèvements successifs du taux d’intérêt des appels d’offres par la BEAC pour contrer la
+chute de ses réserves de change à la suite de sa politique monétaire précédente de soutien
+à ses États membres à partir de mars 2018, puis dès septembre 2021 pour limiter l’im-
+pact anticipé sur le niveau général des prix du mouvement généralisé de fermeture des
+frontières entre les nations à l’effet d’endiguer la propagation du virus de la Covid-19,
+mais aussi de la guerre entre la Russie et l’Ukraine ainsi que des tensions géopolitiques
+liées à la guerre au Moyen-Orient.
+Un enseignement supplémentaire qui ressort de l’examen de la figure 3 (a) est l’épais-
+seur de l’intervalle de confiance à 90% autour du taux d’intérêt naturel médian. Sans
+surprise pour ce type d’estimation, la largeur assez grande de cette bande a pour im-
+plication claire que moins d’importance doit être relativement accordée à l’estimation
+ponctuelle de r∗ en tout point particulier du temps.
+Une autre particularité sur la figure (3) est le profil temporel quasi-coïncidant de
+l’évolution médiane de z -fig. 3(c)- avec celle du taux d’intérêt naturel médian. Cette oc-
+t
+currencetraduitlaprépondérancedesautresdéterminantshors-croissanceréelle9 dutaux
+d’intérêt neutre sur le taux de croissance du PIB potentiel, ce que confirme l’historique
+des contributions respectives de ces déterminants comme rapporté par la figure 4 (c),
+avec une contribution négligeable comparativement de g , modélisé comme un processus
+t
+de marche aléatoire avec une dérive indéterminée. A ce stade, il y a lieu de remarquer que
+même si nous ne savons pas clairement ce qui détermine intrinsèquement la dynamique de
+z , il n’est pas saugrenu d’envisager, étant donné que la CEMAC est une petite économie
+t
+ouverte, que les évolutions à l’étranger comme les fortes variations des cours des matières
+premières, des taux de change et d’intérêt, les primes de risques sur les marchés financiers
+internationaux aient une influence forte sur la trajectoire du taux d’intérêt naturel de la
+CEMAC.
+— Résultats de l’évaluation ex post de l’orientation de la politique moné-
+taire de la BEAC
+Comme rappelé en introduction, l’orientation ex post de la politique monétaire à éva-
+luer dans ce papier est faite au regard du positionnement du taux d’intérêt réel de la
+9. Pour rappel, ces déterminants hors-croissance réelle peuvent inclure plusieurs facteurs dont les
+changementsdémographiques,leschangementsdanslapolitiquebudgétaire,laproductivitédesfacteurs,
+les retombées des développements conjoncturelles et structurelles à l’étranger....
+17
+
+--- Page 19 ---
+banque centrale (r ) par rapport au taux d’intérêt neutre (r∗), ou plus simplement par
+t t
+le signe de l’écart des taux d’intérêt réels ou gap10 d’intérêt réel (r −r∗), selon qu’il est
+t t
+positif, au quel cas l’orientation est restrictive, ou négatif, traduisant une orientation ex-
+pansionniste, ou encore nul, pour décrire une orientation neutre de la politique monétaire.
+Figure 4 – Évolution ex post de quelques indicateurs clés
+(a) Taux d’intérêt neutre et taux d’intérêt réel (b) Orientation de la politique monétaire
+(c) Contributions à r∗ de g et z (d) Output gap et gap des taux d’intérêt
+t t t
+(e) Output gap et inflation
+Sur la figure 4 (a) l’on peut observer l’évolution sur la période d’analyse du posi-
+tionnement du taux d’intérêt réel de la BEAC par rapport au taux d’intérêt neutre.
+Cependant, il est plus intéressant d’examiner la figure 4 (b) pour une évaluation directe
+de l’orientation ex post de la politique monétaire en fonction du signe et de l’amplitude
+10. Ungapd’intérêtréelpositifindiquequelestauxd’intérêtsonttropbas,tandisqu’ungapd’intérêt
+réel négatif indique que les taux d’intérêt sont trop élevés.
+18
+
+--- Page 20 ---
+de l’écart des taux d’intérêt réels. Sur celui-ci en effet, l’on peut noter qu’avant 2007 et
+la mise en place du Comité de Politique Monétaire (CPM) de la BEAC, l’écart des taux
+réels avait des amplitudes fortes, d’abord positive entre Janvier 1994 et décembre 1999,
+période pendant laquelle le taux d’inflation de la CEMAC était très élevé particulière-
+ment à cause de la dévaluation du franc CFA en janvier 1994 et de la persistance de son
+effet sur le niveau général des prix, puis négative de janvier 2000 à décembre 2007, pé-
+riode pendant laquelle le taux d’intérêt réel est particulièrement devenu positif avec une
+inflation annuelle maîtrisée au-dessous de 3% et un taux d’intérêt nominal au-dessus de
+5%. Antérieurement à 2008, l’orientation ex post de la politique monétaire ne saurait être
+pertinente à la lumière de l’évolution de l’écart des taux réels car, sur cette période, le
+taux d’intérêt des appels d’offres (TIAO) n’était pas utilisé comme instrument principal
+de politique monétaire, mais exclusivement pour la fixation du prix du refinancement des
+banques à la Banque Centrale, qui utilisait plutôt un agrégat quantitatif comme instru-
+ment de politique monétaire pour l’objectif final de stabilité monétaire, à savoir l’objectif
+de refinancement. Ce dernier était déterminé à l’échelle de la CEMAC comme le taux de
+croissance annuelle projeté un horizon plus loin de la masse monétaire M2 et majoré de
+20%, mais aussi au niveau de chaque pays sur la base des recettes budgétaires fongibles
+d’origine nationale de l’année antérieure. Ainsi, il arrivait fréquemment que les deux in-
+dicateurs fournissaient des messages contradictoires tels que l’augmentation simultanée
+de l’objectif de refinancement et du taux d’intérêt des appels d’offres.
+A partir de 2008 et de la session inaugurale du CPM, l’amplitude de l’écart des taux
+d’intérêt réels a fortement diminué, le CPM veillant désormais à éviter les messages
+contradictoires que véhiculeraient les variations de même sens de ces deux instruments.
+De 2008 à 2012, la BEAC a mené une politique monétaire restrictive dans la contexte
+de la crise financière internationale de 2008 et son impact sur les économies nationales.
+Cependant, à partir de 2013, avec les effets de second tour de la crise financière interna-
+tionale qui a abouti en 2014 à une chute sensible des cours des matières premières dont
+le pétrole, les Etats membres de la CEMAC se sont retrouvés confrontés à une chute
+dramatique des réserves de change et des difficultés de financement. Pour y faire face, la
+BEAC a alors augmenté les objectifs de financement à des niveaux incompatibles avec
+les règles de calcul tant au niveau national qu’au niveau sous-régional. Cette orientation
+expansionniste de la politique monétaire de la BEAC entre le premier trimestre 2012 et
+19
+
+--- Page 21 ---
+le quatrième trimestre 2016 s’est traduite par une mise en péril de la stabilité extérieure
+de la monnaie, avec des réserves de change représentant moins d’un mois d’importations
+de biens et services et de service de la dette de la CEMAC en 2016, toutes choses qui ont
+conduit les six Chefs d’Etat de la Communauté à fixer, en accord avec le Fonds moné-
+taire international et le partenaire français, une matrice de 21 mesures de redressement
+économique et financier sous-régional, pour éviter un ajustement drastique de la parité
+de la monnaie commune avec l’euro. A la faveur de ces mesures, la BEAC a repris avec
+une orientation restrictive assez timide de sa politique monétaire.
+Dès le troisième trimestre 2019, après l’abandon en juin 2018 des agrégats quantita-
+tifs comme instruments de politique monétaire en faveur des taux d’intérêt, la politique
+monétaire de la BEAC est demeurée restrictive à l’effet de juguler l’impact inflationniste
+de la Covid-19 dès 2020 et de poursuivre la consolidation de la stabilité externe de la
+monnaie par le renforcement des réserves de change. Le maintien de cette orientation
+restrictive jusqu’à fin décembre 2024 est par ailleurs justifié par la persistance d’un taux
+d’inflation annuelle au-dessus de 3% depuis 2021 et d’une diminution progressive des
+réserves de change observée en 2024 avec un ratio en mois d’importations de biens et
+services revenu d’un plus-haut de 4.9 au 31 décembre 2023 à 4.4 au 31 décembre 2024.
+— Résultats de l’évaluation ex post des évolutions comparées de l’output
+gap et du gap des taux d’intérêt
+La relation temporelle entre le gap de taux d’intérêt réel et l’output gap est im-
+portante en économie monétaire particulièrement pour une banque centrale, à l’effet de
+spécifier et d’apprécier ex ante sa fonction de réaction de politique monétaire. Il est en
+effet théoriquement attendu une relation positive entre l’output gap et le gap d’intérêt
+réel de telle sorte que lorsque l’économie est en surchauffe (output gap en hausse), les
+taux d’intérêt nominaux devraient être relevés conséquemment afin de ralentir ou de frei-
+ner la croissance économique et prévenir l’inflation, et inversement, lorsque l’économie
+est en sous-utilisation des capacités de production (output gap en baisse), les taux d’in-
+térêt nominaux devraient être abaissés afin de stimuler la croissance économique tout en
+s’accommodant d’une certaine inflation. Sur la figure 4-(d) cependant, les évolutions de
+ces deux gaps sont de sens opposés sur la période d’analyse11, traduisant une politique
+11. Armelius & al. (2024) a obtenu des résultats similaires sur le Danemark, la Norvège et la Suède de
+1990Q1 à 2022Q4.
+20
+
+--- Page 22 ---
+monétaire plutôt procyclique, sauf à partir du premier trimestre de 2021, période durant
+laquelle l’output gap est devenu positif et de fortes pressions inflationnistes se sont faites
+jour. Al’effetdejuguler cesdernières,laBEACa poursuivisa politiquemonétairerestric-
+tive engagée depuis le troisième trimestre 2019 initialement pour inverser la diminution
+de ses réserves de change. Il convient par ailleurs de relever que même en examinant
+des covariances décalées jusqu’à quatre trimestres, entre ces deux indicateurs, la relation
+resterait négative sur la majeure partie de la période d’analyse, indiquant une propension
+procyclique de la politique monétaire de la BEAC.
+— Résultats de l’évaluation ex post des évolutions comparées de l’output
+gap et de l’inflation
+Théoriquement, la relation de Phillips, reprise dans l’équation (2) du modèle semi-
+structurel, modélise l’inflation comme une fonction positive de l’écart de production. La
+version hybride de cette relation, à la fois rétrospective et prospective suivant la dyna-
+mique de l’inflation avec ses valeurs retardées et anticipée, a été dérivée théoriquement
+dans Gali & Gertler (1999), avec l’output gap comme proxy du markup ou comporte-
+ment de marge des producteurs. La série inobservée de l’output gap extraite des résultats
+d’estimation du modèle examiné dans ce papier est représentée conjointement avec celle
+observée de l’inflation trimestrielle annualisée sur la figure 4 (e). L’on peut y voir que le
+coefficient de corrélation instantanée entre le taux d’inflation et l’output gap, ρ(π ,y˜),
+t t
+de l’ordre de -0.009, est non significativement non nul. En revanche, l’équation (2) estimé
+ˆ
+rapporte une valeur moyenne de b = 0.218 pour l’effet de l’output gap retardé d’un
+y
+trimestre sur l’inflation contemporaine. Ces deux résultats corroborent l’incidence théo-
+rique avec un certain délai attendue des facteurs de demande matérialisés par l’output
+gap sur l’inflation dans l’économie de la CEMAC. Une implication supplémentaire de ce
+résultat est le rejet de l’hypothèse d’une neutralité de la politique monétaire de la BEAC
+sur l’activité et les prix puisque la courbe de Phillips hybride estimée dans ce modèle est
+loin d’être plate, toutes choses qui sous-tendraient le point de vue selon lequel la BEAC
+possèderait une connaissance et une meilleure compréhension des forces réelles qui dé-
+terminent la production globale dans sa zone d’émission et est donc en mesure de mener
+une politique monétaire appropriée pour l’atteinte de l’objectif final au plan interne de
+stabilité des prix.
+21
+
+--- Page 23 ---
+— Taux d’intérêt neutre nominal de long terme
+Letauxd’intérêtnominalannualisédelongtermeressortenmoyenneautourde4.72%
+sur la période 2021Q1-2024Q4. Cette valeur est déduite du taux d’intérêt réel de long
+terme augmenté de l’inflation trimestrielle annualisée. Les deux courbes correspondantes
+sont représentées sur la figure 5. A la lumière de ces résultats sur la période d’analyse,
+la valeur moyenne de référence pour le taux d’intérêt nominal à long terme est 4.77%.
+Ainsi, le taux d’intérêt des appels d’offres défini par le Comité de Politique Monétaire
+pourrait avoir pour ancre cette valeur de référence.
+Figure 5 – Taux d’intérêt de long terme nominal et réel annualisés extraits du modèle
+semi-structurels de 2021 à 2024
+6 Conclusion
+Danscepapier,nousestimonsletauxd’intérêtnatureldanslaCEMAC,surlapériode
+1991q3-2024q4 et en extrayant également ses composantes structurelles. Ceci est réalisé à
+l’aide de la spécification semi-structurelle proposée par Lewis & Vazquez-Grande (2018),
+donttouslesparamètressontdirectementestimés,enconsidérantdespriorstrèsgénéraux,
+par une méthode bayésienne en une seule étape en lieu et place de la procédure à trois
+étapes fournie par Laubach & Williams (2016). De ce fait, selon que l’on considère ou
+non que le processus générateur des données du taux de croissance du PIB potentiel est
+une marche aléatoire avec dérive (modèle de base) ou plutôt un processus autorégressif
+stationnaire (modèle alternatif), deux modèles candidats sont explorés. Sur la période
+d’analyse, les résultats obtenus rapportent que l’hypothèse de la présence d’une marche
+22
+
+--- Page 24 ---
+aléatoire avec dérive dans le processus générateur des données des déterminants hors-
+croissance potentielle du taux d’intérêt neutre ne serait pas vraisemblable au sens des
+observations faites, au contraire de celle plutôt de la caractérisation de leur dynamique
+par un processus autorégressif stationnaire.
+Dans la même direction, en termes de résultats des extractions faites des variables
+inobservables sur la même période d’analyse, nos résultats indiquent que le taux d’intérêt
+naturel dans la CEMAC est sur une tendance décroissante depuis 2001 jusqu’à 2019, puis
+s’est stabilisé depuis lors jusqu’en décembre 2024. Il en ressort également que depuis le
+premier trimestre 2017, à l’effet d’enrayer la chute drastique des réserves de change de la
+CEMAC, revenues d’une couverture de 3.9 mois d’importations de biens et services au
+31 décembre 2015 à 2.2 mois au 31 décembre 2016, la BEAC a opté pour une orientation
+restrictivedesapolitiquemonétaire,exceptionfaitedesdeuxpremierstrimestresde2019,
+annéed’apparitiondelapandémiedelaCovid-19.Sipourl’année2017,leresserrementde
+la politique monétaire par la BEAC visait l’inversion de la trajectoire fortement baissière
+de ses réserves de change consécutive à la chute des cours du pétrole brut en 2014, le
+maintiendel’orientationrestrictivedelapolitiquemonétaireaprès2020estplutôtjustifié
+parlanécessitéaussibiendepréserverlastabilitéextérieuredelamonnaiequedecontenir
+et d’annihiler la résurgence des tensions inflationnistes apparue en 2022 incidemment aux
+contre-coups de la pandémie de la Covid-19 sur les échanges commerciaux et financiers
+internationaux.
+En termes de portée économique pour la CEMAC, les résultats empiriques du mo-
+dèle semi-structurel alternatif, qui sied le mieux aux évolutions empiriques enregistrées
+dans la CEMAC, permettent de relever que le taux d’intérêt neutre y est principalement
+déterminé par d’autres facteurs structurels, non explicitement discriminés ici, au nombre
+desquels, comme mentionnés dans la littérature théorique, les changements démogra-
+phiques, les changements dans les politiques budgétaires nationales, la productivité des
+facteurs, les variations fortes des cours des matières premières, des taux d’intérêt et de
+change sur les marchés internationaux ainsi que celles de la composition des partenaires
+commerciaux des économies de la CEMAC au cours du temps.
+A l’issue de cette réflexion, il y a néanmoins lieu de souligner que nos résultats em-
+piriques, comme ceux obtenus dans des études similaires d’extraction des composantes
+inobservablespasséesenrevuedanscepapier,demeurenttributairesdeshypothèsesfaites
+23
+
+--- Page 25 ---
+dans la modélisation des distributions a priori des paramètres du modèle semi-structurel.
+Dès lors, et à l’effet d’examiner la sensibilité de ces résultats l’économie de la CEMAC à
+la méthodologie mobilisée, une investigation future sera de mener le même travail d’ex-
+traction du taux d’intérêt neutre sur la même période avec les résultats que délivreraient
+un modèle vectoriel autorégressif structurel à paramètres temporellement variables et vo-
+latilité stochastique,TVP-VAR-SV, comme celui utilisé dans Wang & Kwan (2021), entre
+autres. -
+Références
+Ajevskis, V. (2020). The Natural Rate of Interest : Information Derived Froma Shadow Rate
+Model. Applied Economics 52(47), 5129–5138.
+Andrade, P., J. Gali, H. Le Bihan, & J. Matheron (2019). The Optimal Inflation Target and
+the Natural Rate of Interest. Brookings Papers on Economic Activity, 173–230.
+Armelius, H., M. Solberger, E. Spanberg, & P. Osterholm (2024). The Evolution of the Natural
+Rate of Interest : Evidence from the Scandinavian Countries. Empirical Economics 66, 1633–
+1659.
+Barsky, R., A. Justianino, & L. Melosi (2014). The Natural Rate of Interest and Its Usefulness
+for Monetary Policy. The American Economic Review 104(5), 37–43.
+Benigno, G., B. Hofmann, G. Nuño Barrau, & D. Sandri (2024). Quo vadis, r*? The Natural
+Rate of Interest After the Pandemic. BIS Quarterly Review, 17–30.
+Bomfim, A. N. (1997). The Equilibrium Fed Funds Rate and the Indicator Properties of Term
+Structure Spreads. Economic Inquiry 35(4), 830–846.
+Brubakk, L., J. Ellingsen, & O. Robstad (2018). Estimates of the Neutral Rate of Interest in
+Norway. Staff Memo n◦ 7.
+Buncic, D. (2024). On a Standard Method for Measuring the Natural Rate of Interest.
+Canzoneri, M., R. Cumby, & B. Diba (2015). Monetary Policy and the Natural Rate of Interest.
+Journal of Money, Credit and Banking 47(2/3), 383–413.
+24
+
+--- Page 26 ---
+Céspedes, P. E. & D. Z. Coria (2021). The Natural Rate of Interest : A Benchmark for the
+Stance of Monetary Policy in Bolivia. Centro de Estudios Monetarios Latino Americanos.
+Cogley,T.&T.J.Sargent(2001). EvolvingPost-WorldWarIIU.S.InflationDynamics. NBER
+Macroeconomics Annual 2001 16, 331–388.
+Daba, N., L. S. Keungne Kouotang, & E. U. H. Mounkala (2016). Estimation de l’écart de
+production et inflation dans la CEMAC. BEAC Working Paper BWP-07/16.
+Dahlberg, M. (2023). What Happened to R-Star? Estimating the Natural Rate of Interest in
+Sweden in Unconventional Times. Ph. D. thesis, UMEA university.
+DeDoncker,H.,M.Hradisky,&Q.Wibaut(2003). Quelquesoutilsd’évaluationdel’orientation
+de la politique monétaire. Revue Economique de la Banque Nationale de Belgique 3.
+Del Negro, M., D. Giannone, M. Giannoni, & A. Tambalotti (2017). Safety, Liquidity, and the
+Natural Rate of Interest. Brookings Papers on Economic Activity 48(1), 235–316.
+Del Negro, M., M. Giannoni, D. Giannone, & A. Tambalotti (2019). Global Trends in Interest
+Rates. Journal of International Economics 118(C), 248–262.
+Fu, B. & B. Wang (2020). The Transition of China’s Monetary Policy Regime : Before and
+After the Four Trillion RMB Stimulus. Econometric Modelling 89, 273–303.
+Fuentes, R. & F. Gredig (2007). Estimating the Chilean Natural Rate of Interest. Working
+Papers Central Bank of Chile 448.
+Gali, J. (2008). Monetary Policy, Inflation, and the Business Cycle : An Introduction to the
+New Keynesian Framework. Princeton University Press. New Jersey.
+Gali, J. & M. Gertler (1999). Inflation Dynamics : A Structural Econometric Analysis. Journal
+of Monetary Economics 44(2), 195–222.
+Giammarioli, N. & N. Valla (2004). The Natural Real Interest Rate and Monetary Policy : A
+Review. Journal of Policy Modelling 26(5), 641–660.
+Hamilton, J. D. (1994). Time Series Analysis (Princeton ed.). NJ : Princeton University Press.
+Hamilton, J. D., E. S. Harris, J. Hatzius, & K. D. West (2016). Equilibrium Real Funds Rate :
+Past, Present, and Future. IMF Economic Review 64(4), 660–707.
+25
+
+--- Page 27 ---
+Holston, K., T. Laubach, & J. C. Williams (2017). Measuring the Natural Rate of Interest :
+International Trends and Determinants. Journal of International Economics 108, s59–S75.
+Holston,K.,T.Laubach,&J.C.Williams(2023). MeasuringtheNaturalRateofInterestAfter
+COVID-19. Federal Reserve Bank of New York Staff Reports (1063).
+Hordahl,P.&O.Tristani(2014). InflationRiskPremiaintheEuroAreaandtheUnitedStates.
+International Journal of Central Banking 10(3), 1–47.
+Johannsen,B.K.&E.Mertens(2018). ATimeSeriesModelofInterestRateswiththeEffective
+Lower Bond. BIS Working Papers 715, Bank of International Settlements.
+Keungne Kouotang, L. S., E. U. H. Mounkala, & A. Mukam Maoumbé (2016). Optimalité de
+la politique monétaire de la BEAC depuis 2001. BEAC Working Paper BWP-03/16.
+Kiley, M. T. (2020). What Can the Data Tell Us About the Equilibrium Real Interest Rate?
+International Journal of Central Banking 16(3), 181–209.
+Krustev, G. (2019). The Natural Rate of Interest and the Financial Cycle. Journal of Economic
+Behavior \& Organization Volume 162 162, 193–210.
+Laubach, T. & J. C. Williams (2001). Measuring the Natural Rate of Interest. Board of
+Governors of the Federal Reserve System.
+Laubach, T. & J. C. Williams (2003). Measuring the Natural Rate of Interest. The Review of
+Economics and Statistics 85(4), 1063–1070.
+Laubach, T. & J. C. Williams (2016). Measuring the Natural Rate of Interest Redux. Business
+Economics 51(2), 57–67.
+Lee, D. J., J.-H. Hahm, H. Park, & K. Y. Park (2020). Measuring the Natural Rate of Interest
+withFinancialGaps:TheCasesofJapanandSouthKorea.JapanandtheWorldEconomy 54,
+101009.
+Lewis, K. F. & F. Vazquez-Grande (2018). Measuring the Natural Rate of Interest : A Note on
+Transitory Shocks. Journal of Applied Econometrics 34(3), 425–436.
+Lopez-Salido, D., G. Sanz-Maldonado, C. Schippits, & M. Wei (2020). Measuring the Natural
+Rate of Interest : The Role of Inflation Expectations. FEDS Notes.
+Lubik, T. & C. Matthes (2015). Calculating the Natural Rate of Interest : A Comparison of
+TwoAlternativeApproaches. Federal Reserve Bank of Richmond Economic Brief (EB15-10).
+26
+
+--- Page 28 ---
+Lubik, T. & C. Matthes (2023). The Stars our Destination : An Update on Our r* Measure.
+Federal Reserve Bank of Richmond Economic Brief, No 23-32.
+Maka, A. (2023). Measuring the Natural Rate of Interest in Brazil. Discussion Paper n◦ 274.
+Mésonnier, J.-S. (2005). L’orientation de la politique monétaire à l’aune du taux d’intérêt
+naturel : Une application à la zone euro. Bulletin de la Banque de France n◦ 136.
+Mvondo, E. T. (2018). La relation entre l’écart de production et l’inflation à la lumière de deux
+indicateurs concurrents dans la CEMAC. BEAC Working Paper BWP-10/18.
+Neri,S.&A.Gerali(2019). NaturalRatesAccrosstheAtlantic. Journal of Macroeconomics 62.
+Okazaki, Y. & N. Sudo (2018). Natural Rate of Interest in Japan - Measuring Its Size and
+Identifying Drivers Based on a DSGE Model. Bank of Japan Working Paper Series 18-E-6.
+Pescatori, A. & J. Turunen (2016). Lower for Longer : Neutral Rate in the U.S. IMF Economic
+Review 64(4), 708–731.
+Primiceri, G. E. (2005). Time Varying Structural Vector Autoregressions and Monetary Policy.
+Review of Economic Studies 72(3), 821–852.
+Quartier-la Tente, A., A. Michalek, J. Palate, & R. Baeyens (2024). RJDemetra : Interface to
+’JDemetra+’ Seasonal Adjustment Software. R package version 0.2.7.
+Wang,B.(2019). MeasuringtheNaturalRateofInterestofChina:ATimeVaryingPerspective.
+Economic Letter (176), 117–120.
+Wang, B. & K. K. Kwan (2021). Measuring the Natural Rates of Interest of OECD and BRICS
+Economies:ATimaVaryingPerspective. Journal of International Money and Finance (112),
+1–13.
+Wicksell, K. (1936). Interest and Prices (London : Macmillan ed.). (Translation of 1898 Edition
+by R.F. Kahn).
+Woodford, M. (2003). Interest and Prices : Foundations of a Theory of Monetary Policy.
+Princeton : Princeton University Press.
+Wynne, M. A. & R. Zhang (2018). Measuring The World Natural Rate Of Interest. Economic
+Inquiry 56(1), 530–544.
+27
+
+--- Page 29 ---
+Zhang, R., E. Martínez-García, M. A. Wynne, & V. Grossman (2021). Ties that bind : Estima-
+ting the natural rate of interest for small open economies. Journal of International Money
+and Finance 113, 102315.
+28
+
+--- Page 30 ---
+ANNEXE
+Annexe A
+Expressions des matrices A,B,C,D,F et G des paramètres du modèle (1)-(6) réécrit
+sous la forme espace-état (7)-(8), après quelques manipulations algébriques.
+s = As +Bu +Cω
+t t−1 t t
+x = Ds +Fu +Gω
+t t t t
+h i0
+où s ≡ y∗,y∗ ,y∗ ,g ,g ,z ,z
+t t t−1 t−2 t−1 t−2 t−1 t−2
+; x ≡ [y ,π ]0;
+t t t
+(cid:20) π (cid:21)0
+u ≡ 1,y ,y ,r ,r ,π ,P4 t−i ;
+t t−1 t−2 t−1 t−2 t−1 i=2 3
+ω = [ε ,ε ,ε ,ε ,ε ]0.
+t 1,t 2,t 3,t 4,t 5,t
+   
+1 0 0 ρ 0 0 0 µ (1−ρ ) 0 0 0 0 0 0
+g g g
+   
+   
+1 0 0 0 0 0 0  0 0 0 0 0 0 0
+   
+   
+   
+0 1 0 0 0 0 0  0 0 0 0 0 0 0
+   
+   
+A = 0 0 0 ρ 0 0 0 B = µ (1−ρ ) 0 0 0 0 0 0
+ g   g g 
+   
+   
+0 0 0 1 0 0 0  0 0 0 1 0 0 0
+   
+   
+   
+0 0 0 0 0 ρ
+z
+0 µ z(1−ρ z) 0 0 0 0 0 0
+   
+   
+0 0 0 0 0 1 0 0 0 0 0 0 0 0
+ 
+0 0 0 σ σ
+4 5
+ 
+ 
+0 0 0 0 0
+ 
+ 
+ 
+0 0 0 0 0  a a 
+  1 −a −a −2a −2a − r − r
+  1 2 r r
+C = 0 0 0 0 σ  D =  2 2 
+ 5  
+  0 −b 0 0 0 0 0
+  y
+0 0 0 0 0
+ 
+ 
+ 
+0 0 σ
+3
+0 0
+ 
+ 
+0 0 0 0 0
+ a a   
+r r
+0 a a 0 0 σ 0 0 0 0
+F =  1 2 2 2  G =  1 
+   
+0 b 0 0 0 b 1−b 0 σ 0 0 0
+y 1 1 2
+29
+
+--- Page 31 ---
+Annexe B
+Table 3 – Résultats de l’estimation des paramètres du modèle
+Moyenne Médiane Mode Ecart-type
+Base Alter. Base Alter. Base Alter. Base Alter.
+a 0.418 1.620 0.417 1.634 0.407 1.661 0.124 0.055
+1
+a 0.289 -0.791 0.275 -0.797 0.237 -0.820 0.112 0.049
+2
+a -0.005 -0.041 -0.004 -0.040 -0.003 -0.039 0.003 0.005
+r
+b 0.539 0.539 0.537 0.545 0.535 0.550 0.044 0.043
+1
+b 2.887 0.218 2.913 0.179 2.929 0.157 0.245 0.129
+y
+s 0.017 0.072 0.015 0.071 0.006 0.072 0.012 0.020
+1
+s 4.971 4.973 4.978 4.976 4.994 4.994 0.026 0.020
+2
+s 1.455 4.750 1.228 4.801 0.746 4.954 1.067 0.211
+3
+s 0.073 0.042 0.071 0.041 0.066 0.036 0.010 0.013
+4
+s 0.310 0.067 0.309 0.065 0.316 0.063 0.021 0.027
+5
+aX 0.000 0.000 0.000 0.000 -0.030 -0.030 0.000 0.000
+ρ 1.000 1.000 1.000 1.000 1.000 1.000 0.000 0.000
+g
+ρ 1.000 0.913 1.000 0.925 1.000 0.933 0.000 0.055
+z
+µ - - - - - - - -
+g
+µ - 0.000 - 0.000 -0.030 -0.030 0.000 0.000
+z
+λ 4.318 1.804 4.393 1.516 - - 0.471 0.988
+g
+λ 0.738 2.950 0.404 2.747 - - 0.946 0.931
+z
+a +a 0.707 0.829 0.724 0.833 0.644 0.841 0.087 0.035
+1 2
+LogL -532.322 -438.991 -532.178 -484.059 -526.492 -479.877 2.300 2.351
+30
+
+--- Page 32 ---
+Annexe C
+Figure 6 – Évolution des variables inobservées extraites empiriquement à l’aide du
+modèle de base, sur la période 1991Q1-2024Q4, dans un intervalle de confiance à 90%
+(a) Taux d’intérêt neutre (b) PIB potentiel
+(c) Autres déterminants z (d) Taux de croissance du PIB potentiel
+t
+31
+
+--- Page 33 ---
+Figure 7 – Évolution ex post de quelques indicateurs clés issus de l’estimation du
+modèle de base
+(a) Taux d’intérêt neutre et taux d’intérêt réel (b) Orientation de la politique monétaire
+(c) Contributions à r∗ de g et z (d) Output gap et gap des taux d’intérêt
+t t t
+(e) Output gap et inflation
+____________________________
+32

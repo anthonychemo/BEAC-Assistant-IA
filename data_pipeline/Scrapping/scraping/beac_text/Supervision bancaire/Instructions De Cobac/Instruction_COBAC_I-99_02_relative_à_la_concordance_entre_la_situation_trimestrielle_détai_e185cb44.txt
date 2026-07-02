@@ -1,0 +1,62 @@
+Source PDF : Instruction_COBAC_I-99_02_relative_à_la_concordance_entre_la_situation_trimestrielle_détai_e185cb44.pdf
+Chemin original : scraping\beac_data\Supervision bancaire\Instructions De Cobac\Instruction_COBAC_I-99_02_relative_à_la_concordance_entre_la_situation_trimestrielle_détai_e185cb44.pdf
+Date extraction : 15/06/2026 19:58:05
+======================================================================
+
+--- Page 1 ---
+COMMISSION BANCAIRE
+DE L’AFRIQUE CENTRALE
+INSTRUCTION COBAC I-99/02 RELATIVE A
+LA CONCORDANCE ENTRE LA SITUATION TRIMESTRIELLE DETAILLEE
+ET LE PLAN COMPTABLE DES ETABLISSEMENTS DE CREDIT
+Le Président de la Commission Bancaire de l’Afrique Centrale,
+Vu le règlement COBAC R-98/01 en son article 3,
+DECIDE :
+Article 1er – Les établissements de crédit agréés en qualité d’établissement
+financier demeurent tenus de communiquer aux autorités de contrôle, jusqu’à la mise
+en service des nouveaux états périodiques, une situation trimestrielle détaillée
+présentée sous la forme et selon les règles de remise actuellement en vigueur.
+Article 2 – Pour les établissements dont la comptabilité sera établie, au
+moment de l’arrêté trimestriel des comptes, selon le plan comptable des
+établissements de crédit institué par le règlement COBAC R-98/01, la situation
+trimestrielle détaillée devra être élaborée conformément au tableau de concordance
+annexé à la présente instruction.
+Article 3 – La présente instruction prend effet à compter de sa date de
+signature.
+Fait à Yaoundé, le 19 avril 1999
+Jean-Félix MAMALEPOT
+
+--- Page 2 ---
+COMMISSION BANCAIRE ETAT F2
+DE L’AFRIQUE CENTRALE
+Nom de l’établissement :
+Date :
+ETAT COMPLEMENTAIRE DES EMPLOIS, RESSOURCES ET
+ENGAGEMENTS SELON LA DUREE RESTANT A COURIR
+(cf. article 6 du règlement COBAC R-93/06)
+Code Libellé <=1 >1mois >3 mois >6 mois > 1 an
+ligne mois <= 3 <=6mois <=1 <=5 ans >5 ans Total
+mois an
+A109 Titres
+A113 Crédit-bail
+A118 Crédits long terme
+A119 Crédits moyen terme
+A120 Crédits court terme
+A210 Comptes et prêts à terme
+des correspondants
+- BEAC
+- Ets crédit
+- Instruments de marché
+TOTAL EMPLOIS
+A310 Emprunts subordonnés
+A311 Emprunts obligataires
+A312 Autres ressources perm.
+A320 Bons de caisse
+A321 Emprunts et comptes à
+331 terme
+A411 Refinancement BEAC
+A416 Refinancements divers
+A423 Comptes à terme des
+correspondants
+- Instruments marché
+TOTAL RESSOURCES

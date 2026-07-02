@@ -1,0 +1,3571 @@
+Source PDF : Rapport_sur_la_politique_monétaire_-_juillet_2022_1fe6d9ba.pdf
+Chemin original : scraping\beac_data\Publications\Rapport De Politique Monetaire\Rapport_sur_la_politique_monétaire_-_juillet_2022_1fe6d9ba.pdf
+Date extraction : 15/06/2026 22:44:32
+======================================================================
+
+--- Page 1 ---
+Juillet 2022
+RAPPORT SUR LA
+POLITIQUE MONETAIRE
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 2 ---
+2
+SOMMAIRE
+SOMMAIRE ____________________________________________________________________ 2
+LISTE DES GRAPHIQUES _______________________________________________________ 3
+LISTE DES TABLEAUX _________________________________________________________ 4
+LISTE DES ANNEXES ___________________________________________________________ 4
+LISTE DES SIGLES ET ABREVIATIONS UTILISES _________________________________ 5
+PREAMBULE __________________________________________________________________ 6
+COMMUNIQUE DE PRESSE _____________________________________________________ 7
+VUE D’ENSEMBLE _____________________________________________________________ 9
+I. ENVIRONNEMENT ECONOMIQUE, FINANCIER ET MONETAIRE INTERNATIONAL12
+A. ACTIVITES ECONOMIQUES, EMPLOI ET PRIX ___________________________________________ 13
+B. PRIX DES MATIERES PREMIERES ______________________________________________________ 15
+C. CONDITIONS MONETAIRES ET FINANCIERES __________________________________________ 16
+II. EVOLUTION RECENTE DE L’ECONOMIE ____________________________________ 20
+A. ANALYSE DE L’ICAE _________________________________________________________________ 20
+B. INFLATION __________________________________________________________________________ 22
+C. RESERVES DE CHANGE ______________________________________________________________ 23
+D. AVOIRS EXTERIEURS NETS DE LA BEAC _______________________________________________ 24
+E. COMPETITIVITE-PRIX ________________________________________________________________ 25
+III. MONNAIE, LIQUIDITE ET MARCHE DES CAPITAUX __________________________ 27
+A. CONDITIONS MONETAIRES ___________________________________________________________ 28
+B. SITUATION MONETAIRE _____________________________________________________________ 34
+C. MARCHE DES TITRES PUBLICS ________________________________________________________ 35
+D. MARCHE FINANCIER _________________________________________________________________ 38
+IV. PERSPECTIVES MACROECONOMIQUES A COURT TERME ____________________ 41
+A. PREVISIONS AU DEUXIEME TRIMESTRE 2022 ___________________________________________ 41
+B. PREVISIONS DU CADRE MACROECONOMIQUE SUR L’ENSEMBLE DE L’ANNEE 2022 _______ 43
+V. PERSPECTIVES ECONOMIQUES A MOYEN TERME DE LA CEMAC _____________ 49
+A. HYPOTHESES SOUS JACENTES ET PREVISIONS MACROECONOMIQUES ___________________ 51
+B. PREVISIONS A MOYEN TERME DE L’INFLATION ET DES RESERVES DE CHANGE __________ 54
+C. ANALYSE DES RISQUES INTERNES ET EXTERNES ______________________________________ 56
+D. ORIENTATION DE LA POLITIQUE MONETAIRE ET DECISIONS ____________________________ 58
+ANNEXES ____________________________________________________________________ 60
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 3 ---
+3
+LISTE DES GRAPHIQUES
+Graphique 1: Indice des cours des produits de base exportés par la CEMAC ....................................................... 16
+Graphique 2 : Contributions à la croissance de l'indice des cours des produits de base exportés par .................... 16
+Graphique 3 : Évolution de la parité de l’euro vis-à-vis d’une certaines devises ................................................... 19
+Graphique 4: Evolution de l'ICAE CEMAC (en glissement annuel 2015T3 à 2022T1) ........................................ 21
+Graphique 5: Evolution de l’inflation dans la CEMAC de mars 2020 à mars 2022 .............................................. 22
+Graphique 6: Evolution comparée de l’inflation et de l’inflation importée de la CEMAC .................................... 24
+Graphique 7: Réserves de change de la BEAC et taux de couverture extérieure de la monnaie ............................ 24
+Graphique 8 : Évolution des avoirs extérieurs nets de la BEAC au 30 juin 2022 .................................................. 25
+Graphique 9: Evolution du TCER/TCEN ............................................................................................................... 26
+Graphique 10: Evolution du TCER/TCEN des exportations .................................................................................. 26
+Graphique 11: Evolution du TCER/TCEN des importations ................................................................................. 26
+Graphique 12: Evolution des réserves et opérations de refinancement du système bancaire ................................. 30
+Graphique 13: Evolution mensuelle de l’encours des transactions interbancaires ................................................. 31
+Graphique 14: Evolution des taux du marché monétaire ........................................................................................ 32
+Graphique 15: Évolution de l’Indicateur des Conditions Monétaires (ICM) ......................................................... 32
+Graphique 16: TEG et Taux nominaux par types de clientèle au premier trimestre 2022 (en %) .......................... 33
+Graphique 17: Taux débiteurs par maturité pratiqués au premier trimestre 2022 (en %) ...................................... 33
+Graphique 18: Contributions des composantes à l’évolution de M2 ...................................................................... 34
+Graphique 19: Contributions des crédits par maturité à l’évolution des crédits à l’économie ............................... 35
+Graphique 20 : Evolution de l’encours des valeurs du Trésor de la CEMAC en % du PIB nominal..................... 37
+Graphique 21 : Dynamique des taux moyens pondérés des émissions de BTA depuis décembre 2019 (en %) .... 38
+Graphique 22: Evolution de l'ICAE CEMAC (en glissement annuel. 2020T1 à 2022T2) ..................................... 42
+Graphique 23: Evolution de l'ICAE CEMAC (en glissement trimestriel. 2020T1 à 2022T2) ............................... 42
+Graphique 24: Prévisions à moyen terme de la croissance économique de la CEMAC (glissement annuel, en %)
+................................................................................................................................................................................ 52
+Graphique 25 : Ecarts de production dans la CEMAC, suivant trois approches méthodologiques ........................ 53
+Graphique 26 : Moyennes des croissances réelle et potentielle .............................................................................. 53
+Graphique 27: Représentation des intervalles de prévision de l'inflation en moyenne annuelle dans la CEMAC à
+l'horizon du quatrième trimestre 2026 .................................................................................................................... 55
+Graphique 28: Représentation des prévisions des réserves de change de la CEMAC et des avoirs extérieurs nets
+de la BEAC en milliards ......................................................................................................................................... 55
+Graphique 29 : Prévisions des réserves de change de la CEMAC en mois d’importations des biens et service et
+du taux de couverture extérieure de la monnaie (en mois d’importations des biens et services) .......................... 56
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 4 ---
+4
+LISTE DES TABLEAUX
+Tableau 1: Principaux indicateurs de l’environnement international (2020-2023) ................................................13
+Tableau 2: Taux directeurs des banques centrales des principaux pays industrialisés ...........................................18
+Tableau 3: Répartition de l’encours des titres par qualité du détenteur final au 30 avril 2022 ..............................37
+Tableau 4: Evolution des transactions interbancaires de titres au cours des deux dernières années ......................38
+Tableau 5: Evolution de la vaccination contre la COVID-19 dans la CEMAC, en Afrique et dans le monde au 12
+juin 2022 .................................................................................................................................................................57
+LISTE DES ANNEXES
+ANNEXE 1 : CONDITIONS D’INTERVENTIONS DE LA BEAC ......................................................................................60
+ANNEXE 2 : EVOLUTION DES TAUX DE LA BCE ET DE LA BEAC ...............................................................................61
+ANNEXE 3 : COURBES DES TAUX DE RENDEMENT DES TITRES PUBLICS ................................................................62
+ANNEXE 4 : MONITORING DES TRANSFERTS MENSUELS .......................................................................................64
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 5 ---
+5
+LISTE DES SIGLES ET ABREVIATIONS UTILISES
+BCE : Banque Centrale Européenne
+BCEAO : Banque Centrale des Etats de l'Afrique de l'Ouest
+BCC : Banque Centrale du Congo
+BCN : Banque Centrale du Nigeria
+BdC : Banque du Canada
+BEAC : Banque des Etats de l'Afrique Centrale
+BoE : Bank of England
+BoJ : Bank of Japan
+BTP : Bâtiments et Travaux Publics
+CEMAC : Communauté Economique et Monétaire de l'Afrique Centrale
+CHAN : Championnat d’Afrique des Nations de Football
+CMM : Comité du Marché Monétaire
+CPM : Comité de Politique Monétaire
+EMF : Etablissements de microfinance
+FALB : Facteurs Autonomes de la Liquidité Bancaire
+FCFA : Franc de la Coopération Financière en Afrique Centrale
+FED : Federal Reserve System
+FMI : Fonds Monétaire International
+FOMC : Federal Open-Market Committee
+ICCPB : Indice Composite des Cours des Produits de Base
+ICMF Indicateur des Conditions Monétaires et Financières
+IPC : Indice des Prix à la Consommation
+OCDE : Organisation de Coopération et de Développement Économiques
+PBoC : People's Bank of China
+PEM : Perspectives Economiques Mondiales
+PIB : Produit Intérieur Brut
+SARB : South African Reserve Bank
+SESAME : Système d’Evaluation et de Supervision des Activités de Microfinance
+SVT : Spécialistes en Valeur du Trésor
+TCE : Taux de Couverture Extérieure de la Monnaie
+TCEN : T aux de Change Effectif Nominal
+TCER : T a ux de Change Effectif Réel
+TIAO : Taux d’Intérêt des Appels d’Offres
+TIMP : Taux d’Intérêt Interbancaire Moyen Pondéré
+UEMOA : Union Economique et Monétaire Ouest-Africaine
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 6 ---
+6
+PREAMBULE
+Stratégie de politique monétaire
+Conformément à l’article 1er de ses statuts, l’objectif final de la politique monétaire de
+la BEAC est la stabilité monétaire. Celle-ci se décline au plan interne, par une évolution du
+niveau de prix faible à moyen terme, et au plan externe par un taux de couverture extérieure de
+la monnaie suffisant.
+Du point de vue opérationnel, la stabilité monétaire est assurée, au plan interne, lorsque
+le taux d’inflation en moyenne annuelle est inférieur ou égal à 3 %, et au plan externe, quand le
+niveau des avoirs extérieurs bruts1 représente près de 60 % des engagements à vue de la BEAC,
+équivalant à au moins trois (03 mois) d’importations des biens et services.
+Pour atteindre son objectif, l’approche retenue par la BEAC consiste à intervenir sur le
+marché monétaire, via les opérations d’open market, soit en ponctionnant, soit en injectant de la
+liquidité centrale, afin de piloter le Taux d’Intérêt Moyen Pondéré (TIMP) du marché
+interbancaire autour du Taux d’Intérêt des Appels d’Offres (TIAO), qui est son principal taux
+directeur. Ce pilotage se fait à l’intérieur d’un corridor constitué par le Taux de la Facilité de
+Prêt Marginal (taux plafond) et le Taux de la Facilité de Dépôt (taux plancher). Cette démarche
+se traduit par des interventions hebdomadaires d’appel d’offres, renforcées si nécessaire, par
+d’autres instruments au titre d’apport supplémentaire ou de retrait de liquidités.
+Pour évaluer les risques pesant sur la stabilité monétaire et décider d’une orientation
+spécifique de son action, la BEAC a adopté une démarche basée sur trois principaux axes :
+(i) l’analyse économique : elle s’appuie sur divers outils d’analyse conjoncturelle,
+des enquêtes et sondages, un cadrage macroéconomique cohérent et des modèles
+macro-économétriques (DSGE, QPM, etc.) permettant de faire des analyses, des
+projections macroéconomiques à court et moyen termes, des simulations de
+politique économique, etc. Cette analyse repose également sur le principe de
+dérivation de l’instrument de référence (TIAO) à partir des préférences des
+autorités (pondérations de l’inflation et du taux de couverture extérieure) et d’une
+règle optimale à l’échelle de la CEMAC, de type « règle de Taylor augmentée ».
+Cette dernière dépend de l’output gap, du différentiel d’inflation et du différentiel
+du TCE ;
+(ii) l’analyse monétaire et financière: qui consiste, d’une part, à effectuer une
+analyse de la dynamique de la monnaie, de ses contreparties et de ses
+composantes, et d’autre part, une évaluation de la liquidité, de la stabilité bancaire
+et des marchés de capitaux ;
+(iii) l’analyse des réserves de change : le maintien d’un taux de change fixe exige
+généralement la détention et la gestion optimale des réserves de change pour
+garantir la parité officielle de la monnaie. L’analyse des réserves de change et ses
+déterminants permet donc d’apprécier l’évolution des risques pesant sur la
+stabilité externe de la monnaie.
+1 Dans le cadre des négociations avec le FMI, la variation des avoirs extérieurs nets est également suivie.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 7 ---
+7
+COMMUNIQUE DE PRESSE
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 8 ---
+8
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 9 ---
+9
+VUE D’ENSEMBLE
+Selon les Perspectives de l’économie mondiale, mises à jour en avril 2022 par le FMI, la
+croissance de l’ensemble des pays s’établirait à 3,6 % en 2022, après 6,1 % en 2021 et une
+récession de 3,1 % en 2020. Pour l’année 2023, la croissance est projetée à 3,6 %.
+En 2022, l’activité économique devrait pâtir des effets néfastes de la guerre entre la
+Russie et l’Ukraine, en plus de la pandémie de COVID-19 qui n’est pas totalement éradiquée.
+En effet, cette guerre a profondément perturbé les canaux et les circuits d’approvisionnement
+du commerce mondial.
+Par espace géographique, le taux de croissance économique réelle de l’activité dans les
+économies avancées devrait chuter à 3,3 % en 2022, après un bond de 5,2 % en 2021 et une
+contraction de 4,5 % en 2020. Dans les pays émergents et en développement, le taux de
+croissance du PIB réel se fixerait à 3,8 % en 2022, après 6,8 % en 2021 et -2,0 % en 2020. En
+Afrique subsaharienne, le taux de croissance du PIB réel diminuerait à 3,8 % en 2022, après
+4,5 % en 2021 et -1,7 % en 2020.
+Le taux de croissance du volume des échanges commerciaux reculerait à 5,0 % en 2022,
+après +10,1 % en 2021 et -7,9 % en 2020. En 2023, le volume des échanges devrait s’accroitre
+de 4,4 %. La dynamique observée en 2022 s’expliquerait en partie par les effets d’entrainement
+induits par l’invasion de l’Ukraine par la Russie.
+S’agissant des prix, dans les pays avancés, l’inflation devrait grimper à 5,7 % en 2022,
+après 3,1 % en 2021 et 0,7 % en 2020. Dans les pays émergents et en développement,
+l’inflation s’établirait à 8,7 % en 2022, après 5,9 % en 2021 et 5,2 % en 2020. Les
+répercussions économiques de la guerre en Ukraine devraient se ressentir par le biais des
+marchés des produits de base, des échanges commerciaux et des liens financiers. De par leur
+position, la Russie et l’Ukraine devraient impacter les marchés des produits de base ; la Russie
+étant un grand pays producteur de pétrole, de gaz, de métaux, et l’Ukraine étant à son tour un
+grand producteur de blé et de maïs. Par conséquent, l’offre de leurs produits devrait baisser et
+par la même occasion provoquer une hausse des cours sur les marchés des produits de base.
+Sur le plan régional, l’Indice Composite des Activités Economiques (ICAE) de la
+CEMAC en glissement annuel, s’est inscrit en hausse de 6,6 % au premier trimestre 2022,
+contre 3,8 % un an plus tôt, traduisant la bonne orientation, non seulement des cours du pétrole
+brut, mais également de la production des autres produits de base. En glissement trimestriel,
+l’ICAE s’est légèrement accru, de 0,7 % au premier trimestre 2022 contre 2,7 % un trimestre
+plus tôt.
+Dans le même temps, les pressions inflationnistes se sont accentuées à fin mars 2022 par
+rapport à fin mars 2021, avec un taux d’inflation autour de 2,2 % en moyenne annuelle et 4,3 %
+en glissement annuel, contre respectivement 1,7 % et 2,6 % un trimestre plus tôt, après 2,3 % et
+1,6 % un an plutôt. Cette évolution découlerait principalement de la dynamique fortement à la
+hausse des prix alimentaires dans tous les pays de la sous-région. Comparée à ses principaux
+partenaires, la CEMAC a enregistré des différentiels d’inflation globalement favorables à fin
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 10 ---
+10
+mars 2022.
+Pour ce qui est de l'activité du système bancaire de la CEMAC à fin avril 2022, elle a été
+marquée par un excédent de trésorerie en augmentation de 937,0 milliards, soit + 22,0 % par
+rapport à la situation qui a prévalu douze mois plus tôt, imputable à la hausse des dépôts non
+remployés. Concernant la qualité du portefeuille du système bancaire, elle s’est améliorée. En
+effet, l’encours des créances en souffrance est revenu à 1 988,0 milliards au 30 avril 2022, en
+baisse de 18 milliards (-0,92 %) comparativement au niveau qui prévalait un an auparavant.
+Elles ont représenté 20 % des crédits bruts contre 22,0 % un an plus tôt.
+Le marché monétaire a été marqué par : i) une densification du réseau interbancaire,
+avec la participation de 30 établissements de crédit aux transactions en avril 2022 contre 25
+trois mois plus tôt ; ii) une augmentation de l’encours moyen mensuel des transactions
+interbancaires entre février et avril 2022, pour se situer à 301,5 milliards en avril 2022 (dont
+170,9 milliards d’opérations de pension-livrée et 130,6 milliards d’opérations en blanc), contre
+295,8 milliards en février 2022 (dont 163,4 milliards d’opérations de pension-livrée et 132,4
+milliards d’opérations en blanc) ; iii) une évolution contrastée des taux des opérations sur le
+marché interbancaire avec un TIMP à 7 jours des opérations à blanc qui s’est replié à 6,00 % à
+fin avril 2022, contre 6,10 % trois mois plus tôt, et un taux des opérations collatéralisées en
+progression de 3,90 % à 4,92 % sur le même intervalle temporel.
+Entre avril 2021 et avril 2022, le marché des valeurs du Trésor a été caractérisé par : (i)
+un dynamisme des opérations sur les marchés primaire et secondaire, (ii) une évolution
+contrastée des taux de couverture des émissions, et (iii) une augmentation des coûts des
+émissions.
+Pour l’année 2022, les prévisions de la BEAC (cours du baril de pétrole à 106,8 dollars)
+tablent sur : i) un taux de croissance du PIB réel de +3,5 % contre 1,5 % en 2021, porté
+principalement par un rebond des activités pétrolières, ii) une accélération des pressions
+inflationnistes à 3,8 %, contre 1,6 % un an plus tôt, soit un niveau largement supérieur au seuil
+communautaire de 3,0 %, iii) un solde budgétaire base engagements, dons compris, qui
+deviendrait excédentaire à 1,9 % du PIB en 2022, contre -1,7 % du PIB en 2021, et un
+accroissement du solde du compte courant toujours excédentaire à 4,6% du PIB, contre -1,4 %
+du PIB en 2021. Sur le plan de la monnaie, la masse monétaire croîtrait de 13,0 % en 2022
+contre 12,2 % douze mois plus tôt et les avoirs extérieurs nets croîtraient de 76,0 % après un
+recul de 32,4 % en 2021. Le taux de couverture extérieure de la monnaie passerait de 64,0 % en
+2021 à 74,4 % en 2022 et les réserves de change passeraient à 3,59 mois d’importations de
+biens et services à fin décembre 2022, contre 3,55 mois en 2021. Concernant les avoirs
+extérieurs nets de la BEAC, les prévisions établies par les services de la Banque Centrale
+montrent que cet agrégat se situerait à 2 460,6 milliards (3,75 milliards d’euros)2 à fin
+décembre 2022.
+Dans ce contexte, les perspectives macroéconomiques à moyen terme de la CEMAC
+restent entourées d’incertitudes, la balance des risques étant toujours globalement orientée à la
+hausse aussi bien pour l’inflation (stabilité interne de la monnaie) que pour les réserves de
+change (stabilité externe de la monnaie). La croissance économique révisée sur la période
+2023-2025 devrait s’établir à 3,2 % (contre 2,6 % en moyenne lors des premières prévisions de
+2 Ce niveau est supérieur de 13,9 milliards par rapport à la cible fixée le 10 juin 2022 avec le FMI.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 11 ---
+11
+début d’année et 0,3 % entre 2016-2020) sous l’impulsion du secteur non pétrolier. La
+production effective devrait toujours se maintenir en dessous de la production potentielle tout
+en s’améliorant à moyen terme malgré la rupture de tendance observée en 2020 en raison de la
+pandémie de la COVID-19. Concernant les réserves de changes, elles devraient se redresser
+progressivement, quoiqu’à un niveau encore faible en 2022, associé au repli des tensions
+inflationnistes à moyen terme.
+Toutefois, l’analyse de l’évolution récente des avoirs extérieurs nets de la BEAC
+confirme leur remontée à partir du mois d’avril 2022. D’ailleurs, les prévisions de la BEAC sur
+la période 2022-2025 tablent sur une hausse progressive pour atteindre 4 749,9 milliards à fin
+décembre 2025. Dans ce contexte, le CPM a décidé de maintenir inchangé son taux directeur au
+3ème trimestre 2022, après les relèvements successifs de 25 points de base le 25 novembre 2021
+et de 50 points de base le 28 mars 2022.
+Le présent rapport de politique monétaire examine les grandes tendances de
+l’environnement économique international (I), l’évolution récente des économies des États
+membres de la CEMAC (II) et celle des agrégats de monnaie, de la liquidité bancaire et du
+marché des capitaux (III), et présente les perspectives à court terme de l’inflation et des
+réserves de change (IV), ainsi que les perspectives économiques à moyen terme de la sous-
+région (V).
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 12 ---
+12
+I. ENVIRONNEMENT ECONOMIQUE, FINANCIER ET MONETAIRE
+INTERNATIONAL
+Selon les Perspectives de l’économie mondiale, mises à jour en avril 2022 par le FMI, la
+croissance économique mondiale s’établirait à 3,6 % en 2022, après 6,1 % en 2021 et une
+récession de 3,1 % en 2020. Pour l’année 2023, le taux de croissance prévu est de 3,6 %.
+L’activité économique devrait pâtir des effets néfastes de la guerre entre la Russie et l’Ukraine,
+en plus de la pandémie de COVID-19 qui n’est pas totalement éradiquée. En effet, cette guerre
+a profondément perturbé les canaux et les circuits d’approvisionnement du commerce mondial.
+Aux États-Unis, selon le National Bureau of Statistics, pour la première fois depuis la
+crise liée à la Covid-19, l’économie américaine s’est contractée au premier trimestre 2022. Le
+PIB a reculé de 1,4 % en rythme annuel par rapport au dernier trimestre de 2021. Ceci marque
+un retournement de tendance par rapport aux 6,9 % de croissance de la fin 2021. Le FMI
+prévoit une croissance de 3,7 % pour l’année 2022. Dans la zone euro, la croissance a été
+faible au premier trimestre 2022, en raison des restrictions liées à la pandémie. L’inflation s’est
+en revanche accélérée à 7,5 % en mars 2022, après 5,9 % en février 2022. Les prix de l’énergie
+ont augmenté depuis le déclenchement de la guerre en Ukraine et sont supérieurs de 45 % à
+leur niveau d’il y a un an. Le FMI prévoit une croissance de 2,8 % en 2022 pour la zone euro,
+contre 5,3 % en 2021. Dans les principales économies émergentes, en Chine, les dernières
+données de l'agence de notation Fitch prévoient une révision à la baisse des prévisions de
+croissance du PIB de la Chine pour 2022, à 4,3 % contre 4,8 % précédemment prévus, en
+raison des perturbations liées à la pandémie et à son impact sur l'économie du pays au cours des
+deux premiers trimestres de l'année. Le FMI prévoit quant à lui 4,4 % pour 2022. En Inde,
+l'activité a progressé de 4,1% en glissement annuel à fin mars. Selon la banque centrale, la
+hausse des prix à la consommation a atteint 7,0 % en mars 2022.
+En Afrique du Sud, la croissance du PIB réel au premier trimestre 2022 a été de 3,6 %,
+soit un niveau supérieur à la prévision de 3,2 %. Les prévisions de la Banque Centrale
+concernant l'inflation globale pour 2022 ont été révisées à la hausse à 5,9 %, principalement en
+raison de la hausse des prix des aliments et du carburant. Alors que les prix alimentaires
+resteront élevés, l'inflation des prix des carburants devrait s'atténuer en 2023, permettant à
+l'inflation globale de retomber à 5,0 %, en dépit d’une inflation sous-jacente légèrement plus
+élevée. Le FMI prévoit une croissance de 1,9 % en 2022 contre 4,9 % en 2021.
+Dans l’Union Economique et Monétaire Ouest-Africaine (UEMOA), l’activité
+économique s’est raffermie au quatrième trimestre 2021, avec une croissance en rythme annuel
+de 5,1 %, après 5,8 % au trimestre précédent. Au Nigéria, selon le Bureau national des
+statistiques (NBS), le PIB réel a augmenté de 3,11 % au premier trimestre 2022, par rapport à
+3,98 % au quatrième trimestre 2021 et 0,51 % au cours de la période correspondante de 2021.
+L'inflation globale (en glissement annuel) a atteint16,82 % en avril 2022, contre 15,92 % en
+mars 2022, en augmentation de 90 points de base.
+Sur le marché des produits de base, au premier trimestre 2022, l’indice global des
+cours des produits de base exportés par la CEMAC s’est accru de 12,2 %, après une hausse de
+10,4 % au quatrième trimestre 2021, sous l’effet d’une augmentation généralisée des cours des
+produits énergétiques et non énergétiques, suite aux perturbations des circuits
+d’approvisionnements provoquées par la guerre entre la Russie et l’Ukraine.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 13 ---
+13
+Au niveau des conditions monétaires et financières, face aux effets effectifs et
+potentiels de la guerre Russo-Ukrainienne et de la pandémie de coronavirus, les banques
+centrales ont apporté des réponses divergentes. Tandis que la plupart des banques centrales des
+pays avancés et des pays émergents sortent progressivement des mesures de politiques
+monétaires accommodantes, celles des pays de l’Afrique subsaharienne ont prolongé leur
+politique monétaire accommodante, à quelques exceptions près.
+Sur le marché des changes, l’euro s’est déprécié par rapport aux principales monnaies
+depuis le début de l’année 2022. En effet, face à la pandémie de Covid-19 et la guerre entre la
+Russie et l’Ukraine, les banques centrales ont apporté des réponses différenciées afin de juguler
+ces crises. La BCE fait partie des banques centrales qui ont opté pour le statu quo.
+A. ACTIVITES 2023, il devrait s’accroitre de 4,4 %. La
+ECONOMIQUES, EMPLOI dynamique observée en 2022 s’expliquerait
+ET PRIX en partie par les effets de l’invasion de
+l’Ukraine par la Russie.
+Selon les Perspectives de l’économie
+mondiale, mises à jour en avril 2022 par le S’agissant des prix, dans les pays
+FMI, la croissance repartirait à 3,6 % en avancés, l’inflation devrait grimper à 5,7 %
+2022, après 6,1 % en 2021, et une récession en 2022, après 3,1 % en 2021 et 0,7 % en
+de 3,1 % en 2020. En 2023, la croissance 2020. Dans les pays émergents et en
+devrait se maintenir à 3,6 %. Par espace développement, l’inflation s’établirait à 8,7
+géographique, le taux de croissance réel de % en 2022, après 5,9 % en 2021 et 5,2 % en
+l’activité dans les économies avancées 2020. Les répercussions économiques de la
+devrait descendre à 3,3 % en 2022, après une guerre en Ukraine devraient se ressentir par
+croissance de 5,2 % en 2021 et une le biais des marchés des produits de base,
+contraction de 4,5 % en 2020. En 2023, elle des échanges commerciaux et des liens
+devrait baisser à 2,4 %. Dans les pays financiers.
+émergents et en développement, le taux de
+croissance du PIB réel se fixerait à 3,8 % en Aux Etats-Unis, selon le National
+2022, après un bon de 6,8 % en 2021 et une Bureau of Statistics, pour la première fois
+récession de 2 % en 2020. En 2023, le PIB depuis la crise liée à la Covid-19,
+augmenterait de 4,4 %. En Afrique l’économie américaine s’est contractée au
+subsaharienne, le taux de croissance du PIB premier trimestre 2022. Le PIB a reculé de
+réel diminuerait à 3,8 % en 2022, après une 1,4 % en rythme annuel par rapport au
+remontée à 4,5 % en 2021 et une contraction dernier trimestre de 2021. Ceci marque un
+de 1,7 % en 2020. retournement de tendance par rapport aux
+6,9 % de croissance de la fin 2021. Le FMI
+Le taux de variation du volume des prévoit un taux de 3,7 % pour l’année 2022.
+échanges commerciaux reculerait à 5,0 %
+en 2022, après une croissance de 10,1 % en
+2021 et une récession de 7,9 % en 2020. En
+Tableau 1: Principaux indicateurs de l’environnement international (2020-2023)
+INDICATEURS (en %, sauf indication 2019 2020 2021 2022 2023
+contraire)
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 14 ---
+14
+INDICATEURS (en %, sauf indication 2019 2020 2021 2022 2023
+contraire)
+Taux de croissance
+Economie mondiale 2,8 -3,1 6,1 3,6 3,6
+Pays avancés 1,6 -4,5 5,2 3,3 2,4
+Etats-Unis 2,2 -3,4 5,7 3,7 2,3
+Zone Euro 1,3 -6,4 5,3 2,8 2,3
+Pays émergents et en développement 3,7 -2,0 6,8 3,8 4,4
+Chine 6,0 2,2 8,1 4,4 5,1
+Inde 4,0 -6,6 8,9 8,2 6,9
+Russie 2,0 -2,7 4,7 -8,5 -2,3
+Afrique Sub-saharienne 3,2 -1,7 4,5 3,8 4,0
+Nigeria 2,2 -1,8 3,6 3,4 3,1
+Afrique du Sud 0,2 -6,4 4,9 1,9 1,4
+Taux de croissance du commerce mondial 0,9 -7,9 10,1 5,0 4,4
+Prix du baril de pétrole3 (dollar/baril) 61,39 41,29 69,07 106,83 92,63
+Taux d’inflation
+Pays avancés 1,4 0,7 3,1 5,7 2,5
+Pays émergents et en développement 5,1 5,2 5,9 8,7 6,5
+Pays d’Afrique subsaharienne 8,14 10,19 10,99 12,2 9,6
+Source : Perspectives de l’Economie Mondiale du FMI (Mise à jour d’avril 2022)
+3 Le cours du pétrole est basé sur la moyenne des cours pour les qualités suivantes : Brent du Royaume-Uni, Dubaï et WTI.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 15 ---
+15
+Dans la zone euro, selon les s'atténuer en 2023, permettant à l'inflation
+estimations de la BCE, la croissance serait globale de retomber à 5,0 %, en dépit
+faible au premier trimestre 2022, en raison d’une inflation sous-jacente légèrement
+des restrictions liées à la pandémie. plus élevée. Le FMI prévoit une croissance
+L’inflation s’est accélérée à 7,5 % en mars de 1,9 % en 2022 contre 4,9 % en 2021.
+2022, après 5,9 % en février 2022. Les prix
+de l’énergie ont augmenté depuis le Dans l’Union Economique et
+déclenchement de la guerre en Ukraine et Monétaire Ouest-Africaine (UEMOA), il
+sont supérieurs de 45 % à leur niveau d’il y est attendu un raffermissement de l’activité
+a un an. Le FMI prévoit une croissance de économique au quatrième trimestre 2021,
+2,8 % en 2022 pour la zone euro, contre avec une croissance, en rythme annuel, de
+5,3 % en 2021. 5,1 %, après 5,8 % au trimestre précédent.
+Cette évolution est imputable à la bonne
+En Inde, la croissance de l'activité tenue de la demande intérieure. Pour
+économique a ralenti au premier trimestre l’année 2021, le PIB, en termes réels,
+2022, selon l'Office national des progresserait de 5,5 % après une croissance
+statistiques. En outre, l'inflation, en de 1,8 % en 2020, en lien avec la mise en
+particulier la hausse des prix du pétrole, a œuvre des projets de relance économique
+entravé la reprise post-Covid. L'activité en par les Etats membres ainsi que le maintien
+Inde a progressé de 4,1% en glissement d’une politique monétaire accommodante
+annuel, et la croissance du PIB a atteint par la BCEAO. Pour l’année 2022, la
+8,7 % sur un an à fin mars. La hausse du croissance est prévue à 6,1 %.
+prix des matières premières a suscité des
+craintes chez les décideurs et la banque Au Nigéria, selon le Bureau
+centrale indienne a relevé pour la première national des statistiques (NBS), le PIB réel
+fois son taux directeur en quatre ans au a augmenté de 3,11 % au premier trimestre
+cours du mois de mai 2022. L'Inde, avec 2022, par rapport à 3,98 % au quatrième
+ses 1,4 milliard d'habitants, importe plus de trimestre 2021 et 0,51 % au cours de la
+80 % de son pétrole brut et le coût du fioul période correspondante de 2021.
+domestique a progressé depuis l'invasion L'inflation globale (en glissement annuel) a
+en février de l'Ukraine par la Russie. Le atteint 16,82 % en avril 2022, contre 15,92
+pays importe les huiles alimentaires, dont % en mars 2022, en augmentation de 90
+les prix atteignent des records depuis le points de base. La hausse de l'inflation
+début du conflit. Selon la banque centrale, globale résulte de la montée des prix de
+la hausse des prix à la consommation a l'énergie. L'économie nigériane devrait
+atteint 7,0 % en mars. croître de 3,24% en 2022, conformément
+aux prévisions de la CBN. Le FMI prévoit
+En Afrique du Sud, le taux de que la croissance du Nigeria en 2022 sera
+croissance du PIB réel au premier trimestre de 3,40 %.
+2022 devrait être à 3,6 %, contre 3,2 %
+prévu en mars 2022. La prévision de la B. PRIX DES MATIERES
+Banque Centrale concernant l'inflation PREMIERES
+globale pour 2022 a été révisée à la hausse
+avec un taux d’inflation de 5,9 %, L’indice global des cours des produits
+principalement en raison de la hausse des de base s’est accru de 12 ,2 % au premier
+prix des aliments et du carburant. Alors trimestre 2022, s’établissant à 103,3. Cette
+que les prix alimentaires resteront élevés, évolution a été marquée par une
+l'inflation des prix des carburants devrait augmentation des prix des produits
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 16 ---
+16
+énergétiques (18,2 %) et des produits non Graphique 2 : Contributions à la croissance de
+l'indice des cours des produits de base exportés par
+énergétiques (1,7 %). La hausse observée
+la CEMAC
+au niveau des cours des produits non
+énergétiques est principalement marquée 2,5% 25,0%
+sur les marchés des métaux et minéraux 2,0% 20,0%
+(4,6 %), produits agricoles (1,9 %), et 1,5% 15,0%
+produits de la pêche (1,5 %). Les cours des
+1,0% 10,0%
+produits forestiers quant à eux, ont régressé
+0,5% 5,0%
+de 0,6 %.
+0,0% 0,0%
+-0,5% -5,0%
+Graphique 1: Indice des cours des produits de
+base exportés par la CEMAC -1,0% -10,0%
+-1,5% -15,0%
+140,0
+-2,0% -20,0%
+120,0
+-2,5% -25,0%
+100,0 Métaux et mineraux
+Produits forestiers
+80,0
+Produits agricoles
+Produits de la pêche
+60,0
+Produits énergétiques (échelle de droite)
+40,0 Indice Global (échelle de droite)
+Source : BEAC
+20,0
+0,0
+-20,0
+C. CONDITIONS
+Indice Global (cours en $) Produits énergétiques
+Indice hors produits énergiques Métaux et mineraux MONETAIRES ET
+Produits forestiers Produits agricoles
+Produits de la pêche FINANCIERES
+Source : BEAC
+Face aux incertitudes entourant
+Concernant l’indice des cours hors l’environnement international, notamment
+produits énergétiques, il a progressé de i) l’impact de la crise sanitaire de la
+1,7 %, passant de 127,7 au T4/2021 à 129,9 COVID-19, ii) les contraintes pesant sur
+au T1/2022, grâce principalement à la les circuits d’approvisionnement et iii) la
+remontée des prix des métaux et minéraux remontée de l’inflation dans les pays
+(+4,6 %) et de ceux des produits agricoles avancés induite par la guerre Russo-
+(+1,9 %). Ukrainienne, la plupart des banques
+centrales des pays avancés ont décidé de
+En termes de contribution, la resserrer leur politique monétaire, tandis
+dynamique de l’indice global des cours des que celles des pays en développement ont
+produits de base a été portée par l’indice poursuivi leur politique monétaire
+des prix des produits énergétiques accommodante.
+(94,9 %). Les produits non énergétiques
+ont contribué à hauteur de 4,1 %, grâce à la Le Comité de politique monétaire de
+contribution des produits agricoles. la Fed (Federal Open Market Committee),
+dans son communiqué de presse du 16 juin
+2022, à l'appui de ses objectifs de
+maintenir l’inflation à 2 % et un marché de
+l’emploi dynamique, a décidé de porter la
+fourchette cible du taux des fonds fédéraux
+de 0,75 % - 1 % à 1,5 % - 1,75 %, soit un
+bond de 75 points de base après celui de
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 17 ---
+17
+100 points décidé le 04 avril 2022, et avril 2022. Le taux officiel d’escompte
+prévoit que des augmentations continues s’établit à 1,75 %, et le taux de
+de la fourchette cible seront nécessaires. rémunération des dépôts, à 1,50 %. De
+De plus, le Comité a décidé de réduire
+même, la Banque poursuit sa politique de
+progressivement ses avoirs en titres du
+resserrement quantitatif. Ainsi, les
+Trésor (Treasury securities) et en dettes
+obligations du gouvernement du Canada
+d'agence et titres adossés à des créances
+inscrites au bilan de la BdC qui arrivent à
+hypothécaires (mortgage-backed
+échéance ne seront plus remplacées, ce qui
+securities) selon sa feuille de route publiée
+fera diminuer la taille du bilan au fil du
+en mai 2022.
+temps.
+Dans son communiqué de presse du En Chine, le 20 mai 2022, la banque
+centrale chinoise a abaissé, pour la seconde
+09 juin 2022, le Conseil des gouverneurs
+de la BCE prévoit trois phases fois cette année, son taux d'intérêt de
+d’augmentation de ses principaux taux référence pour les prêts hypothécaires, une
+mesure destinée à soutenir l'économie et un
+directeurs. La première phase devrait
+consister en une hausse des taux d’intérêt secteur immobilier à la peine. Le « loan
+prime rate » (LPR) à cinq ans, qui
+directeurs de 25 points de base lors de sa
+réunion de politique monétaire de juillet constitue la référence pour les prêts
+hypothécaires, a baissé de 4,6 % à 4,45 %.
+2022. La seconde phase consisterait à
+relever les taux d’intérêt directeurs de la Le LPR à un an, qui constitue la référence
+BCE en septembre 2022, en fonction des des taux les plus avantageux que les
+banques peuvent offrir aux entreprises et
+perspectives actualisées d’inflation à
+moyen terme. En outre, si ces perspectives aux ménages, reste quant à lui, inchangé à
+3,7 %. Il avait été abaissé en janvier 2022.
+d’inflation à moyen terme se maintiennent
+ou se détériorent, une hausse plus
+A l’issue de sa réunion de politique
+importante sera appropriée lors de la
+monétaire du 04 mai 2022, la Banque
+réunion de septembre. La dernière phase,
+d’Angleterre (Bank of England ou BoE), a
+concerne l’horizon après septembre 2022,
+décidé d’augmenter son taux directeur de
+où le Conseil des gouverneurs anticipe
+25 points de pourcentage à 1%.
+qu’une séquence progressive mais durable
+de hausses supplémentaires des taux
+Le Comité de politique monétaire de
+d’intérêt sera appropriée sur la base de son
+la Banque Centrale du Japon (BoJ), réuni
+évaluation actuelle. Néanmoins, et
+le 28 avril 2022, a maintenu son taux
+conformément à son objectif d’inflation à
+d'intérêt et sa politique monétaire. Ainsi, il
+moyen terme de 2 %, le Conseil des
+a décidé de garder son taux de dépôt à
+gouverneurs se réserve la possibilité
+court terme à -0,1 %. De plus, la banque
+d’ajuster sa politique monétaire en fonction
+continuera d’acheter des obligations du
+des performances économiques à venir et
+gouvernement (JGB) afin de maintenir leur
+de la trajectoire d’inflation à moyen terme.
+rendement à 10 ans autour de 0,00 %. L
+'institution nippone a donc maintenu sa
+Le Comité de politique monétaire de politique monétaire ultra-accommodante,
+la Banque du Canada (BdC), réuni le 1er et ce, malgré la chute brutale du yen liée
+juin 2022, a augmenté le taux cible du aux relèvements des taux d'autres grandes
+banques centrales. La BoJ anticipe une
+financement à un jour pour le faire passer à
+hausse des prix à la consommation de 1,9
+1,50 %, soit une hausse de 50 points de
+% au Japon (donnée médiane, hors
+base après celle de 25 points décidée le 13
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 18 ---
+18
+produits frais alimentaires) sur l'exercice économique de 2,4 % en 2022 contre 1,6 %
+2022/23. Cette dynamique est causée par la en 2021.
+flambée des coûts de l'énergie et d'autres
+matières premières, dans un contexte de
+reprise post-Covid et sur fond de guerre en
+Ukraine. Le FMI prévoit une croissance
+Tableau 2: Taux directeurs des banques centrales des principaux pays industrialisés
+Niveau
+Banque Centrale Taux directeur Niveau Dernière modification du taux directeur
+précedent
+Federal Reserve Taux des fonds fédéraux 1,50 % - 1,75 % 0,75 %-1,00 % Hausse de 75 points de base le 16/06/ 2022
+Bank of Japan Taux au jour le jour -0,10 % 0,00 % Baisse de 10 points de base le 29/11/2016
+Taux cible du
+Banque du Canada 1,50 % 1,00 % Hausse de 50 points de base le 01/06/2022
+financement à un jour
+Bank of England Taux de prise en pension 1,00 % 0,75 % Hausse de 25 points de base le 04/05/2022
+Banque Centrale Européenne Taux de refinancement 0,00 % 0,05 % Baisse de 5 points de base le 10/03/2016
+Banque Populaire de Chine Taux de référence à un an 3,7 % 3,85 % Baisse de 10 points de base le 20/01/2022
+Sources : Fed, BoJ, BoE, Banque du Canada et BCE
+En Afrique subsaharienne, la plupart La Banque Centrale des États de
+des banques centrales ont poursuivi l’Afrique de l’Ouest (BCEAO), a décidé de
+l’orientation accommodante de leurs relever de 25 points de base ses taux
+politiques monétaires, en maintenant les directeurs, à l’issue de la réunion de son
+mesures visant à soutenir l’activité comité de politique monétaire du 1er juin
+économique et à limiter les effets potentiels 2022. En conséquence, le taux d'intérêt
+de la crise sanitaire et de la guerre en minimum de soumission aux opérations
+Ukraine. d'appels d'offres d'injection de liquidité est
+passé à 2,50 % et le taux d'intérêt du guichet
+En Afrique du Sud, la South African de prêt marginal à 4,25 %. Le coefficient des
+Reserve Bank (SARB), dans son réserves obligatoires applicable aux banques
+communiqué de presse du 19 mai 2022, a de l'Union, est quant à lui demeuré à 3,00 %.
+décidé d'augmenter le taux de rachat des
+titres de 50 points de base à 4,75 % par an, à Sur le marché des changes, l’euro s’est
+compter du 20 mai 2022. Le Comité de déprécié par rapport aux principales
+politique monétaire de la Banque Centrale monnaies depuis le début de l’année 2022.
+du Nigéria (BCN), réuni les 23 et 24 mai En effet, face à la pandémie de Covid-19 et
+2022, a décidé de conserver son principal la guerre entre l’Ukraine et la Russie, les
+taux d’intérêt directeur à 11,5 % et son banques centrales ont apporté des réponses
+coefficient des réserves obligatoires à différenciées afin de juguler ces crises. La
+27,5 %. BCE fait partie des banques centrales qui ont
+opté pour le statu quo. La Fed et la Banque
+La Banque Centrale du Congo (BCC), du Canada ainsi que d’autre banques
+réunie le 28 mars 2022, a maintenu inchangé centrales ont décidé de relever leurs taux
+son principal taux directeur à 7,5 %. Les directeurs. Par conséquent, les marchés
+coefficients des réserves obligatoires sur les anticipent un resserrement des politiques
+dépôts en devises à vue et à terme ont été monétaires beaucoup plus tôt que prévu.
+maintenus respectivement à 13,0 % et 12,0 Aussi, depuis janvier 2022, l’euro s’est
+% et ceux des dépôts en monnaie nationale à dépréciée vis-à-vis du real brésilien (15,10
+vue et à terme à 0 %. %), du dollar canadien (4,64 %), du naira
+(4,28 %), du dollar américain (3,97 %), du
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 19 ---
+19
+rand sud–africain (3,62 %), et de la roupie Graphique 3 : Évolution de la parité de l’euro
+vis-à-vis d’une certaines devises
+indienne (0,16 %). En revanche, il s’est
+(Variations en pourcentage)
+apprécié par rapport au yen japonais (6,65
+1,7
+%), à la livre sterling (2,39 %), au yuan
+1,5898
+chinois (0,62 %). 1,6 CAD GBP USD
+1,5
+1,3573
+1,4
+1,3
+1,194
+1,2
+1,0713
+1,1
+1
+0,9
+0,8
+Source : Banque de France
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 20 ---
+20
+II. EVOLUTION RECENTE DE L’ECONOMIE
+Au premier trimestre 2022, l’Indice Composite des Activités Economiques (ICAE) de la
+CEMAC en glissement annuel, s’est inscrit en hausse de 6,6 % au premier trimestre 2022,
+contre 3,8 % un an plus tôt, traduisant la bonne orientation, non seulement des cours du pétrole
+brut, mais également de la production des autres produits de base. En glissement trimestriel,
+l’ICAE s’est accru légèrement de 0,7 % au premier trimestre 2022 contre 2,7 % un trimestre
+plus tôt.
+Dans le même temps, les pressions inflationnistes sont remontées en fin mars 2022 par
+rapport à fin mars 2021, avec un taux d’inflation autour de 2,2 % en moyenne annuelle et 4,3 %
+en glissement annuel, contre respectivement 1,7 % et 2,6 % un trimestre plus tôt, après 2,3 % et
+1,6 % un an plutôt.
+Comparée à ses principaux partenaires, la CEMAC a enregistré des différentiels
+d’inflation globalement favorables à fin mars 2022. En effet, en glissement annuel, ce
+différentiel est favorable vis-à-vis de la Zone Euro (-3,2 points), de l’UEMOA (- 2,3 points),
+des Etats-Unis (-4,3 points), de la France (-0,2 point), du Nigeria (-14,3 points) ainsi que la
+Chine (-3,4 points).
+Les réserves de change de la BEAC se sont rapprochées de la barre symbolique de 5 000
+milliards franchie pour la dernière fois en mai 2020. Elles se sont situées à 4 886,1 milliards au
+30 avril 2022, contre 4 019,7 milliards un an auparavant, soit une hausse de 21,5 %, en raison
+principalement de l’impact de l’allocation de DTS octroyée par le FMI en 2021 et de la
+situation nette positive des transferts résultant de la hausse des cours du baril de pétrole brut et
+des efforts de rapatriement de recettes d’exportation. Concernant, le taux de couverture
+extérieure de la monnaie, il est remonté légèrement à 67,5 % au 12 juin 2022 contre 66,7 % à
+fin mars 2022.
+A. ANALYSE DE L’ICAE glissement annuel, s’est inscrit en hausse de
+6,6 % au premier trimestre 2022, contre
+Dans un environnement marqué par 3,8 % un an plus tôt, traduisant la bonne
+des cours des hydrocarbures en hausse, des orientation, non seulement des cours du
+risques extérieurs importants liés aux pétrole brut, mais également de la
+conséquences économiques de la crise production des autres produits de base. En
+ukrainienne ainsi qu’aux perturbations des
+chaînes d’approvisionnement mondiales
+l’information contenue dans des variables à haute
+découlant notamment de la recrudescence
+fréquence (mensuelles et trimestrielles) dont les
+de la COVID-19 en Chine, les données à dynamiques sont en co-mouvement avec l’évolution du
+haute fréquence recueillies par les services PIB des pays de la CEMAC. Il permet ainsi d’apprécier
+l’évolution de la conjoncture économique de la Sous-
+de la BEAC mettent en lumière une
+région à une fréquence trimestrielle, avec des délais
+progression favorable de l’activité dans la relativement courts, facilitant ainsi une première lecture
+CEMAC. L’Indice Composite des Activités de l’état de santé des économies de la Zone avant la
+publication des comptes nationaux. Mis à jour à l’aune de
+Economiques (ICAE) de la CEMAC4, en
+chaque Comité de Politique Monétaire, les ICAE
+CEMAC et nationaux permettent d’inférer la dynamique
+4 L’Indice Composite des Activités Economiques (ICAE) du PIB à fréquence infra-annuelle et ainsi d’estimer les
+de la CEMAC est un outil d’analyse de l’activité taux de croissance trimestriels de l’ensemble des pays de
+économique des pays de la CEMAC synthétisant la Sous-région et de la Zone dans son ensemble.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 21 ---
+21
+glissement trimestriel, l’ICAE s’est très Gabon, tandis que la production de gaz s’est
+légèrement accru, de 0,7 % au premier sensiblement améliorée en Guinée
+trimestre 2022 contre 2,7 % un trimestre Equatoriale (contrebalançant un recul de la
+plus tôt. production de pétrole). L’agriculture de
+rente s’est également montrée solide au
+Cette bonne performance de l’ICAE Tchad (coton), au Cameroun (cacao, coton)
+CEMAC en glissement annuel au premier et au Gabon (huile de palme). Dans le
+trimestre 2022 masque d’importantes même sens, l’activité sylvicole et minière a
+disparités nationales. En effet, à la fin du connu une progression favorable au Gabon
+premier trimestre 2022, le Cameroun et en République Centrafricaine, contribuant
+demeure la locomotive de l’activité du à consolider l’activité au premier trimestre
+secteur réel de la CEMAC, avec un apport à de l’année dans ces deux pays. Toutefois, la
+la hausse de l’ICAE en glissement annuel dynamique de la demande intérieure
+de 4,4 points, suivi de la Guinée Equatoriale demeure préoccupante au premier trimestre
+(+1,6 point) et du Gabon (+1,3 point). Les 2022, dans un contexte de recrudescence de
+dynamiques économiques sont sensiblement l’inflation affectant le pouvoir d’achat des
+plus fragiles au Tchad, en République ménages.
+Centrafricaine, dont les apports à
+l’évolution de l’ICAE sont respectivement Sur la base de ces éléments, le taux
+de 0,4 point et 0,27 point, tandis que le de croissance du PIB réel en glissement
+Congo a grevé la dynamique de l’ICAE à annuel de la CEMAC au premier trimestre
+hauteur de 1,4 point en rapport 2022 est estimé à 2,6 %, contre 0,3 % un an
+essentiellement avec le recul de la plus tôt. En variation trimestrielle, le PIB de
+production pétrolière. la CEMAC a enregistré une baisse de 0,9 %
+au premier trimestre 2022, contre 2,0 % au
+L’évolution est similaire en trimestre précédent.
+comparant le premier trimestre 2022 au
+quatrième trimestre 2021. L’ensemble des Graphique 4: Evolution de l'ICAE CEMAC
+pays de la Sous-Région a positivement (en glissement annuel 2015T3 à 2022T1)
+contribué à l’évolution de l’ICAE en
+glissement trimestriel à fin mars 2022, avec
+un apport plus important de la Guinée
+Equatoriale, du Cameroun et du Tchad (0,6
+point, 0,5 point et 0,4 point respectivement)
+et dans une moindre mesure du Gabon (0,2
+point) et de la République centrafricaine
+(0,1 point). A contrario, le Congo a
+contribué négativement à l’évolution de
+l’ICAE en glissement trimestriel durant
+cette période (-0,9 point).
+Les évolutions enregistrées au
+premier trimestre 2022 bénéficient d’une
+évolution favorable, non seulement des
+cours du pétrole brut, mais également des
+autres produits de base. L’activité pétrolière
+a connu une hausse significative au premier
+Source : BEAC
+trimestre 2022 sur un an au Cameroun et au
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 22 ---
+22
+la pandémie de COVID-19 en Chine ayant
+B. INFLATION conduit à de nouveaux confinements, une
+accentuation des perturbations des chaînes
+Les données disponibles sur les prix d’approvisionnement mondiales a été
+à fin mars5 2022 indiquent une remontée enregistrée au cours du premier trimestre
+des pressions inflationnistes par rapport à entrainant des coûts supplémentaires pour
+fin décembre 2021, avec un taux d’inflation les entreprises aussi bien productives
+autour de 2,2 % en moyenne annuelle et qu’importatrices de la CEMAC.
+4,3 % en glissement annuel, contre
+respectivement 1,7 % et 2,6 % un trimestre Graphique 5: Evolution de l’inflation dans la
+plus tôt, après 2,3 % et 1,6 % un an plutôt. CEMAC de mars 2020 à mars 2022
+Pour l’essentiel, en glissement
+annuel, la dynamique projetée à court terme
+serait impactée à fin mars 2022
+principalement par une contribution en
+hausse de la fonction « produits
+alimentaires et boissons non alcoolisées »
+(2,5 points, contre 1,8 point trois mois plus
+tôt). En termes de contribution par pays, le
+Cameroun, compte-tenu de son poids dans
+l’activité économique sous-régionale et de
+la tendance sensiblement haussière de
+l’inflation dans le pays, devrait garder une
+incidence sensible dans la dynamique des
+prix de la Sous-région (contribution de 2,4
+points en glissement annuel à fin mars Source : BEAC
+2022), suivi du Tchad (0,8 point), du Gabon
+et du Congo et de la République Dans le même temps, la hausse du
+Centrafricaine (0,3 point chacun). De son prix des intrants a pesé sur les coûts de
+côté, la Guinée Equatoriale devrait production au niveau local, notamment dans
+enregistrer une contribution positive plus l’agro-industrie, l’aviculture et les cultures
+faible (0,2 point). vivrières. Au plan interne, la relative faible
+offre vivrière, conjuguée aux actions
+A fin mars 2022, la hausse des prix spéculatives de certains commerçants-
+est imputable à plusieurs facteurs. Sur le distributeurs ont également exercé une
+plan externe, outre les tendances haussières pression à la hausse des prix alimentaires.
+observées au cours de l’année 2021 sur les Toutefois, les pratiques gouvernementales
+biens alimentaires, la crise russo- d’encadrement des prix de certains produits
+ukrainienne a conduit à une flambée des de première nécessité dans l’ensemble de la
+cours des céréales. En outre, l’évolution de CEMAC auraient quelque peu tempéré la
+hausse des prix au premier trimestre 2022.
+5 Elles ont été révisées à fin mars 2022 pour le
+Comparée à ses principaux
+Cameroun, le Gabon, la Guinée Equatoriale et le Tchad,
+et le Congo à fin février 2022. Les données de la partenaires, la CEMAC a enregistré des
+République Centrafricaine sont toujours à fin différentiels d’inflation6 globalement
+décembre 2021, le pays n’ayant pas encore relevé les
+prix depuis le début de l’année 2022, en raison des
+problèmes de financement pour collecter les prix 6 Le différentiel d’inflation est dit défavorable lorsque
+homogènes. l’inflation enregistrée dans la CEMAC est supérieure à
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 23 ---
+23
+favorables à fin mars 2022. En effet, en 2021 et de la situation nette positive des
+glissement annuel, ce différentiel est transferts résultant de la hausse des cours du
+favorable vis-à-vis de la Zone Euro (- baril de pétrole brut et des efforts de
+3,2 points), de l’UEMOA (- 2,3 points), des rapatriement de recettes d’exportation. De
+Etats-Unis (-4,3 points), de la France (-0,2 même, le taux de couverture a est remonté à
+point), du Nigeria (-14,3 points) ainsi que la 67,5 % au 12 juin 2022.
+Chine (-3,4 points).
+Par composante, les réserves de
+Les estimations de l’inflation sous- change sont constituées à 82,7 % des avoirs
+jacente indiquent une remontée des extérieurs à vue, à 8,8 % des avoirs auprès
+pressions à fin mars 2022. En effet, le taux du FMI, à 4,9 % d’avoirs en or et à 3,6 %
+d’inflation sous-jacente s’établirait à 1,8 % des autres avoirs extérieurs en devises gérés
+en moyenne annuelle et 3,7 % en glissement par la Salle Des Marchés.
+annuel, contre respectivement 1,5 % et
+2,1 % à fin décembre 2021.
+Concernant la dynamique de
+l’inflation importée, elle a été une haussière
+à fin mars 2022 (cf. graphique 6). En effet,
+le taux d’inflation importée de la CEMAC
+en glissement annuel s’est situé à 2,2 % en
+mars 2022, contre 1,3 % trois mois plutôt et
+-0,3 % un an auparavant. Dans la même
+veine, en moyenne annuelle, il est ressorti à
+1,3 %, après 0,7 % à fin décembre 2021 et
+0,9 % un an plutôt. Compte tenu des délais
+de réaction qui se situent entre 6 à 12 mois
+de l’inflation de la CEMAC à l’inflation
+importée, cette dynamique haussière de
+l’inflation importée indique clairement la
+persistance des pressions inflationnistes
+dans la CEMAC sur l’ensemble de l’année
+2022.
+C. RESERVES DE CHANGE
+Les réserves de change de la BEAC
+se sont rapprochées de la barre symbolique
+de 5 000 milliards franchie pour la dernière
+fois en mai 2020. En effet, elles se sont
+situées à 4 886,1 milliards au 30 avril 2022,
+contre 4 019,7 milliards FCFA un an
+auparavant, soit une hausse de 21,5 %, en
+raison principalement de l’impact de
+l’allocation de DTS octroyée par le FMI en
+celle du pays partenaire, ou en d’autres termes, lorsque
+l’écart d’inflation est positif.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 24 ---
+24
+Graphique 6: Evolution comparée de l’inflation et de l’inflation importée de la CEMAC
+(de mars 2021 à mars 2022)
+6
+5
+4
+3
+2
+1
+0
+mars-21 avr-21 mai-21 juin-21 juil-21 août-21 sept-21 oct-21 nov-21 déc-21 janv-22 févr-22 mars-22
+-1
+TX_INFL_IMPORTE_CEMAC (Glissement annuel) TX_INFL_IMPORTE_CEMAC (moyenne annuelle)
+TX_INFL_CEMAC (Glissement annuel) TX_INFL_CEMAC (Moyenne annuelle)
+Source : BEAC, à partir des données des administrations nationales
+Graphique 7: Réserves de change de la BEAC et taux de couverture extérieure de la monnaie
+(de mai 2017 à avril 2022)
+75 5000
+Avoirs Extérieurs à Vue Autres Avoirs Extérieurs (SDM)
+Encaisse Or FMI
+Taux de Couverture en % (échelle de gauche)
+70 4000
+A
+F
+C
+65 3000 F
+e
+d
+s
+d
+r
+a
+60 2000 illim
+n
+E
+55 1000
+50 0
+7 7 7 7 8 8 8 8 8 8 9 9 9 9 9 9 0 0 0 0 0 0 1 1 1 1 1 1 2 2
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+-ia
+m
+-liu
+j
+-t
+p e s
+- v
+o n
+- v
+n a j
+-s
+r a m
+-ia
+m
+-liu
+j
+-t
+p e s
+- v
+o n
+- v
+n a j
+-s
+r a m
+-ia
+m
+-liu
+j
+-t
+p e s
+- v
+o n
+- v
+n a j
+-s
+r a m
+-ia
+m
+-liu
+j
+-t
+p e s
+- v
+o n
+- v
+n a j
+-s
+r a m
+-ia
+m
+-liu
+j
+-t
+p e s
+- v
+o n
+- v
+n a j
+-s
+r a m
+Source : BEAC
+D. AVOIRS EXTERIEURS 2022.
+NETS DE LA BEAC
+Cependant, l’analyse des données
+Au 31 mars 2022, les avoirs journalières récentes indique une remontée
+extérieurs nets de la BEAC ont baissé de des avoirs extérieurs nets de la Banque
+6,1 % pour revenir à 1 614,5 milliards (2,46 Centrale à partir du mois d’avril 2022 pour
+milliards d’euros), soit à un niveau inférieur passer à 2 158,7 milliards (3,29 milliards
+à la cible fixée à 1 843,2 milliards (2,81 d’euros) au 30 juin 2022. A cette date, le
+milliards d’euros) avec le FMI pour fin juin niveau des avoirs extérieurs nets de la
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 25 ---
+25
+BEAC est supérieur de 315,4 milliards à la des transactions commerciales et le service
+cible convenue pour la fin juin 2022. La de la dette) du fait de la poursuite de la
+hausse des avoirs extérieurs nets de la reprise post-Covid-19 des activités
+BEAC s’explique principalement par le économiques et par l’utilisation par les Etats
+rapatriement des recettes pétrolières par les de leurs allocations de DTS, conjugué avec
+Etats, soutenues par l’augmentation des l’augmentation du recours au crédit du FMI,
+cours des hydrocarbures depuis le second qui est un important engagement extérieur.
+semestre 2021. Cette tendance a été freinée
+par la hausse des sorties de capitaux (pour
+Graphique 8 : Évolution des avoirs extérieurs nets de la BEAC au 30 juin 2022
+(du 1er octobre 2019 au 30 juin 2022)
+E. COMPETITIVITE-PRIX premier trimestre 2022, fait ressortir une
+légère dépréciation du franc CFA par
+Au premier trimestre 2022, la rapport aux monnaies de la plupart des
+compétitivité prix des économies de la principaux partenaires commerciaux. Ainsi,
+CEMAC, appréciée à partir du taux de le TCEN s’est inscrit en baisse de 0,2 % au
+change effectif réel (TCER) global7, s’est premier trimestre 2022, contre un recul de
+caractérisée par une réduction des gains de 2,0 % le trimestre précédent (graphique 8).
+positions concurrentielles enregistrés au
+quatrième trimestre 2021. Ainsi, la variation En termes réels, le franc CFA s’est
+du TCER global est passé de -2,4 % au déprécié vis-à-vis du dollar américain (-
+quatrième trimestre 2021 à -1,1 % au 2,2 %), du yuan chinois (- 1,7 %), de la
+premier trimestre 2022. livre sterling britannique (- 1,0 %) et de
+l’euro (-0,4 %).
+Par ailleurs, l’analyse de la
+compétitivité prix des pays de la CEMAC
+entre le quatrième trimestre 2021 et le
+7
+La compétitivité extérieure de la CEMAC est évaluée hors secteur pétrolier en raison du poids
+important du pétrole dans les exportations et du fait que cette activité, à forte intensité
+capitalistique, est entièrement off-shore. L’influence de l’exploitation pétrolière sur l’indicateur
+de compétitivité extérieure ainsi calculé est implicite et s’apprécie par le biais des évolutions
+des prix domestiques.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+Source : BEA C
+2,0
+1,5
+1,0
+0,5
+0,0
+-0,5
+-1,0
+-1,5
+Source : BEA C
+4,0
+3,9
+3,8
+3,7
+3,6
+3,5
+3,4
+3,3
+3,2
+3,1
+3,0
+91029102910291020202020202020202020202020202020202020202020202020202020202021202120212021202120212021202120212021202120212021202120222022202220222022202220222022202
+/01/10/01/62/11/02/21/51/10/90/20/30/20/82/30/42/40/81/50/31/60/70/70/20/70/72/80/12/90/51/01/01/11/40/11/92/21/42/10/81/20/21/30/90/40/30/40/82/50/32/60/71/70/21/80/60/80/13/90/52/01/02/11/41/21/90/10/30/10/82/20/22/30/91/40/31/50/80/60/20/60/72
+6,0
+5,5
+5,0
+4,5
+4,0
+3,5
+3,0
+2,5
+2,0
+1,5
+A vo irs Extérieu rs N ets d e la B EA C -Ecart p ar rap
+Avoirs Extérieurs nets - Ecart par rapport à la cible (en m illiards d'euros)
+p ort à la cib
+Lim ite
+le
+TIAO (axe de droite)
+91029102910291020202020202020202020202020202020202020202020202020202020202021202120212021202120212021202120212021202120212021202120222022202220222022202220222022202
+/01/10/01/62/11/02/21/51/10/90/20/30/20/82/30/42/40/81/50/31/60/70/70/20/70/72/80/12/90/51/01/01/11/40/11/92/21/42/10/81/20/21/30/90/40/30/40/82/50/32/60/71/70/21/80/60/80/13/90/52/01/02/11/41/21/90/10/30/10/82/20/22/30/91/40/31/50/80/60/20/60/72
+Evo lu tio n d es A voirs Extérieurs d
+Avoirs Extérieurs nets (en m illiards d'Euros) - réalisations
+e la B EA C -M illiard s d 'eu ro s
+Avoirs Extérieurs nets (en m illiards d'Euros) - Cibles
+
+--- Page 26 ---
+26
+Graphique 9: Evolution du TCER/TCEN Graphique 10: Evolution du TCER/TCEN des
+exportations
+128,0
+125,0 120,0
+122,0
+115,0
+119,0
+116,0 110,0
+113,0 TCEN_global (hors pétrole et gaz)
+105,0
+110,0 TCER_global (hors pétrole et gaz) TCEN des Exportations
+107,0 100,0 TCER des Exportations
+104,0 95,0
+101,0
+90,0
+98,0
+02 02 02 02 02 02 02 02 02 02 02 02 02 02 02 85,0
+1 1 1 1 1 1 2 2 2 2 2 2 2 2 2
+8 8 9 9 9 9 0 0 0 0 1 1 1 1 2
+Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q 80,0
+3 4 1 2 3 4 1 2 3 4 1 2 3 4 1
+2 2 2 2 2 2 2 2 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 2 2 2 2 2 2 2 2 2
+Source : BEAC 8 9 9 9 9 0 0 0 0 1 1 1 1 2
+Q Q Q Q Q Q Q Q Q Q Q Q Q Q
+4 1 2 3 4 1 2 3 4 1 2 3 4 1
+Source : BEAC
+En termes de contributions à la
+variation du TCER global de la CEMAC au Le TCER des importations a
+premier trimestre 2022, la contribution régressé de 2,3 % entre le troisième
+absolue du TCER des exportations a été de - trimestre et le quatrième trimestre 2021. Ce
+0,3 % et celle des importations de - 0,9 %. gain de compétitivité sur le front des
+importations est dû à l’effet combiné de la
+Le TCER des exportations, en dépréciation du TCEN des importations (-
+variation trimestrielle, a reculé de 1,2 % au 0,8 %) et du faible niveau d’inflation des
+premier trimestre 2022, contre -2,4 % la pays de la CEMAC par rapport aux
+période précédente, en relation avec une principaux fournisseurs.
+légère dépréciation du TCEN des
+exportations (- 0,4 %), conjuguée avec un Graphique 11: Evolution du TCER/TCEN des
+importations
+différentiel d’inflation légèrement favorable
+à la CEMAC (-0,9 %) par rapport à ses
+113,0
+principaux concurrents sur le marché des
+111,0
+matières premières (hors pétrole), à
+l’exception de l’Indonésie (+1,8 %), la 109,0
+Malaisie (+0,8 %), l’Equateur (+0,6 %), 107,0
+l’Afrique du Sud (+0,2 %) et la Slovaquie 105,0
+(+0,2%).
+103,0
+101,0
+Le TCER des importations s’est
+TCEN des Importations
+99,0
+inscrit en baisse de 1,1 % au premier
+TCER des Importations
+trimestre 2022, sous l’effet combiné de la 97,0
+dépréciation du TCEN des importations (- 95,0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2
+0,7 %) et du faible niveau d’inflation des 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 2 2 2 2 2 2 2 2 2
+8 9 9 9 9 0 0 0 0 1 1 1 1 2
+Q Q Q Q Q Q Q Q Q Q Q Q Q Q
+pays de la CEMAC par rapport aux 4 1 2 3 4 1 2 3 4 1 2 3 4 1
+principaux fournisseurs, à l’exception de la
+France (+1,6 %), l’Afrique du Sud
+Source : BEAC
+(+1,5 %), le Royaume Uni (+1,3 %), la
+Corée du Sud (+1,3 %), l’Inde (+0,3 %) et
+les Emirats Arabes Unis (+0,2 %).
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 27 ---
+27
+III. MONNAIE, LIQUIDITE ET MARCHE DES CAPITAUX
+A fin avril 2022, la trésorerie globale est ressortie excédentaire de 5 208 milliards (29 %
+du total du bilan). Elle a augmenté de 937,0 milliards, soit + 22,0 % par rapport à la situation
+qui a prévalu douze mois plus tôt, imputable à la hausse des dépôts non remployés.
+Concernant la qualité du portefeuille du système bancaire, elle s’est améliorée. En effet,
+l’encours des créances en souffrance est revenu à 1 988 milliards au 30 avril 2022, en baisse de
+18 milliards (-0,92 %) comparativement au niveau qui prévalait un an auparavant. Elles ont
+représenté 20 % des crédits bruts contre 22,0 % un an plus tôt.
+Concernant l’évolution de la liquidité, elle a progressé au cours des trois derniers mois.
+En effet, les réserves brutes du système bancaire de la CEMAC, avant les opérations
+monétaires, ont progressé de 13,86% (167,6 milliards) pour s’établir à 1 376,6 milliards en
+avril 2022. Ces réserves se situaient à 1 209 milliards trois mois plus tôt (février 2022). Du fait
+de cette évolution, les établissements de crédit ont moins fait recours aux ressources de la
+Banque Centrale sur la période de référence, induisant une baisse de l’encours moyen des
+injections de liquidité de la BEAC dans le système bancaire de 33,8 milliards. Ainsi, l’encours
+moyen des avances de l’Institut d’émission aux contreparties du marché monétaire est revenu
+de 659,3 milliards en février 2022 à 625,5 milliards en avril 2022.
+Par ailleurs, le volume des réserves obligatoires à constituer par les assujettis a augmenté
+de 25,6 milliards au cours de la période de référence pour s’établir à 862,2 milliards en avril
+2022.
+Sur le compartiment interbancaire, le volume des opérations interbancaires a progressé
+entre février et avril 2022, avec une plus forte augmentation des transactions collatéralisées. En
+lien avec cette évolution, l’encours moyen mensuel des transactions interbancaires a progressé
+à 301,5 milliards en avril 2022 (dont 170,9 milliards d’opérations de pension-livrée et 130,6
+milliards d’opérations en blanc) contre 295,8 milliards en février 2022 (dont 163,4 milliards
+d’opérations de pension-livrée et 132,4 milliards d’opérations en blanc). En avril 2021,
+l’encours moyen mensuel des opérations interbancaires s’élevait à 219,2 milliards (dont 131,8
+milliards d’opérations de pension-livrée et 102,7 milliards d’opérations en blanc).
+En outre, l’activité du marché interbancaire entre février et avril 2022 s’est caractérisée
+par une évolution en sens contraires des taux des opérations, aussi bien en blanc que
+collatéralisées, notamment les principaux taux de référence (TIMP à 7 jours). En effet, le TIMP
+à 7 jours des opérations en blanc qui se situait à 6,10 % à fin février 2022 s’est replié à 6,00 %
+trois mois plus tard, tandis que celui des opérations collatéralisées a progressé de 3,90% à
+4,92 % sur le même intervalle temporel. A fin avril 2021, le TIMP à 7 jours des opérations en
+blanc s’établissait à 4,67 % alors que celui des opérations de pension-livrée ressortait à 3,50 %.
+Quant à l’évolution de la masse monétaire de la CEMAC et de ses contreparties, en
+glissement annuel, à fin mars 2022, elle a été marquée par : i) un repli des avoirs extérieurs nets
+du système monétaire de 13,2 % ; ii) une expansion des créances nettes du système monétaire
+sur les États de la CEMAC de 28,6 % ; iii) une hausse de 9,2 % des crédits à l’économie ; et iv)
+une augmentation de 12,0 % des disponibilités monétaires et quasi-monétaires (M2).
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 28 ---
+28
+Entre avril 2021 et avril 20222, le dynamisme du marché des valeurs du Trésor, observé
+depuis trois ans, s’est consolidé avec (i) un dynamisme des opérations sur les marchés primaire
+et secondaire, (ii) une évolution contrastée des taux de couverture des émissions, et (iii) une
+augmentation des coûts des émissions. En effet, les encours ont augmenté de 34,0 % passant de
+3 778,5 milliards en avril 2021 à 5 074 milliards en avril 2022, malgré la baisse des montants
+levés par les Trésors nationaux revenant à 3 726,3 milliards entre avril 2021 et avril 2022
+contre 3 862,8 milliards entre avril 2020 et avril 2021. La part des titres en circulation détenue
+par les investisseurs institutionnels et les personnes physiques est passée de 6,2% à 14,4% en
+un an. La dynamique des activités observée sur le marché financier de la CEMAC depuis la
+prise en main de la fonction de Dépositaire Central Unique de la CEMAC (DCU) par la BEAC
+en juillet 2019, se poursuit notamment avec une physionomie du marché en constante
+progression. Le portefeuille des valeurs mobilières gérées par la BEAC au titre de ses fonctions
+de DCU au 30 avril 2022 compte dix-neuf (19) valeurs, contre seize (16) valeurs, il y a un an.
+A. CONDITIONS contre 1 234 milliards un an auparavant.
+MONETAIRES Elles ont augmenté légèrement de 0,4 % et
+sont constituées de ressources à terme à
+ Position de trésorerie du système concurrence de 70 % et des ressources à vue
+bancaire à hauteur de 30 %.
+A fin avril 2022, la trésorerie globale Concernant la qualité du portefeuille
+est ressortie excédentaire de 5 208 milliards du système bancaire, elle s’est améliorée.
+(29 % du total du bilan). Elle a augmenté de En effet, l’encours des créances en
+937,0 milliards, soit + 22,0 % par rapport à souffrance est revenu à 1 988 milliards au
+la situation qui a prévalu douze mois plus 30 avril 2022, en baisse de 18 milliards (-
+tôt, imputable à la hausse des dépôts non 0,92 %) comparativement au niveau qui
+remployés. prévalait un an auparavant. Elles ont
+représenté 20 % des crédits bruts contre
+A la même date, les emplois de 22,0 % un an plus tôt. Il en découle que
+trésorerie s’établissent à 6 942 milliards, malgré les mesures d’assouplissement de la
+contre 5 998,0 milliards à fin avril 2021 règlementation en termes de classification
+(+944,0 milliards, soit + 16,0 %). Ils sont des créances, la politique de
+constitués de titres de placement et de provisionnement est restée ferme,
+transaction (51 %) dont la liquidité est notamment en ce qui concerne les « crédits
+réduite en raison des décotes applicables sur Covid-19 » après les 180 jours accordés et
+la valeur de marché de ces instruments les crédits non performants figurant dans les
+financiers. Cette situation exige de bilans des établissements de crédit avant la
+relativiser la bonne tenue de l’excédent de survenance de la crise sanitaire.
+trésorerie. Les emplois de trésorerie
+comprennent également les opérations à Au 30 avril 2022, la situation
+terme (8 %) et les opérations à vue (35 %). prudentielle des 52 banques de la CEMAC
+Les contributions respectives étaient de 48 déclarantes est résumée ci-après :
+%, 8 % et 37 %, en avril 2021.
+ seize banques sont en infraction par
+Les ressources de trésorerie se sont rapport aux dispositions relatives à la
+fixées à 1 601 milliards à fin avril 2022, représentation du capital minimum ;
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 29 ---
+29
+dirigeants ainsi que sur leur personnel
+ quatre banques extériorisent un ratio de fixé à 15 % des fonds propres nets.
+capitaux propres inférieur au minimum
+de 6,5 % ; Au total, dix-sept banques disposent
+d’un niveau de fonds propres satisfaisant
+ sept banques extériorisent un ratio de pour respecter l'ensemble des ratios
+fonds propres de base inférieur au prudentiels assis sur cet agrégat au 30 avril
+minimum de 8 % ; 2022, après prise en compte des mesures
+dérogatoires relatives à l’abaissement du
+ treize banques extériorisent un ratio de volant de conservation des fonds propres
+couverture des risques pondérés par les qui ont été prorogées jusqu’au 30 juin 2022.
+fonds propres nets inférieur au minimum
+de 10 % ; Les normes prudentielles à l’égard
+desquelles le plus grand nombre de banques
+est en conformité sont celles se rapportant
+ neuf banques enfreignent la limite
+aux capitaux propres et au rapport de
+globale de l'octuple des fonds propres
+liquidité. Les ratios prudentiels les moins
+nets pour la somme des risques pondérés
+respectés sont respectivement la couverture
+supérieurs à 15 % desdits fonds propres ;
+des immobilisations, la représentation du
+capital minimum, la couverture des risques,
+ vingt-deux banques ne se conforment
+le coefficient de transformation et celui des
+pas à la limite individuelle de risques
+engagements sur les apparentés.
+pondérés encourus sur un même
+bénéficiaire pour un montant maximum
+de 35 % de leurs fonds propres nets
+ Liquidité bancaire
+contre dix-huit banques un an plus tôt ;
+Au cours des trois derniers mois, les
+ dix-neuf banques présentent un ratio de
+réserves brutes du système bancaire de la
+couverture des immobilisations par les
+CEMAC, avant les opérations monétaires,
+ressources permanentes en-dessous du
+ont progressé de 13,86 % (167,6 milliards)
+minimum requis de 100 % (contre douze
+pour s’établir à 1 376,6 milliards en avril
+banques un an auparavant) ;
+2022. Ces réserves se situaient à 1 209
+milliards trois mois plus tôt (février 2022).
+ huit banques affichent un rapport de
+Cette évolution a été soutenue par
+liquidité inférieur au minimum
+l’accroissement de la liquidité injectée à
+réglementaire de 100 % contre six
+travers les facteurs autonomes de liquidité
+banques un an plus tôt (sans lien avec les
+bancaire (FALB), dont le solde net est passé
+fonds propres) ;
+de 1 522 milliards à 1 731 milliards sur la
+période, soit une augmentation de 14%.
+ quinze banques ne parviennent pas à
+Cette dynamique s’explique principalement
+financer au moins à hauteur de 50 %
+par le niveau des avoirs extérieurs nets dont
+(seuil réglementaire) leurs emplois à
+la contribution à la progression du solde net
+plus de cinq ans de durée résiduelle par
+des FALB est de 21 %. En effet, les effets
+des ressources permanentes contre treize
+restrictifs induits par l’évolution des
+banques l'année précédente ;
+créances nettes sur les gouvernements et de
+la circulation fiduciaire n’ont pas totalement
+ enfin, douze banques enfreignent la
+contrecarré les effets expansifs des avoirs
+limite globale des engagements sur leurs
+actionnaires, administrateurs et
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 30 ---
+30
+extérieurs nets et des autres postes nets sur Graphique 12: Evolution des réserves et opérations de
+refinancement du système bancaire
+la liquidité bancaire.
+3 000A
+F C Réserves obligatoires
+systèmA
+e
+ve bc
+a
+ncla
+a
+irh ea
+,
+us ls ee
+s
+d ée
+t
+abla
+li
+ssli eq mui ed ni tt sé d du
+e 2
+500F e d
+sd
+ra
+R Ré es fie nr av ne cs e e mxc eé nd t e an ut pa ri ère ss de la BEAC
+crédit ont moins fait recours aux ressources
+illim
+n
+E
+de la Banque Centrale sur la période de 2 000
+référence, induisant une baisse de l’encours
+moyen des injections de liquidité de la
+1 500
+BEAC dans le système bancaire de 33,8
+milliards. En effet, l’encours moyen des
+1 000
+avances de l’Institut d’émission aux
+contreparties du marché monétaire est passé
+500
+de 659,3 milliards en février 2022 à 625,5
+milliards en avril 2022. Ces concours sont
+constitués : (i) des avances au titre de -
+9 9 9 9 9 0 0 0 0 0 0 1 1 1 1 1 1 2 2
+1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+l’opération principale d’injection de 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+liquidité, dont l’encours moyen a reculé de
+lirv
+a
+n
+iu j
+tû
+o a
+e
+rb o
+e
+rb m
+re
+irv
+lirv
+a
+n
+iu j
+tû
+o a
+e
+rb o
+e
+rb m
+re
+irv
+lirv
+a
+n
+iu j
+tû
+o a
+e
+rb o
+e
+rb m
+re
+irv
+lirv
+a
+224,6 milliards à 157,3 milliards ; (ii) des tco e cé é f tco e cé é f tco e cé é f
+d d d
+concours accordés au titre des opérations de
+Source : BEAC
+maturité longue descendus de 150 milliards
+à 109 milliards sur la période sus-revue ;
+ Evolution du marché interbancaire
+(iii) de la facilité de prêt marginal dont le
+volume a progressé de 222,9 milliards à
+L’encours moyen journalier des
+301,6 milliards, notamment avec la
+opérations interbancaires s’est établi autour
+suspension des contreparties en situation de
+de 300 milliards depuis le début de l’année
+dépendance au refinancement de la BEAC
+2022, avec une plus forte prépondérance des
+de l’opération principale d’injection de
+transactions collatéralisées. En effet, évalué
+liquidité ; et (iv) des avances octroyées via
+à 295,8 milliards en février 2022 (dont
+le guichet spécial de refinancement,
+163,4 milliards d’opérations de pension-
+profitant principalement à la BDEAC qui a
+livrée et 132,4 milliards d’opérations en
+reculé, passant de 61,8 milliards en février
+blanc), l’encours moyen mensuel des
+2022 à 57,6 milliards trois mois plus tard.
+transactions interbancaires a progressé à
+301,5 milliards en avril 2022 (dont 170,9
+Le volume des réserves obligatoires à
+milliards d’opérations de pension-livrée et
+constituer par les assujettis a augmenté de
+130,6 milliards d’opérations en blanc). En
+25,6 milliards au cours de la période de
+avril 2021, l’encours moyen mensuel des
+référence pour s’établir à 862,2 milliards en
+opérations interbancaires s’élevait à 219,2
+avril 2022. Pour ce même mois, l’encours
+milliards (dont 131,8 milliards d’opérations
+moyen des réserves libres du système
+de pension-livrée et 102,7 milliards
+bancaire (1 139,8 milliards) a représenté
+d’opérations en blanc).
+132,2% des réserves requises contre 160,5%
+un an auparavant. Cependant, le nombre
+Cette évolution observée sur le
+d’établissements de crédit en déficit de
+compartiment interbancaire résulte de
+constitution des réserves obligatoires est
+l’adoption et de l’appropriation des
+revenu de sept à quatre au cours des trois
+différentes réformes introduites dans le
+derniers mois.
+nouveau cadre de mise en œuvre de la
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 31 ---
+31
+politique monétaire, notamment la Graphique 13: Evolution mensuelle de l’encours des
+transactions interbancaires
+technique de pension-livrée, la sécurisation
+des remboursements des opérations
+250 350
+interbancaires à travers DEPOX, A Non collatéralisées
+F
+C
+l’instauration des cadres de concertation, la F
+s
+Pension livrée 300
+réduction de l’asymétrie d’information et d r a 200 Total (Axe de droite)
+l’instauration d’une charte de bonne
+illiM
+250
+conduite. En effet, au cours de la période de 150
+200
+référence, on a observé une densification du
+réseau interbancaire, le nombre de 100 150
+participants passant de 25 à 30 entre février
+100
+et avril 2022. Par ailleurs, 72 opérations
+50
+d’un montant total de 354,5 milliards ont 50
+été enregistrées en avril 2022 contre 42
+0 -
+opérations identifiées en février 2022 pour
+un volume cumulé de 228,7 milliards.
+Toutes ces opérations concernent aussi bien
+les établissements de crédit de même Source : BEAC
+groupe que ceux de groupes bancaires
+différents.  Evolution des taux d’intérêt sur le
+marché monétaire
+Il y a également lieu de préciser que
+les volumes les plus importants échangés Les taux des opérations du marché
+sur ce compartiment ont porté sur les interbancaire, aussi bien en blanc que
+opérations de maturités d’un mois. collatéralisées, notamment les principaux
+taux de référence (TIMP à 7 jours), ont
+évolué en sens contraires entre février et
+avril 2022 bien qu’ils soient demeurés
+relativement élevés en glissement annuel.
+En effet, le TIMP à 7 jours des opérations
+en blanc qui se situait à 6,10 % à fin février
+2022 s’est replié à 6,00 % trois mois plus
+tard, tandis que celui des opérations
+collatéralisées a progressé de 3,90 % à
+4,92 % sur le même intervalle temporel. A
+fin avril 2021, le TIMP à 7 jours des
+opérations en blanc s’établissait à 4,67 %
+alors que celui des opérations de pension-
+livrée ressortait à 3,50 %.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 32 ---
+32
+Graphique 14: Evolution des taux du marché monétaire
+Source : BEAC
+de 4,1 % en moyenne annuelle.
+ Conditions monétaires
+Graphique 15: Évolution de l’Indicateur des
+Les conditions monétaires se sont
+Conditions Monétaires (ICM)
+durcies dans la CEMAC en mars 2022, en
+lien avec la baisse en moyenne annuelle de
+l’Indicateur des Conditions Monétaires
+(ICM), qui traduit le resserrement de la
+politique monétaire. En effet, l’ICM, en
+moyenne annuelle, s’est replié de 3,6 % en
+mars 2022 par rapport à l’année précédente,
+en relation principalement avec : (i) la
+hausse du TIAO de 50 points de base le 28
+mars 2022 après celle de 25 points de base
+du 25 novembre 2021 ; (ii) la progression
+des taux d’intérêt sur le marché
+interbancaire sous-régional de 18,3 points
+Source : BEAC
+de base, passant de 0,985 % à 1,168 % sur
+la période ; en dépit de (iii) l’appréciation
+de taux de change effectif nominal (TCEN)
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+8
+6
+4
+2
+0
+-2
+-4
+-6
+51-.vn aj51-sram51-iam51-.liu j51-.tpes51-.vo n61-.vn aj61-sram61-iam61-.liu j61-.tpes61-.vo n71-.vn aj71-sram71-iam71-.liu j71-.tpes71-.vo n81-.vn aj81-sram81-iam81-.liu j81-.tpes81-.vo n91-.vn aj91-sram91-iam91-.liu j91-.tpes91-.vo n02-.vn aj02-sram02-iam02-.liu j02-.tpes02-.vo n12-.vn aj12-sram12-iam12-.liu j12-.tpes12-.vo n22-.vn aj22-sram
+ICM _CEM A C M oyenne A nnuelle ICM
+
+--- Page 33 ---
+33
+ Conditions des banques Graphique 16: TEG et Taux nominaux par types de
+clientèle au premier trimestre 2022 (en %)
+Au cours du premier trimestre 2022,
+un net durcissement du coût du crédit a été Particuliers
+observé dans la plupart des pays de la zone
+CEMAC ; le taux effectif global (TEG) est Administrations
+publiques
+ainsi passé de 10,69 % au dernier trimestre
+de l’année 2021, à 11,81 %8 au premier
+Grandes Entreprises TN
+trimestre 2022.
+TEG
+Petites et Moyennes
+Sur le premier trimestre 2022, les Entreprises
+profils des TEG, par type de client, sont
+0 5 10 15 20
+restés les mêmes qu’au trimestre précédent,
+Source : BEAC
+avec un écart entre le TEG et le taux
+nominal plus faible pour les grandes
+L’analyse des coûts du crédit par
+entreprises que pour les particuliers : cet
+maturité révèle des taux longs inférieurs aux
+écart a été de 1,63 point de pourcentage
+taux courts, ce qui peut s’expliquer par la
+pour le secteur productif, et de 5,15 points
+forte capacité de négociation des grandes
+de pourcentage pour les particuliers. Ce
+entreprises, qui sont bénéficiaires pour la
+différentiel s’explique, au moins
+plupart du temps des prêts de ce type de
+partiellement, par la capacité des grandes
+maturité. Suivant cette classification par
+entreprises à négocier les frais relatifs à la
+maturité, le différentiel entre taux effectif
+mise en place de leurs crédits. S’agissant
+global et le taux nominal a été, sur la
+des segments des PME et des
+période sous revue, de 4,01 points de
+administrations publiques, les TEG moyens
+pourcentage sur les courtes maturités pour
+se sont situés à 12,49 % et 18,59%
+un TEG de 16,65 %, de 2,14 points pour les
+respectivement, avec des écarts par rapport
+crédits à moyen terme pour un TEG de
+aux taux nominaux de 3,25 et 8,61 points de
+12,45 %, et de 3,07 points sur les crédits
+pourcentage. Le très grand écart enregistré
+long terme pour un TEG de 11,13 %.
+sur les prêts aux administrations publiques,
+qui sont pourtant le segment le moins risqué
+Graphique 17: Taux débiteurs par maturité pratiqués
+de la clientèle, pourrait traduire des au premier trimestre 2022 (en %)
+problèmes de gouvernance.
+18,00%
+16,00% TEG TN
+14,00%
+12,00%
+10,00%
+8,00%
+6,00%
+4,00%
+2,00%
+0,00%
+Court Terme Moyen Long terme
+Terme
+Source : BEAC9 ; TN : Taux d’intérêt Nominal
+8 Ce taux est calculé à partir des données de la
+République Centrafricaine et de la Guinée Equatoriale du 9 Les TEG et TN définis concernent principalement la
+premier trimestre 2022. Toutefois, des estimations ont été République Centrafrique et la Guinée Equatoriale. Mais,
+faites sur les données manquantes. de façon générale, même si les taux du Gabon sont
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 34 ---
+34
+B. SITUATION MONETAIRE En définitive, les disponibilités
+monétaires et quasi-monétaires (M2) se sont
+L’évolution de la masse monétaire accrues de 12,0 % pour s’établir à
+(M2) de la CEMAC et de ses contreparties, 15 376,6 milliards à fin mars 2022 contre
+en glissement annuel, à fin mars 2022 a été 13 724,1 milliards un an auparavant. En
+marquée par : termes de contributions, les créances nettes
+sur les États et les crédits à l’économie ont
+ un recul des avoirs extérieurs nets du eu une influence positive sur l’évolution de
+système monétaire de 13,2 %. Cette la masse monétaire au sens large (M2) à
+évolution a résulté principalement de hauteur respectivement de 13,7 points et
+l’expansion des engagements extérieurs 5,6 points. Les avoirs extérieurs nets ont
+du système monétaire (34,7 %), en lien quant à eux contribué négativement à cette
+avec les tirages effectués sur le FMI, évolution (- 1,5 point) tandis que la
+dans le cadre des programmes contribution des ressources non
+économiques et financiers des pays de monétaires a été de 5,7 points. Toutes les
+la Zone. Néanmoins, les réserves de composantes ont contribué positivement à
+change sont remontées à l’expansion de la masse monétaire, avec
+4 882,1 milliards à fin mars 2022, 7,0 points pour la monnaie scripturale,
+contre 4 070,6 milliards douze mois 3,7 points pour la monnaie fiduciaire et
+plus tôt, et ont représenté environ 2,86 1,4 point pour les dépôts à terme
+mois d’importations de biens et monétaires.
+services. En conséquence, le taux de
+couverture extérieure de la monnaie est Graphique 18: Contributions des composantes à
+l’évolution de M2
+passé de 59,1 % en mars 2021 à 66,7 %
+un an plus tard ;
+ une progression des créances nettes du
+système monétaire sur les États de la
+CEMAC de 28,6 % à 8 430,4 milliards,
+du fait de l’intensification des émissions
+de titres publics par les Etats et
+l’utilisation des allocations de DTS ;
+ une augmentation des crédits à
+l’économie de 8 380,0 milliards à fin
+mars 2021 à 9 151,4 milliards un an
+plus tard, soit une progression de 9,2 %.
+Cette évolution est liée à celle des
+concours au secteur privé non financier
+(contribution de 10,1 points), aux
+entreprises publiques non financières Source : BEAC
+(1,0 point) nonobstant la baisse des
+crédits octroyés aux institutions De l’analyse de l’évolution des
+financières non monétaires (- 1,9 point). crédits par maturité, il ressort une
+augmentation des crédits à court terme à
+parfois plus élevés, des taux presque similaires sont hauteur de 6,4 %, une expansion des crédits
+retrouvés pour les autres pays dont les données manquent
+à moyen terme de 8,4 % et une hausse des
+(Cameroun, Congo, Tchad).
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+0
+0
+0
+0
+0
+0
+0
+0
+,1
+,1
+,1
+,0
+,0
+,0
+,0
+,0
+4
+2
+0
+8
+6
+4
+2
+0
+12-sram
+M O N N A IE FID U C IA IR E
+M O N N A IE SC R IPT U RA L E
+Q U A SI-M O N NA IE
+M A SSE M O N ET A IR E (E chelle de droite)
+1111 11
+22 22 22
+-- -- -- ti .n. .r ta l û piiv um u o ea j aj s
+12-.tco 12-.von 12-.céd 22-.vnaj 22-.rvéf 22-sram
+1
+1
+1
+8
+6
+4
+2
+0
+4,0%
+2,0%
+0,0%
+,0 %
+,0 %
+,0 %
+,0 %
+,0 %
+
+--- Page 35 ---
+35
+crédits à long terme de 89,5 %. Les Dans un contexte marqué par le
+contributions des crédits à court, moyen et déclenchement de la crise russo-
+long termes à l’accroissement des concours ukrainienne, la poursuite de la montée des
+bancaires à l’économie sont cours du pétrole brut sur les marchés
+respectivement de 3,6 points, 3,5 points et internationaux et la reprise des activités
+2,1 points. économiques post-COVID-19, le marché
+des titres publics émis par adjudication s’est
+Graphique 19: Contributions des crédits par maturité caractérisé entre avril 2021 et avril 2022
+à l’évolution des crédits à l’économie
+par : (i) un dynamisme des opérations sur
+les marchés primaire et secondaire (ii) une
+évolution contrastée des taux de couverture
+des émissions, et (iii) une augmentation des
+coûts des émissions.
+ Le marché primaire
+Au cours de la période de référence,
+le nombre des adjudications a crû de 7,5 %,
+à 287 appels d’offres sur bons et obligations
+du Trésor assimilables ayant permis de
+lever un total de 3 726,3 milliards, dont
+2 016 milliards en BTA et 1 710,2 milliards
+en OTA.
+Sur le segment BTA, les bons à 26
+semaines ont été plus prisés, avec un total
+de 866,6 milliards, représentant 43 % des
+Source : BEAC émissions sur la période. L’essentiel des
+émissions de BTA du Gabon (58 %) et du
+Congo (53,7 %) ont porté sur cette maturité.
+C. MARCHE DES TITRES Les BTA à 52 semaines arrivent en
+PUBLICS deuxième position, avec un montant de
+761,9 milliards.
+Entre avril 2021 et avril 2022, le
+dynamisme du marché des valeurs du
+Les émissions de bons à 52 semaines
+Trésor, observé depuis trois ans, s’est
+sont principalement le fait des Trésors du
+consolidé. En effet, les encours ont
+Tchad (301,2 milliards), de la République
+augmenté de 34,0 % passant de 3 778,5 Centrafricaine (225,9 milliards) et du
+milliards en avril 2021 à 5 074 milliards en
+Congo (86,3 milliards). Les BTA à 13
+avril 2022, malgré la baisse des montants
+semaines sont les moins courus, avec un
+levés par les Trésors nationaux revenant à
+total de 387,6 milliards, en majorité émis
+3 726,3 milliards entre avril 2021 et avril
+par le Trésor du Gabon (170,5 milliards) et
+2022 contre 3 862,8 milliards entre avril
+le Cameroun (126,6 milliards).
+2020 et avril 2021. La part des titres en
+circulation détenue par les investisseurs S’agissant des OTA, les montants
+institutionnels et les personnes physiques
+levés sont passés de 1 573,2 milliards entre
+est passée de 6,2% à 14,4% en un an.
+avril 2020 et avril 2021 à 1 710,2 milliards
+sur la période de référence.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+0,15
+0,14
+0,13
+0,12
+0,11
+0,10
+0,09
+0,08
+0,07
+0,06
+0,05
+0,04
+0,03
+0,02
+0,01
+- 0,01
+12-sram
+CREDITS A COURT TERM E
+CREDITS A M OYEN TERM E
+CREDITS A LONG TERM E
+CREANCES SUR L'ECONOM IE
+1 11 12
+22 2-
+-- -i.
+n .r a liiv
+um ua
+jj
+12-tûoa 12-.tpes 12-.tco 12-.von 12-.céd 22-.vnaj 22-.rvéf 22-sram
+14,0%
+12,0%
+10,0%
+8,0%
+6,0%
+4,0%
+2,0%
+0,0%
+
+--- Page 36 ---
+36
+remboursé d’importants volumes sont ceux
+Par maturité, les émissions des OTA du Gabon (730 milliards), du Cameroun
+sont dominées par les instruments à 3 ans (540,5 milliards), du Congo (525,2
+(686,2 milliards), suivi des maturités à 5 ans milliards) et du Tchad (393,6 milliards).
+(400 milliards), et à 2 ans (303,9 milliards).
+Ces trois maturités concentrent plus des S’agissant de l'encours global des
+deux tiers (81,3 %) des montants levés en valeurs du Trésor, il est passé de
+OTA. Les OTA à 4 ans, essentiellement 3 778,5 milliards à 5 074 milliards entre
+émis par la Guinée Equatoriale (102,9 avril 2021 et avril 2022, soit une hausse de
+milliards) et le Congo (92,3 milliards), 34 % en un an. Par segment, l’encours des
+représentent 12,5 % des émissions d’OTA. BTA s’élève à 1 165,8 milliards et celui des
+Le Cameroun (9,8 milliards) et le Gabon OTA à 3 908,2 milliards. Les Trésors du
+(16,8 milliards) ont émis des OTA de 10 Gabon (1 303,6 milliards), du Cameroun
+ans. (1 270,1 milliards), du Congo (1 241,6
+milliards) et de la Guinée Equatoriale
+S’agissant de la couverture des (612,1 milliards) constituent les principaux
+émissions au cours de la période sous revue, débiteurs sur ce marché, avec 87,3 % de la
+les taux de couverture moyens des montants dette émise.
+mis en adjudication ont été contrastés
+notamment avec un repli de 16,42 points de La répartition de l’encours des titres
+base du taux de couverture moyen des BTA, par nature des détenteurs finaux montre
+à 110,93 % et une hausse de 7,19 points de qu’au 30 avril 202210, 77,8 % des valeurs du
+base de celui des OTA, à 88,58 %. Trésor en circulation sont détenues par les
+Quoiqu’encore substantiels, la moyenne SVT et autres banques. Les opérations de la
+annuelle des taux de couverture passe de BEAC représentent 7,8 %, tandis que les
+108,6 % à 100,7 % sur la période allant placements des investisseurs institutionnels
+d’avril 2021 à avril 2022. Cette baisse est et des personnes physiques qui sont en
+notamment liée à une pression croissante augmentation, restent encore modestes, avec
+sur la demande de ressources en lien avec la 14,4 % de l’encours global des titres.
+hausse des besoins des Etats, dans un
+contexte marqué par la baisse des revenus Cette situation s’explique notamment
+publics du fait du double choc pétrolier et par : (i) la faible culture financière des
+sanitaire. Toutefois, pour les Trésors du agents économiques (investisseurs
+Cameroun, du Gabon et de la Guinée institutionnels et physiques) qui demeurent
+Equatoriale, les BTA ont été sursouscrits, très peu imprégnés des opportunités offertes
+pour des taux de couvertures de 133,54%, par ce marché et (ii) la non-observation
+118,93% et 113,46% respectivement. systématique de la règle de ségrégation des
+titres par certains SVT qui n’enregistrent
+En termes d’administration des titres, pas toujours les titres acquis pour la
+les Trésors publics ont honoré la totalité des clientèle dans les comptes dédiés.
+engagements échus sur la période en
+examen, pour un montant de 2 491,2 En pourcentage du PIB, cet encours
+milliards, dont 2 125,7 milliards de BTA, et des titres a fortement progressé de 0,1 % en
+365,5 milliards d’OTA. Ces décembre 2011, date de lancement du
+remboursements sont en progression de
+24,3 % par rapport aux volumes réalisés un
+10 Au 31 mai 2022, la répartition des titres se présente
+an auparavant qui ressortaient à 2 004,4
+comme suit : 74,2 % pour les banques et les SVT, 17,0 %
+milliards. Par pays, les Trésors ayant pour les investisseurs institutionnels, 7,4 % pour la
+BEAC et 1,4 % pour les personnes physiques.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 37 ---
+37
+marché des titres publics, à 7,5 % du PIB Trois catégories d’opérations sont
+dix ans plus tard (cf. graphique 19), même enregistrées sur le marché secondaire des
+s’il est quasiment quatre fois inférieur au titres publics, en l’occurrence : (i) les
+niveau atteint par l’ensemble des pays de achats-ventes fermes de titres ; (ii) les
+l’UEMOA (11,9 % du PIB) en décembre opérations de pension-livrée interbancaires ;
+2020. et (iii) les transferts franco de titres, c’est-à-
+dire sans contrepartie espèces, entre les
+Tableau 3: Répartition de l’encours des titres par investisseurs.
+qualité du détenteur final au 30 avril 2022
+(en milliards )
+Comme le compartiment primaire, le
+Parts marché secondaire des titres publics
+Montant
+Catégorie d'investisseurs nominal relatives poursuit son dynamisme au cours de la
+(en %)
+période sous revue.
+Banques et SVT 3 945 77,8
+BTA 963,2 19,0
+OTA 2 982,2 58,8 En effet, entre avril 2021 et avril
+BEAC 666,7 13,1
+2022, 664 opérations d’achat-ventes de
+BTA 66,5 1,3
+titres pour un montant nominal de 1 875,5
+OTA 600,1 11,8
+Investisseurs institutionnels 65,3 1,3 milliards, échangés à 1 88,3 milliards ont
+BTA 13,8 0,3 été enregistrées, soit des hausses respectives
+OTA 51,5 1,0
+de 120,6 %, 169 % et 167,7 % par rapport à
+Personnes physiques 396,7 7,8
+la même période, un an auparavant où
+BTA 122,3 2,4
+OTA 274,4 5,4 seulement 301 opérations d’une valeur
+Total général 5 074,0 100 globale de 700,6 milliards échangés à 700,3
+Source : BEAC/CRCT
+milliards avaient été enregistrées.
+De même, le nombre et la valeur
+Graphique 20 : Evolution de l’encours des valeurs du
+Trésor de la CEMAC en % du PIB nominal globale des opérations de pension-livrée
+interbancaire sont en augmentation avec
+288 opérations réalisées pour un montant
+cumulé de 1 243,6 milliards, contre 110
+opérations l’année précédente d’une valeur
+cumulée d’environ 452,5 milliards. La
+durée maximale des pensions est
+globalement restée stable sur les deux
+périodes. Quant aux taux d’intérêt négociés
+entre les contreparties, ils sont revenus à 1 à
+6% au cours de la période sous revue,
+contre 3 à 8% entre avril 2020 et avril 2021.
+Le nombre et la valeur nominale
+d’opérations de transferts franco de titres
+ont également augmenté sur la période
+sous-revue. Ainsi, 2 025 opérations sur des
+Source : BEAC/CRCT
+titres d’une valeur nominale de 4 682,1
+milliards ont été réalisées entre avril 2021 et
+ Le marché secondaire
+avril 2022, contre 919 opérations d’une
+valeur nominale de 1 816,4 milliards sur la
+période d’avril 2020 à avril 2021.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 38 ---
+38
+Tableau 4: Evolution des transactions interbancaires de titres au cours des deux dernières années
+(Montants en milliards FCFA)
+avr 2020- avr 2021 avr 2021- avr 2022
+Type d'opérations
+Nombre Valeur Valeur Nombre Valeur Valeur
+d'opérations espèces nominale d'opérations espèces nominale
+Achat-ventes de titres 301 664 1883,3
+700,3 700,6 1875,5
+Pension-livrées interbancaires 110 288 1243,6
+452,5
+Transferts franco de titres 919 2025
+1816,4 4682,1
+Source : BEAC/CRCT
+ Le coût des ressources mobilisées Sur le compartiment des OTA
+par les Trésors publics s’est orienté cependant, on observe une baisse du coût
+à la hausse des émissions pour l’ensemble des Trésors.
+Le coût moyen des émissions s’est L’examen de la dynamique
+globalement orienté à la hausse sur la mensuelle des taux moyens pondérés des
+période sous revue. En effet, le taux de émissions des BTA met en exergue une
+rendement moyen des OTA s’est établi à relative stabilité des taux des instruments à
+8,77 % pour les émissions réalisées entre 13 et 26 semaines, qui oscillent
+avril 2021 et avril 2022, contre 8,41 %, un respectivement entre 3 et 6 %, puis 4 et 6
+an auparavant. Le taux moyen pondéré des %. Les taux moyens pondérés sur les BTA à
+BTA a également enregistré une hausse sur 52 semaines évoluent de manière assez
+la période de référence, s’établissant à 5,88 erratique.
+%, contre 5,34 % entre avril 2020 et avril
+2021. Graphique 21 : Dynamique des taux moyens pondérés
+des émissions de BTA depuis décembre 2019 (en %)
+En dépit de ces tendances
+9
+globales, d’importantes disparités existent
+8
+entre les Trésors, reflétant ainsi les
+hétérogénéités dans les perceptions du 7
+risque souverain par les investisseurs. En 6
+effet, sur le segment des BTA, on relève
+5
+une baisse des taux pour la Guinée
+4
+Equatoriale (de 8,23 % à 7,98%) et une
+3
+faible proportion de repli pour le Trésor du
+Cameroun (de 2,43 % à 2,40 %), tandis 2 13 semaines 26 semaines 52 semaines
+qu’ils ont augmenté pour les Trésors du 1
+Congo (de 6,04 % à 6,49 %), du Gabon (de
+0
+4,56% à 5,76 %), de la République
+Centrafricaine (de 5,38 % à 5,90 %) et du
+Tchad (de 6,13% à 6,61 %).
+Source : BEAC/CRCT
+D. MARCHE FINANCIER
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 39 ---
+39
+Au cours de la période de référence,
+La dynamique des activités observée le marché obligataire s’est contracté. Les
+sur le marché financier de la CEMAC transactions sur ce marché ont porté sur
+depuis la prise en main de la fonction de 6 666 928 obligations valant 60,88 milliards
+Dépositaire Central Unique de la CEMAC de FCFA contre 15 505 143 obligations
+(DCU) par la BEAC en juillet 2019, se transigées une année auparavant pour un
+poursuit notamment avec une physionomie montant agrégé de 77,71 milliards de
+du marché en constante progression. Le FCFA.
+portefeuille des valeurs mobilières gérées
+par la BEAC au titre de ses fonctions de Les obligations du Congo
+DCU au 30 avril 2022 compte dix-neuf (19) représentent 62,7% du volume global des
+valeurs, contre seize (16) valeurs, il y a un transactions avec un montant total de 38,68
+an. milliards de FCFA, suivi des obligations du
+Gabon avec 28,5% (17,76 milliards de
+Entre avril 2021 et avril 2022, le FCFA), le Cameroun avec 8,5% (5,29
+compartiment obligataire est composé de milliards de FCFA) et enfin 0,184 milliards
+quatorze (14) valeurs représentant un pour la BDEAC (0,27%).
+encours de 793,55 milliards de FCFA,
+contre douze (12) valeurs valant 566,28 Au cours de la période sous-revue, (i)
+milliards de FCFA au 30 avril 2021, soit le compartiment réservé aux transferts de
+une hausse de 40,13% en une année. titres a été particulièrement actif. En effet,
+14 000 344 titres valant 116,34 milliards de
+Quant au marché des actions, il est FCFA ont fait l’objet de transferts, contre
+constitué de cinq (05) valeurs représentant un volume de 3 732 734 titres pour un
+une capitalisation boursière de 200,15 montant de 28,68 milliards de FCFA
+milliards de FCFA contre quatre (04) transférés, en hausse de 275,07% en volume
+valeurs pour une capitalisation boursière de et de 305,6% en valeur, et (ii) un volume de
+144,91 milliards de FCFA en avril 2021, 19 372 694 obligations émises par
+soit une hausse de la capitalisation de 38,12 syndication classique correspondant à une
+%. valeur nominale de 191,01 milliards de
+FCFA a été nanti par les banques au profit
+Sur le marché des actions, quatre de la BEAC, contre 2 331 500 obligations
+(04) valeurs, à savoir SAFACAM, valant 22,16 milliards de FCFA une année
+SOCAPALM, SEMC et LA REGIONALE auparavant, soit une hausse de 730,91% en
+ont fait l’objet de transactions. Au total, 10 valeur nominale.
+160 actions ont été échangées à fin avril
+2022, pour un montant cumulé de 0,233 Entre avril 2021 et avril 2022, sept
+milliards de FCFA, contre 11 628 actions (07) nouvelles lignes d’emprunts
+valant 0,268 milliard de FCFA enregistrées obligataires ont été enregistrées. Il y a lieu
+un an auparavant, soit une régression du d’observer qu’aucune valeur n’a été admise
+total des actions échangées de 12,62%. aux opérations du DCU une année
+auparavant. Le montant agrégé des
+Par valeur, l’action SAFACAM est le souscriptions s’élève à 543,72 milliards de
+titre le plus transigé avec un poids de FCFA.
+71,82 % du volume total des transactions, Au titre de la période sous revue, les
+suivi de SOCAPALM (19,43%), LA sociétés SAFACAM et SOCAPALM ont
+REGIONALE (5,87%) et SEMC (2,88%). ordonné le paiement des dividendes pour un
+montant total de 2,85 milliards de FCFA,
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 40 ---
+40
+soit 0,178 milliard pour SAFACAM et 2,67 SAFACAM et 1,726 milliards pour
+milliards de FCFA pour la SOCAPALM, SOCAPALM.
+tandis qu’un an auparavant ce chiffre se
+situait à un montant agrégé de 1,84
+milliards dont 0,115 milliards pour
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 41 ---
+41
+IV. PERSPECTIVES MACROECONOMIQUES A COURT TERME
+L’activité économique devrait enregistrer une évolution contrastée à court terme du fait à
+la fois de la solidité attendue de la production sylvicole, minière et d’hydrocarbures et des
+répercussions négatives de la crise ukrainienne, des perturbations des chaînes
+d’approvisionnement mondiales et de la baisse du pouvoir d’achat des ménages sur l’activité.
+Les estimations pour le deuxième trimestre 2022, en glissement annuel, tablent sur une hausse
+moins importante de l’ICAE de la CEMAC à 4,7 % (contre 8,5 % un an plus tôt). En
+glissement trimestriel, l’ICAE devrait reculer de 0,8 %, au deuxième trimestre 2022, contre
+0,7 % un trimestre plus tôt.
+Les prévisions d’inflation tablent sur le maintien de la dynamique haussière des prix à
+fin juin 2022 en relation principalement avec la forte accélération des prix des produits
+alimentaires. En effet, le taux d’inflation demeurerait en hausse autour de 2,8 % en moyenne
+annuelle (après 2,2 % en juin 2021), contre 2,2 % en mars 2022. Il remonterait en glissement
+annuel, à 4,9 % en juin 2022, après de 4,2 % en mars 2022 comparativement aux taux de 1,8 %
+en juin 2021 et 2,6 % à fin décembre 2021.
+Sur l’ensemble de l’année 2022, les services de la BEAC tablent sur : i) un taux de
+croissance du PIB réel de +3,5 % contre 1,5 % en 2021, porté principalement par le secteur
+pétrolier, ii) une accélération des pressions inflationnistes à 3,8 % en 2022, contre 1,6 % un an
+plus tôt, iii) un redressement du solde budgétaire base engagements, dons compris, qui
+deviendrait excédentaire à 1,9 % du PIB en 2022, après -1,7 % du PIB en 2021, ainsi que celui
+du solde du compte courant qui passerait de -1,4 % du PIB en 2021 à 3,9 % du PIB en 2022.
+Sur le plan de la monnaie, la masse monétaire augmenterait de 13,0 % tandis que les avoirs
+extérieurs nets bondiraient de 76,0 %.
+Concernant les réserves de change, elles progresseraient à 6 128,6 milliards à fin 2022,
+soit une hausse de 30,1 % sur un an, et le taux de couverture extérieure de la monnaie à 74,4 %
+contre 64,0 % en avril 2022. En définitive, le niveau des réserves en mois d’importations de
+biens et services baisserait à 3,59 en 2022 contre 3,55 en 2021, en restant au-dessus du seuil
+minimal de 3. Cette quasi-stagnation s’explique essentiellement par une progression des
+importations des biens et services plus importante (+28,8 %) que celle des réserves de change.
+A. PREVISIONS AU chaînes d’approvisionnement mondiales et
+DEUXIEME TRIMESTRE la baisse du pouvoir d’achat des ménages,
+2022 du fait des tensions inflationnistes,
+devraient fragiliser l’activité à court terme
+1. ICAE dans la CEMAC. Ainsi, les estimations pour
+le deuxième trimestre 2022, en glissement
+L’activité économique devrait annuel, tablent sur une hausse moins
+enregistrer une évolution contrastée à court importante de l’ICAE de la CEMAC à 4,7
+terme. Malgré la solidité attendue de la % (contre 8,5 % un an plus tôt). En
+production sylvicole, minière et glissement trimestriel, l’ICAE devrait
+d’hydrocarbures, les répercussions de la reculer de 0,8 %, au deuxième trimestre
+crise ukrainienne, les perturbations des 2022, contre 0,7 % un trimestre plus tôt.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 42 ---
+42
+Source : BEAC
+Par rapport au premier trimestre
+2022, les contributions à l’évolution de
+Graphique 23: Evolution de l'ICAE CEMAC (en
+l’ICAE deviendraient négatives pour le
+glissement trimestriel. 2020T1 à 2022T2)
+Cameroun (-0,3 point), la République Source : BEAC
+Centrafricaine (-0,03 point), la Guinée
+Equatoriale (-0,4 point) ainsi que le Tchad
+(-0,3 point). L’activité devrait se redresser 2. Inflation
+au Congo par rapport au premier trimestre
+2022, avec une contribution à l’évolution de Les prévisions à fin juin 202211
+l’ICAE de 0,2 point en glissement tablent actuellement sur le maintien de la
+trimestriel. Sur cette même période, l’apport dynamique haussière des prix par rapport à
+du Gabon serait nul, marquant une détente fin mars 2022. En effet, le taux d’inflation
+de l’activité dans le pays. demeurerait en hausse autour de 2,8 % en
+moyenne annuelle (après 2,2 % en juin
+Sur la base de ces éléments, le taux 2021), contre 2,2 % en mars 2022. Il
+de croissance en glissement annuel du PIB remonterait en glissement annuel, à 4,9 %
+réel de la CEMAC devrait s’établir autour en juin 2022, après de 4,2 % en mars 2022
+de 1,2 % au deuxième trimestre 2022, après respectivement 1,8 % en juin 2021et
+contre 2,4 % un an auparavant. En 2,6 % à fin décembre 2021.
+glissement trimestriel, le taux de croissance
+du PIB réel devrait s’établir autour de - Pour l’essentiel, en glissement
+0,3 % au deuxième trimestre 2022, contre - annuel, la dynamique projetée à court terme
+0,9 % un trimestre auparavant. serait impactée à fin juin 2022
+principalement par une contribution, plus
+Graphique 22: Evolution de l'ICAE CEMAC (en importante de la fonction « produits
+glissement annuel. 2020T1 à 2022T2) alimentaires et boissons non alcoolisées »
+(3,2 points, contre 2,5 point trois mois plus
+tôt), tirée par les poussées inflationnistes
+persistantes des pays fournisseurs de la
+CEMAC, ainsi que les effets de la crise en
+Ukraine sur les prix alimentaires et la
+carburant.
+En termes de contribution par pays,
+le Cameroun devrait toujours garder une
+incidence sensible sur la dynamique des
+prix de la Sous-région (contribution de 2,4
+points en glissement annuel à fin juin 2022),
+suivi du Tchad (0,9 point), de la République
+Centrafricaine (0,5 point), du Gabon et du
+Congo (0,4 point chacun). D’un autre côté,
+la Guinée Equatoriale devrait enregistrer
+une contribution positive plus faible (0,3
+point).
+11 Les services réalisent l’exercice de prévision par les
+approches Short Term Inflation Forecast (STIF) à partir
+des dernières réalisations fournies par les INS.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 43 ---
+43
+a) Scénario de base (un prix moyen du
+Les prévisions à court terme de baril de pétrole brut à 106,8 $ avec
+l’inflation sous-jacente indiquent une une accélération des tensions
+poursuite de la remontée des pressions à fin inflationnistes et une résolution rapide
+juin 2022. En effet, le taux d’inflation sous- de la crise russo-ukrainienne) :
+jacente s’établirait à 2,5 % en moyenne
+annuelle et 4,3 % en glissement annuel,  secteur réel :
+contre respectivement 1,8 % et 3,7 % à fin
+mars 2022 et 2,0 % et 1,5 % un an plus tôt. La prévision de croissance de la
+CEMAC en juin 2022 a été revue à la
+hausse par rapport à celle réalisée en mars
+2022. Au titre des facteurs ayant contribué à
+B. PREVISIONS DU CADRE cette amélioration des perspectives
+MACROECONOMIQUE économiques, on note une amélioration
+SUR L’ENSEMBLE DE sensible des termes de l’échange, en raison
+L’ANNEE 2022 du redressement des cours des principales
+matières premières exportées par la
+3. Hypothèses sous-jacentes des CEMAC. Toutefois, la production pétrolière
+prévisions sur l’ensemble de l’année prévisionnelle serait moins importante que
+2022 celle prévue en mars 2022, tandis que celle
+du gaz augmenterait. Ainsi, selon les
+Les services de la Banque ont révisé prévisions mises à jour à fin juin 2022, la
+les deux scénarios possibles du cadre croissance économique passerait de 1,5 %
+macroéconomique de la CEMAC en 2022, en 2021 à 3,5 % en 2022, portée
+selon l’évolution des cours du baril de principalement par un rebond de la
+pétrole et l’évolution de la crise croissance pétrolière (3,0 % en 2022, contre
+ukrainienne: -8,3 % un an plus tôt).
+i. un scénario de base, tablant sur un prix Suivant l’optique offre, le secteur
+du baril de pétrole brut de 106,8 dollars pétrolier profiterait des cours mondiaux
+avec une accélération des tensions favorables du brut pour rehausser
+inflationnistes et une résolution rapide sensiblement son niveau d’activité, avec
+de la crise russo-ukrainienne. Ce une croissance de 3,6 % en 2022, qui serait
+scénario suppose également que les cependant en recul par rapport à celle de
+programmes économiques et financiers 2021 (+ 3,9 %). Le secteur tertiaire devrait
+des Etats seront bien exécutés et que les porter la croissance à hauteur de 1,7 point,
+décaissements des appuis budgétaires se en lien avec une bonne tenue des services
+feront de manière régulière ; marchands. Le secteur primaire renforcerait
+son apport à la croissance (contribution de
+ii. un scénario optimiste, qui se base 0,9 point contre -1,3 point en 2021), grâce à
+principalement sur un prix du baril de un regain de performances des industries
+pétrole brut le plus élevé (120$) et une extractives ainsi que de la résilience des
+exacerbation des tensions inflationnistes activités agropastorales. L’apport du secteur
+dues aux conséquences accrues de la secondaire à la croissance devrait
+crise russo-ukrainienne. légèrement progresser, avec une
+contribution de 0,9 point en 2022
+attribuable principalement à une bonne
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 44 ---
+44
+progression du BTP, en dépit d’un recul de pourcentage du PIB, augmenterait de
+l’activité des industries manufacturières. 3,6 points en 2022, en relation
+principalement avec la hausse des recettes
+Suivant l’optique demande, la
+pétrolières (contribution de 2,8 points) et
+demande intérieure brute continuerait de
+non pétrolières (contribution de 1,1 point),
+porter solidement la croissance de la
+qui aurait plus que compensé la hausse des
+CEMAC en 2022 (contribution de 7,6
+dépenses totales (contribution de 0,8 point).
+points, contre 6,6 points en 2021), avec une
+La remontée des recettes pétrolières est
+consolidation de la reprise de la
+essentiellement liée à la bonne dynamique
+consommation privée (contribution de 5,7
+des cours du baril (106,83 dollars le baril en
+points en 2022 contre 3,4 points en 2021),
+2022 au lieu de 82,4 dollars le baril, contre
+contrebalançant le recul de la
+consommation publique et des 69,07 dollars le baril en 2021). Les recettes
+investissements bruts (contributions de 0,2 non pétrolières continueraient de tirer profit
+point et 1,8 point respectivement). Ce des efforts attendus dans la mobilisation des
+dynamisme de la demande intérieure devrait recettes fiscales, notamment avec
+s’accompagner d’une hausse des l’informatisation accrue de la collecte des
+importations, qui déprimerait la contribution
+impôts et taxes dans la plupart des pays de
+des exportations nettes à la croissance (- 4,1
+la CEMAC, et la formalisation de
+points en 2022 contre -5,1 points un an plus
+l’économie de certains pays de la CEMAC
+tôt).
+de plusieurs entreprises informelles
+favorisée par la réglementation de change,
+Dans un contexte de hausse des cours
+notamment au Tchad.
+des produits alimentaires mondiaux, de
+cours du pétrole élevés et d’une
+S’agissant de l’orientation de la
+recrudescence des disruptions dans les
+politique budgétaire de l’ensemble des pays
+chaines d’approvisionnement mondiales,
+de la CEMAC, en 2022, elle devrait être
+l’inflation devrait se hisser autour de 3,8 %
+procyclique et restrictive. En effet, les pays
+en moyenne annuelle à fin 2022 (contre
+de la CEMAC continuent de subir les effets
+1,6 % en fin 2021).
+négatifs de la crise sanitaire de COVID-19.
+En outre, l’écart de production des pays de
+ Finances publiques :
+la Zone resterait négatif à -1,9 % en 2022,
+après -3,6 % en 2021, et dans ces conditions
+La situation des finances publiques
+le solde primaire corrigé des variations
+ressortirait plus favorable, sous l’effet de la
+saisonnières ressortirait excédentaire à 2,8
+révision à la hausse des cours des produits
+% en 2022, après un déficit de 0,1 % en
+exportés par la CEMAC, en particulier du
+2021. Ainsi, l’impulsion budgétaire
+pétrole brut et des appuis budgétaires du
+s’accentuerait en 2022, à 3,0 %, après 1,0 %
+FMI. En conséquence, le solde budgétaire
+en 2021. Dans la même veine, le solde
+global, dons compris, se situerait à 1,9 % du
+budgétaire de référence se contracterait à -
+PIB en 2022, après -1,7 % du PIB en 2021.
+1,0 % du PIB (en dessous de la norme
+communautaire de -1,5 % du PIB), après -
+Au plan stratégique, l’on observe que
+2,2 % du PIB en 2021, soulignant la
+la variation du solde budgétaire en possibilité pour certains Etats de la CEMAC
+pourcentage du PIB découlerait pour de constituer une épargne budgétaire en
+l’essentiel de l’accroissement des recettes 2022. L’orientation de la politique
+budgétaires. En effet, le solde budgétaire, budgétaire des pays de la CEMAC
+base engagements, dons compris, en annoncée en début d’année 2022 buterait
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 45 ---
+45
+principalement, au plan interne, aux effets lien principalement avec l’amélioration des
+des tensions sécuritaires, et au plan termes de l’échange de +37,7 %. La
+international, aux conséquences du conflit variation du compte courant, en pourcentage
+entre la Russie et l’Ukraine. du PIB, découlerait principalement d’une
+augmentation des exportations pétrolières
+(contribution de +9,9 points) et non
+Dans un environnement plus
+pétrolières (+ 4,3 points). En particulier,
+favorable, les pays de la CEMAC devraient
+l’on observe une forte hausse des
+mobiliser moins de tirages extérieurs,
+exportations suivantes : pétrole brut
+1 562,8 milliards en 2022, après 2 000,5 (+66,1 % en 2022 à 16 814,3 milliards), gaz
+milliards en 2021. Les ressources (141,0 % en 2022 à 2 767,7 milliards), bois
+exceptionnelles (hors FMI) se chiffreraient (10,2 % à 1045,7 milliards), manganèse
+à hauteur de 28,8 milliards en 2022, après (14,4 % à 832,5 milliards) et coton (+49,2%
+149,4 milliards en 2021. La variation des à 409,8 milliards). La contribution des
+importations (-4,5 points en 2022 contre –
+arriérés devrait se situer à -241,5 milliards
+2,3 points en 2021) découlerait du
+en 2022, après -142 milliards en 2021. Le
+relèvement projeté des dépenses publiques
+financement intérieur bancaire devrait
+et de la hausse anticipée des importations
+s’accroitre substantiellement en 2022,
+des biens de consommation du fait de la
+passant à 1 520,1 milliards en 2022, après
+poursuite de la reprise des activités
+1 699,1 milliards en 2021. Ces ressources
+économiques.
+leur permettraient d’amortir la dette
+extérieure à hauteur de 1 957,0 milliards en En définitive, le solde global de la
+2021, après 1 887,1 milliards en 2021. Par balance des paiements deviendrait à
+ailleurs, les pays de la CEMAC devraient se nouveau excédentaire, à 845,5 milliards,
+désengager vis-à-vis du système non soit +1,2 % du PIB, contre - 3,0 % du PIB
+bancaire pour environ 182,8 milliards, après un an auparavant. En points de PIB, cette
+1 408,25 milliards. amélioration serait principalement portée
+par le redressement du compte courant
+En conséquence, les prévisions mises (contribution +4,6 points) et la remontée des
+à jour ont révisé légèrement à la baisse les investissements directs étrangers
+taux d’endettement en 2022, avec un ratio (contribution +1,3 points), malgré la
+du service de la dette publique sur les diminution des flux nets de capitaux
+exportations de 9,4 % en 2022, après entrants à court terme (-5,1 points).
+14,5 % en 2021, et un encours de la dette
+L’excédent de la balance des
+publique qui ressortirait à hauteur de 25,0 %
+paiements et les financements exceptionnels
+du PIB en 2022, contre 30,0 % en 2021.
+de 28,8 milliards permettraient d’accumuler
+Quant au ratio du service de la dette
+des réserves officielles de 874,3 milliards,
+publique sur les recettes budgétaires, il
+faisant ainsi passer leur stock à 3,59 mois
+s’établirait à hauteur de 21,3 % en 2022,
+d’importations de biens et services en 2022
+après 27,2 % en 2021.
+contre 3,55 mois un an auparavant.
+ Secteur extérieur :
+ Situation monétaire :
+L’excédent extérieur courant, transferts
+Elle serait marquée par une hausse
+publics inclus, ressortirait à 4,6 % du PIB,
+des avoirs extérieurs nets (+76,0 %) à 2
+après un déficit de 1,4% du PIB en 2021, en
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 46 ---
+46
+311,3 milliards, en lien principalement avec Suivant le scénario optimiste, les
+l’impact de l’allocation de DTS octroyée contributions de la consommation publique
+par le FMI en 2021 et de la hausse des cours et des investissements privés seraient plus
+du baril de pétrole brut et des efforts de importantes en 2022, avec des apports
+rapatriement de recettes d’exportation. Les respectifs de 1,2 point et 2,4 points (contre
+crédits à l’économie devraient croître de 6,1 0,2 point et 1,4 point respectivement dans le
+% et les créances nettes sur l’Etat de 18,6 % scénario de base). L’inflation enfin serait
+en rapport avec les émissions des titres sur plus forte que dans le scénario de base
+le marché monétaire. Par conséquent, la (4,2 % en moyenne annuelle à fin décembre
+masse monétaire s’accroîtrait de 13,0 % à 2022), dans un contexte de cours des biens
+17 311,6 milliards. Du fait de alimentaires plus hauts et de la contraction
+l’accroissement des réserves brutes, le taux de l’offre céréalière mondiale.
+de couverture extérieure de la monnaie se
+situerait à 74,4 %, contre 64 % en 2021.  Finances publiques :
+Quant aux réserves en mois d’importations
+de biens et services, elles ressortiraient à La situation ressortirait avec un
+3,59 mois contre 3,55 en 2021, en lien avec excédent budgétaire plus important que
+le renchérissement du coût des dans le scénario de base, en lien avec les
+importations. hypothèses nettement plus favorables du
+secteur pétrolier (principal pourvoyeur de
+recettes dans plusieurs pays). Au plan
+b) Scénario optimiste (prix moyen du stratégique, l’on observe que les recettes
+baril de brut à 120 $ et une pétrolières demeureraient les principaux
+exacerbation des tensions contributeurs au redressement du solde
+inflationnistes dues aux conséquences budgétaire à hauteur de 5,1 points (4,3
+accrues de la crise russo- points pour les recettes pétrolières et 1,4
+ukrainienne): point pour les recettes non pétrolières),
+contre 3,9 points dans le scénario de base,
+ secteur réel : eu égard à une meilleure performance
+attendue dans ce secteur d’activité. Cet
+Sous ce scénario, la croissance en accroissement des ressources qui se ferait
+2022 se hisserait à 4,4 % (contre 3,5 % dans sans incidence sur les dépenses publiques
+le scénario de base), avec une progression qui contribueraient autour de -1,1 point au-
+plus importante du secteur pétrolier (5,0 % dessus du niveau obtenu dans le scénario de
+contre 3,0 % dans le scénario de base) et base. L’excédent budgétaire leur permettrait
+une accélération du secteur non pétrolier pour l’essentiel de se désengager davantage
+(4,3 % contre 3,6 % dans le scénario de vis-à-vis du système bancaire (1 008,5
+base). Le secteur primaire enregistrerait des milliards). L’orientation de la politique
+performances sensiblement meilleures, avec budgétaire resterait procyclique et
+une contribution à la croissance qui restrictive.
+passerait de 0,9 point dans le scénario de
+base à 1,3 point dans le scénario optimiste.
+Cette évolution plus favorable découlerait
+essentiellement d’une vigueur accrue des
+industries extractives, soutenue par des
+cours du pétrole plus importants.  Secteur extérieur :
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 47 ---
+47
+L’excédent extérieur courant, extérieurs nets (141,2 %, à 3 168,4
+transferts publics inclus progresserait à milliards), des crédits à l’économie (8,9 %)
+6,5% du PIB (contre 4,6 % du PIB dans le et de la masse monétaire (13,9 %). Les
+scénario de base, après un déficit de -1,4% créances nettes sur les Etats devraient
+du PIB en 2021. Ce redressement serait croître à un rythme plus faible que dans le
+favorisé par l’amélioration nettement plus scénario de base (+6,3 % contre +18,6 %
+importante de +52,1 % des termes de dans le scénario de base). Le taux de
+l’échange, en rapport avec la forte couverture extérieure de la monnaie
+progression des cours des hydrocarbures. remonterait quant lui à 78,3 % contre
+L’augmentation relative du solde du compte 74,4 % au scenario de base et 64,0 % en
+courant, en pourcentage du PIB, par rapport 2021.
+au scénario de base découlerait donc
+principalement de la hausse des
+exportations hydrocarbures (contribution de 4. Réserves de changes
++12,7 points contre +9,9 points dans le
+scénario de référence) et non pétrolières Les prévisions des réserves de
+(+4,5 points).L’augmentation de l’excédent change de la CEMAC à fin 2022 tiennent
+de la balance des transactions courantes compte des hypothèses relatives à
+devrait toutefois être légèrement atténuée l’environnement économique
+par la hausse des importations en lien avec international suivantes : une forte hausse
+le relèvement projeté des dépenses des cours mondiaux du pétrole brut
+publiques et l’accélération de la croissance. (+54,7 % à 106,8 dollars/baril, contre 69,1
+dollars/baril en 2021), une appréciation du
+Dans ce scénario, l’excédent du solde dollar par rapport au FCFA (+6,2 % à 588,6
+global de la balance des paiements devrait FCFA/dollar contre 554,2 FCFA/dollar en
+nettement s’améliorer à 2,4 % du PIB 2021) et plus globalement, une amélioration
+(contre +1,2 % dans le scénario de base), des termes de l’échange de 37,7 %.
+soit 1 696,0 milliards, contre -1,4 % du PIB
+un an auparavant. En points de PIB, cette Du côté des volumes des principaux
+amélioration serait principalement portée produits exportés, la dynamique est positive
+par l’amélioration du solde du compte pour la majorité d’entre eux : le pétrole brut
+courant (+5,4 points) et la remontée des (+0,7 % à 37,0 millions de tonnes), bois
+investissements directs étrangers (+5,8 % à 4 729,8 milliers de m3), gaz
+(contribution de +0,6 point). (+23,6 % à 7 538,9 milliers de tonnes),
+manganèse (+9,5 % à 9,7 millions de
+L’excédent de la balance des tonnes), coton fibre et dérivés (+9,4 % à
+paiements et les financements exceptionnels 222,1 milliers de tonnes), caoutchouc
+de 28,8 milliards permettraient d’accumuler (+2,2 % à 60,5 milliers de tonnes), diamant
+des réserves officielles de 1 724,8 milliards, (+21,3 % à 125,7 milles carat) et l’or
+faisant ainsi passer leur stock à 3,92 mois (+26,5 % à 2 308,3 kg). L’une des
+d’importations de biens et services en 2022 contreperformances serait observé pour le
+contre 3,55 mois un an plus tôt. cacao (-10,8 % à 258,4 milliers de tonnes).
+De plus, l’extension de l’application
+ Situation monétaire : de la règlementation des changes aux
+sociétés pétrolières et minières pourrait
+Elle s’améliorerait significativement booster significativement le stock des
+à travers la forte hausse des avoirs réserves officielles de change à partir du
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 48 ---
+48
+second semestre de cette année. En
+revanche, leur accumulation serait freinée
+par la hausse des importations des biens et
+services en lien avec la poursuite de la
+reprise des activités économiques,
+conjuguée avec la hausse mondiale des prix
+alimentaires, des engrais et des carburants.
+Dans cette veine, les réserves de
+devises progresseraient à 6 128,6 milliards à
+fin 2022, soit une hausse de 30,1 % sur un
+an, et le taux de couverture extérieure de la
+monnaie à 74,4 % contre 64,0 % en
+décembre 2021. En définitive, le niveau des
+réserves en mois d’importations de biens et
+services baisserait à 3,59 en 2022 contre
+3,55 en 2021, en restant au-dessus du seuil
+minimal de 3. Cette quasi-stagnation
+s’explique essentiellement par une
+progression des importations des biens et
+services plus importante (+28,8 %) que
+celle des réserves de change.
+5. Avoirs extérieurs nets de la BEAC
+Les prévisions établies par les
+services de la Banque Centrale indiquent
+que les avoirs extérieurs nets de la BEAC
+progresseraient sur un an de 55,1 % pour
+s’établir à 2 460,6 milliards (3,75 milliards
+d’euros) à fin décembre 2022. Ce niveau
+serait légèrement supérieur à la cible fixée
+avec le FMI à 2 446,72 milliards (3,73
+milliards d’euros) pour la fin de l’année.
+Toutefois, il est impératif de poursuivre les
+efforts de rapatriement des recettes
+d’exportation par les pays de la CEMAC, et
+veiller au bon déroulement des programmes
+avec le FMI afin de garantir les
+décaissements par les partenaires extérieurs
+des financements promis (484,8 milliards de
+dons et 414,0 milliards des prêts trésorerie
+et programme).
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 49 ---
+49
+V. PERSPECTIVES ECONOMIQUES A MOYEN TERME DE LA
+CEMAC
+Selon les Perspectives de l’économie mondiale, publiées en avril 2022 par le FMI, la
+croissance mondiale se situerait à 3,6 %12 en 2022 et 2023, soit 0,8 et 0,2 point de pourcentage
+de moins respectivement par rapport aux prévisions de janvier 2022, après 6,1 % en 2021, en
+relation avec les effets récessifs de la crise russo-ukrainienne et les perturbations des chaînes
+d’approvisionnement, que les mesures de confinement en Chine, dictées par la politique « zéro
+COVID », n’ont fait qu’exacerber.
+En ce qui concerne les tensions inflationnistes, elles devraient se tasser progressivement,
+le niveau général des prix à la consommation des ménages reviendrait de 7,4 % en 2022 à 4,8
+% en 2023, après 4,7 % en 2021.
+Dans ce contexte, la situation macroéconomique des pays de la CEMAC à moyen terme,
+est fortement tributaire de la dynamique des cours des prix des matières premières eux-mêmes
+conditionnés par la reprise de la demande mondiale et l’issue du conflit entre l’Ukraine et la
+Russie. La croissance économique révisée sur la période 2022-2025 devrait s’établir à 3,2 %
+(contre 2,6 % en moyenne lors des premières prévisions de début d’année et 0,3 % entre 2016-
+2020) sous l’impulsion du secteur non pétrolier. La production effective devrait toujours se
+maintenir en dessous de la production potentielle tout en s’améliorant à moyen terme malgré la
+rupture de tendance observée en 2020 en raison de la pandémie de la COVID-19 (graphique
+24). Avec le resserrement de l’écart de production, on devrait s’attendre à un accroissement
+progressif de la demande globale à l’horizon 2025. De manière spécifique, les secteurs de
+l’agriculture, de l’élevage, de la pêche et de l’agro-industrie se relanceraient grâce aux
+différents cadres d’impulsion des stratégies de diversification du tissu économique existant
+dans la CEMAC, notamment les plans de développement13 et les projets gouvernementaux
+initiés dans le cadre de la politique de l’import-substitution. La gestion des finances publiques
+devrait se traduire par un creusement du déficit budgétaire, base engagements, hors dons, qui
+fluctuerait en moyenne autour de -1,2 % du PIB sur la période 2023-2025, après un excédent
+1,2 % du PIB en 2022. Concernant le compte extérieur, le solde extérieur courant, dons inclus,
+baisserait de 2,2 % du PIB en 2023 à 1,2 % du PIB en 2024 puis à -0,1 % du PIB en 2025,
+contre 3,9 % du PIB en 2022, en relation essentiellement avec la détérioration anticipée des
+termes de l’échange sur la période.
+Concernant les prix, à moyen terme, l’inflation dans la CEMAC devrait franchir la barre
+de 3,0 % en moyenne annuelle. Plus précisément, en moyenne annuelle elle devrait osciller
+autour de 4,0 % à fin 2022, avant de revenir progressivement vers la norme communautaire à
+l’horizon 2024. Compte-tenu de ce qui précède, il ressort globalement qu’à moyen terme il y a
+environ 67,5 % de chances que l’inflation en moyenne annuelle se situe à moyen terme au-
+dessus du critère de convergence multilatérale de 3,0 %, contre 23,7 % lors des estimations du
+12 Selon les projections révisées de l’OCDE en mai 2022, la croissance du PIB mondial devrait désormais ralentir fortement
+cette année pour s’établir autour de 3 % et maintenir ce rythme en 2023. Ce taux est bien en deçà des projections de
+décembre 2021.
+13 La République du Congo a par exemple lancé le Plan National de Développement (PND) pour la période 2022-2026 dont
+les six (6) piliers stratégiques sont : (i) le développement de l’agriculture au sens large ; (ii) le développement industriel ;
+(iii) le développement des zones économiques spéciales ; (iv) le développement du tourisme ; (v) la promotion immobilière ;
+et (vi) le développement de l’économie numérique.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 50 ---
+50
+CPM du mars 2022. Cette forte baisse de la probabilité du respect de la norme communautaire
+traduit non seulement un affermissement de la tendance haussière de l’inflation dans la
+CEMAC (au-delà de la norme communautaire), mais également un accroissement de
+l’incertitude autour de la dynamique des prix à moyen terme dans la Sous-Région traduite par
+un élargissement des intervalles de prévisions.
+Malgré le renchérissement de la valeur des biens et services importés par la CEMAC, les
+réserves de change de la BEAC devraient croître progressivement à moyen terme à 5,94 mois
+d’importations des biens et services à la fin de l’année 2025 (9 045,5 milliards), après
+respectivement 4,47 (7 226,7 milliards) et 5,21 (7 997,2 milliards) en 2023 et 2024, contre
+3,59 (6 128,6 milliards) en 2022. Cela devrait se traduire par un taux de couverture extérieure
+de la monnaie assez confortable à 81,6 % en 2023, 85,6 % en 2024 et 87,6 % en 2025, contre
+74,4 % en 2022. Pour ce qui est des avoirs extérieurs nets de la BEAC, ils augmenteraient
+fortement sur toute la période pour atteindre 4 749,9 milliards à fin décembre 2025.
+Dans ce contexte, les perspectives macroéconomiques à moyen terme de la CEMAC
+restent entourées d’incertitudes, la balance des risques étant toujours globalement orientée à la
+hausse aussi bien pour l’inflation (stabilité interne de la monnaie) que pour les réserves de
+change (stabilité externe de la monnaie). Parmi les principaux facteurs de risques, l’on note : (i)
+l’accélération des prix des produits alimentaires et manufacturés importés par les pays de la
+CEMAC, en rapport avec la poursuite de la crise russo-ukrainienne et la hausse du coût du
+fret ; (ii) le faible niveau du taux de vaccination, conjuguée avec une progression continue du
+nombre de cas positifs dans la CEMAC, bien qu’en net ralentissement ; (iii) le rétablissement
+éventuel des mesures restrictives dans le cadre de la lutte contre la COVID-19, en cas
+d’apparition de nouveaux variants ; (iv) les perturbations des circuits d’approvisionnement du
+fait des risques sécuritaires au Cameroun (Nord-ouest, Sud-ouest et Extrême-Nord) et en RCA
+qui pourraient entraver la relance économique prévue sur la période 2022-2025 ; (v)
+l’utilisation d’une partie importante des allocations de DTS reçues du FMI qui aurait pour effet
+de dégrader la position extérieure ; (vi) l’utilisation éventuelle des marges dégagées par la
+restructuration des créances consolidées sur les Trésors publics nationaux ; (vii) les retards
+éventuels dans le décaissement des financements extérieurs en cas de non conclusion des
+revues des programmes en cours d’exécution, et (viii) les efforts insuffisants de rapatriement
+des recettes d’exportation à moyen terme, y compris par les sociétés pétrolières.
+Par conséquent, la situation de la sous-région devrait se redresser progressivement avec
+le rétablissement progressif des réserves de change, quoiqu’à un niveau encore faible en 2022,
+associé au repli des tensions inflationnistes à moyen terme. Toutefois, l’analyse de l’évolution
+récente des avoirs extérieurs nets de la BEAC montre qu’après avoir baissé en glissement
+annuel au 31 mars 2022, ils se sont redressés à partir du mois d’avril 2022. Au 30 juin 2022, le
+niveau des avoirs extérieurs nets de la BEAC était supérieur de 315,4 milliards à la cible
+convenue pour la fin juin 2022. En plus, les prévisions établies par les services de la Banque
+Centrale indiquent qu’ils progresseraient sur un an de 55,1 % pour s’établir à 2 460,6 milliards
+à fin décembre 2022. A moyen terme, ils augmenteraient fortement pour atteindre 4 749,9
+milliards à fin décembre 2025.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 51 ---
+51
+A. HYPOTHESES SOUS devrait reculer de 12,2 % en 2022 à 9,6 %
+JACENTES ET en 2023 en 2023, contre 11,0% en 2021.
+PREVISIONS
+MACROECONOMIQUES 1.1 Les mesures en réponse au risque de
+fragmentation géoéconomique du
+1. Les projections économiques monde renforceraient la dynamique
+restent prometteuses à moyen économique de la CEMAC
+terme (2022-2025), en liaison
+avec l’accélération des réformes Au-delà des conséquences de la
+structurelles pandémie de COVID-19 et de la guerre en
+Ukraine sur les équilibres
+Selon les Perspectives de l’économie macroéconomiques de la CEMAC, la sous-
+mondiale, publiées en avril 2022 par le région pourrait faire également face à
+FMI, la croissance mondiale se situerait à l’avenir à une aggravation du risque de
+3,6 %14 en 2022 et 2023, soit 0,8 et 0,2 fragmentation géoéconomique du monde.
+point de pourcentage de moins
+respectivement par rapport aux prévisions D’après le point de vue de la Directrice
+de janvier 2022, après 6,1 % en 2021, en Générale du FMI15 et Al, ce risque se
+relation avec les effets récessifs de la crise traduirait sur l’économie mondiale à
+russo-ukrainienne et les perturbations des travers : (i) la mise en place des restrictions
+chaînes d’approvisionnement, que les commerciales sur les denrées alimentaires,
+mesures de confinement en Chine, dictées l’énergie et d’autres produits de base
+par la politique « zéro COVID », n’ont fait essentiels ; (ii) la reconfiguration des
+qu’exacerber. Les tensions inflationnistes chaînes d’approvisionnement et le
+devraient se tasser progressivement, le relèvement des obstacles à
+niveau général des prix à la consommation l’investissement ; et (iii) la conception des
+des ménages reviendrait de 7,4 % en 2022 à systèmes de paiement indépendants et
+4,8 % en 2023, après 4,7 % en 2021. parallèles16 pour atténuer le risque de
+sanctions économiques, notamment de
+Dans les pays émergents et en blocage des transactions financières libellés
+développement, le taux de croissance du dans les principales devises.
+PIB réel reviendrait à 3,8 % (au lieu de 4,8
+% initialement) en 2022 et à 4,4 % en 2023 Conscient de ces enjeux, le PREF-
+contre 6,8 % en 2021. En Afrique CEMAC, lors de sa seizième session du 14
+subsaharienne, le taux de croissance du PIB avril dernier, a entre autres, validé la
+réel serait en légère amélioration à 3,8 % stratégie communautaire d’import-
+(au lieu de 3,7 % initialement) en 2022 et substitution, ainsi que la matrice des
+4,0 % en 2023, contre 4,5 % en 2021. décisions et recommandations y afférentes,
+Les pressions inflationnistes se
+15
+replieraient également tout en restant
+https://www.imf.org/fr/News/Articles/2022/05/22/blog-
+importantes, avec un taux d’inflation qui
+why-we-must-resist-geoeconomic-fragmentation
+16 Différentes initiatives promouvant les paiements
+14 Selon les projections révisées de l’OCDE en mai 2022,
+transfrontaliers en monnaies locales sont déjà en cours
+la croissance du PIB mondial devrait désormais ralentir
+d’implémentation, notamment le Système panafricain de
+fortement cette année pour s’établir autour de 3 % et
+paiement et de règlement (PAPSS) et le China
+maintenir ce rythme en 2023. Ce taux est bien en deçà
+International Payments System (CIPS).
+des projections de décembre 2021.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 52 ---
+52
+tout en demandant également aux Etats En particulier, les secteurs de
+d’accélérer la diversification des économies l’agriculture, de l’élevage, de la pêche et de
+et du secteur privé. Parallèlement, la l’agro-industrie se relanceraient grâce aux
+réponse à ces contraintes extérieures différents programmes d’impulsion des
+passerait par les réformes budgétaires qui stratégies de diversification du tissu
+produisent déjà des résultats probants, économique, ainsi que l’industrie extractive
+notamment en matière de digitalisation (manganèse, or, diamant, bauxite, zinc, etc.)
+enclenchée au sein de l’administration et du bois.
+fiscale des pays de la CEMAC, améliorant
+ainsi progressivement la mobilisation des Grâce aux efforts en matière
+ressources internes non pétrolières. d’investissements de maintien des
+rendements et de développement des
+Grâce à ces réponses, associées au champs, la production du pétrole brut va
+bon déroulement des programmes fluctuer en moyenne autour de 40 millions
+économiques et financiers actuels de de barils. Par contre, la production de gaz
+deuxième génération avec le FMI, la déclinerait significativement de 7 296,3
+dynamique haussière de l’activité mille tonnes en 2023 à 4 840,5 mille tonnes
+économique de la CEMAC devrait se en 2025, après le pic de 7 718,2 mille
+maintenir, avec une progression du PIB réel tonnes atteint en 2022.
+de 3,3 % en 2023, de 3,0 % 2024 et de 3,3
+% en 2025, après 3,5 % en 2022, tirée
+principalement par le secteur non pétrolier. 1.2 La production potentielle des
+économies de la CEMAC devrait
+Le graphique ci-dessous présente les s’améliorer à moyen terme mais
+intervalles de prévision trimestrielle à resterait faible par rapport aux
+moyen terme de l’activité en glissement années d’avant crise
+annuel dans la CEMAC. Il en ressort
+globalement que sur la période juin 2022- La situation macroéconomique des
+decembre 2024, il y a environ 70 % de pays de la CEMAC à moyen terme, est
+chances que le taux de croissance trimestriel fortement tributaire de la dynamique des
+de l’activité économique de la CEMAC cours des prix des matières premières eux-
+évolue dans un corridor compris entre 1,7 % mêmes conditionnés par la reprise de la
+et 3,5 % en glissement annuel. demande mondiale et l’issue du conflit entre
+l’Ukraine et la Russie. Les effets de la
+Graphique 24: Prévisions à moyen terme de la pandémie de coronavirus se dissipent
+croissance économique de la CEMAC (glissement
+progressivement avec la baisse des cas
+annuel, en %)
+observés au premier trimestre 2022.
+L’indice de l’incertitude mondiale relative
+aux pandémies17, publié par la Reserve
+Fédérale de St Louis s’est ainsi situé à 5,118
+(son niveau le plus bas depuis le début de la
+crise) au premier trimestre 2021 contre
+11,82 au quatrième trimestre 2021, revenant
+d’un pic de 23,1 au troisième trimestre
+2020. L’on suppose ainsi une baisse à
+Source : BEAC. Note : Les bandes représentent respectivement 17 https://fred.stlouisfed.org/series/WUPI
+les intervalles de prévision de 30 %, 60 % et 90% (de la plus 18 Une valeur élevée de cet indice signifie une incertitude
+foncée à la plus claire).
+plus élevée.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 53 ---
+53
+moyen terme des effets néfastes de la
+pandémie de COVID-19, en rapport Outre les investissements et les
+notamment avec l’expansion mondiale de la réformes, et avec la recrudescence des
+vaccination des populations. Sur cette base, émissions de titre, les Etats devraient
+et compte tenu de l’amélioration des cours poursuivre l’assainissement des finances
+du baril à moyen terme, l’on pourrait publiques pour dégager suffisamment de
+espérer un environnement international plus marges pour garantir la soutenabilité de la
+favorable pour les pays de la CEMAC dette à moyen terme.
+malgré les tensions inflationnistes qui
+Graphique 25 : Ecarts de production dans la
+pourraient se maintenir en cas de
+CEMAC, suivant trois approches méthodologiques
+persistance du conflit entre l’Ukraine et la
+20,00
+Russie19. Toutefois, le resserrement des
+10,00
+politiques monétaires des principales 0,00
+-10,00
+Banques Centrales en réponse à la hausse de
+-20,00
+l’inflation pourrait affecter, à la baisse, la
+-30,00
+demande mondiale. 6 9 2 5 8 1 4 7 0 3 6 9 2 5
+8 8 9 9 9 0 0 0 1 1 1 1 2 2
+9 9 9 9 9 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 2 2 2 2 2 2 2 2 2
+La croissance économique révisée
+Ecart de production (Filtre linéaire)
+sur la période 2022-2025 devrait s’établir à
+Ecart de production (Filtre HP)
+3,2 % (contre 2,6 % en moyenne lors des Ecart de production (Filtre BP)
+Limite 0
+premières prévisions de début d’année et
+0,3 % entre 2016-2020). La production
+effective devrait toujours se maintenir en
+dessous de la production potentielle tout en
+Graphique 26 : Moyennes des croissances réelle et
+s’améliorant à moyen terme malgré la potentielle
+rupture de tendance observée en 2020 en
+2021-2025
+raison de la pandémie de la COVID-19 3,0
+2016-2020
+(graphique 24). Avec le resserrement de 0,3
+2011-2015
+l’écart de production, on devrait s’attendre à 3,7
+2006-2010
+un accroissement progressif de la demande 4,0
+2001-2005
+globale à l’horizon 2025. 11,7
+1996-2000
+4,0
+La production potentielle des 1991-1995 1,6
+économies devrait s’améliorer entre 2021 et 1986-1990 5,2
+2025 mais resterait faible par rapport aux 0,0 5,0 10,0 15,0
+années d’avant crise. Les Etats devraient
+Potentiel BP Potentiel HP Croissance réelle
+donc accélérer les investissements
+permettant de stimuler le potentiel de
+1. Les autres comptes macro-
+l’économie et poursuivre les réformes
+économiques de la CEMAC
+structurelles adéquates, avec un accent
+illustreraient la consolidation
+particulier sur l’amélioration du climat des
+de du cadre macroéconomique
+affaires et une plus grande diversification
+des économies.
+Dans un contexte économique
+international caractérisé par les effets
+19 Ces pays totalisent près de 29% des exportations
+mondiales de blé et avant le début du conflit, le prix du récessifs de la crise russo-ukrainienne
+blé avait déjà significativement augmenté, ce qui autorise (fortes pressions inflationnistes du fait du
+de penser à une plus forte augmentation à moyen terme.
+renchérissement des prix des produits
+Le conflit a également entrainé une hausse du prix du
+pétrole et du gaz.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 54 ---
+54
+alimentaires et de l’énergie, perturbations
+successives des chaînes logistiques et
+B. PREVISIONS A MOYEN
+financières du fait des sanctions, etc.), les
+TERME DE L’INFLATION
+principaux résultats suivants sont attendus
+ET DES RESERVES DE
+pour la CEMAC :
+CHANGE
+
+Un creusement du déficit budgétaire,
+A moyen terme, l’inflation dans la
+base engagements, hors dons, qui
+CEMAC devrait franchir la barre de 3,0 %
+fluctuerait en moyenne autour de -1,2 %
+en moyenne annuelle. Plus précisément,
+du PIB sur la période 2023-2025, après
+l’inflation en moyenne annuelle dans la
+un excédent 1,2 % du PIB en 2022. En
+CEMAC devrait osciller autour de 4,0 % à
+effet, la reprise des grands travaux
+fin 2022, avant de revenir progressivement
+d’investissement public couplée aux
+autour de la norme communautaire à
+niveaux records des subventions des
+l’horizon 2024. Quant aux réserves de
+biens de premières nécessité, dans un
+change, elles se renforceraient malgré le
+contexte de hausse des prix mondiaux,
+renchérissement de la valeur des biens et
+viendrait plus que compenser les bonnes
+services importés par la CEMAC.
+performances dans la mobilisation des
+recettes fiscales et l’efficacité accrue
+dans la gestion de la dépense publique.
+1. Prévisions à moyen terme de
+L’orientation de la politique budgétaire
+l’inflation
+serait restrictive en 2023 avant d’être
+expansionniste en 2024 et 2025. En
+La trajectoire des prix dans la
+effet, le solde primaire corrigé des
+CEMAC serait sensiblement influencée à
+variations cycliques serait positif en
+moyen terme par l’inflation importée. En
+2023 (+1,0 % du PIB) et l’écart de
+effet, au niveau extérieur, l’évolution de la
+production ressortirait à -0,5 %. En
+situation géopolitique mondiale, la hausse
+2024 et 2025, le solde primaire corrigé
+des cours des biens alimentaires
+des variations cycliques reviendrait en
+(notamment du blé), les effets des
+moyenne à -0,9 % du PIB avec un écart
+perturbations des chaînes
+de production qui deviendrait positif à
+d’approvisionnement internationales, de la
++1,3 % en moyenne sur la période. Au
+hausse des coûts des intrants industriels et
+total, la politique budgétaire serait pro-
+agricoles ainsi que la dynamique du coût du
+cyclique entre 2023 et 2025 ;
+fret maritime devraient faire peser des
+risques inflationnistes marqués dans la
+ une dégradation progressive du solde Zone. Au niveau intérieur, la demande
+extérieur courant, dons inclus, qui domestique toujours atone dans de
+baisserait de 2,2 % du PIB en 2023 à nombreux pays, la faible indexation des
+1,2 % du PIB en 2024 puis à -0,1 % du salaires à l’inflation, le maintien des prix
+PIB en 2025, contre 3,9 % du PIB en administrés sur certaines denrées de
+2022, en relation essentiellement avec première nécessité et une maîtrise des coûts
+la détérioration anticipée des termes de de l’énergie (prix à la pompe notamment)
+l’échange sur la période. Cette constituent des leviers importants de
+évolution résulterait aussi de la baisse modération de la dynamique inflationniste
+projetée des volumes exportés, dans la CEMAC. Toutefois, le spectre des
+notamment du gaz sur toute la période aléas climatiques dans les zones sahéliennes
+et du pétrole brut en 2025. de la Sous-région est un facteur interne de
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 55 ---
+55
+risque inflationniste, notamment pour les
+biens alimentaires. L’ensemble de ces
+2. Prévisions à moyen terme des
+éléments concourent à un accroissement
+réserves de change et des avoirs
+sensible de l’incertitude autour des
+extérieurs nets de la BEAC
+perspectives d’inflation dans la CEMAC à
+moyen terme.
+Malgré le renchérissement de la
+valeur des biens et services importés par la
+Compte-tenu de ce qui précède, il
+CEMAC, les réserves de change de la
+ressort globalement qu’à moyen terme il y a
+BEAC devraient croître progressivement à
+environ 67,5 % de chances que l’inflation
+moyen terme à 5,94 mois d’importations
+en moyenne annuelle se situe à moyen
+des biens et services à la fin de l’année
+terme au-dessus du critère de convergence
+2025 (9 045,5 milliards), après
+multilatérale de 3,0 %, contre 23,7 % lors
+respectivement 4,47 (7 226,7 milliards) et
+des estimations du CPM du mars 2022.
+5,21 (7 997,2 milliards) en 2023 et 2024,
+Cette forte baisse de la probabilité du
+contre 3,59 (6 128,6 milliards) en 2022.
+respect de la norme communautaire traduit
+Cela devrait se traduire par un taux de
+non seulement un affermissement de la
+couverture extérieure de la monnaie assez
+tendance haussière de l’inflation dans la
+confortable à 81,6 % en 2023, 85,6 % en
+CEMAC (au-delà de la norme
+2024 et 87,6 % en 2025, contre 74,4 % en
+communautaire), mais également un
+2022.
+accroissement de l’incertitude autour de la
+dynamique des prix à moyen terme dans la
+Sous-Région traduite par un élargissement
+Graphique 28: Représentation des prévisions des
+des intervalles de prévisions. réserves de change de la CEMAC et des avoirs
+extérieurs nets de la BEAC en milliards
+Graphique 27: Représentation des intervalles de
+prévision de l'inflation en moyenne annuelle dans la
+CEMAC à l'horizon du quatrième trimestre 2026
+Source : BEAC
+Source : BEAC, à partir des données des administrations
+nationales. Note : Les bandes représentent respectivement les
+intervalles de prévision de 30 %, 60 % et 90% (de la plus
+foncée à la plus claire). ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 56 ---
+56
+Graphique 29 : Prévisions des réserves de change de
+la CEMAC en mois d’importations des biens et
+L’accélération des tensions
+service et du taux de couverture extérieure de la
+inflationnistes dans le monde, en rapport
+monnaie
+(en mois d’importations des biens et services) avec la hausse du prix de l’énergie, des
+cours des produits alimentaires et du coût
+du fret maritime, présente le principal
+facteur de risque auquel le monde et la sous-
+région restent confrontés. Le
+renchérissement progressif des importations
+des produits alimentaires qui devrait en
+résulter pourrait entrainer une crise
+alimentaire mondiale, avec pour
+conséquence une augmentation de la
+pauvreté.
+Par ailleurs, l’un des risques majeurs
+auquel la CEMAC est exposée, comme
+développé à la section 1.1 de la page 49 de
+ce rapport, est celui de la fragmentation
+géoéconomique du monde, avec : (i) les
+Source : BEAC
+restrictions commerciales sur les denrées
+alimentaires, l’énergie et d’autres produits
+Pour ce qui est des avoirs extérieurs
+de base essentiels ; (ii) la reconfiguration
+nets de la BEAC, ils augmenteraient
+des chaînes d’approvisionnement et le
+fortement sur toute la période pour atteindre
+relèvement des obstacles à
+4 749,9 milliards à fin décembre 2025.
+l’investissement ; et (iii) la conception des
+systèmes de paiement indépendants et
+De manière spécifique, cette hausse
+parallèles pour atténuer le risque de
+des réserves de change et des avoirs
+sanctions économiques.
+extérieurs nets de la BEAC s’explique par :
+i) la poursuite de l’application de la
+Les efforts fournis par le
+réglementation de change et des efforts de
+Gouvernement chinois, dans le cadre de son
+rapatriement des recettes d’exportation par
+opération « zéro-COVID-19 », présentent
+tous les acteurs, y compris ceux du secteur
+également un risque pour la reprise post-
+pétrolier ii) les décaissements des appuis
+Covid-19 de l’économie mondiale
+budgétaires par les bailleurs de fonds dans
+enclenchée depuis 2021. De façon générale,
+le cadre des programmes économiques et
+la COVID-19 ne présente plus un facteur de
+financier des Etats avec le FMI, et iii) les
+risque majeur pour l’économie mondiale,
+retombées des politiques d’import-
+avec la fin des restrictions quasiment dans
+substitution de la CEMAC.
+l’ensemble des pays du monde, ainsi que la
+baisse des nouveaux cas positifs.
+C. ANALYSE DES RISQUES
+Concernant les conditions financières
+INTERNES ET EXTERNES
+mondiales, elles devraient se durcir
+progressivement, sous l’effet notamment du
+Globalement, la balance des risques
+resserrement des politiques monétaires des
+au niveau mondial reste orientée à la hausse
+pays avancés, en lien avec les anticipations
+dans le contexte actuel de la poursuite de la
+d’inflation qui sont actuellement en hausse.
+crise russo-ukrainienne.
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 57 ---
+57
+Après les annonces de février-mars 2022, la Tableau 5: Evolution de la vaccination contre la
+COVID-19 dans la CEMAC, en Afrique et dans le
+plupart des grandes banques centrales
+monde au 12 juin 2022
+(FED, BCE, etc.) ont maintenu l’inversion
+progressive de l’orientation accommodante
+de leur politique monétaire en 2022, avec
+des hausses de leurs taux directeurs. Ce
+processus devrait s’accélérer en raison de la
+hausse généralisée des prix de l’énergie et
+des produits alimentaires du fait de la
+poursuite de la crise russo-ukrainienne et de
+l’accentuation des sanctions à l’égard de la
+Russie.
+Dans ce contexte, les perspectives
+macroéconomiques à court et à moyen
+termes de la CEMAC sont entourées
+d’incertitudes, la balance des risques restant  le rétablissement éventuel des
+globalement orientée à la hausse aussi bien mesures restrictives dans le cadre de
+pour l’inflation (stabilité interne de la la lutte contre la COVID-19, en cas
+monnaie) que pour les réserves de change d’apparition de nouveaux variants ;
+(stabilité externe de la monnaie).
+ les perturbations des circuits
+En ce qui concerne la stabilité interne d’approvisionnement du fait des
+de la monnaie, les principaux facteurs de risques sécuritaires au Cameroun
+risques qui pourraient accentuer les tensions (Nord-ouest, Sud-ouest et Extrême-
+inflationnistes dans la sous-région sont : Nord) et en RCA qui pourraient
+entraver la relance économique
+ L’accélération des prix des produits prévue sur la période 2022-2025.
+alimentaires et manufacturés
+importés par les pays de la CEMAC, La tendance à la hausse du taux de
+en rapport avec la poursuite de la couverture extérieure de la monnaie et du
+crise russo-ukrainienne et la hausse niveau des réserves de change en mois
+du coût du fret ; d’importations des biens et services
+jusqu’en 2025 reste tributaire de cinq
+ le faible niveau du taux de facteurs :
+vaccination (9,3 % des personnes
+totalement vaccinées contre 19,0 %  l’utilisation20 d’une partie
+en Afrique et 60,7 % dans le monde importante des allocations de DTS
+au 12 juin 2022), conjuguée avec une reçues du FMI qui aurait pour effet
+progression continue du nombre de de dégrader la position extérieure ;
+cas positifs dans la CEMAC, bien
+qu’en net ralentissement (+ 1 425  l’utilisation éventuelle des marges
+nouveaux cas du 06 mars au 12 juin
+2022, contre +39 962 du 05 20 Les pays de la CEMAC ont annoncé vouloir utiliser
+novembre au 06 mars 2022) ; leurs allocations de DTS comme suit : Cameroun (50
+milliards en 2021 et 70 milliards en 2022), RCA (35
+milliards en 2021 et 49,8 milliards en 2022), Congo
+(119,6 en 2021), Gabon (51,3 milliards en 2022), Guinée
+Equatoriale (119,2 milliards en 2022) et Tchad (103,8
+milliards en 2021).
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+N °
+1
+2
+3
+4
+5
+6
+7
+8
+9
+P ays
+C am ero un
+R C A
+C o ngo
+G abo n
+G E
+Tchad
+C EM A C
+A friq u e
+M o n d e
+So u rce : https://ourw
+N o m b re d e p erso n n es
+co m p lètem en t P o p u latio n
+vaccin ées
+1 343 971 29 866 020
+1 275 216 6 072 458
+612 080 5 100 670
+284 724 2 588 397
+224 361 1 495 738
+2 025 174 16 876 452
+5 765 526 61 999 735
+263 309 790 1 385 841 000
+4,8 m illiard s 7,9 m illiard s
+orldindata.org/covid-vaccinations?country=O W ID _W R L
+P o u rcen tage (% ) d e
+la p o p u latio n
+co m p lètem en t
+vaccin ées
+4,5%
+21,0%
+12,0%
+11,0%
+15,0%
+12,0%
+9,3%
+19,0%
+60,7%
+
+--- Page 58 ---
+58
+dégagées par la restructuration des D. ORIENTATION DE LA
+créances consolidées sur les Trésors POLITIQUE MONETAIRE
+publics nationaux (à travers ET DECISIONS
+l’augmentation des dépenses
+publiques), qui impacteraient les A moyen terme, la situation de la
+réverses extérieures par le canal des sous-région devrait se redresser
+importations de biens et services ; progressivement avec le rétablissement
+progressif des réserves de change, quoiqu’à
+ les retards éventuels dans le un niveau encore faible en 2022, associé au
+décaissement des financements repli des tensions inflationnistes à moyen
+extérieurs en cas de non conclusion terme.
+des revues des programmes en cours
+d’exécution. Ce risque pourrait être L’analyse de l’évolution récente des
+amplifié par l’augmentation du avoirs extérieurs nets de la BEAC montre
+service de la dette extérieure du fait qu’après avoir baissé en glissement annuel
+de l’arrivée à terme des au 31 mars 2022, ils se sont redressés à
+rééchelonnements accordés en 2020 partir du mois d’avril 2022. Au 30 juin
+par les pays du G-20, dans le cadre 2022, le niveau des avoirs extérieurs nets de
+de l’initiative de suspension du la BEAC était supérieur de 315,4 milliards à
+service de la dette (ISSD) ; la cible convenue pour la fin juin 2022. En
+plus, les prévisions établies par les services
+ les efforts insuffisants de de la Banque Centrale indiquent qu’ils
+rapatriement des recettes progresseraient sur un an de 55,1 % pour
+d’exportation, y compris par les s’établir à 2 460,6 milliards à fin décembre
+sociétés pétrolières ; 2022. A moyen terme, ils augmenteraient
+fortement pour atteindre 4 749,9 milliards à
+ le niveau des prix du pétrole : une fin décembre 2025.
+forte incertitude entoure la
+dynamique des cours du pétrole, avec En plus, le taux d’intérêt de référence
+un risque élevé à la baisse à moyen a été estimé en application de la règle de
+terme, en lien avec le comportement politique monétaire, en tenant compte des
+de la demande mondiale, malgré les prévisions révisées du cadre
+flambées actuelles, surtout si la crise macroéconomique et des hypothèses sur les
+russo-ukrainienne venait à être préférences de la Banque Centrale en
+rapidement réglée et que ne matière d’inflation et de stabilité extérieure.
+nouvelles offres venaient sur le
+marché, notamment en provenance Il ressort de tout ce qui précède, que
+de l’Iran et du Venezuela. le TIAO devrait être maintenu à 4,00 % au
+3ème trimestre 2022, après les relèvements
+successifs de 25 points de base le 25
+novembre 2021 et de 50 points de base le 28
+mars 2022.
+Ainsi, pour tenir compte des analyses
+ci-dessus, le Comité de Politique Monétaire a
+approuvé la résolution ci-après :
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 59 ---
+59
+RESOLUTION
+Le Comité de Politique Monétaire, réuni en sa séance ordinaire du 14 juillet 2022 à
+Yaoundé, après analyse des facteurs de risques pesant sur la stabilité monétaire et des
+développements observés sur le marché monétaire, d’une part, et au regard des perspectives
+macroéconomiques de la CEMAC à court et moyen termes, d’autre part, a décidé de maintenir
+inchangés :
+ le Taux d’Intérêt des Appels d’Offres à 4,00 % ;
+ le Taux de la facilité de prêt marginal à 5,75 %.
+ le Taux de la facilité de dépôt à 0,00 % ; et
+ les coefficients des réserves obligatoires à 7,00 % sur les exigibilités à vue et 4,50 %
+sur les exigibilités à terme./-
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 60 ---
+ANNEXES
+ANNEXE 1 : CONDITIONS D’INTERVENTIONS DE LA BEAC
+Le 28 mars 2022, le Comité de Politique Monétaire de la BEAC a procédé aux
+réaménagements ci-après :
+Principaux taux d’intervention de la BEAC, à compter du 28 mars 2022
+Taux d’intérêt des appels d’offres (TIAO) : 4,00 % (nouveau)
+Taux de la Facilité marginale de prêt : 5,75 % (nouveau)
+Taux de la Facilité marginale de dépôts : 0,00 % (inchangé)
+Taux pour la protection des épargnants, à compter du 08 juillet 2014
+Taux Créditeur Minimum (TCM) : 2,45 % (inchangé)
+Taux d’intérêt sur Placements Publics de la BEAC, à compter du 08 juillet 2014
+Taux d’Intérêt Sur Placement Public au titre du 0,40 % (inchangé)
+Fonds de réserve pour les Générations Futures (TISPP )
+0
+Taux d’Intérêt Sur Placement Public au titre du 0,05 % (inchangé)
+Mécanisme de Stabilisation des recettes budgétaires (TISPP )
+1
+Taux d’Intérêt sur Placement Public au titre des 0,00 % (inchangé)
+Dépôts Spéciaux (TISPP )
+2
+Source : BEAC, marché monétaire
+60
+
+--- Page 61 ---
+61
+ANNEXE 2 : EVOLUTION DES TAUX DE LA BCE ET DE LA BEAC
+TAUX D'INTERET Fév-21 Mar-21 Avr-21 Mai-21 Juin-21 Juil-21 Août-21 Nov-21 Déc-21 Janv-22 Févr-21 Mar-21 Avri-21 Mai-22
+BCE
+Taux des principales opérations de
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+refinancement
+Facilité de prêt marginal 0,25 0,25 0,25 0,25 0,25 0,25 0,25 0,25 0,25 0,25 0,25 0,25 0,25 0,25
+Facilité de dépôts -0,5 -0,5 -0,5 -0,5 -0,5 -0,5 -0,5 -0,5 -0,5 -0,5 -0,5 -0,5 -0,5 -0,5
+BEAC
+TIAO 3,25 3,25 3,25 3,25 3,25 3,25 3,25 3,50 3,50 3,50 3,25 4,00 4,00 4,00
+Facilité de dépôts 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Différentiels de taux
+TIAO - Taux refi (BCE) 3,25 3,25 3,25 3,25 3,25 3,25 3,25 3,50 3,50 3,50 3,25 4,00 4,00 4,00
+Facilité de dépôts (BEAC) -
+0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5
+Facilité de dépôts (BCE)
+Sources : BEAC, Banque de France, Taux de fin de mois
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 62 ---
+62
+ANNEXE 3 : COURBES DES TAUX DE RENDEMENT DES TITRES PUBLICS
+Annexe 3-1 : Courbe des taux de rendement des titres publics du Cameroun d’avril 2022 et mai 2022 (en%)
+8,00
+7,00
+6,00
+5,00
+4,00
+3,00 déc-21 mai-22
+2,00
+1,00
+0,00
+3 mois 6 mois 1 an 1,5 ans 2 ans 3 ans 3,5A 4 ans 5 ans 6 ans 7 ans 8 ans 9 ans 10 ans
+Source : BEAC/CRCT
+Annexe 3-2 : Courbes de rendement des titres du Congo d’avril 2022 et mai 2022 (en%)
+10,50
+10,00
+9,50
+9,00
+8,50
+déc-21 mai-22
+8,00
+7,50
+7,00
+6,50
+6,00
+3 mois 6 mois 1 an 1,5 ans 2 ans 3 ans 3,5A 4 ans 5 ans 6 ans 7 ans 8 ans 9 ans 10 ans
+Source : BEAC/CRCT
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 63 ---
+63
+Annexe 3-3 : Courbes de rendement des titres du Gabon d’avril 2022 et mai 2022 (en%)
+11,00
+10,00
+9,00
+8,00
+déc-21 mai-22
+7,00
+6,00
+5,00
+4,00
+3,00
+3 mois 6 mois 1 an 1,5 ans 2 ans 3 ans 3,5A 4 ans 5 ans 6 ans 7 ans 8 ans 9 ans 10 ans
+Source : BEAC/CRCT
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 64 ---
+64
+ANNEXE 4 : MONITORING DES TRANSFERTS MENSUELS
+Dans le but d’améliorer le suivi de la stabilité monétaire de la CEMAC, une
+importance accrue est désormais accordée, au plan sous-régional, au suivi du taux de
+couverture extérieure de la monnaie (TCE), et au plan national, au suivi des transferts
+nets21 hors-CEMAC, indicateur de référence conformément à la Lettre circulaire
+N°015/GR/2020 du 03 novembre 2020.
+Au niveau sous-régional, le taux de couverture des engagements à vue par les
+avoirs extérieurs s’est situé à 65,69 % en avril 2022 contre 61,09 % en avril 2021, soit une
+hausse de 4,60 point en glissement annuel.
+Par pays, l’analyse de l’indicateur de référence entre avril 2021 et avril 2022
+montre que :
+- Au Cameroun, il s’est davantage creusé revenant de -72,1 milliards en avril 2021 à
+-148,6 milliards douze mois plus tard, soit un repli de 106,0 % ;
+- En République Centrafricaine, l’indicateur est revenu de 10,9 milliards à 6,3
+milliards entre avril 2021 et avril 2022, soit un recul de 42,2 % sur la période de
+référence ;
+- Au Congo, il s’est ajusté de -52,6 milliards en avril 2021 à -44,2 milliards un an
+plus tard, soit une progression annuelle de 15,9 % ;
+- Au Gabon, l’indicateur s’est fortement amélioré, passant d’une position négative à
+-45,6 milliards en avril 2021 à une position positive à 31,9 milliards douze mois
+après ;
+- En Guinée Equatoriale, il a évolué de -14,5 milliards en avril 2021 à -22,1
+milliards en avril 2022, soit une baisse de 52,3 % ; et,
+- Au Tchad, l’indicateur s’est fortement redressé, allant de -4,8 milliards en avril
+2021 à 35,6 milliards un an plus tard.
+21 L’indicateur de référence au niveau national est « la moyenne mobile des transferts nets hors CEMAC au cours des
+six (06) derniers mois ».
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+
+--- Page 65 ---
+65
+Figure: Evolution des transferts nets des pays de la CEMAC (moyenne mobile sur les 6 derniers mois en
+millions FCFA)
+ةيدقنلا ةسايسلا ريرقت
+Monetary policy report | Informe de política monetaria |
+80
+60
+40
+20
+0
+11-20-.rva-40
+-60
+-80
+-100
+-120
+-140
+11-.liuj
+20
+0
+11--20.rva-40
+-60
+-80
+-100
+-120
+-140
+-160
+-180
+21 2 11 1 --- ... v rt vc no aaj
+11-tûoa
+21-.liuj
+11-.céd
+21-.tco
+21-.rva
+31-.vnaj
+21-tûoa
+31-.rva
+21-.céd
+33 11- -. .l ti cu oj
+31-.rva
+41-.vnaj
+31-tûoa
+41-.rva
+31-.céd
+41-.liuj
+Transferts N ets (Cam eroun)
+4 6 755 6 74 64 51 1 111 1 1 111 1-
+- - --- - --- -. . . .t t t. . .tr r r rc c cûû û ûv v v véé éoo o oa a a add daa a a
+Transferts N ets (Congo)
+65 74 5 6 76 85 75 761 111 1 1 11 11 11 11-- -- --- -- -- - - -. ... ... .. .. . . .l llv vv vr rrt t t ti iiv vvc c c cn nn nuu uo o o oa aaa aa ajj jj jj j
+71-.céd
+81-.rva
+81-.rva
+81-.liuj
+81-tûoa
+8 91 1-- .. vtc no aj
+81-.céd
+91-.rva
+91-.rva
+91-.liuj
+91-tûoa
+91-.tco
+91-.céd
+00 22 -- ..v rvn aaj
+02-.rva
+02-.liuj
+02-tûoa
+02-.tco
+02-.céd
+12-.vnaj
+12-.rva
+12-.rva
+12-tûoa
+11 22- -. .l ti cu oj
+12-.céd
+22-.vnaj
+22-.rva
+22-.rva
+60
+40
+20
+0
+-20
+-40
+-60
+-80
+-100
+11-.rva
+25
+20
+15
+10
+5
+0
+11-.rva-5
+11 11 -- .t cû éo da
+11-tûoa
+21-.rva
+11-.céd
+21-tûoa
+21-.rva
+21-.céd
+21-tûoa
+31-.rva
+21-.céd
+31-tûoa
+31-.rva
+31-.céd
+31-tûoa
+41-.rva
+31-.céd
+41-tûoa
+Tran sferts N ets (R C A )
+4 5 6 74 5 64 5 61 1 1 11 1 11 1 1-
+- - -- - -- - -. . . .. . .t t t rr r rc c cû û û vv v vé é éo o o aa a ad d da a a
+Tra n sfe rts N e ts (G a b o n
+4 665 65 75 71 111 11 11 1- --- -- -- -. .. .. .tt trr rc cc ûû ûvv vé éé oo oaa ad dd aa a
+71-tûoa
+)
+71-.céd
+71-.céd
+81-.rva
+81-.rva
+81-tûoa
+81-tûoa
+81-.céd
+81-.céd
+91-.rva
+91-.rva
+91-tûoa
+91-tûoa
+91-.céd
+91-.céd
+02-.rva
+02-.rva 02-tûoa
+02-tûoa
+02-.céd
+02-.céd
+12-.rva
+12-.rva
+12-tûoa
+12-tûoa
+12-.céd
+12-.céd
+22-.rva
+22-.rva
+Transferts Nets (Guinée Equatoriale) Transferts Nets (Tchad)
+300 80
+70
+250
+60
+200
+50
+150 40
+30
+100
+20
+50 10
+0
+0
+-501 1 -.rva1 1-.liu j1 1 -.tco2 1
+-.vn
+aj2 1 -.rva2 1-.liu j2 1 -.tco3 1
+-.vn
+aj3 1 -.rva3 1-.liu j3 1 -.tco4 1
+-.vn
+aj4 1 -.rva4 1-.liu j4 1 -.tco5 1
+-.vn
+aj5 1 -.rva5 1-.liu j5 1 -.tco6 1
+-.vn
+aj6 1 -.rva6 1-.liu j6 1 -.tco7 1
+-.vn
+aj7 1 -.rva7 1-.liu j7 1 -.tco8 1
+-.vn
+aj8 1 -.rva8 1-.liu j8 1 -.tco9 1
+-.vn
+aj9 1 -.rva9 1-.liu j9 1 -.tco0 2
+-.vn
+aj0 2 -.rva0 2-.liu j0 2 -.tco1 2
+-.vn
+aj1 2 -.rva1 2-.liu j1 2 -.tco2 2
+-.vn
+aj2 2
+-.rva
+- -1 20 011 -.rva11 -tûo a1 1 -.céd21 -.rva21 -tûo a2 1 -.céd31 -.rva31 -tûo a3 1 -.céd41 -.rva41 -tûo a4 1 -.céd51 -.rva51 -tûo a5 1 -.céd61 -.rva61 -tûo a6 1 -.céd71 -.rva71 -tûo a7 1 -.céd81 -.rva81 -tûo a8 1 -.céd91 -.rva91 -tûo a9 1 -.céd02 -.rva02 -tûo a0 2 -.céd12 -.rva12 -tûo a1 2 -.céd22 -.rva
+-100 -30
