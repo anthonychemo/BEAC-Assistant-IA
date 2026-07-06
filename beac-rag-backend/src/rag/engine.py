@@ -4,7 +4,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from typing import Iterator
 
-from src.rag.llm_client import get_llm, get_default_llm
+from src.rag.llm_client import get_llm, get_default_llm, DEFAULT_MODEL_KEY
 from src.rag.prompts import SYSTEM_PROMPT, META_RESPONSE, build_rag_prompt
 from src.rag.query_router import QueryType, classify_query
 from src.rag.retriever import ContextItem, format_context, retrieve_context
@@ -62,7 +62,7 @@ def _sources_from_items(items: list[ContextItem]) -> list[dict]:
     return sources
 
 
-def answer_question(question: str, provider: str = "ollama", model_key: str = "gemma-4-26b") -> RAGResponse:
+def answer_question(question: str, model_key: str = DEFAULT_MODEL_KEY, **kwargs) -> RAGResponse:
     """Reponse complete avec cache."""
     routed = classify_query(question)
 
@@ -70,7 +70,7 @@ def answer_question(question: str, provider: str = "ollama", model_key: str = "g
         return RAGResponse(answer=META_RESPONSE, query_type=QueryType.META.value, sources=[])
 
     cache = get_cache()
-    cache_key = f"{provider}:{model_key}:{question}"
+    cache_key = f"{model_key}:{question}"
     cached = cache.get(cache_key)
     if cached is not None:
         logger.info("Reponse servie depuis le cache")
@@ -79,7 +79,7 @@ def answer_question(question: str, provider: str = "ollama", model_key: str = "g
     context, vector_items, sql_used, qtype = _build_context(question)
     exploratory = getattr(routed, "exploratory", False)
     prompt = build_rag_prompt(question, context, exploratory=exploratory)
-    llm = get_llm(provider=provider, model_key=model_key)
+    llm = get_llm(model_key=model_key)
     answer = llm.generate(prompt, system=SYSTEM_PROMPT)
 
     result = RAGResponse(
@@ -93,9 +93,9 @@ def answer_question(question: str, provider: str = "ollama", model_key: str = "g
     return result
 
 
-def stream_answer(question: str, provider: str = "ollama", model_key: str = "gemma-4-26b") -> Iterator[str]:
+def stream_answer(question: str, model_key: str = DEFAULT_MODEL_KEY, **kwargs) -> Iterator[str]:
     """Reponse en streaming."""
     context, _, _, _ = _build_context(question)
     prompt = build_rag_prompt(question, context)
-    llm = get_llm(provider=provider, model_key=model_key)
+    llm = get_llm(model_key=model_key)
     yield from llm.stream(prompt, system=SYSTEM_PROMPT)

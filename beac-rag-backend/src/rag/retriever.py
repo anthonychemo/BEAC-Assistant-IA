@@ -85,16 +85,21 @@ def retrieve_context(
 
 
 def format_context(items: list[ContextItem]) -> str:
-    """Formate les chunks en texte avec citation de source."""
+    """Formate les chunks en texte avec citation de source — tronque si necessaire."""
     if not items:
         return "[Aucun document pertinent trouve.]"
     blocks = []
+    total_chars = 0
+    MAX_CHARS = 6000  # limite safe pour les modeles gratuits OpenRouter
     for i, item in enumerate(items, 1):
         src = item.source
         if item.year:
             src += f", {item.year}"
-        url = item.source_url or "https://www.beac.int"
-        blocks.append(f"[Source {i} : {src}]\n{item.content}")
+        block = f"[Source {i} : {src}]\n{item.content}"
+        if total_chars + len(block) > MAX_CHARS:
+            break
+        blocks.append(block)
+        total_chars += len(block)
     return "\n\n".join(blocks)
 
 def _sources_from_items(items: list[ContextItem]) -> list[dict]:

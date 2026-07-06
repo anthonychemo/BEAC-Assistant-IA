@@ -34,8 +34,10 @@ _MODEL_NAME = _EMB.get("model", settings.embedding_model)
 _BATCH_SIZE = int(_EMB.get("batch_size", 16))
 _NORMALIZE = bool(_EMB.get("normalize", True))
 
-# BGE-M3 recommande un prefixe pour les requetes de recherche
-_QUERY_PREFIX = ""  # bge-m3 ne necessite pas de prefixe contrairement a e5
+_QUERY_PREFIX = ""
+
+# Singleton global — charge une seule fois pour tout le processus
+_EMBEDDER_INSTANCE: "Embedder | None" = None
 
 
 class Embedder:
@@ -46,7 +48,7 @@ class Embedder:
             device=settings.embedding_device,
             local_files_only=True,
         )
-        self.dimension = self.model.get_sentence_embedding_dimension()
+        self.dimension = self.model.get_embedding_dimension()
 
     def embed_documents(self, texts: Sequence[str]) -> list[list[float]]:
         if not texts:
@@ -69,6 +71,8 @@ class Embedder:
         return vector.tolist()
 
 
-@lru_cache
 def get_embedder() -> Embedder:
-    return Embedder()
+    global _EMBEDDER_INSTANCE
+    if _EMBEDDER_INSTANCE is None:
+        _EMBEDDER_INSTANCE = Embedder()
+    return _EMBEDDER_INSTANCE

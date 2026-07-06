@@ -36,14 +36,11 @@ retrieval:
   min_similarity: 0.35
 
 llm:
-  provider: "ollama"
-  model: "llama3.1:8b-instruct-q4_K_M"
-  fast_model: null
+  provider: "openrouter"
+  model: "google/gemma-4-26b-a4b-it:free"
+  default_model_key: "gemma-4-26b"
   temperature: 0.1
-  num_ctx: 6144
   max_tokens: 512
-  num_thread: 8
-  keep_alive: "2h"
 
 cache:
   max_size: 200

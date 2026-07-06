@@ -203,7 +203,6 @@ def query(req: QueryRequest) -> QueryResponse:
         query_type=result.query_type,
         sources=[SourceItem(**s) for s in result.sources],
         sql=result.sql,
-        provider=req.provider,
         model_key=req.model_key,
     )
 
@@ -216,7 +215,6 @@ def query_stream(req: QueryRequest) -> StreamingResponse:
             meta = {
                 "type": "meta",
                 "query_type": qtype,
-                "provider": req.provider,
                 "model_key": req.model_key,
                 "sources": [
                     {"source": i.source, "year": i.year, "score": round(i.score, 3)}
@@ -226,7 +224,7 @@ def query_stream(req: QueryRequest) -> StreamingResponse:
             }
             yield json.dumps(meta, ensure_ascii=False) + "\n"
             prompt = build_rag_prompt(req.question, context)
-            llm = get_llm(provider=req.provider, model_key=req.model_key)
+            llm = get_llm(model_key=req.model_key)
             for token in llm.stream(prompt, system=SYSTEM_PROMPT):
                 yield token
         except Exception as exc:
