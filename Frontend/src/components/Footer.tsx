@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="flex flex-col items-center md:items-start mb-6 md:mb-0 select-none text-center md:text-left">
         <span className="font-sans text-[#0D2D5E] font-bold text-lg tracking-wider">BEAC</span>
         <span className="text-xs text-black/60 font-medium mt-1">
-          © 2024 - 2026 Banque des États de l'Afrique Centrale. Tous droits réservés.
+          © 2026 Banque des États de l'Afrique Centrale. Tous droits réservés.
         </span>
       </div>
       <div className="flex flex-wrap justify-center gap-6 md:gap-8">

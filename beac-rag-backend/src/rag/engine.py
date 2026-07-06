@@ -4,7 +4,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from typing import Iterator
 
-from src.rag.llm_client import get_llm
+from src.rag.llm_client import get_llm, get_default_llm
 from src.rag.prompts import SYSTEM_PROMPT, META_RESPONSE, build_rag_prompt
 from src.rag.query_router import QueryType, classify_query
 from src.rag.retriever import ContextItem, format_context, retrieve_context
@@ -23,8 +23,6 @@ class RAGResponse:
 
 
 def _build_context(question: str) -> tuple[str, list[ContextItem], str | None, str]:
-    """Construit le contexte selon le type de question.
-    Retourne (contexte_texte, items_vectoriels, sql_execute, query_type)."""
     routed = classify_query(question)
     logger.info(f"Question routee : {routed.query_type} | filtres={routed.filters}")
 
@@ -64,20 +62,16 @@ def _sources_from_items(items: list[ContextItem]) -> list[dict]:
     return sources
 
 
-def answer_question(question: str) -> RAGResponse:
+def answer_question(question: str, provider: str = "ollama", model_key: str = "gemma-4-26b") -> RAGResponse:
     """Reponse complete avec cache."""
     routed = classify_query(question)
 
-    # Questions meta (qui es-tu, que peux-tu faire...)
     if hasattr(QueryType, "META") and routed.query_type == QueryType.META:
-        return RAGResponse(
-            answer=META_RESPONSE,
-            query_type=QueryType.META.value,
-            sources=[],
-        )
+        return RAGResponse(answer=META_RESPONSE, query_type=QueryType.META.value, sources=[])
 
     cache = get_cache()
-    cached = cache.get(question)
+    cache_key = f"{provider}:{model_key}:{question}"
+    cached = cache.get(cache_key)
     if cached is not None:
         logger.info("Reponse servie depuis le cache")
         return cached
@@ -85,7 +79,8 @@ def answer_question(question: str) -> RAGResponse:
     context, vector_items, sql_used, qtype = _build_context(question)
     exploratory = getattr(routed, "exploratory", False)
     prompt = build_rag_prompt(question, context, exploratory=exploratory)
-    answer = get_llm().generate(prompt, system=SYSTEM_PROMPT)
+    llm = get_llm(provider=provider, model_key=model_key)
+    answer = llm.generate(prompt, system=SYSTEM_PROMPT)
 
     result = RAGResponse(
         answer=answer,
@@ -94,13 +89,13 @@ def answer_question(question: str) -> RAGResponse:
         sql=sql_used,
         context_used=context,
     )
-
-    cache.set(question, result)
+    cache.set(cache_key, result)
     return result
 
 
-def stream_answer(question: str) -> Iterator[str]:
-    """Reponse en streaming (pour interface temps reel)."""
+def stream_answer(question: str, provider: str = "ollama", model_key: str = "gemma-4-26b") -> Iterator[str]:
+    """Reponse en streaming."""
     context, _, _, _ = _build_context(question)
     prompt = build_rag_prompt(question, context)
-    yield from get_llm().stream(prompt, system=SYSTEM_PROMPT)
+    llm = get_llm(provider=provider, model_key=model_key)
+    yield from llm.stream(prompt, system=SYSTEM_PROMPT)

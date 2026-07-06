@@ -47,28 +47,16 @@ def retrieve_context(
     query_vec = embedder.embed_query(question)
     k = top_k or _TOP_K
 
-
     chunks: list[RetrievedChunk] = similarity_search(
         query_embedding=query_vec,
-        top_k=top_k or _TOP_K,
+        top_k=k,
         filters=filters,
         min_similarity=_MIN_SIM,
     )
-    
-        
-    # Fallback 1 : retirer le filtre year si aucun résultat
-    if not chunks and filters and "year" in filters:
-        filters_without_year = {k: v for k, v in filters.items() if k != "year"}
-        logger.info("Fallback : recherche sans filtre year")
-        chunks = similarity_search(
-            query_embedding=query_vec,
-            top_k=k,
-            filters=filters_without_year or None,
-            min_similarity=_MIN_SIM,
-        )
 
+    # Fallback unique : si aucun resultat avec filtres, retenter sans
     if not chunks and filters:
-        logger.info("Fallback : recherche sans aucun filtre")
+        logger.info("Fallback : recherche sans filtres")
         chunks = similarity_search(
             query_embedding=query_vec,
             top_k=k,

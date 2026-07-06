@@ -45,6 +45,12 @@ export default defineConfig(() => {
           changeOrigin: true,
           rewrite: (path) => path.replace(/^\/api\/files/, '/files'),
         },
+        // GET /api/models -> GET /models
+        '/api/models': {
+          target: 'http://localhost:8000',
+          changeOrigin: true,
+          rewrite: () => '/models',
+        },
       },
     },
   };

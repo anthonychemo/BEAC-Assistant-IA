@@ -31,7 +31,7 @@ vector_store:
   distance: "cosine"
 
 retrieval:
-  top_k: 7
+  top_k: 5
   sql_max_rows: 20
   min_similarity: 0.35
 
@@ -40,7 +40,7 @@ llm:
   model: "llama3.1:8b-instruct-q4_K_M"
   fast_model: null
   temperature: 0.1
-  num_ctx: 3072
+  num_ctx: 6144
   max_tokens: 512
   num_thread: 8
   keep_alive: "2h"

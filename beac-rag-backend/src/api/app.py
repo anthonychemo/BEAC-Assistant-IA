@@ -15,6 +15,7 @@ from src.config import CONFIG, settings
 from src.database.connection import session_scope
 from src.database.schema import Chunk, Document, Statistic
 from src.rag.engine import answer_question, stream_answer, _build_context
+from src.rag.llm_client import get_default_llm, OPENROUTER_MODELS, get_llm
 from src.rag.llm_client import get_llm
 from src.rag.prompts import SYSTEM_PROMPT, build_rag_prompt
 from src.utils.logger import logger
@@ -23,9 +24,17 @@ from src.rag.cache import get_cache
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    logger.info("Demarrage de l'API BEAC RAG, prechauffage du LLM...")
+    logger.info("Demarrage de l'API BEAC RAG...")
+    # Precharger l'embedder en RAM au demarrage (evite 5-8s a la 1ere requete)
     try:
-        get_llm().warmup()
+        from src.indexing.embeddings import get_embedder
+        get_embedder()
+        logger.info("Embedder BGE-M3 charge en RAM.")
+    except Exception as exc:
+        logger.warning(f"Precharge embedder ignoree : {exc}")
+    # Prechauffer Ollama
+    try:
+        get_default_llm().warmup()
     except Exception as exc:
         logger.warning(f"Warmup LLM ignore : {exc}")
     yield
@@ -170,10 +179,22 @@ def health() -> HealthResponse:
     )
 
 
+@app.get("/models")
+def list_models() -> dict:
+    """Liste les modeles disponibles par provider."""
+    return {
+        "ollama": [{"key": "ollama", "label": "Llama 3.1 8B (Local)", "provider": "ollama"}],
+        "openrouter": [
+            {"key": k, "label": k.replace("-", " ").title(), "provider": "openrouter"}
+            for k in OPENROUTER_MODELS
+        ],
+    }
+
+
 @app.post("/query", response_model=QueryResponse)
 def query(req: QueryRequest) -> QueryResponse:
     try:
-        result = answer_question(req.question)
+        result = answer_question(req.question, provider=req.provider, model_key=req.model_key)
     except Exception as exc:
         logger.exception("Erreur lors du traitement de la question")
         raise HTTPException(status_code=500, detail=str(exc))
@@ -182,6 +203,8 @@ def query(req: QueryRequest) -> QueryResponse:
         query_type=result.query_type,
         sources=[SourceItem(**s) for s in result.sources],
         sql=result.sql,
+        provider=req.provider,
+        model_key=req.model_key,
     )
 
 
@@ -193,6 +216,8 @@ def query_stream(req: QueryRequest) -> StreamingResponse:
             meta = {
                 "type": "meta",
                 "query_type": qtype,
+                "provider": req.provider,
+                "model_key": req.model_key,
                 "sources": [
                     {"source": i.source, "year": i.year, "score": round(i.score, 3)}
                     for i in vector_items
@@ -201,7 +226,8 @@ def query_stream(req: QueryRequest) -> StreamingResponse:
             }
             yield json.dumps(meta, ensure_ascii=False) + "\n"
             prompt = build_rag_prompt(req.question, context)
-            for token in get_llm().stream(prompt, system=SYSTEM_PROMPT):
+            llm = get_llm(provider=req.provider, model_key=req.model_key)
+            for token in llm.stream(prompt, system=SYSTEM_PROMPT):
                 yield token
         except Exception as exc:
             logger.exception("Erreur streaming")
