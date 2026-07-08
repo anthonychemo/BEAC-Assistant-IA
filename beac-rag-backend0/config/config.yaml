@@ -1,0 +1,63 @@
+project:
+  name: "BEAC RAG Chatbot"
+  language: "fr"
+
+ingestion:
+  pdf_extensions: [".pdf"]
+  excel_extensions: [".xls", ".xlsx"]
+  ocr_text_threshold: 100
+  ocr_dpi: 200
+  ocr_workers: 4
+  image_extract_dir: "data/extracted_images"
+  batch_size: 10
+
+chunking:
+  chunk_size: 400
+  chunk_overlap: 90
+  min_chunk_chars: 50
+
+embeddings:
+  model: "BAAI/bge-m3"
+  device: "cpu"
+  dimension: 1024
+  batch_size: 16
+  normalize: true
+
+vector_store:
+  table: "chunks"
+  index_type: "hnsw"
+  hnsw_m: 16
+  hnsw_ef_construction: 64
+  distance: "cosine"
+
+retrieval:
+  top_k: 5
+  sql_max_rows: 20
+  min_similarity: 0.35
+
+llm:
+  provider: "openrouter"
+  model: "google/gemma-4-26b-a4b-it:free"
+  default_model_key: "gemma-4-26b"
+  temperature: 0.1
+  max_tokens: 512
+
+cache:
+  max_size: 200
+  ttl_seconds: 7200
+
+router:
+  data_keywords:
+    - taux
+    - inflation
+    - masse monetaire
+    - reserves
+    - statistique
+    - montant
+    - valeur
+    - evolution
+    - combien
+    - chiffre
+    - pourcentage
+    - balance
+    - emission
