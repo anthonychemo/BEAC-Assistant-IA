@@ -1,9 +1,32 @@
-nodes_modules/
-.env
-dist/
-Backend/
-beac-rag-backend0/
+# Dependances
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
 
-# Données scrappées
+# Build
+dist/
+*.egg-info/
+
+# Secrets
+.env
+*.env
+
+# Dossiers ignores
+Backend/
+
+# Donnees scrappees
 data_pipeline/Scrapping/scraping/beac_data/
 beac_data/
+
+# Logs
+*.log
+logs/
+
+# Caches Python
+.cache/
+*.cache
+
+# IDE
+.vscode/settings.json
