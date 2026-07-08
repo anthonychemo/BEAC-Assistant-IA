@@ -10,8 +10,6 @@ interface IAAssistantProps {
   onClearHistory: () => void;
   suggestedPrompt: string;
   setSuggestedPrompt: (text: string) => void;
-  selectedModel: { provider: string; key: string; label: string };
-  onModelChange: (model: { provider: string; key: string; label: string }) => void;
 }
 
 export default function IAAssistant({
@@ -21,21 +19,10 @@ export default function IAAssistant({
   onClearHistory,
   suggestedPrompt,
   setSuggestedPrompt,
-  selectedModel,
-  onModelChange,
 }: IAAssistantProps) {
   const [inputText, setInputText] = useState("");
   const [expandedSources, setExpandedSources] = useState<Set<string>>(new Set());
-  const [showModelMenu, setShowModelMenu] = useState(false);
   const feedEndRef = useRef<HTMLDivElement>(null);
-
-  const MODELS = [
-    { provider: "ollama", key: "ollama", label: "Llama 3.1 8B (Local)" },
-    { provider: "openrouter", key: "gemma-4-26b", label: "Gemma 4 26B" },
-    { provider: "openrouter", key: "llama-3.1-8b", label: "Llama 3.1 8B (Cloud)" },
-    { provider: "openrouter", key: "mistral-7b", label: "Mistral 7B" },
-    { provider: "openrouter", key: "qwen-2.5-7b", label: "Qwen 2.5 7B" },
-  ];
 
   useEffect(() => {
     feedEndRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -183,33 +170,9 @@ export default function IAAssistant({
           </div>
 
           <div className="flex items-center gap-2">
-            <div className="hidden sm:flex items-center gap-1.5 bg-gray-50 border border-gray-100 rounded-full px-3 py-1 shrink-0 select-none relative">
+            <div className="hidden sm:flex items-center gap-1.5 bg-gray-50 border border-gray-100 rounded-full px-3 py-1 shrink-0 select-none">
               <Database className="w-3 h-3 text-[#C8971A]" />
-              <button
-                onClick={() => setShowModelMenu((v) => !v)}
-                className="text-[9px] text-gray-500 font-bold font-mono flex items-center gap-1 hover:text-[#C8971A] transition-colors cursor-pointer"
-              >
-                {selectedModel.label}
-                <ChevronDown className="w-3 h-3" />
-              </button>
-              {showModelMenu && (
-                <div className="absolute top-full right-0 mt-1 bg-white border border-gray-200 rounded-lg shadow-lg z-50 min-w-[180px] py-1">
-                  {MODELS.map((m) => (
-                    <button
-                      key={m.key}
-                      onClick={() => { onModelChange(m); setShowModelMenu(false); }}
-                      className={`w-full text-left px-3 py-2 text-[11px] font-medium hover:bg-gray-50 transition-colors cursor-pointer ${
-                        selectedModel.key === m.key ? "text-[#C8971A] font-bold" : "text-gray-700"
-                      }`}
-                    >
-                      {m.label}
-                      {m.provider === "openrouter" && (
-                        <span className="ml-1 text-[9px] text-emerald-500 font-bold">CLOUD</span>
-                      )}
-                    </button>
-                  ))}
-                </div>
-              )}
+              <span className="text-[9px] text-gray-500 font-bold font-mono">llama3.1:8b</span>
             </div>
             
             {/* Clear history button for mobile/multi-device accessibility */}

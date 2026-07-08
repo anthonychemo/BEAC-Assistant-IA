@@ -32,11 +32,6 @@ export default function App() {
   const [suggestedPrompt, setSuggestedPrompt] = useState("");
   const [preSelectedDocType, setPreSelectedDocType] = useState<string | null>(null);
   const [isPipelineActive, setIsPipelineActive] = useState(true);
-  const [selectedModel, setSelectedModel] = useState({
-    provider: "openrouter",
-    key: "gemma-4-26b",
-    label: "Gemma 4 26B",
-  });
 
   useEffect(() => {
     setMetrics((prev) => ({
@@ -93,7 +88,7 @@ export default function App() {
       const res = await fetch("/api/chat/stream", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ question: text, provider: selectedModel.provider, model_key: selectedModel.key }),
+        body: JSON.stringify({ question: text }),
       });
 
       if (!res.ok) throw new Error("Erreur backend");
@@ -184,8 +179,6 @@ export default function App() {
             }])}
             suggestedPrompt={suggestedPrompt}
             setSuggestedPrompt={setSuggestedPrompt}
-            selectedModel={selectedModel}
-            onModelChange={setSelectedModel}
           />
         </div>
 

@@ -31,17 +31,16 @@ vector_store:
   distance: "cosine"
 
 retrieval:
-  top_k: 5
+  top_k: 7
   sql_max_rows: 20
   min_similarity: 0.35
 
 llm:
   provider: "ollama"
   model: "llama3.1:8b-instruct-q4_K_M"
-  fast_model: null
   temperature: 0.1
-  num_ctx: 6144
-  max_tokens: 512
+  num_ctx: 4096
+  max_tokens: 1024
   num_thread: 8
   keep_alive: "2h"
 

@@ -14,9 +14,8 @@ from src.api.models import HealthResponse, QueryRequest, QueryResponse, SourceIt
 from src.config import CONFIG, settings
 from src.database.connection import session_scope
 from src.database.schema import Chunk, Document, Statistic
-from src.rag.engine import answer_question, stream_answer, _build_context
-from src.rag.llm_client import get_default_llm, OPENROUTER_MODELS, get_llm
-from src.rag.llm_client import get_llm
+from src.rag.engine import answer_question, _build_context
+from src.rag.llm_client import get_default_llm, get_llm
 from src.rag.prompts import SYSTEM_PROMPT, build_rag_prompt
 from src.utils.logger import logger
 from src.rag.cache import get_cache
@@ -25,14 +24,12 @@ from src.rag.cache import get_cache
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logger.info("Demarrage de l'API BEAC RAG...")
-    # Precharger l'embedder en RAM au demarrage (evite 5-8s a la 1ere requete)
     try:
         from src.indexing.embeddings import get_embedder
         get_embedder()
         logger.info("Embedder BGE-M3 charge en RAM.")
     except Exception as exc:
         logger.warning(f"Precharge embedder ignoree : {exc}")
-    # Prechauffer Ollama
     try:
         get_default_llm().warmup()
     except Exception as exc:
@@ -43,7 +40,6 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(
     title="BEAC RAG API",
-    description="API du chatbot RAG sur les donnees de la BEAC",
     version="1.0.0",
     lifespan=lifespan,
 )
@@ -56,18 +52,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Mapping type frontend -> mots-cles dans la colonne category de la BD
 _TYPE_KEYWORDS: dict[str, list[str]] = {
     "Rapports":       ["rapport", "annual", "annuel"],
     "Bulletins":      ["bulletin", "statistique", "stat"],
     "Working Papers": ["working", "etude", "research"],
     "Communiques":    ["communique", "presse", "note"],
     "Reglementation": ["reglement", "directive", "loi", "convention", "statut"],
-}
-# Mapping avec accents pour la correspondance frontend
-_TYPE_ALIAS: dict[str, str] = {
-    "Communiques":    "Communiques",
-    "Reglementation": "Reglementation",
 }
 
 
@@ -97,6 +87,77 @@ def _map_section(doc: Document) -> str:
     return "Stabilite Financiere"
 
 
+@app.get("/health", response_model=HealthResponse)
+def health() -> HealthResponse:
+    with session_scope() as session:
+        n_docs = session.query(func.count(Document.id)).scalar() or 0
+        n_chunks = session.query(func.count(Chunk.id)).scalar() or 0
+        n_stats = session.query(func.count(Statistic.id)).scalar() or 0
+    return HealthResponse(
+        status="ok",
+        documents=n_docs,
+        chunks=n_chunks,
+        statistics=n_stats,
+        llm_model=CONFIG.get("llm", {}).get("model", settings.llm_model),
+        embedding_model=CONFIG.get("embeddings", {}).get("model", settings.embedding_model),
+    )
+
+
+@app.post("/query", response_model=QueryResponse)
+def query(req: QueryRequest) -> QueryResponse:
+    try:
+        result = answer_question(req.question)
+    except Exception as exc:
+        logger.exception("Erreur lors du traitement de la question")
+        raise HTTPException(status_code=500, detail=str(exc))
+    return QueryResponse(
+        answer=result.answer,
+        query_type=result.query_type,
+        sources=[SourceItem(**s) for s in result.sources],
+        sql=result.sql,
+    )
+
+
+@app.post("/query/stream")
+def query_stream(req: QueryRequest) -> StreamingResponse:
+    def token_generator():
+        try:
+            context, vector_items, sql_used, qtype = _build_context(req.question)
+            meta = {
+                "type": "meta",
+                "query_type": qtype,
+                "sources": [
+                    {"source": i.source, "year": i.year, "score": round(i.score, 3)}
+                    for i in vector_items
+                ],
+                "sql": sql_used,
+            }
+            yield json.dumps(meta, ensure_ascii=False) + "\n"
+            prompt = build_rag_prompt(req.question, context)
+            for token in get_llm().stream(prompt, system=SYSTEM_PROMPT):
+                yield token
+        except Exception as exc:
+            logger.exception("Erreur streaming")
+            yield f"\n[Erreur: {exc}]"
+
+    return StreamingResponse(token_generator(), media_type="text/plain; charset=utf-8")
+
+
+@app.post("/cache/clear")
+def clear_cache():
+    get_cache().invalidate()
+    return {"status": "cache vide"}
+
+
+@app.get("/metadata")
+def metadata() -> dict:
+    with session_scope() as session:
+        categories = [r[0] for r in session.query(Document.category).distinct() if r[0]]
+        countries = [r[0] for r in session.query(Document.country).distinct() if r[0]]
+        years = sorted([r[0] for r in session.query(Document.year).distinct() if r[0]])
+    return {"categories": sorted(categories), "countries": sorted(countries), "years": years}
+
+
 @app.get("/documents")
 def get_documents(
     limit: int = 5000,
@@ -105,33 +166,21 @@ def get_documents(
     year: int | None = None,
     search: str | None = None,
 ) -> dict:
-    """Liste paginee des documents pour la bibliotheque frontend."""
     with session_scope() as session:
         q = session.query(Document)
-
-        # Filtre par type (mapping frontend -> mots-cles BD)
         if doc_type and doc_type in _TYPE_KEYWORDS:
             kws = _TYPE_KEYWORDS[doc_type]
             q = q.filter(or_(*[Document.category.ilike(f"%{kw}%") for kw in kws]))
-
         if year:
             q = q.filter(Document.year == year)
-
-        # Recherche textuelle sur filename, category et subcategory
         if search:
-            q = q.filter(
-                or_(
-                    Document.filename.ilike(f"%{search}%"),
-                    Document.category.ilike(f"%{search}%"),
-                    Document.subcategory.ilike(f"%{search}%"),
-                )
-            )
-
+            q = q.filter(or_(
+                Document.filename.ilike(f"%{search}%"),
+                Document.category.ilike(f"%{search}%"),
+                Document.subcategory.ilike(f"%{search}%"),
+            ))
         total = q.count()
-        docs = q.order_by(
-            Document.year.desc().nullslast(),
-            Document.id.desc()
-        ).offset(offset).limit(limit).all()
+        docs = q.order_by(Document.year.desc().nullslast(), Document.id.desc()).offset(offset).limit(limit).all()
 
     result = []
     for doc in docs:
@@ -157,101 +206,7 @@ def get_documents(
     return {"total": total, "documents": result}
 
 
-@app.post("/cache/clear")
-def clear_cache():
-    get_cache().invalidate()
-    return {"status": "cache vidé"}
-
-
-@app.get("/health", response_model=HealthResponse)
-def health() -> HealthResponse:
-    with session_scope() as session:
-        n_docs = session.query(func.count(Document.id)).scalar() or 0
-        n_chunks = session.query(func.count(Chunk.id)).scalar() or 0
-        n_stats = session.query(func.count(Statistic.id)).scalar() or 0
-    return HealthResponse(
-        status="ok",
-        documents=n_docs,
-        chunks=n_chunks,
-        statistics=n_stats,
-        llm_model=CONFIG.get("llm", {}).get("model", settings.llm_model),
-        embedding_model=CONFIG.get("embeddings", {}).get("model", settings.embedding_model),
-    )
-
-
-@app.get("/models")
-def list_models() -> dict:
-    """Liste les modeles disponibles par provider."""
-    return {
-        "ollama": [{"key": "ollama", "label": "Llama 3.1 8B (Local)", "provider": "ollama"}],
-        "openrouter": [
-            {"key": k, "label": k.replace("-", " ").title(), "provider": "openrouter"}
-            for k in OPENROUTER_MODELS
-        ],
-    }
-
-
-@app.post("/query", response_model=QueryResponse)
-def query(req: QueryRequest) -> QueryResponse:
-    try:
-        result = answer_question(req.question, provider=req.provider, model_key=req.model_key)
-    except Exception as exc:
-        logger.exception("Erreur lors du traitement de la question")
-        raise HTTPException(status_code=500, detail=str(exc))
-    return QueryResponse(
-        answer=result.answer,
-        query_type=result.query_type,
-        sources=[SourceItem(**s) for s in result.sources],
-        sql=result.sql,
-        provider=req.provider,
-        model_key=req.model_key,
-    )
-
-
-@app.post("/query/stream")
-def query_stream(req: QueryRequest) -> StreamingResponse:
-    def token_generator():
-        try:
-            context, vector_items, sql_used, qtype = _build_context(req.question)
-            meta = {
-                "type": "meta",
-                "query_type": qtype,
-                "provider": req.provider,
-                "model_key": req.model_key,
-                "sources": [
-                    {"source": i.source, "year": i.year, "score": round(i.score, 3)}
-                    for i in vector_items
-                ],
-                "sql": sql_used,
-            }
-            yield json.dumps(meta, ensure_ascii=False) + "\n"
-            prompt = build_rag_prompt(req.question, context)
-            llm = get_llm(provider=req.provider, model_key=req.model_key)
-            for token in llm.stream(prompt, system=SYSTEM_PROMPT):
-                yield token
-        except Exception as exc:
-            logger.exception("Erreur streaming")
-            yield f"\n[Erreur: {exc}]"
-
-    return StreamingResponse(token_generator(), media_type="text/plain; charset=utf-8")
-
-
-@app.post("/cache/clear")
-def clear_cache():
-    get_cache().invalidate()
-    return {"status": "cache vide"}
-
-
-@app.get("/metadata")
-def metadata() -> dict:
-    with session_scope() as session:
-        categories = [r[0] for r in session.query(Document.category).distinct() if r[0]]
-        countries = [r[0] for r in session.query(Document.country).distinct() if r[0]]
-        years = sorted([r[0] for r in session.query(Document.year).distinct() if r[0]])
-    return {"categories": sorted(categories), "countries": sorted(countries), "years": years}
-
-
-# --- Endpoint fichiers PDF source ---
+# --- Fichiers PDF ---
 _RAW_DATA_DIR = settings.raw_data_path
 
 
@@ -267,7 +222,7 @@ def serve_file(file_path: str) -> FileResponse:
     return FileResponse(target, media_type="application/pdf")
 
 
-# --- Endpoint images ---
+# --- Images ---
 _IMAGE_DIR_CFG = CONFIG.get("ingestion", {}).get("image_extract_dir")
 if _IMAGE_DIR_CFG:
     _IMAGE_DIR = Path(_IMAGE_DIR_CFG)
