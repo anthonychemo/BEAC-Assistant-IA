@@ -8,18 +8,21 @@ pydantic-settings==2.5.2
 fastapi==0.115.2
 uvicorn[standard]==0.31.1
 
-# ---- Database (PostgreSQL + pgvector) ----
+# ---- Database (PostgreSQL + pgvector, Supabase) ----
 psycopg[binary]==3.2.3
 sqlalchemy==2.0.35
 pgvector==0.3.5
 
+# ---- Stockage documents (Cloudflare R2, S3-compatible) ----
+boto3==1.35.36
+
 # ---- Embeddings (CPU) ----
 sentence-transformers==3.1.1
-torch==2.6.0
+torch>=2.6
 FlagEmbedding==1.2.11
 
-# ---- LLM (OpenRouter cloud) ----
-httpx==0.27.2
+# ---- LLM (OpenRouter, API compatible OpenAI) ----
+openai>=1.50.0
 
 # ---- PDF + OCR ----
 pdfplumber==0.11.4

@@ -1,11 +1,11 @@
-"""Schemas Pydantic de l'API."""
+"""Schemas Pydantic de l'API (contrat avec le frontend)."""
 from __future__ import annotations
 
 from pydantic import BaseModel, Field
 
 
 class QueryRequest(BaseModel):
-    question: str = Field(..., min_length=2)
+    question: str = Field(..., min_length=2, description="Question de l'utilisateur")
     model_key: str = Field(default="gemma-4-26b", description="Cle du modele OpenRouter")
 
 
@@ -19,6 +19,7 @@ class SourceItem(BaseModel):
 
 
 class QueryResponse(BaseModel):
+    model_config = {"protected_namespaces": ()}
     answer: str
     query_type: str
     sources: list[SourceItem] = []

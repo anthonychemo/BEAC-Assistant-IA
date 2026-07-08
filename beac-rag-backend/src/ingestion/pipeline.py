@@ -1,8 +1,10 @@
-"""Orchestrateur d'ingestion : parcourt les fichiers sources, extrait le texte
-(PDF natif/OCR + Excel), decoupe en chunks, calcule les embeddings et insere
-le tout dans PostgreSQL (documents + chunks + statistics).
+"""Orchestrateur d'ingestion : liste les objets d'un bucket Cloudflare R2
+(televerses par le scraper, avec leur metadata : lien, module, section, nom_pdf,
+date_publication, type_document), telecharge chacun dans un fichier temporaire
+le temps de l'extraction (PDF natif/OCR + Excel), decoupe en chunks, calcule
+les embeddings et insere le tout dans PostgreSQL (documents + chunks + statistics).
 
-Idempotent : un fichier deja ingere (meme source_path) est ignore.
+Idempotent : un objet R2 deja ingere (meme r2_key) est ignore.
 Optimisations :
 - Filtrage idempotent en bulk (1 requete DB pour tout le lot).
 - Micro-batching : les fichiers sont groupes par lots ; les embeddings de tout
@@ -17,7 +19,7 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from src.config import CONFIG, settings
+from src.config import CONFIG
 from src.database.connection import session_scope
 from src.database.schema import Document, Statistic
 from src.database.vector_store import build_chunk_objects
@@ -25,8 +27,9 @@ from src.indexing.embeddings import get_embedder
 from src.ingestion.chunker import chunk_text
 from src.ingestion.excel_processor import ExcelParseResult, parse_excel
 from src.ingestion.pdf_processor import PdfExtractionResult, extract_pdf_text
+from src.ingestion.r2_client import download_to_tempfile, list_document_keys
 from src.utils.logger import logger
-from src.utils.metadata import extract_metadata_from_path
+from src.utils.metadata import detect_country, detect_year
 
 _ING = CONFIG.get("ingestion", {})
 _PDF_EXT = set(_ING.get("pdf_extensions", [".pdf"]))
@@ -37,8 +40,8 @@ _FILE_BATCH = int(_ING.get("batch_size", 8))
 
 @dataclass
 class _FileWork:
-    """Travail en cours pour un fichier au sein d'un lot (batch)."""
-    file_path: Path
+    """Travail en cours pour un objet R2 au sein d'un lot (batch)."""
+    r2_key: str
     meta: dict
     file_type: str
     pdf_result: PdfExtractionResult | None = None
@@ -58,29 +61,45 @@ class IngestStats:
     stat_rows: int = 0
 
 
-def _already_ingested_bulk(session, paths: list[str]) -> set[str]:
-    """Retourne l'ensemble des source_path deja presents en base."""
-    if not paths:
+def _already_ingested_bulk(session, keys: list[str]) -> set[str]:
+    """Retourne l'ensemble des r2_key deja presents en base."""
+    if not keys:
         return set()
-    rows = session.query(Document.source_path).filter(Document.source_path.in_(paths)).all()
+    rows = session.query(Document.r2_key).filter(Document.r2_key.in_(keys)).all()
     return {row[0] for row in rows}
 
 
-def _create_document(session, file_path: Path, meta: dict, file_type: str,
+def _build_document_metadata(r2_key: str, meta: dict) -> dict:
+    """Enrichit la metadata R2 brute (module/section/lien/...) avec pays/annee detectes."""
+    nom_pdf = meta.get("nom_pdf", "")
+    country = detect_country(nom_pdf) or detect_country(r2_key)
+    year = detect_year(nom_pdf) or detect_year(meta.get("date_publication", "")) or detect_year(r2_key)
+    return {
+        "category": meta.get("module"),
+        "subcategory": meta.get("section"),
+        "country": country,
+        "year": year,
+    }
+
+
+def _create_document(session, r2_key: str, meta: dict, file_type: str,
                      method: str | None, page_count: int | None, char_count: int | None) -> int:
+    enriched = _build_document_metadata(r2_key, meta)
     doc = Document(
-        source_path=meta["relative_path"],
-        filename=file_path.name,
+        r2_key=r2_key,
+        filename=Path(r2_key).name,
         file_type=file_type,
-        category=meta.get("category"),
-        subcategory=meta.get("subcategory"),
-        country=meta.get("country"),
-        year=meta.get("year"),
+        category=enriched["category"],
+        subcategory=enriched["subcategory"],
+        country=enriched["country"],
+        year=enriched["year"],
+        type_document=meta.get("type_document"),
+        date_publication=meta.get("date_publication"),
         extraction_method=method,
         page_count=page_count,
         char_count=char_count,
         doc_metadata=meta,
-        source_url=build_source_url(meta.get("category"), file_path.name),
+        source_url=meta.get("lien"),
     )
     session.add(doc)
     session.flush()  # pour obtenir doc.id
@@ -111,30 +130,33 @@ def _embed_chunks(contents: list[str]) -> list[list[float]]:
     return vectors
 
 
-def _extract_all(file_batch: list[Path], metas: list[dict]) -> list[_FileWork]:
-    """Extrait le texte de tous les fichiers d'un lot (tolerance aux erreurs)."""
+def _extract_all(batch: list[dict]) -> list[_FileWork]:
+    """Telecharge et extrait le texte de chaque objet R2 d'un lot (tolerance aux erreurs)."""
     works: list[_FileWork] = []
-    for fp, meta in zip(file_batch, metas):
+    for item in batch:
+        r2_key, meta = item["key"], item["metadata"]
+        ext = Path(r2_key).suffix.lower()
         try:
-            if fp.suffix.lower() in _PDF_EXT:
-                result = extract_pdf_text(fp)
-                if not result.text.strip():
-                    logger.warning(f"Aucun texte extrait : {fp.name}")
-                    continue
-                works.append(_FileWork(
-                    file_path=fp, meta=meta, file_type="pdf", pdf_result=result,
-                    image_paths=result.image_paths,
-                ))
-            else:
-                parsed = parse_excel(fp)
-                if not parsed.text_blocks and not parsed.statistics:
-                    logger.warning(f"Excel vide/illisible : {fp.name}")
-                    continue
-                works.append(_FileWork(
-                    file_path=fp, meta=meta, file_type="excel", excel_result=parsed,
-                ))
+            with download_to_tempfile(r2_key) as tmp_path:
+                if ext in _PDF_EXT:
+                    result = extract_pdf_text(tmp_path)
+                    if not result.text.strip():
+                        logger.warning(f"Aucun texte extrait : {r2_key}")
+                        continue
+                    works.append(_FileWork(
+                        r2_key=r2_key, meta=meta, file_type="pdf", pdf_result=result,
+                        image_paths=result.image_paths,
+                    ))
+                elif ext in _EXCEL_EXT:
+                    parsed = parse_excel(tmp_path)
+                    if not parsed.text_blocks and not parsed.statistics:
+                        logger.warning(f"Excel vide/illisible : {r2_key}")
+                        continue
+                    works.append(_FileWork(
+                        r2_key=r2_key, meta=meta, file_type="excel", excel_result=parsed,
+                    ))
         except Exception as exc:
-            logger.exception(f"Extraction echouee {fp.name}: {exc}")
+            logger.exception(f"Extraction echouee {r2_key}: {exc}")
     return works
 
 
@@ -148,7 +170,7 @@ def _prepare_batch(works: list[_FileWork], stats: IngestStats) -> list[_FileWork
         )
         contents, tokens = _prepare_chunks(blocks)
         if not contents:
-            logger.warning(f"Aucun chunk exploitable : {w.file_path.name}")
+            logger.warning(f"Aucun chunk exploitable : {w.r2_key}")
             stats.failed += 1
             continue
         w.contents = contents
@@ -158,16 +180,16 @@ def _prepare_batch(works: list[_FileWork], stats: IngestStats) -> list[_FileWork
 
 
 def _insert_work(session, w: _FileWork) -> None:
-    """Insertion atomique d'un fichier (document + stats + chunks)."""
+    """Insertion atomique d'un objet R2 (document + stats + chunks)."""
     if w.file_type == "pdf" and w.pdf_result is not None:
         doc_id = _create_document(
-            session, w.file_path, w.meta, w.file_type,
+            session, w.r2_key, w.meta, w.file_type,
             w.pdf_result.method, w.pdf_result.page_count, w.pdf_result.char_count,
         )
     else:
         full_text = "\n".join(w.excel_result.text_blocks) if w.excel_result else ""
         doc_id = _create_document(
-            session, w.file_path, w.meta, w.file_type,
+            session, w.r2_key, w.meta, w.file_type,
             "excel", None, len(full_text),
         )
         if w.excel_result:
@@ -193,11 +215,10 @@ def _insert_work(session, w: _FileWork) -> None:
 def _build_chunk_metas(w: _FileWork) -> list[dict]:
     """Construit les metadatas pour chaque chunk ; injecte image_paths dans le premier."""
     base = {
-        "category": w.meta.get("category"),
-        "subcategory": w.meta.get("subcategory"),
-        "country": w.meta.get("country"),
-        "year": w.meta.get("year"),
-        "source": w.meta.get("relative_path"),
+        "category": w.meta.get("module"),
+        "subcategory": w.meta.get("section"),
+        "source": w.r2_key,
+        "lien": w.meta.get("lien"),
     }
     metas = [base.copy() for _ in w.contents]
     if w.image_paths:
@@ -205,52 +226,39 @@ def _build_chunk_metas(w: _FileWork) -> list[dict]:
     return metas
 
 
-def _iter_files(root: Path) -> list[Path]:
-    exts = _PDF_EXT | _EXCEL_EXT
-    return [p for p in root.rglob("*") if p.is_file() and p.suffix.lower() in exts]
+def ingest_from_r2(limit: int | None = None, only: str | None = None) -> IngestStats:
+    """Ingestion complete depuis le bucket R2, avec micro-batching pour la vitesse.
 
-
-def ingest_directory(root: Path | None = None, limit: int | None = None,
-                     only: str | None = None) -> IngestStats:
-    """Ingestion complete d'un dossier avec micro-batching pour la vitesse.
-
-    `only` : 'pdf' ou 'excel' pour ne traiter qu'un type. `limit` : nb max de fichiers.
+    `only` : 'pdf' ou 'excel' pour ne traiter qu'un type. `limit` : nb max d'objets.
     """
-    root = root or settings.raw_data_path
-    if not root.exists():
-        raise FileNotFoundError(f"Dossier source introuvable : {root}")
-
-    files = _iter_files(root)
+    items = list_document_keys()
     if only == "pdf":
-        files = [f for f in files if f.suffix.lower() in _PDF_EXT]
+        items = [it for it in items if Path(it["key"]).suffix.lower() in _PDF_EXT]
     elif only == "excel":
-        files = [f for f in files if f.suffix.lower() in _EXCEL_EXT]
+        items = [it for it in items if Path(it["key"]).suffix.lower() in _EXCEL_EXT]
+    else:
+        items = [it for it in items if Path(it["key"]).suffix.lower() in (_PDF_EXT | _EXCEL_EXT)]
     if limit:
-        files = files[:limit]
-
-    # Pre-calcul des metadonnees
-    all_metas = [extract_metadata_from_path(fp, root) for fp in files]
+        items = items[:limit]
 
     # Idempotence en bulk : 1 requete pour tout le lot
     with session_scope() as session:
-        existing = _already_ingested_bulk(session, [m["relative_path"] for m in all_metas])
-    files = [fp for fp, meta in zip(files, all_metas) if meta["relative_path"] not in existing]
-    metas = [meta for meta in all_metas if meta["relative_path"] not in existing]
-    skipped_initial = len(all_metas) - len(files)
+        existing = _already_ingested_bulk(session, [it["key"] for it in items])
+    items = [it for it in items if it["key"] not in existing]
+    skipped_initial = len(existing)
 
     logger.info(
-        f"{len(files)} fichiers a traiter depuis {root} "
+        f"{len(items)} objets a traiter depuis R2 "
         f"({skipped_initial} deja presents en base)"
     )
     stats = IngestStats(skipped=skipped_initial)
 
     # Traitement par micro-lots : extraction + embeddings groupes
-    for i in range(0, len(files), _FILE_BATCH):
-        batch_files = files[i:i + _FILE_BATCH]
-        batch_metas = metas[i:i + _FILE_BATCH]
+    for i in tqdm(range(0, len(items), _FILE_BATCH), desc="Ingestion R2"):
+        batch_items = items[i:i + _FILE_BATCH]
 
-        # 1. Extraction
-        works = _extract_all(batch_files, batch_metas)
+        # 1. Telechargement + extraction
+        works = _extract_all(batch_items)
 
         # 2. Chunking
         works = _prepare_batch(works, stats)
@@ -280,7 +288,7 @@ def ingest_directory(root: Path | None = None, limit: int | None = None,
                 if w.file_type == "excel" and w.excel_result:
                     stats.stat_rows += len(w.excel_result.statistics)
             except Exception as exc:
-                logger.exception(f"Insertion echouee {w.file_path.name}: {exc}")
+                logger.exception(f"Insertion echouee {w.r2_key}: {exc}")
                 stats.failed += 1
 
     logger.info(

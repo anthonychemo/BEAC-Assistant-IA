@@ -37,17 +37,22 @@ class Document(Base):
     __tablename__ = "documents"
 
     id: Mapped[int] = mapped_column(BigInteger, primary_key=True, autoincrement=True)
-    # Chemin relatif du fichier source (unique)
-    source_path: Mapped[str] = mapped_column(Text, unique=True, index=True)
+    # Cle de l'objet dans le bucket R2 (unique) - remplace l'ancien chemin local
+    r2_key: Mapped[str] = mapped_column(Text, unique=True, index=True)
     filename: Mapped[str] = mapped_column(Text)
     file_type: Mapped[str] = mapped_column(String(16))  # pdf | xls | xlsx
-    # Categorie BEAC (ex: "Politique monetaire", "Publications")
+    # Categorie BEAC (ex: "Politique monetaire", "Publications") - vient du
+    # champ "module"/"section" de la metadata R2 attachee par le scraper
     category: Mapped[str | None] = mapped_column(Text, nullable=True, index=True)
     subcategory: Mapped[str | None] = mapped_column(Text, nullable=True)
     # Pays CEMAC detecte (Cameroun, Gabon, ...)
     country: Mapped[str | None] = mapped_column(String(64), nullable=True, index=True)
     # Annee/date detectee dans le document
     year: Mapped[int | None] = mapped_column(Integer, nullable=True, index=True)
+    # Type de document detecte par le scraper (rapport_annuel, communique, ...)
+    type_document: Mapped[str | None] = mapped_column(String(32), nullable=True, index=True)
+    # Date de publication (metadata R2 "date_publication", format YYYY-MM-DD)
+    date_publication: Mapped[str | None] = mapped_column(String(10), nullable=True)
     # Methode d'extraction : "native" | "ocr" | "excel"
     extraction_method: Mapped[str | None] = mapped_column(String(16), nullable=True)
     page_count: Mapped[int | None] = mapped_column(Integer, nullable=True)
@@ -55,6 +60,7 @@ class Document(Base):
     doc_metadata: Mapped[dict | None] = mapped_column(JSONB, nullable=True)
     created_at: Mapped[datetime] = mapped_column(DateTime, server_default=func.now())
 
+    # URL source exacte sur beac.int (metadata R2 "lien" - plus de reconstruction approximative)
     source_url: Mapped[str | None] = mapped_column(Text, nullable=True)
 
     chunks: Mapped[list["Chunk"]] = relationship(

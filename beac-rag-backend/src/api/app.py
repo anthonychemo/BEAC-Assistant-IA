@@ -1,40 +1,45 @@
-"""API FastAPI du chatbot BEAC RAG."""
+"""API FastAPI du chatbot BEAC RAG.
+
+Endpoints :
+- GET  /health          : etat du systeme + comptes
+- POST /query           : question -> reponse complete (JSON)
+- POST /query/stream    : question -> reponse en streaming (text/event-stream)
+- GET  /metadata        : categories / pays / annees disponibles (pour filtres UI)
+"""
 from __future__ import annotations
 
 import json
 from contextlib import asynccontextmanager
+
 from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, StreamingResponse
 from sqlalchemy import func, or_
-
-from src.api.models import HealthResponse, QueryRequest, QueryResponse, SourceItem
+from src.api.models import (
+    HealthResponse,
+    QueryRequest,
+    QueryResponse,
+    SourceItem,
+)
 from src.config import CONFIG, settings
 from src.database.connection import session_scope
 from src.database.schema import Chunk, Document, Statistic
-from src.rag.engine import answer_question, stream_answer, _build_context
-from src.rag.llm_client import get_default_llm, OPENROUTER_MODELS, get_llm
-from src.rag.llm_client import get_llm
-from src.rag.prompts import SYSTEM_PROMPT, build_rag_prompt
-from src.utils.logger import logger
 from src.rag.cache import get_cache
+from src.rag.engine import answer_question, build_context
+from src.rag.llm_client import get_llm
+from src.rag.prompts import META_RESPONSE, SYSTEM_PROMPT, build_rag_prompt
+from src.rag.query_router import QueryType, classify_query
+from src.utils.logger import logger
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    logger.info("Demarrage de l'API BEAC RAG...")
-    # Precharger l'embedder en RAM au demarrage (evite 5-8s a la 1ere requete)
+    # Prechauffe le LLM au demarrage de l'API (latence reduite en demo)
+    logger.info("Demarrage de l'API BEAC RAG, prechauffage du LLM...")
     try:
-        from src.indexing.embeddings import get_embedder
-        get_embedder()
-        logger.info("Embedder BGE-M3 charge en RAM.")
-    except Exception as exc:
-        logger.warning(f"Precharge embedder ignoree : {exc}")
-    # Prechauffer Ollama
-    try:
-        get_default_llm().warmup()
+        get_llm().warmup()
     except Exception as exc:
         logger.warning(f"Warmup LLM ignore : {exc}")
     yield
@@ -48,6 +53,7 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+# CORS ouvert pour le dev frontend (a restreindre en production)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -55,106 +61,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-# Mapping type frontend -> mots-cles dans la colonne category de la BD
-_TYPE_KEYWORDS: dict[str, list[str]] = {
-    "Rapports":       ["rapport", "annual", "annuel"],
-    "Bulletins":      ["bulletin", "statistique", "stat"],
-    "Working Papers": ["working", "etude", "research"],
-    "Communiques":    ["communique", "presse", "note"],
-    "Reglementation": ["reglement", "directive", "loi", "convention", "statut"],
-}
-# Mapping avec accents pour la correspondance frontend
-_TYPE_ALIAS: dict[str, str] = {
-    "Communiques":    "Communiques",
-    "Reglementation": "Reglementation",
-}
-
-
-def _map_type(doc: Document) -> str:
-    cat = (doc.category or "").lower()
-    if any(k in cat for k in ["rapport", "annual", "annuel"]):
-        return "Rapports"
-    if any(k in cat for k in ["bulletin", "statistique", "stat"]):
-        return "Bulletins"
-    if any(k in cat for k in ["working", "etude", "research"]):
-        return "Working Papers"
-    if any(k in cat for k in ["communique", "presse", "note"]):
-        return "Communiques"
-    if any(k in cat for k in ["reglement", "directive", "loi", "convention", "statut"]):
-        return "Reglementation"
-    return "Rapports"
-
-
-def _map_section(doc: Document) -> str:
-    cat = (doc.category or "").lower()
-    sub = (doc.subcategory or "").lower()
-    combined = cat + " " + sub
-    if any(k in combined for k in ["monetaire", "politique", "taux", "reserve"]):
-        return "Politique Monetaire"
-    if any(k in combined for k in ["statistique", "stat", "donnees", "bulletin"]):
-        return "Etudes Statistiques"
-    return "Stabilite Financiere"
-
-
-@app.get("/documents")
-def get_documents(
-    limit: int = 5000,
-    offset: int = 0,
-    doc_type: str | None = None,
-    year: int | None = None,
-    search: str | None = None,
-) -> dict:
-    """Liste paginee des documents pour la bibliotheque frontend."""
-    with session_scope() as session:
-        q = session.query(Document)
-
-        # Filtre par type (mapping frontend -> mots-cles BD)
-        if doc_type and doc_type in _TYPE_KEYWORDS:
-            kws = _TYPE_KEYWORDS[doc_type]
-            q = q.filter(or_(*[Document.category.ilike(f"%{kw}%") for kw in kws]))
-
-        if year:
-            q = q.filter(Document.year == year)
-
-        # Recherche textuelle sur filename, category et subcategory
-        if search:
-            q = q.filter(
-                or_(
-                    Document.filename.ilike(f"%{search}%"),
-                    Document.category.ilike(f"%{search}%"),
-                    Document.subcategory.ilike(f"%{search}%"),
-                )
-            )
-
-        total = q.count()
-        docs = q.order_by(
-            Document.year.desc().nullslast(),
-            Document.id.desc()
-        ).offset(offset).limit(limit).all()
-
-    result = []
-    for doc in docs:
-        size = ""
-        if doc.char_count:
-            kb = doc.char_count / 1000
-            size = f"{kb:.0f} KB" if kb < 1000 else f"{kb/1000:.1f} MB"
-        title = doc.filename or (doc.source_path.split("/")[-1] if doc.source_path else "Document")
-        title = title.rsplit(".", 1)[0].replace("_", " ")
-        result.append({
-            "id": str(doc.id),
-            "title": title,
-            "type": _map_type(doc),
-            "fileType": (doc.file_type or "pdf").upper(),
-            "fileSize": size or "-",
-            "date": str(doc.year) if doc.year else "-",
-            "description": (doc.category or "Document BEAC") + (f" - {doc.subcategory}" if doc.subcategory else ""),
-            "section": _map_section(doc),
-            "url": f"/api/files/{doc.source_path}" if doc.file_type in ("pdf", "PDF") else "#",
-            "source_path": doc.source_path,
-            "country": doc.country,
-        })
-    return {"total": total, "documents": result}
 
 
 @app.post("/cache/clear")
@@ -179,22 +85,10 @@ def health() -> HealthResponse:
     )
 
 
-@app.get("/models")
-def list_models() -> dict:
-    """Liste les modeles disponibles par provider."""
-    return {
-        "ollama": [{"key": "ollama", "label": "Llama 3.1 8B (Local)", "provider": "ollama"}],
-        "openrouter": [
-            {"key": k, "label": k.replace("-", " ").title(), "provider": "openrouter"}
-            for k in OPENROUTER_MODELS
-        ],
-    }
-
-
 @app.post("/query", response_model=QueryResponse)
 def query(req: QueryRequest) -> QueryResponse:
     try:
-        result = answer_question(req.question, provider=req.provider, model_key=req.model_key)
+        result = answer_question(req.question)
     except Exception as exc:
         logger.exception("Erreur lors du traitement de la question")
         raise HTTPException(status_code=500, detail=str(exc))
@@ -203,7 +97,6 @@ def query(req: QueryRequest) -> QueryResponse:
         query_type=result.query_type,
         sources=[SourceItem(**s) for s in result.sources],
         sql=result.sql,
-        model_key=req.model_key,
     )
 
 
@@ -211,11 +104,18 @@ def query(req: QueryRequest) -> QueryResponse:
 def query_stream(req: QueryRequest) -> StreamingResponse:
     def token_generator():
         try:
-            context, vector_items, sql_used, qtype = _build_context(req.question)
+            routed = classify_query(req.question)
+            if routed.query_type == QueryType.META:
+                meta = {"type": "meta", "query_type": QueryType.META.value, "sources": [], "sql": None}
+                yield json.dumps(meta, ensure_ascii=False) + "\n"
+                yield META_RESPONSE
+                return
+
+            # 1. Envoyer d'abord les métadonnées en JSON (avant les tokens)
+            context, vector_items, sql_used, qtype = build_context(req.question)
             meta = {
                 "type": "meta",
                 "query_type": qtype,
-                "model_key": req.model_key,
                 "sources": [
                     {"source": i.source, "year": i.year, "score": round(i.score, 3)}
                     for i in vector_items
@@ -223,22 +123,17 @@ def query_stream(req: QueryRequest) -> StreamingResponse:
                 "sql": sql_used,
             }
             yield json.dumps(meta, ensure_ascii=False) + "\n"
-            prompt = build_rag_prompt(req.question, context)
-            llm = get_llm(model_key=req.model_key)
-            for token in llm.stream(prompt, system=SYSTEM_PROMPT):
+
+            # 2. Streamer les tokens ensuite
+            prompt = build_rag_prompt(req.question, context, exploratory=routed.exploratory)
+            for token in get_llm().stream(prompt, system=SYSTEM_PROMPT):
                 yield token
+
         except Exception as exc:
             logger.exception("Erreur streaming")
-            yield f"\n[Erreur: {exc}]"
+            yield "\nJe suis desole, une erreur est survenue lors du traitement de votre question. Veuillez reessayer ou consulter le site officiel : https://www.beac.int"
 
     return StreamingResponse(token_generator(), media_type="text/plain; charset=utf-8")
-
-
-@app.post("/cache/clear")
-def clear_cache():
-    get_cache().invalidate()
-    return {"status": "cache vide"}
-
 
 @app.get("/metadata")
 def metadata() -> dict:
@@ -249,8 +144,76 @@ def metadata() -> dict:
     return {"categories": sorted(categories), "countries": sorted(countries), "years": years}
 
 
-# --- Endpoint fichiers PDF source ---
-_RAW_DATA_DIR = settings.raw_data_path
+_TYPE_KEYWORDS: dict[str, list[str]] = {
+    "Rapports":       ["rapport", "annual", "annuel"],
+    "Bulletins":      ["bulletin", "statistique", "stat"],
+    "Working Papers": ["working", "etude", "research"],
+    "Communiques":    ["communique", "presse", "note"],
+    "Reglementation": ["reglement", "directive", "loi", "convention", "statut"],
+}
+
+
+def _map_type(doc: Document) -> str:
+    cat = (doc.category or "").lower()
+    if any(k in cat for k in ["rapport", "annual", "annuel"]): return "Rapports"
+    if any(k in cat for k in ["bulletin", "statistique", "stat"]): return "Bulletins"
+    if any(k in cat for k in ["working", "etude", "research"]): return "Working Papers"
+    if any(k in cat for k in ["communique", "presse", "note"]): return "Communiques"
+    if any(k in cat for k in ["reglement", "directive", "loi", "convention", "statut"]): return "Reglementation"
+    return "Rapports"
+
+
+def _map_section(doc: Document) -> str:
+    combined = (doc.category or "").lower() + " " + (doc.subcategory or "").lower()
+    if any(k in combined for k in ["monetaire", "politique", "taux", "reserve"]): return "Politique Monetaire"
+    if any(k in combined for k in ["statistique", "stat", "donnees", "bulletin"]): return "Etudes Statistiques"
+    return "Stabilite Financiere"
+
+
+@app.get("/documents")
+def get_documents(
+    limit: int = 5000, offset: int = 0,
+    doc_type: str | None = None, year: int | None = None, search: str | None = None,
+) -> dict:
+    with session_scope() as session:
+        q = session.query(Document)
+        if doc_type and doc_type in _TYPE_KEYWORDS:
+            kws = _TYPE_KEYWORDS[doc_type]
+            q = q.filter(or_(*[Document.category.ilike(f"%{kw}%") for kw in kws]))
+        if year:
+            q = q.filter(Document.year == year)
+        if search:
+            q = q.filter(or_(
+                Document.filename.ilike(f"%{search}%"),
+                Document.category.ilike(f"%{search}%"),
+            ))
+        total = q.count()
+        docs = q.order_by(Document.year.desc().nullslast(), Document.id.desc()).offset(offset).limit(limit).all()
+
+    result = []
+    for doc in docs:
+        size = ""
+        if doc.char_count:
+            kb = doc.char_count / 1000
+            size = f"{kb:.0f} KB" if kb < 1000 else f"{kb/1000:.1f} MB"
+        title = doc.filename or (doc.r2_key.split("/")[-1] if doc.r2_key else "Document")
+        title = title.rsplit(".", 1)[0].replace("_", " ")
+        # URL : soit source_url (beac.int), soit lien vers le fichier via R2
+        url = doc.source_url or "#"
+        result.append({
+            "id": str(doc.id), "title": title, "type": _map_type(doc),
+            "fileType": (doc.file_type or "pdf").upper(), "fileSize": size or "-",
+            "date": doc.date_publication or (str(doc.year) if doc.year else "-"),
+            "description": (doc.category or "Document BEAC") + (f" - {doc.subcategory}" if doc.subcategory else ""),
+            "section": _map_section(doc),
+            "url": url,
+            "source_path": doc.r2_key, "country": doc.country,
+        })
+    return {"total": total, "documents": result}
+
+
+_RAW_DATA_DIR_CFG = CONFIG.get("ingestion", {}).get("raw_data_dir", "")
+_RAW_DATA_DIR = Path(_RAW_DATA_DIR_CFG) if _RAW_DATA_DIR_CFG else Path(__file__).resolve().parents[3] / "data_pipeline" / "Scrapping" / "scraping" / "beac_data"
 
 
 @app.get("/files/{file_path:path}")
@@ -277,9 +240,11 @@ else:
 
 @app.get("/images/{doc_name}/{filename}")
 def get_image(doc_name: str, filename: str) -> FileResponse:
+    """Sert une image extraite d'un PDF graphique."""
     if not _IMAGE_DIR:
         raise HTTPException(status_code=404, detail="Image serving disabled")
     img_path = _IMAGE_DIR / doc_name / filename
+    # Securite : s'assurer que le fichier est bien dans le repertoire images
     try:
         img_path.resolve().relative_to(_IMAGE_DIR.resolve())
     except ValueError:

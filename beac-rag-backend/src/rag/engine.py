@@ -4,13 +4,13 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from typing import Iterator
 
-from src.rag.llm_client import get_llm, get_default_llm, DEFAULT_MODEL_KEY
-from src.rag.prompts import SYSTEM_PROMPT, META_RESPONSE, build_rag_prompt
+from src.rag.cache import get_cache
+from src.rag.llm_client import get_llm
+from src.rag.prompts import META_RESPONSE, SYSTEM_PROMPT, build_rag_prompt
 from src.rag.query_router import QueryType, classify_query
 from src.rag.retriever import ContextItem, format_context, retrieve_context
 from src.rag.sql_generator import format_sql_context, run_statistics_query
 from src.utils.logger import logger
-from src.rag.cache import get_cache
 
 
 @dataclass
@@ -22,9 +22,10 @@ class RAGResponse:
     context_used: str = ""
 
 
-def _build_context(question: str) -> tuple[str, list[ContextItem], str | None, str]:
+def build_context(question: str) -> tuple[str, list[ContextItem], str | None, str]:
+    """Route la question et assemble le contexte (recherche vectorielle et/ou SQL)."""
     routed = classify_query(question)
-    logger.info(f"Question routee : {routed.query_type} | filtres={routed.filters}")
+    logger.info(f"Question routée : {routed.query_type} | exploratoire={routed.exploratory} | filtres={routed.filters}")
 
     context_parts: list[str] = []
     vector_items: list[ContextItem] = []
@@ -36,7 +37,8 @@ def _build_context(question: str) -> tuple[str, list[ContextItem], str | None, s
         context_parts.append(format_sql_context(sql_result))
 
     if routed.query_type in (QueryType.VECTOR, QueryType.HYBRID):
-        top_k = 12 if getattr(routed, "exploratory", False) else None
+        # Plus de contexte pour les questions larges
+        top_k = 12 if routed.exploratory else None
         vector_items = retrieve_context(question, top_k=top_k, filters=routed.filters)
         context_parts.append(format_context(vector_items))
 
@@ -45,10 +47,11 @@ def _build_context(question: str) -> tuple[str, list[ContextItem], str | None, s
 
 
 def _sources_from_items(items: list[ContextItem]) -> list[dict]:
-    seen: set = set()
+    seen = set()
     sources = []
     for item in items:
-        key = (item.source, item.year)
+        # Dédupliquer sur le nom de fichier seul, pas sur (source, year)
+        key = item.source
         if key in seen:
             continue
         seen.add(key)
@@ -57,30 +60,34 @@ def _sources_from_items(items: list[ContextItem]) -> list[dict]:
             "category": item.category,
             "year": item.year,
             "score": round(item.score, 3),
+            "source_url": item.source_url or "https://www.beac.int",
             "image_paths": item.image_paths,
         })
     return sources
 
 
-def answer_question(question: str, model_key: str = DEFAULT_MODEL_KEY, **kwargs) -> RAGResponse:
-    """Reponse complete avec cache."""
+def answer_question(question: str) -> RAGResponse:
+    """Reponse complete (non-streaming) : meta -> reponse canned, sinon cache puis RAG."""
     routed = classify_query(question)
-
-    if hasattr(QueryType, "META") and routed.query_type == QueryType.META:
-        return RAGResponse(answer=META_RESPONSE, query_type=QueryType.META.value, sources=[])
+    if routed.query_type == QueryType.META:
+        return RAGResponse(
+            answer=META_RESPONSE,
+            query_type=QueryType.META.value,
+            sources=[],
+            sql=None,
+            context_used="",
+        )
 
     cache = get_cache()
-    cache_key = f"{model_key}:{question}"
-    cached = cache.get(cache_key)
+    cached = cache.get(question)
     if cached is not None:
-        logger.info("Reponse servie depuis le cache")
+        logger.info("Réponse servie depuis le cache")
         return cached
 
-    context, vector_items, sql_used, qtype = _build_context(question)
-    exploratory = getattr(routed, "exploratory", False)
-    prompt = build_rag_prompt(question, context, exploratory=exploratory)
-    llm = get_llm(model_key=model_key)
-    answer = llm.generate(prompt, system=SYSTEM_PROMPT)
+    context, vector_items, sql_used, qtype = build_context(question)
+    prompt = build_rag_prompt(question, context, exploratory=routed.exploratory)
+    use_fast = qtype == QueryType.SQL.value
+    answer = get_llm().generate(prompt, system=SYSTEM_PROMPT, fast=use_fast)
 
     result = RAGResponse(
         answer=answer,
@@ -89,13 +96,12 @@ def answer_question(question: str, model_key: str = DEFAULT_MODEL_KEY, **kwargs)
         sql=sql_used,
         context_used=context,
     )
-    cache.set(cache_key, result)
+    cache.set(question, result)
     return result
 
 
-def stream_answer(question: str, model_key: str = DEFAULT_MODEL_KEY, **kwargs) -> Iterator[str]:
-    """Reponse en streaming."""
-    context, _, _, _ = _build_context(question)
+def stream_answer(question: str) -> Iterator[str]:
+    """Reponse en streaming (pour interface temps reel)."""
+    context, _, _, _ = build_context(question)
     prompt = build_rag_prompt(question, context)
-    llm = get_llm(model_key=model_key)
-    yield from llm.stream(prompt, system=SYSTEM_PROMPT)
+    yield from get_llm().stream(prompt, system=SYSTEM_PROMPT)

@@ -28,19 +28,25 @@ class Settings(BaseSettings):
         extra="ignore",
     )
 
-    # PostgreSQL
+    # PostgreSQL (fallback si database_url_override n'est pas fourni)
     postgres_user: str = "beac"
     postgres_password: str = "beac_password"
     postgres_db: str = "beac_rag"
     postgres_host: str = "localhost"
     postgres_port: int = 5432
+    # Chaine de connexion complete (ex: Supabase, "Project Settings > Database").
+    # Prioritaire sur postgres_user/password/host/port/db si renseignee.
+    database_url_override: str | None = None
 
-    # Données
-    raw_data_dir: str = "../beac_data"
+    # Stockage des documents (Cloudflare R2 - meme bucket que le scraper)
+    r2_account_id: str = ""
+    r2_access_key_id: str = ""
+    r2_secret_access_key: str = ""
+    r2_bucket_name: str = ""
 
-    # Ollama
-    ollama_host: str = "http://localhost:11434"
-    llm_model: str = "llama3.1:8b-instruct-q4_K_M"
+    # LLM (OpenRouter - modele gratuit, plus de dependance a Ollama/GPU local)
+    openrouter_api_key: str = ""
+    llm_model: str = "google/gemma-4-31b-it:free"
 
     # Embeddings
     embedding_model: str = "BAAI/bge-m3"
@@ -57,17 +63,15 @@ class Settings(BaseSettings):
 
     @property
     def database_url(self) -> str:
+        if self.database_url_override:
+            url = self.database_url_override
+            if url.startswith("postgresql://"):
+                url = url.replace("postgresql://", "postgresql+psycopg://", 1)
+            return url
         return (
             f"postgresql+psycopg://{self.postgres_user}:{self.postgres_password}"
             f"@{self.postgres_host}:{self.postgres_port}/{self.postgres_db}"
         )
-
-    @property
-    def raw_data_path(self) -> Path:
-        p = Path(self.raw_data_dir)
-        if not p.is_absolute():
-            p = (ROOT_DIR / p).resolve()
-        return p
 
 
 def _load_yaml(path: Path) -> dict[str, Any]:

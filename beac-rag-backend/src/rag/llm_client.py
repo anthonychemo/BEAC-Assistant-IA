@@ -1,140 +1,139 @@
-"""Client LLM via OpenRouter (Gemma et autres modeles cloud gratuits)."""
+"""Client LLM via OpenRouter (Gemma gratuit avec fallback).
+
+3 retries sur le modele principal (gemma), puis 3 retries sur le fallback.
+Si les deux echouent, retourne un message d'indisponibilite propre a l'utilisateur.
+"""
 from __future__ import annotations
 
-import json
 import time
-from pathlib import Path
+from functools import lru_cache
 from typing import Iterator
 
-import httpx
+from openai import APIConnectionError, APIError, OpenAI, RateLimitError
 
 from src.config import CONFIG, settings
 from src.utils.logger import logger
 
 _LLM = CONFIG.get("llm", {})
+_MODEL = _LLM.get("model", settings.llm_model)
+_FAST_MODEL = _LLM.get("fast_model", None)
+_FALLBACK_MODEL = _LLM.get("fallback_model") or None
 _TEMPERATURE = float(_LLM.get("temperature", 0.1))
-_MAX_TOKENS = int(_LLM.get("max_tokens", 512))
+_MAX_TOKENS = int(_LLM.get("max_tokens", 1024))
 
-OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
+_MAX_RETRIES = 3
+_RETRY_DELAY = 3.0  # secondes, doublee a chaque tentative
 
-# Modeles disponibles via OpenRouter
-OPENROUTER_MODELS: dict[str, str] = {
-    "gemma-4-26b":   "google/gemma-4-26b-a4b-it:free",
-    "llama-3.1-8b":  "meta-llama/llama-3.1-8b-instruct:free",
-    "mistral-7b":    "mistralai/mistral-7b-instruct:free",
-    "qwen-2.5-7b":   "qwen/qwen-2.5-7b-instruct:free",
-}
-
-DEFAULT_MODEL_KEY = "gemma-4-26b"
-
-
-def _get_api_key() -> str:
-    import os
-    from dotenv import load_dotenv
-    load_dotenv(dotenv_path=Path(__file__).resolve().parents[3] / ".env")
-    key = os.environ.get("OPENROUTER_API_KEY", "")
-    if not key:
-        raise RuntimeError("OPENROUTER_API_KEY non definie dans .env")
-    return key
+_UNAVAILABLE_MSG = (
+    "Je suis temporairement indisponible en raison d'une forte demande. "
+    "Veuillez reessayer dans quelques instants ou consulter le site officiel : "
+    "https://www.beac.int"
+)
 
 
 class LLMClient:
-    """Client OpenRouter — interface unique pour tous les modeles cloud."""
-
-    def __init__(self, model_key: str = DEFAULT_MODEL_KEY) -> None:
-        self.model_key = model_key
-        self.model = OPENROUTER_MODELS.get(model_key, OPENROUTER_MODELS[DEFAULT_MODEL_KEY])
-        self._api_key = _get_api_key()
-        self._headers = {
-            "Authorization": f"Bearer {self._api_key}",
-            "Content-Type": "application/json",
-            "X-Title": "BEAC Assistant",
+    def __init__(self) -> None:
+        self.client = OpenAI(
+            base_url="https://openrouter.ai/api/v1",
+            api_key=settings.openrouter_api_key,
+        )
+        self.model = _MODEL
+        self._options = {
+            "temperature": _TEMPERATURE,
+            "max_tokens": _MAX_TOKENS,
         }
-        logger.info(f"LLMClient initialise : {self.model}")
 
-    def _build_messages(self, prompt: str, system: str | None) -> list[dict]:
-        messages = []
+    def warmup(self) -> None:
+        if not settings.openrouter_api_key:
+            logger.error("OPENROUTER_API_KEY manquante dans .env")
+            return
+        logger.info("LLM OpenRouter : {} — pas de prechauffage necessaire.", self.model)
+
+    def unload(self) -> None:
+        pass
+
+    def _build_messages(self, prompt: str, system: str | None) -> list[dict[str, str]]:
+        messages: list[dict[str, str]] = []
         if system:
             messages.append({"role": "system", "content": system})
         messages.append({"role": "user", "content": prompt})
         return messages
 
-    def warmup(self) -> None:
-        """Pas de warmup necessaire pour l'API cloud."""
-        logger.info("OpenRouter pret (pas de warmup necessaire).")
-
-    def unload(self) -> None:
-        pass
-
-    def generate(self, prompt: str, system: str | None = None, **kwargs) -> str:
-        messages = self._build_messages(prompt, system)
-        for attempt in range(2):
+    def _attempt(self, model: str, messages: list[dict[str, str]], **options):
+        """Un modele donne avec _MAX_RETRIES tentatives en cas de rate limit."""
+        last_exc: Exception | None = None
+        for attempt in range(_MAX_RETRIES + 1):
             try:
-                with httpx.Client(timeout=60) as client:
-                    response = client.post(
-                        f"{OPENROUTER_BASE_URL}/chat/completions",
-                        headers=self._headers,
-                        json={
-                            "model": self.model,
-                            "messages": messages,
-                            "temperature": _TEMPERATURE,
-                            "max_tokens": _MAX_TOKENS,
-                            "stream": False,
-                        },
+                return self.client.chat.completions.create(
+                    model=model, messages=messages, **options
+                )
+            except RateLimitError as exc:
+                last_exc = exc
+                if attempt < _MAX_RETRIES:
+                    delay = _RETRY_DELAY * (2 ** attempt)
+                    logger.warning(
+                        "Rate limit OpenRouter [{}] (tentative {}/{}) — retry dans {:.1f}s",
+                        model, attempt + 1, _MAX_RETRIES, delay,
                     )
-                    response.raise_for_status()
-                    data = response.json()
-                    if "choices" not in data:
-                        err = data.get("error", data)
-                        logger.error("Reponse OpenRouter inattendue : %s", err)
-                        if attempt == 0:
-                            # Retry avec un modele de secours
-                            logger.warning("Retry avec llama-3.1-8b...")
-                            self.model = OPENROUTER_MODELS["llama-3.1-8b"]
-                            continue
-                        raise RuntimeError(f"OpenRouter error: {err}")
-                    return data["choices"][0]["message"]["content"].strip()
-            except httpx.TimeoutException:
-                if attempt == 0:
-                    logger.warning("Timeout, retry...")
-                    continue
+                    time.sleep(delay)
+            except APIConnectionError as exc:
+                last_exc = exc
+                if attempt < _MAX_RETRIES:
+                    time.sleep(_RETRY_DELAY)
+            except APIError as exc:
+                logger.error("Erreur OpenRouter [{}] : {}", getattr(exc, "status_code", "?"), exc)
                 raise
-        raise RuntimeError("Echec apres 2 tentatives")
+        raise RuntimeError(f"Echec apres {_MAX_RETRIES + 1} tentatives sur '{model}' : {last_exc}")
 
-    def stream(self, prompt: str, system: str | None = None, **kwargs) -> Iterator[str]:
+    def _chat_with_retry(self, model: str, messages: list[dict[str, str]], **options):
+        """Modele principal → fallback → message d'indisponibilite."""
+        try:
+            return self._attempt(model, messages, **options)
+        except RuntimeError:
+            if _FALLBACK_MODEL and _FALLBACK_MODEL != model:
+                logger.warning(
+                    "Modele '{}' indisponible — bascule sur '{}'", model, _FALLBACK_MODEL,
+                )
+                try:
+                    return self._attempt(_FALLBACK_MODEL, messages, **options)
+                except RuntimeError:
+                    logger.error("Fallback '{}' aussi indisponible.", _FALLBACK_MODEL)
+            raise RuntimeError("LLM_UNAVAILABLE")
+
+    def generate(self, prompt: str, system: str | None = None, fast: bool = False) -> str:
+        model = (_FAST_MODEL if fast and _FAST_MODEL else self.model)
         messages = self._build_messages(prompt, system)
-        with httpx.Client(timeout=120) as client:
-            with client.stream(
-                "POST",
-                f"{OPENROUTER_BASE_URL}/chat/completions",
-                headers=self._headers,
-                json={
-                    "model": self.model,
-                    "messages": messages,
-                    "temperature": _TEMPERATURE,
-                    "max_tokens": _MAX_TOKENS,
-                    "stream": True,
-                },
-            ) as response:
-                response.raise_for_status()
-                for line in response.iter_lines():
-                    if not line or line == "data: [DONE]":
-                        continue
-                    if line.startswith("data: "):
-                        try:
-                            chunk = json.loads(line[6:])
-                            token = chunk["choices"][0].get("delta", {}).get("content", "")
-                            if token:
-                                yield token
-                        except Exception:
-                            continue
+        try:
+            response = self._chat_with_retry(model=model, messages=messages, **self._options)
+            return response.choices[0].message.content.strip()
+        except RuntimeError as exc:
+            if "LLM_UNAVAILABLE" in str(exc):
+                return _UNAVAILABLE_MSG
+            raise
+
+    def stream(self, prompt: str, system: str | None = None) -> Iterator[str]:
+        messages = self._build_messages(prompt, system)
+        try:
+            stream = self._chat_with_retry(
+                model=self.model, messages=messages, stream=True, **self._options,
+            )
+            for chunk in stream:
+                if not chunk.choices:
+                    continue
+                delta = chunk.choices[0].delta.content
+                if delta:
+                    yield delta
+        except RuntimeError as exc:
+            if "LLM_UNAVAILABLE" in str(exc):
+                yield _UNAVAILABLE_MSG
+                return
+            logger.error("Erreur streaming : {}", exc)
+            raise
+        except APIError as exc:
+            logger.error("Erreur OpenRouter streaming : {}", exc)
+            raise
 
 
-def get_llm(provider: str = "openrouter", model_key: str = DEFAULT_MODEL_KEY) -> LLMClient:
-    """Retourne un LLMClient OpenRouter avec le modele choisi."""
-    return LLMClient(model_key=model_key)
-
-
-def get_default_llm() -> LLMClient:
-    """Singleton LLMClient avec le modele par defaut (Gemma)."""
-    return LLMClient(model_key=DEFAULT_MODEL_KEY)
+@lru_cache
+def get_llm() -> LLMClient:
+    return LLMClient()

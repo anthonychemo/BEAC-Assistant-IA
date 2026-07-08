@@ -9,6 +9,7 @@ from src.database.schema import Document
 from src.database.vector_store import RetrievedChunk, similarity_search
 from src.indexing.embeddings import get_embedder
 from src.utils.logger import logger
+from src.rag.query_expander import expand_query
 
 _RET = CONFIG.get("retrieval", {})
 _TOP_K = int(_RET.get("top_k", 6))
@@ -44,19 +45,36 @@ def retrieve_context(
 ) -> list[ContextItem]:
     """Recherche les chunks pertinents et enrichit avec les infos document."""
     embedder = get_embedder()
+
+    expanded = expand_query(question)
+    if expanded != question:
+        logger.info(f"Requête expansée : '{question}' → '{expanded[:80]}...'")
+
     query_vec = embedder.embed_query(question)
     k = top_k or _TOP_K
 
+
     chunks: list[RetrievedChunk] = similarity_search(
         query_embedding=query_vec,
-        top_k=k,
+        top_k=top_k or _TOP_K,
         filters=filters,
         min_similarity=_MIN_SIM,
     )
+    
+        
+    # Fallback 1 : retirer le filtre year si aucun résultat
+    if not chunks and filters and "year" in filters:
+        filters_without_year = {k: v for k, v in filters.items() if k != "year"}
+        logger.info("Fallback : recherche sans filtre year")
+        chunks = similarity_search(
+            query_embedding=query_vec,
+            top_k=k,
+            filters=filters_without_year or None,
+            min_similarity=_MIN_SIM,
+        )
 
-    # Fallback unique : si aucun resultat avec filtres, retenter sans
     if not chunks and filters:
-        logger.info("Fallback : recherche sans filtres")
+        logger.info("Fallback : recherche sans aucun filtre")
         chunks = similarity_search(
             query_embedding=query_vec,
             top_k=k,
@@ -66,6 +84,7 @@ def retrieve_context(
 
     if not chunks:
         return []
+
 
     docs = _document_info([c.document_id for c in chunks])
     items: list[ContextItem] = []
@@ -85,37 +104,14 @@ def retrieve_context(
 
 
 def format_context(items: list[ContextItem]) -> str:
-    """Formate les chunks en texte avec citation de source — tronque si necessaire."""
+    """Formate les chunks en texte avec citation de source."""
     if not items:
         return "[Aucun document pertinent trouve.]"
     blocks = []
-    total_chars = 0
-    MAX_CHARS = 6000  # limite safe pour les modeles gratuits OpenRouter
     for i, item in enumerate(items, 1):
         src = item.source
         if item.year:
             src += f", {item.year}"
-        block = f"[Source {i} : {src}]\n{item.content}"
-        if total_chars + len(block) > MAX_CHARS:
-            break
-        blocks.append(block)
-        total_chars += len(block)
+        url = item.source_url or "https://www.beac.int"
+        blocks.append(f"[Source {i} : {src}]\n{item.content}")
     return "\n\n".join(blocks)
-
-def _sources_from_items(items: list[ContextItem]) -> list[dict]:
-    seen = set()
-    sources = []
-    for item in items:
-        key = (item.source, item.year)
-        if key in seen:
-            continue
-        seen.add(key)
-        sources.append({
-            "source": item.source,
-            "category": item.category,
-            "year": item.year,
-            "score": round(item.score, 3),
-            "source_url": item.source_url or "https://www.beac.int",
-            "image_paths": item.image_paths,
-        })
-    return sources

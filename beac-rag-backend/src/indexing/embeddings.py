@@ -17,8 +17,13 @@ import torch
 
 # Desactive les gradients (inutile en inference) et maximise les threads CPU.
 torch.set_grad_enabled(False)
-torch.set_num_threads(int(os.environ.get("OMP_NUM_THREADS", 6)))
-torch.set_num_interop_threads(2)
+#torch.set_num_threads(int(os.environ.get("OMP_NUM_THREADS", os.cpu_count() or 4)))
+
+torch.set_num_threads(int(os.environ.get("OMP_NUM_THREADS", 8)))
+# Force 8 threads (4 cores × 2 HT) — os.cpu_count() peut retourner 6 selon Windows
+
+# Ajouter après :
+torch.set_num_interop_threads(2)   # threads pour les ops parallèles inter-opérations
 
 
 from functools import lru_cache
@@ -34,10 +39,8 @@ _MODEL_NAME = _EMB.get("model", settings.embedding_model)
 _BATCH_SIZE = int(_EMB.get("batch_size", 16))
 _NORMALIZE = bool(_EMB.get("normalize", True))
 
-_QUERY_PREFIX = ""
-
-# Singleton global — charge une seule fois pour tout le processus
-_EMBEDDER_INSTANCE: "Embedder | None" = None
+# BGE-M3 recommande un prefixe pour les requetes de recherche
+_QUERY_PREFIX = ""  # bge-m3 ne necessite pas de prefixe contrairement a e5
 
 
 class Embedder:
@@ -48,7 +51,7 @@ class Embedder:
             device=settings.embedding_device,
             local_files_only=True,
         )
-        self.dimension = self.model.get_embedding_dimension()
+        self.dimension = self.model.get_sentence_embedding_dimension()
 
     def embed_documents(self, texts: Sequence[str]) -> list[list[float]]:
         if not texts:
@@ -71,8 +74,6 @@ class Embedder:
         return vector.tolist()
 
 
+@lru_cache
 def get_embedder() -> Embedder:
-    global _EMBEDDER_INSTANCE
-    if _EMBEDDER_INSTANCE is None:
-        _EMBEDDER_INSTANCE = Embedder()
-    return _EMBEDDER_INSTANCE
+    return Embedder()

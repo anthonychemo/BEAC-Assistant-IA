@@ -40,12 +40,6 @@ _EXPLORATORY_PATTERNS: list[str] = [
     "dis-moi tout sur", "résume", "vue d'ensemble", "qui est",
 ]
 
-_TEMPORAL_KEYWORDS: list[str] = [
-    "taux", "inflation", "masse monétaire", "réserves", "statistique",
-    "montant", "valeur", "évolution", "chiffre", "pourcentage",
-    "balance", "émission", "budget", "croissance",
-]
-
 _PERSON_KEYWORDS: list[str] = [
     "qui est", "qui sont", "gouverneur", "directeur", "président",
     "responsable", "chef", "nommé", "nomination", "poste",

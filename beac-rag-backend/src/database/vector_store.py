@@ -86,24 +86,6 @@ def build_chunk_objects(
     ]
 
 
-def insert_chunks(
-    document_id: int,
-    contents: Sequence[str],
-    embeddings: Sequence[Sequence[float]],
-    token_counts: Sequence[int] | None = None,
-    metadatas: Sequence[dict] | None = None,
-) -> int:
-    """Insere un lot de chunks pour un document (transaction dediee)."""
-    with session_scope() as session:
-        session.execute(text("SET hnsw.ef_search = 40"))   # défaut=40, peut descendre à 20
-        for row in session.execute(sql, params):
-            objs = build_chunk_objects(
-                document_id, contents, embeddings, token_counts, metadatas
-            )
-            session.add_all(objs)
-    return len(objs)
-
-
 def similarity_search(
     query_embedding: Sequence[float],
     top_k: int = 6,

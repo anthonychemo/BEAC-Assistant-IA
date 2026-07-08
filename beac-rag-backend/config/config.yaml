@@ -1,52 +1,71 @@
+# ============================================================
+# Configuration du pipeline BEAC RAG
+# Les secrets/chemins machine sont dans .env (voir .env.example)
+# ============================================================
+
 project:
   name: "BEAC RAG Chatbot"
-  language: "fr"
+  language: "fr"   # langue principale des reponses
 
+# ---- Ingestion ----
 ingestion:
+  # Extensions traitees
   pdf_extensions: [".pdf"]
   excel_extensions: [".xls", ".xlsx"]
+  # Dossier contenant les PDFs/Excel scrapes
+  raw_data_dir: "D:\\Projet\\BEAC-Assistant-IA\\data_pipeline\\Scrapping\\scraping\\beac_data"
+  # OCR : seuil de caracteres natifs en-dessous duquel on bascule en OCR
   ocr_text_threshold: 100
-  ocr_dpi: 200
-  ocr_workers: 4
-  image_extract_dir: "data/extracted_images"
+  ocr_dpi: 200           # 200 DPI suffit et 2x plus rapide
+  ocr_workers: 4         # 0 = auto (cpu_count // 2). Parallelise l'OCR page par page.
+  image_extract_dir: "data/extracted_images"  # ou null pour desactiver
+  # Nombre de fichiers traites par lot (memoire)
   batch_size: 10
 
+# ---- Chunking ----
 chunking:
-  chunk_size: 400
+  chunk_size: 400       # tokens approx par chunk (moins de chunks)
   chunk_overlap: 90
-  min_chunk_chars: 50
+  min_chunk_chars: 50    # ignore les chunks trop courts
 
+# ---- Embeddings ----
 embeddings:
   model: "BAAI/bge-m3"
   device: "cpu"
-  dimension: 1024
-  batch_size: 16
+  dimension: 1024        # dimension de bge-m3
+  batch_size: 16         # batch plus gros = meilleure saturation CPU
   normalize: true
 
+# ---- Vector store (pgvector) ----
 vector_store:
   table: "chunks"
-  index_type: "hnsw"
+  index_type: "hnsw"     # hnsw (rapide) ou ivfflat
   hnsw_m: 16
   hnsw_ef_construction: 64
-  distance: "cosine"
+  distance: "cosine"     # cosine | l2 | ip
 
+# ---- Retrieval ----
 retrieval:
-  top_k: 5
-  sql_max_rows: 20
-  min_similarity: 0.35
+  top_k: 8              # chunks vectoriels retournes
+  sql_max_rows: 50       # lignes max d'une requete SQL stats
+  min_similarity: 0.45    # seuil de pertinence
 
+# ---- LLM ----
 llm:
   provider: "openrouter"
-  model: "google/gemma-4-26b-a4b-it:free"
-  default_model_key: "gemma-4-26b"
+  model: "google/gemma-4-31b-it:free"   # modele gratuit, contexte 256K
+  fast_model: null                       # pas de modele rapide distinct pour l'instant
+  fallback_model: "openai/gpt-oss-120b:free"  # bascule si rate limit sur gemma
   temperature: 0.1
-  max_tokens: 512
+  max_tokens: 1024
 
 cache:
-  max_size: 200
-  ttl_seconds: 7200
+  max_size: 100
+  ttl_seconds: 3600   # 1h — adapter selon la fraîcheur des données BEAC
 
+# ---- Query router ----
 router:
+  # Mots-cles qui suggerent une question "donnees chiffrees" (-> SQL)
   data_keywords:
     - taux
     - inflation
