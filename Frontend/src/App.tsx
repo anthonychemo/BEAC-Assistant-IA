@@ -33,7 +33,6 @@ export default function App() {
   const [preSelectedDocType, setPreSelectedDocType] = useState<string | null>(null);
   const [isPipelineActive, setIsPipelineActive] = useState(true);
   const [selectedModel, setSelectedModel] = useState({
-    provider: "openrouter",
     key: "gemma-4-26b",
     label: "Gemma 4 26B",
   });
@@ -93,7 +92,7 @@ export default function App() {
       const res = await fetch("/api/chat/stream", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ question: text, provider: selectedModel.provider, model_key: selectedModel.key }),
+        body: JSON.stringify({ question: text, model_key: selectedModel.key }),
       });
 
       if (!res.ok) throw new Error("Erreur backend");
@@ -136,7 +135,7 @@ export default function App() {
       handleAddLog("Reponse IA : " + text.substring(0, 30) + "...", "success");
     } catch (err: any) {
       setChatMessages((prev) => prev.map((m) =>
-        m.id === aId ? { ...m, content: "Erreur de communication. Veuillez reessayer." } : m
+        m.id === aId ? { ...m, content: "Une erreur est survenue. Veuillez reessayer ou consulter https://www.beac.int" } : m
       ));
       handleAddLog("Echec IA : " + err.message, "error");
     } finally {

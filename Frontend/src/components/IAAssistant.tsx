@@ -10,8 +10,8 @@ interface IAAssistantProps {
   onClearHistory: () => void;
   suggestedPrompt: string;
   setSuggestedPrompt: (text: string) => void;
-  selectedModel: { provider: string; key: string; label: string };
-  onModelChange: (model: { provider: string; key: string; label: string }) => void;
+  selectedModel: { key: string; label: string };
+  onModelChange: (model: { key: string; label: string }) => void;
 }
 
 export default function IAAssistant({
@@ -29,12 +29,13 @@ export default function IAAssistant({
   const [showModelMenu, setShowModelMenu] = useState(false);
   const feedEndRef = useRef<HTMLDivElement>(null);
 
+  const [showSidebar, setShowSidebar] = useState(false);
+
   const MODELS = [
-    { provider: "ollama", key: "ollama", label: "Llama 3.1 8B (Local)" },
-    { provider: "openrouter", key: "gemma-4-26b", label: "Gemma 4 26B" },
-    { provider: "openrouter", key: "llama-3.1-8b", label: "Llama 3.1 8B (Cloud)" },
-    { provider: "openrouter", key: "mistral-7b", label: "Mistral 7B" },
-    { provider: "openrouter", key: "qwen-2.5-7b", label: "Qwen 2.5 7B" },
+    { key: "gemma-4-26b",  label: "Gemma 4 26B" },
+    { key: "llama-3.1-8b", label: "Llama 3.1 8B" },
+    { key: "mistral-7b",   label: "Mistral 7B" },
+    { key: "qwen-2.5-7b",  label: "Qwen 2.5 7B" },
   ];
 
   useEffect(() => {
@@ -121,24 +122,27 @@ export default function IAAssistant({
   ];
 
   return (
-    <div className="flex-1 bg-[#f8f9fa] flex flex-col lg:flex-row h-[calc(100vh-4rem)] origin-top">
+    <div className="flex-1 bg-[#f8f9fa] flex flex-col lg:flex-row h-[calc(100vh-4rem)]">
       
-      {/* Left Sidebar - Typical Topics */}
-      <div className="w-full lg:w-80 bg-[#edeeef] border-b lg:border-b-0 lg:border-r border-[#c4c6d0]/40 p-6 flex flex-col justify-between shrink-0 h-48 lg:h-full overflow-y-auto">
+      {/* Left Sidebar - collapsible sur mobile */}
+      <div className={`${showSidebar ? 'flex' : 'hidden'} lg:flex w-full lg:w-72 bg-[#edeeef] border-b lg:border-b-0 lg:border-r border-[#c4c6d0]/40 p-4 flex-col justify-between shrink-0 lg:h-full overflow-y-auto absolute lg:relative z-30 top-0 left-0 right-0 bottom-0`}>
         <div className="flex flex-col gap-5">
           <div className="flex items-center gap-2 select-none">
             <Terminal className="w-4 h-4 text-[#0D2D5E]" />
-            <h3 className="font-sans font-bold text-[#0D2D5E] text-xs uppercase tracking-wider">
+            <h3 className="font-sans font-bold text-[#0D2D5E] text-xs uppercase tracking-wider flex-1">
               Thèmes d'Interrogation
             </h3>
+            <button onClick={() => setShowSidebar(false)} className="lg:hidden p-1 text-[#0D2D5E]/60 hover:text-[#0D2D5E]">
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg>
+            </button>
           </div>
 
-          <div className="flex lg:flex-col gap-3 overflow-x-auto lg:overflow-x-visible pb-2 lg:pb-0 scrollbar-none">
+          <div className="flex lg:flex-col gap-3 overflow-x-auto lg:overflow-x-visible pb-2 lg:pb-0">
             {sampleTopics.map((topic, index) => (
               <button
                 key={index}
-                onClick={() => handleTopicClick(topic.prompt)}
-                className="bg-white p-3.5 rounded-lg border border-[#c4c6d0]/30 hover:border-[#C8971A] text-left transition-all shrink-0 w-64 lg:w-full hover:shadow-sm focus:outline-none focus:ring-1 focus:ring-[#C8971A]/40 cursor-pointer"
+                onClick={() => { handleTopicClick(topic.prompt); setShowSidebar(false); }}
+                className="bg-white p-3 rounded-lg border border-[#c4c6d0]/30 hover:border-[#C8971A] text-left transition-all shrink-0 w-56 lg:w-full hover:shadow-sm focus:outline-none focus:ring-1 focus:ring-[#C8971A]/40 cursor-pointer"
               >
                 <div className="font-sans font-bold text-xs text-[#0D2D5E] mb-1">
                   {topic.title}
@@ -175,6 +179,9 @@ export default function IAAssistant({
         {/* Chat Header Info bar */}
         <div className="h-14 border-b border-gray-100 px-4 md:px-6 flex items-center justify-between bg-white shrink-0">
           <div className="flex items-center gap-2 md:gap-2.5">
+            <button onClick={() => setShowSidebar(true)} className="lg:hidden p-1.5 text-[#0D2D5E]/60 hover:text-[#0D2D5E] mr-1">
+              <Terminal className="w-4 h-4" />
+            </button>
             <div className="w-2 rounded-full bg-emerald-500 animate-pulse h-2 shrink-0" />
             <div className="flex flex-col">
               <span className="font-sans font-bold text-xs text-[#0D2D5E] leading-none mb-1">Assistant BEAC IA</span>
@@ -203,9 +210,6 @@ export default function IAAssistant({
                       }`}
                     >
                       {m.label}
-                      {m.provider === "openrouter" && (
-                        <span className="ml-1 text-[9px] text-emerald-500 font-bold">CLOUD</span>
-                      )}
                     </button>
                   ))}
                 </div>
@@ -247,7 +251,7 @@ export default function IAAssistant({
             return (
               <div
                 key={msg.id}
-                className={`flex gap-4 max-w-3xl ${isUser ? "ml-auto justify-end" : "mr-auto"}`}
+                className={`flex gap-2 md:gap-4 w-full ${isUser ? "justify-end" : "justify-start"}`}
               >
                 {/* Assistant icon */}
                 {!isUser && (
@@ -258,7 +262,7 @@ export default function IAAssistant({
 
                 {/* Bubble content */}
                 <div
-                  className={`rounded-2xl p-4 px-5 shadow-sm border max-w-xl ${
+                  className={`rounded-2xl p-3 md:p-4 px-4 md:px-5 shadow-sm border max-w-[85vw] md:max-w-xl ${
                     isUser
                       ? "bg-[#0D2D5E] text-white border-transparent rounded-tr-none"
                       : "bg-[#edeeef]/40 text-[#0D2D5E] border-[#c4c6d0]/20 rounded-tl-none font-medium"
@@ -337,33 +341,31 @@ export default function IAAssistant({
           <div ref={feedEndRef} />
         </div>
 
-        {/* Input Bar Form */}
-        <div className="p-4 border-t border-gray-100 bg-white shrink-0">
-          <form onSubmit={handleSubmit} className="max-w-4xl mx-auto relative flex items-center">
+        <div className="p-3 md:p-4 border-t border-gray-100 bg-white shrink-0">
+          <form onSubmit={handleSubmit} className="relative flex items-center">
             <input
               type="text"
               value={inputText}
               onChange={(e) => setInputText(e.target.value)}
-              placeholder="Saisissez votre question institutionnelle..."
+              placeholder="Posez votre question..."
               disabled={isThinking}
-              className="w-full bg-[#f8f9fa] border border-[#c4c6d0]/40 focus:border-[#C8971A]/70 focus:bg-white focus:outline-none rounded-xl py-3.5 pl-5 pr-14 text-sm font-sans placeholder:text-gray-400"
+              className="w-full bg-[#f8f9fa] border border-[#c4c6d0]/40 focus:border-[#C8971A]/70 focus:bg-white focus:outline-none rounded-xl py-3 pl-4 pr-12 text-sm font-sans placeholder:text-gray-400"
             />
             <button
               type="submit"
               disabled={!inputText.trim() || isThinking}
-              className={`absolute right-2 p-2.5 rounded-lg transition-all ${
+              className={`absolute right-2 p-2 rounded-lg transition-all ${
                 inputText.trim() && !isThinking
                   ? "bg-[#0D2D5E] text-[#C8971A] hover:bg-[#00183e] active:scale-95 cursor-pointer"
                   : "bg-gray-100 text-gray-300 pointer-events-none"
               }`}
-              title="Envoyer la question"
             >
               <Send className="w-4 h-4" />
             </button>
           </form>
-          <div className="flex items-center justify-center gap-1 mt-2 text-[10px] text-gray-400 select-none">
+          <div className="hidden md:flex items-center justify-center gap-1 mt-2 text-[10px] text-gray-400 select-none">
             <CornerDownLeft className="w-3 h-3" />
-            <span>Appuyez sur Entrée pour envoyer votre message de recherche</span>
+            <span>Appuyez sur Entrée pour envoyer</span>
           </div>
         </div>
 

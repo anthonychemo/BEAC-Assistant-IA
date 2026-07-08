@@ -32,7 +32,7 @@ export default function LandingPage({
   return (
     <div className="flex-1 bg-[#f8f9fa]">
       {/* Hero Section */}
-      <section className="relative min-h-[580px] flex flex-col items-center justify-center px-4 md:px-16 py-16 text-center select-none overflow-hidden bg-[radial-gradient(circle_at_top_right,_#1a428a_0%,_#0D2D5E_70%)]">
+      <section className="relative min-h-[420px] md:min-h-[580px] flex flex-col items-center justify-center px-4 md:px-16 py-12 md:py-16 text-center select-none overflow-hidden bg-[radial-gradient(circle_at_top_right,_#1a428a_0%,_#0D2D5E_70%)]">
         {/* Abstract atmospheric grid overlay */}
         <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.02)_1px,_transparent_1px),_linear-gradient(90deg,_rgba(255,255,255,0.02)_1px,_transparent_1px)] bg-[size:40px_40px] pointer-events-none opacity-50" />
         
@@ -58,7 +58,7 @@ export default function LandingPage({
             initial={{ opacity: 0, y: 15 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.1 }}
-            className="font-sans text-white text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight max-w-3xl"
+            className="font-sans text-white text-2xl md:text-5xl font-extrabold tracking-tight mb-4 md:mb-6 leading-tight max-w-3xl"
           >
             Accédez au patrimoine financier avec l'
             <span className="text-[#C8971A]">Assistant IA</span> de la BEAC
@@ -68,7 +68,7 @@ export default function LandingPage({
             initial={{ opacity: 0, y: 15 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.22 }}
-            className="font-sans text-white/70 text-base md:text-lg mb-10 max-w-2xl leading-relaxed"
+            className="font-sans text-white/70 text-sm md:text-lg mb-8 md:mb-10 max-w-2xl leading-relaxed"
           >
             Une interface conversationnelle de pointe pour interroger les bases de données institutionnelles, les rapports économiques et les réglementations monétaires de la zone CEMAC.
           </motion.p>

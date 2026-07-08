@@ -2,6 +2,7 @@ nodes_modules/
 .env
 dist/
 Backend/
+beac-rag-backend0/
 
 # Données scrappées
 data_pipeline/Scrapping/scraping/beac_data/

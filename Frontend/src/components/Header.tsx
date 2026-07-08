@@ -34,7 +34,7 @@ export default function Header({
           onClick={() => handleNavClick("accueil")}
           className="flex items-center gap-2 md:gap-3 text-left focus:outline-none focus:ring-2 focus:ring-[#C8971A]/30 p-1 rounded"
         >
-          <div className="w-20 h-20 flex items-center justify-center">
+          <div className="w-10 h-10 flex items-center justify-center shrink-0">
             <img src={beacLogo} alt="Logo BEAC" className="w-full h-full object-contain" />
           </div>
           <div className="flex flex-col leading-tight select-none">
