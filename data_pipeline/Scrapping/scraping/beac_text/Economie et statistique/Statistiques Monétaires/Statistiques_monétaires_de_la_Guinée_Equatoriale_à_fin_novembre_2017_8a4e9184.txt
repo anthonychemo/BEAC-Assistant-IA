@@ -1,7 +1,0 @@
-Source PDF : Statistiques_monétaires_de_la_Guinée_Equatoriale_à_fin_novembre_2017_8a4e9184.xlsx
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Monétaires\Statistiques_monétaires_de_la_Guinée_Equatoriale_à_fin_novembre_2017_8a4e9184.xlsx
-Date extraction : 15/06/2026 20:42:31
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

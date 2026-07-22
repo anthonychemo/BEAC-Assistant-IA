@@ -1,7 +1,0 @@
-Source PDF : Statistiques_monétaires_de_la_RCA_-_janvier_2023_ac01e3de.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Monétaires\Statistiques_monétaires_de_la_RCA_-_janvier_2023_ac01e3de.xls
-Date extraction : 15/06/2026 20:33:26
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

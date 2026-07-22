@@ -1,7 +1,12 @@
-"""Client LLM via OpenRouter (Gemma gratuit avec fallback).
+"""Client LLM via OpenRouter (modele gratuit, ex: google/gemma-4-31b-it:free).
 
-3 retries sur le modele principal (gemma), puis 3 retries sur le fallback.
-Si les deux echouent, retourne un message d'indisponibilite propre a l'utilisateur.
+OpenRouter expose une API compatible OpenAI (chat/completions), donc le SDK
+`openai` officiel est reutilise tel quel avec un `base_url` different. Plus de
+dependance a Ollama ni a un GPU/RAM local : le modele tourne cote OpenRouter.
+
+Le modele gratuit est rate-limite (~20 req/min, ~200 req/jour) car subventionne :
+les erreurs 429 sont retentees avec backoff, puis si `fallback_model` est
+configure (config.yaml), on bascule dessus avant d'abandonner.
 """
 from __future__ import annotations
 
@@ -21,14 +26,25 @@ _FALLBACK_MODEL = _LLM.get("fallback_model") or None
 _TEMPERATURE = float(_LLM.get("temperature", 0.1))
 _MAX_TOKENS = int(_LLM.get("max_tokens", 1024))
 
+# Le modele gratuit est rate-limite : on retente plus longtemps que pour un LLM local.
 _MAX_RETRIES = 3
 _RETRY_DELAY = 3.0  # secondes, doublee a chaque tentative
 
-_UNAVAILABLE_MSG = (
-    "Je suis temporairement indisponible en raison d'une forte demande. "
-    "Veuillez reessayer dans quelques instants ou consulter le site officiel : "
-    "https://www.beac.int"
-)
+# Modeles selectionnables depuis le frontend (cle envoyee par le client ->
+# modele OpenRouter reel). Seuls les modeles effectivement configures et
+# testes (principal + secours) sont proposes, pour eviter d'exposer un choix
+# qui echouerait silencieusement.
+MODEL_CHOICES: dict[str, str] = {"primary": _MODEL}
+if _FALLBACK_MODEL:
+    MODEL_CHOICES["fallback"] = _FALLBACK_MODEL
+
+
+def resolve_model(model_key: str | None) -> str:
+    """Traduit une cle de modele cote client en identifiant OpenRouter reel.
+
+    Cle inconnue ou absente -> modele principal (comportement par defaut).
+    """
+    return MODEL_CHOICES.get(model_key or "primary", _MODEL)
 
 
 class LLMClient:
@@ -43,16 +59,26 @@ class LLMClient:
             "max_tokens": _MAX_TOKENS,
         }
 
+    # ------------------------------------------------------------------
+    # Cycle de vie (no-op : API distante, rien a charger/decharger localement)
+    # ------------------------------------------------------------------
+
     def warmup(self) -> None:
         if not settings.openrouter_api_key:
             logger.error("OPENROUTER_API_KEY manquante dans .env")
             return
-        logger.info("LLM OpenRouter : {} — pas de prechauffage necessaire.", self.model)
+        logger.info("LLM distant (OpenRouter) : {} — pas de préchauffage nécessaire.", self.model)
 
     def unload(self) -> None:
-        pass
+        logger.info("LLM distant (OpenRouter) : rien à décharger localement.")
 
-    def _build_messages(self, prompt: str, system: str | None) -> list[dict[str, str]]:
+    # ------------------------------------------------------------------
+    # Helpers internes
+    # ------------------------------------------------------------------
+
+    def _build_messages(
+        self, prompt: str, system: str | None
+    ) -> list[dict[str, str]]:
         messages: list[dict[str, str]] = []
         if system:
             messages.append({"role": "system", "content": system})
@@ -60,13 +86,11 @@ class LLMClient:
         return messages
 
     def _attempt(self, model: str, messages: list[dict[str, str]], **options):
-        """Un modele donne avec _MAX_RETRIES tentatives en cas de rate limit."""
+        """Tente une completion sur un modele donne, avec retry (rate limit/connexion)."""
         last_exc: Exception | None = None
         for attempt in range(_MAX_RETRIES + 1):
             try:
-                return self.client.chat.completions.create(
-                    model=model, messages=messages, **options
-                )
+                return self.client.chat.completions.create(model=model, messages=messages, **options)
             except RateLimitError as exc:
                 last_exc = exc
                 if attempt < _MAX_RETRIES:
@@ -83,39 +107,42 @@ class LLMClient:
             except APIError as exc:
                 logger.error("Erreur OpenRouter [{}] : {}", getattr(exc, "status_code", "?"), exc)
                 raise
-        raise RuntimeError(f"Echec apres {_MAX_RETRIES + 1} tentatives sur '{model}' : {last_exc}")
+        raise RuntimeError(
+            f"Échec après {_MAX_RETRIES + 1} tentatives sur '{model}' : {last_exc}"
+        ) from last_exc
 
     def _chat_with_retry(self, model: str, messages: list[dict[str, str]], **options):
-        """Modele principal → fallback → message d'indisponibilite."""
+        """Tente le modele demande ; bascule sur `fallback_model` (config.yaml) si
+        tous les essais sur le modele principal echouent (rate limit/connexion)."""
         try:
             return self._attempt(model, messages, **options)
         except RuntimeError:
             if _FALLBACK_MODEL and _FALLBACK_MODEL != model:
                 logger.warning(
-                    "Modele '{}' indisponible — bascule sur '{}'", model, _FALLBACK_MODEL,
+                    "Modele '{}' indisponible — bascule sur le modele de secours '{}'",
+                    model, _FALLBACK_MODEL,
                 )
-                try:
-                    return self._attempt(_FALLBACK_MODEL, messages, **options)
-                except RuntimeError:
-                    logger.error("Fallback '{}' aussi indisponible.", _FALLBACK_MODEL)
-            raise RuntimeError("LLM_UNAVAILABLE")
-
-    def generate(self, prompt: str, system: str | None = None, fast: bool = False) -> str:
-        model = (_FAST_MODEL if fast and _FAST_MODEL else self.model)
-        messages = self._build_messages(prompt, system)
-        try:
-            response = self._chat_with_retry(model=model, messages=messages, **self._options)
-            return response.choices[0].message.content.strip()
-        except RuntimeError as exc:
-            if "LLM_UNAVAILABLE" in str(exc):
-                return _UNAVAILABLE_MSG
+                return self._attempt(_FALLBACK_MODEL, messages, **options)
             raise
 
-    def stream(self, prompt: str, system: str | None = None) -> Iterator[str]:
+    # ------------------------------------------------------------------
+    # API publique (signature identique a l'ancien client Ollama)
+    # ------------------------------------------------------------------
+
+    def generate(self, prompt: str, system: str | None = None,
+                 fast: bool = False, model: str | None = None) -> str:
+        model = model or (_FAST_MODEL if fast and _FAST_MODEL else self.model)
+        messages = self._build_messages(prompt, system)
+        response = self._chat_with_retry(model=model, messages=messages, **self._options)
+        return response.choices[0].message.content.strip()
+
+    def stream(self, prompt: str, system: str | None = None,
+               model: str | None = None) -> Iterator[str]:
+        """Génère une réponse token par token (streaming)."""
         messages = self._build_messages(prompt, system)
         try:
             stream = self._chat_with_retry(
-                model=self.model, messages=messages, stream=True, **self._options,
+                model=model or self.model, messages=messages, stream=True, **self._options,
             )
             for chunk in stream:
                 if not chunk.choices:
@@ -123,12 +150,6 @@ class LLMClient:
                 delta = chunk.choices[0].delta.content
                 if delta:
                     yield delta
-        except RuntimeError as exc:
-            if "LLM_UNAVAILABLE" in str(exc):
-                yield _UNAVAILABLE_MSG
-                return
-            logger.error("Erreur streaming : {}", exc)
-            raise
         except APIError as exc:
             logger.error("Erreur OpenRouter streaming : {}", exc)
             raise
@@ -136,4 +157,5 @@ class LLMClient:
 
 @lru_cache
 def get_llm() -> LLMClient:
+    """Retourne le singleton LLMClient (instancié une seule fois)."""
     return LLMClient()

@@ -1,7 +1,0 @@
-Source PDF : Avis_d'émission_de_Bons_BEAC_AON_BB_N°20_E14_2024-BEAC_du_15_juillet_2024_ae2a5c09.pdf
-Chemin original : scraping\beac_data\Politique monetaire\Mise Oeuvre De Politique Monetaire 2\Avis_d'émission_de_Bons_BEAC_AON_BB_N°20_E14_2024-BEAC_du_15_juillet_2024_ae2a5c09.pdf
-Date extraction : 15/06/2026 19:17:13
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

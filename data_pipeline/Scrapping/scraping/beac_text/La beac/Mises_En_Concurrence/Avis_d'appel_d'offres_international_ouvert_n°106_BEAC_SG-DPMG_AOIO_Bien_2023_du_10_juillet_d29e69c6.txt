@@ -1,7 +1,0 @@
-Source PDF : Avis_d'appel_d'offres_international_ouvert_n°106_BEAC_SG-DPMG_AOIO_Bien_2023_du_10_juillet_d29e69c6.pdf
-Chemin original : scraping\beac_data\La beac\Mises_En_Concurrence\Avis_d'appel_d'offres_international_ouvert_n°106_BEAC_SG-DPMG_AOIO_Bien_2023_du_10_juillet_d29e69c6.pdf
-Date extraction : 15/06/2026 18:52:25
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

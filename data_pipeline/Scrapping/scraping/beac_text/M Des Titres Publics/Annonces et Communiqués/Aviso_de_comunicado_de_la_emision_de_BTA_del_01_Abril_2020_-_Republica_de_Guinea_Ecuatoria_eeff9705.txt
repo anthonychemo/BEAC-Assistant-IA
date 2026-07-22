@@ -1,7 +1,0 @@
-Source PDF : Aviso_de_comunicado_de_la_emision_de_BTA_del_01_Abril_2020_-_Republica_de_Guinea_Ecuatoria_eeff9705.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\Aviso_de_comunicado_de_la_emision_de_BTA_del_01_Abril_2020_-_Republica_de_Guinea_Ecuatoria_eeff9705.pdf
-Date extraction : 15/06/2026 20:22:51
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

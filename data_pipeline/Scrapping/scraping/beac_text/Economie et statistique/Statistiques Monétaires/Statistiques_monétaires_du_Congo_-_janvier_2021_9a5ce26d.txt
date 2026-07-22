@@ -1,7 +1,0 @@
-Source PDF : Statistiques_monétaires_du_Congo_-_janvier_2021_9a5ce26d.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Monétaires\Statistiques_monétaires_du_Congo_-_janvier_2021_9a5ce26d.xls
-Date extraction : 15/06/2026 20:36:35
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

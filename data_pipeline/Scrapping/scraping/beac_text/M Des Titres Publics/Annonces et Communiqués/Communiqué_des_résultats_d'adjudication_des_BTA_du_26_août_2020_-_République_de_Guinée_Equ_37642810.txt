@@ -1,7 +1,0 @@
-Source PDF : Communiqué_des_résultats_d'adjudication_des_BTA_du_26_août_2020_-_République_de_Guinée_Equ_37642810.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\Communiqué_des_résultats_d'adjudication_des_BTA_du_26_août_2020_-_République_de_Guinée_Equ_37642810.pdf
-Date extraction : 15/06/2026 20:18:34
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

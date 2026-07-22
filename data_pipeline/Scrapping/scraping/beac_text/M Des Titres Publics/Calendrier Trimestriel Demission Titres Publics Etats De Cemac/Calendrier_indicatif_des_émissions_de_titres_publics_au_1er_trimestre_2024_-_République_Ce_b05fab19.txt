@@ -1,7 +1,0 @@
-Source PDF : Calendrier_indicatif_des_émissions_de_titres_publics_au_1er_trimestre_2024_-_République_Ce_b05fab19.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Calendrier Trimestriel Demission Titres Publics Etats De Cemac\Calendrier_indicatif_des_émissions_de_titres_publics_au_1er_trimestre_2024_-_République_Ce_b05fab19.pdf
-Date extraction : 15/06/2026 19:34:59
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

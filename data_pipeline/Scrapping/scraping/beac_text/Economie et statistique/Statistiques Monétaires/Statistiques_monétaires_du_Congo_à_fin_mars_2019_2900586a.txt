@@ -1,7 +1,0 @@
-Source PDF : Statistiques_monétaires_du_Congo_à_fin_mars_2019_2900586a.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Monétaires\Statistiques_monétaires_du_Congo_à_fin_mars_2019_2900586a.xls
-Date extraction : 15/06/2026 20:41:50
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

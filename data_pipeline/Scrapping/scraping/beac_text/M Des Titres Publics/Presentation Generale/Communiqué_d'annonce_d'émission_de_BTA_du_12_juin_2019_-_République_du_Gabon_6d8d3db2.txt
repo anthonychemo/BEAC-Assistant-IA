@@ -1,7 +1,0 @@
-Source PDF : Communiqué_d'annonce_d'émission_de_BTA_du_12_juin_2019_-_République_du_Gabon_6d8d3db2.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Presentation Generale\Communiqué_d'annonce_d'émission_de_BTA_du_12_juin_2019_-_République_du_Gabon_6d8d3db2.pdf
-Date extraction : 15/06/2026 19:31:42
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

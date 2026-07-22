@@ -1,7 +1,0 @@
-Source PDF : Sélection_régionale_ouverte_n°146_BEAC_SG-DPMG_SRO_Prest_2020_pour_la_souscription_d'une_p_c1955711.pdf
-Chemin original : scraping\beac_data\La beac\Mises_En_Concurrence\Sélection_régionale_ouverte_n°146_BEAC_SG-DPMG_SRO_Prest_2020_pour_la_souscription_d'une_p_c1955711.pdf
-Date extraction : 15/06/2026 19:03:37
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

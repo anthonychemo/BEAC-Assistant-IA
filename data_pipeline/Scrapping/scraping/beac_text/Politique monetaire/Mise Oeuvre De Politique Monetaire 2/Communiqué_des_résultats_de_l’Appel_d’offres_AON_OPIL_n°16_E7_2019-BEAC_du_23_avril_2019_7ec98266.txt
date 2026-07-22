@@ -1,7 +1,0 @@
-Source PDF : Communiqué_des_résultats_de_l’Appel_d’offres_AON_OPIL_n°16_E7_2019-BEAC_du_23_avril_2019_7ec98266.pdf
-Chemin original : scraping\beac_data\Politique monetaire\Mise Oeuvre De Politique Monetaire 2\Communiqué_des_résultats_de_l’Appel_d’offres_AON_OPIL_n°16_E7_2019-BEAC_du_23_avril_2019_7ec98266.pdf
-Date extraction : 15/06/2026 19:45:30
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

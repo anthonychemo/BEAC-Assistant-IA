@@ -1,7 +1,0 @@
-Source PDF : Avis_concours_pour_le_recrutement_des_Agents_d'Encadrement_Moyens_(AEM)_11a5f129.pdf
-Chemin original : scraping\beac_data\La beac\Travailler A Beac\Avis_concours_pour_le_recrutement_des_Agents_d'Encadrement_Moyens_(AEM)_11a5f129.pdf
-Date extraction : 15/06/2026 18:31:41
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

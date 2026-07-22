@@ -1,7 +1,0 @@
-Source PDF : Statistiques_monétaires_de_la_RCA_à_fin_février_2018_034039ce.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Monétaires\Statistiques_monétaires_de_la_RCA_à_fin_février_2018_034039ce.xls
-Date extraction : 15/06/2026 20:42:07
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

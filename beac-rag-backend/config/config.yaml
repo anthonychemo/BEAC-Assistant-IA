@@ -12,8 +12,6 @@ ingestion:
   # Extensions traitees
   pdf_extensions: [".pdf"]
   excel_extensions: [".xls", ".xlsx"]
-  # Dossier contenant les PDFs/Excel scrapes
-  raw_data_dir: "D:\\Projet\\BEAC-Assistant-IA\\data_pipeline\\Scrapping\\scraping\\beac_data"
   # OCR : seuil de caracteres natifs en-dessous duquel on bascule en OCR
   ocr_text_threshold: 100
   ocr_dpi: 200           # 200 DPI suffit et 2x plus rapide
@@ -55,7 +53,13 @@ llm:
   provider: "openrouter"
   model: "google/gemma-4-31b-it:free"   # modele gratuit, contexte 256K
   fast_model: null                       # pas de modele rapide distinct pour l'instant
-  fallback_model: "openai/gpt-oss-120b:free"  # bascule si rate limit sur gemma
+  fallback_model: "openai/gpt-oss-20b:free"  # bascule si le modele principal est rate-limite (autre fournisseur que Google AI Studio)
+  # NB : openai/gpt-oss-120b:free a ete retire du catalogue gratuit OpenRouter
+  # (bascule vers la version payante, 404) le 2026-07-19 ; remplace par la
+  # variante 20b, toujours gratuite au moment de cette modification. Le
+  # catalogue gratuit OpenRouter change frequemment (ajouts/retraits sans
+  # preavis) : verifier https://openrouter.ai/api/v1/models si ce modele
+  # venait a son tour a disparaitre.
   temperature: 0.1
   max_tokens: 1024
 

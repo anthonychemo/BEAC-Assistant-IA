@@ -1,7 +1,0 @@
-Source PDF : Lettre_Circulaire_LC-COB-04_portant_attributions_des_présidents_des_Conseils_d'Administrat_85d4e8c5.pdf
-Chemin original : scraping\beac_data\Supervision bancaire\Reglements De Cobac\Lettre_Circulaire_LC-COB-04_portant_attributions_des_présidents_des_Conseils_d'Administrat_85d4e8c5.pdf
-Date extraction : 15/06/2026 19:51:56
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

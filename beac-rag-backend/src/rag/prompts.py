@@ -53,7 +53,6 @@ Consignes :
 - Si le contexte contient des chiffres pertinents, indique-les avec leur unité et période.
 - Si tu ne trouves pas la réponse dans le contexte, dis exactement : "{NO_ANSWER_MESSAGE}"
 - Ne fais pas d'introduction, ne reformule pas la question, n'ajoute pas d'informations absentes du contexte.
-- Liste les sources en fin de réponse avec leur lien URL exact tel qu'indiqué dans le contexte.
 
 Réponse :"""
 
@@ -71,7 +70,6 @@ Consignes :
 - Si le contexte contient des chiffres pertinents, indique-les avec leur unité et période.
 - Si tu ne trouves pas la réponse dans le contexte, dis exactement : "{NO_ANSWER_MESSAGE}"
 - Ne reformule pas la question, n'ajoute pas d'informations absentes du contexte.
-- Liste les sources en fin de réponse avec leur lien URL exact tel qu'indiqué dans le contexte.
 
 Réponse :"""
 

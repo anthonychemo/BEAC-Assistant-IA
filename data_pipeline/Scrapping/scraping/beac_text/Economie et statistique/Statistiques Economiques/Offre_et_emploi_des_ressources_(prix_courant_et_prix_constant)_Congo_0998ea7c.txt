@@ -1,7 +1,0 @@
-Source PDF : Offre_et_emploi_des_ressources_(prix_courant_et_prix_constant)_Congo_0998ea7c.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Economiques\Offre_et_emploi_des_ressources_(prix_courant_et_prix_constant)_Congo_0998ea7c.xls
-Date extraction : 15/06/2026 20:35:47
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

@@ -53,18 +53,42 @@ def retrieve_context(
     query_vec = embedder.embed_query(question)
     k = top_k or _TOP_K
 
+    # Recherche ciblee sur un document deja identifie (ex: bouton "Analyser IA") :
+    # le document est connu avec certitude, donc pas de seuil de similarite absolu
+    # (calibre pour departager parmi tout le corpus) qui pourrait exclure a tort
+    # ses meilleurs extraits simplement parce que la question (souvent un nom de
+    # fichier englobe dans une phrase) s'embedde mal.
+    is_document_scoped = bool(filters and filters.get("document_id") is not None)
+    min_similarity = None if is_document_scoped else _MIN_SIM
 
     chunks: list[RetrievedChunk] = similarity_search(
         query_embedding=query_vec,
-        top_k=top_k or _TOP_K,
+        top_k=k,
         filters=filters,
-        min_similarity=_MIN_SIM,
+        min_similarity=min_similarity,
     )
-    
-        
+
+    if is_document_scoped:
+        # Le document est garanti exister : pas de repli a faire, un resultat
+        # vide signifie juste qu'il n'a pas (ou plus) de chunks indexes.
+        docs = _document_info([c.document_id for c in chunks])
+        return [
+            ContextItem(
+                content=c.content,
+                score=c.score,
+                source=docs[c.document_id].filename if c.document_id in docs else f"doc#{c.document_id}",
+                category=docs[c.document_id].category if c.document_id in docs else None,
+                year=docs[c.document_id].year if c.document_id in docs else None,
+                image_paths=(c.metadata or {}).get("image_paths"),
+                source_url=docs[c.document_id].source_url if c.document_id in docs else None,
+            )
+            for c in chunks
+        ]
+
     # Fallback 1 : retirer le filtre year si aucun résultat
+    already_tried_no_filters = False
     if not chunks and filters and "year" in filters:
-        filters_without_year = {k: v for k, v in filters.items() if k != "year"}
+        filters_without_year = {fk: fv for fk, fv in filters.items() if fk != "year"}
         logger.info("Fallback : recherche sans filtre year")
         chunks = similarity_search(
             query_embedding=query_vec,
@@ -72,8 +96,11 @@ def retrieve_context(
             filters=filters_without_year or None,
             min_similarity=_MIN_SIM,
         )
+        # Si le seul filtre etait "year", cette tentative equivaut deja a
+        # une recherche sans aucun filtre : inutile de la refaire ci-dessous.
+        already_tried_no_filters = not filters_without_year
 
-    if not chunks and filters:
+    if not chunks and filters and not already_tried_no_filters:
         logger.info("Fallback : recherche sans aucun filtre")
         chunks = similarity_search(
             query_embedding=query_vec,

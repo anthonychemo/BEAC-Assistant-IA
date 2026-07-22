@@ -1,7 +1,0 @@
-Source PDF : Statistiques_Mensuelles_du_Marché_des_valeurs_du_Trésor_de_la_CEMAC_-_N°_54_janvier_2026_add6224b.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Statistiques Mensuelles Marche Valeurs Tresor\Statistiques_Mensuelles_du_Marché_des_valeurs_du_Trésor_de_la_CEMAC_-_N°_54_janvier_2026_add6224b.pdf
-Date extraction : 15/06/2026 22:29:36
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

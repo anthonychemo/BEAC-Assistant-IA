@@ -1,14 +1,15 @@
-export type DocumentType = "Rapports" | "Bulletins" | "Working Papers" | "Communiques" | "Reglementation";
-
+// Categorie reelle du document telle que renvoyee par le backend (champ
+// `category` de la table `documents`, alimente par le scraper) — texte libre,
+// pas un enum fige.
 export interface Document {
   id: string;
   title: string;
-  type: DocumentType;
+  type: string;
   fileType: string;
-  fileSize: string;
-  date: string;
-  description: string;
-  section: "Politique Monétaire" | "Stabilité Financière" | "Études Statistiques";
+  date: string | null;
+  description: string | null;
+  country: string | null;
+  year: number | null;
   url: string;
 }
 
@@ -17,7 +18,13 @@ export interface SourceItem {
   category: string | null;
   year: number | null;
   score: number | null;
+  source_url: string | null;
   image_paths: string[] | null;
+}
+
+export interface ModelChoice {
+  key: string;
+  label: string;
 }
 
 export interface ChatMessage {
@@ -27,6 +34,12 @@ export interface ChatMessage {
   sources?: SourceItem[];
   query_type?: string;
   timestamp: string;
+  isError?: boolean;
+  feedback?: "positive" | "negative";
+  // Present sur un message utilisateur quand la question cible un document
+  // precis de la bibliotheque (bouton "Analyser IA"), pour que la recherche
+  // se limite a ce document plutot qu'a tout le corpus.
+  documentId?: string;
 }
 
 export interface Log {

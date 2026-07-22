@@ -26,11 +26,12 @@ class ResponseCache:
     def __init__(self) -> None:
         self._store: OrderedDict[str, CacheEntry] = OrderedDict()
 
-    def _key(self, question: str) -> str:
-        return hashlib.sha256(question.strip().lower().encode()).hexdigest()
+    def _key(self, question: str, model_key: str | None = None) -> str:
+        raw = f"{model_key or 'primary'}::{question.strip().lower()}"
+        return hashlib.sha256(raw.encode()).hexdigest()
 
-    def get(self, question: str):
-        key = self._key(question)
+    def get(self, question: str, model_key: str | None = None):
+        key = self._key(question, model_key)
         entry = self._store.get(key)
         if entry is None or entry.is_expired():
             if entry:
@@ -40,8 +41,8 @@ class ResponseCache:
         self._store.move_to_end(key)
         return entry.response
 
-    def set(self, question: str, response: object) -> None:
-        key = self._key(question)
+    def set(self, question: str, response: object, model_key: str | None = None) -> None:
+        key = self._key(question, model_key)
         if len(self._store) >= _MAX_SIZE:
             self._store.popitem(last=False)   # évince le plus ancien
         self._store[key] = CacheEntry(response=response)

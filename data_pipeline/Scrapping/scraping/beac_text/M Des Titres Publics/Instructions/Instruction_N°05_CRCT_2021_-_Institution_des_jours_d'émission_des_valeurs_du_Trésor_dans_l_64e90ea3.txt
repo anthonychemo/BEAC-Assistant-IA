@@ -1,7 +1,0 @@
-Source PDF : Instruction_N°05_CRCT_2021_-_Institution_des_jours_d'émission_des_valeurs_du_Trésor_dans_l_64e90ea3.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Instructions\Instruction_N°05_CRCT_2021_-_Institution_des_jours_d'émission_des_valeurs_du_Trésor_dans_l_64e90ea3.pdf
-Date extraction : 15/06/2026 22:22:39
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

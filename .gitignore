@@ -1,32 +1,24 @@
-# Dependances
-node_modules/
-.venv/
-__pycache__/
-*.pyc
-*.pyo
-
-# Build
-dist/
-*.egg-info/
-
-# Secrets
-.env
-*.env
-
-# Dossiers ignores
-Backend/
-
-# Donnees scrappees
-data_pipeline/Scrapping/scraping/beac_data/
+# Corpus brut scrape (voir README) — plusieurs Go, ne doit jamais etre commite
 beac_data/
 
-# Logs
-*.log
-logs/
+# Environnements
+**/.venv/
+**/venv/
+**/node_modules/
 
-# Caches Python
-.cache/
-*.cache
+# Secrets
+**/.env
+!**/.env.example
 
-# IDE
-.vscode/settings.json
+# Logs et artefacts generes
+**/logs/
+**/dist/
+**/build/
+**/*.log
+**/__pycache__/
+**/*.py[cod]
+
+# OS / IDE
+**/.DS_Store
+**/.idea/
+**/.vscode/

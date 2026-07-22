@@ -50,10 +50,10 @@ export default function LoginPortal({ onClose, onLoginSuccess }: LoginPortalProp
             <img src={beacLogo} alt="Logo BEAC" className="w-full h-full object-contain" />
           </div>
           <h2 className="font-sans text-[#0D2D5E] text-xl font-extrabold tracking-tight">
-            Accès Département Informatique BEAC
+            ESPACE ADMINISTRATEUR BEAC
           </h2>
           <p className="text-black/50 font-sans text-xs mt-1">
-            Système d'administration sécurisé COBAC / BEAC
+            Système d'administration sécurisé BEAC
           </p>
         </div>
 

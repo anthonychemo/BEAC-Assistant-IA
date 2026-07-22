@@ -1,7 +1,0 @@
-Source PDF : Statistiques_monétaires_de_la_République_Centrafricaine_-_juin_2019_da2fd3dd.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Monétaires\Statistiques_monétaires_de_la_République_Centrafricaine_-_juin_2019_da2fd3dd.xls
-Date extraction : 15/06/2026 20:41:20
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

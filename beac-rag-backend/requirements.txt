@@ -19,13 +19,11 @@ boto3==1.35.36
 # ---- Embeddings (CPU) ----
 sentence-transformers==3.1.1
 torch>=2.6
-FlagEmbedding==1.2.11
 
 # ---- LLM (OpenRouter, API compatible OpenAI) ----
 openai>=1.50.0
 
 # ---- PDF + OCR ----
-pdfplumber==0.11.4
 PyMuPDF==1.24.10
 pytesseract==0.3.13
 pdf2image==1.17.0

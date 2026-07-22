@@ -6,10 +6,10 @@ export const INITIAL_DOCUMENTS: Document[] = [
     title: "Rapport sur la politique monétaire dans la CEMAC - Exercice 2023",
     type: "Rapports",
     fileType: "PDF",
-    fileSize: "4.2 MB",
     date: "15 Mars 2024",
     description: "Ce document présente une analyse approfondie des évolutions macroéconomiques de la zone CEMAC au cours de l'année écoulée, mettant en lumière les décisions prises par le Comité de Politique Monétaire.",
-    section: "Politique Monétaire",
+    country: null,
+    year: 2024,
     url: "https://www.beac.int"
   },
   {
@@ -17,10 +17,10 @@ export const INITIAL_DOCUMENTS: Document[] = [
     title: "Indicateurs de convergence macroéconomique - T4 2023",
     type: "Bulletins",
     fileType: "XLS",
-    fileSize: "1.5 MB",
     date: "02 Mars 2024",
     description: "Tableaux statistiques détaillés incluant les taux d'inflation, les réserves de change et les balances commerciales agrégées des six États membres de la BEAC.",
-    section: "Études Statistiques",
+    country: null,
+    year: 2024,
     url: "https://www.beac.int"
   },
   {
@@ -28,10 +28,10 @@ export const INITIAL_DOCUMENTS: Document[] = [
     title: "Communiqué de presse du Comité de Politique Monétaire (CPM)",
     type: "Communiqués",
     fileType: "PDF",
-    fileSize: "0.8 MB",
     date: "28 Février 2024",
     description: "Décisions relatives au maintien du taux directeur et orientations stratégiques pour la gestion de la liquidité bancaire au premier semestre 2024.",
-    section: "Politique Monétaire",
+    country: null,
+    year: 2024,
     url: "https://www.beac.int"
   },
   {
@@ -39,10 +39,10 @@ export const INITIAL_DOCUMENTS: Document[] = [
     title: "Impact de la digitalisation des paiements sur la vélocité monétaire",
     type: "Working Papers",
     fileType: "PDF",
-    fileSize: "2.1 MB",
     date: "10 Février 2024",
     description: "Une étude empirique menée par la Direction de la Recherche sur l'évolution des habitudes de consommation et l'adoption du mobile money dans la région.",
-    section: "Stabilité Financière",
+    country: null,
+    year: 2024,
     url: "https://www.beac.int"
   },
   {
@@ -50,10 +50,10 @@ export const INITIAL_DOCUMENTS: Document[] = [
     title: "Rapport Annuel de Surveillance Financière Régionale",
     type: "Rapports",
     fileType: "PDF",
-    fileSize: "3.7 MB",
     date: "12 Décembre 2023",
     description: "Analyse rétrospective des ratios prudentiels de capitalisation et de liquidité des établissements de crédit assujettis aux règlements COBAC.",
-    section: "Stabilité Financière",
+    country: null,
+    year: 2023,
     url: "https://www.beac.int"
   },
   {
@@ -61,10 +61,10 @@ export const INITIAL_DOCUMENTS: Document[] = [
     title: "Directive COBAC n°01/23 relative aux risques cybernétiques",
     type: "Réglementation",
     fileType: "PDF",
-    fileSize: "1.2 MB",
     date: "18 Novembre 2023",
     description: "Définition du cadre minimal de régulation de la cyber-sécurité et audit technique obligatoire pour tous les intermédiaires financiers nationaux.",
-    section: "Stabilité Financière",
+    country: null,
+    year: 2023,
     url: "https://www.beac.int"
   },
   {
@@ -72,10 +72,10 @@ export const INITIAL_DOCUMENTS: Document[] = [
     title: "Bulletin d'Études Statistiques N°41 - Balance des paiements CEMAC",
     type: "Bulletins",
     fileType: "PDF",
-    fileSize: "5.4 MB",
     date: "05 Octobre 2023",
     description: "Agrégation statistique des comptes nationaux extérieurs, flux d'investissements directs étrangers et réserve de monnaies étrangères de compensation.",
-    section: "Études Statistiques",
+    country: null,
+    year: 2023,
     url: "https://www.beac.int"
   }
 ];

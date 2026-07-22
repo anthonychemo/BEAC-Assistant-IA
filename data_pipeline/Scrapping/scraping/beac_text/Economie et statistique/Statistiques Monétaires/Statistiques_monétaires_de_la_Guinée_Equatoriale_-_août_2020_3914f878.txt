@@ -1,7 +1,0 @@
-Source PDF : Statistiques_monétaires_de_la_Guinée_Equatoriale_-_août_2020_3914f878.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Monétaires\Statistiques_monétaires_de_la_Guinée_Equatoriale_-_août_2020_3914f878.xls
-Date extraction : 15/06/2026 20:38:29
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

@@ -1,7 +1,0 @@
-Source PDF : Statistiques_monétaires_de_la_Guinée_Equatoriale_-_mai_2023_052b6631.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Monétaires\Statistiques_monétaires_de_la_Guinée_Equatoriale_-_mai_2023_052b6631.xls
-Date extraction : 15/06/2026 20:32:35
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

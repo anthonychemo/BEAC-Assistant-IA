@@ -1,7 +1,0 @@
-Source PDF : Comunicado_de_resultados_de_adjudicaciones_de_Bonos_del_Tesoro_de_la_Guinea_Ecuatorial_-_s_305670f9.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\Comunicado_de_resultados_de_adjudicaciones_de_Bonos_del_Tesoro_de_la_Guinea_Ecuatorial_-_s_305670f9.pdf
-Date extraction : 15/06/2026 20:25:20
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

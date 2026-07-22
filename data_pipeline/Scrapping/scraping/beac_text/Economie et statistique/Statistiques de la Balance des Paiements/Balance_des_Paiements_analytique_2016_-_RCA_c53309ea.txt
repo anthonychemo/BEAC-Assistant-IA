@@ -1,7 +1,0 @@
-Source PDF : Balance_des_Paiements_analytique_2016_-_RCA_c53309ea.xlsx
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques de la Balance des Paiements\Balance_des_Paiements_analytique_2016_-_RCA_c53309ea.xlsx
-Date extraction : 15/06/2026 20:39:47
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

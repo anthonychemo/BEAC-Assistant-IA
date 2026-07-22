@@ -1,7 +1,0 @@
-Source PDF : Avis_d'appel_d'offres_national_ouvert_n°15_BEAC_CMR-YDE_AONO_Biens_2024_pour_le_câblage_et_3d3a364a.pdf
-Chemin original : scraping\beac_data\La beac\Mises_En_Concurrence\Avis_d'appel_d'offres_national_ouvert_n°15_BEAC_CMR-YDE_AONO_Biens_2024_pour_le_câblage_et_3d3a364a.pdf
-Date extraction : 15/06/2026 18:48:42
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

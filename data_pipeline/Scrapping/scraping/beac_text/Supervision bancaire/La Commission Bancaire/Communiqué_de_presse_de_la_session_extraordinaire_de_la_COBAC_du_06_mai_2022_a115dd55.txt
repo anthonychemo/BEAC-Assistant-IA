@@ -1,7 +1,0 @@
-Source PDF : Communiqué_de_presse_de_la_session_extraordinaire_de_la_COBAC_du_06_mai_2022_a115dd55.pdf
-Chemin original : scraping\beac_data\Supervision bancaire\La Commission Bancaire\Communiqué_de_presse_de_la_session_extraordinaire_de_la_COBAC_du_06_mai_2022_a115dd55.pdf
-Date extraction : 15/06/2026 22:31:29
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.
