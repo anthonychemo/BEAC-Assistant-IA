@@ -19,37 +19,50 @@ export default defineConfig(() => {
         '/api/chat/stream': {
           target: 'http://localhost:8000',
           changeOrigin: true,
-          rewrite: () => '/query/stream',
+          rewrite: (path) => path.replace(/^\/api\/chat\/stream/, '/query/stream'),
         },
         // POST /api/chat -> POST /query
         '/api/chat': {
           target: 'http://localhost:8000',
           changeOrigin: true,
-          rewrite: () => '/query',
+          rewrite: (path) => path.replace(/^\/api\/chat/, '/query'),
         },
         // POST /api/cache/clear -> POST /cache/clear
         '/api/cache/clear': {
           target: 'http://localhost:8000',
           changeOrigin: true,
-          rewrite: () => '/cache/clear',
+          rewrite: (path) => path.replace(/^\/api\/cache\/clear/, '/cache/clear'),
         },
-        // GET /api/documents -> GET /documents
+        // GET /api/documents -> GET /documents (la query string, ex: search/doc_type/country/sort,
+        // doit etre preservee sinon les filtres de la bibliotheque sont silencieusement ignores)
         '/api/documents': {
           target: 'http://localhost:8000',
           changeOrigin: true,
-          rewrite: () => '/documents',
+          rewrite: (path) => path.replace(/^\/api\/documents/, '/documents'),
         },
-        // GET /api/files/* -> GET /files/*
+        // GET /api/metadata -> GET /metadata (categories/pays/annees/modeles)
+        '/api/metadata': {
+          target: 'http://localhost:8000',
+          changeOrigin: true,
+          rewrite: (path) => path.replace(/^\/api\/metadata/, '/metadata'),
+        },
+        // GET /api/health -> GET /health
+        '/api/health': {
+          target: 'http://localhost:8000',
+          changeOrigin: true,
+          rewrite: (path) => path.replace(/^\/api\/health/, '/health'),
+        },
+        // GET /api/files/* -> GET /images/* (le backend sert les images extraites sous /images)
         '/api/files': {
           target: 'http://localhost:8000',
           changeOrigin: true,
-          rewrite: (path) => path.replace(/^\/api\/files/, '/files'),
+          rewrite: (path) => path.replace(/^\/api\/files/, '/images'),
         },
-        // GET /api/models -> GET /models
-        '/api/models': {
+        // POST /api/feedback -> POST /feedback (pouce haut/bas sur une reponse du chat)
+        '/api/feedback': {
           target: 'http://localhost:8000',
           changeOrigin: true,
-          rewrite: () => '/models',
+          rewrite: (path) => path.replace(/^\/api\/feedback/, '/feedback'),
         },
       },
     },

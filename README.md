@@ -1,93 +1,73 @@
 # BEAC-Assistant-IA
-Conception et implémentation d'une architecture RAG d'un chatbot permettant d'assister les utilisateurs sur les informations du site officiel de la BEAC.
 
-## Architecture du projet
+Chatbot RAG (Retrieval-Augmented Generation) assistant les utilisateurs sur les informations officielles de la **BEAC** (Banque des États de l'Afrique Centrale) : politique monétaire, statistiques économiques, réglementation, communiqués, etc.
 
-Voici l'arborescence principale :
+## Arborescence réelle du projet
 
 ```
 BEAC-Assistant-IA/
-├─ Backend/
-│  ├─ main.py
-│  ├─ requirements.txt
-│  └─ README.md
-├─ Frontend/
-│  ├─ server.ts
-│  ├─ package.json
-│  └─ vite.config.ts
-├─ data_pipeline/
-│  ├─ Scrapping/
-│  │  ├─ scraper.py
-│  │  ├─ test_connexion.py
-│  │  ├─ requirements.txt
-│  │  └─ README.md
-│  ├─ Chunking/
-│  │  ├─ chunking.py
-│  │  └─ README.md
-│  └─ Vectorization/
-│     ├─ ingest_to_pgvector.py
-│     └─ README.md
-├─ .env.example
+├─ beac-rag-backend/     # API FastAPI + pipeline RAG (voir son propre README)
+├─ Frontend/             # Interface React/Vite/TypeScript
+├─ beac_data/             # Corpus brut scrape (PDF/Excel), non versionne (.gitignore)
 └─ README.md
 ```
 
-## Pipeline RAG local
+> Ce README a été mis à jour pour refléter l'architecture réellement en place.
+> L'ancienne version décrivait un backend Ollama local et des dossiers
+> `Backend/`, `data_pipeline/` qui n'existent plus dans ce projet.
 
-Ce projet utilise :
-- Scraping de la BEAC dans `data_pipeline/Scrapping`
-- Chunking du texte dans `data_pipeline/Chunking`
-- Vectorisation et import en base dans `data_pipeline/Vectorization`
-- Backend Python FastAPI dans `Backend/main.py` pour la recherche RAG
-- Frontend React/Vite dans `Frontend/` avec proxy vers FastAPI en développement
+## Vue d'ensemble de l'architecture
 
-## Étapes d'installation sur Windows
+- **Frontend** (`Frontend/`) : React 19 + Vite 6 + TypeScript. En développement, `npm run dev`
+  lance Vite qui proxifie les appels `/api/*` vers le backend (`vite.config.ts`). En
+  production, `npm start` lance un petit serveur Express (`server.ts`) qui sert le build
+  et relaie lui-même `/api/*` vers `BACKEND_URL` (voir `Frontend/.env.example`).
+- **Backend** (`beac-rag-backend/`) : API FastAPI exposant le moteur RAG. LLM via
+  **OpenRouter** (modèle gratuit, plus de dépendance à Ollama/GPU local), embeddings
+  **BGE-M3** en local (CPU), base **PostgreSQL + pgvector** (Supabase), documents source
+  stockés sur **Cloudflare R2**. Voir `beac-rag-backend/README.md` pour l'installation
+  complète, la liste des endpoints et le détail du pipeline.
+- **`beac_data/`** : corpus brut issu du scraping du site beac.int (PDF, Excel, Word),
+  organisé par rubrique. **Ce dossier n'est pas branché sur le pipeline d'ingestion** :
+  `scripts/ingest.py` (dans `beac-rag-backend/`) lit exclusivement depuis le bucket
+  Cloudflare R2, pas depuis le disque local. Pour indexer ce corpus, il faut d'abord
+  téléverser ces fichiers vers le bucket R2 configuré (`R2_BUCKET_NAME` dans `.env`),
+  avec la métadonnée objet attendue par le scraper (`lien`, `module`, `section`,
+  `nom_pdf`, `date_publication`, `type_document` — voir `src/ingestion/r2_client.py`).
+  Ce dossier est volumineux (plusieurs Go) et exclu de `.gitignore`.
 
-1. Installer PostgreSQL pour Windows.
-   - Téléchargez l'installateur officiel depuis https://www.postgresql.org/download/windows/
-   - Installez PostgreSQL et activez l'option `Stack Builder` pour les extensions.
+## Démarrage rapide
 
-2. Installer l'extension `pgvector`.
-   - Ouvrez `psql` ou `pgAdmin`.
-   - Lancez :
-     ```sql
-     CREATE EXTENSION IF NOT EXISTS vector;
-     ```
-   - Si l'extension n'est pas disponible, utilisez Stack Builder ou installez `pgvector` depuis GitHub :
-     https://github.com/pgvector/pgvector
+### Backend
 
-3. Créer la base de données :
-   ```psql
-   CREATE DATABASE beac_rag;
-   ```
+Voir `beac-rag-backend/README.md` pour la procédure complète (Python, Supabase,
+Tesseract/Poppler, variables d'environnement). En résumé :
 
-4. Configurer les variables d'environnement.
-   - Dupliquez `.env.example` en `.env` à la racine du projet.
-   - Ajustez `PGHOST`, `PGPORT`, `PGUSER`, `PGPASSWORD`, `PGDATABASE`, `OLLAMA_MODEL`, `OLLAMA_EMBED_MODEL`.
+```powershell
+cd beac-rag-backend
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+copy .env.example .env   # puis renseigner les vraies valeurs
+python -m scripts.setup_db
+python main.py            # API sur http://localhost:8000
+```
 
-5. Installer les dépendances Python pour l'ingestion :
-   ```bash
-   cd data_pipeline/Scrapping
-   python -m pip install -r requirements.txt
-   ```
+### Frontend
 
-6. Exécuter le script d'indexation :
-   ```bash
-   python ingest_to_pgvector.py --source-dir "scraping/beac_text"
-   ```
-
-7. Installer les dépendances Node du frontend :
-   ```bash
-   cd Frontend
-   npm install
-   ```
-
-8. Lancer le serveur local :
-   ```bash
-   npm run dev
-   ```
+```powershell
+cd Frontend
+npm install
+copy .env.example .env    # PORT / BACKEND_URL (utilisés seulement par npm start en prod)
+npm run dev                # http://localhost:5173, proxy vers le backend sur :8000
+```
 
 ## Notes
 
-- Le backend de `Frontend/server.ts` utilise `ollama embed` pour créer les embeddings et `ollama run` pour répondre aux prompts.
-- Si `ollama` n'est pas sur le PATH Windows, ajoutez-le ou utilisez une invite de commandes où `ollama` fonctionne.
-- La table PostgreSQL `beac_documents` est créée automatiquement avec la dimension d'embedding détectée par le script.
+- Le CORS du backend est restreint aux origines listées dans `CORS_ALLOW_ORIGINS`
+  (`beac-rag-backend/.env`) — ajouter l'URL de production quand elle existe.
+- La route `POST /cache/clear` est protégée par un jeton (`ADMIN_API_TOKEN` +
+  header `X-Admin-Token`) ; elle est désactivée tant que ce jeton n'est pas configuré.
+- Le sélecteur de modèle dans l'assistant reflète les modèles réellement configurés
+  côté backend (`config/config.yaml` → `llm.model` / `llm.fallback_model`), exposés
+  via `GET /metadata`.

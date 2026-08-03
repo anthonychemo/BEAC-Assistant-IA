@@ -1,4 +1,4 @@
-"""Connexion PostgreSQL via SQLAlchemy (pool reduit pour economiser la RAM)."""
+"""Connexion PostgreSQL via SQLAlchemy (pool volontairement modeste pour economiser la RAM)."""
 from __future__ import annotations
 
 from contextlib import contextmanager
@@ -11,8 +11,11 @@ from src.config import settings
 
 engine = create_engine(
     settings.database_url,
-    pool_size=3,
-    max_overflow=2,
+    # Releve de 3/2 a 5/5 : la recherche vectorielle (chat + bibliotheque)
+    # peut desormais s'executer en concurrence sans saturer le pool, chaque
+    # connexion restant tres legere en RAM par rapport au modele d'embedding.
+    pool_size=5,
+    max_overflow=5,
     pool_pre_ping=True,
     future=True,
 )

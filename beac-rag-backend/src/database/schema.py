@@ -11,6 +11,7 @@ from datetime import datetime
 
 from pgvector.sqlalchemy import Vector
 from sqlalchemy import (
+    Boolean,
     BigInteger,
     DateTime,
     Float,
@@ -107,6 +108,23 @@ class Statistic(Base):
     unit: Mapped[str | None] = mapped_column(String(32), nullable=True)
     raw_label: Mapped[str | None] = mapped_column(Text, nullable=True)
     source_sheet: Mapped[str | None] = mapped_column(Text, nullable=True)
+
+
+class Feedback(Base):
+    """Retour utilisateur (pouce haut/bas) sur une reponse du chat.
+
+    Alimente le taux de satisfaction reel affiche dans le tableau de bord
+    admin, a la place d'un pourcentage fige en dur.
+    """
+
+    __tablename__ = "feedback"
+
+    id: Mapped[int] = mapped_column(BigInteger, primary_key=True, autoincrement=True)
+    question: Mapped[str] = mapped_column(Text)
+    is_positive: Mapped[bool] = mapped_column(Boolean)
+    query_type: Mapped[str | None] = mapped_column(String(16), nullable=True)
+    model_key: Mapped[str | None] = mapped_column(String(32), nullable=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime, server_default=func.now())
 
 
 # Index composites utiles

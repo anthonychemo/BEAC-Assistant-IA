@@ -1,19 +1,89 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { BookOpen, Activity, Scale, BellRing, ArrowRight, ChevronRight, CheckCircle, Sparkles, Search } from "lucide-react";
 import { motion } from "motion/react";
+import { DashboardMetrics } from "../types";
 
 interface LandingPageProps {
   onSelectSuggestion: (text: string) => void;
   setTab: (tab: string) => void;
   setPreSelectedDocType: (type: string | null) => void;
+  metrics: DashboardMetrics;
+}
+
+// Formatage compact francais : entier avec espaces (5 357) sous 10 000,
+// notation compacte au-dela (119 569 -> "120 k") pour rester lisible dans une tuile.
+function formatStat(value: number): string {
+  if (value >= 10000) {
+    return new Intl.NumberFormat("fr-FR", { notation: "compact", maximumFractionDigits: 1 }).format(value);
+  }
+  return new Intl.NumberFormat("fr-FR").format(value);
+}
+
+// Reserve de questions couvrant les grands themes du corpus BEAC ; on en
+// tire 3 au hasard a chaque visite plutot que d'afficher toujours les memes.
+const SUGGESTION_POOL = [
+  "Taux d'inflation actuel",
+  "Réglementation bancaire",
+  "Politique monétaire de la CEMAC",
+  "Supervision des établissements de crédit",
+  "Systèmes de paiement régionaux",
+  "Réglementation des changes",
+  "Statistiques économiques récentes",
+  "Émission de billets et pièces",
+  "Rôle de la Commission Bancaire (COBAC)",
+  "Masse monétaire en zone CEMAC",
+];
+
+function sampleSuggestions(pool: string[], count: number): string[] {
+  const shuffled = [...pool];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled.slice(0, count);
 }
 
 export default function LandingPage({
   onSelectSuggestion,
   setTab,
   setPreSelectedDocType,
+  metrics,
 }: LandingPageProps) {
   const [queryInput, setQueryInput] = useState("");
+  const [suggestions, setSuggestions] = useState<string[]>(() => sampleSuggestions(SUGGESTION_POOL, 3));
+  const [countryCount, setCountryCount] = useState<number | null>(null);
+  const [categoryCount, setCategoryCount] = useState<number | null>(null);
+
+  // Une fois les vraies annees/categories/pays du corpus connus, on enrichit
+  // la reserve de suggestions (evite un "Rapports annuels 2023" fige qui
+  // devient faux avec le temps) et on alimente les tuiles de stats reelles.
+  useEffect(() => {
+    fetch("/api/metadata")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((data) => {
+        const years: number[] = data?.years ?? [];
+        const categories: string[] = data?.categories ?? [];
+        const countries: string[] = data?.countries ?? [];
+        setCategoryCount(categories.length);
+        setCountryCount(countries.length);
+        if (years.length === 0) return;
+        const latestYear = Math.max(...years);
+        const pool = [
+          ...SUGGESTION_POOL,
+          `Rapports annuels ${latestYear}`,
+          `Bulletins économiques ${latestYear}`,
+        ];
+        setSuggestions(sampleSuggestions(pool, 3));
+      })
+      .catch(() => {});
+  }, []);
+
+  const stats: { label: string; value: number | null }[] = [
+    { label: "Documents indexés", value: metrics.documentsIndexed },
+    { label: "Passages analysés", value: metrics.ragChunks },
+    { label: "Pays couverts", value: countryCount },
+    { label: "Rubriques documentaires", value: categoryCount },
+  ];
 
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -107,11 +177,7 @@ export default function LandingPage({
             transition={{ duration: 0.9, delay: 0.44 }}
             className="flex flex-wrap justify-center gap-3 mt-8"
           >
-            {[
-              "Taux d'inflation actuel",
-              "Réglementation bancaire",
-              "Rapports annuels 2023",
-            ].map((text, idx) => (
+            {suggestions.map((text, idx) => (
               <button
                 key={idx}
                 onClick={() => onSelectSuggestion(text)}
@@ -235,18 +301,33 @@ export default function LandingPage({
       {/* Feature Spotlight Section */}
       <section className="bg-[#edeeef] py-20 border-t border-b border-[#c4c6d0]/30 select-none">
         <div className="max-w-[1280px] mx-auto px-4 md:px-16 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-          <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-video border border-[#c4c6d0]/50 bg-white">
-            <img
-              className="w-full h-full object-cover"
-              referrerPolicy="no-referrer"
-              alt="Dashboard de données de la BEAC"
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuAYkB_V7mxaErTHKoGuUkMYV3hC3W-6z1YebPQ9ZSQ7011iqmubz_hwRZWGAbdFnNR5ae6fTZ9aXRoKKJ4KvksGICT26jq4pgG3akd2sVAH024i3-6QW4Y_h_SlZcGgyo9BaAdD0PQ_F_PVLwKn1-PfEpF0V9Fi3hokIQ-uYHggpQE9bCm8WhqyoLX0-fWebsF-pQ30LUE4ZxdYMHbqxg4pQwgX8sDtbmqcNjNzOuKypJRAKfHprzXjq8DqbNa6CSzTMuO0pOfJf7c"
-            />
-            <div className="absolute inset-0 bg-[#0D2D5E]/10" />
-            <div className="absolute bottom-4 left-4 right-4 p-4 md:p-6 bg-white/5 backdrop-blur-md rounded-xl border border-white/20 shadow-lg shadow-black/10">
-              <div className="text-[#C8971A] font-sans font-bold text-[10px] md:text-xs uppercase tracking-wider mb-1">
-                Technologie de pointe
-              </div>
+          <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-video border border-[#c4c6d0]/50 bg-gradient-to-br from-[#0D2D5E] to-[#0a2249] p-6 md:p-8 flex flex-col">
+            <div className="flex items-center justify-between mb-5 md:mb-6">
+              <span className="text-[#C8971A] font-sans font-bold text-[10px] md:text-xs uppercase tracking-wider">
+                La BEAC en chiffres
+              </span>
+              <Activity className="w-5 h-5 text-white/30" aria-hidden="true" />
+            </div>
+
+            {/* Tuiles de statistiques reelles (documents/chunks via /api/health,
+                pays/rubriques via /api/metadata) — remplace l'ancien graphique decoratif. */}
+            <div className="flex-1 grid grid-cols-2 gap-3 md:gap-4">
+              {stats.map((stat) => (
+                <div
+                  key={stat.label}
+                  className="flex flex-col justify-center bg-white/5 border border-white/10 rounded-xl px-4 py-4 md:py-5"
+                >
+                  <span className="font-sans font-bold text-white text-2xl md:text-4xl tracking-tight">
+                    {stat.value === null ? "—" : formatStat(stat.value)}
+                  </span>
+                  <span className="text-white/60 font-sans text-[10px] md:text-xs uppercase tracking-wider mt-1.5">
+                    {stat.label}
+                  </span>
+                </div>
+              ))}
+            </div>
+
+            <div className="mt-5 md:mt-6 pt-4 border-t border-white/10">
               <div className="text-white font-sans font-extrabold text-sm md:text-base leading-tight">
                 Analyse sémantique des données monétaires régionales
               </div>

@@ -17,12 +17,10 @@ import torch
 
 # Desactive les gradients (inutile en inference) et maximise les threads CPU.
 torch.set_grad_enabled(False)
-#torch.set_num_threads(int(os.environ.get("OMP_NUM_THREADS", os.cpu_count() or 4)))
-
-torch.set_num_threads(int(os.environ.get("OMP_NUM_THREADS", 8)))
-# Force 8 threads (4 cores × 2 HT) — os.cpu_count() peut retourner 6 selon Windows
-
-# Ajouter après :
+# Nombre de threads intra-op : par defaut os.cpu_count(), surchargeable via
+# OMP_NUM_THREADS si os.cpu_count() sous-estime le nombre de coeurs logiques
+# (observe sur certaines configs Windows).
+torch.set_num_threads(int(os.environ.get("OMP_NUM_THREADS", os.cpu_count() or 8)))
 torch.set_num_interop_threads(2)   # threads pour les ops parallèles inter-opérations
 
 
@@ -65,13 +63,21 @@ class Embedder:
         )
         return vectors.tolist()
 
-    def embed_query(self, text: str) -> list[float]:
+    @lru_cache(maxsize=1024)
+    def _embed_query_cached(self, normalized_text: str) -> tuple[float, ...]:
         vector = self.model.encode(
-            _QUERY_PREFIX + text,
+            _QUERY_PREFIX + normalized_text,
             normalize_embeddings=_NORMALIZE,
             convert_to_numpy=True,
         )
-        return vector.tolist()
+        return tuple(vector.tolist())
+
+    def embed_query(self, text: str) -> list[float]:
+        # Questions identiques (mêmes recherches repétées, frappe/effacement
+        # dans la barre de recherche bibliothèque) réutilisent l'embedding
+        # déjà calculé au lieu de refaire une inférence CPU à chaque appel.
+        normalized = " ".join(text.strip().lower().split())
+        return list(self._embed_query_cached(normalized))
 
 
 @lru_cache

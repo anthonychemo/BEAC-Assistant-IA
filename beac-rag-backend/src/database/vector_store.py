@@ -32,12 +32,13 @@ class RetrievedChunk:
 
 
 def create_schema() -> None:
-    """Cree les extensions, tables et l'index HNSW."""
+    """Cree les extensions, tables et les index (HNSW + trigram texte)."""
     with engine.begin() as conn:
         conn.execute(text("CREATE EXTENSION IF NOT EXISTS vector"))
         conn.execute(text("CREATE EXTENSION IF NOT EXISTS pg_trgm"))
     Base.metadata.create_all(engine)
     _create_vector_index()
+    _create_text_search_indexes()
 
 
 def _create_vector_index() -> None:
@@ -61,6 +62,25 @@ def _create_vector_index() -> None:
                     f"WITH (lists = 100)"
                 )
             )
+
+
+def _create_text_search_indexes() -> None:
+    """Index trigram (pg_trgm) pour que les recherches ILIKE '%terme%' de la
+    bibliotheque restent rapides meme quand le corpus scrape grandit, au lieu
+    d'un scan sequentiel sur documents.filename/subcategory."""
+    with engine.begin() as conn:
+        conn.execute(
+            text(
+                "CREATE INDEX IF NOT EXISTS ix_documents_filename_trgm "
+                "ON documents USING gin (filename gin_trgm_ops)"
+            )
+        )
+        conn.execute(
+            text(
+                "CREATE INDEX IF NOT EXISTS ix_documents_subcategory_trgm "
+                "ON documents USING gin (subcategory gin_trgm_ops)"
+            )
+        )
 
 
 def build_chunk_objects(
@@ -94,13 +114,18 @@ def similarity_search(
 ) -> list[RetrievedChunk]:
     """Recherche les chunks les plus proches.
 
-    `filters` filtre sur les metadonnees du document jointes (category, country, year).
+    `filters` filtre sur les metadonnees du document jointes (category, country,
+    year), ou directement sur `document_id` (chunks.document_id) pour restreindre
+    la recherche a un document precis deja identifie (ex: bouton "Analyser IA").
     """
     embedding_literal = "[" + ",".join(str(float(x)) for x in query_embedding) + "]"
 
     where_clauses: list[str] = []
     params: dict[str, Any] = {"top_k": top_k}
     if filters:
+        if filters.get("document_id") is not None:
+            where_clauses.append("c.document_id = :document_id")
+            params["document_id"] = filters["document_id"]
         for key in ("category", "country", "year"):
             if filters.get(key) is not None:
                 where_clauses.append(f"d.{key} = :{key}")

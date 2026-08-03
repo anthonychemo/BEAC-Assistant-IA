@@ -20,7 +20,8 @@ from src.utils.logger import logger
 _MAX_ROWS = int(CONFIG.get("retrieval", {}).get("sql_max_rows", 50))
 
 _FORBIDDEN = re.compile(
-    r"\b(insert|update|delete|drop|alter|create|truncate|grant|revoke|copy)\b",
+    r"\b(insert|update|delete|drop|alter|create|truncate|grant|revoke|copy|into|"
+    r"execute|call|merge|vacuum|reindex|lock)\b",
     re.IGNORECASE,
 )
 

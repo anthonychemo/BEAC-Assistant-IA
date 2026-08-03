@@ -103,12 +103,21 @@ python main.py
 
 ## Endpoints API
 
-| Méthode | Route             | Description                              |
-|---------|-------------------|------------------------------------------|
-| GET     | `/health`         | État + comptes (documents, chunks, stats)|
-| POST    | `/query`          | Question → réponse JSON + sources        |
-| POST    | `/query/stream`   | Réponse en streaming (token par token)   |
-| GET     | `/metadata`       | Catégories / pays / années (filtres UI)  |
+| Méthode | Route                          | Description                                          |
+|---------|--------------------------------|-------------------------------------------------------|
+| GET     | `/health`                      | État + comptes (documents, chunks, stats)              |
+| POST    | `/query`                       | Question → réponse JSON + sources (accepte `model_key`)|
+| POST    | `/query/stream`                | Réponse en streaming (texte brut, 1re ligne = JSON meta)|
+| GET     | `/documents`                   | Liste paginée/recherchable des documents indexés        |
+| GET     | `/metadata`                    | Catégories / pays / années / modèles (filtres UI)        |
+| POST    | `/cache/clear`                 | Vide le cache (protégé par header `X-Admin-Token`)       |
+| GET     | `/images/{doc_name}/{filename}`| Sert une image extraite d'un PDF                         |
+
+`QueryRequest` accepte un champ optionnel `model_key` (`"primary"` ou `"fallback"`,
+voir `GET /metadata` → `models`) pour choisir explicitement le modèle LLM à utiliser.
+
+CORS restreint aux origines listées dans `CORS_ALLOW_ORIGINS` (`.env`). `/cache/clear`
+est désactivée (503) tant que `ADMIN_API_TOKEN` n'est pas configuré.
 
 Exemple :
 
@@ -131,6 +140,7 @@ beac-rag-backend/
 ├── scripts/
 │   ├── setup_db.py             # Crée tables + index HNSW
 │   ├── ingest.py               # Ingestion des données
+│   ├── backfill_source_urls.py # Renseigne source_url depuis beac_pdfs_liens.xlsx
 │   ├── warmup.py               # Prépare le client LLM au démarrage
 │   ├── evaluate_rag.py         # Évaluation automatique (LLM judge)
 │   └── chat.py                 # Chat CLI de test
