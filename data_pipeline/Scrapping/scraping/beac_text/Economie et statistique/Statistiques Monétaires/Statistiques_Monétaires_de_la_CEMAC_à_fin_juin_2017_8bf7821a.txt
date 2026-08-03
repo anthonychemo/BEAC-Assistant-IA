@@ -1,7 +1,0 @@
-Source PDF : Statistiques_Monétaires_de_la_CEMAC_à_fin_juin_2017_8bf7821a.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Monétaires\Statistiques_Monétaires_de_la_CEMAC_à_fin_juin_2017_8bf7821a.xls
-Date extraction : 15/06/2026 20:43:05
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

@@ -1,7 +1,0 @@
-Source PDF : Communiqué_d'annonce_d'émission_des_BTA_du_03_juin_2020_-_République_du_Gabon_30275bc0.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\Communiqué_d'annonce_d'émission_des_BTA_du_03_juin_2020_-_République_du_Gabon_30275bc0.pdf
-Date extraction : 15/06/2026 20:21:14
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

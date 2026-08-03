@@ -1,7 +1,0 @@
-Source PDF : Additif_N°01_relatif_à_la_date_limite_de_remise_des_soumissions_-_Appel_d'appel_d'offres_i_4d83f86a.pdf
-Chemin original : scraping\beac_data\La beac\Mises_En_Concurrence\Additif_N°01_relatif_à_la_date_limite_de_remise_des_soumissions_-_Appel_d'appel_d'offres_i_4d83f86a.pdf
-Date extraction : 15/06/2026 18:34:11
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

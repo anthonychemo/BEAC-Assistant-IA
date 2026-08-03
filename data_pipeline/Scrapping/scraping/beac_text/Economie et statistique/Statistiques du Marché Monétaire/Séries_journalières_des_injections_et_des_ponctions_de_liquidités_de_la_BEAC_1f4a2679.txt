@@ -1,7 +1,0 @@
-Source PDF : Séries_journalières_des_injections_et_des_ponctions_de_liquidités_de_la_BEAC_1f4a2679.xlsx
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques du Marché Monétaire\Séries_journalières_des_injections_et_des_ponctions_de_liquidités_de_la_BEAC_1f4a2679.xlsx
-Date extraction : 15/06/2026 20:44:10
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

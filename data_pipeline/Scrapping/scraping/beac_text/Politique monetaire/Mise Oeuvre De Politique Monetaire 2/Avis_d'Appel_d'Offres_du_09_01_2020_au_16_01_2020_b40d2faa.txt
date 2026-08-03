@@ -1,7 +1,0 @@
-Source PDF : Avis_d'Appel_d'Offres_du_09_01_2020_au_16_01_2020_b40d2faa.pdf
-Chemin original : scraping\beac_data\Politique monetaire\Mise Oeuvre De Politique Monetaire 2\Avis_d'Appel_d'Offres_du_09_01_2020_au_16_01_2020_b40d2faa.pdf
-Date extraction : 15/06/2026 19:42:11
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

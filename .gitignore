@@ -19,6 +19,7 @@ Backend/
 # Donnees scrappees
 data_pipeline/Scrapping/scraping/beac_data/
 beac_data/
+data_pipeline/Scrapping/
 
 # Logs
 *.log

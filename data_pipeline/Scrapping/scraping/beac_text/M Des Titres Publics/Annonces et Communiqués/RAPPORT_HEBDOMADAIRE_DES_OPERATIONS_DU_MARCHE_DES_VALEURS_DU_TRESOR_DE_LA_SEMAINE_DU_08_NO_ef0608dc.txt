@@ -1,7 +1,0 @@
-Source PDF : RAPPORT_HEBDOMADAIRE_DES_OPERATIONS_DU_MARCHE_DES_VALEURS_DU_TRESOR_DE_LA_SEMAINE_DU_08_NO_ef0608dc.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\RAPPORT_HEBDOMADAIRE_DES_OPERATIONS_DU_MARCHE_DES_VALEURS_DU_TRESOR_DE_LA_SEMAINE_DU_08_NO_ef0608dc.pdf
-Date extraction : 15/06/2026 20:06:00
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

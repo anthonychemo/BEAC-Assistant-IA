@@ -1,7 +1,0 @@
-Source PDF : Statistiques_Monétaires_du_Gabon_à_fin_juin_2017_555ec55d.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Monétaires\Statistiques_Monétaires_du_Gabon_à_fin_juin_2017_555ec55d.xls
-Date extraction : 15/06/2026 20:43:21
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

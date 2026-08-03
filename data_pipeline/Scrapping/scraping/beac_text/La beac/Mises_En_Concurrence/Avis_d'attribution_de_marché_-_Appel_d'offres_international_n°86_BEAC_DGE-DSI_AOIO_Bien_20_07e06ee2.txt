@@ -1,7 +1,0 @@
-Source PDF : Avis_d'attribution_de_marché_-_Appel_d'offres_international_n°86_BEAC_DGE-DSI_AOIO_Bien_20_07e06ee2.pdf
-Chemin original : scraping\beac_data\La beac\Mises_En_Concurrence\Avis_d'attribution_de_marché_-_Appel_d'offres_international_n°86_BEAC_DGE-DSI_AOIO_Bien_20_07e06ee2.pdf
-Date extraction : 15/06/2026 18:35:09
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

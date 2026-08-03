@@ -1,7 +1,0 @@
-Source PDF : Communiqué_d'annonce_d'émission_des_BTA_à_26_semaines_du_30_août_2023_-_République_du_Gabo_8d203734.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\Communiqué_d'annonce_d'émission_des_BTA_à_26_semaines_du_30_août_2023_-_République_du_Gabo_8d203734.pdf
-Date extraction : 15/06/2026 19:49:29
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

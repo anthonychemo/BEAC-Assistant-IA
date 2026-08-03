@@ -1,7 +1,0 @@
-Source PDF : Aviso_de_comunicado_de_la_emision_de_Bonos_del_tesoro_del_16_de_octubre_2019_-_Republica_d_19cdc1cc.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\Aviso_de_comunicado_de_la_emision_de_Bonos_del_tesoro_del_16_de_octubre_2019_-_Republica_d_19cdc1cc.pdf
-Date extraction : 15/06/2026 20:29:35
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

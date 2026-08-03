@@ -1,7 +1,0 @@
-Source PDF : Avis_d'Appel_d'Offres_AON_OPIL_N°03_E7_2020-BEAC_du_14_janvier_2020_c62b788c.pdf
-Chemin original : scraping\beac_data\Politique monetaire\Mise Oeuvre De Politique Monetaire 2\Avis_d'Appel_d'Offres_AON_OPIL_N°03_E7_2020-BEAC_du_14_janvier_2020_c62b788c.pdf
-Date extraction : 15/06/2026 19:42:03
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

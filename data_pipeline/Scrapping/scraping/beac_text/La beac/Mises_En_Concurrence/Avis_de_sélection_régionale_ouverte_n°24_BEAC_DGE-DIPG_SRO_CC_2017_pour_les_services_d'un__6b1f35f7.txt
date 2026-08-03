@@ -1,7 +1,0 @@
-Source PDF : Avis_de_sélection_régionale_ouverte_n°24_BEAC_DGE-DIPG_SRO_CC_2017_pour_les_services_d'un__6b1f35f7.pdf
-Chemin original : scraping\beac_data\La beac\Mises_En_Concurrence\Avis_de_sélection_régionale_ouverte_n°24_BEAC_DGE-DIPG_SRO_CC_2017_pour_les_services_d'un__6b1f35f7.pdf
-Date extraction : 15/06/2026 19:13:19
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

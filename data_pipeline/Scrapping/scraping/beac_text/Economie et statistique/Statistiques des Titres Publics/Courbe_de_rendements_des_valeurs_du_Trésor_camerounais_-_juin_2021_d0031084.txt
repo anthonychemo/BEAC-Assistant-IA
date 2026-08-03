@@ -1,7 +1,0 @@
-Source PDF : Courbe_de_rendements_des_valeurs_du_Trésor_camerounais_-_juin_2021_d0031084.pdf
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbe_de_rendements_des_valeurs_du_Trésor_camerounais_-_juin_2021_d0031084.pdf
-Date extraction : 15/06/2026 20:22:31
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

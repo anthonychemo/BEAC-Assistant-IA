@@ -1,7 +1,0 @@
-Source PDF : Appel_d'offres_régional_ouvert_n°169_BEAC_SG-DPMG_AORO_Bien_2022_pour_la_fourniture,_l'ins_50957494.pdf
-Chemin original : scraping\beac_data\La beac\Mises_En_Concurrence\Appel_d'offres_régional_ouvert_n°169_BEAC_SG-DPMG_AORO_Bien_2022_pour_la_fourniture,_l'ins_50957494.pdf
-Date extraction : 15/06/2026 18:53:40
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

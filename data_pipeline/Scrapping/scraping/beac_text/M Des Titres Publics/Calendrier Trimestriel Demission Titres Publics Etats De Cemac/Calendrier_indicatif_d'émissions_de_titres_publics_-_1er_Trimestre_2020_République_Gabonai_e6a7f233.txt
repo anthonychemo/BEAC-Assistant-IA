@@ -1,7 +1,0 @@
-Source PDF : Calendrier_indicatif_d'émissions_de_titres_publics_-_1er_Trimestre_2020_République_Gabonai_e6a7f233.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Calendrier Trimestriel Demission Titres Publics Etats De Cemac\Calendrier_indicatif_d'émissions_de_titres_publics_-_1er_Trimestre_2020_République_Gabonai_e6a7f233.pdf
-Date extraction : 15/06/2026 19:35:32
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

@@ -1,7 +1,0 @@
-Source PDF : Etat_de_suivi_de_la_circulation_fiduciaire_-_Exercice_2024_a50a0b66.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques de l’Emission Monétaire\Etat_de_suivi_de_la_circulation_fiduciaire_-_Exercice_2024_a50a0b66.xls
-Date extraction : 15/06/2026 20:36:44
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

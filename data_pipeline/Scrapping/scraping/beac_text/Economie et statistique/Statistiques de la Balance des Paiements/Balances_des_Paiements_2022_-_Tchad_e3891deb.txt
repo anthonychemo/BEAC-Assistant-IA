@@ -1,7 +1,0 @@
-Source PDF : Balances_des_Paiements_2022_-_Tchad_e3891deb.xlsx
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques de la Balance des Paiements\Balances_des_Paiements_2022_-_Tchad_e3891deb.xlsx
-Date extraction : 15/06/2026 20:38:29
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

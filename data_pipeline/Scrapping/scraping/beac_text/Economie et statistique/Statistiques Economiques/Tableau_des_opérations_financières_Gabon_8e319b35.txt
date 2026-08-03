@@ -1,7 +1,0 @@
-Source PDF : Tableau_des_opérations_financières_Gabon_8e319b35.xlsx
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Economiques\Tableau_des_opérations_financières_Gabon_8e319b35.xlsx
-Date extraction : 15/06/2026 20:34:21
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

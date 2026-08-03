@@ -1,7 +1,0 @@
-Source PDF : Rapport_spécial_sur_le_Compte_d'Opération_excercice_clos_le_31_décembre_2014_b48f23d7.pdf
-Chemin original : scraping\beac_data\Publications\Etats financiers\Rapport_spécial_sur_le_Compte_d'Opération_excercice_clos_le_31_décembre_2014_b48f23d7.pdf
-Date extraction : 15/06/2026 20:55:20
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

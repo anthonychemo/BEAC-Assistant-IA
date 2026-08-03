@@ -1,7 +1,0 @@
-Source PDF : Communiqué_de_Presse_du_Conseil_de_Surveillance_de_la_CRCT_du_22_juin_2022_609b3dcd.pdf
-Chemin original : scraping\beac_data\La beac\Communiqués de presse\Communiqué_de_Presse_du_Conseil_de_Surveillance_de_la_CRCT_du_22_juin_2022_609b3dcd.pdf
-Date extraction : 15/06/2026 21:42:01
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

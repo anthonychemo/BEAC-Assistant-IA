@@ -1,7 +1,0 @@
-Source PDF : Communiqué_des_résultats_de_l'appel_d'offres_AON_OPIL_N°24_E7_2024-BEAC_du_11_juin_2024_85fc0692.pdf
-Chemin original : scraping\beac_data\Politique monetaire\Mise Oeuvre De Politique Monetaire 2\Communiqué_des_résultats_de_l'appel_d'offres_AON_OPIL_N°24_E7_2024-BEAC_du_11_juin_2024_85fc0692.pdf
-Date extraction : 15/06/2026 19:18:15
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

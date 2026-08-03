@@ -1,7 +1,0 @@
-Source PDF : Courbes_de_rendements_des_titres_publics_de_la_CEMAC_-_avril_2025_a6062fcf.pdf
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbes_de_rendements_des_titres_publics_de_la_CEMAC_-_avril_2025_a6062fcf.pdf
-Date extraction : 15/06/2026 20:18:05
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

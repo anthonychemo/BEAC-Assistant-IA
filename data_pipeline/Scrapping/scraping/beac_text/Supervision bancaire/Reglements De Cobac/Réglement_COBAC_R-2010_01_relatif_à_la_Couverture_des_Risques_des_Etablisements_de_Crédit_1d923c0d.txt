@@ -1,7 +1,0 @@
-Source PDF : Réglement_COBAC_R-2010_01_relatif_à_la_Couverture_des_Risques_des_Etablisements_de_Crédit_1d923c0d.pdf
-Chemin original : scraping\beac_data\Supervision bancaire\Reglements De Cobac\Réglement_COBAC_R-2010_01_relatif_à_la_Couverture_des_Risques_des_Etablisements_de_Crédit_1d923c0d.pdf
-Date extraction : 15/06/2026 19:53:34
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

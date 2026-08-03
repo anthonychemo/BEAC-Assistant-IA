@@ -1,7 +1,0 @@
-Source PDF : Final_report_of_the_22nd_Annual_meeting_of_the_CBSWCA_e73bc757.pdf
-Chemin original : scraping\beac_data\Supervision bancaire\La Commission Bancaire\Final_report_of_the_22nd_Annual_meeting_of_the_CBSWCA_e73bc757.pdf
-Date extraction : 15/06/2026 22:30:52
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

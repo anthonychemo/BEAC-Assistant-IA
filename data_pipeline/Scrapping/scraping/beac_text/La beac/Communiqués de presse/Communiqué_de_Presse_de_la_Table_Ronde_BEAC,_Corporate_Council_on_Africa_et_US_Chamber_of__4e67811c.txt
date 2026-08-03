@@ -1,7 +1,0 @@
-Source PDF : Communiqué_de_Presse_de_la_Table_Ronde_BEAC,_Corporate_Council_on_Africa_et_US_Chamber_of__4e67811c.pdf
-Chemin original : scraping\beac_data\La beac\Communiqués de presse\Communiqué_de_Presse_de_la_Table_Ronde_BEAC,_Corporate_Council_on_Africa_et_US_Chamber_of__4e67811c.pdf
-Date extraction : 15/06/2026 22:19:32
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

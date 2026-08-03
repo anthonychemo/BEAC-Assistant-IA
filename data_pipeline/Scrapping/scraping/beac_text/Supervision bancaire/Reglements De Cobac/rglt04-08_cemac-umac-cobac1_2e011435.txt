@@ -1,7 +1,0 @@
-Source PDF : rglt04-08_cemac-umac-cobac1_2e011435.pdf
-Chemin original : scraping\beac_data\Supervision bancaire\Reglements De Cobac\rglt04-08_cemac-umac-cobac1_2e011435.pdf
-Date extraction : 15/06/2026 19:54:26
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

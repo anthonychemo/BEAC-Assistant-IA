@@ -1,7 +1,0 @@
-Source PDF : Rapport_hebdomadaire_des_opérations_du_marché_des_valeurs_du_Trésor_semaine_du_30_octobre__bbd44097.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\Rapport_hebdomadaire_des_opérations_du_marché_des_valeurs_du_Trésor_semaine_du_30_octobre__bbd44097.pdf
-Date extraction : 15/06/2026 19:47:30
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

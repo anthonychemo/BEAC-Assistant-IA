@@ -1,7 +1,0 @@
-Source PDF : Aviso_de_comunicado_de_la_emision_de_Bonos_del_tesoro_del_04_de_septiembre_2019_-_Republic_ad10c51a.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Annonces et Communiqués\Aviso_de_comunicado_de_la_emision_de_Bonos_del_tesoro_del_04_de_septiembre_2019_-_Republic_ad10c51a.pdf
-Date extraction : 15/06/2026 20:32:25
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

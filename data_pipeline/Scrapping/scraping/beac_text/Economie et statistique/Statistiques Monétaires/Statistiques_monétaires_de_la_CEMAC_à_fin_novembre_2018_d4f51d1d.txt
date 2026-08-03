@@ -1,7 +1,0 @@
-Source PDF : Statistiques_monétaires_de_la_CEMAC_à_fin_novembre_2018_d4f51d1d.xls
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques Monétaires\Statistiques_monétaires_de_la_CEMAC_à_fin_novembre_2018_d4f51d1d.xls
-Date extraction : 15/06/2026 20:42:04
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

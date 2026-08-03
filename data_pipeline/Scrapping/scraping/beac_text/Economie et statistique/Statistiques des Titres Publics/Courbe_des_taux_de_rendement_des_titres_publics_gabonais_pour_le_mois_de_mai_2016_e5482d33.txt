@@ -1,7 +1,0 @@
-Source PDF : Courbe_des_taux_de_rendement_des_titres_publics_gabonais_pour_le_mois_de_mai_2016_e5482d33.pdf
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques des Titres Publics\Courbe_des_taux_de_rendement_des_titres_publics_gabonais_pour_le_mois_de_mai_2016_e5482d33.pdf
-Date extraction : 15/06/2026 20:28:50
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

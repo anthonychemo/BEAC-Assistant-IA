@@ -1,7 +1,0 @@
-Source PDF : Avis_d'attribution_du_marché_-_Appel_d'offres_national_ouvert_n°12_BEAC_DGE-DIPG-DEMCF_AOI_51cedd46.pdf
-Chemin original : scraping\beac_data\La beac\Mises_En_Concurrence\Avis_d'attribution_du_marché_-_Appel_d'offres_national_ouvert_n°12_BEAC_DGE-DIPG-DEMCF_AOI_51cedd46.pdf
-Date extraction : 15/06/2026 19:05:08
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

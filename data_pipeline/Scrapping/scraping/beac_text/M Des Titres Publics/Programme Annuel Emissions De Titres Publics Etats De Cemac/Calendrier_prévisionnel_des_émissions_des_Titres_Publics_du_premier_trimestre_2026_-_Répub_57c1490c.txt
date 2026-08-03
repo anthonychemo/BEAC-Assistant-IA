@@ -1,7 +1,0 @@
-Source PDF : Calendrier_prévisionnel_des_émissions_des_Titres_Publics_du_premier_trimestre_2026_-_Répub_57c1490c.pdf
-Chemin original : scraping\beac_data\M Des Titres Publics\Programme Annuel Emissions De Titres Publics Etats De Cemac\Calendrier_prévisionnel_des_émissions_des_Titres_Publics_du_premier_trimestre_2026_-_Répub_57c1490c.pdf
-Date extraction : 15/06/2026 22:27:22
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.

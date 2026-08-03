@@ -1,7 +1,0 @@
-Source PDF : Statistiques_de_la_Balance_des_Paiements_analytique_du_Cameroun_-_2019_7ba32550.xlsx
-Chemin original : scraping\beac_data\Economie et statistique\Statistiques de la Balance des Paiements\Statistiques_de_la_Balance_des_Paiements_analytique_du_Cameroun_-_2019_7ba32550.xlsx
-Date extraction : 15/06/2026 20:41:38
-======================================================================
-
-[AVERTISSEMENT] Impossible d'extraire le texte de ce PDF.
-Il s'agit probablement d'un PDF scanné (image). Un outil OCR comme Tesseract serait nécessaire.
