@@ -500,7 +500,7 @@ export default function IAAssistant({
               const queryTypeInfo = !isUser && !isError && !isNoAnswer && hasContent && msg.query_type ? QUERY_TYPE_INFO[msg.query_type] : undefined;
 
               return (
-                <div key={msg.id} className="flex gap-3 md:gap-4 items-start">
+                <div key={msg.id} className={`flex gap-3 md:gap-4 items-start ${isUser ? "flex-row-reverse" : ""}`}>
                   {/* Avatar */}
                   <div
                     className={`w-7 h-7 rounded-full flex items-center justify-center shrink-0 mt-0.5 text-[11px] font-bold ${
@@ -514,10 +514,10 @@ export default function IAAssistant({
                     {isUser ? "U" : isError ? <AlertTriangle className="w-3.5 h-3.5" /> : <Sparkles className="w-3.5 h-3.5 fill-current" />}
                   </div>
 
-                  <div className="flex-1 min-w-0">
-                    {/* Contenu : bulle pour l'utilisateur, texte simple pour l'assistant (comme Claude/ChatGPT) */}
+                  <div className={`flex-1 min-w-0 flex flex-col ${isUser ? "items-end" : "items-start"}`}>
+                    {/* Contenu : bulle pour l'utilisateur (a droite), texte simple pour l'assistant (a gauche, comme Claude/ChatGPT) */}
                     {isUser ? (
-                      <div className="inline-block max-w-full bg-[#f0f2f5] rounded-2xl rounded-tl-sm px-4 py-2.5 text-sm text-[#0D2D5E] font-medium break-words whitespace-pre-wrap">
+                      <div className="inline-block max-w-full bg-[#f0f2f5] rounded-2xl rounded-tr-sm px-4 py-2.5 text-sm text-[#0D2D5E] font-medium break-words whitespace-pre-wrap text-right">
                         {msg.content}
                       </div>
                     ) : (
@@ -527,7 +527,7 @@ export default function IAAssistant({
                     )}
 
                     {/* Ligne meta : horodatage + statut + actions, toujours discrete */}
-                    <div className="flex flex-wrap items-center gap-3 mt-1.5">
+                    <div className={`flex flex-wrap items-center gap-3 mt-1.5 ${isUser ? "justify-end" : ""}`}>
                       <span className="text-[10px] text-black/30 font-mono font-semibold">{msg.timestamp}</span>
 
                       {isError && (
@@ -600,8 +600,8 @@ export default function IAAssistant({
                       <div className="mt-2 space-y-1">
                         {msg.sources!.map((src, i) => (
                           <div key={i} className="bg-[#f0f2f5] border border-[#c4c6d0]/30 rounded-lg px-3 py-2 text-[10px] text-[#0D2D5E]">
-                            {src.source_url ? (
-                              <a href={src.source_url} target="_blank" rel="noreferrer" className="font-bold hover:underline">
+                            {src.url ? (
+                              <a href={src.url} target="_blank" rel="noreferrer" className="font-bold hover:underline">
                                 {src.source}
                               </a>
                             ) : (
@@ -638,8 +638,11 @@ export default function IAAssistant({
         </div>
 
         <div className="border-t border-gray-100 bg-white shrink-0">
-          <div className="max-w-3xl mx-auto px-4 md:px-6 py-3 md:py-4">
-            <form onSubmit={handleSubmit} className="relative flex items-end">
+          <div className="max-w-3xl mx-auto px-4 md:px-6 py-4 md:py-5">
+            <form
+              onSubmit={handleSubmit}
+              className="relative flex items-end bg-[#f8f9fa] border border-[#c4c6d0]/40 rounded-[28px] shadow-sm transition-all focus-within:bg-white focus-within:border-[#C8971A]/60 focus-within:shadow-md focus-within:ring-4 focus-within:ring-[#C8971A]/10"
+            >
               <textarea
                 ref={textareaRef}
                 rows={1}
@@ -648,14 +651,14 @@ export default function IAAssistant({
                 onKeyDown={handleInputKeyDown}
                 placeholder="Posez votre question..."
                 disabled={isStreaming}
-                className="w-full max-h-40 resize-none bg-[#f8f9fa] border border-[#c4c6d0]/40 focus:border-[#C8971A]/70 focus:bg-white focus:outline-none rounded-2xl py-3 pl-4 pr-12 text-sm font-sans placeholder:text-gray-400"
+                className="w-full max-h-40 resize-none bg-transparent border-none focus:outline-none rounded-[28px] py-3.5 pl-5 pr-14 text-sm font-sans placeholder:text-gray-400"
               />
               {isStreaming ? (
                 <button
                   type="button"
                   onClick={onStopGeneration}
                   title="Arrêter la génération"
-                  className="absolute right-2 bottom-2 p-2 rounded-lg bg-red-50 text-red-600 hover:bg-red-100 active:scale-95 transition-all cursor-pointer"
+                  className="absolute right-2.5 bottom-2.5 p-2.5 rounded-full bg-red-50 text-red-600 hover:bg-red-100 active:scale-95 transition-all cursor-pointer shadow-sm"
                 >
                   <Square className="w-4 h-4 fill-current" />
                 </button>
@@ -663,17 +666,17 @@ export default function IAAssistant({
                 <button
                   type="submit"
                   disabled={!inputText.trim()}
-                  className={`absolute right-2 bottom-2 p-2 rounded-lg transition-all ${
+                  className={`absolute right-2.5 bottom-2.5 p-2.5 rounded-full transition-all ${
                     inputText.trim()
-                      ? "bg-[#0D2D5E] text-[#C8971A] hover:bg-[#00183e] active:scale-95 cursor-pointer"
-                      : "bg-gray-100 text-gray-300 pointer-events-none"
+                      ? "bg-[#0D2D5E] text-[#C8971A] hover:bg-[#00183e] active:scale-95 cursor-pointer shadow-sm"
+                      : "bg-gray-200/70 text-gray-400 pointer-events-none"
                   }`}
                 >
                   <Send className="w-4 h-4" />
                 </button>
               )}
             </form>
-            <div className="hidden md:flex items-center justify-center gap-1 mt-2 text-[10px] text-gray-400 select-none">
+            <div className="hidden md:flex items-center justify-center gap-1 mt-2.5 text-[10px] text-gray-400 select-none">
               <CornerDownLeft className="w-3 h-3" />
               <span>Entrée pour envoyer, Maj+Entrée pour un saut de ligne</span>
             </div>

@@ -11,6 +11,9 @@ interface DocumentLibraryProps {
   onAskDocInChat: (text: string, documentId?: string) => void;
   preSelectedType: string | null;
   setPreSelectedType: (type: string | null) => void;
+  // Incrementer cette valeur (ex: apres un pipeline termine) force un
+  // rechargement de la page courante depuis le backend.
+  refreshKey?: number;
 }
 
 export default function DocumentLibrary({
@@ -18,6 +21,7 @@ export default function DocumentLibrary({
   onAskDocInChat,
   preSelectedType,
   setPreSelectedType,
+  refreshKey,
 }: DocumentLibraryProps) {
   const [search, setSearch] = useState("");
   const [selectedType, setSelectedType] = useState<string>("Tous");
@@ -66,10 +70,10 @@ export default function DocumentLibrary({
     []
   );
 
-  // Charger quand les filtres, le tri ou la page changent
+  // Charger quand les filtres, le tri, la page changent, ou qu'un rafraichissement est demande
   useEffect(() => {
     fetchDocuments(page, selectedType, search, selectedCountry, sortOrder);
-  }, [page, selectedType, selectedCountry, sortOrder, fetchDocuments]);
+  }, [page, selectedType, selectedCountry, sortOrder, fetchDocuments, refreshKey]);
 
   // Recherche avec debounce
   useEffect(() => {

@@ -74,6 +74,7 @@ def sources_from_items(items: list[ContextItem]) -> list[dict]:
             "year": item.year,
             "score": round(item.score, 3),
             "source_url": item.source_url or "https://www.beac.int",
+            "url": f"/api/documents/{item.document_id}/view" if item.document_id else None,
             "image_paths": item.image_paths,
         })
     return sources

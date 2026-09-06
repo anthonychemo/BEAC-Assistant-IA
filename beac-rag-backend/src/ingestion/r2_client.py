@@ -57,6 +57,27 @@ def list_document_keys() -> list[dict[str, str | dict[str, str]]]:
     return results
 
 
+def generate_presigned_view_url(
+    key: str, filename: str, content_type: str, expires_in: int = 3600
+) -> str:
+    """URL presignee (lecture seule, expirante) pour consulter le fichier original.
+
+    `ResponseContentDisposition=inline` force l'ouverture dans le navigateur
+    (visionneuse PDF) plutot qu'un telechargement, avec le nom de fichier original.
+    """
+    client = _client()
+    return client.generate_presigned_url(
+        "get_object",
+        Params={
+            "Bucket": settings.r2_bucket_name,
+            "Key": key,
+            "ResponseContentDisposition": f'inline; filename="{filename}"',
+            "ResponseContentType": content_type,
+        },
+        ExpiresIn=expires_in,
+    )
+
+
 @contextlib.contextmanager
 def download_to_tempfile(key: str) -> Iterator[Path]:
     """Telecharge un objet R2 vers un fichier temporaire, supprime a la sortie."""

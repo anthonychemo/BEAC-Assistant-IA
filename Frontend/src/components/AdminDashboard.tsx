@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { Log, DashboardMetrics } from "../types";
-import { Play, Pause, RefreshCw, Plus, Trash2, ListFilter, Activity, BarChart3, Database, Clock, Smile, Sparkles, CheckCircle2 } from "lucide-react";
+import { Log, DashboardMetrics, PipelineStatus, DashboardStats } from "../types";
+import { Play, Loader2, RefreshCw, Plus, Trash2, ListFilter, Activity, BarChart3, Database, Clock, Smile, Sparkles, CheckCircle2, AlertTriangle, PieChart, Globe2 } from "lucide-react";
 import { motion } from "motion/react";
 
 interface AdminDashboardProps {
@@ -8,8 +8,54 @@ interface AdminDashboardProps {
   logs: Log[];
   onAddLog: (text: string, type: "success" | "warning" | "error") => void;
   onClearLogs: () => void;
-  isPipelineActive: boolean;
-  onTogglePipeline: () => void;
+  pipelineStatus: PipelineStatus;
+  onStartPipeline: () => void;
+  stats: DashboardStats;
+}
+
+const MONTH_LABELS: Record<string, string> = {
+  "01": "Jan", "02": "Fév", "03": "Mar", "04": "Avr", "05": "Mai", "06": "Juin",
+  "07": "Juil", "08": "Août", "09": "Sep", "10": "Oct", "11": "Nov", "12": "Déc",
+};
+
+function formatMonth(ym: string): string {
+  const [year, month] = ym.split("-");
+  return `${MONTH_LABELS[month] ?? month} ${year.slice(2)}`;
+}
+
+// Liste de barres horizontales proportionnelles, reutilisee pour les
+// repartitions par categorie et par pays (donnees reelles, /api/admin/stats).
+function BreakdownList({
+  items,
+  colorClass,
+}: {
+  items: { label: string; count: number }[];
+  colorClass: string;
+}) {
+  if (items.length === 0) {
+    return <p className="text-xs text-black/40 text-center py-8">Aucune donnée pour le moment</p>;
+  }
+  const max = Math.max(...items.map((i) => i.count));
+  return (
+    <div className="flex flex-col gap-2.5">
+      {items.map((item) => (
+        <div key={item.label} className="flex items-center gap-3">
+          <span className="text-[10px] font-semibold text-black/70 w-32 shrink-0 truncate" title={item.label}>
+            {item.label}
+          </span>
+          <div className="flex-1 bg-gray-100 rounded-full h-2.5 overflow-hidden">
+            <div
+              className={`h-full rounded-full ${colorClass}`}
+              style={{ width: `${max > 0 ? (item.count / max) * 100 : 0}%` }}
+            />
+          </div>
+          <span className="text-[10px] font-bold text-[#0D2D5E] w-10 text-right shrink-0">
+            {item.count.toLocaleString()}
+          </span>
+        </div>
+      ))}
+    </div>
+  );
 }
 
 export default function AdminDashboard({
@@ -17,9 +63,11 @@ export default function AdminDashboard({
   logs,
   onAddLog,
   onClearLogs,
-  isPipelineActive,
-  onTogglePipeline,
+  pipelineStatus,
+  onStartPipeline,
+  stats,
 }: AdminDashboardProps) {
+  const isPipelineRunning = pipelineStatus.status === "running";
   const [logInput, setLogInput] = useState("");
   const [logType, setLogType] = useState<"success" | "warning" | "error">("success");
   const [logFilter, setLogFilter] = useState<string>("all");
@@ -53,19 +101,21 @@ export default function AdminDashboard({
             </p>
           </div>
 
-          <div className="flex items-center gap-3">
+          <div className="flex flex-col items-end gap-1.5">
             <button
-              onClick={onTogglePipeline}
-              className={`flex items-center gap-2 py-2.5 px-5 rounded-lg text-xs font-bold uppercase tracking-wider transition-all shadow-sm cursor-pointer ${
-                isPipelineActive
-                  ? "bg-amber-600 hover:bg-amber-700 text-white"
-                  : "bg-emerald-600 hover:bg-emerald-700 text-white"
+              onClick={onStartPipeline}
+              disabled={isPipelineRunning}
+              title="Scrape le site de la BEAC, uploade les nouveaux documents vers R2 et les indexe"
+              className={`flex items-center gap-2 py-2.5 px-5 rounded-lg text-xs font-bold uppercase tracking-wider transition-all shadow-sm ${
+                isPipelineRunning
+                  ? "bg-emerald-600/60 text-white cursor-not-allowed"
+                  : "bg-emerald-600 hover:bg-emerald-700 text-white cursor-pointer"
               }`}
             >
-              {isPipelineActive ? (
+              {isPipelineRunning ? (
                 <>
-                  <Pause className="w-4 h-4 fill-current" />
-                  Mettre en Pause le Pipeline
+                  <Loader2 className="w-4 h-4 animate-spin" />
+                  {pipelineStatus.stage_label || "Pipeline en cours..."}
                 </>
               ) : (
                 <>
@@ -74,6 +124,18 @@ export default function AdminDashboard({
                 </>
               )}
             </button>
+            {pipelineStatus.status === "error" && (
+              <span className="flex items-center gap-1 text-[10px] font-semibold text-red-600">
+                <AlertTriangle className="w-3 h-3" />
+                Echec : {pipelineStatus.error}
+              </span>
+            )}
+            {pipelineStatus.status === "done" && (
+              <span className="flex items-center gap-1 text-[10px] font-semibold text-emerald-600">
+                <CheckCircle2 className="w-3 h-3" />
+                {pipelineStatus.new_documents} nouveau{pipelineStatus.new_documents > 1 ? "x" : ""} document{pipelineStatus.new_documents > 1 ? "s" : ""} indexe{pipelineStatus.new_documents > 1 ? "s" : ""}
+              </span>
+            )}
           </div>
         </div>
 
@@ -149,70 +211,33 @@ export default function AdminDashboard({
               <div className="flex justify-between items-center mb-6">
                 <div>
                   <h3 className="font-sans text-[#0D2D5E] text-base font-bold">
-                    Volumétrie mensuelle d'ingestion sémantique
+                    Volumétrie mensuelle d'ingestion
                   </h3>
-                  <p className="text-[10px] text-gray-500 font-medium">Nombre de documents indexés / trimestre (2024)</p>
+                  <p className="text-[10px] text-gray-500 font-medium">Documents indexés par mois (date réelle d'ingestion)</p>
                 </div>
                 <div className="flex items-center gap-1 bg-[#0D2D5E]/5 text-[#0D2D5E] px-2.5 py-1 rounded text-[10px] font-bold">
-                  <BarChart3 className="w-3.5 h-3.5" /> STATS AGGRÉGÉES
+                  <BarChart3 className="w-3.5 h-3.5" /> DONNÉES RÉELLES
                 </div>
               </div>
 
-              {/* Custom SVG line graph bar chart styling */}
-              <div className="h-64 flex flex-col justify-between pt-4 select-none">
-                <div className="relative flex-1 flex items-end justify-between gap-4 border-b border-gray-100 pb-2">
-                  
-                  {/* Background gridlines */}
-                  <div className="absolute inset-y-0 left-0 right-0 flex flex-col justify-between pointer-events-none opacity-40">
-                    <div className="border-t border-dashed border-gray-200 w-full" />
-                    <div className="border-t border-dashed border-gray-200 w-full" />
-                    <div className="border-t border-dashed border-gray-200 w-full" />
-                  </div>
-
-                  {/* Columns */}
-                  {[
-                    { label: "T1-23", val: 32, p: "32%" },
-                    { label: "T2-23", val: 55, p: "55%" },
-                    { label: "T3-23", val: 40, p: "40%" },
-                    { label: "T4-23", val: 78, p: "78%" },
-                    { label: "T1-24", val: 96, p: "96%" },
-                  ].map((bar, idx) => (
-                    <div key={idx} className="flex-1 flex flex-col items-center gap-2 group z-10">
-                      <div className="text-[9px] font-bold text-[#0D2D5E] opacity-0 group-hover:opacity-100 transition-opacity bg-[#edeeef] px-1 rounded">
-                        {bar.val} k
-                      </div>
-                      <div
-                        style={{ height: bar.p }}
-                        className="w-full bg-[#0D2D5E] hover:bg-[#C8971A] rounded-t transition-all duration-500 shadow-sm relative"
-                      >
-                        {/* Decorative inner bar */}
-                        <div className="absolute top-0 bottom-0 left-1/3 right-1/3 bg-white/10" />
-                      </div>
-                    </div>
-                  ))}
-                </div>
-
-                {/* X labels */}
-                <div className="flex justify-between items-center text-[10px] text-gray-500 font-bold font-mono pt-2">
-                  <span>T1-23</span>
-                  <span>T2-23</span>
-                  <span>T3-23</span>
-                  <span>T4-23</span>
-                  <span>T1-24</span>
-                </div>
-              </div>
+              <BreakdownList
+                items={stats.by_month.map((m) => ({ label: formatMonth(m.month), count: m.count }))}
+                colorClass="bg-[#0D2D5E]"
+              />
             </div>
 
             {/* Pipeline Status box */}
             <div className="bg-white p-6 rounded-xl border border-[#c4c6d0]/40 shadow-sm flex flex-col gap-4">
               <div className="flex items-center gap-3">
-                <div className={`w-3.5 h-3.5 rounded-full ${isPipelineActive ? "bg-emerald-500 animate-pulse" : "bg-amber-500"}`} />
+                <div className={`w-3.5 h-3.5 rounded-full ${isPipelineRunning ? "bg-emerald-500 animate-pulse" : "bg-gray-300"}`} />
                 <h4 className="font-sans text-[#0D2D5E] text-sm font-bold">
-                  Santé de l'Agent d'Extraction : {isPipelineActive ? "Opérationnel (Activé)" : "Arrêté"}
+                  Agent d'Extraction : {isPipelineRunning ? `En cours (${pipelineStatus.stage_label})` : "Au repos"}
                 </h4>
               </div>
               <p className="text-xs text-black/60 leading-relaxed font-sans">
-                L'agent planifié de crawling de directives et d'indexation vectorielle automatique hebdomadaire balaie actuellement les 6 serveurs d'administration des banques d'État de la zone CEMAC.
+                {isPipelineRunning
+                  ? "Scraping du site beac.int, upload des nouveaux documents vers R2 et indexation vectorielle en cours."
+                  : "Cliquez sur \"Démarrer le Pipeline\" pour scraper le site de la BEAC et indexer les documents publiés depuis le dernier passage."}
               </p>
               
               <div className="grid grid-cols-3 gap-2 mt-2">
@@ -343,6 +368,43 @@ export default function AdminDashboard({
 
             </div>
 
+          </div>
+
+        </div>
+
+        {/* Repartitions reelles du corpus (categorie / pays) */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+
+          <div className="bg-white p-6 rounded-xl border border-[#c4c6d0]/40 shadow-sm">
+            <div className="flex items-center gap-2 mb-5">
+              <div className="w-9 h-9 bg-[#0D2D5E]/10 rounded-lg flex items-center justify-center text-[#0D2D5E] shrink-0">
+                <PieChart className="w-4.5 h-4.5" />
+              </div>
+              <div>
+                <h3 className="font-sans text-[#0D2D5E] text-sm font-bold">Répartition par catégorie</h3>
+                <p className="text-[10px] text-gray-500 font-medium">Corpus indexé, toutes catégories</p>
+              </div>
+            </div>
+            <BreakdownList
+              items={stats.by_category.map((c) => ({ label: c.category, count: c.count }))}
+              colorClass="bg-[#0D2D5E]"
+            />
+          </div>
+
+          <div className="bg-white p-6 rounded-xl border border-[#c4c6d0]/40 shadow-sm">
+            <div className="flex items-center gap-2 mb-5">
+              <div className="w-9 h-9 bg-[#C8971A]/10 rounded-lg flex items-center justify-center text-[#C8971A] shrink-0">
+                <Globe2 className="w-4.5 h-4.5" />
+              </div>
+              <div>
+                <h3 className="font-sans text-[#0D2D5E] text-sm font-bold">Répartition par pays</h3>
+                <p className="text-[10px] text-gray-500 font-medium">Documents rattachés à un pays de la CEMAC</p>
+              </div>
+            </div>
+            <BreakdownList
+              items={stats.by_country.map((c) => ({ label: c.country, count: c.count }))}
+              colorClass="bg-[#C8971A]"
+            />
           </div>
 
         </div>

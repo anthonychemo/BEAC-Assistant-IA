@@ -25,7 +25,10 @@ class SourceItem(BaseModel):
     category: str | None = None
     year: int | None = None
     score: float | None = None
-    source_url: str | None = None 
+    source_url: str | None = None
+    # Lien direct vers le fichier original (R2, presigne) — a privilegier sur
+    # source_url (page beac.int) pour ouvrir exactement le document consulte.
+    url: str | None = None
     image_paths: list[str] | None = None
 
 

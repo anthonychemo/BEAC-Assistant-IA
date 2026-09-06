@@ -9,7 +9,20 @@ import AdminDashboard from "./components/AdminDashboard";
 import LoginPortal from "./components/LoginPortal";
 import SplashScreen from "./components/SplashScreen";
 import { INITIAL_DOCUMENTS, INITIAL_LOGS } from "./data";
-import { Document, ChatMessage, Log, DashboardMetrics, ModelChoice } from "./types";
+import { Document, ChatMessage, Log, DashboardMetrics, ModelChoice, PipelineStatus, DashboardStats } from "./types";
+
+const EMPTY_DASHBOARD_STATS: DashboardStats = { by_month: [], by_category: [], by_country: [] };
+
+const IDLE_PIPELINE_STATUS: PipelineStatus = {
+  status: "idle",
+  stage: null,
+  stage_label: null,
+  started_at: null,
+  finished_at: null,
+  new_documents: 0,
+  error: null,
+  log_tail: [],
+};
 
 const SPLASH_SESSION_KEY = "beac_splash_shown";
 const CHAT_HISTORY_KEY = "beac_chat_history";
@@ -84,7 +97,7 @@ export default function App() {
     documentsIndexed: INITIAL_DOCUMENTS.length,
     ragChunks: 435012,
     feedbackSatisfaction: "—",
-    avgResponseTime: "1.2s",
+    avgResponseTime: "—",
     systemStatus: "Actif",
   });
   const [isAdminLoggedIn, setIsAdminLoggedIn] = useState(false);
@@ -95,10 +108,17 @@ export default function App() {
   const [isThinking, setIsThinking] = useState(false);
   const [isStreaming, setIsStreaming] = useState(false);
   const abortControllerRef = useRef<AbortController | null>(null);
+  // Temps de reponse reels (secondes, requete envoyee -> reponse entierement
+  // recue) des dernieres questions, pour le KPI "Temps de reponse IA" du
+  // dashboard admin - moyenne glissante sur les 20 dernieres, en ref pour ne
+  // pas re-render a chaque mesure (seul metrics.avgResponseTime doit l'etre).
+  const responseTimesRef = useRef<number[]>([]);
   const [suggestedPrompt, setSuggestedPrompt] = useState("");
   const [suggestedDocumentId, setSuggestedDocumentId] = useState<string | undefined>(undefined);
   const [preSelectedDocType, setPreSelectedDocType] = useState<string | null>(null);
-  const [isPipelineActive, setIsPipelineActive] = useState(true);
+  const [pipelineStatus, setPipelineStatus] = useState<PipelineStatus>(IDLE_PIPELINE_STATUS);
+  const [docLibraryRefreshKey, setDocLibraryRefreshKey] = useState(0);
+  const [dashboardStats, setDashboardStats] = useState<DashboardStats>(EMPTY_DASHBOARD_STATS);
   const [availableModels, setAvailableModels] = useState<ModelChoice[]>([
     { key: "primary", label: "Modèle principal" },
   ]);
@@ -155,6 +175,73 @@ export default function App() {
   useEffect(() => {
     fetchHealthMetrics();
   }, []);
+
+  const fetchDashboardStats = () => {
+    fetch("/api/admin/stats")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((data) => {
+        if (data) setDashboardStats(data);
+      })
+      .catch(() => {});
+  };
+
+  useEffect(() => {
+    fetchDashboardStats();
+  }, []);
+
+  // Suit l'etat du pipeline (scraping BEAC -> upload R2 -> ingestion) declenche
+  // par le bouton "Demarrer le Pipeline" : interroge le backend regulierement,
+  // et rafraichit les metriques + la bibliotheque des qu'il se termine.
+  useEffect(() => {
+    let cancelled = false;
+    const poll = () => {
+      fetch("/api/pipeline/status")
+        .then((r) => (r.ok ? r.json() : null))
+        .then((data: PipelineStatus | null) => {
+          if (!data || cancelled) return;
+          setPipelineStatus((prev) => {
+            if (prev.status === "running" && data.status === "done") {
+              fetchHealthMetrics();
+              fetchDashboardStats();
+              setDocLibraryRefreshKey((k) => k + 1);
+              handleAddLog(
+                `Pipeline termine : ${data.new_documents} nouveau${data.new_documents > 1 ? "x" : ""} document${data.new_documents > 1 ? "s" : ""} indexe${data.new_documents > 1 ? "s" : ""}`,
+                "success"
+              );
+            } else if (prev.status === "running" && data.status === "error") {
+              handleAddLog(`Pipeline en echec : ${data.error ?? "erreur inconnue"}`, "error");
+            }
+            return data;
+          });
+        })
+        .catch(() => {});
+    };
+    poll();
+    const interval = setInterval(poll, pipelineStatus.status === "running" ? 5000 : 20000);
+    return () => {
+      cancelled = true;
+      clearInterval(interval);
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pipelineStatus.status]);
+
+  const startPipeline = () => {
+    setPipelineStatus((prev) => ({ ...prev, status: "running", stage: null, stage_label: null, error: null }));
+    fetch("/api/pipeline/run", { method: "POST" })
+      .then((r) => {
+        if (r.ok) {
+          handleAddLog("Pipeline demarre : scraping du site BEAC en cours...", "success");
+        } else if (r.status === 409) {
+          handleAddLog("Le pipeline est deja en cours d'execution", "warning");
+        } else {
+          throw new Error("echec du demarrage");
+        }
+      })
+      .catch(() => {
+        handleAddLog("Impossible de demarrer le pipeline (backend indisponible)", "error");
+        setPipelineStatus((prev) => ({ ...prev, status: "error", error: "Backend indisponible" }));
+      });
+  };
 
   // Persiste l'historique de chat pour la session en cours : un F5 ne doit pas
   // effacer la conversation, mais fermer l'onglet/navigateur si.
@@ -213,6 +300,7 @@ export default function App() {
     setIsStreaming(true);
     const controller = new AbortController();
     abortControllerRef.current = controller;
+    const requestStart = performance.now();
 
     const aId = "assistant-" + Date.now();
     setChatMessages((prev) => [...prev, {
@@ -302,6 +390,10 @@ export default function App() {
             : m
         ));
       }
+      const elapsedSec = (performance.now() - requestStart) / 1000;
+      responseTimesRef.current = [...responseTimesRef.current, elapsedSec].slice(-20);
+      const avg = responseTimesRef.current.reduce((a, b) => a + b, 0) / responseTimesRef.current.length;
+      setMetrics((prev) => ({ ...prev, avgResponseTime: `${avg.toFixed(1)}s` }));
       handleAddLog("Reponse IA : " + text.substring(0, 30) + "...", "success");
     } catch (err: any) {
       if (err?.name === "AbortError") {
@@ -418,6 +510,7 @@ export default function App() {
             onAskDocInChat={(t, docId) => { setSuggestedPrompt(t); setSuggestedDocumentId(docId); setTab("chat"); }}
             preSelectedType={preSelectedDocType}
             setPreSelectedType={setPreSelectedDocType}
+            refreshKey={docLibraryRefreshKey}
           />
         </div>
 
@@ -427,12 +520,9 @@ export default function App() {
             logs={logs}
             onAddLog={handleAddLog}
             onClearLogs={() => setLogs([])}
-            isPipelineActive={isPipelineActive}
-            onTogglePipeline={() => {
-              const next = !isPipelineActive;
-              setIsPipelineActive(next);
-              handleAddLog(next ? "Pipeline redemarre" : "Pipeline suspendu", next ? "success" : "warning");
-            }}
+            pipelineStatus={pipelineStatus}
+            onStartPipeline={startPipeline}
+            stats={dashboardStats}
           />
         </div>
       </main>

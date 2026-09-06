@@ -29,9 +29,9 @@ chunking:
 # ---- Embeddings ----
 embeddings:
   model: "BAAI/bge-m3"
-  device: "cpu"
+  device: "cuda"
   dimension: 1024        # dimension de bge-m3
-  batch_size: 16         # batch plus gros = meilleure saturation CPU
+  batch_size: 64         # GPU (RTX 4060, 8 Go) : 64-128 possible sans OOM
   normalize: true
 
 # ---- Vector store (pgvector) ----

@@ -46,6 +46,12 @@ export default defineConfig(() => {
           changeOrigin: true,
           rewrite: (path) => path.replace(/^\/api\/metadata/, '/metadata'),
         },
+        // GET /api/admin/stats -> GET /admin/stats (volumetrie + repartitions dashboard admin)
+        '/api/admin/stats': {
+          target: 'http://localhost:8000',
+          changeOrigin: true,
+          rewrite: (path) => path.replace(/^\/api\/admin\/stats/, '/admin/stats'),
+        },
         // GET /api/health -> GET /health
         '/api/health': {
           target: 'http://localhost:8000',
@@ -63,6 +69,12 @@ export default defineConfig(() => {
           target: 'http://localhost:8000',
           changeOrigin: true,
           rewrite: (path) => path.replace(/^\/api\/feedback/, '/feedback'),
+        },
+        // POST /api/pipeline/run -> POST /pipeline/run, GET /api/pipeline/status -> GET /pipeline/status
+        '/api/pipeline': {
+          target: 'http://localhost:8000',
+          changeOrigin: true,
+          rewrite: (path) => path.replace(/^\/api\/pipeline/, '/pipeline'),
         },
       },
     },

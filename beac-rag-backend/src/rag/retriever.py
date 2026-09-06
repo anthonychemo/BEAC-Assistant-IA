@@ -27,6 +27,7 @@ class ContextItem:
     year: int | None
     source_url: str | None = None
     image_paths: list[str] | None = None
+    document_id: int | None = None
     
 
 
@@ -81,6 +82,7 @@ def retrieve_context(
                 year=docs[c.document_id].year if c.document_id in docs else None,
                 image_paths=(c.metadata or {}).get("image_paths"),
                 source_url=docs[c.document_id].source_url if c.document_id in docs else None,
+                document_id=c.document_id if c.document_id in docs else None,
             )
             for c in chunks
         ]
@@ -126,6 +128,7 @@ def retrieve_context(
             year=doc.year if doc else None,
             image_paths=meta.get("image_paths"),
             source_url=doc.source_url if doc else None,
+            document_id=doc.id if doc else None,
         ))
     return items
 

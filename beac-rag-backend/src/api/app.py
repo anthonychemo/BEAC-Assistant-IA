@@ -6,8 +6,12 @@ Endpoints :
 - POST /query/stream              : question -> reponse en streaming (texte brut,
                                      1re ligne = JSON meta, puis tokens concatenes)
 - GET  /documents                 : liste paginee/recherchable des documents indexes
+- GET  /documents/{id}/view       : redirige vers le fichier original (R2, presigne)
 - GET  /metadata                  : categories / pays / annees / modeles disponibles
+- GET  /admin/stats                : volumetrie mensuelle + repartition categorie/pays (dashboard admin)
 - POST /cache/clear               : vide le cache reponses (proteg par X-Admin-Token)
+- POST /pipeline/run               : lance le pipeline scraping+ingestion en arriere-plan
+- GET  /pipeline/status            : etat/avancement du pipeline en cours
 - GET  /images/{doc}/{filename}   : sert une image extraite d'un PDF
 """
 from __future__ import annotations
@@ -20,7 +24,7 @@ from typing import Any
 
 from fastapi import Depends, FastAPI, Header, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse, StreamingResponse
+from fastapi.responses import FileResponse, RedirectResponse, StreamingResponse
 from sqlalchemy import func, or_
 
 from src.api.models import (
@@ -35,12 +39,20 @@ from src.database.connection import session_scope
 from src.database.schema import Chunk, Document, Feedback, Statistic
 from src.database.vector_store import similarity_search
 from src.indexing.embeddings import get_embedder
+from src.ingestion.r2_client import generate_presigned_view_url
+from src import pipeline_runner
 from src.rag.cache import get_cache
 from src.rag.engine import answer_question, build_context, sources_from_items
 from src.rag.llm_client import MODEL_CHOICES, get_llm, resolve_model
 from src.rag.prompts import META_RESPONSE, SYSTEM_PROMPT, build_rag_prompt
 from src.rag.query_router import QueryType, classify_query
 from src.utils.logger import logger
+
+_FILE_CONTENT_TYPES = {
+    "pdf": "application/pdf",
+    "xls": "application/vnd.ms-excel",
+    "xlsx": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+}
 
 
 @asynccontextmanager
@@ -84,6 +96,23 @@ def _require_admin(x_admin_token: str | None = Header(default=None)) -> None:
 def clear_cache():
     get_cache().invalidate()
     return {"status": "cache vidé"}
+
+
+@app.post("/pipeline/run")
+def run_pipeline() -> dict:
+    """Lance le pipeline complet (scraping BEAC -> upload R2 -> ingestion des
+    nouveaux documents) en arriere-plan. Bouton "Demarrer le pipeline" du
+    dashboard admin. Sans effet (409) si une execution est deja en cours.
+    """
+    started = pipeline_runner.start_pipeline()
+    if not started:
+        raise HTTPException(status_code=409, detail="Le pipeline est deja en cours d'execution")
+    return {"status": "started"}
+
+
+@app.get("/pipeline/status")
+def pipeline_status() -> dict:
+    return pipeline_runner.get_status()
 
 
 @app.get("/health", response_model=HealthResponse)
@@ -222,6 +251,41 @@ def metadata() -> dict:
     }
 
 
+@app.get("/admin/stats")
+def admin_stats() -> dict:
+    """Statistiques agregees pour le dashboard admin (volumetrie reelle,
+    repartition par categorie/pays) - remplace les donnees factices d'origine.
+    """
+    with session_scope() as session:
+        # Mois d'ingestion (created_at) plutot que date_publication : ce champ,
+        # extrait des pages BEAC, est absent sur l'immense majorite des
+        # documents (ingestion historique sans cette metadata).
+        month_expr = func.to_char(func.date_trunc("month", Document.created_at), "YYYY-MM")
+        monthly_rows = (
+            session.query(month_expr.label("month"), func.count(Document.id))
+            .group_by(month_expr)
+            .order_by(month_expr)
+            .all()
+        )
+        category_rows = (
+            session.query(Document.category, func.count(Document.id))
+            .group_by(Document.category)
+            .order_by(func.count(Document.id).desc())
+            .all()
+        )
+        country_rows = (
+            session.query(Document.country, func.count(Document.id))
+            .group_by(Document.country)
+            .order_by(func.count(Document.id).desc())
+            .all()
+        )
+    return {
+        "by_month": [{"month": m, "count": c} for m, c in monthly_rows],
+        "by_category": [{"category": cat or "Non classé", "count": c} for cat, c in category_rows],
+        "by_country": [{"country": co or "Non spécifié", "count": c} for co, c in country_rows],
+    }
+
+
 _SEMANTIC_FALLBACK_POOL = 200   # chunks candidats (indexes HNSW) avant agregation par document
 _SEMANTIC_MIN_SIMILARITY = 0.35
 
@@ -338,11 +402,34 @@ def list_documents(
                 "description": d.subcategory,
                 "country": d.country,
                 "year": d.year,
-                "url": d.source_url or "https://www.beac.int",
+                "url": f"/api/documents/{d.id}/view",
             }
             for d in rows
         ]
     return {"documents": documents, "total": total, "searchMode": search_mode}
+
+
+@app.get("/documents/{document_id}/view")
+def view_document(document_id: int) -> RedirectResponse:
+    """Redirige vers le fichier original (PDF/Excel tel que scrape) sur R2.
+
+    Ouvre directement le document (identique a celui du site officiel), sans
+    passer par la navigation du site beac.int.
+    """
+    with session_scope() as session:
+        doc = session.get(Document, document_id)
+        if doc is None:
+            raise HTTPException(status_code=404, detail="Document introuvable")
+        # Certains documents n'ont pas (ou plus) de fichier correspondant dans le
+        # bucket R2 (ingestion historique / fichier retire du bucket depuis) :
+        # on retombe sur la page source connue plutot que de faire planter la
+        # requete, et sur beac.int en dernier recours.
+        if not doc.r2_key:
+            fallback = doc.source_url or "https://www.beac.int"
+            return RedirectResponse(fallback, status_code=307)
+        content_type = _FILE_CONTENT_TYPES.get(doc.file_type.lower(), "application/octet-stream")
+        url = generate_presigned_view_url(doc.r2_key, doc.filename, content_type)
+    return RedirectResponse(url, status_code=307)
 
 
 # --- Endpoint images ---
