@@ -9,6 +9,8 @@ Endpoints :
 - GET  /documents/{id}/view       : redirige vers le fichier original (R2, presigne)
 - GET  /metadata                  : categories / pays / annees / modeles disponibles
 - GET  /admin/stats                : volumetrie mensuelle + repartition categorie/pays (dashboard admin)
+- POST /admin/upload               : import manuel d'un document (PDF/Excel), traite en arriere-plan
+- GET  /admin/upload/{id}/status   : etat/avancement d'un import manuel
 - POST /cache/clear               : vide le cache reponses (proteg par X-Admin-Token)
 - POST /pipeline/run               : lance le pipeline scraping+ingestion en arriere-plan
 - GET  /pipeline/status            : etat/avancement du pipeline en cours
@@ -17,12 +19,14 @@ Endpoints :
 from __future__ import annotations
 
 import json
+import os
+import tempfile
 from contextlib import asynccontextmanager
 
 from pathlib import Path
 from typing import Any
 
-from fastapi import Depends, FastAPI, Header, HTTPException, Query
+from fastapi import Depends, FastAPI, File, Form, Header, HTTPException, Query, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, RedirectResponse, StreamingResponse
 from sqlalchemy import func, or_
@@ -41,6 +45,7 @@ from src.database.vector_store import similarity_search
 from src.indexing.embeddings import get_embedder
 from src.ingestion.r2_client import generate_presigned_view_url
 from src import pipeline_runner
+from src import upload_manager
 from src.rag.cache import get_cache
 from src.rag.engine import answer_question, build_context, sources_from_items
 from src.rag.llm_client import MODEL_CHOICES, get_llm, resolve_model
@@ -284,6 +289,43 @@ def admin_stats() -> dict:
         "by_category": [{"category": cat or "Non classé", "count": c} for cat, c in category_rows],
         "by_country": [{"country": co or "Non spécifié", "count": c} for co, c in country_rows],
     }
+
+
+_UPLOAD_EXTENSIONS = {".pdf", ".xls", ".xlsx"}
+_MAX_UPLOAD_BYTES = 50 * 1024 * 1024  # 50 Mo
+
+
+@app.post("/admin/upload")
+async def admin_upload(file: UploadFile = File(...), category: str | None = Form(None)) -> dict:
+    """Import manuel d'un document (bouton "Importer un document" du dashboard
+    admin) : sauvegarde immediate en temporaire, puis extraction + chunking +
+    embeddings + insertion R2/DB en arriere-plan (voir GET .../status) - le
+    document devient interrogeable dans le chat des que le statut est "done".
+    """
+    ext = Path(file.filename or "").suffix.lower()
+    if ext not in _UPLOAD_EXTENSIONS:
+        raise HTTPException(status_code=400, detail="Format non supporté (PDF, XLS, XLSX uniquement)")
+
+    content = await file.read()
+    if not content:
+        raise HTTPException(status_code=400, detail="Fichier vide")
+    if len(content) > _MAX_UPLOAD_BYTES:
+        raise HTTPException(status_code=413, detail="Fichier trop volumineux (50 Mo max)")
+
+    fd, tmp_path_str = tempfile.mkstemp(suffix=ext)
+    with os.fdopen(fd, "wb") as f:
+        f.write(content)
+
+    upload_id = upload_manager.start_upload(Path(tmp_path_str), file.filename or "document", category)
+    return {"upload_id": upload_id, "status": "processing"}
+
+
+@app.get("/admin/upload/{upload_id}/status")
+def admin_upload_status(upload_id: str) -> dict:
+    status = upload_manager.get_status(upload_id)
+    if status is None:
+        raise HTTPException(status_code=404, detail="Import introuvable")
+    return status
 
 
 _SEMANTIC_FALLBACK_POOL = 200   # chunks candidats (indexes HNSW) avant agregation par document

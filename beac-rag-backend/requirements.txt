@@ -7,6 +7,7 @@ pydantic-settings==2.5.2
 # ---- API ----
 fastapi==0.115.2
 uvicorn[standard]==0.31.1
+python-multipart==0.0.32   # upload de fichiers (POST /admin/upload)
 
 # ---- Database (PostgreSQL + pgvector, Supabase) ----
 psycopg[binary]==3.2.3

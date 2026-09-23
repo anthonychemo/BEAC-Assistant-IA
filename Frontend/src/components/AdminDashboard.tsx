@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import { Log, DashboardMetrics, PipelineStatus, DashboardStats } from "../types";
-import { Play, Loader2, RefreshCw, Plus, Trash2, ListFilter, Activity, BarChart3, Database, Clock, Smile, Sparkles, CheckCircle2, AlertTriangle, PieChart, Globe2 } from "lucide-react";
+import React, { useRef, useState } from "react";
+import { Log, DashboardMetrics, PipelineStatus, DashboardStats, UploadStatus } from "../types";
+import { Play, Loader2, RefreshCw, Plus, Trash2, ListFilter, Activity, BarChart3, Database, Clock, Smile, Sparkles, CheckCircle2, AlertTriangle, PieChart, Globe2, UploadCloud } from "lucide-react";
 import { motion } from "motion/react";
 
 interface AdminDashboardProps {
@@ -11,7 +11,12 @@ interface AdminDashboardProps {
   pipelineStatus: PipelineStatus;
   onStartPipeline: () => void;
   stats: DashboardStats;
+  uploadStatus: UploadStatus;
+  onUploadDocument: (file: File) => void;
 }
+
+const UPLOAD_ACCEPT = ".pdf,.xls,.xlsx";
+const UPLOAD_EXTENSIONS = [".pdf", ".xls", ".xlsx"];
 
 const MONTH_LABELS: Record<string, string> = {
   "01": "Jan", "02": "Fév", "03": "Mar", "04": "Avr", "05": "Mai", "06": "Juin",
@@ -66,11 +71,29 @@ export default function AdminDashboard({
   pipelineStatus,
   onStartPipeline,
   stats,
+  uploadStatus,
+  onUploadDocument,
 }: AdminDashboardProps) {
   const isPipelineRunning = pipelineStatus.status === "running";
+  const isUploading = uploadStatus.status === "uploading" || uploadStatus.status === "processing";
+  const fileInputRef = useRef<HTMLInputElement>(null);
+  const [uploadError, setUploadError] = useState<string | null>(null);
   const [logInput, setLogInput] = useState("");
   const [logType, setLogType] = useState<"success" | "warning" | "error">("success");
   const [logFilter, setLogFilter] = useState<string>("all");
+
+  const handleFileSelected = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    e.target.value = ""; // permet de re-selectionner le meme fichier ensuite
+    if (!file) return;
+    const ext = "." + (file.name.split(".").pop()?.toLowerCase() ?? "");
+    if (!UPLOAD_EXTENSIONS.includes(ext)) {
+      setUploadError("Format non supporté (PDF, XLS, XLSX uniquement)");
+      return;
+    }
+    setUploadError(null);
+    onUploadDocument(file);
+  };
 
   const handleAddCustomLog = (e: React.FormEvent) => {
     e.preventDefault();
@@ -101,41 +124,93 @@ export default function AdminDashboard({
             </p>
           </div>
 
-          <div className="flex flex-col items-end gap-1.5">
-            <button
-              onClick={onStartPipeline}
-              disabled={isPipelineRunning}
-              title="Scrape le site de la BEAC, uploade les nouveaux documents vers R2 et les indexe"
-              className={`flex items-center gap-2 py-2.5 px-5 rounded-lg text-xs font-bold uppercase tracking-wider transition-all shadow-sm ${
-                isPipelineRunning
-                  ? "bg-emerald-600/60 text-white cursor-not-allowed"
-                  : "bg-emerald-600 hover:bg-emerald-700 text-white cursor-pointer"
-              }`}
-            >
-              {isPipelineRunning ? (
-                <>
-                  <Loader2 className="w-4 h-4 animate-spin" />
-                  {pipelineStatus.stage_label || "Pipeline en cours..."}
-                </>
-              ) : (
-                <>
-                  <Play className="w-4 h-4 fill-current" />
-                  Démarrer le Pipeline
-                </>
+          <div className="flex flex-col sm:flex-row items-end sm:items-start gap-3">
+            <div className="flex flex-col items-end gap-1.5">
+              <input
+                ref={fileInputRef}
+                type="file"
+                accept={UPLOAD_ACCEPT}
+                className="hidden"
+                onChange={handleFileSelected}
+              />
+              <button
+                onClick={() => fileInputRef.current?.click()}
+                disabled={isUploading}
+                title="Importer un PDF ou Excel : extrait, decoupe et indexe le document pour qu'il soit immediatement interrogeable dans le chat"
+                className={`flex items-center gap-2 py-2.5 px-5 rounded-lg text-xs font-bold uppercase tracking-wider transition-all shadow-sm border ${
+                  isUploading
+                    ? "bg-white text-[#0D2D5E]/50 border-[#c4c6d0]/40 cursor-not-allowed"
+                    : "bg-white text-[#0D2D5E] border-[#0D2D5E]/30 hover:bg-[#0D2D5E]/5 cursor-pointer"
+                }`}
+              >
+                {isUploading ? (
+                  <>
+                    <Loader2 className="w-4 h-4 animate-spin" />
+                    {uploadStatus.status === "uploading" ? "Envoi..." : "Indexation..."}
+                  </>
+                ) : (
+                  <>
+                    <UploadCloud className="w-4 h-4" />
+                    Importer un document
+                  </>
+                )}
+              </button>
+              {uploadError && (
+                <span className="flex items-center gap-1 text-[10px] font-semibold text-red-600">
+                  <AlertTriangle className="w-3 h-3" />
+                  {uploadError}
+                </span>
               )}
-            </button>
-            {pipelineStatus.status === "error" && (
-              <span className="flex items-center gap-1 text-[10px] font-semibold text-red-600">
-                <AlertTriangle className="w-3 h-3" />
-                Echec : {pipelineStatus.error}
-              </span>
-            )}
-            {pipelineStatus.status === "done" && (
-              <span className="flex items-center gap-1 text-[10px] font-semibold text-emerald-600">
-                <CheckCircle2 className="w-3 h-3" />
-                {pipelineStatus.new_documents} nouveau{pipelineStatus.new_documents > 1 ? "x" : ""} document{pipelineStatus.new_documents > 1 ? "s" : ""} indexe{pipelineStatus.new_documents > 1 ? "s" : ""}
-              </span>
-            )}
+              {!uploadError && uploadStatus.status === "error" && (
+                <span className="flex items-center gap-1 text-[10px] font-semibold text-red-600 max-w-[220px] text-right">
+                  <AlertTriangle className="w-3 h-3 shrink-0" />
+                  Echec ({uploadStatus.filename}) : {uploadStatus.error}
+                </span>
+              )}
+              {uploadStatus.status === "done" && (
+                <span className="flex items-center gap-1 text-[10px] font-semibold text-emerald-600 max-w-[220px] text-right">
+                  <CheckCircle2 className="w-3 h-3 shrink-0" />
+                  "{uploadStatus.filename}" importé ({uploadStatus.chunks} chunks)
+                </span>
+              )}
+            </div>
+
+            <div className="flex flex-col items-end gap-1.5">
+              <button
+                onClick={onStartPipeline}
+                disabled={isPipelineRunning}
+                title="Scrape le site de la BEAC, uploade les nouveaux documents vers R2 et les indexe"
+                className={`flex items-center gap-2 py-2.5 px-5 rounded-lg text-xs font-bold uppercase tracking-wider transition-all shadow-sm ${
+                  isPipelineRunning
+                    ? "bg-emerald-600/60 text-white cursor-not-allowed"
+                    : "bg-emerald-600 hover:bg-emerald-700 text-white cursor-pointer"
+                }`}
+              >
+                {isPipelineRunning ? (
+                  <>
+                    <Loader2 className="w-4 h-4 animate-spin" />
+                    {pipelineStatus.stage_label || "Pipeline en cours..."}
+                  </>
+                ) : (
+                  <>
+                    <Play className="w-4 h-4 fill-current" />
+                    Démarrer le Pipeline
+                  </>
+                )}
+              </button>
+              {pipelineStatus.status === "error" && (
+                <span className="flex items-center gap-1 text-[10px] font-semibold text-red-600">
+                  <AlertTriangle className="w-3 h-3" />
+                  Echec : {pipelineStatus.error}
+                </span>
+              )}
+              {pipelineStatus.status === "done" && (
+                <span className="flex items-center gap-1 text-[10px] font-semibold text-emerald-600">
+                  <CheckCircle2 className="w-3 h-3" />
+                  {pipelineStatus.new_documents} nouveau{pipelineStatus.new_documents > 1 ? "x" : ""} document{pipelineStatus.new_documents > 1 ? "s" : ""} indexe{pipelineStatus.new_documents > 1 ? "s" : ""}
+                </span>
+              )}
+            </div>
           </div>
         </div>
 

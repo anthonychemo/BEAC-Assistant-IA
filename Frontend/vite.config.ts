@@ -46,11 +46,11 @@ export default defineConfig(() => {
           changeOrigin: true,
           rewrite: (path) => path.replace(/^\/api\/metadata/, '/metadata'),
         },
-        // GET /api/admin/stats -> GET /admin/stats (volumetrie + repartitions dashboard admin)
-        '/api/admin/stats': {
+        // /api/admin/* -> /admin/* (stats dashboard, import manuel de documents)
+        '/api/admin': {
           target: 'http://localhost:8000',
           changeOrigin: true,
-          rewrite: (path) => path.replace(/^\/api\/admin\/stats/, '/admin/stats'),
+          rewrite: (path) => path.replace(/^\/api\/admin/, '/admin'),
         },
         // GET /api/health -> GET /health
         '/api/health': {

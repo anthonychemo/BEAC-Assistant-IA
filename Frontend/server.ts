@@ -28,7 +28,7 @@ const API_REWRITES: [RegExp, string][] = [
   [/^\/api\/health/, "/health"],
   [/^\/api\/files/, "/images"],
   [/^\/api\/pipeline/, "/pipeline"],
-  [/^\/api\/admin\/stats/, "/admin/stats"],
+  [/^\/api\/admin/, "/admin"],
 ];
 
 app.use("/api", (req, res) => {

@@ -179,7 +179,7 @@ def _prepare_batch(works: list[_FileWork], stats: IngestStats) -> list[_FileWork
     return prepared
 
 
-def _insert_work(session, w: _FileWork) -> None:
+def _insert_work(session, w: _FileWork) -> int:
     """Insertion atomique d'un objet R2 (document + stats + chunks)."""
     if w.file_type == "pdf" and w.pdf_result is not None:
         doc_id = _create_document(
@@ -210,6 +210,7 @@ def _insert_work(session, w: _FileWork) -> None:
         doc_id, w.contents, w.vectors, w.tokens,
         chunk_metas,
     ))
+    return doc_id
 
 
 def _build_chunk_metas(w: _FileWork) -> list[dict]:
@@ -296,3 +297,39 @@ def ingest_from_r2(limit: int | None = None, only: str | None = None) -> IngestS
         f"{stats.failed} echecs, {stats.chunks} chunks, {stats.stat_rows} stats."
     )
     return stats
+
+
+def ingest_single_upload(tmp_path: Path, r2_key: str, meta: dict) -> tuple[int, int]:
+    """Extrait, chunke, embedde et insere un unique fichier deja televerse
+    (fichier local temporaire + objet R2 sous `r2_key`).
+
+    Utilise par l'import manuel depuis le dashboard admin (POST /admin/upload) :
+    contrairement a `ingest_from_r2`, pas de micro-batching (un seul fichier)
+    ni de verification d'idempotence (le r2_key vient d'etre genere, donc
+    forcement nouveau). Retourne (document_id, nombre_de_chunks) ; leve une
+    ValueError si aucun contenu exploitable n'a pu etre extrait.
+    """
+    ext = tmp_path.suffix.lower()
+    if ext in _PDF_EXT:
+        result = extract_pdf_text(tmp_path)
+        if not result.text.strip():
+            raise ValueError("Aucun texte n'a pu etre extrait de ce PDF (image sans texte, ou fichier corrompu)")
+        work = _FileWork(r2_key=r2_key, meta=meta, file_type="pdf", pdf_result=result, image_paths=result.image_paths)
+    elif ext in _EXCEL_EXT:
+        parsed = parse_excel(tmp_path)
+        if not parsed.text_blocks and not parsed.statistics:
+            raise ValueError("Ce fichier Excel est vide ou illisible")
+        work = _FileWork(r2_key=r2_key, meta=meta, file_type="excel", excel_result=parsed)
+    else:
+        raise ValueError(f"Extension non supportee : {ext}")
+
+    stats = IngestStats()
+    prepared = _prepare_batch([work], stats)
+    if not prepared:
+        raise ValueError("Aucun contenu exploitable apres decoupage en chunks")
+    work = prepared[0]
+    work.vectors = _embed_chunks(work.contents)
+
+    with session_scope() as session:
+        doc_id = _insert_work(session, work)
+    return doc_id, len(work.contents)

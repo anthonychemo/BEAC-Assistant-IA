@@ -8,8 +8,10 @@ import DocumentLibrary from "./components/DocumentLibrary";
 import AdminDashboard from "./components/AdminDashboard";
 import LoginPortal from "./components/LoginPortal";
 import SplashScreen from "./components/SplashScreen";
-import { INITIAL_DOCUMENTS, INITIAL_LOGS } from "./data";
-import { Document, ChatMessage, Log, DashboardMetrics, ModelChoice, PipelineStatus, DashboardStats } from "./types";
+import { INITIAL_LOGS } from "./data";
+import { ChatMessage, Log, DashboardMetrics, ModelChoice, PipelineStatus, DashboardStats, UploadStatus } from "./types";
+
+const IDLE_UPLOAD_STATUS: UploadStatus = { status: "idle", filename: null, documentId: null, chunks: 0, error: null };
 
 const EMPTY_DASHBOARD_STATS: DashboardStats = { by_month: [], by_category: [], by_country: [] };
 
@@ -91,10 +93,9 @@ export default function App() {
     const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     return !alreadyShown && !prefersReducedMotion;
   });
-  const [documents, setDocuments] = useState<Document[]>(INITIAL_DOCUMENTS);
   const [logs, setLogs] = useState<Log[]>(INITIAL_LOGS);
   const [metrics, setMetrics] = useState<DashboardMetrics>({
-    documentsIndexed: INITIAL_DOCUMENTS.length,
+    documentsIndexed: 0,
     ragChunks: 435012,
     feedbackSatisfaction: "—",
     avgResponseTime: "—",
@@ -119,6 +120,7 @@ export default function App() {
   const [pipelineStatus, setPipelineStatus] = useState<PipelineStatus>(IDLE_PIPELINE_STATUS);
   const [docLibraryRefreshKey, setDocLibraryRefreshKey] = useState(0);
   const [dashboardStats, setDashboardStats] = useState<DashboardStats>(EMPTY_DASHBOARD_STATS);
+  const [uploadStatus, setUploadStatus] = useState<UploadStatus>(IDLE_UPLOAD_STATUS);
   const [availableModels, setAvailableModels] = useState<ModelChoice[]>([
     { key: "primary", label: "Modèle principal" },
   ]);
@@ -240,6 +242,54 @@ export default function App() {
       .catch(() => {
         handleAddLog("Impossible de demarrer le pipeline (backend indisponible)", "error");
         setPipelineStatus((prev) => ({ ...prev, status: "error", error: "Backend indisponible" }));
+      });
+  };
+
+  // Import manuel d'un document (bouton "Importer un document" du dashboard
+  // admin) : envoi du fichier, puis suivi de l'extraction/chunking/embeddings
+  // cote backend jusqu'a ce que le document soit reellement interrogeable.
+  const pollUploadStatus = (uploadId: string) => {
+    const interval = setInterval(() => {
+      fetch(`/api/admin/upload/${uploadId}/status`)
+        .then((r) => (r.ok ? r.json() : null))
+        .then((data) => {
+          if (!data) return;
+          if (data.status === "done") {
+            clearInterval(interval);
+            setUploadStatus({ status: "done", filename: data.filename, documentId: data.document_id, chunks: data.chunks, error: null });
+            fetchHealthMetrics();
+            fetchDashboardStats();
+            setDocLibraryRefreshKey((k) => k + 1);
+            handleAddLog(`Document importé : ${data.filename} (${data.chunks} chunks)`, "success");
+          } else if (data.status === "error") {
+            clearInterval(interval);
+            setUploadStatus({ status: "error", filename: data.filename, documentId: null, chunks: 0, error: data.error });
+            handleAddLog(`Import échoué (${data.filename}) : ${data.error}`, "error");
+          }
+        })
+        .catch(() => {});
+    }, 3000);
+  };
+
+  const startUpload = (file: File) => {
+    setUploadStatus({ status: "uploading", filename: file.name, documentId: null, chunks: 0, error: null });
+    const formData = new FormData();
+    formData.append("file", file);
+    fetch("/api/admin/upload", { method: "POST", body: formData })
+      .then(async (r) => {
+        if (!r.ok) {
+          const err = await r.json().catch(() => ({}));
+          throw new Error(err.detail || "Échec de l'import");
+        }
+        return r.json();
+      })
+      .then((data) => {
+        setUploadStatus((prev) => ({ ...prev, status: "processing" }));
+        pollUploadStatus(data.upload_id);
+      })
+      .catch((err: Error) => {
+        setUploadStatus({ status: "error", filename: file.name, documentId: null, chunks: 0, error: err.message });
+        handleAddLog(`Import échoué (${file.name}) : ${err.message}`, "error");
       });
   };
 
@@ -448,15 +498,6 @@ export default function App() {
       });
   };
 
-  const handleUploadDocument = (newDoc: Document) => {
-    setDocuments((prev) => [newDoc, ...prev]);
-    // Incremente le compteur reel (issu de /api/health) au lieu de le
-    // recalculer depuis la longueur du tableau local `documents` (qui demarre
-    // sur des donnees d'exemple et ecraserait sinon le vrai total backend).
-    setMetrics((prev) => ({ ...prev, documentsIndexed: prev.documentsIndexed + 1 }));
-    handleAddLog("Document indexe : " + newDoc.title.substring(0, 30), "success");
-  };
-
   return (
     <div className="min-h-screen flex flex-col bg-[#f8f9fa] pt-16">
       <AnimatePresence>
@@ -506,7 +547,6 @@ export default function App() {
 
         <div className={currentTab === "bibliotheque" ? "" : "hidden"}>
           <DocumentLibrary
-            onUploadDocument={handleUploadDocument}
             onAskDocInChat={(t, docId) => { setSuggestedPrompt(t); setSuggestedDocumentId(docId); setTab("chat"); }}
             preSelectedType={preSelectedDocType}
             setPreSelectedType={setPreSelectedDocType}
@@ -523,6 +563,8 @@ export default function App() {
             pipelineStatus={pipelineStatus}
             onStartPipeline={startPipeline}
             stats={dashboardStats}
+            uploadStatus={uploadStatus}
+            onUploadDocument={startUpload}
           />
         </div>
       </main>

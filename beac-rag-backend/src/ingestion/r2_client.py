@@ -16,7 +16,7 @@ import os
 import tempfile
 from pathlib import Path
 from typing import Iterator
-from urllib.parse import unquote
+from urllib.parse import quote, unquote
 
 import boto3
 from botocore.client import Config
@@ -76,6 +76,26 @@ def generate_presigned_view_url(
         },
         ExpiresIn=expires_in,
     )
+
+
+def upload_file(local_path: Path, key: str, content_type: str, metadata: dict[str, str | None]) -> None:
+    """Uploade un fichier local vers R2 sous `key`.
+
+    Les valeurs de metadata sont percent-encodees (meme convention que le
+    scraper, cf. `decode_metadata`) pour rester ASCII-safe ; les entrees a
+    None sont omises. Utilise par l'import manuel de documents (dashboard
+    admin) - le scraper, lui, uploade directement depuis son propre projet.
+    """
+    client = _client()
+    encoded_meta = {k: quote(str(v), safe="") for k, v in metadata.items() if v}
+    with open(local_path, "rb") as f:
+        client.put_object(
+            Bucket=settings.r2_bucket_name,
+            Key=key,
+            Body=f,
+            ContentType=content_type,
+            Metadata=encoded_meta,
+        )
 
 
 @contextlib.contextmanager

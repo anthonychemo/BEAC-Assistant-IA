@@ -1,13 +1,12 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { Document } from "../types";
-import { Search, SearchCode, Eye, FileText, Upload, Sparkles, Database, ChevronLeft, ChevronRight as ChevronRightIcon, Loader2, WifiOff, X, ArrowDownAZ, ArrowUpAZ } from "lucide-react";
+import { Search, SearchCode, Eye, FileText, Sparkles, Database, ChevronLeft, ChevronRight as ChevronRightIcon, Loader2, WifiOff, X, ArrowDownAZ, ArrowUpAZ } from "lucide-react";
 
 const PAGE_SIZE = 50;
 
 type SortOrder = "recent" | "oldest";
 
 interface DocumentLibraryProps {
-  onUploadDocument: (doc: Document) => void;
   onAskDocInChat: (text: string, documentId?: string) => void;
   preSelectedType: string | null;
   setPreSelectedType: (type: string | null) => void;
@@ -17,7 +16,6 @@ interface DocumentLibraryProps {
 }
 
 export default function DocumentLibrary({
-  onUploadDocument,
   onAskDocInChat,
   preSelectedType,
   setPreSelectedType,
@@ -27,8 +25,6 @@ export default function DocumentLibrary({
   const [selectedType, setSelectedType] = useState<string>("Tous");
   const [selectedCountry, setSelectedCountry] = useState<string>("Tous");
   const [sortOrder, setSortOrder] = useState<SortOrder>("recent");
-  const [isDragging, setIsDragging] = useState(false);
-  const [uploadStatus, setUploadStatus] = useState<string>("");
 
   // Pagination & data
   const [documents, setDocuments] = useState<Document[]>([]);
@@ -132,50 +128,6 @@ export default function DocumentLibrary({
     setSelectedCountry("Tous");
     setSortOrder("recent");
     setPage(0);
-  };
-
-  const handleDragOver = (e: React.DragEvent) => {
-    e.preventDefault();
-    setIsDragging(true);
-  };
-
-  const handleDragLeave = () => {
-    setIsDragging(false);
-  };
-
-  const processUploadedFile = (name: string) => {
-    const newDoc: Document = {
-      id: `doc-uploaded-${Date.now()}`,
-      title: name.replace(/\.[^/.]+$/, ""), // remove extension
-      type: "Import local",
-      fileType: name.split(".").pop()?.toUpperCase() || "PDF",
-      date: new Date().toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" }),
-      description: "Ce document a été importé par l'utilisateur. Il est temporairement archivé en mémoire locale pour cette session (non envoyé au backend).",
-      country: null,
-      year: new Date().getFullYear(),
-      url: "#"
-    };
-
-    setUploadStatus("Analyse du document...");
-    setTimeout(() => {
-      onUploadDocument(newDoc);
-      setUploadStatus("Indexation complétée !");
-      setTimeout(() => setUploadStatus(""), 2000);
-    }, 1500);
-  };
-
-  const handleDrop = (e: React.DragEvent) => {
-    e.preventDefault();
-    setIsDragging(false);
-    if (e.dataTransfer.files && e.dataTransfer.files[0]) {
-      processUploadedFile(e.dataTransfer.files[0].name);
-    }
-  };
-
-  const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    if (e.target.files && e.target.files[0]) {
-      processUploadedFile(e.target.files[0].name);
-    }
   };
 
   const docTypes: string[] = ["Tous", ...categories];

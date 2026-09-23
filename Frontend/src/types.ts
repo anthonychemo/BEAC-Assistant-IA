@@ -80,3 +80,14 @@ export interface PipelineStatus {
   error: string | null;
   log_tail: string[];
 }
+
+// Etat de l'import manuel d'un document (bouton "Importer un document" du
+// dashboard admin) : "uploading" pendant l'envoi du fichier, "processing"
+// pendant l'extraction/chunking/embeddings cote backend (GET /api/admin/upload/{id}/status).
+export interface UploadStatus {
+  status: "idle" | "uploading" | "processing" | "done" | "error";
+  filename: string | null;
+  documentId: number | null;
+  chunks: number;
+  error: string | null;
+}
